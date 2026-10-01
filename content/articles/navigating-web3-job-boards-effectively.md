@@ -4,7 +4,7 @@ ogTitle: "EFFECTIVELY WORK THROUGH WEB3 JOB BOARDS GUIDE"
 description: >-
   A strategic guide to using Web3 job boards. Learn how to filter out the noise,
   identify high-quality opportunities, and prepare as a top candidate.
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 category: Career Guides
 data-ai-hint: man searching laptop
 publishedDate: '2026-03-11'

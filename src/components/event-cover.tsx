@@ -1,7 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import Image from 'next/image';
+import { ResponsiveImage } from './responsive-image';
+import { containedEventImageSizes, type ResponsiveImagePlan } from '@/lib/responsive-images';
 
 function isRealEventPoster(src?: string | null): src is string {
   const value = (src || '').trim();
@@ -52,9 +53,11 @@ export function EventCardImage({
 export function EventHeroImage({
   src,
   name,
+  imageVariants,
 }: {
   src?: string | null;
   name: string;
+  imageVariants?: ResponsiveImagePlan;
 }) {
   const posterSrc = isRealEventPoster(src) ? src : null;
   const [failed, setFailed] = useState(false);
@@ -70,14 +73,16 @@ export function EventHeroImage({
   return (
     <div className={EVENT_HERO_FRAME_CLASS}>
       {useNext ? (
-        <Image
+        <ResponsiveImage
           src={posterSrc}
+          variants={imageVariants}
           alt={name}
-          width={1600}
-          height={900}
+          width={imageVariants?.width || 1600}
+          height={imageVariants?.height || 900}
           className={EVENT_HERO_IMAGE_CLASS}
-          sizes="(max-width: 640px) calc(100vw - 2rem), (max-width: 1280px) 1152px, 1152px"
-          priority
+          sizes={containedEventImageSizes(imageVariants)}
+          loading="eager"
+          fetchPriority="high"
           onError={() => setFailed(true)}
         />
       ) : (

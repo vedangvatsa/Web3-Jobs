@@ -2,7 +2,7 @@
 title: SEC Issues Five-Year Exemption for Tokenized Stock Venues
 ogTitle: "SEC ISSUES FIVE-YEAR EXEMPTION FOR TOKENIZED STOCK VENUES"
 description: The SEC granted a five-year exemption on Sept. 17, 2026 letting tokenized securities venues trade tokenized stocks through automated market makers without registering as exchanges, while excluding synthetic tokens.
-image: /images/news/sec-exemption.jpg
+image: /images/news/sec-exemption.webp
 imageCaption: "Glass facade and street lamps at the U.S. Securities and Exchange Commission headquarters in Washington, D.C. Photo: David via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade_of_the_U.S._Securities_and_Exchange_Commission_headquarters%2C_Washington%2C_D.C.jpg
 category: News

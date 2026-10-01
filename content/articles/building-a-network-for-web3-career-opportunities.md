@@ -1,7 +1,7 @@
 ---
 title: Building a Network for Web3 Career Opportunities
 ogTitle: "BUILDING A NETWORK FOR WEB3 CAREER OPPORTUNITIES"
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 data-ai-hint: business people networking
 description: >-
   In Web3, your network is your net worth. This guide provides actionable

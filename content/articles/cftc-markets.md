@@ -2,7 +2,7 @@
 title: CFTC Sends Crypto Market Rulemaking to White House Review
 ogTitle: "CFTC SENDS CRYPTO MARKET RULEMAKING TO WHITE HOUSE REVIEW"
 description: The CFTC sent a prerule action titled "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets" to White House review on Sept. 17, 2026, days after the Senate blocked the Clarity Act.
-image: /images/news/cftc-markets.jpg
+image: /images/news/cftc-markets.webp
 imageCaption: "The White House lawn in Washington, D.C. Photo: Daniel Schwen via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:White%20House%20lawn.jpg
 category: News

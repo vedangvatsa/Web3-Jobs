@@ -4,7 +4,7 @@ ogTitle: "FIRST BITCOIN TRANSACTION DAY EXPLAINED"
 description: >-
   On January 12, 2009, Satoshi Nakamoto sent 10 BTC to Hal Finney, marking the
   first-ever peer-to-peer transaction on the Bitcoin network. We explore the.
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 category: Industry Insights
 data-ai-hint: bitcoin transaction
 publishedDate: '2026-03-11'

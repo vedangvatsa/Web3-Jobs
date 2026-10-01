@@ -1,6 +1,7 @@
 import { ChevronDown } from 'lucide-react';
 import Link from 'next/link';
-import Image from 'next/image';
+import { ResponsiveImage } from './responsive-image';
+import { getImageVariants } from '@/lib/responsive-images-server';
 import Script from 'next/script';
 import type { SiteNavigationElement, WithContext } from 'schema-dts';
 import {
@@ -22,6 +23,7 @@ import {
 } from '@/lib/nav-config';
 
 export function Header() {
+  const logoVariants = getImageVariants('/logo/HashtagWeb3.png');
   const siteUrl = 'https://hashtagweb3.com';
   const navigationSchema: WithContext<SiteNavigationElement> = {
     '@context': 'https://schema.org',
@@ -44,14 +46,17 @@ export function Header() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(navigationSchema) }}
       />
       <div className="site-container flex h-14 items-center justify-between gap-2 lg:grid lg:grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] lg:gap-6">
-        <Link href="/" className="flex min-h-11 shrink-0 items-center justify-self-start rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" aria-label="Hashtag Web3 Homepage">
-          <Image
+        <Link href="/" prefetch={false} className="flex min-h-11 shrink-0 items-center justify-self-start rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" aria-label="Hashtag Web3 Homepage">
+          <ResponsiveImage
             src="/logo/HashtagWeb3.png"
+            variants={logoVariants}
+            sizes="72px"
             alt="Hashtag Web3 Logo"
             width={144}
             height={48}
             className="h-6 w-[72px] object-contain dark:invert"
-            priority
+            loading="eager"
+            fetchPriority="high"
           />
         </Link>
 
@@ -62,7 +67,8 @@ export function Header() {
           {MAIN_NAV_LINKS.map((link) => (
             <Link
               key={link.label}
-              href={link.href}
+               href={link.href}
+               prefetch={false}
               className="inline-flex min-h-11 items-center rounded-sm text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
             >
               {link.label}
@@ -83,7 +89,7 @@ export function Header() {
                 const IconComponent = link.icon;
                 return (
                   <DropdownMenuItem key={link.label} asChild>
-                    <Link href={link.href} className="flex items-center gap-2">
+                    <Link href={link.href} prefetch={false} className="flex items-center gap-2">
                       {IconComponent && <IconComponent className="h-4 w-4 text-muted-foreground" />}
                       {link.label}
                     </Link>
@@ -96,7 +102,7 @@ export function Header() {
                 const IconComponent = link.icon;
                 return (
                   <DropdownMenuItem key={link.label} asChild>
-                    <Link href={link.href} className="flex items-center gap-2">
+                    <Link href={link.href} prefetch={false} className="flex items-center gap-2">
                       {IconComponent && <IconComponent className="h-4 w-4 text-muted-foreground" />}
                       {link.label}
                     </Link>
@@ -109,7 +115,7 @@ export function Header() {
                 const IconComponent = link.icon;
                 return (
                   <DropdownMenuItem key={link.label} asChild>
-                    <Link href={link.href} className="flex items-center gap-2">
+                    <Link href={link.href} prefetch={false} className="flex items-center gap-2">
                       {IconComponent && <IconComponent className="h-4 w-4 text-muted-foreground" />}
                       {link.label}
                     </Link>
@@ -125,7 +131,7 @@ export function Header() {
             <PostNavCta />
           </div>
           <div className="lg:hidden">
-            <MobileNav />
+            <MobileNav logoVariants={logoVariants} />
           </div>
         </div>
       </div>

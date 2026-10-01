@@ -37,6 +37,13 @@ export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
 
 const NON_ARTICLE_MARKDOWN = new Set(['AGENTS.md', 'README.md']);
 
+/** Historical share URLs block new minting without evicting their current owner. */
+export function loadPublishedRootSlugsSync(): Set<string> {
+  const directory = path.join(process.cwd(), 'public/preview');
+  if (!fs.existsSync(directory)) return new Set();
+  return new Set(fs.readdirSync(directory).filter(name => name.endsWith('.html')).map(name => name.slice(0, -5).toLowerCase()));
+}
+
 function markdownSlugsInDir(dir: string): string[] {
   if (!fs.existsSync(dir)) return [];
   return fs
@@ -123,20 +130,21 @@ const COMPANY_ROOT_ALIASES: readonly string[] = [
 ];
 
 function eventSlugsFromCache(): string[] {
-  const cachePath = path.join(process.cwd(), 'content', 'events', 'sources', 'events-cache.json');
-  if (!fs.existsSync(cachePath)) return [];
-  try {
-    const events = JSON.parse(fs.readFileSync(cachePath, 'utf-8')) as Array<{ slug?: string; name?: string }>;
-    if (!Array.isArray(events)) return [];
-    return events
-      .map((event) =>
-        getEventSlug({ name: event.name ?? '', slug: event.slug }),
-      )
-      .map((slug) => slug.toLowerCase().trim())
-      .filter(Boolean);
-  } catch {
-    return [];
+  const slugs = new Set<string>();
+  for (const relative of ['content/events-runtime.json', 'content/event-slug-history.json', 'content/events/sources/events-cache.json']) {
+    const file = path.join(process.cwd(), relative);
+    if (!fs.existsSync(file)) continue;
+    const parsed = JSON.parse(fs.readFileSync(file, 'utf8'));
+    const events = Array.isArray(parsed) ? parsed : Object.values(parsed);
+    for (const event of events as Array<{ slug?: string; name?: string; aliases?: string[] }>) {
+      const candidates = [getEventSlug({ name: event.name ?? '', slug: event.slug }), ...(event.aliases || [])];
+      for (const value of candidates) {
+        const slug = value.toLowerCase().trim();
+        if (/^[a-z0-9][a-z0-9_-]*$/.test(slug)) slugs.add(slug);
+      }
+    }
   }
+  return [...slugs];
 }
 
 /**

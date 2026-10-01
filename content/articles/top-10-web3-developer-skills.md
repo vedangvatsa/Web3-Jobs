@@ -1,7 +1,7 @@
 ---
 title: Top 10 Skills for Web3 Developer Roles
 ogTitle: "TOP 10 SKILLS FOR WEB3 DEVELOPER ROLES"
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 data-ai-hint: essential skills list
 description: >-
   A ten-part Web3 engineering checklist covering Solidity, security, testing,

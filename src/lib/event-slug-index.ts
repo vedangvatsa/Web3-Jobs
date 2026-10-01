@@ -14,7 +14,7 @@ export function buildEventSlugIndex(events: Web3Event[]): Map<string, Web3Event>
   for (const event of events) {
     for (const alias of event.aliases || []) {
       const key = alias.toLowerCase().trim();
-      if (/^[a-z0-9-]+$/.test(key) && !index.has(key)) index.set(key, event);
+      if (/^[a-z0-9][a-z0-9_-]*$/.test(key) && !index.has(key)) index.set(key, event);
     }
   }
   return index;

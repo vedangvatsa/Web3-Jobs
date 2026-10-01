@@ -1,7 +1,7 @@
 ---
 title: Web3 Business Development Career Guide
 ogTitle: "WEB3 BUSINESS DEVELOPMENT CAREER GUIDE"
-image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
+image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.webp
 data-ai-hint: business development crypto
 description: >-
   A career guide to Web3 BizDev covering protocol-led sales, partnership

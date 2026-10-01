@@ -1,7 +1,7 @@
 ---
 title: Crypto ETFs
 ogTitle: "CRYPTO ETFS EXPLAINED"
-image: /images/pietro-jeng-n6B49lTx7NM-unsplash.jpg
+image: /images/pietro-jeng-n6B49lTx7NM-unsplash.webp
 data-ai-hint: crypto etf fund
 description: >-
   A deep technical and financial guide to spot and futures crypto ETFs, covering institutional custody architecture, cash creation mechanics, and market impacts.

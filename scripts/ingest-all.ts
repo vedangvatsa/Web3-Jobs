@@ -4,6 +4,7 @@ import https from 'https';
 import { execSync, execFileSync } from 'child_process';
 import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
 import { getJobContentKey } from '../src/lib/job-slugs';
+import { getAshbySalary } from './lib/ashby-salary';
 import { ingestYZiLabs } from './ingest-yzilabs';
 import {
   buildJobDescriptionAliases,
@@ -143,12 +144,12 @@ function findLegacySlug(id: string, link?: string): string | undefined {
 async function ingestAshbySimple(company: string, slug: string, defaultLoc: string, cacheData: any[], descData: Record<string, string>): Promise<void> {
   try {
     const encodedSlug = encodeURI(decodeURI(slug));
-    const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodedSlug}`);
+    const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodedSlug}?includeCompensation=true`, { signal: AbortSignal.timeout(30_000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const json = await res.json() as any;
     let added = 0, updated = 0;
     for (const j of (json.jobs || [])) {
-      if (!isConcreteJobOpening(j.title, j.jobUrl)) continue;
+      if (j.isListed === false || !isConcreteJobOpening(j.title, j.jobUrl)) continue;
       const existingSlug = findLegacySlug(j.id, j.jobUrl);
       const job = {
         id: j.id, title: j.title.trim(), company,
@@ -157,6 +158,8 @@ async function ingestAshbySimple(company: string, slug: string, defaultLoc: stri
         source: `Ashby: ${company} [${slug}]`,
         location: j.location || (j.secondaryLocations?.length ? j.secondaryLocations.join(', ') : defaultLoc),
         department: j.department || j.team || 'Engineering', active: true,
+        ...(getAshbySalary(j.compensation) && { salary: getAshbySalary(j.compensation) }),
+        ...(j.applyUrl && { applyUrl: j.applyUrl }),
         slug: existingSlug || `role${j.id.replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase()}`
       };
       const r = upsertJob(cacheData, job);
@@ -620,6 +623,7 @@ async function main() {
   await ingestAshbySimple('Hyperliquid Labs',   'Hyperliquid%20Labs',    'APAC / Remote',          cacheData, descData);
   await ingestAshbySimple('Solana Foundation',  'Solana%20Foundation',   'Remote / Global',        cacheData, descData);
   await ingestAshbySimple('Solana Labs',        'solanalabs',            'San Francisco / Remote', cacheData, descData);
+  await ingestAshbySimple('Open Standard',      'openstandard',          'San Francisco',          cacheData, descData);
 
   console.log('\n--- Single-company Greenhouse boards ---');
   await ingestGreenhouse('Digital Asset',       'digitalassetcorp',      'New York City / Remote', cacheData, descData);

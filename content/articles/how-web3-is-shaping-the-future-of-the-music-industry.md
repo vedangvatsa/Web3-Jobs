@@ -1,7 +1,7 @@
 ---
 title: Web3 and the Music Industry
 ogTitle: "HOW WEB3 IS SHAPING THE FUTURE OF THE MUSIC INDUSTRY"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: music industry future
 description: >-
   From NFT royalties to fan-owned record labels, explore how Web3 is set to

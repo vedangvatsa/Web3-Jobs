@@ -1,7 +1,7 @@
 ---
 title: Why Crypto Developers Are Leaving Some Chains
 ogTitle: "CRYPTO DEVELOPERS ARE LEAVING SOME CHAINS"
-image: /images/thisisengineering-64YrPKiguAE-unsplash.jpg
+image: /images/thisisengineering-64YrPKiguAE-unsplash.webp
 data-ai-hint: developer leaving
 description: >-
   An analysis of the 'great migration' in Web3 development. We explore the

@@ -1,7 +1,7 @@
 ---
 title: Web3 Customer Support Careers
 ogTitle: "WEB3 CUSTOMER SUPPORT CAREERS"
-image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
+image: /images/bruce-mars-FWVMhUa_wbY-unsplash.webp
 data-ai-hint: customer support headset
 description: >-
   A guide to building a career in Web3 customer support. Learn how the role

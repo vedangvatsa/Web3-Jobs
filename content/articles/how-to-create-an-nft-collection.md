@@ -1,7 +1,7 @@
 ---
 title: 'How to Create an NFT Collection'
 ogTitle: "CREATE AN NFT COLLECTION GUIDE"
-image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
+image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.webp
 data-ai-hint: nft collection creation
 description: >-
   A practical guide to creating an NFT collection in 2026. Learn how collections

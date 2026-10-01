@@ -1,7 +1,7 @@
 ---
 title: How Web3 Is Changing Logistics
 ogTitle: "HOW WEB3 IS CHANGING LOGISTICS"
-image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
+image: /images/thisisengineering-32PpagSzeGs-unsplash.webp
 data-ai-hint: logistics supply chain
 description: >-
   A deep dive into how blockchain technology is being applied to the logistics

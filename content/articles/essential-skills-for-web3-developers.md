@@ -4,7 +4,7 @@ ogTitle: "10 ESSENTIAL SKILLS FOR WEB3 DEVELOPERS IN 2026"
 description: >-
   A detailed look at the 10 essential skills every Web3 developer needs to
   succeed in 2026, from Solidity mastery to understanding DeFi primitives.
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 category: Career Guides
 data-ai-hint: man coding desk
 publishedDate: '2026-03-11'

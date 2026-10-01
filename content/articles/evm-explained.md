@@ -1,7 +1,7 @@
 ---
 title: The Ethereum Virtual Machine
 ogTitle: "WHAT THE ETHEREUM VIRTUAL MACHINE IS AND HOW IT WORKS"
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 data-ai-hint: ethereum virtual machine
 description: >-
   The Ethereum Virtual Machine is the sandboxed runtime that executes smart

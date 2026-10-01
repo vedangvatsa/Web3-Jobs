@@ -2,7 +2,7 @@
 title: ESMA makes AI and tokenization a supervisory priority for 2027
 ogTitle: "ESMA SETS AI AND TOKENIZATION SUPERVISION PRIORITY"
 description: EU supervisors will map client-facing uses of AI and tokenization and begin checks on selected firms, alongside wider digital-resilience supervision of crypto service providers.
-image: /images/news/esma-eu.jpg
+image: /images/news/esma-eu.webp
 imageCaption: "European Commission representation office with EU flags in Paris. Photo: Richardprins via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Representation_Europeenne_Paris.jpg
 category: News

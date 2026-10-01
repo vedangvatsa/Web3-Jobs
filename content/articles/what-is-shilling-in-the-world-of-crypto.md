@@ -1,7 +1,7 @@
 ---
 title: "What Is 'Shilling' in Crypto?"
 ogTitle: "'SHILLING' IN THE WORLD OF CRYPTO? A GUIDE TO PROMOTION AND"
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 description: >-
   An in-depth look at the crypto term 'shilling,' explaining what it is, who
   does it, how to spot it, and the fine line between genuine enthusiasm and

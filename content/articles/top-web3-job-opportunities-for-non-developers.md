@@ -1,7 +1,7 @@
 ---
 title: Top Web3 Job Opportunities for Non-Developers
 ogTitle: "TOP WEB3 JOB OPPORTUNITIES FOR NON-DEVELOPERS"
-image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
+image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.webp
 data-ai-hint: team meeting collaboration
 description: >-
   You don't need to code to thrive in Web3. This guide breaks down the most

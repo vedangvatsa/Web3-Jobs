@@ -1,7 +1,7 @@
 ---
 title: Web3's Impact on Corporate Structures
 ogTitle: "WEB3'S IMPACT ON CORPORATE STRUCTURES"
-image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
+image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.webp
 data-ai-hint: corporate building structure
 description: >-
   An exploration of how Web3 technologies like DAOs are challenging traditional

@@ -251,6 +251,8 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'xhunt': 'https://xhunt.ai',
  'wincent': 'https://wincent.io',
  'moonpay': 'https://moonpay.com',
+ 'mercuryo': 'https://mercuryo.io',
+ 'open-standard': 'https://joinopenstandard.com',
  'transak': 'https://transak.com',
  'aspora': 'https://www.aspora.com',
  'augustus': 'https://augustus.com',

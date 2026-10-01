@@ -1,7 +1,7 @@
 ---
 title: Top Web3 Hashtags
 ogTitle: "TOP WEB3 HASHTAGS AND HOW TO USE THEM"
-image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
+image: /images/thisisengineering-83udtzyaTS4-unsplash.webp
 data-ai-hint: social media hashtags
 description: >-
   Organize Web3 hashtags into foundational, narrative, and cultural tiers, then

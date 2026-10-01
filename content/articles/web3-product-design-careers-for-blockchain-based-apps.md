@@ -1,7 +1,7 @@
 ---
 title: Web3 Product Design Careers
 ogTitle: "WEB3 PRODUCT DESIGN CAREERS FOR BLOCKCHAIN-BASED APPS"
-image: /images/pietro-jeng-n6B49lTx7NM-unsplash.jpg
+image: /images/pietro-jeng-n6B49lTx7NM-unsplash.webp
 data-ai-hint: web3 product design
 description: >-
   Explore product design careers for blockchain apps, including dApp usability

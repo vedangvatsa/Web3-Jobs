@@ -1,7 +1,7 @@
 ---
 title: How to Research a Blockchain Startup
 ogTitle: "RESEARCH A BLOCKCHAIN STARTUP BEFORE YOU JOIN GUIDE"
-image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.webp
 data-ai-hint: research analysis magnifying glass
 description: >-
   A guide for job seekers on how to perform due diligence on a Web3 startup.

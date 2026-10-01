@@ -5,6 +5,7 @@ import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import {
   buildJobOgImageUrl,
+  buildCompanyOgImageUrl,
   buildDefaultOgImageUrl,
   STATIC_OG,
   resolveEventOgImageUrl,
@@ -28,6 +29,9 @@ export type OgPreviewMeta = {
   description: string;
   ogImageUrl: string;
   canonicalUrl: string;
+  ogImageWidth?: number;
+  ogImageHeight?: number;
+  ogImageType?: string;
 };
 
 /** CDN path for a crawler HTML shell, e.g. `/` → `/preview/index.html`. */
@@ -38,7 +42,7 @@ export function previewAssetPath(contentPath: string): string {
 }
 
 export function buildOgPreviewHtml(meta: OgPreviewMeta): string {
-  const ogImageType = eventOgImageMimeType(meta.ogImageUrl);
+  const ogImageType = meta.ogImageType || eventOgImageMimeType(meta.ogImageUrl);
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,8 +57,8 @@ export function buildOgPreviewHtml(meta: OgPreviewMeta): string {
 <meta property="og:url" content="${escHtml(meta.canonicalUrl)}"/>
 <meta property="og:image" content="${escHtml(meta.ogImageUrl)}"/>
 <meta property="og:image:secure_url" content="${escHtml(meta.ogImageUrl)}"/>
-<meta property="og:image:width" content="1200"/>
-<meta property="og:image:height" content="630"/>
+<meta property="og:image:width" content="${meta.ogImageWidth || 1200}"/>
+<meta property="og:image:height" content="${meta.ogImageHeight || 630}"/>
 <meta property="og:image:type" content="${escHtml(ogImageType)}"/>
 <meta property="og:image:alt" content="${escHtml(meta.title)}"/>
 <meta name="twitter:card" content="summary_large_image"/>
@@ -263,7 +267,7 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
         return {
           title: `${company.name} Jobs | ${SITE_NAME}`,
           description: `Open Web3 roles at ${company.name} on Hashtag Web3.`,
-          ogImageUrl: STATIC_OG.companies,
+          ogImageUrl: buildCompanyOgImageUrl(company),
           canonicalUrl: `${SITE_URL}/${slug}`,
         };
       }
@@ -326,6 +330,9 @@ export async function collectOgPreviewPaths(): Promise<string[]> {
   }
   for (const event of events) {
     paths.add(`/${getEventSlug(event)}`);
+    for (const alias of event.aliases || []) {
+      if (/^[a-z0-9][a-z0-9_-]*$/i.test(alias)) paths.add(`/${alias}`);
+    }
   }
   for (const term of terms) {
     if (term.slug) {

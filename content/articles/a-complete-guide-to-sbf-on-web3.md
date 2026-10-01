@@ -4,7 +4,7 @@ ogTitle: "SBF IN WEB3"
 description: >-
   Explore the complex and controversial history of Sam Bankman-Fried (SBF) in
   the Web3 space. From the rise of FTX and Alameda Research to their dramatic.
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man portrait
 publishedDate: '2026-03-11'

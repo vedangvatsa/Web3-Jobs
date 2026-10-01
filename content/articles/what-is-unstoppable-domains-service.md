@@ -1,7 +1,7 @@
 ---
 title: "What Is Unstoppable Domains?"
 ogTitle: "UNSTOPPABLE DOMAINS SERVICE TECHNICAL ARCHITECTURE REGISTRY"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: domain name
 description: A comprehensive technical guide to Unstoppable Domains, exploring Polygon ERC-721 domain contracts, multi-chain address resolution SDKs, IPFS decentralized website hosting, and single sign-on authentication models.
 category: Educational

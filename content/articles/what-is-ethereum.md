@@ -1,7 +1,7 @@
 ---
 title: "What Is Ethereum?"
 ogTitle: "ETHEREUM? THE WORLD COMPUTER EXPLAINED"
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 data-ai-hint: ethereum network
 description: >-
   A full guide to Ethereum, the decentralized, open-source blockchain that

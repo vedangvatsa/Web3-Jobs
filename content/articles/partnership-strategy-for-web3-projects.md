@@ -1,7 +1,7 @@
 ---
 title: 'The Art of the Deal'
 ogTitle: "THE ART OF THE DEAL"
-image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+image: /images/alex-knight-2EJCSULRwC8-unsplash.webp
 data-ai-hint: partnership handshake deal
 description: >-
   In the composable world of Web3, partnerships are essential. This guide

@@ -1,7 +1,7 @@
 ---
 title: Best Web3 Job Boards for Crypto Careers
 ogTitle: "THE BEST WEB3 JOB BOARDS TO KICKSTART YOUR CRYPTO CAREER"
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 data-ai-hint: job search list
 description: >-
   Discover top platforms for finding Web3 jobs across product, engineering, and

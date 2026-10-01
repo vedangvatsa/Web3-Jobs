@@ -2,7 +2,7 @@
 title: S&P Global Agrees to Acquire OpenZeppelin
 ogTitle: "S&P GLOBAL AGREES TO ACQUIRE OPENZEPPELIN"
 description: S&P Global said on Sept. 17, 2026 it agreed to acquire smart-contract security firm OpenZeppelin, whose open-source library underpins more than $37 trillion in transfers, with terms undisclosed.
-image: /images/news/openzeppelin-acquisition.jpg
+image: /images/news/openzeppelin-acquisition.webp
 imageCaption: "The Financial District of New York City. Photo: Patrick Nouhailler via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_Financial_District_of_New_York_City_-_panoramio_(6).jpg
 category: News

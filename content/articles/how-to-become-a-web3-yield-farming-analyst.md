@@ -1,7 +1,7 @@
 ---
 title: How to Become a Web3 Yield Farming Analyst
 ogTitle: "BECOME A WEB3 YIELD FARMING ANALYST GUIDE"
-image: /images/javier-quesada-qYfwGVNJqSA-unsplash.jpg
+image: /images/javier-quesada-qYfwGVNJqSA-unsplash.webp
 data-ai-hint: crypto yield data
 description: >-
   A career guide for the emerging role of Yield Farming Analyst. Learn the

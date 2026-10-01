@@ -5,7 +5,7 @@ import {
   getJobIdentity,
   type LegacySlugRecord,
 } from '../../src/lib/job-slugs';
-import { loadReservedRootSlugsSync } from '../../src/lib/reserved-root-slugs';
+import { loadPublishedRootSlugsSync, loadReservedRootSlugsSync } from '../../src/lib/reserved-root-slugs';
 import type { Job } from '../../src/types';
 
 export const JOB_LEGACY_ARCHIVE_PATH = path.join(
@@ -55,6 +55,7 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
   const archive = loadJobLegacyArchive();
   const reservedRoot = loadReservedRootSlugsSync();
   const curIdentities = new Set(jobs.map((job) => getJobIdentity(job)));
+  const beforeByIdentity = new Map(jobs.map((job) => [getJobIdentity(job), job.slug || '']));
 
   // Preserve stable slugs from git HEAD and retire vanished jobs into legacy archive
   let headRetiredCount = 0;
@@ -83,9 +84,9 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
     }
     for (const job of jobs) {
       const prevSlug = headSlugByIdentity.get(getJobIdentity(job));
-      if (prevSlug) {
+      if (prevSlug && !reservedRoot.has(prevSlug.toLowerCase())) {
         job.slug = prevSlug;
-      } else {
+      } else if (!job.slug) {
         job.slug = '';
       }
     }
@@ -93,8 +94,7 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
     // Git HEAD unavailable; keep existing job.slug
   }
 
-  const beforeByIdentity = new Map(jobs.map((job) => [getJobIdentity(job), job.slug || '']));
-  const legacyEntriesAdded = assignJobSlugsAndSyncLegacyArchive(jobs, archive, reservedRoot);
+  const legacyEntriesAdded = assignJobSlugsAndSyncLegacyArchive(jobs, archive, reservedRoot, loadPublishedRootSlugsSync());
   const reminted = jobs.filter(
     (job) => (job.slug || '') !== (beforeByIdentity.get(getJobIdentity(job)) || ''),
   ).length;

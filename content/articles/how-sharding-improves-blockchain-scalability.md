@@ -1,7 +1,7 @@
 ---
 title: How Sharding Improves Blockchain Scalability
 ogTitle: "HOW SHARDING IMPROVES BLOCKCHAIN SCALABILITY"
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 data-ai-hint: blockchain network scalability
 description: >-
   A deep dive into sharding, a powerful technique for improving blockchain

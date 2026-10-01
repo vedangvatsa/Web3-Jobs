@@ -1,7 +1,7 @@
 ---
 title: Combining Business and Leisure Abroad
 ogTitle: "COMBINING BUSINESS AND LEISURE WHILE WORKING GLOBALLY"
-image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
+image: /images/george-prentzas-SRFG7iwktDk-unsplash.webp
 data-ai-hint: travel work leisure
 description: >-
   A guide to mastering the art of 'bleisure' travel. Learn how to stay

@@ -8,6 +8,7 @@ import { DetailPageHeader } from '@/components/detail-page-header';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
 import { cleanJobLocation, getPrimaryJobLocation } from '@/lib/job-location';
+import { getImageVariants } from '@/lib/responsive-images-server';
 
 interface JobDetailViewProps {
   job: Job;
@@ -410,6 +411,7 @@ export function JobDetailView({
         icon={
             <CompanyLogo
               logoSrc={logoSrc ?? faviconUrl}
+              imageVariants={getImageVariants(logoSrc ?? faviconUrl)}
               faviconUrl={faviconUrl}
               name={job.company}
               size="h-full w-full"

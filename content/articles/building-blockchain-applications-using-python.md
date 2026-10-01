@@ -1,7 +1,7 @@
 ---
 title: Building Blockchain Applications Using Python
 ogTitle: "BUILDING BLOCKCHAIN APPLICATIONS USING PYTHON"
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 data-ai-hint: python code blockchain
 description: >-
   A developer's guide to using Python for blockchain and Web3 development. Learn

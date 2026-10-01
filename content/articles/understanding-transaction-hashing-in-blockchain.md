@@ -1,7 +1,7 @@
 ---
 title: Transaction Hashing in Blockchain
 ogTitle: "UNDERSTANDING TRANSACTION HASHING IN BLOCKCHAIN"
-image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+image: /images/alex-knight-2EJCSULRwC8-unsplash.webp
 data-ai-hint: blockchain hash
 description: >-
   A detailed look at transaction hashing. Learn what a hash is, how it's

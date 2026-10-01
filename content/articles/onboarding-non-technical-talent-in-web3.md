@@ -1,7 +1,7 @@
 ---
 title: Onboarding Non-Technical Talent in Web3
 ogTitle: "ONBOARDING NON-TECHNICAL TALENT IN WEB3"
-image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
+image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.webp
 data-ai-hint: team onboarding meeting
 description: >-
   A guide for Web3 companies on how to successfully onboard non-technical

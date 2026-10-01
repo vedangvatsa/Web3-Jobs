@@ -6903,6 +6903,76 @@
     "slug": "adsa"
   },
   {
+    "id": "0af8727c-24e7-42a4-bb53-3cb3f9c68e6f",
+    "title": "Partner Development Manager",
+    "company": "Open Standard",
+    "link": "https://jobs.ashbyhq.com/openstandard/0af8727c-24e7-42a4-bb53-3cb3f9c68e6f",
+    "date": "2026-09-23T06:00:06.377+00:00",
+    "source": "Ashby: Open Standard [openstandard]",
+    "location": "San Francisco",
+    "department": "Sales",
+    "salary": "$175,000–$210,000 per year (USD)",
+    "applyUrl": "https://jobs.ashbyhq.com/openstandard/0af8727c-24e7-42a4-bb53-3cb3f9c68e6f/application",
+    "active": true,
+    "slug": "mgr119"
+  },
+  {
+    "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "title": "Account Manager",
+    "company": "Open Standard",
+    "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "date": "2026-09-23T05:58:41.953+00:00",
+    "source": "Ashby: Open Standard [openstandard]",
+    "location": "San Francisco",
+    "department": "Sales",
+    "salary": "$175,000–$210,000 per year (USD)",
+    "applyUrl": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788/application",
+    "active": true,
+    "slug": "sls200"
+  },
+  {
+    "id": "b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "title": "Communications and Marketing Lead",
+    "company": "Open Standard",
+    "link": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "date": "2026-09-23T05:56:52.091+00:00",
+    "source": "Ashby: Open Standard [openstandard]",
+    "location": "San Francisco",
+    "department": "Marketing & Comms",
+    "salary": "$210,000–$280,000 per year (USD)",
+    "applyUrl": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8/application",
+    "active": true,
+    "slug": "mkt79"
+  },
+  {
+    "id": "4b6a835f-63c4-4bda-b349-0bfe53fa7bb2",
+    "title": "Product Marketing Lead",
+    "company": "Open Standard",
+    "link": "https://jobs.ashbyhq.com/openstandard/4b6a835f-63c4-4bda-b349-0bfe53fa7bb2",
+    "date": "2026-09-23T05:54:28.452+00:00",
+    "source": "Ashby: Open Standard [openstandard]",
+    "location": "San Francisco",
+    "department": "Marketing & Comms",
+    "salary": "$210,000–$280,000 per year (USD)",
+    "applyUrl": "https://jobs.ashbyhq.com/openstandard/4b6a835f-63c4-4bda-b349-0bfe53fa7bb2/application",
+    "active": true,
+    "slug": "pm200"
+  },
+  {
+    "id": "0f1aa8e9-96d3-4c7c-b115-a59f25cc076a",
+    "title": "Head of Liquidity and Capital Markets",
+    "company": "Open Standard",
+    "link": "https://jobs.ashbyhq.com/openstandard/0f1aa8e9-96d3-4c7c-b115-a59f25cc076a",
+    "date": "2026-09-23T05:50:59.242+00:00",
+    "source": "Ashby: Open Standard [openstandard]",
+    "location": "San Francisco",
+    "department": "Capital Markets",
+    "salary": "$225,000–$300,000 per year (USD)",
+    "applyUrl": "https://jobs.ashbyhq.com/openstandard/0f1aa8e9-96d3-4c7c-b115-a59f25cc076a/application",
+    "slug": "lcm",
+    "active": true
+  },
+  {
     "id": "c752b0f0-aa8c-4f9f-a71e-c5faf033260f",
     "title": "Earn Product Operation Manager (Tradfi)",
     "company": "Binance",
@@ -36568,7 +36638,7 @@
     "location": "Hong Kong",
     "department": "IT and Systems Engineering",
     "active": true,
-    "slug": "ps3"
+    "slug": "ps5"
   },
   {
     "id": "8144836",

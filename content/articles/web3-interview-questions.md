@@ -1,7 +1,7 @@
 ---
 title: 'Web3 Interview Questions and Answers'
 ogTitle: "WEB3 INTERVIEW QUESTIONS AND ANSWERS"
-image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.webp
 description: >-
   Ace your Web3 interview. This guide provides a full list of interview
   questions and answers for technical and non-technical roles in the crypto

@@ -5,13 +5,13 @@ import { useMemo, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { EventCard } from '@/components/event-card';
 import { Calendar, LayoutGrid } from 'lucide-react';
-import { getEventSlug, type PublicWeb3Event } from '@/lib/events';
+import { getEventSlug, type EventListItem } from '@/lib/events';
 
-function getEventDate(event: PublicWeb3Event, timeZone: string): string {
+function getEventDate(event: EventListItem, timeZone: string): string {
   return new Intl.DateTimeFormat('en-CA', { timeZone }).format(new Date(event.startDate));
 }
 
-function getTimeOfDay(event: PublicWeb3Event, timeZone: string): string {
+function getTimeOfDay(event: EventListItem, timeZone: string): string {
   const hour = Number(new Intl.DateTimeFormat('en-US', {
     timeZone,
     hour: '2-digit',
@@ -22,14 +22,14 @@ function getTimeOfDay(event: PublicWeb3Event, timeZone: string): string {
   return 'Evening';
 }
 
-function getPriceType(event: PublicWeb3Event): string {
+function getPriceType(event: EventListItem): string {
   const price = event.price?.toLowerCase() ?? '';
   if (/invite|application|approval/.test(`${event.name} ${price}`.toLowerCase())) return 'Invite only';
   if (/free|complimentary|0/.test(price)) return 'Free';
   return 'Paid';
 }
 
-export function EventSideEvents({ eventName, events, timeZone }: { eventName: string; events: PublicWeb3Event[]; timeZone: string }) {
+export function EventSideEvents({ eventName, events, timeZone }: { eventName: string; events: EventListItem[]; timeZone: string }) {
   const days = Array.from(new Set(events.map((event) => getEventDate(event, timeZone))));
   const categories = Array.from(new Set(events.map((event) => event.category).filter((category): category is string => Boolean(category))));
   const [day, setDay] = useState('All days');
@@ -63,7 +63,7 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
     });
   }, [currentMonth]);
   const eventsByDay = useMemo(() => {
-    const grouped = new Map<string, PublicWeb3Event[]>();
+    const grouped = new Map<string, EventListItem[]>();
     visibleEvents.forEach((event) => {
       const key = getEventDate(event, timeZone);
       grouped.set(key, [...(grouped.get(key) || []), event]);
@@ -71,7 +71,7 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
     return grouped;
   }, [timeZone, visibleEvents]);
 
-  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: PublicWeb3Event[] } | null>(null);
+  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: EventListItem[] } | null>(null);
 
   return (
     <section className="mt-12 border-t pt-8" aria-labelledby="side-events-heading">
@@ -252,6 +252,7 @@ export function EventSideEvents({ eventName, events, timeZone }: { eventName: st
                     <h4 className="text-sm font-semibold leading-snug">{event.name}</h4>
                     <Link
                       href={`/${getEventSlug(event)}`}
+                      prefetch={false}
                       className="shrink-0 text-xs font-medium px-2.5 py-1 rounded bg-primary text-primary-foreground hover:opacity-90 transition-opacity"
                     >
                       View

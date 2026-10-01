@@ -4,7 +4,7 @@ description: >-
   The SEC's proposed transfer-agent rules would permit technology-neutral
   electronic master securityholder files while imposing record-control, access,
   processing and risk-management requirements on the registered agent.
-image: /images/news/sec-transfer.jpg
+image: /images/news/sec-transfer.webp
 imageCaption: "The U.S. Securities and Exchange Commission headquarters at 100 F Street NE, Washington, D.C. Photo: AgnosticPreachersKid via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Securities_and_Exchange_Commission_headquarters.JPG
 category: News

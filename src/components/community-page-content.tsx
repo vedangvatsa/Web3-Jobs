@@ -6,6 +6,8 @@ import { Button } from '@/components/ui/button';
 import { ArrowRight, Briefcase, BookOpen, Newspaper, Send, Smartphone } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import Image from 'next/image';
+import { ResponsiveImage } from './responsive-image';
+import { squareGalleryImageSizes, type ResponsiveImagePlan } from '@/lib/responsive-images';
 import { MediaCarousel } from './media-carousel';
 import { LogoGridCarousel } from '@/components/logo-grid-carousel';
 import { JobCard } from '@/components/job-card';
@@ -34,11 +36,13 @@ export function CommunityPageContent({
   latestArticles,
   latestNews,
   companyLogos = {},
+  imageVariants = {},
 }: { 
   latestJobs: Job[],
   latestArticles: Omit<Article, 'content'>[],
   latestNews: NewsItem[],
   companyLogos?: CompanyLogoMap,
+  imageVariants?: Record<string, ResponsiveImagePlan>,
 }) {
   const plugin = useRef(
     Autoplay({ delay: 2000, stopOnInteraction: false })
@@ -63,13 +67,13 @@ export function CommunityPageContent({
               </Button>
             </a>
           </div>
-          <LogoGridCarousel logos={conversationCompanies} delay={2500} />
+          <LogoGridCarousel logos={conversationCompanies} delay={2500} imageVariants={imageVariants} />
         </div>
       </section>
 
       {/* Media Logos Carousel */}
       <section className="w-full">
-        <MediaCarousel logos={mediaLogos} />
+        <MediaCarousel logos={mediaLogos} imageVariants={imageVariants} />
       </section>
 
       {/* Multi-Channel Presence */}
@@ -114,11 +118,12 @@ export function CommunityPageContent({
           {caseStudies.map((study) => (
             <Card key={study.title} className="flex h-full flex-col overflow-hidden border-border/70 bg-card shadow-none">
               <div className="relative h-48 w-full bg-muted/25 sm:h-56">
-                <Image
+                <ResponsiveImage
                   src={study.image}
+                  variants={imageVariants[study.image]}
                   alt={`${study.title} - Hashtag Web3 case study`}
-                  fill
-                  className="object-contain p-2 sm:p-3"
+                  className="absolute inset-0 h-full w-full object-contain p-2 sm:p-3"
+                  loading="lazy"
                   sizes="(max-width: 768px) 100vw, 33vw"
                   data-ai-hint={study.data_ai_hint}
                 />
@@ -180,13 +185,15 @@ export function CommunityPageContent({
               <CarouselItem key={index} className="pl-2 md:pl-4 basis-1/2 sm:basis-1/2 lg:basis-1/3">
                 <Card className="overflow-hidden shadow-sm">
                   <CardContent className="flex aspect-square items-center justify-center p-0">
-                    <Image
+                    <ResponsiveImage
                       src={photo.src}
+                      variants={imageVariants[photo.src]}
                       alt={photo.alt}
                       width={500}
                       height={500}
                       className="object-cover w-full h-full"
-                      sizes="(max-width: 640px) 50vw, (max-width: 1024px) 50vw, 33vw"
+                      sizes={squareGalleryImageSizes(imageVariants[photo.src])}
+                      loading="lazy"
                     />
                   </CardContent>
                 </Card>
@@ -203,6 +210,7 @@ export function CommunityPageContent({
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <LogoGridCarousel
             logos={partnersLogos}
+            imageVariants={imageVariants}
             delay={3000}
             className="order-2 md:order-1"
           />
@@ -264,7 +272,7 @@ export function CommunityPageContent({
               <Button size="lg" className="mt-6 w-full sm:w-auto">Post a Job <ArrowRight className="ml-2 h-4 w-4" /></Button>
             </a>
           </div>
-          <LogoGridCarousel logos={hiredCompanies} delay={3000} />
+          <LogoGridCarousel logos={hiredCompanies} delay={3000} imageVariants={imageVariants} />
         </div>
       </section>
       
@@ -333,7 +341,8 @@ export function CommunityPageContent({
                     key={getJobSlug(job)}
                     job={job}
                     logoUrl={logo?.logo}
-                    faviconUrl={logo?.favicon}
+                     faviconUrl={logo?.favicon}
+                     imageVariants={logo?.imageVariants}
                   />
                 );
               })}

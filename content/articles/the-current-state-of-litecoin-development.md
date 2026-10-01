@@ -4,7 +4,7 @@ ogTitle: "THE CURRENT STATE OF LITECOIN DEVELOPMENT"
 description: >-
   Is Litecoin development truly slowing down? We analyze on-chain data,
   developer commits, and community sentiment to provide a full look at the.
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 category: Technology Deep Dives
 data-ai-hint: digital currency
 publishedDate: '2026-03-11'

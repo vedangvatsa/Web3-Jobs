@@ -1,7 +1,7 @@
 ---
 title: How to Keep Up With the Web3 Job Market
 ogTitle: "KEEP UP WITH THE RAPIDLY GROWING WEB3 JOB MARKET GUIDE"
-image: /images/possessed-photography-jIBMSMs4_kA-unsplash.jpg
+image: /images/possessed-photography-jIBMSMs4_kA-unsplash.webp
 data-ai-hint: person running fast
 description: >-
   The Web3 space moves at lightning speed. This guide provides practical

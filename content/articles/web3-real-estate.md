@@ -1,7 +1,7 @@
 ---
 title: Web3 Real Estate and Tokenized Assets
 ogTitle: "WEB3 REAL ESTATE AND TOKENIZED ASSETS"
-image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
+image: /images/thisisengineering-zBLtU0zbJcU-unsplash.webp
 data-ai-hint: real estate tokenization
 description: >-
   A deep dive into the tokenization of Real-World Assets (RWAs), exploring how

@@ -2,7 +2,7 @@
 title: House Panel Advances Bitcoin Reserve Bill in 28-21 Vote
 ogTitle: "HOUSE PANEL ADVANCES BITCOIN RESERVE BILL IN 28-21 VOTE"
 description: The House Financial Services Committee voted 28-21 on Sept. 16, 2026 to send the American Reserve Modernization Act, which would place federal Bitcoin in a 20-year Treasury reserve, to the full House.
-image: /images/news/bitcoin-reserve.jpg
+image: /images/news/bitcoin-reserve.webp
 imageCaption: "East front of the U.S. Capitol in Washington, D.C. Photo: Martin Falbisoner via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG
 category: News

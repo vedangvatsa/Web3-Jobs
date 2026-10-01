@@ -1,7 +1,7 @@
 ---
 title: How to Land High-Paying Web3 Gigs
 ogTitle: "LAND HIGH-PAYING WEB3 GIGS GUIDE"
-image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+image: /images/alex-knight-2EJCSULRwC8-unsplash.webp
 data-ai-hint: career success money
 description: >-
   A strategic guide to landing high-paying freelance and full-time roles in the

@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { CircleMarker, MapContainer, Popup, TileLayer, useMap } from 'react-leaflet';
-import { getEventSlug, type PublicWeb3Event } from '@/lib/events';
+import { getEventSlug, type EventListItem } from '@/lib/events';
 import { groupEventsForMap, type EventMapGroup } from '@/lib/event-map-locations';
 
 function MapViewport({ groups, selected }: { groups: EventMapGroup[]; selected: EventMapGroup | null }) {
@@ -11,9 +11,9 @@ function MapViewport({ groups, selected }: { groups: EventMapGroup[]; selected: 
 
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
-      map.invalidateSize();
-      if (selected) map.flyTo(selected.coordinates, 7, { duration: 0.5 });
-      else if (groups.length) map.fitBounds(groups.map((group) => group.coordinates), { padding: [32, 32], maxZoom: 4 });
+      map.invalidateSize({ pan: false, animate: false });
+      if (selected) map.setView(selected.coordinates, 7, { animate: false });
+      else if (groups.length) map.fitBounds(groups.map((group) => group.coordinates), { padding: [32, 32], maxZoom: 4, animate: false });
     });
     return () => cancelAnimationFrame(frame);
   }, [groups, map, selected]);
@@ -21,7 +21,7 @@ function MapViewport({ groups, selected }: { groups: EventMapGroup[]; selected: 
   return null;
 }
 
-export function EventMap({ events }: { events: PublicWeb3Event[] }) {
+export function EventMap({ events }: { events: EventListItem[] }) {
   const [selectedKey, setSelectedKey] = useState<string | null>(null);
   const groups = useMemo(() => groupEventsForMap(events), [events]);
   const selected = groups.find((group) => group.key === selectedKey) || null;
@@ -29,7 +29,7 @@ export function EventMap({ events }: { events: PublicWeb3Event[] }) {
   return (
     <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_18rem]">
       <div className="relative isolate z-0 h-[520px] overflow-hidden rounded-xl border bg-muted/20">
-        <MapContainer center={[20, 0]} zoom={2} className="h-full w-full" scrollWheelZoom attributionControl={false}>
+        <MapContainer center={[20, 0]} zoom={2} className="h-full w-full" scrollWheelZoom attributionControl={false} zoomAnimation={false} fadeAnimation={false}>
           <TileLayer attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
           <MapViewport groups={groups} selected={selected} />
           {groups.map((group) => (

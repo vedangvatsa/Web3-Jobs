@@ -25,7 +25,7 @@ import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
 import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, formatEventLocation, normalizeCountry } from '@/lib/events';
 import { getEventExternalUrl } from '@/lib/event-external-url';
-import { getPublicEvent } from '@/lib/event-public';
+import { getEventListItem } from '@/lib/event-public';
 import { buildGoogleEventSchema } from '@/lib/event-schema';
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { buildEventMetaDescription } from '@/lib/event-editorial-facts';
@@ -55,7 +55,10 @@ import { ensureDescriptionShardLoaded } from '@/lib/job-description-shard-loader
 import { JobDetailView } from '@/components/job-detail-view';
 import { FAVICON_FIRST_SLUGS, resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
-import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl, eventOgImageMimeType } from '@/lib/job-og';
+import { buildJobOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl, resolveEventOgImageUrl } from '@/lib/job-og';
+import { getSocialImageInfo } from '@/lib/social-image-info';
+import { getImageVariants } from '@/lib/responsive-images-server';
+import { ResponsiveImage } from '@/components/responsive-image';
 import { PopupDetailPage } from '@/components/popup-detail-page';
 import { getPopupBySlug } from '@/lib/popups';
 import { getPopupPath, popupPageMetadata, resolvePopupForPathSegment, resolvePopupSlug } from '@/lib/popup-seo';
@@ -95,8 +98,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       const title = event.name;
       const ogTitle = `${event.name} | Hashtag Web3`;
       const description = buildEventMetaDescription(event, hasCuratedEventGuide(event));
-      const ogImageUrl = resolveEventOgImageUrl(event, siteUrl);
-      const ogImageType = eventOgImageMimeType(ogImageUrl);
+      const socialImage = await getSocialImageInfo(resolveEventOgImageUrl(event, siteUrl));
+      const ogImageUrl = socialImage.url;
       return {
         title,
         description,
@@ -113,10 +116,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
           images: [
             {
               url: ogImageUrl,
-              width: 1200,
-              height: 630,
+              width: socialImage.width,
+              height: socialImage.height,
               alt: event.name,
-              type: ogImageType,
+              type: socialImage.type,
             },
           ],
         },
@@ -136,7 +139,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     if (companyMeta) {
       const siteUrl = 'https://hashtagweb3.com';
       const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
-      const ogImageUrl = buildCompanyOgImageUrl(companyMeta, siteUrl);
+      const socialImage = await getSocialImageInfo(buildCompanyOgImageUrl(companyMeta, siteUrl));
+      const ogImageUrl = socialImage.url;
       const rawDesc = companyMeta.description
         || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
       const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
@@ -153,7 +157,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
           title: `${companyMeta.name} Jobs`,
           description: desc,
           url: canonicalUrl,
-          images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
+          images: [{ ...socialImage, alt: `${companyMeta.name} Jobs` }],
         },
         twitter: {
           card: 'summary_large_image',
@@ -238,7 +242,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     if (article) {
       const siteUrl = 'https://hashtagweb3.com';
       const articleUrl = `${siteUrl}/${article.slug}`;
-      const ogImageUrl = buildArticleOgImageUrl(article, siteUrl);
+      const socialImage = await getSocialImageInfo(buildArticleOgImageUrl(article, siteUrl));
+      const ogImageUrl = socialImage.url;
 
       const keywords = [
         'web3', 'crypto', 'blockchain',
@@ -264,9 +269,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
           url: articleUrl,
           images: [
             {
-              url: ogImageUrl,
-              width: 1200,
-              height: 630,
+              ...socialImage,
               alt: `${article.title} - Hashtag Web3`,
             },
           ],
@@ -296,10 +299,11 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
     const title = `${jobMeta.title} at ${jobMeta.company}`;
     const description = buildUniqueJobMetaDescription(jobMeta);
-    const ogImageUrl = buildJobOgImageUrl(
+    const socialImage = await getSocialImageInfo(buildJobOgImageUrl(
       { ...jobMeta, slug: canonicalSlug },
       siteUrl,
-    );
+    ));
+    const ogImageUrl = socialImage.url;
     const previewHtml = buildSynthesizedJobContent(jobMeta);
     const hasVerifiedContent = await jobPageShouldIndex(jobMeta, previewHtml);
     return {
@@ -316,11 +320,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         siteName: 'Hashtag Web3',
         images: [
           {
-            url: ogImageUrl,
-            width: 1200,
-            height: 630,
+            ...socialImage,
             alt: title,
-            type: 'image/png',
           },
         ],
       },
@@ -332,9 +333,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         creator: '@hashtag_web3',
         images: [
           {
-            url: ogImageUrl,
-            width: 1200,
-            height: 630,
+            ...socialImage,
             alt: `${title} - Hashtag Web3`,
           },
         ],
@@ -351,7 +350,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   if (articleFallback) {
     const siteUrl = 'https://hashtagweb3.com';
     const articleUrl = `${siteUrl}/${articleFallback.slug}`;
-    const ogImageUrl = buildArticleOgImageUrl(articleFallback, siteUrl);
+    const socialImage = await getSocialImageInfo(buildArticleOgImageUrl(articleFallback, siteUrl));
+    const ogImageUrl = socialImage.url;
     return {
       title: articleFallback.title,
       description: articleFallback.description,
@@ -360,7 +360,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         title: articleFallback.title,
         description: articleFallback.description,
         url: articleUrl,
-        images: [{ url: ogImageUrl }],
+        images: [socialImage],
       },
     };
   }
@@ -472,10 +472,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       ? getEventExternalUrl({ registrationUrl: event.partnerOffer.url, website: undefined, url: '' })
       : undefined;
     const allEvents = await getEvents();
-    const relatedEvents = (await getRelatedEvents(event, 3, allEvents)).map(getPublicEvent);
+    const relatedEvents = (await getRelatedEvents(event, 3, allEvents)).map(getEventListItem);
     const sideEvents = allEvents
       .filter((sideEvent) => sideEvent.sideEventFor?.includes(eventSlug))
-      .map(getPublicEvent);
+      .map(getEventListItem);
     const eventTimeZone = event.timezone || (eventSlug === 'token2049' ? 'Asia/Singapore'
       : eventSlug === 'kbw' ? 'Asia/Seoul'
       : eventSlug === 'ibw' || eventSlug === 'devcon' ? 'Asia/Kolkata'
@@ -546,7 +546,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 }
               />
 
-              <EventHeroImage src={event.coverImage} name={event.name} />
+              <EventHeroImage src={event.coverImage} name={event.name} imageVariants={getImageVariants(event.coverImage)} />
 
               {/* Quick Facts Grid */}
               {(event.partnerOffer || ticketPricing || expectedAttendance || speakerFact) && (
@@ -599,7 +599,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <div className="flex items-center justify-between">
                     <h2 className="text-xl font-bold text-foreground">Related Upcoming Events</h2>
                     <Button asChild variant="ghost" size="sm" className="text-xs text-muted-foreground hover:text-foreground">
-                      <Link href="/events" className="flex items-center gap-1">
+                      <Link href="/events" prefetch={false} className="flex items-center gap-1">
                         <span>All Events</span>
                         <ArrowRight className="h-3.5 w-3.5" />
                       </Link>
@@ -876,13 +876,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {article.image && !article.image.includes('picsum.photos') && !article.image.includes('/api/og?') && (
                 <>
                   <div className="relative w-full aspect-[16/9] sm:aspect-[2/1] max-h-[380px] overflow-hidden rounded-xl border border-border/70 shadow-none mb-2 bg-muted/30">
-                    <Image
+                    <ResponsiveImage
                       src={article.image}
+                      variants={getImageVariants(article.image)}
                       alt={`${article.title} - Hashtag Web3 article cover`}
-                      fill
-                       className={article.imageFit === 'contain' || article.image.toLowerCase().endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}
+                       className={`absolute inset-0 h-full w-full ${article.imageFit === 'contain' || article.image.toLowerCase().endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}`}
                       sizes="(max-width: 768px) 100vw, (max-width: 1200px) 800px, 900px"
-                      priority
+                      loading="eager"
+                      fetchPriority="high"
                       data-ai-hint={`${article['data-ai-hint'] || ''}`}
                     />
                   </div>

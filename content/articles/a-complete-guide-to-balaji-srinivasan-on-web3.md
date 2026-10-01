@@ -4,7 +4,7 @@ ogTitle: "BALAJI SRINIVASAN IN WEB3"
 description: >-
   An in-depth look at the ideas of Balaji Srinivasan, one of Web3's most
   influential and provocative thinkers. This guide covers his concepts of 'The.
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man speech
 publishedDate: '2026-03-11'

@@ -1,7 +1,7 @@
 ---
 title: Solana Blockchain
 ogTitle: "UNDERSTANDING THE SOLANA BLOCKCHAIN"
-image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
+image: /images/george-prentzas-SRFG7iwktDk-unsplash.webp
 data-ai-hint: solana blockchain
 description: >-
   Understand Solana's architecture, advantages, and ecosystem for DeFi and Web3

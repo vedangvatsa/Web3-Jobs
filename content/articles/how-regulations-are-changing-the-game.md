@@ -1,7 +1,7 @@
 ---
 title: How Regulations Are Changing Web3
 ogTitle: "HOW REGULATIONS AND CULTURE ARE CHANGING THE GAME IN WEB3"
-image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
+image: /images/thisisengineering-32PpagSzeGs-unsplash.webp
 data-ai-hint: regulation law culture
 description: An in-depth analysis of the dual forces shaping the Web3 ecosystem - global regulatory frameworks (EU MiCA, US SEC/CFTC) and crypto-native culture - exploring legal engineering and compliance careers.
 category: Industry Insights

@@ -1,7 +1,7 @@
 ---
 title: The Web3 Social Graph
 ogTitle: "THE WEB3 SOCIAL GRAPH EXPLAINED"
-image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
+image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.webp
 data-ai-hint: social network graph
 description: >-
   Learn how portable social graphs work, then explore protocol, app, and

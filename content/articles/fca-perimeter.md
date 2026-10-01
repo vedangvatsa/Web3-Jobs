@@ -2,7 +2,7 @@
 title: FCA Publishes Crypto Perimeter Guidance for 2027 Regime
 ogTitle: "FCA PUBLISHES CRYPTO PERIMETER GUIDANCE FOR 2027 REGIME"
 description: The FCA published final perimeter guidance as PS26/18 on Sept. 16, 2026, telling crypto firms, including offshore platforms serving UK consumers, when they will need authorisation ahead of the Oct. 2027 regime.
-image: /images/news/fca-perimeter.jpg
+image: /images/news/fca-perimeter.webp
 imageCaption: "Office towers at Canary Wharf in London. Photo: Dietmar Rabich via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:London%2C_Canary_Wharf_--_2016_--_4751.jpg
 category: News

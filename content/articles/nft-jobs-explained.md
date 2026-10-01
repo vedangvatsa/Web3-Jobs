@@ -1,7 +1,7 @@
 ---
 title: 'Your Guide to a Career in Digital Assets'
 ogTitle: "YOUR GUIDE TO A CAREER IN DIGITAL ASSETS"
-image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.webp
 description: >-
   The NFT space is creating new job opportunities. Learn about the different
   roles available, from community management to smart contract development.

@@ -1,7 +1,7 @@
 ---
 title: Transitioning to Web3 from Legal or Compliance
 ogTitle: "TRANSITION INTO WEB3 WITH A LEGAL OR COMPLIANCE BACKGROUND GUIDE"
-image: "/images/thisisengineering-yhCHx8Mc-Kc-unsplash.jpg"
+image: "/images/thisisengineering-yhCHx8Mc-Kc-unsplash.webp"
 data-ai-hint: "law compliance transition legal counsel regulatory stack"
 description: "A comprehensive roadmap for legal and compliance professionals transitioning into Web3, covering token classification, DAO entity structuring, MiCA, and on-chain AML compliance."
 category: "Career Guides"

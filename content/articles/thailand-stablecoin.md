@@ -5,7 +5,7 @@ description: >-
   Thailand's SEC board has approved principles capping stablecoin transfers at
   5 million baht a day and banning third-party wallet movements, with public
   comments open until Sept. 25.
-image: /images/news/thailand-stablecoin.jpg
+image: /images/news/thailand-stablecoin.webp
 imageCaption: "The Grand Palace, Bangkok, at night. Photo: Kevin Poh via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_Grand_Palace_@_Bangkok.jpg
 category: News

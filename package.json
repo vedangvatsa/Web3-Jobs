@@ -37,6 +37,14 @@
     "test:site-catalog-integrity": "tsx scripts/test-site-catalog-integrity.ts",
     "smoke:site": "node scripts/smoke-site.mjs",
     "test:company-jobs": "tsx scripts/test-company-jobs.ts",
+    "test:bandwidth": "tsx scripts/test-bandwidth-budget.ts",
+    "test:bandwidth:browser": "tsx scripts/test-bandwidth-browser.ts",
+    "test:social-previews": "tsx scripts/test-social-preview-assets.ts",
+    "cache:social-images": "tsx scripts/cache-social-preview-images.ts",
+    "images:responsive": "tsx scripts/generate-responsive-images.ts",
+    "test:responsive-images": "tsx scripts/test-responsive-images.ts",
+    "test:responsive-browser": "tsx scripts/test-responsive-browser.ts",
+    "prune:responsive-images": "tsx scripts/prune-responsive-images.ts --apply",
     "audit:detail-formatting": "tsx scripts/audit-detail-formatting.ts",
     "test:detail-formatting:browser": "tsx scripts/test-detail-formatting-browser.ts",
     "precompute:events-runtime": "npx tsx scripts/precompute-events-runtime.ts",
@@ -121,6 +129,19 @@
   },
   "engines": {
     "node": "24.x"
+  },
+  "allowScripts": {
+    "@firebase/util@1.15.0": true,
+    "esbuild@0.25.4": true,
+    "esbuild@0.28.1": true,
+    "esbuild@0.28.2": true,
+    "fsevents@2.3.2": true,
+    "fsevents@2.3.3": true,
+    "protobufjs@7.6.6": true,
+    "puppeteer@25.10.0": true,
+    "unrs-resolver@1.12.2": true,
+    "workerd@1.20260917.1": true,
+    "core-js": false
   },
   "dependencies": {
     "@aws-sdk/client-sesv2": "^3.1025.0",

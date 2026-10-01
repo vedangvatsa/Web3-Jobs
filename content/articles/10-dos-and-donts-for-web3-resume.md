@@ -1,7 +1,7 @@
 ---
 title: '10 Dos and Don''ts for Your Web3 Resume'
 ogTitle: "10 DOS AND DON'TS FOR YOUR WEB3 RESUME"
-image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
+image: /images/emile-perron-xrVDYZRGdw4-unsplash.webp
 data-ai-hint: resume writing tips
 description: >-
   Practical resume advice from Web3 hiring managers: what to include, what to

@@ -1,7 +1,7 @@
 ---
 title: Account Abstraction
 ogTitle: "UNDERSTANDING ACCOUNT ABSTRACTION"
-image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.webp
 description: >-
   A deep dive into Account Abstraction (EIP-4337), explaining how it works,
   specific UX improvements it enables (social recovery, gasless transactions,

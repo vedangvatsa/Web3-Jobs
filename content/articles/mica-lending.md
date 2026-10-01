@@ -2,7 +2,7 @@
 title: EBA calls for MiCA rules on crypto lending and access to DeFi
 ogTitle: "EBA SEEKS MICA RULES FOR CRYPTO LENDING"
 description: The European Banking Authority has recommended regulating crypto lending and DeFi access services in the Commission's MiCA review; the proposals have not become law.
-image: /images/news/esma-eu.jpg
+image: /images/news/esma-eu.webp
 imageCaption: "European Commission representation office in Paris. Photo: Richardprins via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Representation_Europeenne_Paris.jpg
 category: News

@@ -12,7 +12,8 @@ import {
 } from '@/components/ui/sheet';
 import { Menu, Users } from 'lucide-react';
 import Link from 'next/link';
-import Image from 'next/image';
+import { ResponsiveImage } from './responsive-image';
+import type { ResponsiveImagePlan } from '@/lib/responsive-images';
 import {
   Accordion,
   AccordionContent,
@@ -28,7 +29,7 @@ import {
   SOCIAL_LINKS,
 } from '@/lib/nav-config';
 
-export function MobileNav() {
+export function MobileNav({ logoVariants }: { logoVariants?: ResponsiveImagePlan }) {
   return (
     <Sheet>
       <SheetTrigger asChild>
@@ -41,9 +42,11 @@ export function MobileNav() {
           <SheetTitle className="sr-only">Mobile Navigation</SheetTitle>
           <SheetDescription className="sr-only">Hashtag Web3 Navigation Menu</SheetDescription>
           <SheetClose asChild>
-            <Link href="/" className="flex min-h-11 items-center rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" aria-label="Hashtag Web3 Homepage">
-              <Image
+            <Link href="/" prefetch={false} className="flex min-h-11 items-center rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2" aria-label="Hashtag Web3 Homepage">
+              <ResponsiveImage
                 src="/logo/HashtagWeb3.png"
+                variants={logoVariants}
+                sizes="60px"
                 alt="Hashtag Web3 Logo"
                 width={144}
                 height={48}
@@ -59,7 +62,8 @@ export function MobileNav() {
               return (
                 <SheetClose key={link.label} asChild>
                   <Link
-                    href={link.href}
+                     href={link.href}
+                     prefetch={false}
                     target={link.target}
                     rel={link.target ? 'noopener noreferrer' : undefined}
                     className="flex items-center gap-4 p-3 rounded-lg text-base font-medium text-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
@@ -87,6 +91,7 @@ export function MobileNav() {
                         <SheetClose key={link.label} asChild>
                           <Link
                             href={link.href}
+                            prefetch={false}
                             target={link.target}
                             rel={link.target ? 'noopener noreferrer' : undefined}
                             className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
@@ -106,6 +111,7 @@ export function MobileNav() {
                         <SheetClose key={link.label} asChild>
                           <Link
                             href={link.href}
+                            prefetch={false}
                             className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
                           >
                             {IconComponent && <IconComponent className="h-4 w-4" />}
@@ -123,6 +129,7 @@ export function MobileNav() {
                         <SheetClose key={link.label} asChild>
                           <Link
                             href={link.href}
+                            prefetch={false}
                             className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
                           >
                             {IconComponent && <IconComponent className="h-4 w-4" />}

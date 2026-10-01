@@ -1,7 +1,7 @@
 ---
 title: 'A Case Study in Developer Activity Slowdown'
 ogTitle: "A CASE STUDY IN DEVELOPER ACTIVITY SLOWDOWN"
-image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.webp
 data-ai-hint: litecoin chart decline
 description: >-
   An analysis of the Litecoin developer activity slowdown. We explore why the

@@ -1,7 +1,7 @@
 ---
 title: "What Is HODL in Crypto?"
 ogTitle: "HODL IN CRYPTO? THE STORY BEHIND THE FAMOUS TERM EXPLAINED"
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 description: >-
   HODL is one of the most famous terms in crypto culture. Learn its origin
   story, what it means, and how it represents a core philosophy for crypto

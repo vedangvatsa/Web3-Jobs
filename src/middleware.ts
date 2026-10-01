@@ -7,6 +7,7 @@ import {
   stripSocialPathSuffix,
 } from '@/lib/social-share';
 import { getLearnRedirectPath } from '@/lib/learn-routes';
+import { isRetiredOrProbePath } from '@/lib/retired-request';
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
@@ -120,6 +121,13 @@ export async function middleware(request: NextRequest) {
     const canonical = request.nextUrl.clone();
     canonical.host = 'hashtagweb3.com';
     return NextResponse.redirect(canonical, 308);
+  }
+
+  if (isRetiredOrProbePath(pathname)) {
+    return new NextResponse('Not found\n', {
+      status: 404,
+      headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300', 'X-Robots-Tag': 'noindex' },
+    });
   }
 
   // Node/Firebase run middleware before public-file serving. Let the static
@@ -291,9 +299,10 @@ export const config = {
      * - _next/image (image optimization files)
      * - favicon.ico / icon.png
      * - Binary static assets (images, fonts, etc.)
+     * - Catalog files and /events: keep these outside middleware so App Hosting can cache them.
      * Note: /api routes ARE included so social crawler / UTM logic can run;
      * ?mode=agent rewrites to static /agent-view.json and skips /api/*.
      */
-    '/((?!_next/static|_next/image|favicon.ico|favicon-preview.html|icon.png|logo-bimi.svg|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$).*)',
+     '/((?!_next/static|_next/image|favicon.ico|favicon-preview.html|icon.png|logo-bimi.svg|events$|data(?:/|$)|articles-data(?:/|$)|job-shards(?:/|$)|job-description-shards(?:/|$)|.*\\.(?:svg|png|jpg|jpeg|gif|webp|avif|ico|pdf|woff2?)$).*)',
   ],
 };

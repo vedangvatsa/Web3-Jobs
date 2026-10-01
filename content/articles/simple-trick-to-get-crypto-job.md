@@ -1,7 +1,7 @@
 ---
 title: A Simple Trick to Improve Crypto Job Odds
 ogTitle: "THIS SIMPLE TRICK WILL DRAMATICALLY IMPROVE YOUR CHANCES OF"
-image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
+image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.webp
 data-ai-hint: person writing notes
 description: >-
   The secret to landing a Web3 job isn't a secret at all. It's about providing

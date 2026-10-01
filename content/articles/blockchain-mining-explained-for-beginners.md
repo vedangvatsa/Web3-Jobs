@@ -1,7 +1,7 @@
 ---
 title: Blockchain Mining
 ogTitle: "BLOCKCHAIN MINING EXPLAINED FOR BEGINNERS"
-image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.webp
 data-ai-hint: blockchain mining hardware
 description: >-
   Learn what proof-of-work mining does, how Bitcoin miners produce blocks, and

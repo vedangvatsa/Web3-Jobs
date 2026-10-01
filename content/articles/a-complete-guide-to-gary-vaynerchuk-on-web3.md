@@ -5,7 +5,7 @@ description: >-
   Learn about Gary Vaynerchuk's (GaryVee) perspective on Web3 and NFTs. This
   guide covers his investment thesis, his emphasis on community building, and
   his brand strategy in crypto.
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man drawing
 publishedDate: '2026-03-11'

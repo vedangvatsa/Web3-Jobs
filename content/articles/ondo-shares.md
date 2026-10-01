@@ -5,7 +5,7 @@ description: >-
   Ondo Finance says approved institutions can mint and redeem Ondo Stocks using
   underlying share inventory through Alpaca's Instant Tokenization Network on
   Ethereum and BNB Chain.
-image: /images/news/ondo-shares.jpg
+image: /images/news/ondo-shares.webp
 imageCaption: "The New York Stock Exchange on Wall Street. Photo: Ryan Stavely via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg
 category: News

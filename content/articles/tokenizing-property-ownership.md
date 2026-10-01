@@ -1,7 +1,7 @@
 ---
 title: 'Tokenizing Property Ownership'
 ogTitle: "TOKENIZING PROPERTY OWNERSHIP"
-image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
+image: /images/thisisengineering-zBLtU0zbJcU-unsplash.webp
 data-ai-hint: real estate property tokenization
 description: >-
   A deep dive into how blockchain technology and tokenization are changing the

@@ -4,7 +4,7 @@ ogTitle: "ZETACHAIN VOTERS BACK SOLANA MIGRATION IN PROPOSAL 68"
 description: >-
   ZetaChain governance passed Proposal 68 with 99.4% support to wind down its
   Cosmos layer-1 and move ZETA to Solana, but a second vote must set the timeline.
-image: /images/news/zeta-solana.jpg
+image: /images/news/zeta-solana.webp
 imageCaption: "A technician working on a server rack. Photo: Lawrence Berkeley National Laboratory via Wikimedia Commons (CC BY-SA 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician_with_laptop_working_on_server_rack_at_NERSC.jpg
 category: News

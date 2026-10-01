@@ -6,6 +6,7 @@ import { CompaniesBoard } from '@/components/companies-board';
 import { resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
 import { TrustedBy } from '@/components/trusted-by';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
+import { withLogoImageVariants } from '@/lib/responsive-images-server';
 
 export const metadata: Metadata = {
   title: 'Top Web3 Companies | Crypto & Blockchain Employers',
@@ -73,7 +74,7 @@ export default async function CompaniesPage() {
             <PageHeader title="Web3 Companies" />
             <TrustedBy />
             <CommunityFeedBanner variant="company-hiring" />
-            <CompaniesBoard initialCompanies={boardCompanies} companyLogos={companyLogos} />
+            <CompaniesBoard initialCompanies={boardCompanies} companyLogos={withLogoImageVariants(companyLogos)} />
           </PageShell>
         </main>
       </div>

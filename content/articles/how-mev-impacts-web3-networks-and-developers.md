@@ -1,7 +1,7 @@
 ---
 title: How MEV Impacts Web3 Networks and Developers
 ogTitle: "HOW MEV IMPACTS WEB3 NETWORKS AND DEVELOPERS"
-image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.webp
 data-ai-hint: mev network developer
 description: >-
   A deep dive into MEV (Maximal Extractable Value), the 'invisible tax' on the

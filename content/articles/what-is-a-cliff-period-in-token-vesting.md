@@ -1,7 +1,7 @@
 ---
 title: What Is a Cliff Period in Token Vesting
 ogTitle: "CLIFF PERIOD IN TOKEN VESTING EXPLAINED"
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 data-ai-hint: cliff vesting crypto
 description: >-
   A deep technical and economic analysis of cliff periods in token vesting, covering smart contract lockups, linear streaming protocols, legal token agreements, and tokenomics.

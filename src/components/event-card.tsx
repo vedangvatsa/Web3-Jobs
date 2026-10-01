@@ -3,15 +3,15 @@
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
 import { DatePill } from '@/components/date-pill';
-import { getEventSlug, getEventDatePill, getEventCity, type PublicWeb3Event } from '@/lib/events';
+import { getEventSlug, getEventDatePill, getEventCity, type EventListItem } from '@/lib/events';
 
-export function EventCard({ event, hideLocation = false }: { event: PublicWeb3Event; hideLocation?: boolean }) {
+export function EventCard({ event, hideLocation = false }: { event: EventListItem; hideLocation?: boolean }) {
   const slug = getEventSlug(event);
   const datePill = getEventDatePill(event.startDate, event.timezone, event.eventStatus);
   const city = getEventCity(event) || 'Online';
 
   return (
-    <Link href={`/${slug}`} className="block h-full">
+    <Link href={`/${slug}`} prefetch={false} className="block h-full">
       <Card className="flex h-full flex-col border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors">
         <CardHeader className="pb-3 pt-4 px-4">
           <div className="flex items-center gap-3">

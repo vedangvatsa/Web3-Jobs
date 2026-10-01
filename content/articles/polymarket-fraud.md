@@ -2,7 +2,7 @@
 title: Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported
 ogTitle: "POLYMARKET FACED $10M STOLEN-CARD FRAUD ATTEMPT, JOURNAL REPORTED"
 description: The Wall Street Journal reported that fraudsters used stolen debit cards on Polymarket US in February to attempt at least $10 million in illicit moves, with Checkout.com rejecting over 80 percent of deposits at the peak.
-image: /images/news/polymarket-fraud.jpg
+image: /images/news/polymarket-fraud.webp
 imageCaption: "15 Broad Street in the Financial District of Manhattan, New York, across from the New York Stock Exchange. Photo: Arild Vagen via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:15_Broad_Street_August_2017_02.jpg
 category: News

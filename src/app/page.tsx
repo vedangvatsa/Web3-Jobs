@@ -9,6 +9,7 @@ import { PageShell } from '@/components/page-shell';
 import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 import type { Metadata } from 'next';
 import type { CompanyLogoMap } from '@/lib/job-logo-map';
+import { withLogoImageVariants } from '@/lib/responsive-images-server';
 
 // Static HTML from build — avoid bundling full jobs-runtime.json in the Worker (Cloudflare 1102).
 export const dynamic = 'force-static';
@@ -103,7 +104,7 @@ export default function JobsPage() {
               <JobBoard
                 initialJobs={initialJobs}
                 initialTotal={totalJobs}
-                companyLogos={companyLogos}
+                companyLogos={withLogoImageVariants(companyLogos)}
                 showResultCount={false}
               />
             </article>

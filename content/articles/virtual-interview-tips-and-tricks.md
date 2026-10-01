@@ -1,7 +1,7 @@
 ---
 title: Virtual Interview Tips and Tricks
 ogTitle: "VIRTUAL INTERVIEW TIPS AND TRICKS"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: laptop video call
 description: >-
   Master your next virtual interview with these essential tips and tricks. From

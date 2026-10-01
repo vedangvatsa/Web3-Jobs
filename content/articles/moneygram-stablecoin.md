@@ -3,7 +3,7 @@ title: MoneyGram Launches Stablecoin-Backed Visa Card in Colombia
 description: >-
   MoneyGram says its first stablecoin-backed Visa card, developed with Rain, is
   initially available in Colombia.
-image: /images/news/moneygram-stablecoin.jpg
+image: /images/news/moneygram-stablecoin.webp
 imageCaption: "Bogota, Colombia, the launch market for the new card. Photo: Pedro Szekely via Wikimedia Commons (CC BY-SA 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bogota,_Colombia_(36668708290).jpg
 category: News

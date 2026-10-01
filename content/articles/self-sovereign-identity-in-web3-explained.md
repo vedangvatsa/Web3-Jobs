@@ -1,7 +1,7 @@
 ---
 title: Self-Sovereign Identity in Web3
 ogTitle: "SELF-SOVEREIGN IDENTITY IN WEB3 EXPLAINED"
-image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
+image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.webp
 data-ai-hint: digital identity key
 description: >-
   Understand how DIDs and self-sovereign identity give users control over their

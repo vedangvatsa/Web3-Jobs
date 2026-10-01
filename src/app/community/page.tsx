@@ -6,6 +6,8 @@ import { CommunityPageContent } from '@/components/community-page-content';
 import { Metadata } from 'next';
 import type { WebPage, WithContext } from 'schema-dts';
 import { PageShell } from '@/components/page-shell';
+import { getImageVariants } from '@/lib/responsive-images-server';
+import { communityPhotos, caseStudies, testimonials, companies, partnersLogos, mediaLogos, hiredCompanies } from '@/lib/community-data';
 
 export const revalidate = 43200; // Revalidate every 12 hours
 
@@ -41,6 +43,11 @@ export default async function Page() {
   const companyLogos = await buildCompanyLogoMap(latestJobs);
   const latestArticles = (await getAllArticles()).slice(0, 9);
   const latestNews = (await getNewsListingItems()).slice(0, 9);
+  const imageVariants = Object.fromEntries([...communityPhotos, ...caseStudies, ...testimonials, ...companies, ...partnersLogos, ...mediaLogos, ...hiredCompanies].flatMap(image => {
+    const src = 'src' in image ? image.src : image.image;
+    const variants = getImageVariants(src);
+    return variants ? [[src, variants]] : [];
+  }));
 
   const siteUrl = 'https://hashtagweb3.com';
   const pageSchema: WithContext<WebPage> = {
@@ -70,6 +77,7 @@ export default async function Page() {
               latestArticles={latestArticles}
               latestNews={latestNews}
               companyLogos={companyLogos}
+              imageVariants={imageVariants}
             />
           </PageShell>
         </main>

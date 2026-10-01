@@ -1,7 +1,7 @@
 ---
 title: Crypto Guide for Digital Nomads
 ogTitle: "THE CRYPTO GUIDE FOR DIGITAL NOMADS"
-image: /images/domenico-loia-EhTcC9sYXsw-unsplash.jpg
+image: /images/domenico-loia-EhTcC9sYXsw-unsplash.webp
 data-ai-hint: digital nomad laptop
 description: >-
   A practical guide for digital nomads on how to use cryptocurrency for a

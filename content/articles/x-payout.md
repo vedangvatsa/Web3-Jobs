@@ -5,7 +5,7 @@ description: >-
   X filed in England's High Court on Sept. 17 against two named defendants and
   unknown operators, alleging fraudulent creator revenue-sharing payouts tied to
   six Bitcoin-focused accounts.
-image: /images/news/x-payout.jpg
+image: /images/news/x-payout.webp
 imageCaption: "The Royal Courts of Justice in London. Photo: David Castor via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_2019.jpg
 category: News

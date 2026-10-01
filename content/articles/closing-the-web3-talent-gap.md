@@ -1,7 +1,7 @@
 ---
 title: Closing the Web3 Talent Gap
 ogTitle: "CLOSING THE WEB3 TALENT GAP"
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 data-ai-hint: team hiring collaboration
 description: >-
   An analysis of the Web3 talent shortage. We explore why the demand for skilled

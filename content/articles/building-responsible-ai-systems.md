@@ -1,7 +1,7 @@
 ---
 title: 'Building Responsible AI Systems'
 ogTitle: "BUILDING RESPONSIBLE AI SYSTEMS"
-image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
+image: /images/bruce-mars-FWVMhUa_wbY-unsplash.webp
 description: >-
   Learn how Web3 principles like transparency and decentralization can be used
   to build more responsible and ethical AI systems.

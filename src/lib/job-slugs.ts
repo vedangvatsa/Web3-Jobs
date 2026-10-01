@@ -417,6 +417,7 @@ export function assignJobSlugsAndSyncLegacyArchive(
   jobs: JobSlugFields[],
   archive: Record<string, LegacySlugRecord>,
   reservedRootSlugs?: Set<string>,
+  publishedSlugs: Set<string> = new Set(),
 ): number {
   const reserved = reservedRootSlugs ?? new Set<string>();
   const snapshot = jobs.map((job) => ({
@@ -428,7 +429,7 @@ export function assignJobSlugsAndSyncLegacyArchive(
     date: job.date,
   }));
   const extraBlockedSlugs = new Set(
-    Object.keys(archive).map((slug) => slug.toLowerCase()),
+    [...Object.keys(archive), ...publishedSlugs].map((slug) => slug.toLowerCase()),
   );
   assignJobSlugsInCache(jobs, { reservedRootSlugs: reserved, extraBlockedSlugs });
   return syncLegacyArchiveAfterSlugChanges(snapshot, jobs, archive, reserved);

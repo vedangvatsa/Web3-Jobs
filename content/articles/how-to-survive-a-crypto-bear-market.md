@@ -1,7 +1,7 @@
 ---
 title: How to Survive a Crypto Bear Market
 ogTitle: "SURVIVE (AND THRIVE IN) A CRYPTO BEAR MARKET GUIDE"
-image: /images/firmbee-com-SpVHcbuKi6E-unsplash.jpg
+image: /images/firmbee-com-SpVHcbuKi6E-unsplash.webp
 data-ai-hint: bear market chart
 description: >-
   A guide for Web3 professionals on how to work through a crypto bear market.

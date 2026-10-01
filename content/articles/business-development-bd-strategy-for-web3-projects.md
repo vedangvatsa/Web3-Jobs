@@ -1,7 +1,7 @@
 ---
 title: 'Web3 BD Strategy 2026'
 ogTitle: "WEB3 BD STRATEGY 2026"
-image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+image: /images/alex-knight-2EJCSULRwC8-unsplash.webp
 data-ai-hint: business development handshake
 description: >-
   Master Web3 business development in 2026. Proven strategies for partnerships,

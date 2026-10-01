@@ -107,6 +107,11 @@ export type PublicWeb3Event = Omit<Web3Event, 'source' | 'sourceVerification' | 
   };
 };
 
+export type EventListItem = Pick<Web3Event,
+  'id' | 'name' | 'slug' | 'description' | 'startDate' | 'endDate' | 'timezone' |
+  'city' | 'country' | 'location' | 'category' | 'price' | 'eventStatus'
+>;
+
 // Country code to clean name mapping
 export const COUNTRY_NAMES: Record<string, string> = {
   AE: 'United Arab Emirates', AF: 'Afghanistan', AR: 'Argentina', AT: 'Austria',

@@ -1,7 +1,7 @@
 ---
 title: 'The Slow Path to Web3 Mass Adoption'
 ogTitle: "THE SLOW PATH TO WEB3 MASS ADOPTION"
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 description: >-
   An analysis of the key barriers-from user experience and scalability to
   regulation and perception-that are hindering the mass adoption of Web3

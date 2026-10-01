@@ -1,6 +1,8 @@
 import * as crypto from 'crypto';
 import * as fs from 'fs';
 import * as path from 'path';
+import { load } from 'cheerio';
+import { preparePreviewImage, writeSocialImageInfo } from './lib/og-preview-assets';
 import {
   buildOgPreviewHtml,
   collectOgPreviewPaths,
@@ -32,14 +34,7 @@ function saveManifest(manifest: PreviewManifest): void {
 }
 
 async function main() {
-  if (FULL_REBUILD && fs.existsSync(OUT_ROOT)) {
-    for (const entry of fs.readdirSync(OUT_ROOT)) {
-      if (entry === '.preview-manifest.json') continue;
-      fs.rmSync(path.join(OUT_ROOT, entry), { recursive: true, force: true, maxRetries: 5, retryDelay: 150 });
-    }
-  } else {
-    fs.mkdirSync(OUT_ROOT, { recursive: true });
-  }
+  fs.mkdirSync(OUT_ROOT, { recursive: true });
 
   const paths = await collectOgPreviewPaths();
   const manifest = FULL_REBUILD ? {} : loadManifest();
@@ -49,7 +44,7 @@ async function main() {
 
   for (const contentPath of paths) {
     livePaths.add(contentPath);
-    const meta = await resolveOgPreviewMeta(contentPath);
+    const meta = await preparePreviewImage(await resolveOgPreviewMeta(contentPath));
     const fingerprint = sha(JSON.stringify(meta));
     const asset = previewAssetPath(contentPath);
     const outFile = path.join(process.cwd(), 'public', asset.replace(/^\//, ''));
@@ -73,7 +68,32 @@ async function main() {
     delete manifest[key];
   }
 
-  const fallbackMeta = await resolveOgPreviewMeta('/');
+  // Keep older shared URLs functional even when they are no longer in today's catalog.
+  function existingShells(directory: string): string[] {
+    return fs.readdirSync(directory, { withFileTypes: true }).flatMap(entry => {
+      const file = path.join(directory, entry.name);
+      return entry.isDirectory() ? existingShells(file) : entry.name.endsWith('.html') ? [file] : [];
+    });
+  }
+  for (const file of existingShells(OUT_ROOT)) {
+    const relative = path.relative(OUT_ROOT, file).replace(/\\/g, '/').replace(/\.html$/, '');
+    const contentPath = relative === 'index' ? '/' : `/${relative}`;
+    if (livePaths.has(contentPath) || relative === 'default') continue;
+    const before = fs.readFileSync(file, 'utf8');
+    const $ = load(before);
+    const image = $('meta[property="og:image"]').attr('content');
+    if (!image) throw new Error(`Missing OG image in ${file}`);
+    const meta = await preparePreviewImage({
+      title: $('meta[property="og:title"]').attr('content') || $('title').text(),
+      description: $('meta[property="og:description"]').attr('content') || '',
+      canonicalUrl: $('link[rel="canonical"]').attr('href') || `https://hashtagweb3.com${contentPath}`,
+      ogImageUrl: image,
+    });
+    const html = buildOgPreviewHtml(meta);
+    if (before !== html) { fs.writeFileSync(file, html); written++; }
+  }
+
+  const fallbackMeta = await preparePreviewImage(await resolveOgPreviewMeta('/'));
   const fallbackFp = sha(JSON.stringify(fallbackMeta));
   const fallbackPath = path.join(OUT_ROOT, 'default.html');
   if (FULL_REBUILD || manifest.__default__ !== fallbackFp || !fs.existsSync(fallbackPath)) {
@@ -85,6 +105,7 @@ async function main() {
   }
 
   saveManifest(manifest);
+  writeSocialImageInfo();
   console.log(
     `[precompute-og-previews] wrote ${written}, skipped ${skipped}, paths=${paths.length} → ${OUT_ROOT}`,
   );

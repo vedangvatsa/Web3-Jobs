@@ -1,42 +1,42 @@
 [
   {
-    "slug": "cash-fx",
-    "title": "CFTC Sues Cash FX Over Alleged $950M Forex Ponzi Scheme",
-    "description": "The CFTC charged Cash FX Group and three individuals with running a $950 million forex Ponzi scheme that left participants at least $406 million short.",
+    "slug": "cobalt",
+    "title": "Base Activates Cobalt Upgrade With Conditional Transactions",
+    "description": "Base put its third 2026 upgrade live on mainnet, adding Validity Transactions that wait for preset conditions plus new issuer controls for its B20 token standard.",
     "category": "News",
-    "publishedDate": "2026-09-27",
-    "image": "/images/news/cash-fx.jpg"
+    "publishedDate": "2026-10-01",
+    "image": "/images/news/cobalt.jpg"
   },
   {
-    "slug": "cleanspark-debt",
-    "title": "CleanSpark Closes $2.276B Notes Sale for Georgia Data Center",
-    "description": "CleanSpark closed a $2.276 billion sale of 7.875 percent senior secured notes due 2031 to fund its Sandersville data center campus in Georgia.",
+    "slug": "fundsz",
+    "title": "CFTC Wins $31.5M Fundsz Fraud Judgment in Florida Court",
+    "description": "A federal court in Florida ordered two Fundsz operators to pay more than $31 million in restitution and penalties after finding they sold investors on fictitious crypto and metals trading.",
     "category": "News",
-    "publishedDate": "2026-09-27",
-    "image": "/images/news/cleanspark-debt.jpg"
+    "publishedDate": "2026-10-01",
+    "image": "/images/news/fundsz.jpg"
   },
   {
-    "slug": "kalshi-appeal",
-    "title": "Kalshi Loses Sixth Circuit Appeal Over Sports Contracts",
-    "description": "The Sixth Circuit ruled Kalshi failed to show its sports-event contracts are swaps, letting Ohio and Tennessee enforce their gambling laws against the prediction market.",
+    "slug": "tda-sanctions",
+    "title": "US Sanctions Tren de Aragua Network Over ATM Cash Thefts",
+    "description": "The Treasury sanctioned 10 people and companies tied to Tren de Aragua, saying an ATM jackpotting crew stole millions from US banks and moved proceeds through Tron wallets.",
     "category": "News",
-    "publishedDate": "2026-09-27",
-    "image": "/images/news/kalshi-appeal.jpg"
+    "publishedDate": "2026-10-01",
+    "image": "/images/news/tda-sanctions.jpg"
   },
   {
-    "slug": "kelp-lawsuit",
-    "title": "KelpDAO Sues LayerZero Over $292M Bridge Exploit",
-    "description": "Evercrest Technologies, the company behind KelpDAO, filed suit in British Columbia against LayerZero and its CEO over the April rsETH bridge exploit.",
+    "slug": "brazil-depository",
+    "title": "Brazil depository CSD BR to mirror fund records on XRP Ledger",
+    "description": "CSD BR and Ripple said on September 29 that the Brazilian depository will copy ownership records for BTG Pactual fund shares onto the public XRP Ledger while its own systems remain the official record.",
     "category": "News",
-    "publishedDate": "2026-09-27",
-    "image": "/images/news/kelp-lawsuit.jpg"
+    "publishedDate": "2026-09-30",
+    "image": "/images/news/brazil-depository.jpg"
   },
   {
-    "slug": "peirce-exit",
-    "title": "SEC Commissioner Hester Peirce to Leave Post on Oct. 2",
-    "description": "SEC Commissioner Hester Peirce submitted her resignation effective Oct. 2, ending an eight-year tenure that included leading the agency Crypto Task Force.",
+    "slug": "coinbase-clearing",
+    "title": "Coinbase wins CFTC clearing license to complete US derivatives stack",
+    "description": "The CFTC registered Coinbase Clearing LLC as a derivatives clearing organization on September 28, giving Coinbase its own exchange, brokerage and clearing layers for fully collateralized US derivatives.",
     "category": "News",
-    "publishedDate": "2026-09-27",
-    "image": "/images/news/peirce-exit.jpg"
+    "publishedDate": "2026-09-30",
+    "image": "/images/news/coinbase-clearing.jpg"
   }
 ]

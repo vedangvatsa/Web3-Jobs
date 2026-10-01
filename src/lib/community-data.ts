@@ -149,7 +149,7 @@ export const caseStudies = [
  },
  {
   title: 'Founder Interview with Obortech',
-  image: '/images/obortechinterview.jpg',
+  image: '/images/obortechinterview.webp',
   data_ai_hint: 'founder interview',
   points: [
     'LinkedIn announcement achieved 925 likes and 23,000 impressions.',

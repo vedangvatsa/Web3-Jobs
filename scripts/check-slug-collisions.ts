@@ -1,10 +1,8 @@
 /**
  * Heal job slugs, then audit root occupancy.
  *
- * Job collisions are reminted in place so Firebase/Vercel prebuild never fails
- * because a new article, glossary term, company, or event reused a job URL.
- * Remaining non-job overlaps are logged and left to routing; they do not fail
- * the build.
+ * Job collisions are reminted in place. Unresolved collisions fail the build;
+ * informational legacy overlaps follow the existing routing precedence.
  */
 import fs from 'fs';
 import path from 'path';
@@ -116,10 +114,7 @@ async function checkSlugCollisions() {
   }
 
   if (jobHits.length > 0) {
-    // Should be unreachable after assignJobSlugsInCache's final uniqueness sweep.
-    // Do not fail the build: jobs still render at whatever slug they hold, and
-    // the next refresh will mint again against an updated reserved set.
-    console.warn('⚠️  Job URLs still overlap after remint (non-fatal):');
+    console.error('Job URLs still overlap after remint:');
     for (const slug of jobHits) {
       console.warn(`   /${slug}`);
       (slugMap.get(slug) || []).forEach((entry) => {
@@ -127,17 +122,19 @@ async function checkSlugCollisions() {
       });
     }
     console.warn('');
+    throw new Error(`Unresolved job URL collisions: ${jobHits.join(', ')}`);
   }
 
   const reserved = loadReservedRootSlugsSync();
   const jobs = readCachedJobs();
   const reservedHits = jobs.filter((job) => job.slug && reserved.has(job.slug.toLowerCase()));
   if (reservedHits.length > 0) {
-    console.warn('⚠️  Jobs still on reserved roots after remint (non-fatal):');
+    console.error('Jobs still on reserved roots after remint:');
     reservedHits.forEach((job) => {
       console.warn(`   /${job.slug} — ${job.title} at ${job.company}`);
     });
     console.warn('');
+    throw new Error('Jobs occupy reserved content URLs');
   }
 
   let otherOverlaps = 0;
@@ -177,6 +174,5 @@ async function checkSlugCollisions() {
 
 checkSlugCollisions().catch((err) => {
   console.error('Error running slug occupancy audit:', err);
-  console.error('Continuing the build; job pages will use slugs already in the cache.');
-  process.exit(0);
+  process.exit(1);
 });

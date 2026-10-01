@@ -4,7 +4,7 @@ ogTitle: "WHAT DOES CHRIS DIXON THINK ABOUT WEB3"
 description: >-
   Discover the insights of Chris Dixon, a General Partner at Andreessen Horowitz
   (a16z) and one of Web3's most influential investors. This guide explores.
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man smile
 publishedDate: '2026-03-11'

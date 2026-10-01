@@ -225,7 +225,7 @@ export function JobBoard({
               data-date={job.date}
               className="h-full"
             >
-              <JobCard job={job} logoUrl={logo?.logo} faviconUrl={logo?.favicon} />
+              <JobCard job={job} logoUrl={logo?.logo} faviconUrl={logo?.favicon} imageVariants={logo?.imageVariants} />
             </div>
           );
         })}

@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));
+const imageRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/image-redirects.json'), 'utf8'));
 const learnRedirects = [
   ...Object.entries(learnRoutes.courses).map(([category, slug]) => ({ source: `/learn/${category}`, destination: `/${slug}`, permanent: true })),
   ...Object.entries(learnRoutes.lessons).map(([lesson, slug]) => ({ source: `/learn/${lesson}`, destination: `/${slug}`, permanent: true })),
@@ -12,6 +13,7 @@ const learnRedirects = [
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
+  compress: true,
   serverExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk'],
   // Keep job/event catalogs inside the standalone server image. Without this,
   // FAH cold starts miss content/*.json, fall back to HTTP shard/catalog fetches,
@@ -32,6 +34,10 @@ const nextConfig = {
       './content/learn-routes.json',
       './content/pseo-resources-runtime.json',
       './content/company-logos-index.json',
+      './content/image-redirects.json',
+      './content/social-preview-image-cache.json',
+      './content/responsive-images.json',
+      './content/social-image-info.json',
       './content/latest-articles.json',
       './content/job-shards/**/*',
       './content/job-description-shards/**/*',
@@ -89,6 +95,7 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      ...Object.entries(imageRedirects).map(([source, destination]) => ({ source, destination, permanent: true })),
       ...learnRedirects,
       {
         source: '/:path*',
@@ -207,15 +214,20 @@ const nextConfig = {
     ]
   },
   async rewrites() {
-    return [
-      { source: '/logo/companies/Chainalysis.webp', destination: '/logo/companies/chainalysis.webp' },
-      { source: '/logo/companies/JP_Morgan.webp', destination: '/logo/companies/jp_morgan.webp' },
-      { source: '/logo/companies/KPMG.webp', destination: '/logo/companies/kpmg.webp' },
-      { source: '/logo/hashtagweb3.png', destination: '/logo/HashtagWeb3.png' },
-      { source: '/logo-bimi.svg', destination: '/logo/logo-bimi.svg' },
-      { source: '/bimi.svg', destination: '/logo/bimi.svg' },
-      { source: '/bimi.png', destination: '/logo/bimi.png' },
-    ];
+    return {
+      beforeFiles: [
+        { source: '/events', has: [{ type: 'query', key: 'mode', value: 'agent' }], destination: '/agent-view.json' },
+      ],
+      afterFiles: [
+        { source: '/logo/companies/Chainalysis.webp', destination: '/logo/companies/chainalysis.webp' },
+        { source: '/logo/companies/JP_Morgan.webp', destination: '/logo/companies/jp_morgan.webp' },
+        { source: '/logo/companies/KPMG.webp', destination: '/logo/companies/kpmg.webp' },
+        { source: '/logo/hashtagweb3.png', destination: '/logo/HashtagWeb3.png' },
+        { source: '/logo-bimi.svg', destination: '/logo/logo-bimi.svg' },
+        { source: '/bimi.svg', destination: '/logo/bimi.svg' },
+        { source: '/bimi.png', destination: '/logo/bimi.png' },
+      ],
+    };
   },
   async headers() {
     const cspHeader = `
@@ -342,7 +354,7 @@ const nextConfig = {
         ],
       },
       {
-        source: '/(.*)\\.(jpg|jpeg|png|gif|svg|webp|avif)$',
+        source: '/:path(.*\\.(?:jpg|jpeg|png|gif|svg|webp|avif|ico))',
         headers: [
           {
             key: 'Cache-Control',

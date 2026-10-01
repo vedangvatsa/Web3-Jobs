@@ -1,7 +1,7 @@
 ---
 title: 'Securing Your Crypto'
 ogTitle: "SECURING YOUR CRYPTO"
-image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
+image: /images/bruce-mars-FWVMhUa_wbY-unsplash.webp
 description: >-
   In Web3, you are your own bank. This guide covers the essential security
   practices for keeping your cryptocurrency safe, from wallet security to

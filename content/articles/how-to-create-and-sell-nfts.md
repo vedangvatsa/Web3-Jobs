@@ -1,7 +1,7 @@
 ---
 title: 'How to Create and Sell NFTs'
 ogTitle: "CREATE AND SELL NFTS GUIDE"
-image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
+image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.webp
 data-ai-hint: nft creation selling
 description: >-
   A practical guide to creating and selling NFTs in 2026. Learn how minting

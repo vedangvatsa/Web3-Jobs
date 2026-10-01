@@ -5,7 +5,7 @@ description: >-
   Animoca Brands and Currenc Group mutually suspended reverse merger talks on
   Sept. 22, pausing a deal that would have listed Animoca on Nasdaq with its
   shareholders holding 95 percent of the combined firm.
-image: /images/news/animoca-currenc.jpg
+image: /images/news/animoca-currenc.webp
 imageCaption: "Hong Kong skyline across Victoria Harbour. Photo: Diliff via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong%20Kong%20Skyline%20Panorama%20-%20Dec%202008.jpg
 category: News

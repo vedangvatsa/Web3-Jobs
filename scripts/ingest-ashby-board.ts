@@ -2,8 +2,10 @@
 import fs from 'fs';
 import path from 'path';
 import { assignJobSlugsAndSyncLegacyArchive, getJobContentKey } from '../src/lib/job-slugs';
-import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
+import { loadPublishedRootSlugsSync, loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
 import { loadJobLegacyArchive, writeJobLegacyArchive } from './lib/job-slug-assignment';
+import { isConcreteJobOpening } from '../src/lib/job-filters';
+import { getAshbySalary } from './lib/ashby-salary';
 import {
   buildJobDescriptionAliases,
   readJobDescriptionStore,
@@ -20,6 +22,7 @@ if (!board || !company) {
 const source = `Ashby: ${company} [${board}]`;
 const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
 const allJobs = JSON.parse(fs.readFileSync(cachePath, 'utf8')) as Array<Record<string, unknown>>;
+const previousById = new Map(allJobs.map(job => [String(job.id), job]));
 
 const filtered = allJobs.filter((job) => {
   const s = String(job.source || '').toLowerCase();
@@ -27,7 +30,7 @@ const filtered = allJobs.filter((job) => {
 });
 
 async function main() {
-  const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(board)}`);
+  const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(board)}?includeCompensation=true`, { signal: AbortSignal.timeout(30_000) });
   if (!res.ok) throw new Error(`Ashby HTTP ${res.status}`);
   const data = (await res.json()) as {
     jobs: Array<{
@@ -39,8 +42,12 @@ async function main() {
       department?: string;
       team?: string;
       descriptionHtml?: string;
+      isListed?: boolean;
+      applyUrl?: string;
+      compensation?: Parameters<typeof getAshbySalary>[0];
     }>;
   };
+  if (!Array.isArray(data.jobs)) throw new Error('Ashby response has no jobs array');
 
   const store = readJobDescriptionStore();
   const descriptions = { ...store.descriptions };
@@ -48,7 +55,7 @@ async function main() {
 
   for (const job of data.jobs) {
     const title = job.title?.replace(/\s+/g, ' ').trim();
-    if (!title || !job.jobUrl) continue;
+    if (!title || !job.jobUrl || job.isListed === false || !isConcreteJobOpening(title, job.jobUrl)) continue;
     const row: Record<string, unknown> = {
       id: job.id,
       title,
@@ -58,6 +65,9 @@ async function main() {
       source,
       location: job.location,
       department: job.department || job.team,
+      salary: getAshbySalary(job.compensation),
+      ...(job.applyUrl && { applyUrl: job.applyUrl }),
+      ...(previousById.get(job.id)?.slug && { slug: previousById.get(job.id)!.slug }),
       active: true,
     };
     added.push(row);
@@ -68,7 +78,7 @@ async function main() {
 
   const merged = [...filtered, ...added] as never[];
   const legacyArchive = loadJobLegacyArchive();
-  assignJobSlugsAndSyncLegacyArchive(merged, legacyArchive, loadReservedRootSlugsSync());
+  assignJobSlugsAndSyncLegacyArchive(merged, legacyArchive, loadReservedRootSlugsSync(), loadPublishedRootSlugsSync());
   writeJobLegacyArchive(legacyArchive);
   merged.sort(
     (a, b) => new Date(String((b as { date: string }).date)).getTime() - new Date(String((a as { date: string }).date)).getTime(),

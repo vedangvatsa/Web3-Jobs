@@ -33,7 +33,7 @@ export function DetailPageHeader({
         {breadcrumbs.map((breadcrumb, index) => (
           <span key={breadcrumb.href} className="inline-flex min-w-0 items-center gap-2">
             {index > 0 && <span aria-hidden="true">/</span>}
-            <Link href={breadcrumb.href} className="shrink-0 hover:text-foreground">
+            <Link href={breadcrumb.href} prefetch={false} className="shrink-0 hover:text-foreground">
               {breadcrumb.label}
             </Link>
           </span>

@@ -2,7 +2,7 @@
 title: Ethereum Glamsterdam Rehearsal Clears Path to Sepolia Test
 ogTitle: "ETHEREUM GLAMSTERDAM REHEARSAL CLEARS PATH TO SEPOLIA TEST"
 description: Ethereum's Glamsterdam upgrade kept confirming blocks on its Devnet-11 rehearsal network this week, with Nethermind passing all 2,302 performance tests and the gas limit raised to 200 million, ahead of a proposed Oct. 6 Sepolia deployment.
-image: /images/news/glamsterdam.jpg
+image: /images/news/glamsterdam.webp
 imageCaption: "A technician works on a server rack. Ethereum validators run similar hardware to process blocks. Photo: Derrick Coetzee via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician_with_laptop_working_on_server_rack_at_NERSC.jpg
 category: News

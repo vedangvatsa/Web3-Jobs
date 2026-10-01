@@ -1,7 +1,7 @@
 ---
 title: 'The On-Chain Resume'
 ogTitle: "THE ON-CHAIN RESUME"
-image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
+image: /images/george-prentzas-SRFG7iwktDk-unsplash.webp
 data-ai-hint: on-chain resume
 description: >-
   In Web3, your wallet is your resume. This guide explains how your on-chain

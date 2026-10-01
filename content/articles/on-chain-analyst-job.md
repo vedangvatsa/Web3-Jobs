@@ -1,7 +1,7 @@
 ---
 title: 'The On-Chain Analyst Job'
 ogTitle: "THE ON-CHAIN ANALYST JOB"
-image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
+image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.webp
 data-ai-hint: data analyst chart
 description: >-
   A career guide for aspiring on-chain data analysts. Learn what the role

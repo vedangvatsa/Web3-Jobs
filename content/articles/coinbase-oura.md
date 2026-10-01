@@ -4,7 +4,7 @@ ogTitle: "COINBASE OPENS OURA IPO ALLOCATIONS TO US RETAIL CUSTOMERS"
 description: >-
   Coinbase says eligible US customers can request Oura IPO shares at the offer
   price through a new IPOs page before the ring maker's Nasdaq debut.
-image: /images/news/coinbase-oura.jpg
+image: /images/news/coinbase-oura.webp
 imageCaption: "The New York Stock Exchange on Wall Street. Photo: Ryan Stavely via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg
 category: News

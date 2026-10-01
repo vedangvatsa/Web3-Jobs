@@ -1,7 +1,7 @@
 ---
 title: 'Web3 Internship 101 Guide'
 ogTitle: "WEB3 INTERNSHIP 101 GUIDE"
-image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
+image: /images/emile-perron-xrVDYZRGdw4-unsplash.webp
 data-ai-hint: internship student learning
 description: >-
   Your complete guide to finding and landing a Web3 internship. Learn where to

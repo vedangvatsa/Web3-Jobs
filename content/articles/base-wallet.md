@@ -4,7 +4,7 @@ description: >-
   Coinbase's current wallet, help and Base materials distinguish the Coinbase
   Wallet self-custody product from the Base blockchain, after Coinbase Wallet
   was introduced as the Base App in July 2025.
-image: /images/news/base-wallet.jpg
+image: /images/news/base-wallet.webp
 imageCaption: "San Francisco financial district. Photo: Yair-haklai via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:View_of_Financial_District,_San_Francisco.jpg
 category: News

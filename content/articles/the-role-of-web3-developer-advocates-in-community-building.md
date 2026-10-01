@@ -1,7 +1,7 @@
 ---
 title: Web3 Developer Advocates
 ogTitle: "THE ROLE OF WEB3 DEVELOPER ADVOCATES IN COMMUNITY BUILDING"
-image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
+image: /images/thisisengineering-32PpagSzeGs-unsplash.webp
 data-ai-hint: developer advocate community
 description: >-
   An in-depth look at the Web3 Developer Advocate (DevRel) role, exploring how

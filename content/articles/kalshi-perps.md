@@ -4,7 +4,7 @@ description: >-
   Kalshi plans to seek U.S. approval for roughly 60 perpetual futures tied to
   individual stocks and ETFs; no product filing or contract specifications have
   been published.
-image: /images/news/kalshi-perps.jpg
+image: /images/news/kalshi-perps.webp
 imageCaption: "Facade of the New York Stock Exchange in New York City's financial district. Photo: Jean-Christophe Benoist via Wikimedia Commons (CC BY 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:NYC_-_New_York_Stock_Exchange.JPG
 category: News

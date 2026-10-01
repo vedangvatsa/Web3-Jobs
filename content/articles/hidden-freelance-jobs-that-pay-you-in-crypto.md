@@ -1,7 +1,7 @@
 ---
 title: Hidden Freelance Jobs That Pay You in Crypto
 ogTitle: "HIDDEN FREELANCE JOBS THAT PAY YOU IN CRYPTO"
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 data-ai-hint: side hustle laptop
 description: >-
   A guide to the world of Web3 freelancing. Learn how to find and complete

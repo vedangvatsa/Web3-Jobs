@@ -1,7 +1,7 @@
 ---
 title: Formal Verification for Smart Contracts
 ogTitle: "HOW FORMAL VERIFICATION IMPROVES SMART CONTRACT SECURITY"
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 data-ai-hint: security code verification
 description: >-
   See how formal properties and mathematical proofs complement smart contract

@@ -8,6 +8,7 @@ import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import type { CompanyLogoMap } from '@/lib/job-logo-map';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
+import { withLogoImageVariants } from '@/lib/responsive-images-server';
 
 export const dynamic = 'force-static';
 
@@ -84,7 +85,7 @@ export default function JobsPage() {
         <PageHeader title="Web3 Jobs" />
         <TrustedBy />
         <CommunityFeedBanner />
-        <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} showResultCount={false} />
+         <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={withLogoImageVariants(companyLogos)} showResultCount={false} />
       </PageShell>
     </main>
    </div>

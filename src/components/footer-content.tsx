@@ -64,7 +64,7 @@ export function FooterContent() {
       <ul className="space-y-2">
        {resourceLinks.map(link => (
         <li key={link.label}>
-         <Link href={link.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+         <Link href={link.href} prefetch={false} className="text-sm text-muted-foreground hover:text-primary transition-colors">
           {link.label}
          </Link>
         </li>
@@ -77,13 +77,13 @@ export function FooterContent() {
         <ul className="space-y-2">
         {popularArticles.map(article => (
          <li key={article.href}>
-           <Link href={article.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
+           <Link href={article.href} prefetch={false} className="text-sm text-muted-foreground hover:text-primary transition-colors">
            {article.label}
          </Link>
         </li>
        ))}
           <li>
-           <Link href="/blog" className="text-sm font-semibold text-primary hover:text-primary/80 transition-colors">
+           <Link href="/blog" prefetch={false} className="text-sm font-semibold text-primary hover:text-primary/80 transition-colors">
              View all &rarr;
            </Link>
           </li>

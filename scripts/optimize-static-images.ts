@@ -6,13 +6,16 @@ import sharp from 'sharp';
 const ROOT = path.resolve('public');
 const MANIFEST_PATH = path.resolve('content/static-image-optimization.json');
 const WEBP_OPTIONS = { quality: 76, effort: 5 } as const;
-const WEBP_CAPS = {
+const IMAGE_CAPS = {
   images: { width: 1920, height: 1920 },
-  logo: { width: 1024, height: 1024 },
+  logo: { width: 512, height: 512 },
+  events: { width: 1600, height: 1600 },
+  popups: { width: 1600, height: 1600 },
+  og: { width: 1200, height: 630 },
   root: { width: 1920, height: 1920 },
 } as const;
 
-type Category = keyof typeof WEBP_CAPS;
+type Category = keyof typeof IMAGE_CAPS;
 type SupportedExtension = '.jpg' | '.jpeg' | '.png' | '.webp';
 type ManifestEntry = {
   sha256: string;
@@ -55,8 +58,12 @@ function isSupportedExtension(extension: string): extension is SupportedExtensio
 
 function categoryFor(filePath: string): Category {
   const relativePath = path.relative(ROOT, filePath);
+  if (relativePath.startsWith(`logo${path.sep}gallery${path.sep}`) || relativePath.startsWith(`logo${path.sep}promo${path.sep}`)) return 'images';
   if (relativePath.startsWith(`images${path.sep}`)) return 'images';
   if (relativePath.startsWith(`logo${path.sep}`)) return 'logo';
+  if (relativePath.startsWith(`events${path.sep}`)) return 'events';
+  if (relativePath.startsWith(`popups${path.sep}`)) return 'popups';
+  if (relativePath.startsWith(`og${path.sep}`)) return 'og';
   return 'root';
 }
 
@@ -74,13 +81,7 @@ async function listFiles(directory: string): Promise<string[]> {
 }
 
 async function listScopedFiles(): Promise<string[]> {
-  const [images, logo, rootEntries] = await Promise.all([
-    listFiles(path.join(ROOT, 'images')),
-    listFiles(path.join(ROOT, 'logo')),
-    fs.readdir(ROOT, { withFileTypes: true }),
-  ]);
-  const rootFiles = rootEntries.filter((entry) => entry.isFile()).map((entry) => path.join(ROOT, entry.name));
-  return [...images, ...logo, ...rootFiles].sort();
+  return (await listFiles(ROOT)).filter(filePath => !path.relative(ROOT, filePath).startsWith(`responsive${path.sep}`) && /\.(?:jpe?g|png|webp|avif|gif|ico|svg)$/i.test(filePath)).sort();
 }
 
 function hashFile(filePath: string): Promise<string> {
@@ -121,14 +122,14 @@ function initialSkipped(): Skipped {
 
 async function createCandidate(sourcePath: string, extension: SupportedExtension, category: Category): Promise<{ buffer: Buffer; resized: boolean }> {
   const metadata = await sharp(sourcePath, { animated: false }).metadata();
-  const cap = WEBP_CAPS[category];
-  const resized = extension === '.webp' && Boolean(metadata.width && metadata.height && (metadata.width > cap.width || metadata.height > cap.height));
+  const cap = IMAGE_CAPS[category];
+  const resized = Boolean(metadata.width && metadata.height && (metadata.width > cap.width || metadata.height > cap.height));
   let pipeline = sharp(sourcePath, { animated: false }).rotate();
   if (resized) {
     pipeline = pipeline.resize({ width: cap.width, height: cap.height, fit: 'inside', withoutEnlargement: true });
   }
   if (extension === '.png') {
-    return { buffer: await pipeline.withMetadata().png({ compressionLevel: 9, adaptiveFiltering: true }).toBuffer(), resized };
+    return { buffer: await pipeline.png({ compressionLevel: 9, adaptiveFiltering: true }).toBuffer(), resized };
   }
   if (extension === '.webp') {
     return { buffer: await pipeline.webp(WEBP_OPTIONS).toBuffer(), resized };
@@ -170,21 +171,32 @@ async function main(): Promise<void> {
       skipped.malformed.push(relativePath);
       continue;
     }
-    if (metadata.pages && metadata.pages > 1) { skipped.animated.push(relativePath); continue; }
+    // Some event downloads contain animated GIF bytes behind a JPEG URL.
+    // Serve a correctly encoded poster at that existing static-image URL.
+    const animatedPoster = categoryFor(filePath) === 'events' && (extension === '.jpg' || extension === '.jpeg') && metadata.format === 'gif';
+    if (metadata.pages && metadata.pages > 1 && !animatedPoster) { skipped.animated.push(relativePath); continue; }
     if (!metadata.format || !metadata.width || !metadata.height) { skipped.malformed.push(relativePath); continue; }
-    if (metadata.format === 'gif' || metadata.format === 'heif') { skipped.unsupported.push(relativePath); continue; }
-    if (!['jpeg', 'png', 'webp'].includes(metadata.format)) { skipped.mismatchUnrepaired.push(relativePath); continue; }
+    if ((metadata.format === 'gif' && !animatedPoster) || metadata.format === 'heif') { skipped.unsupported.push(relativePath); continue; }
+    if (!['jpeg', 'png', 'webp'].includes(metadata.format) && !animatedPoster) { skipped.mismatchUnrepaired.push(relativePath); continue; }
 
     eligible++;
     const sourceHash = await hashFile(filePath);
     const previous = manifest.files[relativePath];
-    if (previous?.sha256 === sourceHash) {
+    const cap = IMAGE_CAPS[categoryFor(filePath)];
+    const oversized = metadata.width > cap.width || metadata.height > cap.height;
+    if (previous?.sha256 === sourceHash && !oversized) {
       alreadyOptimized++;
       manifestEntries[relativePath] = previous;
       continue;
     }
 
     const repairedMismatch = metadata.format !== extensionFormat(extension);
+    const sourceBytes = (await fs.stat(filePath)).size;
+    if (sourceBytes < 16_384 && !oversized && !repairedMismatch) {
+      retained++;
+      manifestEntries[relativePath] = { sha256: sourceHash, status: 'retained' };
+      continue;
+    }
     let candidate: { buffer: Buffer; resized: boolean };
     try {
       candidate = await createCandidate(filePath, extension, categoryFor(filePath));
@@ -197,8 +209,7 @@ async function main(): Promise<void> {
       continue;
     }
 
-    const sourceBytes = (await fs.stat(filePath)).size;
-    if (candidate.buffer.length >= sourceBytes) {
+    if (candidate.buffer.length >= sourceBytes - Math.min(1024, sourceBytes * 0.05)) {
       retained++;
       if (repairedMismatch) skipped.mismatchRetained.push(relativePath);
       skipped.notSmaller.push(relativePath);
@@ -242,8 +253,9 @@ async function main(): Promise<void> {
     originalBytes,
     optimizedBytes,
     bytesSaved: originalBytes - optimizedBytes,
-    changedFiles: changes.map((change) => change.relativePath),
-    skipped,
+    largestSavings: [...changes].sort((a, b) => (b.sourceBytes - b.targetBytes) - (a.sourceBytes - a.targetBytes)).slice(0, 20)
+      .map(({ relativePath, sourceBytes, targetBytes }) => ({ path: relativePath, sourceBytes, targetBytes })),
+    skipped: Object.fromEntries(Object.entries(skipped).map(([key, files]) => [key, files.length])),
   }, null, 2));
 }
 

@@ -2,7 +2,7 @@
 title: US Sanctions BitBank Exchange Over Bitcoin Transfers to Iranian Guards
 ogTitle: "US SANCTIONS BITBANK EXCHANGE OVER BITCOIN TRANSFERS TO IRANIAN GUARDS"
 description: The US Treasury on Sept. 17, 2026 sanctioned Tehran exchange BitBank, its software developer and three men, saying the exchange moved hundreds of millions of dollars in bitcoin to the Islamic Revolutionary Guard Corps.
-image: /images/news/bitbank-sanctions.jpg
+image: /images/news/bitbank-sanctions.webp
 imageCaption: "The oil tanker ACADIAN near St. John's, Canada. Photo: Gordon Leggett via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg
 category: News

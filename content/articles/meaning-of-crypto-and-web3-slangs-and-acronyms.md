@@ -1,7 +1,7 @@
 ---
 title: Crypto and Web3 Slang
 ogTitle: "A GUIDE TO CRYPTO & WEB3 SLANG AND ACRONYMS"
-image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
+image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.webp
 data-ai-hint: crypto web3 slang
 description: >-
   An extensive technical and cultural dictionary of Web3, cryptocurrency, DeFi, and developer slang, acronyms, and terminology for engineers and investors.

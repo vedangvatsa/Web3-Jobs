@@ -2,7 +2,7 @@
 title: dtcpay Closes $25 Million Series A With SBI Group Investment
 ogTitle: "DTCPAY CLOSES $25 MILLION SERIES A WITH SBI GROUP INVESTMENT"
 description: Singapore payments company dtcpay said on Sept. 18, 2026 it closed a $25 million Series A round anchored by Japan's SBI Group to expand its licensed stablecoin payment network.
-image: /images/news/dtcpay-funding.jpg
+image: /images/news/dtcpay-funding.webp
 imageCaption: "Marina Bay in Singapore at dusk. Photo: Benh LIEU SONG via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg
 category: News

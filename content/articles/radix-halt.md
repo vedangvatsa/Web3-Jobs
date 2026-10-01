@@ -2,7 +2,7 @@
 title: Radix Traces $1.3M Vault Drain to 2023 Code Cleanup
 ogTitle: "RADIX TRACES $1.3M VAULT DRAIN TO 2023 CODE CLEANUP"
 description: The Radix Foundation said on Sept. 17, 2026 that a flaw introduced in a June 2023 code tidy-up let an attacker drain about $1.3 million on Aug. 31 and forced validators to stop the network for 10 days.
-image: /images/news/radix-halt.jpg
+image: /images/news/radix-halt.webp
 imageCaption: "Rows of server racks in a data center corridor. Photo: Joel van der Loo via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Duga-1%20radar%20data%20center%20inside%20dark%20corridor%202018.jpg
 category: News

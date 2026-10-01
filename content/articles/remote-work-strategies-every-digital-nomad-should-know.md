@@ -1,7 +1,7 @@
 ---
 title: Remote Work Strategies for Digital Nomads
 ogTitle: "REMOTE WORK STRATEGIES EVERY DIGITAL NOMAD SHOULD KNOW"
-image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
+image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.webp
 data-ai-hint: remote work strategy
 description: >-
   Master the art of working from anywhere. This guide covers the essential

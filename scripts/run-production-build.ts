@@ -23,7 +23,7 @@ function main(): void {
   run('npm run test:jobs-catalog');
   run('npm run test:company-jobs');
   run('npm run test:detail-formatting');
-  run('npm run audit:detail-formatting');
+  // The full prebuild gate already audits every job and event description.
   run('next build');
   run('tsx scripts/copy-standalone-catalogs.ts');
   run('tsx scripts/test-standalone-public-assets.ts');

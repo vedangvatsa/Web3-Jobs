@@ -1,7 +1,7 @@
 ---
 title: Ethereum Rollups and Scaling
 ogTitle: "THE FULL GUIDE TO ETHEREUM ROLLUPS AND SCALING SOLUTIONS"
-image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
+image: /images/bruce-mars-FWVMhUa_wbY-unsplash.webp
 description: >-
   A complete analysis of Ethereum's scaling solutions, focusing on Optimistic
   and ZK-Rollups, their architectural differences, and their impact on the.

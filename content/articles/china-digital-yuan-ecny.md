@@ -1,7 +1,7 @@
 ---
 title: 'China''s Digital Yuan (e-CNY)'
 ogTitle: "CHINA'S DIGITAL YUAN (E-CNY)"
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 data-ai-hint: digital currency china
 description: >-
   An analysis of China's e-CNY. We explore how this Central Bank Digital

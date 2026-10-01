@@ -2,7 +2,7 @@
 title: Bastion Wins Conditional OCC Approval for National Trust Bank Charter
 ogTitle: "BASTION WINS CONDITIONAL OCC BANK CHARTER APPROVAL"
 description: Bastion said the OCC granted preliminary conditional approval for a national trust bank charter covering custody, payments, and white-label stablecoin issuance, and named four new directors and advisors.
-image: /images/news/bastion-charter.jpg
+image: /images/news/bastion-charter.webp
 imageCaption: "The Office of the Comptroller of the Currency building. Photo: ajay_suresh via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:The%20Office%20of%20the%20Comptroller%20of%20the%20Currency%20(OCC)%20(53839145812).jpg
 category: News

@@ -5,7 +5,7 @@ description: >-
   Analyze Mark Zuckerberg's approach to Web3 and the metaverse. This guide
   examines Facebook's rebranding to Meta, its multi-billion dollar investment
   in.
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man face
 publishedDate: '2026-03-11'

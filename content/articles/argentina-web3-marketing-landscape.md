@@ -4,7 +4,7 @@ ogTitle: "WORKING THROUGH ARGENTINA'S WEB3 MARKETING SPACE"
 description: >-
   A deep dive into the growing Web3 marketing scene in Argentina. Explore key
   trends, opportunities, and strategies for success in this high-growth market.
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 category: Industry Insights
 data-ai-hint: argentina flag crypto
 publishedDate: '2026-03-11'

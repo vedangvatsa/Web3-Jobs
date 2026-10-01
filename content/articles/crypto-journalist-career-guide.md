@@ -1,7 +1,7 @@
 ---
 title: Crypto Journalist Career Roadmap Guide
 ogTitle: "CRYPTO JOURNALIST CAREER ROADMAP GUIDE"
-image: /images/firmbee-com-SpVHcbuKi6E-unsplash.jpg
+image: /images/firmbee-com-SpVHcbuKi6E-unsplash.webp
 data-ai-hint: journalist writing crypto
 description: >-
   A full guide to building a career as a crypto journalist. Learn the skills you

@@ -5,7 +5,7 @@ description: >-
   Explore the perspective of Jack Dorsey, co-founder of Twitter and Block
   (formerly Square), on Web3. This guide covers his staunch Bitcoin maximalism,
   his.
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man walking
 publishedDate: '2026-03-11'

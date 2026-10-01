@@ -5,7 +5,7 @@ description: >-
   Circle says eligible Mint customers can deposit BTC, mint cirBTC, and borrow
   USDC through third-party lending markets on Arc and Ethereum without selling
   bitcoin.
-image: /images/news/circle-borrow.jpg
+image: /images/news/circle-borrow.webp
 imageCaption: "Bitcoin held near a laptop keyboard. Photo: Nenad Stojkovic via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Child_holding_bitcoin_near_laptop_from_above._(51631979079).jpg
 category: News

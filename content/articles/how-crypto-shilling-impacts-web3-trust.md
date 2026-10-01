@@ -1,7 +1,7 @@
 ---
 title: How Crypto Shilling Impacts Web3 Trust
 ogTitle: "HOW CRYPTO SHILLING IMPACTS WEB3 TRUST"
-image: /images/thisisengineering-t4qI2IDcL5s-unsplash.jpg
+image: /images/thisisengineering-t4qI2IDcL5s-unsplash.webp
 data-ai-hint: trust handshake crypto
 description: >-
   An analysis of 'shilling' in the crypto space and its corrosive effect on user

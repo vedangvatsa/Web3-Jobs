@@ -5,7 +5,7 @@ description: >-
   Explore the unwavering conviction of Tim Draper, a legendary venture
   capitalist and one of Bitcoin's earliest and most vocal proponents. This guide
   covers.
-image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
+image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man confident
 publishedDate: '2026-03-11'

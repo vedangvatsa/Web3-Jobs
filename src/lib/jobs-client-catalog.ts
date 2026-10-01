@@ -1,6 +1,7 @@
 import type { Job } from '@/types';
 import type { CompanyLogoMap } from '@/lib/job-logo-map';
 import { paginatePublicJobs } from '@/lib/jobs-public-listing';
+import type { ResponsiveImagePlan } from './responsive-images';
 
 export type JobsApiResponse = {
   data: Job[];
@@ -9,10 +10,22 @@ export type JobsApiResponse = {
 };
 
 let catalogPromise: Promise<Job[]> | null = null;
+let logoVariantsPromise: Promise<Record<string, ResponsiveImagePlan>> | null = null;
+
+function loadLogoVariants(): Promise<Record<string, ResponsiveImagePlan>> {
+  logoVariantsPromise ??= fetch('/data/company-image-variants.json', { signal: AbortSignal.timeout(2500) })
+    .then(async response => {
+      if (!response.ok) return {};
+      const value: unknown = await response.json();
+      return value && typeof value === 'object' && !Array.isArray(value) ? value as Record<string, ResponsiveImagePlan> : {};
+    })
+    .catch(() => ({}));
+  return logoVariantsPromise;
+}
 
 async function loadJobsCatalog(): Promise<Job[]> {
   if (!catalogPromise) {
-    catalogPromise = fetch('/data/jobs-runtime.json', { cache: 'no-cache' })
+    catalogPromise = fetch('/data/jobs-runtime.json')
       .then(async (res) => {
         if (!res.ok) throw new Error(`jobs-runtime HTTP ${res.status}`);
         const catalog: unknown = await res.json();
@@ -40,7 +53,7 @@ export async function fetchJobsPage(options: {
     throw new DOMException('Aborted', 'AbortError');
   }
 
-  const allJobs = await loadJobsCatalog();
+  const [allJobs, logoVariants] = await Promise.all([loadJobsCatalog(), loadLogoVariants()]);
   if (options.signal?.aborted) {
     throw new DOMException('Aborted', 'AbortError');
   }
@@ -50,6 +63,10 @@ export async function fetchJobsPage(options: {
     limit: options.limit,
     offset: options.offset,
   });
+  for (const logo of Object.values(page.companyLogos)) {
+    const image = logo.logo ? logoVariants[logo.logo] : undefined;
+    if (image && typeof image.src === 'string' && Number.isFinite(image.width) && Number.isFinite(image.height)) logo.imageVariants = image;
+  }
 
   return {
     data: page.data,

@@ -1,7 +1,7 @@
 ---
 title: How Web3 Is Changing Product Management
 ogTitle: "HOW WEB3 IS CHANGING PRODUCT MANAGEMENT"
-image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
+image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.webp
 data-ai-hint: web3 product management
 description: >-
   A guide for product managers on the model shifts in the Web3 era. Learn how

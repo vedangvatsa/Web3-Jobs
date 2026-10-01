@@ -5,7 +5,7 @@ description: >-
   A primer on the critical legal issues facing the Web3 industry, from
   securities law and DAO liability to intellectual property. An essential read
   for.
-image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
+image: /images/bruce-mars-FWVMhUa_wbY-unsplash.webp
 category: Industry Insights
 data-ai-hint: gavel books
 publishedDate: '2026-03-11'

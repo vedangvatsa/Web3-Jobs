@@ -5,7 +5,7 @@ description: >-
   United States spot bitcoin ETFs pulled in a net 998.9 million dollars on
   Sept. 21, the ninth-largest daily intake since launch, led by BlackRock,
   Ark and Fidelity funds.
-image: /images/news/etf-inflows.jpg
+image: /images/news/etf-inflows.webp
 imageCaption: "Physical bitcoin tokens arranged in rows. Photo: Satheesh Sankaran via Wikimedia Commons (CC BY-SA 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin%20BTC%20Golden%20coins%208K%20wallpaper.jpg
 category: News

@@ -1,7 +1,7 @@
 ---
 title: Core Blockchain Features
 ogTitle: "BLOCKCHAIN CORE FEATURES DECENTRALIZATION IMMUTABILITY"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: blockchain technology abstract
 description: A comprehensive technical exploration of the core features of blockchain technology—decentralization, cryptographic immutability, public transparency, and smart contract automation.
 category: Educational

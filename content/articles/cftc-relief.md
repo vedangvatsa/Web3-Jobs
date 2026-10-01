@@ -2,7 +2,7 @@
 title: CFTC Opens Broker Relief to All Passive Trading Software
 ogTitle: "CFTC OPENS BROKER RELIEF TO ALL PASSIVE TRADING SOFTWARE"
 description: The CFTC's Market Participants Division said on Sept. 17, 2026 it will not recommend enforcement against passive software providers that route users to registered derivatives venues without registering as brokers, extending March relief first granted to Phantom.
-image: /images/news/cftc-relief.jpg
+image: /images/news/cftc-relief.webp
 imageCaption: "The headquarters of the U.S. Commodity Futures Trading Commission in Washington, D.C. Photo: ajay_suresh via Wikimedia Commons (CC BY 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Commodity_Futures_Trading_Commission_(CFTC)_(55264578721).jpg
 category: News

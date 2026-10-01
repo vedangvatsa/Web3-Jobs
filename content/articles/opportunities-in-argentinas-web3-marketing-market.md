@@ -1,7 +1,7 @@
 ---
 title: "Argentina's Web3 Marketing Market"
 ogTitle: "OPPORTUNITIES IN ARGENTINA'S WEB3 MARKETING MARKET"
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 data-ai-hint: argentina business marketing
 description: >-
   A deep dive into the unique Web3 marketing space in Argentina, a nation where

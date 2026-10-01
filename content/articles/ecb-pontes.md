@@ -2,7 +2,7 @@
 title: ECB Launches Pontes Settlement Platform and Plans Tokenised Bond Buys
 ogTitle: "ECB LAUNCHES PONTES SETTLEMENT PLATFORM AND PLANS TOKENISED BOND BUYS"
 description: The Eurosystem launched Pontes on Sept. 21 to settle wholesale tokenised trades in central bank money, while the ECB prepares to invest part of its own funds in tokenised securities.
-image: /images/news/ecb-pontes.jpg
+image: /images/news/ecb-pontes.webp
 imageCaption: "The seat of the European Central Bank and the Frankfurt skyline at dawn. Photo: DXR via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg
 category: News

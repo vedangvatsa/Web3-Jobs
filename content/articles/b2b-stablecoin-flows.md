@@ -28,7 +28,7 @@ What is happening today is not a fad or a speculative cryptocurrency trend. It i
 
 ---
 
-![Commercial B2B stablecoin settlement volume compared to consumer card spend](/images/articles/b2b-stablecoins/chart1.jpg)
+![Commercial B2B stablecoin settlement volume compared to consumer card spend](/images/articles/b2b-stablecoins/chart1.webp)
 *Commercial B2B trade invoicing now makes up approximately 60% of all non-speculative stablecoin volume, totaling ~$226B in 2025.*
 
 ---
@@ -54,7 +54,7 @@ While media attention focuses on consumer crypto debit cards and retail remittan
 
 ---
 
-![Monthly commercial stablecoin payment volume growth](/images/articles/b2b-stablecoins/chart2.jpg)
+![Monthly commercial stablecoin payment volume growth](/images/articles/b2b-stablecoins/chart2.webp)
 *Monthly genuine commercial payment volume expanded sixfold between January 2024 and early 2026, surpassing $30B/month.*
 
 ---
@@ -87,7 +87,7 @@ According to research by the [Bank for International Settlements](https://www.bi
 
 ---
 
-![All-in payment costs across traditional banks, fintechs, and stablecoins](/images/articles/b2b-stablecoins/chart4.jpg)
+![All-in payment costs across traditional banks, fintechs, and stablecoins](/images/articles/b2b-stablecoins/chart4.webp)
 *All-in cost comparison across transaction rails. While domestic G10 clearing is relatively cheap, emerging-market corridors extract up to 7%, creating massive economic incentives to switch to digital dollar rails.*
 
 ---
@@ -142,7 +142,7 @@ Meanwhile, $112.2 billion, nearly two-thirds of the region's volume, flows into 
 
 ---
 
-![Latin American remittance and cross-border distribution](/images/articles/b2b-stablecoins/chart3.jpg)
+![Latin American remittance and cross-border distribution](/images/articles/b2b-stablecoins/chart3.webp)
 *Over $112B of Latin American cross-border volume flows into South and Central America, outside the heavily saturated US-to-Mexico corridor.*
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: How Crypto ATMs Are Evolving with Web3
 ogTitle: "HOW CRYPTO ATMS ARE EVOLVING WITH WEB3"
-image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+image: /images/alex-knight-2EJCSULRwC8-unsplash.webp
 data-ai-hint: crypto atm machine
 description: >-
   A look at the evolution of Crypto ATMs, from simple Bitcoin machines to

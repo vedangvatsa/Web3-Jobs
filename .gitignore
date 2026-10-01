@@ -96,4 +96,7 @@ scripts/manual-emails*.json
 /*_vacancies.json
 /audit_output.json
 /web3voyager_events.json
+/scripts/logs/
+/fontsource-inter-*.tgz
+/.cache/metamask-responsive-mobile.png
 /.agents/skills/hashtagweb3-agent-skill/

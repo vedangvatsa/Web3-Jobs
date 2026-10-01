@@ -5,7 +5,7 @@ description: >-
   Binance launched an ETF Wealth Management service on Sept. 15 offering 11
   US-listed Treasury and bond ETFs through its Earn section, with execution and
   custody handled by licensed brokers.
-image: /images/news/binance-etfs.jpg
+image: /images/news/binance-etfs.webp
 imageCaption: "Traders on the floor of the New York Stock Exchange. Photo: Thomas J. O'Halloran via Wikimedia Commons (Public domain)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY%20stock%20exchange%20traders%20floor%20LC-U9-10548-6.jpg
 category: News

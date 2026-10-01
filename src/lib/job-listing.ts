@@ -4,6 +4,7 @@ import { getCompanyBySlug } from '@/lib/companies';
 import { getCompanySlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
 import type { CompanyLogoData, CompanyLogoMap } from '@/lib/job-logo-map';
+import { withLogoImageVariants } from './responsive-images-server';
 
 export type { CompanyLogoData, CompanyLogoMap } from '@/lib/job-logo-map';
 export { buildCompanyLogoMapSync } from '@/lib/job-logo-map';
@@ -27,5 +28,5 @@ export async function buildCompanyLogoMap(jobs: Job[]): Promise<CompanyLogoMap> 
     })
   );
 
-  return Object.fromEntries(entries);
+  return withLogoImageVariants(Object.fromEntries(entries));
 }

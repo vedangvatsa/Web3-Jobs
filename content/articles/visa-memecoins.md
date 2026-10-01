@@ -2,7 +2,7 @@
 title: Visa Moves to Close Meme Coin Credit Card Rewards Loophole
 ogTitle: "VISA MOVES TO CLOSE MEME COIN CREDIT CARD REWARDS LOOPHOLE"
 description: Visa told processors including Checkout.com to stop coding Crossmint-powered meme coin buys as digital media, ending credit card rewards on those purchases after a grace period expected to end next week.
-image: /images/news/visa-memecoins.jpg
+image: /images/news/visa-memecoins.webp
 imageCaption: "A shopper pays with a Visa card at a store counter in Hong Kong. Photo: Gunguti Hanchtrag Lauim via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Times_Square_mall_shop_Fortress_visa_payment_June_2020_SS2_28.jpg
 category: News

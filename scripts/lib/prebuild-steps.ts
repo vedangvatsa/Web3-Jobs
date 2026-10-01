@@ -43,8 +43,8 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'events-runtime',
-    inputs: ['content/events'],
-    outputs: ['content/events-runtime.json'],
+    inputs: ['content/events', 'src/lib/events-listing-build.ts', 'src/lib/event-slug-assignment.ts'],
+    outputs: ['content/events-runtime.json', 'content/event-slug-history.json'],
     command: 'npx tsx scripts/precompute-events-runtime.ts',
   },
   {

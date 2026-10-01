@@ -5,7 +5,7 @@ description: >-
   score for a reversible secp256k1 point-addition circuit used in Shor-algorithm
   research, while the authors say the timing of cryptographically relevant
   quantum computing remains uncertain.
-image: /images/news/quantum-bitcoin.jpg
+image: /images/news/quantum-bitcoin.webp
 imageCaption: "IBM Quantum System One quantum computer. Photo: OJB Quantum via Wikimedia Commons (CC BY 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg
 category: News

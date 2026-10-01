@@ -2,7 +2,8 @@
 
 import { useState, useMemo, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import { type PublicWeb3Event, getEventSlug, getEventCity, normalizeCountry, isEventUpcoming } from '@/lib/events';
+import { type EventListItem, getEventSlug, getEventCity, normalizeCountry, isEventUpcoming } from '@/lib/events';
+import { loadEventSearchDescriptions } from '@/lib/event-search-client';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Calendar, MapPin, ExternalLink, LayoutGrid, Map as MapIcon } from 'lucide-react';
@@ -50,9 +51,27 @@ function formatEventDate(startDate: string, endDate: string) {
   return `${startStr} – ${endStr}`;
 }
 
-export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[] }) {
+export function EventsBoard({ initialEvents }: { initialEvents: EventListItem[] }) {
   const [events, setEvents] = useState(initialEvents);
   const [searchQuery, setSearchQuery] = useState('');
+  const [searchDescriptions, setSearchDescriptions] = useState<Record<string, string> | null>(null);
+  const [descriptionSearchStatus, setDescriptionSearchStatus] = useState<'idle' | 'loading' | 'error'>('idle');
+  useEffect(() => {
+    if (!searchQuery.trim() || searchDescriptions) return;
+    let cancelled = false;
+    const timer = setTimeout(() => {
+      setDescriptionSearchStatus('loading');
+      loadEventSearchDescriptions().then(descriptions => {
+        if (!cancelled) {
+          setSearchDescriptions(descriptions);
+          setDescriptionSearchStatus('idle');
+        }
+      }).catch(() => {
+        if (!cancelled) setDescriptionSearchStatus('error');
+      });
+    }, 200);
+    return () => { cancelled = true; clearTimeout(timer); };
+  }, [searchQuery, searchDescriptions]);
   const [countryFilter, setCountryFilter] = useState<string | null>(null);
   const [dateFilter, setDateFilter] = useState<string | null>(null);
   const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT);
@@ -77,7 +96,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
       // Search
       const q = searchQuery.toLowerCase();
       const nameStr = (event.name || '').toLowerCase();
-      const descStr = (event.description || '').toLowerCase();
+      const descStr = searchDescriptions?.[event.id] ?? (event.description || '').toLowerCase();
       const locStr = (event.location || '').toLowerCase();
 
       const matchesSearch = !q || nameStr.includes(q) || descStr.includes(q) || locStr.includes(q);
@@ -124,7 +143,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
 
       return matchesSearch && matchesCountry && matchesDate;
     });
-  }, [events, searchQuery, countryFilter, dateFilter]);
+  }, [events, searchQuery, searchDescriptions, countryFilter, dateFilter]);
 
   const isSearching = searchQuery.length > 0 || Boolean(countryFilter) || Boolean(dateFilter);
   const visibleEvents = isSearching ? filteredEvents : filteredEvents.slice(0, visibleCount);
@@ -170,7 +189,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
 
   // Map events to calendar days safely
   const eventsByDay = useMemo(() => {
-    const map = new Map<string, PublicWeb3Event[]>();
+    const map = new Map<string, EventListItem[]>();
     filteredEvents.forEach(event => {
       if (!event?.startDate) return;
       const d = new Date(event.startDate);
@@ -198,7 +217,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
     return () => observer.disconnect();
   }, [hasMore, filteredEvents.length, viewMode]);
 
-  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: PublicWeb3Event[] } | null>(null);
+  const [selectedDateEvents, setSelectedDateEvents] = useState<{ date: Date; events: EventListItem[] } | null>(null);
 
   useEffect(() => {
     setEvents(initialEvents);
@@ -281,6 +300,13 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
         }
         resultCount={isSearching ? filteredEvents.length : null}
       />
+      {searchQuery.trim() && descriptionSearchStatus !== 'idle' && (
+        <p role="status" className="mb-4 text-sm text-muted-foreground">
+          {descriptionSearchStatus === 'loading'
+            ? 'Searching full event descriptions…'
+            : 'Full-description search is unavailable. Showing matches in names, locations, and summaries.'}
+        </p>
+      )}
 
       {/* Grid View */}
       {viewMode === 'grid' && (
@@ -444,6 +470,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
                     <h4 className="text-sm font-semibold leading-snug">{event.name}</h4>
                     <Link
                       href={`/${getEventSlug(event)}`}
+                      prefetch={false}
                       className="shrink-0 text-xs font-medium px-2.5 py-1 rounded bg-primary text-primary-foreground hover:opacity-90 transition-opacity"
                     >
                       View

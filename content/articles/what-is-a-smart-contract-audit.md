@@ -5,7 +5,7 @@ description: >-
   A smart contract audit is an essential security check for any Web3 project.
   Discover how auditors find vulnerabilities and why this process is critical
   for protecting user funds.
-image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
+image: /images/alex-knight-2EJCSULRwC8-unsplash.webp
 category: Educational
 data-ai-hint: security code
 publishedDate: '2026-03-11'

@@ -1,7 +1,7 @@
 ---
 title: How to Write a Web3 Cover Letter
 ogTitle: "WRITE A WEB3 COVER LETTER THAT GETS YOU HIRED GUIDE"
-image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
+image: /images/thisisengineering-83udtzyaTS4-unsplash.webp
 data-ai-hint: writing cover letter
 description: >-
   A practical guide to writing a Web3 cover letter that hiring managers read.

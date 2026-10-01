@@ -1,7 +1,7 @@
 ---
 title: How to Stand Out in Remote Interviews
 ogTitle: "STAND OUT IN REMOTE INTERVIEWS GUIDE"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: laptop video call
 description: >-
   A practical guide to standing out in remote interviews, including video setup,

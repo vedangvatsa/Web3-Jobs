@@ -5,7 +5,7 @@ description: >-
   The European Central Bank opened a call on Sept. 15 for e-commerce and mobile
   merchants to test a beta digital euro in a 12-month pilot starting in the
   second half of 2027, ahead of a possible 2029 launch.
-image: /images/news/euro-pilot.jpg
+image: /images/news/euro-pilot.webp
 imageCaption: "The seat of the European Central Bank and the Frankfurt skyline at dawn. Photo: DXR via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seat%20of%20the%20European%20Central%20Bank%20and%20Frankfurt%20Skyline%20at%20dawn%2020150422%201.jpg
 category: News

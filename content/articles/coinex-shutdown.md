@@ -2,7 +2,7 @@
 title: CoinEx to Shut Down Exchange After Nine Years
 ogTitle: "COINEX TO SHUT DOWN EXCHANGE AFTER NINE YEARS"
 description: CoinEx will end spot trading on Sept. 29 and close withdrawals on Dec. 22, 2026, unwinding nine years of operation as founder Haipo Yang cited weak markets and rising compliance costs.
-image: /images/news/coinex-shutdown.jpg
+image: /images/news/coinex-shutdown.webp
 imageCaption: "Night view of Victoria Harbour in Hong Kong, where CoinEx is based. Photo: Benh LIEU SONG via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg
 category: News

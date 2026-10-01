@@ -1,7 +1,7 @@
 ---
 title: 'The Web3 Go-To-Market Handbook'
 ogTitle: "THE WEB3 GO-TO-MARKET HANDBOOK"
-image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
+image: /images/bruce-mars-FWVMhUa_wbY-unsplash.webp
 description: >-
   A strategic guide for Web3 projects on how to build a powerful go-to-market
   strategy, covering community building, token distribution, and decentralized.

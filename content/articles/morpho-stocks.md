@@ -2,7 +2,7 @@
 title: Morpho Launches USDC Borrowing Against Coinbase Tokenized Stocks on Base
 ogTitle: "MORPHO LAUNCHES USDC BORROWING AGAINST COINBASE TOKENIZED STOCKS"
 description: Morpho deployed lending markets on Base allowing non-US users to borrow USDC against Coinbase tokenized stocks curated by Steakhouse Financial.
-image: /images/news/morpho-stocks.jpg
+image: /images/news/morpho-stocks.webp
 imageCaption: "The New York Stock Exchange facade in Lower Manhattan. Photo: Arild Vågen via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exchange%20August%202017%2002.jpg
 category: News

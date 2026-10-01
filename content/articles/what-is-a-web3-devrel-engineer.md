@@ -1,7 +1,7 @@
 ---
 title: "What Is a Web3 DevRel Engineer? A Career Guide"
 ogTitle: "WEB3 DEVREL ENGINEER? A CAREER GUIDE EXPLAINED"
-image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
+image: /images/thisisengineering-32PpagSzeGs-unsplash.webp
 data-ai-hint: developer relations talk
 description: >-
   A guide to the unique role of a Developer Relations (DevRel) Engineer in Web3.

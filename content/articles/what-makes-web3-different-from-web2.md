@@ -1,7 +1,7 @@
 ---
 title: What Makes Web3 Different from Web2?
 ogTitle: "WHAT MAKES WEB3 DIFFERENT FROM WEB2"
-image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
+image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.webp
 data-ai-hint: web2 web3 difference
 description: >-
   A deep dive into the fundamental differences between Web2 and Web3. Explore

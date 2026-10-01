@@ -2,7 +2,7 @@
 title: Justin Sun Launches $1 Million Math Prize for Machine-Checked Proofs
 ogTitle: "JUSTIN SUN LAUNCHES $1 MILLION MATH PRIZE FOR MACHINE-CHECKED PROOFS"
 description: TRON founder Justin Sun announced the Justin Sun Prize on Sept. 16, 2026, offering up to $1 million per top-tier problem for mathematical proofs verified by machine, with OpenAI named as the first $1 million recipient.
-image: /images/news/sun-prize.jpg
+image: /images/news/sun-prize.webp
 imageCaption: "A blackboard covered with pure mathematics formulas. Photo: Wallpoper via Wikimedia Commons (Public domain)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pure-mathematics-formul%C3%A6-blackboard.jpg
 category: News

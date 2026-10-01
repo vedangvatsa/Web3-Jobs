@@ -1,7 +1,7 @@
 ---
 title: How to Choose a Smart Contract Auditor
 ogTitle: "CHOOSE A SMART CONTRACT AUDITOR GUIDE"
-image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
+image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.webp
 data-ai-hint: choosing smart contract auditor
 description: >-
   Your protocol's security is critical. This guide for founders and project

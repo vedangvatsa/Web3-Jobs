@@ -2,7 +2,7 @@
 title: WSJ Reports Lagarde Intervened to Stall Binance MiCA License
 ogTitle: "WSJ REPORTS LAGARDE INTERVENED TO STALL BINANCE MICA LICENSE"
 description: The Wall Street Journal reported on Sept. 18, 2026 that ECB President Christine Lagarde personally intervened to stall Binance's MiCA license bid in Greece, an account Binance declined to address beyond reaffirming its Europe plans.
-image: /images/news/binance-mica.jpg
+image: /images/news/binance-mica.webp
 imageCaption: "The Hellenic Parliament and Syntagma Square in Athens. Photo: George E. Koronaios via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:The%20Hellenic%20Parliament%20and%20Syntagma%20Square%20on%20May%2024%2C%202019.jpg
 category: News

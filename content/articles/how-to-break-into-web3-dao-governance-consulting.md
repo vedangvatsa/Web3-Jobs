@@ -1,7 +1,7 @@
 ---
 title: How to Break Into Web3 DAO Governance Consulting
 ogTitle: "BREAK INTO WEB3 DAO GOVERNANCE CONSULTING GUIDE"
-image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
+image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.webp
 data-ai-hint: dao governance consulting
 description: >-
   A career guide on becoming a Web3 DAO governance consultant, covering the

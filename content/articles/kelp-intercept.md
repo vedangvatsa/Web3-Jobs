@@ -5,7 +5,7 @@ description: >-
   An attacker drained about 2,900 rsETH from an Ethereum Safe wallet on Sept. 15,
   but an MEV bot front-ran the theft and took the tokens, while Kelp put the
   receiving address under a 24-hour pause.
-image: /images/news/kelp-intercept.jpg
+image: /images/news/kelp-intercept.webp
 imageCaption: "A hand holding a physical Bitcoin token. Photo: Satheesh Sankaran via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Holding%20Bitcoin%20cryptocurrency%20coin.jpg
 category: News

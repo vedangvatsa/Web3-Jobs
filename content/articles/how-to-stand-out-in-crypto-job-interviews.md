@@ -1,7 +1,7 @@
 ---
 title: How to Stand Out in Crypto Job Interviews
 ogTitle: "STAND OUT IN CRYPTO JOB INTERVIEWS GUIDE"
-image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
+image: /images/george-prentzas-SRFG7iwktDk-unsplash.webp
 data-ai-hint: job interview person
 description: >-
   An expert's guide to acing your Web3 interview. Learn the key strategies, from

@@ -6,7 +6,7 @@ description: >-
   Coinbase and Moov say they will add stablecoin acceptance, settlement, and
   real-time funding to Moov's payments platform, while key rollout, custody, and
   commercial details remain undisclosed.
-image: /images/news/coinbase-moov.jpg
+image: /images/news/coinbase-moov.webp
 imageCaption: "Coinbase and Moov stablecoin banking announcement imagery. Image via Coinbase."
 imageCreditUrl: https://www.coinbase.com/blog/coinbase-brings-stablecoin-payments-and-custody-to-community-banks-and-credit-unions
 category: News

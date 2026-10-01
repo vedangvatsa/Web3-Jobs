@@ -11,6 +11,7 @@ import { getEventDisplayCity } from './event-map-locations';
 import { isWasetIcbtDuplicateEvent, WASET_ICBT_SERIES_ID } from './waset-icbt';
 import { learnRoutes } from './learn-routes';
 import { hasEventEnded } from '../../scripts/lib/event-dates.mjs';
+import { assignStableEventSlugs, type EventSlugHistory } from './event-slug-assignment';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -152,25 +153,15 @@ async function getRootContentSlugs(): Promise<Set<string>> {
 
 async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]> {
   const reserved = await getRootContentSlugs();
-  const rootReserved = new Set(reserved);
-  const assigned = events.map((event) => {
-    // Prefer explicit curated slugs so premier pages keep stable, human URLs.
-    const curatedSlug =
-      event.sourceVerification || event.descriptionSource || event.source === 'curated-premier' || event.source === 'luma-crypto' || event.source === 'curated-series'
-        ? event.slug?.toLowerCase().trim()
-        : undefined;
-    const baseSlug = curatedSlug || getEventBaseSlug(event);
-    let slug = baseSlug;
-    let suffix = 2;
-    while (reserved.has(slug)) slug = `${baseSlug}${suffix++}`;
-    reserved.add(slug);
-    return { ...event, slug };
-  });
-  const canonicalSlugs = new Set(assigned.map((event) => event.slug));
-  for (const event of assigned) {
-    if (event.aliases) event.aliases = event.aliases.filter((alias) => !rootReserved.has(alias) && !canonicalSlugs.has(alias));
+  const historyPath = path.join(process.cwd(), 'content/event-slug-history.json');
+  const previousPath = path.join(process.cwd(), 'content/events-runtime.json');
+  const history: EventSlugHistory = fs.existsSync(historyPath) ? JSON.parse(fs.readFileSync(historyPath, 'utf8')) : {};
+  if (fs.existsSync(previousPath)) {
+    for (const event of JSON.parse(fs.readFileSync(previousPath, 'utf8')) as Web3Event[]) {
+      if (event.slug && !history[event.id]) history[event.id] = { slug: event.slug, aliases: event.aliases };
+    }
   }
-  return assigned;
+  return assignStableEventSlugs(events, reserved, history);
 }
 
 function isQualityEvent(e: Web3Event): boolean {
@@ -323,7 +314,7 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
       }
 
       if (cleanCity) {
-        cleanCity = getEventDisplayCity(cleanCity) || cleanCity;
+        cleanCity = getEventDisplayCity(cleanCity, cleanCountry) || cleanCity;
       }
 
       // Fix malformed double https:// url prefix

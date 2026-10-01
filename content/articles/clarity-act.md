@@ -3,7 +3,7 @@ title: Senate Blocks Clarity Act on Procedural Vote
 description: >-
   On Sept. 15, 2026 the Senate voted 49–50 on cloture for H.R. 3633, leaving the
   Digital Asset Market Clarity Act short of the 60 votes needed to open debate.
-image: /images/news/clarity-act.jpg
+image: /images/news/clarity-act.webp
 imageCaption: "Panoramic daytime view of the west front of the U.S. Capitol in Washington, D.C. Photo: Martin Falbisoner via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG
 category: News

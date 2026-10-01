@@ -4,7 +4,7 @@ ogTitle: "UNDERSTANDING LITECOIN'S DEVELOPMENT TRENDS BEYOND THE SLOWDOWN"
 description: >-
   A deeper look into the metrics of Litecoin's developer activity. What does the
   data really say about the future of LTC development and how does it compare.
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 category: Industry Insights
 data-ai-hint: crypto chart
 publishedDate: '2026-03-11'

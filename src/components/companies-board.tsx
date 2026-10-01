@@ -75,6 +75,7 @@ export function CompaniesBoard({ initialCompanies, companyLogos = {} }: Companie
               company={company}
               logoUrl={logo?.logo}
               faviconUrl={logo?.favicon}
+              imageVariants={logo?.imageVariants}
             />
           );
         })}

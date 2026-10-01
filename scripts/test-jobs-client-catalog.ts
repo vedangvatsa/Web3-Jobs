@@ -10,8 +10,9 @@ async function main() {
   }));
   let calls = 0;
   globalThis.fetch = async (input, init) => {
+    if (input === '/data/company-image-variants.json') return Response.json({});
     assert.equal(input, '/data/jobs-runtime.json');
-    assert.equal(init?.cache, 'no-cache');
+    assert.equal(init?.cache, undefined, 'Respect the catalog HTTP cache instead of forcing revalidation');
     calls++;
     if (calls === 1) return new Response('{"error":"Not Found"}', { status: 404 });
     if (calls === 2) return Response.json([{ id: 'malformed' }]);

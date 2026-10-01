@@ -1,4 +1,5 @@
-import Image from 'next/image';
+import { ResponsiveImage } from './responsive-image';
+import { getImageVariants } from '@/lib/responsive-images-server';
 
 export interface LogoItem {
   name: string;
@@ -31,14 +32,16 @@ export function LogoStrip({
                 const maxHeight = logo.maxHeight ?? 28;
                 return (
                   <div key={logo.name} className="flex items-center justify-center h-8 w-[100px]">
-                    <Image
+                    <ResponsiveImage
                       src={logo.src}
+                      variants={getImageVariants(logo.src)}
+                      sizes="100px"
                     alt={logo.alt ?? `Logo of ${logo.name}`}
                     width={100}
                     height={maxHeight}
                     className="object-contain w-auto"
                     style={{ maxHeight }}
-                    unoptimized={logo.src.toLowerCase().endsWith('.svg')}
+                    loading="lazy"
                   />
                   <span className="sr-only">{logo.name}</span>
                   </div>

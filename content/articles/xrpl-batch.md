@@ -2,7 +2,7 @@
 title: XRP Ledger Nears Activation of Batch Payments Upgrade
 ogTitle: "XRP LEDGER NEARS ACTIVATION OF BATCH PAYMENTS UPGRADE"
 description: Batch V1.1 would let XRP Ledger users settle up to eight linked transactions as one unit, and validators have held support above the 80 percent needed for activation around Sept. 29.
-image: /images/news/xrpl-batch.jpg
+image: /images/news/xrpl-batch.webp
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg
 imageCaption: "Server racks in a data center. Validators run XRP Ledger servers and vote on protocol upgrades. Photo: BalticServers.com via Wikimedia Commons (CC BY-SA 3.0)."
 category: News

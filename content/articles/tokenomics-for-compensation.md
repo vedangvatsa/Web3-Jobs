@@ -1,7 +1,7 @@
 ---
 title: Using Tokenomics for Web3 Compensation
 ogTitle: "USING TOKENOMICS FOR WEB3 COMPENSATION"
-image: /images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
+image: /images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.webp
 data-ai-hint: tokenomics web3 compensation
 description: >-
   A guide to understanding and designing token-based compensation packages.

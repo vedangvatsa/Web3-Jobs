@@ -1,7 +1,7 @@
 ---
 title: Web3 Content Monetization Specialist
 ogTitle: "BECOMING A WEB3 DIGITAL CONTENT MONETIZATION SPECIALIST"
-image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
+image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.webp
 data-ai-hint: content monetization
 description: >-
   A career guide on the emerging field of Web3 content monetization. Learn how

@@ -1,7 +1,7 @@
 ---
 title: Vesting Schedules in Crypto
 ogTitle: "VESTING SCHEDULES IN CRYPTO PROJECTS EXPLAINED"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: token vesting schedule
 description: >-
   Vesting schedules are an important part of tokenomics, ensuring long-term

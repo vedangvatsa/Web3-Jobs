@@ -1,7 +1,7 @@
 ---
 title: What Is a Snapshot in Cryptocurrency Airdrops
 ogTitle: "SNAPSHOT IN CRYPTOCURRENCY AIRDROPS EXPLAINED"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: camera snapshot
 description: >-
   A snapshot is a record of the state of a blockchain at a specific block

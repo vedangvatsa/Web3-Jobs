@@ -1,7 +1,7 @@
 ---
 title: Top Trending Web3 Hashtags
 ogTitle: "TOP TRENDING WEB3 HASHTAGS AND HOW TO USE THEM TO GROW YOUR BRAND"
-image: /images/surface-F4ottWBnCpM-unsplash.jpg
+image: /images/surface-F4ottWBnCpM-unsplash.webp
 data-ai-hint: social media growth
 description: >-
   Build a crypto social strategy with foundational, narrative, community, and

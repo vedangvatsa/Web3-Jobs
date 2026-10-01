@@ -1,7 +1,7 @@
 ---
 title: "What Is DeSci?"
 ogTitle: "DESCI? A GUIDE TO DECENTRALIZED SCIENCE EXPLAINED"
-image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
+image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.webp
 data-ai-hint: decentralized science
 description: >-
   Discover how blockchain is decentralizing scientific research and creating new

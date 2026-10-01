@@ -15,7 +15,9 @@ import { OutboundLink } from '@/components/tracking/outbound-link';
 import { JobCard } from '@/components/job-card';
 import { getJobSlug } from '@/lib/job-slugs';
 import { XBrandIcon } from '@/components/x-brand-icon';
+import { CrunchbaseBrandIcon } from '@/components/crunchbase-brand-icon';
 import { DetailPageHeader } from '@/components/detail-page-header';
+import { getImageVariants } from '@/lib/responsive-images-server';
 
 export async function CompanyDetailView({ slug }: { slug: string }) {
   const company = await getCompanyBySlug(slug);
@@ -52,6 +54,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
   const preferFavicon = FAVICON_FIRST_SLUGS.has(company.slug) && !!favicon;
   const logoSrc = preferFavicon ? favicon : logoFile;
   const faviconUrl = preferFavicon ? logoFile : favicon;
+  const imageVariants = getImageVariants(logoSrc);
   const social = company.socialLinks;
 
   const organizationSchema: WithContext<Organization> = {
@@ -94,7 +97,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
               ]}
               currentPageLabel={displayName}
               icon={
-                <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full" />
+                <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} imageVariants={imageVariants} name={displayName} size="h-full w-full" />
               }
               title={displayName}
               metadata={
@@ -113,35 +116,39 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
                       <span className="truncate">{websiteHostname}</span>
                     </OutboundLink>
                   )}
-                  {social?.linkedin && (
-                    <OutboundLink
-                      href={social.linkedin}
-                      label={`${displayName} on LinkedIn`}
-                      className="inline-flex items-center gap-1.5 hover:text-foreground"
-                    >
-                      <Linkedin className="h-4 w-4 shrink-0" aria-hidden="true" />
-                      LinkedIn
-                    </OutboundLink>
-                  )}
-                  {social?.twitter && (
-                    <OutboundLink
-                      href={social.twitter}
-                      label={`${displayName} on X`}
-                      className="inline-flex items-center gap-1.5 hover:text-foreground"
-                    >
-                      <XBrandIcon className="h-4 w-4 shrink-0" />
-                      X
-                    </OutboundLink>
-                  )}
-                  {social?.crunchbase && (
-                    <OutboundLink
-                      href={social.crunchbase}
-                      label={`${displayName} on Crunchbase`}
-                      className="inline-flex items-center gap-1.5 hover:text-foreground"
-                    >
-                      <ExternalLink className="h-4 w-4 shrink-0" aria-hidden="true" />
-                      Crunchbase
-                    </OutboundLink>
+                  {(social?.linkedin || social?.twitter || social?.crunchbase) && (
+                    <span className="inline-flex shrink-0 items-center gap-1">
+                      {social.linkedin && (
+                        <OutboundLink
+                          href={social.linkedin}
+                          label={`${displayName} on LinkedIn`}
+                          className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-sm hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                        >
+                          <Linkedin className="h-4 w-4 shrink-0" aria-hidden="true" />
+                          <span className="sr-only">{displayName} on LinkedIn</span>
+                        </OutboundLink>
+                      )}
+                      {social.twitter && (
+                        <OutboundLink
+                          href={social.twitter}
+                          label={`${displayName} on X`}
+                          className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-sm hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                        >
+                          <XBrandIcon className="h-4 w-4 shrink-0" />
+                          <span className="sr-only">{displayName} on X</span>
+                        </OutboundLink>
+                      )}
+                      {social.crunchbase && (
+                        <OutboundLink
+                          href={social.crunchbase}
+                          label={`${displayName} on Crunchbase`}
+                          className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-sm hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                        >
+                          <CrunchbaseBrandIcon className="h-4 w-4 shrink-0" />
+                          <span className="sr-only">{displayName} on Crunchbase</span>
+                        </OutboundLink>
+                      )}
+                    </span>
                   )}
                 </>
               }
@@ -159,7 +166,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
               {company.jobs.length > 0 ? (
                 <div className="grid min-w-0 grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 [&>*]:min-w-0">
                   {company.jobs.map((job) => (
-                    <JobCard key={getJobSlug(job)} job={job} logoUrl={logoSrc} faviconUrl={faviconUrl} />
+                    <JobCard key={getJobSlug(job)} job={job} logoUrl={logoSrc} faviconUrl={faviconUrl} imageVariants={imageVariants} />
                   ))}
                 </div>
               ) : (

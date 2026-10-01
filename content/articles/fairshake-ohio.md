@@ -2,7 +2,7 @@
 title: Fairshake Commits $30 Million to Oppose Sherrod Brown in Ohio Senate Race
 ogTitle: "FAIRSHAKE COMMITS $30 MILLION TO OPPOSE SHERROD BROWN IN OHIO SENATE RACE"
 description: Crypto super PAC Fairshake will spend $30 million on ads and mail opposing Sherrod Brown's Ohio Senate bid, its largest 2026 outlay, after the Senate's failed Clarity Act vote.
-image: /images/news/fairshake-ohio.jpg
+image: /images/news/fairshake-ohio.webp
 imageCaption: "Former Senator Sherrod Brown in 2017. Photo: Office of Senator Kamala Harris via Wikimedia Commons (Public domain)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sherrod%20Brown%20and%20Kamala%20Harris%20-%20Warriors%20win%20-%202017%2004.jpg
 category: News

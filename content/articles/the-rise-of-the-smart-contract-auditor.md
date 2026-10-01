@@ -5,7 +5,7 @@ description: >-
   An in-depth look at the role of a smart contract auditor. Learn what they do,
   the skills required, and why they are one of the most critical and
   in-deongoing developments in the Web3 space.
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 category: Career Guides
 data-ai-hint: man inspecting code
 publishedDate: '2026-03-11'

@@ -9,10 +9,12 @@ function faviconFallbackForSlug(slug: string): string {
 }
 import { getCompanySlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
+import type { ResponsiveImagePlan } from './responsive-images';
 
 export interface CompanyLogoData {
   logo: string | null;
   favicon: string | null;
+  imageVariants?: ResponsiveImagePlan;
 }
 
 export type CompanyLogoMap = Record<string, CompanyLogoData>;

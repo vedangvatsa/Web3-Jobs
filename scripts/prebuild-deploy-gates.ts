@@ -42,6 +42,9 @@ function fastGates(): void {
 }
 
 function main(): void {
+  run('npx tsx scripts/test-responsive-images.ts');
+  run('npx tsx scripts/test-social-preview-assets.ts');
+  run('npx tsx scripts/test-published-event-slugs.ts');
   if (fast) fastGates();
   else fullGates();
 

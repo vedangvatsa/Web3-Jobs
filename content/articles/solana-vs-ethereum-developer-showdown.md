@@ -4,7 +4,7 @@ ogTitle: "SOLANA VS ETHEREUM DEVELOPER SHOWDOWN"
 description: >-
   A comparative analysis of developer activity on Solana and Ethereum. We look
   at the metrics, the ecosystems, and the underlying trends to see where.
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 category: Industry Insights
 data-ai-hint: two men facing off
 publishedDate: '2026-03-11'

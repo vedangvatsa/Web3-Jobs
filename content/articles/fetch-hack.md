@@ -2,7 +2,7 @@
 title: Same Attacker Drained Fetch.ai Converter and Minted NuNet Tokens in $2M Exploit
 ogTitle: "SAME ATTACKER DRAINED FETCH.AI CONVERTER AND MINTED NUNET TOKENS IN $2M EXPLOIT"
 description: Security firms tied a Sept. 19 attack on Fetch.ai and NuNet to one wallet, with about 8.7 million FET drained and 408.5 million NTX minted for a combined $2 million in affected assets.
-image: /images/news/fetch-hack.jpg
+image: /images/news/fetch-hack.webp
 imageCaption: "Server racks in a data room. The Fetch.ai converter drain and NuNet mint were linked to one recipient wallet. Photo: The National Archives (UK) via Wikimedia Commons (CC BY 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:A_view_of_the_server_room_at_The_National_Archives.jpg
 category: News

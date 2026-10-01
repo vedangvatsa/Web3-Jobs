@@ -1,7 +1,8 @@
 'use client';
 
 import * as React from 'react';
-import Image from 'next/image';
+import { ResponsiveImage } from './responsive-image';
+import type { ResponsiveImagePlan } from '@/lib/responsive-images';
 import {
   Carousel,
   CarouselContent,
@@ -16,9 +17,10 @@ interface Logo {
 
 interface MediaCarouselProps {
   logos: Logo[];
+  imageVariants?: Record<string, ResponsiveImagePlan>;
 }
 
-export function MediaCarousel({ logos }: MediaCarouselProps) {
+export function MediaCarousel({ logos, imageVariants = {} }: MediaCarouselProps) {
   const plugin = React.useRef(
     Autoplay({ delay: 2000, stopOnInteraction: false })
   );
@@ -43,13 +45,13 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
             <CarouselItem key={index} className="pl-2 md:pl-4 basis-1/2 sm:basis-1/3 md:basis-1/5">
               <div className="p-1">
                 <div className="relative h-10 sm:h-12 w-full" title={logo.name}>
-                  <Image 
+                  <ResponsiveImage
                     src={`${logo.src}?v=2`} 
+                    variants={imageVariants[logo.src]}
                     alt={`Logo of ${logo.name} media outlet, where Hashtag Web3 has been featured`} 
-                    fill 
-                    className="object-contain"
+                    className="absolute inset-0 h-full w-full object-contain"
                     sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 20vw"
-                    unoptimized={logo.src.toLowerCase().endsWith('.svg')}
+                    loading="lazy"
                   />
                 </div>
               </div>

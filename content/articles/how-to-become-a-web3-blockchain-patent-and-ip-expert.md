@@ -1,7 +1,7 @@
 ---
 title: Web3 Blockchain Patent and IP Expert
 ogTitle: "BECOME A WEB3 BLOCKCHAIN PATENT AND IP EXPERT GUIDE"
-image: /images/pakata-goh-RDolnHtjVCY-unsplash.jpg
+image: /images/pakata-goh-RDolnHtjVCY-unsplash.webp
 data-ai-hint: law books intellectual property
 description: >-
   A career guide for legal professionals specializing in intellectual property.

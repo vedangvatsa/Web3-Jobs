@@ -1,4 +1,4 @@
-import type { EventParty, PublicWeb3Event, Web3Event } from './events';
+import { getEventSlug, type EventListItem, type EventParty, type PublicWeb3Event, type Web3Event } from './events';
 import { getEventExternalUrl } from './event-external-url';
 import { getVerifiedEventDescription } from './event-description-source';
 
@@ -9,6 +9,17 @@ function getPublicParty(party?: EventParty): EventParty | undefined {
     ? getEventExternalUrl({ registrationUrl: url, website: undefined, url: '' })
     : undefined;
   return { ...partyData, ...(externalUrl ? { url: externalUrl } : {}) };
+}
+
+/** Only card/calendar fields cross the listing's server-to-client boundary. */
+export function getEventListItem(event: Web3Event): EventListItem {
+  const { id, name, startDate, endDate, timezone, city, country, location, category, price, eventStatus } = event;
+  const description = getVerifiedEventDescription(event).replace(/\s+/g, ' ').trim();
+  return {
+    id, name, slug: getEventSlug(event), startDate, endDate, timezone,
+    city, country, location, category, price, eventStatus,
+    description: description.length > 240 ? `${description.slice(0, 237).trimEnd()}…` : description,
+  };
 }
 
 /** Removes internal provenance and raw destinations before events leave the server. */

@@ -1,7 +1,7 @@
 ---
 title: NFT Marketplaces Compared in 2026
 ogTitle: "NFT MARKETPLACES COMPARED: OPENSEA, BLUR, MAGIC EDEN, RARIBLE"
-image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
+image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.webp
 data-ai-hint: nft marketplace comparison
 description: >-
   A practical comparison of leading NFT marketplaces in 2026. Covers verified

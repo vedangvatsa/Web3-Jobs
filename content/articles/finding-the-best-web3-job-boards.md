@@ -5,7 +5,7 @@ description: >-
   A curated list and analysis of the best Web3 job boards. Learn where to find
   legitimate opportunities and how to work through the crypto job market
   effectively.
-image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
+image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.webp
 category: Career Guides
 data-ai-hint: man working desk
 publishedDate: '2026-03-11'

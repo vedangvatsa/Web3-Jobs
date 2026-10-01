@@ -4,7 +4,7 @@ ogTitle: "HANA BANK ISSUES $100M DIGITAL BOND ON EUROCLEAR BLOCKCHAIN"
 description: >-
   Hana Bank says it issued a $100 million five-year digital bond on Euroclear's
   D-FMI ledger with same-day settlement, a first for a Korean institution.
-image: /images/news/hana-bond.jpg
+image: /images/news/hana-bond.webp
 imageCaption: "Flagship branch of Hana Bank. Photo: Hana Financial Group via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Flagship%20Branch%20of%20Hana%20Bank.jpg
 category: News

@@ -1,7 +1,7 @@
 ---
 title: "What Is Web3?"
 ogTitle: "WEB3? THE NEXT EVOLUTION OF THE INTERNET EXPLAINED EXPLAINED"
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 description: >-
   A clear, practical breakdown of Web3, decentralized networks, smart contracts,
   and digital ownership, written for builders, job seekers, and curious users.

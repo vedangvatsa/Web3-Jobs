@@ -1,7 +1,7 @@
 ---
 title: "Litecoin's Development Ecosystem"
 ogTitle: "EXPLORING LITECOIN'S DEVELOPMENT ECOSYSTEM IN WEB3"
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 description: >-
   A deep dive into Litecoin's current developer activity, examining its
   relevance, recent updates, and how it compares to other blockchains in the

@@ -1,7 +1,8 @@
 'use client';
 
 import { useRef } from 'react';
-import Image from 'next/image';
+import { ResponsiveImage } from './responsive-image';
+import type { ResponsiveImagePlan } from '@/lib/responsive-images';
 import Autoplay from 'embla-carousel-autoplay';
 import {
   Carousel,
@@ -17,11 +18,13 @@ export function LogoGridCarousel({
   chunkSize = 12,
   delay = 2500,
   className,
+  imageVariants = {},
 }: {
   logos: LogoItem[];
   chunkSize?: number;
   delay?: number;
   className?: string;
+  imageVariants?: Record<string, ResponsiveImagePlan>;
 }) {
   const plugin = useRef(Autoplay({ delay, stopOnInteraction: false }));
   const chunks = chunkArray(logos, chunkSize);
@@ -49,14 +52,14 @@ export function LogoGridCarousel({
                   title={logo.name}
                 >
                   <div className={insetClass}>
-                    <Image
+                    <ResponsiveImage
                       src={logo.src}
+                      variants={imageVariants[logo.src]}
                       alt={logo.alt ?? `Logo of ${logo.name}`}
-                      fill
-                      className="object-contain"
+                      className="absolute inset-0 h-full w-full object-contain"
                       style={scale > 1 ? { transform: `scale(${scale})` } : undefined}
                       sizes="(max-width: 640px) 33vw, (max-width: 768px) 25vw, 16vw"
-                      unoptimized={logo.src.toLowerCase().endsWith('.svg')}
+                      loading="lazy"
                     />
                   </div>
                 </div>

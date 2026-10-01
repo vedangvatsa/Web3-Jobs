@@ -5,7 +5,7 @@ description: >-
   Solana lending protocol Kamino named Yieldstreet co-founder Michael Weisz as
   chief executive on Sept. 15 as it sets up a New York headquarters and expands
   lending against tokenized assets.
-image: /images/news/kamino-ceo.jpg
+image: /images/news/kamino-ceo.webp
 imageCaption: "The New York Stock Exchange building in August 2017. Photo: Arild Vagen via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exchange%20August%202017%2002.jpg
 category: News

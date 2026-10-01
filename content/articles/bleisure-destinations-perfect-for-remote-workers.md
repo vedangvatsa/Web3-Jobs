@@ -1,7 +1,7 @@
 ---
 title: Bleisure Destinations for Remote Workers
 ogTitle: "BLEISURE DESTINATIONS PERFECT FOR REMOTE WORKERS"
-image: /images/firmbee-com-SpVHcbuKi6E-unsplash.jpg
+image: /images/firmbee-com-SpVHcbuKi6E-unsplash.webp
 data-ai-hint: travel work destination
 description: >-
   Discover the top 'bleisure' destinations that perfectly blend business and

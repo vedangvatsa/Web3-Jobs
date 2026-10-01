@@ -1,7 +1,7 @@
 ---
 title: 'Your Guide to Jobs in Decentralized Finance'
 ogTitle: "YOUR GUIDE TO JOBS IN DECENTRALIZED FINANCE"
-image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
+image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.webp
 description: >-
   Decentralized Finance (DeFi) is booming. This guide covers the most in-demand
   roles, required skills, and how to start your career in DeFi.

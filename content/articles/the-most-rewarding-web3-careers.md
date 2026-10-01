@@ -1,7 +1,7 @@
 ---
 title: The Most Rewarding Web3 Careers You Should Know
 ogTitle: "THE MOST REWARDING WEB3 CAREERS YOU SHOULD KNOW"
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 data-ai-hint: rewarding web3 career
 description: >-
   Find roles that align with your values, offer financial upside, and create

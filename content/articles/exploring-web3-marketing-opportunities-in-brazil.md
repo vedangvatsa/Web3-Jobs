@@ -1,7 +1,7 @@
 ---
 title: Exploring Web3 Marketing Opportunities in Brazil
 ogTitle: "EXPLORING WEB3 MARKETING OPPORTUNITIES IN BRAZIL"
-image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
+image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.webp
 data-ai-hint: brazil marketing web3
 description: >-
   A marketer's guide to Brazil's massive Web3 market. Learn about the country's

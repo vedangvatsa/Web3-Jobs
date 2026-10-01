@@ -4,7 +4,7 @@ description: >-
   Uniswap's official v4 hooks repository documents StablePairHook, a dynamic-fee
   hook for two assets expected to trade at parity, and lists USDC/USDT and
   USDC/USDG as initial Ethereum pools.
-image: /images/news/uniswap-hook.jpg
+image: /images/news/uniswap-hook.webp
 imageCaption: "Ethereum founder Vitalik Buterin on stage in 2015. Photo: John Phillips via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrunch_London_2015.jpg
 category: News

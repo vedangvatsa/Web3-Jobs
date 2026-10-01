@@ -1,7 +1,7 @@
 ---
 title: 'Remote Work in Web3'
 ogTitle: "REMOTE WORK IN WEB3"
-image: /images/domenico-loia-EhTcC9sYXsw-unsplash.jpg
+image: /images/domenico-loia-EhTcC9sYXsw-unsplash.webp
 data-ai-hint: remote work desk
 description: >-
   Web3 is remote-native. This guide covers how to succeed in a globally

@@ -1,7 +1,7 @@
 ---
 title: Supply Chain Blockchain
 ogTitle: "SUPPLY CHAIN BLOCKCHAIN EXPLAINED: HOW SHARED LEDGERS TRACK"
-image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
+image: /images/thisisengineering-zBLtU0zbJcU-unsplash.webp
 data-ai-hint: supply chain logistics
 description: >-
   How blockchain tracks goods across supply chains, from tokenized products and

@@ -1,7 +1,7 @@
 ---
 title: Marketing vs Manipulation in Web3
 ogTitle: "UNDERSTANDING THE LINE BETWEEN MARKETING AND MANIPULATION IN WEB3"
-image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
+image: /images/thisisengineering-83udtzyaTS4-unsplash.webp
 data-ai-hint: ethics marketing manipulation
 description: >-
   In a market driven by hype, where does marketing end and manipulation begin?

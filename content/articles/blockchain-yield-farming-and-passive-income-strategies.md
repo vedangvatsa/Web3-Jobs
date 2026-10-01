@@ -1,7 +1,7 @@
 ---
 title: Blockchain Yield Farming
 ogTitle: "BLOCKCHAIN YIELD FARMING AND PASSIVE INCOME STRATEGIES"
-image: /images/javier-quesada-qYfwGVNJqSA-unsplash.jpg
+image: /images/javier-quesada-qYfwGVNJqSA-unsplash.webp
 data-ai-hint: crypto yield farming
 description: >-
   A guide to yield farming, the art of maximizing returns in Decentralized

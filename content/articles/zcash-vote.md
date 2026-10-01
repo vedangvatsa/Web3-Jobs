@@ -2,7 +2,7 @@
 title: Zcash Holders Back Faster Blocks and Halving Schedule
 ogTitle: "ZCASH HOLDERS BACK FASTER BLOCKS AND HALVING SCHEDULE"
 description: Nearly 2.4 million ZEC voted in Zcash's NU7 governance poll, with holders backing 25-second blocks, unchanged halvings, and a 2031 start for recycled fee payouts.
-image: /images/news/zcash-vote.jpg
+image: /images/news/zcash-vote.webp
 imageCaption: "A cryptocurrency mining rig. Miner rewards were central to the Zcash vote on halvings. Photo: Xiangfu via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Icarus_Bitcoin_Mining_rig.jpg
 category: News

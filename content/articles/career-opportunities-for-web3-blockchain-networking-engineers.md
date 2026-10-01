@@ -1,7 +1,7 @@
 ---
 title: Blockchain Networking Engineer Career Guide
 ogTitle: "BLOCKCHAIN NETWORKING ENGINEER CAREER GUIDE"
-image: /images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg
+image: /images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.webp
 data-ai-hint: blockchain network nodes
 description: >-
   A technical career guide for Web3 blockchain networking engineers covering P2P node communication, Libp2p, GossipSub, Discv5, transaction propagation, and low-latency networking.

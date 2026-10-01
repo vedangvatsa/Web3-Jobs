@@ -1,7 +1,7 @@
 ---
 title: 'Crypto Marketing Jobs'
 ogTitle: "CRYPTO MARKETING JOBS"
-image: /images/surface-F4ottWBnCpM-unsplash.jpg
+image: /images/surface-F4ottWBnCpM-unsplash.webp
 data-ai-hint: crypto marketing growth
 description: >-
   Map crypto marketing roles across community, content, growth, and leadership,

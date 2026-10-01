@@ -2,7 +2,7 @@
 title: Zcash Community Approves NU7 Upgrade With 25-Second Blocks and 2031 Reserve Plan
 ogTitle: "ZCASH COMMUNITY APPROVES NU7 UPGRADE WITH 25-SECOND BLOCKS"
 description: Zcash coinholders approved preserving scheduled halvings and delaying the release of Network Sustainability Mechanism funds to 2031 in an advisory poll for the upcoming NU7 upgrade.
-image: /images/news/zcash-upgrade.jpg
+image: /images/news/zcash-upgrade.webp
 imageCaption: "Zooko Wilcox speaking on payment privacy. Photo: Steve Jurvetson via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Zooko%20Wilcox%20on%20Payment%20Privacy%20(51071658282).png
 category: News

@@ -4,7 +4,7 @@ ogTitle: "UAE IDENTITY VAULT MOVES TO AVALANCHE BLOCKCHAIN"
 description: >-
   Avalanche says the UAE's UAEPASS Digital Vault serving 12.5 million people
   now runs on a dedicated Avalanche L1, though TDRA pages name no protocol.
-image: /images/news/avalanche-uae.jpg
+image: /images/news/avalanche-uae.webp
 imageCaption: "Dubai skyline at night. Photo: Robert Bock via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.jpg
 category: News

@@ -1,7 +1,7 @@
 ---
 title: Blockchain Engineering Career Path
 ogTitle: "BLOCKCHAIN ENGINEERING CAREER PATH AND REQUIREMENTS"
-image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
+image: /images/christopher-gower-vjMgqUkS8q8-unsplash.webp
 data-ai-hint: blockchain engineer career
 description: >-
   An overview of blockchain engineering specializations, the skills each role

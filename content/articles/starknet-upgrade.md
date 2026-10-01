@@ -4,7 +4,7 @@ description: >-
   Starknet put an EIP-1559-style STRK fee market and a 30 percent gas-target cut
   on mainnet in July, shipped in-protocol privacy tooling through the spring,
   and opened v0.14.4 prerelease notes on Sept. 9.
-image: /images/news/starknet-upgrade.jpg
+image: /images/news/starknet-upgrade.webp
 imageCaption: "Tel Aviv skyline. Photo: Ynhockey via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tel_Aviv_Skyline_03.jpg
 category: News

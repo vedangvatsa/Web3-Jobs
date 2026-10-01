@@ -2,7 +2,7 @@
 title: Grayscale Sets 3-for-1 Split for Zcash ETF
 ogTitle: "GRAYSCALE SETS 3-FOR-1 SPLIT FOR ZCASH ETF"
 description: Grayscale plans a 3-for-1 forward share split of its Zcash ETF on Sept. 29 to cut the per-share price after the fund neared $1 billion in assets within a month of listing.
-image: /images/news/zcash-split.jpg
+image: /images/news/zcash-split.webp
 imageCaption: "The New York Stock Exchange in New York. Grayscale's Zcash fund trades on NYSE Arca. Photo: Arild Vagen via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exchange%20August%202017%2002.jpg
 category: News

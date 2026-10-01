@@ -1,7 +1,7 @@
 ---
 title: Sui Blockchain and Developer Ecosystem
 ogTitle: "SUI BLOCKCHAIN TECHNOLOGY AND DEVELOPER ECOSYSTEM"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: sui blockchain
 description: >-
   What Sui is, how its object-centric model and Sui Move enable parallel

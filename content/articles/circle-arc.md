@@ -5,7 +5,7 @@ description: >-
   Circle's Arc blockchain is live on public mainnet as of Sept. 16, with USDC
   gas, chain ID 5042, and founding validators including BlackRock, Visa, and
   DTCC.
-image: /images/news/circle-arc.jpg
+image: /images/news/circle-arc.webp
 imageCaption: "Circle's founding validator cohort announcement for Arc."
 imageCreditUrl: https://www.circle.com/pressroom/circle-announces-founding-validator-cohort-and-major-integrations-for-arc-ahead-of-september-16-mainnet-launch
 category: News

@@ -5,7 +5,7 @@ description: >-
   A joint advisory from Japanese, US, Australian and German agencies says
   North Korea's WaterPlum group hit 30,000 devices and took $10.7 million
   through bogus recruiter approaches.
-image: /images/news/waterplum.jpg
+image: /images/news/waterplum.webp
 imageCaption: "Tokyo Metropolitan Police Department headquarters in Tokyo. Photo: っ via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Keishicho.jpg
 category: News

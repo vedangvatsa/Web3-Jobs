@@ -1,7 +1,7 @@
 ---
 title: "What Is a Token Swap in Cryptocurrency?"
 ogTitle: "TOKEN SWAP IN CRYPTOCURRENCY ARCHITECTURE MECHANICS AND DEX"
-image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
+image: /images/maxim-hopman-8vn4KvfU640-unsplash.webp
 data-ai-hint: token swap crypto
 description: A comprehensive technical guide to cryptocurrency token swaps, exploring Automated Market Maker (AMM) formulas, DEX aggregation, MEV protection, and cross-chain HTLC atomic swap mechanics.
 category: Educational

@@ -1,7 +1,7 @@
 ---
 title: 'Web3 Supply Chain Experts and Solutions'
 ogTitle: "WEB3 SUPPLY CHAIN EXPERTS AND SOLUTIONS"
-image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
+image: /images/thisisengineering-zBLtU0zbJcU-unsplash.webp
 data-ai-hint: supply chain logistics
 description: >-
   A career guide for supply chain and logistics professionals moving into Web3.

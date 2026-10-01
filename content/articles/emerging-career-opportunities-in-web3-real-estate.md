@@ -1,7 +1,7 @@
 ---
 title: Web3 Real Estate Careers
 ogTitle: "EMERGING CAREER OPPORTUNITIES IN WEB3 REAL ESTATE"
-image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
+image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.webp
 data-ai-hint: real estate tokenization
 description: >-
   Explore how blockchain and tokenization are creating new roles in property

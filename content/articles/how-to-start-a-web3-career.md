@@ -1,7 +1,7 @@
 ---
 title: 'How to Start a Career in Web3'
 ogTitle: "START A CAREER IN WEB3 GUIDE"
-image: /images/thisisengineering-64YrPKiguAE-unsplash.jpg
+image: /images/thisisengineering-64YrPKiguAE-unsplash.webp
 data-ai-hint: career journey start
 description: >-
   Your step-by-step guide to launching a career in Web3. This guide is for

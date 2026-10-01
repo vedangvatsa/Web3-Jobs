@@ -1,7 +1,7 @@
 ---
 title: Solving Token Compensation for Web3 Employment
 ogTitle: "SOLVING TOKEN COMPENSATION FOR WEB3 EMPLOYMENT"
-image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
+image: /images/anas-alshanti-feXpdV001o4-unsplash.webp
 data-ai-hint: token compensation equity
 description: >-
   A guide to designing and understanding token-based compensation. Learn about

@@ -2,7 +2,7 @@
 title: Solana Cuts Slot Time to 250 Milliseconds in Third Speed Step
 ogTitle: "SOLANA CUTS SLOT TIME TO 250 MILLISECONDS"
 description: Solana activated 250-millisecond slots at epoch 1037 on Sept. 18, the third cut under SIMD-0525, with per-slot compute scaled down so total capacity stays flat.
-image: /images/news/solana-slots.jpg
+image: /images/news/solana-slots.webp
 imageCaption: "A technician works on a server rack at NERSC. Photo: Derrick Coetzee via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician%20with%20laptop%20working%20on%20server%20rack%20at%20NERSC.jpg
 category: News

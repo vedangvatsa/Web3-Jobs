@@ -1,7 +1,7 @@
 import { EventsBoard } from '@/components/events-board';
 import { getEvents } from '@/lib/events-server';
 import { getEventSlug, isEventUpcoming, type Web3Event } from '@/lib/events';
-import { getPublicEvent } from '@/lib/event-public';
+import { getEventListItem } from '@/lib/event-public';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
@@ -33,7 +33,7 @@ export const revalidate = 300;
 
 export default async function EventsPage() {
   const events = await getEvents();
-  const upcomingEvents = events.filter((event) => isEventUpcoming(event)).map(getPublicEvent);
+  const upcomingEvents = events.filter((event) => isEventUpcoming(event)).map(getEventListItem);
   const siteUrl = 'https://hashtagweb3.com';
 
   const pageSchema = {

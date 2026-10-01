@@ -1,7 +1,7 @@
 ---
 title: Foundry Ethereum Toolkit
 ogTitle: "FOUNDRY ETHEREUM TOOLKIT EXPLAINED"
-image: /images/tommy-texter-T42j_xLOqw0-unsplash.jpg
+image: /images/tommy-texter-T42j_xLOqw0-unsplash.webp
 data-ai-hint: foundry software toolkit
 description: >-
   Build a Foundry learning plan covering Forge tests, setup, core competencies,

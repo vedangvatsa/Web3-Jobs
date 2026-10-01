@@ -24,6 +24,22 @@ export function requiredPublicAssets(root: string): string[] {
   for (const article of articles) {
     if (article.category === 'News') addLocalImage(article.image);
   }
+  const responsivePath = path.join(root, 'content/responsive-images.json');
+  if (fs.existsSync(responsivePath)) {
+    const responsive = JSON.parse(fs.readFileSync(responsivePath, 'utf8')) as Record<string, { src: string; files: string[] }>;
+    for (const image of Object.values(responsive)) {
+      addLocalImage(image.src);
+      image.files.forEach(addLocalImage);
+    }
+  }
+  const socialPath = path.join(root, 'content/social-image-info.json');
+  if (fs.existsSync(socialPath)) {
+    const social = JSON.parse(fs.readFileSync(socialPath, 'utf8')) as Record<string, { url: string }>;
+    for (const image of Object.values(social)) {
+      const url = new URL(image.url);
+      if (['hashtagweb3.com', 'www.hashtagweb3.com'].includes(url.hostname)) addLocalImage(url.pathname);
+    }
+  }
   return [...assets];
 }
 
