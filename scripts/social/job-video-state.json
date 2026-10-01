@@ -217,9 +217,10 @@
           "url": "https://www.youtube.com/watch?v=UQRYyJXhXhg"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Client Experience Specialist | Fixed-term at Kraken. Argentina.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-01T11:33:21.249Z"
+          "startedAt": "2026-10-01T11:33:21.249Z",
+          "postId": "6abe4502b602164114d75494"
         }
       }
     }
