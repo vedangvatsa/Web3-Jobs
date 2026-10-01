@@ -665,6 +665,9 @@
   "https://hashtagweb3.com/coinbase-oura?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+  "https://hashtagweb3.com/cobalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fundsz?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tda-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1899,6 +1902,12 @@
   "MetaMask exits Ethereum validators amid undisclosed security incident",
   "Google Releases Gemini 4 Argon AI Model",
   "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
+  "Base Activates Cobalt Upgrade on Mainnet",
+  "Base Activates Cobalt Upgrade With Conditional Transactions",
+  "Court Orders Fundsz Operators to Pay $31.5 Million for Fraud",
+  "CFTC Wins $31.5M Fundsz Fraud Judgment in Florida Court",
+  "US sanctions Tren de Aragua network over ATM thefts",
+  "US Sanctions Tren de Aragua Network Over ATM Cash Thefts",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2093,5 +2102,8 @@
   "fp:ahead|application|business|clock|country|deadlin|february|firm|framework|kingdom",
   "fp:allocation|can|coinbas|customer|eligibl|ipo|list|nasdaq|offer|open",
   "fp:add|blockchain|bloomberg|data|exit|hourly|incident|institutional|issuanc|metamask",
-  "fp:all|argon|availabl|benchmark|cybersecurity|eighteen|expert|flagship|gemini4|googl"
+  "fp:all|argon|availabl|benchmark|cybersecurity|eighteen|expert|flagship|gemini4|googl",
+  "fp:activat|b20|bas|cobalt|conditional|control|introduc|issuer|mainnet|standard",
+  "fp:315m|cftc|court|defendant|federal|fictitious|fin|florida|fraud|fundsz",
+  "fp:aragua|atm|cash|entity|gang|launder|link|network|sanction|stolen"
 ]

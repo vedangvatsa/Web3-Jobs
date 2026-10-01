@@ -363,7 +363,7 @@
     "sentAt": "2026-10-01T04:03:52.601Z"
   },
   "bd135233-efb3-4134-b065-bf8e7c849d6f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T11:34:11.463Z",
     "stories": [
       {
@@ -391,6 +391,8 @@
         "originalTitle": "US Sanctions Tren de Aragua Network Over ATM Cash Thefts"
       }
     ],
-    "slotKey": "2026-10-01:afternoon"
+    "slotKey": "2026-10-01:afternoon",
+    "messageId": 65718,
+    "sentAt": "2026-10-01T11:34:13.986Z"
   }
 }
