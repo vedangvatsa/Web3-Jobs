@@ -412,5 +412,49 @@
     "slotKey": "2026-10-01:afternoon",
     "messageId": 16492,
     "sentAt": "2026-10-01T11:31:59.065Z"
+  },
+  "3b27b986-04af-47c8-aef2-fe48892a0f12": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T11:32:00.647Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "854f262c-5b9f-4b70-970f-69324db7503d",
+        "slug": "fraud",
+        "url": "https://hashtagweb3.com/fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Vana",
+        "title": "Fraud Data Science"
+      },
+      {
+        "key": "4982053101",
+        "slug": "pm193",
+        "url": "https://hashtagweb3.com/pm193?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Product Manager Expert"
+      },
+      {
+        "key": "d25a9497-c9e8-4f2e-84fd-087b46a49957",
+        "slug": "engineer326",
+        "url": "https://hashtagweb3.com/engineer326?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Cantina",
+        "title": "Machine Learning Engineer"
+      },
+      {
+        "key": "8bd52610-175c-42a7-a7cd-b29c45f9d305",
+        "slug": "engineer519",
+        "url": "https://hashtagweb3.com/engineer519?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Research Engineer"
+      },
+      {
+        "key": "c80389bf-02fd-42a6-96e7-77de5bd0ad0c",
+        "slug": "marketing177",
+        "url": "https://hashtagweb3.com/marketing177?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Keyrock",
+        "title": "Head of Marketing"
+      }
+    ],
+    "message": "• Vana is hiring <a href=\"https://hashtagweb3.com/fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Fraud Data Science</a>\n• Bybit is hiring <a href=\"https://hashtagweb3.com/pm193?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager Expert</a>\n• Cantina is hiring <a href=\"https://hashtagweb3.com/engineer326?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Machine Learning Engineer</a>\n• Prime Intellect is hiring <a href=\"https://hashtagweb3.com/engineer519?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Research Engineer</a>\n• Keyrock is hiring <a href=\"https://hashtagweb3.com/marketing177?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Marketing</a>",
+    "slotKey": "2026-10-01:afternoon"
   }
 }
