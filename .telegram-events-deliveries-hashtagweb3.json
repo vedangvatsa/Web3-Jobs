@@ -247,5 +247,56 @@
     "slotKey": "2026-09-30:evening",
     "messageId": 155525,
     "sentAt": "2026-09-30T19:33:09.250Z"
+  },
+  "40384daf-310c-4b01-89c2-2b6c3031304e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T03:59:42.943Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "kbw-bridge-seoul-2026",
+        "slug": "bridge-seoul",
+        "name": "Bridge Seoul 2026",
+        "startDate": "2026-10-01T04:00:00.000Z",
+        "keys": [
+          "kbw-bridge-seoul-2026",
+          "kbw-official-bridge-seoul-2026-10-01",
+          "page:bridge-seoul:2026-10-01",
+          "luma:evt-0tgtt4ihlfv6p6d",
+          "luma-url:/ho64m7rb",
+          "event:bridgeseoul2026:2026-10-01:seoul"
+        ]
+      },
+      {
+        "id": "kbw-realfi-asia-stablecoin-2026",
+        "slug": "realfi-asia-stablecoin",
+        "name": "RealFi x Asia Stablecoin Conference",
+        "startDate": "2026-10-01T04:00:00.000Z",
+        "keys": [
+          "kbw-realfi-asia-stablecoin-2026",
+          "rxasc",
+          "kbw-official-realfi-x-asia-stablecoin-conference-10-01",
+          "page:realfi-asia-stablecoin:2026-10-01",
+          "luma:evt-yilagaglhag3zhj",
+          "luma-url:/nhi6rmrp",
+          "event:realfixasiastablecoinconference:2026-10-01:seoul"
+        ]
+      },
+      {
+        "id": "luma-batch-evtraKbv5ad7Ma0n",
+        "slug": "builde-5cd9",
+        "name": "DIGITAL AF Seoul: Hackathon - In person",
+        "startDate": "2026-10-01T05:00:00.000Z",
+        "keys": [
+          "luma-batch-evtrakbv5ad7ma0n",
+          "page:builde-5cd9:2026-10-01",
+          "luma:evt-rakbv5ad7ma0nk2",
+          "luma-url:/builde-5cd9",
+          "event:digitalafseoulhackathoninperson:2026-10-01:seoul"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-01:morning"
   }
 }
