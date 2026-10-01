@@ -290,5 +290,40 @@
     "slotKey": "2026-10-01:morning",
     "messageId": 193307,
     "sentAt": "2026-10-01T04:00:55.037Z"
+  },
+  "8df2ee8d-a114-4c16-a383-45efe308bbcd": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T11:33:22.603Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "headline": "Reddit blocks public API and RSS feeds over AI scraping",
+        "summary": "The platform is restricting access to its user-generated content to prevent artificial intelligence companies from training models for free.",
+        "event_rationale": "This covers Reddit's policy change to restrict data access, which is distinct from other data scraping disputes and previous posts.",
+        "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+        "source": "TechCrunch",
+        "originalTitle": "Reddit is killing RSS feeds and ending public API access because of AI bots"
+      },
+      {
+        "index": 1,
+        "original_title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
+        "headline": "Researchers develop AI that reconstructs images from brain scans",
+        "summary": "The new system analyzes brain activity to recreate visual images a person is looking at with high precision.",
+        "event_rationale": "This covers a major scientific breakthrough in non-invasive neural decoding using machine learning, distinct from any previously posted stories.",
+        "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+        "source": "MIT Tech Review",
+        "originalTitle": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan"
+      },
+      {
+        "index": 2,
+        "headline": "Startups use small batteries to bypass New York City regulations",
+        "summary": "Smaller energy storage units provide power while avoiding the complex rules governing large battery installations in New York.",
+        "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+        "source": "MIT Tech Review",
+        "originalTitle": "How smaller, distributed batteries could help the grid"
+      }
+    ],
+    "slotKey": "2026-10-01:afternoon"
   }
 }
