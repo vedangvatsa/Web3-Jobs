@@ -230,7 +230,7 @@
     "sentAt": "2026-10-01T11:32:19.823Z"
   },
   "98c931fa-7852-413f-a6d3-db6a79100bb6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T19:44:03.784Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -271,6 +271,8 @@
       }
     ],
     "message": "• Yellow Card is hiring <a href=\"https://hashtagweb3.com/frontend48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Frontend Engineer</a>\n• BitGo is hiring <a href=\"https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Backend Engineer E2</a>\n• Sahara AI is hiring <a href=\"https://hashtagweb3.com/community3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Community Manager</a>\n• Notabene is hiring <a href=\"https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Customer Success Manager</a>\n• Anza is hiring <a href=\"https://hashtagweb3.com/engineer185?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
-    "slotKey": "2026-10-01:evening"
+    "slotKey": "2026-10-01:evening",
+    "messageId": 155543,
+    "sentAt": "2026-10-01T19:44:06.733Z"
   }
 }
