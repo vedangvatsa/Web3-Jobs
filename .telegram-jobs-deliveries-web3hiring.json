@@ -368,7 +368,7 @@
     "sentAt": "2026-10-01T03:59:56.977Z"
   },
   "339a0a82-f4ef-4f62-9d7c-220443ac1c2b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T11:31:56.934Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -409,6 +409,8 @@
       }
     ],
     "message": "• Vana is hiring <a href=\"https://hashtagweb3.com/fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Fraud Data Science</a>\n• Bybit is hiring <a href=\"https://hashtagweb3.com/pm193?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager Expert</a>\n• Cantina is hiring <a href=\"https://hashtagweb3.com/engineer326?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Machine Learning Engineer</a>\n• Prime Intellect is hiring <a href=\"https://hashtagweb3.com/engineer519?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Research Engineer</a>\n• Keyrock is hiring <a href=\"https://hashtagweb3.com/marketing177?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Marketing</a>",
-    "slotKey": "2026-10-01:afternoon"
+    "slotKey": "2026-10-01:afternoon",
+    "messageId": 16492,
+    "sentAt": "2026-10-01T11:31:59.065Z"
   }
 }
