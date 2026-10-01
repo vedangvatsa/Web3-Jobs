@@ -1,6 +1,174 @@
 {
-  "generatedAt": "2026-10-01T11:31:32.689Z",
+  "generatedAt": "2026-10-01T19:43:11.693Z",
   "items": [
+    {
+      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+      "link": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "pubDate": "Thu, 01 Oct 2026 19:10:36 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA rev...",
+      "source": "The Block"
+    },
+    {
+      "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
+      "link": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
+      "pubDate": "Thu, 01 Oct 2026 18:46:03 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Another Trump memecoin dinner advertised for token's top investors",
+      "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+      "pubDate": "Thu, 01 Oct 2026 18:45:29 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\"",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+      "link": "https://dailyhodl.com/2026/10/01/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide/",
+      "pubDate": "Thu, 01 Oct 2026 18:42:56 +0000",
+      "creator": "Chainwire",
+      "contentSnippet": "Las Vegas, NV, 1st October 2026, Chainwire\nThe post Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide appeared first on The Da...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Illinois will postpone implementation of crypto tax following lawsuit",
+      "link": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 18:01:49 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "State officials agreed to delay the 0.2% crypto tax for six months after lawsuits and industry pushback claimed the bill was rushed through the legisl...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "link": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+      "pubDate": "Thu, 01 Oct 2026 17:11:44 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin enters its historically strongest month after a record-pace September, but a Fed hike and 5.3% Treasury yields are testing the bulls.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+      "pubDate": "Thu, 01 Oct 2026 16:17:23 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Co-author Jérôme de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change...",
+      "source": "The Block"
+    },
+    {
+      "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight ",
+      "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 16:12:23 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The agreement will allow the two state regulators to share supervisory information, streamline licensing reviews and coordinate examinations and enfor...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 15:55:19 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+      "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 15:43:34 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
+      "link": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
+      "pubDate": "Thu, 01 Oct 2026 15:17:11 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
+      "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 13:35:47 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "LATAM stablecoin liquidity may depend on few providers, investor says ",
+      "link": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 13:30:00 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 49...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Stablecoins can drain from banks and nations at lightning speed",
+      "link": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 13:30:00 +0000",
+      "creator": "Christina Comben",
+      "contentSnippet": "Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
+      "link": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
+      "pubDate": "Thu, 01 Oct 2026 13:22:58 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Robinhood Wallet integrates Arcus RFQ system for stock token swaps",
+      "link": "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
+      "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving eligible users access to more than 190 tokens.",
+      "source": "The Block"
+    },
+    {
+      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+      "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+      "pubDate": "Thu, 01 Oct 2026 12:29:00 +0000",
+      "creator": "Tyler Warner",
+      "contentSnippet": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "pubDate": "Thu, 01 Oct 2026 12:23:15 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+      "link": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
+      "pubDate": "Thu, 01 Oct 2026 12:17:06 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesday, led by $26.6 million exiting Fidelity's FETH fund.",
+      "source": "The Block"
+    },
+    {
+      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
+      "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
+      "pubDate": "Thu, 01 Oct 2026 11:59:17 +0000",
+      "creator": "Stephen Alpher",
+      "contentSnippet": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+      "pubDate": "Thu, 01 Oct 2026 11:58:00 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the lega...",
+      "source": "Coindesk"
+    },
     {
       "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
       "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
@@ -13,7 +181,7 @@
       "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
       "link": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
       "pubDate": "Thu, 01 Oct 2026 11:13:46 +0000",
-      "creator": "The Block",
+      "creator": "James Hunt",
       "contentSnippet": "Lloyds used USDC to settle $750,000 of payment obligations with Visa during a seven-day live cross-border pilot.",
       "source": "The Block"
     },
@@ -72,14 +240,6 @@
       "creator": "Agent",
       "contentSnippet": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bank of America Agrees to Pay $39,000,000 to Merrill Edge Customers Over Near-Zero Cash Interest",
-      "link": "https://dailyhodl.com/2026/10/01/bank-of-america-agrees-to-pay-39000000-to-merrill-edge-customers-over-near-zero-cash-interest/",
-      "pubDate": "Thu, 01 Oct 2026 08:15:04 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Bank of America has agreed to pay 9 million to settle claims Merrill Edge customers earned near-zero interest on idle cash sweeps, Reuters reports.\nTh...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
@@ -199,14 +359,6 @@
       "pubDate": "Wed, 30 Sep 2026 18:39:21 +0000",
       "creator": "Agent",
       "contentSnippet": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive juri...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-      "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-      "pubDate": "Wed, 30 Sep 2026 17:27:43 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
       "source": "Decrypt"
     },
     {
@@ -346,43 +498,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin ETFs stretch $3.1B inflow streak as Ether funds turn red",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 10:12:28 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 million outflow from Zcash funds at the start of the week.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
       "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
       "pubDate": "Wed, 30 Sep 2026 10:11:36 +0000",
       "creator": "Oliver Knight",
       "contentSnippet": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Crypto hardware wallets compared for 2026",
-      "link": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 10:11:12 +0000",
-      "creator": "Cointelegraph",
-      "contentSnippet": "From touchscreen and QR-code devices to NFC cards and Bitcoin-only models, this guide compares hardware wallets by security, connectivity, usability a...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
-      "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
-      "pubDate": "Wed, 30 Sep 2026 08:27:00 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The new Zakura nodes caught up with the network in just over six hours in Gemini’s deployments. The crypto exchange’s previous software took close to ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
-      "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
-      "pubDate": "Wed, 30 Sep 2026 08:25:43 +0000",
-      "creator": "Jamie Crawley",
-      "contentSnippet": "Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.",
       "source": "Coindesk"
     },
     {
@@ -392,54 +512,6 @@
       "creator": "Timmy Shen",
       "contentSnippet": "Its monthly volume reached $52.98 billion in September as of Sept. 29, marking an all-time high, even as September data remains incomplete.",
       "source": "The Block"
-    },
-    {
-      "title": "Bitcoin bulls have one price level to defend",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
-      "pubDate": "Wed, 30 Sep 2026 07:04:41 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Here's the level analysts are watching and what a break below it could mean for the bulls.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
-      "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already covers the euro, Swiss franc and Swedis...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters ",
-      "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 05:45:55 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The prediction market was valued at $22 billion in a $1 billion funding round just four months ago, after doubling its valuation from December.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 04:29:28 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Illinois’ draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi platforms, crypto bridges and self-custody...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Crypto.com AI agent still in ‘stealth mode’ nearly 8 months after Super Bowl debut",
-      "link": "https://cointelegraph.com/news/cryptocom-ai-agent-stealth-mode-nearly-8-months-after-super-bowl-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 03:40:42 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "In February, ai.com drew enough traffic to crash its website after a $15 million Super Bowl ad, but months later, users are still wondering what’s hap...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Binance Pay lets visitors spend crypto at PayPay merchants in Japan",
-      "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 02:25:00 +0000",
-      "creator": "Yohan Yun",
-      "contentSnippet": "Binance Pay will let overseas users spend more than 100 cryptocurrencies at PayPay-supported merchants in Japan through HIVEX, while stores receive ye...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
@@ -458,30 +530,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "CryptoQuant says bitcoin correction could be near as traders’ unrealized profit hits 21-month high",
-      "link": "https://www.theblock.co/news/markets/2026-09-29-cryptoquant-says-bitcoin-correction-could-near-traders-unrealized-profit-21-month-high-417206",
-      "pubDate": "Tue, 29 Sep 2026 19:14:47 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Bitcoin could face a near-term correction as short-term traders' onchain unrealized profit margin has reached its highest level in 21 months, accordin...",
-      "source": "The Block"
-    },
-    {
-      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-      "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-      "pubDate": "Tue, 29 Sep 2026 18:18:33 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
-      "link": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
-      "pubDate": "Tue, 29 Sep 2026 17:40:37 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Comer’s expanded probe seeks records on government insiders, employee trades and suspicious activity referrals.",
-      "source": "The Block"
-    },
-    {
       "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
       "link": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
       "pubDate": "Tue, 29 Sep 2026 16:50:46 +0000",
@@ -490,59 +538,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
-      "link": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
-      "pubDate": "Tue, 29 Sep 2026 15:09:46 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Bitcoin traded near $84,000 on Tuesday, near Glassnode's largest long-term holder cost-basis cluster price range.",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
       "link": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
       "pubDate": "Tue, 29 Sep 2026 14:07:44 +0000",
       "creator": "Agent",
       "contentSnippet": "Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-      "link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
-      "pubDate": "Tue, 29 Sep 2026 12:05:18 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "Plus, crypto majors rebound as oil and yields fall and Saylor’s Strategy returns to buying Bitcoin.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Canada's 'Crypto King' Aiden Pleterski to Represent Himself at Fraud Trial",
-      "link": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
-      "pubDate": "Tue, 29 Sep 2026 10:38:29 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-      "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
-      "pubDate": "Tue, 29 Sep 2026 09:38:57 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
-      "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
-      "pubDate": "Mon, 28 Sep 2026 21:16:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
-      "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
-      "pubDate": "Mon, 28 Sep 2026 18:16:02 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.",
       "source": "Decrypt"
     }
   ]
