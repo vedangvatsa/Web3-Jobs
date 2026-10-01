@@ -7,6 +7,7 @@ import { fetchJobById, fetchJobBySlug } from './job-by-slug-record';
 import * as cheerio from 'cheerio';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
+import { getJobSourceIssue } from './job-source-policy';
 import {
   decodeEntityEscapedMarkup,
   sanitizeJobDescriptionHtml,
@@ -32,6 +33,8 @@ export interface ArchivedSlugRecord {
   company?: string;
   title?: string;
   newSlug?: string;
+  retiredReason?: string;
+  recoveredFromMisattribution?: boolean;
 }
 
 let legacyArchiveCache: Record<string, ArchivedSlugRecord> | null = null;
@@ -761,6 +764,11 @@ export function findLiveJobForArchived(
   archived: ArchivedSlugRecord,
   liveJobs: Job[]
 ): Job | null {
+  if (getJobSourceIssue(archived)) return null;
+  if (isUsableArchiveLink(archived.link)) {
+    const wanted = normalizedLinkCached(archived.link!);
+    return liveJobs.find(job => job.link && normalizedLinkCached(job.link) === wanted) || null;
+  }
   // 1. Direct newSlug pointer
   if (archived.newSlug) {
     const target = liveJobs.find((j) => j.slug === archived.newSlug);
@@ -769,19 +777,8 @@ export function findLiveJobForArchived(
 
   // 2. Exact job ID match
   if (archived.id) {
-    const target = liveJobs.find((j) => j.id === archived.id);
+    const target = liveJobs.find((j) => j.id === archived.id && (!archived.company || j.company.toLowerCase().trim() === archived.company.toLowerCase().trim()));
     if (target) return target;
-  }
-
-  // 3. Match by normalized source link
-  if (isUsableArchiveLink(archived.link)) {
-    const want = normalizedLinkCached(archived.link!);
-    if (want) {
-      for (const job of liveJobs) {
-        if (!job.link) continue;
-        if (normalizedLinkCached(job.link) === want) return job;
-      }
-    }
   }
 
   // 4. Match by exact company and title
@@ -819,6 +816,20 @@ export function getLegacyJobSlugs(): string[] {
   return Object.keys(loadLegacyArchive()).map((slug) => slug.toLowerCase().trim());
 }
 
+export function getRemediatedJobSlugs(): string[] {
+  return Object.entries(loadLegacyArchive()).filter(([, record]) => !!getJobSourceIssue(record) || record.recoveredFromMisattribution).map(([slug]) => slug);
+}
+
+export function isRetiredJobSlug(slug: string): boolean {
+  const record = loadLegacyArchive()[slug.toLowerCase().trim()];
+  return !!record && !!getJobSourceIssue(record);
+}
+
+export function isRemediatedJobSlug(slug: string): boolean {
+  const record = loadLegacyArchive()[slug.toLowerCase().trim()];
+  return !!record && (!!getJobSourceIssue(record) || !!record.recoveredFromMisattribution);
+}
+
 export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
   const cleanSlug = slug.toLowerCase().trim();
 
@@ -836,9 +847,10 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
   const legacyMap = loadLegacyArchive();
   const archived = legacyMap[cleanSlug];
   if (archived) {
+    if (getJobSourceIssue(archived)) return { kind: 'unknown', job: null, canonicalSlug: null };
     if (archived.newSlug) {
       const targetJob = await fetchJobBySlug(archived.newSlug);
-      if (targetJob?.slug) {
+      if (targetJob?.slug && findLiveJobForArchived(archived, [targetJob])) {
         return { kind: 'exact', job: targetJob, canonicalSlug: targetJob.slug };
       }
     }

@@ -5,6 +5,8 @@ import { execSync, execFileSync } from 'child_process';
 import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
 import { getJobContentKey } from '../src/lib/job-slugs';
 import { getAshbySalary } from './lib/ashby-salary';
+import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
+import { verifyAshbyEmployer } from './lib/ashby-employer-verification';
 import { ingestYZiLabs } from './ingest-yzilabs';
 import {
   buildJobDescriptionAliases,
@@ -40,7 +42,7 @@ function readCache(): any[] {
   return JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'));
 }
 function writeCache(data: any[]): void {
-  fs.writeFileSync(CACHE_PATH, JSON.stringify(data, null, 2));
+  fs.writeFileSync(CACHE_PATH, JSON.stringify(data.filter(job => !getJobSourceIssue(job)), null, 2));
 }
 let descriptionAliases: Record<string, string> = {};
 function readDescCache(): Record<string, string> {
@@ -144,6 +146,8 @@ function findLegacySlug(id: string, link?: string): string | undefined {
 async function ingestAshbySimple(company: string, slug: string, defaultLoc: string, cacheData: any[], descData: Record<string, string>): Promise<void> {
   try {
     const encodedSlug = encodeURI(decodeURI(slug));
+    assertAtsSourceAllowed('ashby', slug);
+    await verifyAshbyEmployer(slug, company);
     const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodedSlug}?includeCompensation=true`, { signal: AbortSignal.timeout(30_000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const json = await res.json() as any;
@@ -174,6 +178,7 @@ async function ingestAshbySimple(company: string, slug: string, defaultLoc: stri
 
 async function ingestGreenhouse(company: string, slug: string, defaultLoc: string, cacheData: any[], descData: Record<string, string>): Promise<void> {
   try {
+    assertAtsSourceAllowed('greenhouse', slug);
     const isEU = slug.startsWith('eu:');
     const realSlug = isEU ? slug.slice(3) : slug;
     const baseUrl = isEU ? 'https://job-boards.eu.greenhouse.io' : 'https://boards-api.greenhouse.io';
@@ -201,6 +206,7 @@ async function ingestGreenhouse(company: string, slug: string, defaultLoc: strin
 
 async function ingestLever(company: string, slug: string, cacheData: any[], descData: Record<string, string>): Promise<void> {
   try {
+    assertAtsSourceAllowed('lever', slug);
     const res = await fetch(`https://api.lever.co/v0/postings/${slug}?mode=json`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const jobs = await res.json() as any[];
@@ -228,6 +234,7 @@ async function ingestLever(company: string, slug: string, cacheData: any[], desc
 
 async function ingestBambooHR(company: string, slug: string, cacheData: any[]): Promise<void> {
   try {
+    assertAtsSourceAllowed('bamboohr', slug);
     const data = await fetchUrl(`https://${slug}.bamboohr.com/careers/list`);
     let added = 0, updated = 0;
     for (const j of (data.result || [])) {
@@ -284,6 +291,8 @@ async function ingestFanOutFeeds(label: string, feeds: FeedConfig[], cacheData: 
   let totalNew = 0;
   for (const feed of feeds) {
     try {
+      assertAtsSourceAllowed(feed.type, feed.slug);
+      if (feed.type === 'ashby') await verifyAshbyEmployer(feed.slug, feed.company);
       const data = await fetchUrl(feed.url);
       let items: any[] = [];
       if (feed.type === 'bamboo') {
@@ -353,15 +362,11 @@ const GLOBAL_ECOSYSTEM_FEEDS: FeedConfig[] = [
   { company: 'Injective',      type: 'ashby',      slug: 'injective',    url: 'https://api.ashbyhq.com/posting-api/job-board/injective',                   skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Ritual',         type: 'greenhouse', slug: 'ritual',       url: 'https://boards-api.greenhouse.io/v1/boards/ritual/jobs?content=true',       skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Arbitrum',       type: 'lever',      slug: 'offchainlabs', url: 'https://api.lever.co/v0/postings/offchainlabs?mode=json',                   skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
-  { company: 'Render Network', type: 'ashby',      slug: 'render',       url: 'https://api.ashbyhq.com/posting-api/job-board/render',                      skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Phantom',        type: 'ashby',      slug: 'phantom',      url: 'https://api.ashbyhq.com/posting-api/job-board/phantom',                     skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Morpho',         type: 'ashby',      slug: 'morpho',       url: 'https://api.ashbyhq.com/posting-api/job-board/morpho',                      skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
-  { company: 'Safe',           type: 'ashby',      slug: 'safe',         url: 'https://api.ashbyhq.com/posting-api/job-board/safe',                        skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Uniswap Labs',   type: 'ashby',      slug: 'uniswap',      url: 'https://api.ashbyhq.com/posting-api/job-board/uniswap',                     skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
-  { company: 'Ethena Labs',    type: 'lever',      slug: 'ethena',       url: 'https://api.lever.co/v0/postings/ethena?mode=json',                         skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Optimism',       type: 'ashby',      slug: 'oplabs',       url: 'https://api.ashbyhq.com/posting-api/job-board/oplabs',                      skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Consensys',      type: 'greenhouse', slug: 'consensys',    url: 'https://boards-api.greenhouse.io/v1/boards/consensys/jobs?content=true',    skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
-  { company: 'Compound',       type: 'ashby',      slug: 'compound',     url: 'https://api.ashbyhq.com/posting-api/job-board/compound',                   skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'Jump Crypto',    type: 'greenhouse', slug: 'jumpcrypto',   url: 'https://boards-api.greenhouse.io/v1/boards/jumpcrypto/jobs?content=true',   skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'TRM Labs',       type: 'bamboo',     slug: 'trmlabs',      url: 'https://trmlabs.bamboohr.com/careers/list',                                 skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
   { company: 'OpenZeppelin',   type: 'greenhouse', slug: 'openzeppelin', url: 'https://boards-api.greenhouse.io/v1/boards/openzeppelin/jobs?content=true', skills: ['Web3','Blockchain','Crypto','DeFi','Infrastructure'] },
@@ -386,7 +391,6 @@ const UNTRACKED_FEEDS: FeedConfig[] = [
   { company: 'Pyth Network',  type: 'ashby',      slug: 'pythnetwork',  url: 'https://api.ashbyhq.com/posting-api/job-board/pythnetwork',                 skills: ['Web3','DeFi','Oracle'] },
   { company: 'Nansen',        type: 'greenhouse', slug: 'nansen',       url: 'https://boards-api.greenhouse.io/v1/boards/nansen/jobs?content=true',      skills: ['Web3','Analytics','Data'] },
   { company: '0x Labs',       type: 'ashby',      slug: '0x',           url: 'https://api.ashbyhq.com/posting-api/job-board/0x',                         skills: ['Web3','DeFi','DEX'] },
-  { company: 'Cantina',          type: 'ashby',  slug: 'cantina',          url: 'https://api.ashbyhq.com/posting-api/job-board/cantina',         skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Turnkey',          type: 'greenhouse', slug: 'turnkeycareers', url: 'https://boards-api.greenhouse.io/v1/boards/turnkeycareers/jobs?content=true', skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Hyperbolic',       type: 'ashby',  slug: 'hyperbolic',       url: 'https://api.ashbyhq.com/posting-api/job-board/hyperbolic',      skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: '0G Labs',          type: 'ashby',  slug: '0g',               url: 'https://api.ashbyhq.com/posting-api/job-board/0g',              skills: ['Web3','Blockchain','Crypto','AI','Security'] },
@@ -400,7 +404,6 @@ const UNTRACKED_FEEDS: FeedConfig[] = [
   { company: 'Aztec Labs',       type: 'ashby',  slug: 'aztec-labs',       url: 'https://api.ashbyhq.com/posting-api/job-board/aztec-labs',      skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Succinct Labs',    type: 'ashby',  slug: 'succinct',         url: 'https://api.ashbyhq.com/posting-api/job-board/succinct',        skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Magic Eden',       type: 'ashby',  slug: 'magiceden',        url: 'https://api.ashbyhq.com/posting-api/job-board/magiceden',       skills: ['Web3','Blockchain','Crypto','AI','Security'] },
-  { company: 'Foundation',       type: 'ashby',  slug: 'foundation',       url: 'https://api.ashbyhq.com/posting-api/job-board/foundation',      skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Alpen Labs',       type: 'ashby',  slug: 'alpenlabs',        url: 'https://api.ashbyhq.com/posting-api/job-board/alpenlabs',       skills: ['Web3','Bitcoin','Zero Knowledge','DeFi','Layer2'] },
   { company: 'Meow',             type: 'ashby',  slug: 'meow',             url: 'https://api.ashbyhq.com/posting-api/job-board/meow',             skills: ['Web3','Fintech','Crypto','Compliance','Banking'] },
   { company: 'Biti',             type: 'ashby',  slug: 'biti',             url: 'https://api.ashbyhq.com/posting-api/job-board/biti',             skills: ['Web3','Crypto','DeFi','Design','Wallet'] },
@@ -600,6 +603,8 @@ async function main() {
   console.log('\n--- Fresh Feeds (30-day cutoff) ---');
   for (const f of FRESH_FEEDS) {
     try {
+      assertAtsSourceAllowed(f.type, f.slug);
+      if (f.type === 'ashby') await verifyAshbyEmployer(f.slug, f.company);
       const res = await fetch(f.url, { headers: { 'User-Agent': 'Mozilla/5.0' } });
       if (!res.ok) continue;
       const json = await res.json() as any;

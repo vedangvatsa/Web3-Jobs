@@ -25,6 +25,8 @@ import {
 import { cleanJobLocation } from '../src/lib/job-location';
 import { extractSalaryLabelFromContent } from '../src/lib/job-salary';
 import { enrichMultiOfficeLocations } from './lib/enrich-multi-office-locations';
+import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
+import { verifyAshbyEmployer, validateAshbyOrganization } from './lib/ashby-employer-verification';
 
 interface GetroBoard {
   url: string;
@@ -337,6 +339,7 @@ async function refreshJobsCache() {
   const refreshedDescriptions = new Map<string, string>();
 
   const upsertJob = (job: CachedJob): boolean => {
+    if (getJobSourceIssue(job)) return false;
     const identity = getJobIdentity(job);
     const existing = jobMap.get(identity);
     const nextJob = {
@@ -397,7 +400,7 @@ async function refreshJobsCache() {
         if (job.slug) persistedSlugs.set(identity, job.slug);
         persistedDates.set(identity, job.date);
         persistedDateVerification.set(identity, job.dateVerified);
-        if (isRetiredSource(job.source)) return;
+        if (isRetiredSource(job.source) || getJobSourceIssue(job)) return;
         // Direct ATS roles are replaced only after their board responds
         // successfully. This avoids wiping a company during a transient outage.
         if (isDirectSource(job.source) || new Date(job.date) > thirtyDaysAgo) {
@@ -416,6 +419,7 @@ async function refreshJobsCache() {
   let feedsFailed = 0;
   const configuredDirectSources = new Set<string>();
   const registerDirectSource = (provider: string, board: string, company: string): void => {
+    assertAtsSourceAllowed(provider, board);
     configuredDirectSources.add(sourceLabel(provider, board, company).toLowerCase());
   };
 
@@ -501,7 +505,6 @@ async function refreshJobsCache() {
     { board: 'messari', company: 'Messari' },
 
     { board: 'coinbase', company: 'Coinbase' },
-    { board: 'paradigm', company: 'Paradigm' },
     { board: 'openzeppelin', company: 'OpenZeppelin' },
     { board: 'ripple', company: 'Ripple' },
     { board: 'robinhood', company: 'Robinhood' },
@@ -537,7 +540,6 @@ async function refreshJobsCache() {
     { board: 'aptoslabs', company: 'Aptos Labs' },
     { board: 'layerzerolabs', company: 'LayerZero' },
     { board: 'galaxydigitalservices', company: 'Galaxy Digital' },
-    { board: 'foundry', company: 'Foundry' },
     { board: 'mercari', company: 'Mercari' },
     { board: 'bitso', company: 'Bitso' },
     { board: 'bitpanda', company: 'Bitpanda' },
@@ -558,7 +560,6 @@ async function refreshJobsCache() {
     { board: 'luno', company: 'Luno' },
     // --- New Web3 companies ---
     { board: 'a16z', company: 'a16z' },
-    { board: 'paradigm', company: 'Paradigm' },
     { board: 'securitize', company: 'Securitize' },
     { board: 'copperco', company: 'Copper.co' },
     { board: 'figment', company: 'Figment' },
@@ -589,20 +590,16 @@ async function refreshJobsCache() {
     { board: 'dvtrading', company: 'DV Trading' },
     { board: 'alpaca', company: 'Alpaca' },
     { board: 'dfinity', company: 'DFINITY' },
-    { board: 'sei', company: 'Sei' },
     { board: 'magic', company: 'Magic' },
     { board: 'helium', company: 'Helium' },
     { board: 'janestreet', company: 'Jane Street' },
     { board: 'drweng', company: 'DRW' },
     // --- Regional Exchanges & Protocols ---
     { board: 'coinme', company: 'Coinme' },
-    { board: 'plume', company: 'Plume Network' },
     { board: 'eclipse', company: 'Eclipse' },
-    { board: 'apex', company: 'Apex Protocol' },
     { board: 'caladan', company: 'Caladan' },
     { board: 'groma', company: 'Groma' },
     { board: 'localcoin', company: 'Localcoin' },
-    { board: 'beam', company: 'Beam' },
     { board: 'elwoodtechnologies', company: 'Elwood Technologies' },
     { board: 'logos', company: 'Logos' },
   ];
@@ -685,7 +682,9 @@ async function refreshJobsCache() {
     { board: 'wintermute-trading', company: 'Wintermute' },
     { board: 'superstate', company: 'Superstate' },
     { board: 'piplabs', company: 'Story Protocol' },
-    { board: 'ethena', company: 'Ethena Labs' },
+    { board: 'toku', company: 'Toku' },
+    { board: 'sphere-laboratories', company: 'Sphere' },
+    { board: 'saga-xyz', company: 'Saga' },
     { board: 'offchainlabs', company: 'Offchain Labs' },
     { board: 'arbitrumfoundation', company: 'Arbitrum Foundation' },
     { board: 'animocabrands', company: 'Animoca Brands' },
@@ -713,12 +712,9 @@ async function refreshJobsCache() {
     { board: 'aragon', company: 'Aragon' },
     // --- Regional Exchanges & Protocols ---
     { board: 'swissborg', company: 'SwissBorg' },
-    { board: 'mantra', company: 'Mantra Chain' },
     { board: 'airtm', company: 'Airtm' },
     { board: 'arbitrum-opco', company: 'Arbitrum OpCo' },
-    { board: 'horizon', company: 'Horizon' },
     { board: 'pioneer-services', company: 'BNB Chain' },
-    { board: 'vana', company: 'Vana' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -781,25 +777,14 @@ async function refreshJobsCache() {
   // --- Ashby API Sources ---
   const ASHBY_BOARDS = [
     { board: 'primeintellect', company: 'Prime Intellect' },
-    { board: 'socket', company: 'Socket' },
-    { board: 'parallel', company: 'Parallel' },
-    { board: 'fleek', company: 'Fleek' },
-    { board: 'lens', company: 'Lens Protocol' },
-    { board: 'delphi', company: 'Delphi Digital' },
     { board: 'paxoslabs', company: 'Paxos' },
     { board: 'parity', company: 'Parity Technologies' },
     { board: 'dune', company: 'Dune' },
     { board: 'nethermind', company: 'Nethermind' },
-    { board: 'warp', company: 'RedStone Oracles' },
-    { board: 'sphere', company: 'Sphere' },
     { board: 'movement', company: 'Movement Labs' },
     { board: 'tenderly', company: 'Tenderly' },
     { board: 'sei-labs', company: 'Sei' },
-    { board: 'cantina', company: 'Cantina' },
-    { board: 'skip', company: 'Skip Protocol' },
-    { board: 'foundation', company: 'Foundation' },
     { board: 'river', company: 'River Financial' },
-    { board: 'arch', company: 'Arch Network' },
     { board: 'satoshilabs', company: 'Trezor' },
     { board: 'risklabs', company: 'Across Protocol' },
 
@@ -915,26 +900,16 @@ async function refreshJobsCache() {
     { board: 'bitvavo', company: 'Bitvavo' },
     { board: 'variant-fund', company: 'Variant Fund' },
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
-    { board: 'swan', company: 'Swan Bitcoin' },
-    { board: 'union', company: 'Union' },
     { board: 'somnia', company: 'Somnia' },
-    { board: 'compound', company: 'Compound' },
-    { board: 'espresso', company: 'Espresso Systems' },
-    { board: 'chronicle-labs', company: 'Chronicle Labs' },
     { board: 'movement', company: 'Movement Labs' },
     { board: 'Anagram', company: 'Anagram' },
-    { board: 'toku', company: 'Toku' },
     { board: 'stronghold', company: 'Stronghold' },
     { board: 'sei-labs', company: 'Sei Labs' },
     { board: 'kalshi', company: 'Kalshi' },
-    { board: 'vesta', company: 'Vesta' },
     { board: 'partisiablockchain', company: 'Partisia Blockchain' },
-    { board: 'yeet', company: 'YEET' },
     { board: 'dakota', company: 'Dakota' },
     { board: 'molecule', company: 'Molecule' },
     { board: 'brale', company: 'Brale' },
-    { board: 'safe', company: 'Safe' },
-    { board: 'gelato', company: 'Gelato Network' },
     { board: 'matter-labs', company: 'Matter Labs' },
     { board: 'Aspora', company: 'Aspora' },
     { board: 'Augustus', company: 'Augustus' },
@@ -952,6 +927,7 @@ async function refreshJobsCache() {
   for (const ab of ASHBY_BOARDS) {
     registerDirectSource('Ashby', ab.board, ab.company);
     try {
+      await verifyAshbyEmployer(ab.board, ab.company);
       const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(ab.board)}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json() as { jobs: Array<{
@@ -963,6 +939,7 @@ async function refreshJobsCache() {
         department?: string;
         team?: string;
         descriptionHtml?: string;
+        isListed?: boolean;
       }> };
 
       removeJobs((job) => matchesRefreshedSource(job, 'Ashby', ab.board, ab.company));
@@ -970,6 +947,7 @@ async function refreshJobsCache() {
 
       let added = 0;
       for (const job of data.jobs) {
+        if (job.isListed === false) continue;
         const title = cleanTitle(job.title);
         const company = normalizeCompany(ab.company);
         const link = job.jobUrl;
@@ -1012,6 +990,7 @@ async function refreshJobsCache() {
       const boardRes = await fetch(boardUrl);
       if (!boardRes.ok) throw new Error(`HTTP ${boardRes.status}`);
       const boardData = extractAshbyAppData(await boardRes.text());
+      validateAshbyOrganization(ab.board, ab.company, boardData?.organization || {});
       const postings = boardData?.jobBoard?.jobPostings as Array<{
         id: string;
         title: string;
@@ -1190,7 +1169,6 @@ async function refreshJobsCache() {
   // --- Recruitee API Sources ---
   const RECRUITEE_BOARDS = [
     { board: 'tether', company: 'Tether' },
-    { board: 'saga', company: 'Saga' },
   ];
 
   for (const rt of RECRUITEE_BOARDS) {
@@ -1546,15 +1524,12 @@ async function refreshJobsCache() {
     { board: 'fasset', company: 'Fasset' },
     { board: 'paribu', company: 'Paribu' },
     { board: 'yellowcard', company: 'Yellow Card' },
-    { board: 'kiln', company: 'Kiln' },
     { board: 'ramp', company: 'Ramp Network' },
-    { board: 'sui', company: 'Sui Foundation' },
     { board: 'everstake', company: 'Everstake' },
     { board: 'apex', company: 'ApeX Protocol' },
     { board: 'coinmarketcap', company: 'CoinMarketCap' },
     { board: 'cointelegraph', company: 'Cointelegraph' },
     { board: 'trmlabs', company: 'TRM Labs' },
-    { board: 'particle', company: 'Particle Network' },
     { board: 'lido', company: 'Lido' },
     { board: 'mercuryo', company: 'Mercuryo' },
     { board: 'ambergroup', company: 'Amber Group' },
@@ -1680,6 +1655,7 @@ async function refreshJobsCache() {
   const TEAMTAILOR_BOARDS = [
     { board: 'crossmint.na', company: 'Crossmint', url: 'https://crossmint.na.teamtailor.com/jobs.rss' },
     { board: 'crystalintelligence', company: 'Crystal Intelligence', url: 'https://crystalintelligence.teamtailor.com/jobs.rss' },
+    { board: 'ethena', company: 'Ethena Labs', url: 'https://careers.ethena.fi/jobs.rss' },
   ];
   const rssParser = new Parser();
 
@@ -2191,6 +2167,7 @@ async function refreshJobsCache() {
     company: cleanCompanyName(job.company),
     location: cleanJobLocation(job.location),
   })).filter(job => {
+    if (getJobSourceIssue(job)) return false;
     const titleLower = job.title.toLowerCase().trim();
     const companyLower = job.company.toLowerCase().trim();
 

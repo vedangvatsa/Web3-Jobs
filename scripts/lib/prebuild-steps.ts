@@ -33,7 +33,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'jobs-runtime',
-    inputs: ['content/jobs-cache.json'],
+    inputs: ['content/jobs-cache.json', 'content/rejected-ats-boards.json', 'src/lib/jobs-listing-build.ts', 'src/lib/job-source-policy.ts', 'src/lib/job-filters.ts'],
     outputs: [
       'content/jobs-runtime.json',
       'content/homepage-jobs.json',
@@ -54,16 +54,16 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
     command: 'npx tsx scripts/precompute-glossary-runtime.ts',
   },
   {
-    id: 'companies-runtime',
-    inputs: ['content/jobs-runtime.json'],
-    outputs: ['content/companies-runtime.json'],
-    command: 'npx tsx scripts/precompute-companies-runtime.ts',
-  },
-  {
     id: 'company-profiles',
-    inputs: ['content/jobs-runtime.json', 'content/companies-runtime.json'],
+    inputs: ['content/companies'],
     outputs: ['content/company-profiles-runtime.json'],
     command: 'npx tsx scripts/precompute-company-profiles.ts',
+  },
+  {
+    id: 'companies-runtime',
+    inputs: ['content/jobs-runtime.json', 'content/company-profiles-runtime.json', 'src/lib/companies.ts', 'src/lib/company-profiles.ts'],
+    outputs: ['content/companies-runtime.json'],
+    command: 'npx tsx scripts/precompute-companies-runtime.ts',
   },
   {
     id: 'articles-index',

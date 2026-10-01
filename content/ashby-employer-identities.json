@@ -1,0 +1,1070 @@
+{
+  "ashby:0g": {
+    "companies": [
+      "0G Labs"
+    ],
+    "organizationId": "1fd9ac73-6ea1-4b9c-8a72-927948303501",
+    "owner": "0g Labs",
+    "website": "https://0g.ai/"
+  },
+  "ashby:0x": {
+    "companies": [
+      "0x Labs",
+      "0x"
+    ],
+    "organizationId": "7be65788-a243-424c-98ae-f219ad93d1c9",
+    "owner": "0x",
+    "website": "https://0x.org/"
+  },
+  "ashby:alchemy": {
+    "companies": [
+      "Alchemy"
+    ],
+    "organizationId": "7eb80363-ad8e-45dc-afb4-564743819218",
+    "owner": "Alchemy",
+    "website": "https://www.alchemy.com/"
+  },
+  "ashby:allium": {
+    "companies": [
+      "Allium"
+    ],
+    "organizationId": "2f62de56-0dd0-4792-90f8-069c5cb51068",
+    "owner": "Allium",
+    "website": "https://allium.so"
+  },
+  "ashby:alpenlabs": {
+    "companies": [
+      "Alpen Labs"
+    ],
+    "organizationId": "abcd4913-d511-4e6f-a23e-defed563b8ea",
+    "owner": "Alpen Labs",
+    "website": "http://alpenlabs.io/"
+  },
+  "ashby:anagram": {
+    "companies": [
+      "Anagram"
+    ],
+    "organizationId": "b16de0bb-5ad7-48bb-8781-c4595b29f7ab",
+    "owner": "Anagram",
+    "website": "https://www.anagram.xyz/"
+  },
+  "ashby:aspora": {
+    "companies": [
+      "Aspora"
+    ],
+    "organizationId": "29d5a659-e687-4d91-8669-2f4df63f4521",
+    "owner": "Aspora",
+    "website": "http://www.aspora.com/"
+  },
+  "ashby:augustus": {
+    "companies": [
+      "Augustus"
+    ],
+    "organizationId": "ecfa36e1-0547-4b99-8ab5-6c5eb8643127",
+    "owner": "Augustus",
+    "website": "https://augustus.com"
+  },
+  "ashby:ava-labs": {
+    "companies": [
+      "Ava Labs"
+    ],
+    "organizationId": "eb0ab7a1-3f5c-4b44-856c-dcc848e59c83",
+    "owner": "Ava Labs",
+    "website": "https://www.avalabs.org/"
+  },
+  "ashby:aztec-labs": {
+    "companies": [
+      "Aztec Labs",
+      "Aztec"
+    ],
+    "organizationId": "2af0fa7e-22ba-48c2-9d66-335a016ed512",
+    "owner": "Aztec Labs",
+    "website": "https://aztec-labs.com"
+  },
+  "ashby:bastion": {
+    "companies": [
+      "Bastion"
+    ],
+    "organizationId": "8b1cc850-de44-4ea0-971d-2028bc034763",
+    "owner": "Bastion",
+    "website": "https://www.bastion.com/"
+  },
+  "ashby:biti": {
+    "companies": [
+      "Biti"
+    ],
+    "organizationId": "b56b9ddb-958f-42fc-acde-0c123474f9a9",
+    "owner": "Biti Pro",
+    "website": "https://biti.pro"
+  },
+  "ashby:bitvavo": {
+    "companies": [
+      "Bitvavo"
+    ],
+    "organizationId": "a1f944a1-55c2-446d-9a24-1bc1793cb4a2",
+    "owner": "Bitvavo",
+    "website": "https://bitvavo.com/"
+  },
+  "ashby:blackbird-labs-inc": {
+    "companies": [
+      "Blackbird Labs"
+    ],
+    "organizationId": "04a22ba4-b1b1-42f7-98bb-c0d0c2070a3f",
+    "owner": "Blackbird Labs Inc",
+    "website": "https://www.blackbird.xyz/"
+  },
+  "ashby:blockdaemon": {
+    "companies": [
+      "Blockdaemon"
+    ],
+    "organizationId": "cf40d9aa-4230-42dc-8ee2-fddfae844ddb",
+    "owner": "Blockdaemon",
+    "website": "https://www.blockdaemon.com/"
+  },
+  "ashby:blockstream": {
+    "companies": [
+      "Blockstream"
+    ],
+    "organizationId": "432f6979-5c33-4e1e-959d-af8e4e2d91c3",
+    "owner": "Blockstream",
+    "website": "https://blockstream.com/"
+  },
+  "ashby:blockworks": {
+    "companies": [
+      "Blockworks"
+    ],
+    "organizationId": "fa090de5-3bc2-4f8c-8a77-88d46b80c0c7",
+    "owner": "Blockworks",
+    "website": "http://blockworks.co"
+  },
+  "ashby:braiins": {
+    "companies": [
+      "Braiins"
+    ],
+    "organizationId": "b0dfbacc-8864-45c0-a909-17ec0483151d",
+    "owner": "Braiins",
+    "website": "https://braiins.com/careers"
+  },
+  "ashby:brale": {
+    "companies": [
+      "Brale"
+    ],
+    "organizationId": "a6586e2a-a89f-4c5f-a5e6-1b095f58b48d",
+    "owner": "Brale",
+    "website": "https://brale.xyz/"
+  },
+  "ashby:category-labs": {
+    "companies": [
+      "Category Labs"
+    ],
+    "organizationId": "8f94300a-2681-4f9b-b8be-fb5473d2e538",
+    "owner": "Category Labs",
+    "website": "https://www.category.xyz/"
+  },
+  "ashby:chainalysis-careers": {
+    "companies": [
+      "Chainalysis"
+    ],
+    "organizationId": "2deb74f7-ddd3-4d10-95b3-dc15200158a7",
+    "owner": "Chainalysis",
+    "website": null
+  },
+  "ashby:chainalysis-government-solutions": {
+    "companies": [
+      "Chainalysis"
+    ],
+    "organizationId": "13477f27-220c-4f5a-9335-2a17b82ed633",
+    "owner": "Chainalysis Government Solutions",
+    "website": "https://www.chainalysis.com/government/"
+  },
+  "ashby:chainlink-labs": {
+    "companies": [
+      "Chainlink Labs"
+    ],
+    "organizationId": "f1da0235-ff1d-41fa-ab4b-9deec0970a39",
+    "owner": "Chainlink Labs",
+    "website": "https://chainlinklabs.com/"
+  },
+  "ashby:cohere": {
+    "companies": [
+      "Cohere"
+    ],
+    "organizationId": "951a1fca-ef74-47dd-9932-d2e6ae54beb2",
+    "owner": "Cohere",
+    "website": "https://cohere.com/"
+  },
+  "ashby:coinflow": {
+    "companies": [
+      "Coinflow"
+    ],
+    "organizationId": "6f0abf3e-9935-44e4-beee-17cd6de73299",
+    "owner": "Coinflow",
+    "website": "https://coinflow.cash/"
+  },
+  "ashby:coinhako": {
+    "companies": [
+      "Coinhako"
+    ],
+    "organizationId": "fde48cc0-7a4d-493f-9ad5-57b008293ad5",
+    "owner": "Coinhako",
+    "website": "https://www.coinhako.com/"
+  },
+  "ashby:cointracker": {
+    "companies": [
+      "CoinTracker"
+    ],
+    "organizationId": "2c6a349a-d500-43a3-af94-2f67578803ac",
+    "owner": "CoinTracker",
+    "website": "https://www.cointracker.com"
+  },
+  "ashby:conduit": {
+    "companies": [
+      "Conduit"
+    ],
+    "organizationId": "2c79190b-b397-4290-afb1-9ba321e2f635",
+    "owner": "Conduit",
+    "website": "https://conduit.xyz/"
+  },
+  "ashby:cow-dao": {
+    "companies": [
+      "CoW DAO"
+    ],
+    "organizationId": "22dfa0a9-46bd-4195-a672-c2f05561d59a",
+    "owner": "CoW DAO",
+    "website": "https://cow.finance"
+  },
+  "ashby:cryptio": {
+    "companies": [
+      "Cryptio"
+    ],
+    "organizationId": "8b31e168-0ae1-4843-bdb0-33fa292cce0a",
+    "owner": "Cryptio",
+    "website": "https://cryptio.co/"
+  },
+  "ashby:dakota": {
+    "companies": [
+      "Dakota"
+    ],
+    "organizationId": "ec9e84cb-c391-41eb-8662-e40286d736b6",
+    "owner": "Dakota",
+    "website": "https://dakota.xyz/"
+  },
+  "ashby:doublezero": {
+    "companies": [
+      "DoubleZero"
+    ],
+    "organizationId": "ce7f3763-bd62-486f-8d19-2e9cd7670a31",
+    "owner": "DoubleZero",
+    "website": "https://doublezero.xyz/"
+  },
+  "ashby:dourolabs.xyz": {
+    "companies": [
+      "Douro Labs"
+    ],
+    "organizationId": "63ba11e7-0d4d-4a9c-8b4d-ba1558012599",
+    "owner": "Douro Labs",
+    "website": "https://dourolabs.xyz/"
+  },
+  "ashby:dune": {
+    "companies": [
+      "Dune"
+    ],
+    "organizationId": "929bd50e-6019-4373-bc86-477080ad08ce",
+    "owner": "Dune",
+    "website": "https://www.dune.com/"
+  },
+  "ashby:eigen-labs": {
+    "companies": [
+      "EigenLayer",
+      "Eigen Labs"
+    ],
+    "organizationId": "ee823a37-d5fe-4027-8157-2eb8e0cb84a5",
+    "owner": "Eigen Labs",
+    "website": "https://www.eigenlabs.org/"
+  },
+  "ashby:ellipsislabs": {
+    "companies": [
+      "Ellipsis Labs"
+    ],
+    "organizationId": "6c5c7391-15da-49ee-8b4e-02d76ddc1196",
+    "owner": "Ellipsis Labs",
+    "website": "https://ellipsislabs.xyz/"
+  },
+  "ashby:elliptic": {
+    "companies": [
+      "Elliptic"
+    ],
+    "organizationId": "fff74431-bb20-40d6-971e-3c87085277e8",
+    "owner": "Elliptic",
+    "website": "https://www.elliptic.co/"
+  },
+  "ashby:ether.fi": {
+    "companies": [
+      "ether.fi"
+    ],
+    "organizationId": "a96fedcf-487e-4fdc-ac0c-c4a010f0fd74",
+    "owner": "Ether.fi",
+    "website": "http://ether.fi"
+  },
+  "ashby:ethereum-foundation": {
+    "companies": [
+      "Ethereum Foundation"
+    ],
+    "organizationId": "cbfdd8f2-88d7-4b84-99df-759dda26e439",
+    "owner": "Ethereum Foundation",
+    "website": "https://ethereum.foundation/"
+  },
+  "ashby:ethglobal": {
+    "companies": [
+      "ETHGlobal"
+    ],
+    "organizationId": "eb334549-6e1e-4763-b040-49b0d67364c2",
+    "owner": "ETHGlobal Inc",
+    "website": "https://ethglobal.com/"
+  },
+  "ashby:fence-finance": {
+    "companies": [
+      "Fence Finance"
+    ],
+    "organizationId": "b27f8127-2e29-4162-b2f4-d57669b8f0bc",
+    "owner": "FENCE TECHNOLOGY INC",
+    "website": "https://fence.finance/"
+  },
+  "ashby:goldsky": {
+    "companies": [
+      "Goldsky"
+    ],
+    "organizationId": "24429163-4183-4520-976b-15617e7774d3",
+    "owner": "Goldsky",
+    "website": "https://goldsky.com/"
+  },
+  "ashby:grvt": {
+    "companies": [
+      "GRVT"
+    ],
+    "organizationId": "b26db44e-574d-42ea-8ceb-d45a8b9fceb5",
+    "owner": "GRVT TECHNOLOGIES",
+    "website": "https://www.grvt.io"
+  },
+  "ashby:halliday": {
+    "companies": [
+      "Halliday"
+    ],
+    "organizationId": "04fa89c3-ae78-417a-b90b-a2206cfc24aa",
+    "owner": "Halliday",
+    "website": "https://halliday.xyz/"
+  },
+  "ashby:hashgraph": {
+    "companies": [
+      "Hedera"
+    ],
+    "organizationId": "d52e4a39-5223-416a-bade-313459d06c42",
+    "owner": "Hashgraph",
+    "website": "https://www.hashgraph.com/"
+  },
+  "ashby:helius": {
+    "companies": [
+      "Helius"
+    ],
+    "organizationId": "b083f53d-31a9-48fd-98f0-190f8c724c95",
+    "owner": "Helius",
+    "website": "https://www.helius.dev/"
+  },
+  "ashby:hyperbolic": {
+    "companies": [
+      "Hyperbolic"
+    ],
+    "organizationId": "8f30a21a-f2fa-4edc-8902-8d9a436115da",
+    "owner": "Hyperbolic Labs",
+    "website": "https://www.hyperbolic.ai/"
+  },
+  "ashby:hyperliquid labs": {
+    "companies": [
+      "Hyperliquid Labs"
+    ],
+    "organizationId": "579594b5-fdfe-4707-a27e-b9e977128e4a",
+    "owner": "Hyperliquid Labs",
+    "website": "https://hyperliquid.xyz/"
+  },
+  "ashby:improbable": {
+    "companies": [
+      "Improbable"
+    ],
+    "organizationId": "f698322b-efab-40b6-bbd1-64c4d8deeab5",
+    "owner": "Improbable",
+    "website": "https://www.improbable.io/"
+  },
+  "ashby:injective": {
+    "companies": [
+      "Injective",
+      "Injective Labs"
+    ],
+    "organizationId": "412e44b8-a5a6-4c69-bdc6-a837f744454e",
+    "owner": "Injective",
+    "website": "https://injective.com/"
+  },
+  "ashby:jito-labs": {
+    "companies": [
+      "Jito Labs"
+    ],
+    "organizationId": "41dda79c-e19d-4276-996f-0cd90999a136",
+    "owner": "Jito Labs",
+    "website": "https://www.jito.wtf/"
+  },
+  "ashby:kalshi": {
+    "companies": [
+      "Kalshi"
+    ],
+    "organizationId": "35471f60-f9f5-484e-a92e-1779998fc78a",
+    "owner": "Kalshi",
+    "website": "https://kalshi.com"
+  },
+  "ashby:keyrock": {
+    "companies": [
+      "Keyrock"
+    ],
+    "organizationId": "9a987cc7-aab7-4be2-95df-aee898cb44db",
+    "owner": "Keyrock",
+    "website": "https://www.keyrock.com"
+  },
+  "ashby:kraken.com": {
+    "companies": [
+      "Kraken"
+    ],
+    "organizationId": "bb32c246-acc2-4463-a384-a507d9328eb4",
+    "owner": "Kraken",
+    "website": "https://www.kraken.com/"
+  },
+  "ashby:li.fi": {
+    "companies": [
+      "LI.FI"
+    ],
+    "organizationId": "08c71851-0fc4-433c-927f-6fe281956d6b",
+    "owner": "LI.FI",
+    "website": "https://li.fi/"
+  },
+  "ashby:lido.fi": {
+    "companies": [
+      "Lido"
+    ],
+    "organizationId": "d5f7416a-ce56-4c43-a6dd-dc589f08d59e",
+    "owner": "Lido",
+    "website": "https://lido.fi/"
+  },
+  "ashby:lightning": {
+    "companies": [
+      "Lightning Labs"
+    ],
+    "organizationId": "6a35fa35-c515-442a-9efe-6b56ff3c8c34",
+    "owner": "Lightning Labs",
+    "website": "https://lightning.engineering/"
+  },
+  "ashby:lightspark": {
+    "companies": [
+      "Lightspark"
+    ],
+    "organizationId": "7fb132f3-089d-4a6f-9c5c-84b7e2afa9df",
+    "owner": "Lightspark",
+    "website": "https://www.lightspark.com/"
+  },
+  "ashby:luxor": {
+    "companies": [
+      "Luxor Technology"
+    ],
+    "organizationId": "4f66abe6-7768-4046-a2cd-8ee47cfbebfc",
+    "owner": "Luxor Technology Corporation",
+    "website": "https://luxor.tech/"
+  },
+  "ashby:magiceden": {
+    "companies": [
+      "Magic Eden"
+    ],
+    "organizationId": "e6df69e0-9a6a-46d3-a64c-7c3c49234725",
+    "owner": "Magic Eden",
+    "website": "https://magiceden.io/"
+  },
+  "ashby:matter-labs": {
+    "companies": [
+      "Matter Labs (zkSync)",
+      "Matter Labs"
+    ],
+    "organizationId": "f9748766-bdad-432a-8ff6-640cf44351cc",
+    "owner": "Matter Labs",
+    "website": "https://matter-labs.io"
+  },
+  "ashby:meow": {
+    "companies": [
+      "Meow"
+    ],
+    "organizationId": "0a986c09-d359-4a11-b370-f92c4bc43d6a",
+    "owner": "Meow",
+    "website": "https://meow.com"
+  },
+  "ashby:mistral": {
+    "companies": [
+      "Mistral"
+    ],
+    "organizationId": null,
+    "owner": null,
+    "website": null
+  },
+  "ashby:molecule": {
+    "companies": [
+      "Molecule"
+    ],
+    "organizationId": "c2a9534a-6096-4c73-ac61-cbcf6929b958",
+    "owner": "molecule.xyz",
+    "website": "https://www.molecule.xyz/"
+  },
+  "ashby:monad.foundation": {
+    "companies": [
+      "Monad Foundation"
+    ],
+    "organizationId": "727d62b7-fc6e-4ad4-b4e0-83501ad1b4cd",
+    "owner": "Monad Foundation",
+    "website": "monad.foundation"
+  },
+  "ashby:moonshot": {
+    "companies": [
+      "Moonshot"
+    ],
+    "organizationId": "b41f7130-54d4-40ce-b3a7-dd79be2b12f3",
+    "owner": "Moonshot",
+    "website": "https://www.moonshot.money/"
+  },
+  "ashby:morpho": {
+    "companies": [
+      "Morpho"
+    ],
+    "organizationId": "ec777735-732f-4f1f-adc6-5f7f52d6caf8",
+    "owner": "Morpho",
+    "website": "https://morpho.org/"
+  },
+  "ashby:movement": {
+    "companies": [
+      "Movement Labs"
+    ],
+    "organizationId": "34f5e609-adf6-4649-b9d5-41fa68094c47",
+    "owner": "Movement",
+    "website": "https://www.movementnetwork.xyz/"
+  },
+  "ashby:mystenlabs": {
+    "companies": [
+      "Mysten Labs"
+    ],
+    "organizationId": "ff4220cc-271c-4d32-be2a-c84c27317141",
+    "owner": "Mysten Labs",
+    "website": "https://mystenlabs.com/"
+  },
+  "ashby:nascent": {
+    "companies": [
+      "Nascent"
+    ],
+    "organizationId": "6531986e-8d87-41b0-97ce-a5859f447efa",
+    "owner": "Nascent",
+    "website": "https://nascentmarkets.xyz/"
+  },
+  "ashby:nethermind": {
+    "companies": [
+      "Nethermind"
+    ],
+    "organizationId": "9e9b473d-abbb-40b7-b1d8-a18e79aa28a2",
+    "owner": "Nethermind",
+    "website": "https://www.nethermind.io/"
+  },
+  "ashby:nomic.foundation": {
+    "companies": [
+      "Nomic Foundation"
+    ],
+    "organizationId": "480b58c0-9bc8-47db-9261-eea0d9af2865",
+    "owner": "Nomic Foundation",
+    "website": "https://nomic.foundation/"
+  },
+  "ashby:notabene": {
+    "companies": [
+      "Notabene"
+    ],
+    "organizationId": "dea15d51-b76d-461b-b261-80f0cc6e5496",
+    "owner": "Notabene",
+    "website": "https://notabene.id/"
+  },
+  "ashby:openai": {
+    "companies": [
+      "OpenAI"
+    ],
+    "organizationId": "0c0ad039-c59c-4f86-b7ea-e7bebb8a8041",
+    "owner": "OpenAI",
+    "website": "https://openai.com/"
+  },
+  "ashby:opensea": {
+    "companies": [
+      "OpenSea"
+    ],
+    "organizationId": "40e3e66e-d83c-4c7b-bcbb-e0f7eb7f2083",
+    "owner": "OpenSea",
+    "website": "https://opensea.io"
+  },
+  "ashby:openstandard": {
+    "companies": [
+      "Open Standard"
+    ],
+    "organizationId": "53f643d6-1074-4bbd-9dd7-561a58e561de",
+    "owner": "Open Standard",
+    "website": "https://joinopenstandard.com/"
+  },
+  "ashby:oplabs": {
+    "companies": [
+      "Optimism",
+      "OP Labs"
+    ],
+    "organizationId": "fa707458-53a3-4268-9746-f951003363a9",
+    "owner": "OP Labs",
+    "website": "http://oplabs.co"
+  },
+  "ashby:orca": {
+    "companies": [
+      "Orca"
+    ],
+    "organizationId": "51eac991-19cb-4afd-ad17-d47f9dcdaf47",
+    "owner": "Orca",
+    "website": "https://www.orca.so/"
+  },
+  "ashby:p2p.org": {
+    "companies": [
+      "P2P.org"
+    ],
+    "organizationId": "eb8701ee-4265-4abe-9f9d-5ca2b59f76ad",
+    "owner": "P2P. org",
+    "website": "https://p2p.org/"
+  },
+  "ashby:parity": {
+    "companies": [
+      "Parity Technologies"
+    ],
+    "organizationId": "2ef401e7-a773-4e9e-b26d-f04a270e7f3d",
+    "owner": "Parity",
+    "website": "https://www.parity.io/"
+  },
+  "ashby:partisiablockchain": {
+    "companies": [
+      "Partisia Blockchain"
+    ],
+    "organizationId": "64ebf830-5209-48bf-9e92-0feca182c363",
+    "owner": "Partisia Blockchain Applications",
+    "website": "https://partisiablockchain.com/"
+  },
+  "ashby:paxos": {
+    "companies": [
+      "Paxos"
+    ],
+    "organizationId": "bcd24c44-3876-4613-a3ec-10e8410b388c",
+    "owner": "Paxos",
+    "website": "https://www.paxos.com/"
+  },
+  "ashby:paxoslabs": {
+    "companies": [
+      "Paxos"
+    ],
+    "organizationId": "1b15cfc8-5534-4257-808a-806dae648518",
+    "owner": "Paxos Labs",
+    "website": "https://paxoslabs.com/"
+  },
+  "ashby:perplexity": {
+    "companies": [
+      "Perplexity"
+    ],
+    "organizationId": "f3f98ccb-6ef3-41a2-9f4d-0785749abb79",
+    "owner": "Perplexity",
+    "website": "https://www.perplexity.ai/"
+  },
+  "ashby:phantom": {
+    "companies": [
+      "Phantom"
+    ],
+    "organizationId": "211f3f1c-f71c-4fbd-9849-35e31ad4b7ec",
+    "owner": "Phantom",
+    "website": "https://phantom.app/"
+  },
+  "ashby:plasma": {
+    "companies": [
+      "Plasma"
+    ],
+    "organizationId": "6bb361fb-0c31-41c2-85e0-46f11963470c",
+    "owner": "Plasma",
+    "website": "https://www.plasma.to/"
+  },
+  "ashby:polygon-labs": {
+    "companies": [
+      "Polygon Labs"
+    ],
+    "organizationId": "a7b2f5ae-03d7-45e4-bdff-a454f085104a",
+    "owner": "Polygon Labs",
+    "website": "https://polygon.technology"
+  },
+  "ashby:polymarket": {
+    "companies": [
+      "Polymarket"
+    ],
+    "organizationId": "ce2d62cc-71e2-459e-9158-e8d399cc6d8e",
+    "owner": "Polymarket",
+    "website": "https://polymarket.com/"
+  },
+  "ashby:primeintellect": {
+    "companies": [
+      "Prime Intellect"
+    ],
+    "organizationId": "5d89d1d2-8270-4054-b7d0-2cbc19d0dfa0",
+    "owner": "Prime Intellect",
+    "website": "https://www.primeintellect.ai/"
+  },
+  "ashby:provable": {
+    "companies": [
+      "Provable (Aleo)",
+      "Provable"
+    ],
+    "organizationId": "4930f73e-3da2-4ca4-adba-da5425a9ce92",
+    "owner": "Provable",
+    "website": "https://provable.com/"
+  },
+  "ashby:pythnetwork": {
+    "companies": [
+      "Pyth Network"
+    ],
+    "organizationId": "1701d991-c619-4222-aad6-f4376d7cb5f0",
+    "owner": "Pyth Data Association",
+    "website": "https://www.pyth.network/"
+  },
+  "ashby:quicknode": {
+    "companies": [
+      "QuickNode"
+    ],
+    "organizationId": "53b8fd1a-4c2b-4c6c-9527-ad3841171f70",
+    "owner": "Quicknode",
+    "website": "https://www.quicknode.com/"
+  },
+  "ashby:rain": {
+    "companies": [
+      "Rain"
+    ],
+    "organizationId": "dc58a004-9283-4567-8b9e-641f9135d176",
+    "owner": "Rain",
+    "website": "https://www.rain.xyz/"
+  },
+  "ashby:ramp": {
+    "companies": [
+      "Ramp"
+    ],
+    "organizationId": "7a158cac-9866-4881-95a8-bc946d3dca79",
+    "owner": "Ramp",
+    "website": "https://ramp.com"
+  },
+  "ashby:risklabs": {
+    "companies": [
+      "Across Protocol"
+    ],
+    "organizationId": "738b58e8-56e4-4833-b429-63e9d79bc394",
+    "owner": "Risk Labs",
+    "website": "https://risklabs.foundation"
+  },
+  "ashby:river": {
+    "companies": [
+      "River Financial"
+    ],
+    "organizationId": "518b8bd9-8061-4632-a655-4a1b74c855c9",
+    "owner": "River",
+    "website": "http://river.com"
+  },
+  "ashby:sahara": {
+    "companies": [
+      "Sahara AI"
+    ],
+    "organizationId": "0f93f4b2-b21a-4f77-aa5c-05fa7024065e",
+    "owner": "Sahara",
+    "website": "https://saharalabs.ai"
+  },
+  "ashby:sardine": {
+    "companies": [
+      "Sardine"
+    ],
+    "organizationId": "79a81a50-3045-47b6-84ae-8cd2d981845e",
+    "owner": "Sardine",
+    "website": "https://www.sardine.ai/"
+  },
+  "ashby:satoshilabs": {
+    "companies": [
+      "Trezor"
+    ],
+    "organizationId": "76068af0-3322-4ea3-9dd2-df19028398f4",
+    "owner": "SatoshiLabs",
+    "website": "https://satoshilabs.com"
+  },
+  "ashby:sei-labs": {
+    "companies": [
+      "Sei",
+      "Sei Labs"
+    ],
+    "organizationId": "1ba9e1f6-4353-4a79-b5be-ca7791f4ba28",
+    "owner": "Sei Labs",
+    "website": "https://seinetwork.io"
+  },
+  "ashby:seifoundation": {
+    "companies": [
+      "Sei"
+    ],
+    "organizationId": "704edb41-966c-455f-b82d-5e26bed8c5fe",
+    "owner": "Sei Development Foundation",
+    "website": "https://www.seifdn.org/"
+  },
+  "ashby:skyecosystem": {
+    "companies": [
+      "Sky (MakerDAO)"
+    ],
+    "organizationId": "8bdb7afd-2841-4c39-9f12-950608a31f08",
+    "owner": "Sky Frontier Foundation",
+    "website": "https://insights.skyeco.com"
+  },
+  "ashby:skymavis": {
+    "companies": [
+      "Sky Mavis"
+    ],
+    "organizationId": "4914da20-78e3-4eeb-8286-eaf5527abc9d",
+    "owner": "Sky Mavis",
+    "website": "https://skymavis.com/"
+  },
+  "ashby:solana foundation": {
+    "companies": [
+      "Solana Foundation"
+    ],
+    "organizationId": "11ee636e-68d2-4d1b-a3fd-8e291053b8fb",
+    "owner": "Solana Foundation",
+    "website": "https://solana.org/"
+  },
+  "ashby:solanalabs": {
+    "companies": [
+      "Solana Labs"
+    ],
+    "organizationId": "7122965c-0b1f-4e46-a3ce-a6136774fa4e",
+    "owner": "Solana Labs",
+    "website": "https://www.solanalabs.com/"
+  },
+  "ashby:somnia": {
+    "companies": [
+      "Somnia"
+    ],
+    "organizationId": "cb6e55f1-13e2-41b7-939c-cb87e277832d",
+    "owner": "Somnia",
+    "website": "https://somnia.network/"
+  },
+  "ashby:sorare": {
+    "companies": [
+      "Sorare"
+    ],
+    "organizationId": "04de55dd-d142-4ba7-ba52-70b026fe4c90",
+    "owner": "Sorare",
+    "website": "https://www.sorare.com"
+  },
+  "ashby:spruceid": {
+    "companies": [
+      "Spruce"
+    ],
+    "organizationId": "d39d5b15-3450-4fe1-af5a-92df7667ee92",
+    "owner": "Spruce Systems, Inc.",
+    "website": "https://spruceid.com/"
+  },
+  "ashby:stargate-foundation": {
+    "companies": [
+      "Stargate Foundation"
+    ],
+    "organizationId": "b4bf0a04-0148-4a35-857e-5e4770df3496",
+    "owner": "Stargate Foundation",
+    "website": "https://stargate.finance/"
+  },
+  "ashby:starknetfoundation": {
+    "companies": [
+      "Starknet Foundation"
+    ],
+    "organizationId": "fb722072-86a2-461e-a1e5-27a7a94a6ebf",
+    "owner": "Starknet Foundation",
+    "website": "https://www.starknet.org/"
+  },
+  "ashby:stellar": {
+    "companies": [
+      "Stellar"
+    ],
+    "organizationId": "55d36970-873f-4509-bdc5-8dbfc47461d9",
+    "owner": "Stellar Development Foundation",
+    "website": "https://stellar.org/"
+  },
+  "ashby:stronghold": {
+    "companies": [
+      "Stronghold"
+    ],
+    "organizationId": "5473e1c5-2e80-4c64-918e-68df4f8c5373",
+    "owner": "Stronghold",
+    "website": "https://stronghold.co/"
+  },
+  "ashby:subzero": {
+    "companies": [
+      "Subzero Labs"
+    ],
+    "organizationId": "78fb5370-6e83-4219-9c32-56354472f25d",
+    "owner": "Subzero Labs",
+    "website": null
+  },
+  "ashby:succinct": {
+    "companies": [
+      "Succinct Labs",
+      "Succinct"
+    ],
+    "organizationId": "b045220d-46fa-4dd2-9364-ea30bc7bb174",
+    "owner": "Succinct",
+    "website": "https://www.succinct.xyz/"
+  },
+  "ashby:sui foundation": {
+    "companies": [
+      "Sui Foundation"
+    ],
+    "organizationId": "8d83b5f8-e4e8-4f00-af02-1db3488546ae",
+    "owner": "Sui Foundation",
+    "website": "https://sui.io/about"
+  },
+  "ashby:symbiotic": {
+    "companies": [
+      "Symbiotic"
+    ],
+    "organizationId": "6bd937d6-f399-4252-bc84-7aff40d3f919",
+    "owner": "Symbiotic",
+    "website": "https://symbiotic.fi/"
+  },
+  "ashby:syndica": {
+    "companies": [
+      "Syndica"
+    ],
+    "organizationId": "af0580bf-362b-49ce-a163-768d2f3295ca",
+    "owner": "Syndica",
+    "website": "https://syndica.io"
+  },
+  "ashby:talos-trading": {
+    "companies": [
+      "Talos Trading",
+      "Talos"
+    ],
+    "organizationId": "2887a905-0e27-4682-8868-be1986501f64",
+    "owner": "Talos",
+    "website": "https://www.talos.com/"
+  },
+  "ashby:tempo-xyz": {
+    "companies": [
+      "Tempo"
+    ],
+    "organizationId": "df94d6e4-71af-424f-9fff-724bc9407e70",
+    "owner": "Tempo",
+    "website": "http://tempo.xyz/"
+  },
+  "ashby:tenderly": {
+    "companies": [
+      "Tenderly"
+    ],
+    "organizationId": "d8933d9a-f0ba-4187-b54b-b18c448e5800",
+    "owner": "Tenderly",
+    "website": "https://tenderly.co/"
+  },
+  "ashby:tools for humanity": {
+    "companies": [
+      "Worldcoin",
+      "Tools for Humanity"
+    ],
+    "organizationId": "87a9a61c-2866-4ca6-93ac-1b80c10d73e8",
+    "owner": "Tools for Humanity",
+    "website": null
+  },
+  "ashby:trm-labs": {
+    "companies": [
+      "TRM Labs"
+    ],
+    "organizationId": "1641515b-54d1-43a0-9218-02d12846a805",
+    "owner": "TRM Labs",
+    "website": "https://www.trmlabs.com/"
+  },
+  "ashby:trust-wallet": {
+    "companies": [
+      "Trust Wallet"
+    ],
+    "organizationId": "6bf7f486-9095-4244-87a0-5337f0f9ffc1",
+    "owner": "Trust Wallet",
+    "website": "https://trustwallet.com/"
+  },
+  "ashby:turnkey": {
+    "companies": [
+      "Turnkey"
+    ],
+    "organizationId": null,
+    "owner": null,
+    "website": null
+  },
+  "ashby:uniswap": {
+    "companies": [
+      "Uniswap Labs",
+      "Uniswap"
+    ],
+    "organizationId": "3a713148-bcca-446f-a6bc-366872dea2cf",
+    "owner": "Uniswap Labs",
+    "website": "https://app.uniswap.org/"
+  },
+  "ashby:variant-fund": {
+    "companies": [
+      "Variant Fund"
+    ],
+    "organizationId": "9aaad866-f8c8-47ce-8926-bff29baab9f5",
+    "owner": "Variant",
+    "website": "https://variant.fund/"
+  },
+  "ashby:veda": {
+    "companies": [
+      "Veda"
+    ],
+    "organizationId": "456d93f3-f639-4fe2-9713-54d3f53543ce",
+    "owner": "Veda Tech Labs Inc",
+    "website": "https://veda.tech/"
+  },
+  "ashby:walrus": {
+    "companies": [
+      "Walrus Foundation"
+    ],
+    "organizationId": "8b45f703-3d3f-4579-ae47-d0a1340936c3",
+    "owner": "Walrus Foundation",
+    "website": "https://www.walrus.xyz/"
+  },
+  "ashby:world-foundation": {
+    "companies": [
+      "World Foundation"
+    ],
+    "organizationId": "7d2c56e6-4d5e-4817-95a8-e69fa66900b7",
+    "owner": "World Foundation",
+    "website": "https://world.org/"
+  },
+  "ashby:wormholelabs": {
+    "companies": [
+      "Wormhole Labs"
+    ],
+    "organizationId": "ef02a9fa-baac-44f7-bbdf-1de7a23bb899",
+    "owner": "Wormhole Labs",
+    "website": "https://wormholelabs.xyz/"
+  },
+  "ashby:wynd-labs": {
+    "companies": [
+      "Grass"
+    ],
+    "organizationId": "21a5ab5f-8e77-4c78-b350-0170e69b5f05",
+    "owner": "Wynd Labs",
+    "website": "https://www.wyndlabs.ai/"
+  },
+  "ashby:zodl": {
+    "companies": [
+      "ZODL"
+    ],
+    "organizationId": "98cd5d6f-9dc4-4268-adad-aa466ae0700e",
+    "owner": "ZODL",
+    "website": "https://zodl.com/"
+  }
+}

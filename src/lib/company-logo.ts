@@ -76,6 +76,13 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
 };
 
 const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
+  'ramp': 'ramp.com',
+  'ramp-network': 'rampnetwork.com',
+  'rain': 'rain.xyz',
+  'brale': 'brale.xyz',
+  'molecule': 'molecule.xyz',
+  'stronghold': 'stronghold.co',
+  'douro-labs': 'dourolabs.xyz',
   '6sense': '6sense.com',
   'affirm': 'affirm.com',
   'airbnb': 'airbnb.com',

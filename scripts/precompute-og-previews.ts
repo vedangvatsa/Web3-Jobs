@@ -3,6 +3,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { load } from 'cheerio';
 import { preparePreviewImage, writeSocialImageInfo } from './lib/og-preview-assets';
+import { isRemediatedJobSlug } from '../src/lib/job-guides';
 import {
   buildOgPreviewHtml,
   collectOgPreviewPaths,
@@ -81,6 +82,13 @@ async function main() {
     if (livePaths.has(contentPath) || relative === 'default') continue;
     const before = fs.readFileSync(file, 'utf8');
     const $ = load(before);
+    const canonicalPath = new URL($('link[rel="canonical"]').attr('href') || contentPath, 'https://hashtagweb3.com').pathname;
+    if (isRemediatedJobSlug(canonicalPath.replace(/^\/(?:jobs\/)?/, ''))) {
+      const meta = await preparePreviewImage(await resolveOgPreviewMeta(`/${canonicalPath.split('/').filter(Boolean).pop()}`));
+      const html = buildOgPreviewHtml(meta);
+      if (before !== html) { fs.writeFileSync(file, html); written++; }
+      continue;
+    }
     const image = $('meta[property="og:image"]').attr('content');
     if (!image) throw new Error(`Missing OG image in ${file}`);
     const meta = await preparePreviewImage({

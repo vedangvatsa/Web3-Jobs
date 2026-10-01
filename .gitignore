@@ -99,4 +99,7 @@ scripts/manual-emails*.json
 /scripts/logs/
 /fontsource-inter-*.tgz
 /.cache/metamask-responsive-mobile.png
+/.cache/ats-*.json
+/.cache/snapshot-reviewed-ats-identities.ts
+/.cache/repair-rain-logo.ts
 /.agents/skills/hashtagweb3-agent-skill/

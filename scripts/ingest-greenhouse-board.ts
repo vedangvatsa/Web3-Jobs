@@ -2,6 +2,7 @@
 import fs from 'fs';
 import path from 'path';
 import { isConcreteJobOpening } from '../src/lib/job-filters';
+import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
 import { assignJobSlugsAndSyncLegacyArchive, getJobContentKey } from '../src/lib/job-slugs';
 import { extractSalaryLabelFromContent } from '../src/lib/job-salary';
 import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
@@ -20,6 +21,7 @@ if (!board || !company) {
 }
 
 const source = `Greenhouse: ${company} [${board}]`;
+assertAtsSourceAllowed('greenhouse', board);
 const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
 const allJobs = JSON.parse(fs.readFileSync(cachePath, 'utf8')) as Array<Record<string, unknown>>;
 
@@ -33,6 +35,7 @@ function cleanTitle(text: string | undefined): string | undefined {
 }
 
 const filtered = allJobs.filter((job) => {
+  if (getJobSourceIssue(job)) return false;
   const s = String(job.source || '').toLowerCase();
   return !(s === source.toLowerCase() || s === `greenhouse: ${company}`.toLowerCase());
 });

@@ -82,7 +82,13 @@ jobs:
         run: npx tsx scripts/ingest-revolut-crypto-job.ts
         continue-on-error: true
 
-      - name: Pre-bake job slugs into cache
+      - name: Retire jobs with incorrect employer sources
+        run: npx tsx scripts/retire-rejected-job-sources.ts
+
+      - name: Verify ATS employer associations
+        run: npx tsx scripts/test-ats-source-ownership.ts --sources-only
+
+      - name: Reserve published job slugs
         run: node scripts/prebake_slugs.js
 
       - name: Precompute jobs runtime listing

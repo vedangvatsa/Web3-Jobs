@@ -3,6 +3,7 @@ import { cleanPublishText } from '@/lib/noslop';
 import { getJobIdentity } from './job-slugs';
 import { isConcreteJobOpening, cleanCompanyName } from './job-filters';
 import { cleanJobLocation } from './job-location';
+import { getJobSourceIssue } from './job-source-policy';
 
 const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
@@ -137,6 +138,7 @@ export function buildJobsListing(rawJobs: Job[]): Job[] {
 
   const web3Jobs = jobs.filter((job) => {
     if (job.active === false) return false;
+    if (getJobSourceIssue(job)) return false;
     if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
     if (BLOCKED_JOB_TITLE.test(job.title)) return false;
     if (!isConcreteJobOpening(job.title, job.link)) return false;

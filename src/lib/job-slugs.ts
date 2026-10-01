@@ -333,6 +333,8 @@ export type LegacySlugRecord = {
   company?: string;
   title?: string;
   newSlug?: string;
+  retiredReason?: string;
+  recoveredFromMisattribution?: boolean;
 };
 
 type JobSlugFields = Pick<Job, 'id' | 'title' | 'company' | 'link' | 'slug'> & {

@@ -6,6 +6,8 @@ import { loadPublishedRootSlugsSync, loadReservedRootSlugsSync } from '../src/li
 import { loadJobLegacyArchive, writeJobLegacyArchive } from './lib/job-slug-assignment';
 import { isConcreteJobOpening } from '../src/lib/job-filters';
 import { getAshbySalary } from './lib/ashby-salary';
+import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
+import { verifyAshbyEmployer } from './lib/ashby-employer-verification';
 import {
   buildJobDescriptionAliases,
   readJobDescriptionStore,
@@ -20,16 +22,19 @@ if (!board || !company) {
 }
 
 const source = `Ashby: ${company} [${board}]`;
+assertAtsSourceAllowed('ashby', board);
 const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
 const allJobs = JSON.parse(fs.readFileSync(cachePath, 'utf8')) as Array<Record<string, unknown>>;
 const previousById = new Map(allJobs.map(job => [String(job.id), job]));
 
 const filtered = allJobs.filter((job) => {
+  if (getJobSourceIssue(job)) return false;
   const s = String(job.source || '').toLowerCase();
   return !(s === source.toLowerCase() || s === `ashby: ${company}`.toLowerCase());
 });
 
 async function main() {
+  await verifyAshbyEmployer(board, company);
   const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(board)}?includeCompensation=true`, { signal: AbortSignal.timeout(30_000) });
   if (!res.ok) throw new Error(`Ashby HTTP ${res.status}`);
   const data = (await res.json()) as {

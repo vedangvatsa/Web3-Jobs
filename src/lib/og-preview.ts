@@ -1,6 +1,6 @@
 import { getArticle, getAllArticles } from '@/lib/articles';
 import { buildArticlePageMeta } from '@/lib/article-og-meta';
-import { buildUniqueJobMetaDescription, resolveJobSlug, getAllJobsWithSlugs } from '@/lib/job-guides';
+import { buildUniqueJobMetaDescription, resolveJobSlug, getAllJobsWithSlugs, getRemediatedJobSlugs, isRetiredJobSlug } from '@/lib/job-guides';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import {
@@ -16,13 +16,15 @@ import { buildEventMetaDescription } from '@/lib/event-editorial-facts';
 import { hasCuratedEventGuide } from '@/lib/event-page-quality';
 import { getEventBySlug, getEvents } from '@/lib/events-server';
 import { getEventSlug } from '@/lib/events';
-import { getCompanies } from '@/lib/companies';
+import { getCompanies, getCompanyBySlug } from '@/lib/companies';
+import { REJECTED_ATS_BOARDS } from '@/lib/job-source-policy';
 import { getCompanySlug } from '@/lib/job-slugs';
 import { fmtInt, hiringReportStats } from '@/lib/hiring-report-stats';
 import { learnRoutes, resolveLearnRoute } from '@/lib/learn-routes';
 import { getCategory, getLesson } from '@/lib/learn';
 
 const SITE_NAME = 'Hashtag Web3';
+const REMEDIATED_COMPANY_SLUGS = new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)));
 
 export type OgPreviewMeta = {
   title: string;
@@ -239,6 +241,12 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
 
     const jobMeta = await resolveJobMetadata(slug);
     if (jobMeta) return jobMeta;
+    if (isRetiredJobSlug(slug)) return {
+      title: `Listing removed | ${SITE_NAME}`,
+      description: 'This listing was removed because its source did not match the employer.',
+      ogImageUrl: STATIC_OG.jobs,
+      canonicalUrl,
+    };
 
     const term = await getTerm(slug);
     if (term) {
@@ -262,11 +270,11 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
 
     try {
       const companies = await getCompanies();
-      const company = companies.find((c) => getCompanySlug(c.name) === slug);
+      const company = companies.find((c) => getCompanySlug(c.name) === slug) || (REMEDIATED_COMPANY_SLUGS.has(slug) ? await getCompanyBySlug(slug) : null);
       if (company) {
         return {
           title: `${company.name} Jobs | ${SITE_NAME}`,
-          description: `Open Web3 roles at ${company.name} on Hashtag Web3.`,
+          description: company.jobCount ? `Open Web3 roles at ${company.name} on Hashtag Web3.` : `No active roles are currently listed for ${company.name} on Hashtag Web3.`,
           ogImageUrl: buildCompanyOgImageUrl(company),
           canonicalUrl: `${SITE_URL}/${slug}`,
         };
@@ -292,6 +300,8 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
 /** Paths to bake into public/preview for link-preview crawlers. */
 export async function collectOgPreviewPaths(): Promise<string[]> {
   const paths = new Set<string>([
+    ...getRemediatedJobSlugs().map(slug => `/${slug}`),
+    ...[...REMEDIATED_COMPANY_SLUGS].map(slug => `/${slug}`),
     ...learnRoutes.map(route => `/${route.slug}`),
     '/',
     '/jobs',

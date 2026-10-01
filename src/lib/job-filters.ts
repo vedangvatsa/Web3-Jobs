@@ -1,4 +1,5 @@
 import { cleanJobLocation } from './job-location';
+import { getJobSourceIssue } from './job-source-policy';
 
 /**
  * Authoritative guard rules for identifying general applications, talent pools,
@@ -108,6 +109,7 @@ export function isConcreteJobOpening(title: string | null | undefined, link?: st
   if (isGeneralOrPlaceholderJobTitle(title)) return false;
   if (isUnrelatedOrNonWeb3JobTitle(title)) return false;
   if (link && isInvalidJobLink(link)) return false;
+  if (link && getJobSourceIssue({ link })) return false;
   if (link && (link.includes('satsterminal') || link.includes('sats-terminal'))) return false;
   return true;
 }
@@ -116,7 +118,10 @@ export function validateJobPosting(job: {
   title?: string | null;
   company?: string | null;
   link?: string | null;
+  source?: string;
 }): { valid: boolean; reason?: string } {
+  const sourceIssue = getJobSourceIssue({ link: job.link || undefined, source: job.source });
+  if (sourceIssue) return { valid: false, reason: sourceIssue };
   if (!job.title || !job.title.trim()) {
     return { valid: false, reason: 'Missing job title' };
   }
@@ -160,4 +165,3 @@ export function normalizeSingleLocation(rawLocation?: string | null): string {
 
   return loc || 'Remote';
 }
-

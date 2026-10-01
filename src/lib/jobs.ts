@@ -1,5 +1,6 @@
 import type { Job } from '@/types';
 import { loadStaticJson } from './load-static-json';
+import { getJobSourceIssue } from './job-source-policy';
 
 let jobsCache: Job[] | null = null;
 let jobsLoad: Promise<Job[]> | null = null;
@@ -12,7 +13,7 @@ export async function getJobs(): Promise<Job[]> {
         if (!Array.isArray(runtime) || runtime.length === 0) {
           throw new Error('Invalid or empty jobs runtime catalog');
         }
-        jobsCache = runtime.filter(job => job.active !== false);
+        jobsCache = runtime.filter(job => job.active !== false && !getJobSourceIssue(job));
         if (jobsCache.length === 0) {
           throw new Error('Jobs runtime catalog has no active jobs');
         }

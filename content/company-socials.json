@@ -334,6 +334,10 @@
     "crunchbase": "https://crunchbase.com/organization/polygontechnology"
   },
   "ramp": {
+    "linkedin": "https://www.linkedin.com/company/ramp",
+    "twitter": "https://x.com/tryramp"
+  },
+  "ramp-network": {
     "linkedin": "https://www.linkedin.com/company/rampnetwork",
     "twitter": "https://x.com/rampnetwork",
     "crunchbase": "https://crunchbase.com/organization/ramp-3b7b"

@@ -42,11 +42,11 @@ export function shouldRunStep(
     : false;
 
   if (fast) {
-    if (ready && !upstreamChanged) {
+    if (ready && !upstreamChanged && stored === current) {
       console.log(`[prebuild-data] ${step.id}: outputs present → skip (FAH_FAST)`);
       return false;
     }
-    const reason = upstreamChanged ? 'upstream outputs changed' : 'missing outputs';
+    const reason = upstreamChanged ? 'upstream outputs changed' : !ready ? 'missing outputs' : 'input hash changed';
     console.log(`[prebuild-data] ${step.id}: ${reason} → run (FAH_FAST)`);
     return true;
   }

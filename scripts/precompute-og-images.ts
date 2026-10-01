@@ -13,7 +13,8 @@ import sharp from 'sharp';
 import { Resvg } from '@resvg/resvg-js';
 import { compressOgPng } from './lib/og-png-compress';
 import { getAllJobsWithSlugs } from '../src/lib/job-guides';
-import { getCompanies } from '../src/lib/companies';
+import { getCompanies, getCompanyBySlug } from '../src/lib/companies';
+import { REJECTED_ATS_BOARDS } from '../src/lib/job-source-policy';
 import { getCompanySlug } from '../src/lib/job-slugs';
 import { resolveCompanyLogo } from '../src/lib/company-logo';
 
@@ -425,6 +426,11 @@ async function renderCompanies(
   let skipped = skippedJobs;
 
   let companies = await getCompanies();
+  for (const slug of new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)))) {
+    if (companies.some(company => company.slug === slug)) continue;
+    const company = await getCompanyBySlug(slug);
+    if (company) companies.push(company);
+  }
   if (limit) companies = companies.slice(0, Math.min(limit, companies.length));
 
   await mapPool(companies, CONCURRENCY, async (company) => {

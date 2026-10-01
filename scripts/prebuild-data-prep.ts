@@ -9,6 +9,7 @@ import {
 } from './lib/prebuild-manifest';
 import { PREBUILD_DATA_STEPS, SITEMAP_STEP } from './lib/prebuild-steps';
 import { assignJobSlugsInCacheFile } from './lib/job-slug-assignment';
+import { retireRejectedJobSources } from './lib/retire-rejected-job-sources';
 
 const fast = process.env.FAH_FAST_PREBUILD === '1';
 
@@ -27,6 +28,8 @@ function main(): void {
   let ran = 0;
 
   const dirtyOutputs = new Set<string>();
+  const retired = retireRejectedJobSources();
+  if (retired.removedJobs) dirtyOutputs.add('content/jobs-cache.json');
   const jobSlugs = assignJobSlugsInCacheFile('content/jobs-cache.json');
   if (jobSlugs.wrote) dirtyOutputs.add('content/jobs-cache.json');
   for (const step of PREBUILD_DATA_STEPS) {

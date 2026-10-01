@@ -50,8 +50,6 @@ const nextConfig = {
       './public/logo/**/*',
       './public/events/**/*',
       './public/images/**/*',
-      './public/preview/**/*',
-      './public/og/**/*',
       './public/favicon.ico',
       './public/icon.png',
       './public/apple-icon.png',
