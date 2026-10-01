@@ -320,5 +320,49 @@
     "slotKey": "2026-10-01:morning",
     "messageId": 16490,
     "sentAt": "2026-10-01T03:59:53.341Z"
+  },
+  "f64007b5-30ce-41b0-87ba-38785f4db4a3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T03:59:54.792Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "5186735e-4e8a-4962-b402-0fafa00bbde5",
+        "slug": "binance12",
+        "url": "https://hashtagweb3.com/binance12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Binance Accelerator Program- Monitorship"
+      },
+      {
+        "key": "tangem-international-logistics-specialist-b2c",
+        "slug": "intern23",
+        "url": "https://hashtagweb3.com/intern23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tangem",
+        "title": "International Logistics Specialist B2c"
+      },
+      {
+        "key": "7767529",
+        "slug": "manager727",
+        "url": "https://hashtagweb3.com/manager727?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Treasury Manager"
+      },
+      {
+        "key": "acfe80ba-5983-4d35-9375-870b1f906acf",
+        "slug": "analyst22",
+        "url": "https://hashtagweb3.com/analyst22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Financial Crimes Risk Senior Data Analyst/Data Scientist"
+      },
+      {
+        "key": "8031833",
+        "slug": "engineer538",
+        "url": "https://hashtagweb3.com/engineer538?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Software Engineer"
+      }
+    ],
+    "message": "• Binance is hiring <a href=\"https://hashtagweb3.com/binance12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Binance Accelerator Program- Monitorship</a>\n• Tangem is hiring <a href=\"https://hashtagweb3.com/intern23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">International Logistics Specialist B2c</a>\n• Ripple is hiring <a href=\"https://hashtagweb3.com/manager727?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Treasury Manager</a>\n• Rain is hiring <a href=\"https://hashtagweb3.com/analyst22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Financial Crimes Risk Senior Data Analyst/Data Scientist</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/engineer538?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>",
+    "slotKey": "2026-10-01:morning"
   }
 }
