@@ -361,5 +361,38 @@
     "slotKey": "2026-10-01:afternoon",
     "messageId": 155536,
     "sentAt": "2026-10-01T11:33:52.787Z"
+  },
+  "9c91817a-2e35-49b6-a3d0-62eebb143727": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T19:45:50.594Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bitwise NEAR ETF Approved for NYSE Arca Listing",
+        "summary": "Following SEC registration on September 24, the fund with staking features awaits final approval before public trading.",
+        "link": "https://hashtagweb3.com/near-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitwise NEAR ETF Clears SEC Registration and NYSE Arca Listing"
+      },
+      {
+        "index": 1,
+        "headline": "Evernorth to go public with 473 million XRP treasury",
+        "summary": "Shareholders approved a merger allowing the Ripple-backed firm to begin trading on public markets with its large XRP holdings.",
+        "event_rationale": "This covers the first instance of a major crypto-treasury firm transitioning to a public stock exchange listing.",
+        "link": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+        "source": "Decrypt",
+        "originalTitle": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent"
+      },
+      {
+        "index": 2,
+        "headline": "Illinois postpones crypto tax implementation following industry lawsuit",
+        "summary": "State officials agreed to a six-month delay of the 0.2% digital asset tax after legal challenges questioned the legislative process.",
+        "event_rationale": "This represents a distinct regulatory reversal at the state level regarding digital asset taxation.",
+        "link": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+        "source": "The Block",
+        "originalTitle": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review"
+      }
+    ],
+    "slotKey": "2026-10-01:evening"
   }
 }
