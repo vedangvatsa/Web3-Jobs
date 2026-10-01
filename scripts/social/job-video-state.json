@@ -93,9 +93,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "eToro is hiring\nSenior Client Service Manager - German speaker\n\nLimassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-01T03:31:09.732Z"
+          "startedAt": "2026-10-01T03:31:09.732Z",
+          "containerId": "17915747430461009"
         }
       }
     },
