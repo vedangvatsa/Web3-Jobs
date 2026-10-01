@@ -329,7 +329,7 @@
     "sentAt": "2026-09-30T19:33:49.133Z"
   },
   "d8d3c19f-fa99-4cda-a599-d654090e32f5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T04:03:49.899Z",
     "stories": [
       {
@@ -358,6 +358,8 @@
         "originalTitle": "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity"
       }
     ],
-    "slotKey": "2026-10-01:morning"
+    "slotKey": "2026-10-01:morning",
+    "messageId": 65717,
+    "sentAt": "2026-10-01T04:03:52.601Z"
   }
 }

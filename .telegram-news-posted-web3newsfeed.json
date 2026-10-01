@@ -662,6 +662,9 @@
   "https://hashtagweb3.com/brazil-depository?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/coinbase-clearing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
+  "https://hashtagweb3.com/coinbase-oura?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1890,6 +1893,12 @@
   "Coinbase wins CFTC clearing license to complete US derivatives stack",
   "United Kingdom opens registration window for crypto firms",
   "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+  "Coinbase offers Oura IPO shares to US retail customers",
+  "Coinbase Opens Oura IPO Allocations to US Retail Customers",
+  "Bloomberg Terminal adds blockchain stablecoin data for institutional users",
+  "MetaMask exits Ethereum validators amid undisclosed security incident",
+  "Google Releases Gemini 4 Argon AI Model",
+  "Gemini 4 Is Here, and Google’s Flagship Tops All Other AI Models on Cybersecurity",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2081,5 +2090,8 @@
   "fp:between|big|caus|cost|customer|determin|differenc|different|each|engin",
   "fp:brazil|btg|copy|csd|data|depository|fund|internally|keep|ledger",
   "fp:brokerag|cftc|clear|coinbas|collateraliz|complet|derivativ|directly|execution|fully",
-  "fp:ahead|application|business|clock|country|deadlin|february|firm|framework|kingdom"
+  "fp:ahead|application|business|clock|country|deadlin|february|firm|framework|kingdom",
+  "fp:allocation|can|coinbas|customer|eligibl|ipo|list|nasdaq|offer|open",
+  "fp:add|blockchain|bloomberg|data|exit|hourly|incident|institutional|issuanc|metamask",
+  "fp:all|argon|availabl|benchmark|cybersecurity|eighteen|expert|flagship|gemini4|googl"
 ]
