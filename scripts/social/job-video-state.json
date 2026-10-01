@@ -291,10 +291,11 @@
           "url": "https://www.youtube.com/watch?v=PQuGUmy7i1E"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Director of Strategic Finance at Zero Hash. New York City, NY.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-01T19:46:30.506Z",
-          "postId": "6abeb8979178244f470b01e9"
+          "postId": "6abeb8979178244f470b01e9",
+          "url": "https://tiktok.com/@hashtagweb3/video/7691788230856920352"
         }
       }
     }
