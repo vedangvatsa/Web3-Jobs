@@ -644,6 +644,9 @@
   "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
   "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
   "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+  "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+  "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+  "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1715,6 +1718,12 @@
   "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
   "Startups use small batteries to bypass New York City regulations",
   "How smaller, distributed batteries could help the grid",
+  "OpenAI dismisses three researchers for mishandling sensitive data",
+  "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+  "Amazon releases Strands Decider 2B decision-making model",
+  "Amazon releases its own Jev clone as decision models flood the web",
+  "Researchers develop AI capable of mastering the game Stratego",
+  "With most information hidden, the game Stratego had stumped AI—until now",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1876,5 +1885,8 @@
   "fp:750m|add|agent|atreid|back|board|botha|design|develop|engineer",
   "fp:access|api|becaus|block|bot|content|end|fre|generat|kill",
   "fp:activity|analyz|bas|brain|can|develop|high|imag|look|mind",
-  "fp:avoid|battery|bypass|city|complex|distribut|energy|govern|grid|help"
+  "fp:avoid|battery|bypass|city|complex|distribut|energy|govern|grid|help",
+  "fp:cut|data|disclosur|dismiss|follow|information|internal|investigation|mishandl|openai",
+  "fp:amazon|application|automat|clon|decider|decision|enterpris|flood|focus|jev",
+  "fp:architectur|board|capabl|challeng|develop|dual|gam|had|hidden|information"
 ]
