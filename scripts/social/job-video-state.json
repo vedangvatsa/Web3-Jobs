@@ -136,9 +136,10 @@
           "url": "https://www.instagram.com/reel/Dd79ENSEjqR/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "Mosta, Malta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-01T03:34:28.131Z"
+          "startedAt": "2026-10-01T03:34:28.131Z",
+          "postId": "6abdd4c505e9a5c46ab6f8a9"
         }
       }
     }
