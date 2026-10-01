@@ -4,6 +4,10 @@
     "2026-09-30:evening": [
       "fe12",
       "mkt51"
+    ],
+    "2026-10-01:morning": [
+      "manager494",
+      "an48"
     ]
   },
   "jobs": {
@@ -76,6 +80,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7691469647211679009"
         }
       }
+    },
+    "manager494": {
+      "slot": "2026-10-01:morning",
+      "selectedAt": "2026-10-01T03:31:08.419Z",
+      "verifiedAt": "2026-10-01T03:31:08.419Z",
+      "captions": {
+        "instagram": "eToro is hiring\nSenior Client Service Manager - German speaker\n\nLimassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Senior Client Service Manager - German speaker at eToro. Limassol, Cyprus.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Limassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior Client Service Manager - German speaker at eToro"
+      },
+      "receipts": {}
+    },
+    "an48": {
+      "slot": "2026-10-01:morning",
+      "selectedAt": "2026-10-01T03:31:08.419Z",
+      "verifiedAt": "2026-10-01T03:31:08.419Z",
+      "captions": {
+        "instagram": "eToro is hiring\nAML Analyst\n\nMosta, Malta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "AML Analyst at eToro. Mosta, Malta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Mosta, Malta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "AML Analyst at eToro"
+      },
+      "receipts": {}
     }
   }
 }
