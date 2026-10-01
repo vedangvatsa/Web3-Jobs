@@ -638,6 +638,9 @@
   "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
   "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
   "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+  "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+  "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+  "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1697,6 +1700,12 @@
   "Restate lands $20M as the need for durable infrastructure increases with AI agents",
   "Trump secures voluntary AI safety agreements from tech companies",
   "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+  "Google releases Gemini 4 Argon model",
+  "Google releases Gemini 4 Argon, called its most powerful model yet",
+  "Google develops watermarking method for AI-designed proteins",
+  "Google figures out how to watermark AI-designed proteins",
+  "Flow Engineering reaches $750 million valuation for hardware AI",
+  "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1852,5 +1861,8 @@
   "fp:against|art|creativ|criticiz|depict|escap|get|increasingly|installation|leader",
   "fp:22b|300m|doubl|elevenlab|employe|institutional|investor|major|offer|reach",
   "fp:20m|agent|autonomous|develop|durabl|execution|increas|infrastructur|land|layer",
-  "fp:agr|agreement|big|combat|dozen|firm|government|hing|internal|pal"
+  "fp:agr|agreement|big|combat|dozen|firm|government|hing|internal|pal",
+  "fp:argon|assist|call|cod|cybersecurity|design|developer|gemini4|googl|most",
+  "fp:biological|biosecurity|computer|design|develop|figur|generat|googl|how|method",
+  "fp:750m|add|agent|atreid|back|board|botha|design|develop|engineer"
 ]

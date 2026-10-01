@@ -255,7 +255,7 @@
     "sentAt": "2026-09-30T19:35:58.715Z"
   },
   "44b1e578-ebd1-434c-bd91-a6ec26d24309": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-01T04:00:52.423Z",
     "stories": [
       {
@@ -287,6 +287,8 @@
         "originalTitle": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation"
       }
     ],
-    "slotKey": "2026-10-01:morning"
+    "slotKey": "2026-10-01:morning",
+    "messageId": 193307,
+    "sentAt": "2026-10-01T04:00:55.037Z"
   }
 }
