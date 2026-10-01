@@ -284,10 +284,11 @@
           "url": "https://www.instagram.com/reel/Dd9sRoFAGrn/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "New York City, NY\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-01T19:46:23.029Z",
-          "postId": "6abeb8900d6dc6150ea40edc"
+          "postId": "6abeb8900d6dc6150ea40edc",
+          "url": "https://www.youtube.com/watch?v=PQuGUmy7i1E"
         }
       }
     }
