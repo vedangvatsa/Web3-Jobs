@@ -300,5 +300,52 @@
     "slotKey": "2026-10-01:morning",
     "messageId": 155530,
     "sentAt": "2026-10-01T03:59:45.453Z"
+  },
+  "d6d4324f-bea0-43be-a7a6-281021ba4819": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T11:31:56.934Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-Q2frCvTrTotKoBS",
+        "slug": "7y2uqnix",
+        "name": "Crain's NY Business Wall Street Meets Blockchain: The Future of Digital Asset Infrastructure",
+        "startDate": "2026-10-01T13:00:00.000Z",
+        "keys": [
+          "luma-batch-q2frcvtrtotkobs",
+          "page:7y2uqnix:2026-10-01",
+          "luma:evt-q2frcvtrtotkobs",
+          "luma-url:/7y2uqnix",
+          "event:crainsnybusinesswallstreetmeetsblockchainthefutureofdigitalassetinfrastructure:2026-10-01:new york"
+        ]
+      },
+      {
+        "id": "premier-bitchill-s04-2026",
+        "slug": "bitchill",
+        "name": "Bitchill s04",
+        "startDate": "2026-10-01T09:00:00-06:00",
+        "keys": [
+          "premier-bitchill-s04-2026",
+          "page:bitchill:2026-10-01",
+          "url:thebitcoindistrict.com/bitchill:2026-10-01",
+          "event:bitchills04:2026-10-01:roatan"
+        ]
+      },
+      {
+        "id": "luma-batch-evtluNqDh9W2bNrZ",
+        "slug": "decentralisedfinance",
+        "name": "Decentralised Finance: How AI and Web3 can Reach the Unreached?",
+        "startDate": "2026-10-01T15:00:00.000Z",
+        "keys": [
+          "luma-batch-evtlunqdh9w2bnrz",
+          "page:decentralisedfinance:2026-10-01",
+          "luma:evt-lunqdh9w2bnrzap",
+          "luma-url:/decentralisedfinance",
+          "event:decentralisedfinancehowaiandweb3canreachtheunreached:2026-10-01:geneve"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-01:afternoon"
   }
 }
