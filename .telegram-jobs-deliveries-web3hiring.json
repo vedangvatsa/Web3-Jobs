@@ -458,5 +458,49 @@
     "slotKey": "2026-10-01:afternoon",
     "messageId": 94,
     "sentAt": "2026-10-01T11:32:02.955Z"
+  },
+  "e44d9d7b-4655-48e6-92db-b7615197497c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T19:43:41.707Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "8648512002",
+        "slug": "eng165",
+        "url": "https://hashtagweb3.com/eng165?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "IT Operations Engineer"
+      },
+      {
+        "key": "724c2cea3f7c",
+        "slug": "engineer632",
+        "url": "https://hashtagweb3.com/engineer632?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Senior AI Scheduling & Orchestration Engineer"
+      },
+      {
+        "key": "fe935559-4209-4736-baa8-6d2478d424ba",
+        "slug": "cloud",
+        "url": "https://hashtagweb3.com/cloud?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Parallel",
+        "title": "Cloud Partnerships"
+      },
+      {
+        "key": "28a287e0-1e9f-4002-9ae7-7d0e61e87669",
+        "slug": "security52",
+        "url": "https://hashtagweb3.com/security52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Product Security Manager"
+      },
+      {
+        "key": "7fa2cc83-7fe1-4340-b6f7-43ef3fe1b87d",
+        "slug": "eng27",
+        "url": "https://hashtagweb3.com/eng27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Jane Street is hiring <a href=\"https://hashtagweb3.com/eng165?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">IT Operations Engineer</a>\n• Bitdeer is hiring <a href=\"https://hashtagweb3.com/engineer632?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior AI Scheduling &amp; Orchestration Engineer</a>\n• Parallel is hiring <a href=\"https://hashtagweb3.com/cloud?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Cloud Partnerships</a>\n• MoonPay is hiring <a href=\"https://hashtagweb3.com/security52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Security Manager</a>\n• Chainalysis is hiring <a href=\"https://hashtagweb3.com/eng27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-01:evening"
   }
 }
