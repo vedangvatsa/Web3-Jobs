@@ -241,11 +241,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Bitdeer is hiring\nData Center Operations Engineer\n\nCyberjaya, MY\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-01T19:42:54.232Z",
           "containerId": "17915845218461009",
-          "postId": "18094091864446510"
+          "postId": "18094091864446510",
+          "url": "https://www.instagram.com/reel/Dd9r9zWgGNM/"
         }
       }
     },
