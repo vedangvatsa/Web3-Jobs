@@ -328,5 +328,36 @@
     "slotKey": "2026-10-01:morning",
     "messageId": 155532,
     "sentAt": "2026-10-01T04:01:33.796Z"
+  },
+  "abc94cc6-16c5-4fcb-8eee-bb785ca6017d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T11:33:50.033Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Base Deploys Cobalt Upgrade on Mainnet",
+        "summary": "The update introduces conditional transactions and new issuer controls for the network's B20 token standard.",
+        "link": "https://hashtagweb3.com/cobalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Base Activates Cobalt Upgrade With Conditional Transactions"
+      },
+      {
+        "index": -1,
+        "headline": "Florida Court Orders $31M Judgment Against Fundsz Fraud Operators",
+        "summary": "Two operators must pay restitution and penalties for promoting fake cryptocurrency and metals trading to investors.",
+        "link": "https://hashtagweb3.com/fundsz?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Wins $31.5M Fundsz Fraud Judgment in Florida Court"
+      },
+      {
+        "index": -1,
+        "headline": "US Sanctions Group for ATM Theft and Tron Crypto Laundering",
+        "summary": "Officials sanctioned ten entities for stealing millions from banks and moving the money through Tron cryptocurrency wallets.",
+        "link": "https://hashtagweb3.com/tda-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US Sanctions Tren de Aragua Network Over ATM Cash Thefts"
+      }
+    ],
+    "slotKey": "2026-10-01:afternoon"
   }
 }
