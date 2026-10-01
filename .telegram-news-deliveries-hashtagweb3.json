@@ -294,5 +294,37 @@
     "slotKey": "2026-09-30:evening",
     "messageId": 155527,
     "sentAt": "2026-09-30T19:33:24.585Z"
+  },
+  "3685aeb7-3842-4ec7-9468-5b524e88eac2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-01T04:01:30.799Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "StarkWare cuts estimated quantum-safe Bitcoin compute costs",
+        "summary": "A GPU optimization contest reduced experimental transaction preparation costs to $67, though production testing remains unresolved.",
+        "link": "https://hashtagweb3.com/quantum-cost?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "StarkWare reports 79% cut in estimated quantum-safe Bitcoin compute cost"
+      },
+      {
+        "index": 2,
+        "headline": "UK financial regulator opens crypto license application window",
+        "summary": "Digital asset firms must apply by February to operate under a new regulatory framework scheduled for October 2027.",
+        "event_rationale": "This covers the opening of the UK's formal registration window for crypto firms under its upcoming national regulatory framework.",
+        "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "MetaMask exits Ethereum validators amid undisclosed security incident"
+      },
+      {
+        "index": 1,
+        "headline": "CFTC proposes classifying event contracts as swaps",
+        "summary": "The agency seeks exclusive federal jurisdiction over contracts traded on regulated prediction markets.",
+        "link": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "CFTC seeks to define event contracts as swaps amid prediction market fight"
+      }
+    ],
+    "slotKey": "2026-10-01:morning"
   }
 }
