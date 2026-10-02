@@ -106,6 +106,14 @@
     "lastUrl": "https://hashtagweb3.com/manager-1riw49c",
     "updatedAt": "2026-09-21T17:11:30.446Z"
   },
+  "7462961": {
+    "slugs": [
+      "devops20"
+    ],
+    "lastSlug": "devops20",
+    "lastUrl": "https://hashtagweb3.com/devops20",
+    "updatedAt": "2026-10-02T04:06:30.413Z"
+  },
   "7489707": {
     "slugs": [
       "engineer651",
@@ -919,6 +927,14 @@
     "lastSlug": "sec36",
     "lastUrl": "https://hashtagweb3.com/sec36",
     "updatedAt": "2026-09-22T19:45:22.371Z"
+  },
+  "8241522": {
+    "slugs": [
+      "eng364"
+    ],
+    "lastSlug": "eng364",
+    "lastUrl": "https://hashtagweb3.com/eng364",
+    "updatedAt": "2026-10-02T04:06:30.413Z"
   },
   "90714033": {
     "slugs": [
@@ -3633,5 +3649,29 @@
     "lastSlug": "eng27",
     "lastUrl": "https://hashtagweb3.com/eng27",
     "updatedAt": "2026-10-01T19:43:48.791Z"
+  },
+  "327855d4-3e0d-4495-8edf-8ee39336dda5": {
+    "slugs": [
+      "head2"
+    ],
+    "lastSlug": "head2",
+    "lastUrl": "https://hashtagweb3.com/head2",
+    "updatedAt": "2026-10-02T04:06:30.413Z"
+  },
+  "yzilabs-1972ca13-10b8-49f0-9835-ed67c2f5c730": {
+    "slugs": [
+      "sls79"
+    ],
+    "lastSlug": "sls79",
+    "lastUrl": "https://hashtagweb3.com/sls79",
+    "updatedAt": "2026-10-02T04:06:30.413Z"
+  },
+  "JR100881": {
+    "slugs": [
+      "product582"
+    ],
+    "lastSlug": "product582",
+    "lastUrl": "https://hashtagweb3.com/product582",
+    "updatedAt": "2026-10-02T04:06:30.413Z"
   }
 }

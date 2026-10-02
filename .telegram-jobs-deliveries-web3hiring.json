@@ -552,7 +552,7 @@
     "sentAt": "2026-10-01T19:43:48.791Z"
   },
   "7765b62a-f574-4dad-beaa-bc9e7a8b09fd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T04:06:27.827Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -593,6 +593,8 @@
       }
     ],
     "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/devops20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Infrastructure Engineer</a>\n• Arbitrum is hiring <a href=\"https://hashtagweb3.com/head2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Foundation</a>\n• Cournot is hiring <a href=\"https://hashtagweb3.com/sls79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Manager</a>\n• Circle is hiring <a href=\"https://hashtagweb3.com/product582?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Principal Product Manager</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/eng364?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>",
-    "slotKey": "2026-10-02:morning"
+    "slotKey": "2026-10-02:morning",
+    "messageId": 16494,
+    "sentAt": "2026-10-02T04:06:30.413Z"
   }
 }
