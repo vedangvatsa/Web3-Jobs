@@ -16,6 +16,10 @@
     "2026-10-01:evening": [
       "engineer1007",
       "dsf"
+    ],
+    "2026-10-02:morning": [
+      "operations166",
+      "isss"
     ]
   },
   "jobs": {
@@ -298,6 +302,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7691788230856920352"
         }
       }
+    },
+    "operations166": {
+      "slot": "2026-10-02:morning",
+      "selectedAt": "2026-10-02T03:41:23.124Z",
+      "verifiedAt": "2026-10-02T03:41:23.124Z",
+      "captions": {
+        "instagram": "CoinJar is hiring\nFinancial Crime Operations Officer (Melbourne, AU)\n\nMelbourne, Australia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Financial Crime Operations Officer (Melbourne, AU) at CoinJar. Melbourne, Australia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Melbourne, Australia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Financial Crime Operations Officer (Melbourne, AU) at CoinJar"
+      },
+      "receipts": {}
+    },
+    "isss": {
+      "slot": "2026-10-02:morning",
+      "selectedAt": "2026-10-02T03:41:23.124Z",
+      "verifiedAt": "2026-10-02T03:41:23.124Z",
+      "captions": {
+        "instagram": "eToro is hiring\nIT Service Specialist -Student Position\n\nTel Aviv District\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "IT Service Specialist -Student Position at eToro. Tel Aviv District.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Tel Aviv District\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "IT Service Specialist -Student Position at eToro"
+      },
+      "receipts": {}
     }
   }
 }
