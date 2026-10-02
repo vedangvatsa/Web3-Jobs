@@ -2,6 +2,7 @@ import { getAllTerms, getCategoriesWithCounts } from '@/lib/glossary';
 import type { Metadata } from 'next';
 import { PageShell } from '@/components/page-shell';
 import { GlossaryPageClientWrapper } from '@/components/glossary-page-client-wrapper';
+import { getGlossaryListItem } from '@/lib/glossary-listing';
 
 export const metadata: Metadata = {
   title: 'Web3 Glossary',
@@ -73,7 +74,7 @@ export default async function GlossaryPage() {
       />
       <main className="flex-grow">
         <PageShell>
-          <GlossaryPageClientWrapper allTerms={allTerms} categories={categories} />
+          <GlossaryPageClientWrapper allTerms={allTerms.map(getGlossaryListItem)} categories={categories} />
         </PageShell>
       </main>
     </div>

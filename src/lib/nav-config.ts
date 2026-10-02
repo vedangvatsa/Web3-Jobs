@@ -59,6 +59,7 @@ export const SITELINK_NAVIGATION_ITEMS: { label: string; href: string; descripti
 
 export const RESOURCE_LINKS: NavLinkItem[] = [
   { href: '/resources', label: 'All Resources', icon: ListChecks },
+  { href: '/nomads', label: 'Nomad Toolkit', icon: Globe },
   { href: '/companies', label: 'Companies', icon: Building2 },
   { href: '/learn', label: 'Learn Web3', icon: GraduationCap },
   { href: '/blog', label: 'Playbook', icon: BookOpen },
@@ -219,6 +220,7 @@ export const SOCIAL_LINKS: NavLinkItem[] = [
 ];
 
 export const FOOTER_RESOURCES: Array<{ href: string; label: string }> = [
+  { href: '/nomads', label: 'Nomad Toolkit' },
   { href: '/interview-questions', label: 'Interview Questions' },
   { href: '/web3-career-quiz', label: 'Archetype Assessment' },
   { href: '/salary-calculator', label: 'Salary Calculator' },
@@ -237,4 +239,3 @@ export const FOOTER_COMPANY: Array<{ href: string; label: string }> = [
   { href: '/openapi.json', label: 'OpenAPI Spec' },
   { href: '/llms.txt', label: 'llms.txt' },
 ];
-

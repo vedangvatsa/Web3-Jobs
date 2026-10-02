@@ -8,15 +8,9 @@ import { usePathname, useRouter, useSearchParams } from 'next/navigation';
 import { PageHeader } from '@/components/page-header';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
+import type { GlossaryListItem } from '@/lib/glossary-listing';
 
-export type GlossaryTermItem = {
-  slug: string;
-  term: string;
-  category: string;
-  description: string;
-  difficulty?: string;
-  synonyms?: string[];
-};
+export type GlossaryTermItem = GlossaryListItem;
 
 export type GlossaryCategoryItem = {
   name: string;
@@ -120,6 +114,7 @@ export function GlossaryPageClient({
             <div className="mb-3">
               <Link
                 href="/glossary"
+                prefetch={false}
                 className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground"
               >
                 <ArrowLeft className="h-3.5 w-3.5" aria-hidden="true" />
@@ -181,7 +176,7 @@ export function GlossaryPageClient({
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3.5">
                 {termsByLetter[letter].map((term) => (
-                  <Link key={term.slug} href={`/${term.slug}`}>
+                  <Link key={term.slug} href={`/${term.slug}`} prefetch={false}>
                     <Card className="group border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors h-full">
                       <CardContent className="p-4">
                         <h3 className="font-semibold text-sm group-hover:text-primary transition-colors mb-1">

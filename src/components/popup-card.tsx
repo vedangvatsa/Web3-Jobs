@@ -6,21 +6,24 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { formatPopupField } from '@/lib/popup-narrative';
 import { getPopupPath } from '@/lib/popup-seo';
 import type { Popup } from '@/types/popup';
+import { useState } from 'react';
 
-export function PopupCard({ popup }: { popup: Popup }) {
+export function PopupCard({ popup }: { popup: Pick<Popup, 'slug' | 'name' | 'location' | 'summary' | 'image'> }) {
+  const [imageFailed, setImageFailed] = useState(false);
   return (
-    <Link href={getPopupPath(popup.slug)} className="block h-full">
+    <Link href={getPopupPath(popup.slug)} prefetch={false} className="block h-full">
       <Card className="flex h-full flex-col border-border/70 bg-card shadow-none transition-colors hover:border-foreground/25">
         <CardHeader className="flex flex-row items-start gap-3 px-4 pb-2 pt-4">
           <div className="relative flex h-11 w-11 shrink-0 items-center justify-center overflow-hidden rounded-md border border-border/60 bg-muted/40">
-            {popup.image ? (
+            {popup.image && !imageFailed ? (
               <Image
                 src={popup.image}
                 alt=""
                 width={44}
                 height={44}
                 className="h-full w-full object-cover"
-                unoptimized
+                 unoptimized
+                 onError={() => setImageFailed(true)}
               />
             ) : (
               <span className="text-sm font-semibold text-muted-foreground">

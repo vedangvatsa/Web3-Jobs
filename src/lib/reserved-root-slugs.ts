@@ -33,6 +33,7 @@ export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
   'dev',
   'about',
   'popups',
+  'nomads',
 ];
 
 const NON_ARTICLE_MARKDOWN = new Set(['AGENTS.md', 'README.md']);

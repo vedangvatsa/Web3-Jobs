@@ -7,7 +7,7 @@ import { getJobSlug } from '@/lib/job-slugs';
 import { CompanyLogo } from '@/components/company-logo';
 import type { ResponsiveImagePlan } from '@/lib/responsive-images';
 
-export function JobCard({ job, logoUrl, faviconUrl, imageVariants }: { job: Job; logoUrl?: string | null; faviconUrl?: string | null; imageVariants?: ResponsiveImagePlan }) {
+export function JobCard({ job, logoUrl, faviconUrl, imageVariants, showLocation = false }: { job: Job; logoUrl?: string | null; faviconUrl?: string | null; imageVariants?: ResponsiveImagePlan; showLocation?: boolean }) {
   const slug = getJobSlug(job);
   return (
     <Link href={`/${slug}`} prefetch={false} className="block h-full min-w-0">
@@ -22,6 +22,7 @@ export function JobCard({ job, logoUrl, faviconUrl, imageVariants }: { job: Job;
                 {job.title}
               </CardTitle>
               <p className="text-xs text-muted-foreground truncate mt-0.5">{job.company}</p>
+              {showLocation && job.location && <p className="mt-1 truncate text-xs text-muted-foreground" title={job.location}>{job.location}</p>}
             </div>
           </div>
         </CardHeader>

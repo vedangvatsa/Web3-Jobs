@@ -69,6 +69,9 @@ jobs:
         if: ${{ inputs.grant_only != true }}
         with:
           node-version: '22'
+      - name: Verify secret synchronization behavior
+        if: ${{ inputs.grant_only != true }}
+        run: node --test scripts/test-apphosting-secret-sync.mjs
       - name: Grant App Hosting secret access + sync values
         if: ${{ inputs.grant_only != true }}
         env:

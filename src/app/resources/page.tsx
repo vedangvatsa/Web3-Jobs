@@ -52,7 +52,7 @@ function ToolCard({
   description?: string;
 }) {
   return (
-    <Link href={href} className="group block h-full">
+    <Link href={href} prefetch={false} className="group block h-full">
       <Card className="h-full border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors p-4 flex flex-col justify-between">
         <div>
           <h3 className="font-semibold text-sm text-foreground group-hover:text-primary transition-colors mb-1">
@@ -135,6 +135,21 @@ export default function ResourcesPage() {
           </section>
 
           <div className="space-y-12">
+            <section aria-labelledby="nomad-resources-title">
+              <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
+                <div>
+                  <h2 id="nomad-resources-title" className="text-base font-bold tracking-tight">Remote Work & Nomads</h2>
+                  <p className="mt-1 text-sm text-muted-foreground">Choose a city, compare your budget, and plan the practical details of a remote stay.</p>
+                </div>
+                <Link href="/nomads" prefetch={false} className="inline-flex min-h-11 items-center gap-2 text-sm font-medium hover:text-primary">Open Nomad Toolkit <ArrowRight className="h-4 w-4" aria-hidden /></Link>
+              </div>
+              <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+                <ToolCard href="/nomads" label="Explore cities" description="City guides with living costs, climate, workspaces and local communities." />
+                <ToolCard href="/nomads/places" label="Find a place to work or stay" description="Search coworking spaces, coliving, apartments, hostels and guesthouses." />
+                <ToolCard href="/nomads/cost-of-living" label="Plan your budget" description="Compare monthly costs and see what remains from your take-home income." />
+                <ToolCard href="/digital-nomad-visas" label="Visas & passport entry" description="Browse longer-stay program references and short-visit passport requirements." />
+              </div>
+            </section>
             {/* For Job Seekers */}
             <section>
               <div className="mb-4">

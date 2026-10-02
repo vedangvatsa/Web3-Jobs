@@ -16,6 +16,10 @@ put_secret() {
     echo "Skip ${name} (empty)"
     return 0
   fi
+  if [ -n "${FIREBASE_APPHOSTING_BACKEND:-}" ] && printf '%s' "${value}" | node "$(dirname "${BASH_SOURCE[0]}")/check-apphosting-secret-value.mjs" "${PROJECT_ID}" "${name}"; then
+    echo "Reuse ${name} (latest value is unchanged)"
+    return 0
+  fi
   printf '%s' "${value}" | npx --yes firebase-tools@latest apphosting:secrets:set "${name}" \
     --data-file - \
     --force \

@@ -1,4 +1,6 @@
 import { JOB_SHARD_COUNT, getJobShardFilename } from '../../src/lib/job-shards';
+import nomadCities from '../../content/nomads/cities.json';
+import passportCountries from '../../content/nomads/countries.json';
 
 export type PrebuildStep = {
   id: string;
@@ -13,6 +15,17 @@ const JOB_SHARD_OUTPUTS = Array.from({ length: JOB_SHARD_COUNT }, (_, i) =>
 
 /** Input → output prep steps (order matters). */
 export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
+  {
+    id: 'nomad-catalogs',
+    inputs: ['content/nomads', 'public/images/nomads', 'scripts/precompute-nomads.ts', 'src/lib/nomads/types.ts'],
+    outputs: [
+      'public/data/nomads/cities.json', 'public/data/nomads/places.json', 'public/data/nomads/passports.json',
+      ...nomadCities.map(city => `public/data/nomads/cities/${city.slug}.json`),
+      ...nomadCities.map(city => `public/images/nomads/${city.slug}-128.webp`),
+      ...passportCountries.map(country => `public/data/nomads/passports/${country.id}.json`),
+    ],
+    command: 'npx tsx scripts/precompute-nomads.ts',
+  },
   {
     id: 'company-logos-index',
     inputs: ['public/logo/companies'],
@@ -85,6 +98,8 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
       'content/glossary-runtime.json',
       'content/companies-runtime.json',
       'content/pseo-resources-runtime.json',
+      'src/app/nomads/page.tsx',
+      'scripts/generate-slug-types.ts',
     ],
     outputs: ['content/slug-types.json'],
     command: 'npx tsx scripts/generate-slug-types.ts',
@@ -93,7 +108,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
 
 export const SITEMAP_STEP: PrebuildStep = {
   id: 'sitemap',
-  inputs: ['content/slug-types.json', 'content/articles-index.json'],
+  inputs: ['content/slug-types.json', 'content/articles-index.json', 'src/lib/sitemap-build.ts', 'content/nomads/cities.json', 'content/nomads/sources.json', 'src/lib/nomads/routes.ts', 'src/lib/nomads/metadata.ts'],
   outputs: ['content/sitemap-routes.json', 'public/sitemap.xml'],
   command: 'npx tsx scripts/generate-sitemap-json.ts',
 };

@@ -1,0 +1,48 @@
+Nomad Toolkit — data provenance and third-party notices
+
+These datasets retain their own terms; the application code's license does not
+replace a third-party data license. Reference estimates are not live quotes,
+connection guarantees or authorization to enter, work or reside in a country.
+
+Internet benchmarks
+Source: Speedtest by Ookla Global Fixed and Mobile Network Performance Maps
+https://github.com/teamookla/ookla-open-data
+Upstream public license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+The imported city aggregates were calculated by the source project. The quarter
+and sample count are retained in each city record. The project owner confirmed
+on 2026-10-02 that Hashtag Web3 has permission to use these figures. Source
+attribution is retained. No endorsement by Ookla is implied.
+
+Place directory and map
+Includes data by OpenStreetMap contributors, under the Open Database License.
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+The directory is an imported snapshot. Map tiles are provided by CARTO, using
+OpenStreetMap contributor data: https://carto.com/attributions
+
+Passport entry references
+Source: https://github.com/ilyankou/passport-index-dataset
+The source project's data is redistributed in per-passport JSON files.
+
+MIT License
+
+Copyright (c) 2019 Ilya Ilyankou
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

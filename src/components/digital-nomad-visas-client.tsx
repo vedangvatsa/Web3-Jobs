@@ -13,7 +13,8 @@ import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar'
 
 const CONTINENTS = ['Europe', 'Asia', 'North America', 'South America', 'Africa', 'Oceania'] as const;
 
-function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
+export function VisaCard({ visa, children }: { visa: Omit<DigitalNomadVisa, 'continent'> & { continent: string }; children?: React.ReactNode }) {
+  const hasFooter = React.Children.toArray(children).length > 0;
   return (
     <Card className="flex flex-col h-full bg-card border-border/70 shadow-none hover:border-foreground/25 transition-colors">
       <CardHeader className="flex flex-row items-start justify-between pb-3">
@@ -53,6 +54,7 @@ function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
             )}
           </div>
         </div>
+        {hasFooter && <div className="mt-4 border-t border-border/50 pt-3">{children}</div>}
       </CardContent>
     </Card>
   );
@@ -130,6 +132,7 @@ const countryMap: Record<string, string> = {
   LC: 'Saint Lucia',
   RS: 'Serbia',
   SC: 'Seychelles',
+  SI: 'Slovenia',
   ZA: 'South Africa',
   KR: 'South Korea',
   ES: 'Spain',

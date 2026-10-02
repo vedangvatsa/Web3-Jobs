@@ -25,6 +25,20 @@ export function requiredPublicAssets(root: string): string[] {
     if (article.category === 'News') addLocalImage(article.image);
   }
   const responsivePath = path.join(root, 'content/responsive-images.json');
+  const nomadsPath = path.join(root, 'content/nomads/cities.json');
+  if (fs.existsSync(nomadsPath)) {
+    assets.add('public/nomad-data-notices.txt');
+    const cities = JSON.parse(fs.readFileSync(nomadsPath, 'utf8')) as Array<{ slug: string; image: string | null; thumbnail: string | null }>;
+    for (const city of cities) {
+      addLocalImage(city.image);
+      addLocalImage(city.thumbnail);
+      if (city.thumbnail) addLocalImage(city.thumbnail.replace(/-480\.webp$/, '-128.webp'));
+      assets.add(`public/data/nomads/cities/${city.slug}.json`);
+    }
+    for (const file of ['cities', 'places', 'passports']) assets.add(`public/data/nomads/${file}.json`);
+    const passports = JSON.parse(fs.readFileSync(path.join(root, 'content/nomads/countries.json'), 'utf8')) as Array<{ id: string }>;
+    for (const passport of passports) assets.add(`public/data/nomads/passports/${passport.id}.json`);
+  }
   if (fs.existsSync(responsivePath)) {
     const responsive = JSON.parse(fs.readFileSync(responsivePath, 'utf8')) as Record<string, { src: string; files: string[] }>;
     for (const image of Object.values(responsive)) {

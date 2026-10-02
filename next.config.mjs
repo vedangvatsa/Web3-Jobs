@@ -215,6 +215,11 @@ const nextConfig = {
     return {
       beforeFiles: [
         { source: '/events', has: [{ type: 'query', key: 'mode', value: 'agent' }], destination: '/agent-view.json' },
+        ...['/jobs/feed.json', '/jobs/feed.xml', '/jobs/adzuna.xml', '/jobs/jora.xml', '/jobs/feed-aggregator-us.xml', '/adzuna.xml', '/jooble.xml', '/myjobhelper.xml', '/sitemap.xml'].map(source => ({
+          source,
+          has: [{ type: 'query', key: 'mode', value: 'agent' }],
+          destination: '/agent-view.json',
+        })),
       ],
       afterFiles: [
         { source: '/logo/companies/Chainalysis.webp', destination: '/logo/companies/chainalysis.webp' },
@@ -231,6 +236,7 @@ const nextConfig = {
     const cspHeader = `
       default-src 'self';
       script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai https://us.i.posthog.com https://www.clarity.ms https://c.clarity.ms;
+      worker-src 'self' blob:;
       style-src 'self' 'unsafe-inline';
       img-src 'self' blob: data: https:;
       font-src 'self' data:;
@@ -239,7 +245,7 @@ const nextConfig = {
       form-action 'self' https://hashtagweb3.com https://t.me;
       frame-ancestors 'self' https://chatgpt.com https://claude.ai;
       frame-src 'self' https://www.linkedin.com https://linkedin.com https://www.instagram.com https://platform.twitter.com;
-      connect-src 'self' https://hashtagweb3.com https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com https://api.ashbyhq.com https://boards-api.greenhouse.io https://api.lever.co https://*.clarity.ms https://c.clarity.ms;
+      connect-src 'self' https://hashtagweb3.com https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com https://api.ashbyhq.com https://boards-api.greenhouse.io https://api.lever.co https://*.clarity.ms https://c.clarity.ms https://basemaps.cartocdn.com https://*.basemaps.cartocdn.com;
     `.replace(/\s{2,}/g, ' ').trim();
 
     return [

@@ -1,18 +1,19 @@
 import { Suspense } from 'react';
-import { DigitalNomadVisasContent } from '@/components/digital-nomad-visas-client';
-import { PageShell } from '@/components/page-shell';
+import { NomadVisas } from '@/components/nomads/visas';
+import { NomadShell } from '@/components/nomads/shell';
+import { getNomadVisas, getPassportCountries } from '@/lib/nomads/server';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
  title: 'Visas for Digital Nomads',
- description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
+ description: 'Compare digital-nomad and remote-stay program references by income and continent, and explore passport entry requirements.',
  alternates: {
   canonical: 'https://hashtagweb3.com/digital-nomad-visas',
  },
  openGraph: {
   type: 'website',
   title: 'Visas for Digital Nomads',
-  description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
+   description: 'Compare digital-nomad and remote-stay program references by income and continent, and explore passport entry requirements.',
   url: 'https://hashtagweb3.com/digital-nomad-visas',
   images: [{
    url: 'https://hashtagweb3.com/og-image-tools.png',
@@ -24,21 +25,17 @@ export const metadata: Metadata = {
  twitter: {
   card: 'summary_large_image',
   title: 'Visas for Digital Nomads',
-  description: 'Complete database of digital nomad visas for blockchain developer, crypto, and remote Web3 builders. Filter by continent, min income, and key requirements.',
+   description: 'Compare digital-nomad and remote-stay program references by income and continent, and explore passport entry requirements.',
   images: ['https://hashtagweb3.com/og-image-tools.png'],
  },
 };
 
 export default function DigitalNomadVisasPage() {
  return (
-  <div className="flex flex-col min-h-screen bg-background">
-    <main className="flex-grow">
-      <PageShell>
+   <NomadShell title="Visas for Digital Nomads" eyebrow="Visas & entry">
         <Suspense fallback={<div className="text-center py-16 text-muted-foreground">Loading database...</div>}>
-          <DigitalNomadVisasContent />
+           <NomadVisas programs={getNomadVisas()} countries={getPassportCountries()} />
         </Suspense>
-      </PageShell>
-    </main>
-  </div>
+   </NomadShell>
  );
 }

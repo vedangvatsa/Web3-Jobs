@@ -303,6 +303,6 @@ export const config = {
      * Note: /api routes ARE included so social crawler / UTM logic can run;
      * ?mode=agent rewrites to static /agent-view.json and skips /api/*.
      */
-     '/((?!_next/static|_next/image|favicon.ico|favicon-preview.html|icon.png|logo-bimi.svg|events$|data(?:/|$)|articles-data(?:/|$)|job-shards(?:/|$)|job-description-shards(?:/|$)|.*\\.(?:svg|png|jpg|jpeg|gif|webp|avif|ico|pdf|woff2?)$).*)',
+     '/((?!_next/static|_next/image|favicon.ico|favicon-preview.html|icon.png|logo-bimi.svg|events$|(?:jobs/(?:feed\\.(?:json|xml)|adzuna\\.xml|jora\\.xml|feed-aggregator-us\\.xml)|events/feed\\.xml|(?:adzuna|jooble|myjobhelper|sitemap)\\.xml)$|data(?:/|$)|articles-data(?:/|$)|job-shards(?:/|$)|job-description-shards(?:/|$)|.*\\.(?:svg|png|jpg|jpeg|gif|webp|avif|ico|pdf|woff2?)$).*)',
   ],
 };

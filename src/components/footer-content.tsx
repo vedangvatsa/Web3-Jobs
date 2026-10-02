@@ -4,6 +4,7 @@ import Link from 'next/link';
 
 export function FooterContent() {
   const resourceLinks = [
+  { href:"/nomads", label:"Nomad Toolkit" },
   { href:"/interview-questions", label:"Interview Questions" },
   { href:"/web3-career-quiz", label:"Archetype Assessment" },
   { href:"/salary-calculator", label:"Salary Calculator" },

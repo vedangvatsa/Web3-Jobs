@@ -2,13 +2,28 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Hashtag Web3 static catalogs",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Human website first. Machine-readable data is served as static JSON under /data/ (CDN). No hosted MCP or public REST search API."
   },
   "servers": [
     { "url": "https://hashtagweb3.com" }
   ],
   "paths": {
+    "/data/nomads/cities.json": {
+      "get": { "summary": "Nomad city reference index", "responses": { "200": { "description": "City summaries with slug, country, timezone, estimated monthly USD costs and source reference scores. See /nomad-data-notices.txt for data provenance and attribution." } } }
+    },
+    "/data/nomads/cities/{slug}.json": {
+      "get": { "summary": "One nomad city reference", "parameters": [{ "name": "slug", "in": "path", "required": true, "schema": { "type": "string" }, "description": "A slug from the city index, such as lisbon." }], "responses": { "200": { "description": "City details, cost breakdown, monthly climate, connectivity and community links." }, "404": { "description": "Unknown city" } } }
+    },
+    "/data/nomads/places.json": {
+      "get": { "summary": "Compact nomad place directory", "responses": { "200": { "description": "Object with cities (city slugs) and rows. Row fields: id, name, category index, latitude, longitude, city index, website, source quality, rating, review count, address. Categories: 0 coliving, 1 hostel, 2 apartment, 3 guesthouse, 4 coworking. Zero rating/review count means unavailable. Imported directory, not live availability; includes OpenStreetMap contributor data." } } }
+    },
+    "/data/nomads/passports.json": {
+      "get": { "summary": "Available passport reference files", "responses": { "200": { "description": "Array of passport countries with id, name and ISO code." } } }
+    },
+    "/data/nomads/passports/{id}.json": {
+      "get": { "summary": "Entry references for one passport", "parameters": [{ "name": "id", "in": "path", "required": true, "schema": { "type": "string" }, "description": "An id from the passport index, such as india." }], "responses": { "200": { "description": "Object with passport and destinations (name, iso, rule). Rule t: vf visa-free, voa visa on arrival, ev electronic visa/authorization, vr visa required, fm freedom of movement, na unavailable. Rule d: source stay length in days; zero means unspecified. Short-visit reference snapshot, not authorization to work or reside." }, "404": { "description": "Unknown passport" } } }
+    },
     "/data/jobs-runtime.json": {
       "get": {
         "summary": "Jobs catalog snapshot",

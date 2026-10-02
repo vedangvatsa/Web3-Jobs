@@ -54,6 +54,10 @@ Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client
 - News: `https://hashtagweb3.com/data/news-cache.json`
 - Articles index: `https://hashtagweb3.com/data/articles-index.json`
 - Companies: `https://hashtagweb3.com/data/companies-runtime.json`
+- Nomad city index: `https://hashtagweb3.com/data/nomads/cities.json`; details: `/data/nomads/cities/{slug}.json`
+- Nomad places: `https://hashtagweb3.com/data/nomads/places.json` (compact rows; schema in the OpenAPI description)
+- Passport index: `https://hashtagweb3.com/data/nomads/passports.json`; selected passport: `/data/nomads/passports/{id}.json`
+- Nomad data is an attributed reference snapshot, not live pricing or immigration advice. Sources: `https://hashtagweb3.com/nomad-data-notices.txt`.
 - Agent overview: `https://hashtagweb3.com/?mode=agent` (serves `/agent-view.json`)
 - OpenAPI (static catalogs): `https://hashtagweb3.com/openapi.json`
 - Legacy OpenAPI mirror: `https://hashtagweb3.com/api/openapi.json` (same schema as `/openapi.json`)
@@ -146,6 +150,7 @@ npm install @hashtag_web3_/sdk
 - [Job Description Builder](https://hashtagweb3.com/jd-builder): Generates structured Web3 job descriptions with token compensation.
 - [Freelance Invoice Generator](https://hashtagweb3.com/invoice-generator): Generates professional invoices for Web3 contractors.
 - [Digital Nomad Visa List](https://hashtagweb3.com/digital-nomad-visas): Searchable database of digital nomad visas by country.
+- [Nomad Toolkit](https://hashtagweb3.com/nomads): City guides, workspaces, living costs, city comparison, climate, rankings, timezones, Schengen day tracking, savings runway, tax scenarios, services, and a printable report.
 - [Remote Work Checklist](https://hashtagweb3.com/remote-work-checklist): Remote workspace setup and productivity checklist.
 - [Freelance Rates by Industry](https://hashtagweb3.com/freelance-rates-by-industry): Hourly and project benchmarks across tech and crypto.
 

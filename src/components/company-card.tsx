@@ -11,14 +11,16 @@ export function CompanyCard({
   logoUrl,
   faviconUrl,
   imageVariants,
+  subtitle,
 }: {
   company: CompanySummary;
   logoUrl?: string | null;
   faviconUrl?: string | null;
   imageVariants?: ResponsiveImagePlan;
+  subtitle?: string;
 }) {
   return (
-    <Link href={`/${company.slug}`} className="block h-full min-w-0">
+    <Link href={`/${company.slug}`} prefetch={false} className="block h-full min-w-0">
       <Card className="flex h-full min-w-0 flex-col border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors">
         <CardHeader className="px-4 pb-3 pt-4 min-w-0">
           <div className="flex min-w-0 items-center gap-3">
@@ -30,7 +32,7 @@ export function CompanyCard({
                 {company.name}
               </CardTitle>
               <p className="text-xs text-muted-foreground truncate mt-0.5">
-                {company.jobCount} open {company.jobCount === 1 ? 'role' : 'roles'}
+                {subtitle || `${company.jobCount} open ${company.jobCount === 1 ? 'role' : 'roles'}`}
               </p>
             </div>
           </div>

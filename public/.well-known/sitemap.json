@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-02T03:48:53.731Z",
+  "generatedAt": "2026-10-02T21:13:11.286Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8599,
+  "count": 8713,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -11111,9 +11111,9 @@
     },
     {
       "url": "https://hashtagweb3.com/digital-nomad-visas",
-      "lastmod": "2025-01-01",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
-      "priority": 0.5
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/director10",
@@ -30790,7 +30790,7 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/mkt82",
+      "url": "https://hashtagweb3.com/mkt83",
       "lastmod": "2026-09-23",
       "changefreq": "daily",
       "priority": 0.8
@@ -31222,6 +31222,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/near-exploit",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/near-protocol-explained",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -31381,6 +31387,678 @@
       "url": "https://hashtagweb3.com/nomad",
       "lastmod": "2026-10-02",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/accra",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/amsterdam",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/antalya",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/antigua",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/athens",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/bali",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/bangalore",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/bangkok",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/bansko",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/barcelona",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/batumi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/belgrade",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/berlin",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/bogota",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/bucharest",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/budapest",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/buenos-aires",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/cape-town",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/cartagena",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/cebu",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/chiang-mai",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/colombo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/cusco",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/da-nang",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/dahab",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/delhi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/dubai",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/dublin",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/dubrovnik",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/ericeira",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/florianopolis",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/goa",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/guadalajara",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/hanoi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/ho-chi-minh-city",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/hoi-an",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/istanbul",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/johor",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/kas",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/kathmandu",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/kilifi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/koh-phangan",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/komoro",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/krakow",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/kuala-lumpur",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/lagos",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/las-palmas",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/lima",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/lisbon",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/london",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/madeira-funchal",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/madrid",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/malaga",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/manila",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/marrakech",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/medellin",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/melbourne",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/merida",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/mexico-city",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/montevideo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/nairobi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/oaxaca",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/osaka",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/palermo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/paris",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/penang",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/phnom-penh",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/phuket",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/playa-del-carmen",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/porto",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/prague",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/riga",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/rio-de-janeiro",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/roatan",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/san-francisco",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/santa-marta",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/santiago",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/sao-paulo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/seoul",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/shanghai",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/siargao",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/siem-reap",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/singapore",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/sofia",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/split",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/taipei",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/tallinn",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/tbilisi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/tel-aviv",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/tenerife",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/thessaloniki",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/tirana",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/tokyo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/toronto",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/tulum",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/valencia",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/valparaiso",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/vilnius",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/warsaw",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cities/zanzibar",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/climate",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/compare",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/cost-of-living",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/places",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/rankings",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/report",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/resources",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/runway",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/schengen",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/taxes",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nomads/timezones",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -34270,7 +34948,7 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/pm210",
+      "url": "https://hashtagweb3.com/pm211",
       "lastmod": "2026-09-23",
       "changefreq": "daily",
       "priority": 0.8
@@ -42088,6 +42766,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/sec-custody",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/sec-exemption",
       "lastmod": "2026-09-17",
       "changefreq": "monthly",
@@ -45046,7 +45730,7 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/sls205",
+      "url": "https://hashtagweb3.com/sls206",
       "lastmod": "2026-09-23",
       "changefreq": "daily",
       "priority": 0.8

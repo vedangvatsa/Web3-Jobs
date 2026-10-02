@@ -2,7 +2,7 @@
   "version": 1,
   "steps": {
     "company-logos-index": {
-      "inputHash": "6edfd5f6a014d4d6"
+      "inputHash": "c45c9707b5800f48"
     },
     "learn-runtime": {
       "inputHash": "800fc88cbfe26d15"
@@ -11,7 +11,7 @@
       "inputHash": "71d4f4faa4501181"
     },
     "jobs-runtime": {
-      "inputHash": "f1f4d1c42411454f"
+      "inputHash": "e180705a70cab9e1"
     },
     "events-runtime": {
       "inputHash": "ec028cae08c4941e"
@@ -20,25 +20,28 @@
       "inputHash": "f97f77423cbe4d90"
     },
     "companies-runtime": {
-      "inputHash": "0b5adbaab0046aa8"
+      "inputHash": "4d1f0e2e0e259978"
     },
     "company-profiles": {
       "inputHash": "7ba8312bbf7bba29"
     },
     "articles-index": {
-      "inputHash": "d9d4fca71d06e5f7"
+      "inputHash": "dc220d4bf07bbe8d"
     },
     "articles-data": {
-      "inputHash": "290996d96781f6ab"
+      "inputHash": "8677e77f29fbaa79"
     },
     "slug-types": {
-      "inputHash": "c091cf8c3da965d2"
+      "inputHash": "c9a90bd03b3462ad"
     },
     "sitemap": {
-      "inputHash": "fc68997ca1a11a68"
+      "inputHash": "1ed4651c19ee7ca5"
     },
     "public-catalog-sync": {
-      "inputHash": "cf44b120d68d4992"
+      "inputHash": "0ed80946a9891e02"
+    },
+    "nomad-catalogs": {
+      "inputHash": "7dc7d8c12f5ef613"
     }
   }
 }

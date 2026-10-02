@@ -1,0 +1,27 @@
+@media print {
+  @page nomad-report { size: A4; margin: 12mm; }
+  body:has(.nomad-report) > header,
+  body:has(.nomad-report) header.sticky,
+  body:has(.nomad-report) footer,
+  body:has(.nomad-report) .nomad-navigation,
+  body:has(.nomad-report) .nomad-breadcrumb,
+  body:has(.nomad-report) [role="dialog"] {
+    display: none !important;
+  }
+  body:has(.nomad-report) {
+    page: nomad-report;
+    background: white; color: black;
+    --background: 0 0% 100%; --foreground: 0 0% 4%;
+    --card: 0 0% 100%; --card-foreground: 0 0% 4%;
+    --muted: 0 0% 96%; --muted-foreground: 0 0% 30%; --border: 0 0% 85%;
+  }
+  body:has(.nomad-report) .page-section { padding: 0; }
+  body:has(.nomad-report) .site-container { width: 100%; max-width: none; padding: 0; }
+  .nomad-report [role="region"] { overflow: visible; }
+  .nomad-report table { font-size: 9px; }
+  .nomad-report th, .nomad-report td { padding: 6px !important; white-space: normal; }
+  .nomad-report-city { break-inside: avoid; page-break-inside: avoid; }
+  .nomad-report h2, .nomad-report h3 { break-after: avoid; }
+  .nomad-report tr { break-inside: avoid; }
+  .nomad-report a { color: black; }
+}

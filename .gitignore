@@ -102,4 +102,6 @@ scripts/manual-emails*.json
 /.cache/ats-*.json
 /.cache/snapshot-reviewed-ats-identities.ts
 /.cache/repair-rain-logo.ts
+/.cache/cost-savings-baseline.json
+/.cache/nomads/
 /.agents/skills/hashtagweb3-agent-skill/

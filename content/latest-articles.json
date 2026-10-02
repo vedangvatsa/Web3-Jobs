@@ -1,5 +1,21 @@
 [
   {
+    "slug": "near-exploit",
+    "title": "NEAR Intents loses $3.8 million in smart contract exploit",
+    "description": "NEAR Intents said on Oct. 1, 2026 that a bug in its Omni deposit and withdrawal system drained about $3.8 million, pledged full reimbursement, and paused deposits and withdrawals on several blockchains.",
+    "category": "News",
+    "publishedDate": "2026-10-02",
+    "image": "/images/news/near-exploit.jpg"
+  },
+  {
+    "slug": "sec-custody",
+    "title": "SEC proposes crypto custody rules for advisers and funds",
+    "description": "The SEC proposed rules on Oct. 1, 2026 that would let investment advisers self-custody client crypto when no qualified custodian is available and allow state trust companies to serve as crypto custodians.",
+    "category": "News",
+    "publishedDate": "2026-10-02",
+    "image": "/images/news/sec-custody.jpg"
+  },
+  {
     "slug": "cobalt",
     "title": "Base Activates Cobalt Upgrade With Conditional Transactions",
     "description": "Base put its third 2026 upgrade live on mainnet, adding Validity Transactions that wait for preset conditions plus new issuer controls for its B20 token standard.",
@@ -22,21 +38,5 @@
     "category": "News",
     "publishedDate": "2026-10-01",
     "image": "/images/news/tda-sanctions.jpg"
-  },
-  {
-    "slug": "brazil-depository",
-    "title": "Brazil depository CSD BR to mirror fund records on XRP Ledger",
-    "description": "CSD BR and Ripple said on September 29 that the Brazilian depository will copy ownership records for BTG Pactual fund shares onto the public XRP Ledger while its own systems remain the official record.",
-    "category": "News",
-    "publishedDate": "2026-09-30",
-    "image": "/images/news/brazil-depository.jpg"
-  },
-  {
-    "slug": "coinbase-clearing",
-    "title": "Coinbase wins CFTC clearing license to complete US derivatives stack",
-    "description": "The CFTC registered Coinbase Clearing LLC as a derivatives clearing organization on September 28, giving Coinbase its own exchange, brokerage and clearing layers for fully collateralized US derivatives.",
-    "category": "News",
-    "publishedDate": "2026-09-30",
-    "image": "/images/news/coinbase-clearing.jpg"
   }
 ]

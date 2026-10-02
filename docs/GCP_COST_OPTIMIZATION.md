@@ -2,15 +2,109 @@
 
 Production HTML for **hashtagweb3.com** runs on **Firebase App Hosting** in **`web3-jobs-aggregator`**. Billing is expected here; the goal is to avoid **mistakes and duplicate work**, not to turn off App Hosting.
 
+## Read-only audit: October 1–2, 2026
+
+The supplied billing screenshot totals **₹2,205.59**: App Hosting ₹1,432.61,
+Cloud Run ₹522.52, Secret Manager ₹168.39, and Artifact Registry ₹82.07.
+The screenshot does not show its billing date range. The separate 3.6 GB usage
+screenshot is below the 10 GiB monthly App Hosting allowance; it is not itself
+an additional bandwidth charge.
+
+### Findings
+
+- Cloud Monitoring reported approximately **4.64 GiB** and **164,941 requests**
+  in the query window October 1, 00:00–22:01 UTC; about **84% of bytes missed
+  the CDN cache**. Treat Monitoring windows separately from the billing report.
+- A capped 12,000-request sample from 19:35–20:00 UTC contained 404 MB of
+  responses: `/events` accounted for 191 MB and `/glossary` for 42 MB. This was
+  a peak-period sample, not a complete daily or monthly traffic distribution.
+- The previous Events improvements reached production with
+  `rollout-2026-10-01-000`, which succeeded at **22:04:49 UTC**. Live Events HTML
+  measured **154,976 gzip bytes**, compared with the previously measured 782,197.
+- The live `studio` service has **1 vCPU, 2 GiB RAM, zero minimum instances**,
+  request-based CPU allocation, and revision-level maximum instances of one.
+  The October memory-utilization p99 query reached approximately **98%** for
+  `studio`. Reducing memory is not a supported saving based on this evidence.
+- Secret metadata showed **153 enabled versions across eight secret names**.
+  The deploy script unconditionally creates versions on each run. At published
+  prices, 153 automatically replicated versions retained for a full month are
+  approximately **$8.82/month** after the six-version allowance, before taxes
+  and other account usage. This is a run-rate calculation, not the screenshot's
+  historical Secret Manager charge.
+- Artifact Registry reported **0.814 GB** in `us-central1/firebaseapphosting-images`
+  and **7.391 GB** in the older `asia-south1/cloud-run-source-deploy` repository.
+  The latter still backs the legacy `web3-jobs` service. Its complete removal
+  would have an upper-bound storage saving near **$0.74/month**, but requires a
+  separate dependency and rollback-retention review. Summed image sizes overcount
+  shared layers and must not be used as storage-savings estimates.
+
+### Functionality-preserving changes prepared
+
+1. **Glossary serialization:** the directory now receives only the fields its
+   client uses. Full descriptions, synonyms and search fields are retained;
+   full article content remains available on detail pages and in the public
+   glossary catalog. Compressed listing data fell from **415,908 to 15,310 bytes**.
+   Local production HTML fell from **468,182 to 46,218 gzip bytes (90.1%)**.
+   Automatic prefetch of unopened glossary detail pages is disabled; links still
+   navigate normally.
+2. **Public feed caching:** an explicit list of public XML/JSON feed routes is
+   excluded from Next middleware, making eligible responses available to the
+   Firebase CDN. Existing feed contents, item limits and refresh settings are
+   preserved, as is `?mode=agent` behavior. Large feeds exceeding Firebase's
+   **10 MiB cache limit** are not assumed cacheable. No new compression or
+   application-level feed cache was introduced.
+3. **Idempotent secret synchronization:** with an explicit backend and working
+   gcloud authentication, the sync script compares the desired bytes against the
+   enabled latest value through a read-only API call. Identical values reuse
+   the existing version. Changed values, unavailable comparisons, disabled
+   versions, missing secrets and read failures retain the existing update path.
+   Backend access grants still run. Values and access tokens are never logged.
+
+These changes do not delete or disable secret versions, delete containers,
+alter production RAM/CPU limits, change autoscaling, or change deployment cadence.
+Existing secret versions continue to incur storage charges. The sync change
+prevents unnecessary future growth; each avoided group of eight versions avoids
+another **$0.48/month of ongoing version storage** if retained for a full month.
+
+At 10,000 glossary requests, the measured HTML reduction avoids about **3.93 GiB**
+of transfer: approximately **$0.59–$0.79** at published cached/uncached rates once
+the bandwidth allowance is exhausted. Actual monthly savings require the
+post-deployment traffic mix; this is not a guaranteed percentage of the whole bill.
+
+### Verification
+
+```sh
+npm run test:cost-savings
+npm run typecheck
+FAH_FAST_PREBUILD=1 OG_PRECOMPUTE=0 OG_FILL_MISSING=0 npm run build
+# Uses the local standalone server; set CHROME_BIN if necessary.
+npm run test:cost-savings:browser
+```
+
+The browser regression compares all 157 rendered cards against the previous
+build, exercises synonym search, alphabet/category filters, clear/reset, mobile
+layout and detail navigation, verifies feed response content and agent queries,
+and checks canonical glossary social previews. Secret-sync tests use mocked
+commands and HTTP responses; they exercise byte-exact comparison, failure
+fallback, whitespace, Unicode, access grants, CLI symlinks and output redaction.
+
+Prices: [App Hosting and associated services](https://firebase.google.com/docs/app-hosting/costs),
+[Secret Manager](https://cloud.google.com/secret-manager/pricing),
+[Firebase CDN cache eligibility](https://firebase.google.com/docs/app-hosting/optimize-cache),
+[Artifact Registry cleanup policies](https://cloud.google.com/artifact-registry/docs/repositories/cleanup-policy).
+
+The remainder of this document records earlier cost controls; automatic-push
+build behavior applies only when automatic rollouts are enabled.
+
 ## What drives spend today
 
 | Item | Why it adds up |
 |------|----------------|
-| **Cloud Build (App Hosting rollouts)** | Every **`main` push** with GitHub connected runs `npm ci` + full `npm run build` + prebuild scripts |
+| **Cloud Build (App Hosting rollouts)** | Each requested rollout runs dependency installation, build, and prebuild scripts; automatic-push builds depend on the backend's rollout policy |
 | **`OG_PRECOMPUTE=0`** on FAH; **`OG_FILL_MISSING=0`** (OG PNGs from ingest commits) | No build-time OG pass on deploy |
 | **Incremental `precompute:og-incremental`** on ingest + event publish | New/changed jobs/companies/events only |
 | **Review `OG_PRECOMPUTE`** — set `1` only for one-off full regen (`--full` previews) | Emergency only |
-| **Automated commits to `main`** | Daily jobs ingest + 3×/day publish workflows commit **`content/**`** → new rollouts. Social/alerts commits use `[skip ci]` but **still trigger App Hosting** |
+| **Automated commits to `main`** | With automatic rollouts enabled, bot commits can create extra builds; GitHub `[skip ci]` does not control Firebase's separate rollout policy |
 | **Overlapping rollouts** | Several pushes close together queue multiple builds; only the latest revision matters — older builds still bill |
 | **Artifact Registry** | `firebaseapphosting-images` storage per image layer |
 | **Runtime** | [`apphosting.yaml`](../apphosting.yaml) uses **`minInstances: 0`** (good). Traffic scales to **`maxInstances: 1`** — avoid raising min instances unless you need always-on |
@@ -34,7 +128,7 @@ Production HTML for **hashtagweb3.com** runs on **Firebase App Hosting** in **`w
 | **Prune Artifact Registry** old images | Low–medium storage |
 | **Right-size `runConfig`** in `apphosting.yaml` (CPU/RAM) if builds succeed with less | Medium runtime |
 
-Firebase App Hosting does **not** honor GitHub path filters; any push to the connected branch starts a build.
+Firebase App Hosting's automatic rollout policy is separate from GitHub Actions path filters. Check the actual backend policy before attributing build spend to every push.
 
 ## OG PNGs and preview shells (incremental)
 
@@ -42,7 +136,7 @@ Firebase App Hosting does **not** honor GitHub path filters; any push to the con
 |------|--------|
 | **Daily ingest** ([`refresh-jobs-ingest.yml`](../.github/workflows/refresh-jobs-ingest.yml)) | `npm run precompute:og-incremental` → fingerprint-new/changed job & company PNGs, prune removed slugs, update bot preview HTML → commit `public/og/` + `public/preview/` |
 | **Event publish** ([`refresh-jobs-cache.yml`](../.github/workflows/refresh-jobs-cache.yml)) | `precompute-events-runtime` + incremental previews + **`prune-stale-event-covers`** → commit `content/events-runtime.json`, `public/events/` (live covers only), preview deltas |
-| **FAH build** | No OG step; **`FAH_FAST_PREBUILD=1`** skips data regen, heavy gates, previews, sitemap, and formatting audits |
+| **FAH build** | **`FAH_FAST_PREBUILD=1`** reuses unchanged artifacts, rebuilds changed/missing dependencies, refreshes preview metadata, and runs smoke gates; full OG PNG generation is off |
 
 **One-time:** After merging this flow, seed git with existing assets (if not already committed):
 

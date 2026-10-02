@@ -147,9 +147,9 @@ export default async function CategoryPage({
       <PageShell>
       <div className="max-w-3xl">
        <nav className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
-        <Link href="/" className="hover:text-foreground">Home</Link>
+         <Link href="/" prefetch={false} className="hover:text-foreground">Home</Link>
         <span aria-hidden="true">/</span>
-        <Link href="/glossary" className="hover:text-foreground">Glossary</Link>
+         <Link href="/glossary" prefetch={false} className="hover:text-foreground">Glossary</Link>
         <span aria-hidden="true">/</span>
         <span className="text-foreground">{category.name}</span>
        </nav>
@@ -196,7 +196,7 @@ export default async function CategoryPage({
        </div>
        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {beginnerTerms.map((term) => (
-         <Link key={term.slug} href={`/${term.slug}`}>
+          <Link key={term.slug} href={`/${term.slug}`} prefetch={false}>
           <Card className="group hover:border-primary hover:shadow-sm transition-all h-full">
            <CardContent className="p-5">
             <h3 className="font-bold text-lg group-hover:text-foreground transition-colors mb-2">
@@ -222,7 +222,7 @@ export default async function CategoryPage({
        </div>
        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {intermediateTerms.map((term) => (
-         <Link key={term.slug} href={`/${term.slug}`}>
+          <Link key={term.slug} href={`/${term.slug}`} prefetch={false}>
           <Card className="group hover:border-primary hover:shadow-sm transition-all h-full">
            <CardContent className="p-5">
             <h3 className="font-bold text-lg group-hover:text-foreground transition-colors mb-2">
@@ -248,7 +248,7 @@ export default async function CategoryPage({
        </div>
        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {advancedTerms.map((term) => (
-         <Link key={term.slug} href={`/${term.slug}`}>
+          <Link key={term.slug} href={`/${term.slug}`} prefetch={false}>
           <Card className="group hover:border-primary hover:shadow-sm transition-all h-full">
            <CardContent className="p-5">
             <h3 className="font-bold text-lg group-hover:text-foreground transition-colors mb-2">
