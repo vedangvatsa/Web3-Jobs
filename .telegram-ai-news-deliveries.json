@@ -401,5 +401,38 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 193310,
     "sentAt": "2026-10-02T04:07:36.349Z"
+  },
+  "498201d0-b82a-4c78-b431-fab176ac7e80": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T11:34:16.483Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Hearing tech startup Legato launches its AI hearing glasses",
+        "headline": "Legato releases AI-integrated hearing glasses",
+        "summary": "The hardware uses onboard machine learning to improve audio accessibility and reduce costs compared to traditional medical devices.",
+        "event_rationale": "This represents a notable deployment of AI in consumer hardware for medical accessibility, distinct from software-only model releases.",
+        "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "source": "TechCrunch",
+        "originalTitle": "Hearing tech startup Legato launches its AI hearing glasses"
+      },
+      {
+        "index": 1,
+        "headline": "New contest rewards people for reducing their biological age",
+        "summary": "Participants track health metrics to see who can achieve the greatest decrease in cellular aging.",
+        "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+        "source": "MIT Tech Review",
+        "originalTitle": "A new contest pits competitors against each other in a race to biological youth"
+      },
+      {
+        "index": 2,
+        "headline": "Large language models lack genuine reasoning capabilities",
+        "summary": "An AI developer uses AlphaGo's famous move to explain why language models cannot truly reason.",
+        "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Don’t be fooled—LLMs don’t reason"
+      }
+    ],
+    "slotKey": "2026-10-02:afternoon"
   }
 }
