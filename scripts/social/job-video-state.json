@@ -396,6 +396,11 @@
           "postId": "18141746440521136",
           "url": "https://www.instagram.com/reel/Dd_Yhvpkwob/",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "creating",
+          "text": "SF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:11.095Z"
         }
       }
     },
