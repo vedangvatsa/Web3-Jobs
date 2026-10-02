@@ -1,5 +1,5 @@
 {
-  "lastIndex": 321,
+  "lastIndex": 323,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -133,7 +133,9 @@
     "mgr86",
     "mgr85",
     "int15",
-    "eng325"
+    "eng325",
+    "ops69",
+    "dsf"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4648,516 +4650,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0x4b6b73073e5796238deada61a1595e83083788da",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0x7aff0eaae912573330edda99f449581514232ba1",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0xc50ac145aff77238d90c14aa5410435af99d474f",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0xd19a26c865e0bb61a5a299784486a3b007e3e777",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0xfe75e9f5ca555fe8e6cd3230d018cc8425da94c6",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0x0cfd2898824cb6d78bae836dcbb51b99a6e34f24",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0xca6908885895259f841516f7d663674fb8baceea",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "0xfbf8ee5a91baf2068dab25f997b6d38a01d086d4",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "6abb393f93a81b612b5aa5df",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "6abb394a7889d8281c288401",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "urn:li:share:7510550622203584514",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "facebook",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "691827047618629_1101126882494546",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm2",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "instagram",
-      "postedAt": "2026-09-29T04:06:04.107Z",
-      "postId": "17910564975472529",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "x",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "6abb397193a81b612b5aadce",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Elliptic is hiring Solution Consulting Manager\n\nhttps://hashtagweb3.com/mgr63/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104785041716855105"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "threads",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "18093440186405305",
-      "verification": "verified",
-      "expectedText": "Elliptic is hiring Solution Consulting Manager: https://hashtagweb3.com/mgr63/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd23Socmyb_",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwmxd7uqfd2t",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x4dcdf23117a80c334ed7188485c6fc1c3f0c599c",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x5db5b10d5aebe186a8606e8daf8eebe49b35a298",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x44dd5e5bc56687d841790c7853e145d2d312f3ec",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0xa26b66e43f5acd0def5c7f8c5f5d6b040dc1f50d",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0xd05b571bdad840717e235bb52f67fcf26e6fb79b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x1ffaf2f29f13bc85c93ad01fd4740bf6730f79fd",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x4ce79a10344b06cb0810c770b6e642bdc694f934",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x66cc524080207217fb93ec43319646469f27beab",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x4db6adb4e9580490ea0e5c7e0870d082ba2f8a78",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x6ecfae01e0d2a89a9225a2dd62ebdb739c4c6d5c",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x2289bd642f278c740fedae98f194f6c7cb2eb9bb",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0xde7d9290c0520895a096425cd71fe294bb5d34da",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0xcac69f8b815f9c3e9afc911e841fab26c6cab86b",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x2b713a2d0e5893ce00a35bc3e1224cdacb191886",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x837cd06a75219dc4912338b29820d571cc4681d2",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x49d62b3e0dde1fa9ea29f149fb02dfcaf50ec477",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "0x24a0d6912a32e386f3f841405d91fc4d6130195d",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "6abb39877889d8281c288b24",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "6abb399185cca6b1297b216f",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "urn:li:share:7510550912592089088",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "facebook",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "691827047618629_1101127525827815",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr63",
-      "company": "Elliptic",
-      "title": "Solution Consulting Manager",
-      "platform": "instagram",
-      "postedAt": "2026-09-29T04:07:13.114Z",
-      "postId": "17927256393421766",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "x",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "6abb8c5378e14425927fb2e4",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "GoMining is hiring General Manager - Custody & Compliance\n\nhttps://hashtagweb3.com/cmp57/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104874040900907434"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "threads",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "18018097370945090",
-      "verification": "verified",
-      "expectedText": "GoMining is hiring General Manager - Custody & Compliance: https://hashtagweb3.com/cmp57/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd3fw5hINT-",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "bluesky",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwnl3kwqce26",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0xb018c130c04b3d8fb7acbfe19c5b2536fb9033cf",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x248763fee985fa9c52c466cf96738e82df344674",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0xcf4a95a8cdf99a6819d63e9239c45ac5cf4f3a53",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x66239cb3a9fc7d11f81a669e144452cdd9df3cfb",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x20a171c99b439b5cd0b5eadb5d705a4ae2326717",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x04a9f3223f0930b9d8d130d02a2c003fa16f94f6",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x993c413d55973e84879fa43100b18ea73789e75c",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x4baa67157d4b4a0df2bb39e7e18353a6725beda0",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0xe1ba158f7d9f0a900257ef1c480ec6bd508ada90",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10110,6 +9602,516 @@
       "platform": "instagram",
       "postedAt": "2026-10-02T11:33:05.066Z",
       "postId": "18092622017662227",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "x",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "6ac006ba918015097ad60391",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "River Financial is hiring Client Operations Associate - Remote\n\nhttps://hashtagweb3.com/ops69/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106104978909639014"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "threads",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "17982720177091500",
+      "verification": "verified",
+      "expectedText": "River Financial is hiring Client Operations Associate - Remote: https://hashtagweb3.com/ops69/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeAPh1tDylT",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "bluesky",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mww4fuphqk22",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x0d99394904d4335386c651e3d1615ebbed653a49",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0xf8124da84c8a7a4bd38e2386d4423bd542a4038a",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0xbd0784bd971d1ddc8bb66adc39bb1d816875c7da",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0xac49d61f0d287cc4ea6dba6b177def888a0f9760",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x8dfabf7f2c3005044cfdc485f73688b0d99ea89c",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0xedefd3b5c3d22f07e7fbe2d026646e33e6cbae7a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x31806845e9a105bc8d1cc8f04ef5ea8ec7069980",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0xe9856987be6756902f035a1f026a279f8b0fcf60",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x2b85e773d8b6c7996afd8cc6d59a691393ca0441",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x3f356985b46ee14c28d2ac8c08d0cb2ec13d00d3",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x5b43c96b9be7db3099b8305f4986b0ad744615f6",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x3e72c01d881002b4257b8996ab4fab96aeb5bf9b",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x4ea7dcc0669f46b3d11400e94672816f03b586ea",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0xbe7dae6176e29789e9f54ae0172ea1477dd55a6c",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x19cb32c12e842596225671c7a4000ad2f7ad8873",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0x9122aaa553efda340ebb9d8fd578a7025e2aab1f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "0xbc17751f43fc1b5a16171cdf5f0b4cf9fd3d43f3",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "6ac006cea82b64098f42577c",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "6ac006d84d76cf8285c79d5e",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "urn:li:share:7511870840427343872",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "facebook",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "691827047618629_1104765588797342",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops69",
+      "company": "River Financial",
+      "title": "Client Operations Associate - Remote",
+      "platform": "instagram",
+      "postedAt": "2026-10-02T19:32:10.579Z",
+      "postId": "18103674578366677",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "x",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "6ac006fa918015097ad6093e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Zero Hash is hiring Director of Strategic Finance\n\nhttps://hashtagweb3.com/dsf/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106105243285020813"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "threads",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "17942860908089444",
+      "verification": "verified",
+      "expectedText": "Zero Hash is hiring Director of Strategic Finance: https://hashtagweb3.com/dsf/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeAPpiVjx_u",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "bluesky",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mww4houlh62u",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x80a685b967371c79253708a1de95505f508a58e2",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0xd2d96e7c9cb84e32461ae923038e5b76e66d5eb3",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0xc0c728e3e40ce61f662f44c9bbd4fa6dd1505d39",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x1e9805cdea0f2814f688116a6c5805d7c44e9082",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x08e9739a10193aaeac48647cb194a208ac6d8844",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0xc4a61cd5b588995488ab2731e36f16f0a3a3e8e6",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x23f2b974fe7211c222c9449f6bfed08daa373807",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x0a000ee8d524406dda903885b3d76bfb06c105fa",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0xd5c1a5a05107b55bb60f40e682c0055ab762802e",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x88240e63e7de9c821ff83917cd272c34202b7138",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x99f57da39d2d6b745e61a82411a624eb65dbc357",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0xce531016988d74d599e1f262c6ddc95634bb8c5a",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x5b51f97dc480c868d6690e09d671039429b4b440",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x157c9b7027556264d6ca794d94e9efb7114b2a36",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0x590d9e66c49cbffea3af1da8907bf4fce417fe57",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0xc7f42a5b5e0d7ca9a864d2c2c5b5e6c4136f5dc4",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "0xaf29b8288aca4eecc35abe3a612396e854687a76",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "6ac0070ba82b64098f4260b2",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "6ac007159df0308ea07c5c05",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "urn:li:share:7511871094526590976",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "facebook",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "691827047618629_1104766272130607",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsf",
+      "company": "Zero Hash",
+      "title": "Director of Strategic Finance",
+      "platform": "instagram",
+      "postedAt": "2026-10-02T19:33:13.727Z",
+      "postId": "17864831793677825",
       "verification": "verified"
     }
   ]
