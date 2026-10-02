@@ -322,7 +322,7 @@
     "sentAt": "2026-10-02T04:06:41.561Z"
   },
   "a789b7d0-3ca2-408f-8404-320a666c4676": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T11:32:15.782Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -363,6 +363,8 @@
       }
     ],
     "message": "• Blockchain.com is hiring <a href=\"https://hashtagweb3.com/marketing188?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Performance Marketing Specialist</a>\n• Trail of Bits is hiring <a href=\"https://hashtagweb3.com/devrel3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Developer Relations Engineer</a>\n• Squads is hiring <a href=\"https://hashtagweb3.com/operations97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Operations</a>\n• Mural is hiring <a href=\"https://hashtagweb3.com/eng173?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Forward Deployed Engineer</a>\n• Fun.xyz is hiring <a href=\"https://hashtagweb3.com/compliance115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Compliance</a>",
-    "slotKey": "2026-10-02:afternoon"
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 155562,
+    "sentAt": "2026-10-02T11:32:20.184Z"
   }
 }
