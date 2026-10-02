@@ -462,5 +462,37 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 65720,
     "sentAt": "2026-10-02T04:07:58.096Z"
+  },
+  "c737c44e-9068-4938-b39e-718a701c76d6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T11:34:38.164Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC Proposes Crypto Custody Rules for Investment Advisers",
+        "summary": "Proposed SEC rules allow advisers to self-custody crypto assets and let state trust companies serve as custodians.",
+        "link": "https://hashtagweb3.com/sec-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC proposes crypto custody rules for advisers and funds"
+      },
+      {
+        "index": 2,
+        "headline": "US Treasury designates Russia's A7 Network as criminal group",
+        "summary": "Federal rules aim to block front companies linked to a ruble token that processed 179 billion dollars.",
+        "event_rationale": "Covers US sanctions targeting Russia's A7 crypto network, distinct from previous enforcement actions.",
+        "link": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+        "source": "Decrypt",
+        "originalTitle": "US Designates Russia's A7 Network as Transnational Criminal Organization"
+      },
+      {
+        "index": 1,
+        "headline": "Cboe Seeks 24/7 Trading for VIX Index Products",
+        "summary": "The exchange operator plans to expand options trading on its volatility benchmark to a continuous daily schedule.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+        "source": "CoinDesk",
+        "originalTitle": "Cboe wants to turn VIX into a never-ending trade"
+      }
+    ],
+    "slotKey": "2026-10-02:afternoon"
   }
 }
