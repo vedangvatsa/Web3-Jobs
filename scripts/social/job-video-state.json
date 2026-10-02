@@ -24,6 +24,10 @@
     "2026-10-02:afternoon": [
       "pm157",
       "pm156"
+    ],
+    "2026-10-02:evening": [
+      "mgr88",
+      "pro"
     ]
   },
   "jobs": {
@@ -445,6 +449,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7692032039763135776"
         }
       }
+    },
+    "mgr88": {
+      "slot": "2026-10-02:evening",
+      "selectedAt": "2026-10-02T19:31:24.232Z",
+      "verifiedAt": "2026-10-02T19:31:24.232Z",
+      "captions": {
+        "instagram": "Bitdeer is hiring\nPayroll Manager\n\nAustin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Payroll Manager at Bitdeer. Austin, TX.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Austin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Payroll Manager at Bitdeer"
+      },
+      "receipts": {}
+    },
+    "pro": {
+      "slot": "2026-10-02:evening",
+      "selectedAt": "2026-10-02T19:31:24.232Z",
+      "verifiedAt": "2026-10-02T19:31:24.232Z",
+      "captions": {
+        "instagram": "Stripe is hiring\nProposal Lead\n\nChicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Proposal Lead at Stripe. Chicago; Atlanta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Chicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Proposal Lead at Stripe"
+      },
+      "receipts": {}
     }
   }
 }
