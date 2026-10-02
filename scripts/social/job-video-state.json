@@ -350,11 +350,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "eToro is hiring\nIT Service Specialist -Student Position\n\nTel Aviv District\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T03:44:10.487Z",
           "containerId": "17915884953461009",
-          "postId": "17990877663061538"
+          "postId": "17990877663061538",
+          "url": "https://www.instagram.com/reel/Dd-jC6MDVaa/"
         }
       }
     }
