@@ -497,5 +497,53 @@
     "slotKey": "2026-10-02:afternoon",
     "messageId": 155561,
     "sentAt": "2026-10-02T11:31:55.345Z"
+  },
+  "e68bbeaa-d447-4ac4-ae56-b17393761953": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T19:32:47.904Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtsfWWgUmXLgec2",
+        "slug": "qntyo9af",
+        "name": "Bitcoin Indonesia Community Meetup Bogor 03 Oktober 2026",
+        "startDate": "2026-10-03T06:00:00.000Z",
+        "keys": [
+          "luma-batch-evtsfwwgumxlgec2",
+          "page:qntyo9af:2026-10-03",
+          "luma:evt-sfwwgumxlgec2mj",
+          "luma-url:/qntyo9af",
+          "event:bitcoinindonesiacommunitymeetupbogor03oktober2026:2026-10-03:bogor"
+        ]
+      },
+      {
+        "id": "kbw-official-lambda256-join-the-blockchain-node-crew-10-03",
+        "slug": "ljbnc",
+        "name": "[Lambda256] Join the Blockchain Node Crew ! - 신입 크루 집중 모집",
+        "startDate": "2026-10-03T07:00:00.000Z",
+        "keys": [
+          "kbw-official-lambda256-join-the-blockchain-node-crew-10-03",
+          "page:ljbnc:2026-10-03",
+          "luma:evt-lf6z1zat3n1uw0y",
+          "luma-url:/e9vm2gbc",
+          "event:lambda256jointheblockchainnodecrew신입크루집중모집:2026-10-03:"
+        ]
+      },
+      {
+        "id": "luma-batch-evtKTCZ094vbXb63",
+        "slug": "4v245j3v",
+        "name": "AI × Bitcoin: Create Faster, Own Your Audience",
+        "startDate": "2026-10-03T07:00:00.000Z",
+        "keys": [
+          "luma-batch-evtktcz094vbxb63",
+          "page:4v245j3v:2026-10-03",
+          "luma:evt-ktcz094vbxb63bc",
+          "luma-url:/4v245j3v",
+          "event:aibitcoincreatefasterownyouraudience:2026-10-03:kuala lumpur"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-02:evening"
   }
 }
