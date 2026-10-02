@@ -358,10 +358,11 @@
           "url": "https://www.instagram.com/reel/Dd-jC6MDVaa/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Tel Aviv District\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T03:45:02.845Z",
-          "postId": "6abf28c08bccc8e641687b0c"
+          "postId": "6abf28c08bccc8e641687b0c",
+          "url": "https://www.youtube.com/watch?v=DmWt4iVoyO0"
         }
       }
     }
