@@ -436,5 +436,38 @@
     "slotKey": "2026-10-02:afternoon",
     "messageId": 193311,
     "sentAt": "2026-10-02T11:34:19.180Z"
+  },
+  "49eb166e-7633-41ea-95b2-beed5db8dab4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T19:33:49.211Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+        "headline": "US arrests executive for smuggling Nvidia chips to China",
+        "summary": "Federal authorities charged a technology executive with illegally exporting three hundred million dollars worth of restricted hardware.",
+        "event_rationale": "This covers a major federal enforcement action targeting the illegal export of restricted hardware to China.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+        "source": "Ars Technica",
+        "originalTitle": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China"
+      },
+      {
+        "index": 1,
+        "headline": "TechCrunch offers $75 Disrupt 2026 passes for laid-off workers",
+        "summary": "The first 100 qualifying individuals can purchase an Expo+ Pass at a reduced rate for the upcoming event.",
+        "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "source": "TechCrunch",
+        "originalTitle": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass"
+      },
+      {
+        "index": 3,
+        "headline": "Apple to restrict macOS Full Disk Access over AI risks",
+        "summary": "The company will limit file permissions because capable AI assistants increase security risks to personal user data.",
+        "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "source": "TechCrunch",
+        "originalTitle": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
+      }
+    ],
+    "slotKey": "2026-10-02:evening"
   }
 }
