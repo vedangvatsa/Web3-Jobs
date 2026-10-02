@@ -596,5 +596,49 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 16494,
     "sentAt": "2026-10-02T04:06:30.413Z"
+  },
+  "35c42980-15fb-40b2-8235-caedf83f48b5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T04:06:32.299Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "7462961",
+        "slug": "devops20",
+        "url": "https://hashtagweb3.com/devops20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Infrastructure Engineer"
+      },
+      {
+        "key": "327855d4-3e0d-4495-8edf-8ee39336dda5",
+        "slug": "head2",
+        "url": "https://hashtagweb3.com/head2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Arbitrum",
+        "title": "Head of Foundation"
+      },
+      {
+        "key": "yzilabs-1972ca13-10b8-49f0-9835-ed67c2f5c730",
+        "slug": "sls79",
+        "url": "https://hashtagweb3.com/sls79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Cournot",
+        "title": "Business Development Manager"
+      },
+      {
+        "key": "JR100881",
+        "slug": "product582",
+        "url": "https://hashtagweb3.com/product582?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Circle",
+        "title": "Principal Product Manager"
+      },
+      {
+        "key": "8241522",
+        "slug": "eng364",
+        "url": "https://hashtagweb3.com/eng364?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "Software Engineer"
+      }
+    ],
+    "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/devops20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Infrastructure Engineer</a>\n• Arbitrum is hiring <a href=\"https://hashtagweb3.com/head2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Foundation</a>\n• Cournot is hiring <a href=\"https://hashtagweb3.com/sls79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Manager</a>\n• Circle is hiring <a href=\"https://hashtagweb3.com/product582?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Principal Product Manager</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/eng364?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>",
+    "slotKey": "2026-10-02:morning"
   }
 }
