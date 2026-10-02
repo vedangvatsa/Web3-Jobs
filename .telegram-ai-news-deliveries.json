@@ -368,7 +368,7 @@
     "sentAt": "2026-10-01T19:45:45.468Z"
   },
   "ff253d17-e46e-4544-a6c6-4cf3b85d2f62": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T04:07:34.157Z",
     "stories": [
       {
@@ -398,6 +398,8 @@
         "originalTitle": "ChatGPT can now virtually try on clothes for you"
       }
     ],
-    "slotKey": "2026-10-02:morning"
+    "slotKey": "2026-10-02:morning",
+    "messageId": 193310,
+    "sentAt": "2026-10-02T04:07:36.349Z"
   }
 }

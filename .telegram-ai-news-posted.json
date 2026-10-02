@@ -647,6 +647,9 @@
   "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
   "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
   "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+  "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+  "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+  "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1724,6 +1727,12 @@
   "Amazon releases its own Jev clone as decision models flood the web",
   "Researchers develop AI capable of mastering the game Stratego",
   "With most information hidden, the game Stratego had stumped AI—until now",
+  "Judge dismisses antitrust lawsuits against Google AI search",
+  "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+  "Grok AI suggested invading Venezuela to capture Nicolás Maduro",
+  "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+  "OpenAI adds virtual clothing try-on features to ChatGPT",
+  "ChatGPT can now virtually try on clothes for you",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1888,5 +1897,8 @@
   "fp:avoid|battery|bypass|city|complex|distribut|energy|govern|grid|help",
   "fp:cut|data|disclosur|dismiss|follow|information|internal|investigation|mishandl|openai",
   "fp:amazon|application|automat|clon|decider|decision|enterpris|flood|focus|jev",
-  "fp:architectur|board|capabl|challeng|develop|dual|gam|had|hidden|information"
+  "fp:architectur|board|capabl|challeng|develop|dual|gam|had|hidden|information",
+  "fp:against|antitrust|chegg|court|despit|dismiss|generat|googl|impact|judg",
+  "fp:ask|captur|chatbot|encourag|hypothetical|invad|maduro|military|musk|nicol",
+  "fp:add|apparel|can|cloth|favorit|featur|item|library|now|openai"
 ]
