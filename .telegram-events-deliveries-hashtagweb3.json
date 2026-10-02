@@ -448,5 +448,52 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 155545,
     "sentAt": "2026-10-02T04:06:22.171Z"
+  },
+  "2ede5052-2e39-48b1-b099-f3a2b0625076": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T11:31:50.638Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-wob-madrid-2026",
+        "slug": "wobitcoin",
+        "name": "Watch Out Bitcoin 2026",
+        "startDate": "2026-10-02T16:00:00+02:00",
+        "keys": [
+          "premier-wob-madrid-2026",
+          "page:wobitcoin:2026-10-02",
+          "event:watchoutbitcoin2026:2026-10-02:madrid"
+        ]
+      },
+      {
+        "id": "kbw-xrp-seoul-2026",
+        "slug": "xrp-seoul",
+        "name": "XRP Seoul 2026",
+        "startDate": "2026-10-03T01:00:00.000Z",
+        "keys": [
+          "kbw-xrp-seoul-2026",
+          "kbw-official-xrp-seoul-2026-10-03",
+          "page:xrp-seoul:2026-10-03",
+          "luma:evt-vwdmfekhpbdcoc8",
+          "luma-url:/wm5ub5wk",
+          "event:xrpseoul2026:2026-10-03:seoul"
+        ]
+      },
+      {
+        "id": "luma-batch-yNeFHGW3OsMkSd9",
+        "slug": "jiogurpk",
+        "name": "Solana Build Day Tokyo｜Solana × AI 実践ワークショップ",
+        "startDate": "2026-10-03T04:00:00.000Z",
+        "keys": [
+          "luma-batch-ynefhgw3osmksd9",
+          "page:jiogurpk:2026-10-03",
+          "luma:evt-ynefhgw3osmksd9",
+          "luma-url:/jiogurpk",
+          "event:solanabuilddaytokyosolanaai実践ワークショップ:2026-10-03:chiyoda"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-02:afternoon"
   }
 }
