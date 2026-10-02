@@ -736,7 +736,7 @@
     "sentAt": "2026-10-02T11:32:07.277Z"
   },
   "666e5cd6-f378-417a-850d-2b0235382c53": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T19:32:31.917Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -777,6 +777,8 @@
       }
     ],
     "message": "• Bybit is hiring <a href=\"https://hashtagweb3.com/product239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Regulatory Compliance Manager</a>\n• River Financial is hiring <a href=\"https://hashtagweb3.com/ops69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Client Operations Associate</a>\n• Crossmint is hiring <a href=\"https://hashtagweb3.com/compliance151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engineering Manager</a>\n• BitGo is hiring <a href=\"https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Backend Engineer E2</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/eng374?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
-    "slotKey": "2026-10-02:evening"
+    "slotKey": "2026-10-02:evening",
+    "messageId": 16496,
+    "sentAt": "2026-10-02T19:32:34.682Z"
   }
 }
