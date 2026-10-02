@@ -274,5 +274,49 @@
     "slotKey": "2026-10-01:evening",
     "messageId": 155543,
     "sentAt": "2026-10-01T19:44:06.733Z"
+  },
+  "66df2f5e-f14a-4a9a-af8d-4264e5d5089c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T04:06:38.822Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "5413464008",
+        "slug": "cmp20",
+        "url": "https://hashtagweb3.com/cmp20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mesh",
+        "title": "Compliance Officer"
+      },
+      {
+        "key": "95264387-5c76-4d79-b5a2-45c7758ff4d2",
+        "slug": "operations21",
+        "url": "https://hashtagweb3.com/operations21?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Operations Specialist"
+      },
+      {
+        "key": "8036506",
+        "slug": "eng345",
+        "url": "https://hashtagweb3.com/eng345?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "key": "8009030003",
+        "slug": "mkt71",
+        "url": "https://hashtagweb3.com/mkt71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Manager / Expert"
+      },
+      {
+        "key": "644cd89d-505e-49e6-b9ea-e26c07e17aa5",
+        "slug": "designer27",
+        "url": "https://hashtagweb3.com/designer27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stellar",
+        "title": "Brand Designer"
+      }
+    ],
+    "message": "• Mesh is hiring <a href=\"https://hashtagweb3.com/cmp20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Compliance Officer</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/operations21?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Operations Specialist</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/eng345?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Staff Software Engineer</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/mkt71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Manager / Expert</a>\n• Stellar is hiring <a href=\"https://hashtagweb3.com/designer27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Brand Designer</a>",
+    "slotKey": "2026-10-02:morning"
   }
 }
