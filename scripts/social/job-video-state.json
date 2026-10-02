@@ -500,6 +500,11 @@
           "text": "Stripe is hiring\nProposal Lead\n\nChicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T19:32:54.552Z",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "creating",
+          "text": "Chicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:57.759Z"
         }
       }
     }
