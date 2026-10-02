@@ -780,5 +780,49 @@
     "slotKey": "2026-10-02:evening",
     "messageId": 16496,
     "sentAt": "2026-10-02T19:32:34.682Z"
+  },
+  "23cfb3a8-80aa-47ba-84e3-7074d1dd760e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T19:32:38.270Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "4875932101",
+        "slug": "product239",
+        "url": "https://hashtagweb3.com/product239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Regulatory Compliance Manager"
+      },
+      {
+        "key": "3e9850fe-8a07-4618-b21b-2b860bf59cca",
+        "slug": "ops69",
+        "url": "https://hashtagweb3.com/ops69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "River Financial",
+        "title": "Client Operations Associate"
+      },
+      {
+        "key": "fa96dac4-3ce2-4419-8493-c52b794cde79",
+        "slug": "compliance151",
+        "url": "https://hashtagweb3.com/compliance151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crossmint",
+        "title": "Engineering Manager"
+      },
+      {
+        "key": "8644530002",
+        "slug": "backend97",
+        "url": "https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Backend Engineer E2"
+      },
+      {
+        "key": "302763fa-de93-4796-b887-0f6491c7499c",
+        "slug": "eng374",
+        "url": "https://hashtagweb3.com/eng374?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Toku",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Bybit is hiring <a href=\"https://hashtagweb3.com/product239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Regulatory Compliance Manager</a>\n• River Financial is hiring <a href=\"https://hashtagweb3.com/ops69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Client Operations Associate</a>\n• Crossmint is hiring <a href=\"https://hashtagweb3.com/compliance151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engineering Manager</a>\n• BitGo is hiring <a href=\"https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Backend Engineer E2</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/eng374?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-02:evening"
   }
 }
