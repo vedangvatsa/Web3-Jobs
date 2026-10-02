@@ -1,0 +1,502 @@
+{
+  "/images/nomads/chiang-mai.webp": {
+    "base": "/images/nomads/display/chiang-mai-bd48a0e8cdae109b",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/bangalore.webp": {
+    "base": "/images/nomads/display/bangalore-3a538575b7cdfb87",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/da-nang.webp": {
+    "base": "/images/nomads/display/da-nang-9879a8344b9b8085",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/koh-phangan.webp": {
+    "base": "/images/nomads/display/koh-phangan-d5b362a71738a9b2",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/kuala-lumpur.webp": {
+    "base": "/images/nomads/display/kuala-lumpur-236adaff7567263d",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/manila.webp": {
+    "base": "/images/nomads/display/manila-3db547613b69456b",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/penang.webp": {
+    "base": "/images/nomads/display/penang-9bf75ab6f5b61259",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/phnom-penh.webp": {
+    "base": "/images/nomads/display/phnom-penh-fd7243a1a7525f16",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/siem-reap.webp": {
+    "base": "/images/nomads/display/siem-reap-9c732e73d65983d3",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/hanoi.webp": {
+    "base": "/images/nomads/display/hanoi-8d0dd5d3e836b72f",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/cebu.webp": {
+    "base": "/images/nomads/display/cebu-fd70e2453b7aa36c",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/playa-del-carmen.webp": {
+    "base": "/images/nomads/display/playa-del-carmen-467c9027a822db8f",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/bali.webp": {
+    "base": "/images/nomads/display/bali-3b7c62f8c826c11f",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/ho-chi-minh-city.webp": {
+    "base": "/images/nomads/display/ho-chi-minh-city-e0aea997e55377a4",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/taipei.webp": {
+    "base": "/images/nomads/display/taipei-937ad4e895c096ee",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/bangkok.webp": {
+    "base": "/images/nomads/display/bangkok-bbedeaa10e2ee13b",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/zanzibar.webp": {
+    "base": "/images/nomads/display/zanzibar-8d65d8b49134ebf0",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/delhi.webp": {
+    "base": "/images/nomads/display/delhi-a11caa64a260e861",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/goa.webp": {
+    "base": "/images/nomads/display/goa-e43e31112bc24598",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/las-palmas.webp": {
+    "base": "/images/nomads/display/las-palmas-7a26ff04c815cfbc",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/medellin.webp": {
+    "base": "/images/nomads/display/medellin-7dfccb210c964e83",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/phuket.webp": {
+    "base": "/images/nomads/display/phuket-564c007ef97d3f71",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/tulum.webp": {
+    "base": "/images/nomads/display/tulum-e55a3d5a94ea86c9",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/marrakech.webp": {
+    "base": "/images/nomads/display/marrakech-59c4e4d66393ed13",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/cartagena.webp": {
+    "base": "/images/nomads/display/cartagena-b83824da6ad3396a",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/oaxaca.webp": {
+    "base": "/images/nomads/display/oaxaca-c5eadfe9d36e30f4",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/cape-town.webp": {
+    "base": "/images/nomads/display/cape-town-026d8b4010f10ba6",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/kathmandu.webp": {
+    "base": "/images/nomads/display/kathmandu-8fc645fe50006d19",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/buenos-aires.webp": {
+    "base": "/images/nomads/display/buenos-aires-86629228bda1a87e",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/mexico-city.webp": {
+    "base": "/images/nomads/display/mexico-city-e2828b00bbf39bee",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/accra.webp": {
+    "base": "/images/nomads/display/accra-34a9f5ef60c73224",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/bansko.webp": {
+    "base": "/images/nomads/display/bansko-d464520a884efaa5",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/hoi-an.webp": {
+    "base": "/images/nomads/display/hoi-an-2034f6251366dd12",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/siargao.webp": {
+    "base": "/images/nomads/display/siargao-9b50c0fce705fe44",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/malaga.webp": {
+    "base": "/images/nomads/display/malaga-9289109ed44197fa",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/porto.webp": {
+    "base": "/images/nomads/display/porto-21962e0aca290438",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/tbilisi.webp": {
+    "base": "/images/nomads/display/tbilisi-bee8cc0efbfe30d1",
+    "width": 768,
+    "height": 480
+  },
+  "/images/nomads/tenerife.webp": {
+    "base": "/images/nomads/display/tenerife-7ad35ac2ce19bc81",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/ericeira.webp": {
+    "base": "/images/nomads/display/ericeira-6381f4a2fd77409f",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/athens.webp": {
+    "base": "/images/nomads/display/athens-212d6be7684de7ba",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/colombo.webp": {
+    "base": "/images/nomads/display/colombo-6754a4ccf6c976f6",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/nairobi.webp": {
+    "base": "/images/nomads/display/nairobi-8ee6a59961a4580b",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/lagos.webp": {
+    "base": "/images/nomads/display/lagos-e89ca2518beab8a4",
+    "width": 720,
+    "height": 450
+  },
+  "/images/nomads/warsaw.webp": {
+    "base": "/images/nomads/display/warsaw-4844323917fe7625",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/budapest.webp": {
+    "base": "/images/nomads/display/budapest-bfd8afd63f6d6a6c",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/sofia.webp": {
+    "base": "/images/nomads/display/sofia-e4f211fb4d76fe28",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/istanbul.webp": {
+    "base": "/images/nomads/display/istanbul-7dcfb714a458a7bf",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/barcelona.webp": {
+    "base": "/images/nomads/display/barcelona-2985545bb2841201",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/lisbon.webp": {
+    "base": "/images/nomads/display/lisbon-d6b2b8036bbdc253",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/split.webp": {
+    "base": "/images/nomads/display/split-603bfc298e0164f9",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/dubai.webp": {
+    "base": "/images/nomads/display/dubai-acb133899b0d86b2",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/dahab.webp": {
+    "base": "/images/nomads/display/dahab-29097771c763221c",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/santa-marta.webp": {
+    "base": "/images/nomads/display/santa-marta-05623cf57652c277",
+    "width": 720,
+    "height": 450
+  },
+  "/images/nomads/johor.webp": {
+    "base": "/images/nomads/display/johor-f6e9c078e5048150",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/kilifi.webp": {
+    "base": "/images/nomads/display/kilifi-e8805403b8f602f6",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/florianopolis.webp": {
+    "base": "/images/nomads/display/florianopolis-aa8c30495aedf703",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/prague.webp": {
+    "base": "/images/nomads/display/prague-224cbdb7a45afc52",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/rio-de-janeiro.webp": {
+    "base": "/images/nomads/display/rio-de-janeiro-c49b8b62602aa8ea",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/santiago.webp": {
+    "base": "/images/nomads/display/santiago-b89379c92d8230fc",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/antalya.webp": {
+    "base": "/images/nomads/display/antalya-ae4cb5d0352aecd3",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/roatan.webp": {
+    "base": "/images/nomads/display/roatan-5443c69aa6d9bd19",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/singapore.webp": {
+    "base": "/images/nomads/display/singapore-9ef998a759f226d8",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/belgrade.webp": {
+    "base": "/images/nomads/display/belgrade-10890988a3b83a65",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/bucharest.webp": {
+    "base": "/images/nomads/display/bucharest-abfb5f342788b6be",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/guadalajara.webp": {
+    "base": "/images/nomads/display/guadalajara-34cd168ea815bb84",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/tokyo.webp": {
+    "base": "/images/nomads/display/tokyo-d216b90f9e4debf7",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/montevideo.webp": {
+    "base": "/images/nomads/display/montevideo-56fffce0ade9ed41",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/kas.webp": {
+    "base": "/images/nomads/display/kas-88dcc52781cdf8f5",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/madeira-funchal.webp": {
+    "base": "/images/nomads/display/madeira-funchal-fcb2b435ff07b25a",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/krakow.webp": {
+    "base": "/images/nomads/display/krakow-ccb75aacf2447b23",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/lima.webp": {
+    "base": "/images/nomads/display/lima-2a8383a01b886b78",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/cusco.webp": {
+    "base": "/images/nomads/display/cusco-fd221b7193f7ed6c",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/antigua.webp": {
+    "base": "/images/nomads/display/antigua-0b2bab43fa736516",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/sao-paulo.webp": {
+    "base": "/images/nomads/display/sao-paulo-4e54f74d9959b545",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/bogota.webp": {
+    "base": "/images/nomads/display/bogota-7e666bb5d85200fe",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/valencia.webp": {
+    "base": "/images/nomads/display/valencia-dc0dedd8e16a1468",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/seoul.webp": {
+    "base": "/images/nomads/display/seoul-0076c3e7f5c591b0",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/palermo.webp": {
+    "base": "/images/nomads/display/palermo-a840dffc5fbbcd80",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/berlin.webp": {
+    "base": "/images/nomads/display/berlin-5dcffa40347124bf",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/tallinn.webp": {
+    "base": "/images/nomads/display/tallinn-9b0e441f706e1c4f",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/thessaloniki.webp": {
+    "base": "/images/nomads/display/thessaloniki-79c47020cc6d2de1",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/amsterdam.webp": {
+    "base": "/images/nomads/display/amsterdam-90080d59ea08e1c1",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/vilnius.webp": {
+    "base": "/images/nomads/display/vilnius-9bd5b0a13c3cb6d7",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/shanghai.webp": {
+    "base": "/images/nomads/display/shanghai-39a7d76d5c7aea5f",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/london.webp": {
+    "base": "/images/nomads/display/london-43d896d4f6f25540",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/paris.webp": {
+    "base": "/images/nomads/display/paris-affed25d755cb3de",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/riga.webp": {
+    "base": "/images/nomads/display/riga-9fcd4335912b1347",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/dubrovnik.webp": {
+    "base": "/images/nomads/display/dubrovnik-e9c446095d87c225",
+    "width": 800,
+    "height": 500
+  },
+  "/images/nomads/san-francisco.webp": {
+    "base": "/images/nomads/display/san-francisco-f057fea634f3efa0",
+    "width": 720,
+    "height": 450
+  },
+  "/images/nomads/valparaiso.webp": {
+    "base": "/images/nomads/display/valparaiso-c7494a91ce715cba",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/komoro.webp": {
+    "base": "/images/nomads/display/komoro-bfaa6975c8157f61",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/madrid.webp": {
+    "base": "/images/nomads/display/madrid-a9aab77af5f6f090",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/melbourne.webp": {
+    "base": "/images/nomads/display/melbourne-f8641d2c56130341",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/tel-aviv.webp": {
+    "base": "/images/nomads/display/tel-aviv-1fc886474ae54935",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/batumi.webp": {
+    "base": "/images/nomads/display/batumi-33f9b086a4ae565b",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/tirana.webp": {
+    "base": "/images/nomads/display/tirana-391f6c316cc74fee",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/osaka.webp": {
+    "base": "/images/nomads/display/osaka-bbc9f1c10442777b",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/toronto.webp": {
+    "base": "/images/nomads/display/toronto-285e4e564d203614",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/merida.webp": {
+    "base": "/images/nomads/display/merida-203779e1d882b296",
+    "width": 1024,
+    "height": 640
+  },
+  "/images/nomads/dublin.webp": {
+    "base": "/images/nomads/display/dublin-94e1535e9c04574f",
+    "width": 1024,
+    "height": 640
+  }
+}

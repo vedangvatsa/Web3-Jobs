@@ -2,7 +2,7 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-02T21:13:11.286Z",
+  "generatedAt": "2026-10-02T23:20:01.129Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
@@ -526,6 +526,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/accra",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/acgh",
       "lastmod": "2026-10-03",
       "changefreq": "weekly",
@@ -1026,6 +1032,12 @@
     {
       "url": "https://hashtagweb3.com/amm",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/amsterdam",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -2350,6 +2362,18 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/antalya",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/antigua",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/anza",
       "lastmod": "2026-02-15",
       "changefreq": "weekly",
@@ -3640,6 +3664,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/athens",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/atli-station-singapore",
       "lastmod": "2026-10-05",
       "changefreq": "weekly",
@@ -4396,10 +4426,40 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/bali",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/bangalore",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/bangkok",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/banking",
       "lastmod": "2026-09-10",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/bansko",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/barcelona",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/base-wallet",
@@ -4434,6 +4494,12 @@
     {
       "url": "https://hashtagweb3.com/batch-auction",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/batumi",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -4726,9 +4792,21 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/belgrade",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/berachain",
       "lastmod": "2026-09-04",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/berlin",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -5434,6 +5512,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/bogota",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/bonding-curves-for-token-launch-explained",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -5599,6 +5683,24 @@
       "url": "https://hashtagweb3.com/btse-cocktail",
       "lastmod": "2026-10-08",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/bucharest",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/budapest",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/buenos-aires",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -5824,6 +5926,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/cape-town",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/capital-credit",
       "lastmod": "2026-10-08",
       "changefreq": "weekly",
@@ -5894,6 +6002,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/cartagena",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/cash-fx",
@@ -6014,6 +6128,12 @@
       "lastmod": "2026-09-16",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/cebu",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/ceo",
@@ -6142,6 +6262,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/chiang-mai",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/chief",
       "lastmod": "2026-06-04",
       "changefreq": "daily",
@@ -6238,6 +6364,18 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/city-rankings",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/city-report",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/cja6d4ku",
       "lastmod": "2026-10-05",
       "changefreq": "weekly",
@@ -6278,6 +6416,12 @@
       "lastmod": "2026-08-03",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/climate",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/clone-your",
@@ -7006,6 +7150,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/colombo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/com",
       "lastmod": "2026-09-23",
       "changefreq": "daily",
@@ -7177,6 +7327,12 @@
       "url": "https://hashtagweb3.com/companyventures",
       "lastmod": "2026-10-02",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/compare-cities",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -8344,6 +8500,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/cost-of-living",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/counsel2",
       "lastmod": "2026-06-29",
       "changefreq": "daily",
@@ -8794,6 +8956,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/cusco",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/customer",
       "lastmod": "2024-04-03",
       "changefreq": "daily",
@@ -8944,6 +9112,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/da-nang",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/da7ppbga",
       "lastmod": "2026-10-09",
       "changefreq": "weekly",
@@ -8965,6 +9139,12 @@
       "url": "https://hashtagweb3.com/dah",
       "lastmod": "2026-10-05",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/dahab",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -9468,6 +9648,12 @@
     {
       "url": "https://hashtagweb3.com/delegation",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/delhi",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -11642,6 +11828,24 @@
       "lastmod": "2026-09-18",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/dubai",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/dublin",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/dubrovnik",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/duelbits-hack",
@@ -18526,6 +18730,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/ericeira",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/es",
       "lastmod": "2026-04-09",
       "changefreq": "daily",
@@ -19435,6 +19645,12 @@
       "url": "https://hashtagweb3.com/flop-launch",
       "lastmod": "2026-10-06",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/florianopolis",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -20860,6 +21076,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/goa",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/gomining",
       "lastmod": "2026-09-29",
       "changefreq": "weekly",
@@ -21010,6 +21232,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/guadalajara",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/guide-to-layer-2s",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -21044,6 +21272,12 @@
       "lastmod": "2026-09-21",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/hanoi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/happy-hour",
@@ -21565,6 +21799,18 @@
       "url": "https://hashtagweb3.com/hkdasc",
       "lastmod": "2026-11-05",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/ho-chi-minh-city",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/hoi-an",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -23542,6 +23788,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/istanbul",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/it",
       "lastmod": "2026-01-27",
       "changefreq": "daily",
@@ -23872,6 +24124,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/johor",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/jpt",
       "lastmod": "2026-09-18",
       "changefreq": "daily",
@@ -23956,9 +24214,21 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/kas",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/kast-solid",
       "lastmod": "2026-10-08",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/kathmandu",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -23992,6 +24262,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/kilifi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/kkusynvq",
       "lastmod": "2026-10-07",
       "changefreq": "weekly",
@@ -24016,6 +24292,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/koh-phangan",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/kol-club",
       "lastmod": "2026-10-06",
       "changefreq": "weekly",
@@ -24026,6 +24308,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/komoro",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/kor",
@@ -24064,6 +24352,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/krakow",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/krwq-frax",
       "lastmod": "2026-10-08",
       "changefreq": "weekly",
@@ -24080,6 +24374,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/kuala-lumpur",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/kucoin",
@@ -24148,10 +24448,22 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/lagos",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/large-language-models-explained-simply",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/las-palmas",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/launch-checklists-for-defi-developer",
@@ -24340,6 +24652,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/lima",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/linear",
       "lastmod": "2025-11-24",
       "changefreq": "daily",
@@ -24420,6 +24738,12 @@
     {
       "url": "https://hashtagweb3.com/liquidity-pool",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/lisbon",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -24511,6 +24835,12 @@
       "url": "https://hashtagweb3.com/logos-society",
       "lastmod": "2026-10-02",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/london",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -24682,6 +25012,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/madeira-funchal",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/madrid",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/magic-eden",
       "lastmod": "2026-09-15",
       "changefreq": "weekly",
@@ -24696,6 +25038,12 @@
     {
       "url": "https://hashtagweb3.com/mainnet",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/malaga",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -28168,6 +28516,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/manila",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/marc-andreessen-on-web3",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -29410,6 +29764,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/marrakech",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/masc",
       "lastmod": "2026-11-03",
       "changefreq": "weekly",
@@ -29452,6 +29812,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/medellin",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/media-accelerator",
       "lastmod": "2026-10-07",
       "changefreq": "weekly",
@@ -29462,6 +29828,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/melbourne",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/member10",
@@ -29509,6 +29881,12 @@
       "url": "https://hashtagweb3.com/mercuryo",
       "lastmod": "2026-09-24",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/merida",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -29580,6 +29958,12 @@
     {
       "url": "https://hashtagweb3.com/mev-supply-chain",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/mexico-city",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -30928,6 +31312,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/montevideo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/moonpay",
       "lastmod": "2026-09-18",
       "changefreq": "weekly",
@@ -31141,6 +31531,12 @@
       "url": "https://hashtagweb3.com/n3csj3ze",
       "lastmod": "2026-10-07",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nairobi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -31390,673 +31786,13 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/nomad-services",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/nomads",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/accra",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/amsterdam",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/antalya",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/antigua",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/athens",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/bali",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/bangalore",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/bangkok",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/bansko",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/barcelona",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/batumi",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/belgrade",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/berlin",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/bogota",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/bucharest",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/budapest",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/buenos-aires",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/cape-town",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/cartagena",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/cebu",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/chiang-mai",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/colombo",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/cusco",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/da-nang",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/dahab",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/delhi",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/dubai",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/dublin",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/dubrovnik",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/ericeira",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/florianopolis",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/goa",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/guadalajara",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/hanoi",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/ho-chi-minh-city",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/hoi-an",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/istanbul",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/johor",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/kas",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/kathmandu",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/kilifi",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/koh-phangan",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/komoro",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/krakow",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/kuala-lumpur",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/lagos",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/las-palmas",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/lima",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/lisbon",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/london",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/madeira-funchal",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/madrid",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/malaga",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/manila",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/marrakech",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/medellin",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/melbourne",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/merida",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/mexico-city",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/montevideo",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/nairobi",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/oaxaca",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/osaka",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/palermo",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/paris",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/penang",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/phnom-penh",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/phuket",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/playa-del-carmen",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/porto",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/prague",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/riga",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/rio-de-janeiro",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/roatan",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/san-francisco",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/santa-marta",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/santiago",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/sao-paulo",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/seoul",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/shanghai",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/siargao",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/siem-reap",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/singapore",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/sofia",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/split",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/taipei",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/tallinn",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/tbilisi",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/tel-aviv",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/tenerife",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/thessaloniki",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/tirana",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/tokyo",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/toronto",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/tulum",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/valencia",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/valparaiso",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/vilnius",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/warsaw",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cities/zanzibar",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/climate",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/compare",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/cost-of-living",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/places",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/rankings",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/report",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/resources",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/runway",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/schengen",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/taxes",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/nomads/timezones",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
@@ -32132,6 +31868,12 @@
       "lastmod": "2026-09-28",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/oaxaca",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/ob",
@@ -33850,6 +33592,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/osaka",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/osblc3d0",
       "lastmod": "2026-10-09",
       "changefreq": "weekly",
@@ -33946,6 +33694,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/palermo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/pantera-capital",
       "lastmod": "2026-08-04",
       "changefreq": "weekly",
@@ -33961,6 +33715,12 @@
       "url": "https://hashtagweb3.com/paribu",
       "lastmod": "2026-01-05",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/paris",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -34078,6 +33838,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/penang",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/pengu-rally",
       "lastmod": "2026-10-08",
       "changefreq": "weekly",
@@ -34144,10 +33910,22 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/phnom-penh",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/phone-interview-best-practices-guide",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/phuket",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/pionex-private",
@@ -34186,6 +33964,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/places",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/plan",
       "lastmod": "2026-10-23",
       "changefreq": "weekly",
@@ -34195,6 +33979,12 @@
       "url": "https://hashtagweb3.com/planx",
       "lastmod": "2026-11-25",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/playa-del-carmen",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -35536,6 +35326,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/porto",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/powerscale-crypto",
       "lastmod": "2026-10-08",
       "changefreq": "weekly",
@@ -35581,6 +35377,12 @@
       "url": "https://hashtagweb3.com/pragma-mumbai",
       "lastmod": "2026-11-04",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/prague",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -40318,6 +40120,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/riga",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/rio-de-janeiro",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/riot-loan",
       "lastmod": "2026-09-28",
       "changefreq": "monthly",
@@ -40429,6 +40243,12 @@
       "url": "https://hashtagweb3.com/rns",
       "lastmod": "2026-10-02",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/roatan",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -42664,6 +42484,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/san-francisco",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/sandwich-attack",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -42679,6 +42505,24 @@
       "url": "https://hashtagweb3.com/sanfranciscooctober",
       "lastmod": "2026-10-09",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/santa-marta",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/santiago",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/sao-paulo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -42712,6 +42556,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/savings-runway",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/scaling-regenerative-economies-in-web3",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -42740,6 +42590,12 @@
       "lastmod": "2026-09-25",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/schengen",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/scs",
@@ -44842,6 +44698,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/seoul",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/sequencer",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -44881,6 +44743,12 @@
       "url": "https://hashtagweb3.com/shakepay",
       "lastmod": "2026-09-25",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/shanghai",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -44944,6 +44812,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/siargao",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/sidechain",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -44954,6 +44828,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/siem-reap",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/signal-week",
@@ -44972,6 +44852,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/singapore",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/singapore-blockchain-week",
@@ -46306,6 +46192,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/sofia",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/soft-fork",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -46555,6 +46447,12 @@
       "url": "https://hashtagweb3.com/splash-nodexx",
       "lastmod": "2026-10-05",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/split",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -47278,9 +47176,21 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/taipei",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/talk-token",
       "lastmod": "2026-10-07",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/tallinn",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -47312,6 +47222,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/tax-planning",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/tax2",
@@ -47371,6 +47287,12 @@
       "url": "https://hashtagweb3.com/tbe-fasset",
       "lastmod": "2026-10-09",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/tbilisi",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -47560,6 +47482,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/tel-aviv",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/telcoin",
       "lastmod": "2026-09-15",
       "changefreq": "weekly",
@@ -47575,6 +47503,12 @@
       "url": "https://hashtagweb3.com/tenderly",
       "lastmod": "2026-06-24",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/tenerife",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -47866,6 +47800,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/thessaloniki",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/thorchain-bitget",
       "lastmod": "2026-09-28",
       "changefreq": "monthly",
@@ -47892,6 +47832,18 @@
     {
       "url": "https://hashtagweb3.com/time-weighted-average-price",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/timezones",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/tirana",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -48082,6 +48034,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/tokyo",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/tools",
       "lastmod": "2022-01-27",
       "changefreq": "daily",
@@ -48164,6 +48122,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/toronto",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/tpt",
@@ -49354,6 +49318,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/tulum",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/turnkey",
       "lastmod": "2026-09-29",
       "changefreq": "weekly",
@@ -49774,6 +49744,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/valencia",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/validation-cloud",
       "lastmod": "2026-06-17",
       "changefreq": "weekly",
@@ -49800,6 +49776,12 @@
     {
       "url": "https://hashtagweb3.com/validium",
       "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/valparaiso",
+      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },
@@ -49939,6 +49921,12 @@
       "url": "https://hashtagweb3.com/vienna-blockchain-week",
       "lastmod": "2027-06-02",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/vilnius",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -50179,6 +50167,12 @@
       "url": "https://hashtagweb3.com/wam",
       "lastmod": "2026-10-06",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/warsaw",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -52105,6 +52099,12 @@
       "url": "https://hashtagweb3.com/zanzalu",
       "lastmod": "2026-10-02",
       "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/zanzibar",
+      "lastmod": "2026-10-02",
+      "changefreq": "monthly",
       "priority": 0.6
     },
     {

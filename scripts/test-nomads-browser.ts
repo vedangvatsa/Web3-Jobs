@@ -8,7 +8,7 @@ import { chromium, expect, type Browser, type Page, type Locator } from '@playwr
 import puppeteer from 'puppeteer';
 import { load } from 'cheerio';
 import { getNomadCities, getNomadCity, getNomadVisas } from '../src/lib/nomads/server';
-import { nomadRoutes } from '../src/lib/nomads/metadata';
+import { nomadRoutes, nomadOgImage } from '../src/lib/nomads/metadata';
 import { NOMAD_TOOLS } from '../src/lib/nomads/routes';
 
 const origin = 'http://127.0.0.1:3184';
@@ -38,13 +38,21 @@ async function main() {
         assert.equal($('main h1').length, 1, `${route} primary heading`);
         assert.equal($('link[rel="canonical"]').attr('href'), `https://hashtagweb3.com${route}`);
         assert.ok($('meta[property="og:title"]').attr('content'), `${route} social title`);
-        if (!route.includes('/cities/')) payloads[route] = gzipSync(html).length;
+        assert.equal($('meta[property="og:image"]').attr('content'), nomadOgImage(route));
+        assert.equal($('meta[name="twitter:image"]').attr('content'), nomadOgImage(route));
+        assert.equal($('main nav[aria-label="Breadcrumb"]').length, 0);
+        assert.doesNotMatch($('main').text(), /Compare cities, find a workspace|CVin|100 city guides|57 countries|4,652 listed places/);
+        assert.equal($('main a[href^="/nomads/"]').length, 0, `${route} still links to old nested routes`);
+        if (NOMAD_TOOLS.some(tool => tool.href === route)) {
+          assert.equal($('main h1').parent().find('p').length, 0, `${route} still has an introductory subheading`);
+          payloads[route] = gzipSync(html).length;
+        }
       }
     }));
     assert.equal((await fetch(`${origin}/nomads/cities/not-a-real-city`, { headers: humanHeaders })).status, 404);
     const sitemap = await (await fetch(`${origin}/sitemap.xml`)).text();
     for (const route of routes) assert.ok(sitemap.includes(`https://hashtagweb3.com${route.path}</loc>`), `Missing sitemap route ${route.path}`);
-    for (const route of ['/nomads', '/nomads/cities/lisbon', '/nomads/compare', '/digital-nomad-visas']) {
+    for (const route of ['/nomads', '/lisbon', '/compare-cities', '/digital-nomad-visas']) {
       const response = await fetch(`${origin}${route}/tg`, { headers: { 'User-Agent': 'TelegramBot' } });
       assert.equal(response.status, 200, `${route} preview`);
       const html = await response.text();
@@ -53,15 +61,26 @@ async function main() {
       const agent = await fetch(`${origin}${route}?mode=agent`, { headers: humanHeaders });
       assert.match(agent.headers.get('content-type') || '', /json/);
     }
-    const redirect = await fetch(`${origin}/nomads/cities/lisbon/tg?from=test`, { headers: humanHeaders, redirect: 'manual' });
+    for (const [oldPath, newPath] of [...getNomadCities().map(city => [`/nomads/cities/${city.slug}`, `/${city.slug}`]), ...NOMAD_TOOLS.filter(tool => !['cities', 'visas'].includes(tool.key)).map(tool => [`/nomads/${tool.key}`, tool.href])]) {
+      const migrated = await fetch(`${origin}${oldPath}?from=test`, { headers: humanHeaders, redirect: 'manual' });
+      assert.equal(migrated.status, 308, oldPath);
+      const destination = new URL(migrated.headers.get('location')!, origin);
+      assert.equal(destination.pathname, newPath);
+      assert.equal(destination.searchParams.get('from'), 'test');
+      assert.ok(!sitemap.includes(`https://hashtagweb3.com${oldPath}</loc>`), `${oldPath} old canonical still in sitemap`);
+    }
+    const migratedShare = await fetch(`${origin}/nomads/cities/lisbon/tg?from=test`, { headers: humanHeaders, redirect: 'manual' });
+    assert.equal(migratedShare.status, 308);
+    assert.equal(new URL(migratedShare.headers.get('location')!, origin).pathname, '/lisbon/tg');
+    const redirect = await fetch(`${origin}/lisbon/tg?from=test`, { headers: humanHeaders, redirect: 'manual' });
     assert.equal(redirect.status, 307);
-    assert.ok(redirect.headers.get('location')?.includes('/nomads/cities/lisbon?'));
+    assert.ok(redirect.headers.get('location')?.includes('/lisbon?'));
     const popup = await fetch(`${origin}/nomad`, { headers: humanHeaders });
     assert.equal(popup.status, 200);
     assert.ok((await popup.text()).includes('nomad.homes'), 'Existing Nomad popup changed');
     console.log(`HTTP: ${routes.length} canonical routes, ${getNomadCities().length} city guides, sitemap, previews, agent mode and legacy popup passed.`);
 
-    browser = await chromium.launch({ executablePath: process.env.CHROME_BIN || puppeteer.executablePath(), headless: true });
+    browser = await chromium.launch({ executablePath: process.env.CHROME_BIN || await puppeteer.executablePath(), headless: true });
     const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
     await context.route('**/*', route => {
       const url = new URL(route.request().url());
@@ -112,6 +131,10 @@ async function main() {
     await page.setViewportSize({ width: 1440, height: 480 });
     await stableDropdown(page.getByRole('combobox', { name: 'Filter cities by region' }));
     await page.setViewportSize({ width: 1440, height: 1000 });
+    const filters = page.locator('section[aria-label="Explore cities"] > div').first();
+    const boxes = await filters.locator('input, button[role="combobox"]').evaluateAll(elements => elements.map(element => { const box = element.getBoundingClientRect(); return { x: box.x, y: box.y, width: box.width, height: box.height }; }));
+    assert.equal(boxes.length, 4);
+    for (const box of boxes) { assert.ok(Math.abs(box.width - boxes[0].width) < 1); assert.equal(box.y, boxes[0].y); assert.equal(box.height, 44); }
     await expect(page.locator('[data-nomad-city] img').first()).toBeVisible();
     await page.waitForFunction(() => Array.from(document.querySelectorAll<HTMLImageElement>('[data-nomad-city] img')).slice(0, 4).every(image => image.complete && image.naturalWidth > 0));
     assert.equal(requests.some(url => /places\.json|passport|tile\.openstreetmap/.test(url)), false, 'Hub eagerly downloaded directory/map/passport data');
@@ -134,14 +157,14 @@ async function main() {
     await page.evaluate("Object.defineProperty(navigator, 'clipboard', { configurable: true, value: { writeText: async value => { sessionStorage.setItem('test-copied-comparison', value); } } })");
     await page.getByRole('button', { name: 'Copy comparison link', exact: true }).click();
     await expect(page.getByRole('button', { name: 'Link copied', exact: true })).toBeVisible();
-    assert.equal(await page.evaluate(() => sessionStorage.getItem('test-copied-comparison')), `${origin}/nomads/compare?a=bangkok&b=lisbon`);
+    assert.equal(await page.evaluate(() => sessionStorage.getItem('test-copied-comparison')), `${origin}/compare-cities?a=bangkok&b=lisbon`);
     await select('First city', 'tokyo');
     await expect(page.getByRole('button', { name: 'Copy comparison link', exact: true })).toBeVisible();
     await page.evaluate("Object.defineProperty(navigator, 'clipboard', { configurable: true, value: { writeText: async () => { throw new Error('Clipboard unavailable'); } } })");
     await page.getByRole('button', { name: 'Copy comparison link', exact: true }).click();
     await expect(page.locator('main').getByRole('status')).toContainText('Copying was unavailable');
 
-    await go('/nomads/places');
+    await go('/places');
     await expect(page.locator('main li:has(h2)')).toHaveCount(30);
     await expect(page.locator('[data-place-category]')).toHaveCount(5);
     await expect(page.locator('.nomad-place-cluster').first()).toBeVisible();
@@ -205,7 +228,7 @@ async function main() {
     await expect(page.getByLabel('Your passport', { exact: true })).toHaveAttribute('data-value', 'india');
     await expect(page.locator('main tbody tr')).toHaveCount(1);
 
-    await go('/nomads/schengen');
+    await go('/schengen');
     await page.getByLabel('Check the rolling window on').fill('2026-01-31');
     await page.getByLabel('Trip 1 arrival').fill('2026-01-01');
     await page.getByLabel('Trip 1 departure').fill('2026-01-10');
@@ -224,7 +247,7 @@ async function main() {
     await page.getByRole('checkbox', { name: 'Save trips on this device' }).uncheck();
     await expect.poll(() => page.evaluate(() => localStorage.getItem('hw3-nomad-schengen-v1'))).toBe(null);
 
-    await go('/nomads/runway?city=lisbon');
+    await go('/savings-runway?city=lisbon');
     await page.getByLabel('Total savings (USD)').fill('10000');
     await page.getByLabel('Keep as a reserve (USD)').fill('2000');
     await expect(page.locator('tbody tr')).toHaveCount(1);
@@ -232,7 +255,7 @@ async function main() {
     await expect(page.locator('tbody [data-country-flag="PT"]')).toHaveCount(1);
     await page.getByLabel('Monthly take-home income (USD)').fill('100000');
     await expect(metric('Longest modeled runway')).toHaveText('Costs covered');
-    await go('/nomads/taxes');
+    await go('/tax-planning');
     await page.getByLabel('Annual income (USD)').fill('100000');
     await page.getByLabel('Assumed effective tax rate (%)').fill('25');
     await expect(metric('Modeled annual tax')).toHaveText('$25,000');
@@ -240,37 +263,37 @@ async function main() {
     await page.getByLabel('Assumed effective tax rate (%)').fill('101');
     await expect(page.locator('main').getByRole('alert')).toBeVisible();
 
-    await go('/nomads/climate');
+    await go('/climate');
     await page.getByLabel('Minimum temperature (°C)').fill('35');
     await page.getByLabel('Maximum temperature (°C)').fill('20');
     await expect(page.locator('main').getByRole('alert')).toContainText('must not exceed');
     await page.getByRole('button', { name: 'Clear filters', exact: true }).click();
     await expect(page.locator('tbody tr')).toHaveCount(100);
-    await go('/nomads/cost-of-living');
+    await go('/cost-of-living');
     await page.getByRole('searchbox', { name: 'Search cities', exact: true }).fill('Lisbon');
     await expect(page.locator('tbody tr')).toHaveCount(1);
     await page.getByLabel('Monthly take-home income (USD)', { exact: true }).fill('5000');
     await expect(page.getByRole('columnheader', { name: 'After living costs' })).toBeVisible();
-    await go('/nomads/resources');
+    await go('/nomad-services');
     await page.getByRole('searchbox', { name: 'Find a service', exact: true }).fill('no-service-matches-xyz');
     await expect(page.getByText('No services match your search.', { exact: false })).toBeVisible();
     await page.getByRole('button', { name: 'Clear filters', exact: true }).click();
     await expect(page.locator('main a:has(h3)')).toHaveCount(59);
-    await go('/nomads/rankings');
+    await go('/city-rankings');
     await page.getByRole('button', { name: 'Walkability', exact: true }).click();
     await expect(page.getByRole('columnheader', { name: 'Car-free living' })).toBeVisible();
-    await go('/nomads/timezones');
+    await go('/timezones');
     await page.getByLabel('Meeting date').fill('2026-07-01');
     await select('Add timezone city', 'mumbai');
     await expect(page.getByText('UTC+5:30', { exact: true })).toBeVisible();
     await page.getByRole('button', { name: 'Remove Mumbai', exact: true }).click();
     await expect(page.getByText('UTC+5:30', { exact: true })).toHaveCount(0);
-    for (const route of ['/nomads?q=Lisbon', '/nomads/places?city=lisbon&type=coworking', '/nomads/rankings?tab=safety&q=Portugal', '/nomads/climate?month=0&min=15&max=25', '/nomads/cost-of-living?q=Lisbon', '/nomads/timezones?cities=mumbai,london']) {
+    for (const route of ['/nomads?q=Lisbon', '/places?city=lisbon&type=coworking', '/city-rankings?tab=safety&q=Portugal', '/climate?month=0&min=15&max=25', '/cost-of-living?q=Lisbon', '/timezones?cities=mumbai,london']) {
       await go(route);
       const key = new URL(page.url()).searchParams;
       if (route.startsWith('/nomads?')) await expect(page.locator('[data-nomad-city]')).toHaveCount(1);
       else if (route.includes('/places?')) await expect(page.getByRole('combobox', { name: 'Places city' })).toHaveAttribute('data-value', 'lisbon');
-      else if (route.includes('/rankings?')) await expect(page.getByRole('button', { name: 'Safety', exact: true })).toHaveAttribute('aria-pressed', 'true');
+      else if (route.includes('/city-rankings?')) await expect(page.getByRole('button', { name: 'Safety', exact: true })).toHaveAttribute('aria-pressed', 'true');
       else if (route.includes('/climate?')) await expect(page.getByLabel('Month', { exact: true })).toHaveAttribute('data-value', key.get('month')!);
       else if (route.includes('/cost-of-living?')) await expect(page.locator('tbody tr')).toHaveCount(1);
       else await expect(page.getByText('UTC+5:30', { exact: true })).toBeVisible();
@@ -285,7 +308,7 @@ async function main() {
         await noOverflow();
         await page.evaluate(() => document.documentElement.classList.remove('dark'));
       }
-      await go('/nomads/cities/lisbon');
+      await go('/lisbon');
       await noOverflow();
       await expect(page.locator('#climate svg[role="img"]')).toHaveCount(2);
       await expect(page.locator('[data-climate-month]')).toHaveCount(12);
@@ -300,7 +323,7 @@ async function main() {
       await page.getByRole('button', { name: 'More nomad tools' }).click();
       await expect(page.getByRole('menu')).toBeVisible();
       await page.getByRole('menuitem', { name: 'Living costs', exact: true }).click();
-      await page.waitForURL(`${origin}/nomads/cost-of-living`);
+      await page.waitForURL(`${origin}/cost-of-living`);
       const costTable = page.getByRole('region', { name: 'City living costs', exact: true });
       await expect(page.getByText('Scroll sideways to see all columns', { exact: true })).toBeVisible();
       await costTable.focus();
@@ -322,7 +345,7 @@ async function main() {
     await page.setViewportSize({ width: 1440, height: 1000 });
     await go('/salary-calculator');
     await stableDropdown(page.getByRole('combobox').first());
-    await go('/nomads/report');
+    await go('/city-report');
     await expect(page.locator('.nomad-report-city')).toHaveCount(50);
     await page.emulateMedia({ media: 'print' });
     await expect(page.locator('footer').first()).toBeHidden();
@@ -341,6 +364,7 @@ async function main() {
     console.log(JSON.stringify({ routes: routes.length, cityGuides: getNomadCities().length, interactions: 'passed', mobileWidths: [390, 320], darkMode: 'no page overflow', lazyMapsAndPassportShards: 'passed', mapTiles: 'loaded', requestFailureRecovery: 'passed', printPdfBytes: pdf.length, htmlGzipBytes: payloads, browserErrors: errors, screenshots: '.cache/nomads/' }, null, 2));
     await context.close();
   } catch (error) {
+    console.error(logs);
     if (debugPage && !debugPage.isClosed()) {
       await debugPage.screenshot({ path: '.cache/nomads/failure.png', fullPage: true });
       fs.writeFileSync('.cache/nomads/failure.html', await debugPage.content());

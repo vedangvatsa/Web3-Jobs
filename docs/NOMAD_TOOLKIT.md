@@ -9,24 +9,25 @@ Places, Compare, Living costs, Visas & entry, and a grouped More menu.
 | Route | Purpose |
 | --- | --- |
 | `/nomads` | City finder, budget/region/connectivity filters, two-city selection and tool directory |
-| `/nomads/cities/[city]` | 100 city guides with budgets, monthly climate, places, community links and related Hashtag content |
-| `/nomads/places` | Searchable list and optional map of 4,652 workspace/accommodation records |
-| `/nomads/compare` | Two selected city details, cost breakdown, connectivity and timezone comparison |
-| `/nomads/cost-of-living` | Monthly cost categories and optional remaining take-home income |
-| `/nomads/rankings` | Internet benchmarks, safety and walkability reference scores |
-| `/nomads/climate` | Month, temperature, humidity and rainfall filters |
+| `/[city]`, e.g. `/lisbon` | 100 city guides with budgets, monthly climate, places, community links and related Hashtag content |
+| `/places` | Searchable list and default clustered map of 4,652 workspace/accommodation records |
+| `/compare-cities` | Two selected city details, cost breakdown, connectivity and timezone comparison |
+| `/cost-of-living` | Monthly cost categories and optional remaining take-home income |
+| `/city-rankings` | Internet benchmarks, safety and walkability reference scores |
+| `/climate` | Month, temperature, humidity and rainfall filters |
 | `/digital-nomad-visas` | 71 merged program references plus a 199-passport entry checker and optional map |
-| `/nomads/timezones` | Up to four cities, date-specific IANA offsets and quarter-hour work-window overlap |
-| `/nomads/schengen` | Inclusive unique-day counting for the rolling 90/180-day rule; optional local-device storage |
-| `/nomads/runway` | Savings, reserve, income and spending assumptions across cities |
-| `/nomads/taxes` | User-entered effective-rate arithmetic, alongside country reference notes |
-| `/nomads/resources` | 59 services across the imported categories |
-| `/nomads/report` | Printable top-50 city reference report, including browser Save as PDF |
+| `/timezones` | Up to four cities, date-specific IANA offsets and quarter-hour work-window overlap |
+| `/schengen` | Inclusive unique-day counting for the rolling 90/180-day rule; optional local-device storage |
+| `/savings-runway` | Savings, reserve, income and spending assumptions across cities |
+| `/tax-planning` | User-entered effective-rate arithmetic, alongside country reference notes |
+| `/nomad-services` | 59 services across the imported categories |
+| `/city-report` | Printable top-50 city reference report, including browser Save as PDF |
 
 `/nomad` remains the existing Nomad popup. `/tax` and all other published root
-identities retain their owners. City guides are nested; individual directory
-places do not receive thousands of new indexable routes. `/nomads` is explicitly
-reserved against job slug allocation.
+identities retain their owners. Every toolkit page has a root-level canonical URL.
+The 111 old nested tool/city paths permanently redirect with query strings and
+social suffixes preserved. All toolkit slugs are reserved against job allocation.
+Individual directory places do not receive separate indexable routes.
 
 ## Data and provenance
 
@@ -91,9 +92,10 @@ canonical routes. OpenAPI and `llms.txt` document the static data paths.
 - `/data/nomads/passports.json`: passport names, IDs and ISO codes.
 - `/data/nomads/passports/{id}.json`: references for only the selected passport.
 
-Maps load on request. The hub does not fetch the place directory or passport
+The Places page loads its map by default; list-only URLs skip it. The hub does not fetch the place directory or passport
 matrix; comparison downloads two city records. Images use locally generated
-WebPs with 480px thumbnails and up-to-1280px heroes. Unopened city/tool links do
+WebPs with cropped 480px cards, 720-1024px heroes (never upscaled), and 128px table
+thumbnails. Width descriptors match the actual files. Unopened city/tool links do
 not prefetch page payloads. City pages use on-demand ISR rather than bulk
 prerendering; the overall build remains within its existing 300-page budget.
 
@@ -150,7 +152,7 @@ continues through the repository's existing release workflow.
 
 ## Website design alignment
 
-The current light website is the visual reference, using `/resources`,
+The current light website is the visual reference, using `/news`, `/resources`,
 `/salary-calculator`, `/remote-work-checklist` and `/events` for comparison.
 Toolkit pages use the existing `PageHeader`, `PageShell` and `Card` components,
 Inter typography, site-width container, neutral palette and primary-button
@@ -171,13 +173,13 @@ The design pass also provides:
 Reproduce the visual review against a production build:
 
 ```sh
-CHROME_BIN=/path/to/chrome npx tsx scripts/review-nomad-design.ts --label=after --dark --verify
+CHROME_BIN=/path/to/chrome npx tsx scripts/review-nomad-design.ts --label=root-routes --verify
 ```
 
-This captures 63 page/viewport combinations: 13 tools, the selected-passport
-state, three representative city guides and four existing reference pages,
-across desktop, mobile and the pre-existing dark-color CSS. Assertions compare
-toolkit fonts, heading scale and content alignment with `/resources`, and check
+This captures 44 page/viewport combinations: 13 tools, the selected-passport
+state, three representative city guides and five existing reference pages,
+across desktop and mobile. Assertions compare
+toolkit fonts, heading scale and content alignment with `/news`, and check
 control sizes, native-control themes and unclipped navigation. This review does
 not add a theme switch. Screenshots, contact sheets and measurements are saved to
 ignored `.cache/nomads/design-after/`; the initial comparison is in
@@ -202,7 +204,7 @@ Following the local-preview review:
   flag/photo/name alignment across listings, numeric tables and related cities.
   Financial and measurement columns are right-aligned with tabular numerals.
 - Generated 100 small 128×96 WebP thumbnails for table rows, alongside the existing
-  480px and 1280px images. Fixed image boxes keep different source aspect ratios
+  480px thumbnails and source hero images. Fixed image boxes keep different source aspect ratios
   from creating uneven cards or oversized city headers.
 - Added lightweight SVG temperature/rainfall charts with all twelve monthly
   values retained underneath. Missing observations remain missing.
@@ -269,3 +271,46 @@ The final build, all 14 data/calculation suites, and the 113-route browser suite
 passed. Browser verification includes cluster zooming, chip filtering, popup
 close/reopen, map teardown/remount, vector-basemap readiness, and stable dropdown
 geometry during scrolling. Tool HTML remains approximately 15–35 KB gzip.
+
+## Root URLs, image delivery and final design audit (2026-10-03)
+
+- All 113 canonical pages now use root URLs. The 100 city guides share the site's
+  existing `[slug]` dispatcher and on-demand rendering. Eleven tool pages moved
+  to root routes; `/nomads` and `/digital-nomad-visas` retain their URLs.
+- All 111 former nested paths return 308 redirects, preserving queries and share
+  suffixes. Internal links, metadata, sitemap, preview shells, root reservations
+  and the sitemap registry gate use the new routes. Older preview files also
+  carry the new canonical URL and image.
+- Tool headings are concise, with no introductory paragraph or breadcrumb.
+  Shared `PageHeader`, `PageShell`, `Input`, `Select`, cards and navigation retain
+  the site's existing typography and layout. Four city-finder filters are equal
+  width and 44px high on desktop.
+- `precompute-nomad-images.ts` generates 200 cropped display WebPs from the 100
+  originals, with source-content fingerprints and no upscaling. `CityImage` now
+  reuses the site's `ResponsiveImage` fallback and accurate width descriptors.
+  The general image optimizer excludes these generated variants to avoid a
+  second lossy encoding. Original URLs and attribution remain available.
+- Display heroes average 90,277 bytes (27% smaller than the original heroes);
+  480px cards average 27,312 bytes (32% smaller than the previous thumbnails).
+  Table thumbnails average 3,224 bytes. These are file-size comparisons, not
+  production billing estimates.
+- The existing static-page OG generator now creates a distinct 1200×630 PNG for
+  every tool/city route, using the site's existing card design. All 113 are
+  connected to Open Graph, Twitter and preview metadata, average 7,214 bytes,
+  and stay below 9 KB. Prebuild output checks and standalone assertions cover
+  both display variants and social assets.
+- Production build/typecheck, 14 Nomad suites, 113 canonical pages, all 111
+  redirects, map interactions and stable dropdown scrolling passed. No toolkit
+  browser errors or page-level overflow at 320px/390px were found.
+- The design audit passed 44 desktop/mobile views against `/news`, including
+  fonts, heading sizes, content alignment, touch targets and navigation. Current
+  screenshots and metrics are in `.cache/nomads/design-root-routes/`.
+- Existing catalog, ATS, event identity, responsive-image and social-preview
+  checks passed. The cost-saving browser regression retained all 157 glossary
+  cards, no term prefetch, unchanged current feeds and zero browser errors.
+
+Run the complete asset coverage audit after prebuild:
+
+```sh
+npx tsx scripts/audit-nomad-assets.ts
+```

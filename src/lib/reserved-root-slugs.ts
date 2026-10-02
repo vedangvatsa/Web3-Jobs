@@ -8,6 +8,8 @@ import { getAllResourcePages } from '@/lib/pseo/resources';
 import { getPopupSlugs } from '@/lib/popups';
 import { getEventSlug } from '@/lib/events';
 import { learnRoutes } from '@/lib/learn-routes';
+import nomadCities from '../../content/nomads/cities.json';
+import nomadToolPaths from '../../content/nomads/tool-paths.json';
 
 /** App Router paths that must never be used as job slugs. */
 export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
@@ -33,7 +35,8 @@ export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
   'dev',
   'about',
   'popups',
-  'nomads',
+  ...Object.values(nomadToolPaths).map(href => href.slice(1)),
+  ...nomadCities.map(city => city.slug),
 ];
 
 const NON_ARTICLE_MARKDOWN = new Set(['AGENTS.md', 'README.md']);

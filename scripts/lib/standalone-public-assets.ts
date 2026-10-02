@@ -38,6 +38,13 @@ export function requiredPublicAssets(root: string): string[] {
     for (const file of ['cities', 'places', 'passports']) assets.add(`public/data/nomads/${file}.json`);
     const passports = JSON.parse(fs.readFileSync(path.join(root, 'content/nomads/countries.json'), 'utf8')) as Array<{ id: string }>;
     for (const passport of passports) assets.add(`public/data/nomads/passports/${passport.id}.json`);
+    const displays = JSON.parse(fs.readFileSync(path.join(root, 'content/nomad-display-images.json'), 'utf8')) as Record<string, { base: string; width: number }>;
+    for (const image of Object.values(displays)) for (const width of [480, image.width]) addLocalImage(`${image.base}-${width}.webp`);
+    const toolPaths = JSON.parse(fs.readFileSync(path.join(root, 'content/nomads/tool-paths.json'), 'utf8')) as Record<string, string>;
+    for (const href of [...Object.values(toolPaths), ...cities.map(city => `/${city.slug}`)]) {
+      addLocalImage(`/og/pages${href}.png`);
+      assets.add(`public/preview${href}.html`);
+    }
   }
   if (fs.existsSync(responsivePath)) {
     const responsive = JSON.parse(fs.readFileSync(responsivePath, 'utf8')) as Record<string, { src: string; files: string[] }>;

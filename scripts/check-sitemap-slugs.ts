@@ -5,6 +5,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { learnRoutes } from '../src/lib/learn-routes';
+import { nomadRoutes } from '../src/lib/nomads/metadata';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 
@@ -12,7 +13,7 @@ function loadKnownSlugs(): Set<string> {
   const types = JSON.parse(
     fs.readFileSync(path.join(ROOT, 'content', 'slug-types.json'), 'utf8'),
   ) as Record<string, string[]>;
-  const known = new Set<string>(learnRoutes.map(route => route.slug));
+  const known = new Set<string>([...learnRoutes.map(route => route.slug), ...nomadRoutes().map(route => route.path.slice(1))]);
   for (const value of Object.values(types)) {
     if (!Array.isArray(value)) continue;
     for (const slug of value) known.add(String(slug).toLowerCase());

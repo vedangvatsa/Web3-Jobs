@@ -22,7 +22,7 @@ import { getCompanySlug } from '@/lib/job-slugs';
 import { fmtInt, hiringReportStats } from '@/lib/hiring-report-stats';
 import { learnRoutes, resolveLearnRoute } from '@/lib/learn-routes';
 import { getCategory, getLesson } from '@/lib/learn';
-import { nomadPageInfo, nomadRoutes, NOMAD_OG_IMAGE } from '@/lib/nomads/metadata';
+import { nomadPageInfo, nomadRoutes, nomadOgImage } from '@/lib/nomads/metadata';
 
 const SITE_NAME = 'Hashtag Web3';
 const REMEDIATED_COMPANY_SLUGS = new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)));
@@ -99,7 +99,7 @@ async function resolveJobMetadata(slug: string): Promise<OgPreviewMeta | null> {
 export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta> {
   const canonicalUrl = `${SITE_URL}${path}`;
   const nomad = nomadPageInfo(path);
-  if (nomad) return { title: `${nomad.title} | ${SITE_NAME}`, description: nomad.description, ogImageUrl: NOMAD_OG_IMAGE, canonicalUrl: `${SITE_URL}${nomad.path}` };
+  if (nomad) return { title: `${nomad.title} | ${SITE_NAME}`, description: nomad.description, ogImageUrl: nomadOgImage(nomad.path), canonicalUrl: `${SITE_URL}${nomad.path}` };
   const learningRoute = resolveLearnRoute(path.slice(1));
   if (learningRoute) {
     const content = learningRoute.lesson ? getLesson(learningRoute.category, learningRoute.lesson) : getCategory(learningRoute.category);

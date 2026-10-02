@@ -81,7 +81,10 @@ async function listFiles(directory: string): Promise<string[]> {
 }
 
 async function listScopedFiles(): Promise<string[]> {
-  return (await listFiles(ROOT)).filter(filePath => !path.relative(ROOT, filePath).startsWith(`responsive${path.sep}`) && /\.(?:jpe?g|png|webp|avif|gif|ico|svg)$/i.test(filePath)).sort();
+  return (await listFiles(ROOT)).filter(filePath => {
+    const relative = path.relative(ROOT, filePath);
+    return !relative.startsWith(`responsive${path.sep}`) && !relative.startsWith(`images${path.sep}nomads${path.sep}display${path.sep}`) && /\.(?:jpe?g|png|webp|avif|gif|ico|svg)$/i.test(filePath);
+  }).sort();
 }
 
 function hashFile(filePath: string): Promise<string> {

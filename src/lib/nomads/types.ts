@@ -44,4 +44,4 @@ export function decodePlaces(data: CompactPlaces): NomadPlace[] {
 
 export const money = (value: number) => new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(value);
 export const metric = (value: number | null | undefined, suffix = '') => value == null || !Number.isFinite(value) ? 'Not available' : `${new Intl.NumberFormat('en-US', { maximumFractionDigits: 1 }).format(value)}${suffix}`;
-export const cityPath = (slug: string) => `/nomads/cities/${encodeURIComponent(slug)}`;
+export const cityPath = (slug: string) => `/${encodeURIComponent(slug)}`;

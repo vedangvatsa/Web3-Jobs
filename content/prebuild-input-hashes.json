@@ -32,16 +32,22 @@
       "inputHash": "8677e77f29fbaa79"
     },
     "slug-types": {
-      "inputHash": "c9a90bd03b3462ad"
+      "inputHash": "eac1338b5d984653"
     },
     "sitemap": {
-      "inputHash": "1ed4651c19ee7ca5"
+      "inputHash": "b3db3c2a293c1c6a"
     },
     "public-catalog-sync": {
-      "inputHash": "0ed80946a9891e02"
+      "inputHash": "e3de7dfee20b9b81"
     },
     "nomad-catalogs": {
-      "inputHash": "7dc7d8c12f5ef613"
+      "inputHash": "d58d2775288399a6"
+    },
+    "nomad-display-images": {
+      "inputHash": "e691a4e18efc64df"
+    },
+    "nomad-page-og": {
+      "inputHash": "7c2a15de353331ca"
     }
   }
 }

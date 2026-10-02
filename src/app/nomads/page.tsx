@@ -12,7 +12,7 @@ export const revalidate = 86400;
 export const metadata = nomadMetadata('/nomads');
 
 export default function NomadsPage() {
-  return <NomadShell title="Find your next base">
+  return <NomadShell title="Nomad Toolkit">
     <Suspense fallback={<div className="h-96 animate-pulse rounded-xl bg-muted" aria-label="Loading city finder" />}><CityExplorer cities={getNomadSummaries()} /></Suspense>
     <section id="all-tools" className="mt-8 scroll-mt-32 border-t pt-6"><h2 className="mb-5 text-xl font-semibold tracking-tight">More planning tools</h2><div className="grid gap-6 lg:grid-cols-3">{['Explore', 'Plan your stay', 'Money & resources'].map(group => <div key={group}><h3 className="mb-3 text-xs font-semibold uppercase tracking-wider text-muted-foreground">{group}</h3><div className="space-y-2">{NOMAD_TOOLS.filter(tool => tool.group === group && tool.key !== 'cities').map(tool => <Link key={tool.key} href={tool.href} prefetch={false} className="group flex items-start justify-between gap-3 rounded-lg border border-border/70 bg-card p-4 transition-colors hover:border-foreground/25"><div><h4 className="text-sm font-semibold">{tool.title}</h4><p className="mt-1 text-xs leading-relaxed text-muted-foreground">{tool.description}</p></div><ArrowUpRight className="mt-0.5 h-4 w-4 shrink-0 text-muted-foreground" aria-hidden /></Link>)}</div></div>)}</div></section>
     <section className="mt-8 border-t pt-6" aria-label="More remote-work resources">

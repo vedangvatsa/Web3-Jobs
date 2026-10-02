@@ -4,6 +4,7 @@ import * as path from 'path';
 import { load } from 'cheerio';
 import { preparePreviewImage, writeSocialImageInfo } from './lib/og-preview-assets';
 import { isRemediatedJobSlug } from '../src/lib/job-guides';
+import { legacyNomadDestination } from '../src/lib/nomads/metadata';
 import {
   buildOgPreviewHtml,
   collectOgPreviewPaths,
@@ -81,6 +82,12 @@ async function main() {
     const contentPath = relative === 'index' ? '/' : `/${relative}`;
     if (livePaths.has(contentPath) || relative === 'default') continue;
     const before = fs.readFileSync(file, 'utf8');
+    const nomadDestination = legacyNomadDestination(contentPath);
+    if (nomadDestination) {
+      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(nomadDestination)));
+      if (before !== html) { fs.writeFileSync(file, html); written++; }
+      continue;
+    }
     const $ = load(before);
     const canonicalPath = new URL($('link[rel="canonical"]').attr('href') || contentPath, 'https://hashtagweb3.com').pathname;
     if (isRemediatedJobSlug(canonicalPath.replace(/^\/(?:jobs\/)?/, ''))) {

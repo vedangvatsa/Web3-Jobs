@@ -20,6 +20,10 @@ import { getAllPopups } from '../src/lib/popups';
 import { RESERVED_APP_ROUTE_SLUGS } from '../src/lib/reserved-root-slugs';
 import { linkPreviewPreviewPath } from '../src/lib/social-share';
 import { PREBUILD_DATA_STEPS } from './lib/prebuild-steps';
+import { cityImagePlan } from '../src/lib/nomads/images';
+import slugTypes from '../content/slug-types.json';
+import legacyJobs from '../content/legacy-slugs-archive.json';
+import { learnRoutes } from '../src/lib/learn-routes';
 
 const trip = (start: string, end: string): Trip => ({ id: `${start}/${end}`, start, end });
 
@@ -121,6 +125,16 @@ test('local city images are valid WebPs and every generated shard is present', a
       assert.ok(metadata.width && metadata.height);
       assert.ok(metadata.width <= (image!.includes('-128.') ? 128 : image!.includes('-480.') ? 480 : 1280));
     }
+    const plan = cityImagePlan(city.image);
+    assert.ok(plan?.srcSet, `${city.slug} display variants`);
+    for (const candidate of plan.srcSet.split(', ')) {
+      const [image, descriptor] = candidate.split(' ');
+      const actual = await sharp(`public${image}`).metadata();
+      assert.equal(actual.width, Number(descriptor.slice(0, -1)), `${city.slug} truthful srcset width`);
+      assert.equal(actual.width! / actual.height!, 1.6);
+      assert.equal(actual.format, 'webp');
+      assert.ok(fs.statSync(`public${image}`).size < (actual.width === 480 ? 50000 : 180000), `${image} image budget`);
+    }
     assert.deepEqual(JSON.parse(fs.readFileSync(`public/data/nomads/cities/${city.slug}.json`, 'utf8')), city);
   }
   const step = PREBUILD_DATA_STEPS.find(step => step.id === 'nomad-catalogs')!;
@@ -162,14 +176,21 @@ test('visa upgrade retains existing programs and service links are safe', () => 
   for (const bad of ['javascript:alert(1)', 'data:text/html,hi', 'https://user:password@example.com', '//example.com']) assert.equal(safeExternalUrl(bad), null);
 });
 
-test('tool and city routes have canonical metadata and nested share shells; the popup stays reserved', () => {
+test('root-level tool and city routes preserve existing published identities and share shells', () => {
   const routes = nomadRoutes();
   assert.equal(new Set(routes.map(route => route.path)).size, routes.length);
   for (const { path } of routes) {
+    assert.match(path, /^\/[a-z0-9-]+$/, 'Toolkit pages must use root-level slugs');
     const info = nomadPageInfo(path);
     assert.ok(info?.title && info.description, path);
     assert.equal(info.path, path);
     assert.equal(linkPreviewPreviewPath(`${path}/tg`, 'TelegramBot', true), `/preview${path}.html`);
+    assert.ok(RESERVED_APP_ROUTE_SLUGS.includes(path.slice(1)));
+    for (const [category, slugs] of Object.entries(slugTypes)) {
+      if (category !== 'staticPages' && Array.isArray(slugs)) assert.ok(!slugs.includes(path.slice(1)), `${path} collides with ${category}`);
+    }
+    assert.ok(!Object.hasOwn(legacyJobs, path.slice(1)), `${path} is a historical job URL`);
+    assert.ok(!learnRoutes.some(route => route.slug === path.slice(1)), `${path} is an existing learning page`);
   }
   assert.ok(RESERVED_APP_ROUTE_SLUGS.includes('nomads'));
   assert.ok(getAllPopups().some(popup => popup.slug === 'nomad'));
@@ -177,6 +198,7 @@ test('tool and city routes have canonical metadata and nested share shells; the 
   assert.equal(nomadPageInfo('/nomads/cities/not-a-city'), null);
   assert.equal(nomadPageInfo('/tax'), null);
   assert.ok(routes.some(route => route.path === cityPath('lisbon')));
+  assert.equal(cityPath('lisbon'), '/lisbon');
 });
 
 test('location matching uses country evidence, aliases and disambiguates similarly named places', () => {

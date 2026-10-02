@@ -19,7 +19,7 @@ export function CompareCities({ cities, date }: { cities: CitySummary[]; date: s
   const b = requestedB !== a && cities.some(city => city.slug === requestedB) ? requestedB! : a === 'chiang-mai' ? 'lisbon' : 'chiang-mai';
   const first = useNomadData<NomadCity>(`/data/nomads/cities/${a}.json`, validCity), second = useNomadData<NomadCity>(`/data/nomads/cities/${b}.json`, validCity);
   const [copied, setCopied] = useState<string | null>(null), [copyError, setCopyError] = useState<string | null>(null);
-  const sharePath = `/nomads/compare?a=${a}&b=${b}`;
+  const sharePath = `/compare-cities?a=${a}&b=${b}`;
   const isCopied = copied === sharePath;
   async function copyComparison() {
     try { await navigator.clipboard.writeText(`${window.location.origin}${sharePath}`); setCopied(sharePath); setCopyError(null); }

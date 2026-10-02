@@ -66,6 +66,9 @@ import { learnRoutes, resolveLearnRoute } from '@/lib/learn-routes';
 import { learnPageMetadata } from '@/lib/learn-meta';
 import LearnLessonPage from '@/components/learn-lesson-page';
 import LearnCoursePage from '@/components/learn-course-page';
+import NomadCityPage from '@/components/nomads/city-guide';
+import { getNomadCity } from '@/lib/nomads/server';
+import { nomadMetadata } from '@/lib/nomads/metadata';
 
 
 type ArticlePageProps = {
@@ -85,6 +88,7 @@ export async function generateStaticParams(): Promise<{ slug: string }[]> {
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params;
+  if (getNomadCity(slug)) return nomadMetadata(`/${slug}`);
   const learningRoute = resolveLearnRoute(slug);
   if (learningRoute) return learnPageMetadata(learningRoute);
   const slugType = classifySlug(slug);
@@ -375,6 +379,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const { slug } = await params;
+  if (getNomadCity(slug)) return <NomadCityPage slug={slug} />;
   const learningRoute = resolveLearnRoute(slug);
   if (learningRoute) return learningRoute.lesson
     ? <LearnLessonPage categorySlug={learningRoute.category} lessonSlug={learningRoute.lesson} />

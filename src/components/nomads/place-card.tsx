@@ -17,7 +17,7 @@ export function PlaceCard({ place, cityName, onLocate, heading = 'h2' }: { place
     <CardContent className="flex flex-1 flex-col px-4 pb-3 pt-1">
       {place.address && <p className="line-clamp-2 text-xs leading-relaxed text-muted-foreground">{place.address}</p>}
       <div className="mt-auto flex flex-wrap gap-x-4 pt-2">
-        {onLocate ? <button className={actionStyle} onClick={onLocate}><MapPin className="h-3.5 w-3.5" aria-hidden />Locate</button> : <Link href={`/nomads/places?city=${place.citySlug}&q=${encodeURIComponent(place.name)}&view=map`} prefetch={false} className={actionStyle}><MapPin className="h-3.5 w-3.5" aria-hidden />View on map</Link>}
+        {onLocate ? <button className={actionStyle} onClick={onLocate}><MapPin className="h-3.5 w-3.5" aria-hidden />Locate</button> : <Link href={`/places?city=${place.citySlug}&q=${encodeURIComponent(place.name)}&view=map`} prefetch={false} className={actionStyle}><MapPin className="h-3.5 w-3.5" aria-hidden />View on map</Link>}
         {place.website && <a href={place.website} target="_blank" rel="noopener noreferrer" className={actionStyle}>Website<ArrowUpRight className="h-3.5 w-3.5" aria-hidden /></a>}
       </div>
     </CardContent>

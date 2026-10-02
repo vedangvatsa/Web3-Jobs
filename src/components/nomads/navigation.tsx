@@ -11,7 +11,8 @@ export function NomadNavigation() {
   const main = NOMAD_TOOLS.filter(tool => ['cities', 'places', 'compare', 'cost-of-living', 'visas'].includes(tool.key));
   const mobilePrimary = new Set(['cities', 'places', 'compare']);
   const overflow = NOMAD_TOOLS.filter(tool => !mobilePrimary.has(tool.key));
-  const active = (href: string) => pathname === href || (href === '/nomads' && pathname.startsWith('/nomads/cities/'));
+  const cityGuide = !NOMAD_TOOLS.some(tool => tool.href === pathname);
+  const active = (href: string) => pathname === href || (href === '/nomads' && cityGuide);
   const activeOverflow = overflow.find(tool => active(tool.href));
   return (
     <nav aria-label="Nomad toolkit" className="nomad-navigation sticky top-14 z-20 mb-7 flex min-w-0 items-center gap-1 border-y border-border/70 bg-background">

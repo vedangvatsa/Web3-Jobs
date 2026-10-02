@@ -37329,44 +37329,496 @@
       "sha256": "8f11bd9abb9d5cea1379014b154b76c7a7708830a77be2d261188c388bfbdc87",
       "status": "retained"
     },
+    "/og/pages/accra.png": {
+      "sha256": "c105d16232fdc6fb3237e87410288b52851410e6c6dfd9dad2b2e518b2581f9f",
+      "status": "retained"
+    },
+    "/og/pages/amsterdam.png": {
+      "sha256": "9b56085c1a262424c1ca5831aaf04ffc3515aa7b5559f7d659d62854d6cc07aa",
+      "status": "retained"
+    },
+    "/og/pages/antalya.png": {
+      "sha256": "df2e86a8ed7b0fc49ce6024477d9148d55ed50f70736f3662fe124b5d0c25f67",
+      "status": "retained"
+    },
+    "/og/pages/antigua.png": {
+      "sha256": "88dca89b76d360780aa539b2d5df0307a73271deacb9b3ae1a5af55fb0987365",
+      "status": "retained"
+    },
+    "/og/pages/athens.png": {
+      "sha256": "b40b7dfaf11b57efe2f635f0cb8061f8f4e1bda6ec8e033febd4fecea6c490f3",
+      "status": "retained"
+    },
+    "/og/pages/bali.png": {
+      "sha256": "48035c41d5c0cf042fb77da35f05ef353933616386fc405cb6db467b784512cb",
+      "status": "retained"
+    },
+    "/og/pages/bangalore.png": {
+      "sha256": "2c3952e14279bc70f843da8537506bf27d66d4d4d4dd7565039808a5f7f17c8e",
+      "status": "retained"
+    },
+    "/og/pages/bangkok.png": {
+      "sha256": "6703290f8d9e7602058312f37183c8699d43dd42cc7813323140ec73c5c5c42d",
+      "status": "retained"
+    },
+    "/og/pages/bansko.png": {
+      "sha256": "973947ff6ec992d1d82f15727194d549bc31f46c52feda566bf896eb0bbecb19",
+      "status": "retained"
+    },
+    "/og/pages/barcelona.png": {
+      "sha256": "0c240d930bd24fc690a3abe387197b3ee20d79b70b20ce52362a16f67bf9c6e7",
+      "status": "retained"
+    },
+    "/og/pages/batumi.png": {
+      "sha256": "07db974d910264f566deacd17cbd45ce3389405019db275da65402ac5b61401f",
+      "status": "retained"
+    },
+    "/og/pages/belgrade.png": {
+      "sha256": "40c2f49a172e72c530da914e5c6bc6592fd465019672c1ff0d18bf56e3e7ac20",
+      "status": "retained"
+    },
+    "/og/pages/berlin.png": {
+      "sha256": "9654069ef455de6209fdf278bbb4025859017975bbf54f25a06715f99acd640a",
+      "status": "retained"
+    },
+    "/og/pages/bogota.png": {
+      "sha256": "fb44c0cd56a85460ae816157e244b14d044c49aeb000c0e61a2b9d442ddcc22c",
+      "status": "retained"
+    },
+    "/og/pages/bucharest.png": {
+      "sha256": "9a2f8ac476dabd57dd3f3d8b08a3f389d4ceac50b0d09739fd9ecf2ec78aecbf",
+      "status": "retained"
+    },
+    "/og/pages/budapest.png": {
+      "sha256": "0de7439ed4ea7b652c2c2328e26cf0ae832f2f8014fa675fed8777cc5a4b151a",
+      "status": "retained"
+    },
+    "/og/pages/buenos-aires.png": {
+      "sha256": "732d7894e700ea4fdf675019e24aa6e1cd83db45387025287db6ef19758cdff6",
+      "status": "retained"
+    },
+    "/og/pages/cape-town.png": {
+      "sha256": "67b008493b8e735e808f87dc966220d21a41a4bb59ec4225e009d68341c628aa",
+      "status": "retained"
+    },
+    "/og/pages/cartagena.png": {
+      "sha256": "ee10815e564b8c61b542380d5120eeac45c6da6cdf6befd77ba0c843f801dd8a",
+      "status": "retained"
+    },
+    "/og/pages/cebu.png": {
+      "sha256": "83be33101da5d817499a0bd478d71aa3ed185cbd68775e00f4e36d099ba60cad",
+      "status": "retained"
+    },
+    "/og/pages/chiang-mai.png": {
+      "sha256": "f31713491827cbad0bd9e0a1bf833a85939be66de7e99aa728ca10cde331c619",
+      "status": "retained"
+    },
+    "/og/pages/city-rankings.png": {
+      "sha256": "929cc5f4692fed2eb2b9ba6a908db65595283ce439cea8e8b45b091b87745430",
+      "status": "retained"
+    },
+    "/og/pages/city-report.png": {
+      "sha256": "dc6ac8daf8f55af1436a90de1f6fea34c51cdba1bbed146d9f3636fa119cf953",
+      "status": "retained"
+    },
+    "/og/pages/climate.png": {
+      "sha256": "5cf6e1943dfeff74a2f8e6c21dc5b2a9de1ec24c937cb055e908f551ce92dac1",
+      "status": "retained"
+    },
+    "/og/pages/colombo.png": {
+      "sha256": "fd8b16be232e2ee5a4e56d54f23e64ad723a6fb734750793c24b556d5cd1559a",
+      "status": "retained"
+    },
     "/og/pages/community.png": {
       "sha256": "f12c25dde33f92304f6694d647eb49be42177f1321f518f6e6432d7d29aabe57",
+      "status": "retained"
+    },
+    "/og/pages/compare-cities.png": {
+      "sha256": "1168192230d6e20016d27fe69247385473790d24fae55aa8007315bcaf687bff",
       "status": "retained"
     },
     "/og/pages/contact.png": {
       "sha256": "1ad062489c7b4115adccd239e3340e3e3701cbc374a62656498520c4a521915f",
       "status": "retained"
     },
+    "/og/pages/cost-of-living.png": {
+      "sha256": "4590c0a39bc2f2366c78b16ae9400542e61dd11f61042963f9c0840d3dd1f3dc",
+      "status": "retained"
+    },
+    "/og/pages/cusco.png": {
+      "sha256": "f1e5bb5f1f788bdfd6859b0ee11cbfd209a0a4649b7834a1d45a62e310176106",
+      "status": "retained"
+    },
+    "/og/pages/da-nang.png": {
+      "sha256": "be657b3a7672a9a00ad371ec5f57a61dd1585b8f3875eaff65363d57106ef6cc",
+      "status": "retained"
+    },
+    "/og/pages/dahab.png": {
+      "sha256": "aa95ef05ae74ad7557dfb7f060106628d95653d3b8b5804bddb45852a230a6ef",
+      "status": "retained"
+    },
+    "/og/pages/delhi.png": {
+      "sha256": "1c1ddb9495d51ff6af27d1ddc56804095e70a5e7c2f819234ca4ea910f915c56",
+      "status": "retained"
+    },
     "/og/pages/developers.png": {
       "sha256": "3e3afa455292c8b2d7f9db4ec7be035e5b3081fc4f4b1df82d23ba2992d33388",
+      "status": "retained"
+    },
+    "/og/pages/digital-nomad-visas.png": {
+      "sha256": "3b889f68cd230541cab881068ce84df6f09122c6724fb075fa14cb64944fb361",
       "status": "retained"
     },
     "/og/pages/docs.png": {
       "sha256": "a87c7843823171e5293fbf3b03b43cc252bdff718bef4d3c7b51ac3f2eca9f84",
       "status": "retained"
     },
+    "/og/pages/dubai.png": {
+      "sha256": "6f6cf5c12d7b93e54be2165fa3898264560d21776e6cb6be6e0e840494d42b79",
+      "status": "retained"
+    },
+    "/og/pages/dublin.png": {
+      "sha256": "4a724d74f5da9fb301d1b3891f18aa1e2533ee2118d4ed536faf09ab5c66d54e",
+      "status": "retained"
+    },
+    "/og/pages/dubrovnik.png": {
+      "sha256": "257a26161e8e164348a1ed03e3da96221162d024f98d0a061c2c78529852c138",
+      "status": "retained"
+    },
+    "/og/pages/ericeira.png": {
+      "sha256": "5cfec527af313ed1a00086d7e39e693642f3fd8c687ca27173c6789540a60375",
+      "status": "retained"
+    },
     "/og/pages/events.png": {
       "sha256": "eba413650a5b7ffc97f8edfc392a99fd5f959f575ceca73e0bbbab7519d137bc",
+      "status": "retained"
+    },
+    "/og/pages/florianopolis.png": {
+      "sha256": "c2abe7a91e3d1b34f817473adc1488b25fdbaf43a26f047e39e4f504ed15def6",
       "status": "retained"
     },
     "/og/pages/glossary.png": {
       "sha256": "2b5478fb206e6b19b255c04216531ddb469a13a2f5ebeef8826bacd8435b414b",
       "status": "retained"
     },
+    "/og/pages/goa.png": {
+      "sha256": "2d0a0bfd71993d23aa02228d650187c448a5ebe76321224735d84b95e2a6a1b1",
+      "status": "retained"
+    },
+    "/og/pages/guadalajara.png": {
+      "sha256": "5c60792943a462c53e885f51b317a66cd5d9200d507d6f6c378a4caf6ae616cc",
+      "status": "retained"
+    },
+    "/og/pages/hanoi.png": {
+      "sha256": "879e52f0b0276242f04028aeadf59977fcf2afb67c1c5b563eac5c46000c8d46",
+      "status": "retained"
+    },
+    "/og/pages/ho-chi-minh-city.png": {
+      "sha256": "3fbe576d0117c437a456d8b68407c329779180417a7ccd91cd6e6bc99e0f81b2",
+      "status": "retained"
+    },
+    "/og/pages/hoi-an.png": {
+      "sha256": "dd0695bf3dcdb2f2a2e73f3a9d872d8871520b069fd21b90ead22d51470fe95e",
+      "status": "retained"
+    },
     "/og/pages/interview-questions.png": {
       "sha256": "524a335578ce1be7998fb6b9b48f1a529aa48115b9926fc221bc3957b476054a",
+      "status": "retained"
+    },
+    "/og/pages/istanbul.png": {
+      "sha256": "0abc663905be6fcea3ee461a67d2bf3518cd5c6b947f17b69c6df23bc47c6246",
+      "status": "retained"
+    },
+    "/og/pages/johor.png": {
+      "sha256": "6fd0a6d729abddd45daec2eb9b4e6b6c5f92386ffbcc9ad8a85f47a2617c23dd",
+      "status": "retained"
+    },
+    "/og/pages/kas.png": {
+      "sha256": "1b64500061cdf2c3fb8f553bf120eb2e1422caff74e2490eb82e891e846a5cae",
+      "status": "retained"
+    },
+    "/og/pages/kathmandu.png": {
+      "sha256": "3a3ef399e4f47b83a059a9907ef55d4fbc573d534e4f734cf6e317ef2e3cb856",
+      "status": "retained"
+    },
+    "/og/pages/kilifi.png": {
+      "sha256": "fa71623145829db2ec06aa1a064c2e19dbc0db8774568723588c3aad85356923",
+      "status": "retained"
+    },
+    "/og/pages/koh-phangan.png": {
+      "sha256": "4aa62c3f6f949cf9a537e45f47b32ebed991835219c753e311bcc815aec17f26",
+      "status": "retained"
+    },
+    "/og/pages/komoro.png": {
+      "sha256": "b61a1ed7f51182c8aac5b150c00ff9bce885d66138164a7f2ccb99265ba03cea",
+      "status": "retained"
+    },
+    "/og/pages/krakow.png": {
+      "sha256": "bd41debbf8d083543dc94adb362d7d8a4c3855872aea253bf2503efb47c65cad",
+      "status": "retained"
+    },
+    "/og/pages/kuala-lumpur.png": {
+      "sha256": "db96649ef2daf41138279400d7615b4eff9380ed3650edab2c01dee8ee1f49a4",
+      "status": "retained"
+    },
+    "/og/pages/lagos.png": {
+      "sha256": "e0f04c443a0e8a8caa866bba0e2fe9b5723b26d07ad67332ba08fbbc88c7b283",
+      "status": "retained"
+    },
+    "/og/pages/las-palmas.png": {
+      "sha256": "8b91f8a35832fc6e71e3b97e7b94e9e15035cba7aca41aaf4a1bfbc3bd7f101b",
+      "status": "retained"
+    },
+    "/og/pages/lima.png": {
+      "sha256": "47453d08b7712551249d32bc841c49af2579e658c0d5c088131f04588cc6bb00",
+      "status": "retained"
+    },
+    "/og/pages/lisbon.png": {
+      "sha256": "f2e96287d6b111ae074f8d2c659d25b72f8746541f1eff31777508b7eb6b5fd5",
+      "status": "retained"
+    },
+    "/og/pages/london.png": {
+      "sha256": "71fe46e8933f2af27bf456136d2aef962a4fc556c6fce65543137fef0dde6528",
+      "status": "retained"
+    },
+    "/og/pages/madeira-funchal.png": {
+      "sha256": "28fc6a1f7ad88ec03c825ee22c43b922b128f30cd0b580b6a4e6f4627783dfbe",
+      "status": "retained"
+    },
+    "/og/pages/madrid.png": {
+      "sha256": "0c35959db3703fbc91e3dc66146ed47c2a636d42795f4eb3b8d6581c24fe50e7",
+      "status": "retained"
+    },
+    "/og/pages/malaga.png": {
+      "sha256": "4fd264598faa5ba47415161044671824babeb3b23fc5106bf9d3d163b26c889b",
+      "status": "retained"
+    },
+    "/og/pages/manila.png": {
+      "sha256": "5fc3f8832abb353c75da5606f9297313cc6b6359e2cc94f8797e94208f5c1931",
+      "status": "retained"
+    },
+    "/og/pages/marrakech.png": {
+      "sha256": "4b3000ff6c4e337a4bc86e4e8c1bc5e49b1aa6028ca435bf78bdae11d3b30042",
+      "status": "retained"
+    },
+    "/og/pages/medellin.png": {
+      "sha256": "d77864bfa240cb5c5e5bd536b48a4828122b398310366fe3c0a3d95a4d16283d",
+      "status": "retained"
+    },
+    "/og/pages/melbourne.png": {
+      "sha256": "4a58a9cc8514e59fd1efc78122d2bc0d7d6806b724844e23925f25dbcd4e07b7",
+      "status": "retained"
+    },
+    "/og/pages/merida.png": {
+      "sha256": "5db7e057425f149b1609cf160bbbaf3729da7f9e2853e6d2e9a9b5476456e0fb",
+      "status": "retained"
+    },
+    "/og/pages/mexico-city.png": {
+      "sha256": "b947beea555ab3e4d03af284e8234859772c36ecf491068c49c2117d8c8a7229",
+      "status": "retained"
+    },
+    "/og/pages/montevideo.png": {
+      "sha256": "7f018c71f420f016f654786c822d9f89e7330ee4b20fb2b11efafbd6e5d42281",
+      "status": "retained"
+    },
+    "/og/pages/nairobi.png": {
+      "sha256": "ff6c4c00141c3a45ab171df8388c219976d74acd4d08fa6efa3811f45c5aba7b",
+      "status": "retained"
+    },
+    "/og/pages/nomad-services.png": {
+      "sha256": "977d6327bff8b5f888e0477664f1cae15df79fc2a6227b23caf1097b8a46f632",
+      "status": "retained"
+    },
+    "/og/pages/nomads.png": {
+      "sha256": "32408d0c1b464e50139513eba4cedf3d26dfe95d59d581f70c6fdf33aadf4b3a",
+      "status": "retained"
+    },
+    "/og/pages/oaxaca.png": {
+      "sha256": "16a59accace617faa76772f6c7c2649bfae2d9d2ee6750ed3999bb4184c9b3f7",
+      "status": "retained"
+    },
+    "/og/pages/osaka.png": {
+      "sha256": "adade4e6ebf82471b0faca749441b8ee4202341934dcfea97ed3fe229692c1f5",
+      "status": "retained"
+    },
+    "/og/pages/palermo.png": {
+      "sha256": "6f477087c4421e9a97dabf7ea44cdf334a6db7667e435ae1429f9a4975503ceb",
+      "status": "retained"
+    },
+    "/og/pages/paris.png": {
+      "sha256": "541fb456d096247bc737e97023ee9ac9bcffcbf593c6c6042255301af1c9843b",
+      "status": "retained"
+    },
+    "/og/pages/penang.png": {
+      "sha256": "d44edc36470d71319a222cb88eceb252cc26f0baa2c2ac2f2563781e92535df3",
+      "status": "retained"
+    },
+    "/og/pages/phnom-penh.png": {
+      "sha256": "4e26143c179db8f14c91c6ef42c51eb92ef2a92d7b26d521b998f9d758283fef",
+      "status": "retained"
+    },
+    "/og/pages/phuket.png": {
+      "sha256": "40aa886a216de69fc0e3409503c15e8160f01785685e95c379ca7af51ad90f69",
+      "status": "retained"
+    },
+    "/og/pages/places.png": {
+      "sha256": "704fc2e066de0ef24e9b93459db1ac976dfdbc1305ef8be8db0fd14b365901a9",
+      "status": "retained"
+    },
+    "/og/pages/playa-del-carmen.png": {
+      "sha256": "3dafef1734de3ce15e453ceece82628e456e9c038acc6dc0f65fd5f8ff1b00f7",
       "status": "retained"
     },
     "/og/pages/popups.png": {
       "sha256": "686fa769c468848e10d236e8ce559349c80954b71aba02d1a4de89c6083922bb",
       "status": "retained"
     },
+    "/og/pages/porto.png": {
+      "sha256": "a8c705717fab08c955946b0adc3d147fb1f52877ffd40959c44826e180e8e74e",
+      "status": "retained"
+    },
+    "/og/pages/prague.png": {
+      "sha256": "76072cdce1be03c14572eef100d40c6cc330ab40084c5835e387bdc6d473385b",
+      "status": "retained"
+    },
     "/og/pages/privacy.png": {
       "sha256": "56b4a2b8cc807804479aa203cff1a67eaf555c5f493f3cfc45496415bf7f8cfb",
       "status": "retained"
     },
+    "/og/pages/riga.png": {
+      "sha256": "10369a85b64e34bf24ada4914f2d1091d51008ee4dbe48ed64f528327246a0cf",
+      "status": "retained"
+    },
+    "/og/pages/rio-de-janeiro.png": {
+      "sha256": "307aeb76bdddc64422f0dc1d330316d15a963713ca31633c1a61271ff815eeb3",
+      "status": "retained"
+    },
+    "/og/pages/roatan.png": {
+      "sha256": "cabf62f7e223b1120ac00374a2c53135f425d66bd2e1f43538d97e8fbe20f710",
+      "status": "retained"
+    },
+    "/og/pages/san-francisco.png": {
+      "sha256": "d7de8859f7aa7cc2106b5b2305b3dce4bbcef878584da6237e5b7f4bcc51105c",
+      "status": "retained"
+    },
+    "/og/pages/santa-marta.png": {
+      "sha256": "648980c80732ee1a45ee77862bd6917fd57efa3fc87a37f07e6645428e5bb6c5",
+      "status": "retained"
+    },
+    "/og/pages/santiago.png": {
+      "sha256": "048e532c68fa2d5b3c217368aca1c0646fd580ce8a1ccb29b738721d3e0609d4",
+      "status": "retained"
+    },
+    "/og/pages/sao-paulo.png": {
+      "sha256": "eb7c81e44034f919abec7abc6932e8a127ca8ab67b1a1cf4524a7ceaf1138716",
+      "status": "retained"
+    },
+    "/og/pages/savings-runway.png": {
+      "sha256": "e389cd688b9aedcc47fd98bab540d23c0f901c8688e790ebbcdd205bae0df44c",
+      "status": "retained"
+    },
+    "/og/pages/schengen.png": {
+      "sha256": "583b29a567b9ca74307fab7dcdcf1c04534147c3ba6b7b298812c00358a79e8c",
+      "status": "retained"
+    },
+    "/og/pages/seoul.png": {
+      "sha256": "dc75d43281c1ab08b972ee95deb069257659324f235463a8f9ff89820394c012",
+      "status": "retained"
+    },
+    "/og/pages/shanghai.png": {
+      "sha256": "319394e01f236449024b04c57c7a27e68e197b9fde90a8c3cd28555c9958d3cb",
+      "status": "retained"
+    },
+    "/og/pages/siargao.png": {
+      "sha256": "2bfe645187caceb81d4ed6021ae32bcc1e9cfe288ec3581ea66d7aa16c3179b7",
+      "status": "retained"
+    },
+    "/og/pages/siem-reap.png": {
+      "sha256": "2506f722b135e8575426cda985a6a877177fc0a72cad2ab2e578a1eda898c9b1",
+      "status": "retained"
+    },
+    "/og/pages/singapore.png": {
+      "sha256": "eb7799fd0f9324e9026c0a81a26a2efce8fa952eb8167131e11778f5f570e22d",
+      "status": "retained"
+    },
+    "/og/pages/sofia.png": {
+      "sha256": "2171875ba309bcb63bfe57ca4848b602829b1121da21c801bcd17f2656822e49",
+      "status": "retained"
+    },
+    "/og/pages/split.png": {
+      "sha256": "9600f9ae90fead3a23d33d07cf8cf89267507809233acb610c1a642c0d65ed71",
+      "status": "retained"
+    },
+    "/og/pages/taipei.png": {
+      "sha256": "33fae27e1875da44bf5dd7d214a7a0c85b683ba8e03aab83fe11bd0111f8cc7d",
+      "status": "retained"
+    },
+    "/og/pages/tallinn.png": {
+      "sha256": "a5565b539f51ded1885b7d14d0e7ffd96b2c29fdcd495d35e6f1d03a85dd754c",
+      "status": "retained"
+    },
+    "/og/pages/tax-planning.png": {
+      "sha256": "a9fdb7ebba0ec9d2b5eb69d52b05d3fba4c25008fc8b46e756d46ee07f87cdc7",
+      "status": "retained"
+    },
+    "/og/pages/tbilisi.png": {
+      "sha256": "741f9e2b9acf5c6f06e7b4e9f4ba1b66ca99d73421a84b67fc2d05e5b69960e9",
+      "status": "retained"
+    },
+    "/og/pages/tel-aviv.png": {
+      "sha256": "d75e09897ba9bbe8db591420dd22844fda0078c81e23ea2f2a1741cea50800fd",
+      "status": "retained"
+    },
+    "/og/pages/tenerife.png": {
+      "sha256": "9d18311cdf268f23cef4ea63784178bcd572356a50d75a80204a7b5ea4290477",
+      "status": "retained"
+    },
+    "/og/pages/thessaloniki.png": {
+      "sha256": "50740ce32eb87de3db22ff62acb944444741044683ee2ec0eeb30ec2e0f00723",
+      "status": "retained"
+    },
+    "/og/pages/timezones.png": {
+      "sha256": "cc1861485e400f4b0594979fc9ac92d759c150426d300a4ac992c9f457c0d16e",
+      "status": "retained"
+    },
+    "/og/pages/tirana.png": {
+      "sha256": "e73de4d61242ae2277f5e767190b4449bef6976544fd490948f094fd208341d3",
+      "status": "retained"
+    },
+    "/og/pages/tokyo.png": {
+      "sha256": "5d2de241bb4bdd4959a73b723631e973d6e4a245f35e21e1dcbc3466de6adac5",
+      "status": "retained"
+    },
+    "/og/pages/toronto.png": {
+      "sha256": "a9ac8b2edfaad9d12df923f136d30f622bec46ec07a623c2af48997a0c7795dd",
+      "status": "retained"
+    },
+    "/og/pages/tulum.png": {
+      "sha256": "874aa42c7d345dd30e40bb38a14b556ce61217193f96652a08bb1ec48f7b7fe2",
+      "status": "retained"
+    },
+    "/og/pages/valencia.png": {
+      "sha256": "73caec08427e659a3eeba1c3bab5acea51bf025080f9b1e9b06f2fab083829d7",
+      "status": "retained"
+    },
+    "/og/pages/valparaiso.png": {
+      "sha256": "35aaa6c699f504e8f4c6d769fbea1b007da62d4ac582171ad156b49df1fc30c4",
+      "status": "retained"
+    },
+    "/og/pages/vilnius.png": {
+      "sha256": "60f0f38614b13a4d26843071392d736f96ab0a7ef712124fa6fc0e961c415929",
+      "status": "retained"
+    },
+    "/og/pages/warsaw.png": {
+      "sha256": "507cea1ac9bc90477cf989c9d7880c84b6e04ea5f421c934f6e3b107ed606661",
+      "status": "retained"
+    },
     "/og/pages/web3-hiring-report.png": {
       "sha256": "48897ed60aec7d91fb56c768b18ba0d3fe9035766541c111f3a1cdfe3ce4d209",
+      "status": "retained"
+    },
+    "/og/pages/zanzibar.png": {
+      "sha256": "b2688691ce848fca4a2c77e0afc15b3f2cc40c7024f98cc1cfc28d9c476bf6a1",
       "status": "retained"
     },
     "/popups/afro/6307b6fb8a7e1a18f87b8e02_events-gallery-3.webp": {

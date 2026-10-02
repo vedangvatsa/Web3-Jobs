@@ -3,7 +3,7 @@ import { PageHeader } from '@/components/page-header';
 import { cn } from '@/lib/utils';
 import { NomadNavigation } from './navigation';
 
-export function NomadShell({ children, title, location, actions, align = 'center' }: { children: React.ReactNode; title: string; location?: React.ReactNode; eyebrow?: string; actions?: React.ReactNode; align?: 'left' | 'center' }) {
+export function NomadShell({ children, title, location, actions, align = 'center' }: { children: React.ReactNode; title: string; location?: React.ReactNode; actions?: React.ReactNode; align?: 'left' | 'center' }) {
   return (
     <main id="main-content" className="nomad-toolkit min-w-0 flex-1 [color-scheme:light] dark:[color-scheme:dark]">
       <PageShell containerClassName="min-w-0">

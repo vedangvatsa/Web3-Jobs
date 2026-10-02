@@ -1,6 +1,8 @@
 import { JOB_SHARD_COUNT, getJobShardFilename } from '../../src/lib/job-shards';
 import nomadCities from '../../content/nomads/cities.json';
 import passportCountries from '../../content/nomads/countries.json';
+import nomadToolPaths from '../../content/nomads/tool-paths.json';
+import displayImagesJson from '../../content/nomad-display-images.json';
 
 export type PrebuildStep = {
   id: string;
@@ -15,6 +17,18 @@ const JOB_SHARD_OUTPUTS = Array.from({ length: JOB_SHARD_COUNT }, (_, i) =>
 
 /** Input → output prep steps (order matters). */
 export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
+  {
+    id: 'nomad-display-images',
+    inputs: ['content/nomads/cities.json', 'public/images/nomads', 'scripts/precompute-nomad-images.ts'],
+    outputs: ['content/nomad-display-images.json', ...Object.values(displayImagesJson as Record<string, { base: string; width: number }>).flatMap(image => [480, image.width].map(width => `public${image.base}-${width}.webp`))],
+    command: 'npx tsx scripts/precompute-nomad-images.ts',
+  },
+  {
+    id: 'nomad-page-og',
+    inputs: ['content/nomads/cities.json', 'content/nomads/tool-paths.json', 'src/lib/nomads/metadata.ts', 'src/lib/nomads/routes.ts', 'scripts/precompute-page-og-images.ts', 'scripts/lib/og-png-compress.ts', 'scripts/social/fonts/Inter-Bold.ttf'],
+    outputs: [...Object.values(nomadToolPaths), ...nomadCities.map(city => `/${city.slug}`)].map(href => `public/og/pages${href}.png`),
+    command: 'npx tsx scripts/precompute-page-og-images.ts --if-missing',
+  },
   {
     id: 'nomad-catalogs',
     inputs: ['content/nomads', 'public/images/nomads', 'scripts/precompute-nomads.ts', 'src/lib/nomads/types.ts'],
@@ -99,6 +113,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
       'content/companies-runtime.json',
       'content/pseo-resources-runtime.json',
       'src/app/nomads/page.tsx',
+      'content/nomads/tool-paths.json',
       'scripts/generate-slug-types.ts',
     ],
     outputs: ['content/slug-types.json'],
@@ -108,7 +123,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
 
 export const SITEMAP_STEP: PrebuildStep = {
   id: 'sitemap',
-  inputs: ['content/slug-types.json', 'content/articles-index.json', 'src/lib/sitemap-build.ts', 'content/nomads/cities.json', 'content/nomads/sources.json', 'src/lib/nomads/routes.ts', 'src/lib/nomads/metadata.ts'],
+  inputs: ['content/slug-types.json', 'content/articles-index.json', 'src/lib/sitemap-build.ts', 'content/nomads/cities.json', 'content/nomads/sources.json', 'content/nomads/tool-paths.json', 'src/lib/nomads/types.ts', 'src/lib/nomads/routes.ts', 'src/lib/nomads/metadata.ts'],
   outputs: ['content/sitemap-routes.json', 'public/sitemap.xml'],
   command: 'npx tsx scripts/generate-sitemap-json.ts',
 };

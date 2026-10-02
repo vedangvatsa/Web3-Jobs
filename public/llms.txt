@@ -55,6 +55,7 @@ Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client
 - Articles index: `https://hashtagweb3.com/data/articles-index.json`
 - Companies: `https://hashtagweb3.com/data/companies-runtime.json`
 - Nomad city index: `https://hashtagweb3.com/data/nomads/cities.json`; details: `/data/nomads/cities/{slug}.json`
+- City guides use root URLs such as `https://hashtagweb3.com/lisbon`. Tools include `/places`, `/compare-cities`, `/cost-of-living`, `/city-rankings`, `/climate`, `/timezones`, `/schengen`, `/savings-runway`, `/tax-planning`, `/nomad-services`, and `/city-report`. Old `/nomads/*` page URLs permanently redirect; static `/data/nomads/*` URLs are unchanged.
 - Nomad places: `https://hashtagweb3.com/data/nomads/places.json` (compact rows; schema in the OpenAPI description)
 - Passport index: `https://hashtagweb3.com/data/nomads/passports.json`; selected passport: `/data/nomads/passports/{id}.json`
 - Nomad data is an attributed reference snapshot, not live pricing or immigration advice. Sources: `https://hashtagweb3.com/nomad-data-notices.txt`.

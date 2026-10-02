@@ -145,8 +145,8 @@ export default function ResourcesPage() {
               </div>
               <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
                 <ToolCard href="/nomads" label="Explore cities" description="City guides with living costs, climate, workspaces and local communities." />
-                <ToolCard href="/nomads/places" label="Find a place to work or stay" description="Search coworking spaces, coliving, apartments, hostels and guesthouses." />
-                <ToolCard href="/nomads/cost-of-living" label="Plan your budget" description="Compare monthly costs and see what remains from your take-home income." />
+                <ToolCard href="/places" label="Find a place to work or stay" description="Search coworking spaces, coliving, apartments, hostels and guesthouses." />
+                <ToolCard href="/cost-of-living" label="Plan your budget" description="Compare monthly costs and see what remains from your take-home income." />
                 <ToolCard href="/digital-nomad-visas" label="Visas & passport entry" description="Browse longer-stay program references and short-visit passport requirements." />
               </div>
             </section>
