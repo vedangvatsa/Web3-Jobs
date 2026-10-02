@@ -20,6 +20,10 @@
     "2026-10-02:morning": [
       "operations166",
       "isss"
+    ],
+    "2026-10-02:afternoon": [
+      "pm157",
+      "pm156"
     ]
   },
   "jobs": {
@@ -372,6 +376,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7691911503791787296"
         }
       }
+    },
+    "pm157": {
+      "slot": "2026-10-02:afternoon",
+      "selectedAt": "2026-10-02T11:31:05.928Z",
+      "verifiedAt": "2026-10-02T11:31:05.928Z",
+      "captions": {
+        "instagram": "Stripe is hiring\nAccount Executive, Product Sales - Crypto\n\nSF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Account Executive, Product Sales - Crypto at Stripe. SF, NYC.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "SF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Account Executive, Product Sales - Crypto at Stripe"
+      },
+      "receipts": {}
+    },
+    "pm156": {
+      "slot": "2026-10-02:afternoon",
+      "selectedAt": "2026-10-02T11:31:05.929Z",
+      "verifiedAt": "2026-10-02T11:31:05.929Z",
+      "captions": {
+        "instagram": "Stripe is hiring\nAccount Executive, Product - Local Payment Methods\n\nUS-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Account Executive, Product - Local Payment Methods at Stripe. US-CA.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "US-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Account Executive, Product - Local Payment Methods at Stripe"
+      },
+      "receipts": {}
     }
   }
 }
