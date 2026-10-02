@@ -315,11 +315,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "CoinJar is hiring\nFinancial Crime Operations Officer (Melbourne, AU)\n\nMelbourne, Australia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T03:41:25.356Z",
           "containerId": "17915884347461009",
-          "postId": "18382785637300053"
+          "postId": "18382785637300053",
+          "url": "https://www.instagram.com/reel/Dd-iukyEb-2/"
         }
       }
     },
