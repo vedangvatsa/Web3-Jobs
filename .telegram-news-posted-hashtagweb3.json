@@ -647,6 +647,9 @@
   "https://hashtagweb3.com/ecb-pontes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/fairshake-ohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/zeta-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+  "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1849,6 +1852,12 @@
   "Fairshake Commits $30 Million to Oppose Sherrod Brown in Ohio Senate Race",
   "Ethereum launches zkAPI for private prepaid payments",
   "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+  "ZetaChain Voters Approve Migration From Cosmos to Solana",
+  "ZetaChain Voters Back Solana Migration in Proposal 68",
+  "US Treasury designates A7 network for $179 billion crypto laundering",
+  "US Designates Russia's A7 Network as Transnational Criminal Organization",
+  "Cboe plans to offer continuous VIX options trading",
+  "Cboe wants to turn VIX into a never-ending trade",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2046,5 +2055,8 @@
   "fp:agr|asset|center|challeng|circl|delay|digital|follow|hyperliquid|illinois",
   "fp:bank|bond|buy|central|digital|ecb|fund|invest|money|plan",
   "fp:30m|advertisement|brown|commit|cycl|dur|election|fairshak|fund|mailer",
-  "fp:access|anonymous|api|enabl|knowledg|mainnet|payment|prepaid|preserv|privacy"
+  "fp:access|anonymous|api|enabl|knowledg|mainnet|payment|prepaid|preserv|privacy",
+  "fp:approv|back|cosmo|determin|migration|official|pass|proposal68|secondary|solana",
+  "fp:179b|authority|back|bypass|criminal|designat|entity|federal|financial|launder",
+  "fp:access|aim|cbo|continuous|derivativ|enable24|end|exchang|index|never"
 ]
