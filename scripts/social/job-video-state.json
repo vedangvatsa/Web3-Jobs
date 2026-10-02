@@ -403,6 +403,12 @@
           "startedAt": "2026-10-02T11:32:11.095Z",
           "postId": "6abf963cb41a266eabf77350",
           "url": "https://www.youtube.com/watch?v=EhqOns_PUeQ"
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Account Executive, Product Sales - Crypto at Stripe. SF, NYC.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:18.146Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
