@@ -320,5 +320,49 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 155546,
     "sentAt": "2026-10-02T04:06:41.561Z"
+  },
+  "a789b7d0-3ca2-408f-8404-320a666c4676": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T11:32:15.782Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "8147304",
+        "slug": "marketing188",
+        "url": "https://hashtagweb3.com/marketing188?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockchain.com",
+        "title": "Performance Marketing Specialist"
+      },
+      {
+        "key": "427E4C8AA4",
+        "slug": "devrel3",
+        "url": "https://hashtagweb3.com/devrel3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Trail of Bits",
+        "title": "Senior Developer Relations Engineer"
+      },
+      {
+        "key": "1890d1d8-d473-42fc-847e-cb38f4d13343",
+        "slug": "operations97",
+        "url": "https://hashtagweb3.com/operations97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Squads",
+        "title": "Business Operations"
+      },
+      {
+        "key": "96d27537-f76c-4fc0-9f7a-d5a0070c6d6c",
+        "slug": "eng173",
+        "url": "https://hashtagweb3.com/eng173?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mural",
+        "title": "Forward Deployed Engineer"
+      },
+      {
+        "key": "480e7492-1c7d-434e-a157-49ebac3f39eb",
+        "slug": "compliance115",
+        "url": "https://hashtagweb3.com/compliance115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fun.xyz",
+        "title": "Head of Compliance"
+      }
+    ],
+    "message": "• Blockchain.com is hiring <a href=\"https://hashtagweb3.com/marketing188?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Performance Marketing Specialist</a>\n• Trail of Bits is hiring <a href=\"https://hashtagweb3.com/devrel3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Developer Relations Engineer</a>\n• Squads is hiring <a href=\"https://hashtagweb3.com/operations97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Operations</a>\n• Mural is hiring <a href=\"https://hashtagweb3.com/eng173?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Forward Deployed Engineer</a>\n• Fun.xyz is hiring <a href=\"https://hashtagweb3.com/compliance115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Compliance</a>",
+    "slotKey": "2026-10-02:afternoon"
   }
 }
