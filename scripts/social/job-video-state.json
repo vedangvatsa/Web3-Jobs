@@ -330,9 +330,10 @@
           "url": "https://www.youtube.com/watch?v=voAXzwmKeSU"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Financial Crime Operations Officer (Melbourne, AU) at CoinJar. Melbourne, Australia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-02T03:42:13.865Z"
+          "startedAt": "2026-10-02T03:42:13.865Z",
+          "postId": "6abf281745400a0e30088dbc"
         }
       }
     },
