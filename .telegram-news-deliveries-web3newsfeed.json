@@ -464,7 +464,7 @@
     "sentAt": "2026-10-02T04:07:58.096Z"
   },
   "c737c44e-9068-4938-b39e-718a701c76d6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T11:34:38.164Z",
     "stories": [
       {
@@ -493,6 +493,8 @@
         "originalTitle": "Cboe wants to turn VIX into a never-ending trade"
       }
     ],
-    "slotKey": "2026-10-02:afternoon"
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 65721,
+    "sentAt": "2026-10-02T11:34:40.483Z"
   }
 }
