@@ -431,7 +431,7 @@
     "sentAt": "2026-10-01T19:46:07.477Z"
   },
   "428f5176-b81f-4fad-a143-81fc6ee4fca1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T04:07:55.670Z",
     "stories": [
       {
@@ -459,6 +459,8 @@
         "originalTitle": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum"
       }
     ],
-    "slotKey": "2026-10-02:morning"
+    "slotKey": "2026-10-02:morning",
+    "messageId": 65720,
+    "sentAt": "2026-10-02T04:07:58.096Z"
   }
 }

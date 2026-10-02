@@ -671,6 +671,9 @@
   "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
   "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+  "https://hashtagweb3.com/ecb-pontes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1917,6 +1920,12 @@
   "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
   "Meta denies Muse AI accessed private messages without user consent",
   "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+  "ECB Launches Pontes and Plans Tokenized Bond Investments",
+  "ECB Launches Pontes Settlement Platform and Plans Tokenised Bond Buys",
+  "Ethereum zkAPI enables private prepaid API access",
+  "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
+  "NEAR Intents gives hacker 48-hour deadline to return funds",
+  "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2117,5 +2126,8 @@
   "fp:aragua|atm|cash|entity|gang|launder|link|network|sanction|stolen",
   "fp:agreement|asset|authority|both|coordinat|cryptocurrency|data|digital|firm|jurisdiction",
   "fp:000|750|border|complet|cross|day|dollar|financial|institution|liv",
-  "fp:access|back|claim|consent|controll|deny|disput|journalist|messag|meta"
+  "fp:access|back|claim|consent|controll|deny|disput|journalist|messag|meta",
+  "fp:bond|buy|ecb|eurosystem|fund|invest|investment|plan|platform|pont",
+  "fp:access|anonymous|api|can|enabl|knowledg|mainnet|mak|now|payment",
+  "fp:38m|deadlin|exploit|fund|general|giv|gives48|hacker|hacker48|hour"
 ]
