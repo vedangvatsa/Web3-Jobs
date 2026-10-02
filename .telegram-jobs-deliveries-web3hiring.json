@@ -688,5 +688,49 @@
     "slotKey": "2026-10-02:afternoon",
     "messageId": 16495,
     "sentAt": "2026-10-02T11:32:03.541Z"
+  },
+  "b8a4dbe3-2e4c-4945-9ac6-58a0da710b7f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T11:32:05.183Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "744000149883825",
+        "slug": "eng71",
+        "url": "https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "key": "2172f854-7005-4dde-8e33-de94aed0fb27",
+        "slug": "frontend15",
+        "url": "https://hashtagweb3.com/frontend15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hyperliquid Labs",
+        "title": "Senior Frontend Engineer"
+      },
+      {
+        "key": "8128786",
+        "slug": "an38",
+        "url": "https://hashtagweb3.com/an38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Data Analyst"
+      },
+      {
+        "key": "8240375",
+        "slug": "mgr118",
+        "url": "https://hashtagweb3.com/mgr118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "CRM and Lifecycle Manager II"
+      },
+      {
+        "key": "97e8afe6-3a21-4b1f-9a34-3490b0e59c7f",
+        "slug": "manager559",
+        "url": "https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Notabene",
+        "title": "Senior Customer Success Manager"
+      }
+    ],
+    "message": "• Solflare is hiring <a href=\"https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Engineer</a>\n• Hyperliquid Labs is hiring <a href=\"https://hashtagweb3.com/frontend15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Frontend Engineer</a>\n• DRW is hiring <a href=\"https://hashtagweb3.com/an38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Data Analyst</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/mgr118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">CRM and Lifecycle Manager II</a>\n• Notabene is hiring <a href=\"https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Customer Success Manager</a>",
+    "slotKey": "2026-10-02:afternoon"
   }
 }
