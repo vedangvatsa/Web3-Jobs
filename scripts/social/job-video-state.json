@@ -509,9 +509,10 @@
           "url": "https://www.youtube.com/watch?v=miPn_Wvul68"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Proposal Lead at Stripe. Chicago; Atlanta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-02T19:33:05.119Z"
+          "startedAt": "2026-10-02T19:33:05.119Z",
+          "postId": "6ac006f39df0308ea07c57eb"
         }
       }
     }
