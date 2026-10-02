@@ -400,5 +400,51 @@
     "slotKey": "2026-10-01:evening",
     "messageId": 155542,
     "sentAt": "2026-10-01T19:43:51.295Z"
+  },
+  "dffac905-cbfc-4d13-a845-87921af5f475": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T04:06:19.737Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtqBNPraDCBbRlz",
+        "slug": "vo6wux6s",
+        "name": "NTU Singapore to Jakarta: Master of Science in Blockchain (MSBT) Info Session",
+        "startDate": "2026-10-02T06:30:00.000Z",
+        "keys": [
+          "luma-batch-evtqbnpradcbbrlz",
+          "page:vo6wux6s:2026-10-02",
+          "luma:evt-qbnpradcbbrlzxd",
+          "luma-url:/vo6wux6s",
+          "event:ntusingaporetojakartamasterofscienceinblockchainmsbtinfosession:2026-10-02:jakarta"
+        ]
+      },
+      {
+        "id": "premier-cdnbitcoin",
+        "slug": "canadian",
+        "name": "Canadian Bitcoin Conference 2026",
+        "startDate": "2026-10-02T09:00:00.000Z",
+        "keys": [
+          "premier-cdnbitcoin",
+          "page:canadian:2026-10-02",
+          "event:canadianbitcoinconference2026:2026-10-02:toronto"
+        ]
+      },
+      {
+        "id": "luma-host-evt-evt-x18sFHsWoSwnaIP",
+        "slug": "mmhh",
+        "name": "Metropolis Hackathon Builder Day: London | $250,000 in prizes",
+        "startDate": "2026-10-02T09:00:00.000Z",
+        "keys": [
+          "luma-host-evt-evt-x18sfhswoswnaip",
+          "page:mmhh:2026-10-02",
+          "luma:evt-x18sfhswoswnaip",
+          "luma-url:/metropolis-lon-oct-2026",
+          "event:metropolishackathonbuilderdaylondon250000inprizes:2026-10-02:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-02:morning"
   }
 }
