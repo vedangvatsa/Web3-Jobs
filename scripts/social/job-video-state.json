@@ -323,10 +323,11 @@
           "url": "https://www.instagram.com/reel/Dd-iukyEb-2/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Melbourne, Australia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T03:42:06.423Z",
-          "postId": "6abf28108bccc8e641686bb3"
+          "postId": "6abf28108bccc8e641686bb3",
+          "url": "https://www.youtube.com/watch?v=voAXzwmKeSU"
         }
       }
     },
