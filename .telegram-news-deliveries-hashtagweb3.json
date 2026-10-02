@@ -465,7 +465,7 @@
     "sentAt": "2026-10-02T11:34:59.561Z"
   },
   "facd8b30-e603-4420-b596-7b4649840565": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T19:34:22.402Z",
     "stories": [
       {
@@ -493,6 +493,8 @@
         "originalTitle": "Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported"
       }
     ],
-    "slotKey": "2026-10-02:evening"
+    "slotKey": "2026-10-02:evening",
+    "messageId": 155568,
+    "sentAt": "2026-10-02T19:34:25.864Z"
   }
 }
