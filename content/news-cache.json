@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-01T19:43:11.693Z",
+  "generatedAt": "2026-10-02T03:41:51.243Z",
   "items": [
+    {
+      "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+      "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 02 Oct 2026 02:02:13 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "SEC moves to clear custody hurdle for advisers offering crypto ",
+      "link": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 02 Oct 2026 01:07:08 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Custody requirements have kept some investment advisers from offering certain crypto to clients, a regulatory hurdle the SEC’s proposal could remove.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+      "link": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+      "pubDate": "Fri, 02 Oct 2026 00:22:58 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+      "source": "The Block"
+    },
+    {
+      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+      "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 23:17:47 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Singapore’s crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it’s w...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "link": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 21:07:45 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly $710 million at cu...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Trump to host 3rd ‘exclusive’ memecoin event amid corruption claims",
+      "link": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 01 Oct 2026 21:00:11 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar event...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
       "link": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
@@ -80,14 +128,6 @@
       "creator": "Turner Wright",
       "contentSnippet": "The platform said it will compensate users affected by the hack, which stemmed from a bug that affected deposits and withdrawals.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
-      "link": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
-      "pubDate": "Thu, 01 Oct 2026 15:17:11 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.",
-      "source": "The Block"
     },
     {
       "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
@@ -426,14 +466,6 @@
       "source": "The Block"
     },
     {
-      "title": "Singapore crypto activity grows 55% as broader region contracts",
-      "link": "https://cointelegraph.com/news/singapore-crypto-economy-284b-institutional-activity-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Singapore’s crypto economy grew 55.4% to $284 billion as institutional-platform activity surged 94%, while the Philippines, Thailand and Vietnam stood...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
       "link": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
       "pubDate": "Wed, 30 Sep 2026 11:54:22 +0000",
@@ -450,28 +482,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
-      "link": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 11:23:56 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "CryptoQuant flagged potential selling pressure as deposit transactions and depositing addresses hit their highest counts since October 2025.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
       "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
       "pubDate": "Wed, 30 Sep 2026 11:20:09 +0000",
       "creator": "Omkar Godbole",
       "contentSnippet": "Your day-ahead look for Sept. 30, 2026",
       "source": "Coindesk"
-    },
-    {
-      "title": "A single market worth protecting: Getting the MiCA review right ",
-      "link": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 30 Sep 2026 11:00:00 +0000",
-      "creator": "Simon Schneider",
-      "contentSnippet": "As the European Commission’s MiCA review consultation closes, Europe must decide whether its crypto rulebook is protecting the market without making i...",
-      "source": "Cointelegraph"
     },
     {
       "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the ‘paperwork crisis’",
@@ -498,22 +514,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
-      "pubDate": "Wed, 30 Sep 2026 10:11:36 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin held near $83,000 as the 30-year Treasury yield topped 5.6%, while DeFi tokens reversed and lighter fell after Robinhood unveiled U.S. perps.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Kalshi to end liquidity incentive program amid wash trading allegations",
-      "link": "https://www.theblock.co/news/business/2026-09-30-kalshi-ends-trader-incentive-program-417247",
-      "pubDate": "Wed, 30 Sep 2026 07:21:08 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "Its monthly volume reached $52.98 billion in September as of Sept. 29, marking an all-time high, even as September data remains incomplete.",
-      "source": "The Block"
-    },
-    {
       "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
       "link": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
       "pubDate": "Tue, 29 Sep 2026 21:46:03 +0000",
@@ -527,22 +527,6 @@
       "pubDate": "Tue, 29 Sep 2026 20:36:04 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bitwise's NRR began trading on NYSE Arca Tuesday, giving brokerage accounts NEAR exposure and staking rewards as the AI-focused token soars.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Is the Red September Curse Over? Bitcoin Set for Best September on Record",
-      "link": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
-      "pubDate": "Tue, 29 Sep 2026 16:50:46 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bitcoin is up 7.33% in September, edging past 2024 as the best September on record, with one day left before the monthly candle closes.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Hovers at $84K as Treasury Yields Hold Near Multi-Year Highs",
-      "link": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
-      "pubDate": "Tue, 29 Sep 2026 14:07:44 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.",
       "source": "Decrypt"
     }
   ]
