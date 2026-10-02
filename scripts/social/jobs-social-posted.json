@@ -1,5 +1,5 @@
 {
-  "lastIndex": 317,
+  "lastIndex": 319,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -129,7 +129,9 @@
     "eng339",
     "be41",
     "pm84",
-    "sec61"
+    "sec61",
+    "mgr86",
+    "mgr85"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4644,516 +4646,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-25T03:51:22.563Z",
       "postId": "18449861734120522",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xaf56aa1a17bf5732fb123591cd5c45cf70745cda",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xd2f53e81d5258a5d612e2f191de3c808a24a5333",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x16149fb5e5ee8aef064de064f9e06d4b97a0d98f",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x8b2c98da294f513a66ab026c17a63b9760cda62f",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xfcec5275f4a570a951a443167a9e216351674b6f",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0x458e138cd7b0b25dfb952a016e10fc69aa337ebf",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xb9ec4b822e7035df07fa525c24b8750adcb14c40",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "0xcf7d0fc4bc1f119f618eb235b0105907e98e8541",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "6abac2b4f603bfa76f474985",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "6abac2be5a33707db8f034fb",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "urn:li:share:7510423326624800769",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "691827047618629_1100827922524442",
-      "verification": "verified"
-    },
-    {
-      "slug": "be30",
-      "company": "Coins.ph",
-      "title": "Backend Engineer (Junior to Mid-Level)",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T19:40:12.759Z",
-      "postId": "18097132160419364",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "x",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "6abac2dff603bfa76f474d2e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "StraitsX is hiring Commercial Intern\n\nhttps://hashtagweb3.com/int14/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104657729574846855"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "threads",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "18116744216470952",
-      "verification": "verified",
-      "expectedText": "StraitsX is hiring Commercial Intern: https://hashtagweb3.com/int14/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd19ZYRGWYN",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwm32mlkj32e",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x39c30f72ecd60a56a775078611028ad10eac5afa",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xb6700c0fd41248e3363c4900646764a0919a616a",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xb896280b8c5ab21cf829c3c1f651dfabc01efa8f",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xce3a15ac78605c0a0bc470e1397de802950c7d94",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xf871d350f4e159fe9f65fa305f85b3cdc1c3ae41",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x3b6b31b8bd6fde47e17e43fe40ef05b21afc6fcd",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x5c0caa7ae3e9cdde7ced37a2816617bab98c79f4",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xab406a93c1576e963214770749c637ccd21ffa68",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x9f5101295934fe083c9314c1402297162d17ad29",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x5b207c372888f42408d58bbdfe3de77edf8c1b97",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x25237b4a92c034c0bf9430d49010827ab7ce4fb9",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x12046a3fc09d3e2cf08bcd663e9b0fa51f11417f",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x146d0604f7afbeb73b625e3697f8ea8a99350f2f",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xd3c06fa04ce42bff429015edde0f990f379825fc",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xc23896ebf3db1ce2d54eb621de95618520730adc",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0x070a6800240ad1014ecd41062989344e0c0b3201",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "0xaaa302e72d636b8e9b79a2155c9a71e8eb8b9dbf",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "6abac2f67ea6291e9da0981a",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "6abac3005a33707db8f03e09",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "linkedin",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "urn:li:share:7510423605168480256",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "facebook",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "691827047618629_1100828569191044",
-      "verification": "verified"
-    },
-    {
-      "slug": "int14",
-      "company": "StraitsX",
-      "title": "Commercial Intern",
-      "platform": "instagram",
-      "postedAt": "2026-09-28T19:41:19.523Z",
-      "postId": "18016319912956850",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "x",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "6abafe01c5484f9414a4b93e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Kraken is hiring Community Lead - Kraken Pro\n\nhttps://hashtagweb3.com/cm5/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104721220654518610"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "threads",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "18112344332595719",
-      "verification": "verified",
-      "expectedText": "Kraken is hiring Community Lead - Kraken Pro: https://hashtagweb3.com/cm5/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd2aRLyD57A",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "bluesky",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwmj5n45nc2h",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0xf2ed7c769c06aa1771277b356e0285158bc688fe",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0x1555bd53a3842f872d95f37207865a64bfadf698",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0x7df1bd3c06107535eb6e0ace1515354e7545030a",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0xe4a22c10e39c19ae8a159497dbdd201ad0effc67",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0xe05dd54a6f11b05a1a33af9080f1eaefa21fac4a",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0xaa3f6384f63590f6ad9ee1c596df7d0f3b91e811",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0x7e02029391b251582b0010d4270ae209f198baca",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0x5ea8507dd9dbff49ada329363a6c4e950204ae77",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cm5",
-      "company": "Kraken",
-      "title": "Community Lead - Kraken Pro",
-      "platform": "farcaster",
-      "postedAt": "2026-09-28T23:53:36.939Z",
-      "postId": "0x2de5aac4117cb631e4ae6924903944cd4902b40c",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10106,6 +9598,516 @@
       "platform": "instagram",
       "postedAt": "2026-10-01T19:44:42.772Z",
       "postId": "18118753564941591",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "x",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "6abf2dbec07bdc2fc26938d1",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Robinhood is hiring Customer Care, Program Manager\n\nhttps://hashtagweb3.com/mgr86/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105871993547485594"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "18340815037282869",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Customer Care, Program Manager: https://hashtagweb3.com/mgr86/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd-llEdkfuQ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwuiofksex2i",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x28cecf67f803e26e6689436c0843a9cef1ae0e28",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x02a8cd8a20a38092ab2f3949ca309774091d4201",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x48550112181ba368eceade4183fa79bdccff0eba",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x8606adc32934092e51d8e170a763f7ce4f1d3106",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x50fe07e5251ac1b4cf6391f7513cf0aa305a3dd0",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x5264f64d701764318448f9c44c6798206cf7871b",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x5f2af3c998d3d3ca6df8bb06cbb516e27f0c10bf",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x1f10edf63be118661d5bda43f84044679df96c6a",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x3a43e7d5f439d45e4631460d83c95cb908a6acc8",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0xea4bb0624d95502444928a2254e0eb725c5d7840",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x5910c1566bc4d5692428b8af658e7f51892e8ea3",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0xdba5ec848b3d2c2194bdda2fdead4154bf263b5b",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x15d3d82cb4a36b72e98913fdcdc3be639cb08e7f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x7a21546a15512eb69bceb3e232db24456a30c27b",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x4732149eaf3bfd4cd2677c10afe7cff1b9658a02",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0x377448b1f5d482dd0a576ed0e7f6e23c114a5dce",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "0xc293236d3555055da2026c4f75498420738f5ecd",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "6abf2dd28bccc8e641692727",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "6abf2ddc22215530c713702d",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "urn:li:share:7511637854092148736",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "691827047618629_1104068985533669",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr86",
+      "company": "Robinhood",
+      "title": "Customer Care, Program Manager",
+      "platform": "instagram",
+      "postedAt": "2026-10-02T04:06:22.409Z",
+      "postId": "18037194776840010",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "x",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "6abf2dfcb435ee01190f2259",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Binance is hiring HRIS Manager\n\nhttps://hashtagweb3.com/mgr85/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2105872253069963278"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "17914508106531169",
+      "verification": "verified",
+      "expectedText": "Binance is hiring HRIS Manager: https://hashtagweb3.com/mgr85/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd-lsmNkaAL",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwuiq7izcr2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x7e383cc0ee79511cd6321e3a6d6fa2cdf520c413",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xe6aac17ced4799198156fef01e6d17e790fb9d3c",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xb82f817599978d5834983e0685b51155f6075f0f",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xb97a25889763217b5dc3a2dbd11098f5fb6273ef",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xa56c4384eb13a174faeddc1a03915c38e9c7939d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x7fb589dec940929171a1b8c8174dadbcb79a0b19",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xd9be1d0b79a072740dcedb9b41790febfb594028",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x2f303efd83ac5a70420c3634ebd89def6d1e97a4",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x7069785efd785d942ede68e2da2ebc286173aa3a",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xb78abe85ca3b0b84a761d0195460f515e93da555",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xf94212536352b81850700a5ab7f4914eced94cf7",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x4c97a0ca61445a4b68ea7cea49753f1927cbe7c3",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x7c8a279eb688da0eecc8594709e461a4f815421c",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x80ba166655d666187a5575206447fe9473ef7084",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0xe548571514264a9b08ad6e285150e59aa096c61a",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x74840f8d1b9839d1814e7f4d0733ec661d52f8d1",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "0x92eb09971d83f173012fba43860f1af8eb5a8eb5",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "6abf2e0eb435ee01190f24f8",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "6abf2e1845400a0e30095650",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "urn:li:share:7511638106907881473",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "691827047618629_1104069628866938",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr85",
+      "company": "Binance",
+      "title": "HRIS Manager",
+      "platform": "instagram",
+      "postedAt": "2026-10-02T04:07:24.433Z",
+      "postId": "18079594004413587",
       "verification": "verified"
     }
   ]
