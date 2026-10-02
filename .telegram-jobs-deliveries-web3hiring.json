@@ -690,7 +690,7 @@
     "sentAt": "2026-10-02T11:32:03.541Z"
   },
   "b8a4dbe3-2e4c-4945-9ac6-58a0da710b7f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T11:32:05.183Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -731,6 +731,8 @@
       }
     ],
     "message": "• Solflare is hiring <a href=\"https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Engineer</a>\n• Hyperliquid Labs is hiring <a href=\"https://hashtagweb3.com/frontend15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Frontend Engineer</a>\n• DRW is hiring <a href=\"https://hashtagweb3.com/an38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Data Analyst</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/mgr118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">CRM and Lifecycle Manager II</a>\n• Notabene is hiring <a href=\"https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Customer Success Manager</a>",
-    "slotKey": "2026-10-02:afternoon"
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 97,
+    "sentAt": "2026-10-02T11:32:07.277Z"
   }
 }
