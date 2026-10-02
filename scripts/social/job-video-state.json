@@ -469,6 +469,12 @@
           "postId": "18126751999868148",
           "url": "https://www.instagram.com/reel/DeAPhsjDhCm/",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "creating",
+          "text": "Austin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:48.511Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
