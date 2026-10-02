@@ -424,9 +424,11 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Stripe is hiring\nAccount Executive, Product - Local Payment Methods\n\nUS-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-02T11:32:21.339Z"
+          "startedAt": "2026-10-02T11:32:21.339Z",
+          "containerId": "17915936259461009",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     }
