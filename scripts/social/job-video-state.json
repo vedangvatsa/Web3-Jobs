@@ -422,7 +422,13 @@
         "youtube": "US-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
         "youtubeTitle": "Account Executive, Product - Local Payment Methods at Stripe"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Stripe is hiring\nAccount Executive, Product - Local Payment Methods\n\nUS-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:21.339Z"
+        }
+      }
     }
   }
 }
