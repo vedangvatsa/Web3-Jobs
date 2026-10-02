@@ -389,11 +389,13 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Stripe is hiring\nAccount Executive, Product Sales - Crypto\n\nSF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T11:31:08.609Z",
           "containerId": "17915935902461009",
-          "postId": "18141746440521136"
+          "postId": "18141746440521136",
+          "url": "https://www.instagram.com/reel/Dd_Yhvpkwob/",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
