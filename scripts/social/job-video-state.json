@@ -462,11 +462,13 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Bitdeer is hiring\nPayroll Manager\n\nAustin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T19:31:26.851Z",
           "containerId": "17915994732461009",
-          "postId": "18126751999868148"
+          "postId": "18126751999868148",
+          "url": "https://www.instagram.com/reel/DeAPhsjDhCm/",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
