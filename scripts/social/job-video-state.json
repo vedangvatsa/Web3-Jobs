@@ -494,7 +494,14 @@
         "youtube": "Chicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
         "youtubeTitle": "Proposal Lead at Stripe"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Stripe is hiring\nProposal Lead\n\nChicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:54.552Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        }
+      }
     }
   }
 }
