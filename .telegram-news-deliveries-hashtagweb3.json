@@ -398,7 +398,7 @@
     "sentAt": "2026-10-01T19:45:53.760Z"
   },
   "95ba240f-0980-4127-90f4-6d16c4c5b46c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T04:07:56.601Z",
     "stories": [
       {
@@ -426,6 +426,8 @@
         "originalTitle": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet"
       }
     ],
-    "slotKey": "2026-10-02:morning"
+    "slotKey": "2026-10-02:morning",
+    "messageId": 155547,
+    "sentAt": "2026-10-02T04:08:00.733Z"
   }
 }

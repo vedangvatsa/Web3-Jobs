@@ -644,6 +644,9 @@
   "https://hashtagweb3.com/near-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
   "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+  "https://hashtagweb3.com/ecb-pontes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fairshake-ohio?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1840,6 +1843,12 @@
   "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
   "Illinois postpones crypto tax implementation following industry lawsuit",
   "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+  "ECB Launches Pontes Platform and Will Buy Tokenised Bonds",
+  "ECB Launches Pontes Settlement Platform and Plans Tokenised Bond Buys",
+  "Fairshake Commits $30 Million to Oppose Senator Sherrod Brown",
+  "Fairshake Commits $30 Million to Oppose Sherrod Brown in Ohio Senate Race",
+  "Ethereum launches zkAPI for private prepaid payments",
+  "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2034,5 +2043,8 @@
   "fp:aragua|atm|bank|cash|cryptocurrency|entity|group|launder|money|mov",
   "fp:approv|approval|arca|await|bitwis|clear|etf|featur|final|follow",
   "fp:473m|allow|approv|back|begin|claim|consent|evernorth|firm|larg",
-  "fp:agr|asset|center|challeng|circl|delay|digital|follow|hyperliquid|illinois"
+  "fp:agr|asset|center|challeng|circl|delay|digital|follow|hyperliquid|illinois",
+  "fp:bank|bond|buy|central|digital|ecb|fund|invest|money|plan",
+  "fp:30m|advertisement|brown|commit|cycl|dur|election|fairshak|fund|mailer",
+  "fp:access|anonymous|api|enabl|knowledg|mainnet|payment|prepaid|preserv|privacy"
 ]
