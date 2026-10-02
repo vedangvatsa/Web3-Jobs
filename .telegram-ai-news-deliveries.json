@@ -438,7 +438,7 @@
     "sentAt": "2026-10-02T11:34:19.180Z"
   },
   "49eb166e-7633-41ea-95b2-beed5db8dab4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T19:33:49.211Z",
     "stories": [
       {
@@ -468,6 +468,8 @@
         "originalTitle": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
       }
     ],
-    "slotKey": "2026-10-02:evening"
+    "slotKey": "2026-10-02:evening",
+    "messageId": 193312,
+    "sentAt": "2026-10-02T19:33:52.155Z"
   }
 }

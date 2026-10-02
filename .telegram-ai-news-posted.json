@@ -653,6 +653,9 @@
   "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
   "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
   "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+  "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+  "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+  "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1742,6 +1745,12 @@
   "A new contest pits competitors against each other in a race to biological youth",
   "Large language models lack genuine reasoning capabilities",
   "Don’t be fooled—LLMs don’t reason",
+  "US arrests executive for smuggling Nvidia chips to China",
+  "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+  "TechCrunch offers $75 Disrupt 2026 passes for laid-off workers",
+  "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+  "Apple to restrict macOS Full Disk Access over AI risks",
+  "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1912,5 +1921,8 @@
   "fp:add|apparel|can|cloth|favorit|featur|item|library|now|openai",
   "fp:accessibility|audio|compar|cost|devic|glass|hardwar|hear|improv|integrat",
   "fp:achiev|against|age|biological|can|cellular|competitor|contest|decreas|each",
-  "fp:alphago|cannot|capability|developer|don|explain|famous|fool|genuin|lack"
+  "fp:alphago|cannot|capability|developer|don|explain|famous|fool|genuin|lack",
+  "fp:300m|accus|arrest|authority|ceo|charg|china|chip|dollar|executiv",
+  "fp:affect|can|disrupt2026|don|event|expo|first100|individual|laid|layoff",
+  "fp:access|agent|appl|assistant|becaus|capabl|control|data|disk|due"
 ]
