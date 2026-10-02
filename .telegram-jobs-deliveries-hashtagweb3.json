@@ -366,5 +366,49 @@
     "slotKey": "2026-10-02:afternoon",
     "messageId": 155562,
     "sentAt": "2026-10-02T11:32:20.184Z"
+  },
+  "ce29170b-c748-40c3-91a2-9e559d282870": {
+    "status": "reserved",
+    "reservedAt": "2026-10-02T19:32:44.712Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "5426182008",
+        "slug": "sls44",
+        "url": "https://hashtagweb3.com/sls44?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Breeze Cash",
+        "title": "Business Development Representative"
+      },
+      {
+        "key": "5183737008",
+        "slug": "manager463",
+        "url": "https://hashtagweb3.com/manager463?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Partner Manager"
+      },
+      {
+        "key": "8BDD06ED6C",
+        "slug": "operations43",
+        "url": "https://hashtagweb3.com/operations43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ajaib Crypto",
+        "title": "Finance Operations Staff"
+      },
+      {
+        "key": "4800156008",
+        "slug": "marketing17",
+        "url": "https://hashtagweb3.com/marketing17?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Orderly Network",
+        "title": "Web3 Growth Marketer"
+      },
+      {
+        "key": "JR2001145",
+        "slug": "engineer665",
+        "url": "https://hashtagweb3.com/engineer665?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinDesk",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Breeze Cash is hiring <a href=\"https://hashtagweb3.com/sls44?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Representative</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/manager463?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Partner Manager</a>\n• Ajaib Crypto is hiring <a href=\"https://hashtagweb3.com/operations43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Finance Operations Staff</a>\n• Orderly Network is hiring <a href=\"https://hashtagweb3.com/marketing17?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Web3 Growth Marketer</a>\n• CoinDesk is hiring <a href=\"https://hashtagweb3.com/engineer665?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-02:evening"
   }
 }
