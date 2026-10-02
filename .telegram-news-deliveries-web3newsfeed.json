@@ -498,7 +498,7 @@
     "sentAt": "2026-10-02T11:34:40.483Z"
   },
   "1716db16-50ea-4cd4-82f9-9dabdfbaf6db": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T19:34:41.479Z",
     "stories": [
       {
@@ -528,6 +528,8 @@
         "originalTitle": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds"
       }
     ],
-    "slotKey": "2026-10-02:evening"
+    "slotKey": "2026-10-02:evening",
+    "messageId": 65722,
+    "sentAt": "2026-10-02T19:34:45.175Z"
   }
 }

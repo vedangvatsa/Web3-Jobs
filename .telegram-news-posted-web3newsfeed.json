@@ -677,6 +677,9 @@
   "https://hashtagweb3.com/sec-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
   "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+  "https://hashtagweb3.com/near-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1935,6 +1938,12 @@
   "US Designates Russia's A7 Network as Transnational Criminal Organization",
   "Cboe Seeks 24/7 Trading for VIX Index Products",
   "Cboe wants to turn VIX into a never-ending trade",
+  "SEC Approves Bitwise NEAR ETF for NYSE Arca Listing",
+  "Bitwise NEAR ETF Clears SEC Registration and NYSE Arca Listing",
+  "Blast to shut down Ethereum scaling network",
+  "Blast to wind down Ethereum L2 after costs outpace revenue",
+  "United States spot Bitcoin ETFs record $2.7 billion inflow",
+  "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2141,5 +2150,8 @@
   "fp:38m|deadlin|exploit|fund|general|giv|gives48|hacker|hacker48|hour",
   "fp:adviser|allow|asset|custodian|custody|fund|investment|let|propos|rul",
   "fp:179b|aim|block|criminal|designat|dollar|federal|front|group|link",
-  "fp:benchmark|cbo|continuous|daily|end|exchang|expand|index|never|operator"
+  "fp:benchmark|cbo|continuous|daily|end|exchang|expand|index|never|operator",
+  "fp:approv|arca|bitwis|clear|component|etf|fund|includ|list|near",
+  "fp:asset|back|blast|ceas|cost|direct|down|exceed|migrat|network",
+  "fp:27b|demand|drov|dur|etf|inflow|institutional|investment|largest|log"
 ]
