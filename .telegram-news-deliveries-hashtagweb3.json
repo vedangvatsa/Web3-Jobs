@@ -429,5 +429,72 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 155547,
     "sentAt": "2026-10-02T04:08:00.733Z"
+  },
+  "3ee66744-2f6e-4bfd-a76d-b2ff49ee1699": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T11:34:57.052Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "ZetaChain Voters Approve Migration From Cosmos to Solana",
+        "summary": "The vote passed with 99.4% support, but a secondary vote will determine the official transition timeline.",
+        "link": "https://hashtagweb3.com/zeta-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ZetaChain Voters Back Solana Migration in Proposal 68"
+      },
+      {
+        "index": 2,
+        "headline": "US Treasury designates A7 network for $179 billion crypto laundering",
+        "summary": "Federal authorities designated the Russian organization as a criminal entity for using a ruble-backed token to bypass financial systems.",
+        "event_rationale": "This is a major government enforcement action targeting a specific high-volume crypto-based money laundering operation.",
+        "link": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+        "source": "Decrypt",
+        "originalTitle": "US Designates Russia's A7 Network as Transnational Criminal Organization"
+      },
+      {
+        "index": 1,
+        "headline": "Cboe plans to offer continuous VIX options trading",
+        "summary": "The exchange operator aims to enable 24/7 access to its volatility index derivatives.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+        "source": "CoinDesk",
+        "originalTitle": "Cboe wants to turn VIX into a never-ending trade"
+      }
+    ],
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 155563,
+    "sentAt": "2026-10-02T11:34:59.561Z"
+  },
+  "facd8b30-e603-4420-b596-7b4649840565": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T19:34:22.402Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "NEAR Intents loses $3.8 million following smart contract exploit",
+        "summary": "Developers paused cross-chain operations and pledged full reimbursements after a bug drained funds from the Omni system.",
+        "link": "https://hashtagweb3.com/near-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NEAR Intents loses $3.8 million in smart contract exploit"
+      },
+      {
+        "index": -1,
+        "headline": "SEC proposes new crypto custody rules for investment advisers",
+        "summary": "Advisers could self-custody assets while state trust companies gain permission to serve as digital asset custodians.",
+        "link": "https://hashtagweb3.com/sec-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC proposes crypto custody rules for advisers and funds"
+      },
+      {
+        "index": -1,
+        "headline": "Fraudsters attempted $10 million card fraud on Polymarket",
+        "summary": "Payment processor Checkout.com rejected over 80 percent of peak illicit deposit attempts made in February.",
+        "link": "https://hashtagweb3.com/polymarket-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported"
+      }
+    ],
+    "slotKey": "2026-10-02:evening",
+    "messageId": 155568,
+    "sentAt": "2026-10-02T19:34:25.864Z"
   }
 }

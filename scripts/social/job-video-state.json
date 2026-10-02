@@ -20,6 +20,14 @@
     "2026-10-02:morning": [
       "operations166",
       "isss"
+    ],
+    "2026-10-02:afternoon": [
+      "pm157",
+      "pm156"
+    ],
+    "2026-10-02:evening": [
+      "mgr88",
+      "pro"
     ]
   },
   "jobs": {
@@ -370,6 +378,142 @@
           "startedAt": "2026-10-02T03:45:09.523Z",
           "postId": "6abf28c722215530c712d0c9",
           "url": "https://tiktok.com/@hashtagweb3/video/7691911503791787296"
+        }
+      }
+    },
+    "pm157": {
+      "slot": "2026-10-02:afternoon",
+      "selectedAt": "2026-10-02T11:31:05.928Z",
+      "verifiedAt": "2026-10-02T11:31:05.928Z",
+      "captions": {
+        "instagram": "Stripe is hiring\nAccount Executive, Product Sales - Crypto\n\nSF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Account Executive, Product Sales - Crypto at Stripe. SF, NYC.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "SF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Account Executive, Product Sales - Crypto at Stripe"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Stripe is hiring\nAccount Executive, Product Sales - Crypto\n\nSF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:31:08.609Z",
+          "containerId": "17915935902461009",
+          "postId": "18141746440521136",
+          "url": "https://www.instagram.com/reel/Dd_Yhvpkwob/",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "SF, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:11.095Z",
+          "postId": "6abf963cb41a266eabf77350",
+          "url": "https://www.youtube.com/watch?v=EhqOns_PUeQ"
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Account Executive, Product Sales - Crypto at Stripe. SF, NYC.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:18.146Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        }
+      }
+    },
+    "pm156": {
+      "slot": "2026-10-02:afternoon",
+      "selectedAt": "2026-10-02T11:31:05.929Z",
+      "verifiedAt": "2026-10-02T11:31:05.929Z",
+      "captions": {
+        "instagram": "Stripe is hiring\nAccount Executive, Product - Local Payment Methods\n\nUS-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Account Executive, Product - Local Payment Methods at Stripe. US-CA.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "US-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Account Executive, Product - Local Payment Methods at Stripe"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "pending",
+          "text": "Stripe is hiring\nAccount Executive, Product - Local Payment Methods\n\nUS-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:21.339Z",
+          "containerId": "17915936259461009",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "US-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:26.653Z",
+          "postId": "6abf964c1b2a6a8e155c39de",
+          "url": "https://www.youtube.com/watch?v=GQCygWNqZo0"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Account Executive, Product - Local Payment Methods at Stripe. US-CA.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T11:32:34.280Z",
+          "postId": "6abf965381e421bfcd793527",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692032039763135776"
+        }
+      }
+    },
+    "mgr88": {
+      "slot": "2026-10-02:evening",
+      "selectedAt": "2026-10-02T19:31:24.232Z",
+      "verifiedAt": "2026-10-02T19:31:24.232Z",
+      "captions": {
+        "instagram": "Bitdeer is hiring\nPayroll Manager\n\nAustin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Payroll Manager at Bitdeer. Austin, TX.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Austin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Payroll Manager at Bitdeer"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Bitdeer is hiring\nPayroll Manager\n\nAustin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:31:26.851Z",
+          "containerId": "17915994732461009",
+          "postId": "18126751999868148",
+          "url": "https://www.instagram.com/reel/DeAPhsjDhCm/",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "creating",
+          "text": "Austin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:48.511Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Payroll Manager at Bitdeer. Austin, TX.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:51.595Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        }
+      }
+    },
+    "pro": {
+      "slot": "2026-10-02:evening",
+      "selectedAt": "2026-10-02T19:31:24.232Z",
+      "verifiedAt": "2026-10-02T19:31:24.232Z",
+      "captions": {
+        "instagram": "Stripe is hiring\nProposal Lead\n\nChicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Proposal Lead at Stripe. Chicago; Atlanta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Chicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Proposal Lead at Stripe"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Stripe is hiring\nProposal Lead\n\nChicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:54.552Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "Chicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:57.759Z",
+          "postId": "6ac006eb918015097ad607fd",
+          "url": "https://www.youtube.com/watch?v=miPn_Wvul68"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Proposal Lead at Stripe. Chicago; Atlanta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:33:05.119Z",
+          "postId": "6ac006f39df0308ea07c57eb",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692155878895652128"
         }
       }
     }

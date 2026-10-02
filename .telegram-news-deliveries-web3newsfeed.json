@@ -462,5 +462,74 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 65720,
     "sentAt": "2026-10-02T04:07:58.096Z"
+  },
+  "c737c44e-9068-4938-b39e-718a701c76d6": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T11:34:38.164Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC Proposes Crypto Custody Rules for Investment Advisers",
+        "summary": "Proposed SEC rules allow advisers to self-custody crypto assets and let state trust companies serve as custodians.",
+        "link": "https://hashtagweb3.com/sec-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC proposes crypto custody rules for advisers and funds"
+      },
+      {
+        "index": 2,
+        "headline": "US Treasury designates Russia's A7 Network as criminal group",
+        "summary": "Federal rules aim to block front companies linked to a ruble token that processed 179 billion dollars.",
+        "event_rationale": "Covers US sanctions targeting Russia's A7 crypto network, distinct from previous enforcement actions.",
+        "link": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
+        "source": "Decrypt",
+        "originalTitle": "US Designates Russia's A7 Network as Transnational Criminal Organization"
+      },
+      {
+        "index": 1,
+        "headline": "Cboe Seeks 24/7 Trading for VIX Index Products",
+        "summary": "The exchange operator plans to expand options trading on its volatility benchmark to a continuous daily schedule.",
+        "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+        "source": "CoinDesk",
+        "originalTitle": "Cboe wants to turn VIX into a never-ending trade"
+      }
+    ],
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 65721,
+    "sentAt": "2026-10-02T11:34:40.483Z"
+  },
+  "1716db16-50ea-4cd4-82f9-9dabdfbaf6db": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T19:34:41.479Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC Approves Bitwise NEAR ETF for NYSE Arca Listing",
+        "summary": "The spot fund will trade under ticker NRR and includes a staking component for its holdings.",
+        "link": "https://hashtagweb3.com/near-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitwise NEAR ETF Clears SEC Registration and NYSE Arca Listing"
+      },
+      {
+        "index": 3,
+        "headline": "Blast to shut down Ethereum scaling network",
+        "summary": "The network is ceasing operations after costs exceeded revenue and is directing users to migrate assets back to Ethereum.",
+        "event_rationale": "This covers the closure of a major scaling protocol, which is a distinct event from any previously posted protocol updates or migrations.",
+        "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Blast to wind down Ethereum L2 after costs outpace revenue"
+      },
+      {
+        "index": 23,
+        "headline": "United States spot Bitcoin ETFs record $2.7 billion inflow",
+        "summary": "Institutional demand drove the second-largest monthly net inflow for the investment products during September.",
+        "event_rationale": "This covers a major institutional adoption milestone regarding capital flows into regulated Bitcoin products, distinct from individual company treasury purchases.",
+        "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+        "source": "The Block",
+        "originalTitle": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds"
+      }
+    ],
+    "slotKey": "2026-10-02:evening",
+    "messageId": 65722,
+    "sentAt": "2026-10-02T19:34:45.175Z"
   }
 }

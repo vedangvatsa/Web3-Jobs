@@ -1715,6 +1715,14 @@
     "lastUrl": "https://hashtagweb3.com/sales256",
     "updatedAt": "2026-09-15T19:44:54.766Z"
   },
+  "8147304": {
+    "slugs": [
+      "marketing188"
+    ],
+    "lastSlug": "marketing188",
+    "lastUrl": "https://hashtagweb3.com/marketing188",
+    "updatedAt": "2026-10-02T11:32:20.184Z"
+  },
   "8148731": {
     "slugs": [
       "sales330",
@@ -6534,5 +6542,77 @@
     "lastSlug": "designer27",
     "lastUrl": "https://hashtagweb3.com/designer27",
     "updatedAt": "2026-10-02T04:06:41.561Z"
+  },
+  "427E4C8AA4": {
+    "slugs": [
+      "devrel3"
+    ],
+    "lastSlug": "devrel3",
+    "lastUrl": "https://hashtagweb3.com/devrel3",
+    "updatedAt": "2026-10-02T11:32:20.184Z"
+  },
+  "1890d1d8-d473-42fc-847e-cb38f4d13343": {
+    "slugs": [
+      "operations97"
+    ],
+    "lastSlug": "operations97",
+    "lastUrl": "https://hashtagweb3.com/operations97",
+    "updatedAt": "2026-10-02T11:32:20.184Z"
+  },
+  "96d27537-f76c-4fc0-9f7a-d5a0070c6d6c": {
+    "slugs": [
+      "eng173"
+    ],
+    "lastSlug": "eng173",
+    "lastUrl": "https://hashtagweb3.com/eng173",
+    "updatedAt": "2026-10-02T11:32:20.184Z"
+  },
+  "480e7492-1c7d-434e-a157-49ebac3f39eb": {
+    "slugs": [
+      "compliance115"
+    ],
+    "lastSlug": "compliance115",
+    "lastUrl": "https://hashtagweb3.com/compliance115",
+    "updatedAt": "2026-10-02T11:32:20.184Z"
+  },
+  "5426182008": {
+    "slugs": [
+      "sls44"
+    ],
+    "lastSlug": "sls44",
+    "lastUrl": "https://hashtagweb3.com/sls44",
+    "updatedAt": "2026-10-02T19:32:47.798Z"
+  },
+  "5183737008": {
+    "slugs": [
+      "manager463"
+    ],
+    "lastSlug": "manager463",
+    "lastUrl": "https://hashtagweb3.com/manager463",
+    "updatedAt": "2026-10-02T19:32:47.798Z"
+  },
+  "8BDD06ED6C": {
+    "slugs": [
+      "operations43"
+    ],
+    "lastSlug": "operations43",
+    "lastUrl": "https://hashtagweb3.com/operations43",
+    "updatedAt": "2026-10-02T19:32:47.798Z"
+  },
+  "4800156008": {
+    "slugs": [
+      "marketing17"
+    ],
+    "lastSlug": "marketing17",
+    "lastUrl": "https://hashtagweb3.com/marketing17",
+    "updatedAt": "2026-10-02T19:32:47.798Z"
+  },
+  "JR2001145": {
+    "slugs": [
+      "engineer665"
+    ],
+    "lastSlug": "engineer665",
+    "lastUrl": "https://hashtagweb3.com/engineer665",
+    "updatedAt": "2026-10-02T19:32:47.798Z"
   }
 }

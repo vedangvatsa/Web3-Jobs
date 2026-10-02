@@ -742,6 +742,14 @@
     "lastUrl": "https://hashtagweb3.com/sls5",
     "updatedAt": "2026-09-15T19:45:17.828Z"
   },
+  "8128786": {
+    "slugs": [
+      "an38"
+    ],
+    "lastSlug": "an38",
+    "lastUrl": "https://hashtagweb3.com/an38",
+    "updatedAt": "2026-10-02T11:32:07.277Z"
+  },
   "8130725": {
     "slugs": [
       "sales315",
@@ -927,6 +935,14 @@
     "lastSlug": "sec36",
     "lastUrl": "https://hashtagweb3.com/sec36",
     "updatedAt": "2026-09-22T19:45:22.371Z"
+  },
+  "8240375": {
+    "slugs": [
+      "mgr118"
+    ],
+    "lastSlug": "mgr118",
+    "lastUrl": "https://hashtagweb3.com/mgr118",
+    "updatedAt": "2026-10-02T11:32:07.277Z"
   },
   "8241522": {
     "slugs": [
@@ -3673,5 +3689,69 @@
     "lastSlug": "product582",
     "lastUrl": "https://hashtagweb3.com/product582",
     "updatedAt": "2026-10-02T04:06:34.858Z"
+  },
+  "744000149883825": {
+    "slugs": [
+      "eng71"
+    ],
+    "lastSlug": "eng71",
+    "lastUrl": "https://hashtagweb3.com/eng71",
+    "updatedAt": "2026-10-02T11:32:07.277Z"
+  },
+  "2172f854-7005-4dde-8e33-de94aed0fb27": {
+    "slugs": [
+      "frontend15"
+    ],
+    "lastSlug": "frontend15",
+    "lastUrl": "https://hashtagweb3.com/frontend15",
+    "updatedAt": "2026-10-02T11:32:07.277Z"
+  },
+  "97e8afe6-3a21-4b1f-9a34-3490b0e59c7f": {
+    "slugs": [
+      "manager559"
+    ],
+    "lastSlug": "manager559",
+    "lastUrl": "https://hashtagweb3.com/manager559",
+    "updatedAt": "2026-10-02T11:32:07.277Z"
+  },
+  "4875932101": {
+    "slugs": [
+      "product239"
+    ],
+    "lastSlug": "product239",
+    "lastUrl": "https://hashtagweb3.com/product239",
+    "updatedAt": "2026-10-02T19:32:40.880Z"
+  },
+  "3e9850fe-8a07-4618-b21b-2b860bf59cca": {
+    "slugs": [
+      "ops69"
+    ],
+    "lastSlug": "ops69",
+    "lastUrl": "https://hashtagweb3.com/ops69",
+    "updatedAt": "2026-10-02T19:32:40.880Z"
+  },
+  "fa96dac4-3ce2-4419-8493-c52b794cde79": {
+    "slugs": [
+      "compliance151"
+    ],
+    "lastSlug": "compliance151",
+    "lastUrl": "https://hashtagweb3.com/compliance151",
+    "updatedAt": "2026-10-02T19:32:40.880Z"
+  },
+  "8644530002": {
+    "slugs": [
+      "backend97"
+    ],
+    "lastSlug": "backend97",
+    "lastUrl": "https://hashtagweb3.com/backend97",
+    "updatedAt": "2026-10-02T19:32:40.880Z"
+  },
+  "302763fa-de93-4796-b887-0f6491c7499c": {
+    "slugs": [
+      "eng374"
+    ],
+    "lastSlug": "eng374",
+    "lastUrl": "https://hashtagweb3.com/eng374",
+    "updatedAt": "2026-10-02T19:32:40.880Z"
   }
 }

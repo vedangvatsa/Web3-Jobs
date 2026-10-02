@@ -642,5 +642,189 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 96,
     "sentAt": "2026-10-02T04:06:34.858Z"
+  },
+  "31738a52-d838-4922-a624-7f73cfb3c845": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T11:31:57.911Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "744000149883825",
+        "slug": "eng71",
+        "url": "https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "key": "2172f854-7005-4dde-8e33-de94aed0fb27",
+        "slug": "frontend15",
+        "url": "https://hashtagweb3.com/frontend15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hyperliquid Labs",
+        "title": "Senior Frontend Engineer"
+      },
+      {
+        "key": "8128786",
+        "slug": "an38",
+        "url": "https://hashtagweb3.com/an38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Data Analyst"
+      },
+      {
+        "key": "8240375",
+        "slug": "mgr118",
+        "url": "https://hashtagweb3.com/mgr118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "CRM and Lifecycle Manager II"
+      },
+      {
+        "key": "97e8afe6-3a21-4b1f-9a34-3490b0e59c7f",
+        "slug": "manager559",
+        "url": "https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Notabene",
+        "title": "Senior Customer Success Manager"
+      }
+    ],
+    "message": "• Solflare is hiring <a href=\"https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Engineer</a>\n• Hyperliquid Labs is hiring <a href=\"https://hashtagweb3.com/frontend15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Frontend Engineer</a>\n• DRW is hiring <a href=\"https://hashtagweb3.com/an38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Data Analyst</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/mgr118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">CRM and Lifecycle Manager II</a>\n• Notabene is hiring <a href=\"https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Customer Success Manager</a>",
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 16495,
+    "sentAt": "2026-10-02T11:32:03.541Z"
+  },
+  "b8a4dbe3-2e4c-4945-9ac6-58a0da710b7f": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T11:32:05.183Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "744000149883825",
+        "slug": "eng71",
+        "url": "https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "key": "2172f854-7005-4dde-8e33-de94aed0fb27",
+        "slug": "frontend15",
+        "url": "https://hashtagweb3.com/frontend15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hyperliquid Labs",
+        "title": "Senior Frontend Engineer"
+      },
+      {
+        "key": "8128786",
+        "slug": "an38",
+        "url": "https://hashtagweb3.com/an38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Data Analyst"
+      },
+      {
+        "key": "8240375",
+        "slug": "mgr118",
+        "url": "https://hashtagweb3.com/mgr118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "CRM and Lifecycle Manager II"
+      },
+      {
+        "key": "97e8afe6-3a21-4b1f-9a34-3490b0e59c7f",
+        "slug": "manager559",
+        "url": "https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Notabene",
+        "title": "Senior Customer Success Manager"
+      }
+    ],
+    "message": "• Solflare is hiring <a href=\"https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Engineer</a>\n• Hyperliquid Labs is hiring <a href=\"https://hashtagweb3.com/frontend15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Frontend Engineer</a>\n• DRW is hiring <a href=\"https://hashtagweb3.com/an38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Data Analyst</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/mgr118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">CRM and Lifecycle Manager II</a>\n• Notabene is hiring <a href=\"https://hashtagweb3.com/manager559?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Customer Success Manager</a>",
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 97,
+    "sentAt": "2026-10-02T11:32:07.277Z"
+  },
+  "666e5cd6-f378-417a-850d-2b0235382c53": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T19:32:31.917Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "4875932101",
+        "slug": "product239",
+        "url": "https://hashtagweb3.com/product239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Regulatory Compliance Manager"
+      },
+      {
+        "key": "3e9850fe-8a07-4618-b21b-2b860bf59cca",
+        "slug": "ops69",
+        "url": "https://hashtagweb3.com/ops69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "River Financial",
+        "title": "Client Operations Associate"
+      },
+      {
+        "key": "fa96dac4-3ce2-4419-8493-c52b794cde79",
+        "slug": "compliance151",
+        "url": "https://hashtagweb3.com/compliance151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crossmint",
+        "title": "Engineering Manager"
+      },
+      {
+        "key": "8644530002",
+        "slug": "backend97",
+        "url": "https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Backend Engineer E2"
+      },
+      {
+        "key": "302763fa-de93-4796-b887-0f6491c7499c",
+        "slug": "eng374",
+        "url": "https://hashtagweb3.com/eng374?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Toku",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Bybit is hiring <a href=\"https://hashtagweb3.com/product239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Regulatory Compliance Manager</a>\n• River Financial is hiring <a href=\"https://hashtagweb3.com/ops69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Client Operations Associate</a>\n• Crossmint is hiring <a href=\"https://hashtagweb3.com/compliance151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engineering Manager</a>\n• BitGo is hiring <a href=\"https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Backend Engineer E2</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/eng374?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-02:evening",
+    "messageId": 16496,
+    "sentAt": "2026-10-02T19:32:34.682Z"
+  },
+  "23cfb3a8-80aa-47ba-84e3-7074d1dd760e": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T19:32:38.270Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "4875932101",
+        "slug": "product239",
+        "url": "https://hashtagweb3.com/product239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Regulatory Compliance Manager"
+      },
+      {
+        "key": "3e9850fe-8a07-4618-b21b-2b860bf59cca",
+        "slug": "ops69",
+        "url": "https://hashtagweb3.com/ops69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "River Financial",
+        "title": "Client Operations Associate"
+      },
+      {
+        "key": "fa96dac4-3ce2-4419-8493-c52b794cde79",
+        "slug": "compliance151",
+        "url": "https://hashtagweb3.com/compliance151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crossmint",
+        "title": "Engineering Manager"
+      },
+      {
+        "key": "8644530002",
+        "slug": "backend97",
+        "url": "https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Backend Engineer E2"
+      },
+      {
+        "key": "302763fa-de93-4796-b887-0f6491c7499c",
+        "slug": "eng374",
+        "url": "https://hashtagweb3.com/eng374?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Toku",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Bybit is hiring <a href=\"https://hashtagweb3.com/product239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Regulatory Compliance Manager</a>\n• River Financial is hiring <a href=\"https://hashtagweb3.com/ops69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Client Operations Associate</a>\n• Crossmint is hiring <a href=\"https://hashtagweb3.com/compliance151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engineering Manager</a>\n• BitGo is hiring <a href=\"https://hashtagweb3.com/backend97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Backend Engineer E2</a>\n• Toku is hiring <a href=\"https://hashtagweb3.com/eng374?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-02:evening",
+    "messageId": 98,
+    "sentAt": "2026-10-02T19:32:40.880Z"
   }
 }

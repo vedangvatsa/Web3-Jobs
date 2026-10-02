@@ -401,5 +401,75 @@
     "slotKey": "2026-10-02:morning",
     "messageId": 193310,
     "sentAt": "2026-10-02T04:07:36.349Z"
+  },
+  "498201d0-b82a-4c78-b431-fab176ac7e80": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T11:34:16.483Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Hearing tech startup Legato launches its AI hearing glasses",
+        "headline": "Legato releases AI-integrated hearing glasses",
+        "summary": "The hardware uses onboard machine learning to improve audio accessibility and reduce costs compared to traditional medical devices.",
+        "event_rationale": "This represents a notable deployment of AI in consumer hardware for medical accessibility, distinct from software-only model releases.",
+        "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "source": "TechCrunch",
+        "originalTitle": "Hearing tech startup Legato launches its AI hearing glasses"
+      },
+      {
+        "index": 1,
+        "headline": "New contest rewards people for reducing their biological age",
+        "summary": "Participants track health metrics to see who can achieve the greatest decrease in cellular aging.",
+        "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+        "source": "MIT Tech Review",
+        "originalTitle": "A new contest pits competitors against each other in a race to biological youth"
+      },
+      {
+        "index": 2,
+        "headline": "Large language models lack genuine reasoning capabilities",
+        "summary": "An AI developer uses AlphaGo's famous move to explain why language models cannot truly reason.",
+        "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Don’t be fooled—LLMs don’t reason"
+      }
+    ],
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 193311,
+    "sentAt": "2026-10-02T11:34:19.180Z"
+  },
+  "49eb166e-7633-41ea-95b2-beed5db8dab4": {
+    "status": "sent",
+    "reservedAt": "2026-10-02T19:33:49.211Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+        "headline": "US arrests executive for smuggling Nvidia chips to China",
+        "summary": "Federal authorities charged a technology executive with illegally exporting three hundred million dollars worth of restricted hardware.",
+        "event_rationale": "This covers a major federal enforcement action targeting the illegal export of restricted hardware to China.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+        "source": "Ars Technica",
+        "originalTitle": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China"
+      },
+      {
+        "index": 1,
+        "headline": "TechCrunch offers $75 Disrupt 2026 passes for laid-off workers",
+        "summary": "The first 100 qualifying individuals can purchase an Expo+ Pass at a reduced rate for the upcoming event.",
+        "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "source": "TechCrunch",
+        "originalTitle": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass"
+      },
+      {
+        "index": 3,
+        "headline": "Apple to restrict macOS Full Disk Access over AI risks",
+        "summary": "The company will limit file permissions because capable AI assistants increase security risks to personal user data.",
+        "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "source": "TechCrunch",
+        "originalTitle": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
+      }
+    ],
+    "slotKey": "2026-10-02:evening",
+    "messageId": 193312,
+    "sentAt": "2026-10-02T19:33:52.155Z"
   }
 }
