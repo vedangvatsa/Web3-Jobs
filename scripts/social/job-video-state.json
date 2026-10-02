@@ -502,9 +502,10 @@
           "error": "Error: Video ledger PUT failed — HTTP 409"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "Chicago; Atlanta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-02T19:32:57.759Z"
+          "startedAt": "2026-10-02T19:32:57.759Z",
+          "postId": "6ac006eb918015097ad607fd"
         }
       }
     }
