@@ -475,6 +475,12 @@
           "text": "Austin, TX\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-02T19:32:48.511Z",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Payroll Manager at Bitdeer. Austin, TX.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-02T19:32:51.595Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
