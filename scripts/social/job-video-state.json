@@ -431,9 +431,10 @@
           "error": "Error: Video ledger PUT failed — HTTP 409"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "US-CA\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-02T11:32:26.653Z"
+          "startedAt": "2026-10-02T11:32:26.653Z",
+          "postId": "6abf964c1b2a6a8e155c39de"
         }
       }
     }
