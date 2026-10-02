@@ -365,9 +365,10 @@
           "url": "https://www.youtube.com/watch?v=DmWt4iVoyO0"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "IT Service Specialist -Student Position at eToro. Tel Aviv District.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-02T03:45:09.523Z"
+          "startedAt": "2026-10-02T03:45:09.523Z",
+          "postId": "6abf28c722215530c712d0c9"
         }
       }
     }
