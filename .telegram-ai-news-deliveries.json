@@ -403,7 +403,7 @@
     "sentAt": "2026-10-02T04:07:36.349Z"
   },
   "498201d0-b82a-4c78-b431-fab176ac7e80": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-02T11:34:16.483Z",
     "stories": [
       {
@@ -433,6 +433,8 @@
         "originalTitle": "Don’t be fooled—LLMs don’t reason"
       }
     ],
-    "slotKey": "2026-10-02:afternoon"
+    "slotKey": "2026-10-02:afternoon",
+    "messageId": 193311,
+    "sentAt": "2026-10-02T11:34:19.180Z"
   }
 }

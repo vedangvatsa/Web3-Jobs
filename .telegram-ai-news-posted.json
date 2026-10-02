@@ -650,6 +650,9 @@
   "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
   "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
   "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+  "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+  "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+  "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1733,6 +1736,12 @@
   "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
   "OpenAI adds virtual clothing try-on features to ChatGPT",
   "ChatGPT can now virtually try on clothes for you",
+  "Legato releases AI-integrated hearing glasses",
+  "Hearing tech startup Legato launches its AI hearing glasses",
+  "New contest rewards people for reducing their biological age",
+  "A new contest pits competitors against each other in a race to biological youth",
+  "Large language models lack genuine reasoning capabilities",
+  "Don’t be fooled—LLMs don’t reason",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1900,5 +1909,8 @@
   "fp:architectur|board|capabl|challeng|develop|dual|gam|had|hidden|information",
   "fp:against|antitrust|chegg|court|despit|dismiss|generat|googl|impact|judg",
   "fp:ask|captur|chatbot|encourag|hypothetical|invad|maduro|military|musk|nicol",
-  "fp:add|apparel|can|cloth|favorit|featur|item|library|now|openai"
+  "fp:add|apparel|can|cloth|favorit|featur|item|library|now|openai",
+  "fp:accessibility|audio|compar|cost|devic|glass|hardwar|hear|improv|integrat",
+  "fp:achiev|against|age|biological|can|cellular|competitor|contest|decreas|each",
+  "fp:alphago|cannot|capability|developer|don|explain|famous|fool|genuin|lack"
 ]
