@@ -829,6 +829,14 @@
     "lastUrl": "https://hashtagweb3.com/backend-0vyistb",
     "updatedAt": "2026-09-15T19:44:54.188Z"
   },
+  "8036506": {
+    "slugs": [
+      "eng345"
+    ],
+    "lastSlug": "eng345",
+    "lastUrl": "https://hashtagweb3.com/eng345",
+    "updatedAt": "2026-10-02T04:06:41.561Z"
+  },
   "8038923": {
     "slugs": [
       "int19"
@@ -6494,5 +6502,37 @@
     "lastSlug": "engineer185",
     "lastUrl": "https://hashtagweb3.com/engineer185",
     "updatedAt": "2026-10-01T19:44:06.733Z"
+  },
+  "5413464008": {
+    "slugs": [
+      "cmp20"
+    ],
+    "lastSlug": "cmp20",
+    "lastUrl": "https://hashtagweb3.com/cmp20",
+    "updatedAt": "2026-10-02T04:06:41.561Z"
+  },
+  "95264387-5c76-4d79-b5a2-45c7758ff4d2": {
+    "slugs": [
+      "operations21"
+    ],
+    "lastSlug": "operations21",
+    "lastUrl": "https://hashtagweb3.com/operations21",
+    "updatedAt": "2026-10-02T04:06:41.561Z"
+  },
+  "8009030003": {
+    "slugs": [
+      "mkt71"
+    ],
+    "lastSlug": "mkt71",
+    "lastUrl": "https://hashtagweb3.com/mkt71",
+    "updatedAt": "2026-10-02T04:06:41.561Z"
+  },
+  "644cd89d-505e-49e6-b9ea-e26c07e17aa5": {
+    "slugs": [
+      "designer27"
+    ],
+    "lastSlug": "designer27",
+    "lastUrl": "https://hashtagweb3.com/designer27",
+    "updatedAt": "2026-10-02T04:06:41.561Z"
   }
 }
