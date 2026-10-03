@@ -504,5 +504,49 @@
     "slotKey": "2026-10-03:afternoon",
     "messageId": 155575,
     "sentAt": "2026-10-03T11:32:27.990Z"
+  },
+  "40735d2a-3b58-4c38-ba11-d60404996057": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T19:32:15.472Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "coindcx-1714",
+        "slug": "analyst181",
+        "url": "https://hashtagweb3.com/analyst181?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinDCX",
+        "title": "API Business"
+      },
+      {
+        "key": "7777043003",
+        "slug": "engineer447",
+        "url": "https://hashtagweb3.com/engineer447?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Software Engineer"
+      },
+      {
+        "key": "4989299101",
+        "slug": "mkt2",
+        "url": "https://hashtagweb3.com/mkt2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Head of Marketing"
+      },
+      {
+        "key": "8210957",
+        "slug": "eas",
+        "url": "https://hashtagweb3.com/eas?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "External Affairs Strategist"
+      },
+      {
+        "key": "28D57CB5F6",
+        "slug": "sp",
+        "url": "https://hashtagweb3.com/sp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ajaib Crypto",
+        "title": "Strategy & Projects"
+      }
+    ],
+    "message": "• CoinDCX is hiring <a href=\"https://hashtagweb3.com/analyst181?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">API Business</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/engineer447?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>\n• Bybit is hiring <a href=\"https://hashtagweb3.com/mkt2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">[EU] Head of Marketing</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/eas?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">External Affairs Strategist</a>\n• Ajaib Crypto is hiring <a href=\"https://hashtagweb3.com/sp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Strategy &amp; Projects</a>",
+    "slotKey": "2026-10-03:evening"
   }
 }
