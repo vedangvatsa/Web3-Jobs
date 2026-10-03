@@ -412,5 +412,49 @@
     "slotKey": "2026-10-02:evening",
     "messageId": 155566,
     "sentAt": "2026-10-02T19:32:47.798Z"
+  },
+  "2776bdf4-2d38-4ece-8d5a-8a1f22e8b2e8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T03:54:31.197Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "6da433cc-9075-4faa-9ef0-0e94652a20ba",
+        "slug": "developer26",
+        "url": "https://hashtagweb3.com/developer26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Injective Labs",
+        "title": "Mobile App Developer"
+      },
+      {
+        "key": "5f0a7b23-4589-45df-800f-4093fadd5e6d",
+        "slug": "cmp33",
+        "url": "https://hashtagweb3.com/cmp33?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "MLRO/Deputy MLRO"
+      },
+      {
+        "key": "7804806003",
+        "slug": "engineer551",
+        "url": "https://hashtagweb3.com/engineer551?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior / Staff Software Engineer"
+      },
+      {
+        "key": "f76092a9-a0f2-427d-aa97-b894ec1893e6",
+        "slug": "pm117",
+        "url": "https://hashtagweb3.com/pm117?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Turnkey",
+        "title": "Product Manager"
+      },
+      {
+        "key": "4b449e56-1fca-4814-b28a-d6242465cba1",
+        "slug": "ds5",
+        "url": "https://hashtagweb3.com/ds5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Senior Data Scientist"
+      }
+    ],
+    "message": "• Injective Labs is hiring <a href=\"https://hashtagweb3.com/developer26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Mobile App Developer</a>\n• Crypto.com is hiring <a href=\"https://hashtagweb3.com/cmp33?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">MLRO/Deputy MLRO</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/engineer551?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior / Staff Software Engineer</a>\n• Turnkey is hiring <a href=\"https://hashtagweb3.com/pm117?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager</a>\n• Bitvavo is hiring <a href=\"https://hashtagweb3.com/ds5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Scientist</a>",
+    "slotKey": "2026-10-03:morning"
   }
 }
