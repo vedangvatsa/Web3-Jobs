@@ -640,7 +640,13 @@
         "youtube": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
         "youtubeTitle": "Scheduler at Hut 8"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Hut 8 is hiring\nScheduler\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-03T11:33:44.798Z"
+        }
+      }
     }
   }
 }
