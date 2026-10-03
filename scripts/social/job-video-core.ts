@@ -12,7 +12,7 @@ export const instagramAccount = '17841473830256790';
 export const organizationId = '6883fea6f19c3d68229081fa';
 
 export function clean(value: string): string {
-  return value.replace(/https?:\/\/\S+/g, '').replace(/:/g, ' · ').replace(/\s+/g, ' ').trim();
+  return value.replace(/https?:\/\/\S+/g, '').replace(/[\u2013\u2014]/g, '-').replace(/[\u2018\u2019]/g, "'").replace(/[\u201c\u201d]/g, '"').replace(/\u2026/g, '...').replace(/[\u2022:]/g, ' - ').replace(/\s+/g, ' ').trim();
 }
 
 export function captions(video: Video) {
@@ -26,14 +26,32 @@ export function captions(video: Video) {
   const detail = video.slug === 'fe12' ? 'Build cross-platform interfaces with React and TypeScript.'
     : video.slug === 'mkt51' ? 'Lead brand, communications and customer growth.' : '';
   const cta = 'Find the role on hashtagweb3.com';
-  const instagram = [`${company} is hiring\n${title}`, [facts, detail].filter(Boolean).join('\n'), cta, tags].filter(Boolean).join('\n\n');
+  const roleTag = /design/i.test(title) ? '#DesignJobs'
+    : /market|growth|brand|communications/i.test(title) ? '#MarketingJobs'
+    : /software|developer|frontend|backend|full.?stack|security|devops|machine learning/i.test(title) ? '#TechJobs'
+    : /engineer/i.test(title) ? '#EngineeringJobs'
+    : /sales|account executive|business development/i.test(title) ? '#SalesJobs'
+    : /product|program manager/i.test(title) ? '#ProductJobs' : '#Hiring';
+  const instagramTags = ['#Web3Jobs', roleTag, /\bremote\b/i.test(facts + ' ' + title) ? '#RemoteJobs' : '#Hiring'];
+  const instagram = [`${title} at ${company}`, facts, cta, [...new Set(instagramTags)].join(' ')].filter(Boolean).join('\n\n');
   const tiktok = [`${title} at ${company}. ${facts}${facts ? '.' : ''}`, cta, tags].join('\n\n');
   let youtubeTitle = `${title} at ${company}`;
   const titleFact = video.facts.find(f => /remote/i.test(f)) || video.facts.find(f => /\$/.test(f));
   if (titleFact && `${youtubeTitle} · ${clean(titleFact)}`.length <= 100) youtubeTitle += ` · ${clean(titleFact)}`;
-  if (youtubeTitle.length > 100) youtubeTitle = youtubeTitle.slice(0, 99).replace(/\s+\S*$/, '') + '…';
+  if (youtubeTitle.length > 100) youtubeTitle = youtubeTitle.slice(0, 97).replace(/\s+\S*$/, '') + '...';
   const youtube = [[facts, detail].filter(Boolean).join('\n'), cta, tags].filter(Boolean).join('\n\n');
   return {instagram, tiktok, youtube, youtubeTitle};
+}
+
+export function diverseCompanies(videos: Video[]): Video[] {
+  const companies = new Set<string>();
+  const first: Video[] = [], remaining: Video[] = [];
+  for (const video of videos) {
+    const company = video.company.trim().toLowerCase();
+    (companies.has(company) ? remaining : first).push(video);
+    companies.add(company);
+  }
+  return [...first, ...remaining];
 }
 
 export function matchesSnapshot(video: Video, current: LiveJob): boolean {
@@ -43,6 +61,7 @@ export function matchesSnapshot(video: Video, current: LiveJob): boolean {
 }
 
 export function assertCapacity(ledger: Ledger, slot: string, newCount: number): void {
+  if (!Number.isInteger(newCount) || newCount < 0) throw new Error('Invalid video count');
   if (!/^\d{4}-\d{2}-\d{2}:(morning|afternoon|evening)$/.test(slot)) throw new Error('Invalid video slot');
   if ((ledger.slots[slot]?.length || 0) + newCount > 2) throw new Error('Two-video slot limit reached');
   const dailyCount = Object.entries(ledger.slots).filter(([key]) => key.startsWith(slot.slice(0, 10) + ':')).reduce((sum, [, jobs]) => sum + jobs.length, 0);

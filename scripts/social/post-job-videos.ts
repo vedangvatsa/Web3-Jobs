@@ -1,5 +1,5 @@
 import fs from 'node:fs/promises';
-import {assertCapacity, assertPostingTime, captions, matchesSnapshot, platforms, verifyFresh, instagramAccount} from './job-video-core.ts';
+import {assertCapacity, assertPostingTime, captions, diverseCompanies, matchesSnapshot, platforms, verifyFresh, instagramAccount} from './job-video-core.ts';
 import type {LiveJob, Video, Receipt, Platform} from './job-video-core.ts';
 import {bufferCreate, bufferRecover, bufferVerify, instagramFind, instagramReady, instagramVerify, meta, verifyAccounts} from './job-video-clients.ts';
 import {loadState, saveState} from './job-video-state.ts';
@@ -25,7 +25,7 @@ let selected = [...(ledger.slots[key] || [])];
 if (!selected.length) {
   const ranked = library.filter(video => !ledger.jobs[video.slug] && current.has(video.slug) && matchesSnapshot(video, current.get(video.slug)!))
     .sort((a, b) => Date.parse(current.get(b.slug)?.date || '1970-01-01') - Date.parse(current.get(a.slug)?.date || '1970-01-01'));
-  const candidates = requested.length ? requested.map(slug => library.find(video => video.slug === slug)).filter((v): v is Video => !!v) : ranked;
+  const candidates = requested.length ? requested.map(slug => library.find(video => video.slug === slug)).filter((v): v is Video => !!v) : diverseCompanies(ranked.slice(0, 150));
   for (const video of candidates.slice(0, 150)) {
     if (selected.length === 2) break;
     if (ledger.jobs[video.slug]) continue;

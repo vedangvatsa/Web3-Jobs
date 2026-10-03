@@ -36,7 +36,9 @@ test('Instagram receipt must belong to the configured account', async () => {
   try {
     globalThis.fetch = async () => Response.json({id: '123', permalink: 'https://www.instagram.com/reel/abc/', owner: {id: 'wrong'}});
     await assert.rejects(instagramVerify('123'), /ownership/);
-    globalThis.fetch = async () => Response.json({id: '123', permalink: 'https://www.instagram.com/reel/abc/', owner: {id: instagramAccount}});
+    globalThis.fetch = async () => Response.json({id: '123', permalink: 'https://www.instagram.com/reel/abc/', owner: {id: instagramAccount}, media_product_type: 'FEED'});
+    await assert.rejects(instagramVerify('123'), /not a Reel/);
+    globalThis.fetch = async () => Response.json({id: '123', permalink: 'https://www.instagram.com/reel/abc/', owner: {id: instagramAccount}, media_product_type: 'REELS'});
     assert.equal(await instagramVerify('123'), 'https://www.instagram.com/reel/abc/');
   } finally {globalThis.fetch = originalFetch;}
 });

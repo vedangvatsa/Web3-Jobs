@@ -1,9 +1,9 @@
 #!/usr/bin/env npx tsx
 /**
- * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster, LinkedIn, Facebook & Instagram)
+ * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster, LinkedIn & Facebook)
  *
  * Posting Strategy:
- *   - Instagram: ONLY platform that posts an image upload (Instagram feed does not support clickable links or native link cards).
+ *   - Instagram uses post-job-videos.ts exclusively, with two Reels per slot and six per day.
  *   - LinkedIn, X, Bluesky, Farcaster, Facebook, Threads: Pure link preview cards (no image uploads).
  *     Posts the clean job URL with platform suffix so native crawlers unfurl og:image, title, and description.
  *
@@ -17,7 +17,6 @@
  *   Company is hiring role: https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
-  *   (Standard landscape OG image reused for Instagram feed)
  *
  * Features:
  *   - Automatically cycles through active, high-quality jobs
@@ -37,7 +36,6 @@
  *   FARCASTER_POST_TO_PROFILE — also cast to main profile feed (default: true; set false to disable)
  *   npx tsx scripts/social/post-job-openings.ts --platform linkedin --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform facebook --dry-run
- *   npx tsx scripts/social/post-job-openings.ts --platform instagram --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all
  */
@@ -49,7 +47,7 @@ import { BufferXClient, BUFFER_X_CHANNEL_ID, BUFFER_X_ACCOUNT } from './buffer-x
 import { linkedInTargets, hasLinkedInReceipt, publishLinkedInTargets, type LinkedInTarget } from './linkedin-targets';
 import { PersonalLinkedInClient, personalLinkedInConfig } from './linkedin-personal';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
-import { buildJobOgImageUrl, buildJobInstagramImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
+import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
@@ -90,18 +88,8 @@ interface SocialHistoryEntry {
   provider?: 'buffer' | 'linkedin-direct';
 }
 
-const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook', 'instagram'] as const;
+const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook'] as const;
 type SocialPlatform = (typeof SOCIAL_PLATFORMS)[number];
-
-/** Link-preview feeds; Instagram is handled separately and must not block these. */
-const LINK_CARD_PLATFORMS: readonly SocialPlatform[] = [
-  'x',
-  'threads',
-  'bluesky',
-  'farcaster',
-  'linkedin',
-  'facebook',
-];
 
 function buildSocialShareUrl(slug: string, suffix: string): string {
   const url = new URL(`${SITE_URL}/${slug}/${suffix}`);
@@ -228,16 +216,12 @@ function findPendingJob(
   state: SocialState,
   jobs: Job[],
   requestedPlatforms: readonly SocialPlatform[],
-  mode: 'link-cards' | 'instagram-only',
 ): Job | null {
   for (const slug of state.pendingSlugs) {
     const job = jobs.find((entry) => entry.slug === slug);
     if (!job) continue;
     const missing = missingRequestedPlatforms(state, job.slug, requestedPlatforms);
     if (missing.length === 0) continue;
-    const missingLinkCards = missing.filter((name) => LINK_CARD_PLATFORMS.includes(name));
-    if (mode === 'link-cards' && missingLinkCards.length === 0) continue;
-    if (mode === 'instagram-only' && missingLinkCards.length > 0) continue;
     return job;
   }
   return null;
@@ -245,7 +229,7 @@ function findPendingJob(
 
 function isFreshRotationJob(state: SocialState, slug: string, postedSet: Set<string>): boolean {
   if (postedSet.has(slug)) return false;
-  // Partially posted pending jobs (e.g. LinkedIn done, Instagram missing) must
+  // Partially posted pending jobs (e.g. LinkedIn done, Facebook missing) must
   // not be treated as fresh rotations or LinkedIn/Facebook stay skipped forever.
   return verifiedPlatformsForSlug(state, slug).size === 0;
 }
@@ -1053,163 +1037,6 @@ async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
   return postId;
 }
 
-// ── Instagram Media / Carousel (Meta Graph API v21.0) ──
-
-async function waitForInstagramContainer(
-  containerId: string,
-  pageToken: string,
-  maxAttempts = 15,
-  intervalMs = 3000
-): Promise<void> {
-  console.log(`[Instagram] Waiting for container ${containerId} to finish processing...`);
-  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-    await new Promise((resolve) => setTimeout(resolve, intervalMs));
-
-    const checkRes = await fetch(
-      `https://graph.facebook.com/v21.0/${containerId}?fields=status_code,status&access_token=${pageToken}`
-    );
-    const checkData = (await checkRes.json()) as { status_code?: string; status?: string; error?: any };
-
-    if (!checkRes.ok || checkData.error) {
-      console.warn(
-        `[Instagram] Status check attempt ${attempt}/${maxAttempts} warning: ${JSON.stringify(checkData.error || checkData)}`
-      );
-      continue;
-    }
-
-    const statusCode = checkData.status_code;
-    if (statusCode === 'FINISHED') {
-      console.log(`✓ [Instagram] Container ${containerId} is ready (status: FINISHED)`);
-      return;
-    }
-
-    if (statusCode === 'ERROR') {
-      throw new Error(`Instagram container ${containerId} processing failed: ${JSON.stringify(checkData)}`);
-    }
-
-    if (statusCode === 'EXPIRED') {
-      throw new Error(`Instagram container ${containerId} expired.`);
-    }
-
-    console.log(`[Instagram] Container ${containerId} status: ${statusCode || 'IN_PROGRESS'} (${attempt}/${maxAttempts})...`);
-  }
-
-  throw new Error(`Instagram container ${containerId} processing timed out after ${maxAttempts * (intervalMs / 1000)} seconds.`);
-}
-
-async function publishInstagramContainer(
-  igAccountId: string,
-  containerId: string,
-  pageToken: string,
-  maxAttempts = 3
-): Promise<string> {
-  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-    const publishRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media_publish`, {
-      method: 'POST',
-      body: new URLSearchParams({
-        access_token: pageToken,
-        creation_id: containerId,
-      }),
-    });
-    const publishData = (await publishRes.json()) as { id?: string; error?: any };
-
-    if (publishRes.ok && publishData.id && !publishData.error) {
-      return publishData.id;
-    }
-
-    // If Meta still says media is not ready (subcode 2207027), wait and retry
-    if (attempt < maxAttempts && publishData.error?.error_subcode === 2207027) {
-      console.warn(`[Instagram] Media not ready on publish attempt ${attempt}/${maxAttempts}, retrying in 5s...`);
-      await new Promise((resolve) => setTimeout(resolve, 5000));
-      continue;
-    }
-
-    throw new Error(`Instagram publish failed: ${JSON.stringify(publishData.error || publishData)}`);
-  }
-  throw new Error(`Instagram publish failed for container ${containerId}`);
-}
-
-async function postToInstagram(
-  caption: string,
-  imageUrls: string[],
-  igAccountId: string = process.env.INSTAGRAM_ACCOUNT_ID || '17841473830256790'
-): Promise<string> {
-  const pageToken = process.env.META_PAGE_TOKEN;
-
-  if (!pageToken) {
-    throw new Error('Meta Page Token missing (META_PAGE_TOKEN)');
-  }
-  if (!igAccountId) {
-    throw new Error('Instagram Account ID missing (INSTAGRAM_ACCOUNT_ID)');
-  }
-
-  if (imageUrls.length === 1) {
-    // Single image container
-    const containerRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media`, {
-      method: 'POST',
-      body: new URLSearchParams({
-        access_token: pageToken,
-        image_url: imageUrls[0],
-        caption,
-      }),
-    });
-    const containerData = (await containerRes.json()) as { id?: string; error?: any };
-    if (!containerRes.ok || containerData.error || !containerData.id) {
-      throw new Error(`Instagram container creation failed: ${JSON.stringify(containerData.error || containerData)}`);
-    }
-
-    // Wait for Meta to finish downloading and processing media
-    await waitForInstagramContainer(containerData.id, pageToken);
-
-    // Publish container with retry fallback
-    return await publishInstagramContainer(igAccountId, containerData.id, pageToken);
-  } else {
-    // Multi-image carousel container
-    const childIds: string[] = [];
-    for (const url of imageUrls) {
-      const childRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media`, {
-        method: 'POST',
-        body: new URLSearchParams({
-          access_token: pageToken,
-          image_url: url,
-          is_carousel_item: 'true',
-        }),
-      });
-      const childData = (await childRes.json()) as { id?: string; error?: any };
-      if (!childRes.ok || childData.error || !childData.id) {
-        throw new Error(`Instagram carousel child creation failed: ${JSON.stringify(childData.error || childData)}`);
-      }
-      childIds.push(childData.id);
-    }
-
-    // Wait for all carousel items to be ready
-    for (const childId of childIds) {
-      await waitForInstagramContainer(childId, pageToken);
-    }
-
-    // Create Carousel parent container
-    const carouselRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media`, {
-      method: 'POST',
-      body: new URLSearchParams({
-        access_token: pageToken,
-        media_type: 'CAROUSEL',
-        children: childIds.join(','),
-        caption,
-      }),
-    });
-    const carouselData = (await carouselRes.json()) as { id?: string; error?: any };
-    if (!carouselRes.ok || carouselData.error || !carouselData.id) {
-      throw new Error(`Instagram carousel parent creation failed: ${JSON.stringify(carouselData.error || carouselData)}`);
-    }
-
-    // Wait for carousel parent container to be ready
-    await waitForInstagramContainer(carouselData.id, pageToken);
-
-    // Publish carousel
-    return await publishInstagramContainer(igAccountId, carouselData.id, pageToken);
-  }
-}
-
 // ── Deploy-quiet gate ──
 
 // Social crawlers scrape new post URLs within minutes of publishing. If an
@@ -1283,6 +1110,7 @@ async function main() {
   const slugIdx = args.indexOf('--slug');
   const targetSlug = slugIdx !== -1 ? args[slugIdx + 1] : null;
 
+  if (platform === 'instagram') throw new Error('Instagram is video-only. Use post-job-videos-social.yml (two Reels per run, six per day).');
   if (platform !== 'all' && platform !== 'both' && !isSocialPlatform(platform)) {
     throw new Error(`Unsupported social platform: ${platform}`);
   }
@@ -1321,18 +1149,10 @@ async function main() {
     if (selectedJob) {
       console.log(`Selected new job for social rotation: ${selectedJob.company} / ${selectedJob.title}.`);
     } else {
-      const pendingLinkCards = findPendingJob(state, jobs, requestedPlatforms, 'link-cards');
+      const pendingLinkCards = findPendingJob(state, jobs, requestedPlatforms);
       if (pendingLinkCards) {
         selectedJob = pendingLinkCards;
         console.log(`Retrying incomplete link-card publish for ${selectedJob.company} / ${selectedJob.title}.`);
-      }
-    }
-
-    if (!selectedJob) {
-      const pendingInstagram = findPendingJob(state, jobs, requestedPlatforms, 'instagram-only');
-      if (pendingInstagram) {
-        selectedJob = pendingInstagram;
-        console.log(`Retrying Instagram backlog for ${selectedJob.company} / ${selectedJob.title}.`);
       }
     }
 
@@ -1343,7 +1163,7 @@ async function main() {
       state.lastIndex = 1;
     }
   } else {
-    const pendingLinkCards = findPendingJob(state, jobs, requestedPlatforms, 'link-cards');
+    const pendingLinkCards = findPendingJob(state, jobs, requestedPlatforms);
     if (pendingLinkCards) {
       selectedJob = pendingLinkCards;
       console.log(`Retrying incomplete link-card publish for ${selectedJob.company} / ${selectedJob.title}.`);
@@ -1351,14 +1171,6 @@ async function main() {
       selectedJob = pickNextUnpostedJob(jobs, state, postedSet);
       if (selectedJob) {
         console.log(`Selected new job for social rotation: ${selectedJob.company} / ${selectedJob.title}.`);
-      }
-    }
-
-    if (!selectedJob) {
-      const pendingInstagram = findPendingJob(state, jobs, requestedPlatforms, 'instagram-only');
-      if (pendingInstagram) {
-        selectedJob = pendingInstagram;
-        console.log(`Retrying Instagram backlog for ${selectedJob.company} / ${selectedJob.title}.`);
       }
     }
 
@@ -1410,14 +1222,13 @@ async function main() {
   const rejectedPreviewSlugs = new Set<string>();
   for (let round = 0; round < jobsToPost.length; round++) {
     const currentJob = jobsToPost[round];
-    const { company, title, slug, location } = currentJob;
+    const { company, title, slug } = currentJob;
     const shouldPostAll = platform === 'all' || platform === 'both';
 
     // Build OG image URL, passing the verified local logo when one exists so
     // the card uses high-res art. PNG twin is preferred because Satori embeds
     // it consistently across cold and warm renders.
     const ogImageUrl = buildJobOgImageUrl(currentJob);
-    const igImageUrl = buildJobInstagramImageUrl(currentJob);
 
     // Formats strictly adhering to:
     //   Company is hiring role
@@ -1442,7 +1253,6 @@ async function main() {
   console.log(`  Role    : ${title}`);
   console.log(`  Slug    : ${slug}`);
   console.log(`  OG Image: ${ogImageUrl}`);
-  console.log(`  IG Image: ${igImageUrl}\n`);
 
   // Do this before warming or publishing. The state commit is deliberately
   // delayed until after publishing, so this run must not begin during a
@@ -1459,8 +1269,8 @@ async function main() {
     console.warn(`Warning: OG Image check encountered error:`, (err as Error).message);
   }
 
-  // Warm the OG image so Meta's fetchers hit a hot CDN asset (IG reuses the same URL).
-  for (const warmUrl of [ogImageUrl, igImageUrl]) {
+  // Warm the shared link-preview image.
+  for (const warmUrl of [ogImageUrl]) {
     try {
       const warmRes = await fetch(warmUrl);
       await warmRes.arrayBuffer();
@@ -1498,7 +1308,7 @@ async function main() {
   console.log(`----------------------------------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, or Instagram.');
+    console.log('DRY RUN active: No posts were published. Instagram is handled by the video workflow.');
     return;
   }
 
@@ -1747,36 +1557,6 @@ async function main() {
       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Facebook:`, (err as Error).message);
-    }
-  }
-
-   if (shouldPublishPlatform('instagram')) {
-    attemptedPlatforms.add('instagram');
-    try {
-      const TAGLINES = [
-        'Subscribed by 60k+ Web3 builders and professionals.',
-        'The Web3 career and event resource platform.',
-        'Read by founders, core devs, and protocol researchers.',
-        'Verified Web3 jobs, guides, and ecosystem tools.',
-        'Updated daily with active blockchain openings and guides.',
-        'The leading open resource for Web3 talent.',
-      ];
-      const activeTagline = TAGLINES[state.history.length % TAGLINES.length];
-      const igCaption = `${company} is hiring ${title} (${location || 'Remote'}).\n\nWeb3 jobs: hashtagweb3.com\n\n${activeTagline}\n\n#web3 #web3jobs #hashtagweb3`;
-      const igPostId = await postToInstagram(igCaption, [igImageUrl]);
-       console.log(`✓ Successfully published Instagram image post! Post ID: ${igPostId}`);
-      recordVerifiedPost(state, {
-        slug,
-        company,
-        title,
-        platform: 'instagram',
-        postedAt: now,
-        postId: igPostId,
-      });
-      newlyVerifiedPlatforms.add('instagram');
-      postedSuccessCount++;
-    } catch (err) {
-      console.error(`✗ Failed to post to Instagram:`, (err as Error).message);
     }
   }
 

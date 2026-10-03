@@ -1,10 +1,10 @@
-name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook & Instagram
+name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn & Facebook
 
 on:
   workflow_dispatch:
     inputs:
       platform:
-        description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook, instagram)'
+        description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook). Instagram uses the video workflow.'
         type: choice
         options:
           - all
@@ -14,7 +14,6 @@ on:
           - farcaster
           - linkedin
           - facebook
-          - instagram
         default: all
       dry_run:
         description: 'Dry run mode (preview without posting)'
@@ -31,7 +30,7 @@ on:
   workflow_call:
     inputs:
       platform:
-        description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook, instagram)'
+        description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook). Instagram uses the video workflow.'
         type: string
         default: all
       dry_run:
@@ -74,7 +73,7 @@ jobs:
         run: npm ci
 
       - name: Test Buffer publishing and account-specific receipts
-        run: npx tsx --test scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts scripts/social/linkedin-personal.test.ts
+        run: npx tsx --test scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts scripts/social/linkedin-personal.test.ts scripts/social/job-image-policy.test.ts
 
       - name: Post Job Opening
         id: publish
@@ -100,11 +99,10 @@ jobs:
           LINKEDIN_API_VERSION: ${{ vars.LINKEDIN_API_VERSION || '202609' }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID || '17841473830256790' }}
-          SOCIAL_PLATFORM: ${{ github.event.inputs.platform || 'all' }}
-          SOCIAL_DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
-          SOCIAL_SLUG: ${{ github.event.inputs.slug || '' }}
-          SOCIAL_FORCE: ${{ github.event.inputs.force || 'false' }}
+          SOCIAL_PLATFORM: ${{ inputs.platform || 'all' }}
+          SOCIAL_DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
+          SOCIAL_SLUG: ${{ inputs.slug || '' }}
+          SOCIAL_FORCE: ${{ inputs.force && 'true' || 'false' }}
         run: |
           ARGS=(--platform "$SOCIAL_PLATFORM")
           if [ "$SOCIAL_DRY_RUN" = "true" ]; then
@@ -121,7 +119,7 @@ jobs:
 
       - name: Commit and Push Posted State
         id: persist_state
-        if: ${{ always() && github.event.inputs.dry_run != 'true' }}
+        if: ${{ always() && !inputs.dry_run }}
         continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
@@ -143,7 +141,7 @@ jobs:
           fi
 
       - name: Fail incomplete social publish or state persistence
-        if: ${{ always() && github.event.inputs.dry_run != 'true' && (steps.publish.outcome == 'failure' || steps.persist_state.outcome == 'failure') }}
+        if: ${{ always() && !inputs.dry_run && (steps.publish.outcome == 'failure' || steps.persist_state.outcome == 'failure') }}
         run: |
           if [ "${{ steps.publish.outcome }}" = "failure" ]; then
             echo "Social publishing did not verify every requested platform. Any verified partial state was persisted for safe retry."

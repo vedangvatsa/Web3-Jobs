@@ -84,7 +84,8 @@ export async function instagramReady(containerId: string): Promise<'FINISHED' | 
 }
 
 export async function instagramVerify(id: string): Promise<string> {
-  const media = await meta<{id: string; permalink: string; owner: {id: string}}>(`${id}?fields=id,permalink,owner`);
+  const media = await meta<{id: string; permalink: string; owner: {id: string}; media_product_type: string}>(`${id}?fields=id,permalink,owner,media_product_type`);
   if (media.id !== id || media.owner?.id !== instagramAccount || new URL(media.permalink).hostname !== 'www.instagram.com') throw new Error('Instagram receipt ownership mismatch');
+  if (media.media_product_type !== 'REELS') throw new Error('Instagram publication is not a Reel');
   return media.permalink;
 }
