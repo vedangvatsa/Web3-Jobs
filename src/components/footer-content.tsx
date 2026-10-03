@@ -4,14 +4,12 @@ import Link from 'next/link';
 
 export function FooterContent() {
   const resourceLinks = [
-  { href:"/nomads", label:"Nomad Toolkit" },
+  { href:"/nomads", label:"Digital Nomad Resources" },
   { href:"/interview-questions", label:"Interview Questions" },
   { href:"/web3-career-quiz", label:"Archetype Assessment" },
   { href:"/salary-calculator", label:"Salary Calculator" },
   { href:"/invoice-generator", label:"Invoice Generator" },
   { href:"/resume-builder", label:"Resume Builder" },
-  { href:"/digital-nomad-visas", label:"Digital Nomad Visas" },
-   { href:"/remote-work-checklist", label:"Remote Checklist" },
    ];
   const popularArticles = [
    { href: '/how-to-start-a-web3-career', label: 'How to Start a Career in Web3' },

@@ -220,15 +220,13 @@ export const SOCIAL_LINKS: NavLinkItem[] = [
 ];
 
 export const FOOTER_RESOURCES: Array<{ href: string; label: string }> = [
-  { href: '/nomads', label: 'Nomad Toolkit' },
+  { href: '/nomads', label: 'Digital Nomad Resources' },
   { href: '/interview-questions', label: 'Interview Questions' },
   { href: '/web3-career-quiz', label: 'Archetype Assessment' },
   { href: '/salary-calculator', label: 'Salary Calculator' },
   { href: '/invoice-generator', label: 'Invoice Generator' },
   { href: '/resume-builder', label: 'Resume Builder' },
-  { href: '/digital-nomad-visas', label: 'Digital Nomad Visas' },
   { href: '/popups', label: 'Popups' },
-  { href: '/remote-work-checklist', label: 'Remote Checklist' },
 ];
 
 export const FOOTER_COMPANY: Array<{ href: string; label: string }> = [
