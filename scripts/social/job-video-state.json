@@ -531,7 +531,13 @@
         "youtube": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
         "youtubeTitle": "Mechanical Engineer at Hut 8"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Hut 8 is hiring\nMechanical Engineer\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-03T03:31:14.051Z"
+        }
+      }
     },
     "eng342": {
       "slot": "2026-10-03:morning",
