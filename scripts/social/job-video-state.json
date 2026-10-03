@@ -657,9 +657,10 @@
           "url": "https://www.youtube.com/watch?v=0M0nDXI2FXE"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Scheduler at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-03T11:34:40.877Z"
+          "startedAt": "2026-10-03T11:34:40.877Z",
+          "postId": "6ac0e8523bfd38430fde4031"
         }
       }
     }
