@@ -679,7 +679,13 @@
         "youtube": "New York, NY (HQ)\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
         "youtubeTitle": "Principal Brand Designer at Ramp"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Ramp is hiring\nPrincipal Brand Designer\n\nNew York, NY (HQ)\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+          "startedAt": "2026-10-03T19:31:09.302Z"
+        }
+      }
     },
     "pm154": {
       "slot": "2026-10-03:evening",
