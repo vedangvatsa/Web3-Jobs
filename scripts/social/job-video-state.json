@@ -607,11 +607,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Hut 8 is hiring\nCivil/Structural Engineer\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-03T11:31:06.749Z",
           "containerId": "17916082242461009",
-          "postId": "18093997076157195"
+          "postId": "18093997076157195",
+          "url": "https://www.instagram.com/reel/DeB9Ry4EsWb/"
         }
       }
     },
