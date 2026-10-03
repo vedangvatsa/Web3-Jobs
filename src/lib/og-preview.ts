@@ -23,6 +23,7 @@ import { fmtInt, hiringReportStats } from '@/lib/hiring-report-stats';
 import { learnRoutes, resolveLearnRoute } from '@/lib/learn-routes';
 import { getCategory, getLesson } from '@/lib/learn';
 import { nomadPageInfo, nomadRoutes, nomadOgImage } from '@/lib/nomads/metadata';
+import { isRemovedJobPath } from '@/lib/removed-job-path';
 
 const SITE_NAME = 'Hashtag Web3';
 const REMEDIATED_COMPANY_SLUGS = new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)));
@@ -246,7 +247,7 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
     if (jobMeta) return jobMeta;
     if (isRetiredJobSlug(slug)) return {
       title: `Listing removed | ${SITE_NAME}`,
-      description: 'This listing was removed because its source did not match the employer.',
+      description: 'This listing is no longer available.',
       ogImageUrl: STATIC_OG.jobs,
       canonicalUrl,
     };
@@ -361,5 +362,5 @@ export async function collectOgPreviewPaths(): Promise<string[]> {
     paths.add(`/${getCompanySlug(company.name)}`);
   }
 
-  return Array.from(paths);
+  return Array.from(paths).filter(path => !isRemovedJobPath(path));
 }

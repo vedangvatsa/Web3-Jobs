@@ -19,6 +19,10 @@ expectCountry('Kuala Lumpur, Malaysia', 'MY');
 expectCountry('London, UK', 'GB');
 expectCountry('Berlin, Germany', 'DE');
 expectCountry('Palo Alto, California, United States', 'US');
+expectCountry('Hybrid (London, United Kingdom)', 'GB');
+expectCountry('Remote (Hungary)', 'HU');
+expectCountry('Remote (United States)', 'US');
+assert.equal(toAddressCountryCode(ensureAddressCountry(parseJobAddress('Remote (Worldwide)'), 'Remote (Worldwide)').addressCountry), undefined);
 
 const bareCity = ensureAddressCountry(parseJobAddress('London'), 'London');
 assert.equal(toAddressCountryCode(bareCity.addressCountry), undefined, 'London with no country hint');

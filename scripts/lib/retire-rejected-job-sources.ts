@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import type { Job } from '../../src/types';
 import { getJobContentKey, getJobIdentity, type LegacySlugRecord } from '../../src/lib/job-slugs';
-import { getJobSourceIssue } from '../../src/lib/job-source-policy';
+import { getJobSourceIssue, getJobRetirementReason } from '../../src/lib/job-source-policy';
 import { readJobDescriptionStore, writeJobDescriptionStore } from './job-description-store';
 
 export function retireRejectedJobSources(root = process.cwd()) {
@@ -27,14 +27,15 @@ export function retireRejectedJobSources(root = process.cwd()) {
       changedArchive = true;
       continue;
     }
-    archive[job.slug] = { id: job.id, title: job.title, company: job.company, link: job.link, retiredReason: 'incorrect-employer-source' };
+    archive[job.slug] = { id: job.id, title: job.title, company: job.company, link: job.link, retiredReason: getJobRetirementReason(job) };
     changedArchive = true;
   }
   for (const [slug, record] of Object.entries(archive)) {
     if (record.recoveredFromMisattribution) recoveredSlugs.add(slug);
     if (!getJobSourceIssue(record)) continue;
-    if (record.retiredReason !== 'incorrect-employer-source') {
-      record.retiredReason = 'incorrect-employer-source';
+    const reason = getJobRetirementReason(record);
+    if (record.retiredReason !== reason) {
+      record.retiredReason = reason;
       changedArchive = true;
     }
     if (record.newSlug) { delete record.newSlug; changedArchive = true; }

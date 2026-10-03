@@ -1,5 +1,21 @@
 [
   {
+    "slug": "blast-shutdown",
+    "title": "Blast shuts down Ethereum layer 2 as costs exceed revenue",
+    "description": "Blast said on Oct. 2, 2026 it will wind down its Ethereum layer 2 because operating costs exceed revenue, asking users to withdraw to Ethereum mainnet by Oct. 26.",
+    "category": "News",
+    "publishedDate": "2026-10-03",
+    "image": "/images/news/blast-shutdown.jpg"
+  },
+  {
+    "slug": "evernorth-listing",
+    "title": "Evernorth wins vote for Nasdaq listing as XRP treasury",
+    "description": "Armada Acquisition Corp. II shareholders approved the Evernorth merger on Sept. 30, 2026, clearing a path to Nasdaq trading under XRPN on Oct. 8 with about 473 million XRP expected at closing.",
+    "category": "News",
+    "publishedDate": "2026-10-03",
+    "image": "/images/news/evernorth-listing.jpg"
+  },
+  {
     "slug": "near-exploit",
     "title": "NEAR Intents loses $3.8 million in smart contract exploit",
     "description": "NEAR Intents said on Oct. 1, 2026 that a bug in its Omni deposit and withdrawal system drained about $3.8 million, pledged full reimbursement, and paused deposits and withdrawals on several blockchains.",
@@ -22,21 +38,5 @@
     "category": "News",
     "publishedDate": "2026-10-01",
     "image": "/images/news/cobalt.jpg"
-  },
-  {
-    "slug": "fundsz",
-    "title": "CFTC Wins $31.5M Fundsz Fraud Judgment in Florida Court",
-    "description": "A federal court in Florida ordered two Fundsz operators to pay more than $31 million in restitution and penalties after finding they sold investors on fictitious crypto and metals trading.",
-    "category": "News",
-    "publishedDate": "2026-10-01",
-    "image": "/images/news/fundsz.jpg"
-  },
-  {
-    "slug": "tda-sanctions",
-    "title": "US Sanctions Tren de Aragua Network Over ATM Cash Thefts",
-    "description": "The Treasury sanctioned 10 people and companies tied to Tren de Aragua, saying an ATM jackpotting crew stole millions from US banks and moved proceeds through Tron wallets.",
-    "category": "News",
-    "publishedDate": "2026-10-01",
-    "image": "/images/news/tda-sanctions.jpg"
   }
 ]

@@ -9,7 +9,9 @@ export interface Job {
  dateVerified?: boolean; // false when the source exposes discovery time only
  source: string;
  slug?: string;
- location?: string;
+  location?: string;
+  isRemote?: boolean;
+  workplaceType?: string;
   department?: string;
   salary?: string;
   description?: string;

@@ -8,6 +8,7 @@ import {
 } from '@/lib/social-share';
 import { getLearnRedirectPath } from '@/lib/learn-routes';
 import { isRetiredOrProbePath } from '@/lib/retired-request';
+import { isRemovedJobPath, recoveredJobDestination } from '@/lib/removed-job-path';
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
@@ -106,6 +107,22 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  if (isRemovedJobPath(pathname)) return new NextResponse('This listing is no longer available.\n', {
+    status: 410,
+    headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300', 'X-Robots-Tag': 'noindex' },
+  });
+  const recoveredDestination = recoveredJobDestination(pathname);
+  if (recoveredDestination) {
+    const url = request.nextUrl.clone();
+    const preview = linkPreviewPreviewPath(pathname, request.headers.get('user-agent') || '', isLinkPreviewCrawlerRequest(request));
+    if (preview) {
+      url.pathname = preview;
+      url.search = '';
+      return NextResponse.rewrite(url);
+    }
+    url.pathname = recoveredDestination;
+    return NextResponse.redirect(url, 308);
+  }
   const normalizedLearnPath = pathname.replace(/\/+$/, '');
   const exactLearnDestination = getLearnRedirectPath(normalizedLearnPath);
   const learnBasePath = exactLearnDestination ? normalizedLearnPath : stripSocialPathSuffix(normalizedLearnPath);

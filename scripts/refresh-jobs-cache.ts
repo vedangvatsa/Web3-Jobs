@@ -22,7 +22,7 @@ import {
   readJobDescriptionStore,
   writeJobDescriptionStore,
 } from './lib/job-description-store';
-import { cleanJobLocation } from '../src/lib/job-location';
+import { resolveJobLocation } from '../src/lib/job-location';
 import { extractSalaryLabelFromContent } from '../src/lib/job-salary';
 import { enrichMultiOfficeLocations } from './lib/enrich-multi-office-locations';
 import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
@@ -188,6 +188,8 @@ interface CachedJob {
   source: string;
   slug?: string;
   location?: string;
+  isRemote?: boolean;
+  workplaceType?: string;
   department?: string;
   salary?: string;
   active?: boolean;
@@ -735,6 +737,7 @@ async function refreshJobsCache() {
         salaryRange?: { min?: number; max?: number; currency?: string; interval?: string };
         lists?: Array<{ text?: string; content?: string }>;
         additional?: string;
+        workplaceType?: string;
       }>;
 
       removeJobs((job) => matchesRefreshedSource(job, 'Lever', lv.board, lv.company));
@@ -758,6 +761,7 @@ async function refreshJobsCache() {
               date,
               source: sourceLabel('Lever', lv.board, lv.company),
               location: posting.categories?.location,
+              workplaceType: posting.workplaceType,
               department: posting.categories?.department || posting.categories?.team,
               ...(salary ? { salary } : {}),
               active: true,
@@ -940,6 +944,8 @@ async function refreshJobsCache() {
         team?: string;
         descriptionHtml?: string;
         isListed?: boolean;
+        isRemote?: boolean;
+        workplaceType?: string;
       }> };
 
       removeJobs((job) => matchesRefreshedSource(job, 'Ashby', ab.board, ab.company));
@@ -962,6 +968,8 @@ async function refreshJobsCache() {
               date,
               source: sourceLabel('Ashby', ab.board, ab.company),
               location: job.location,
+              isRemote: job.isRemote,
+              workplaceType: job.workplaceType,
               department: job.department || job.team,
               active: true,
             };
@@ -1016,6 +1024,7 @@ async function refreshJobsCache() {
           departmentName?: string;
           teamNames?: string[];
           isListed?: boolean;
+          workplaceType?: string;
         } = {};
         let datePosted: string | undefined;
         try {
@@ -1039,6 +1048,7 @@ async function refreshJobsCache() {
           dateVerified: Boolean(datePosted),
           source: sourceLabel('Ashby', ab.board, ab.company),
           location: detail.locationName || posting.locationName,
+          workplaceType: detail.workplaceType,
           department: detail.departmentName || detail.teamNames?.[0],
           active: true,
         };
@@ -1103,6 +1113,7 @@ async function refreshJobsCache() {
         department?: string;
         city?: string;
         country?: string;
+        remote?: boolean;
       }> };
 
       removeJobs((job) => matchesRefreshedSource(job, 'Workable', wb.board, wb.company));
@@ -1122,6 +1133,7 @@ async function refreshJobsCache() {
           benefits?: string;
           location?: { city?: string; country?: string };
           locations?: Array<{ city?: string; country?: string }>;
+          remote?: boolean;
         } = {};
         try {
           const detailRes = await fetch(`https://apply.workable.com/api/v1/accounts/${wb.board}/jobs/${id}`);
@@ -1149,6 +1161,7 @@ async function refreshJobsCache() {
           date,
           source: sourceLabel('Workable', wb.board, wb.company),
           location: location || [job.city, job.country].filter(Boolean).join(', ') || undefined,
+          isRemote: detail.remote ?? job.remote,
           department: detail.department || job.department,
           active: true,
         };
@@ -1391,7 +1404,7 @@ async function refreshJobsCache() {
         url: string;
         published_date?: string;
         department?: string;
-        location?: { name?: string };
+        location?: { name?: string; is_remote?: boolean };
       }>;
 
       removeJobs((job) => matchesRefreshedSource(job, 'Breezy', bz.board, bz.company));
@@ -1409,6 +1422,7 @@ async function refreshJobsCache() {
           date: posting.published_date || new Date().toISOString(),
           source: sourceLabel('Breezy', bz.board, bz.company),
           location: posting.location?.name,
+          isRemote: posting.location?.is_remote,
           department: posting.department,
           active: true,
         };
@@ -2165,7 +2179,7 @@ async function refreshJobsCache() {
   allJobs = allJobs.map(job => ({
     ...job,
     company: cleanCompanyName(job.company),
-    location: cleanJobLocation(job.location),
+    location: resolveJobLocation(job),
   })).filter(job => {
     if (getJobSourceIssue(job)) return false;
     const titleLower = job.title.toLowerCase().trim();

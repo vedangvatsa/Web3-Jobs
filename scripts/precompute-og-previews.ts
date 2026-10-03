@@ -5,6 +5,7 @@ import { load } from 'cheerio';
 import { preparePreviewImage, writeSocialImageInfo } from './lib/og-preview-assets';
 import { isRemediatedJobSlug } from '../src/lib/job-guides';
 import { legacyNomadDestination } from '../src/lib/nomads/metadata';
+import { isRemovedJobPath } from '../src/lib/removed-job-path';
 import {
   buildOgPreviewHtml,
   collectOgPreviewPaths,
@@ -80,6 +81,11 @@ async function main() {
   for (const file of existingShells(OUT_ROOT)) {
     const relative = path.relative(OUT_ROOT, file).replace(/\\/g, '/').replace(/\.html$/, '');
     const contentPath = relative === 'index' ? '/' : `/${relative}`;
+    if (isRemovedJobPath(contentPath)) {
+      fs.unlinkSync(file);
+      delete manifest[contentPath];
+      continue;
+    }
     if (livePaths.has(contentPath) || relative === 'default') continue;
     const before = fs.readFileSync(file, 'utf8');
     const nomadDestination = legacyNomadDestination(contentPath);

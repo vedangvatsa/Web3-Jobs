@@ -193,3 +193,27 @@ export function getPrimaryJobLocation(rawLocation?: string | null): string {
   }
   return cleaned;
 }
+
+/** Preserve the employer's work arrangement alongside its geographic location. */
+export function resolveJobLocation(job: { title?: string; company?: string; location?: string | null; isRemote?: boolean; workplaceType?: string }): string {
+  const raw = job.location?.trim();
+  const location = raw && raw.toLowerCase() !== job.company?.trim().toLowerCase() ? cleanJobLocation(raw) : 'Not specified';
+  const mode = (job.workplaceType || '').toLowerCase().replace(/[\s_-]/g, '');
+  if (mode === 'onsite') return location;
+  if (mode === 'hybrid') return location === 'Not specified' ? 'Hybrid' : /\bhybrid\b/i.test(location) ? location : `Hybrid (${location})`;
+  const title = job.title || '';
+  if (/\bremote[\s,():/\-–]*(?:worldwide|globally|global|anywhere)\b|\b(?:worldwide|global)[\s,():/\-–]*remote\b/i.test(title)) return 'Remote (Worldwide)';
+  const remoteTitle = !/\bremote\s+(?:sensing|desktop|control|access|procedure)\b/i.test(title) && /(?:^remote\b|\(\s*remote\b|\bremote\s*$|\bremote\s*[-–,:|]|\bfully remote\b)/i.test(title);
+  if (job.isRemote === true || mode === 'remote' || remoteTitle || /\bremote\b/i.test(job.location || '')) {
+    return location === 'Not specified' ? 'Remote' : /\bremote\b/i.test(location) ? location : `Remote (${location})`;
+  }
+  return location;
+}
+
+export function isRemoteJob(job: Parameters<typeof resolveJobLocation>[0]): boolean {
+  const mode = (job.workplaceType || '').toLowerCase().replace(/[\s_-]/g, '');
+  if (mode === 'hybrid' || mode === 'onsite') return false;
+  const location = resolveJobLocation(job);
+  if (/\bhybrid\b/i.test(location)) return false;
+  return job.isRemote === true || mode === 'remote' || /\bremote\b/i.test(location) || /^(?:worldwide|anywhere|global|virtual)$/i.test(location);
+}

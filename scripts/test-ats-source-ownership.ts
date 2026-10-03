@@ -15,6 +15,8 @@ import { getCompanyBySlug } from '../src/lib/companies';
 import { readJobDescriptionStore } from './lib/job-description-store';
 import { shouldRunStep, stepInputHash } from './lib/prebuild-manifest';
 import { classifySlug } from '../src/lib/slug-classifier';
+import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
+import { isRemovedJobPath } from '../src/lib/removed-job-path';
 
 const job = (company: string, link: string, slug = 'engineer'): Job => ({ id: '42', title: 'Software Engineer', company, link, slug, source: 'Imported', active: true, date: '2026-10-01' });
 
@@ -82,17 +84,26 @@ async function main() {
   const archive = JSON.parse(fs.readFileSync('content/legacy-slugs-archive.json', 'utf8')) as Record<string, LegacySlugRecord>;
   const store = readJobDescriptionStore();
   const sitemap = new Set((JSON.parse(fs.readFileSync('content/sitemap-routes.json', 'utf8')) as Array<{ url: string }>).map(row => new URL(row.url).pathname));
+  const contentOwnedSlugs = loadReservedRootSlugsSync();
   let retired = 0;
   for (const [slug, record] of Object.entries(archive)) {
     if (!getJobSourceIssue(record)) continue;
     retired++;
-    assert.equal(record.retiredReason, 'incorrect-employer-source');
+    assert.ok(['incorrect-employer-source', 'removed-by-owner', 'application-not-found', 'application-closed'].includes(record.retiredReason || ''), `Unexpected retirement reason: ${slug}`);
     const key = getJobContentKey(record as Job);
     if (!protectedKeys.has(key)) assert.equal(store.descriptions[key], undefined, `Rejected description ${slug}`);
     if (liveSlugs.has(slug)) continue;
+    if (contentOwnedSlugs.has(slug) || classifySlug(slug) !== 'job') {
+      assert.equal(isRemovedJobPath(`/${slug}`), false, `Unrelated content was retired: ${slug}`);
+      continue;
+    }
     if (classifySlug(slug) === 'job') assert.ok(!sitemap.has(`/${slug}`), `Withdrawn job is still in the sitemap: ${slug}`);
     assert.equal((await resolveJobSlug(slug)).kind, 'unknown', `Rejected archive resurfaced: ${slug}`);
     const file = `public/preview/${slug}.html`;
+    if (isRemovedJobPath(`/${slug}`)) {
+      assert.equal(fs.existsSync(file), false, `A 410 job still has a share shell: ${slug}`);
+      continue;
+    }
     assert.ok(fs.existsSync(file), `Missing corrected preview: ${slug}`);
     const $ = load(fs.readFileSync(file, 'utf8'));
     assert.equal($('meta[property="og:title"]').attr('content'), 'Listing removed | Hashtag Web3', `Stale preview: ${slug}`);

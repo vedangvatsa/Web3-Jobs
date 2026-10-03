@@ -1669,12 +1669,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/analyst158</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/analyst159</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -2516,12 +2510,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/arc5</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/arc6</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -5215,6 +5203,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/blast-shutdown</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/blc</loc>
     <lastmod>2026-10-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -6279,12 +6273,6 @@
   <url>
     <loc>https://hashtagweb3.com/chief6</loc>
     <lastmod>2026-08-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/chief7</loc>
-    <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7609,18 +7597,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/compliance163</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/compliance164</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/compliance165</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -7634,12 +7610,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/compliance167</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/compliance168</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -8509,12 +8479,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/covalent</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/covenant</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -8937,18 +8901,6 @@
   <url>
     <loc>https://hashtagweb3.com/customer15</loc>
     <lastmod>2026-09-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/customer16</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/customer17</loc>
-    <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9895,20 +9847,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/designer39</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/designer4</loc>
     <lastmod>2024-10-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/designer40</loc>
-    <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10245,12 +10185,6 @@
   <url>
     <loc>https://hashtagweb3.com/developer37</loc>
     <lastmod>2026-09-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/developer38</loc>
-    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10628,12 +10562,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/devops136</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/devops137</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -11957,12 +11885,6 @@
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/eio</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/ellipsis-labs</loc>
@@ -18313,12 +18235,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/engineer949</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/engineer95</loc>
     <lastmod>2025-06-18</lastmod>
     <changefreq>daily</changefreq>
@@ -18338,12 +18254,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/engineer952</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/engineer953</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -18923,6 +18833,12 @@
     <lastmod>2026-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/evernorth-listing</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/everstake</loc>
@@ -19513,12 +19429,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/financial8</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/financial9</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -19934,12 +19844,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/frontend28</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/frontend29</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -21614,12 +21518,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/head83</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/head84</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -24517,12 +24415,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/ledger</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/legal-careers-in-web3</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -24725,18 +24617,6 @@
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/lms</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/local</loc>
-    <lastmod>2025-05-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/localcoin</loc>
@@ -27565,30 +27445,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/manager640</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/manager641</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/manager642</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/manager643</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/manager644</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -27613,12 +27469,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/manager648</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/manager649</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -27632,12 +27482,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/manager650</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/manager651</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -28375,12 +28219,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/managing2</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/managing3</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -29029,12 +28867,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/marketing220</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/marketing221</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -29071,19 +28903,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/marketing227</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/marketing228</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/marketing229</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -29091,12 +28911,6 @@
   <url>
     <loc>https://hashtagweb3.com/marketing23</loc>
     <lastmod>2025-11-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/marketing230</loc>
-    <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -30667,12 +30481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/mifid</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/mining</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -30807,12 +30615,6 @@
   <url>
     <loc>https://hashtagweb3.com/mkt36</loc>
     <lastmod>2026-09-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/mkt37</loc>
-    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -32017,12 +31819,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/onboarding8</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/onchain-agents</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
@@ -32899,12 +32695,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/operations97</loc>
-    <lastmod>2026-08-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/operations98</loc>
     <lastmod>2026-08-04</lastmod>
     <changefreq>daily</changefreq>
@@ -33707,12 +33497,6 @@
     <lastmod>2026-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/paymaster</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/payment3</loc>
@@ -34669,7 +34453,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/pm213</loc>
+    <loc>https://hashtagweb3.com/pm214</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -36105,12 +35889,6 @@
   <url>
     <loc>https://hashtagweb3.com/product223</loc>
     <lastmod>2026-06-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/product224</loc>
-    <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -37795,12 +37573,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/product578</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/product579</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -37809,12 +37581,6 @@
   <url>
     <loc>https://hashtagweb3.com/product58</loc>
     <lastmod>2025-08-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/product580</loc>
-    <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -40369,12 +40135,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/rust18</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/rust2</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>daily</changefreq>
@@ -41840,12 +41600,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/sales384</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/sales385</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -45547,7 +45301,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/sls212</loc>
+    <loc>https://hashtagweb3.com/sls213</loc>
     <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
@@ -45883,12 +45637,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/sls75</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/sls79</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>daily</changefreq>
@@ -45967,12 +45715,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/sls92</loc>
-    <lastmod>2026-09-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/sls93</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
@@ -45999,12 +45741,6 @@
   <url>
     <loc>https://hashtagweb3.com/sls97</loc>
     <lastmod>2026-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/sls98</loc>
-    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -46073,12 +45809,6 @@
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/smm</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/smp</loc>
@@ -46711,12 +46441,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/stockal</loc>
-    <lastmod>2026-09-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/story-protocol</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -47067,12 +46791,6 @@
   <url>
     <loc>https://hashtagweb3.com/tacnode-apex</loc>
     <lastmod>2026-10-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/taiko-labs</loc>
-    <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49106,7 +48824,7 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/trezor</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

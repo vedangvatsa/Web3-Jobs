@@ -3,6 +3,8 @@ import { getJobSlug } from '@/lib/job-slugs';
 import { getCachedRawContent } from '@/lib/job-guides';
 import { preloadFeedJobDescriptions } from '@/lib/job-feed-helpers';
 import { normalizeSingleLocation } from '@/lib/job-filters';
+import { isRemoteJob } from '@/lib/job-location';
+import { parseJobAddress, ensureAddressCountry, toAddressCountryCode } from '@/components/job-detail-view';
 import { NextResponse } from 'next/server';
 import * as cheerio from 'cheerio';
 
@@ -127,34 +129,11 @@ export async function GET() {
 
     // Single location requirement
     const rawLoc = normalizeSingleLocation(job.location);
-    let locationStr = rawLoc;
-    let isRemote = 0;
-
-    if (!rawLoc || /\b(remote|worldwide|anywhere|flexible)\b/i.test(rawLoc)) {
-      locationStr = 'United Kingdom';
-      isRemote = 1;
-    } else if (rawLoc.toLowerCase().includes('remote')) {
-      isRemote = 1;
-    }
-
-    // Adzuna Requirement: country code ISO_3166-1 or consistent identifier ('UK', 'US', 'IN', etc.)
-    // Defaults to UK for UK remote postings, or extracts code if specified
-    let countryCode = 'UK';
-    if (/\b(united states|\busa?\b)\b/i.test(locationStr)) {
-      countryCode = 'US';
-    } else if (/\b(india|\bin\b)\b/i.test(locationStr)) {
-      countryCode = 'IN';
-    } else if (/\b(germany|\bde\b)\b/i.test(locationStr)) {
-      countryCode = 'DE';
-    } else if (/\b(france|\bfr\b)\b/i.test(locationStr)) {
-      countryCode = 'FR';
-    } else if (/\b(canada|\bca\b)\b/i.test(locationStr)) {
-      countryCode = 'CA';
-    } else if (/\b(singapore|\bsg\b)\b/i.test(locationStr)) {
-      countryCode = 'SG';
-    } else if (/\b(australia|\bau\b)\b/i.test(locationStr)) {
-      countryCode = 'AU';
-    }
+    const locationStr = rawLoc;
+    const isRemote = isRemoteJob(job) ? 1 : 0;
+    const countryCode = toAddressCountryCode(ensureAddressCountry(parseJobAddress(rawLoc), rawLoc).addressCountry);
+    // This regional feed requires a country; an unspecified remote scope cannot supply one.
+    if (!countryCode) continue;
 
     const { id: categoryId, name: categoryName } = mapToAdzunaCategory(cleanTitle, job.department);
     const { contract_type, contract_time } = getContractDetails((job as any).type, cleanTitle);

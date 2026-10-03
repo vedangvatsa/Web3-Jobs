@@ -18,6 +18,12 @@ const JOB_SHARD_OUTPUTS = Array.from({ length: JOB_SHARD_COUNT }, (_, i) =>
 /** Input → output prep steps (order matters). */
 export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   {
+    id: 'removed-job-paths',
+    inputs: ['content/removed-job-listings.json', 'content/jobs-cache.json', 'content/legacy-slugs-archive.json', 'content/slug-types.json', 'src/lib/reserved-root-slugs.ts', 'scripts/precompute-removed-job-paths.ts'],
+    outputs: ['content/removed-job-paths.json', 'content/recovered-job-redirects.json'],
+    command: 'npx tsx scripts/precompute-removed-job-paths.ts',
+  },
+  {
     id: 'nomad-display-images',
     inputs: ['content/nomads/cities.json', 'public/images/nomads', 'scripts/precompute-nomad-images.ts'],
     outputs: ['content/nomad-display-images.json', ...Object.values(displayImagesJson as Record<string, { base: string; width: number }>).flatMap(image => [480, image.width].map(width => `public${image.base}-${width}.webp`))],
@@ -60,7 +66,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'jobs-runtime',
-    inputs: ['content/jobs-cache.json', 'content/rejected-ats-boards.json', 'src/lib/jobs-listing-build.ts', 'src/lib/job-source-policy.ts', 'src/lib/job-filters.ts'],
+    inputs: ['content/jobs-cache.json', 'content/rejected-ats-boards.json', 'content/removed-job-listings.json', 'src/lib/jobs-listing-build.ts', 'src/lib/job-source-policy.ts', 'src/lib/job-filters.ts', 'src/lib/job-location.ts'],
     outputs: [
       'content/jobs-runtime.json',
       'content/homepage-jobs.json',

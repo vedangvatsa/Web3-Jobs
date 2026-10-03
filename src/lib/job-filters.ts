@@ -36,6 +36,7 @@ export function isGeneralOrPlaceholderJobTitle(title: string | null | undefined)
   if (PLACEHOLDER_TITLE_PATTERNS.some((p) => t.includes(p))) {
     return true;
   }
+  if (/^(?:(?:explore|browse|view)\b.{0,120}\b)?open roles[!.]?$/i.test(t)) return true;
 
   return GENERAL_APP_REGEX.test(t);
 }

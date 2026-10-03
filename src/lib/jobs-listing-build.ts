@@ -2,7 +2,7 @@ import type { Job } from '@/types';
 import { cleanPublishText } from '@/lib/noslop';
 import { getJobIdentity } from './job-slugs';
 import { isConcreteJobOpening, cleanCompanyName } from './job-filters';
-import { cleanJobLocation } from './job-location';
+import { resolveJobLocation } from './job-location';
 import { getJobSourceIssue } from './job-source-policy';
 
 const BLOCKED_COMPANIES = new Set([
@@ -130,7 +130,7 @@ export function buildJobsListing(rawJobs: Job[]): Job[] {
   const jobs: Job[] = rawJobs.map((job: Job) => {
     return {
       ...job,
-      location: cleanJobLocation(job.location),
+      location: resolveJobLocation(job),
       title: cleanJobTitle(job.title, job.company),
       company: cleanCompanyName(cleanPublishText(job.company)),
     };

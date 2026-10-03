@@ -7,7 +7,7 @@ import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
-import { cleanJobLocation, getPrimaryJobLocation } from '@/lib/job-location';
+import { cleanJobLocation, getPrimaryJobLocation, isRemoteJob } from '@/lib/job-location';
 import { getImageVariants } from '@/lib/responsive-images-server';
 
 interface JobDetailViewProps {
@@ -110,7 +110,7 @@ export function parseJobAddress(location: unknown): ParsedJobAddress {
   // First site wins for multi-site postings ("Abu Dhabi, UAE; Kuala Lumpur",
   // "Cyprus / Georgia / Poland" multi-country lists). Use primary cleaned location
   // to avoid picking broad parent country tags ("Australia; Sydney, NSW, Australia").
-  let text = getPrimaryJobLocation(location);
+  let text = getPrimaryJobLocation(location.replace(/^(?:remote|hybrid)\s*\((.*)\)$/i, '$1').replace(/^(?:remote|hybrid)\s*[·:–-]\s*/i, ''));
   text = text.split('/')[0] ?? '';
   // Alternatives ("Vancouver, BC or New York City") and trailing qualifiers
   // ("New York, NY / Hybrid", "Bengaluru, India (Hybrid)", "New York Office").
@@ -283,13 +283,7 @@ export function JobDetailView({
     return 'FULL_TIME';
   })();
 
-  const isRemote =
-    !job.location ||
-    locLower.includes('remote') ||
-    locLower.includes('anywhere') ||
-    locLower.includes('worldwide') ||
-    locLower.includes('global') ||
-    locLower.includes('virtual');
+  const isRemote = isRemoteJob(job);
 
   // Word-boundary matching throughout: bare substring tests misfire badly
   // here ('Austin' contains 'us', 'Eurasia' contains 'asia', 'Lucknow'
@@ -301,7 +295,8 @@ export function JobDetailView({
     if (/\blatam\b/.test(locLower) || locLower.includes('latin america')) return 'Latin America';
     if (/\buk\b/.test(locLower) || locLower.includes('united kingdom') || locLower.includes('britain')) return 'United Kingdom';
     if (locLower.includes('canada')) return 'Canada';
-    return 'Worldwide';
+    const country = toAddressCountryCode(ensureAddressCountry(parseJobAddress(job.location), job.location || '').addressCountry);
+    return country ? new Intl.DisplayNames(['en'], { type: 'region' }).of(country) || 'Worldwide' : 'Worldwide';
   })();
 
   // Structured work address for non-remote postings. Only locality/region/
@@ -358,7 +353,7 @@ export function JobDetailView({
           ...(applicantLocationName !== 'Worldwide'
             ? {
                 applicantLocationRequirements: {
-                  '@type': 'Country',
+                  '@type': ['Europe', 'Asia', 'Latin America'].includes(applicantLocationName) ? 'AdministrativeArea' : 'Country',
                   name: applicantLocationName,
                 },
               }
