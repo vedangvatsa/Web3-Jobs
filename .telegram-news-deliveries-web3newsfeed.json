@@ -567,7 +567,7 @@
     "sentAt": "2026-10-03T03:56:56.604Z"
   },
   "58167828-13d6-405c-bbe3-f3997c23bb69": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T11:34:49.516Z",
     "stories": [
       {
@@ -595,6 +595,8 @@
         "originalTitle": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are"
       }
     ],
-    "slotKey": "2026-10-03:afternoon"
+    "slotKey": "2026-10-03:afternoon",
+    "messageId": 65724,
+    "sentAt": "2026-10-03T11:34:52.396Z"
   }
 }
