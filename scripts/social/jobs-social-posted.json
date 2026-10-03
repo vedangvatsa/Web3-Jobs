@@ -1,5 +1,5 @@
 {
-  "lastIndex": 330,
+  "lastIndex": 332,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -139,7 +139,9 @@
     "pm169",
     "sls174",
     "kng",
-    "sls185"
+    "sls185",
+    "ops48",
+    "eng358"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5143,516 +5145,6 @@
       "verification": "verified"
     },
     {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x19e05090c6a98864d639cba3c1576d77838bf8d3",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x8e23707dc56d559b4740548f465ddc2f4833ca5b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x37788f80ca5fe671569e0e9adc07cdc7321abe06",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x6fe1c8627425d0858a9d053470c2ace91f6af39d",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0xadbfbf40000f16fb667b8a25306fecab638ee24e",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x1578ab9acb8127e05e2290f5b8eda19074ce1f71",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0xdec35aaaf1113ee824ac9b223bafe776de3465e6",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x497f83896c110eeac1595f75d6a3f34a3ff61f68",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "6abcf5e8f9fcc8033908c1b3",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "6abcf5f36f3f8543a5c425ec",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "urn:li:share:7511028065548795904",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "facebook",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "691827047618629_1102388585701709",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "instagram",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "17989612847861275",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "x",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "6abcf6163e02a4a8dab80dfc",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Binance is hiring PR Manager, Pakistan\n\nhttps://hashtagweb3.com/mgr55/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105262475595714979"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "threads",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "18022038041868456",
-      "verification": "verified",
-      "expectedText": "Binance is hiring PR Manager, Pakistan: https://hashtagweb3.com/mgr55/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd6QZvmG8LV",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "bluesky",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwqbdhtc2l26",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x05f2c06b7068d331c2e4c8246234b00b33e84141",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0xf65d53749db07c3ae7b92cf5543d5aa583baf32f",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x69664e92232967c65b364fb4a801ee751b427f6c",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0xf02a88267543d95f692cc67415b1f56f24bd96f0",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x1ef59a39b2506a4de6ee95617d0df0583a6bf3ec",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x2d7b9e8d36dd0d9eca0e089e20a2537be26fd795",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x7bf496c11ea2926202512e140216a7ce73afe8a0",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x2bd5f03f0fa2ca90cd89146988e681abf7e16cae",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x4953dc42b9daa96f3966e6de37603f624ab6f3ed",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0xbc2bb2eb894812c9d67bff7b5a53c87876757b53",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x6e02a250b39840aa4bd57b0468fbbb07cc27eb0b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x983e5306c4e0870affabb48b582740dd0c31c137",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x41e128592b45902ba4f5bf3507e552f85b4eb923",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x8ed004700b80f29b7bb5dddaf2db8c8e9c29b372",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0xe0ef5b4fd3a0dcf79218bf230b023c32062c810c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x6febeda1625ffcba915884d514e605774bf69048",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "0x5f59cf0f12610936f5810262c6221b1d4e56d216",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "6abcf6283e02a4a8dab80fb3",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "6abcf6326f3f8543a5c42ba5",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "urn:li:share:7511028330498985984",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "facebook",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "691827047618629_1102389362368298",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr55",
-      "company": "Binance",
-      "title": "PR Manager, Pakistan",
-      "platform": "instagram",
-      "postedAt": "2026-09-30T11:44:22.139Z",
-      "postId": "18100933466131242",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "x",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "6abd63d15feb60d63458e64a",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Sales Leader, India\n\nhttps://hashtagweb3.com/sls181/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105380296975679571"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "threads",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "18065774435759935",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Sales Leader, India: https://hashtagweb3.com/sls181/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd7F-1FCfa1",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "bluesky",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwr3inyz232z",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0xd369ea5b6a368a8248744d69cb434c152afaf19f",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0xfc0b936307f153cf6e88ba90ac45c92acdc0abf6",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x099a22189023a14d772b58276c1423a53dee1b5b",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0xcbb9c748b9de6cc8268f78a8c5c4c20797ccb84b",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x9a638accda141111f3fb0c0d9697cd0a83c49173",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0xe08aae7df8066d2115badf168bc69e6aba11d6f1",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x35a383247262cccdb8da9e084aa9cd5db31ad74b",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x38c97a23223f0bbf19549c2afd71efc4e64c8577",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x6806fa9bce299fd75cf828e22719c692a13c9cbe",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
       "slug": "sls181",
       "company": "Stripe",
       "title": "Sales Leader, India",
@@ -10116,6 +9608,516 @@
       "platform": "instagram",
       "postedAt": "2026-10-03T11:33:02.739Z",
       "postId": "18009334040992046",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "x",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "6ac158297ff895d757b888c8",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Global People Operations - Systems Administrator\n\nhttps://hashtagweb3.com/ops48/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106467291609153673"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "threads",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "18643328134006879",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Global People Operations - Systems Administrator: https://hashtagweb3.com/ops48/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeC0SiZG12x",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "bluesky",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwymua3mwz2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xe43eb4bdb41901eaa32ff3b0264e660a380df2a8",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x3a72f52f386af92ee772544cb32e6c9917e879de",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x75f5cabbc4aea2759b63f9fe715e2345fd9c13fb",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xc10a4c7e993491c73cac61c38454402c07e647cf",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x1e43b32d7236640e3d6f480c971aaa84ccc34c66",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x769d7a4ab36b30d881bb8e86ad52528dfbac6254",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xc701eef3ffe89c265991f956acabedbdaeb8496b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x3cc00a049df4bcb424ac7a673e31a31bc6f3c3cd",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xc5d8397a6411aa26236d8dcd0c33ffa3089037b5",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xcd0b0b42e40ec6dee8e3c63ef9ef77e3b18d45fc",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xab00e8bcab9d07cdefbb8a1faa3ca5323873a7f4",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xf22733ed99f8c78dd505bace84843f2d4b9380a3",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x88920b4198396d55e03a9c93af98db7452b1462c",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xb0042667a2cecb154772d62f621f93b3930e40b5",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x6b9c33351c6c1cc8277c678db9f225bd217b8c65",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0x52489f71ae603c9a9d2bab1676892b472e3f5cec",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "0xab91e3d4ab383a8e5cca0ede71620a82dd7f5638",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "6ac1583b7ff895d757b88e95",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "6ac15846fec59133948450d2",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "urn:li:share:7512233150618546176",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "facebook",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "691827047618629_1105670322040202",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops48",
+      "company": "Stripe",
+      "title": "Global People Operations - Systems Administrator",
+      "platform": "instagram",
+      "postedAt": "2026-10-03T19:31:52.290Z",
+      "postId": "18439267990135902",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "6ac158657ff895d757b89395",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Elwood Technologies is hiring Graduate/Junior Software Engineer\n\nhttps://hashtagweb3.com/eng358/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106467545741930784"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "18154569985522368",
+      "verification": "verified",
+      "expectedText": "Elwood Technologies is hiring Graduate/Junior Software Engineer: https://hashtagweb3.com/eng358/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeC0Z6vD-mi",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwymvzaqyn22",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xab17562426f08c6f0e70ae6b8bf3c58af1d830b5",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x8e2f20bdd2710e573eae138582245cbd889039dd",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xee516aa0ac92aca645f62f376a21703c6a4cefed",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x46e544ffa9d1ec315e9130b7dc35978af33d3c07",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xf4a80998ebbc7da3f40f94bcf5621f6ec1fe011a",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xbe449fb989c6ca4a691c050273725c4da8c6c59f",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x52813a681e3f8e8d3ee21d3cf4a682b74c228613",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x4c637bcf03df3a423018309bead668e9b7d1e6ee",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xead7834bb9890511221908b4a63a6ca6ed6a4489",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x63cb51e9efdcab5828bbd450dc01fa01b04a084c",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xe5f2cce1807b34c43702427192a84e31bdf2b668",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x470b6bafdcb9ce50ca175738ea2fd18fc2696338",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x294a11be7e9f708d43aa07a2b7320abde1aefef6",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x21cc502a62dd1ce4f61cc2672f12d7dd74e1fad1",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0x6330fb27d7afdfcb1746d0813bf9889bacdaed2c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xd065f0f4e095084bb5f4913565d2fb1742d665bb",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "0xe0101db4b5df598ef546088f8039a56193a03a21",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "6ac15877ad7fd83bc500b616",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "6ac15882aa79e514b9fc5a08",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "urn:li:share:7512233401127460866",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "691827047618629_1105670825373485",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng358",
+      "company": "Elwood Technologies",
+      "title": "Graduate/Junior Software Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-10-03T19:32:53.230Z",
+      "postId": "18098159234531712",
       "verification": "verified"
     }
   ]
