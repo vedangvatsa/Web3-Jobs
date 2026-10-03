@@ -689,9 +689,10 @@
           "url": "https://www.instagram.com/reel/DeC0NgQCRzt/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "New York, NY (HQ)\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
-          "startedAt": "2026-10-03T19:31:56.764Z"
+          "startedAt": "2026-10-03T19:31:56.764Z",
+          "postId": "6ac1582eaa79e514b9fc4eee"
         }
       }
     },
