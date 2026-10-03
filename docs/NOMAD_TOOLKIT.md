@@ -328,9 +328,9 @@ npx tsx scripts/audit-nomad-assets.ts
   including a passport-country key and matching unavailable-data colors.
 - Places always shows its map and directory together. The redundant List/Map
   toggle is removed; search, category filters, cluster zoom and Locate remain.
-- Comparison selectors share one row, with a compact swap control. The cost
-  difference is a plain summary instead of an extra panel, and table values are
-  right-aligned. Long country names no longer make city cards uneven.
+- Comparison selectors share one row, with a compact swap control. City cards
+  lead directly into the right-aligned data table without a redundant
+  cost-difference summary. Long country names no longer make city cards uneven.
 - Savings Runway groups the city filter with its other inputs. Schengen groups
   the date control with two balanced counters and removes the repeated date
   card. Timezone form controls align along their bottom edge.
@@ -342,3 +342,14 @@ npx tsx scripts/audit-nomad-assets.ts
 
 Current screenshots are in `.cache/nomads/design-simple-layout/` and
 `.cache/nomads/visa-toolbar/` (ignored local review artifacts).
+
+Explanatory copy is limited to information needed to interpret the data or use
+the controls. The report's large how-to panel, repeated tax instructions, generic
+service-category introductions and promotional passport empty-state heading
+have been removed. The report's ordering and units are a short note below its
+table; the passport checker prompts for a selection in one line.
+
+Official visa-program URLs are compact, labelled icon links in the card header.
+The shared card accepts an optional header action; programs without additional
+details no longer get a footer just for the website link. Browser checks covered
+all 45 official links across the 71 cards at 320, 390 and 1440px.

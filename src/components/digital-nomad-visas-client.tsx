@@ -13,20 +13,21 @@ import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar'
 
 const CONTINENTS = ['Europe', 'Asia', 'North America', 'South America', 'Africa', 'Oceania'] as const;
 
-export function VisaCard({ visa, children }: { visa: Omit<DigitalNomadVisa, 'continent'> & { continent: string }; children?: React.ReactNode }) {
+export function VisaCard({ visa, children, headerAction }: { visa: Omit<DigitalNomadVisa, 'continent'> & { continent: string }; children?: React.ReactNode; headerAction?: React.ReactNode }) {
   const hasFooter = React.Children.toArray(children).length > 0;
   return (
     <Card className="flex flex-col h-full bg-card border-border/70 shadow-none hover:border-foreground/25 transition-colors">
-      <CardHeader className="flex flex-row items-start justify-between pb-3">
-        <div className="flex items-center gap-3">
-          <span className="text-3xl" aria-hidden="true">{getFlagEmoji(visa.country)}</span>
-          <div>
+      <CardHeader className="flex flex-row items-start justify-between gap-2 space-y-0 pb-3">
+        <div className="flex min-w-0 items-center gap-3">
+          <span className="shrink-0 text-3xl" aria-hidden="true">{getFlagEmoji(visa.country)}</span>
+          <div className="min-w-0">
             <CardTitle className="text-lg font-bold text-foreground">{visa.country}</CardTitle>
             <Badge variant="outline" className="text-[10px] font-mono mt-0.5">
               {visa.continent}
             </Badge>
           </div>
         </div>
+        {headerAction}
       </CardHeader>
       <CardContent className="flex-grow flex flex-col justify-between pt-0">
         <div>

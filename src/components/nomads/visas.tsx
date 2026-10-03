@@ -7,6 +7,7 @@ import { VisaCard } from '@/components/digital-nomad-visas-client';
 import { ListingToolbar } from '@/components/listing-toolbar';
 import { ListingViewTabs } from '@/components/listing-view-tabs';
 import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
 import { Tabs, TabsContent } from '@/components/ui/tabs';
 import { cn } from '@/lib/utils';
 import { ENTRY_RULES, validPassportRules } from '@/lib/nomads/entry-rules';
@@ -28,12 +29,13 @@ function Programs({ programs }: { programs: VisaProgramListing[] }) {
   return <>
     {!validIncome && <p role="alert" className="mb-4 text-sm text-destructive">Enter a non-negative income amount.</p>}
     <div className="mb-5 flex flex-wrap items-center justify-between gap-3"><p className="text-sm text-muted-foreground" aria-live="polite">{filtered.length} program and remote-stay references</p>{(query || continent || income) && <button onClick={reset} className={buttonStyle}>Clear filters</button>}</div>
-    {filtered.length ? <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">{filtered.map(program => <article key={program.id} className="h-full">
-      <VisaCard visa={program}>
+    {filtered.length ? <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">{filtered.map(program => {
+      const officialUrl = safeExternalUrl(program.officialUrl);
+      return <article key={program.id} className="h-full">
+      <VisaCard visa={program} headerAction={officialUrl ? <Button asChild variant="ghost" size="icon" className="h-11 w-11 shrink-0 text-muted-foreground"><a href={officialUrl} target="_blank" rel="noopener noreferrer" aria-label={`Official visa program website for ${program.country} (opens in a new tab)`} title={`Official program website for ${program.country}`}><ArrowUpRight className="h-4 w-4" aria-hidden /></a></Button> : undefined}>
         {(program.fee || program.taxNotes) && <details><summary className="min-h-11 cursor-pointer py-3 text-xs font-medium">Additional program details</summary>{program.fee && <p className="mt-2 text-xs leading-relaxed">Fee reference: {program.fee}</p>}{program.taxNotes && <p className="mt-2 text-xs leading-relaxed text-muted-foreground">{program.taxNotes}</p>}</details>}
-        {safeExternalUrl(program.officialUrl) && <a className="inline-flex min-h-11 items-center gap-2 text-xs font-medium text-primary hover:underline" href={program.officialUrl} target="_blank" rel="noopener noreferrer">Official program website<ArrowUpRight className="h-3.5 w-3.5" aria-hidden /></a>}
       </VisaCard>
-    </article>)}</div> : <EmptyResults onReset={reset}>No programs match these filters.</EmptyResults>}
+    </article>; })}</div> : <EmptyResults onReset={reset}>No programs match these filters.</EmptyResults>}
     <SourceNote>Approximate USD amounts are not live exchange-rate conversions. Some programs use annual income, savings or other eligibility tests; a missing monthly amount does not mean there are no financial requirements.</SourceNote>
   </>;
 }
@@ -47,7 +49,7 @@ function PassportChecker({ countries }: { countries: PassportCountry[] }) {
   const destinations = rules?.destinations.filter(item => item.name !== selected?.name) || [];
   const filtered = destinations.filter(item => (!query || item.name.toLowerCase().includes(query.trim().toLowerCase())) && (!filter || item.rule.t === filter)).sort((a, b) => a.name.localeCompare(b.name));
   return <>
-    {!selected && <div className="rounded-xl border border-dashed px-6 py-14 text-center"><h2 className="font-semibold">Where can your passport take you?</h2><p className="mt-2 text-sm text-muted-foreground">Choose a passport to browse entry references for destinations around the world.</p></div>}
+    {!selected && <p className="py-6 text-sm text-muted-foreground">Choose a passport to see entry requirements.</p>}
     {loading && <p role="status" className="py-12 text-center">Loading entry references for {selected?.name}…</p>}
     {(error || (data && !rules)) && <NomadPanel role="alert"><p>Entry references could not be loaded.</p><button className={cn(buttonStyle, 'mt-4')} onClick={retry}>Try again</button></NomadPanel>}
     {rules && <>
