@@ -414,7 +414,7 @@
     "sentAt": "2026-10-02T19:32:47.798Z"
   },
   "2776bdf4-2d38-4ece-8d5a-8a1f22e8b2e8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T03:54:31.197Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -455,6 +455,8 @@
       }
     ],
     "message": "• Injective Labs is hiring <a href=\"https://hashtagweb3.com/developer26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Mobile App Developer</a>\n• Crypto.com is hiring <a href=\"https://hashtagweb3.com/cmp33?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">MLRO/Deputy MLRO</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/engineer551?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior / Staff Software Engineer</a>\n• Turnkey is hiring <a href=\"https://hashtagweb3.com/pm117?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager</a>\n• Bitvavo is hiring <a href=\"https://hashtagweb3.com/ds5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Scientist</a>",
-    "slotKey": "2026-10-03:morning"
+    "slotKey": "2026-10-03:morning",
+    "messageId": 155570,
+    "sentAt": "2026-10-03T03:54:33.947Z"
   }
 }
