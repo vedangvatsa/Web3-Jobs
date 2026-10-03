@@ -622,10 +622,11 @@
           "url": "https://www.youtube.com/watch?v=r8uVroWVTTM"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Civil/Structural Engineer at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-03T11:31:49.844Z",
-          "postId": "6ac0e7a73bfd38430fde29f4"
+          "postId": "6ac0e7a73bfd38430fde29f4",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692402941604400417"
         }
       }
     },
