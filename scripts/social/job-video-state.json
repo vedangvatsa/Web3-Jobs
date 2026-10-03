@@ -583,10 +583,11 @@
           "url": "https://www.youtube.com/watch?v=j_3HB3g5Lqc"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Electrical Engineer at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-03T03:34:50.557Z",
-          "postId": "6ac077dc9fdc9f926e68855d"
+          "postId": "6ac077dc9fdc9f926e68855d",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692279833589566752"
         }
       }
     }
