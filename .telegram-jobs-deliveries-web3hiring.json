@@ -918,5 +918,49 @@
     "slotKey": "2026-10-03:morning",
     "messageId": 99,
     "sentAt": "2026-10-03T03:54:27.024Z"
+  },
+  "b71fc409-091f-4441-a455-174f766a91d3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T11:32:14.519Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "4960742101",
+        "slug": "product517",
+        "url": "https://hashtagweb3.com/product517?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Product Design Lead"
+      },
+      {
+        "key": "7981587",
+        "slug": "product226",
+        "url": "https://hashtagweb3.com/product226?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Operations Associate"
+      },
+      {
+        "key": "c94013d36582",
+        "slug": "sr9",
+        "url": "https://hashtagweb3.com/sr9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Sr GPU Cloud K8S Expert"
+      },
+      {
+        "key": "8639148002",
+        "slug": "recruiting52",
+        "url": "https://hashtagweb3.com/recruiting52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "HR Partner"
+      },
+      {
+        "key": "tangem-senior-devsecops-specialist",
+        "slug": "senior57",
+        "url": "https://hashtagweb3.com/senior57?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tangem",
+        "title": "Senior Devsecops Specialist"
+      }
+    ],
+    "message": "• Bybit is hiring <a href=\"https://hashtagweb3.com/product517?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Design Lead</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/product226?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Operations Associate</a>\n• Bitdeer is hiring <a href=\"https://hashtagweb3.com/sr9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr GPU Cloud K8S Expert</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/recruiting52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">HR Partner</a>\n• Tangem is hiring <a href=\"https://hashtagweb3.com/senior57?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Devsecops Specialist</a>",
+    "slotKey": "2026-10-03:afternoon"
   }
 }
