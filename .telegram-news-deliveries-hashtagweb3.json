@@ -531,5 +531,37 @@
     "slotKey": "2026-10-03:morning",
     "messageId": 155572,
     "sentAt": "2026-10-03T03:56:08.957Z"
+  },
+  "cdd31967-77da-46c2-8a63-7c16f74fde2d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T11:35:10.805Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Grayscale to Split Zcash ETF Shares Three-for-One",
+        "summary": "The September 29 split will lower share prices after the fund reached nearly $1 billion in assets.",
+        "link": "https://hashtagweb3.com/zcash-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Grayscale Sets 3-for-1 Split for Zcash ETF"
+      },
+      {
+        "index": -1,
+        "headline": "FCA releases crypto authorization guidance for 2027 regulations",
+        "summary": "This guidance tells domestic and offshore firms when to seek authorization before the October 2027 regulatory start date.",
+        "link": "https://hashtagweb3.com/fca-perimeter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "FCA Publishes Crypto Perimeter Guidance for 2027 Regime"
+      },
+      {
+        "index": 6,
+        "headline": "Anchorage Digital cuts 17% of workforce",
+        "summary": "The federally chartered digital asset bank laid off staff while expanding institutional services and stablecoin issuance.",
+        "event_rationale": "Covers a major workforce reduction at Anchorage Digital, distinct from all previously posted news.",
+        "link": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report"
+      }
+    ],
+    "slotKey": "2026-10-03:afternoon"
   }
 }
