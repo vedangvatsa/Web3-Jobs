@@ -1056,5 +1056,49 @@
     "slotKey": "2026-10-03:evening",
     "messageId": 16499,
     "sentAt": "2026-10-03T19:32:08.791Z"
+  },
+  "e54f84b7-1189-4494-91f6-78d10bbdc0d3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T19:32:10.277Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "6393bceb-88cf-4806-a51c-401be580c59e",
+        "slug": "engineer941",
+        "url": "https://hashtagweb3.com/engineer941?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Software Engineer"
+      },
+      {
+        "key": "hurma-whitebit-1250",
+        "slug": "analyst160",
+        "url": "https://hashtagweb3.com/analyst160?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "WhiteBIT",
+        "title": "Middle Financial BI Analyst"
+      },
+      {
+        "key": "2684022",
+        "slug": "manager327",
+        "url": "https://hashtagweb3.com/manager327?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tether",
+        "title": "Engagement Manager"
+      },
+      {
+        "key": "8174853",
+        "slug": "bcs2",
+        "url": "https://hashtagweb3.com/bcs2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Brokerage Communications Specialist"
+      },
+      {
+        "key": "da139395-7bd1-4ede-a277-742bacecadcd",
+        "slug": "binance2",
+        "url": "https://hashtagweb3.com/binance2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Binance Accelerator Program"
+      }
+    ],
+    "message": "• Rain is hiring <a href=\"https://hashtagweb3.com/engineer941?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>\n• WhiteBIT is hiring <a href=\"https://hashtagweb3.com/analyst160?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Middle Financial BI Analyst</a>\n• Tether is hiring <a href=\"https://hashtagweb3.com/manager327?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engagement Manager</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/bcs2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Brokerage Communications Specialist</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/binance2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Binance Accelerator Program</a>",
+    "slotKey": "2026-10-03:evening"
   }
 }
