@@ -598,5 +598,37 @@
     "slotKey": "2026-10-03:afternoon",
     "messageId": 65724,
     "sentAt": "2026-10-03T11:34:52.396Z"
+  },
+  "28bf5636-3e0b-450a-885a-0df57237594a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T19:33:42.899Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Hana Bank Issues $100M Digital Bond on Euroclear",
+        "summary": "The five-year bond featured same-day settlement, a first for a South Korean financial institution.",
+        "link": "https://hashtagweb3.com/hana-bond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hana Bank Issues $100M Digital Bond on Euroclear Blockchain"
+      },
+      {
+        "index": 12,
+        "headline": "BNY Mellon discusses digital asset infrastructure partnership with Kraken",
+        "summary": "The oldest United States bank is discussing a deal for custody, trading, and payments with the exchange's parent.",
+        "event_rationale": "This covers a major institutional adoption milestone between a systemic bank and a primary crypto exchange.",
+        "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+        "source": "CoinDesk",
+        "originalTitle": "BNY in talks with Kraken parent Payward over infrastructure partnership"
+      },
+      {
+        "index": 1,
+        "headline": "Chainalysis Traces $387 Million Bitget Hack to North Korea",
+        "summary": "Using artificial intelligence, investigators tracked the stolen funds across four blockchains, pushing North Korea's annual haul past $1 billion.",
+        "link": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+        "source": "Decrypt",
+        "originalTitle": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea"
+      }
+    ],
+    "slotKey": "2026-10-03:evening"
   }
 }
