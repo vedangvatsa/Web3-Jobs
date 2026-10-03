@@ -1,5 +1,5 @@
 {
-  "lastIndex": 323,
+  "lastIndex": 328,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -135,7 +135,9 @@
     "int15",
     "eng325",
     "ops69",
-    "dsf"
+    "dsf",
+    "pm169",
+    "sls174"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -4653,137 +4655,6 @@
       "verification": "verified"
     },
     {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x3a4072f84c64946d7122ffa0288c1a7f95d575a4",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x5541d4731e9b6b657f74b171d12286f54eb23fd9",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x0c9c319230c35915da3450fbee3f89a68d77cecf",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x770c83968d7f62078e3f4357ef7378a7f17b92f6",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x3107ef9fe0aed90df09b374ed2a955f1082fa4f0",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0xc991ac46fc007930d3b54cad7fb18519c47d79c2",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x72104d7dd2c85ff928841082cf87dfa07f2d665e",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "0x310dfc8991c453b51efa0ac22086f412c3a49158",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "6abb8c68214c9cccb0ab4fd3",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "6abb8c73c8e169381e695c0a",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "urn:li:share:7510639907942363136",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "facebook",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "691827047618629_1101347539139147",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp57",
-      "company": "GoMining",
-      "title": "General Manager - Custody & Compliance",
-      "platform": "instagram",
-      "postedAt": "2026-09-29T10:00:50.578Z",
-      "postId": "18021725747706471",
-      "verification": "verified"
-    },
-    {
       "slug": "pm82",
       "company": "Ajaib Crypto",
       "title": "Product Ops Analyst",
@@ -5027,261 +4898,6 @@
       "verification": "verified"
     },
     {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "x",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "6abba1a338ec49fa794501ce",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "The Tie is hiring Director of Sales (Remote)\n\nhttps://hashtagweb3.com/sls162/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2104896919331856760"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "threads",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "17977186706924349",
-      "verification": "verified",
-      "expectedText": "The Tie is hiring Director of Sales (Remote): https://hashtagweb3.com/sls162/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd3qKt9oF8I",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwnq633sbc26",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x863b5fecb7c7a7b766233f6fe3aa3a77615ab915",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0xec55ba95883e64be2f81d9d1faaa2783e642828f",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x5b47a7580fb7917a09b5b228a7becbf2dab4c4aa",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0xecf3d0c122a642592f27dda426f171f683c8d406",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0xf2310db560f3d2f0dc87a7720703c767282ce9e2",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0xa1954792b328c9041ff331596769b0e8362998fb",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x8f5dfd19bd3a976a3a9b53636fcc2a8d0a658eba",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0xb8c5ad8632c2d1e4275a309271b657e9778eda9c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x7e1bff6f384259d7bdb101b7f39abbc501c4821b",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0xd52bd969888ccbb9177604e32d91a511142b3108",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x88353cb9ff73d22ef78ddb352c9c726a45bbdf63",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x569e6e6748608d420a06ef3533bb06d383cb87b0",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x58a3f8bf8daea2b503618b5f13e10910955f479e",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x8c9e7ea3a937cc4dc6f29ea8e89dac49577816cf",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x2aed12a552204c02d96629a2cbc5d9943dcafee2",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0xdf2d918403649af1d17887343e62ed68b05e1af0",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "0x0d99d3487ceef8c2c36affca4a64116757da453d",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "6abba1b638ec49fa7945045d",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "6abba1c10e3b9bda5ff8d51e",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "urn:li:share:7510662781734494209",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "facebook",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "691827047618629_1101418035798764",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls162",
-      "company": "The Tie",
-      "title": "Director of Sales (Remote)",
-      "platform": "instagram",
-      "postedAt": "2026-09-29T11:31:46.686Z",
-      "postId": "18117783128286801",
-      "verification": "verified"
-    },
-    {
       "slug": "sec57",
       "company": "Circle",
       "title": "Lead Analyst, Third Party Security",
@@ -5522,130 +5138,6 @@
       "platform": "instagram",
       "postedAt": "2026-09-29T11:32:51.605Z",
       "postId": "18137895556549487",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "x",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "6abc15e5f3db08ac9265bf09",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Fasset is hiring Product Manager Compliance\n\nhttps://hashtagweb3.com/pm126/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105021753537765798"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "threads",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "17921151300441545",
-      "verification": "verified",
-      "expectedText": "Fasset is hiring Product Manager Compliance: https://hashtagweb3.com/pm126/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd4i73Am4xW",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "bluesky",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwolv3zxqx2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x89c7c356b4d5d64acc81e13bde1c1653eb280536",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0xc9661132b50a138c501ae489da4bfd7164db35cc",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x94da11bc1fc1b6041d195d9a067b1138d5f9f6b3",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x31c39fb7e061d6c2bec014f412c629e1061f73fd",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x1d3f5310b8f32810e5294d7105fa3d3ba9edcaf7",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0xae1389f57ba0a39aaa2028a8d0cc655c4d361e83",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x339b7b8a3623fd16b5d988461b6529c861ff358e",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x2fc0634cd14c5a4b654606c80e2badf28e1f0ad1",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x434956ae423d96346a322bdb7b136f8561a3f8e5",
-      "account": "channel:founders",
       "verification": "verified"
     },
     {
@@ -10112,6 +9604,516 @@
       "platform": "instagram",
       "postedAt": "2026-10-02T19:33:13.727Z",
       "postId": "17864831793677825",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "x",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "6ac07c6ce22a2e5172b09642",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Crypto.com is hiring Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)\n\nhttps://hashtagweb3.com/pm169/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106231352399942088"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "threads",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "17905141743581688",
+      "verification": "verified",
+      "expectedText": "Crypto.com is hiring Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App): https://hashtagweb3.com/pm169/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeBI_xgEUXx",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwwyhsaqpr2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0xb65a32d568140eb63d0bffc9b2bfb04a49c61f8c",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x4139a9f2328348a9981bc70c66c8040424a059c0",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0xbf492327623edb0a8471d4b01a4f50058b7e7d1c",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x150e949ab2fb50022e0721f9df879a45c320ce60",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x84fadb032d423ba2388e85ed13a34b676064e81d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0xb37e667739e320f07034dae7fadbde50987a420a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x9613d448b138ca26d5da4633880671f849d7e34b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0xa83bfed72739009962b396ae1bb2c4d52916e0bd",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x579ea64954764006987c9349d3b2bc168634bb0e",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x415c81d1f0442b4a8adef1b5839f290641edf30c",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x2ae6a950e13b9eb59cc9062ca2747fe8c441abc1",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x9752c9020f99f502f39124806cba3d2b9705c4bd",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0xe825059aa076eaf1f0955acf53bb6db5191f4603",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x92eb726523508e895f1745936ea1554556436341",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0xc155314bcd3b8d8d4c9a7f63de78161a3dee3ddc",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0xecc482b3c171627b5088b1546a025d442a45afb9",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "0x03711277ab8afef702a75f67efa85ce8502a8942",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "6ac07c7f16dec17c265164d5",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "6ac07c89e22a2e5172b09870",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "urn:li:share:7511997208649625600",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "facebook",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "691827047618629_1105054338768467",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm169",
+      "company": "Crypto.com",
+      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+      "platform": "instagram",
+      "postedAt": "2026-10-03T03:54:20.367Z",
+      "postId": "18121678048929076",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "x",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "6ac07cad713b7277a0a953b1",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Consensys is hiring Director of Technical Accounting\n\nhttps://hashtagweb3.com/sls174/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106231625180701025"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "threads",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "18128984377748498",
+      "verification": "verified",
+      "expectedText": "Consensys is hiring Director of Technical Accounting: https://hashtagweb3.com/sls174/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeBJHszkbmL",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "bluesky",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwwyjqfhgc2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xa6e056035c237918f2a05e0e9d92f15cdbfb63fb",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x4f7ff521c068a3ccb2993c0892caa38c18f59f22",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x8c45b33c7a020186dba5af95f02bc3eec2b21e64",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xf123ad17ac076de1d37cad20c221373daeb37b78",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xad7c186b440d6ecd0ce02091e4b5a30bebdcdc9a",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xd557193ad3fa9f2df4fa38d7e5b1c924b7165123",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xecfd1a00a28702ef8b41484532b0006eea394c3d",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x136f652dc68bd0c2b142b25f25704913859c918b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xd3e12bbb09348f229cbb7506cdf8deaf42d14c38",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xd04b79b487e8c86fad4039f962471ae386dce67a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x183f57b903fd609a9e08e18641298d29e531b8ce",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x807b7946829d5b99072f8aa4c1f186361b02a3bb",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x215032bba57031e10372efc762c5eb4822d6f1e4",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x03a5bf7d8de2667c9046cd5e6aa69866974e9d50",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0x53a9b8910b57e7fee310d69a0ab554bffe666690",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xe6d830faa66bc44dafb47ade0ac7a2f8a08c4261",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "0xc242175c15b6de29f375e4be90cd4be425feff54",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "6ac07cbf9fdc9f926e69037d",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "6ac07cca713b7277a0a95481",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "urn:li:share:7511997479337283584",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "facebook",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "691827047618629_1105055012101733",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls174",
+      "company": "Consensys",
+      "title": "Director of Technical Accounting",
+      "platform": "instagram",
+      "postedAt": "2026-10-03T03:55:25.673Z",
+      "postId": "17928995709413302",
       "verification": "verified"
     }
   ]
