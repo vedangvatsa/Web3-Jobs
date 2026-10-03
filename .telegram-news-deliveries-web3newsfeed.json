@@ -533,7 +533,7 @@
     "sentAt": "2026-10-02T19:34:45.175Z"
   },
   "d55874f1-ca2c-42e8-9dd5-7699d16abd7a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T03:56:53.996Z",
     "stories": [
       {
@@ -562,6 +562,8 @@
         "originalTitle": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO"
       }
     ],
-    "slotKey": "2026-10-03:morning"
+    "slotKey": "2026-10-03:morning",
+    "messageId": 65723,
+    "sentAt": "2026-10-03T03:56:56.604Z"
   }
 }
