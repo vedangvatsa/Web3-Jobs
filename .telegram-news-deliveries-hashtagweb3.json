@@ -565,5 +565,37 @@
     "slotKey": "2026-10-03:afternoon",
     "messageId": 155576,
     "sentAt": "2026-10-03T11:35:13.989Z"
+  },
+  "63fb352a-ca7d-4aac-a437-794a2c369226": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T19:34:34.704Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethereum Glamsterdam Upgrade Passes Devnet-11 Testing",
+        "summary": "Nethermind passed all performance tests on Devnet-11, preparing the upgrade for a proposed October 6 Sepolia deployment.",
+        "link": "https://hashtagweb3.com/glamsterdam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Glamsterdam Rehearsal Clears Path to Sepolia Test"
+      },
+      {
+        "index": 29,
+        "headline": "Ethereum developers remove staking reward burn from Hegota upgrade",
+        "summary": "Core contributors withdrew proposal EIP-8363 after industry feedback suggested a scoping process was inappropriate for changing token issuance.",
+        "event_rationale": "This covers a major protocol governance decision regarding Ethereum's staking rewards and token issuance, which is distinct from any previously posted Ethereum upgrades.",
+        "link": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+        "source": "The Block",
+        "originalTitle": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade"
+      },
+      {
+        "index": 2,
+        "headline": "OpenAI Bans PewDiePie Twice During Local AI Development",
+        "summary": "The YouTuber claims his account was suspended while training a small, uncensored model designed for personal computers.",
+        "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+        "source": "Decrypt",
+        "originalTitle": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC"
+      }
+    ],
+    "slotKey": "2026-10-03:evening"
   }
 }
