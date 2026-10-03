@@ -662,6 +662,9 @@
   "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
   "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
   "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+  "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+  "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+  "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1769,6 +1772,12 @@
   "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
   "Global AI investment projected to reach $2.5 trillion by 2026",
   "Redefining enterprise intelligence with autonomous AI",
+  "Nonprofit sues OpenAI over Hugging Face cyberattack",
+  "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+  "OpenAI Safety Employee Resigns and Criticizes Company Culture",
+  "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+  "List of AI agents accessible via text messages",
+  "All the AI agents that can live in your text messages",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1948,5 +1957,8 @@
   "fp:agreement|amazon|backlash|center|claim|combat|data|disclosur|draw|end",
   "fp:breaker|circuit|consumer|creat|deployment|environment|hop|identify|kid|lab",
   "fp:adoption|agreement|are|buy|call|consumer|despit|executiv|leader|low",
-  "fp:accelerat|adoption|are|autonomous|business|by2026|capability|cost|enterpris|fall"
+  "fp:accelerat|adoption|are|autonomous|business|by2026|capability|cost|enterpris|fall",
+  "fp:alleg|breach|caus|cyberattack|damag|defens|did|fac|hack|hugg",
+  "fp:broken|claim|criticiz|cultur|david|employe|firm|his|internal|issu",
+  "fp:accessibl|agent|all|assistant|can|cover|guid|list|liv|management"
 ]
