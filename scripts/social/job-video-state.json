@@ -731,9 +731,10 @@
           "url": "https://www.youtube.com/watch?v=1hzQYftlowo"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Account Executive, Product Sales, Metronome at Stripe. New York, NY.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-03T19:34:45.319Z"
+          "startedAt": "2026-10-03T19:34:45.319Z",
+          "postId": "6ac158d6814d657011d36ff2"
         }
       }
     }
