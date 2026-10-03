@@ -496,5 +496,40 @@
     "slotKey": "2026-10-02:evening",
     "messageId": 155568,
     "sentAt": "2026-10-02T19:34:25.864Z"
+  },
+  "971a628d-34e9-435b-bb10-2492d9d93fa6": {
+    "status": "sent",
+    "reservedAt": "2026-10-03T03:56:05.545Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Submits Crypto Market Rules for White House Review",
+        "summary": "The agency submitted the proposal on September 17, 2026, after the Senate blocked the Clarity Act.",
+        "link": "https://hashtagweb3.com/cftc-markets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Sends Crypto Market Rulemaking to White House Review"
+      },
+      {
+        "index": 7,
+        "headline": "Blast to shut down Ethereum layer-two network",
+        "summary": "The scaling network is urging users to withdraw assets to mainnet after operating costs exceeded generated revenue.",
+        "event_rationale": "This covers the shutdown of a major Ethereum layer-two scaling network due to financial unsustainability.",
+        "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Blast to wind down Ethereum L2 after costs outpace revenue"
+      },
+      {
+        "index": 1,
+        "headline": "US banking group sues regulator over crypto trust charters",
+        "summary": "The Independent Community Bankers of America claims the Office of the Comptroller of the Currency exceeded its authority by granting charters.",
+        "event_rationale": "This covers a new federal lawsuit by a banking association challenging the US banking regulator's authority to charter crypto trusts.",
+        "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+        "source": "CoinDesk",
+        "originalTitle": "Bank group sues U.S. regulator over granting crypto trust charters"
+      }
+    ],
+    "slotKey": "2026-10-03:morning",
+    "messageId": 155572,
+    "sentAt": "2026-10-03T03:56:08.957Z"
   }
 }

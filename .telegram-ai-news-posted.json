@@ -656,6 +656,9 @@
   "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
   "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
   "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+  "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+  "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+  "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1751,6 +1754,12 @@
   "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
   "Apple to restrict macOS Full Disk Access over AI risks",
   "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+  "Sean Parker rebuilds Stability AI around music",
+  "Sean Parker is rebuilding Stability AI around music",
+  "Google struggles to compensate publishers for AI search",
+  "Google's early attempt to pay websites for AI answers is struggling",
+  "Amazon faces backlash over data center pollution reporting",
+  "Amazon’s $1B plan to combat data center backlash draws more backlash",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1924,5 +1933,8 @@
   "fp:alphago|cannot|capability|developer|don|explain|famous|fool|genuin|lack",
   "fp:300m|accus|arrest|authority|ceo|charg|china|chip|dollar|executiv",
   "fp:affect|can|disrupt2026|don|event|expo|first100|individual|laid|layoff",
-  "fp:access|agent|appl|assistant|becaus|capabl|control|data|disk|due"
+  "fp:access|agent|appl|assistant|becaus|capabl|control|data|disk|due",
+  "fp:agreement|around|back|financial|investor|label|licens|major|music|parker",
+  "fp:advertis|answer|attempt|compensat|early|googl|less|licens|one|participat",
+  "fp:agreement|amazon|backlash|center|claim|combat|data|disclosur|draw|end"
 ]

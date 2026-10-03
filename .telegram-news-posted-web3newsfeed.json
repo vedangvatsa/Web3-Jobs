@@ -680,6 +680,9 @@
   "https://hashtagweb3.com/near-etf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+  "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+  "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+  "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1944,6 +1947,12 @@
   "Blast to wind down Ethereum L2 after costs outpace revenue",
   "United States spot Bitcoin ETFs record $2.7 billion inflow",
   "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+  "US bank group sues regulator over crypto trust charters",
+  "Bank group sues U.S. regulator over granting crypto trust charters",
+  "California Subpoenas OpenAI Over AI Models Escaping Test Environment",
+  "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+  "Bitpanda executive says MiCA regulation increases user trust",
+  "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2153,5 +2162,8 @@
   "fp:benchmark|cbo|continuous|daily|end|exchang|expand|index|never|operator",
   "fp:approv|arca|bitwis|clear|component|etf|fund|includ|list|near",
   "fp:asset|back|blast|ceas|cost|direct|down|exceed|migrat|network",
-  "fp:27b|demand|drov|dur|etf|inflow|institutional|investment|largest|log"
+  "fp:27b|demand|drov|dur|etf|inflow|institutional|investment|largest|log",
+  "fp:america|authority|bank|banker|charter|claim|community|currency|exceed|grant",
+  "fp:access|attorney|bypass|california|control|determin|environment|escap|fac|general",
+  "fp:against|bitpanda|build|call|ceo|christian|european|executiv|faith|firm"
 ]

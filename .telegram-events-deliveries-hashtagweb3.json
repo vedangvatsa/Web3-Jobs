@@ -547,5 +547,55 @@
     "slotKey": "2026-10-02:evening",
     "messageId": 155567,
     "sentAt": "2026-10-02T19:32:50.576Z"
+  },
+  "b22f8eec-d73a-40ce-b7db-7de13fb56592": {
+    "status": "sent",
+    "reservedAt": "2026-10-03T03:55:14.382Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-Som3hML2sfbwc5R",
+        "slug": "ehwfaeh",
+        "name": "EAT_HACK - the world's first AI & eating hackathon",
+        "startDate": "2026-10-03T08:00:00.000Z",
+        "keys": [
+          "luma-crypto-som3hml2sfbwc5r",
+          "page:ehwfaeh:2026-10-03",
+          "luma:evt-som3hml2sfbwc5r",
+          "luma-url:/hdf7uc43",
+          "event:eathacktheworldsfirstaieatinghackathon:2026-10-03:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-9G13qSATpaiBBSX",
+        "slug": "acgh",
+        "name": "The AI Commerce Gallery - Hackathon | Walt Disney Family Museum",
+        "startDate": "2026-10-03T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-9g13qsatpaibbsx",
+          "page:acgh:2026-10-03",
+          "luma:evt-9g13qsatpaibbsx",
+          "luma-url:/6bbloggr",
+          "event:theaicommercegalleryhackathonwaltdisneyfamilymuseum:2026-10-03:san francisco"
+        ]
+      },
+      {
+        "id": "luma-batch-S9B2IYXx5PHfaEg",
+        "slug": "zsvc8ner",
+        "name": "Coincheck Crypto Lounge #8 x Komlock lab/ＳＭＢＣ日興証券｜エージェント経済圏 LT＆懇親会",
+        "startDate": "2026-10-04T02:15:00.000Z",
+        "keys": [
+          "luma-batch-s9b2iyxx5phfaeg",
+          "page:zsvc8ner:2026-10-04",
+          "luma:evt-s9b2iyxx5phfaeg",
+          "luma-url:/zsvc8ner",
+          "event:coincheckcryptolounge8xkomlocklabsmbc日興証券エージェント経済圏lt懇親会:2026-10-04:minato city"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-03:morning",
+    "messageId": 155571,
+    "sentAt": "2026-10-03T03:55:17.590Z"
   }
 }
