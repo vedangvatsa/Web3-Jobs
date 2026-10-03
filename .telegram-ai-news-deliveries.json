@@ -510,7 +510,7 @@
     "sentAt": "2026-10-03T03:55:25.615Z"
   },
   "1d1feb1c-09cb-4c67-ba36-7d7fbddd3b9c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T11:33:13.006Z",
     "stories": [
       {
@@ -540,6 +540,8 @@
         "originalTitle": "Redefining enterprise intelligence with autonomous AI"
       }
     ],
-    "slotKey": "2026-10-03:afternoon"
+    "slotKey": "2026-10-03:afternoon",
+    "messageId": 193314,
+    "sentAt": "2026-10-03T11:33:15.431Z"
   }
 }

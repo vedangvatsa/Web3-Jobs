@@ -659,6 +659,9 @@
   "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
   "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
   "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+  "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+  "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+  "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1760,6 +1763,12 @@
   "Google's early attempt to pay websites for AI answers is struggling",
   "Amazon faces backlash over data center pollution reporting",
   "Amazon’s $1B plan to combat data center backlash draws more backlash",
+  "Circuit Breaker Labs launches AI safety testing tools",
+  "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+  "Tech leaders sign safety pledge despite low consumer adoption",
+  "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+  "Global AI investment projected to reach $2.5 trillion by 2026",
+  "Redefining enterprise intelligence with autonomous AI",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1936,5 +1945,8 @@
   "fp:access|agent|appl|assistant|becaus|capabl|control|data|disk|due",
   "fp:agreement|around|back|financial|investor|label|licens|major|music|parker",
   "fp:advertis|answer|attempt|compensat|early|googl|less|licens|one|participat",
-  "fp:agreement|amazon|backlash|center|claim|combat|data|disclosur|draw|end"
+  "fp:agreement|amazon|backlash|center|claim|combat|data|disclosur|draw|end",
+  "fp:breaker|circuit|consumer|creat|deployment|environment|hop|identify|kid|lab",
+  "fp:adoption|agreement|are|buy|call|consumer|despit|executiv|leader|low",
+  "fp:accelerat|adoption|are|autonomous|business|by2026|capability|cost|enterpris|fall"
 ]
