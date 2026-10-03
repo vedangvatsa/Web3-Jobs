@@ -966,7 +966,7 @@
     "sentAt": "2026-10-03T11:32:16.989Z"
   },
   "c4f27a7e-0cf5-47c4-ba10-3954635427ca": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T11:32:18.837Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -1007,6 +1007,8 @@
       }
     ],
     "message": "• Bybit is hiring <a href=\"https://hashtagweb3.com/product517?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Design Lead</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/product226?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Operations Associate</a>\n• Bitdeer is hiring <a href=\"https://hashtagweb3.com/sr9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr GPU Cloud K8S Expert</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/recruiting52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">HR Partner</a>\n• Tangem is hiring <a href=\"https://hashtagweb3.com/senior57?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Devsecops Specialist</a>",
-    "slotKey": "2026-10-03:afternoon"
+    "slotKey": "2026-10-03:afternoon",
+    "messageId": 100,
+    "sentAt": "2026-10-03T11:32:21.400Z"
   }
 }
