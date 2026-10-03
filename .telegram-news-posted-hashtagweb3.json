@@ -656,6 +656,9 @@
   "https://hashtagweb3.com/cftc-markets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+  "https://hashtagweb3.com/zcash-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fca-perimeter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1876,6 +1879,12 @@
   "Blast to wind down Ethereum L2 after costs outpace revenue",
   "US banking group sues regulator over crypto trust charters",
   "Bank group sues U.S. regulator over granting crypto trust charters",
+  "Grayscale to Split Zcash ETF Shares Three-for-One",
+  "Grayscale Sets 3-for-1 Split for Zcash ETF",
+  "FCA releases crypto authorization guidance for 2027 regulations",
+  "FCA Publishes Crypto Perimeter Guidance for 2027 Regime",
+  "Anchorage Digital cuts 17% of workforce",
+  "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2082,5 +2091,8 @@
   "fp:10m|attempt|card|checkout|com|deposit|fac|february|fraud|fraudster",
   "fp:2026|act|agency|block|cftc|clarity|hous|market|proposal|review",
   "fp:asset|blast|cost|down|exceed|generat|layer|mainnet|network|operat",
-  "fp:america|authority|bank|banker|charter|claim|community|comptroller|currency|exceed"
+  "fp:america|authority|bank|banker|charter|claim|community|comptroller|currency|exceed",
+  "fp:asset|etf|for1|fund|grayscal|lower|nearly|one|reach|september29",
+  "fp:authorization|dat|domestic|fca|firm|for2027|guidanc|october2027|offshor|perimeter",
+  "fp:42b|anchorag|asset|bank|charter|cuts17|digital|expand|federally|institutional"
 ]

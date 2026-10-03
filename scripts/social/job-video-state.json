@@ -32,6 +32,10 @@
     "2026-10-03:morning": [
       "eng343",
       "eng342"
+    ],
+    "2026-10-03:afternoon": [
+      "eng341",
+      "sch"
     ]
   },
   "jobs": {
@@ -588,6 +592,76 @@
           "startedAt": "2026-10-03T03:34:50.557Z",
           "postId": "6ac077dc9fdc9f926e68855d",
           "url": "https://tiktok.com/@hashtagweb3/video/7692279833589566752"
+        }
+      }
+    },
+    "eng341": {
+      "slot": "2026-10-03:afternoon",
+      "selectedAt": "2026-10-03T11:31:04.998Z",
+      "verifiedAt": "2026-10-03T11:31:04.998Z",
+      "captions": {
+        "instagram": "Hut 8 is hiring\nCivil/Structural Engineer\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "tiktok": "Civil/Structural Engineer at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Civil/Structural Engineer at Hut 8"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Hut 8 is hiring\nCivil/Structural Engineer\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-03T11:31:06.749Z",
+          "containerId": "17916082242461009",
+          "postId": "18093997076157195",
+          "url": "https://www.instagram.com/reel/DeB9Ry4EsWb/"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-03T11:31:43.234Z",
+          "postId": "6ac0e7a0fec5913394734692",
+          "url": "https://www.youtube.com/watch?v=r8uVroWVTTM"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Civil/Structural Engineer at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-03T11:31:49.844Z",
+          "postId": "6ac0e7a73bfd38430fde29f4",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692402941604400417"
+        }
+      }
+    },
+    "sch": {
+      "slot": "2026-10-03:afternoon",
+      "selectedAt": "2026-10-03T11:31:04.999Z",
+      "verifiedAt": "2026-10-03T11:31:04.999Z",
+      "captions": {
+        "instagram": "Hut 8 is hiring\nScheduler\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Scheduler at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Scheduler at Hut 8"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Hut 8 is hiring\nScheduler\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-03T11:33:44.798Z",
+          "containerId": "17916082866461009",
+          "postId": "18095550962406327",
+          "url": "https://www.instagram.com/reel/DeB9lNCCtso/"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-03T11:34:34.748Z",
+          "postId": "6ac0e84c7d53b827e0d9c3a1",
+          "url": "https://www.youtube.com/watch?v=0M0nDXI2FXE"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Scheduler at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-03T11:34:40.877Z",
+          "postId": "6ac0e8523bfd38430fde4031",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692403677285338401"
         }
       }
     }

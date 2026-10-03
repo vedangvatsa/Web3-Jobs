@@ -458,5 +458,51 @@
     "slotKey": "2026-10-03:morning",
     "messageId": 155570,
     "sentAt": "2026-10-03T03:54:33.947Z"
+  },
+  "9d26e59c-f1ba-424f-929b-4801ee47ef48": {
+    "status": "sent",
+    "reservedAt": "2026-10-03T11:32:25.186Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "2695747",
+        "slug": "engineer656",
+        "url": "https://hashtagweb3.com/engineer656?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tether",
+        "title": "P2P Node.js Engineer"
+      },
+      {
+        "key": "fa51ca24-cca0-4aea-9e20-8458919f1fc9",
+        "slug": "fullstack26",
+        "url": "https://hashtagweb3.com/fullstack26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Axiom",
+        "title": "Fullstack Engineer"
+      },
+      {
+        "key": "3ff544be-8130-4e22-8f57-6fcfde0ab066",
+        "slug": "compliance7",
+        "url": "https://hashtagweb3.com/compliance7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Arbitrum OpCo",
+        "title": "Legal Counsel"
+      },
+      {
+        "key": "5109493008",
+        "slug": "sales138",
+        "url": "https://hashtagweb3.com/sales138?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      },
+      {
+        "key": "871",
+        "slug": "engineer863",
+        "url": "https://hashtagweb3.com/engineer863?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Uphold",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Tether is hiring <a href=\"https://hashtagweb3.com/engineer656?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">P2P Node.js Engineer</a>\n• Axiom is hiring <a href=\"https://hashtagweb3.com/fullstack26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Fullstack Engineer</a>\n• Arbitrum OpCo is hiring <a href=\"https://hashtagweb3.com/compliance7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Legal Counsel</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/sales138?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Territory Account Executive</a>\n• Uphold is hiring <a href=\"https://hashtagweb3.com/engineer863?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-03:afternoon",
+    "messageId": 155575,
+    "sentAt": "2026-10-03T11:32:27.990Z"
   }
 }

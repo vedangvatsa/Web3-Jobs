@@ -597,5 +597,53 @@
     "slotKey": "2026-10-03:morning",
     "messageId": 155571,
     "sentAt": "2026-10-03T03:55:17.590Z"
+  },
+  "058f134a-9bb7-4925-a1c6-d98c7d7f0a91": {
+    "status": "sent",
+    "reservedAt": "2026-10-03T11:31:59.092Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-side-6a7fe7d3298f21044c271195",
+        "slug": "web3-ai",
+        "name": "Pre Token 2049 Web3 Ai : Mixers",
+        "startDate": "2026-10-04T10:00:00.000Z",
+        "keys": [
+          "token2049-side-6a7fe7d3298f21044c271195",
+          "page:web3-ai:2026-10-04",
+          "luma:evt-whiczsqgecsn7nm",
+          "luma-url:/rweo2o60",
+          "event:pretoken2049web3aimixers:2026-10-04:"
+        ]
+      },
+      {
+        "id": "premier-rwa-week-2026",
+        "slug": "rwa-week",
+        "name": "RWA Week 2026",
+        "startDate": "2026-10-05T09:00:00+08:00",
+        "keys": [
+          "premier-rwa-week-2026",
+          "page:rwa-week:2026-10-05",
+          "event:rwaweek2026:2026-10-05:singapore"
+        ]
+      },
+      {
+        "id": "premier-coinferencex-singapore-2026",
+        "slug": "coinferencex-singapore",
+        "name": "CoinFerenceX Singapore 2026",
+        "startDate": "2026-10-05T09:00:00+08:00",
+        "keys": [
+          "premier-coinferencex-singapore-2026",
+          "page:coinferencex-singapore:2026-10-05",
+          "url:coinferencex.com/singapore/tickets:2026-10-05",
+          "url:coinferencex.com/singapore:2026-10-05",
+          "event:coinferencexsingapore2026:2026-10-05:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-03:afternoon",
+    "messageId": 155574,
+    "sentAt": "2026-10-03T11:32:01.998Z"
   }
 }

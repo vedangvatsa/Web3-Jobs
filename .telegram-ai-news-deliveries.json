@@ -508,5 +508,40 @@
     "slotKey": "2026-10-03:morning",
     "messageId": 193313,
     "sentAt": "2026-10-03T03:55:25.615Z"
+  },
+  "1d1feb1c-09cb-4c67-ba36-7d7fbddd3b9c": {
+    "status": "sent",
+    "reservedAt": "2026-10-03T11:33:13.006Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "headline": "Circuit Breaker Labs launches AI safety testing tools",
+        "summary": "The startup created simulated testing environments to identify psychological risks and software vulnerabilities before consumer deployment.",
+        "event_rationale": "Circuit Breaker Labs introduced new automated safety testing tools, which is a distinct startup product release not previously posted.",
+        "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+        "source": "TechCrunch",
+        "originalTitle": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)"
+      },
+      {
+        "index": 2,
+        "headline": "Tech leaders sign safety pledge despite low consumer adoption",
+        "summary": "Major tech executives signed a safety agreement while reports show only two percent of consumers use the technology.",
+        "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+        "source": "TechCrunch",
+        "originalTitle": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it"
+      },
+      {
+        "index": 5,
+        "headline": "Global AI investment projected to reach $2.5 trillion by 2026",
+        "summary": "AI model costs are falling as capabilities improve, accelerating operational adoption across businesses.",
+        "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Redefining enterprise intelligence with autonomous AI"
+      }
+    ],
+    "slotKey": "2026-10-03:afternoon",
+    "messageId": 193314,
+    "sentAt": "2026-10-03T11:33:15.431Z"
   }
 }
