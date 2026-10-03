@@ -548,9 +548,10 @@
           "url": "https://www.youtube.com/watch?v=rDiNCFqmHGA"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Mechanical Engineer at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-03T03:31:59.255Z"
+          "startedAt": "2026-10-03T03:31:59.255Z",
+          "postId": "6ac077309fdc9f926e687570"
         }
       }
     },
