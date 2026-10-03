@@ -36,6 +36,10 @@
     "2026-10-03:afternoon": [
       "eng341",
       "sch"
+    ],
+    "2026-10-03:evening": [
+      "des3",
+      "pm154"
     ]
   },
   "jobs": {
@@ -664,6 +668,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7692403677285338401"
         }
       }
+    },
+    "des3": {
+      "slot": "2026-10-03:evening",
+      "selectedAt": "2026-10-03T19:31:07.005Z",
+      "verifiedAt": "2026-10-03T19:31:07.005Z",
+      "captions": {
+        "instagram": "Ramp is hiring\nPrincipal Brand Designer\n\nNew York, NY (HQ)\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "tiktok": "Principal Brand Designer at Ramp. New York, NY (HQ).\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "New York, NY (HQ)\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Principal Brand Designer at Ramp"
+      },
+      "receipts": {}
+    },
+    "pm154": {
+      "slot": "2026-10-03:evening",
+      "selectedAt": "2026-10-03T19:31:07.006Z",
+      "verifiedAt": "2026-10-03T19:31:07.006Z",
+      "captions": {
+        "instagram": "Stripe is hiring\nAccount Executive, Product Sales, Metronome\n\nNew York, NY\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "tiktok": "Account Executive, Product Sales, Metronome at Stripe. New York, NY.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "New York, NY\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Account Executive, Product Sales, Metronome at Stripe"
+      },
+      "receipts": {}
     }
   }
 }
