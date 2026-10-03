@@ -1,5 +1,5 @@
 {
-  "lastIndex": 328,
+  "lastIndex": 330,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -137,7 +137,9 @@
     "ops69",
     "dsf",
     "pm169",
-    "sls174"
+    "sls174",
+    "kng",
+    "sls185"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5141,516 +5143,6 @@
       "verification": "verified"
     },
     {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x183c4556668adccd3a8551a394492ddaf7ed06ee",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x937947d8aa31136a777a8d88ddfc683119220226",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x4308c93dd75a9ad7137cce714f38427b7ca87cc1",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x16ca8bb82f64ff7dd14d8de3631a1ace637764ac",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0x1e08ab93ead546ae90e225e3474ade64de4021ce",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0xfc5388b4a125a16ff4cb8a31152705632e26f3dd",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0xff05dd9b955d1a92c5d198b1e6b8a53d738f871f",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "0xfac3e07d71bb5a5ea069d603bd5f99334d1f9775",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "6abc15fa3b1eb12e6e352b71",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "6abc1605a1ba5ce146da4840",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "urn:li:share:7510787623460814848",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "facebook",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "691827047618629_1101797365760831",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm126",
-      "company": "Fasset",
-      "title": "Product Manager Compliance",
-      "platform": "instagram",
-      "postedAt": "2026-09-29T19:47:49.505Z",
-      "postId": "18124018138918122",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "x",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "6abc162f2b2f93f6099c977d",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Mercuryo is hiring AI Solutions Engineer\n\nhttps://hashtagweb3.com/eng188/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105022061005398428"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "threads",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "18116048233972592",
-      "verification": "verified",
-      "expectedText": "Mercuryo is hiring AI Solutions Engineer: https://hashtagweb3.com/eng188/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd4jExKm7lO",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwolxaeanw2h",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0xa0e664d2bfaf0760ca0052197bc62b6913590aa8",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x219b0ffcf5ae2c05578e87d8eeda5fa101eeefc5",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x3c6afb5c31953e709103cda94a3f24ad68edb10a",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x844832c1fb85ee5df608e34ae3b1aa95a747df1a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x29d7def4e9f11a3fe432a10ce3007a6b7f02e760",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0xa771dd19d955eaf0c5d333bf9d57f5846d3291c3",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0xe1dfd4ddb71a268423fbf34a5f00fa832e4ea195",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x4e74ade913f384a789a7fe3bd3cc95f4f049649b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x0e4a4001c25bb86846552fd6843b08b53ec7e589",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x8adc01c72300cfdb8debf69d8f85e4e0eb852d40",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0xa4ebf90b8278bd92561bbd742d0aeb42b6b14667",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0xdd1dff4b4ad233403d54b2dd8708fd0c4896cc7e",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x1368e23eb2ea984b0bb1e4b23aebfcfec0386956",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x30af6dfbc5f72a340b0f9c95b18ab03afc41da38",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x781e175bccc56be36ca63f54a6c5ff0b60d71f7c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x6b510242cd307cce57dd596cc6be0805165b63bb",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "0x0741ed178514f7e011a24f906b0efc84c740dc31",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "6abc1642a1ba5ce146da4e29",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "6abc164cd3050be9e37354f3",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "urn:li:share:7510787921088565250",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "691827047618629_1101798209094080",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng188",
-      "company": "Mercuryo",
-      "title": "AI Solutions Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-09-29T19:49:02.941Z",
-      "postId": "18635978137015182",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "x",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "6abcf5d6f9fcc8033908be3b",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "OKX is hiring Software Engineer, Mobile(iOS)\n\nhttps://hashtagweb3.com/eng333/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105262205780308478"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "threads",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "17889958404614244",
-      "verification": "verified",
-      "expectedText": "OKX is hiring Software Engineer, Mobile(iOS): https://hashtagweb3.com/eng333/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd6QR7Ymwqu",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "bluesky",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwqbblav2b2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0xa5f1e8b6db1b46de5c93a29516d8f7c5cec50eae",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x9603f72d0eabfd53848f31b14e67911d38c0b720",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0xbb7d3e1c536310d66094a7fe8d46ff80ab90b3b2",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x4ce0e525b3f47bc277e8e71f14514826653872f2",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x4c19b339b436c205f3890c5afb60870f541dd250",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x0effc318f7724fd146530b78cddf2ffa53e894f1",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x8cb24a84d912965a7d809b1c23202b84fc5278c6",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x56fdcca704d39e3e54d304c1fa7e455e14b0ba4d",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng333",
-      "company": "OKX",
-      "title": "Software Engineer, Mobile(iOS)",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T11:43:17.726Z",
-      "postId": "0x7d628eba6209a89ed70779fa6c397193a8639eaf",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
       "slug": "eng333",
       "company": "OKX",
       "title": "Software Engineer, Mobile(iOS)",
@@ -10114,6 +9606,516 @@
       "platform": "instagram",
       "postedAt": "2026-10-03T03:55:25.673Z",
       "postId": "17928995709413302",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "x",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "6ac0e7b77d53b827e0d99bb6",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Kraken is hiring KOL Lead, Netherlands & Germany\n\nhttps://hashtagweb3.com/kng/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106346555296956624"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "threads",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "18098580308646637",
+      "verification": "verified",
+      "expectedText": "Kraken is hiring KOL Lead, Netherlands & Germany: https://hashtagweb3.com/kng/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeB9Ylvlp2p",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "bluesky",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwxs2azeih2h",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x27dcdbee153e7600456413f69365f0c4bcf110b7",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x2214bc76b5f0b412ec8db09b2b9345e6d34be59e",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x9b51f28765760b2d6645b431c1ef55fa17be8e75",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x0e6750d15405d88d27b753853bca7aa6ce8b0adb",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x5df7549b0a55ac19e028eeeffbbd167cd53e6cd3",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x5190e04d9837dcc02de01d18ae15e1ae388755b8",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x295103c062ccdcd180bfffd3e92e39bf9054423d",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x4e475ad2c84acc9387a300bc81c8b0036177ba9c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0xccc7d4d23e854ea34e2444239e83c686c5536577",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0xa3277f981dbf5128e54e056f0ea4e7b04eb1e3d6",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0xc1ecac5b50d6b70c8b23b722f6591bc930eed2bc",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x383023ac61fa40b561732604dec5c88b02dc46ee",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x6acafc86f15e8f48aa00b0460f3c597bd9ef54cc",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x389ab4632ff785e3cf575581fc2ebd83abe56a64",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x07f71f4fc0fe1f238ccb64657a49656b4cae5b9d",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0x80f92259e32aeb73702be0434a4b0c87fdf23da0",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "0xdee9088d2198b0be13cf365f770bbf2019ea30c6",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "6ac0e7c5905eed02e0634424",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "6ac0e7cf814d657011c1e71a",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "urn:li:share:7512112394811146240",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "facebook",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "691827047618629_1105327908741110",
+      "verification": "verified"
+    },
+    {
+      "slug": "kng",
+      "company": "Kraken",
+      "title": "KOL Lead, Netherlands & Germany",
+      "platform": "instagram",
+      "postedAt": "2026-10-03T11:32:07.010Z",
+      "postId": "18133889926645346",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "x",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "6ac0e7eead7fd83bc5ef7ed8",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Fireblocks is hiring Sales Director\n\nhttps://hashtagweb3.com/sls185/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106346788449890572"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "threads",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "18268124857306789",
+      "verification": "verified",
+      "expectedText": "Fireblocks is hiring Sales Director: https://hashtagweb3.com/sls185/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeB9fWxFuf7",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "bluesky",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwxs3w3v4a26",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0xbd8a9c5105ad1653f325f20bc5c5ff371d57eb7a",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0xf92e8cca86203da6ad95cf49f4895b69c81da5ba",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x21f7081f37f8763b75f459173274a135b7aaeaa4",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x1e58d6a9c6e91557c502210eac5073ef788877c0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0xf15955826e0208450f49b085a4847efa01edca5b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0xb2a7086e86e51240b34cb758236e12781c12f658",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x49e3497f29710c797c55476ea4ef35f037cbebfd",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x09c2726e614ee9e12c741f35ec53431e52576d30",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x31861a0ea3141f5a1286eadf4ee16d525d99bd49",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x791b7d788b1d438193b90c51dddfa056c53e71d5",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x4c1edfaa63a0795b0bb3076abbbbffe44bd8b367",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x6cf32d463ac050fd1ae41a1378ec79df6e360a14",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x3645095e24384516a1c881f003e436b11cf72554",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0xb43d97517bc6dc30b93c4795b1cb7c33a0a12f1c",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x7f6de7cdfbc7071a1ec34d218082f74813837e2e",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0x99b8399f07971a687bf1d678aa415ad05ae512cb",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "0xdbf15f20ff030a586e4b6b3fcf9c3cc654b8b23f",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "6ac0e7fd3bfd38430fde3117",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "6ac0e807ad7fd83bc5ef8060",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "linkedin",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "urn:li:share:7512112628094398464",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "facebook",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "691827047618629_1105328505407717",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls185",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "instagram",
+      "postedAt": "2026-10-03T11:33:02.739Z",
+      "postId": "18009334040992046",
       "verification": "verified"
     }
   ]
