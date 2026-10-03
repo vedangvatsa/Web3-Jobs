@@ -681,9 +681,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Ramp is hiring\nPrincipal Brand Designer\n\nNew York, NY (HQ)\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
-          "startedAt": "2026-10-03T19:31:09.302Z"
+          "startedAt": "2026-10-03T19:31:09.302Z",
+          "containerId": "17916143211461009"
         }
       }
     },
