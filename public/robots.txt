@@ -85,6 +85,7 @@ Allow: /
 
 User-agent: YandexBot
 Allow: /
+Clean-param: amp /
 
 User-agent: facebookexternalhit
 Allow: /
