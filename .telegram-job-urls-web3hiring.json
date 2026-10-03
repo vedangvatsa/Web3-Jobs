@@ -936,6 +936,14 @@
     "lastUrl": "https://hashtagweb3.com/sec36",
     "updatedAt": "2026-09-22T19:45:22.371Z"
   },
+  "8237244": {
+    "slugs": [
+      "sec69"
+    ],
+    "lastSlug": "sec69",
+    "lastUrl": "https://hashtagweb3.com/sec69",
+    "updatedAt": "2026-10-03T03:54:22.569Z"
+  },
   "8240375": {
     "slugs": [
       "mgr118"
@@ -3753,5 +3761,37 @@
     "lastSlug": "eng374",
     "lastUrl": "https://hashtagweb3.com/eng374",
     "updatedAt": "2026-10-02T19:32:40.880Z"
+  },
+  "tangem-senior-software-engineer-payment-solutions": {
+    "slugs": [
+      "engineer958"
+    ],
+    "lastSlug": "engineer958",
+    "lastUrl": "https://hashtagweb3.com/engineer958",
+    "updatedAt": "2026-10-03T03:54:22.569Z"
+  },
+  "8651274002": {
+    "slugs": [
+      "eng180"
+    ],
+    "lastSlug": "eng180",
+    "lastUrl": "https://hashtagweb3.com/eng180",
+    "updatedAt": "2026-10-03T03:54:22.569Z"
+  },
+  "f76092a9-a0f2-427d-aa97-b894ec1893e6": {
+    "slugs": [
+      "pm117"
+    ],
+    "lastSlug": "pm117",
+    "lastUrl": "https://hashtagweb3.com/pm117",
+    "updatedAt": "2026-10-03T03:54:22.569Z"
+  },
+  "1557a924-a6cd-406f-9106-ecbb43dca01d": {
+    "slugs": [
+      "trading"
+    ],
+    "lastSlug": "trading",
+    "lastUrl": "https://hashtagweb3.com/trading",
+    "updatedAt": "2026-10-03T03:54:22.569Z"
   }
 }
