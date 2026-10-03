@@ -653,6 +653,9 @@
   "https://hashtagweb3.com/near-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sec-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/polymarket-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftc-markets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1867,6 +1870,12 @@
   "SEC proposes crypto custody rules for advisers and funds",
   "Fraudsters attempted $10 million card fraud on Polymarket",
   "Polymarket Faced $10M Stolen-Card Fraud Attempt, Journal Reported",
+  "CFTC Submits Crypto Market Rules for White House Review",
+  "CFTC Sends Crypto Market Rulemaking to White House Review",
+  "Blast to shut down Ethereum layer-two network",
+  "Blast to wind down Ethereum L2 after costs outpace revenue",
+  "US banking group sues regulator over crypto trust charters",
+  "Bank group sues U.S. regulator over granting crypto trust charters",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2070,5 +2079,8 @@
   "fp:access|aim|cbo|continuous|derivativ|enable24|end|exchang|index|never",
   "fp:38m|bug|chain|contract|cross|developer|drain|exploit|follow|full",
   "fp:adviser|asset|custodian|custody|digital|fund|gain|investment|permission|propos",
-  "fp:10m|attempt|card|checkout|com|deposit|fac|february|fraud|fraudster"
+  "fp:10m|attempt|card|checkout|com|deposit|fac|february|fraud|fraudster",
+  "fp:2026|act|agency|block|cftc|clarity|hous|market|proposal|review",
+  "fp:asset|blast|cost|down|exceed|generat|layer|mainnet|network|operat",
+  "fp:america|authority|bank|banker|charter|claim|community|comptroller|currency|exceed"
 ]
