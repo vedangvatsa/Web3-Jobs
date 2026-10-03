@@ -533,11 +533,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Hut 8 is hiring\nMechanical Engineer\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-03T03:31:14.051Z",
           "containerId": "17916035175461009",
-          "postId": "18125459650845753"
+          "postId": "18125459650845753",
+          "url": "https://www.instagram.com/reel/DeBGXO8CSV9/"
         }
       }
     },
