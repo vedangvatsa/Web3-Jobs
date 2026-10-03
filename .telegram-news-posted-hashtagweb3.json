@@ -659,6 +659,9 @@
   "https://hashtagweb3.com/zcash-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/fca-perimeter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/glamsterdam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
+  "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1885,6 +1888,12 @@
   "FCA Publishes Crypto Perimeter Guidance for 2027 Regime",
   "Anchorage Digital cuts 17% of workforce",
   "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+  "Ethereum Glamsterdam Upgrade Passes Devnet-11 Testing",
+  "Ethereum Glamsterdam Rehearsal Clears Path to Sepolia Test",
+  "Ethereum developers remove staking reward burn from Hegota upgrade",
+  "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
+  "OpenAI Bans PewDiePie Twice During Local AI Development",
+  "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2094,5 +2103,8 @@
   "fp:america|authority|bank|banker|charter|claim|community|comptroller|currency|exceed",
   "fp:asset|etf|for1|fund|grayscal|lower|nearly|one|reach|september29",
   "fp:authorization|dat|domestic|fca|firm|for2027|guidanc|october2027|offshor|perimeter",
-  "fp:42b|anchorag|asset|bank|charter|cuts17|digital|expand|federally|institutional"
+  "fp:42b|anchorag|asset|bank|charter|cuts17|digital|expand|federally|institutional",
+  "fp:all|clear|deployment|devnet11|glamsterdam|nethermind|october6|pass|path|performanc",
+  "fp:burn|chang|contributor|cor|developer|eip8363|feedback|hegota|inappropriat|issuanc",
+  "fp:account|ajax|ban|bann|built|claim|computer|design|development|dur"
 ]

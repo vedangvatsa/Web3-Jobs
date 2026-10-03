@@ -567,7 +567,7 @@
     "sentAt": "2026-10-03T11:35:13.989Z"
   },
   "63fb352a-ca7d-4aac-a437-794a2c369226": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T19:34:34.704Z",
     "stories": [
       {
@@ -596,6 +596,8 @@
         "originalTitle": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC"
       }
     ],
-    "slotKey": "2026-10-03:evening"
+    "slotKey": "2026-10-03:evening",
+    "messageId": 155585,
+    "sentAt": "2026-10-03T19:34:42.539Z"
   }
 }
