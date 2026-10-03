@@ -568,9 +568,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Hut 8 is hiring\nElectrical Engineer\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-03T03:33:55.637Z"
+          "startedAt": "2026-10-03T03:33:55.637Z",
+          "containerId": "17916035514461009"
         }
       }
     }
