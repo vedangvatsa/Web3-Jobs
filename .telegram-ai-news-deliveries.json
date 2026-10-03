@@ -473,7 +473,7 @@
     "sentAt": "2026-10-02T19:33:52.155Z"
   },
   "2be26341-bdd8-451d-88c4-1c6b5f59bc68": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T03:55:23.130Z",
     "stories": [
       {
@@ -505,6 +505,8 @@
         "originalTitle": "Amazon’s $1B plan to combat data center backlash draws more backlash"
       }
     ],
-    "slotKey": "2026-10-03:morning"
+    "slotKey": "2026-10-03:morning",
+    "messageId": 193313,
+    "sentAt": "2026-10-03T03:55:25.615Z"
   }
 }
