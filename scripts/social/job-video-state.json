@@ -716,11 +716,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Stripe is hiring\nAccount Executive, Product Sales, Metronome\n\nNew York, NY\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-03T19:33:51.746Z",
           "containerId": "17916143727461009",
-          "postId": "17967814263159436"
+          "postId": "17967814263159436",
+          "url": "https://www.instagram.com/reel/DeC0hYtjU_9/"
         }
       }
     }
