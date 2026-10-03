@@ -724,9 +724,10 @@
           "url": "https://www.instagram.com/reel/DeC0hYtjU_9/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "New York, NY\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-03T19:34:37.980Z"
+          "startedAt": "2026-10-03T19:34:37.980Z",
+          "postId": "6ac158cf814d657011d36f19"
         }
       }
     }
