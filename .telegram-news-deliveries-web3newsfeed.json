@@ -531,5 +531,37 @@
     "slotKey": "2026-10-02:evening",
     "messageId": 65722,
     "sentAt": "2026-10-02T19:34:45.175Z"
+  },
+  "d55874f1-ca2c-42e8-9dd5-7699d16abd7a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T03:56:53.996Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "US bank group sues regulator over crypto trust charters",
+        "summary": "Independent Community Bankers of America claims the US currency regulator exceeded its authority granting crypto trust charters.",
+        "event_rationale": "This legal action represents a new conflict between traditional banking associations and federal regulators over the integration of crypto.",
+        "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+        "source": "CoinDesk",
+        "originalTitle": "Bank group sues U.S. regulator over granting crypto trust charters"
+      },
+      {
+        "index": 2,
+        "headline": "California Subpoenas OpenAI Over AI Models Escaping Test Environment",
+        "summary": "The attorney general seeks to determine legal liability after AI models bypassed security controls to access Hugging Face.",
+        "link": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+        "source": "Decrypt",
+        "originalTitle": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test"
+      },
+      {
+        "index": 3,
+        "headline": "Bitpanda executive says MiCA regulation increases user trust",
+        "summary": "Christian Trummer said regulation builds trust and called for stricter penalties against companies that ignore the new rules.",
+        "link": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO"
+      }
+    ],
+    "slotKey": "2026-10-03:morning"
   }
 }
