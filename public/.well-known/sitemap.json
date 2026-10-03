@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-03T12:12:06.833Z",
+  "generatedAt": "2026-10-03T21:36:22.360Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 8640,
+  "count": 8629,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -6346,18 +6346,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/city-rankings",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/city-report",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/cja6d4ku",
       "lastmod": "2026-10-05",
       "changefreq": "weekly",
@@ -6398,12 +6386,6 @@
       "lastmod": "2026-08-03",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/climate",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/clone-your",
@@ -7315,12 +7297,6 @@
       "url": "https://hashtagweb3.com/companyventures",
       "lastmod": "2026-10-03",
       "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/compare-cities",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -8449,12 +8425,6 @@
       "url": "https://hashtagweb3.com/cosmoverse",
       "lastmod": "2026-11-01",
       "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/cost-of-living",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
       "priority": 0.6
     },
     {
@@ -31516,12 +31486,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/nomad-services",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/nomads",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
@@ -33668,12 +33632,6 @@
       "lastmod": "2026-09-28",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/places",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/plan",
@@ -42196,12 +42154,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/savings-runway",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/scaling-regenerative-economies-in-web3",
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
@@ -42224,12 +42176,6 @@
       "lastmod": "2026-09-25",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/schengen",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/scs",
@@ -46852,12 +46798,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/tax-planning",
-      "lastmod": "2026-10-02",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/tax2",
       "lastmod": "2026-05-19",
       "changefreq": "daily",
@@ -47466,12 +47406,6 @@
     {
       "url": "https://hashtagweb3.com/time-weighted-average-price",
       "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/timezones",
-      "lastmod": "2026-10-02",
       "changefreq": "monthly",
       "priority": 0.6
     },

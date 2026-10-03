@@ -59,7 +59,7 @@ export const SITELINK_NAVIGATION_ITEMS: { label: string; href: string; descripti
 
 export const RESOURCE_LINKS: NavLinkItem[] = [
   { href: '/resources', label: 'All Resources', icon: ListChecks },
-  { href: '/nomads', label: 'Nomad Toolkit', icon: Globe },
+  { href: '/nomads', label: 'Digital Nomad Resources', icon: Globe },
   { href: '/companies', label: 'Companies', icon: Building2 },
   { href: '/learn', label: 'Learn Web3', icon: GraduationCap },
   { href: '/blog', label: 'Playbook', icon: BookOpen },

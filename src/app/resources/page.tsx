@@ -139,14 +139,10 @@ export default function ResourcesPage() {
               <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
                 <div>
                   <h2 id="nomad-resources-title" className="text-base font-bold tracking-tight">Remote Work & Nomads</h2>
-                  <p className="mt-1 text-sm text-muted-foreground">Choose a city, compare your budget, and plan the practical details of a remote stay.</p>
                 </div>
-                <Link href="/nomads" prefetch={false} className="inline-flex min-h-11 items-center gap-2 text-sm font-medium hover:text-primary">Open Nomad Toolkit <ArrowRight className="h-4 w-4" aria-hidden /></Link>
               </div>
-              <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-                <ToolCard href="/nomads" label="Explore cities" description="City guides with living costs, climate, workspaces and local communities." />
-                <ToolCard href="/places" label="Find a place to work or stay" description="Search coworking spaces, coliving, apartments, hostels and guesthouses." />
-                <ToolCard href="/cost-of-living" label="Plan your budget" description="Compare monthly costs and see what remains from your take-home income." />
+              <div className="grid gap-3 sm:grid-cols-2">
+                <ToolCard href="/nomads" label="Digital Nomad Resources" description="Explore destinations, rank and compare cities, and find stays and workspaces on the map." />
                 <ToolCard href="/digital-nomad-visas" label="Visas & passport entry" description="Browse longer-stay program references and short-visit passport requirements." />
               </div>
             </section>

@@ -80,7 +80,8 @@ async function main() {
     await expect(page.getByRole('table')).toBeVisible();
     await expect(page.getByText(/The cost difference|per month than|Both cities have the same monthly estimate/)).toHaveCount(0);
     await page.goto(`${origin}/city-report`, { waitUntil: 'load' });
-    await expect(page.locator('.nomad-report-city')).toHaveCount(50);
+    await expect(page.getByRole('heading', { name: 'Digital Nomad Resources', exact: true })).toBeVisible();
+    await expect(page.getByRole('button', { name: 'Print city report', exact: true })).toBeVisible();
     await expect(page.getByRole('heading', { name: 'How to use this report' })).toHaveCount(0);
     assert.deepEqual(errors, []);
     console.log(JSON.stringify({ goneUrls: removedSlugs.length, activeJobs: runtime.length, regionalFeedJobs: regionalJobs, protectedEventAndPopup: 'passed', remotePageAndSchema: 'passed', officialHeaderLinks: 45, browserErrors: errors }, null, 2));

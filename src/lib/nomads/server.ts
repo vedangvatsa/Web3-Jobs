@@ -14,6 +14,7 @@ let places: ReturnType<typeof decodePlaces> | undefined;
 
 export const nomadSources = sourcesJson;
 export const getNomadCities = (): readonly NomadCity[] => cities;
+export const getNomadExplorerCities = () => cities.map(({ communities: _communities, nearby: _nearby, ...city }) => city);
 export const getNomadCity = (slug: string): NomadCity | undefined => bySlug.get(slug);
 export const getNomadSummaries = () => summaries;
 export const getNomadPlaces = () => places ??= decodePlaces(placesJson as unknown as CompactPlaces);

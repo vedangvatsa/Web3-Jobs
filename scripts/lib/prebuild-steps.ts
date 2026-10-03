@@ -1,7 +1,7 @@
 import { JOB_SHARD_COUNT, getJobShardFilename } from '../../src/lib/job-shards';
 import nomadCities from '../../content/nomads/cities.json';
 import passportCountries from '../../content/nomads/countries.json';
-import nomadToolPaths from '../../content/nomads/tool-paths.json';
+import { NOMAD_STATIC_PATHS } from '../../src/lib/nomads/routes';
 import displayImagesJson from '../../content/nomad-display-images.json';
 
 export type PrebuildStep = {
@@ -32,7 +32,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   {
     id: 'nomad-page-og',
     inputs: ['content/nomads/cities.json', 'content/nomads/tool-paths.json', 'src/lib/nomads/metadata.ts', 'src/lib/nomads/routes.ts', 'scripts/precompute-page-og-images.ts', 'scripts/lib/og-png-compress.ts', 'scripts/social/fonts/Inter-Bold.ttf'],
-    outputs: [...Object.values(nomadToolPaths), ...nomadCities.map(city => `/${city.slug}`)].map(href => `public/og/pages${href}.png`),
+    outputs: [...NOMAD_STATIC_PATHS, ...nomadCities.map(city => `/${city.slug}`)].map(href => `public/og/pages${href}.png`),
     command: 'npx tsx scripts/precompute-page-og-images.ts --if-missing',
   },
   {
@@ -120,6 +120,9 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
       'content/pseo-resources-runtime.json',
       'src/app/nomads/page.tsx',
       'content/nomads/tool-paths.json',
+      'content/nomads/legacy-routes.json',
+      'src/lib/nomads/routes.ts',
+      'src/lib/nomads/metadata.ts',
       'scripts/generate-slug-types.ts',
     ],
     outputs: ['content/slug-types.json'],

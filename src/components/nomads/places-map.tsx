@@ -10,7 +10,8 @@ import { cityPath, PLACE_CATEGORIES } from '@/lib/nomads/types';
 import { buildPlaceClusterIndex, clusterAppearance, isPlaceCluster, type MapPlaceFeature } from '@/lib/nomads/place-clusters';
 import { VectorBasemap } from './vector-basemap';
 
-type Props = { places: NomadPlace[]; cities: CitySummary[]; selectedCity: string; focused?: NomadPlace; focusRequest?: number };
+type Props = { places: NomadPlace[]; cities: Pick<CitySummary, 'slug' | 'name' | 'country' | 'lat' | 'lon'>[]; selectedCity: string; focused?: NomadPlace; focusRequest?: number; viewportKey?: string; fitFiltered?: boolean };
+const motionAllowed = () => !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 function NumberedCluster({ feature, onClick }: { feature: Extract<MapPlaceFeature, { properties: { cluster: true } }>; onClick: () => void }) {
   const marker = useRef<L.Marker>(null);
@@ -26,24 +27,37 @@ function NumberedCluster({ feature, onClick }: { feature: Extract<MapPlaceFeatur
   return <Marker ref={marker} position={[feature.geometry.coordinates[1], feature.geometry.coordinates[0]]} icon={icon} title={label} eventHandlers={{ click: onClick }} />;
 }
 
-function MapContents({ places, cities, selectedCity, focused, focusRequest }: Props) {
+function MapContents({ places, cities, selectedCity, focused, focusRequest, viewportKey, fitFiltered }: Props) {
   const map = useMap();
   const index = useMemo(() => buildPlaceClusterIndex(places), [places]);
   const byId = useMemo(() => new Map(places.map(place => [place.id, place])), [places]);
   const [features, setFeatures] = useState<MapPlaceFeature[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const controls = useRef<HTMLDivElement>(null);
-  const current = useRef({ places, cities, selectedCity });
-  current.current = { places, cities, selectedCity };
+  const current = useRef({ places, cities, selectedCity, fitFiltered });
+  const initialized = useRef(false);
+  const pendingPopup = useRef<(() => void) | null>(null);
+  current.current = { places, cities, selectedCity, fitFiltered };
 
   const updateClusters = useCallback(() => {
     const bounds = map.getBounds();
     setFeatures(index.getClusters([bounds.getWest(), bounds.getSouth(), bounds.getEast(), bounds.getNorth()], Math.floor(map.getZoom())));
     map.getContainer().dataset.zoom = String(map.getZoom());
   }, [index, map]);
-  useMapEvents({ moveend: updateClusters, zoomend: updateClusters, click: () => setSelectedId(null) });
+  const cancelPopup = useCallback(() => {
+    if (pendingPopup.current) map.off('moveend', pendingPopup.current);
+    pendingPopup.current = null;
+  }, [map]);
+  useMapEvents({
+    movestart: () => { map.getContainer().dataset.moving = 'true'; },
+    zoom: () => { map.getContainer().dataset.zoom = String(map.getZoom()); },
+    moveend: () => { updateClusters(); map.getContainer().dataset.moving = 'false'; },
+    dragstart: cancelPopup,
+    click: () => setSelectedId(null),
+  });
   useEffect(() => { updateClusters(); }, [updateClusters]);
-  useEffect(() => { setSelectedId(null); }, [places]);
+  useEffect(() => { cancelPopup(); setSelectedId(null); }, [places, cancelPopup]);
+  useEffect(() => cancelPopup, [cancelPopup]);
   useEffect(() => {
     if (controls.current) {
       L.DomEvent.disableClickPropagation(controls.current);
@@ -51,34 +65,48 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest }: Pr
     }
   }, []);
 
-  const fitPlaces = useCallback(() => {
+  const flyTo = useCallback((center: L.LatLngExpression, zoom: number, placeId?: string, animate = true) => {
+    cancelPopup();
+    setSelectedId(null);
+    const target = L.latLng(center);
+    const moving = !map.getCenter().equals(target, 1e-7) || Math.abs(map.getZoom() - zoom) > 0.001;
+    if (placeId && moving) {
+      const onArrival = () => { pendingPopup.current = null; setSelectedId(placeId); };
+      pendingPopup.current = onArrival;
+      map.once('moveend', onArrival);
+    }
+    map.flyTo(target, zoom, { animate: animate && moving && motionAllowed(), duration: 0.7 });
+    if (placeId && !moving) setSelectedId(placeId);
+  }, [map, cancelPopup]);
+  const focusPlace = useCallback((place: NomadPlace, animate = true) => {
+    const zoom = Math.max(16, map.getZoom());
+    const center = map.unproject(map.project([place.lat, place.lon], zoom).subtract([0, map.getSize().y * 0.15]), zoom);
+    flyTo(center, zoom, place.id, animate);
+  }, [map, flyTo]);
+  const fitPlaces = useCallback((animate = true) => {
+    cancelPopup();
+    setSelectedId(null);
     const data = current.current;
-    if (data.places.length && data.selectedCity) {
-      map.fitBounds(data.places.map(place => [place.lat, place.lon] as [number, number]), { padding: [45, 45], maxZoom: 13, animate: false });
+    if (data.places.length && (data.selectedCity || data.fitFiltered)) {
+      map.flyToBounds(data.places.map(place => [place.lat, place.lon] as [number, number]), { padding: [45, 45], maxZoom: 13, animate: animate && motionAllowed(), duration: 0.7 });
     } else {
       const city = data.cities.find(city => city.slug === data.selectedCity);
-      map.setView(city ? [city.lat, city.lon] : [20, 20], city ? 12 : 2, { animate: false });
+      flyTo(city ? [city.lat, city.lon] : [20, 20], city ? 12 : 2, undefined, animate);
     }
-  }, [map]);
+  }, [map, flyTo, cancelPopup]);
 
   useEffect(() => {
     const frame = requestAnimationFrame(() => {
       map.invalidateSize({ pan: false, animate: false });
       map.attributionControl.setPrefix(false);
-      fitPlaces();
+      const animate = initialized.current;
+      initialized.current = true;
+      if (focused) focusPlace(focused, animate);
+      else fitPlaces(animate);
     });
     setSelectedId(null);
     return () => cancelAnimationFrame(frame);
-  }, [map, selectedCity, fitPlaces]);
-
-  useEffect(() => {
-    if (!focused) return;
-    const frame = requestAnimationFrame(() => {
-      map.setView([focused.lat, focused.lon], 16, { animate: false });
-      setSelectedId(focused.id);
-    });
-    return () => cancelAnimationFrame(frame);
-  }, [map, focused?.id, focusRequest]);
+  }, [map, selectedCity, viewportKey, focused?.id, focusRequest, fitPlaces, focusPlace]);
 
   const selected = selectedId ? byId.get(selectedId) : undefined;
   const selectedPlaceCity = selected ? cities.find(city => city.slug === selected.citySlug) : undefined;
@@ -88,10 +116,10 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest }: Pr
       const [lon, lat] = feature.geometry.coordinates;
       if (isPlaceCluster(feature)) return <NumberedCluster key={`cluster-${feature.properties.cluster_id}`} feature={feature} onClick={() => {
         setSelectedId(null);
-        map.setView([lat, lon], Math.min(index.getClusterExpansionZoom(feature.properties.cluster_id), 18), { animate: false });
+        flyTo([lat, lon], Math.min(index.getClusterExpansionZoom(feature.properties.cluster_id), 18));
       }} />;
       const place = byId.get(feature.properties.placeId);
-      return place ? <CircleMarker key={place.id} center={[lat, lon]} radius={selectedId === place.id ? 8 : 5} pathOptions={{ color: '#ffffff', weight: 2, fillColor: '#3b82f6', fillOpacity: 0.95 }} bubblingMouseEvents={false} eventHandlers={{ click: () => setSelectedId(place.id) }} /> : null;
+      return place ? <CircleMarker key={place.id} center={[lat, lon]} radius={selectedId === place.id ? 8 : 5} pathOptions={{ color: '#ffffff', weight: 2, fillColor: '#3b82f6', fillOpacity: 0.95 }} bubblingMouseEvents={false} eventHandlers={{ click: () => focusPlace(place) }} /> : null;
     })}
     {selected && <Popup key={selected.id} position={[selected.lat, selected.lon]} eventHandlers={{ remove: () => setSelectedId(current => current === selected.id ? null : current) }}>
       <div className="min-w-48 max-w-64 space-y-2 text-sm"><h3 className="font-semibold leading-snug">{selected.name}</h3><p className="text-xs">{PLACE_CATEGORIES[selected.category]}{selectedPlaceCity ? ` · ${selectedPlaceCity.name}, ${selectedPlaceCity.country}` : ''}</p>{selected.address && <p className="text-xs">{selected.address}</p>}
@@ -99,15 +127,15 @@ function MapContents({ places, cities, selectedCity, focused, focusRequest }: Pr
       </div>
     </Popup>}
     <div ref={controls} className="absolute bottom-8 right-3 z-[500] flex flex-col items-end gap-2">
-      <div className="overflow-hidden rounded-lg border border-border bg-background shadow-sm"><button type="button" aria-label="Zoom in" className={controlStyle} onClick={() => map.zoomIn()}><Plus className="h-5 w-5" aria-hidden /></button><button type="button" aria-label="Zoom out" className={`${controlStyle} border-t`} onClick={() => map.zoomOut()}><Minus className="h-5 w-5" aria-hidden /></button></div>
+      <div className="overflow-hidden rounded-lg border border-border bg-background shadow-sm"><button type="button" aria-label="Zoom in" className={controlStyle} onClick={() => flyTo(map.getCenter(), Math.min(Math.floor(map.getZoom()) + 1, 19))}><Plus className="h-5 w-5" aria-hidden /></button><button type="button" aria-label="Zoom out" className={`${controlStyle} border-t`} onClick={() => flyTo(map.getCenter(), Math.max(Math.ceil(map.getZoom()) - 1, 1))}><Minus className="h-5 w-5" aria-hidden /></button></div>
       <button type="button" aria-label="Reset map view" className={`${controlStyle} rounded-lg border border-border shadow-sm`} onClick={() => { setSelectedId(null); fitPlaces(); }}><LocateFixed className="h-5 w-5" aria-hidden /></button>
     </div>
   </>;
 }
 
 export default function PlacesMap(props: Props) {
-  return <div className="relative isolate z-0 h-[360px] overflow-hidden rounded-lg border border-border/70 bg-muted sm:h-[520px] lg:h-[600px]" aria-label="Places map">
-    <MapContainer center={[20, 20]} zoom={2} minZoom={1} maxZoom={19} maxBounds={[[-85, -Infinity], [85, Infinity]]} maxBoundsViscosity={1} className="h-full w-full" preferCanvas zoomControl={false} zoomAnimation={false} fadeAnimation={false} scrollWheelZoom={false}>
+  return <div className="relative isolate z-0 h-[340px] overflow-hidden rounded-lg border border-border/70 bg-muted sm:h-[420px] lg:h-[460px]" aria-label="Places map">
+    <MapContainer center={[20, 20]} zoom={2} minZoom={1} maxZoom={19} maxBounds={[[-85, -Infinity], [85, Infinity]]} maxBoundsViscosity={1} className="h-full w-full" preferCanvas zoomControl={false} zoomAnimation={motionAllowed()} fadeAnimation={motionAllowed()} scrollWheelZoom={false}>
       <VectorBasemap />
       <MapContents {...props} />
     </MapContainer>

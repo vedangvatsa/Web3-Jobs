@@ -31,7 +31,9 @@ export function VectorBasemap() {
       }).on('load', () => { if (active) container.dataset.basemapReady = 'true'; }).addTo(map);
     }
     try {
-      vector = maplibreGL({ style: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json', attributionControl: false });
+      // The adapter supports updateInterval but omits it from its published types.
+      const options: Parameters<typeof maplibreGL>[0] & { updateInterval: number } = { style: 'https://basemaps.cartocdn.com/gl/positron-gl-style/style.json', attributionControl: false, updateInterval: 16 };
+      vector = maplibreGL(options);
       vector.addTo(map);
       map.attributionControl.addAttribution(credit);
       container.dataset.basemap = 'carto-vector';

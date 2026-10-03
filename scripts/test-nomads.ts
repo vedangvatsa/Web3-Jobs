@@ -13,7 +13,7 @@ import { calendarDay, nextSchengenCapacity, savingsRunway, schengenDays, taxScen
 import { formatOffset, overlapSlots, timezoneOffsetMinutes } from '../src/lib/nomads/timezones';
 import { cityPath, safeExternalUrl } from '../src/lib/nomads/types';
 import { validPassportRules } from '../src/lib/nomads/entry-rules';
-import { getNomadCities, getNomadCity, getNomadPlaces, getNomadServices, getNomadVisas, getPassportCountries, nomadSources } from '../src/lib/nomads/server';
+import { getNomadCities, getNomadCity, getNomadExplorerCities, getNomadPlaces, getNomadServices, getNomadVisas, getPassportCountries, nomadSources } from '../src/lib/nomads/server';
 import { nomadPageInfo, nomadRoutes } from '../src/lib/nomads/metadata';
 import { visaData } from '../src/lib/visas';
 import { getAllPopups } from '../src/lib/popups';
@@ -24,6 +24,8 @@ import { cityImagePlan } from '../src/lib/nomads/images';
 import slugTypes from '../content/slug-types.json';
 import legacyJobs from '../content/legacy-slugs-archive.json';
 import { learnRoutes } from '../src/lib/learn-routes';
+import { NOMAD_LEGACY_ROUTES, NOMAD_STATIC_PATHS, legacyNomadToolDestination } from '../src/lib/nomads/routes';
+import { compareCityRank, comparisonSlugs, matchesClimate, rankCategory, rankingLabel, rankingValue, searchText } from '../src/lib/nomads/explorer';
 
 const trip = (start: string, end: string): Trip => ({ id: `${start}/${end}`, start, end });
 
@@ -178,6 +180,14 @@ test('visa upgrade retains existing programs and service links are safe', () => 
 
 test('root-level tool and city routes preserve existing published identities and share shells', () => {
   const routes = nomadRoutes();
+  assert.equal(routes.length, 102);
+  assert.deepEqual(NOMAD_STATIC_PATHS, ['/nomads', '/digital-nomad-visas']);
+  for (const [oldPath, destination] of Object.entries(NOMAD_LEGACY_ROUTES)) {
+    assert.ok(RESERVED_APP_ROUTE_SLUGS.includes(oldPath.slice(1)), `${oldPath} must stay reserved`);
+    assert.equal(nomadPageInfo(oldPath), null);
+    assert.equal(legacyNomadToolDestination(oldPath), destination);
+    assert.ok(!routes.some(route => route.path === oldPath));
+  }
   assert.equal(new Set(routes.map(route => route.path)).size, routes.length);
   for (const { path } of routes) {
     assert.match(path, /^\/[a-z0-9-]+$/, 'Toolkit pages must use root-level slugs');
@@ -269,4 +279,35 @@ test('map clustering preserves every place and expands accurately after filterin
   assert.equal(clusterAppearance(49).color, '#3b82f6');
   assert.equal(clusterAppearance(50).color, '#8b5cf6');
   assert.equal(clusterAppearance(200).color, '#ef4444');
+});
+
+test('explorer ranking puts unknown values last in both directions and preserves zeroes', () => {
+  const known = getNomadCity('lisbon')!, unknown = {...known, name: 'Unknown', safety: null};
+  assert.match(rankingLabel(known, 'score', 0), / \/ 100$/);
+  for (const ascending of [true, false]) assert.ok(compareCityRank(known, unknown, 'safety', 0, ascending) < 0);
+  const zero = {...known, weather: {...known.weather, monthly: [{month: 'Jan', temp: 0, rain: 0, humidity: 0}]}};
+  assert.equal(rankingValue(zero, 'temperature', 0), 0);
+  assert.equal(rankingValue(zero, 'rainfall', 1), null);
+  assert.equal(rankCategory('climate'), 'temperature');
+  assert.equal(rankCategory('monthly_total'), 'cost');
+  assert.equal(rankCategory('unknown'), 'score');
+  assert.equal(searchText('São-Paulo'), 'sao paulo');
+  const cheaper = {...known, cost: {...known.cost, monthly_total: 1}};
+  assert.ok(compareCityRank(cheaper, known, 'cost', 0, true) < 0);
+});
+
+test('comparison shares recover legacy pairs and cannot select the same city twice', () => {
+  const cities = getNomadExplorerCities();
+  assert.deepEqual(comparisonSlugs(cities, new URLSearchParams('cities=bangalore,london')), ['bangalore', 'london']);
+  assert.deepEqual(comparisonSlugs(cities, new URLSearchParams('a=lisbon&b=lisbon')), ['lisbon', 'chiang-mai']);
+  assert.deepEqual(comparisonSlugs(cities, new URLSearchParams('a=invalid&b=invalid')), ['lisbon', 'chiang-mai']);
+  for (const city of cities) assert.ok(!('nearby' in city) && !('communities' in city));
+});
+
+test('weather filters retain missing-data meaning and include range boundaries', () => {
+  const city = {...getNomadCity('lisbon')!, weather: {avg_temp: 20, annual_rain: 50, monthly: [{month: 'Jan', temp: 20, rain: 50, humidity: 40}, {month: 'Feb', temp: null, rain: null, humidity: null}]}};
+  assert.equal(matchesClimate(city, 0, {min: '20', max: '20', rain: 'dry', humidity: 'medium'}), true);
+  assert.equal(matchesClimate(city, 0, {min: '21', max: '', rain: '', humidity: ''}), false);
+  assert.equal(matchesClimate(city, 1, {min: '', max: '', rain: 'dry', humidity: ''}), false);
+  assert.equal(matchesClimate(city, 1, {min: '', max: '', rain: '', humidity: ''}), true);
 });

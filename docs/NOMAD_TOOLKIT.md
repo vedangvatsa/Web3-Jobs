@@ -1,32 +1,36 @@
-# Nomad Toolkit
+# Digital Nomad Resources
 
-Entry points: **Resources → Nomad Toolkit**, the Remote Work & Nomads section on
-`/resources`, and the footer. The toolkit has one shared navigation with Cities,
-Places, Compare, Living costs, Visas & entry, and a grouped More menu.
+Entry points: **Resources > Digital Nomad Resources**, the Remote Work & Nomads
+section on `/resources`, and the footer. `/nomads` is one workspace. It has no
+separate Cities, Rankings, Places or Compare navigation, and no More tools menu.
 
 ## Routes and features
 
 | Route | Purpose |
 | --- | --- |
-| `/nomads` | City finder, budget/region/connectivity filters, two-city selection and tool directory |
+| `/nomads` | Search cities/places, filter region/budget, rank destinations, explore the map, compare in-page and print results |
 | `/[city]`, e.g. `/lisbon` | 100 city guides with budgets, monthly climate, places, community links and related Hashtag content |
-| `/places` | Searchable list and default clustered map of 4,652 workspace/accommodation records |
-| `/compare-cities` | Two selected city details, cost breakdown, connectivity and timezone comparison |
-| `/cost-of-living` | Monthly cost categories and optional remaining take-home income |
-| `/city-rankings` | Internet benchmarks, safety and walkability reference scores |
-| `/climate` | Month, temperature, humidity and rainfall filters |
 | `/digital-nomad-visas` | 71 merged program references plus a 199-passport entry checker with an automatic map |
-| `/timezones` | Up to four cities, date-specific IANA offsets and quarter-hour work-window overlap |
-| `/schengen` | Inclusive unique-day counting for the rolling 90/180-day rule; optional local-device storage |
-| `/savings-runway` | Savings, reserve, income and spending assumptions across cities |
-| `/tax-planning` | User-entered effective-rate arithmetic, alongside country reference notes |
-| `/nomad-services` | 59 services across the imported categories |
-| `/city-report` | Printable top-50 city reference report, including browser Save as PDF |
+
+Rank by overall score, living costs, internet, safety, walkability, temperature,
+rainfall or humidity. Weather ranks reveal month/range controls. Unknown values
+sort last in both directions. Search and ranking share the same city results.
+The map retains five category chips and counts, clusters, popups and city links;
+there is no full place directory below it. Select two cities to open comparison
+in the shared Sheet. Print exports the first 50 matching cities in displayed rank
+order, with reference details, using the browser's Save as PDF.
+
+Standalone timezone, Schengen, runway, tax and service pages are removed. Their
+imported records and calculation libraries remain for provenance, but are not
+promoted as active tools. No replacement Planner page is introduced.
 
 `/nomad` remains the existing Nomad popup. `/tax` and all other published root
 identities retain their owners. Every toolkit page has a root-level canonical URL.
-The 111 old nested tool/city paths permanently redirect with query strings and
-social suffixes preserved. All toolkit slugs are reserved against job allocation.
+The 111 old nested paths and eleven retired root tools permanently redirect with
+query strings and social suffixes preserved. `content/nomads/legacy-routes.json`
+maps retired roots to the hub, visa checker or resource page. The full historic
+`tool-paths.json` remains reserved against job allocation; only the two active
+tools and 100 city guides appear in the canonical sitemap and asset expectations.
 Individual directory places do not receive separate indexable routes.
 
 ## Data and provenance
@@ -46,9 +50,8 @@ missing; the source project's fallback scores are not imported.
 
 Most city/service references are dated June 2026. Internet records keep their own
 quarter and sample count. Import time is not a claim of fresh official
-verification. Visa, tax and travel pages display sources and reference context.
-The tax calculator uses an explicit user assumption, and savings runway does not
-claim investment-based financial independence. Related jobs/popups require both
+verification. Visa cards retain the actual requirements and official source links;
+generic explanatory footer paragraphs are removed. Related jobs/popups require both
 city and country evidence; upcoming events use normalized city/country matching.
 
 Third-party terms and the Passport Index MIT copyright notice are retained in
@@ -81,7 +84,7 @@ Normal prebuild registers `nomad-catalogs`, including every expected shard as an
 output. A fresh checkout generates `public/data/nomads/` locally, without source
 checkout access, remote APIs or credentials. The standalone copier includes
 `public/data/` and `public/images/`; asset assertions check all city images and
-all generated Nomad files. Sitemap and preview generation include all 113
+all generated Nomad files. Sitemap and preview generation include all 102
 canonical routes. OpenAPI and `llms.txt` document the static data paths.
 
 ### Static data paths
@@ -92,9 +95,10 @@ canonical routes. OpenAPI and `llms.txt` document the static data paths.
 - `/data/nomads/passports.json`: passport names, IDs and ISO codes.
 - `/data/nomads/passports/{id}.json`: references for only the selected passport.
 
-The Places page shows its map alongside the directory. Passport maps appear
-automatically after selecting a passport. The hub does not fetch the place directory or passport
-matrix; comparison downloads two city records. Images use locally generated
+The hub loads the compact places data for its map. Its city projection excludes
+nearby/community data and is reused for ranking, comparison and report export.
+Comparison does not redownload city shards. Passport maps appear automatically
+after selecting a passport and fetch only that passport's shard. Images use locally generated
 WebPs with cropped 480px cards, 720-1024px heroes (never upscaled), and 128px table
 thumbnails. Width descriptors match the actual files. Unopened city/tool links do
 not prefetch page payloads. City pages use on-demand ISR rather than bulk
@@ -118,10 +122,11 @@ overnight work windows, overlapping Schengen trips, an independent day-by-day
 count, runway/tax boundaries, complete image/shard delivery, bandwidth budgets,
 data integrity, existing visa preservation, URL safety and reserved identities.
 
-The production-browser suite checks all 113 routes, city 404s, metadata, sitemap,
+The production-browser suite checks all 102 routes, all 122 redirects, city 404s, metadata, sitemap,
 social/agent behavior, the original Nomad popup, interactive tools, failed-fetch
-retry, real map tiles, optional trip persistence, URL reloads, desktop/mobile
-navigation, 320px/390px layouts in light/dark mode, and PDF output. Screenshots,
+retry, real map tiles, intermediate zoom frames, rapid-click/reduced-motion camera
+behavior, in-page comparison, URL reloads, desktop/mobile navigation, layouts at
+320/390/768/1024/1440px, and filtered PDF output. Screenshots,
 failure artifacts and the generated PDF go into ignored `.cache/nomads/`.
 
 Existing prebuild gates also run ATS ownership, published event identities,
@@ -138,6 +143,34 @@ against the older captured job snapshot. It does not overwrite the baseline.
 
 Implementation and local verification do not deploy the site. Firebase rollout
 continues through the repository's existing release workflow.
+
+## Consolidation verification (2026-10-03 UTC)
+
+- Node 24 production build and typecheck passed; 131 prerendered pages across
+  the site, with city guides still rendered on demand.
+- All 17 Nomad data/calculation/ranking suites passed. All 102 canonical pages
+  and 122 retired-root/nested redirects passed HTTP, sitemap and metadata checks.
+- Production browser checks passed at 320, 390, 768, 1024 and 1440px with no
+  runtime errors or page overflow. Comparison stays in-page, shares and reloads
+  its pair, swaps cities, and restores keyboard focus when closed.
+- Real CARTO vector tiles loaded. Camera checks recorded 44 distinct zoom samples
+  in one animation, plus cluster expansion, rapid clicks, reset and reduced motion.
+- Filtered PDF export preserves displayed order. Print-width checks cover all
+  columns and counter alignment; the report prepares images before printing.
+- Visual checks covered 26 page/viewport combinations against `/news`. The hub
+  HTML is about 41KB gzip and visas about 30KB. All 102 distinct OG images and
+  existing local display variants passed the asset audit.
+- Existing job cleanup, catalog and cost-saving browser regressions passed:
+  4,854 gone URLs, 6,159 jobs, 290 company counts, 157 glossary cards, identical
+  current feed bytes and no glossary term prefetch.
+
+Artifacts are local only in `.cache/nomads/`, including `design-consolidated/`,
+mobile/comparison screenshots and `report.pdf`.
+
+## Historical implementation notes
+
+The following records describe earlier multi-page releases and their tests.
+The consolidated architecture above supersedes their navigation and route counts.
 
 ### Local verification results (2026-10-02)
 

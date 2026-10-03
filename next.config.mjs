@@ -6,9 +6,15 @@ const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));
 const imageRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/image-redirects.json'), 'utf8'));
 const nomadToolPaths = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/tool-paths.json'), 'utf8'));
+const nomadLegacyRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/legacy-routes.json'), 'utf8'));
 const nomadCities = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/cities.json'), 'utf8'));
+function nomadRedirect(source, destination) {
+  const [pathname, query] = destination.split('?');
+  return { source: `${source}/:suffix*`, destination: `${pathname}/:suffix*${query ? `?${query}` : ''}`, permanent: true };
+}
 const nomadRedirects = [
-  ...Object.entries(nomadToolPaths).filter(([key]) => !['cities', 'visas'].includes(key)).map(([key, destination]) => ({ source: `/nomads/${key}/:suffix*`, destination: `${destination}/:suffix*`, permanent: true })),
+  ...Object.entries(nomadLegacyRoutes).map(([source, destination]) => nomadRedirect(source, destination)),
+  ...Object.entries(nomadToolPaths).filter(([key]) => !['cities', 'visas'].includes(key)).map(([key, destination]) => nomadRedirect(`/nomads/${key}`, nomadLegacyRoutes[destination] || destination)),
   ...nomadCities.map(({ slug }) => ({ source: `/nomads/cities/${slug}/:suffix*`, destination: `/${slug}/:suffix*`, permanent: true })),
 ];
 const learnRedirects = [

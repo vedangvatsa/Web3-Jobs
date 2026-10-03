@@ -1,0 +1,13 @@
+{
+  "/places": "/nomads",
+  "/city-rankings": "/nomads",
+  "/compare-cities": "/nomads?view=compare",
+  "/cost-of-living": "/nomads?category=cost",
+  "/climate": "/nomads?category=temperature",
+  "/city-report": "/nomads",
+  "/timezones": "/nomads?view=compare",
+  "/schengen": "/digital-nomad-visas?tab=checker",
+  "/savings-runway": "/nomads?category=cost",
+  "/tax-planning": "/digital-nomad-visas",
+  "/nomad-services": "/resources"
+}

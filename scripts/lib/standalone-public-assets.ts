@@ -41,7 +41,8 @@ export function requiredPublicAssets(root: string): string[] {
     const displays = JSON.parse(fs.readFileSync(path.join(root, 'content/nomad-display-images.json'), 'utf8')) as Record<string, { base: string; width: number }>;
     for (const image of Object.values(displays)) for (const width of [480, image.width]) addLocalImage(`${image.base}-${width}.webp`);
     const toolPaths = JSON.parse(fs.readFileSync(path.join(root, 'content/nomads/tool-paths.json'), 'utf8')) as Record<string, string>;
-    for (const href of [...Object.values(toolPaths), ...cities.map(city => `/${city.slug}`)]) {
+    const legacyTools = JSON.parse(fs.readFileSync(path.join(root, 'content/nomads/legacy-routes.json'), 'utf8')) as Record<string, string>;
+    for (const href of [...Object.values(toolPaths).filter(href => !legacyTools[href]), ...cities.map(city => `/${city.slug}`)]) {
       addLocalImage(`/og/pages${href}.png`);
       assets.add(`public/preview${href}.html`);
     }

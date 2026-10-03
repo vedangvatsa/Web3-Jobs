@@ -19,6 +19,8 @@ const isToolkit = (route: string) => toolkitPaths.has(route.split('?')[0]);
 const routes = process.argv.includes('--city-details') ? ['/news', '/lisbon', '/chiang-mai', '/madrid'] : [
   '/news', '/resources', '/salary-calculator', '/remote-work-checklist', '/events',
   ...NOMAD_TOOLS.map(tool => tool.href),
+  '/nomads?view=compare&a=lisbon&b=bangkok',
+  '/nomads?category=temperature&month=0',
   '/digital-nomad-visas?tab=checker&passport=india',
   '/lisbon', '/ho-chi-minh-city', '/madrid',
 ];
@@ -55,9 +57,9 @@ async function main() {
         await page.goto(`${origin}${route}`, { waitUntil: 'load' });
         await page.locator('main h1').waitFor();
         if (isToolkit(route)) await page.locator('main .animate-pulse').first().waitFor({ state: 'hidden' });
-        if (route === '/nomads') await page.locator('[data-nomad-city]').first().waitFor();
-        if (route === '/places') { await page.locator('main li:has(h2)').first().waitFor(); await page.locator('[data-basemap-ready="true"]').waitFor({ timeout: 45000 }); }
-        if (route === '/compare-cities' || route.includes('tab=checker')) await page.locator('main tbody tr').first().waitFor();
+        if (route.startsWith('/nomads')) { await page.locator('[data-nomad-city]').first().waitFor(); await page.locator('[data-basemap-ready="true"]').waitFor({ timeout: 45000 }); }
+        if (route.includes('view=compare')) await page.locator('[role="dialog"] tbody tr').first().waitFor();
+        if (route.includes('tab=checker')) await page.locator('main tbody tr').first().waitFor();
         if (route.includes('tab=checker')) await page.locator('#passport-map svg').waitFor();
         await page.evaluate(async dark => {
           await document.fonts.ready;
@@ -73,7 +75,7 @@ async function main() {
             titleAlign: style.textAlign, contentLeft: container.x, contentWidth: container.width, colorScheme: getComputedStyle(main).colorScheme,
             overflow: document.documentElement.scrollWidth > innerWidth + 1,
             fields: fields.map(field => ({ label: field.getAttribute('aria-label') || field.labels?.[0]?.textContent, height: field.getBoundingClientRect().height, size: getComputedStyle(field).fontSize, left: field.getBoundingClientRect().left, right: field.getBoundingClientRect().right })),
-            clippedToolkitLinks: Array.from(main.querySelectorAll<HTMLElement>('.nomad-navigation a')).filter(link => {
+            clippedToolkitLinks: Array.from(main.querySelectorAll<HTMLElement>('[data-explorer-controls] a')).filter(link => {
               const box = link.getBoundingClientRect();
               return box.height > 0 && (box.left < 0 || box.right > innerWidth);
             }).map(link => link.textContent),

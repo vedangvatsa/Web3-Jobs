@@ -15,6 +15,7 @@ export type NomadCity = {
   internet: { download_mbps: number; upload_mbps: number; latency_ms: number; test_count: number; quarter: string } | null;
   nearby: string[]; communities: CommunityLink[];
 };
+export type ExplorerCity = Omit<NomadCity, 'nearby' | 'communities'>;
 export type CitySummary = Pick<NomadCity, 'slug' | 'name' | 'country' | 'countryCode' | 'continent' | 'timezone' | 'emoji' | 'image' | 'thumbnail' | 'score' | 'safety' | 'walkability' | 'lat' | 'lon'> & {
   monthlyCost: number; internetMbps: number | null; temperature: number | null; placeCount: number;
 };
@@ -29,7 +30,7 @@ export type PassportRules = { passport: string; destinations: { name: string; is
 export type ServiceCategory = { id: string; title: string; description: string; resources: { name: string; url: string; description: string; tag?: string }[] };
 export type TaxReference = { country: string; emoji: string; rate: number; dnVisa: boolean; notes: string; source: string };
 
-export function citySummary(city: NomadCity): CitySummary {
+export function citySummary(city: ExplorerCity): CitySummary {
   const { slug, name, country, countryCode, continent, timezone, emoji, image, thumbnail, score, safety, walkability, lat, lon } = city;
   return { slug, name, country, countryCode, continent, timezone, emoji, image, thumbnail, score, safety, walkability, lat, lon, monthlyCost: city.cost.monthly_total, internetMbps: city.internet?.download_mbps ?? null, temperature: city.weather.avg_temp, placeCount: city.spaces.total };
 }

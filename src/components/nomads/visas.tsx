@@ -13,7 +13,7 @@ import { cn } from '@/lib/utils';
 import { ENTRY_RULES, validPassportRules } from '@/lib/nomads/entry-rules';
 import { safeExternalUrl, type PassportCountry, type PassportRules, type VisaProgramListing } from '@/lib/nomads/types';
 import { useNomadData, useNomadQuery } from './hooks';
-import { buttonStyle, EmptyResults, FilterSelect, inputStyle, NomadPanel, SourceNote, TableFrame, tableStyle } from './ui';
+import { buttonStyle, EmptyResults, FilterSelect, inputStyle, NomadPanel, TableFrame, tableStyle } from './ui';
 import { CountryIdentity } from './city-identity';
 
 const PassportMap = dynamic(() => import('./passport-map'), { ssr: false, loading: () => <div role="status" className="flex min-h-56 items-center justify-center rounded-lg border bg-muted/20 text-sm text-muted-foreground sm:min-h-96">Loading map...</div> });
@@ -36,7 +36,6 @@ function Programs({ programs }: { programs: VisaProgramListing[] }) {
         {(program.fee || program.taxNotes) && <details><summary className="min-h-11 cursor-pointer py-3 text-xs font-medium">Additional program details</summary>{program.fee && <p className="mt-2 text-xs leading-relaxed">Fee reference: {program.fee}</p>}{program.taxNotes && <p className="mt-2 text-xs leading-relaxed text-muted-foreground">{program.taxNotes}</p>}</details>}
       </VisaCard>
     </article>; })}</div> : <EmptyResults onReset={reset}>No programs match these filters.</EmptyResults>}
-    <SourceNote>Approximate USD amounts are not live exchange-rate conversions. Some programs use annual income, savings or other eligibility tests; a missing monthly amount does not mean there are no financial requirements.</SourceNote>
   </>;
 }
 
@@ -55,9 +54,8 @@ function PassportChecker({ countries }: { countries: PassportCountry[] }) {
     {rules && <>
       <div id="passport-map" className="mb-6"><PassportMap key={rules.passport} rules={rules} home={selected?.iso || null} /></div>
       <p className="mb-4 text-sm text-muted-foreground" aria-live="polite">{filtered.length} destinations<span className="sr-only"> for {rules.passport} passport holders</span></p>
-      {filtered.length ? <TableFrame label="Passport entry references"><table className={tableStyle}><caption className="sr-only">Entry references for {rules.passport} passport holders</caption><thead><tr><th scope="col">Destination</th><th scope="col">Entry reference</th><th scope="col">Stay reference</th></tr></thead><tbody>{filtered.map(item => <tr key={item.name}><th scope="row" className="!bg-transparent !text-sm !text-foreground"><CountryIdentity name={item.name} code={item.iso} /></th><td>{ENTRY_RULES[item.rule.t].label}</td><td>{item.rule.d > 0 ? `${item.rule.d} days` : 'Not specified'}</td></tr>)}</tbody></table></TableFrame> : <EmptyResults onReset={() => update({ destination: null, entry: null })}>No destinations match these filters.</EmptyResults>}
+      {filtered.length ? <TableFrame label="Passport entry references"><table className={tableStyle}><caption className="sr-only">Visitor entry for {rules.passport} passport holders</caption><thead><tr><th scope="col">Destination</th><th scope="col">Visitor entry</th><th scope="col">Stay reference</th></tr></thead><tbody>{filtered.map(item => <tr key={item.name}><th scope="row" className="!bg-transparent !text-sm !text-foreground"><CountryIdentity name={item.name} code={item.iso} /></th><td>{ENTRY_RULES[item.rule.t].label}</td><td>{item.rule.d > 0 ? `${item.rule.d} days` : 'Not specified'}</td></tr>)}</tbody></table></TableFrame> : <EmptyResults onReset={() => update({ destination: null, entry: null })}>No destinations match these filters.</EmptyResults>}
     </>}
-    <SourceNote>These references cover short-visit entry conditions for ordinary passports. Tourist entry does not automatically allow remote work or residence; use the program library for longer stays.</SourceNote>
   </>;
 }
 
