@@ -15,7 +15,7 @@ Places, Compare, Living costs, Visas & entry, and a grouped More menu.
 | `/cost-of-living` | Monthly cost categories and optional remaining take-home income |
 | `/city-rankings` | Internet benchmarks, safety and walkability reference scores |
 | `/climate` | Month, temperature, humidity and rainfall filters |
-| `/digital-nomad-visas` | 71 merged program references plus a 199-passport entry checker and optional map |
+| `/digital-nomad-visas` | 71 merged program references plus a 199-passport entry checker with an automatic map |
 | `/timezones` | Up to four cities, date-specific IANA offsets and quarter-hour work-window overlap |
 | `/schengen` | Inclusive unique-day counting for the rolling 90/180-day rule; optional local-device storage |
 | `/savings-runway` | Savings, reserve, income and spending assumptions across cities |
@@ -92,7 +92,8 @@ canonical routes. OpenAPI and `llms.txt` document the static data paths.
 - `/data/nomads/passports.json`: passport names, IDs and ISO codes.
 - `/data/nomads/passports/{id}.json`: references for only the selected passport.
 
-The Places page loads its map by default; list-only URLs skip it. The hub does not fetch the place directory or passport
+The Places page shows its map alongside the directory. Passport maps appear
+automatically after selecting a passport. The hub does not fetch the place directory or passport
 matrix; comparison downloads two city records. Images use locally generated
 WebPs with cropped 480px cards, 720-1024px heroes (never upscaled), and 128px table
 thumbnails. Width descriptors match the actual files. Unopened city/tool links do
@@ -257,8 +258,8 @@ Passport and the site's existing salary-calculator select.
 The places page opens in map view, with five multi-select category chips and
 counts, blue/purple/red numbered clusters, cluster expansion, individual place
 popups, directions, city-guide links, and compact zoom/reset controls. `type=`
-links still work; `types=` supports multiple categories, and `view=list` shows
-the card directory alone. Changing categories preserves the map view.
+links still work; `types=` supports multiple categories. Map and directory stay
+visible together, without a List/Map switch. Changing categories preserves the map view.
 
 The implementation reuses Leaflet and the site cards, with Supercluster for the
 point index and MapLibre's Leaflet adapter for CARTO's public Positron vector
@@ -314,3 +315,30 @@ Run the complete asset coverage audit after prebuild:
 ```sh
 npx tsx scripts/audit-nomad-assets.ts
 ```
+
+## Simpler controls and balanced layouts
+
+- Visa programs and Passport checker use the shared `ListingViewTabs` and
+  `ListingToolbar`. The view switch shares the search/filter row on desktop and
+  fills the available width on small screens. Arrow keys switch views without
+  losing focus or the URL-backed filters. Rankings uses the same pattern.
+- Passport maps are automatic, centered inside the shared site card, capped at
+  640px and responsive to the available width. There is no Show/Hide map button
+  or small-destinations caption. Category counts are integrated into the legend,
+  including a passport-country key and matching unavailable-data colors.
+- Places always shows its map and directory together. The redundant List/Map
+  toggle is removed; search, category filters, cluster zoom and Locate remain.
+- Comparison selectors share one row, with a compact swap control. The cost
+  difference is a plain summary instead of an extra panel, and table values are
+  right-aligned. Long country names no longer make city cards uneven.
+- Savings Runway groups the city filter with its other inputs. Schengen groups
+  the date control with two balanced counters and removes the repeated date
+  card. Timezone form controls align along their bottom edge.
+- Verification passed the production build, typecheck, all 14 Nomad suites and
+  the full 113-route browser suite. A 44-view review covered all tool pages and
+  representative city guides; another 15 visa views covered 320, 390, 768, 1024
+  and 1440px widths, including map centering and clipped-control checks.
+  No toolkit browser errors or page-level overflow were found.
+
+Current screenshots are in `.cache/nomads/design-simple-layout/` and
+`.cache/nomads/visa-toolbar/` (ignored local review artifacts).

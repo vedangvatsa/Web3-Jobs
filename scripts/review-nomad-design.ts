@@ -58,6 +58,7 @@ async function main() {
         if (route === '/nomads') await page.locator('[data-nomad-city]').first().waitFor();
         if (route === '/places') { await page.locator('main li:has(h2)').first().waitFor(); await page.locator('[data-basemap-ready="true"]').waitFor({ timeout: 45000 }); }
         if (route === '/compare-cities' || route.includes('tab=checker')) await page.locator('main tbody tr').first().waitFor();
+        if (route.includes('tab=checker')) await page.locator('#passport-map svg').waitFor();
         await page.evaluate(async dark => {
           await document.fonts.ready;
           document.documentElement.classList.toggle('dark', dark);

@@ -3,7 +3,7 @@
 import { useMemo, useRef, useState } from 'react';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
-import { BedDouble, Building2, Home, Hotel, List, Map as MapIcon, Users } from 'lucide-react';
+import { BedDouble, Building2, Home, Hotel, Users } from 'lucide-react';
 import { type CitySummary, type CompactPlaces, type PlaceCategory, COMPACT_CATEGORIES, decodePlaces, PLACE_CATEGORIES, cityPath } from '@/lib/nomads/types';
 import { useNomadData, useNomadQuery } from './hooks';
 import { buttonStyle, inputStyle, Field, FilterSelect, EmptyResults, SourceNote } from './ui';
@@ -25,7 +25,6 @@ export function PlacesDirectory({ cities }: { cities: CitySummary[] }) {
   const selectedCity = cities.some(city => city.slug === params.get('city')) ? params.get('city')! : '';
   const categoriesParam = params.get('types') ?? params.get('type');
   const selectedCategories = useMemo(() => categoriesParam === null || categoriesParam === '' ? COMPACT_CATEGORIES : categoriesParam.split(',').filter((value): value is PlaceCategory => COMPACT_CATEGORIES.includes(value as PlaceCategory)), [categoriesParam]);
-  const mapView = params.get('view') !== 'list';
   const city = cities.find(city => city.slug === selectedCity);
   const basePlaces = useMemo(() => allPlaces.filter(place => (!selectedCity || place.citySlug === selectedCity) && (!q || `${place.name} ${place.address} ${place.citySlug}`.toLowerCase().includes(q.toLowerCase().trim()))), [allPlaces, q, selectedCity]);
   const filtered = useMemo(() => basePlaces.filter(place => selectedCategories.includes(place.category)).sort((a, b) => a.name.localeCompare(b.name)), [basePlaces, selectedCategories]);
@@ -42,9 +41,8 @@ export function PlacesDirectory({ cities }: { cities: CitySummary[] }) {
       <Field label="City"><FilterSelect aria-label="Places city" value={selectedCity} onValueChange={value => filter({ city: value || null })}><option value="">All cities</option>{[...cities].sort((a, b) => a.name.localeCompare(b.name)).map(city => <option key={city.slug} value={city.slug}>{city.name}, {city.country}</option>)}</FilterSelect></Field>
       <Field label="Search places"><input type="search" aria-label="Search nomad places" placeholder="Name or address" className={inputStyle} value={q} onChange={event => filter({ q: event.target.value || null })} /></Field>
     </div>
-    <div className="my-4 flex flex-wrap items-center justify-between gap-3">
+    <div className="my-4">
       <p className="text-sm text-muted-foreground" aria-live="polite">{loading ? 'Loading directory…' : `${filtered.length.toLocaleString('en-US')} places${city ? ` in ${city.name}` : ''}`}{city && <Link href={cityPath(city.slug)} prefetch={false} className="ml-3 font-medium text-primary hover:underline">City guide ↗</Link>}</p>
-      <div className="flex gap-2"><button className={cn(buttonStyle, !mapView && 'bg-muted')} aria-pressed={!mapView} onClick={() => update({ view: 'list' })}><List className="h-4 w-4" aria-hidden />List</button><button className={cn(buttonStyle, mapView && 'bg-muted')} aria-pressed={mapView} onClick={() => update({ view: null })}><MapIcon className="h-4 w-4" aria-hidden />Map</button></div>
     </div>
     <div className="mb-4 grid grid-cols-2 gap-2 sm:flex sm:flex-wrap" role="group" aria-label="Place categories">
       {COMPACT_CATEGORIES.map(category => {
@@ -54,9 +52,9 @@ export function PlacesDirectory({ cities }: { cities: CitySummary[] }) {
       {selectedCategories.length !== COMPACT_CATEGORIES.length && <button className="min-h-11 px-2 text-xs font-medium underline underline-offset-4" onClick={() => filter({ type: null, types: null })}>Show all types</button>}
     </div>
     {error ? <div role="alert" className="rounded-lg border p-8 text-center"><p>We couldn’t load the places directory.</p><button className={cn(buttonStyle, 'mt-4')} onClick={retry}>Try again</button></div> : loading ? <div className="h-72 animate-pulse rounded-lg bg-muted" /> : <>
-      {mapView && <div ref={mapContainer} className="mb-5 scroll-mt-28"><PlacesMap places={filtered} cities={cities} selectedCity={selectedCity} focused={filtered.find(place => place.id === focused?.id)} focusRequest={focused?.request} /></div>}
+      <div ref={mapContainer} className="mb-5 scroll-mt-28"><PlacesMap places={filtered} cities={cities} selectedCity={selectedCity} focused={filtered.find(place => place.id === focused?.id)} focusRequest={focused?.request} /></div>
       {filtered.length ? <ul className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">{filtered.slice(0, limit).map(place => <li key={place.id} className="min-w-0"><PlaceCard place={place} cityName={cities.find(city => city.slug === place.citySlug)?.name} onLocate={() => {
-        update({ city: place.citySlug, view: 'map' });
+        update({ city: place.citySlug, view: null });
         setFocused(previous => ({ id: place.id, request: (previous?.request || 0) + 1 }));
         requestAnimationFrame(() => mapContainer.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }));
       }} /></li>)}</ul> : <EmptyResults onReset={reset}>No places match these filters.</EmptyResults>}

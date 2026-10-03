@@ -176,16 +176,16 @@ async function main() {
     await select('Places city', 'lisbon');
     for (const category of ['coliving', 'hostel', 'apartment', 'guesthouse']) await page.locator(`[data-place-category="${category}"]`).click();
     await expect(page.getByText(`${getNomadCity('lisbon')!.spaces.coworking} places in Lisbon`, { exact: false })).toBeVisible();
-    await page.getByRole('button', { name: 'Map', exact: true }).click();
     await expect(page.locator('.leaflet-container')).toBeVisible();
+    await expect(page.getByRole('button', { name: /^(List|Map)$/ })).toHaveCount(0);
     await expect(page.locator('.leaflet-container')).toHaveAttribute('data-basemap', 'carto-vector');
     await expect(page.locator('.leaflet-container')).toHaveAttribute('data-basemap-ready', 'true', { timeout: 45000 });
     await expect(page.locator('canvas.maplibregl-canvas')).toBeVisible();
     await page.screenshot({ path: '.cache/nomads/places-map.png' });
     for (let i = 0; i < 3; i++) {
-      await page.getByRole('button', { name: 'List', exact: true }).click();
+      await page.getByRole('navigation', { name: 'Nomad toolkit', exact: true }).getByRole('link', { name: 'Cities', exact: true }).click();
       await expect(page.locator('.leaflet-container')).toHaveCount(0);
-      await page.getByRole('button', { name: 'Map', exact: true }).click();
+      await page.getByRole('navigation', { name: 'Nomad toolkit', exact: true }).getByRole('link', { name: 'Places', exact: true }).click();
       await expect(page.locator('.leaflet-container')).toBeVisible();
     }
     const firstPlace = page.locator('[data-nomad-place]').first();
@@ -209,7 +209,18 @@ async function main() {
     await expect(page.locator('main article')).toContainText('🇵🇹');
     await page.locator('main article summary').click();
     await expect(page.locator('main article details')).toHaveAttribute('open', '');
-    await page.getByRole('button', { name: 'Passport checker', exact: true }).click();
+    const programTab = page.getByRole('tab', { name: 'Visa programs', exact: true });
+    const checkerTab = page.getByRole('tab', { name: 'Passport checker', exact: true });
+    await programTab.focus();
+    await page.keyboard.press('ArrowRight');
+    await expect(checkerTab).toHaveAttribute('aria-selected', 'true');
+    await expect(checkerTab).toBeFocused();
+    await expect(page.getByRole('searchbox', { name: 'Search destinations' })).toBeDisabled();
+    await page.keyboard.press('ArrowLeft');
+    await expect(programTab).toHaveAttribute('aria-selected', 'true');
+    await expect(page.getByRole('searchbox', { name: 'Search visa programs' })).toHaveValue('Portugal');
+    await expect(page.locator('main article')).toHaveCount(1);
+    await checkerTab.click();
     await stableDropdown(page.getByRole('combobox', { name: 'Your passport', exact: true }));
     let failPassport = true;
     await page.route('**/data/nomads/passports/india.json', route => failPassport ? (failPassport = false, route.fulfill({ status: 503, body: 'Unavailable' })) : route.continue());
@@ -220,10 +231,13 @@ async function main() {
     assert.equal(requests.some(url => url.includes('visa-requirements.json') || url.includes('passport-rules.json')), false);
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Japan');
     await expect(page.locator('main tbody tr')).toHaveCount(1);
-    await page.getByRole('button', { name: 'Show entry map' }).click();
     await expect(page.locator('#passport-map svg')).toBeVisible();
+    await expect(page.getByRole('button', { name: /Show entry map|Hide map/ })).toHaveCount(0);
+    await expect(page.getByText('Some small destinations are absent from the map; all available references are in the table.', { exact: true })).toHaveCount(0);
+    const mapBox = await page.locator('#passport-map').boundingBox(), svgBox = await page.locator('#passport-map svg').boundingBox();
+    assert.ok(mapBox && svgBox && Math.abs(mapBox.x + mapBox.width / 2 - svgBox.x - svgBox.width / 2) < 2, 'Passport map is not centered');
+    await expect(page.getByRole('list', { name: 'Entry categories' }).getByText('Passport country', { exact: true })).toBeVisible();
     await page.screenshot({ path: '.cache/nomads/passport-desktop.png' });
-    await page.getByRole('button', { name: 'Hide map' }).click();
     await page.reload();
     await expect(page.getByLabel('Your passport', { exact: true })).toHaveAttribute('data-value', 'india');
     await expect(page.locator('main tbody tr')).toHaveCount(1);
@@ -280,7 +294,7 @@ async function main() {
     await page.getByRole('button', { name: 'Clear filters', exact: true }).click();
     await expect(page.locator('main a:has(h3)')).toHaveCount(59);
     await go('/city-rankings');
-    await page.getByRole('button', { name: 'Walkability', exact: true }).click();
+    await page.getByRole('tab', { name: 'Walkability', exact: true }).click();
     await expect(page.getByRole('columnheader', { name: 'Car-free living' })).toBeVisible();
     await go('/timezones');
     await page.getByLabel('Meeting date').fill('2026-07-01');
@@ -293,7 +307,7 @@ async function main() {
       const key = new URL(page.url()).searchParams;
       if (route.startsWith('/nomads?')) await expect(page.locator('[data-nomad-city]')).toHaveCount(1);
       else if (route.includes('/places?')) await expect(page.getByRole('combobox', { name: 'Places city' })).toHaveAttribute('data-value', 'lisbon');
-      else if (route.includes('/city-rankings?')) await expect(page.getByRole('button', { name: 'Safety', exact: true })).toHaveAttribute('aria-pressed', 'true');
+      else if (route.includes('/city-rankings?')) await expect(page.getByRole('tab', { name: 'Safety', exact: true })).toHaveAttribute('aria-selected', 'true');
       else if (route.includes('/climate?')) await expect(page.getByLabel('Month', { exact: true })).toHaveAttribute('data-value', key.get('month')!);
       else if (route.includes('/cost-of-living?')) await expect(page.locator('tbody tr')).toHaveCount(1);
       else await expect(page.getByText('UTC+5:30', { exact: true })).toBeVisible();

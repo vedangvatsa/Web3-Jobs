@@ -37,11 +37,11 @@ export function CompareCities({ cities, date }: { cities: CitySummary[]; date: s
     { label: `UTC offset on ${date}`, value: city => formatOffset(timezoneOffsetMinutes(city.timezone, new Date(`${date}T12:00:00Z`))) },
   ];
   return <div>
-    <NomadPanel className="mb-5 grid items-end gap-4 sm:grid-cols-[1fr_auto_1fr]">
+    <div className="mb-5 grid grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] items-end gap-2 sm:gap-3">
       <CitySelect label="First city" cities={cities} value={a} onChange={value => update({ a: value, ...(value === b && { b: a }) })} />
-      <button className={buttonStyle} aria-label="Swap cities" onClick={() => update({ a: b, b: a })}><ArrowLeftRight className="h-4 w-4" aria-hidden /><span className="sm:sr-only">Swap cities</span></button>
+      <button className={`${buttonStyle} w-11 px-0`} aria-label="Swap cities" title="Swap cities" onClick={() => update({ a: b, b: a })}><ArrowLeftRight className="h-4 w-4" aria-hidden /></button>
       <CitySelect label="Second city" cities={cities} value={b} exclude={a} onChange={value => update({ b: value })} />
-    </NomadPanel>
+    </div>
     <div className="mb-5 flex flex-wrap items-center justify-between gap-3"><p className="text-sm text-muted-foreground">Monthly reference estimates in USD.</p><button className={buttonStyle} onClick={copyComparison}>{isCopied ? <Check className="h-4 w-4" aria-hidden /> : <Copy className="h-4 w-4" aria-hidden />}{isCopied ? 'Link copied' : 'Copy comparison link'}</button></div>
     {copyError === sharePath && <p role="status" className="mb-5 text-sm text-muted-foreground">Copying was unavailable. You can copy this comparison’s URL from your browser’s address bar.</p>}
     {first.error || second.error ? <NomadPanel role="alert"><p>We couldn’t load a city’s details.</p><button className={buttonStyle} onClick={() => { first.retry(); second.retry(); }}>Try again</button></NomadPanel> : !pair[0] || !pair[1] ? <div className="h-96 animate-pulse rounded-xl bg-muted" aria-label="Loading comparison" /> : <>
@@ -49,8 +49,8 @@ export function CompareCities({ cities, date }: { cities: CitySummary[]; date: s
         <CityImage name={city!.name} country={city!.country} src={city!.image} thumbnail={city!.thumbnail} sizes="(min-width: 1152px) 552px, 50vw" className="aspect-auto h-24 sm:h-40" />
         <div className="p-3 sm:p-4"><h2 className="break-words text-base font-semibold sm:text-xl">{city!.name}</h2><p className="mt-1 text-xs text-muted-foreground"><CountryIdentity name={city!.country} code={city!.countryCode} /></p><p className="mt-3 text-lg font-semibold tabular-nums sm:text-2xl">{money(city!.cost.monthly_total)}<span className="mt-0.5 block text-xs font-normal text-muted-foreground">per month est.</span></p></div>
       </Link>)}</div>
-      <NomadPanel className="mb-5 bg-muted/20"><h2 className="font-semibold">The cost difference</h2><p className="mt-2 text-sm leading-relaxed text-muted-foreground">{pair[0].cost.monthly_total === pair[1].cost.monthly_total ? 'Both cities have the same monthly estimate in this dataset.' : `${pair[0].name} is ${money(Math.abs(pair[0].cost.monthly_total - pair[1].cost.monthly_total))} ${pair[0].cost.monthly_total > pair[1].cost.monthly_total ? 'more' : 'less'} per month than ${pair[1].name} in the source estimates.`} Use the breakdown below to see where that difference comes from.</p></NomadPanel>
-      <TableFrame label="City comparison"><table className={tableStyle}><caption className="sr-only">Compare {pair[0].name} and {pair[1].name}</caption><thead><tr><th scope="col">Measure</th>{pair.map(city => <th scope="col" key={city!.slug}>{city!.name}</th>)}</tr></thead><tbody>{rows.map(row => <tr key={row.label}><th scope="row">{row.label}</th>{pair.map(city => <td className="tabular-nums" key={city!.slug}>{row.value(city!)}</td>)}</tr>)}</tbody></table></TableFrame>
+      <p className="mb-5 text-sm leading-relaxed text-muted-foreground">{pair[0].cost.monthly_total === pair[1].cost.monthly_total ? 'Both cities have the same monthly estimate in this dataset.' : `${pair[0].name} is ${money(Math.abs(pair[0].cost.monthly_total - pair[1].cost.monthly_total))} ${pair[0].cost.monthly_total > pair[1].cost.monthly_total ? 'more' : 'less'} per month than ${pair[1].name} in the source estimates.`}</p>
+      <TableFrame label="City comparison"><table className={tableStyle}><caption className="sr-only">Compare {pair[0].name} and {pair[1].name}</caption><thead><tr><th scope="col">Measure</th>{pair.map(city => <th scope="col" className="text-right" key={city!.slug}>{city!.name}</th>)}</tr></thead><tbody>{rows.map(row => <tr key={row.label}><th scope="row">{row.label}</th>{pair.map(city => <td className="text-right tabular-nums" key={city!.slug}>{row.value(city!)}</td>)}</tr>)}</tbody></table></TableFrame>
     </>}
     <SourceNote>Living-cost estimates and reference scores share the same source snapshot. Timezone offsets use IANA rules for the displayed date; they can change with daylight saving.</SourceNote>
   </div>;

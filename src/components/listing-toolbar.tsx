@@ -1,6 +1,6 @@
 'use client';
 
-import type { ReactNode } from 'react';
+import type { ComponentProps, ReactNode } from 'react';
 import { Search } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { cn } from '@/lib/utils';
@@ -23,11 +23,12 @@ export type ListingToolbarProps = {
   searchPlaceholder: string;
   searchAriaLabel: string;
   selects?: ListingSelectFilter[];
+  leading?: ReactNode;
   trailing?: ReactNode;
   resultCount?: number | null;
   searchEndAdornment?: ReactNode;
   searchWrapperProps?: Record<string, string>;
-  inputProps?: Record<string, string>;
+  inputProps?: ComponentProps<typeof Input> & { [name: `data-${string}`]: string | number | boolean | undefined };
 };
 
 export function ListingToolbar({
@@ -36,6 +37,7 @@ export function ListingToolbar({
   searchPlaceholder,
   searchAriaLabel,
   selects = [],
+  leading,
   trailing,
   resultCount,
   searchEndAdornment,
@@ -46,7 +48,8 @@ export function ListingToolbar({
 
   return (
     <div className="mb-6 space-y-2">
-      <div className="flex flex-col md:flex-row gap-2.5 items-stretch md:items-center">
+      <div className={leading ? cn('grid grid-cols-1 items-center gap-2.5', hasSideControls ? 'md:grid-cols-[minmax(0,1fr)_auto] lg:grid-cols-[auto_minmax(0,1fr)_auto]' : 'lg:grid-cols-[auto_minmax(0,1fr)]') : 'flex flex-col md:flex-row gap-2.5 items-stretch md:items-center'}>
+        {leading && <div className={cn('min-w-0', hasSideControls && 'md:col-span-2 lg:col-span-1')}>{leading}</div>}
         <div
           className="relative flex-1 min-w-0"
           role="search"
@@ -70,7 +73,7 @@ export function ListingToolbar({
         </div>
 
         {hasSideControls ? (
-          <div className="flex w-full items-center gap-2 md:w-auto md:shrink-0">
+          <div className="flex w-full min-w-0 items-center gap-2 md:w-auto md:shrink-0">
             {selects.map((select) => (
               <select
                 key={select.label}
