@@ -642,11 +642,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Hut 8 is hiring\nScheduler\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-03T11:33:44.798Z",
           "containerId": "17916082866461009",
-          "postId": "18095550962406327"
+          "postId": "18095550962406327",
+          "url": "https://www.instagram.com/reel/DeB9lNCCtso/"
         }
       }
     }
