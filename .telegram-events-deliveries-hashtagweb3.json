@@ -645,5 +645,53 @@
     "slotKey": "2026-10-03:afternoon",
     "messageId": 155574,
     "sentAt": "2026-10-03T11:32:01.998Z"
+  },
+  "3589587e-2e23-41f6-9974-35dfaf7e9f0f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-03T19:31:37.644Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-evt-1wE8LVXclyqhzEW",
+        "slug": "web3tv-interview",
+        "name": "Web3TV Interview Feature With Singapore Blockchain Week",
+        "startDate": "2026-10-05T01:00:00.000Z",
+        "keys": [
+          "token2049-evt-1we8lvxclyqhzew",
+          "page:web3tv-interview:2026-10-05",
+          "luma:evt-1we8lvxclyqhzew",
+          "luma-url:/dd8728yc",
+          "event:web3tvinterviewfeaturewithsingaporeblockchainweek:2026-10-05:singapore"
+        ]
+      },
+      {
+        "id": "luma-batch-ddBABlCogatqD7p",
+        "slug": "bcs2026autumn",
+        "name": "Blockchain Summit 2026 Autumn",
+        "startDate": "2026-10-05T01:00:00.000Z",
+        "keys": [
+          "luma-batch-ddbablcogatqd7p",
+          "page:bcs2026autumn:2026-10-05",
+          "luma:evt-ddbablcogatqd7p",
+          "luma-url:/bcs2026autumn",
+          "event:blockchainsummit2026autumn:2026-10-05:chiyoda"
+        ]
+      },
+      {
+        "id": "luma-batch-74nllBgJJFrnDdQ",
+        "slug": "dpdxyo2d",
+        "name": "Solana Mini Hacker House x 021Lab - Singapore 2026",
+        "startDate": "2026-10-05T02:00:00.000Z",
+        "keys": [
+          "luma-batch-74nllbgjjfrnddq",
+          "page:dpdxyo2d:2026-10-05",
+          "luma:evt-74nllbgjjfrnddq",
+          "luma-url:/dpdxyo2d",
+          "event:solanaminihackerhousex021labsingapore2026:2026-10-05:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-03:evening"
   }
 }
