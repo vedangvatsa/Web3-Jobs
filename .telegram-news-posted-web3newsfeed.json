@@ -686,6 +686,9 @@
   "https://hashtagweb3.com/evernorth-listing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+  "https://hashtagweb3.com/hana-bond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+  "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1962,6 +1965,12 @@
   "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
   "Ethereum Tool Allows Anonymous AI Model Queries",
   "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+  "Hana Bank Issues $100M Digital Bond on Euroclear",
+  "Hana Bank Issues $100M Digital Bond on Euroclear Blockchain",
+  "BNY Mellon discusses digital asset infrastructure partnership with Kraken",
+  "BNY in talks with Kraken parent Payward over infrastructure partnership",
+  "Chainalysis Traces $387 Million Bitget Hack to North Korea",
+  "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2177,5 +2186,8 @@
   "fp:against|bitpanda|build|call|ceo|christian|european|executiv|faith|firm",
   "fp:473m|approv|armada|combin|evernorth|list|merger|nasdaq|october8|plan",
   "fp:appoint|clayton|czar|development|executiv|expect|involv|jay|manag|may",
-  "fp:allow|anonymous|are|cryptographic|identity|let|now|pay|proof|query"
+  "fp:allow|anonymous|are|cryptographic|identity|let|now|pay|proof|query",
+  "fp:100m|bank|blockchain|bond|day|digital|euroclear|featur|financial|fiv",
+  "fp:asset|bank|bny|custody|digital|discuss|exchang|infrastructur|kraken|mellon",
+  "fp:387m|annual|back|bitget|blockchain|chainalysis|four|fund|hack|haul"
 ]

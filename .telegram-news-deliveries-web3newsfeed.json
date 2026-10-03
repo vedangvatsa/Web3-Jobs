@@ -600,7 +600,7 @@
     "sentAt": "2026-10-03T11:34:52.396Z"
   },
   "28bf5636-3e0b-450a-885a-0df57237594a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-03T19:33:42.899Z",
     "stories": [
       {
@@ -629,6 +629,8 @@
         "originalTitle": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea"
       }
     ],
-    "slotKey": "2026-10-03:evening"
+    "slotKey": "2026-10-03:evening",
+    "messageId": 65725,
+    "sentAt": "2026-10-03T19:33:44.990Z"
   }
 }
