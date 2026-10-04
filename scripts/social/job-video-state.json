@@ -770,10 +770,11 @@
           "url": "https://www.youtube.com/watch?v=YQ6UBMQHTuo"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Platform Engineer II, Foundation at Chainalysis. New York Office.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-04T03:31:54.584Z",
-          "postId": "6ac1c8abaa79e514b90a2e39"
+          "postId": "6ac1c8abaa79e514b90a2e39",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692650241715129632"
         }
       }
     },
