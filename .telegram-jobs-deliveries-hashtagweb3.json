@@ -552,7 +552,7 @@
     "sentAt": "2026-10-03T19:32:17.777Z"
   },
   "19605ce6-9214-4df1-9413-d391eec5e410": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-04T03:52:57.014Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -593,6 +593,8 @@
       }
     ],
     "message": "• Kraken is hiring <a href=\"https://hashtagweb3.com/eng324?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/eng354?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Trading Desk Operations Engineer</a>\n• Gemini is hiring <a href=\"https://hashtagweb3.com/product145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Designer</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/product259?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager / Director</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/ues?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">User Escalation Specialist</a>",
-    "slotKey": "2026-10-04:morning"
+    "slotKey": "2026-10-04:morning",
+    "messageId": 155588,
+    "sentAt": "2026-10-04T03:52:59.326Z"
   }
 }
