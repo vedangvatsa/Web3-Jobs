@@ -617,7 +617,7 @@
     "sentAt": "2026-10-04T03:53:53.005Z"
   },
   "ec631394-7c1d-45b4-9d6f-ccee33510cff": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-04T11:34:15.922Z",
     "stories": [
       {
@@ -631,6 +631,8 @@
         "originalTitle": "Meta wants your next gadget to be Muse-infused"
       }
     ],
-    "slotKey": "2026-10-04:afternoon"
+    "slotKey": "2026-10-04:afternoon",
+    "messageId": 193317,
+    "sentAt": "2026-10-04T11:34:18.556Z"
   }
 }
