@@ -669,6 +669,8 @@
   "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
   "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
   "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+  "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+  "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1790,6 +1792,10 @@
   "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
   "Meta releases Muse model code as open source",
   "Meta wants your next gadget to be Muse-infused",
+  "Trump launches Super Intelligence Force AI task force",
+  "Trump unveils his new Super Intelligence Force",
+  "Blackstone's Jas Khaira to Speak at TechCrunch Disrupt 2026",
+  "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1976,5 +1982,7 @@
   "fp:argu|art|criticiz|differ|fan|fundamentally|generat|human|imag|lack",
   "fp:advocat|authority|bypass|establish|expertis|fact|fre|liberat|medical|politician",
   "fp:100|299|cost|devic|due|expensiv|increas|mor|now|nvidia",
-  "fp:cod|developer|fre|gadget|generation|hardwar|imag|infus|integration|meta"
+  "fp:cod|developer|fre|gadget|generation|hardwar|imag|infus|integration|meta",
+  "fp:address|aim|concern|federal|forc|his|national|safety|security|super",
+  "fp:address|blackston|build|builder|disrupt2026|event|executiv|futur|generation|giant"
 ]
