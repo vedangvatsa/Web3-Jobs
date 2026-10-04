@@ -700,5 +700,36 @@
     "slotKey": "2026-10-04:afternoon",
     "messageId": 65728,
     "sentAt": "2026-10-04T11:35:46.046Z"
+  },
+  "ddfcf8eb-4931-474f-9e30-d156a2f9393b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T19:32:55.953Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC Commissioner Hester Peirce to Resign on October 2",
+        "summary": "Peirce submitted her resignation after an eight-year tenure, which included leading the agency's Crypto Task Force.",
+        "link": "https://hashtagweb3.com/peirce-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Commissioner Hester Peirce to Leave Post on Oct. 2"
+      },
+      {
+        "index": -1,
+        "headline": "StarkWare cuts estimated quantum-safe Bitcoin transaction costs",
+        "summary": "A GPU challenge reduced experimental transaction costs to $67, but production testing and access limits remain unresolved.",
+        "link": "https://hashtagweb3.com/quantum-cost?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "StarkWare reports 79% cut in estimated quantum-safe Bitcoin compute cost"
+      },
+      {
+        "index": -1,
+        "headline": "Grayscale Schedules 3-for-1 Share Split for Zcash ETF",
+        "summary": "The September 29 split will lower share prices after the fund reached nearly $1 billion in assets.",
+        "link": "https://hashtagweb3.com/zcash-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Grayscale Sets 3-for-1 Split for Zcash ETF"
+      }
+    ],
+    "slotKey": "2026-10-04:evening"
   }
 }
