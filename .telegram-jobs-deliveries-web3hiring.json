@@ -1194,5 +1194,49 @@
     "slotKey": "2026-10-04:morning",
     "messageId": 102,
     "sentAt": "2026-10-04T03:52:53.082Z"
+  },
+  "888250bd-5b65-42cc-abcc-0ccc3c796094": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T11:32:11.677Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "0d371778-f7d7-4da5-a9ec-48c850294e43",
+        "slug": "manager765",
+        "url": "https://hashtagweb3.com/manager765?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Account Manager"
+      },
+      {
+        "key": "8230276",
+        "slug": "ops74",
+        "url": "https://hashtagweb3.com/ops74?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Strategy and Operations Analyst"
+      },
+      {
+        "key": "3150603e-f25c-474b-96d3-685c3bb224b9",
+        "slug": "engineer36",
+        "url": "https://hashtagweb3.com/engineer36?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Superstate",
+        "title": "Staff Full-Stack Engineer"
+      },
+      {
+        "key": "200679993-0836",
+        "slug": "pm18",
+        "url": "https://hashtagweb3.com/pm18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Apple",
+        "title": "Apple Pay Financial Product Strategy Lead"
+      },
+      {
+        "key": "8d55c448-4a6a-4fac-954e-db8f7fb14d46",
+        "slug": "marketing87",
+        "url": "https://hashtagweb3.com/marketing87?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Spruce",
+        "title": "Sr. GTM Marketing"
+      }
+    ],
+    "message": "• Rain is hiring <a href=\"https://hashtagweb3.com/manager765?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Account Manager</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/ops74?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Strategy and Operations Analyst</a>\n• Superstate is hiring <a href=\"https://hashtagweb3.com/engineer36?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Staff Full-Stack Engineer</a>\n• Apple is hiring <a href=\"https://hashtagweb3.com/pm18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Apple Pay Financial Product Strategy Lead</a>\n• Spruce is hiring <a href=\"https://hashtagweb3.com/marketing87?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sr. GTM Marketing</a>",
+    "slotKey": "2026-10-04:afternoon"
   }
 }
