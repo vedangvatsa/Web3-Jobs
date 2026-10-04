@@ -132306,5 +132306,1051 @@
     "company": "Covalent",
     "link": "https://covalenthq.freshteam.com/jobs/Ij3IAU4XDw4f",
     "retiredReason": "application-closed"
+  },
+  "fs14": {
+    "id": "8214616",
+    "link": "https://stripe.com/jobs/search?gh_jid=8214616",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering"
+  },
+  "associate89": {
+    "id": "pwc-digital-assurance-digital-assets-senior-associate",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assurance---Transparency---Digital-Assets-Senior-Associate_758287WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "Digital Assurance & Transparency - Digital Assets Senior Associate"
+  },
+  "associate90": {
+    "id": "pwc-technology-consulting-associate-digital-assets",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets-Crypto-BlockChain-Senior-Associate_758286WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "Technology Consulting Associate (Digital Assets & Payments)"
+  },
+  "manager658": {
+    "id": "pwc-bcm-tax-manager-fintech-crypto",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Banking---Capital-Markets-Tax-Manager_725612WD-2?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "Banking & Capital Markets Tax Manager (FinTech & Crypto)"
+  },
+  "manager655": {
+    "id": "pwc-awm-assurance-digital-assets-manager",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/AWM---Assurance---Digital-Assets-Manager_739437WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "AWM - Assurance - Digital Assets Manager"
+  },
+  "manager656": {
+    "id": "pwc-awm-digital-assets-senior-manager",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/CA-San-Francisco/BCM---Assurance---Digital-Assets-Senior-Manager_739439WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "BCM - Assurance - Digital Assets Senior Manager"
+  },
+  "manager657": {
+    "id": "pwc-bcm-assurance-digital-assets-manager",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/CA-San-Francisco/BCM---Assurance---Digital-Assets-Manager_739440WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "BCM - Assurance - Digital Assets Manager"
+  },
+  "manager654": {
+    "id": "pwc-ai-blockchain-architect-senior-manager",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/FL-Tampa/AIT---AI-Blockchain-Architect-Senior-Manager_738313WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "AI / Blockchain Architect Senior Manager"
+  },
+  "manager659": {
+    "id": "pwc-digital-assets-crypto-manager-ny",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets--Crypto--Manager_757458WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "Digital Assets Manager (Technology)"
+  },
+  "manager660": {
+    "id": "pwc-digital-assets-senior-manager-tech",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets-Crypto-BlockChain-Senior-Manager_758288WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "Digital Assets Senior Manager (Technology)"
+  },
+  "digital": {
+    "id": "pwc-digital-assets-crypto-director",
+    "link": "https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets-Crypto-BlockChain-Director_758306WD?source=US_EXP_Careers",
+    "company": "PwC",
+    "title": "Digital Assets & Crypto Director (Consulting & Strategy)"
+  },
+  "manager653": {
+    "id": "kappa-lab-bd-manager-292292",
+    "link": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/business-development-manager-market-making-292292/",
+    "company": "Kappa Lab",
+    "title": "Business Development Manager - Market Making"
+  },
+  "operations151": {
+    "id": "tangem-transport-operations-expert",
+    "link": "https://careers.tangem.com/transport-operations-expert",
+    "company": "Tangem",
+    "title": "Transport Operations Expert"
+  },
+  "associate93": {
+    "id": "tangem-team-assistant",
+    "link": "https://careers.tangem.com/team-assistant",
+    "company": "Tangem",
+    "title": "Team Assistant"
+  },
+  "compliance176": {
+    "id": "tangem-tax-compliance-reporting-specialist",
+    "link": "https://careers.tangem.com/tax-compliance-reporting-specialist",
+    "company": "Tangem",
+    "title": "Tax Compliance Reporting Specialist"
+  },
+  "tax7": {
+    "id": "tangem-tax-advisor",
+    "link": "https://careers.tangem.com/tax-advisor",
+    "company": "Tangem",
+    "title": "Tax Advisor"
+  },
+  "marketing242": {
+    "id": "tangem-system-analyst-invest-growth",
+    "link": "https://careers.tangem.com/system-analyst-invest-growth",
+    "company": "Tangem",
+    "title": "System Analyst Invest Growth"
+  },
+  "system": {
+    "id": "tangem-system-administrator",
+    "link": "https://careers.tangem.com/system-administrator",
+    "company": "Tangem",
+    "title": "System Administrator"
+  },
+  "developer52": {
+    "id": "tangem-swift-blockchain-developer",
+    "link": "https://careers.tangem.com/swift-blockchain-developer",
+    "company": "Tangem",
+    "title": "Swift Blockchain Developer"
+  },
+  "support2": {
+    "id": "tangem-support-specialist-l2-javascript",
+    "link": "https://careers.tangem.com/support-specialist-l2-javascript",
+    "company": "Tangem",
+    "title": "Support Specialist L2 Javascript"
+  },
+  "manager679": {
+    "id": "tangem-strategy-development-manager-associate",
+    "link": "https://careers.tangem.com/strategy-development-manager-associate",
+    "company": "Tangem",
+    "title": "Strategy Development Manager Associate"
+  },
+  "manager678": {
+    "id": "tangem-special-projects-manager-brand-comms",
+    "link": "https://careers.tangem.com/special-projects-manager-brand-comms",
+    "company": "Tangem",
+    "title": "Special Projects Manager Brand Comms"
+  },
+  "manager677": {
+    "id": "tangem-social-media-manager",
+    "link": "https://careers.tangem.com/social-media-manager",
+    "company": "Tangem",
+    "title": "Social Media Manager"
+  },
+  "designer43": {
+    "id": "tangem-senior-uiux-designer",
+    "link": "https://careers.tangem.com/senior-uiux-designer",
+    "company": "Tangem",
+    "title": "Senior Uiux Designer"
+  },
+  "manager676": {
+    "id": "tangem-senior-treasury-liquidity-manager-ai-driven",
+    "link": "https://careers.tangem.com/senior-treasury-liquidity-manager-ai-driven",
+    "company": "Tangem",
+    "title": "Senior Treasury Liquidity Manager AI Driven"
+  },
+  "engineer958": {
+    "id": "tangem-senior-software-engineer-payment-solutions",
+    "link": "https://careers.tangem.com/senior-software-engineer-payment-solutions",
+    "company": "Tangem",
+    "title": "Senior Software Engineer Payment Solutions"
+  },
+  "engineer957": {
+    "id": "tangem-senior-smart-contract-engineer",
+    "link": "https://careers.tangem.com/senior-smart-contract-engineer",
+    "company": "Tangem",
+    "title": "Senior Smart Contract Engineer"
+  },
+  "recruiting102": {
+    "id": "tangem-senior-recruiter",
+    "link": "https://careers.tangem.com/senior-recruiter",
+    "company": "Tangem",
+    "title": "Senior Recruiter"
+  },
+  "qa60": {
+    "id": "tangem-senior-qa-mobile-engineer",
+    "link": "https://careers.tangem.com/senior-qa-mobile-engineer",
+    "company": "Tangem",
+    "title": "Senior QA Mobile Engineer"
+  },
+  "qa59": {
+    "id": "tangem-senior-qa-engineer-mobile-for-tangem-app-visa-app",
+    "link": "https://careers.tangem.com/senior-qa-engineer-mobile-for-tangem-app-visa-app",
+    "company": "Tangem",
+    "title": "Senior QA Engineer Mobile For Tangem App Visa App"
+  },
+  "fullstack60": {
+    "id": "tangem-senior-js-full-stack-developer",
+    "link": "https://careers.tangem.com/senior-js-full-stack-developer",
+    "company": "Tangem",
+    "title": "Senior Js Full Stack Developer"
+  },
+  "developer51": {
+    "id": "tangem-senior-javakotlin-developer",
+    "link": "https://careers.tangem.com/senior-javakotlin-developer",
+    "company": "Tangem",
+    "title": "Senior Javakotlin Developer"
+  },
+  "developer50": {
+    "id": "tangem-senior-ios-developer-swiftui",
+    "link": "https://careers.tangem.com/senior-ios-developer-swiftui",
+    "company": "Tangem",
+    "title": "Senior Ios Developer Swiftui"
+  },
+  "intern24": {
+    "id": "tangem-senior-general-counsel-international-remote",
+    "link": "https://careers.tangem.com/senior-general-counsel-international-remote",
+    "company": "Tangem",
+    "title": "Senior General Counsel International Remote"
+  },
+  "backend128": {
+    "id": "tangem-senior-backend-engineer",
+    "link": "https://careers.tangem.com/senior-backend-engineer",
+    "company": "Tangem",
+    "title": "Senior Backend Engineer"
+  },
+  "backend127": {
+    "id": "tangem-senior-backend-developer-e-commerce-platform",
+    "link": "https://careers.tangem.com/senior-backend-developer-e-commerce-platform",
+    "company": "Tangem",
+    "title": "Senior Backend Developer E Commerce Platform"
+  },
+  "backend126": {
+    "id": "tangem-senior-backend-developer",
+    "link": "https://careers.tangem.com/senior-backend-developer",
+    "company": "Tangem",
+    "title": "Senior Backend Developer"
+  },
+  "backend125": {
+    "id": "tangem-senior-backend",
+    "link": "https://careers.tangem.com/senior-backend",
+    "company": "Tangem",
+    "title": "Senior Backend"
+  },
+  "developer49": {
+    "id": "tangem-senior-android-developer",
+    "link": "https://careers.tangem.com/senior-android-developer",
+    "company": "Tangem",
+    "title": "Senior Android Developer"
+  },
+  "sales391": {
+    "id": "tangem-senior-accountant",
+    "link": "https://careers.tangem.com/senior-accountant",
+    "company": "Tangem",
+    "title": "Senior Accountant"
+  },
+  "sales390": {
+    "id": "tangem-sales-support-specialist",
+    "link": "https://careers.tangem.com/sales-support-specialist",
+    "company": "Tangem",
+    "title": "Sales Support Specialist"
+  },
+  "marketing241": {
+    "id": "tangem-regional-growth-manager-mexico",
+    "link": "https://careers.tangem.com/regional-growth-manager-mexico",
+    "company": "Tangem",
+    "title": "Regional Growth Manager Mexico"
+  },
+  "marketing240": {
+    "id": "tangem-regional-growth-manager-indonesiaphilippinesthailandvietnammalaysia",
+    "link": "https://careers.tangem.com/regional-growth-manager-indonesiaphilippinesthailandvietnammalaysia",
+    "company": "Tangem",
+    "title": "Regional Growth Manager Indonesiaphilippinesthailandvietnammalaysia"
+  },
+  "marketing239": {
+    "id": "tangem-regional-growth-manager-india",
+    "link": "https://careers.tangem.com/regional-growth-manager-india",
+    "company": "Tangem",
+    "title": "Regional Growth Manager India"
+  },
+  "marketing238": {
+    "id": "tangem-regional-growth-manager-argentina",
+    "link": "https://careers.tangem.com/regional-growth-manager-argentina",
+    "company": "Tangem",
+    "title": "Regional Growth Manager Argentina"
+  },
+  "marketing237": {
+    "id": "tangem-regional-growth-manager",
+    "link": "https://careers.tangem.com/regional-growth-manager",
+    "company": "Tangem",
+    "title": "Regional Growth Manager"
+  },
+  "marketing236": {
+    "id": "tangem-regional-growth-lead-us",
+    "link": "https://careers.tangem.com/regional-growth-lead-us",
+    "company": "Tangem",
+    "title": "Regional Growth Lead Us"
+  },
+  "marketing235": {
+    "id": "tangem-regional-growth-lead-asia",
+    "link": "https://careers.tangem.com/regional-growth-lead-asia",
+    "company": "Tangem",
+    "title": "Regional Growth Lead Asia"
+  },
+  "qa58": {
+    "id": "tangem-quality-control-specialist-chinaindonesia",
+    "link": "https://careers.tangem.com/quality-control-specialist-chinaindonesia",
+    "company": "Tangem",
+    "title": "Quality Control Specialist Chinaindonesia"
+  },
+  "manager675": {
+    "id": "tangem-project-manager",
+    "link": "https://careers.tangem.com/project-manager",
+    "company": "Tangem",
+    "title": "Project Manager"
+  },
+  "private": {
+    "id": "tangem-private-wealth-digital-assets-lead-us",
+    "link": "https://careers.tangem.com/private-wealth-digital-assets-lead-us",
+    "company": "Tangem",
+    "title": "Private Wealth Digital Assets Lead Us"
+  },
+  "associate92": {
+    "id": "tangem-personal-assistant",
+    "link": "https://careers.tangem.com/personal-assistant",
+    "company": "Tangem",
+    "title": "Personal Assistant"
+  },
+  "marketing234": {
+    "id": "tangem-performance-marketing-manager",
+    "link": "https://careers.tangem.com/performance-marketing-manager",
+    "company": "Tangem",
+    "title": "Performance Marketing Manager"
+  },
+  "operation": {
+    "id": "tangem-operation-director-crypto-payments-service-provider",
+    "link": "https://careers.tangem.com/operation-director-crypto-payments-service-provider",
+    "company": "Tangem",
+    "title": "Operation Director Crypto Payments Service Provider"
+  },
+  "developer48": {
+    "id": "tangem-netsuite-developerconsultant",
+    "link": "https://careers.tangem.com/netsuite-developerconsultant",
+    "company": "Tangem",
+    "title": "Netsuite Developerconsultant"
+  },
+  "developer47": {
+    "id": "tangem-netsuite-developer",
+    "link": "https://careers.tangem.com/netsuite-developer",
+    "company": "Tangem",
+    "title": "Netsuite Developer"
+  },
+  "multitasking": {
+    "id": "tangem-multitasking-coordinator",
+    "link": "https://careers.tangem.com/multitasking-coordinator",
+    "company": "Tangem",
+    "title": "Multitasking Coordinator"
+  },
+  "compliance175": {
+    "id": "tangem-mlro-lithuania",
+    "link": "https://careers.tangem.com/mlro-lithuania",
+    "company": "Tangem",
+    "title": "Mlro Lithuania"
+  },
+  "qa57": {
+    "id": "tangem-middlesenior-qa-engineer-web",
+    "link": "https://careers.tangem.com/middlesenior-qa-engineer-web",
+    "company": "Tangem",
+    "title": "Middlesenior QA Engineer Web"
+  },
+  "qa56": {
+    "id": "tangem-middlesenior-qa-engineer-mobile",
+    "link": "https://careers.tangem.com/middlesenior-qa-engineer-mobile",
+    "company": "Tangem",
+    "title": "Middlesenior QA Engineer Mobile"
+  },
+  "qa55": {
+    "id": "tangem-middlesenior-qa-automation-mobile-ios",
+    "link": "https://careers.tangem.com/middlesenior-qa-automation-mobile-ios",
+    "company": "Tangem",
+    "title": "Middlesenior QA Automation Mobile Ios"
+  },
+  "qa54": {
+    "id": "tangem-middlesenior-qa-automation-mobile-android",
+    "link": "https://careers.tangem.com/middlesenior-qa-automation-mobile-android",
+    "company": "Tangem",
+    "title": "Middlesenior QA Automation Mobile Android"
+  },
+  "backend124": {
+    "id": "tangem-middlesenior-qa-automation-backend",
+    "link": "https://careers.tangem.com/middlesenior-qa-automation-backend",
+    "company": "Tangem",
+    "title": "Middlesenior QA Automation Backend"
+  },
+  "developer46": {
+    "id": "tangem-middlesenior-nodejs-developer",
+    "link": "https://careers.tangem.com/middlesenior-nodejs-developer",
+    "company": "Tangem",
+    "title": "Middlesenior Nodejs Developer"
+  },
+  "marketing233": {
+    "id": "tangem-marketing-project-manager",
+    "link": "https://careers.tangem.com/marketing-project-manager",
+    "company": "Tangem",
+    "title": "Marketing Project Manager"
+  },
+  "logistics": {
+    "id": "tangem-logistics-support-fairy",
+    "link": "https://careers.tangem.com/logistics-support-fairy",
+    "company": "Tangem",
+    "title": "Logistics Support Fairy"
+  },
+  "manager674": {
+    "id": "tangem-logistics-manager",
+    "link": "https://careers.tangem.com/logistics-manager",
+    "company": "Tangem",
+    "title": "Logistics Manager"
+  },
+  "sales389": {
+    "id": "tangem-logistics-accountant",
+    "link": "https://careers.tangem.com/logistics-accountant",
+    "company": "Tangem",
+    "title": "Logistics Accountant"
+  },
+  "manager673": {
+    "id": "tangem-liquidity-manager-payments-operations-manager",
+    "link": "https://careers.tangem.com/liquidity-manager-payments-operations-manager",
+    "company": "Tangem",
+    "title": "Liquidity Manager Payments Operations Manager"
+  },
+  "manager672": {
+    "id": "tangem-liquidity-manager",
+    "link": "https://careers.tangem.com/liquidity-manager",
+    "company": "Tangem",
+    "title": "Liquidity Manager"
+  },
+  "sales388": {
+    "id": "tangem-lifecycle-crm-communications-lead-sales",
+    "link": "https://careers.tangem.com/lifecycle-crm-communications-lead-sales",
+    "company": "Tangem",
+    "title": "Lifecycle Crm Communications Lead Sales"
+  },
+  "compliance174": {
+    "id": "tangem-legal-wizard",
+    "link": "https://careers.tangem.com/legal-wizard",
+    "company": "Tangem",
+    "title": "Legal Wizard"
+  },
+  "qa53": {
+    "id": "tangem-lead-head-of-mobile-qa-automation",
+    "link": "https://careers.tangem.com/lead-head-of-mobile-qa-automation",
+    "company": "Tangem",
+    "title": "Lead Head Of Mobile QA Automation"
+  },
+  "manager671": {
+    "id": "tangem-lead-business-development-manager-the-us-market",
+    "link": "https://careers.tangem.com/lead-business-development-manager-the-us-market",
+    "company": "Tangem",
+    "title": "Lead Business Development Manager The Us Market"
+  },
+  "l2": {
+    "id": "tangem-l2-support-team-lead",
+    "link": "https://careers.tangem.com/l2-support-team-lead",
+    "company": "Tangem",
+    "title": "L2 Support Team Lead"
+  },
+  "developer45": {
+    "id": "tangem-kotlin-blockchain-developer",
+    "link": "https://careers.tangem.com/kotlin-blockchain-developer",
+    "company": "Tangem",
+    "title": "Kotlin Blockchain Developer"
+  },
+  "compliance173": {
+    "id": "tangem-junior-compliance-analyst",
+    "link": "https://careers.tangem.com/junior-compliance-analyst",
+    "company": "Tangem",
+    "title": "Junior Compliance Analyst"
+  },
+  "associate91": {
+    "id": "tangem-junior-business-assistant",
+    "link": "https://careers.tangem.com/junior-business-assistant",
+    "company": "Tangem",
+    "title": "Junior Business Assistant"
+  },
+  "sales387": {
+    "id": "tangem-junior-accountant",
+    "link": "https://careers.tangem.com/junior-accountant",
+    "company": "Tangem",
+    "title": "Junior Accountant"
+  },
+  "manager670": {
+    "id": "tangem-international-marketplaces-manager",
+    "link": "https://careers.tangem.com/international-marketplaces-manager",
+    "company": "Tangem",
+    "title": "International Marketplaces Manager"
+  },
+  "intern23": {
+    "id": "tangem-international-logistics-specialist-b2c",
+    "link": "https://careers.tangem.com/international-logistics-specialist-b2c",
+    "company": "Tangem",
+    "title": "International Logistics Specialist B2c"
+  },
+  "head91": {
+    "id": "tangem-head-of-tangem-business",
+    "link": "https://careers.tangem.com/head-of-tangem-business",
+    "company": "Tangem",
+    "title": "Head Of Tangem Business"
+  },
+  "head90": {
+    "id": "tangem-head-of-partnerships-us",
+    "link": "https://careers.tangem.com/head-of-partnerships-us",
+    "company": "Tangem",
+    "title": "Head Of Partnerships Us"
+  },
+  "operations150": {
+    "id": "tangem-head-of-operations-finance-payments",
+    "link": "https://careers.tangem.com/head-of-operations-finance-payments",
+    "company": "Tangem",
+    "title": "Head Of Operations Finance Payments"
+  },
+  "head89": {
+    "id": "tangem-head-of-design",
+    "link": "https://careers.tangem.com/head-of-design",
+    "company": "Tangem",
+    "title": "Head Of Design"
+  },
+  "head88": {
+    "id": "tangem-head-of-creator-partnerships",
+    "link": "https://careers.tangem.com/head-of-creator-partnerships",
+    "company": "Tangem",
+    "title": "Head Of Creator Partnerships"
+  },
+  "head87": {
+    "id": "tangem-head-of-brand-communications-pr-1",
+    "link": "https://careers.tangem.com/head-of-brand-communications-pr-1",
+    "company": "Tangem",
+    "title": "Head Of Brand Communications PR 1"
+  },
+  "head86": {
+    "id": "tangem-head-of-brand-communications-pr",
+    "link": "https://careers.tangem.com/head-of-brand-communications-pr",
+    "company": "Tangem",
+    "title": "Head Of Brand Communications PR"
+  },
+  "head85": {
+    "id": "tangem-head-of-ai-driven-support-support-automation",
+    "link": "https://careers.tangem.com/head-of-ai-driven-support-support-automation",
+    "company": "Tangem",
+    "title": "Head Of AI Driven Support Support Automation"
+  },
+  "marketing232": {
+    "id": "tangem-growth-manager-outreach-lead-generation",
+    "link": "https://careers.tangem.com/growth-manager-outreach-lead-generation",
+    "company": "Tangem",
+    "title": "Growth Manager Outreach Lead Generation"
+  },
+  "marketing231": {
+    "id": "tangem-growth-expert",
+    "link": "https://careers.tangem.com/growth-expert",
+    "company": "Tangem",
+    "title": "Growth Expert"
+  },
+  "getting": {
+    "id": "tangem-getting-things-done-master",
+    "link": "https://careers.tangem.com/getting-things-done-master",
+    "company": "Tangem",
+    "title": "Getting Things Done Master"
+  },
+  "fullstack59": {
+    "id": "tangem-full-stack-qa-engineer-manual-automation",
+    "link": "https://careers.tangem.com/full-stack-qa-engineer-manual-automation",
+    "company": "Tangem",
+    "title": "Full Stack QA Engineer Manual Automation"
+  },
+  "fullstack58": {
+    "id": "tangem-full-stack-qa-engineer-bakend",
+    "link": "https://careers.tangem.com/full-stack-qa-engineer-bakend",
+    "company": "Tangem",
+    "title": "Full Stack QA Engineer Bakend"
+  },
+  "fullstack57": {
+    "id": "tangem-full-stack-qa-engineer",
+    "link": "https://careers.tangem.com/full-stack-qa-engineer",
+    "company": "Tangem",
+    "title": "Full Stack QA Engineer"
+  },
+  "fulfillment": {
+    "id": "tangem-fulfillment-specialist",
+    "link": "https://careers.tangem.com/fulfillment-specialist",
+    "company": "Tangem",
+    "title": "Fulfillment Specialist"
+  },
+  "fpa": {
+    "id": "tangem-fpa-financial-planning-analysis",
+    "link": "https://careers.tangem.com/fpa-financial-planning-analysis",
+    "company": "Tangem",
+    "title": "Fpa Financial Planning Analysis"
+  },
+  "engineer956": {
+    "id": "tangem-finops-engineer",
+    "link": "https://careers.tangem.com/finops-engineer",
+    "company": "Tangem",
+    "title": "Finops Engineer"
+  },
+  "financial11": {
+    "id": "tangem-financial-controller-consolidation",
+    "link": "https://careers.tangem.com/financial-controller-consolidation",
+    "company": "Tangem",
+    "title": "Financial Controller Consolidation"
+  },
+  "financial10": {
+    "id": "tangem-financial-controller",
+    "link": "https://careers.tangem.com/financial-controller",
+    "company": "Tangem",
+    "title": "Financial Controller"
+  },
+  "financial9": {
+    "id": "tangem-financial-automation",
+    "link": "https://careers.tangem.com/financial-automation",
+    "company": "Tangem",
+    "title": "Financial Automation"
+  },
+  "engineer955": {
+    "id": "tangem-e-commerce-support-engineer",
+    "link": "https://careers.tangem.com/e-commerce-support-engineer",
+    "company": "Tangem",
+    "title": "E Commerce Support Engineer"
+  },
+  "devops139": {
+    "id": "tangem-devops-monitoring",
+    "link": "https://careers.tangem.com/devops-monitoring",
+    "company": "Tangem",
+    "title": "DevOps Monitoring"
+  },
+  "deadline": {
+    "id": "tangem-deadline-master",
+    "link": "https://careers.tangem.com/deadline-master",
+    "company": "Tangem",
+    "title": "Deadline Master"
+  },
+  "compliance172": {
+    "id": "tangem-customs-compliance-specialist",
+    "link": "https://careers.tangem.com/customs-compliance-specialist",
+    "company": "Tangem",
+    "title": "Customs Compliance Specialist"
+  },
+  "customer18": {
+    "id": "tangem-customer-support-specialist",
+    "link": "https://careers.tangem.com/customer-support-specialist",
+    "company": "Tangem",
+    "title": "Customer Support Specialist"
+  },
+  "manager669": {
+    "id": "tangem-content-managerseo-copywriter",
+    "link": "https://careers.tangem.com/content-managerseo-copywriter",
+    "company": "Tangem",
+    "title": "Content Managerseo Copywriter"
+  },
+  "manager668": {
+    "id": "tangem-content-manager",
+    "link": "https://careers.tangem.com/content-manager",
+    "company": "Tangem",
+    "title": "Content Manager"
+  },
+  "writer6": {
+    "id": "tangem-content-creatorcopywriter",
+    "link": "https://careers.tangem.com/content-creatorcopywriter",
+    "company": "Tangem",
+    "title": "Content Creatorcopywriter"
+  },
+  "community17": {
+    "id": "tangem-community-manager-est-or-pst-time-zone",
+    "link": "https://careers.tangem.com/community-manager-est-or-pst-time-zone",
+    "company": "Tangem",
+    "title": "Community Manager Est Or Pst Time Zone"
+  },
+  "community16": {
+    "id": "tangem-community-manager",
+    "link": "https://careers.tangem.com/community-manager",
+    "company": "Tangem",
+    "title": "Community Manager"
+  },
+  "community15": {
+    "id": "tangem-community-engagement-lead",
+    "link": "https://careers.tangem.com/community-engagement-lead",
+    "company": "Tangem",
+    "title": "Community Engagement Lead"
+  },
+  "operations149": {
+    "id": "tangem-chief-of-staff-to-ceo-ai-automation-strategic-operations",
+    "link": "https://careers.tangem.com/chief-of-staff-to-ceo-ai-automation-strategic-operations",
+    "company": "Tangem",
+    "title": "Chief Of Staff To CEO AI Automation Strategic Operations"
+  },
+  "chief8": {
+    "id": "tangem-chief-executive-officer",
+    "link": "https://careers.tangem.com/chief-executive-officer",
+    "company": "Tangem",
+    "title": "Chief Executive Officer"
+  },
+  "cfo": {
+    "id": "tangem-cfo-chief-financial-officer",
+    "link": "https://careers.tangem.com/cfo-chief-financial-officer",
+    "company": "Tangem",
+    "title": "CFO Chief Financial Officer"
+  },
+  "manager667": {
+    "id": "tangem-business-development-manager-latam",
+    "link": "https://careers.tangem.com/business-development-manager-latam",
+    "company": "Tangem",
+    "title": "Business Development Manager Latam"
+  },
+  "manager666": {
+    "id": "tangem-business-development-manager-corporate-clients",
+    "link": "https://careers.tangem.com/business-development-manager-corporate-clients",
+    "company": "Tangem",
+    "title": "Business Development Manager Corporate Clients"
+  },
+  "manager665": {
+    "id": "tangem-business-development-manager-b2b-apac",
+    "link": "https://careers.tangem.com/business-development-manager-b2b-apac",
+    "company": "Tangem",
+    "title": "Business Development Manager B2b Apac"
+  },
+  "manager664": {
+    "id": "tangem-business-development-manager-b2b-1",
+    "link": "https://careers.tangem.com/business-development-manager-b2b-1",
+    "company": "Tangem",
+    "title": "Business Development Manager B2b 1"
+  },
+  "manager663": {
+    "id": "tangem-business-development-manager-b2b",
+    "link": "https://careers.tangem.com/business-development-manager-b2b",
+    "company": "Tangem",
+    "title": "Business Development Manager B2b"
+  },
+  "bug": {
+    "id": "tangem-bug-expert-jira-master",
+    "link": "https://careers.tangem.com/bug-expert-jira-master",
+    "company": "Tangem",
+    "title": "Bug Expert Jira Master"
+  },
+  "manager662": {
+    "id": "tangem-bd-manager-partnerships-1",
+    "link": "https://careers.tangem.com/bd-manager-partnerships-1",
+    "company": "Tangem",
+    "title": "BD Manager Partnerships 1"
+  },
+  "manager661": {
+    "id": "tangem-bd-manager-partnerships",
+    "link": "https://careers.tangem.com/bd-manager-partnerships",
+    "company": "Tangem",
+    "title": "BD Manager Partnerships"
+  },
+  "operations148": {
+    "id": "tangem-b2c-support-team-operations-lead",
+    "link": "https://careers.tangem.com/b2c-support-team-operations-lead",
+    "company": "Tangem",
+    "title": "B2c Support Team Operations Lead"
+  },
+  "qa52": {
+    "id": "tangem-automation-qa-engineer-mobile",
+    "link": "https://careers.tangem.com/automation-qa-engineer-mobile",
+    "company": "Tangem",
+    "title": "Automation QA Engineer Mobile"
+  },
+  "compliance171": {
+    "id": "tangem-aml-specialist-compliance-specialist",
+    "link": "https://careers.tangem.com/aml-specialist-compliance-specialist",
+    "company": "Tangem",
+    "title": "Aml Specialist Compliance Specialist"
+  },
+  "ambassadors": {
+    "id": "tangem-ambassadors-program-lead",
+    "link": "https://careers.tangem.com/ambassadors-program-lead",
+    "company": "Tangem",
+    "title": "Ambassadors Program Lead"
+  },
+  "engineer954": {
+    "id": "tangem-ai-engineer",
+    "link": "https://careers.tangem.com/ai-engineer",
+    "company": "Tangem",
+    "title": "AI Engineer"
+  },
+  "sales386": {
+    "id": "tangem-accountant",
+    "link": "https://careers.tangem.com/accountant",
+    "company": "Tangem",
+    "title": "Accountant"
+  },
+  "marketing224": {
+    "id": "hashed-jejememe-2d22e8de-d81d-473f-9eee-ab2df302f7f9",
+    "link": "https://www.jejememe.com/2d22e8de-d81d-473f-9eee-ab2df302f7f9",
+    "company": "Jejememe",
+    "title": "Growth Marketer"
+  },
+  "marketing223": {
+    "id": "hashed-jejememe-2d21e4cd-49fc-80f9-8aad-d93d6acd3377",
+    "link": "https://www.jejememe.com/2d21e4cd-49fc-80f9-8aad-d93d6acd3377",
+    "company": "Jejememe",
+    "title": "Marketing Intern"
+  },
+  "developer44": {
+    "id": "hashed-jejememe-3152d706-453f-43a6-802d-c77e8962de16",
+    "link": "https://www.jejememe.com/3152d706-453f-43a6-802d-c77e8962de16",
+    "company": "Jejememe",
+    "title": "iOS Developer"
+  },
+  "marketing222": {
+    "id": "hashed-dr.-now-ceCkGOhw",
+    "link": "https://recruit.doctornow.co.kr/job_posting/ceCkGOhw",
+    "company": "Dr. Now",
+    "title": "[메디컬솔루션팀] Brand · Growth Marketing Lead"
+  },
+  "korea2": {
+    "id": "hashed-berachain-35161",
+    "link": "https://careers.berachain.com/35161",
+    "company": "Berachain",
+    "title": "Korea Lead"
+  },
+  "marketing219": {
+    "id": "hashed-berachain-29948",
+    "link": "https://careers.berachain.com/29948",
+    "company": "Berachain",
+    "title": "Marketing Lead"
+  },
+  "sales384": {
+    "id": "hashed-berachain-36007",
+    "link": "https://careers.berachain.com/36007",
+    "company": "Berachain",
+    "title": "APAC BD"
+  },
+  "marketing221": {
+    "id": "hashed-cyber-Marketing-Manager-8755047deed04f04a0629c53a83219f8",
+    "link": "https://cyberconnect.notion.site/Marketing-Manager-8755047deed04f04a0629c53a83219f8",
+    "company": "Cyber",
+    "title": "Marketing Manager"
+  },
+  "qa51": {
+    "id": "hashed-loco-",
+    "link": "https://www.instahyre.com/job-334492-qa-automation-engineer-at-loco-noida/",
+    "company": "Loco",
+    "title": "QA Automation Engineer"
+  },
+  "marketing225": {
+    "id": "hashed-merkle-trade-fb413a83-1840-4360-9bb0-f02234b15155",
+    "link": "https://jobs.hashed.com/jobs/merkle-trade/fb413a83-1840-4360-9bb0-f02234b15155",
+    "company": "Merkle Trade",
+    "title": "Head of Growth"
+  },
+  "engineer951": {
+    "id": "hashed-oneplanet-2d76662d-39e2-483f-bc41-71fa687f2fc1",
+    "link": "https://project.oneplanetnft.io/2d76662d-39e2-483f-bc41-71fa687f2fc1",
+    "company": "OnePlanet",
+    "title": "Front-end Engineer"
+  },
+  "engineer952": {
+    "id": "hashed-oneplanet-464acf11-88e9-4237-bdcd-f239f74d4c9d",
+    "link": "https://project.oneplanetnft.io/464acf11-88e9-4237-bdcd-f239f74d4c9d",
+    "company": "OnePlanet",
+    "title": "Back End Engineer"
+  },
+  "devops136": {
+    "id": "hashed-oneplanet-8ac70b07-a547-4284-a2eb-69e5752bc8d8",
+    "link": "https://project.oneplanetnft.io/8ac70b07-a547-4284-a2eb-69e5752bc8d8",
+    "company": "OnePlanet",
+    "title": "Infrastructure Engineer"
+  },
+  "manager637": {
+    "id": "hashed-subzero-labs-f36ca76a-4fca-4ba4-8a67-c4946d6072db",
+    "link": "https://jobs.ashbyhq.com/subzero/f36ca76a-4fca-4ba4-8a67-c4946d6072db",
+    "company": "Subzero Labs",
+    "title": "Engineering Manager"
+  },
+  "marketing226": {
+    "id": "hashed-mythical-games-653c29fa-35b9-4443-94b7-8c9359815d14",
+    "link": "https://mythicalgames.careers.hibob.com/jobs/653c29fa-35b9-4443-94b7-8c9359815d14",
+    "company": "Mythical Games",
+    "title": "Growth Marketing Manager, User Acquisition"
+  },
+  "head83": {
+    "id": "hashed-dfns-overview",
+    "link": "https://jobs.deel.com/dfns/job-details/8c6eb6f2-01c4-424b-a9f1-44a2ea32d023/overview",
+    "company": "Dfns",
+    "title": "Head of Delivery"
+  },
+  "operations146": {
+    "id": "hashed-bastion-f187c64c-7b4a-4d3c-8247-2057459ac479",
+    "link": "https://jobs.ashbyhq.com/Bastion/f187c64c-7b4a-4d3c-8247-2057459ac479",
+    "company": "Bastion",
+    "title": "Payment Operations Associate"
+  },
+  "sales383": {
+    "id": "hashed-bastion-376f0c70-ffe9-4533-b829-67e8355656a0",
+    "link": "https://jobs.ashbyhq.com/Bastion/376f0c70-ffe9-4533-b829-67e8355656a0",
+    "company": "Bastion",
+    "title": "Founding Account Executive"
+  },
+  "manager649": {
+    "id": "hurma-whitebit-1292",
+    "link": "https://whitebit.hurma.work/public-vacancies/1292",
+    "company": "WhiteBIT",
+    "title": "Technical Project Manager"
+  },
+  "recruiting100": {
+    "id": "hurma-whitebit-1261",
+    "link": "https://whitebit.hurma.work/public-vacancies/1261",
+    "company": "WhiteBIT",
+    "title": "Talent Programs Manager"
+  },
+  "recruiting101": {
+    "id": "hurma-whitebit-1273",
+    "link": "https://whitebit.hurma.work/public-vacancies/1273",
+    "company": "WhiteBIT",
+    "title": "Senior Talent Manager"
+  },
+  "compliance167": {
+    "id": "hurma-whitebit-1263",
+    "link": "https://whitebit.hurma.work/public-vacancies/1263",
+    "company": "WhiteBIT",
+    "title": "Senior Legal Adviser (Licensing)"
+  },
+  "manager652": {
+    "id": "hurma-whitebit-966",
+    "link": "https://whitebit.hurma.work/public-vacancies/966",
+    "company": "WhiteBIT",
+    "title": "Risk Manager"
+  },
+  "operations147": {
+    "id": "hurma-whitebit-1284",
+    "link": "https://whitebit.hurma.work/public-vacancies/1284",
+    "company": "WhiteBIT",
+    "title": "Operations Specialist (Turkey)"
+  },
+  "manager646": {
+    "id": "hurma-whitebit-1268",
+    "link": "https://whitebit.hurma.work/public-vacancies/1268",
+    "company": "WhiteBIT",
+    "title": "Operations Manager"
+  },
+  "compliance166": {
+    "id": "hurma-whitebit-1262",
+    "link": "https://whitebit.hurma.work/public-vacancies/1262",
+    "company": "WhiteBIT",
+    "title": "Middle Legal Adviser (Licensing)"
+  },
+  "compliance170": {
+    "id": "hurma-whitebit-999",
+    "link": "https://whitebit.hurma.work/public-vacancies/999",
+    "company": "WhiteBIT",
+    "title": "Legal Counsel (Corporate Management)"
+  },
+  "compliance162": {
+    "id": "hurma-whitebit-1002",
+    "link": "https://whitebit.hurma.work/public-vacancies/1002",
+    "company": "WhiteBIT",
+    "title": "Legal Counsel (Consulting and Agreements)"
+  },
+  "financial7": {
+    "id": "hurma-whitebit-1271",
+    "link": "https://whitebit.hurma.work/public-vacancies/1271",
+    "company": "WhiteBIT",
+    "title": "Financial Monitoring Specialist (WhiteBIT Turkey)"
+  },
+  "manager645": {
+    "id": "hurma-whitebit-1266",
+    "link": "https://whitebit.hurma.work/public-vacancies/1266",
+    "company": "WhiteBIT",
+    "title": "Financial Manager (WhiteBIT Georgia)"
+  },
+  "compliance169": {
+    "id": "hurma-whitebit-1287",
+    "link": "https://whitebit.hurma.work/public-vacancies/1287",
+    "company": "WhiteBIT",
+    "title": "Compliance Specialist, Turkey"
+  },
+  "manager644": {
+    "id": "hurma-whitebit-1259",
+    "link": "https://whitebit.hurma.work/public-vacancies/1259",
+    "company": "WhiteBIT",
+    "title": "Compensation & Total Rewards Manager (Relocation to EU)"
+  },
+  "manager647": {
+    "id": "hurma-whitebit-1283",
+    "link": "https://whitebit.hurma.work/public-vacancies/1283",
+    "company": "WhiteBIT",
+    "title": "Business Development Manager (Australia)"
+  },
+  "brand7": {
+    "id": "hurma-whitebit-971",
+    "link": "https://whitebit.hurma.work/public-vacancies/971",
+    "company": "WhiteBIT",
+    "title": "Brand Presence Specialist"
+  },
+  "manager650": {
+    "id": "hurma-whitebit-799",
+    "link": "https://whitebit.hurma.work/public-vacancies/799",
+    "company": "WhiteBIT",
+    "title": "B2B Sales & Strategic Partnership Manager (WhiteBIT Georgia)"
+  },
+  "marketing228": {
+    "id": "hurma-whitebit-1171",
+    "link": "https://whitebit.hurma.work/public-vacancies/1171",
+    "company": "WhiteBIT",
+    "title": "Senior Influence Marketing Manager"
+  },
+  "manager638": {
+    "id": "hurma-whitebit-1054",
+    "link": "https://whitebit.hurma.work/public-vacancies/1054",
+    "company": "WhiteBIT",
+    "title": "Senior B2B SMM Manager"
+  },
+  "recruiting99": {
+    "id": "hurma-whitebit-1192",
+    "link": "https://whitebit.hurma.work/public-vacancies/1192",
+    "company": "WhiteBIT",
+    "title": "Middle HR Business Partner (Office/Relocation to EU)"
+  },
+  "managing3": {
+    "id": "hurma-whitebit-1256",
+    "link": "https://whitebit.hurma.work/public-vacancies/1256",
+    "company": "WhiteBIT",
+    "title": "Managing Director at a MiCAR-regulated company"
+  },
+  "compliance165": {
+    "id": "hurma-whitebit-1252",
+    "link": "https://whitebit.hurma.work/public-vacancies/1252",
+    "company": "WhiteBIT",
+    "title": "Head of Legal"
+  },
+  "manager639": {
+    "id": "hurma-whitebit-1114",
+    "link": "https://whitebit.hurma.work/public-vacancies/1114",
+    "company": "WhiteBIT",
+    "title": "Business Development Manager (Whitepay)"
+  },
+  "ai9": {
+    "id": "8172487",
+    "link": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "company": "Stripe",
+    "title": "Abuse Investigator"
+  },
+  "be26": {
+    "id": "4908935101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "sls213": {
+    "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "company": "Open Standard",
+    "title": "Account Manager",
+    "newSlug": "sls216"
+  },
+  "mkt83": {
+    "id": "b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "link": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "company": "Open Standard",
+    "title": "Communications and Marketing Lead",
+    "newSlug": "mkt85"
   }
 }
