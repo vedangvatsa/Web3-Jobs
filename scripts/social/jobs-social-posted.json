@@ -1,5 +1,5 @@
 {
-  "lastIndex": 339,
+  "lastIndex": 346,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -145,7 +145,9 @@
     "rec22",
     "cs7",
     "eng359",
-    "pm184"
+    "pm184",
+    "engineer590",
+    "pm183"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5149,496 +5151,6 @@
       "verification": "verified"
     },
     {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x2acb4893b552fef68913126a6dbbc7872f8d3e8d",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x084327acd7e60765f387b81333dc4184ffee8be8",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xb1e32fb0ba45e01ac47a5d275d6c42c43b666fb5",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x6a58d202375ba44bffc70c8476c63e5ee1441885",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xaa30f7a82295e25ba35c8395320ef5b246d69d49",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x07069d9ce20857fba22b077332c4fc0d6b2bea4c",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x5c8ca2e876c66edd0b861667e5f1350433a9608d",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x729f13c555690f2cf3fb89f255dfc06b2974e009",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xcb76b87ce66a0387f7eeff51890a2c83cb9975be",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xf3a0381203e3dee5143a9ef169c403c2db7cb011",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x8ff0f73f3dbf853f12eb936def5ac71b900ace20",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x478ce6efd8f894928acbadb4397dd757a339b131",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "6abe44b3b602164114d74a3c",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "6abe44bea017fc62b5e44781",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "urn:li:share:7511387547340578816",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "facebook",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "691827047618629_1103360615604506",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "instagram",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "18107046368248437",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "x",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "6abe44e0f069a8b4a469b8f8",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Paxos is hiring Senior Backend Engineer\n\nhttps://hashtagweb3.com/be41/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105621951012044897"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "threads",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "18072822239574129",
-      "verification": "verified",
-      "expectedText": "Paxos is hiring Senior Backend Engineer: https://hashtagweb3.com/be41/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd8z30RIDTo",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwsr5okell2g",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0xc0ea820c128bf74275dff0561728934b308076ff",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x71e7ef0a7db20c615baea9ca5302f89c9378adb2",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x53663c506c95d1521411ec5de6097006e54c70b0",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x04174dafe7aa388091c8f0143ae1c9ae9e2e8552",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0xeffc3ff3f5b6699b98f55f85ef52302a32040a5b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x80f99ecaa1e2807ed41610a62e409097c2e83955",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0xa776f369483d79a86aa9a5d731765e56e7bd0457",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0xb5deacbed9c947f841882068ceb9fcf633bef3da",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x75156d591f9cb3dff39408dafcf0c4dd1a5911dd",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x145aaf22a5fb03c29210a7dfa59ea42d505e1317",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x917ca421029378fcab85d1b76ffa6daf4232483f",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x103f47165537373e884c31757b6dfaba79987ed9",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0xcda1e630454ed3f80c9b2212b0517f59c9e11b12",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x6ae42161fe3579bf3cfdc36cec161485220df84c",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0xfc9756c26859b08113e7e56f096c7847f69e0d91",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x84339885b495db453a06c53b08832f0d1b3dca9d",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "0x0999cd9068b5aa1b68719bef215bc28eb1360b6d",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "6abe44f15001d20b533cc4b2",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "6abe44fbf069a8b4a469bb19",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "urn:li:share:7511387803356758016",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "691827047618629_1103361258937775",
-      "verification": "verified"
-    },
-    {
-      "slug": "be41",
-      "company": "Paxos",
-      "title": "Senior Backend Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-10-01T11:32:47.866Z",
-      "postId": "18011180102763014",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "x",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "6abeb7ef2f7034519e75cafa",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Transak is hiring Product Partnerships Manager\n\nhttps://hashtagweb3.com/pm84/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105745494211203526"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "17909936403499054",
-      "verification": "verified",
-      "expectedText": "Transak is hiring Product Partnerships Manager: https://hashtagweb3.com/pm84/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd9sDbtmFDT",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwtmljn66r2g",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0xa4f01e06629b97cc584352b09c3cb499412ba413",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x925c6b32bf6b3bbcebaa3ab5cfd8babfe6b10559",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x3192846852bcabd7afb10176b84e080d6e4813f1",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
       "slug": "pm84",
       "company": "Transak",
       "title": "Product Partnerships Manager",
@@ -10126,6 +9638,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-04T11:32:45.224Z",
       "postId": "691827047618629_1106228918651009",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "6ac2a9bd63761da98b59fd41",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Bitdeer is hiring Senior/Staff Physical Verification Engineer\n\nhttps://hashtagweb3.com/engineer590/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106829764296134818"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "17884610601502731",
+      "verification": "verified",
+      "expectedText": "Bitdeer is hiring Senior/Staff Physical Verification Engineer: https://hashtagweb3.com/engineer590/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeFZH5foHdH",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx35duxvx726",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xa28a41ca3ada087cdfa7fd7a053c46b5103616e1",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xb32f1c2c2c4063a9bb9ebc6231ca7b5a5add5ade",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xe447e6920bcf448089301c7f5cf0718a7ddc4605",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xb7c64bb7fa9a02cd935db8bc1ee0f56eda585a45",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xaf12d9576076f338919f44ac9e8620e37932c09a",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xbf15a1107f02031f8da81c1c45817b83ca84c4d5",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xabd09f0f6002b972a95feaab4dd2bcdb24d1f9fa",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xbe686e2b5163d4d041bc47fa4eb1c776d0413a0c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0xbe4b9d984da50142a2c68ada906843c4cf350add",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x9206205d14c22d6b5006622cda711bfada0cf600",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x738b218df6b1c3cc89267ed5d37f02ec3af4063b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x5b08451e20f205238a21081b3b5223599cd85cb4",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x168dce445cf29c14500043b8b88b360287b31c1e",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x9f200276901fd0069fd257412121bc5a3d293366",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x4735aa3f8c300c7e0f46a7501d16804567c9a252",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x3137d5632db75e75dcc936f2d916a2b683b3e7df",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "0x4c9825107f271e55b02bb49a8e287a077f07a265",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "6ac2a9d4283083e601bf23e0",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "6ac2a9de63761da98b59ff83",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "urn:li:share:7512595641328410624",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "engineer590",
+      "company": "Bitdeer",
+      "title": "Senior/Staff Physical Verification Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-04T19:32:12.532Z",
+      "postId": "691827047618629_1106570555283512",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "x",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "6ac2a9f263761da98b5a008a",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Kraken is hiring Senior Software Engineer - Full-stack - Growth Product\n\nhttps://hashtagweb3.com/pm183/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106829985700786546"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "threads",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "18132804403679962",
+      "verification": "verified",
+      "expectedText": "Kraken is hiring Senior Software Engineer - Full-stack - Growth Product: https://hashtagweb3.com/pm183/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeFZOS_IMvG",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "bluesky",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx35ffwh362o",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x9e8f8bbf941b4aa879b2be81fc8063bc3d8837bf",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0xc357a88eeb7e9828f9adaeb8d344c938f4d06eed",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x8c85849d41f391059852322fcf2df8e7cb41efe9",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0xb18a5ab2b5dc7511e912bea478e17b7fc166cca6",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x58ff49e054e4773f6a2daa6b653314d7b32cdf09",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x9ba257c80524c19afa23f45816710dca54228523",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x3e4a5fd36b20419a0790d907d3b89ed8f7999e26",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x58495936744b63fc5c8fe1ee1426b880a368385b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x4e33c9a3c0e7e8e37ec181adaa0c0d87d549d173",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0xbaf07fa9ad91f7d588efc02299e104ce6da3b685",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x254866f3b01438ba488e812665e32187ca9b21ad",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x63cc5f69043ace3a0fe4fe8e04f95cf36182d311",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0xb1cbf7545debcb695e1ee0b21033343ff23d1a64",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0xf1bb14ca1d809897e33ae02f5a79ef5fd470e3b6",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0x766e9a5928dac8d60a1b084000989f4d5a5299d1",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0xbdd65865b845fe7cef8c8791f7f53a75fe052107",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "0xbfbbcd9b3fc1ce4b18d22a11fdca1ec017db6f02",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "6ac2aa06ca1380ada8349c46",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "6ac2aa11d467abe8cfc4a967",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "urn:li:share:7512595852922732544",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm183",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - Full-stack - Growth Product",
+      "platform": "facebook",
+      "postedAt": "2026-10-04T19:33:05.785Z",
+      "postId": "691827047618629_1106571045283463",
       "verification": "verified"
     }
   ]
