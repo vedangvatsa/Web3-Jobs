@@ -695,5 +695,51 @@
     "slotKey": "2026-10-03:evening",
     "messageId": 155583,
     "sentAt": "2026-10-03T19:31:40.230Z"
+  },
+  "aca22ca7-f09a-4cbd-aa1b-f3e7fab0de5f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T03:52:40.285Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-evt-kt7ZI4H2Gn4m4Ql",
+        "slug": "ai-web3",
+        "name": "AI & Web3 Networking Heist",
+        "startDate": "2026-10-05T03:00:00.000Z",
+        "keys": [
+          "token2049-evt-kt7zi4h2gn4m4ql",
+          "page:ai-web3:2026-10-05",
+          "luma:evt-kt7zi4h2gn4m4ql",
+          "luma-url:/bg9x3kjw",
+          "event:aiweb3networkingheist:2026-10-05:singapore"
+        ]
+      },
+      {
+        "id": "luma-batch-4GappJHse8MqfYd",
+        "slug": "y6nco425",
+        "name": "Blockchain Impact Singapore",
+        "startDate": "2026-10-05T06:00:00.000Z",
+        "keys": [
+          "luma-batch-4gappjhse8mqfyd",
+          "page:y6nco425:2026-10-05",
+          "luma:evt-4gappjhse8mqfyd",
+          "luma-url:/y6nco425",
+          "event:blockchainimpactsingapore:2026-10-05:singapore"
+        ]
+      },
+      {
+        "id": "premier-ethbrasil",
+        "slug": "ethereum1",
+        "name": "Ethereum Brasil 2026",
+        "startDate": "2026-10-05T09:00:00.000Z",
+        "keys": [
+          "premier-ethbrasil",
+          "page:ethereum1:2026-10-05",
+          "event:ethereumbrasil2026:2026-10-05:sao paulo"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-04:morning"
   }
 }
