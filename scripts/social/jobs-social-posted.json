@@ -1,5 +1,5 @@
 {
-  "lastIndex": 332,
+  "lastIndex": 335,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -141,7 +141,9 @@
     "kng",
     "sls185",
     "ops48",
-    "eng358"
+    "eng358",
+    "rec22",
+    "cs7"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5145,496 +5147,6 @@
       "verification": "verified"
     },
     {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x2289aa31e4e4ab65b1823a01f289ded041dffc06",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x859d56622a2f197f6c48b5a42c725bd99eae3ce9",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x21969171844e960f2f2ff32d83f8ba946f39303e",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x4b76914101fb5fbffba569b4c2a00af536ca0d6a",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0xb0162df16c7e9e28a9f8c255b1011fd3699c471d",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0xa66d2d2b1a3ee55750f4a1833dbfba3fdc723d4f",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0x91c89792518d752c055cf0a1ced9ca2e17512b11",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "0xa0f1b29d15f0a215a82451e5c4601a3128a70eea",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "6abd63e35feb60d63458e87e",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "6abd63ee693d245d2936bc10",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "urn:li:share:7511146155611717634",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "facebook",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "691827047618629_1102752578998643",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls181",
-      "company": "Stripe",
-      "title": "Sales Leader, India",
-      "platform": "instagram",
-      "postedAt": "2026-09-30T19:32:32.828Z",
-      "postId": "18178561582440175",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "x",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "6abd64101971cfe1dd9607c0",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "OKX is hiring Senior/Lead Product Manager - Professional Trading Tools & Experience\n\nhttps://hashtagweb3.com/pm149/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105380563737608560"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "threads",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "18128681812819388",
-      "verification": "verified",
-      "expectedText": "OKX is hiring Senior/Lead Product Manager - Professional Trading Tools & Experience: https://hashtagweb3.com/pm149/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd7GGjlCdfQ",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "bluesky",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwr3kjkqcx2e",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x08a5accfd8d84ad4ad70e68756b19ba4914edaaa",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x64b068674df0f32b6b894918746e52c7d4b3d28d",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x41a42b978371f20ee9047522eb13917990ee1fdd",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x79da8ebd2aa1ea04c827af09168d348a02884c85",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x06b85c5496409888de69205a0770e39892ada580",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x76323d2799d7eba76baeeb88aef36307d9188531",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x125547d3c8d1a23fba563dbdbb95843d4c5ee722",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0xfd65b61865eebb6f6868509322ddab05f6c70d08",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x7306feadf3c832402ef90a4d84499291dfb75b0a",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0xa00917003e43711a0539442c331e371e53d5f408",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0xf97ec6383c070e30bbde0281101a6ef060af82b1",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x5fa385b183a595a2f7110765de0c7e4317b301aa",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x898abf9ecacd804e212646598ec414e33a642646",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x6803422cfaa99a7682216d1b06e484743791cd33",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x0d0ef090960afb93c0b928226f9352b97f226e1c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0xf499f54bf92acd0bdd2e43a1e3a5a6a4842eefc8",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "farcaster",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "0x1ae4ce76245f416ce50eca74d3eef76cd97ca2ba",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "6abd642101f18483b9ee0879",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "6abd642c01f18483b9ee09c5",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "linkedin",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "urn:li:share:7511146415683747840",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "facebook",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "691827047618629_1102753635665204",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm149",
-      "company": "OKX",
-      "title": "Senior/Lead Product Manager - Professional Trading Tools & Experience",
-      "platform": "instagram",
-      "postedAt": "2026-09-30T19:33:36.668Z",
-      "postId": "18138154879606482",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "x",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "6abddaad05e9a5c46ab7952b",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Legal Operations Team Lead\n\nhttps://hashtagweb3.com/cmp64/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105507921320616155"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "threads",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "18127602949888045",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Legal Operations Team Lead: https://hashtagweb3.com/cmp64/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd8ABLWG-zg",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "bluesky",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwrxti2qrx2z",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x700ce06be9b27a7ab93e9d0788960cb17ca99790",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x318950a4eaba53a8b7d923fb7c3c77a5d7f8dcdb",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x6f372c637e4b1919f5f47e4d5b57e5200bfe54f6",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x94cf4cbd4e08ba789b205589203b4ba539f073ad",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0xdbd72afce7c0f6ae68f9f05268a2dd99fc6413a4",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0xebf2105ad526ad60eaac63698b78154cc71b198e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x02ecdc2ae6c53a26f043fd58ed1b98f803ed1a57",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
       "slug": "cmp64",
       "company": "Stripe",
       "title": "Legal Operations Team Lead",
@@ -10118,6 +9630,498 @@
       "platform": "instagram",
       "postedAt": "2026-10-03T19:32:53.230Z",
       "postId": "18098159234531712",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "x",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "6ac1cd8d5829d2489a034d83",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Animoca Brands is hiring Talent Acquisition Specialist - (6-Month Contract)\n\nhttps://hashtagweb3.com/rec22/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106593339277533341"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "threads",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "18123432910918577",
+      "verification": "verified",
+      "expectedText": "Animoca Brands is hiring Talent Acquisition Specialist - (6-Month Contract): https://hashtagweb3.com/rec22/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeDtm_nG_1E",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwzitvvsej2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x3113f0d4221fbcce2349150b86f98429107ad1a6",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x186d8a71665cab9cd3d18f176b7a1dbd4947f3bb",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x20bee476c0aaa383dd27c37ce61c82461e7d626b",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0xc88ad2d8a555368fa63eb15409ea71d880a8faf9",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0xb8fdb7feeac07d7d444f94212af1339256fa6740",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x2fa0fae277b8a35c881b0d5620c2ce74b676f440",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0xcac8ec657ee7c6f7f2e4fd5ae87c1eaabc39298c",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x8239d566467d1e3aa7829918b61911b97b89fc77",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x177d5217fc9e3c5659579953137593395bc3f1c9",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x19c880da2e9522b90d11e46c3e1f64402e0edba5",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x3c257eba6f720946c338ae5962add0717e997abb",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x44abaac1b96a38f3b374825dc4b226644adebf9d",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x1418873771eef802317f3fb68a2a9e1fdf7ac9bc",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x317b47c9445d65796724257414204829817acdd7",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x4555fce90160211b1fe181f8d6d005a024035d68",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x3725e0b1bca1f7e42bcead2249264abff8f47a32",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "0x10a05d3c26b5fb5543657aeea71c464ec685723a",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "6ac1cda2ad7fd83bc50f0bb0",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "6ac1cdad8dc991c73c68b537",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "urn:li:share:7512359210102218752",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "rec22",
+      "company": "Animoca Brands",
+      "title": "Talent Acquisition Specialist - (6-Month Contract)",
+      "platform": "facebook",
+      "postedAt": "2026-10-04T03:52:44.688Z",
+      "postId": "691827047618629_1105946262012608",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "x",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "6ac1cdc0ad7fd83bc50f0d73",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Bybit is hiring Lead Corporate Secretary\n\nhttps://hashtagweb3.com/cs7/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106593555250655525"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "threads",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "18011775599973625",
+      "verification": "verified",
+      "expectedText": "Bybit is hiring Lead Corporate Secretary: https://hashtagweb3.com/cs7/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeDttOsG_gS",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "bluesky",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwzivcflwy26",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x2c8602f9a4752ed2fd045d3d945da97056208cba",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x3b2a79721e2b92c90b42be7057bf3ad25a4b2734",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x171973953f24a95f7add730c75b2df11d061a0d7",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0xcc04ebec2b22bb2e813eac4a8856ef6e42384846",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x260a1c0ef1bd460dce56a059c29cc36fe16d5649",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x3f3e2841f6961527d8e5b6c1f7177c3646cefe9f",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x19281b6f86b44e425ca33ef7a2ba308d75505163",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x30ae097eb039b237fe1d6a57edaaac040fb30162",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x1944dc3861dd18db54e4bdd6d14c67973a7e1c6c",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x634e2eb9fb7c620508f3825e359fb96847c377b1",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0xcc3192848955f18fa67dcb4e830acd94d35db064",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x1864701c3150734319ad5955d39554373b402e6a",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0xc54765087fea99bec9e3f918ad8932224d7561ad",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0xf599b27b6b7c9beca23db2ff7c7acda482a43f21",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0x6b1e05b0b8b6ac8bed375949ebab0d7739061728",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0xd91a4cfb969581369088d995b1dde1bf0c2cbf7e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "0xd79139288cdea90c3aeea1b689309a46b66aaf32",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "6ac1cdd18dc991c73c68b724",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "6ac1cddbad7fd83bc50f0ef5",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "urn:li:share:7512359403770093568",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cs7",
+      "company": "Bybit",
+      "title": "Lead Corporate Secretary",
+      "platform": "facebook",
+      "postedAt": "2026-10-04T03:53:36.325Z",
+      "postId": "691827047618629_1105946822012552",
       "verification": "verified"
     }
   ]
