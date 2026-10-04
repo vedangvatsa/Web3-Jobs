@@ -946,10 +946,11 @@
           "url": "https://www.instagram.com/reel/DeFZVnKAp20/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "London, United Kingdom\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-04T19:34:43.348Z",
-          "postId": "6ac2aa54d467abe8cfc4aef5"
+          "postId": "6ac2aa54d467abe8cfc4aef5",
+          "url": "https://www.youtube.com/watch?v=-ya0frCcZDg"
         }
       }
     }
