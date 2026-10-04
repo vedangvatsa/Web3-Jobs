@@ -755,9 +755,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Platform Engineer II, Foundation at Chainalysis\n\nNew York Office\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
-          "startedAt": "2026-10-04T03:31:00.516Z"
+          "startedAt": "2026-10-04T03:31:00.516Z",
+          "containerId": "17916185274461009"
         }
       }
     },
