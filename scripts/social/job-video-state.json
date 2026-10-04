@@ -40,6 +40,10 @@
     "2026-10-03:evening": [
       "des3",
       "pm154"
+    ],
+    "2026-10-04:morning": [
+      "eng339",
+      "sec62"
     ]
   },
   "jobs": {
@@ -738,6 +742,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7692527386730056993"
         }
       }
+    },
+    "eng339": {
+      "slot": "2026-10-04:morning",
+      "selectedAt": "2026-10-04T03:30:58.306Z",
+      "verifiedAt": "2026-10-04T03:30:58.306Z",
+      "captions": {
+        "instagram": "Platform Engineer II, Foundation at Chainalysis\n\nNew York Office\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
+        "tiktok": "Platform Engineer II, Foundation at Chainalysis. New York Office.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "New York Office\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Platform Engineer II, Foundation at Chainalysis"
+      },
+      "receipts": {}
+    },
+    "sec62": {
+      "slot": "2026-10-04:morning",
+      "selectedAt": "2026-10-04T03:30:58.307Z",
+      "verifiedAt": "2026-10-04T03:30:58.307Z",
+      "captions": {
+        "instagram": "Senior Security Engineer at Shakepay\n\nRemote, Canada\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #RemoteJobs",
+        "tiktok": "Senior Security Engineer at Shakepay. Remote, Canada.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtube": "Remote, Canada\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtubeTitle": "Senior Security Engineer at Shakepay · Remote, Canada"
+      },
+      "receipts": {}
     }
   }
 }
