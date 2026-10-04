@@ -1332,5 +1332,49 @@
     "slotKey": "2026-10-04:evening",
     "messageId": 16504,
     "sentAt": "2026-10-04T19:32:10.270Z"
+  },
+  "5afa715a-f512-42c1-9524-1b750ceece64": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T19:32:11.807Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "a37cdf1c-9b0d-45e8-810c-f90965d9f918",
+        "slug": "corporate7",
+        "url": "https://hashtagweb3.com/corporate7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Corporate Development Lead"
+      },
+      {
+        "key": "04c1a171-3321-4764-9435-98de1a61bd59",
+        "slug": "manager717",
+        "url": "https://hashtagweb3.com/manager717?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Technical Program Manager"
+      },
+      {
+        "key": "043e65ba-22cf-447c-92fa-80c6b9750297",
+        "slug": "marketing91",
+        "url": "https://hashtagweb3.com/marketing91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kalshi",
+        "title": "Growth - Perps"
+      },
+      {
+        "key": "599197ae-a744-4bd2-92ce-a5daaecae790",
+        "slug": "mkt67",
+        "url": "https://hashtagweb3.com/mkt67?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Growth Marketing Lead"
+      },
+      {
+        "key": "2733408",
+        "slug": "devops135",
+        "url": "https://hashtagweb3.com/devops135?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tether",
+        "title": "DevOps Engineer"
+      }
+    ],
+    "message": "• Paxos is hiring <a href=\"https://hashtagweb3.com/corporate7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Corporate Development Lead</a>\n• Sardine is hiring <a href=\"https://hashtagweb3.com/manager717?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Program Manager</a>\n• Kalshi is hiring <a href=\"https://hashtagweb3.com/marketing91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Growth - Perps</a>\n• Alchemy is hiring <a href=\"https://hashtagweb3.com/mkt67?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Growth Marketing Lead</a>\n• Tether is hiring <a href=\"https://hashtagweb3.com/devops135?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">DevOps Engineer</a>",
+    "slotKey": "2026-10-04:evening"
   }
 }
