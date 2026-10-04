@@ -634,5 +634,36 @@
     "slotKey": "2026-10-04:morning",
     "messageId": 155590,
     "sentAt": "2026-10-04T03:55:31.632Z"
+  },
+  "d91f0048-a43d-487c-b481-a465bc6d44a3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T11:34:57.785Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Federal Judge Dismisses LIBRA Memecoin Class Action Lawsuit",
+        "summary": "A New York court rejected RICO claims and denied adding three additional tokens to the case on September 29.",
+        "link": "https://hashtagweb3.com/libra-ruling?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Judge Dismisses LIBRA Memecoin Class Action With Prejudice"
+      },
+      {
+        "index": -1,
+        "headline": "Radix links $1.3 million vault drain to 2023 code flaw.",
+        "summary": "The August 31 exploit forced validators to halt the network for ten days after funds were stolen.",
+        "link": "https://hashtagweb3.com/radix-halt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Radix Traces $1.3M Vault Drain to 2023 Code Cleanup"
+      },
+      {
+        "index": 1,
+        "headline": "IMF grants El Salvador $138 million following Bitcoin agreement",
+        "summary": "The country agreed to limit state involvement in Bitcoin and strengthen cryptocurrency regulations to secure the funding.",
+        "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "El Salvador receives $138 million from IMF after Bitcoin waivers granted"
+      }
+    ],
+    "slotKey": "2026-10-04:afternoon"
   }
 }
