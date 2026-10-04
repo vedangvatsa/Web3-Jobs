@@ -793,5 +793,52 @@
     "slotKey": "2026-10-04:afternoon",
     "messageId": 155591,
     "sentAt": "2026-10-04T11:32:04.678Z"
+  },
+  "2b2a5bc5-eb93-4b0f-880d-a0df58e70bb9": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T19:31:50.662Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-token2049-origins-2026",
+        "slug": "token2049-origins",
+        "name": "TOKEN2049 Origins Hackathon 2026",
+        "startDate": "2026-10-06T09:00:00+08:00",
+        "keys": [
+          "premier-token2049-origins-2026",
+          "page:token2049-origins:2026-10-06",
+          "url:token2049.com/singapore/2049-origins:2026-10-06",
+          "event:token2049originshackathon2026:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "w3v-ai--formal-verification-for-onchain-finance",
+        "slug": "afvof",
+        "name": "AI & Formal Verification for Onchain Finance | Token2049 Singapore",
+        "startDate": "2026-10-06T01:00:00.000Z",
+        "keys": [
+          "w3v-ai--formal-verification-for-onchain-finance",
+          "page:afvof:2026-10-06",
+          "luma:evt-kd8modagxp3e7nt",
+          "luma-url:/craugplf",
+          "event:aiformalverificationforonchainfinancetoken2049singapore:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "token2049-side-6a7a76aa3647af5c01c0653d",
+        "slug": "solana-summit",
+        "name": "Solana Summit Singapore",
+        "startDate": "2026-10-06T01:00:00.000Z",
+        "keys": [
+          "token2049-side-6a7a76aa3647af5c01c0653d",
+          "page:solana-summit:2026-10-06",
+          "luma:evt-zcbbee6gdxtsbez",
+          "luma-url:/solana-summit-singapore-2026",
+          "event:solanasummitsingapore:2026-10-06:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-04:evening"
   }
 }
