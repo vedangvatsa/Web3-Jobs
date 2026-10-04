@@ -615,5 +615,22 @@
     "slotKey": "2026-10-04:morning",
     "messageId": 193316,
     "sentAt": "2026-10-04T03:53:53.005Z"
+  },
+  "ec631394-7c1d-45b4-9d6f-ccee33510cff": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T11:34:15.922Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Meta wants your next gadget to be Muse-infused",
+        "headline": "Meta releases Muse model code as open source",
+        "summary": "The company is providing the underlying code for its image generation model to developers for free integration into hardware.",
+        "event_rationale": "This covers the open-source release of a specific generative AI model by Meta, distinct from previous model releases or company business updates.",
+        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+        "source": "TechCrunch",
+        "originalTitle": "Meta wants your next gadget to be Muse-infused"
+      }
+    ],
+    "slotKey": "2026-10-04:afternoon"
   }
 }
