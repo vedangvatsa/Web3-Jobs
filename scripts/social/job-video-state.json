@@ -763,9 +763,10 @@
           "url": "https://www.instagram.com/reel/DeDrIDRDWAD/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "New York Office\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-04T03:31:48.423Z"
+          "startedAt": "2026-10-04T03:31:48.423Z",
+          "postId": "6ac1c8a57d53b827e0f8c3ae"
         }
       }
     },
