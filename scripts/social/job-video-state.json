@@ -879,9 +879,10 @@
           "url": "https://www.youtube.com/watch?v=QZWZ3L4xI7U"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Product Manager - Core Product at Kalshi. New York Office · $150k - $250k/yr.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-04T11:33:17.758Z"
+          "startedAt": "2026-10-04T11:33:17.758Z",
+          "postId": "6ac2397fd8dbde86e144ac0b"
         }
       }
     }
