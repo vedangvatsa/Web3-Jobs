@@ -662,6 +662,9 @@
   "https://hashtagweb3.com/glamsterdam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
   "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+  "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+  "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+  "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1894,6 +1897,12 @@
   "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
   "OpenAI Bans PewDiePie Twice During Local AI Development",
   "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+  "OpenPayd targets Nasdaq listing for US expansion",
+  "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+  "Bank of New York Mellon discusses infrastructure partnership with Kraken",
+  "Crypto job postings triple to over 1,200 in September, but applications fall",
+  "Donald Trump to Attend Dinner for TRUMP Token Holders",
+  "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2106,5 +2115,8 @@
   "fp:42b|anchorag|asset|bank|charter|cuts17|digital|expand|federally|institutional",
   "fp:all|clear|deployment|devnet11|glamsterdam|nethermind|october6|pass|path|performanc",
   "fp:burn|chang|contributor|cor|developer|eip8363|feedback|hegota|inappropriat|issuanc",
-  "fp:account|ajax|ban|bann|built|claim|computer|design|development|dur"
+  "fp:account|ajax|ban|bann|built|claim|computer|design|development|dur",
+  "fp:acquisition|american|april2027|end|entry|expansion|firm|fund|list|market",
+  "fp:200|application|bank|custody|discuss|exchang|fall|giant|infrastructur|job",
+  "fp:another|are|attend|coin|conflict|cryptocurrency|debat|detail|dinner|donald"
 ]
