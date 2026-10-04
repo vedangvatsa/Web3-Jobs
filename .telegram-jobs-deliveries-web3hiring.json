@@ -1288,7 +1288,7 @@
     "sentAt": "2026-10-04T11:32:27.333Z"
   },
   "66177254-559d-4322-8b5d-99739248dd47": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-04T19:32:08.068Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -1329,6 +1329,8 @@
       }
     ],
     "message": "• Paxos is hiring <a href=\"https://hashtagweb3.com/corporate7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Corporate Development Lead</a>\n• Sardine is hiring <a href=\"https://hashtagweb3.com/manager717?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Program Manager</a>\n• Kalshi is hiring <a href=\"https://hashtagweb3.com/marketing91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Growth - Perps</a>\n• Alchemy is hiring <a href=\"https://hashtagweb3.com/mkt67?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Growth Marketing Lead</a>\n• Tether is hiring <a href=\"https://hashtagweb3.com/devops135?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">DevOps Engineer</a>",
-    "slotKey": "2026-10-04:evening"
+    "slotKey": "2026-10-04:evening",
+    "messageId": 16504,
+    "sentAt": "2026-10-04T19:32:10.270Z"
   }
 }
