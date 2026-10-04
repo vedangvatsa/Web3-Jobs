@@ -667,5 +667,36 @@
     "slotKey": "2026-10-04:afternoon",
     "messageId": 155593,
     "sentAt": "2026-10-04T11:35:00.897Z"
+  },
+  "73b9d04f-3bf2-4a82-bb77-4ac2bb5d5543": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T19:32:46.342Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC grants five-year exemption for tokenized stock platforms",
+        "summary": "The regulator permitted platforms to trade these assets via automated market makers without registering, excluding synthetic tokens.",
+        "link": "https://hashtagweb3.com/sec-exemption?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Issues Five-Year Exemption for Tokenized Stock Venues"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand Proposes Daily Stablecoin Transfer Limit",
+        "summary": "Proposed rules would limit daily transactions to five million baht and ban third-party wallet transfers.",
+        "link": "https://hashtagweb3.com/thailand-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand Proposes 5 Million Baht Stablecoin Transfer Cap"
+      },
+      {
+        "index": -1,
+        "headline": "VeChain to Launch Interstellar Hardfork on September 16",
+        "summary": "The network will adopt 11 Ethereum improvements at block 25,902,540 to improve EVM compatibility.",
+        "link": "https://hashtagweb3.com/vechain-interstellar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VeChain Interstellar Hardfork Set for Sept 16"
+      }
+    ],
+    "slotKey": "2026-10-04:evening"
   }
 }
