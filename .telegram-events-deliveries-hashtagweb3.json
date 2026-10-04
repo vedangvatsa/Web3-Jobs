@@ -743,5 +743,53 @@
     "slotKey": "2026-10-04:morning",
     "messageId": 155587,
     "sentAt": "2026-10-04T03:52:42.493Z"
+  },
+  "f41cfb9d-10d8-4303-98ba-7c1f689f4c56": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T11:32:00.161Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-evt-mpuoHZfEeAywllH",
+        "slug": "web3-founders",
+        "name": "Web3 Founders & Builders Boat Party - TOKEN2049🇸🇬",
+        "startDate": "2026-10-05T09:00:00.000Z",
+        "keys": [
+          "token2049-evt-mpuohzfeeaywllh",
+          "page:web3-founders:2026-10-05",
+          "luma:evt-mpuohzfeeaywllh",
+          "luma-url:/zn7y3boz",
+          "event:web3foundersbuildersboatpartytoken2049:2026-10-05:singapore"
+        ]
+      },
+      {
+        "id": "w3v-spacey-ventures-web3-synergy-night",
+        "slug": "spacey-ventures",
+        "name": "SPACEY VENTURES: Web3 Synergy Night",
+        "startDate": "2026-10-05T09:00:00.000Z",
+        "keys": [
+          "w3v-spacey-ventures-web3-synergy-night",
+          "page:spacey-ventures:2026-10-05",
+          "luma:evt-ucnapus4maaqsjm",
+          "luma-url:/ss4ktzkq",
+          "event:spaceyventuresweb3synergynight:2026-10-05:singapore"
+        ]
+      },
+      {
+        "id": "token2049-side-6aa13a9bd567345aad685089",
+        "slug": "blockchain-com2",
+        "name": "Blockchain.com: Breakfast Inc.",
+        "startDate": "2026-10-06T00:30:00.000Z",
+        "keys": [
+          "token2049-side-6aa13a9bd567345aad685089",
+          "page:blockchain-com2:2026-10-06",
+          "luma:evt-u8gtbmmd55dqssz",
+          "luma-url:/blockc-ld75",
+          "event:blockchaincombreakfastinc:2026-10-06:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-04:afternoon"
   }
 }
