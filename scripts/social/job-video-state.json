@@ -903,11 +903,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Product Manager - Market Data at Alpaca\n\nRemote - Americas\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #RemoteJobs",
           "startedAt": "2026-10-04T19:31:15.582Z",
           "containerId": "17916287802461009",
-          "postId": "18024393233878245"
+          "postId": "18024393233878245",
+          "url": "https://www.instagram.com/reel/DeFZBO9gQ9R/"
         }
       }
     },
