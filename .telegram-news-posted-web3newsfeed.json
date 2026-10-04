@@ -695,6 +695,9 @@
   "https://hashtagweb3.com/libra-ruling?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/near-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/peirce-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/quantum-cost?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcash-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1989,6 +1992,12 @@
   "NEAR Intents loses $3.8 million in smart contract exploit",
   "IMF Provides $138 Million to El Salvador After Bitcoin Waivers",
   "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+  "SEC Commissioner Hester Peirce to Resign on October 2",
+  "SEC Commissioner Hester Peirce to Leave Post on Oct. 2",
+  "StarkWare cuts estimated quantum-safe Bitcoin transaction costs",
+  "StarkWare reports 79% cut in estimated quantum-safe Bitcoin compute cost",
+  "Grayscale Schedules 3-for-1 Share Split for Zcash ETF",
+  "Grayscale Sets 3-for-1 Split for Zcash ETF",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2213,5 +2222,8 @@
   "fp:another|are|attend|coin|cryptocurrency|debat|detail|dinner|donald|event",
   "fp:action|add|additional|claim|class|court|deni|dismiss|judg|lawsuit",
   "fp:38m|chain|contract|exploit|follow|full|intent|los|multi|near",
-  "fp:138m|government|grant|imf|improv|operation|participation|plan|provid|receiv"
+  "fp:138m|government|grant|imf|improv|operation|participation|plan|provid|receiv",
+  "fp:agency|commissioner|eight|forc|her|hester|includ|lead|leav|oct2",
+  "fp:access|challeng|comput|cost|cut|estimat|experimental|gpu|limit|production",
+  "fp:asset|etf|for1|fund|grayscal|lower|nearly|reach|schedules3|september29"
 ]
