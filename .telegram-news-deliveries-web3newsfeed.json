@@ -669,7 +669,7 @@
     "sentAt": "2026-10-04T03:55:35.995Z"
   },
   "09d7b2ca-e27b-4b63-b956-ad262ce4e1a7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-04T11:35:43.659Z",
     "stories": [
       {
@@ -697,6 +697,8 @@
         "originalTitle": "El Salvador receives $138 million from IMF after Bitcoin waivers granted"
       }
     ],
-    "slotKey": "2026-10-04:afternoon"
+    "slotKey": "2026-10-04:afternoon",
+    "messageId": 65728,
+    "sentAt": "2026-10-04T11:35:46.046Z"
   }
 }

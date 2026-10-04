@@ -692,6 +692,9 @@
   "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
   "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
   "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+  "https://hashtagweb3.com/libra-ruling?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/near-exploit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1980,6 +1983,12 @@
   "Crypto job postings triple to over 1,200 in September, but applications fall",
   "Donald Trump to Attend Dinner for Top Meme Coin Holders",
   "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+  "Judge Permanently Dismisses LIBRA Memecoin Class Action Lawsuit",
+  "Judge Dismisses LIBRA Memecoin Class Action With Prejudice",
+  "NEAR Intents Pauses Operations After $3.8 Million Exploit",
+  "NEAR Intents loses $3.8 million in smart contract exploit",
+  "IMF Provides $138 Million to El Salvador After Bitcoin Waivers",
+  "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2201,5 +2210,8 @@
   "fp:387m|annual|back|bitget|blockchain|chainalysis|four|fund|hack|haul",
   "fp:ajax|anchorag|bank|bann|built|capital|despit|digital|effort|expansion",
   "fp:200|application|burn|contributor|cor|developer|eip8363|fall|feedback|follow",
-  "fp:another|are|attend|coin|cryptocurrency|debat|detail|dinner|donald|event"
+  "fp:another|are|attend|coin|cryptocurrency|debat|detail|dinner|donald|event",
+  "fp:action|add|additional|claim|class|court|deni|dismiss|judg|lawsuit",
+  "fp:38m|chain|contract|exploit|follow|full|intent|los|multi|near",
+  "fp:138m|government|grant|imf|improv|operation|participation|plan|provid|receiv"
 ]
