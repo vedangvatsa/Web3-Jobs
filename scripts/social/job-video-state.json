@@ -918,10 +918,11 @@
           "error": "Error: Video ledger PUT failed — HTTP 409"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Product Manager - Market Data at Alpaca. Remote - Americas.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-04T19:32:01.679Z",
-          "postId": "6ac2a9b38f73649f46184be2"
+          "postId": "6ac2a9b38f73649f46184be2",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692897765512285473"
         }
       }
     },
