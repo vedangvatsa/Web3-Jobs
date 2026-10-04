@@ -6,20 +6,26 @@ Work in the repository root (current working directory on the runner).
 Do not launch the site. Do not signal or stop other processes.
 This is a fresh checkout. Do not assume an earlier run left uncommitted drafts.
 Read tips and run discovery on every run, including when the working tree is clean.
-Then research, write, validate, and commit qualifying new articles and their images.
+Then research, write and validate qualifying new articles and their images.
+CI owns commits and pushes. Do not run git commit, git push or git rebase.
+There is one daily news batch and one scheduled website deployment slot.
 
 ## 0. Tips first (mandatory)
 
-Read `content/news-tips.md` FIRST. Every pending lead there was hand-picked
-because RSS missed it — verify its date/facts like any other story and cover
-it if it qualifies (fresh, verifiable, concrete, not a duplicate). In a live
-run, delete the lines you covered or rejected-as-stale in the same commit.
+Read `content/news-tips.md` FIRST, then `.cache/news-research/queue.json`.
+The queue includes those tips, fresh feed candidates, and deferred leads from
+earlier daily runs. Verify dates and facts for tips just as for feed stories.
+Record their outcomes by candidate ID; CI removes resolved tip lines.
 
-## 1. Discover (5 min)
+## 1. Review the entire daily queue
 
-Run: `node scripts/news-discover.mjs --hours 24 --max 40`
-(Candidates with `alsoCoveredBy` are multi-outlet stories — prefer those.)
-Write every story that qualifies. There is no article-count cap. A story qualifies ONLY if ALL hold:
+Run `node scripts/news-research.mjs queue`. Review EVERY assigned candidate,
+including deferred leads. There is no two- or three-article target and no article
+count cap. Do not stop when the first few articles are done. Prefer candidates
+with several source URLs, then pursue alternate outlets and primary records when
+a source is blocked. A five-minute discovery pass is not a research deadline.
+
+Write every story that qualifies. A story qualifies ONLY if ALL hold:
 - Published within the lookback window (fresh news, not analysis of old events).
 - Has a verifiable primary source when one exists, and at least two independent
   sources you can open and read on separate sites. Two is the minimum; more is fine.
@@ -30,9 +36,34 @@ Write every story that qualifies. There is no article-count cap. A story qualifi
   price chatter, predictions, explainers, or opinion.
 - Exclusions: job boards, token/price-calendar items, rumors from a single weak source.
 
-If nothing qualifies after discovery and research, print the candidates reviewed
-and specific rejection reasons. Then STOP. Commit nothing, push nothing, exit 0.
-Slow-news days with zero output are correct behavior.
+Every candidate must end with a recorded outcome: ready, rejected or deferred.
+Source access failures and missing corroboration are deferrals, not permanent
+rejections. Deferred leads return in the next daily batch for up to 72 hours from
+their original publication (or discovery for undated manual tips). Recheck that
+the development is still timely; never present an old event as having happened today.
+
+Use the CLI to record each result. For example:
+
+```sh
+node scripts/news-research.mjs record --id=<candidate-id> --status=ready --article=<short-slug> --note="Verified the filing and matched the reported figures across these sources." --read=https://source-one.example/report --read=https://source-two.example/report
+node scripts/news-research.mjs record --id=<candidate-id> --status=deferred --reason=source-blocked --note="Read the company filing; the independent report returned HTTP 403." --read=https://company.example/filing --blocked=https://outlet.example/report --search="Find independent reporting on this filing and its confirmed figures"
+node scripts/news-research.mjs record --id=<candidate-id> --status=rejected --reason=duplicate --duplicate=<existing-news-slug> --note="This covers the same filing and announcement as the existing report."
+```
+
+Use only real URLs actually attempted, and mark `--read` only after opening and
+reading the source. Repeat `--read`, `--blocked` or `--unavailable` for each URL.
+Deferrals require a specific `--search` instruction for the next attempt.
+Other rejection reasons are out-of-scope, opinion, price-chatter, stale,
+not-a-concrete-event or promotional. Record a specific explanation for each.
+Do not reject a story merely because verification takes longer than the first attempt.
+If research uncovers another fresh event outside the queue, register it before
+drafting with `node scripts/news-research.mjs add --link=<source-url> --title="<headline>" --published=<source-ISO-date> --source="<source-name>"`.
+For two candidates covering the same event, draft it once and record the second
+as a duplicate of that ready article slug.
+
+Run `node scripts/news-research.mjs report` before stopping. Zero articles is a
+valid outcome only when every candidate has an explained disposition. An
+unreviewed candidate makes the run incomplete even when other drafts are ready.
 
 ## 2. Research (mandatory)
 
@@ -122,10 +153,10 @@ When in doubt, shorter and plainer wins.
   front matter is on disk under `public/images/news/`. Do not curl a page
   and do not start a server to check this.
 
-## 5. Gates (all must pass — repair once, else drop the story)
+## 5. Gates (all must pass; unresolved failures need a quality-gate deferral)
 
 - `npx tsx scripts/audit-article-quality.ts --report` → your files clean
-  (pre-existing failures elsewhere are baseline; yours must be absent).
+   (pre-existing failures elsewhere are baseline; yours must be absent).
 - `npx tsx scripts/audit-article-images.ts` → zero failures repo-wide
   (this is a hard gate: missing/tiny/placeholder heroes and absent photo
   credits fail it).
@@ -139,22 +170,19 @@ When in doubt, shorter and plainer wins.
 - Slug is 1-2 lowercase hyphenated words, no collision with existing files.
 - Never touch unrelated files.
 
-## 6. Publish
+## 6. Finish the daily review
 
 DRY-RUN VALUE FOR THIS RUN: $DRY_RUN
-- If that value is true, git commit and git push are FORBIDDEN. Draft files
-  may exist in the working tree for gating, but create NO commits and push
-  nothing — print the summary and stop.
-  (The git remote is also disabled in dry-run mode, so any push attempt
-  will fail — treat that failure as confirmation, not as something to fix.)
-- In a live run, `git add` ONLY your new article files and their local hero images
-  (+ next.config.mjs only if you added an image host). Git identity is already
-  configured on the runner — do NOT pass `-c user.name`/`-c user.email`,
-  and do NOT run `git rebase --continue` unless a rebase is actually
-  stopped on a conflict.
-- Commit message: `news: add <slug>[, <slug>] for <YYYY-MM-DD>`.
-- Push with rebase retry (max 3): pull --rebase, push; never force-push.
-  If a pull --rebase reports conflicts you cannot resolve cleanly, stop
-  WITHOUT pushing: exit 0 with drafts uncommitted in the working tree and
-  print PUSH_BLOCKED plus the conflicting files.
-- Print a final summary: files added, word counts, sources used, audits green.
+- Do not commit or push in either mode. Do not edit generated catalogs, prebuild
+  hashes, workflow files or the ledger JSON directly. Use the review CLI.
+- Mark qualifying articles ready only after their audits pass. CI independently
+  validates quality, images, formatting, duplicates, typecheck and source links.
+- Move your own rejected/incomplete draft files out of `content/articles/` into
+  `.cache/news-research/recovery/`; keep their deferred review records. Every draft
+  left in `content/articles/` must have a ready outcome. Never move existing articles.
+- CI publishes approved article files, their images and the review ledger together
+  after the full daily review is complete. Unreviewed candidates or failed gates
+  keep the batch incomplete. Recovery artifacts retain the draft files.
+- In dry-run mode, CI creates no commits or posts.
+- End with the candidate report, files drafted, word counts, sources read and
+  explicit blockers. A source that remains blocked must have a deferred record.

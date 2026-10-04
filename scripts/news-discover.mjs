@@ -1,24 +1,14 @@
-/**
- * news-discover.mjs — fetch crypto RSS feeds, keep stories from the last
- * N hours, drop anything overlapping existing article slugs/titles, and
- * print a ranked candidate list as JSON for the news-writing agent.
- *
- * Usage: node scripts/news-discover.mjs [--hours 10] [--max 12]
- * No dependencies. Exits 0 with [] when nothing qualifies (slow-news days
- * must not fail the workflow).
- */
+import fs from 'node:fs';
+import path from 'node:path';
+import { pathToFileURL } from 'node:url';
+import matter from 'gray-matter';
 
-import fs from 'fs';
-import path from 'path';
-
-const FEEDS = [
-  // Tier 1: major crypto outlets
+export const FEEDS = [
   { name: 'CoinDesk', url: 'https://www.coindesk.com/arc/outboundfeeds/rss' },
   { name: 'Cointelegraph', url: 'https://cointelegraph.com/rss' },
   { name: 'The Block', url: 'https://www.theblock.co/rss.xml' },
   { name: 'Blockworks', url: 'https://blockworks.com/feed' },
   { name: 'Decrypt', url: 'https://decrypt.co/feed' },
-  // Tier 2: more outlets (different editorial picks, faster on niche stories)
   { name: 'Crypto Briefing', url: 'https://cryptobriefing.com/feeds/' },
   { name: 'CryptoSlate', url: 'https://cryptoslate.com/feed/' },
   { name: 'BeInCrypto', url: 'https://beincrypto.com/feed/' },
@@ -27,176 +17,142 @@ const FEEDS = [
   { name: 'The Defiant', url: 'https://thedefiant.io/api/feed' },
   { name: 'Unchained', url: 'https://unchainedcrypto.com/feed/' },
   { name: 'Bankless', url: 'https://www.bankless.com/rss/feed' },
-  // Primary sources: announcements regulators/wires publish first,
-  // often hours before outlets (or never, for niche items)
   { name: 'SEC Press Releases', url: 'https://www.sec.gov/news/pressreleases.rss' },
   { name: 'Chainwire', url: 'https://chainwire.org/feed/' },
   { name: 'Ethereum Foundation', url: 'https://blog.ethereum.org/en/feed.xml' },
 ];
 
-const args = process.argv.slice(2);
-const hours = Number((args[args.indexOf('--hours') + 1]) || process.env.NEWS_LOOKBACK_HOURS || 10);
-const maxOut = Number((args[args.indexOf('--max') + 1]) || 12);
-
-function stripTags(s) {
-  return (s || '')
-    .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&#39;|&apos;/g, "'")
-    .replace(/&quot;/g, '"')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/\s+/g, ' ')
-    .trim();
+export function canonicalNewsUrl(value) {
+  try {
+    const url = new URL(value);
+    if (!['http:', 'https:'].includes(url.protocol) || url.username || url.password) return '';
+    url.hostname = url.hostname.toLowerCase().replace(/^www\./, '');
+    url.hash = '';
+    for (const key of [...url.searchParams.keys()]) if (/^utm_|^(fbclid|gclid)$/i.test(key)) url.searchParams.delete(key);
+    url.searchParams.sort();
+    return `${url.hostname}${url.pathname.replace(/\/$/, '')}${url.search}`;
+  } catch { return ''; }
 }
 
-function pickTag(block, names) {
-  for (const n of names) {
-    const m = block.match(new RegExp(`<${n}[^>]*>([\\s\\S]*?)<\\/${n}>`, 'i'));
-    if (m) return stripTags(m[1]);
+const STOP = new Set('a an the and or with for from after amid into over under of to on in at as is are was were its it this that by says said new latest news crypto web3'.split(' '));
+const normalizedTitle = title => String(title || '').normalize('NFKD').toLowerCase().replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+const ACTIONS = [
+  /\b(approve[sd]?|adopt[sed]*|passes?|passed|wins?)\b/i,
+  /\b(reject[sed]*|denie[sd]|blocks?|blocked|dismiss[sed]*)\b/i,
+  /\b(propos[ea-z]*|plans?|appl[yi][a-z]*|seeks?)\b/i,
+  /\b(recover[a-z]*|return[sed]*|repaid|repays?|refund[a-z]*)\b/i,
+  /\b(hack[a-z]*|exploit[a-z]*|stolen|breach[a-z]*|theft)\b/i,
+];
+function tokens(title) {
+  return new Set(normalizedTitle(String(title).replace(/\b(erc|eip|bip)[ -]?(\d+)\b/ig, '$1$2')).split(/\s+/).filter(word => word && !STOP.has(word)));
+}
+
+export function sameNewsStory(first, second) {
+  if (!first || !second) return false;
+  if (normalizedTitle(first) === normalizedTitle(second)) return true;
+  const actionsA = ACTIONS.flatMap((pattern, index) => pattern.test(first) ? [index] : []), actionsB = ACTIONS.flatMap((pattern, index) => pattern.test(second) ? [index] : []);
+  if (actionsA.length && actionsB.length && actionsA.join(',') !== actionsB.join(',')) return false;
+  const a = tokens(first), b = tokens(second);
+  const numbersA = [...a].filter(token => /\d/.test(token)), numbersB = [...b].filter(token => /\d/.test(token));
+  if (numbersA.length && numbersB.length && !numbersA.some(token => numbersB.includes(token))) return false;
+  const shared = [...a].filter(token => b.has(token)).length;
+  return shared >= 4 && shared / (a.size + b.size - shared) >= 0.72;
+}
+
+export function readNewsArticles(cwd = process.cwd()) {
+  const directory = path.join(cwd, 'content/articles');
+  return fs.readdirSync(directory).filter(file => file.endsWith('.md') && file !== 'AGENTS.md').flatMap(file => {
+    const { data, content } = matter(fs.readFileSync(path.join(directory, file), 'utf8'));
+    if (data.category !== 'News' || typeof data.title !== 'string') return [];
+    return [{ slug: file.slice(0, -3), title: data.title, published: new Date(data.publishedDate || 0).toISOString(), sourceUrls: [...content.matchAll(/\]\((https?:\/\/[^\s)]+)/g)].map(match => canonicalNewsUrl(match[1])).filter(Boolean) }];
+  });
+}
+
+export function coveredByArticle(candidate, articles) {
+  const urls = [candidate.link, ...(candidate.sources || []).map(source => source.url)].map(canonicalNewsUrl).filter(Boolean);
+  return articles.find(article => urls.some(url => article.sourceUrls?.includes(url)) || normalizedTitle(candidate.title) === normalizedTitle(article.title)
+    || (Math.abs(Date.parse(candidate.published) - Date.parse(article.published)) <= 7 * 86400000 && sameNewsStory(candidate.title, article.title)));
+}
+
+function stripTags(value) {
+  return String(value || '').replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/<[^>]+>/g, ' ')
+    .replace(/&#(\d+);/g, (_, code) => Number(code) <= 0x10ffff ? String.fromCodePoint(Number(code)) : '')
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => parseInt(code, 16) <= 0x10ffff ? String.fromCodePoint(parseInt(code, 16)) : '')
+    .replace(/&apos;/g, "'").replace(/&quot;/g, '"').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/\s+/g, ' ').trim();
+}
+function tag(block, names) {
+  for (const name of names) {
+    const match = block.match(new RegExp(`<${name}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${name}>`, 'i'));
+    if (match) return stripTags(match[1]);
   }
   return '';
 }
-
-function parseFeed(xml) {
-  const items = [];
-  const blocks = xml.match(/<(item|entry)[\s>][\s\S]*?<\/(item|entry)>/gi) || [];
-  for (const b of blocks) {
-    const title = pickTag(b, ['title']);
-    let link = pickTag(b, ['link']);
-    if (!link) {
-      const lm = b.match(/<link[^>]*href="([^"]+)"/i);
-      if (lm) link = lm[1];
-    }
-    const pub = pickTag(b, ['pubDate', 'published', 'updated', 'dc:date']);
-    if (title && link) items.push({ title, link, pubDate: pub });
-  }
-  return items;
+export function parseFeed(xml) {
+  return (xml.match(/<(item|entry)(?:\s[^>]*)?>[\s\S]*?<\/(item|entry)>/gi) || []).flatMap(block => {
+    const title = tag(block, ['title']);
+    const links = [...block.matchAll(/<link\b([^>]*)\/?>/gi)].map(match => ({ href: match[1].match(/\bhref=["']([^"']+)["']/i)?.[1], rel: match[1].match(/\brel=["']([^"']+)["']/i)?.[1] }));
+    const link = tag(block, ['link']) || stripTags((links.find(link => link.rel === 'alternate') || links.find(link => !link.rel))?.href);
+    const pubDate = tag(block, ['pubDate', 'published', 'updated', 'dc:date']);
+    return title && canonicalNewsUrl(link) ? [{ title, link, pubDate }] : [];
+  });
 }
 
-// Tokens from existing slugs/titles so we skip stories we already covered.
-function existingTokens() {
-  const dir = path.join(process.cwd(), 'content', 'articles');
-  const toks = new Set();
-  for (const f of fs.readdirSync(dir)) {
-    if (!f.endsWith('.md') || f === 'AGENTS.md') continue;
-    const raw = fs.readFileSync(path.join(dir, f), 'utf8');
-    const m = raw.match(/^title:\s*(.+)$/m);
-    const words = ((m ? m[1] : '') + ' ' + f.replace(/\.md$/, '').replace(/-/g, ' '))
-      .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 4);
-    for (const w of words) toks.add(w);
-  }
-  return toks;
+export function rankScore(title) {
+  let score = 0;
+  if (/\b(sec|fca|cftc|senate|house|vote|bill|act|lawsuit|court|fine|ban|license|etf|staking|reserve|audit)\b/i.test(title)) score += 3;
+  if (/\b(launch|mainnet|upgrade|hardfork|raises|funding|invests|partnership|acquires)\b/i.test(title)) score += 2;
+  if (/\b(hack|exploit|breach|drain|phishing|scam|rug)\b/i.test(title)) score += 2;
+  if (/\b(bitcoin|ethereum|solana|xrp|blackrock|coinbase|binance|circle|tether)\b/i.test(title)) score++;
+  if (/\b(price prediction|price analysis|will .* (hit|reach)|top .* to buy|explain(ed)?|what is|how to|guide)\b/i.test(title)) score -= 4;
+  return score;
 }
 
-function overlapScore(title, toks) {
-  const words = title.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 4);
-  if (!words.length) return 0;
-  let hit = 0;
-  for (const w of words) if (toks.has(w)) hit++;
-  return hit / words.length;
-}
-
-// Jaccard similarity of a candidate title against every existing article
-// title+slug. Catches same-story-different-words that token overlap misses.
-function titleSets() {
-  const dir = path.join(process.cwd(), 'content', 'articles');
-  const sets = [];
-  for (const f of fs.readdirSync(dir)) {
-    if (!f.endsWith('.md') || f === 'AGENTS.md') continue;
-    const raw = fs.readFileSync(path.join(dir, f), 'utf8');
-    const m = raw.match(/^title:\s*(.+)$/m);
-    const set = new Set((((m ? m[1] : '') + ' ' + f.replace(/\.md$/, '').replace(/-/g, ' '))
-      .toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 3)));
-    if (set.size) sets.push({ file: f, set });
-  }
-  return sets;
-}
-
-function maxJaccard(title, sets) {
-  const mine = new Set(title.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 3));
-  if (!mine.size) return { score: 0, file: null };
-  let best = { score: 0, file: null };
-  for (const { file, set } of sets) {
-    let inter = 0;
-    for (const w of mine) if (set.has(w)) inter++;
-    const s = inter / (mine.size + set.size - inter);
-    if (s > best.score) best = { score: s, file };
-  }
-  return best;
-}
-
-// Prefer regulation, ETF, majors, launches; demote price-chatter and evergreen guides.
-function rankScore(title) {
-  const t = title.toLowerCase();
-  let s = 0;
-  if (/\b(sec|fca|cftc|senate|house|vote|bill|act|lawsuit|court|fine|ban|license|etf|staking|reserve|audit)\b/.test(t)) s += 3;
-  if (/\b(launch|mainnet|upgrade|hardfork|raises|funding|invests|partnership|acquires)\b/.test(t)) s += 2;
-  if (/\b(hack|exploit|breach|drain|phishing|scam|rug)\b/.test(t)) s += 2;
-  if (/\b(prize|grant|bounty|hackathon|airdrop|rewards program)\b/.test(t)) s += 2;
-  if (/\b(bitcoin|ethereum|solana|xrp|blackrock|coinbase|binance|circle|tether)\b/.test(t)) s += 1;
-  if (/\b(price prediction|price analysis|will .* (hit|reach)|top .* to buy|explain(ed)?|what is|how to|guide)\b/.test(t)) s -= 4;
-  return s;
-}
-
-async function fetchFeed(feed) {
+async function fetchFeed(feed, request) {
   try {
-    const res = await fetch(feed.url, {
-      headers: { 'User-Agent': 'HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com)', Accept: 'application/rss+xml, application/xml, text/xml' },
-      signal: AbortSignal.timeout(25000),
-    });
-    if (!res.ok) return [];
-    return parseFeed(await res.text()).map((it) => ({ ...it, source: feed.name }));
-  } catch {
-    return []; // a dead feed must never fail the run
+    const response = await request(feed.url, { headers: { 'User-Agent': 'HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com)', Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml' }, signal: AbortSignal.timeout(25000) });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const xml = await response.text();
+    if (!/<(?:rss|feed|rdf:RDF)\b/i.test(xml)) throw new Error('Response is not an RSS/Atom feed');
+    return { source: feed.name, url: feed.url, ok: true, items: parseFeed(xml) };
+  } catch (error) { return { source: feed.name, url: feed.url, ok: false, error: String(error), items: [] }; }
+}
+
+export async function discoverNews({ hours = 24, max = Infinity, now = Date.now(), articles = readNewsArticles(), feeds = FEEDS, request = fetch } = {}) {
+  if (!Number.isFinite(hours) || hours <= 0 || !(max === Infinity || Number.isInteger(max) && max > 0)) throw new Error('Invalid discovery window or limit');
+  const results = await Promise.all(feeds.map(feed => fetchFeed(feed, request)));
+  const candidates = [], seen = new Map();
+  for (const feed of results) for (const item of feed.items) {
+    const time = Date.parse(item.pubDate), url = canonicalNewsUrl(item.link);
+    if (!Number.isFinite(time) || time < now - hours * 3600000 || time > now) continue;
+    const source = { name: feed.source, url: item.link, published: new Date(time).toISOString() };
+    const match = seen.get(url) || candidates.find(candidate => sameNewsStory(candidate.title, item.title));
+    if (match) {
+      if (!match.sources.some(entry => canonicalNewsUrl(entry.url) === url)) match.sources.push(source);
+      if (feed.source !== match.source && !match.alsoCoveredBy.includes(feed.source)) match.alsoCoveredBy.push(feed.source);
+      seen.set(url, match);
+      continue;
+    }
+    const candidate = { source: feed.source, title: item.title, link: item.link, published: source.published, score: rankScore(item.title), sources: [source], alsoCoveredBy: [] };
+    const covered = coveredByArticle(candidate, articles);
+    if (covered) candidate.coveredBy = covered.slug;
+    candidates.push(candidate); seen.set(url, candidate);
   }
-}
-
-function titleSetOf(title) {
-  return new Set(title.toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/).filter((w) => w.length > 3));
-}
-
-function jaccardSets(a, b) {
-  if (!a.size || !b.size) return 0;
-  let inter = 0;
-  for (const w of a) if (b.has(w)) inter++;
-  return inter / (a.size + b.size - inter);
+  for (const candidate of candidates) {
+    const covered = coveredByArticle(candidate, articles);
+    if (covered) candidate.coveredBy = covered.slug;
+  }
+  candidates.sort((a, b) => b.score - a.score || b.published.localeCompare(a.published));
+  return { candidates: candidates.slice(0, max), feeds: results.map(({ items, ...feed }) => ({ ...feed, items: items.length })), total: candidates.length };
 }
 
 async function main() {
-  const cutoff = Date.now() - hours * 3600 * 1000;
-  const toks = existingTokens();
-  const sets = titleSets();
-  const seen = new Set();
-  const out = [];
-  const fetched = await Promise.all(FEEDS.map(fetchFeed));
-  for (const it of fetched.flat()) {
-    const ts = it.pubDate ? Date.parse(it.pubDate) : NaN;
-    if (Number.isNaN(ts) || ts < cutoff) continue;
-    if (seen.has(it.link)) continue;
-    seen.add(it.link);
-    const overlap = overlapScore(it.title, toks);
-    if (overlap >= 0.45) continue; // already covered
-    const near = maxJaccard(it.title, sets);
-    if (near.score >= 0.5) continue; // same story, different words
-    out.push({ source: it.source, title: it.title, link: it.link, published: new Date(ts).toISOString(), score: rankScore(it.title) });
-  }
-  out.sort((a, b) => b.score - a.score || (b.published > a.published ? 1 : -1));
-  // Cross-outlet dedup: 16 feeds report the same story with different
-  // URLs/titles. Keep the first (highest-ranked), merge sources into it.
-  const accepted = [];
-  for (const c of out) {
-    const cs = titleSetOf(c.title);
-    const dup = accepted.find((a) => jaccardSets(cs, titleSetOf(a.title)) >= 0.6);
-    if (dup) {
-      if (!dup.alsoCoveredBy.includes(c.source)) dup.alsoCoveredBy.push(c.source);
-      continue;
-    }
-    accepted.push({ ...c, alsoCoveredBy: [] });
-    if (accepted.length >= maxOut) break;
-  }
-  console.log(JSON.stringify(accepted, null, 2));
+  const args = process.argv.slice(2);
+  const option = (name, fallback) => args.includes(name) ? Number(args[args.indexOf(name) + 1]) : fallback;
+  const result = await discoverNews({ hours: option('--hours', Number(process.env.NEWS_LOOKBACK_HOURS || 24)) });
+  const max = option('--max', 40);
+  if (!Number.isInteger(max) || max < 1) throw new Error('Invalid --max');
+  if (!result.feeds.some(feed => feed.ok)) throw new Error('All news feeds failed; this is not evidence of a slow-news day');
+  for (const feed of result.feeds.filter(feed => !feed.ok)) console.error(`${feed.source}: ${feed.error}`);
+  console.log(JSON.stringify(result.candidates.filter(candidate => !candidate.coveredBy).slice(0, max), null, 2));
 }
-
-main();
+if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) main().catch(error => { console.error(error.message); process.exitCode = 1; });

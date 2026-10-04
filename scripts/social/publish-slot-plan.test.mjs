@@ -3,6 +3,17 @@ import { test } from 'node:test';
 import { planSlot, recordSlot } from './publish-slot-plan.mjs';
 
 const today = '2026-09-25';
+test('news and deployment remain one daily batch while social has three slots', () => {
+  const state = recordSlot({}, planSlot({}, 'morning', today), { ingest: 'success', news: 'success', deploy: 'success', posts: 'success', telegram: 'success' });
+  for (const slot of ['morning', 'afternoon', 'evening']) {
+    const plan = planSlot(state, slot, today);
+    assert.equal(plan.news, false);
+    assert.equal(plan.deploy, false);
+  }
+  assert.equal(planSlot(state, 'afternoon', today).social, true);
+  assert.equal(planSlot(state, 'evening', today).social, true);
+  assert.equal(planSlot(state, 'morning', '2026-09-26').news, true);
+});
 test('old false morning stamp still retries deployment', () => {
   const plan = planSlot({ morning: today, afternoon: today }, 'afternoon', today);
   assert.equal(plan.skip, false);

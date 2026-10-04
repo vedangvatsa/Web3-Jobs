@@ -17,6 +17,7 @@ import { assertUnreserved, deliverNewsOnce, readNewsState, uniqueNewsStories } f
 import { persistNewsState } from './social/telegram-news-state.mjs';
 import { assertPostingWindow, hasSentSlot, postingSlotFromEnv } from './social/posting-slot.mjs';
 import { parseGeminiJsonResponse } from './social/gemini-json.mjs';
+import { collectNativeSummaries, loadPublishedNativeArticles } from './social/telegram-native-news.mjs';
 import {
   alreadyCovered,
   normalizeUrl,
@@ -37,7 +38,6 @@ const STORIES_PER_POST = 3;
 const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 4);
 const FORCE_POST = process.argv.includes('--force') || process.env.FORCE_NEWS === '1';
 const CTA_URL = 'https://hashtagweb3.com/news/tg?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
-const SITE_URL = 'https://hashtagweb3.com';
 // Use channel-specific state files so channel + group posts don't share cooldowns
 const channelSlug = (CHANNEL_ID || '').replace(/[^a-zA-Z0-9]/g, '');
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), `../.telegram-news-posted-${channelSlug}.json`);
@@ -67,62 +67,6 @@ function loadPosted() {
   return new Set(readNewsState(POSTED_LOG, []));
 }
 
-// ── Native articles: our own reporting leads every digest ──
-function loadNativeArticles() {
-  const dir = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/articles');
-  let files = [];
-  try {
-    files = fs.readdirSync(dir).filter((f) => f.endsWith('.md'));
-  } catch {
-    return [];
-  }
-  const clean = (s) => String(s || '')
-    .replace(/^>\s*-?\s*/, '')
-    .replace(/^["']|["']$/g, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-  const out = [];
-  for (const f of files) {
-    let raw = '';
-    try {
-      raw = fs.readFileSync(path.join(dir, f), 'utf8');
-    } catch {
-      continue;
-    }
-    const fm = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
-    if (!fm) continue;
-    const data = {};
-    let cur = null;
-    for (const line of fm[1].split('\n')) {
-      const kv = line.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
-      if (kv && !/^\s/.test(line)) {
-        cur = kv[1];
-        data[cur] = kv[2].trim();
-      } else if (cur && /^\s+\S/.test(line)) {
-        data[cur] += ' ' + line.trim();
-      } else {
-        cur = null;
-      }
-    }
-    if ((data.category || '').trim() !== 'News') continue;
-    const title = clean(data.title);
-    if (!title) continue;
-    const slug = f.replace(/\.md$/, '');
-    const pub = new Date(String(data.publishedDate || '').replace(/['"]/g, ''));
-    out.push({
-      title,
-      link: `${SITE_URL}/${slug}?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed`,
-      snippet: clean(data.description).substring(0, 300),
-      source: 'Hashtag Web3',
-      date: pub && !isNaN(pub) ? pub : new Date(0),
-      native: true,
-      slug,
-    });
-  }
-  out.sort((a, b) => b.date - a.date);
-  return out;
-}
-
 const SUMMARY_BANNED = '"signifies", "highlights", "underscores", "reshapes", "poised", "bolsters", "notably", "landscape", "paradigm", "innovative", "robust", "leveraging", "cutting-edge", "game-changer", "pivotal", "crucial", "essential", "transformative", "marks a", "reflects"';
 
 async function summarizeOne(item) {
@@ -144,29 +88,28 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
 
 // Summarize fresh native articles first so our own reporting leads the digest.
 async function summarizeNative(items, recentCovered, max = STORIES_PER_POST) {
-  const out = [];
-  for (const item of items.slice(0, max)) {
+  return collectNativeSummaries(items, async item => {
     try {
       const parsed = await summarizeOne(item);
-      if (!parsed || !parsed.headline) continue;
+      if (!parsed || !parsed.headline) return null;
       const candidate = `${parsed.headline} ${parsed.summary || ''} ${item.title}`;
       if (alreadyCovered(candidate, recentCovered) || alreadyCovered(parsed.headline, recentCovered)) {
         console.log(`⚠️ Pruned native story due to similarity with past headline: "${item.slug}"`);
-        continue;
+        return null;
       }
-      out.push({
+      return {
         index: -1,
         headline: parsed.headline,
         summary: parsed.summary,
         link: item.link,
         source: item.source,
         originalTitle: item.title,
-      });
+      };
     } catch (e) {
       console.warn(`  Failed to summarize native ${item.slug}: ${e.message}`);
+      return null;
     }
-  }
-  return out;
+  }, { max });
 }
 
 // ── Fetch all RSS news ──
@@ -425,7 +368,7 @@ async function postOnce() {
   console.log(`  ${fresh.length} not yet posted`);
 
   // ── Native first: our own reporting leads, RSS fills remaining slots ──
-  const nativeAll = loadNativeArticles();
+  const nativeAll = await loadPublishedNativeArticles();
   const freshNative = nativeAll.filter((n) => {
     const norm = normalizeUrl(n.link);
     // Also match the older /tg-suffixed form so format switches never repost.
@@ -433,7 +376,7 @@ async function postOnce() {
     if (alreadyCovered(n.title, recentCovered)) return false;
     return true;
   });
-  console.log(`  ${freshNative.length} fresh native articles`);
+  console.log(`  ${freshNative.length} unposted published native articles`);
   const nativeStories = await summarizeNative(freshNative, recentCovered);
   console.log(`  ${nativeStories.length} native stories ready`);
 

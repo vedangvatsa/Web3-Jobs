@@ -77,6 +77,8 @@ jobs:
       date: ${{ steps.set.outputs.date }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - id: set
         run: |
           set -euo pipefail
@@ -92,11 +94,14 @@ jobs:
             echo "skip=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          if [ "${{ github.event.inputs.only_news }}" = "true" ]; then
+          if [ "${{ github.event.inputs.only_news }}" = "true" ] || [ "${{ github.event.inputs.news_dry_run }}" = "true" ]; then
             echo "morning=false" >> "$GITHUB_OUTPUT"
             echo "news=true" >> "$GITHUB_OUTPUT"
             echo "social=false" >> "$GITHUB_OUTPUT"
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+            echo "videos=false" >> "$GITHUB_OUTPUT"
             echo "slot=news" >> "$GITHUB_OUTPUT"
+            echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
             echo "skip=false" >> "$GITHUB_OUTPUT"
             echo "Drafting news only."
             exit 0
@@ -238,8 +243,11 @@ jobs:
       OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
       NEWS_MODEL: ${{ inputs.news_model || 'opencode/muse-spark-1.3-contributor-free' }}
       NEWS_DRY_RUN: ${{ inputs.news_dry_run || 'false' }}
+      NEWS_DATE: ${{ needs.gate.outputs.date }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
@@ -249,7 +257,15 @@ jobs:
       - name: Install dependencies
         run: npm ci --no-audit --no-fund
 
+      - name: Test daily news discovery and publication
+        run: node --test scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
+
+      - name: Prepare the daily candidate queue
+        id: research
+        run: node scripts/news-research.mjs prepare
+
       - name: Install opencode
+        if: ${{ steps.research.outputs.needs_writer == 'true' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -273,12 +289,8 @@ jobs:
           chmod 755 "$HOME/.opencode/bin/opencode"
           "$HOME/.opencode/bin/opencode" --version
 
-      - name: Configure git identity (agent commits as bot)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Install image tooling (Pillow fallback for Linux resize)
+        if: ${{ steps.research.outputs.needs_writer == 'true' }}
         run: pip install --quiet pillow
 
       - name: Disable push in dry-run mode
@@ -291,117 +303,35 @@ jobs:
 
       - name: Publish news run
         id: draft
+        if: ${{ steps.research.outputs.needs_writer == 'true' }}
+        timeout-minutes: 135
+        continue-on-error: true
+        run: node scripts/run-news-research.mjs
+
+      - name: Validate review coverage and publish the daily batch
+        id: publish
+        if: ${{ always() && steps.research.outcome == 'success' }}
         continue-on-error: true
         run: |
-          echo "ARTICLES_BEFORE=$(git ls-files 'content/articles/*.md' | wc -l)" >> "$GITHUB_ENV"
-          RULE="Do not launch the site and do not signal other processes. This is a fresh checkout: read tips, discover and research fresh stories, then write qualifying articles. Validate each article and its image on disk before committing and pushing. A clean working tree is not a reason to skip discovery."
-          PROMPT="$RULE"$'\n'"$(cat scripts/news-agent-brief.md)"
-          PROMPT="${PROMPT//\$TODAY/$(date -u +%F)}"
-          PROMPT="${PROMPT//\$DRY_RUN/$NEWS_DRY_RUN}"
-          "$HOME/.opencode/bin/opencode" run --model "$NEWS_MODEL" "$PROMPT"
+          ARGS=()
+          if [ "$NEWS_DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
+          node scripts/publish-news-run.mjs "${ARGS[@]}"
 
-      - name: News duplicate audit (hard gate)
-        if: ${{ inputs.news_dry_run != true }}
-        run: npx tsx scripts/audit-article-duplicates.ts
+      - name: Preserve news research and draft recovery
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-research-${{ github.run_id }}-${{ github.run_attempt }}
+          include-hidden-files: true
+          path: |
+            .cache/news-research/
+            content/news-research.json
 
-      - name: Commit articles if the drafter stopped first
-        if: ${{ always() && inputs.news_dry_run != true }}
+      - name: Fail incomplete research or publication
+        if: ${{ always() && (steps.research.outcome != 'success' || steps.publish.outcome != 'success' || steps.publish.outputs.complete != 'true') }}
         run: |
-          set -euo pipefail
-          python3 - <<'PY'
-          import json, subprocess, sys
-          from pathlib import Path
-
-          def run(args, check=True):
-              return subprocess.run(args, check=check, text=True, capture_output=True)
-
-          status = run(["git", "status", "--porcelain", "--untracked-files=all", "--", "content/articles", "public/images/news", "content/news-tips.md"]).stdout
-          articles = []
-          for line in status.splitlines():
-              path = line[3:].strip()
-              if " -> " in path:
-                  path = path.split(" -> ", 1)[1]
-              if path.startswith("content/articles/") and path.endswith(".md") and not path.endswith("AGENTS.md"):
-                  articles.append(Path(path).name)
-          marker = Path("/tmp/news-commit-needed")
-          if not articles:
-              marker.write_text("no")
-              if "${{ steps.draft.outcome }}" != "success":
-                  print("News drafter failed and left no article files.")
-                  sys.exit(1)
-              print("No uncommitted articles.")
-              sys.exit(0)
-          marker.write_text("yes")
-
-          quality = json.loads(subprocess.check_output(["npx", "tsx", "scripts/audit-article-quality.ts", "--report", "--verbose"], text=True))
-          images = json.loads(subprocess.check_output(["npx", "tsx", "scripts/audit-article-images.ts", "--report"], text=True))
-          bad = []
-          for issue in quality.get("issues", []):
-              if issue.get("file") in articles:
-                  bad.append(f"{issue['file']}: {', '.join(issue.get('issues', []))}")
-          for issue in images.get("issues", []):
-              if issue.get("file") in articles:
-                  bad.append(f"{issue['file']} image: {', '.join(issue.get('issues', []))}")
-          if bad:
-              print("New articles failed an audit and were not committed:")
-              print("\n".join(bad))
-              sys.exit(1)
-          print("Uncommitted articles passed quality and image audits:", ", ".join(articles))
-          PY
-          if [ "$(cat /tmp/news-commit-needed)" != "yes" ]; then
-            exit 0
-          fi
-          npx tsx scripts/generate-articles-index.ts
-          npm run update:prebuild-hashes
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/articles content/articles-index.json content/prebuild-input-hashes.json content/news-tips.md public/images/news
-          git reset HEAD -- content/articles/AGENTS.md || true
-          if git diff --staged --quiet; then
-            echo "Article files were already committed."
-            if [ "${{ steps.draft.outcome }}" != "success" ]; then
-              exit 1
-            fi
-            exit 0
-          fi
-          TODAY=$(date -u +%F)
-          git commit -m "news: add drafted articles for ${TODAY}"
-          git reset --hard HEAD
-          for i in 1 2 3; do
-            if ! git pull --rebase origin main; then
-              git rebase --abort || true
-              git reset --hard HEAD
-              echo "Article rebase attempt $i failed"
-              sleep 2
-              continue
-            fi
-            if git push origin main; then
-              exit 0
-            fi
-            echo "Article push attempt $i failed, retrying..."
-            sleep 2
-          done
-          echo "Failed to push drafted articles"
+          echo "Daily news research did not complete. See the candidate outcomes and recovery artifact."
           exit 1
-
-      - name: Verify drafter output against discovery
-        if: ${{ always() && inputs.news_dry_run != true }}
-        run: |
-          set -euo pipefail
-          BEFORE="${ARTICLES_BEFORE:-0}"
-          AFTER=$(git ls-files 'content/articles/*.md' | wc -l)
-          echo "Article files before=$BEFORE after=$AFTER"
-          if [ "$AFTER" -gt "$BEFORE" ]; then
-            echo "Drafter produced new articles."
-            exit 0
-          fi
-          CANDIDATES=$(node scripts/news-discover.mjs --hours 48 --max 40 | python3 -c 'import json,sys; print(len(json.load(sys.stdin)))')
-          echo "Novel discovery candidates (48h): $CANDIDATES"
-          if [ "$CANDIDATES" -ge 5 ]; then
-            echo "::error::News drafter wrote zero articles despite $CANDIDATES novel discovery candidates. The agent likely crashed or errored silently (draft step is continue-on-error). Inspect the 'Publish news run' step log."
-            exit 1
-          fi
-          echo "No new articles and few/no candidates — legitimate slow-news day."
 
       - name: Verify dry-run made no commits
         if: ${{ inputs.news_dry_run == true }}
@@ -474,6 +404,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
