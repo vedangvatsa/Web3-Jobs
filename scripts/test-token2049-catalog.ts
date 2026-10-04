@@ -24,11 +24,12 @@ for (const event of imported) {
     assert.equal(event.streetAddress, undefined);
     assert.equal(event.coordinates, undefined);
   }
+  // Archived source records can outlive their pruned cover files.
+  if (hasEventEnded(event)) continue;
   if (event.coverImage?.startsWith('/events/')) {
-    assert.ok(fs.existsSync(`public${event.coverImage}`));
+    assert.ok(fs.existsSync(`public${event.coverImage}`), `Missing local cover for ${event.name} (${event.slug || event.id}): public${event.coverImage}`);
     localCovers++;
   }
-  if (hasEventEnded(event)) continue;
   const publishedEvent = catalog.find(row => row.id === event.id);
   if (publishedEvent) {
     assert.equal(publishedEvent.slug, event.slug, `Canonical URL changed for ${event.name}`);
