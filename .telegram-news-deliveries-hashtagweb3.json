@@ -599,5 +599,38 @@
     "slotKey": "2026-10-03:evening",
     "messageId": 155585,
     "sentAt": "2026-10-03T19:34:42.539Z"
+  },
+  "d15522b4-a423-41ba-9a30-0424bdb1208c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T03:55:28.942Z",
+    "stories": [
+      {
+        "index": 2,
+        "headline": "OpenPayd targets Nasdaq listing for US expansion",
+        "summary": "The payments firm plans to go public by year-end to fund its entry into the American market by April 2027.",
+        "event_rationale": "This reports on a significant corporate move toward a public listing and market expansion, distinct from existing exchange IPOs.",
+        "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+        "source": "CoinDesk",
+        "originalTitle": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions"
+      },
+      {
+        "index": 3,
+        "headline": "Bank of New York Mellon discusses infrastructure partnership with Kraken",
+        "summary": "The banking giant is negotiating a deal to provide custody, trading, and payment infrastructure for the crypto exchange's parent company.",
+        "event_rationale": "This covers a major institutional adoption milestone involving a traditional financial institution and a major crypto exchange, distinct from other partnerships.",
+        "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+        "source": "CoinDesk",
+        "originalTitle": "Crypto job postings triple to over 1,200 in September, but applications fall"
+      },
+      {
+        "index": 4,
+        "headline": "Donald Trump to Attend Dinner for TRUMP Token Holders",
+        "summary": "The event occurs amid ongoing Senate debates regarding potential conflicts of interest involving Trump's cryptocurrency holdings.",
+        "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+        "source": "Decrypt",
+        "originalTitle": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details"
+      }
+    ],
+    "slotKey": "2026-10-04:morning"
   }
 }
