@@ -844,9 +844,11 @@
           "url": "https://www.youtube.com/watch?v=fM6VZWE_pAM"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Sales Analyst at Alpaca. Remote - North America.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
-          "startedAt": "2026-10-04T11:32:07.167Z"
+          "startedAt": "2026-10-04T11:32:07.167Z",
+          "postId": "6ac23938365aeab50bdf1007",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
