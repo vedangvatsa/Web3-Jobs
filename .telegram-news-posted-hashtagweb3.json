@@ -668,6 +668,9 @@
   "https://hashtagweb3.com/libra-ruling?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/radix-halt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/sec-exemption?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/thailand-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/vechain-interstellar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1912,6 +1915,12 @@
   "Radix Traces $1.3M Vault Drain to 2023 Code Cleanup",
   "IMF grants El Salvador $138 million following Bitcoin agreement",
   "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+  "SEC grants five-year exemption for tokenized stock platforms",
+  "SEC Issues Five-Year Exemption for Tokenized Stock Venues",
+  "Thailand Proposes Daily Stablecoin Transfer Limit",
+  "Thailand Proposes 5 Million Baht Stablecoin Transfer Cap",
+  "VeChain to Launch Interstellar Hardfork on September 16",
+  "VeChain Interstellar Hardfork Set for Sept 16",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2130,5 +2139,8 @@
   "fp:another|are|attend|coin|conflict|cryptocurrency|debat|detail|dinner|donald",
   "fp:action|add|additional|cas|claim|class|court|deni|dismiss|federal",
   "fp:13m|august31|cleanup|cod|day|drain|exploit|flaw|forc|fund",
-  "fp:138m|agr|agreement|country|cryptocurrency|follow|fund|grant|imf|involvement"
+  "fp:138m|agr|agreement|country|cryptocurrency|follow|fund|grant|imf|involvement",
+  "fp:asset|automat|exclud|exemption|fiv|grant|issu|market|permitt|platform",
+  "fp:baht|ban|cap|daily|fiv|limit|party|propos|rul|stablecoin",
+  "fp:540|902|adopt11|block25|compatibility|evm|hardfork|improv|improvement|interstellar"
 ]

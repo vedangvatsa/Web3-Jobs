@@ -669,7 +669,7 @@
     "sentAt": "2026-10-04T11:35:00.897Z"
   },
   "73b9d04f-3bf2-4a82-bb77-4ac2bb5d5543": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-04T19:32:46.342Z",
     "stories": [
       {
@@ -697,6 +697,8 @@
         "originalTitle": "VeChain Interstellar Hardfork Set for Sept 16"
       }
     ],
-    "slotKey": "2026-10-04:evening"
+    "slotKey": "2026-10-04:evening",
+    "messageId": 155604,
+    "sentAt": "2026-10-04T19:32:48.977Z"
   }
 }
