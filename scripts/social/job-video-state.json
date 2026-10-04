@@ -864,11 +864,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Product Manager - Core Product at Kalshi\n\nNew York Office · $150k - $250k/yr\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #ProductJobs #Hiring",
           "startedAt": "2026-10-04T11:32:21.196Z",
           "containerId": "17916232410461009",
-          "postId": "18123862882854327"
+          "postId": "18123862882854327",
+          "url": "https://www.instagram.com/reel/DeEiNynCjqy/"
         }
       }
     }
