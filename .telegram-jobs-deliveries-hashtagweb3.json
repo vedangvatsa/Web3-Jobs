@@ -598,7 +598,7 @@
     "sentAt": "2026-10-04T03:52:59.326Z"
   },
   "dd99c166-7487-4077-ae3d-4faa677f6f73": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-04T11:32:31.408Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -639,6 +639,8 @@
       }
     ],
     "message": "• Ripple is hiring <a href=\"https://hashtagweb3.com/ds9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Scientist</a>\n• Bybit is hiring <a href=\"https://hashtagweb3.com/mkt19?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Marketing Campaign Lead</a>\n• Riot Platforms is hiring <a href=\"https://hashtagweb3.com/supervisor5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Inventory Supervisor</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/engineer139?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Android Engineer</a>\n• TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng303?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
-    "slotKey": "2026-10-04:afternoon"
+    "slotKey": "2026-10-04:afternoon",
+    "messageId": 155592,
+    "sentAt": "2026-10-04T11:32:34.134Z"
   }
 }
