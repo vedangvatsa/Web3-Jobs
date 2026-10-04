@@ -753,7 +753,13 @@
         "youtube": "New York Office\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
         "youtubeTitle": "Platform Engineer II, Foundation at Chainalysis"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Platform Engineer II, Foundation at Chainalysis\n\nNew York Office\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
+          "startedAt": "2026-10-04T03:31:00.516Z"
+        }
+      }
     },
     "sec62": {
       "slot": "2026-10-04:morning",
