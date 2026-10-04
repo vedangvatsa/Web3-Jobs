@@ -1,5 +1,5 @@
 {
-  "lastIndex": 335,
+  "lastIndex": 339,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -143,7 +143,9 @@
     "ops48",
     "eng358",
     "rec22",
-    "cs7"
+    "cs7",
+    "eng359",
+    "pm184"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5147,496 +5149,6 @@
       "verification": "verified"
     },
     {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x1f47fb3c14da5e71ea9063a105c8a257abd39ed0",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0xeed55e8bcbbb6998794000012710aaeafe77834b",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x90bfa72a39584830bd64348df9cfc071442dddae",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0xe632e30da364050e30215bb5165174e124ba776f",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x2b89797d5bd1329f600077f8c5014909dbee9459",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0xffc8074a1aeef915fdebdaddb3911d7c1d2290af",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0xfb9527f03a40aff0f37a8d402ebf09cda41694ec",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x75a0407d74c2c94f5ba29ceed18240228a53b07a",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0x41306ab38354111f0354ac2de19f720fe86ac338",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "0xaad8812d17c01cc650874b524fd631e783ed1fe0",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "6abddac0b29c0fecf4154f07",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "6abddacc26106f73326eeff8",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "urn:li:share:7511273792300544001",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "facebook",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "691827047618629_1103051735635394",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp64",
-      "company": "Stripe",
-      "title": "Legal Operations Team Lead",
-      "platform": "instagram",
-      "postedAt": "2026-10-01T03:59:40.823Z",
-      "postId": "17889318252654535",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "x",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "6abddaf7b29c0fecf4156941",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "eToro is hiring BizOps Developer (Agentic AI)\n\nhttps://hashtagweb3.com/developer42/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105508230294102027"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "threads",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "18110166890180252",
-      "verification": "verified",
-      "expectedText": "eToro is hiring BizOps Developer (Agentic AI): https://hashtagweb3.com/developer42/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd8AKJgGwZQ",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "bluesky",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwrxvnix572z",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x734f1b685c780b487013e477df4cec11481a0152",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x6afdbc0532b76caba6a70fef38b40f927b04de4e",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0xc0aa66138999833b03537af2ad639cfc7d8c48da",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x541767cca203f56872afceb158be5ad78dd9810a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0xc2bdb25a6d0398828e47f5ffe0ef2f6c78b08239",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x760b0b6de952fa1534726e4a4ea87ecbe384150c",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0xdc50fb545d4eb1f3ed7e3a0df6daac5b2a10c8be",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x8aac187c5b9733a316bc4233a2392a745d4c88bb",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x0d55e10878ef37622dc7b16bb762f9d0d9335aa6",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x23f3582161e4c0a08930ee3d688af5d79f7901e7",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0xa31e7e2ae6594c7f3ba5a8463982a1407e8a667f",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x6b46655df9d5a35e730f220e43ba2b34a1692450",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x22453bc714b691e14bf3259d96c73e8d8611e2c7",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x9641c9a045578bc1d5b0b2023fb7f50dac6043fb",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x90790c223251561f518d04c6dd44a3a300c78cd7",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0x04a3c60a3e5d8f488e5c34cbc314db953a6d1897",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "0xe9ec7c24b7c1176b6ec8c2496546e8cf2b7e7f84",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "6abddb0826106f73326f0262",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "6abddb1305e9a5c46ab7bfcb",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "urn:li:share:7511274085109297152",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "facebook",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "691827047618629_1103052955635272",
-      "verification": "verified"
-    },
-    {
-      "slug": "developer42",
-      "company": "eToro",
-      "title": "BizOps Developer (Agentic AI)",
-      "platform": "instagram",
-      "postedAt": "2026-10-01T04:00:54.743Z",
-      "postId": "17910688188515180",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "x",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "6abe44a1b602164114d7472d",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Chainalysis is hiring Platform Engineer II, Foundation\n\nhttps://hashtagweb3.com/eng339/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105621689618878931"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "threads",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "18109888229128498",
-      "verification": "verified",
-      "expectedText": "Chainalysis is hiring Platform Engineer II, Foundation: https://hashtagweb3.com/eng339/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd8zwR6oPQU",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "bluesky",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwsr3trlz22l",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xe1aca3b24d805d36f3054d3120b950482639f80f",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xe161d791e2ea2b60073445054e08c296f1e8ca9a",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xd369a05a5910ba468e070efa39d71bbbc5be3b55",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0xb851d252670e074083784a1780dae8a2d8e1d62b",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng339",
-      "company": "Chainalysis",
-      "title": "Platform Engineer II, Foundation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T11:31:45.453Z",
-      "postId": "0x35b339b1d51ec18f3019a90e4838ee31633384b4",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
       "slug": "eng339",
       "company": "Chainalysis",
       "title": "Platform Engineer II, Foundation",
@@ -10122,6 +9634,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-04T03:53:36.325Z",
       "postId": "691827047618629_1105946822012552",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "x",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "6ac23932a486988a6e141c0f",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Robinhood is hiring Senior Software Engineer, Prime\n\nhttps://hashtagweb3.com/eng359/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106708921972932694"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "threads",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "18081636992355129",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Senior Software Engineer, Prime: https://hashtagweb3.com/eng359/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeEiK5sm8_8",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "bluesky",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx2cj22vcp2v",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0xa2cdf416ec740a90c7ffeef763ad1e479c99c81f",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x57345a0fe753a157343773a7acb21b3558c4c257",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x4f015712168f3609b53b69f429890734efc43f4a",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0xba963b0d1a2f51fc4b255a42ba68f8537039a327",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x259d9381c21976912ebfc1bdcdecd092048c2f9f",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x3c8ebad93d4cb7105fbc595fa7422a51332545ce",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x10238a2ef120ce3c94abf6fdf91cbc39c38fb5ac",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x82fbf09dcadb9204cee7e6a800ee311f691849bc",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x3a11bc17a586bdeb11af8743324b62455b066f66",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0xfc00b0241bd70968fe40b8783a0c7991cf63fbc6",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x3c24fa802999dd894003c56bff5e72ca744c1009",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x6413441c37e55e5d27f1015e1345621ed24378bf",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0xc2a52f2915abba2d7f72a584d54ba24f0fc82a4b",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x9e6d7ff51350a5ea91ad577055fe20a978fa8d4c",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x3d38836262deb7b716a0170ec7079fa6b4a6f13b",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x974c50eeda0471831d174411571fec76f7e2daf7",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "0x7e90061e1b05bd58e4e3339cdae38042dfd658e8",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "6ac239416f5f5d018d9ed829",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "6ac2394bd8dbde86e144a6fa",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "urn:li:share:7512474764209229824",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng359",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Prime",
+      "platform": "facebook",
+      "postedAt": "2026-10-04T11:32:01.842Z",
+      "postId": "691827047618629_1106228551984379",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "x",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "6ac2395da486988a6e14201a",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Binance is hiring Product Compliance Manager (Abu Dhabi Based)\n\nhttps://hashtagweb3.com/pm184/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106709102810235245"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "threads",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "18244785787312349",
+      "verification": "verified",
+      "expectedText": "Binance is hiring Product Compliance Manager (Abu Dhabi Based): https://hashtagweb3.com/pm184/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeEiQHnmyQb",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx2ckd3imw2a",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0xc618c0c1c422fbdc0a54786ee481f14650e2698f",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x4b0a0ee5be063fa230215118f60604a9d7377bde",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x9e69dee944074ba826b987165aadebdd884814a2",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x2f69d62513a741f28332b8258b778566a80bc76e",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x3dc06d1dcb2441540fb8b921afaaf062bd7da122",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x5d9ce1658182c99954d404f77bcc56bbb23119c6",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x4465dc9a559e34a493bfa277774669d449b080fe",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x9a06b90042c4cb65508e6c92b7c0d5702cc6e24b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x5d1ae948cb0b04e34099d26ba5efee0e52680aff",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x85696b39f58c9126f83e894f7b10ad90cf81c6e9",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0xc7f0126ba0677297571d26cb56a6cac88462ed6e",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0xa3e8cd533659bacdc1d6413e1050088a11e9c13e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x87cc422a312d3231d986dbe05b8d698bee390b9b",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0xaaf70374275a166242ef8fd2a22994cf44433a1f",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0xeceb5236dbce573c0aa6afa3f6a88b9f24dfccc0",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x028dc257805d0284cb5b12fb7bf0318e3249375e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "0x1e1201c4eba400d6fff2d09fbe20ff4058578f60",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "6ac2396ba486988a6e14219e",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "6ac239766f5f5d018d9edd24",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "urn:li:share:7512474941548851200",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm184",
+      "company": "Binance",
+      "title": "Product Compliance Manager (Abu Dhabi Based)",
+      "platform": "facebook",
+      "postedAt": "2026-10-04T11:32:45.224Z",
+      "postId": "691827047618629_1106228918651009",
       "verification": "verified"
     }
   ]
