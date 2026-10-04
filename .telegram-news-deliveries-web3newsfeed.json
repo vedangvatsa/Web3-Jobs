@@ -632,5 +632,38 @@
     "slotKey": "2026-10-03:evening",
     "messageId": 65725,
     "sentAt": "2026-10-03T19:33:44.990Z"
+  },
+  "18204d0b-d3eb-41e7-b3e7-0324fcf0c905": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T03:55:33.608Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Anchorage Digital lays off 17 percent of workforce",
+        "summary": "The crypto-native bank is reducing staff despite recent expansion efforts and a major capital injection from Tether.",
+        "event_rationale": "This covers a significant internal restructuring at a major regulated crypto institution, distinct from market-wide trends or protocol updates.",
+        "link": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+        "source": "Decrypt",
+        "originalTitle": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC"
+      },
+      {
+        "index": 3,
+        "headline": "Ethereum developers remove EIP-8363 from upcoming network upgrade",
+        "summary": "The proposal to modify staking reward burns was withdrawn following feedback from core contributors regarding the upgrade scope.",
+        "event_rationale": "This is a specific technical governance decision regarding Ethereum's protocol roadmap, distinct from other network upgrades or regulatory developments.",
+        "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+        "source": "CoinDesk",
+        "originalTitle": "Crypto job postings triple to over 1,200 in September, but applications fall"
+      },
+      {
+        "index": 4,
+        "headline": "Donald Trump to Attend Dinner for Top Meme Coin Holders",
+        "summary": "The event occurs on November 22 following recent legislative debates regarding the former president's cryptocurrency financial interests.",
+        "link": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+        "source": "Decrypt",
+        "originalTitle": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details"
+      }
+    ],
+    "slotKey": "2026-10-04:morning"
   }
 }
