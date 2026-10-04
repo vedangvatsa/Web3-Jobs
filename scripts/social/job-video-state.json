@@ -48,6 +48,10 @@
     "2026-10-04:afternoon": [
       "sls170",
       "pm152"
+    ],
+    "2026-10-04:evening": [
+      "pm153",
+      "sls168"
     ]
   },
   "jobs": {
@@ -886,6 +890,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7692774403561557280"
         }
       }
+    },
+    "pm153": {
+      "slot": "2026-10-04:evening",
+      "selectedAt": "2026-10-04T19:31:13.989Z",
+      "verifiedAt": "2026-10-04T19:31:13.990Z",
+      "captions": {
+        "instagram": "Product Manager - Market Data at Alpaca\n\nRemote - Americas\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #RemoteJobs",
+        "tiktok": "Product Manager - Market Data at Alpaca. Remote - Americas.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Remote - Americas\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Product Manager - Market Data at Alpaca · Remote - Americas"
+      },
+      "receipts": {}
+    },
+    "sls168": {
+      "slot": "2026-10-04:evening",
+      "selectedAt": "2026-10-04T19:31:13.990Z",
+      "verifiedAt": "2026-10-04T19:31:13.990Z",
+      "captions": {
+        "instagram": "SMB Account Executive, London at Block\n\nLondon, United Kingdom\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #SalesJobs #Hiring",
+        "tiktok": "SMB Account Executive, London at Block. London, United Kingdom.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "London, United Kingdom\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "SMB Account Executive, London at Block"
+      },
+      "receipts": {}
     }
   }
 }
