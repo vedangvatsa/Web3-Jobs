@@ -798,10 +798,11 @@
           "url": "https://www.instagram.com/reel/DeDrcoiGxcm/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Remote, Canada\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
           "startedAt": "2026-10-04T03:34:35.081Z",
-          "postId": "6ac1c94cad7fd83bc50eb67a"
+          "postId": "6ac1c94cad7fd83bc50eb67a",
+          "url": "https://www.youtube.com/watch?v=OtAwMTWLP60"
         }
       }
     }
