@@ -642,5 +642,49 @@
     "slotKey": "2026-10-04:afternoon",
     "messageId": 155592,
     "sentAt": "2026-10-04T11:32:34.134Z"
+  },
+  "8accbf78-e7e8-4ea0-84ef-bf7d026cb379": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T19:32:19.508Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "8179409",
+        "slug": "eng263",
+        "url": "https://hashtagweb3.com/eng263?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Trading Systems Engineer"
+      },
+      {
+        "key": "6b21b701-03c9-42ab-8519-a294c7256b0c",
+        "slug": "engineer396",
+        "url": "https://hashtagweb3.com/engineer396?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Algorithm Engineer"
+      },
+      {
+        "key": "8162514",
+        "slug": "marketing206",
+        "url": "https://hashtagweb3.com/marketing206?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Lead Marketing Engineer"
+      },
+      {
+        "key": "8564603002",
+        "slug": "sales142",
+        "url": "https://hashtagweb3.com/sales142?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Senior Financial Reporting Accountant"
+      },
+      {
+        "key": "8225841",
+        "slug": "sls181",
+        "url": "https://hashtagweb3.com/sls181?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Sales Leader"
+      }
+    ],
+    "message": "• DRW is hiring <a href=\"https://hashtagweb3.com/eng263?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Trading Systems Engineer</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/engineer396?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Algorithm Engineer</a>\n• Ripple is hiring <a href=\"https://hashtagweb3.com/marketing206?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Lead Marketing Engineer</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/sales142?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Financial Reporting Accountant</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/sls181?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sales Leader</a>",
+    "slotKey": "2026-10-04:evening"
   }
 }
