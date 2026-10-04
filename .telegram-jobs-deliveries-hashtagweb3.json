@@ -550,5 +550,49 @@
     "slotKey": "2026-10-03:evening",
     "messageId": 155584,
     "sentAt": "2026-10-03T19:32:17.777Z"
+  },
+  "19605ce6-9214-4df1-9413-d391eec5e410": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T03:52:57.014Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "21f423f7-7308-47fc-b417-493d228ef533",
+        "slug": "eng324",
+        "url": "https://hashtagweb3.com/eng324?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "key": "8782247002",
+        "slug": "eng354",
+        "url": "https://hashtagweb3.com/eng354?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Trading Desk Operations Engineer"
+      },
+      {
+        "key": "7811967",
+        "slug": "product145",
+        "url": "https://hashtagweb3.com/product145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Gemini",
+        "title": "Senior Product Designer"
+      },
+      {
+        "key": "7782668003",
+        "slug": "product259",
+        "url": "https://hashtagweb3.com/product259?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Product Manager / Director"
+      },
+      {
+        "key": "8245638",
+        "slug": "ues",
+        "url": "https://hashtagweb3.com/ues?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "User Escalation Specialist"
+      }
+    ],
+    "message": "• Kraken is hiring <a href=\"https://hashtagweb3.com/eng324?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/eng354?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Trading Desk Operations Engineer</a>\n• Gemini is hiring <a href=\"https://hashtagweb3.com/product145?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Designer</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/product259?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Manager / Director</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/ues?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">User Escalation Specialist</a>",
+    "slotKey": "2026-10-04:morning"
   }
 }
