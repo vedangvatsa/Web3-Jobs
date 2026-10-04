@@ -960,6 +960,14 @@
     "lastUrl": "https://hashtagweb3.com/sec36",
     "updatedAt": "2026-09-22T19:45:22.371Z"
   },
+  "8230276": {
+    "slugs": [
+      "ops74"
+    ],
+    "lastSlug": "ops74",
+    "lastUrl": "https://hashtagweb3.com/ops74",
+    "updatedAt": "2026-10-04T11:32:17.653Z"
+  },
   "8237244": {
     "slugs": [
       "sec69"
@@ -3913,5 +3921,37 @@
     "lastSlug": "associate98",
     "lastUrl": "https://hashtagweb3.com/associate98",
     "updatedAt": "2026-10-04T03:52:53.082Z"
+  },
+  "0d371778-f7d7-4da5-a9ec-48c850294e43": {
+    "slugs": [
+      "manager765"
+    ],
+    "lastSlug": "manager765",
+    "lastUrl": "https://hashtagweb3.com/manager765",
+    "updatedAt": "2026-10-04T11:32:17.653Z"
+  },
+  "3150603e-f25c-474b-96d3-685c3bb224b9": {
+    "slugs": [
+      "engineer36"
+    ],
+    "lastSlug": "engineer36",
+    "lastUrl": "https://hashtagweb3.com/engineer36",
+    "updatedAt": "2026-10-04T11:32:17.653Z"
+  },
+  "200679993-0836": {
+    "slugs": [
+      "pm18"
+    ],
+    "lastSlug": "pm18",
+    "lastUrl": "https://hashtagweb3.com/pm18",
+    "updatedAt": "2026-10-04T11:32:17.653Z"
+  },
+  "8d55c448-4a6a-4fac-954e-db8f7fb14d46": {
+    "slugs": [
+      "marketing87"
+    ],
+    "lastSlug": "marketing87",
+    "lastUrl": "https://hashtagweb3.com/marketing87",
+    "updatedAt": "2026-10-04T11:32:17.653Z"
   }
 }
