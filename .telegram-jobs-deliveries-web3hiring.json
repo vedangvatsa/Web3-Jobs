@@ -1102,5 +1102,49 @@
     "slotKey": "2026-10-03:evening",
     "messageId": 101,
     "sentAt": "2026-10-03T19:32:12.232Z"
+  },
+  "673486c8-bb96-493c-bda0-ffdfa5856c34": {
+    "status": "reserved",
+    "reservedAt": "2026-10-04T03:52:42.099Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "f5b60cf1-c0ec-42c1-89db-ece853e998ab",
+        "slug": "marketing20",
+        "url": "https://hashtagweb3.com/marketing20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Software Engineer"
+      },
+      {
+        "key": "4937989008",
+        "slug": "live",
+        "url": "https://hashtagweb3.com/live?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinme",
+        "title": "Live Phone Support Contractor"
+      },
+      {
+        "key": "88a8115f-b52b-4667-9393-e1f506911e6b",
+        "slug": "sls192",
+        "url": "https://hashtagweb3.com/sls192?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Strategic Account Executive"
+      },
+      {
+        "key": "237abc1fba13",
+        "slug": "dsf",
+        "url": "https://hashtagweb3.com/dsf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Zero Hash",
+        "title": "Director of Strategic Finance"
+      },
+      {
+        "key": "coindcx-1788",
+        "slug": "associate98",
+        "url": "https://hashtagweb3.com/associate98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinDCX",
+        "title": "Associate Director"
+      }
+    ],
+    "message": "• Ramp is hiring <a href=\"https://hashtagweb3.com/marketing20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>\n• Coinme is hiring <a href=\"https://hashtagweb3.com/live?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Live Phone Support Contractor</a>\n• CertiK is hiring <a href=\"https://hashtagweb3.com/sls192?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Strategic Account Executive</a>\n• Zero Hash is hiring <a href=\"https://hashtagweb3.com/dsf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Director of Strategic Finance</a>\n• CoinDCX is hiring <a href=\"https://hashtagweb3.com/associate98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Associate Director</a>",
+    "slotKey": "2026-10-04:morning"
   }
 }
