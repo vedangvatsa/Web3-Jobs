@@ -805,10 +805,11 @@
           "url": "https://www.youtube.com/watch?v=OtAwMTWLP60"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Senior Security Engineer at Shakepay. Remote, Canada.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
           "startedAt": "2026-10-04T03:34:41.137Z",
-          "postId": "6ac1c9528dc991c73c6846bf"
+          "postId": "6ac1c9528dc991c73c6846bf",
+          "url": "https://tiktok.com/@hashtagweb3/video/7692650976422972705"
         }
       }
     }
