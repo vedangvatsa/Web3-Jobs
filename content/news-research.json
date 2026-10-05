@@ -608,13 +608,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "812a3c7e071e70ff46d1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T02:00:45.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "Oct 1 joint motion in Sangamon County court to move 0.2 percent Digital Asset Tax start to July 1 2027, judge sign-off pending. Verified across three opened sources plus IDOR hub.",
+      "note": "Oct 1 joint motion in Sangamon County court to move 0.2 percent Digital Asset Tax start to July 1 2027 with judge sign-off pending; verified across three opened outlets plus IDOR hub.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
@@ -629,7 +629,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-05T03:46:42.526Z",
+      "reviewedAt": "2026-10-05T11:00:03.575Z",
       "articleSlug": "illinois-tax",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -2503,6 +2503,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:02.033Z",
           "articleSlug": "core-fix"
+        },
+        "812a3c7e071e70ff46d1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Oct 1 joint motion in Sangamon County court to move 0.2 percent Digital Asset Tax start to July 1 2027 with judge sign-off pending; verified across three opened outlets plus IDOR hub.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:03.575Z",
+          "articleSlug": "illinois-tax"
         }
       },
       "baselineSlugs": [
