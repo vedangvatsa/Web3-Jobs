@@ -1,5 +1,5 @@
 {
-  "lastIndex": 346,
+  "lastIndex": 348,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -147,7 +147,8 @@
     "eng359",
     "pm184",
     "engineer590",
-    "pm183"
+    "pm183",
+    "sls184"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -192,7 +193,8 @@
     "pm50",
     "cmp38",
     "pm82",
-    "sec57"
+    "sec57",
+    "mkt2"
   ],
   "history": [
     {
@@ -5151,486 +5153,6 @@
       "verification": "verified"
     },
     {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0xcbcecd6f0f6f8c0a98593e667d239a60f774553a",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x74eddf97bd3b33995602bb795b25c3b3204bc32d",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x617deb2cd23a07d7f88791e7cb6105736476a790",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0xa0adf83db22605aca959f8e0247079bf27463ffb",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x514dc9238a249fd67763cf18be54696b746dc5c4",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x8b894b6f0edf48a4abfc440be2576e03ede8997a",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x0ee2c247cb29ea5f0d959ba7f6f963588b8d47f4",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0xee800947bbe747f503070cfedbf1374963f6825a",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x774ede066d1a526797facea723358d20aae241fc",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x6925a554b23bae0702eadb6cab3e629082b177ff",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0xc373480f6c9f773ef84c072f4f2001b01129ba60",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0xa820f48ac4afb30695a8b8e32459c54307df5564",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0xef7515df2c8065336f179d02635450dfc576f63e",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "0x200cd8e3c8295868f54f2ded4825fb61f17a558f",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "6abeb800ff1f8cde6641ce08",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "6abeb80bd22f25b408899511",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "urn:li:share:7511511350695763968",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "691827047618629_1103753198898581",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm84",
-      "company": "Transak",
-      "title": "Product Partnerships Manager",
-      "platform": "instagram",
-      "postedAt": "2026-10-01T19:43:42.624Z",
-      "postId": "18001257788798227",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "x",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "6abeb82b0d6dc6150ea403c1",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Offensive Security Engineer\n\nhttps://hashtagweb3.com/sec61/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105745745546518834"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "threads",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "17909277450510650",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Offensive Security Engineer: https://hashtagweb3.com/sec61/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd9sKt9mJL6",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwtmnac64x2q",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0xb0b5f078b28ceb430ecb305f0a7f4a5aa92c2e10",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x77394ac49614a2ed2af08257a74d96c22ca89c1e",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0xa1e11ac6c73aa441712944083b1f1395ae5e6eb4",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x694ee616e76f6203f50b38d16cbfa2fdfda5f316",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x94daa644dea496fceffd5dc30be70c290f351e06",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x80f4ffc6dfe57d0703d18856c141639dfaab0c1a",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x68c841f5fa5a3dda23f2516905669230ca722fb8",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x514e62e325151667a9f816d46b502b8e0980d231",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0xb5a0cbe343c54b7ab9653b1c9448652463aea585",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0xbb19518d37e39a301a92a31ed7be5a4958fba578",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x5f75c15e6f646e3641524a8d0738e4c450d13eec",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0xa072dddc12f86d69a4a8930f864c92a874420470",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0xda5b40d83cabe2bd75e976ee66a6b312552f35ba",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x4375ca302f7304b5e11be8afe7c7db6c5c50c9cc",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0xce1ad5f5973dd1584f3d34d2423589fd9afa79dc",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x293bed659388cb3d46cc941724a5cd364306a8fa",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "0x55ccec3f830e85c6ab297e954b6bde422ad6ac90",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "6abeb8392f7034519e75d0be",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "6abeb844ff1f8cde6641d341",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "urn:li:share:7511511588483371008",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "691827047618629_1103753802231854",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec61",
-      "company": "Stripe",
-      "title": "Offensive Security Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-10-01T19:44:42.772Z",
-      "postId": "18118753564941591",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "x",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "6abf2dbec07bdc2fc26938d1",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Robinhood is hiring Customer Care, Program Manager\n\nhttps://hashtagweb3.com/mgr86/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105871993547485594"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "18340815037282869",
-      "verification": "verified",
-      "expectedText": "Robinhood is hiring Customer Care, Program Manager: https://hashtagweb3.com/mgr86/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd-llEdkfuQ",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwuiofksex2i",
-      "verification": "verified"
-    },
-    {
       "slug": "mgr86",
       "company": "Robinhood",
       "title": "Customer Care, Program Manager",
@@ -10130,6 +9652,486 @@
       "platform": "facebook",
       "postedAt": "2026-10-04T19:33:05.785Z",
       "postId": "691827047618629_1106571045283463",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "x",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "6ac321df5de5ee424c24da9e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Bybit is hiring [EU] Head of Marketing, EU\n\nhttps://hashtagweb3.com/mkt2/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106958758207221964"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "bluesky",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx3zy65fjo2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x6b216e9b5985cb26ce171192b5b719bd26b874a4",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x0242c593e8ca202885a05bd67707d973fb8f513d",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x5222eb06464c31bfe919db774603bdc910120bb2",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x28a76d496d32459e6f5bec7279b0c56d9ddbc28c",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x2ecbafd8a5b23f442a7d4474059c3257eab9d1c0",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x17443e8bcdc7c710d78b0adbfccfb109ee9f5318",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x8bdf81d5e6ad0169c6d69d857f988a6412d38683",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x87a92f1751d0017ab2d0bddbd714666717ad88ff",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0xeb45395877a0b19a6f9d175e38fdd3e7f01a7560",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x03fb6e928a58f15d37889bb51f22e9649d68b773",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x3ea09078d9eb9fa2e97d5f3c0fc64222ca9a2bc3",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0xf195d1cf1f8c8b1799c8f73c6257b0aba5c966c4",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0xf69b95a7636a79092e7d680cef82ffd21987e1a3",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x715dd485d211f4269c638fc5051d82ef624e12b0",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0x23b5b7330a0267fb8c1ad1c938a1060d4cf5d43d",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0xccaaa7ceaa3f0e1261787a2f7b4663250e65abfb",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "0xd41eec898c634078bc3741760d95bbc0c7005193",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "6ac321ec5de5ee424c24e010",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "6ac321f769a169193a59c828",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "urn:li:share:7512724591841058817",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt2",
+      "company": "Bybit",
+      "title": "[EU] Head of Marketing, EU",
+      "platform": "facebook",
+      "postedAt": "2026-10-05T04:04:47.512Z",
+      "postId": "691827047618629_1106837065256861",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "x",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "6ac3220aca1380ada8453150",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Merkle Science is hiring Sales Development Representative\n\nhttps://hashtagweb3.com/sls184/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2106958938549756047"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "threads",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "18107672318236095",
+      "verification": "verified",
+      "expectedText": "Merkle Science is hiring Sales Development Representative: https://hashtagweb3.com/sls184/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeGT3R9FrVV",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "bluesky",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx3zzhos3r2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0xb9729187d30e29c0fb3fe9b17ba5b262e78affe5",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0xd7040173feaeb52c2c79732a7bb13c23ef4a6c78",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x919088daf4a98ba47a8cd3cb29f72ad0c448baf8",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x7589afeec4fd287f06472c619aebb72204a998e3",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x54ee19ffb80497c98b7eb1a73712b497ff6df7a3",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0xb7fd19cd388d29a9d9b32a98547f0c9937958c32",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0xb83341c797b179dfb860d768b56bb7fa47c900a4",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x86cb8208bf9c6173dc71eba8d4de33059a8e093b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x24e1808dead19d62b725db63bdd0110e95e8b31c",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x03c6f7647db00ad2dcab709321650418e5e8f1de",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x4cb7314d1da16fec4354d7f0647020b90a3f0d3e",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0xd1a9a9aab367e4d3c32781d25dffac6a7689cc3b",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0xb9a5d4879ce53361f8beb486d0aa5824bdb7346d",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x9047abf3f522247f78361c2d1a8adbcf1ccba63b",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x00221be8d2352895ef77b807d655bfd2df877988",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x33e9fe23bdfa723ffc2fe47e541e2b63e363a079",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "0x04dc1e11742b3503a2f073e5b3b06675edae37c2",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "6ac322175de5ee424c24e94c",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "6ac3222269a169193a59cea8",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "urn:li:share:7512724771785146368",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls184",
+      "company": "Merkle Science",
+      "title": "Sales Development Representative",
+      "platform": "facebook",
+      "postedAt": "2026-10-05T04:05:30.669Z",
+      "postId": "691827047618629_1106837415256826",
       "verification": "verified"
     }
   ]
