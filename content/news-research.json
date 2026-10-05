@@ -1421,11 +1421,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d3d6cf8a0da088636bf3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T07:36:03.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Dogecoin price and derivatives snapshot around 0.096 with ETF inflow chatter; intraday price action with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://coinjournal.net/news/dogecoin-tops-0-096-as-etf-inflows-and-derivatives-signal-improving-sentiment/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:01:40.631Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "3597bbf2e420e0a5461e": {
       "source": "Unchained",
@@ -3102,6 +3112,18 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:01:31.218Z",
           "duplicateOf": "occ-lawsuit"
+        },
+        "d3d6cf8a0da088636bf3": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Dogecoin price and derivatives snapshot around 0.096 with ETF inflow chatter; intraday price action with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/dogecoin-tops-0-096-as-etf-inflows-and-derivatives-signal-improving-sentiment/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:01:40.631Z"
         }
       },
       "baselineSlugs": [
