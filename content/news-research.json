@@ -2383,11 +2383,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "57a1255a487428fd90ec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T07:24:40.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "not-a-concrete-event",
+      "note": "Token-unlock calendar preview for HYPE, ENA, and APT; scheduled unlock watchlist excluded as calendar content.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/crypto-token-unlocks-hype-ena-apt-october/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:40.104Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "811cc2c83981b2bde362": {
       "source": "BeInCrypto",
@@ -3538,6 +3548,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:38.249Z"
+        },
+        "57a1255a487428fd90ec": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Token-unlock calendar preview for HYPE, ENA, and APT; scheduled unlock watchlist excluded as calendar content.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/crypto-token-unlocks-hype-ena-apt-october/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:40.104Z"
         }
       },
       "baselineSlugs": [
