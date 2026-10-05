@@ -2370,11 +2370,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f6598733866705b11445",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T05:08:38.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "opinion",
+      "note": "Mark Cuban commentary on who gets 750,000 new AI jobs; pundit warning with no concrete Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:02:16.863Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "a00ddb439d663ccdf53c": {
       "source": "CoinDesk",
@@ -3378,6 +3383,13 @@
           "note": "Injective CEO interview expectation that US INJ ETFs arrive before 2027; single-executive prediction with no approval or filing event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:02:15.102Z"
+        },
+        "f6598733866705b11445": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Mark Cuban commentary on who gets 750,000 new AI jobs; pundit warning with no concrete Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:02:16.863Z"
         }
       },
       "baselineSlugs": [
