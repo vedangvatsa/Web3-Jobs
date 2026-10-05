@@ -1975,11 +1975,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "350340a9e84dad57e1fa",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:26:24.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "verified-event",
+      "note": "Payward integration of Singapore Gulf Bank SGB Net for 24/7 institutional dollar settlement announced Oct 4; verified via CoinDesk and Cointelegraph on the same Businesswire release.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:00:54.604Z",
+      "articleSlug": "kraken-settlement",
+      "lastReviewedDay": "2026-10-05"
     },
     "56791c89616377794d77": {
       "source": "BeInCrypto",
@@ -2854,6 +2869,23 @@
           ],
           "reviewedAt": "2026-10-05T11:00:52.943Z",
           "articleSlug": "zcash-testnet"
+        },
+        "350340a9e84dad57e1fa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Payward integration of Singapore Gulf Bank SGB Net for 24/7 institutional dollar settlement announced Oct 4; verified via CoinDesk and Cointelegraph on the same Businesswire release.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:54.604Z",
+          "articleSlug": "kraken-settlement"
         }
       },
       "baselineSlugs": [
