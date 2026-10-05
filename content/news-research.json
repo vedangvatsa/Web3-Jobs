@@ -989,11 +989,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1c83d9671464c7c764e8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T14:00:00.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "not-a-concrete-event",
+      "note": "Evergreen adoption feature on keeping users with Coinbase, WisdomTree, and OLeary interviews; no single concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:48:31.046Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "aa6d05f20b2519ec8d05": {
       "source": "Cointelegraph",
@@ -1655,6 +1660,13 @@
           "note": "State of Crypto newsletter midterms preview of Nov 3 polls; no vote or bill passed, newsletter analysis only.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:48:29.612Z"
+        },
+        "1c83d9671464c7c764e8": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Evergreen adoption feature on keeping users with Coinbase, WisdomTree, and OLeary interviews; no single concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:48:31.046Z"
         }
       },
       "baselineSlugs": [
