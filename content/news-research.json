@@ -1271,11 +1271,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "9fdbdaad90d91d18d310",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:38:15.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "verified-event",
+      "note": "SEC Oct 2 order 34-106577 approving Cboe BZX rules for six 3x Volatility Shares trusts including bitcoin and ether funds, S-1 still needed; verified across three opened outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/sec-clears-cboe-to-list-volatility-shares-3x-bitcoin-and-ether-funds/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/sec-approves-3x-leveraged-bitcoin-ether-etps/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:00:38.045Z",
+      "articleSlug": "triple-funds",
+      "lastReviewedDay": "2026-10-05"
     },
     "291820cca5cb4ef97b55": {
       "source": "CryptoSlate",
@@ -2654,6 +2673,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:36.484Z",
           "articleSlug": "ruble-wages"
+        },
+        "9fdbdaad90d91d18d310": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "SEC Oct 2 order 34-106577 approving Cboe BZX rules for six 3x Volatility Shares trusts including bitcoin and ether funds, S-1 still needed; verified across three opened outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/sec-clears-cboe-to-list-volatility-shares-3x-bitcoin-and-ether-funds/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/sec-approves-3x-leveraged-bitcoin-ether-etps/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:38.045Z",
+          "articleSlug": "triple-funds"
         }
       },
       "baselineSlugs": [
