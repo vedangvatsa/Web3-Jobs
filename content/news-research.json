@@ -56,11 +56,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f8bf8a703c961520da34",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T22:31:12.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "not-a-concrete-event",
+      "note": "Weekly Hodlers Digest roundup of several stories plus a 600K prediction section; no single concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:29.172Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "cb272dc5f3a019f51157": {
       "source": "CryptoSlate",
@@ -1451,6 +1456,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:25.055Z",
           "duplicateOf": "clarity-act"
+        },
+        "f8bf8a703c961520da34": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Weekly Hodlers Digest roundup of several stories plus a 600K prediction section; no single concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:29.172Z"
         }
       },
       "baselineSlugs": [
