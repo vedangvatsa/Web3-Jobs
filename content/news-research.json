@@ -1159,11 +1159,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0369fc09962e754542dd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T00:00:01.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "promotional",
+      "note": "Agent-orchestration Wall Street AI-jobs explainer; page returned HTTP 403, career-skill content with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:48:32.397Z",
+      "lastReviewedDay": "2026-10-05"
     }
   },
   "runs": {
@@ -1667,6 +1672,13 @@
           "note": "Evergreen adoption feature on keeping users with Coinbase, WisdomTree, and OLeary interviews; no single concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:48:31.046Z"
+        },
+        "0369fc09962e754542dd": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Agent-orchestration Wall Street AI-jobs explainer; page returned HTTP 403, career-skill content with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:48:32.397Z"
         }
       },
       "baselineSlugs": [
