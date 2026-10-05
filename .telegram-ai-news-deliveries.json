@@ -661,5 +661,32 @@
     "slotKey": "2026-10-04:evening",
     "messageId": 193318,
     "sentAt": "2026-10-04T19:33:03.278Z"
+  },
+  "ec32bf5c-a67e-4830-9936-6c10a9ef46c3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T04:04:53.076Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "headline": "Google pauses open source bug bounty over AI submissions",
+        "summary": "An influx of low-quality AI-generated reports overwhelmed security teams reviewing open source software vulnerabilities.",
+        "event_rationale": "Covers Google freezing its open-source bug bounty program due to AI-generated spam reports.",
+        "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "source": "TechCrunch",
+        "originalTitle": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions"
+      },
+      {
+        "index": 2,
+        "original_title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "headline": "TechCrunch Equity podcast evaluates white house AI safety pacts",
+        "summary": "Media analysts discussed public skepticism toward voluntary corporate commitments and government superintelligence branding efforts.",
+        "event_rationale": "Covers commentary on public reception of recent federal policy initiatives regarding artificial intelligence safety.",
+        "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "source": "TechCrunch",
+        "originalTitle": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
+      }
+    ],
+    "slotKey": "2026-10-05:morning"
   }
 }
