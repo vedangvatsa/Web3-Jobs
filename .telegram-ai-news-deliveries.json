@@ -690,5 +690,20 @@
     "slotKey": "2026-10-05:morning",
     "messageId": 193319,
     "sentAt": "2026-10-05T04:04:55.108Z"
+  },
+  "9d08dca3-77e4-4efc-aa01-59fdcf4bedd6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T11:33:01.994Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Startup Springboards builds LLM to generate diverse responses",
+        "summary": "The company aims to offer a wider variety of answers than mainstream artificial intelligence competitors.",
+        "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+        "source": "MIT Tech Review",
+        "originalTitle": "People really hate AI, so why can’t they get enough?"
+      }
+    ],
+    "slotKey": "2026-10-05:afternoon"
   }
 }
