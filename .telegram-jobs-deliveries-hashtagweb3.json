@@ -688,5 +688,49 @@
     "slotKey": "2026-10-04:evening",
     "messageId": 155603,
     "sentAt": "2026-10-04T19:32:21.833Z"
+  },
+  "843511ea-2380-4623-b590-75e7ed133d7e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T04:04:47.728Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "4339926009",
+        "slug": "backend120",
+        "url": "https://hashtagweb3.com/backend120?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ondo Finance",
+        "title": "Senior Backend Engineer"
+      },
+      {
+        "key": "yzilabs-3d6991a0-dca7-49b9-a585-37f132b420ef",
+        "slug": "sls80",
+        "url": "https://hashtagweb3.com/sls80?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "FinTax",
+        "title": "Business Development Manager"
+      },
+      {
+        "key": "915a6185-d147-4e2f-9975-8f1071532e59",
+        "slug": "engineer541",
+        "url": "https://hashtagweb3.com/engineer541?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinhako",
+        "title": "Senior Engineer"
+      },
+      {
+        "key": "1096d07a-86c5-460d-a800-d3f155da0d38",
+        "slug": "director10",
+        "url": "https://hashtagweb3.com/director10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coins.ph",
+        "title": "Director, Risk Strategy"
+      },
+      {
+        "key": "acc76c8e-5c90-4af8-b559-68570bb55d89",
+        "slug": "product313",
+        "url": "https://hashtagweb3.com/product313?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Braiins",
+        "title": "Product Discovery & Prototyping Engineer"
+      }
+    ],
+    "message": "• Ondo Finance is hiring <a href=\"https://hashtagweb3.com/backend120?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Backend Engineer</a>\n• FinTax is hiring <a href=\"https://hashtagweb3.com/sls80?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Manager</a>\n• Coinhako is hiring <a href=\"https://hashtagweb3.com/engineer541?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Engineer</a>\n• Coins.ph is hiring <a href=\"https://hashtagweb3.com/director10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Director, Risk Strategy</a>\n• Braiins is hiring <a href=\"https://hashtagweb3.com/product313?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Discovery &amp; Prototyping Engineer</a>",
+    "slotKey": "2026-10-05:morning"
   }
 }
