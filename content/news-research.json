@@ -262,11 +262,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5c08feea06d46ad93dc5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T01:00:00.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "opinion",
+      "note": "Single-personality Kiyosaki hard-truth commentary on gold, silver, and bitcoin; page returned HTTP 403 and title and search confirm opinion with no filing, launch, or vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:31.835Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "e164479e00dae79e3118": {
       "source": "CryptoSlate",
@@ -1475,6 +1480,13 @@
           "note": "Post-payrolls market analysis arguing the 85K recovery needs ETF proof; Glassnode odds and short-squeeze recap with no new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:30.540Z"
+        },
+        "5c08feea06d46ad93dc5": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Single-personality Kiyosaki hard-truth commentary on gold, silver, and bitcoin; page returned HTTP 403 and title and search confirm opinion with no filing, launch, or vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:31.835Z"
         }
       },
       "baselineSlugs": [
