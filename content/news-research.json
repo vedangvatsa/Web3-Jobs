@@ -1812,11 +1812,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3741b5e3fc4142c147b5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T10:37:30.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Cardano ADA daily-gains markets roundup in a range-bound market with unclear catalyst; price chatter.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:01:44.351Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "303e582eb4203735bf8c": {
       "source": "Cointelegraph",
@@ -3146,6 +3156,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:42.245Z"
+        },
+        "3741b5e3fc4142c147b5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Cardano ADA daily-gains markets roundup in a range-bound market with unclear catalyst; price chatter.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:01:44.351Z"
         }
       },
       "baselineSlugs": [
