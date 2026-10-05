@@ -115,20 +115,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c21c7a578d483e64674d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-07T17:01:03.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "Trump Oct 4 Truth Social announcement of Super Intelligence Force led by DNI Jay Clayton with Ferguson, Kupor, Michael. Verified across four opened sources.",
+      "note": "Trump Oct 4 Truth Social creation of Super Intelligence Force led by DNI Jay Clayton with Ferguson, Michael, Kupor; verified across four opened outlets including AP and Guardian.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
           "outcome": "read"
         },
         {
@@ -140,7 +136,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-05T03:46:41.160Z",
+      "reviewedAt": "2026-10-05T10:59:54.042Z",
       "articleSlug": "clayton-ai",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -2440,6 +2436,27 @@
           ],
           "reviewedAt": "2026-10-05T10:59:49.374Z",
           "articleSlug": "imf-salvador"
+        },
+        "c21c7a578d483e64674d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Trump Oct 4 Truth Social creation of Super Intelligence Force led by DNI Jay Clayton with Ferguson, Michael, Kupor; verified across four opened outlets including AP and Guardian.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+              "outcome": "read"
+            },
+            {
+              "url": "https://fortune.com/2026/10/04/trump-national-intelligence-director-jay-clayton-super-intelligence-force-ai-agency/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T10:59:54.042Z",
+          "articleSlug": "clayton-ai"
         }
       },
       "baselineSlugs": [
