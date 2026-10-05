@@ -1770,11 +1770,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a841b9406a402c460b54",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T04:23:25.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin intraday run toward 87,000 and reversal on jobs data; price action recap with no new event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:01:45.919Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "32922bb50bf5e4312567": {
       "source": "CoinDesk",
@@ -3168,6 +3178,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:44.351Z"
+        },
+        "a841b9406a402c460b54": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin intraday run toward 87,000 and reversal on jobs data; price action recap with no new event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:01:45.919Z"
         }
       },
       "baselineSlugs": [
