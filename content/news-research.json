@@ -1005,28 +1005,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "31eb2becc60db42bc102",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-07T16:01:03.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
-      "reason": "verified-event",
-      "note": "ICBA Oct 2 APA suit in D.D.C. against OCC over March 2026 trust-charter rule and Protego charter. Verified via Decrypt, CoinDesk, and the ICBA primary release.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.icba.org/web/payments/w/occ-release-oct-2026",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-05T03:46:47.235Z",
+      "reason": "duplicate",
+      "note": "Same ICBA Oct 2 APA suit against OCC over the March 2026 trust-charter rule already covered by occ-lawsuit.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:01:29.731Z",
       "articleSlug": "bank-charters",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -1035,7 +1022,8 @@
         "near-recovery.md: under 600 words",
         "ruble-wages.md: under 600 words",
         "Source link unavailable: https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
-      ]
+      ],
+      "duplicateOf": "occ-lawsuit"
     },
     "1c83d9671464c7c764e8": {
       "source": "CoinDesk",
@@ -3092,6 +3080,14 @@
           "reviewedAt": "2026-10-05T11:01:28.147Z",
           "duplicateOf": "kraken-settlement",
           "mergedInto": "350340a9e84dad57e1fa"
+        },
+        "31eb2becc60db42bc102": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ICBA Oct 2 APA suit against OCC over the March 2026 trust-charter rule already covered by occ-lawsuit.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:01:29.731Z",
+          "duplicateOf": "occ-lawsuit"
         }
       },
       "baselineSlugs": [
