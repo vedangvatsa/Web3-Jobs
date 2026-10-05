@@ -380,11 +380,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4055f697fbc2978efaa6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T17:59:34.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "price-chatter",
+      "note": "Speculative macro piece asking whether Japan Oct 8 data spills into bitcoin; page returned HTTP 403 with no concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:39.333Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "5f23e01f8b7d7b3164c1": {
       "source": "BeInCrypto",
@@ -1511,6 +1516,13 @@
           "note": "Single-pundit Schiff post claiming MicroStrategy lost buying power; page returned HTTP 403 with no filing or event behind it.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:34.561Z"
+        },
+        "4055f697fbc2978efaa6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Speculative macro piece asking whether Japan Oct 8 data spills into bitcoin; page returned HTTP 403 with no concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:39.333Z"
         }
       },
       "baselineSlugs": [
