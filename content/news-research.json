@@ -1391,11 +1391,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e465fe93729a1dc70134",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T10:22:27.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "verified-event",
+      "note": "OKXICE Oct 4 notice for 24/7 tokenized US stock venue under SEC Innovation Exemption covering 60-plus stocks; verified via Decrypt, CoinDesk, and Unchained.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/nvidia-tesla-shares-head-for-24-7-onchain-trading-under-okx-and-nyse-owners-venture/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:00:48.158Z",
+      "articleSlug": "okx-venue",
+      "lastReviewedDay": "2026-10-05"
     },
     "d3d6cf8a0da088636bf3": {
       "source": "CoinJournal",
@@ -2774,6 +2793,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:46.561Z",
           "articleSlug": "staking-queue"
+        },
+        "e465fe93729a1dc70134": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "OKXICE Oct 4 notice for 24/7 tokenized US stock venue under SEC Innovation Exemption covering 60-plus stocks; verified via Decrypt, CoinDesk, and Unchained.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/nvidia-tesla-shares-head-for-24-7-onchain-trading-under-okx-and-nyse-owners-venture/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:48.158Z",
+          "articleSlug": "okx-venue"
         }
       },
       "baselineSlugs": [
