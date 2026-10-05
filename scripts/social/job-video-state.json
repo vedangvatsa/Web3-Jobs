@@ -1063,6 +1063,11 @@
           "startedAt": "2026-10-05T11:31:57.114Z",
           "postId": "6ac38aae0cd800576d3facb4",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Account Manager, Dutch-speaking at eToro. Tel Aviv District.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-05T11:32:03.962Z"
         }
       }
     },
