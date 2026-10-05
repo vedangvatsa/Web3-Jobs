@@ -82,11 +82,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cb272dc5f3a019f51157",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T20:45:36.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "price-chatter",
+      "note": "Post-payrolls market analysis arguing the 85K recovery needs ETF proof; Glassnode odds and short-squeeze recap with no new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:30.540Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "c21c7a578d483e64674d": {
       "source": "Decrypt",
@@ -1463,6 +1468,13 @@
           "note": "Weekly Hodlers Digest roundup of several stories plus a 600K prediction section; no single concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:29.172Z"
+        },
+        "cb272dc5f3a019f51157": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Post-payrolls market analysis arguing the 85K recovery needs ETF proof; Glassnode odds and short-squeeze recap with no new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:30.540Z"
         }
       },
       "baselineSlugs": [
