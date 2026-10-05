@@ -731,11 +731,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "59adb76295b42ab3d29d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T18:40:36.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "not-a-concrete-event",
+      "note": "Explainer on SEC Treasury-clearing timelines with compliance dates in Dec 2026 and June 2027 and a Sept 22 statement; no fresh Oct 2-5 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:23.689Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "033f27c4689c30fa49da": {
       "source": "CoinDesk",
@@ -1425,6 +1430,13 @@
           "reviewedAt": "2026-10-05T03:47:22.371Z",
           "duplicateOf": "clayton-ai",
           "mergedInto": "c21c7a578d483e64674d"
+        },
+        "59adb76295b42ab3d29d": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Explainer on SEC Treasury-clearing timelines with compliance dates in Dec 2026 and June 2027 and a Sept 22 statement; no fresh Oct 2-5 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:23.689Z"
         }
       },
       "baselineSlugs": [
