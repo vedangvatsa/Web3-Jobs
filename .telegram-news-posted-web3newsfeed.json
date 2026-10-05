@@ -698,6 +698,9 @@
   "https://hashtagweb3.com/peirce-exit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/quantum-cost?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zcash-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/morpho-stocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/radix-halt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sec-exemption?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1998,6 +2001,12 @@
   "StarkWare reports 79% cut in estimated quantum-safe Bitcoin compute cost",
   "Grayscale Schedules 3-for-1 Share Split for Zcash ETF",
   "Grayscale Sets 3-for-1 Split for Zcash ETF",
+  "Morpho allows borrowing USDC against tokenized Coinbase shares",
+  "Morpho Launches USDC Borrowing Against Coinbase Tokenized Stocks on Base",
+  "Radix attributes $1.3 million vault drain to 2023 code cleanup",
+  "Radix Traces $1.3M Vault Drain to 2023 Code Cleanup",
+  "SEC grants five-year exemption for tokenized stock trading venues",
+  "SEC Issues Five-Year Exemption for Tokenized Stock Venues",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2225,5 +2234,8 @@
   "fp:138m|government|grant|imf|improv|operation|participation|plan|provid|receiv",
   "fp:agency|commissioner|eight|forc|her|hester|includ|lead|leav|oct2",
   "fp:access|challeng|comput|cost|cut|estimat|experimental|gpu|limit|production",
-  "fp:asset|etf|for1|fund|grayscal|lower|nearly|reach|schedules3|september29"
+  "fp:asset|etf|for1|fund|grayscal|lower|nearly|reach|schedules3|september29",
+  "fp:against|allow|are|bas|borrow|coinbas|curat|financial|lend|market",
+  "fp:13m|attribut|august|caus|cleanup|cod|day|drain|error|exploit",
+  "fp:automat|exchang|exclud|exemption|fiv|grant|issu|market|may|real"
 ]

@@ -735,7 +735,7 @@
     "sentAt": "2026-10-04T19:32:58.244Z"
   },
   "478a975e-feb3-4240-8599-12eab9926345": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T04:07:41.321Z",
     "stories": [
       {
@@ -763,6 +763,8 @@
         "originalTitle": "SEC Issues Five-Year Exemption for Tokenized Stock Venues"
       }
     ],
-    "slotKey": "2026-10-05:morning"
+    "slotKey": "2026-10-05:morning",
+    "messageId": 65730,
+    "sentAt": "2026-10-05T04:07:43.916Z"
   }
 }
