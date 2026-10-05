@@ -791,11 +791,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a76797a17f940ac26d3c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T18:43:49.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI safety-lead resignation and nuclear-rules claim; page returned HTTP 403, general AI personnel news with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:48:28.252Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "59adb76295b42ab3d29d": {
       "source": "CryptoSlate",
@@ -1631,6 +1636,13 @@
           "note": "Daily three-item recap recycling the Clayton, El Salvador, and NEAR stories; roundup with no standalone event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:54.811Z"
+        },
+        "a76797a17f940ac26d3c": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI safety-lead resignation and nuclear-rules claim; page returned HTTP 403, general AI personnel news with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:48:28.252Z"
         }
       },
       "baselineSlugs": [
