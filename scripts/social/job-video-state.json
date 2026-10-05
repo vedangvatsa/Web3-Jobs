@@ -56,6 +56,10 @@
     "2026-10-05:morning": [
       "mkt63",
       "fpa2"
+    ],
+    "2026-10-05:afternoon": [
+      "manager523",
+      "ops66"
     ]
   },
   "jobs": {
@@ -1033,6 +1037,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7693022046992747808"
         }
       }
+    },
+    "manager523": {
+      "slot": "2026-10-05:afternoon",
+      "selectedAt": "2026-10-05T11:31:05.425Z",
+      "verifiedAt": "2026-10-05T11:31:05.425Z",
+      "captions": {
+        "instagram": "Account Manager, Dutch-speaking at eToro\n\nTel Aviv District\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Account Manager, Dutch-speaking at eToro. Tel Aviv District.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Tel Aviv District\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Account Manager, Dutch-speaking at eToro"
+      },
+      "receipts": {}
+    },
+    "ops66": {
+      "slot": "2026-10-05:afternoon",
+      "selectedAt": "2026-10-05T11:31:05.426Z",
+      "verifiedAt": "2026-10-05T11:31:05.426Z",
+      "captions": {
+        "instagram": "Treasury Operations Manager at Breeze Cash\n\nNew York City, NY · $130k - $160k/yr\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Treasury Operations Manager at Breeze Cash. New York City, NY · $130k - $160k/yr.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "New York City, NY · $130k - $160k/yr\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Treasury Operations Manager at Breeze Cash · $130k - $160k/yr"
+      },
+      "receipts": {}
     }
   }
 }
