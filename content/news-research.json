@@ -314,11 +314,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "03d8221e464fa2f1a234",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T20:51:31.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "opinion",
+      "note": "Single-pundit Schiff post claiming MicroStrategy lost buying power; page returned HTTP 403 with no filing or event behind it.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:34.561Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "943ed098405000c87dae": {
       "source": "CryptoSlate",
@@ -1499,6 +1504,13 @@
           "note": "Coin Metrics PIT methodology explainer stating no return change is established; methods piece, not an event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:33.233Z"
+        },
+        "03d8221e464fa2f1a234": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Single-pundit Schiff post claiming MicroStrategy lost buying power; page returned HTTP 403 with no filing or event behind it.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:34.561Z"
         }
       },
       "baselineSlugs": [
