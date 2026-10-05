@@ -142,11 +142,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "751c0a31b9ee07e32b36",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T15:20:58.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "source-blocked",
+      "note": "Lido CSM 0x02 bond figures confirmed only in Lido forum and docs; Crypto Briefing and Gate pages returned HTTP 403, leaving no second openable independent outlet on the specific bond.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://research.lido.fi/t/community-staking-module/5917/240",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.gate.com",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:47:11.854Z",
+      "retrySearches": [
+        "Lido CSM 0x02 32 ETH first key bond October 2026 site:coindesk.com OR site:cointelegraph.com OR site:theblock.co"
+      ],
+      "lastReviewedDay": "2026-10-05",
+      "nextReviewDate": "2026-10-06"
     },
     "c421321e4f5faaaf535d": {
       "source": "CoinDesk",
@@ -1295,6 +1321,33 @@
           ],
           "reviewedAt": "2026-10-05T03:47:05.891Z",
           "articleSlug": "india-inflows"
+        },
+        "751c0a31b9ee07e32b36": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Lido CSM 0x02 bond figures confirmed only in Lido forum and docs; Crypto Briefing and Gate pages returned HTTP 403, leaving no second openable independent outlet on the specific bond.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://research.lido.fi/t/community-staking-module/5917/240",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.gate.com",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:47:11.854Z",
+          "retrySearches": [
+            "Lido CSM 0x02 32 ETH first key bond October 2026 site:coindesk.com OR site:cointelegraph.com OR site:theblock.co"
+          ]
         }
       },
       "baselineSlugs": [
