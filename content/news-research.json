@@ -1602,11 +1602,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "52fec212664af8735ecd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T10:39:57.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Live bitcoin price updates above 86,000 tied to Fed expectations; rolling price blog with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:01:52.678Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "7c55fb855cb43014383f": {
       "source": "BeInCrypto",
@@ -3212,6 +3222,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:51.129Z"
+        },
+        "52fec212664af8735ecd": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Live bitcoin price updates above 86,000 tied to Fed expectations; rolling price blog with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:01:52.678Z"
         }
       },
       "baselineSlugs": [
