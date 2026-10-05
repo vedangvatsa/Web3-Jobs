@@ -283,11 +283,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "943ed098405000c87dae",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T19:40:34.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "verified-event",
+      "note": "Bitcoin Core PR 35984 merged Sept 25, flagged by Optech newsletter 425 on Oct 2. Verified via GitHub primary, Optech, and CryptoSlate.",
+      "sourceChecks": [
+        {
+          "url": "https://github.com/bitcoin/bitcoin/pull/35984",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinops.org/en/newsletters/2026/10/02/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:46:55.428Z",
+      "articleSlug": "core-fix",
+      "lastReviewedDay": "2026-10-05"
     },
     "4055f697fbc2978efaa6": {
       "source": "BeInCrypto",
@@ -1055,6 +1074,27 @@
           ],
           "reviewedAt": "2026-10-05T03:46:50.229Z",
           "articleSlug": "near-recovery"
+        },
+        "943ed098405000c87dae": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bitcoin Core PR 35984 merged Sept 25, flagged by Optech newsletter 425 on Oct 2. Verified via GitHub primary, Optech, and CryptoSlate.",
+          "sourceChecks": [
+            {
+              "url": "https://github.com/bitcoin/bitcoin/pull/35984",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinops.org/en/newsletters/2026/10/02/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:46:55.428Z",
+          "articleSlug": "core-fix"
         }
       },
       "baselineSlugs": [
