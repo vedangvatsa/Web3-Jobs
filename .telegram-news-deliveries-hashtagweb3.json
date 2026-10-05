@@ -733,5 +733,36 @@
     "slotKey": "2026-10-05:morning",
     "messageId": 155610,
     "sentAt": "2026-10-05T04:05:24.408Z"
+  },
+  "43231d0f-1a67-42a0-9389-f1a4b7903870": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T11:36:29.329Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "EigenLayer Activates Stake Slashing on Ethereum Mainnet",
+        "summary": "Starting April 17, 2025, Actively Validated Services can penalize node operator stakes using custom protocol rules.",
+        "link": "https://hashtagweb3.com/eigenlayer-slashing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "EigenLayer Slashing Went Live With AVS-Defined Penalties and Delayed Exits"
+      },
+      {
+        "index": -1,
+        "headline": "Maharashtra Considers Tokenizing Infrastructure Assets",
+        "summary": "The western Indian state is drafting policies to tokenize electricity transmission assets and land.",
+        "link": "https://hashtagweb3.com/maharashtra-assets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Indian State of Maharashtra Explores Tokenizing Infrastructure Assets"
+      },
+      {
+        "index": -1,
+        "headline": "Kalshi seeks US approval for stock-based perpetual futures",
+        "summary": "The platform intends to offer 60 contracts for stocks and ETFs without current official filings or specifications.",
+        "link": "https://hashtagweb3.com/kalshi-perps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kalshi Plans 24/7 Tesla and Nvidia Perpetual Futures"
+      }
+    ],
+    "slotKey": "2026-10-05:afternoon"
   }
 }
