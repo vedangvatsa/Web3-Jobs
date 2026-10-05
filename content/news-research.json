@@ -878,11 +878,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e52989bfd7df8a5c5c56",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T12:42:00.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "verified-event",
+      "note": "Japan Oct 2 designation of Garantex with 32 entities, 9 individuals, 35 vessels. Verified via Cointelegraph, Crypto Briefing, and MOF joint statement.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/japan-sanctions-garantex-crypto-exchange/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/20261001212931.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:46:58.003Z",
+      "articleSlug": "garantex-sanctions",
+      "lastReviewedDay": "2026-10-05"
     },
     "98a7eadeef49c950ca20": {
       "source": "Cointelegraph",
@@ -1135,6 +1154,27 @@
           ],
           "reviewedAt": "2026-10-05T03:46:56.689Z",
           "articleSlug": "zkapi"
+        },
+        "e52989bfd7df8a5c5c56": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Japan Oct 2 designation of Garantex with 32 entities, 9 individuals, 35 vessels. Verified via Cointelegraph, Crypto Briefing, and MOF joint statement.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/japan-sanctions-garantex-crypto-exchange/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/20261001212931.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:46:58.003Z",
+          "articleSlug": "garantex-sanctions"
         }
       },
       "baselineSlugs": [
