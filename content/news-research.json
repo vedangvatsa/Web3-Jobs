@@ -1576,11 +1576,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e27cce0a0e05bc684cfb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T03:44:09.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "duplicate",
+      "note": "Same OKX-ICE joint venture and Oct 4 tokenized stock venue notice as the ready okx-venue draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:01:17.079Z",
+      "duplicateOf": "okx-venue",
+      "mergedInto": "e465fe93729a1dc70134",
+      "lastReviewedDay": "2026-10-05"
     },
     "52fec212664af8735ecd": {
       "source": "CoinDesk",
@@ -2994,6 +3001,15 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:12.821Z",
+          "duplicateOf": "okx-venue",
+          "mergedInto": "e465fe93729a1dc70134"
+        },
+        "e27cce0a0e05bc684cfb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OKX-ICE joint venture and Oct 4 tokenized stock venue notice as the ready okx-venue draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:01:17.079Z",
           "duplicateOf": "okx-venue",
           "mergedInto": "e465fe93729a1dc70134"
         }
