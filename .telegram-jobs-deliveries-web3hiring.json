@@ -1426,7 +1426,7 @@
     "sentAt": "2026-10-05T04:04:39.820Z"
   },
   "9711f3a6-f957-4e84-8bda-f0c784aa8b2c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T04:04:41.600Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -1467,6 +1467,8 @@
       }
     ],
     "message": "• Luxor Technology is hiring <a href=\"https://hashtagweb3.com/engineer341?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Golang Engineer: Cloud Platform</a>\n• Polymarket is hiring <a href=\"https://hashtagweb3.com/mgr129?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Program Manager CX Tooling</a>\n• Tools for Humanity is hiring <a href=\"https://hashtagweb3.com/frontend43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Website UI/UX Designer</a>\n• CertiK is hiring <a href=\"https://hashtagweb3.com/sol?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Blockchain Security Engineer</a>\n• Daylight is hiring <a href=\"https://hashtagweb3.com/defi2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">DeFi Strategist</a>",
-    "slotKey": "2026-10-05:morning"
+    "slotKey": "2026-10-05:morning",
+    "messageId": 105,
+    "sentAt": "2026-10-05T04:04:44.175Z"
   }
 }
