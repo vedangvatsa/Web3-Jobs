@@ -20,6 +20,31 @@ there is no full place directory below it. Select two cities to open comparison
 in the shared Sheet. Print exports the first 50 matching cities in displayed rank
 order, with reference details, using the browser's Save as PDF.
 
+The hub order is heading, centered place-category chips, map, search/ranking
+controls, then city cards. Cards use the shared `CityCard` with full-width
+responsive photos and load in batches of 12 through the same IntersectionObserver
+pattern as the other listings. Filtering resets the visible batch; there is no
+Show more button. `NomadShell` delegates headings and optional actions directly to
+`PageHeader`, with no private heading-margin or font-size overrides. `PageShell`
+owns the page padding. The same components render the Glossary heading.
+
+Search, region, budget and ranking use `ListingToolbar`, as on Glossary, News and
+Events. Its `ListingSelect` is also used by the Nomad climate, comparison and
+passport controls. Inputs/selects have 44px touch targets, shared border/radius
+and focus styles, 16px mobile text and 14px desktop text. Three-filter toolbars
+wrap before the controls become cramped. Empty results use `ListingEmptyState`.
+The shared heading gap is 32px; the page top padding is 32px on mobile and 48px
+from the medium breakpoint. City cards retain 16px grid gaps.
+
+City guides use `CityPlacesMap` instead of place lists. It shares
+`PlaceTypeFilters`, `PlacesMapClient` and the same map implementation with the hub,
+but receives only that city's place records. The map also handles cities without
+listed places. Jobs, Events, Companies and Societies appear as separate visible
+sections using `JobCard`, `EventCard`, `CompanyCard` and `PopupCard`, with no tabs.
+The existing city/country fallback labels and small related-content selections
+are preserved. Visa programs retain the shared toolbar/cards without the
+reference-count sentence or an Explore destinations header button.
+
 Standalone timezone, Schengen, runway, tax and service pages are removed. Their
 imported records and calculation libraries remain for provenance, but are not
 promoted as active tools. No replacement Planner page is introduced.
@@ -115,6 +140,7 @@ npm run typecheck
 npm run test:nomads
 FAH_FAST_PREBUILD=1 OG_PRECOMPUTE=0 OG_FILL_MISSING=0 npm run build
 CHROME_BIN=/path/to/chrome npm run test:nomads:browser
+CHROME_BIN=/path/to/chrome npx tsx scripts/review-nomad-design.ts --label=shared-glossary --verify --all-widths --dark
 ```
 
 The data/calculation tests cover calendar rollovers, DST/fractional offsets,
@@ -126,8 +152,15 @@ The production-browser suite checks all 102 routes, all 122 redirects, city 404s
 social/agent behavior, the original Nomad popup, interactive tools, failed-fetch
 retry, real map tiles, intermediate zoom frames, rapid-click/reduced-motion camera
 behavior, in-page comparison, URL reloads, desktop/mobile navigation, layouts at
-320/390/768/1024/1440px, and filtered PDF output. Screenshots,
+320/390/768/1024/1440px, all 100 cities through infinite scrolling, filter resets,
+centered wrapped chips, visible related sections, and filtered PDF output. Screenshots,
 failure artifacts and the generated PDF go into ignored `.cache/nomads/`.
+
+The design review compares computed heading typography, top/bottom spacing,
+container alignment and toolbar styles against `/glossary`. It covers five
+viewport widths and desktop/mobile dark mode, with screenshots and metrics for
+98 page/viewport combinations. The separate Glossary browser regression checks
+search, category/letter filters, reset, detail navigation and all 157 cards.
 
 Existing prebuild gates also run ATS ownership, published event identities,
 catalog integrity, social image, responsive image, middleware and slug checks.
@@ -143,6 +176,18 @@ against the older captured job snapshot. It does not overwrite the baseline.
 
 Implementation and local verification do not deploy the site. Firebase rollout
 continues through the repository's existing release workflow.
+
+## Local-review refinement verification
+
+The production build, typecheck and all 17 Nomad suites passed. The production
+browser suite passed all 102 pages and 122 redirects, including infinite-scroll
+completion without duplicates, larger photos, filters, comparison, visa cleanup,
+city-page maps/sections and five responsive widths, with no runtime errors.
+Visual review checked 26 general page/viewport combinations and eight city-detail
+views, including live city tiles and the empty-place state in Madrid. Heading
+spacing is measured against `/news`, in addition to typography and alignment.
+Artifacts are in `.cache/nomads/design-shared-layout/` and
+`.cache/nomads/design-shared-city-maps/`.
 
 ## Consolidation verification (2026-10-03 UTC)
 

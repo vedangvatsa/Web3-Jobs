@@ -5,13 +5,16 @@ import { cn } from '@/lib/utils';
 import { Card } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
 import { ScrollableRegion } from './scrollable-region';
-import { FilterSelect } from '@/components/ui/filter-select';
-export { FilterSelect } from '@/components/ui/filter-select';
+import { ListingEmptyState, ListingSelect } from '@/components/listing-toolbar';
 import type { CitySummary } from '@/lib/nomads/types';
 
 export const inputStyle = 'h-11 min-h-11 w-full min-w-0 rounded-md border border-input bg-background px-3 py-2 text-base text-foreground shadow-none ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 md:text-sm';
 export const buttonStyle = 'inline-flex min-h-11 items-center justify-center gap-2 rounded-md border border-input bg-background px-4 py-2 text-sm font-medium text-foreground ring-offset-background transition-colors hover:bg-accent hover:text-accent-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50';
 export const primaryButtonStyle = cn(buttonStyle, 'border-primary bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground');
+
+export function FilterSelect({ value, onValueChange, className, ...props }: Omit<React.ComponentProps<'select'>, 'value' | 'onChange'> & { value: string | number; onValueChange: (value: string) => void }) {
+  return <ListingSelect {...props} value={value} onChange={event => onValueChange(event.target.value)} className={cn('w-full flex-none', className)} />;
+}
 
 export function NomadPanel({ children, className, ...props }: React.HTMLAttributes<HTMLDivElement>) {
   return <Card className={cn('min-w-0 border-border/70 p-4 shadow-none sm:p-6', className)} {...props}>{children}</Card>;
@@ -37,7 +40,7 @@ export function TableFrame({ children, label }: { children: React.ReactNode; lab
 }
 export const tableStyle = 'w-full text-left text-sm [&_th]:px-4 [&_th]:py-3 [&_thead_th]:whitespace-nowrap [&_thead_th]:bg-muted/40 [&_thead_th]:text-xs [&_thead_th]:font-semibold [&_thead_th]:text-muted-foreground [&_tbody_th]:font-medium [&_tbody_th]:text-foreground [&_td]:px-4 [&_td]:py-3 [&_tbody_tr]:border-t [&_tbody_tr]:border-border/70 [&_tbody_tr]:transition-colors [&_tbody_tr:hover]:bg-muted/30 [&_a]:underline-offset-4 [&_a:hover]:underline [&_a:focus-visible]:outline-none [&_a:focus-visible]:ring-2 [&_a:focus-visible]:ring-ring';
 export function EmptyResults({ children, onReset }: { children?: React.ReactNode; onReset?: () => void }) {
-  return <div role="status" className="rounded-lg border border-dashed px-6 py-14 text-center"><p className="text-lg font-medium">{children || 'No matches for these filters.'}</p><p className="mt-2 text-sm text-muted-foreground">Try adjusting your search or filters.</p>{onReset && <button className={cn(buttonStyle, 'mt-4')} onClick={onReset}>Clear filters</button>}</div>;
+  return <ListingEmptyState title={children || 'No matches for these filters.'} onClear={onReset} clearLabel="Clear filters" />;
 }
 export function SourceNote({ children }: { children: React.ReactNode }) {
   return <div className="mt-8 border-t pt-4 text-xs leading-relaxed text-muted-foreground">{children}</div>;

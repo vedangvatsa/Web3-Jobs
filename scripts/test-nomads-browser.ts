@@ -96,10 +96,19 @@ async function main() {
     const go = async (route: string) => { await page.goto(`${origin}${route}`, { waitUntil: 'load' }); await expect(page.locator('main h1')).toBeVisible(); };
     const noOverflow = async () => assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1), false, `Page overflow: ${page.url()}`);
     const select = async (label: string, value: string) => {
-      await page.getByRole('combobox', { name: label, exact: true }).click();
+      const control = page.getByRole('combobox', { name: label, exact: true });
+      if (await control.evaluate(element => element.tagName === 'SELECT')) { await control.selectOption(value); return; }
+      await control.click();
       await page.locator(`[role="option"][data-value=${JSON.stringify(value)}]`).click();
     };
     const stableDropdown = async (trigger: Locator) => {
+      if (await trigger.evaluate(element => element.tagName === 'SELECT')) {
+        const before = await trigger.boundingBox();
+        await trigger.focus(); await page.keyboard.press('Space'); await page.keyboard.press('Escape');
+        await expect(trigger).toBeFocused();
+        assert.deepEqual(await trigger.boundingBox(), before, 'Native filter moved while opening');
+        return;
+      }
       await trigger.click();
       const viewport = page.locator('[data-radix-select-viewport]'); await expect(viewport).toBeVisible();
       await page.waitForTimeout(350); const start = await viewport.boundingBox(); assert.ok(start);
@@ -119,12 +128,29 @@ async function main() {
     await go('/nomads');
     await expect(page.locator('main').getByRole('alert')).toContainText('map could not be loaded');
     await page.getByRole('button', { name: 'Try again', exact: true }).click(); await mapReady();
-    await expect(page.locator('[data-nomad-city]')).toHaveCount(6);
+    await expect(page.locator('[data-nomad-city]')).toHaveCount(12);
     await expect(page.locator('[data-nomad-place], .nomad-navigation')).toHaveCount(0);
     await expect(page.locator('[data-place-category]')).toHaveCount(5);
+    await expect(page.getByRole('button', { name: 'Show more cities' })).toHaveCount(0);
+    const cards = page.locator('[data-nomad-city]');
+    const photo = await cards.first().locator('img').boundingBox();
+    assert.ok(photo && photo.width > 300 && photo.height > 180, 'City cards should have full-width photos');
+    let shown = await cards.count();
+    while (shown < getNomadCities().length) {
+      await page.locator('[data-city-sentinel]').scrollIntoViewIfNeeded();
+      await expect.poll(() => cards.count()).toBeGreaterThan(shown);
+      shown = await cards.count();
+    }
+    assert.equal(shown, getNomadCities().length);
+    assert.equal(new Set(await cards.evaluateAll(elements => elements.map(element => element.getAttribute('data-nomad-city')))).size, shown, 'Infinite scroll duplicated cities');
+    await expect(page.locator('[data-city-sentinel]')).toHaveCount(0);
+    await search.fill('Lisbon'); await expect(cards).toHaveCount(1);
+    await page.getByRole('button', { name: 'Clear filters', exact: true }).click();
+    await expect(cards).toHaveCount(12);
+    await expect.poll(async () => Number(await map.getAttribute('data-zoom'))).toBe(2);
     assert.equal(requests.some(url => /passport|\/cities\/lisbon.json/.test(url)), false);
     await stableDropdown(page.getByRole('combobox', { name: 'Filter destinations by region' }));
-    const filterBoxes = await page.locator('[data-explorer-controls]').first().locator('input, [role="combobox"]').evaluateAll(fields => fields.map(field => ({ y: field.getBoundingClientRect().y, height: field.getBoundingClientRect().height })));
+    const filterBoxes = await page.locator('[data-explorer-controls]:has(input[aria-label="Search cities and places"])').locator('input, select, [role="combobox"]').evaluateAll(fields => fields.map(field => ({ y: field.getBoundingClientRect().y, height: field.getBoundingClientRect().height })));
     assert.equal(filterBoxes.length, 4);
     filterBoxes.forEach(box => { assert.equal(box.height, 44); assert.equal(box.y, filterBoxes[0].y); });
 
@@ -172,9 +198,9 @@ async function main() {
     await expect(comparison.getByRole('table')).toBeVisible();
     assert.equal(new URL(page.url()).pathname, '/nomads');
     await page.getByRole('button', { name: 'Swap cities' }).click();
-    await expect(page.getByLabel('First city', { exact: true })).toHaveAttribute('data-value', 'bangkok');
+    await expect(page.getByLabel('First city', { exact: true })).toHaveValue('bangkok');
     await page.reload(); await expect(comparison.getByRole('table')).toBeVisible();
-    await expect(page.getByLabel('First city', { exact: true })).toHaveAttribute('data-value', 'bangkok');
+    await expect(page.getByLabel('First city', { exact: true })).toHaveValue('bangkok');
     assert.equal(requests.some(url => /\/cities\/(lisbon|bangkok).json/.test(url)), false, 'Comparison redownloaded city records already in the explorer');
     await page.evaluate("Object.defineProperty(navigator, 'clipboard', { configurable: true, value: { writeText: async value => sessionStorage.setItem('copied', value) } })");
     await page.getByRole('button', { name: 'Copy comparison link', exact: true }).click();
@@ -191,16 +217,20 @@ async function main() {
     await expect(page.locator('.leaflet-popup')).toContainText(place.name);
     await page.locator('.leaflet-popup-close-button').click(); await expect(page.locator('.leaflet-popup')).toHaveCount(0);
     await search.fill('no-such-place-xyz'); await expect(page.getByText('No matches for these filters.', { exact: true })).toBeVisible();
-    await page.getByRole('button', { name: 'Clear filters', exact: true }).first().click();
-    await expect(page.locator('[data-nomad-city]')).toHaveCount(6);
+    const emptyReset = page.getByRole('status').filter({ hasText: 'No matches for these filters.' }).getByRole('button', { name: 'Clear filters', exact: true });
+    const resetBox = await emptyReset.boundingBox(); assert.ok(resetBox && resetBox.height >= 44);
+    await emptyReset.click();
+    await expect(page.locator('[data-nomad-city]')).toHaveCount(12);
     await go('/places?city=lisbon&type=coworking');
     await expect(search).toHaveValue('Lisbon'); await mapReady();
     for (const type of ['coliving', 'hostel', 'apartment', 'guesthouse']) await expect(page.locator(`[data-place-category="${type}"]`)).toHaveAttribute('aria-pressed', 'false');
-    await go('/city-rankings?tab=safety&q=Portugal'); await expect(page.getByLabel('Rank destinations by')).toHaveAttribute('data-value', 'safety');
-    await go('/climate?month=0&min=15&max=25'); await expect(page.getByLabel('Climate month')).toHaveAttribute('data-value', '0');
+    await go('/city-rankings?tab=safety&q=Portugal'); await expect(page.getByLabel('Rank destinations by')).toHaveValue('safety');
+    await go('/climate?month=0&min=15&max=25'); await expect(page.getByLabel('Climate month')).toHaveValue('0');
     await go('/timezones?cities=bangalore,london'); await expect(comparison.getByText('UTC+5:30', { exact: true })).toBeVisible();
 
     await go('/digital-nomad-visas');
+    await expect(page.getByRole('link', { name: 'Explore destinations', exact: true })).toHaveCount(0);
+    await expect(page.getByText(/program and remote-stay references/)).toHaveCount(0);
     await expect(page.locator('main article')).toHaveCount(getNomadVisas().length);
     await expect(page.locator('main article a[aria-label^="Official visa program website"]')).toHaveCount(45);
     await expect(page.getByText('These references cover short-visit entry conditions for ordinary passports.', { exact: false })).toHaveCount(0);
@@ -230,6 +260,23 @@ async function main() {
       }
       await expect(page.locator('#climate svg[role="img"]')).toHaveCount(2);
       await expect(page.locator('[data-climate-month]')).toHaveCount(12);
+      await expect(page.locator('#places .leaflet-container')).toBeVisible();
+      await expect(page.locator('#places [data-nomad-place]')).toHaveCount(0);
+      await expect(page.locator('#community [role="tab"], #community [role="tabpanel"]')).toHaveCount(0);
+      for (const section of ['jobs', 'events', 'companies', 'societies']) {
+        await expect(page.locator(`[data-city-connection="${section}"]`)).toBeVisible();
+        assert.ok(await page.locator(`[data-city-connection="${section}"] > .grid > *`).count() > 0);
+      }
+      const chips = await page.locator('[aria-label="Map place types"]').evaluate(group => {
+        const box = group.getBoundingClientRect();
+        const rows = new Map<number, { left: number; right: number }>();
+        for (const button of group.querySelectorAll('button')) {
+          const rect = button.getBoundingClientRect(), row = rows.get(rect.top);
+          rows.set(rect.top, { left: Math.min(row?.left ?? rect.left, rect.left), right: Math.max(row?.right ?? rect.right, rect.right) });
+        }
+        return { center: box.x + box.width / 2, rows: [...rows.values()] };
+      });
+      assert.ok(chips.rows.every(row => Math.abs((row.left + row.right) / 2 - chips.center) < 2), 'Category chips must be centered on every wrapped row');
       if (width < 640) {
         await page.getByRole('button', { name: 'Toggle navigation menu', exact: true }).click();
         const menu = page.getByRole('dialog', { name: 'Mobile Navigation' });

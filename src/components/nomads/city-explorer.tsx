@@ -1,32 +1,33 @@
 'use client';
 
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
-import { ArrowDownWideNarrow, ArrowUpWideNarrow, BedDouble, Building2, CheckSquare2, GitCompare, Home, Hotel, Printer, SlidersHorizontal, Square, Users, X } from 'lucide-react';
+import { ArrowDownWideNarrow, ArrowUpWideNarrow, CheckSquare2, GitCompare, Printer, SlidersHorizontal, Square, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { Card } from '@/components/ui/card';
+import { ListingToolbar } from '@/components/listing-toolbar';
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
 import { Sheet, SheetContent, SheetDescription, SheetHeader, SheetTitle } from '@/components/ui/sheet';
-import { CountryFlag } from '@/components/country-flag';
 import { CLIMATE_MONTHS, RANK_CATEGORIES, compareCityRank, comparisonSlugs, isClimateCategory, matchesClimate, rankCategory, rankingLabel, rankingValue, searchText } from '@/lib/nomads/explorer';
-import { type ExplorerCity, type CompactPlaces, type PlaceCategory, COMPACT_CATEGORIES, PLACE_CATEGORIES, cityPath, decodePlaces, money } from '@/lib/nomads/types';
-import { CityThumbnail } from './city-thumbnail';
+import { type ExplorerCity, type CompactPlaces, type PlaceCategory, COMPACT_CATEGORIES, citySummary, decodePlaces, money } from '@/lib/nomads/types';
+import { CityCard } from './city-card';
+import { PlaceTypeFilters } from './place-type-filters';
+import { PlacesMapClient } from './places-map-client';
 import { useNomadData, useNomadQuery } from './hooks';
-import { buttonStyle, primaryButtonStyle, inputStyle, Field, FilterSelect, EmptyResults } from './ui';
+import { primaryButtonStyle, inputStyle, Field, FilterSelect, EmptyResults } from './ui';
 import { cn } from '@/lib/utils';
 
-const PlacesMap = dynamic(() => import('./places-map'), { ssr: false, loading: () => <div className="flex h-[340px] items-center justify-center rounded-lg border bg-muted/20 text-sm text-muted-foreground sm:h-[420px] lg:h-[460px]" role="status">Loading map...</div> });
 const CompareCities = dynamic(() => import('./compare').then(module => module.CompareCities), { loading: () => <p role="status">Loading comparison...</p> });
 const CityReport = dynamic(() => import('./city-report'), { ssr: false });
 const validPlaces = (value: unknown) => !!value && typeof value === 'object' && Array.isArray((value as CompactPlaces).cities) && Array.isArray((value as CompactPlaces).rows);
-const categoryIcons = { coliving: Users, hostel: BedDouble, apartment: Home, guesthouse: Hotel, coworking: Building2 };
+const CITY_BATCH_SIZE = 12;
 
 export function CityExplorer({ cities, date, referencePeriod }: { cities: ExplorerCity[]; date: string; referencePeriod: string }) {
   const { params, update } = useNomadQuery();
   const { data, loading, error, retry } = useNomadData<CompactPlaces>('/data/nomads/places.json', validPlaces);
   const allPlaces = useMemo(() => data ? decodePlaces(data) : [], [data]);
-  const [limit, setLimit] = useState(6);
+  const [limit, setLimit] = useState(CITY_BATCH_SIZE);
+  const sentinelRef = useRef<HTMLDivElement>(null);
   const [report, setReport] = useState<{ cities: ExplorerCity[]; ranking: string } | null>(null);
   const selectedCity = cities.find(city => city.slug === params.get('city'));
   const q = params.get('q') || selectedCity?.name || '';
@@ -62,22 +63,47 @@ export function CityExplorer({ cities, date, referencePeriod }: { cities: Explor
   const compareOpen = params.get('view') === 'compare';
   const pair = comparisonSlugs(cities, params);
   const compared = compareOpen || (!params.get('compare') && (params.get('a') || params.get('b'))) ? pair : [...new Set((params.get('compare') || '').split(',').filter(slug => cities.some(city => city.slug === slug)))].slice(0, 2);
-  function filter(values: Record<string, string | null>) { setLimit(6); update({ place: null, ...values }); }
+  function filter(values: Record<string, string | null>) { setLimit(CITY_BATCH_SIZE); update({ place: null, ...values }); }
   function reset() { filter({ q: null, city: null, region: null, budget: null, internet: null, min: null, max: null, humidity: null, rain: null, type: null, types: null }); }
   function toggle(slug: string) { const next = compared.includes(slug) ? compared.filter(value => value !== slug) : [...compared, slug].slice(0, 2); update({ compare: next.join(',') || null, a: null, b: null }); }
   function togglePlaceType(type: PlaceCategory) { const next = selectedCategories.includes(type) ? selectedCategories.filter(value => value !== type) : [...selectedCategories, type]; update({ types: next.length === COMPACT_CATEGORIES.length ? null : next.join(',') || 'none', type: null }); }
   const onPrintReady = useCallback(() => window.print(), []);
   useEffect(() => { const close = () => setReport(null); window.addEventListener('afterprint', close); return () => window.removeEventListener('afterprint', close); }, []);
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel || limit >= filtered.length || compareOpen) return;
+    const observer = new IntersectionObserver(entries => {
+      if (entries.some(entry => entry.isIntersecting)) {
+        observer.disconnect();
+        setLimit(value => Math.min(value + CITY_BATCH_SIZE, filtered.length));
+      }
+    }, { rootMargin: '600px' });
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [limit, filtered.length, compareOpen]);
 
   return <section aria-label="Explore destinations" className={cn('nomad-explorer', compared.length && 'pb-24')}>
     <div className="nomad-explorer-screen">
-      <div data-explorer-controls className="mb-4 grid items-end gap-3 min-[375px]:grid-cols-2 lg:grid-cols-4">
-        <Field label="Search"><input className={inputStyle} aria-label="Search cities and places" placeholder="City, country or place" value={q} onChange={event => filter({ q: event.target.value || null, city: null })} type="search" /></Field>
-        <Field label="Region"><FilterSelect aria-label="Filter destinations by region" value={region} onValueChange={value => filter({ region: value || null })}><option value="">All regions</option>{[...new Set(cities.map(city => city.continent))].sort().map(value => <option key={value}>{value}</option>)}</FilterSelect></Field>
-        <Field label="Monthly budget"><FilterSelect aria-label="Monthly city budget" value={budget} onValueChange={value => filter({ budget: value || null })}><option value="">Any budget</option>{[1000, 1500, 2000, 3000, 4000].map(amount => <option key={amount} value={amount}>Up to {money(amount)}</option>)}</FilterSelect></Field>
-        <div className="flex min-w-0 items-end gap-2"><Field label="Rank by" className="flex-1"><FilterSelect aria-label="Rank destinations by" value={category} onValueChange={value => filter({ category: value === 'score' ? null : value, tab: null, sort: null, direction: null })}>{RANK_CATEGORIES.map(item => <option key={item.key} value={item.key}>{item.label}</option>)}</FilterSelect></Field><Button variant="outline" size="icon" className="h-11 w-11 shrink-0" aria-label={ascending ? 'Switch to highest first' : 'Switch to lowest first'} title={ascending ? 'Lowest first' : 'Highest first'} onClick={() => update({ direction: ascending ? 'desc' : 'asc' })}>{ascending ? <ArrowUpWideNarrow className="h-4 w-4" /> : <ArrowDownWideNarrow className="h-4 w-4" />}</Button></div>
+      <PlaceTypeFilters counts={counts} selected={selectedCategories} onToggle={togglePlaceType} />
+      <div id="places-map" className="mb-6 scroll-mt-20">
+        {error ? <div role="alert" className="rounded-lg border p-6 text-center"><p>The map could not be loaded.</p><Button variant="outline" className="mt-3" onClick={retry}>Try again</Button></div> : loading ? <div role="status" className="flex h-[340px] items-center justify-center rounded-lg border bg-muted/20 text-sm sm:h-[420px] lg:h-[460px]">Loading places...</div> : <PlacesMapClient places={mapPlaces} cities={cities} selectedCity={selectedCity?.slug || (filtered.length === 1 ? filtered[0].slug : '')} viewportKey={visibleCityKey} fitFiltered={filtered.length < cities.length} focused={focus} />}
       </div>
-      {climate && <div data-explorer-controls className="mb-4 flex flex-wrap items-end gap-2">
+      <div data-explorer-controls>
+        <ListingToolbar
+          searchValue={q}
+          onSearchChange={value => filter({ q: value || null, city: null })}
+          searchPlaceholder="City, country or place"
+          searchAriaLabel="Search cities and places"
+          inputProps={{ type: 'search' }}
+          selects={[
+            { value: region, onChange: value => filter({ region: value || null }), label: 'Filter destinations by region', placeholder: 'All regions', options: [...new Set(cities.map(city => city.continent))].sort().map(value => ({ value, label: value })), className: 'md:w-36' },
+            { value: budget, onChange: value => filter({ budget: value || null }), label: 'Monthly city budget', placeholder: 'Any budget', options: [1000, 1500, 2000, 3000, 4000].map(amount => ({ value: String(amount), label: `Up to ${money(amount)}` })), className: 'md:w-36' },
+            { value: category, onChange: value => filter({ category: !value || value === 'score' ? null : value, tab: null, sort: null, direction: null }), label: 'Rank destinations by', placeholder: 'Rank by', options: RANK_CATEGORIES.map(item => ({ value: item.key, label: item.label })), className: 'md:w-44' },
+          ]}
+          trailing={<Button variant="outline" size="icon" className="h-11 w-11 shrink-0" aria-label={ascending ? 'Switch to highest first' : 'Switch to lowest first'} title={ascending ? 'Lowest first' : 'Highest first'} onClick={() => update({ direction: ascending ? 'desc' : 'asc' })}>{ascending ? <ArrowUpWideNarrow className="h-4 w-4" /> : <ArrowDownWideNarrow className="h-4 w-4" />}</Button>}
+        />
+      </div>
+      {climate && <div data-explorer-controls className="mb-6 flex flex-wrap items-end gap-2">
         <Field label="Climate month" className="w-48"><FilterSelect aria-label="Climate month" value={month} onValueChange={value => filter({ month: value })}>{CLIMATE_MONTHS.map((name, index) => <option key={name} value={index}>{name}</option>)}</FilterSelect></Field>
         <Popover><PopoverTrigger asChild><Button variant="outline" className="h-11 gap-2"><SlidersHorizontal className="h-4 w-4" aria-hidden />Weather filters{weatherFilterCount ? ` (${weatherFilterCount})` : ''}</Button></PopoverTrigger><PopoverContent align="start" className="w-80 max-w-[calc(100vw-2rem)]"><div className="grid grid-cols-2 gap-3">
           <Field label="Minimum temperature (°C)"><input className={inputStyle} type="number" value={climateFilters.min} placeholder="Any" onChange={event => filter({ min: event.target.value || null })} /></Field>
@@ -87,11 +113,7 @@ export function CityExplorer({ cities, date, referencePeriod }: { cities: Explor
         </div>{weatherFilterCount > 0 && <Button variant="ghost" className="mt-2" onClick={() => filter({ min: null, max: null, humidity: null, rain: null })}>Clear weather filters</Button>}</PopoverContent></Popover>
       </div>}
       {invalidRange && <p role="alert" className="mb-4 text-sm text-destructive">Minimum temperature must not exceed maximum temperature.</p>}
-      <div data-explorer-controls className="mb-3 grid grid-cols-2 gap-2 sm:flex sm:flex-wrap" role="group" aria-label="Map place types">{COMPACT_CATEGORIES.map(type => { const Icon = categoryIcons[type]; return <button key={type} type="button" data-place-category={type} aria-pressed={selectedCategories.includes(type)} onClick={() => togglePlaceType(type)} className={cn('inline-flex min-h-11 min-w-0 items-center justify-center gap-1.5 rounded-full border px-2 text-xs font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring sm:px-3 sm:text-sm', type === 'coworking' && 'col-span-2', selectedCategories.includes(type) ? 'border-primary bg-primary text-primary-foreground' : 'border-input bg-background text-muted-foreground')}><Icon className="h-3.5 w-3.5 shrink-0" aria-hidden />{PLACE_CATEGORIES[type]}<span className="tabular-nums opacity-60">({counts[type].toLocaleString('en-US')})</span></button>; })}</div>
-      <div id="places-map" className="mb-5 scroll-mt-20">
-        {error ? <div role="alert" className="rounded-lg border p-6 text-center"><p>The map could not be loaded.</p><Button variant="outline" className="mt-3" onClick={retry}>Try again</Button></div> : loading ? <div role="status" className="flex h-[340px] items-center justify-center rounded-lg border bg-muted/20 text-sm sm:h-[420px] lg:h-[460px]">Loading places...</div> : <PlacesMap places={mapPlaces} cities={cities} selectedCity={selectedCity?.slug || (filtered.length === 1 ? filtered[0].slug : '')} viewportKey={visibleCityKey} fitFiltered={filtered.length < cities.length} focused={focus} />}
-      </div>
-      <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
+      <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
         <p role="status" className="text-sm text-muted-foreground">{filtered.length} cities{climate ? ` · ${CLIMATE_MONTHS[month]}` : ''}</p>
         <div data-explorer-controls className="flex flex-wrap items-center gap-2">
           {Boolean(q || region || budget || speed || weatherFilterCount) && <Button variant="ghost" onClick={reset}>Clear filters</Button>}
@@ -99,17 +121,13 @@ export function CityExplorer({ cities, date, referencePeriod }: { cities: Explor
           <Button variant="ghost" size="icon" className="h-11 w-11" disabled={!filtered.length || !!report} aria-label={report ? 'Preparing city report' : 'Print city report'} title="Print / save city report as PDF" onClick={() => setReport({ cities: filtered.slice(0, 50), ranking: `${definition.label}${climate ? ` · ${CLIMATE_MONTHS[month]}` : ''}` })}><Printer className="h-4 w-4" aria-hidden /></Button>
         </div>
       </div>
-      {filtered.length ? <ol className="grid gap-3 md:grid-cols-2 xl:grid-cols-3" aria-label="Ranked destinations">{filtered.slice(0, limit).map((city, index) => <li key={city.slug}>
-        <Card data-nomad-city={city.slug} className={cn('flex min-w-0 items-center gap-1 border-border/70 p-2 shadow-none transition-colors hover:border-foreground/25', compared.includes(city.slug) && 'border-foreground/40 bg-muted/20')}>
-          <Link href={cityPath(city.slug)} prefetch={false} className="flex min-w-0 flex-1 items-center gap-2 rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring">
-            <span className="relative shrink-0"><CityThumbnail src={city.thumbnail} className="h-12 w-12" /><span className="absolute -left-1 -top-1 flex h-5 min-w-5 items-center justify-center rounded bg-background px-1 text-[10px] font-medium tabular-nums ring-1 ring-border" aria-label={`Rank ${index + 1}`}>{rankingValue(city, category, month) === null ? '-' : index + 1}</span></span>
-            <span className="min-w-0 flex-1"><h2 className="truncate text-sm font-semibold" title={city.name}>{city.name}</h2><span className="mt-1 flex min-w-0 items-center gap-1 text-xs text-muted-foreground"><CountryFlag code={city.countryCode} className="h-4 w-4 text-sm" /><span className="truncate" title={city.country}>{city.country}</span></span></span>
-            <span className="shrink-0 text-right"><span className={cn('block whitespace-nowrap text-sm font-semibold tabular-nums', rankingValue(city, category, month) === null && 'text-[10px]')} aria-label={`${definition.label}: ${rankingLabel(city, category, month)}`}>{rankingLabel(city, category, month)}</span><span className="mt-1 block text-[10px] tabular-nums text-muted-foreground">{category === 'cost' ? 'USD / month' : `${money(city.cost.monthly_total)} / mo`}</span></span>
-          </Link>
-          <Button variant="ghost" size="icon" className="h-11 w-11 shrink-0" aria-label={`${compared.includes(city.slug) ? 'Remove' : 'Add'} ${city.name} ${compared.includes(city.slug) ? 'from' : 'to'} comparison`} aria-pressed={compared.includes(city.slug)} title="Select two cities to compare" disabled={compared.length === 2 && !compared.includes(city.slug)} onClick={() => toggle(city.slug)}>{compared.includes(city.slug) ? <CheckSquare2 className="h-4 w-4" /> : <Square className="h-4 w-4 text-muted-foreground" />}</Button>
-        </Card>
+      {filtered.length ? <ol className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3" aria-label="Ranked destinations">{filtered.slice(0, limit).map((city, index) => <li key={city.slug}>
+        <CityCard city={citySummary(city)} rank={rankingValue(city, category, month) === null ? null : index + 1} className={cn(compared.includes(city.slug) && 'border-foreground/40 bg-muted/20')} primaryMetric={{ label: definition.label, value: rankingLabel(city, category, month), detail: category === 'cost' ? 'USD / month' : `${money(city.cost.monthly_total)} / month` }} action={
+          <Button variant={compared.includes(city.slug) ? 'secondary' : 'outline'} className="h-11 shrink-0 gap-2" aria-label={`${compared.includes(city.slug) ? 'Remove' : 'Add'} ${city.name} ${compared.includes(city.slug) ? 'from' : 'to'} comparison`} aria-pressed={compared.includes(city.slug)} title="Select two cities to compare" disabled={compared.length === 2 && !compared.includes(city.slug)} onClick={() => toggle(city.slug)}>{compared.includes(city.slug) ? <CheckSquare2 className="h-4 w-4" aria-hidden /> : <Square className="h-4 w-4" aria-hidden />}{compared.includes(city.slug) ? 'Selected' : 'Compare'}</Button>
+        } />
       </li>)}</ol> : <EmptyResults onReset={reset} />}
-      {filtered.length > limit && <div data-explorer-controls className="mt-5 text-center"><button onClick={() => setLimit(value => value + 12)} className={buttonStyle}>Show more cities</button></div>}
+      <p className="sr-only" role="status">Showing {Math.min(limit, filtered.length)} of {filtered.length} cities</p>
+      {filtered.length > limit && <div ref={sentinelRef} data-city-sentinel className="h-px" aria-hidden="true" />}
       {compared.length > 0 && <aside data-explorer-controls aria-label="Selected cities to compare" className="fixed inset-x-3 bottom-4 z-30 mx-auto flex max-w-xl flex-wrap items-center justify-between gap-2 rounded-lg border bg-background p-3 shadow-sm"><div className="flex flex-wrap items-center gap-2">{compared.map(slug => <button key={slug} className="inline-flex min-h-11 items-center gap-2 rounded-md bg-muted px-3 text-sm" onClick={() => toggle(slug)} aria-label={`Remove ${cities.find(city => city.slug === slug)?.name} from comparison`}>{cities.find(city => city.slug === slug)?.name}<X className="h-3.5 w-3.5" aria-hidden /></button>)}{compared.length === 1 && <span className="text-xs text-muted-foreground">Choose one more city</span>}</div>{compared.length === 2 && <button onClick={() => update({ view: 'compare', a: compared[0], b: compared[1] })} className={primaryButtonStyle}><GitCompare className="h-4 w-4" aria-hidden />Compare</button>}</aside>}
     </div>
     <Sheet open={compareOpen} onOpenChange={open => { if (!open) update({ view: null, compare: pair.join(',') }); }}>

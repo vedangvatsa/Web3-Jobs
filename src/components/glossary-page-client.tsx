@@ -108,7 +108,7 @@ export function GlossaryPageClient({
 
   return (
     <>
-      <section className="text-center mb-8">
+      <section className="text-center">
         {activeCategory ? (
           <>
             <div className="mb-3">

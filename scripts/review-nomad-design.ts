@@ -16,8 +16,8 @@ const output = path.resolve(`.cache/nomads/design-${label}`);
 const origin = process.env.NOMAD_REVIEW_BASE_URL || 'http://127.0.0.1:3186';
 const toolkitPaths = new Set(nomadRoutes().map(route => route.path));
 const isToolkit = (route: string) => toolkitPaths.has(route.split('?')[0]);
-const routes = process.argv.includes('--city-details') ? ['/news', '/lisbon', '/chiang-mai', '/madrid'] : [
-  '/news', '/resources', '/salary-calculator', '/remote-work-checklist', '/events',
+const routes = process.argv.includes('--city-details') ? ['/glossary', '/lisbon', '/chiang-mai', '/madrid'] : [
+  '/glossary', '/news', '/resources', '/salary-calculator', '/remote-work-checklist', '/events',
   ...NOMAD_TOOLS.map(tool => tool.href),
   '/nomads?view=compare&a=lisbon&b=bangkok',
   '/nomads?category=temperature&month=0',
@@ -27,7 +27,8 @@ const routes = process.argv.includes('--city-details') ? ['/news', '/lisbon', '/
 const modes = [
   { name: 'desktop', width: 1440, height: 1000, dark: false },
   { name: 'mobile', width: 390, height: 900, dark: false },
-  ...(process.argv.includes('--dark') ? [{ name: 'dark', width: 390, height: 900, dark: true }] : []),
+  ...(process.argv.includes('--all-widths') ? [{ name: 'narrow', width: 320, height: 900, dark: false }, { name: 'tablet', width: 768, height: 1000, dark: false }, { name: 'laptop', width: 1024, height: 1000, dark: false }] : []),
+  ...(process.argv.includes('--dark') ? [{ name: 'dark-mobile', width: 390, height: 900, dark: true }, { name: 'dark-desktop', width: 1440, height: 1000, dark: true }] : []),
 ];
 
 async function main() {
@@ -45,7 +46,7 @@ async function main() {
     for (let i = 0; i < 60; i++) { try { ready = (await fetch(`${origin}/icon.png`)).ok; } catch {} if (ready) break; await delay(300); }
     assert.ok(ready, logs);
     for (const mode of modes) {
-      let reference: { font: string; titleSize: string; contentLeft: number; contentWidth: number } | undefined;
+      let reference: { font: string; titleSize: string; titleWeight: string; titleLineHeight: string; titleTracking: string; contentLeft: number; contentWidth: number; headingGap: number; headingTopInset: number; toolbarStyles: unknown } | undefined;
       const context = await browser.newContext({ viewport: { width: mode.width, height: mode.height }, colorScheme: mode.dark ? 'dark' : 'light' });
       await context.route('**/*', route => { const url = new URL(route.request().url()); return url.origin === origin || url.hostname === 'basemaps.cartocdn.com' || url.hostname.endsWith('.basemaps.cartocdn.com') ? route.continue() : route.abort(); });
       await context.addInitScript(() => localStorage.setItem('hw3_popup_dismissed', 'true'));
@@ -68,10 +69,24 @@ async function main() {
         }, mode.dark);
         const metrics = await page.locator('main').evaluate(main => {
           const heading = main.querySelector('h1')!, style = getComputedStyle(heading);
+          let headingGroup = main.querySelector('[data-page-header]') || heading.parentElement!;
+          while (!headingGroup.nextElementSibling && headingGroup.parentElement && headingGroup.parentElement !== main) headingGroup = headingGroup.parentElement;
+          let nextSection = headingGroup.nextElementSibling;
+          while (nextSection && !nextSection.getClientRects().length) nextSection = nextSection.nextElementSibling;
           const container = main.querySelector('.site-container')!.getBoundingClientRect();
           const fields = Array.from(main.querySelectorAll<HTMLInputElement | HTMLSelectElement | HTMLButtonElement>('input:not([type="checkbox"]):not([type="hidden"]), select, button[role="combobox"]')).filter(field => field.getBoundingClientRect().height > 2 && !field.closest('[aria-hidden="true"]'));
+          const toolbarStyles = Object.fromEntries(['input', 'select'].map(tag => {
+            const element = main.querySelector(`[data-listing-toolbar] ${tag}`);
+            if (!element) return [tag, null];
+            const computed = getComputedStyle(element);
+            return [tag, Object.fromEntries(['height', 'font-family', 'font-size', 'border-radius', 'border-top-width', 'border-top-color', 'color', 'background-color', 'padding-left', 'padding-right'].map(property => [property, computed.getPropertyValue(property)]))];
+          }));
           return {
             title: heading.textContent, font: style.fontFamily, titleSize: style.fontSize,
+            titleWeight: style.fontWeight, titleLineHeight: style.lineHeight, titleTracking: style.letterSpacing,
+            headingTopInset: heading.getBoundingClientRect().top - main.querySelector('.page-section')!.getBoundingClientRect().top,
+            toolbarStyles,
+            headingGap: nextSection ? nextSection.getBoundingClientRect().top - headingGroup.getBoundingClientRect().bottom : 0,
             titleAlign: style.textAlign, contentLeft: container.x, contentWidth: container.width, colorScheme: getComputedStyle(main).colorScheme,
             overflow: document.documentElement.scrollWidth > innerWidth + 1,
             fields: fields.map(field => ({ label: field.getAttribute('aria-label') || field.labels?.[0]?.textContent, height: field.getBoundingClientRect().height, size: getComputedStyle(field).fontSize, left: field.getBoundingClientRect().left, right: field.getBoundingClientRect().right })),
@@ -81,11 +96,17 @@ async function main() {
             }).map(link => link.textContent),
           };
         });
-        if (route === '/news') reference = metrics;
+        if (route === '/glossary') reference = metrics;
         if (process.argv.includes('--verify') && isToolkit(route)) {
           assert.ok(reference);
           assert.equal(metrics.font, reference.font, `${route} font family`);
           assert.equal(metrics.titleSize, reference.titleSize, `${route} heading scale`);
+          assert.equal(metrics.titleWeight, reference.titleWeight, `${route} heading weight`);
+          assert.equal(metrics.titleLineHeight, reference.titleLineHeight, `${route} heading line height`);
+          assert.equal(metrics.titleTracking, reference.titleTracking, `${route} heading tracking`);
+          assert.equal(metrics.headingTopInset, reference.headingTopInset, `${route} spacing above heading`);
+          assert.equal(metrics.headingGap, reference.headingGap, `${route} heading spacing`);
+          if (route.startsWith('/nomads')) assert.deepEqual(metrics.toolbarStyles, reference.toolbarStyles, `${route} shared input and dropdown design`);
           assert.equal(metrics.contentLeft, reference.contentLeft, `${route} content alignment`);
           assert.equal(metrics.contentWidth, reference.contentWidth, `${route} content width`);
           assert.equal(metrics.titleAlign, getNomadCity(route.slice(1)) ? 'start' : 'center', `${route} title alignment`);
@@ -107,11 +128,10 @@ async function main() {
         if (process.argv.includes('--city-details') && getNomadCity(route.slice(1))) {
           await page.locator('#climate').screenshot({ path: file.replace('.png', '-climate.png'), animations: 'disabled' });
           await page.getByRole('region', { name: 'Other cities to explore' }).screenshot({ path: file.replace('.png', '-nearby.png'), animations: 'disabled' });
-          const tabs = page.locator('#community [role="tab"]');
-          for (let tab = 0; tab < await tabs.count(); tab++) {
-            await tabs.nth(tab).click();
-            await page.locator('#community').screenshot({ path: file.replace('.png', `-connections-${tab + 1}.png`), animations: 'disabled' });
-          }
+          const sections = page.locator('[data-city-connection]');
+          for (let section = 0; section < await sections.count(); section++) await sections.nth(section).screenshot({ path: file.replace('.png', `-connections-${section + 1}.png`), animations: 'disabled' });
+          await page.locator('#places [data-basemap-ready="true"]').waitFor({ timeout: 45000 });
+          await page.locator('#places').screenshot({ path: file.replace('.png', '-places.png'), animations: 'disabled' });
         }
         results.push({ mode: mode.name, route, ...metrics });
         assert.equal(metrics.overflow, false, `${route} at ${mode.width}`);

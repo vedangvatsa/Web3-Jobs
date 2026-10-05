@@ -1,12 +1,18 @@
 'use client';
 
-import type { ComponentProps, ReactNode } from 'react';
+import { forwardRef, type ComponentProps, type ReactNode } from 'react';
 import { Search } from 'lucide-react';
 import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 
 export const LISTING_SELECT_CLASS =
-  'h-10 min-w-0 flex-1 truncate rounded-md border border-input bg-background px-3 text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer md:flex-none';
+  'h-11 min-h-11 min-w-0 flex-1 truncate rounded-md border border-input bg-background px-3 text-base text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer [color-scheme:light] dark:[color-scheme:dark] md:flex-none md:text-sm';
+
+export const ListingSelect = forwardRef<HTMLSelectElement, ComponentProps<'select'>>(({ className, ...props }, ref) => (
+  <select {...props} ref={ref} className={cn(LISTING_SELECT_CLASS, className)} />
+));
+ListingSelect.displayName = 'ListingSelect';
 
 export type ListingSelectFilter = {
   value: string;
@@ -45,10 +51,11 @@ export function ListingToolbar({
   inputProps,
 }: ListingToolbarProps) {
   const hasSideControls = selects.length > 0 || Boolean(trailing);
+  const hasManySelects = selects.length > 2;
 
   return (
-    <div className="mb-6 space-y-2">
-      <div className={leading ? cn('grid grid-cols-1 items-center gap-2.5', hasSideControls ? 'md:grid-cols-[minmax(0,1fr)_auto] lg:grid-cols-[auto_minmax(0,1fr)_auto]' : 'lg:grid-cols-[auto_minmax(0,1fr)]') : 'flex flex-col md:flex-row gap-2.5 items-stretch md:items-center'}>
+    <div data-listing-toolbar className="mb-6 space-y-2">
+      <div className={leading ? cn('grid grid-cols-1 items-center gap-2.5', hasSideControls ? 'md:grid-cols-[minmax(0,1fr)_auto] lg:grid-cols-[auto_minmax(0,1fr)_auto]' : 'lg:grid-cols-[auto_minmax(0,1fr)]') : cn('flex flex-col gap-2.5 items-stretch', hasManySelects ? 'lg:flex-row lg:items-center' : 'md:flex-row md:items-center')}>
         {leading && <div className={cn('min-w-0', hasSideControls && 'md:col-span-2 lg:col-span-1')}>{leading}</div>}
         <div
           className="relative flex-1 min-w-0"
@@ -59,7 +66,7 @@ export function ListingToolbar({
             placeholder={searchPlaceholder}
             value={searchValue}
             onChange={(e) => onSearchChange(e.target.value)}
-            className={cn('h-10 w-full rounded-md pl-9 text-sm', searchEndAdornment ? 'pr-9' : 'pr-3')}
+            className={cn('h-11 w-full rounded-md pl-9 text-base md:text-sm', searchEndAdornment ? 'pr-9' : 'pr-3')}
             aria-label={searchAriaLabel}
             {...inputProps}
           />
@@ -73,13 +80,13 @@ export function ListingToolbar({
         </div>
 
         {hasSideControls ? (
-          <div className="flex w-full min-w-0 items-center gap-2 md:w-auto md:shrink-0">
+          <div className={cn('flex w-full min-w-0 flex-wrap items-center gap-2', hasManySelects ? 'lg:w-auto lg:shrink-0' : 'md:w-auto md:shrink-0')}>
             {selects.map((select) => (
-              <select
+              <ListingSelect
                 key={select.label}
                 value={select.value}
                 onChange={(e) => select.onChange(e.target.value)}
-                className={cn(LISTING_SELECT_CLASS, select.className)}
+                className={cn('basis-[calc(50%-0.25rem)] md:basis-auto', select.className)}
                 aria-label={select.label}
               >
                 <option value="">{select.placeholder}</option>
@@ -88,7 +95,7 @@ export function ListingToolbar({
                     {option.label}
                   </option>
                 ))}
-              </select>
+              </ListingSelect>
             ))}
             {trailing}
           </div>
@@ -110,23 +117,24 @@ export function ListingEmptyState({
   onClear,
   clearLabel = 'Clear all filters',
 }: {
-  title: string;
+  title: ReactNode;
   description?: string;
   onClear?: () => void;
   clearLabel?: string;
 }) {
   return (
-    <div className="text-center py-16">
+    <div role="status" className="text-center py-16">
       <p className="text-lg font-medium text-foreground">{title}</p>
       <p className="text-muted-foreground mt-2">{description}</p>
       {onClear ? (
-        <button
+        <Button
           type="button"
+          variant="link"
           onClick={onClear}
-          className="mt-4 text-sm text-primary underline-offset-4 hover:underline"
+          className="mt-4 h-11 px-0"
         >
           {clearLabel}
-        </button>
+        </Button>
       ) : null}
     </div>
   );

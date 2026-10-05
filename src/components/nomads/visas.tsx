@@ -28,7 +28,7 @@ function Programs({ programs }: { programs: VisaProgramListing[] }) {
   const reset = () => update({ q: null, continent: null, income: null });
   return <>
     {!validIncome && <p role="alert" className="mb-4 text-sm text-destructive">Enter a non-negative income amount.</p>}
-    <div className="mb-5 flex flex-wrap items-center justify-between gap-3"><p className="text-sm text-muted-foreground" aria-live="polite">{filtered.length} program and remote-stay references</p>{(query || continent || income) && <button onClick={reset} className={buttonStyle}>Clear filters</button>}</div>
+    {(query || continent || income) && <div className="mb-6 flex justify-end"><button onClick={reset} className={buttonStyle}>Clear filters</button></div>}
     {filtered.length ? <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">{filtered.map(program => {
       const officialUrl = safeExternalUrl(program.officialUrl);
       return <article key={program.id} className="h-full">
