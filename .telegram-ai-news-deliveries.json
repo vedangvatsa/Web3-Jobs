@@ -692,7 +692,7 @@
     "sentAt": "2026-10-05T04:04:55.108Z"
   },
   "9d08dca3-77e4-4efc-aa01-59fdcf4bedd6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T11:33:01.994Z",
     "stories": [
       {
@@ -704,6 +704,8 @@
         "originalTitle": "People really hate AI, so why can’t they get enough?"
       }
     ],
-    "slotKey": "2026-10-05:afternoon"
+    "slotKey": "2026-10-05:afternoon",
+    "messageId": 193320,
+    "sentAt": "2026-10-05T11:33:04.342Z"
   }
 }
