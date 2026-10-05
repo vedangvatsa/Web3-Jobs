@@ -1716,11 +1716,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "2dc7631f8de0805557c9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:08:09.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin weekly price preview on reclaiming the 2026 open; forward-looking chart commentary, not an event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:01:55.901Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "37fb3182d13192a4f7e2": {
       "source": "Cointelegraph",
@@ -3256,6 +3266,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:54.354Z"
+        },
+        "2dc7631f8de0805557c9": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin weekly price preview on reclaiming the 2026 open; forward-looking chart commentary, not an event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:01:55.901Z"
         }
       },
       "baselineSlugs": [
