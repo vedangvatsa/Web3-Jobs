@@ -412,11 +412,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e54a44100eb99e3f410c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T09:40:00.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "duplicate",
+      "note": "Same IMF second and third review, 138M disbursement, and Bitcoin waiver event as imf-salvador; keeping the fresher Oct 5 report.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:20.787Z",
+      "duplicateOf": "imf-salvador",
+      "mergedInto": "83a660f656b2172cbc69",
+      "lastReviewedDay": "2026-10-05"
     },
     "624cb4fe8a643f74ff20": {
       "source": "Cointelegraph",
@@ -1393,6 +1400,15 @@
           "retrySearches": [
             "Greenfield Safe ESA supervisory complaint site:theblock.co OR site:coindesk.com OR site:dlnews.com OR site:decrypt.co"
           ]
+        },
+        "e54a44100eb99e3f410c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same IMF second and third review, 138M disbursement, and Bitcoin waiver event as imf-salvador; keeping the fresher Oct 5 report.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:20.787Z",
+          "duplicateOf": "imf-salvador",
+          "mergedInto": "83a660f656b2172cbc69"
         }
       },
       "baselineSlugs": [
