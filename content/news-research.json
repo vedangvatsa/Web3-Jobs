@@ -486,17 +486,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e54a44100eb99e3f410c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-07T09:40:00.000Z",
       "lastSeenAt": "2026-10-05T03:31:38.041Z",
       "reason": "duplicate",
-      "note": "Same IMF second and third review, 138M disbursement, and Bitcoin waiver event as imf-salvador; keeping the fresher Oct 5 report.",
+      "note": "Same IMF second and third review, 138M disbursement, and Bitcoin waiver event as the ready imf-salvador draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-05T03:47:20.787Z",
+      "reviewedAt": "2026-10-05T11:01:07.924Z",
       "duplicateOf": "imf-salvador",
-      "lastReviewedDay": "2026-10-05"
+      "lastReviewedDay": "2026-10-05",
+      "mergedInto": "83a660f656b2172cbc69"
     },
     "624cb4fe8a643f74ff20": {
       "source": "Cointelegraph",
@@ -2934,6 +2935,15 @@
           ],
           "reviewedAt": "2026-10-05T11:00:56.304Z",
           "articleSlug": "hamas-sanctions"
+        },
+        "e54a44100eb99e3f410c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same IMF second and third review, 138M disbursement, and Bitcoin waiver event as the ready imf-salvador draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:01:07.924Z",
+          "duplicateOf": "imf-salvador",
+          "mergedInto": "83a660f656b2172cbc69"
         }
       },
       "baselineSlugs": [
