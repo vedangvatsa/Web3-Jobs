@@ -674,6 +674,9 @@
   "https://hashtagweb3.com/ethena-tron?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kztg-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nasdaq-tokens?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eigenlayer-slashing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/maharashtra-assets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kalshi-perps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1930,6 +1933,12 @@
   "Kazakhstan Launches Tenge-Pegged KZTg Stablecoin on Telegram",
   "Nasdaq Invests $100 Million in Kraken Parent Payward",
   "Nasdaq Invests $100 Million in Payward to Advance Tokenized Equities",
+  "EigenLayer Activates Stake Slashing on Ethereum Mainnet",
+  "EigenLayer Slashing Went Live With AVS-Defined Penalties and Delayed Exits",
+  "Maharashtra Considers Tokenizing Infrastructure Assets",
+  "Indian State of Maharashtra Explores Tokenizing Infrastructure Assets",
+  "Kalshi seeks US approval for stock-based perpetual futures",
+  "Kalshi Plans 24/7 Tesla and Nvidia Perpetual Futures",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2154,5 +2163,8 @@
   "fp:540|902|adopt11|block25|compatibility|evm|hardfork|improv|improvement|interstellar",
   "fp:asset|bridg|dao|enabl|ethena|financ|integration|justlend|network|plann",
   "fp:asset|blockchain|dollar|kazakhstan|kztg|network|non|pegg|stablecoin|telegram",
-  "fp:100m|advanc|collaboration|equity|invest|investment|kraken|nasdaq|of2027|parent"
+  "fp:100m|advanc|collaboration|equity|invest|investment|kraken|nasdaq|of2027|parent",
+  "fp:2025|activat|actively|april17|can|custom|defin|delay|eigenlayer|exit",
+  "fp:asset|consider|draft|electricity|explor|indian|infrastructur|land|maharashtra|policy",
+  "fp:approval|bas|contract|current|etf|fil|futur|intend|kalshi|nvidia"
 ]

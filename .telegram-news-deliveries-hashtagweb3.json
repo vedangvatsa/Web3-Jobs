@@ -735,7 +735,7 @@
     "sentAt": "2026-10-05T04:05:24.408Z"
   },
   "43231d0f-1a67-42a0-9389-f1a4b7903870": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T11:36:29.329Z",
     "stories": [
       {
@@ -763,6 +763,8 @@
         "originalTitle": "Kalshi Plans 24/7 Tesla and Nvidia Perpetual Futures"
       }
     ],
-    "slotKey": "2026-10-05:afternoon"
+    "slotKey": "2026-10-05:afternoon",
+    "messageId": 155614,
+    "sentAt": "2026-10-05T11:36:33.038Z"
   }
 }
