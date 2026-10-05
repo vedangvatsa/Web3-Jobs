@@ -2374,11 +2374,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "811cc2c83981b2bde362",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T06:07:41.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "out-of-scope",
+      "note": "JPMorgan October stock picks including American Express; equities list with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:02:28.812Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "f6598733866705b11445": {
       "source": "BeInCrypto",
@@ -3448,6 +3453,13 @@
           "note": "US versus China AI lead analysis; general AI-rankings piece with no Web3 launch or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:02:27.288Z"
+        },
+        "811cc2c83981b2bde362": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "JPMorgan October stock picks including American Express; equities list with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:02:28.812Z"
         }
       },
       "baselineSlugs": [
