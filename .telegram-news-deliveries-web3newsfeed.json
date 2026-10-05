@@ -766,5 +766,36 @@
     "slotKey": "2026-10-05:morning",
     "messageId": 65730,
     "sentAt": "2026-10-05T04:07:43.916Z"
+  },
+  "95613048-8799-4d83-8990-d26ada272126": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T11:36:47.326Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Zcash Voters Approve NU7 Upgrade Proposals",
+        "summary": "An advisory poll preserved scheduled halvings and delayed releasing Network Sustainability Mechanism funds until 2031.",
+        "link": "https://hashtagweb3.com/zcash-upgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash Community Approves NU7 Upgrade With 25-Second Blocks and 2031 Reserve Plan"
+      },
+      {
+        "index": -1,
+        "headline": "CoinEx to Close Operations After Nine Years",
+        "summary": "Spot trading ends September 29, with withdrawals closing December 22, 2026, due to weak markets and rising costs.",
+        "link": "https://hashtagweb3.com/coinex-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CoinEx to Shut Down Exchange After Nine Years"
+      },
+      {
+        "index": -1,
+        "headline": "ECB seeks online merchants for 2027 digital euro pilot",
+        "summary": "Participants will test the beta currency for one year before a possible 2029 release.",
+        "link": "https://hashtagweb3.com/euro-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027"
+      }
+    ],
+    "slotKey": "2026-10-05:afternoon"
   }
 }
