@@ -700,5 +700,36 @@
     "slotKey": "2026-10-04:evening",
     "messageId": 155604,
     "sentAt": "2026-10-04T19:32:48.977Z"
+  },
+  "9099e363-85d2-4602-9833-7dda02421161": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T04:05:21.656Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ethena Launches USDe and sUSDe on TRON",
+        "summary": "Stargate Finance enables bridging and transfers of the assets, with JustLend and SUN.io integrations planned soon.",
+        "link": "https://hashtagweb3.com/ethena-tron?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethena and TRON DAO Bring USDe and sUSDe to the TRON Network"
+      },
+      {
+        "index": -1,
+        "headline": "Kazakhstan Launches Tenge-Pegged Stablecoin on Telegram",
+        "summary": "The asset is the first non-U.S. dollar stablecoin launched on the TON blockchain network.",
+        "link": "https://hashtagweb3.com/kztg-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kazakhstan Launches Tenge-Pegged KZTg Stablecoin on Telegram"
+      },
+      {
+        "index": -1,
+        "headline": "Nasdaq Invests $100 Million in Kraken Parent Payward",
+        "summary": "The investment supports a collaboration to launch Nasdaq Equity Tokens by the second quarter of 2027.",
+        "link": "https://hashtagweb3.com/nasdaq-tokens?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nasdaq Invests $100 Million in Payward to Advance Tokenized Equities"
+      }
+    ],
+    "slotKey": "2026-10-05:morning"
   }
 }
