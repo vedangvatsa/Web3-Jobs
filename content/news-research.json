@@ -16,13 +16,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "83a660f656b2172cbc69",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T00:00:39.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "IMF Oct 1 completion of 2nd/3rd EFF reviews, SDR 101.96M disbursement, Bitcoin waivers with no further accumulation beyond donations. Verified across three opened sources.",
+      "note": "IMF Oct 1 completion of 2nd/3rd EFF reviews with SDR 101.96M disbursement and Bitcoin waivers; reserve ~7,794 BTC verified across three opened outlets.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
@@ -37,7 +37,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-05T03:46:37.731Z",
+      "reviewedAt": "2026-10-05T10:59:49.374Z",
       "articleSlug": "imf-salvador",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -2419,6 +2419,27 @@
           "note": "Agent-orchestration Wall Street AI-jobs explainer; page returned HTTP 403, career-skill content with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:48:32.397Z"
+        },
+        "83a660f656b2172cbc69": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "IMF Oct 1 completion of 2nd/3rd EFF reviews with SDR 101.96M disbursement and Bitcoin waivers; reserve ~7,794 BTC verified across three opened outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.securities.io/imf-completes-two-el-salvador-program-reviews-and-clears-138-million/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T10:59:49.374Z",
+          "articleSlug": "imf-salvador"
         }
       },
       "baselineSlugs": [
