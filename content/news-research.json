@@ -2116,11 +2116,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "6ef3d9ed334f94ebc5e1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T07:55:47.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "verified-event",
+      "note": "OFAC Oct 2 designation of five Hamas-linked targets tied to France-based crypto transfers via sham charities; verified via Treasury and OFAC primaries plus two outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://home.treasury.gov/news/press-releases/sb0647",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ofac.treasury.gov/recent-actions/20261002",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/us-expands-hamas-sanctions-after-tracing-crypto-transfers-from-france/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cryptotimes.io/2026/10/03/u-s-sanctions-hamas-network-over-2m-crypto-funding",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:00:56.304Z",
+      "articleSlug": "hamas-sanctions",
+      "lastReviewedDay": "2026-10-05"
     },
     "57a1255a487428fd90ec": {
       "source": "BeInCrypto",
@@ -2886,6 +2909,31 @@
           ],
           "reviewedAt": "2026-10-05T11:00:54.604Z",
           "articleSlug": "kraken-settlement"
+        },
+        "6ef3d9ed334f94ebc5e1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "OFAC Oct 2 designation of five Hamas-linked targets tied to France-based crypto transfers via sham charities; verified via Treasury and OFAC primaries plus two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://home.treasury.gov/news/press-releases/sb0647",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ofac.treasury.gov/recent-actions/20261002",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-expands-hamas-sanctions-after-tracing-crypto-transfers-from-france/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptotimes.io/2026/10/03/u-s-sanctions-hamas-network-over-2m-crypto-funding",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:56.304Z",
+          "articleSlug": "hamas-sanctions"
         }
       },
       "baselineSlugs": [
