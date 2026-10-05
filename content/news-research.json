@@ -2283,11 +2283,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "60397827f2e0cab7c0d9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T08:04:45.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "out-of-scope",
+      "note": "US versus China AI lead analysis; general AI-rankings piece with no Web3 launch or filing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:02:27.288Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "6ef3d9ed334f94ebc5e1": {
       "source": "CryptoSlate",
@@ -3436,6 +3441,13 @@
           "note": "Nikkei jump on weak jobs data and Fed bets; Japanese equities recap with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:02:25.706Z"
+        },
+        "60397827f2e0cab7c0d9": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US versus China AI lead analysis; general AI-rankings piece with no Web3 launch or filing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:02:27.288Z"
         }
       },
       "baselineSlugs": [
