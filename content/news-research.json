@@ -406,11 +406,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5f23e01f8b7d7b3164c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T15:18:55.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "price-chatter",
+      "note": "Chart-risk list of four October bitcoin problems including MtGox wallets; page returned HTTP 403, technical-risk roundup with no event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:40.953Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "523acc390bdd385ef10f": {
       "source": "Decrypt",
@@ -1523,6 +1528,13 @@
           "note": "Speculative macro piece asking whether Japan Oct 8 data spills into bitcoin; page returned HTTP 403 with no concrete crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:39.333Z"
+        },
+        "5f23e01f8b7d7b3164c1": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Chart-risk list of four October bitcoin problems including MtGox wallets; page returned HTTP 403, technical-risk roundup with no event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:40.953Z"
         }
       },
       "baselineSlugs": [
