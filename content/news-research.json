@@ -1747,11 +1747,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "37fb3182d13192a4f7e2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T08:00:49.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Routine weekly ETF flow snapshot with bitcoin inflows and ether outflows; recurring flow data with no protocol event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:05.646Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "a9c28a223fe0bb7f90c1": {
       "source": "CoinDesk",
@@ -3344,6 +3354,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:03.971Z"
+        },
+        "37fb3182d13192a4f7e2": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Routine weekly ETF flow snapshot with bitcoin inflows and ether outflows; recurring flow data with no protocol event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:05.646Z"
         }
       },
       "baselineSlugs": [
