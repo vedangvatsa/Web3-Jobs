@@ -734,5 +734,49 @@
     "slotKey": "2026-10-05:morning",
     "messageId": 155609,
     "sentAt": "2026-10-05T04:04:50.466Z"
+  },
+  "be17c63f-c5a3-430f-a43b-e0333b96b5ac": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T11:32:30.271Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "ecf017c0-17ea-4a04-8307-7655eaf56747",
+        "slug": "engineer821",
+        "url": "https://hashtagweb3.com/engineer821?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockstream",
+        "title": "Forward Deployed Engineer"
+      },
+      {
+        "key": "744000151850899",
+        "slug": "qa46",
+        "url": "https://hashtagweb3.com/qa46?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Quality Engineer"
+      },
+      {
+        "key": "8202091",
+        "slug": "aso8",
+        "url": "https://hashtagweb3.com/aso8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Gemini",
+        "title": "Office Assistant"
+      },
+      {
+        "key": "e1da34c8-7bb9-417c-ba75-6ce6214090c7",
+        "slug": "product386",
+        "url": "https://hashtagweb3.com/product386?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Improbable",
+        "title": "Product Engineer"
+      },
+      {
+        "key": "15c4c33e9a37",
+        "slug": "mgr4",
+        "url": "https://hashtagweb3.com/mgr4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Procurement Manager"
+      }
+    ],
+    "message": "• Blockstream is hiring <a href=\"https://hashtagweb3.com/engineer821?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Forward Deployed Engineer</a>\n• Solflare is hiring <a href=\"https://hashtagweb3.com/qa46?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Quality Engineer</a>\n• Gemini is hiring <a href=\"https://hashtagweb3.com/aso8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Office Assistant</a>\n• Improbable is hiring <a href=\"https://hashtagweb3.com/product386?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Engineer</a>\n• Bitdeer is hiring <a href=\"https://hashtagweb3.com/mgr4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Procurement Manager</a>",
+    "slotKey": "2026-10-05:afternoon"
   }
 }
