@@ -433,11 +433,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "624cb4fe8a643f74ff20",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T03:12:21.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "source-blocked",
+      "note": "Greenfield complaint and Safe forum letter read, but only aggregator pickups found; Gate page 403 and no second reputable outlet yet. Check for Safe Foundation response.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+          "outcome": "read"
+        },
+        {
+          "url": "https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.gate.com",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:47:13.419Z",
+      "retrySearches": [
+        "Greenfield Safe ESA supervisory complaint site:theblock.co OR site:coindesk.com OR site:dlnews.com OR site:decrypt.co"
+      ],
+      "lastReviewedDay": "2026-10-05",
+      "nextReviewDate": "2026-10-06"
     },
     "be10f9f232d84aabc6ae": {
       "source": "BeInCrypto",
@@ -1347,6 +1369,29 @@
           "reviewedAt": "2026-10-05T03:47:11.854Z",
           "retrySearches": [
             "Lido CSM 0x02 32 ETH first key bond October 2026 site:coindesk.com OR site:cointelegraph.com OR site:theblock.co"
+          ]
+        },
+        "624cb4fe8a643f74ff20": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Greenfield complaint and Safe forum letter read, but only aggregator pickups found; Gate page 403 and no second reputable outlet yet. Check for Safe Foundation response.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+              "outcome": "read"
+            },
+            {
+              "url": "https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.gate.com",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:47:13.419Z",
+          "retrySearches": [
+            "Greenfield Safe ESA supervisory complaint site:theblock.co OR site:coindesk.com OR site:dlnews.com OR site:decrypt.co"
           ]
         }
       },
