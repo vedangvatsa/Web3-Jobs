@@ -1685,11 +1685,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a95f251bfdf245438153",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:37:13.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Weekly technical outlook on bitcoin signals plus Ethereum Glamsterdam preview; analysis piece with no new event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:01:54.354Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "2dc7631f8de0805557c9": {
       "source": "Cointelegraph",
@@ -3234,6 +3244,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:52.678Z"
+        },
+        "a95f251bfdf245438153": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Weekly technical outlook on bitcoin signals plus Ethereum Glamsterdam preview; analysis piece with no new event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:01:54.354Z"
         }
       },
       "baselineSlugs": [
