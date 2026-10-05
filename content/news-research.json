@@ -361,13 +361,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "943ed098405000c87dae",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-07T19:40:34.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "Bitcoin Core PR 35984 merged Sept 25, flagged by Optech newsletter 425 on Oct 2. Verified via GitHub primary, Optech, and CryptoSlate.",
+      "note": "Bitcoin Core PR 35984 merged Sept 25 to skip SIGHASH_SINGLE inputs with no corresponding output; verified via GitHub primary, Optech newsletter 425, and CryptoSlate.",
       "sourceChecks": [
         {
           "url": "https://github.com/bitcoin/bitcoin/pull/35984",
@@ -382,7 +382,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-05T03:46:55.428Z",
+      "reviewedAt": "2026-10-05T11:00:02.033Z",
       "articleSlug": "core-fix",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -2482,6 +2482,27 @@
           ],
           "reviewedAt": "2026-10-05T10:59:55.949Z",
           "articleSlug": "drift-claims"
+        },
+        "943ed098405000c87dae": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bitcoin Core PR 35984 merged Sept 25 to skip SIGHASH_SINGLE inputs with no corresponding output; verified via GitHub primary, Optech newsletter 425, and CryptoSlate.",
+          "sourceChecks": [
+            {
+              "url": "https://github.com/bitcoin/bitcoin/pull/35984",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinops.org/en/newsletters/2026/10/02/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:02.033Z",
+          "articleSlug": "core-fix"
         }
       },
       "baselineSlugs": [
