@@ -133352,5 +133352,276 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt85"
+  },
+  "cme2": {
+    "id": "ea343069-f0de-4fc6-a6ea-72c5f4ddd113",
+    "link": "https://jobs.ashbyhq.com/fence-finance/ea343069-f0de-4fc6-a6ea-72c5f4ddd113",
+    "company": "Fence Finance",
+    "title": "Head of Capital Markets, Europe"
+  },
+  "pm213": {
+    "id": "4971231101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971231101",
+    "company": "Bybit",
+    "title": "Senior Growth Product Manager - User Activation"
+  },
+  "manager711": {
+    "id": "4710805006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4710805006",
+    "company": "Fireblocks",
+    "title": "Customer Success Manager, APAC"
+  },
+  "sales397": {
+    "id": "4711456006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4711456006",
+    "company": "Fireblocks",
+    "title": "Senior Accountant"
+  },
+  "associate98": {
+    "id": "coindcx-1788",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1788",
+    "company": "CoinDCX",
+    "title": "Associate Director - Finance"
+  },
+  "compliance182": {
+    "id": "coindcx-1786",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1786",
+    "company": "CoinDCX",
+    "title": "VP - Compliance"
+  },
+  "manager702": {
+    "id": "coindcx-1784",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1784",
+    "company": "CoinDCX",
+    "title": "Senior Manager-SEO/ASO"
+  },
+  "devops146": {
+    "id": "coindcx-1783",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1783",
+    "company": "CoinDCX",
+    "title": "Software Engineer - DevOps"
+  },
+  "engineer981": {
+    "id": "coindcx-1780",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1780",
+    "company": "CoinDCX",
+    "title": "Senior Software Engineer - 1"
+  },
+  "compliance181": {
+    "id": "coindcx-1779",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1779",
+    "company": "CoinDCX",
+    "title": "Manager - Legal (LEA)"
+  },
+  "devops145": {
+    "id": "coindcx-1774",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1774",
+    "company": "CoinDCX",
+    "title": "Senior Software Engineer 1 - DevOps"
+  },
+  "manager701": {
+    "id": "coindcx-1773",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1773",
+    "company": "CoinDCX",
+    "title": "Manager - Business Finance"
+  },
+  "associate97": {
+    "id": "coindcx-1769",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1769",
+    "company": "CoinDCX",
+    "title": "Associate Market Risk"
+  },
+  "sales396": {
+    "id": "coindcx-1767",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1767",
+    "company": "CoinDCX",
+    "title": "Intern - Key Accounts"
+  },
+  "principal6": {
+    "id": "coindcx-1766",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1766",
+    "company": "CoinDCX",
+    "title": "Principal Officer"
+  },
+  "compliance180": {
+    "id": "coindcx-1765",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1765",
+    "company": "CoinDCX",
+    "title": "Compliance Officer"
+  },
+  "analyst182": {
+    "id": "coindcx-1759",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1759",
+    "company": "CoinDCX",
+    "title": "Analyst - Corporate Development"
+  },
+  "recruiting107": {
+    "id": "coindcx-1756",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1756",
+    "company": "CoinDCX",
+    "title": "Talent Operations Executive"
+  },
+  "manager700": {
+    "id": "coindcx-1753",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1753",
+    "company": "CoinDCX",
+    "title": "Engineering Manager - Data"
+  },
+  "marketing248": {
+    "id": "coindcx-1751",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1751",
+    "company": "CoinDCX",
+    "title": "Intern - B2B Growth"
+  },
+  "manager699": {
+    "id": "coindcx-1746",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1746",
+    "company": "CoinDCX",
+    "title": "Manager - Litigation"
+  },
+  "devops144": {
+    "id": "coindcx-1745",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1745",
+    "company": "CoinDCX",
+    "title": "Engineering Manager - DevOps"
+  },
+  "manager698": {
+    "id": "coindcx-1727",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1727",
+    "company": "CoinDCX",
+    "title": "Assistant Manager/Manager - Qualitative Research"
+  },
+  "associate96": {
+    "id": "coindcx-1722",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1722",
+    "company": "CoinDCX",
+    "title": "Executive Assistant (to Senior Leadership)"
+  },
+  "analyst181": {
+    "id": "coindcx-1714",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1714",
+    "company": "CoinDCX",
+    "title": "Analyst - API Business"
+  },
+  "engineer980": {
+    "id": "coindcx-1712",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1712",
+    "company": "CoinDCX",
+    "title": "Lead InfoSec Engineer - GRC"
+  },
+  "recruiting106": {
+    "id": "coindcx-1695",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1695",
+    "company": "CoinDCX",
+    "title": "SM/AD – Talent Acquisition (Leadership Hiring)"
+  },
+  "manager697": {
+    "id": "coindcx-1662",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1662",
+    "company": "CoinDCX",
+    "title": "Manager - Customer Support Vendor Ops"
+  },
+  "associate95": {
+    "id": "coindcx-1661",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1661",
+    "company": "CoinDCX",
+    "title": "Senior Associate – Market Risk"
+  },
+  "manager696": {
+    "id": "coindcx-1660",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1660",
+    "company": "CoinDCX",
+    "title": "Senior Manager - Data Privacy & Protection"
+  },
+  "analyst180": {
+    "id": "coindcx-1657",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1657",
+    "company": "CoinDCX",
+    "title": "Senior Analyst - Business Operations"
+  },
+  "manager695": {
+    "id": "coindcx-1653",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1653",
+    "company": "CoinDCX",
+    "title": "Manager - Procurement"
+  },
+  "engineer979": {
+    "id": "coindcx-1643",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1643",
+    "company": "CoinDCX",
+    "title": "Senior Staff Engineer"
+  },
+  "manager694": {
+    "id": "coindcx-1636",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1636",
+    "company": "CoinDCX",
+    "title": "Assistant Manager - Finance"
+  },
+  "analyst179": {
+    "id": "coindcx-1634",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1634",
+    "company": "CoinDCX",
+    "title": "Senior Analyst - OTC"
+  },
+  "engineer978": {
+    "id": "coindcx-1609",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1609",
+    "company": "CoinDCX",
+    "title": "Staff Database Engineer - 2"
+  },
+  "operations155": {
+    "id": "coindcx-1604",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1604",
+    "company": "CoinDCX",
+    "title": "Associate - Custody Operations"
+  },
+  "associate94": {
+    "id": "coindcx-1595",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1595",
+    "company": "CoinDCX",
+    "title": "Associate Director/Director - Finance"
+  },
+  "marketing247": {
+    "id": "coindcx-1569",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1569",
+    "company": "CoinDCX",
+    "title": "Manager - Performance Marketing"
+  },
+  "director42": {
+    "id": "coindcx-1565",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1565",
+    "company": "CoinDCX",
+    "title": "Director - Group Company Secretary"
+  },
+  "engineer977": {
+    "id": "coindcx-1531",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1531",
+    "company": "CoinDCX",
+    "title": "Senior Software Engineer - 2"
+  },
+  "marketing246": {
+    "id": "coindcx-1511",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1511",
+    "company": "CoinDCX",
+    "title": "SVP - Marketing"
+  },
+  "manager693": {
+    "id": "coindcx-1259",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1259",
+    "company": "CoinDCX",
+    "title": "Key Account Manager (Third-Party)"
+  },
+  "recruiting79": {
+    "id": "0fe9db193a56",
+    "link": "https://bitdeer.breezy.hr/p/0fe9db193a56-2026-software-graduate-talent-trainee",
+    "company": "Bitdeer",
+    "title": "2026 Software Graduate Talent Trainee"
+  },
+  "pm214": {
+    "id": "4b6a835f-63c4-4bda-b349-0bfe53fa7bb2",
+    "link": "https://jobs.ashbyhq.com/openstandard/4b6a835f-63c4-4bda-b349-0bfe53fa7bb2",
+    "company": "Open Standard",
+    "title": "Product Marketing Lead",
+    "newSlug": "pm217"
   }
 }
