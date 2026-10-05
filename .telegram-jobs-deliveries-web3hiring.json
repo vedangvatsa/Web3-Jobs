@@ -1378,5 +1378,49 @@
     "slotKey": "2026-10-04:evening",
     "messageId": 104,
     "sentAt": "2026-10-04T19:32:13.859Z"
+  },
+  "b3732b27-d2f9-4e84-acb1-ece2d2b9de61": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T04:04:37.500Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "b2b27de6-07ce-4832-abaf-e00d83b2dc93",
+        "slug": "engineer341",
+        "url": "https://hashtagweb3.com/engineer341?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Luxor Technology",
+        "title": "Golang Engineer: Cloud Platform"
+      },
+      {
+        "key": "b4e518a5-9946-445e-be88-05eb0a464ea3",
+        "slug": "mgr129",
+        "url": "https://hashtagweb3.com/mgr129?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Technical Program Manager CX Tooling"
+      },
+      {
+        "key": "b775ad86-6f12-4c21-810f-37ea85fcb51c",
+        "slug": "frontend43",
+        "url": "https://hashtagweb3.com/frontend43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tools for Humanity",
+        "title": "Website UI/UX Designer"
+      },
+      {
+        "key": "e15a5a75-137f-4e37-a402-85079dd12b94",
+        "slug": "sol",
+        "url": "https://hashtagweb3.com/sol?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CertiK",
+        "title": "Blockchain Security Engineer"
+      },
+      {
+        "key": "4815076008",
+        "slug": "defi2",
+        "url": "https://hashtagweb3.com/defi2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Daylight",
+        "title": "DeFi Strategist"
+      }
+    ],
+    "message": "• Luxor Technology is hiring <a href=\"https://hashtagweb3.com/engineer341?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Golang Engineer: Cloud Platform</a>\n• Polymarket is hiring <a href=\"https://hashtagweb3.com/mgr129?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Program Manager CX Tooling</a>\n• Tools for Humanity is hiring <a href=\"https://hashtagweb3.com/frontend43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Website UI/UX Designer</a>\n• CertiK is hiring <a href=\"https://hashtagweb3.com/sol?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Blockchain Security Engineer</a>\n• Daylight is hiring <a href=\"https://hashtagweb3.com/defi2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">DeFi Strategist</a>",
+    "slotKey": "2026-10-05:morning"
   }
 }
