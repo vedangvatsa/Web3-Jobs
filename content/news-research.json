@@ -1480,11 +1480,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f17b7a2484557cf43f4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T08:42:20.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "opinion",
+      "note": "Injective CEO interview expectation that US INJ ETFs arrive before 2027; single-executive prediction with no approval or filing event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:02:15.102Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "6080932b55e57441546e": {
       "source": "The Block",
@@ -3366,6 +3371,13 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:05.646Z"
+        },
+        "0f17b7a2484557cf43f4": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Injective CEO interview expectation that US INJ ETFs arrive before 2027; single-executive prediction with no approval or filing event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:02:15.102Z"
         }
       },
       "baselineSlugs": [
