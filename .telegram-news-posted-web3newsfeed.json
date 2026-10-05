@@ -701,6 +701,9 @@
   "https://hashtagweb3.com/morpho-stocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/radix-halt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sec-exemption?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcash-upgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coinex-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/euro-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2007,6 +2010,12 @@
   "Radix Traces $1.3M Vault Drain to 2023 Code Cleanup",
   "SEC grants five-year exemption for tokenized stock trading venues",
   "SEC Issues Five-Year Exemption for Tokenized Stock Venues",
+  "Zcash Voters Approve NU7 Upgrade Proposals",
+  "Zcash Community Approves NU7 Upgrade With 25-Second Blocks and 2031 Reserve Plan",
+  "CoinEx to Close Operations After Nine Years",
+  "CoinEx to Shut Down Exchange After Nine Years",
+  "ECB seeks online merchants for 2027 digital euro pilot",
+  "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2237,5 +2246,8 @@
   "fp:asset|etf|for1|fund|grayscal|lower|nearly|reach|schedules3|september29",
   "fp:against|allow|are|bas|borrow|coinbas|curat|financial|lend|market",
   "fp:13m|attribut|august|caus|cleanup|cod|day|drain|error|exploit",
-  "fp:automat|exchang|exclud|exemption|fiv|grant|issu|market|may|real"
+  "fp:automat|exchang|exclud|exemption|fiv|grant|issu|market|may|real",
+  "fp:advisory|and2031|approv|block|community|delay|fund|halv|mechanism|network",
+  "fp:2026|clos|coinex|cost|december22|down|due|end|exchang|market",
+  "fp:ask|beta|currency|digital|ecb|euro|for2027|join|merchant|one"
 ]

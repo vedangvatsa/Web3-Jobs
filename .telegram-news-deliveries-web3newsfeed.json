@@ -768,7 +768,7 @@
     "sentAt": "2026-10-05T04:07:43.916Z"
   },
   "95613048-8799-4d83-8990-d26ada272126": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T11:36:47.326Z",
     "stories": [
       {
@@ -796,6 +796,8 @@
         "originalTitle": "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027"
       }
     ],
-    "slotKey": "2026-10-05:afternoon"
+    "slotKey": "2026-10-05:afternoon",
+    "messageId": 65731,
+    "sentAt": "2026-10-05T11:36:49.612Z"
   }
 }
