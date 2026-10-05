@@ -1470,5 +1470,49 @@
     "slotKey": "2026-10-05:morning",
     "messageId": 105,
     "sentAt": "2026-10-05T04:04:44.175Z"
+  },
+  "46445d61-87bd-4b1a-a21d-21a2b99c26fa": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T11:32:18.476Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "4739848005",
+        "slug": "sls204",
+        "url": "https://hashtagweb3.com/sls204?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DCG",
+        "title": "Accounting Associate"
+      },
+      {
+        "key": "cd82743c-7ce6-4b78-89c9-bbd832e560d9",
+        "slug": "sales48",
+        "url": "https://hashtagweb3.com/sales48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fun.xyz",
+        "title": "Business Development"
+      },
+      {
+        "key": "a13367b2-8bd9-41e1-878f-478cd1539354",
+        "slug": "trader20",
+        "url": "https://hashtagweb3.com/trader20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Quantitative Researcher"
+      },
+      {
+        "key": "8096121",
+        "slug": "uk2",
+        "url": "https://hashtagweb3.com/uk2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "UK Public Sector Lead"
+      },
+      {
+        "key": "08bbec3d-0923-4370-bc58-30a8e8a90a95",
+        "slug": "infra25",
+        "url": "https://hashtagweb3.com/infra25?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Helius",
+        "title": "Platform Engineer"
+      }
+    ],
+    "message": "• DCG is hiring <a href=\"https://hashtagweb3.com/sls204?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Accounting Associate</a>\n• Fun.xyz is hiring <a href=\"https://hashtagweb3.com/sales48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/trader20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Quantitative Researcher</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/uk2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">UK Public Sector Lead</a>\n• Helius is hiring <a href=\"https://hashtagweb3.com/infra25?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Platform Engineer</a>",
+    "slotKey": "2026-10-05:afternoon"
   }
 }
