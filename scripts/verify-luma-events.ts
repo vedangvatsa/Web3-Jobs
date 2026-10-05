@@ -37,41 +37,14 @@ function describe(value: unknown): unknown {
 }
 
 async function main() {
+  const flags = new Set(['--fetch', '--fetch-rich', '--apply']);
+  for (const arg of args) {
+    if (!flags.has(arg) && !/^--limit=\d+$/.test(arg)) {
+      throw new Error(`Unknown option: ${arg.split('=')[0]}. Use --fetch, --fetch-rich, --limit=N or --apply.`);
+    }
+  }
   fs.mkdirSync(path.join(CACHE, 'pages'), { recursive: true });
   const urls = [...new Set(EVENT_SOURCES.flatMap(({ events }) => events.map(sourceUrl).filter((url): url is string => !!url)))];
-  const apifyRun = option('apify-run');
-  if (apifyRun) {
-    if (!/^[\w-]+$/.test(apifyRun)) throw new Error('Invalid Apify run ID');
-    const rows = JSON.parse(fs.readFileSync(path.join(CACHE, `${apifyRun}-items.json`), 'utf8')) as unknown[];
-    let matched = 0;
-    const targets = new Set(urls);
-    const unmatched: Array<Record<string, unknown>> = [];
-    for (const row of rows) {
-      const data = object(row);
-      const rawUrl = typeof data.eventUrl === 'string' ? data.eventUrl : typeof data.url === 'string' ? data.url : `https://luma.com/${object(data.event).url}`;
-      let url = canonicalLumaUrl(rawUrl);
-      const requestedUrl = typeof data.sourceUrl === 'string' ? canonicalLumaUrl(data.sourceUrl) : null;
-      const apiId = typeof data.eventId === 'string' ? data.eventId : String(object(data.event).api_id || '');
-      if (url && !targets.has(url) && requestedUrl && targets.has(requestedUrl)) {
-        const matchingId = EVENT_SOURCES.some(({ events }) => events.some((event) => sourceUrl(event) === requestedUrl && event.id.endsWith(apiId.replace(/^evt-/, ''))));
-        const previous = fs.existsSync(snapshotPath(requestedUrl)) ? JSON.parse(fs.readFileSync(snapshotPath(requestedUrl), 'utf8')) as LumaSnapshot : undefined;
-        if (url.toLowerCase() === requestedUrl.toLowerCase() || matchingId || object(previous?.data.event).api_id === apiId) url = requestedUrl;
-      }
-      if (!url || !targets.has(url) || (!object(data.event).api_id && (!data.eventId || data.detailsFetched !== true))) {
-        unmatched.push({ url, sourceUrl: data.sourceUrl, eventId: data.eventId, name: data.name, detailsFetched: data.detailsFetched });
-        continue;
-      }
-      const snapshot: LumaSnapshot = { url, fetchedAt: typeof data.fetchedAt === 'string' ? data.fetchedAt : typeof data.scrapedAt === 'string' ? data.scrapedAt : new Date().toISOString(), method: 'apify', apifyRunId: apifyRun, data };
-      lumaSourcePatch(snapshot);
-      const previous = fs.existsSync(snapshotPath(url)) ? JSON.parse(fs.readFileSync(snapshotPath(url), 'utf8')) as LumaSnapshot : undefined;
-      // Raw ProseMirror snapshots retain source links and list structure that normalized actors discard.
-      const result = previous?.data.description_mirror ? { ...previous, apifyRunId: apifyRun } : snapshot;
-      fs.writeFileSync(snapshotPath(url), JSON.stringify(result, null, 2));
-      matched++;
-    }
-    fs.writeFileSync(path.join(CACHE, `${apifyRun}-unmatched.json`), JSON.stringify(unmatched, null, 2));
-    console.log(`Matched ${matched} of ${rows.length} Apify results to stored event URLs.`);
-  }
 
   const failures: Array<{ url: string; error: string }> = [];
   if (args.includes('--fetch-rich')) {

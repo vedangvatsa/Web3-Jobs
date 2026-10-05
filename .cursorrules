@@ -5,7 +5,7 @@ You are an AI coding agent assisting with the Hashtagweb3.com codebase.
 ## Codebase Principles
 - Framework: Next.js 14 App Router (TypeScript)
 - Styling: Tailwind CSS & Lucide Icons
-- Database & Storage: Static runtime JSON (`content/*-runtime.json`, `public/data/`), job shards, Supabase where used
+- Database & Storage: Static runtime JSON (`content/*-runtime.json`, `public/data/`) and job shards
 - Deployment: Firebase App Hosting (GCP); legacy OpenNext/Cloudflare paths may remain in repo
 
 ## API Conventions

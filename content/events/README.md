@@ -37,14 +37,12 @@ Missing descriptions render an explicit unavailable state and an organizer link 
 
 ## Verifying against Luma
 
-The direct-URL Apify actor is [`solidcode/luma-scraper`](https://apify.com/solidcode/luma-scraper). It fetches full event details for the URLs already stored in the feeds. Only results matching those URLs are imported. It does not add unrelated search results.
-
-Set `APIFY_TOKEN` in your shell environment, then run:
+Verification uses the public Luma event pages and event API for URLs already
+stored in the feeds. It reuses local snapshots and requires no paid scraping
+service or API token.
 
 ```sh
-npm run refresh:luma-apify -- --start
-npm run refresh:luma-apify -- --collect=RUN_ID
-npm run verify:luma-events -- --apify-run=RUN_ID
+npm run verify:luma-events -- --fetch
 npm run verify:luma-events -- --fetch-rich
 npm run verify:luma-events -- --apply
 npm run precompute:events-runtime
@@ -52,13 +50,18 @@ npx tsx scripts/generate-slug-types.ts
 npm run audit:event-schema
 ```
 
-The first command starts a paid Apify run and prints its ID. Collect after it finishes; `--partial` can download completed results from an active run. Use `--limit=3` with `--start` for a small trial.
-
-`--fetch-rich` fetches Luma's public event payload by the verified event ID. This retains ProseMirror headings, list markers, and link destinations that the actor's plain-text description may omit. It reuses cached records and stops on rate limiting. `--fetch` is an optional direct-page fallback for URLs not returned by Apify.
+`--fetch` retrieves missing page snapshots; use `--limit=3` for a small batch.
+`--fetch-rich` retrieves Luma's public event payload by the verified event ID,
+retaining ProseMirror headings, list markers, and link destinations. Both modes
+reuse cached records and stop on rate limiting.
 
 Without `--apply`, verification writes a comparison report only. Applying updates source-stated fields, clears stale public addresses when Luma withholds them, and preserves published slugs. The report distinguishes verified records from unavailable records and records each changed field. Long before/after descriptions have character counts, previews, and SHA-256 hashes in the report.
 
-Complete actor results, rich-text payloads, source-file backups, and fetch failures are stored together in the git-ignored `.cache/event-verification/` directory. Source records carry `sourceVerification` with the Luma event ID, URL, method, timestamp, and Apify run ID when available. API credentials are read from the environment and are not stored in these records.
+Page snapshots, rich-text payloads, source-file backups, and fetch failures are
+stored in the git-ignored `.cache/event-verification/` directory. Source records
+retain `sourceVerification` with the Luma event ID, URL, method and timestamp.
+Historical records may retain an Apify method or run ID as provenance; those
+fields do not invoke the retired service.
 
 ## Other official event websites
 

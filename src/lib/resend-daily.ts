@@ -12,7 +12,6 @@ import path from 'path';
 import { Resend } from 'resend';
 import { getJobs } from '@/lib/jobs';
 import { getJobPublicUrl } from '@/lib/job-slugs';
-import type { JobListing } from '@/lib/email';
 import type { Job } from '@/types';
 import {
   countSegmentContacts,
@@ -24,6 +23,15 @@ import {
   saveLastBroadcastSend,
   utcDateKey,
 } from '../../scripts/resend-broadcast-guards';
+
+interface JobListing {
+  title: string;
+  company: string;
+  location: string;
+  salary?: string;
+  url: string;
+  tags: string[];
+}
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hashtagweb3.com';
 const UTM = 'utm_source=newsletter&utm_medium=email&utm_campaign=daily-job-alerts';
