@@ -432,11 +432,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "523acc390bdd385ef10f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T15:01:03.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "price-chatter",
+      "note": "Daily ETF flow recap of 102.7M Thursday plus 31.7M Friday with Uptober framing; routine flow recap, no new launch or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:42.300Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "e54a44100eb99e3f410c": {
       "source": "Cointelegraph",
@@ -1535,6 +1540,13 @@
           "note": "Chart-risk list of four October bitcoin problems including MtGox wallets; page returned HTTP 403, technical-risk roundup with no event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:40.953Z"
+        },
+        "523acc390bdd385ef10f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Daily ETF flow recap of 102.7M Thursday plus 31.7M Friday with Uptober framing; routine flow recap, no new launch or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:42.300Z"
         }
       },
       "baselineSlugs": [
