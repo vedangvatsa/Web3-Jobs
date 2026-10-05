@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-04T19:31:43.649Z",
+  "generatedAt": "2026-10-05T03:31:46.501Z",
   "items": [
+    {
+      "title": "Zcash gets a Washington lobbyist to push crypto policy",
+      "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 05 Oct 2026 00:35:34 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 04 Oct 2026 22:31:12 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Roman Storm and the XRP army aren’t happy former SEC boss Jay Clayton is Trump’s new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "There's an election next month: State of Crypto ",
       "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
@@ -383,22 +399,6 @@
       "pubDate": "Fri, 02 Oct 2026 05:02:23 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "The unauthorized coins were indistinguishable from legitimate ZANO, leaving the team unable to remove them without rolling back the blockchain.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 02 Oct 2026 04:18:43 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-      "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 02 Oct 2026 03:34:25 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge API payment proposal into a working implementation for private, prepaid acc...",
       "source": "Cointelegraph"
     },
     {
