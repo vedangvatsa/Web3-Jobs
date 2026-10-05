@@ -1019,10 +1019,11 @@
           "url": "https://www.instagram.com/reel/DeGQPVKlf73/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-05T03:34:35.179Z",
-          "postId": "6ac31accd467abe8cfd4551a"
+          "postId": "6ac31accd467abe8cfd4551a",
+          "url": "https://www.youtube.com/watch?v=RGLOXOO7zfE"
         }
       }
     }
