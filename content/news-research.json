@@ -529,11 +529,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "be10f9f232d84aabc6ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T02:54:06.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "out-of-scope",
+      "note": "Egan-Jones map of AI disruption across services, venture capital, and housing; page returned HTTP 403, general equities with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:43.689Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "dbd3f0b1ab850f1091bf": {
       "source": "BeInCrypto",
@@ -1547,6 +1552,13 @@
           "note": "Daily ETF flow recap of 102.7M Thursday plus 31.7M Friday with Uptober framing; routine flow recap, no new launch or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:42.300Z"
+        },
+        "be10f9f232d84aabc6ae": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Egan-Jones map of AI disruption across services, venture capital, and housing; page returned HTTP 403, general equities with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:43.689Z"
         }
       },
       "baselineSlugs": [
