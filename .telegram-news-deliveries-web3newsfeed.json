@@ -733,5 +733,36 @@
     "slotKey": "2026-10-04:evening",
     "messageId": 65729,
     "sentAt": "2026-10-04T19:32:58.244Z"
+  },
+  "478a975e-feb3-4240-8599-12eab9926345": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T04:07:41.321Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Morpho allows borrowing USDC against tokenized Coinbase shares",
+        "summary": "The new lending markets on Base are curated by Steakhouse Financial and restricted to non-US users.",
+        "link": "https://hashtagweb3.com/morpho-stocks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Morpho Launches USDC Borrowing Against Coinbase Tokenized Stocks on Base"
+      },
+      {
+        "index": -1,
+        "headline": "Radix attributes $1.3 million vault drain to 2023 code cleanup",
+        "summary": "A June 2023 coding error caused a $1.3 million exploit and forced a ten-day network shutdown in August.",
+        "link": "https://hashtagweb3.com/radix-halt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Radix Traces $1.3M Vault Drain to 2023 Code Cleanup"
+      },
+      {
+        "index": -1,
+        "headline": "SEC grants five-year exemption for tokenized stock trading venues",
+        "summary": "Trading venues may use automated market makers for real stocks without exchange registration, though synthetic tokens remain excluded.",
+        "link": "https://hashtagweb3.com/sec-exemption?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC Issues Five-Year Exemption for Tokenized Stock Venues"
+      }
+    ],
+    "slotKey": "2026-10-05:morning"
   }
 }
