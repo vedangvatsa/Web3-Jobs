@@ -2257,11 +2257,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d22497772760268bc970",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T08:40:40.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "out-of-scope",
+      "note": "Nikkei jump on weak jobs data and Fed bets; Japanese equities recap with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:02:25.706Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "60397827f2e0cab7c0d9": {
       "source": "BeInCrypto",
@@ -3424,6 +3429,13 @@
           "note": "Euro 17-month low explainer on Spain and France; macro FX piece with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:02:20.091Z"
+        },
+        "d22497772760268bc970": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Nikkei jump on weak jobs data and Fed bets; Japanese equities recap with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:02:25.706Z"
         }
       },
       "baselineSlugs": [
