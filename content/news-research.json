@@ -720,11 +720,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "40c787591ef16971e0c1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T16:20:35.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "verified-event",
+      "note": "EF and Open Anonymity Oct 1 zkAPI mainnet launch with documented withdrawal mechanics and caveats. Verified via EF blog primary, ForkLog, and CryptoSlate.",
+      "sourceChecks": [
+        {
+          "url": "https://blog.ethereum.org/2026/10/01/introducing-zkapi",
+          "outcome": "read"
+        },
+        {
+          "url": "https://forklog.com/en/ethereum-foundation-launches-zkapi-for-private-ai-payments/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:46:56.689Z",
+      "articleSlug": "zkapi",
+      "lastReviewedDay": "2026-10-05"
     },
     "31eb2becc60db42bc102": {
       "source": "Decrypt",
@@ -1095,6 +1114,27 @@
           ],
           "reviewedAt": "2026-10-05T03:46:55.428Z",
           "articleSlug": "core-fix"
+        },
+        "40c787591ef16971e0c1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "EF and Open Anonymity Oct 1 zkAPI mainnet launch with documented withdrawal mechanics and caveats. Verified via EF blog primary, ForkLog, and CryptoSlate.",
+          "sourceChecks": [
+            {
+              "url": "https://blog.ethereum.org/2026/10/01/introducing-zkapi",
+              "outcome": "read"
+            },
+            {
+              "url": "https://forklog.com/en/ethereum-foundation-launches-zkapi-for-private-ai-payments/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:46:56.689Z",
+          "articleSlug": "zkapi"
         }
       },
       "baselineSlugs": [
