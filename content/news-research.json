@@ -765,11 +765,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "78579329143eee86d19b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T18:51:50.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "not-a-concrete-event",
+      "note": "Daily three-item recap recycling the Clayton, El Salvador, and NEAR stories; roundup with no standalone event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:54.811Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "a76797a17f940ac26d3c": {
       "source": "BeInCrypto",
@@ -1619,6 +1624,13 @@
           "note": "Iran oil-minister resignation and cargoes story; page returned HTTP 403, geopolitical oil news with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:53.264Z"
+        },
+        "78579329143eee86d19b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Daily three-item recap recycling the Clayton, El Salvador, and NEAR stories; roundup with no standalone event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:54.811Z"
         }
       },
       "baselineSlugs": [
