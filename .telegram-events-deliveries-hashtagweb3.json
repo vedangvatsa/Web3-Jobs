@@ -842,5 +842,55 @@
     "slotKey": "2026-10-04:evening",
     "messageId": 155602,
     "sentAt": "2026-10-04T19:31:52.909Z"
+  },
+  "01f211c3-486c-4fb4-b237-2d6729537f55": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T04:04:27.335Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-side-6a98c34d967be0befa88b066",
+        "slug": "csxasc",
+        "name": "The Capital Summit x Asia Stablecoin Conference",
+        "startDate": "2026-10-06T01:00:00.000Z",
+        "keys": [
+          "token2049-side-6a98c34d967be0befa88b066",
+          "page:csxasc:2026-10-06",
+          "luma:evt-obecrvhsbsl1ytz",
+          "luma-url:/5ldoya9l",
+          "event:thecapitalsummitxasiastablecoinconference:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "token2049-side-6aa454d7c0426d278bd87ddd",
+        "slug": "web3-workouts",
+        "name": "Web3 Workouts: Calisthenics @ Token2049 Singapore",
+        "startDate": "2026-10-06T01:00:00.000Z",
+        "keys": [
+          "token2049-side-6aa454d7c0426d278bd87ddd",
+          "page:web3-workouts:2026-10-06",
+          "luma:evt-t6vadps0jgkxuqx",
+          "luma-url:/k3s11wzz",
+          "event:web3workoutscalisthenicstoken2049singapore:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "premier-vntr",
+        "slug": "vntr",
+        "name": "VNTR Capital Allocators Forum Singapore",
+        "startDate": "2026-10-06T01:30:00.000Z",
+        "keys": [
+          "premier-vntr",
+          "vif",
+          "w3v-vntr-investor-forum-singapore",
+          "page:vntr:2026-10-06",
+          "luma:evt-2bmdprcv3j5m1i5",
+          "luma-url:/w5ck9zwq",
+          "event:vntrcapitalallocatorsforumsingapore:2026-10-06:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-05:morning"
   }
 }
