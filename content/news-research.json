@@ -687,11 +687,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "06aaf8b6dfca92b2f1c3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T21:19:45.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "out-of-scope",
+      "note": "Musk SpaceXAI to SpaceXSI rebrand trivia; page returned HTTP 403, corporate AI branding with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:50.500Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "62db655303ece72e1363": {
       "source": "BeInCrypto",
@@ -1583,6 +1588,13 @@
           "note": "Dan Ives analyst forecast of a Tesla 2027 golden year with robotaxis and Optimus; page returned HTTP 403, equity prediction with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:49.183Z"
+        },
+        "06aaf8b6dfca92b2f1c3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Musk SpaceXAI to SpaceXSI rebrand trivia; page returned HTTP 403, corporate AI branding with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:50.500Z"
         }
       },
       "baselineSlugs": [
