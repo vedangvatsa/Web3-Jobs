@@ -739,11 +739,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "228d436daac1b0d652d8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T19:09:56.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "out-of-scope",
+      "note": "Iran oil-minister resignation and cargoes story; page returned HTTP 403, geopolitical oil news with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:53.264Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "78579329143eee86d19b": {
       "source": "Cointelegraph",
@@ -1607,6 +1612,13 @@
           "note": "Nvidia billion-dollar option dispute with an early adviser; page returned HTTP 403, equity-compensation legal claim with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:51.832Z"
+        },
+        "228d436daac1b0d652d8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Iran oil-minister resignation and cargoes story; page returned HTTP 403, geopolitical oil news with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:53.264Z"
         }
       },
       "baselineSlugs": [
