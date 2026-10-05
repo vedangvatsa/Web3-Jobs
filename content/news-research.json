@@ -2095,11 +2095,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8726f0c4bbbe1e0598c8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T08:56:10.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "duplicate",
+      "note": "Same Payward and Singapore Gulf Bank SGB Net partnership announced Oct 4 as the ready kraken-settlement draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:01:28.147Z",
+      "duplicateOf": "kraken-settlement",
+      "mergedInto": "350340a9e84dad57e1fa",
+      "lastReviewedDay": "2026-10-05"
     },
     "d22497772760268bc970": {
       "source": "BeInCrypto",
@@ -3076,6 +3083,15 @@
           "reviewedAt": "2026-10-05T11:01:26.651Z",
           "duplicateOf": "zcash-testnet",
           "mergedInto": "7eb97d216c3f04291e14"
+        },
+        "8726f0c4bbbe1e0598c8": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Payward and Singapore Gulf Bank SGB Net partnership announced Oct 4 as the ready kraken-settlement draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:01:28.147Z",
+          "duplicateOf": "kraken-settlement",
+          "mergedInto": "350340a9e84dad57e1fa"
         }
       },
       "baselineSlugs": [
