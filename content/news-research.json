@@ -2115,11 +2115,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "555ca0650cba55d5a151",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:28:44.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "promotional",
+      "note": "GateToken quarterly burn writeup from an advertorial-origin single-source cascade; routine exchange self-announcement with no independent verification.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/gatetoken-burns-nearly-2-million-tokens/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:18.577Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "350340a9e84dad57e1fa": {
       "source": "CoinDesk",
@@ -3390,6 +3400,18 @@
           "note": "Mark Cuban commentary on who gets 750,000 new AI jobs; pundit warning with no concrete Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:02:16.863Z"
+        },
+        "555ca0650cba55d5a151": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "GateToken quarterly burn writeup from an advertorial-origin single-source cascade; routine exchange self-announcement with no independent verification.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/gatetoken-burns-nearly-2-million-tokens/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:18.577Z"
         }
       },
       "baselineSlugs": [
