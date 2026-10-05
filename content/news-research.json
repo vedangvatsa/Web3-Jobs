@@ -1799,11 +1799,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "27427ec1389628ada2c6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T06:44:12.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Saylor volatility-chart comparison of bitcoin against Nvidia, Strategy, and Mag7 stocks; pundit chart with no event.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/bitcoin-volatility-nvidia-strategy-strc-mag7/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:02.420Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "a841b9406a402c460b54": {
       "source": "CoinDesk",
@@ -3300,6 +3310,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:00.904Z"
+        },
+        "27427ec1389628ada2c6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Saylor volatility-chart comparison of bitcoin against Nvidia, Strategy, and Mag7 stocks; pundit chart with no event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-volatility-nvidia-strategy-strc-mag7/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:02.420Z"
         }
       },
       "baselineSlugs": [
