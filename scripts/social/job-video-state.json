@@ -983,6 +983,12 @@
           "containerId": "17916327720461009",
           "postId": "18129319831793706",
           "url": "https://www.instagram.com/reel/DeGP8MaAObt/"
+        },
+        "youtube": {
+          "status": "creating",
+          "text": "Remote - Americas\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+          "startedAt": "2026-10-05T03:31:48.508Z",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
