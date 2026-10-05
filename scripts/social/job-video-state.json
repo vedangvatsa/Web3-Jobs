@@ -1100,9 +1100,10 @@
           "url": "https://www.youtube.com/watch?v=8kbMxAK-bP8"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Treasury Operations Manager at Breeze Cash. New York City, NY · $130k - $160k/yr.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-05T11:35:00.228Z"
+          "startedAt": "2026-10-05T11:35:00.228Z",
+          "postId": "6ac38b65ece98e64bc12d058"
         }
       }
     }
