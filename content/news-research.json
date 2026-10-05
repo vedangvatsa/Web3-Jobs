@@ -1938,11 +1938,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "303e582eb4203735bf8c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T10:11:26.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "out-of-scope",
+      "note": "Ramaswamy gubernatorial campaign profile on de-emphasized crypto rhetoric; politics profile with no policy action.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:35.148Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "56af0f7b4b61eae6a698": {
       "source": "CryptoSlate",
@@ -3472,6 +3482,18 @@
           "note": "US debt-spiral math on growth versus Treasury yields; macro fiscal explainer with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:02:30.352Z"
+        },
+        "303e582eb4203735bf8c": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Ramaswamy gubernatorial campaign profile on de-emphasized crypto rhetoric; politics profile with no policy action.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:35.148Z"
         }
       },
       "baselineSlugs": [
