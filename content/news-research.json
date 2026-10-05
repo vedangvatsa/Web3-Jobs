@@ -184,11 +184,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c14e33d96645484c2e5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T17:20:02.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "verified-event",
+      "note": "Drift Oct 1 opening of DFX claims and redemptions at about 0.0104 USDT against 299.5M verified losses. Verified via foundation primary and Crowdfund Insider.",
+      "sourceChecks": [
+        {
+          "url": "https://www.drift.trade/updates/dfx-claim-and-redemptions",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.crowdfundinsider.com/2026/10/315238-drift-initiates-exploit-recovery-claims-first-payouts-cover-barely-over-1-of-losses/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:46:48.908Z",
+      "articleSlug": "drift-claims",
+      "lastReviewedDay": "2026-10-05"
     },
     "5c08feea06d46ad93dc5": {
       "source": "BeInCrypto",
@@ -991,6 +1006,23 @@
           ],
           "reviewedAt": "2026-10-05T03:46:47.235Z",
           "articleSlug": "bank-charters"
+        },
+        "4c14e33d96645484c2e5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drift Oct 1 opening of DFX claims and redemptions at about 0.0104 USDT against 299.5M verified losses. Verified via foundation primary and Crowdfund Insider.",
+          "sourceChecks": [
+            {
+              "url": "https://www.drift.trade/updates/dfx-claim-and-redemptions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.crowdfundinsider.com/2026/10/315238-drift-initiates-exploit-recovery-claims-first-payouts-cover-barely-over-1-of-losses/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:46:48.908Z",
+          "articleSlug": "drift-claims"
         }
       },
       "baselineSlugs": [
