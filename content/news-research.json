@@ -16,11 +16,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "83a660f656b2172cbc69",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T00:00:39.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "verified-event",
+      "note": "IMF Oct 1 completion of 2nd/3rd EFF reviews, SDR 101.96M disbursement, Bitcoin waivers with no further accumulation beyond donations. Verified across three opened sources.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.securities.io/imf-completes-two-el-salvador-program-reviews-and-clears-138-million/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:46:37.731Z",
+      "articleSlug": "imf-salvador",
+      "lastReviewedDay": "2026-10-05"
     },
     "f8bf8a703c961520da34": {
       "source": "Cointelegraph",
@@ -823,7 +842,29 @@
         "98a7eadeef49c950ca20",
         "0369fc09962e754542dd"
       ],
-      "outcomes": {},
+      "outcomes": {
+        "83a660f656b2172cbc69": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "IMF Oct 1 completion of 2nd/3rd EFF reviews, SDR 101.96M disbursement, Bitcoin waivers with no further accumulation beyond donations. Verified across three opened sources.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.securities.io/imf-completes-two-el-salvador-program-reviews-and-clears-138-million/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:46:37.731Z",
+          "articleSlug": "imf-salvador"
+        }
+      },
       "baselineSlugs": [
         "anchorage-cuts",
         "animoca-currenc",
