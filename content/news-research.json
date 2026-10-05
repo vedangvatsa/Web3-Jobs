@@ -843,11 +843,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "033f27c4689c30fa49da",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T18:30:00.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "not-a-concrete-event",
+      "note": "State of Crypto newsletter midterms preview of Nov 3 polls; no vote or bill passed, newsletter analysis only.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:48:29.612Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "9b340bd7245c206100de": {
       "source": "CryptoSlate",
@@ -1643,6 +1648,13 @@
           "note": "OpenAI safety-lead resignation and nuclear-rules claim; page returned HTTP 403, general AI personnel news with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:48:28.252Z"
+        },
+        "033f27c4689c30fa49da": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "State of Crypto newsletter midterms preview of Nov 3 polls; no vote or bill passed, newsletter analysis only.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:48:29.612Z"
         }
       },
       "baselineSlugs": [
