@@ -1454,11 +1454,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3597bbf2e420e0a5461e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:42:52.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "duplicate",
+      "note": "Same Oct 2 full 3.8M NEAR Intents return and investigation closure as the ready near-recovery draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:01:11.129Z",
+      "duplicateOf": "near-recovery",
+      "mergedInto": "6075ac4a1f1f28663ebe",
+      "lastReviewedDay": "2026-10-05"
     },
     "0f17b7a2484557cf43f4": {
       "source": "The Block",
@@ -2954,6 +2961,15 @@
           "reviewedAt": "2026-10-05T11:01:09.547Z",
           "duplicateOf": "clayton-ai",
           "mergedInto": "c21c7a578d483e64674d"
+        },
+        "3597bbf2e420e0a5461e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 2 full 3.8M NEAR Intents return and investigation closure as the ready near-recovery draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:01:11.129Z",
+          "duplicateOf": "near-recovery",
+          "mergedInto": "6075ac4a1f1f28663ebe"
         }
       },
       "baselineSlugs": [
