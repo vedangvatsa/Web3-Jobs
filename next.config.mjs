@@ -307,6 +307,21 @@ const nextConfig = {
           },
         ],
       },
+      ...Object.entries({
+        '/jobs/feed.json': 'application/feed+json; charset=utf-8',
+        '/jobs/feed.xml': 'application/rss+xml; charset=utf-8',
+        '/events/feed.xml': 'application/rss+xml; charset=utf-8',
+        '/jobs/adzuna.xml': 'application/xml; charset=utf-8',
+        '/jobs/jora.xml': 'application/xml; charset=utf-8',
+        '/jobs/feed-aggregator-us.xml': 'application/xml; charset=utf-8',
+        '/adzuna.xml': 'application/xml; charset=utf-8',
+        '/jooble.xml': 'application/xml; charset=utf-8',
+        '/myjobhelper.xml': 'application/xml; charset=utf-8',
+      }).map(([source, contentType]) => ({
+        source,
+        missing: source === '/events/feed.xml' ? [] : [{ type: 'query', key: 'mode', value: 'agent' }],
+        headers: [{ key: 'Content-Type', value: contentType }],
+      })),
       {
         source: '/',
         headers: [

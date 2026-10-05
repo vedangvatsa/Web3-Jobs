@@ -40,7 +40,7 @@ test('shell integration preserves updates, empty-value behavior and backend acce
   const directory = fs.mkdtempSync(path.resolve('.cache/secret-sync-test-'));
   try {
     const callsFile = path.join(directory, 'calls.jsonl');
-    fs.writeFileSync(path.join(directory, 'node'), `#!${process.execPath}\nprocess.stdin.resume(); process.stdin.on('end', () => process.exit(Number(process.env.TEST_DECISION)));\n`, { mode: 0o755 });
+    fs.writeFileSync(path.join(directory, 'node'), `#!${process.execPath}\nconst fs = require('node:fs'); process.stdin.resume(); process.stdin.on('end', () => { fs.appendFileSync(process.env.TEST_CALLS, JSON.stringify({ kind: 'compare', args: process.argv.slice(2) }) + '\\n'); process.exit(Number(process.env.TEST_DECISION)); });\n`, { mode: 0o755 });
     fs.writeFileSync(path.join(directory, 'npx'), `#!${process.execPath}\nconst fs = require('node:fs'); let input = ''; process.stdin.on('data', chunk => input += chunk); process.stdin.on('end', () => { const args = process.argv.slice(2); fs.appendFileSync(process.env.TEST_CALLS, JSON.stringify({ args, input }) + '\\n'); const access = args.indexOf('apphosting:secrets:access'); process.exit(access >= 0 && args[access + 1] !== 'NEXT_PUBLIC_FIREBASE_API_KEY' ? 1 : 0); });\n`, { mode: 0o755 });
     for (const scenario of [
       { decision: '0', backend: 'studio', value: 'test-canary-secret', updates: 0 },
@@ -48,15 +48,16 @@ test('shell integration preserves updates, empty-value behavior and backend acce
       { decision: '2', backend: 'studio', value: 'read-failure-test-canary', updates: 1 },
       { decision: '0', backend: '', value: 'test-canary-secret', updates: 1 },
       { decision: '0', backend: 'studio', value: '', updates: 0 },
+      { decision: '1', backend: 'studio', value: 'test-canary-secret', updates: 1, project: '' },
     ]) {
       fs.writeFileSync(callsFile, '');
       const result = spawnSync('bash', ['scripts/sync-firebase-apphosting-secrets.sh'], { encoding: 'utf8', timeout: 20000, env: {
         ...process.env,
         PATH: `${directory}${path.delimiter}${process.env.PATH}`,
         TEST_CALLS: callsFile, TEST_DECISION: scenario.decision,
-        FIREBASE_APPHOSTING_PROJECT_ID: 'test-project', FIREBASE_APPHOSTING_BACKEND: scenario.backend,
+        FIREBASE_APPHOSTING_PROJECT_ID: scenario.project ?? 'test-project', FIREBASE_APPHOSTING_BACKEND: scenario.backend,
         NEXT_PUBLIC_FIREBASE_API_KEY: scenario.value,
-        NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: '', NEXT_PUBLIC_FIREBASE_PROJECT_ID: '', NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: '', NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: '', NEXT_PUBLIC_FIREBASE_APP_ID: '', NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID: '', RESEND_API_KEY: '', CRON_SECRET: '',
+        NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: '', NEXT_PUBLIC_FIREBASE_PROJECT_ID: 'fallback-project', NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: '', NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID: '', NEXT_PUBLIC_FIREBASE_APP_ID: '', NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID: 'G-UNBOUND-TEST', RESEND_API_KEY: '', CRON_SECRET: '',
       } });
       assert.equal(result.status, 0, result.stderr);
       const calls = fs.readFileSync(callsFile, 'utf8').trim().split('\n').filter(Boolean).map(line => JSON.parse(line));
@@ -64,6 +65,11 @@ test('shell integration preserves updates, empty-value behavior and backend acce
       assert.equal(updates.length, scenario.updates);
       if (scenario.updates) assert.equal(updates[0].input, scenario.value);
       if (scenario.backend) assert.ok(calls.some(call => call.args.includes('apphosting:secrets:grantaccess')));
+      for (const call of calls) {
+        assert.ok(!call.args.some(arg => /NEXT_PUBLIC_FIREBASE_(PROJECT_ID|MEASUREMENT_ID)/.test(arg)), 'Unbound configuration must not be compared, created, read or granted as a secret');
+        const projectArg = call.args.indexOf('--project');
+        if (projectArg >= 0) assert.equal(call.args[projectArg + 1], scenario.project === '' ? 'fallback-project' : 'test-project');
+      }
       assert.ok(!`${result.stdout}${result.stderr}`.includes('test-canary-secret'));
       assert.ok(!calls.some(call => call.args.some(arg => /destroy|disable|delete/.test(arg))));
     }
@@ -74,4 +80,14 @@ test('shell integration preserves updates, empty-value behavior and backend acce
     assert.equal(result.stdout, '');
     assert.equal(result.stderr, '');
   } finally { fs.rmSync(directory, { recursive: true, force: true }); }
+});
+
+test('synchronization and grants cover exactly the App Hosting secret bindings', () => {
+  const script = fs.readFileSync('scripts/sync-firebase-apphosting-secrets.sh', 'utf8');
+  const config = fs.readFileSync('apphosting.yaml', 'utf8');
+  const expected = [...config.matchAll(/^\s+secret: (\w+)$/gm)].map(match => match[1]).sort();
+  const updates = [...script.matchAll(/^put_secret (\w+) /gm)].map(match => match[1]).sort();
+  const grants = script.match(/for name in \\([\s\S]+?)\n  do/)?.[1].match(/\b[A-Z][A-Z_]+\b/g)?.sort();
+  assert.deepEqual(updates, expected);
+  assert.deepEqual(grants, expected);
 });

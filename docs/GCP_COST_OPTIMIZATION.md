@@ -2,6 +2,54 @@
 
 Production HTML for **hashtagweb3.com** runs on **Firebase App Hosting** in **`web3-jobs-aggregator`**. Billing is expected here; the goal is to avoid **mistakes and duplicate work**, not to turn off App Hosting.
 
+## Feed compression and secret synchronization: October 5, 2026
+
+The nine public job/event feeds now declare their existing content types in
+`next.config.mjs`. Next.js 15.5.25 otherwise forwards the cached route handler's
+content type as a single-element array, which its built-in compression filter
+rejects. Setting the header before the route handler lets the existing compressor
+negotiate gzip or deflate without changing feed generation or making routes dynamic.
+
+The header rules exclude `?mode=agent` wherever that query rewrites to the JSON
+agent catalog. The Events feed retains its existing XML behavior for that query.
+Feed content types, contents, hourly ISR, CDN cache lifetimes and middleware
+exclusions are preserved. Clients without an accepted encoding receive identity
+responses. No new compression dependency or application-level feed cache is used.
+
+Local production HTTP verification on the current catalog measured:
+
+| Feed | Identity bytes | Gzip bytes | Reduction |
+|---|---:|---:|---:|
+| `/jobs/feed.json` | 263,735 | 60,685 | 77.0% |
+| `/jobs/feed.xml` | 626,054 | 164,287 | 73.8% |
+| `/events/feed.xml` | 1,556,538 | 477,474 | 69.3% |
+| `/jobs/adzuna.xml` and `/adzuna.xml`, each | 8,834,211 | 2,528,785 | 71.4% |
+| `/jobs/jora.xml` | 216,548 | 48,089 | 77.8% |
+| `/jobs/feed-aggregator-us.xml` and `/myjobhelper.xml`, each | 267,412 | 54,479 | 79.6% |
+| `/jooble.xml` | 265,167 | 54,479 | 79.5% |
+
+`npm run test:feed-compression` checks the standalone server after every build.
+It compares decompressed responses byte-for-byte with generated feed bodies,
+checks encoding preferences and exclusions, HEAD and unsupported methods,
+conditional requests, agent rewrites, static caching and one-hour revalidation.
+These are measured transfer reductions, not a percentage saving on the total bill.
+Production measurements must be repeated after the normal daily rollout.
+
+Secret synchronization now covers exactly the seven secrets declared in
+`apphosting.yaml`. It no longer compares, creates, reads or grants a Secret Manager
+copy of `NEXT_PUBLIC_FIREBASE_PROJECT_ID`, which App Hosting already receives as a
+plain configuration value. The project-ID environment fallback used to select the
+target project is retained. The unbound `NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID` is
+also excluded. Regression tests reject any drift between YAML bindings and the
+synchronization/grant lists, and verify that real secret updates still work.
+
+This change prevents redundant future operations and versions; it does not remove
+existing billable versions. Secret Manager DATA_READ auditing was enabled and
+verified separately on October 5. Historical-version retirement remains subject
+to observed consumers, current references and a reversible disable review. The
+first observation review is no earlier than October 12. Deployment cadence and
+runtime resources are unchanged.
+
 ## Read-only audit: October 1–2, 2026
 
 The supplied billing screenshot totals **₹2,205.59**: App Hosting ₹1,432.61,
