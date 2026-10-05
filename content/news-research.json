@@ -718,11 +718,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "9b340bd7245c206100de",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T18:20:31.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "verified-event",
+      "note": "Chainalysis Oct 4-reported figures: India users 88.4B inflows with 0.7 percent domestic share versus Brazil 12.5 percent, with methodology caveats. Verified via Chainalysis primary, CryptoSlate, and TokenPost.",
+      "sourceChecks": [
+        {
+          "url": "https://www.chainalysis.com/blog/central-southeast-asia-oceania-crypto-adoption-2026/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/investing/26683",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:47:05.891Z",
+      "articleSlug": "india-inflows",
+      "lastReviewedDay": "2026-10-05"
     },
     "40c787591ef16971e0c1": {
       "source": "CryptoSlate",
@@ -1255,6 +1274,27 @@
           ],
           "reviewedAt": "2026-10-05T03:47:04.600Z",
           "articleSlug": "zcash-lobbyist"
+        },
+        "9b340bd7245c206100de": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Chainalysis Oct 4-reported figures: India users 88.4B inflows with 0.7 percent domestic share versus Brazil 12.5 percent, with methodology caveats. Verified via Chainalysis primary, CryptoSlate, and TokenPost.",
+          "sourceChecks": [
+            {
+              "url": "https://www.chainalysis.com/blog/central-southeast-asia-oceania-crypto-adoption-2026/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/investing/26683",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:47:05.891Z",
+          "articleSlug": "india-inflows"
         }
       },
       "baselineSlugs": [
