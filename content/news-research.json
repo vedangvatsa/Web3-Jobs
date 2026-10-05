@@ -1768,11 +1768,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a9c28a223fe0bb7f90c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T06:57:40.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin bullish-signal technical setup piece; chart prediction with no launch, vote, ruling, or filing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:00.904Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "27427ec1389628ada2c6": {
       "source": "BeInCrypto",
@@ -3278,6 +3288,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:55.901Z"
+        },
+        "a9c28a223fe0bb7f90c1": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin bullish-signal technical setup piece; chart prediction with no launch, vote, ruling, or filing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:00.904Z"
         }
       },
       "baselineSlugs": [
