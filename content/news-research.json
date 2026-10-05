@@ -621,11 +621,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9ae10beb98c4ec7c78d4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T00:53:43.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "out-of-scope",
+      "note": "Dan Ives analyst forecast of a Tesla 2027 golden year with robotaxis and Optimus; page returned HTTP 403, equity prediction with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:49.183Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "7c30e41989e4b36a286f": {
       "source": "Cointelegraph",
@@ -1571,6 +1576,13 @@
           "note": "Gary Marcus cardboard-brakes analogy for AI agents; page returned HTTP 403, pundit commentary with no Web3 launch or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:45.032Z"
+        },
+        "9ae10beb98c4ec7c78d4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Dan Ives analyst forecast of a Tesla 2027 golden year with robotaxis and Optimus; page returned HTTP 403, equity prediction with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:49.183Z"
         }
       },
       "baselineSlugs": [
