@@ -52,6 +52,10 @@
     "2026-10-04:evening": [
       "pm153",
       "sls168"
+    ],
+    "2026-10-05:morning": [
+      "mkt63",
+      "fpa2"
     ]
   },
   "jobs": {
@@ -960,6 +964,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7692898501696474400"
         }
       }
+    },
+    "mkt63": {
+      "slot": "2026-10-05:morning",
+      "selectedAt": "2026-10-05T03:31:09.109Z",
+      "verifiedAt": "2026-10-05T03:31:09.109Z",
+      "captions": {
+        "instagram": "Staff Data Scientist, Growth at Alpaca\n\nRemote - Americas\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #RemoteJobs",
+        "tiktok": "Staff Data Scientist, Growth at Alpaca. Remote - Americas.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Remote - Americas\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Staff Data Scientist, Growth at Alpaca · Remote - Americas"
+      },
+      "receipts": {}
+    },
+    "fpa2": {
+      "slot": "2026-10-05:morning",
+      "selectedAt": "2026-10-05T03:31:09.110Z",
+      "verifiedAt": "2026-10-05T03:31:09.110Z",
+      "captions": {
+        "instagram": "Financial Planning & Analysis, Principal at Hut 8\n\nMiami, FL\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Financial Planning & Analysis, Principal at Hut 8. Miami, FL.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Miami, FL\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Financial Planning & Analysis, Principal at Hut 8"
+      },
+      "receipts": {}
     }
   }
 }
