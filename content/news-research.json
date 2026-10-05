@@ -2293,11 +2293,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "d4d41f79928546f1c16f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T04:41:35.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "duplicate",
+      "note": "Same Oct 4 Zcash NU7 testnet activation at block 4465026 as the ready zcash-testnet draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:01:26.651Z",
+      "duplicateOf": "zcash-testnet",
+      "mergedInto": "7eb97d216c3f04291e14",
+      "lastReviewedDay": "2026-10-05"
     },
     "c76463fd0dd391bd5c16": {
       "source": "BeInCrypto",
@@ -3058,6 +3065,15 @@
           "note": "Same Oct 4 Zcash NU7 testnet activation at block 4465026 as the ready zcash-testnet draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:01:21.859Z",
+          "duplicateOf": "zcash-testnet",
+          "mergedInto": "7eb97d216c3f04291e14"
+        },
+        "d4d41f79928546f1c16f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 4 Zcash NU7 testnet activation at block 4465026 as the ready zcash-testnet draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:01:26.651Z",
           "duplicateOf": "zcash-testnet",
           "mergedInto": "7eb97d216c3f04291e14"
         }
