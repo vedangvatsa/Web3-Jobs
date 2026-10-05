@@ -531,11 +531,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c30e41989e4b36a286f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T00:35:34.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "verified-event",
+      "note": "PGPZ Oct 1 LDA registration naming Divij Pandya, covering Clarity Act and two tax bills. Verified via LDA filing primary, Cointelegraph, and Crypto Briefing. Distinct from zcash-split/upgrade/vote coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://lda.gov/filings/public/filing/47b11898-84df-460d-8319-22411a1a14a9/print/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/zcash-advocacy-group-registers-first-lobbyist/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T03:47:04.600Z",
+      "articleSlug": "zcash-lobbyist",
+      "lastReviewedDay": "2026-10-05"
     },
     "06aaf8b6dfca92b2f1c3": {
       "source": "BeInCrypto",
@@ -1215,6 +1234,27 @@
           ],
           "reviewedAt": "2026-10-05T03:47:03.284Z",
           "articleSlug": "ruble-wages"
+        },
+        "7c30e41989e4b36a286f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "PGPZ Oct 1 LDA registration naming Divij Pandya, covering Clarity Act and two tax bills. Verified via LDA filing primary, Cointelegraph, and Crypto Briefing. Distinct from zcash-split/upgrade/vote coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://lda.gov/filings/public/filing/47b11898-84df-460d-8319-22411a1a14a9/print/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/zcash-advocacy-group-registers-first-lobbyist/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T03:47:04.600Z",
+          "articleSlug": "zcash-lobbyist"
         }
       },
       "baselineSlugs": [
