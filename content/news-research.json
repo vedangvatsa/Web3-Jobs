@@ -1104,13 +1104,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "6075ac4a1f1f28663ebe",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-07T13:01:03.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "NEAR Intents Oct 3 full return of 3.8M after 48-hour ultimatum, a new event distinct from the Oct 1 exploit covered in near-exploit.md. Verified via Decrypt and CoinDesk.",
+      "note": "NEAR Intents Oct 2 full return of 3.8M after 48-hour ultimatum with investigation closed, a new event distinct from the Oct 1 exploit; verified via Decrypt, CoinDesk, and Unchained.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
@@ -1119,9 +1119,13 @@
         {
           "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
           "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/near-intents-says-exploited-3-8-million-is-back-closes-its-hack-investigation/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-05T03:46:50.229Z",
+      "reviewedAt": "2026-10-05T11:00:24.012Z",
       "articleSlug": "near-recovery",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -2587,6 +2591,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:22.357Z",
           "articleSlug": "zkapi"
+        },
+        "6075ac4a1f1f28663ebe": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "NEAR Intents Oct 2 full return of 3.8M after 48-hour ultimatum with investigation closed, a new event distinct from the Oct 1 exploit; verified via Decrypt, CoinDesk, and Unchained.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/near-intents-says-exploited-3-8-million-is-back-closes-its-hack-investigation/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:24.012Z",
+          "articleSlug": "near-recovery"
         }
       },
       "baselineSlugs": [
