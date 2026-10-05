@@ -606,6 +606,14 @@
     "lastUrl": "https://hashtagweb3.com/backend94",
     "updatedAt": "2026-09-30T11:43:30.830Z"
   },
+  "8096121": {
+    "slugs": [
+      "uk2"
+    ],
+    "lastSlug": "uk2",
+    "lastUrl": "https://hashtagweb3.com/uk2",
+    "updatedAt": "2026-10-05T11:32:21.423Z"
+  },
   "8096726": {
     "slugs": [
       "product400",
@@ -4033,5 +4041,37 @@
     "lastSlug": "defi2",
     "lastUrl": "https://hashtagweb3.com/defi2",
     "updatedAt": "2026-10-05T04:04:44.175Z"
+  },
+  "4739848005": {
+    "slugs": [
+      "sls204"
+    ],
+    "lastSlug": "sls204",
+    "lastUrl": "https://hashtagweb3.com/sls204",
+    "updatedAt": "2026-10-05T11:32:21.423Z"
+  },
+  "cd82743c-7ce6-4b78-89c9-bbd832e560d9": {
+    "slugs": [
+      "sales48"
+    ],
+    "lastSlug": "sales48",
+    "lastUrl": "https://hashtagweb3.com/sales48",
+    "updatedAt": "2026-10-05T11:32:21.423Z"
+  },
+  "a13367b2-8bd9-41e1-878f-478cd1539354": {
+    "slugs": [
+      "trader20"
+    ],
+    "lastSlug": "trader20",
+    "lastUrl": "https://hashtagweb3.com/trader20",
+    "updatedAt": "2026-10-05T11:32:21.423Z"
+  },
+  "08bbec3d-0923-4370-bc58-30a8e8a90a95": {
+    "slugs": [
+      "infra25"
+    ],
+    "lastSlug": "infra25",
+    "lastUrl": "https://hashtagweb3.com/infra25",
+    "updatedAt": "2026-10-05T11:32:21.423Z"
   }
 }

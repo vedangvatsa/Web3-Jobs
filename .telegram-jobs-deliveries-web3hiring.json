@@ -1472,7 +1472,7 @@
     "sentAt": "2026-10-05T04:04:44.175Z"
   },
   "46445d61-87bd-4b1a-a21d-21a2b99c26fa": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T11:32:18.476Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -1513,6 +1513,8 @@
       }
     ],
     "message": "• DCG is hiring <a href=\"https://hashtagweb3.com/sls204?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Accounting Associate</a>\n• Fun.xyz is hiring <a href=\"https://hashtagweb3.com/sales48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/trader20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Quantitative Researcher</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/uk2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">UK Public Sector Lead</a>\n• Helius is hiring <a href=\"https://hashtagweb3.com/infra25?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Platform Engineer</a>",
-    "slotKey": "2026-10-05:afternoon"
+    "slotKey": "2026-10-05:afternoon",
+    "messageId": 16507,
+    "sentAt": "2026-10-05T11:32:21.423Z"
   }
 }
