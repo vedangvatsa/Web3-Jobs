@@ -1644,11 +1644,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a51f4bf5b32bdf0faf1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:40:14.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin holding above 85,000 framed around jobs data and rate-hike odds; macro price commentary with no crypto event.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/bitcoin-stalls-above-85000-as-weak-jobs-report-cuts-odds-of-an-october-rate-hike/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:01:51.129Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "a95f251bfdf245438153": {
       "source": "CoinDesk",
@@ -3190,6 +3200,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:01:45.919Z"
+        },
+        "6a51f4bf5b32bdf0faf1": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin holding above 85,000 framed around jobs data and rate-hike odds; macro price commentary with no crypto event.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/bitcoin-stalls-above-85000-as-weak-jobs-report-cuts-odds-of-an-october-rate-hike/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:01:51.129Z"
         }
       },
       "baselineSlugs": [
