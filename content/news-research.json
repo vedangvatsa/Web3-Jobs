@@ -914,11 +914,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa6d05f20b2519ec8d05",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T13:48:48.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "duplicate",
+      "note": "Same Oct 4 Truth Social Super Intelligence Force announcement, leader, and members as clayton-ai; keeping the Decrypt-anchored draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:22.371Z",
+      "duplicateOf": "clayton-ai",
+      "mergedInto": "c21c7a578d483e64674d",
+      "lastReviewedDay": "2026-10-05"
     },
     "6075ac4a1f1f28663ebe": {
       "source": "Decrypt",
@@ -1409,6 +1416,15 @@
           "reviewedAt": "2026-10-05T03:47:20.787Z",
           "duplicateOf": "imf-salvador",
           "mergedInto": "83a660f656b2172cbc69"
+        },
+        "aa6d05f20b2519ec8d05": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 4 Truth Social Super Intelligence Force announcement, leader, and members as clayton-ai; keeping the Decrypt-anchored draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:22.371Z",
+          "duplicateOf": "clayton-ai",
+          "mergedInto": "c21c7a578d483e64674d"
         }
       },
       "baselineSlugs": [
