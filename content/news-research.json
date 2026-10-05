@@ -2104,11 +2104,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "ebf1f5311c4fb71c937b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:40:03.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "not-a-concrete-event",
+      "note": "Wealth-manager crypto-attitude survey writeup; evergreen advisory sentiment with no launch, vote, or filing.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/wealthy-investors-advisers-too-cautious-crypto/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:36.696Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "555ca0650cba55d5a151": {
       "source": "BeInCrypto",
@@ -3494,6 +3504,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:35.148Z"
+        },
+        "ebf1f5311c4fb71c937b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Wealth-manager crypto-attitude survey writeup; evergreen advisory sentiment with no launch, vote, or filing.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/wealthy-investors-advisers-too-cautious-crypto/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:36.696Z"
         }
       },
       "baselineSlugs": [
