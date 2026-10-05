@@ -2182,11 +2182,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "56791c89616377794d77",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:07:44.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "out-of-scope",
+      "note": "Euro 17-month low explainer on Spain and France; macro FX piece with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:02:20.091Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "623319aad99616fa67c0": {
       "source": "BeInCrypto",
@@ -3412,6 +3417,13 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:18.577Z"
+        },
+        "56791c89616377794d77": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Euro 17-month low explainer on Spain and France; macro FX piece with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:02:20.091Z"
         }
       },
       "baselineSlugs": [
