@@ -894,5 +894,53 @@
     "slotKey": "2026-10-05:morning",
     "messageId": 155608,
     "sentAt": "2026-10-05T04:04:29.816Z"
+  },
+  "9d0c41bd-00c2-4b7c-b899-46bb31c8da0b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-05T11:31:51.009Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-side-6a6cdc395a75007b41000850",
+        "slug": "onchain-day",
+        "name": "Onchain Day | TOKEN2049 Singapore",
+        "startDate": "2026-10-06T01:30:00.000Z",
+        "keys": [
+          "token2049-side-6a6cdc395a75007b41000850",
+          "page:onchain-day:2026-10-06",
+          "luma:evt-aggvncxtog5ryje",
+          "luma-url:/onchaindaytokensingapore",
+          "event:onchaindaytoken2049singapore:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "luma-crypto-CuBqqXAPJTj9BgU",
+        "slug": "ftss",
+        "name": "Frontier Traders @ Solana Summit Singapore",
+        "startDate": "2026-10-06T03:00:00.000Z",
+        "keys": [
+          "luma-crypto-cubqqxapjtj9bgu",
+          "page:ftss:2026-10-06",
+          "luma:evt-cubqqxapjtj9bgu",
+          "luma-url:/frontier-traders-sg-2026",
+          "event:frontiertraderssolanasummitsingapore:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "luma-crypto-QF47atVqujSc4Gq",
+        "slug": "wpt2wccto",
+        "name": "WalletConnect Pulse at Token 2049 w/ ChangeNOW, Canton, Turnkey & OpenFX",
+        "startDate": "2026-10-06T03:00:00.000Z",
+        "keys": [
+          "luma-crypto-qf47atvqujsc4gq",
+          "page:wpt2wccto:2026-10-06",
+          "luma:evt-qf47atvqujsc4gq",
+          "luma-url:/partnerbrunch_tokensg",
+          "event:walletconnectpulseattoken2049wchangenowcantonturnkeyopenfx:2026-10-06:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-05:afternoon"
   }
 }
