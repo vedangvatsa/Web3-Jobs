@@ -2482,11 +2482,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c76463fd0dd391bd5c16",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T04:25:00.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "out-of-scope",
+      "note": "US debt-spiral math on growth versus Treasury yields; macro fiscal explainer with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:02:30.352Z",
+      "lastReviewedDay": "2026-10-05"
     }
   },
   "runs": {
@@ -3460,6 +3465,13 @@
           "note": "JPMorgan October stock picks including American Express; equities list with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:02:28.812Z"
+        },
+        "c76463fd0dd391bd5c16": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US debt-spiral math on growth versus Treasury yields; macro fiscal explainer with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:02:30.352Z"
         }
       },
       "baselineSlugs": [
