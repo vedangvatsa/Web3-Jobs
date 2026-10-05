@@ -910,13 +910,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "9b340bd7245c206100de",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-07T18:20:31.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "Chainalysis Oct 4-reported figures: India users 88.4B inflows with 0.7 percent domestic share versus Brazil 12.5 percent, with methodology caveats. Verified via Chainalysis primary, CryptoSlate, and TokenPost.",
+      "note": "Chainalysis Sept 30 figures: India users 88.4B inflows with 0.7 percent domestic share versus Brazil 12.5 percent, methodology caveats kept; verified via Chainalysis primary and two outlets.",
       "sourceChecks": [
         {
           "url": "https://www.chainalysis.com/blog/central-southeast-asia-oceania-crypto-adoption-2026/",
@@ -931,7 +931,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-05T03:47:05.891Z",
+      "reviewedAt": "2026-10-05T11:00:20.737Z",
       "articleSlug": "india-inflows",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -2545,6 +2545,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:05.235Z",
           "articleSlug": "zcash-lobbyist"
+        },
+        "9b340bd7245c206100de": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Chainalysis Sept 30 figures: India users 88.4B inflows with 0.7 percent domestic share versus Brazil 12.5 percent, methodology caveats kept; verified via Chainalysis primary and two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://www.chainalysis.com/blog/central-southeast-asia-oceania-crypto-adoption-2026/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/investing/26683",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:20.737Z",
+          "articleSlug": "india-inflows"
         }
       },
       "baselineSlugs": [
