@@ -1515,11 +1515,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "7eb97d216c3f04291e14",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T03:47:19.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "verified-event",
+      "note": "Zcash NU7 activated on public testnet Oct 4 at block 4465026 with 25-second blocks, Nov 5 mainnet target; distinct from September vote; verified via ZFND primary, CoinDesk, and Unchained.",
+      "sourceChecks": [
+        {
+          "url": "https://zfnd.org/zebra-7-0-0-rc-0-nu7-arrives-on-testnet/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/zcash-activates-nu7-on-public-testnet-opening-a-trial-run-for-25-second-blocks/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:00:52.943Z",
+      "articleSlug": "zcash-testnet",
+      "lastReviewedDay": "2026-10-05"
     },
     "e27cce0a0e05bc684cfb": {
       "source": "Cointelegraph",
@@ -2814,6 +2833,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:48.158Z",
           "articleSlug": "okx-venue"
+        },
+        "7eb97d216c3f04291e14": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Zcash NU7 activated on public testnet Oct 4 at block 4465026 with 25-second blocks, Nov 5 mainnet target; distinct from September vote; verified via ZFND primary, CoinDesk, and Unchained.",
+          "sourceChecks": [
+            {
+              "url": "https://zfnd.org/zebra-7-0-0-rc-0-nu7-arrives-on-testnet/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/zcash-activates-nu7-on-public-testnet-opening-a-trial-run-for-25-second-blocks/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:52.943Z",
+          "articleSlug": "zcash-testnet"
         }
       },
       "baselineSlugs": [
