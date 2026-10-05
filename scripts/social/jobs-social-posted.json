@@ -1,5 +1,5 @@
 {
-  "lastIndex": 348,
+  "lastIndex": 350,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -148,7 +148,9 @@
     "pm184",
     "engineer590",
     "pm183",
-    "sls184"
+    "sls184",
+    "tcs",
+    "sls186"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5153,495 +5155,6 @@
       "verification": "verified"
     },
     {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x28cecf67f803e26e6689436c0843a9cef1ae0e28",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x02a8cd8a20a38092ab2f3949ca309774091d4201",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x48550112181ba368eceade4183fa79bdccff0eba",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x8606adc32934092e51d8e170a763f7ce4f1d3106",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x50fe07e5251ac1b4cf6391f7513cf0aa305a3dd0",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x5264f64d701764318448f9c44c6798206cf7871b",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x5f2af3c998d3d3ca6df8bb06cbb516e27f0c10bf",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x1f10edf63be118661d5bda43f84044679df96c6a",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x3a43e7d5f439d45e4631460d83c95cb908a6acc8",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0xea4bb0624d95502444928a2254e0eb725c5d7840",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x5910c1566bc4d5692428b8af658e7f51892e8ea3",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0xdba5ec848b3d2c2194bdda2fdead4154bf263b5b",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x15d3d82cb4a36b72e98913fdcdc3be639cb08e7f",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x7a21546a15512eb69bceb3e232db24456a30c27b",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x4732149eaf3bfd4cd2677c10afe7cff1b9658a02",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0x377448b1f5d482dd0a576ed0e7f6e23c114a5dce",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "0xc293236d3555055da2026c4f75498420738f5ecd",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "6abf2dd28bccc8e641692727",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "6abf2ddc22215530c713702d",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "urn:li:share:7511637854092148736",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "691827047618629_1104068985533669",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr86",
-      "company": "Robinhood",
-      "title": "Customer Care, Program Manager",
-      "platform": "instagram",
-      "postedAt": "2026-10-02T04:06:22.409Z",
-      "postId": "18037194776840010",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "x",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "6abf2dfcb435ee01190f2259",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Binance is hiring HRIS Manager\n\nhttps://hashtagweb3.com/mgr85/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105872253069963278"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "17914508106531169",
-      "verification": "verified",
-      "expectedText": "Binance is hiring HRIS Manager: https://hashtagweb3.com/mgr85/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd-lsmNkaAL",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwuiq7izcr2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x7e383cc0ee79511cd6321e3a6d6fa2cdf520c413",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xe6aac17ced4799198156fef01e6d17e790fb9d3c",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xb82f817599978d5834983e0685b51155f6075f0f",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xb97a25889763217b5dc3a2dbd11098f5fb6273ef",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xa56c4384eb13a174faeddc1a03915c38e9c7939d",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x7fb589dec940929171a1b8c8174dadbcb79a0b19",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xd9be1d0b79a072740dcedb9b41790febfb594028",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x2f303efd83ac5a70420c3634ebd89def6d1e97a4",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x7069785efd785d942ede68e2da2ebc286173aa3a",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xb78abe85ca3b0b84a761d0195460f515e93da555",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xf94212536352b81850700a5ab7f4914eced94cf7",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x4c97a0ca61445a4b68ea7cea49753f1927cbe7c3",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x7c8a279eb688da0eecc8594709e461a4f815421c",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x80ba166655d666187a5575206447fe9473ef7084",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0xe548571514264a9b08ad6e285150e59aa096c61a",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x74840f8d1b9839d1814e7f4d0733ec661d52f8d1",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "0x92eb09971d83f173012fba43860f1af8eb5a8eb5",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "6abf2e0eb435ee01190f24f8",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "6abf2e1845400a0e30095650",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "urn:li:share:7511638106907881473",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "691827047618629_1104069628866938",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr85",
-      "company": "Binance",
-      "title": "HRIS Manager",
-      "platform": "instagram",
-      "postedAt": "2026-10-02T04:07:24.433Z",
-      "postId": "18079594004413587",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "x",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "6abf963481e421bfcd793167",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Solana Foundation is hiring VP, International Communications\n\nhttps://hashtagweb3.com/int15/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105984154273739045"
-    },
-    {
       "slug": "int15",
       "company": "Solana Foundation",
       "title": "VP, International Communications",
@@ -10132,6 +9645,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-05T04:05:30.669Z",
       "postId": "691827047618629_1106837415256826",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "x",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "6ac38aae1cf337b59da44841",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "OKX is hiring Team Lead, Customer Service\n\nhttps://hashtagweb3.com/tcs/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107071292528574839"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "threads",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "18062776493785330",
+      "verification": "verified",
+      "expectedText": "OKX is hiring Team Lead, Customer Service: https://hashtagweb3.com/tcs/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeHG9PdmynC",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "bluesky",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx4sxvbld322",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0xeadda88a4b3d7586ed3d7896fa22f8cbb2456286",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x9eb332124d9c88e760b97876b340135ad75900bc",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x304d9c717ec80bb29ec105e66147b3d303b067d2",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0xa0a4efa7a969e73a710891201eb988115c7cc272",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x5668535add96b1ff5b66a9811e37e12be6f0b070",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x65d5e83980e10614675879c72bd6deb088033c3e",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0xc73a17629a8b2b6259f47edd04491da04de6cd47",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x4bc4a4c6a1850392e1800577a4449a0079cec7ae",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x52d262c7e254541473d2ac10afe511b7c650b361",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0xcfe6cb88949d0b605943fed6a3b76c983ccfc355",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0xf224440b344e43cd39271db1de9f9b74378be593",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0xad0afaebe3b05c89e71ab94feed8f18b6222564b",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x1f55e9fe90425559c8f7585dfd34fde4b0783640",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x191c5ddbb5f657252f1f771492ed1d89c78e2b13",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x0043c1af7b6d6ab493a7d5da9c419a028d28a7d3",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0x624b30632c07b6d825b8583df9fdb5bd762c73e0",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "0xed95d6fdad9c3d31435076a12c050a2ab79e5d43",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "6ac38abf32f9ebfdb1ce4c4c",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "6ac38acaece98e64bc12b77c",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "urn:li:share:7512837146224001024",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "tcs",
+      "company": "OKX",
+      "title": "Team Lead, Customer Service",
+      "platform": "facebook",
+      "postedAt": "2026-10-05T11:31:57.665Z",
+      "postId": "691827047618629_1107105848563316",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "x",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "6ac38ae01cf337b59da45407",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Blockworks is hiring Business Development Representative\n\nhttps://hashtagweb3.com/sls186/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107071504240246883"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "threads",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "18134402518728330",
+      "verification": "verified",
+      "expectedText": "Blockworks is hiring Business Development Representative: https://hashtagweb3.com/sls186/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeHHDZbm621",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "bluesky",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx4szdvc2p2u",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x512366dc08a1041f7527abd79a8873a8ed8809bf",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xea255b8400f1a126cd6866a9072bcf8d62e479d3",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xd5f209856bb1688bcfea420525d8f8020a7cf7be",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x4a4464410617ae1acb5d071fa31be0d2bd0801d1",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x834aa6244d112aca44aee6f2099873adf7535959",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x0bacba31acfeca35de330f7f18d7df0374b7a089",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x820e1808625c90e9b8f8734b1d1df178b56ae0c4",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x926308927067b9c29c854b00e7fe4fc9c678fc9b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xb21d4ae6c56b242287429abd79e4e02c068481fc",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x24f863912d2a1bf4eff65acfd54fa05a2bc88504",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xa1d86ac5e7fe6aa89b256f39c02f8e714e86aec6",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x6c043051ec02858d2ddaaefaf3342481914407c7",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xf6e4cf1bf11449a8d3251b45c7c7e9e671f6e179",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0x27b6cf3a478c3e55f396e11b92d47549b7352a03",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xa846c7af31a9c11575811f67a2d9ab4f1b454375",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xbeb17f9b2324d7d3edbd2b26c9e345e99701ee87",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "farcaster",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "0xee7011daeffdd743f56aa09db86b4e4f2208ef2e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "6ac38af153279f4f19be9d77",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "6ac38afc32f9ebfdb1ce5607",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "linkedin",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "urn:li:share:7512837355855159296",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls186",
+      "company": "Blockworks",
+      "title": "Business Development Representative",
+      "platform": "facebook",
+      "postedAt": "2026-10-05T11:32:48.296Z",
+      "postId": "691827047618629_1107106361896598",
       "verification": "verified"
     }
   ]
