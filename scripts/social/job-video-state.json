@@ -989,6 +989,11 @@
           "text": "Remote - Americas\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-05T03:31:48.508Z",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Staff Data Scientist, Growth at Alpaca. Remote - Americas.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+          "startedAt": "2026-10-05T03:31:50.784Z"
         }
       }
     },
