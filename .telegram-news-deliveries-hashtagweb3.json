@@ -702,7 +702,7 @@
     "sentAt": "2026-10-04T19:32:48.977Z"
   },
   "9099e363-85d2-4602-9833-7dda02421161": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T04:05:21.656Z",
     "stories": [
       {
@@ -730,6 +730,8 @@
         "originalTitle": "Nasdaq Invests $100 Million in Payward to Advance Tokenized Equities"
       }
     ],
-    "slotKey": "2026-10-05:morning"
+    "slotKey": "2026-10-05:morning",
+    "messageId": 155610,
+    "sentAt": "2026-10-05T04:05:24.408Z"
   }
 }

@@ -671,6 +671,9 @@
   "https://hashtagweb3.com/sec-exemption?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/thailand-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/vechain-interstellar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ethena-tron?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kztg-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nasdaq-tokens?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1921,6 +1924,12 @@
   "Thailand Proposes 5 Million Baht Stablecoin Transfer Cap",
   "VeChain to Launch Interstellar Hardfork on September 16",
   "VeChain Interstellar Hardfork Set for Sept 16",
+  "Ethena Launches USDe and sUSDe on TRON",
+  "Ethena and TRON DAO Bring USDe and sUSDe to the TRON Network",
+  "Kazakhstan Launches Tenge-Pegged Stablecoin on Telegram",
+  "Kazakhstan Launches Tenge-Pegged KZTg Stablecoin on Telegram",
+  "Nasdaq Invests $100 Million in Kraken Parent Payward",
+  "Nasdaq Invests $100 Million in Payward to Advance Tokenized Equities",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2142,5 +2151,8 @@
   "fp:138m|agr|agreement|country|cryptocurrency|follow|fund|grant|imf|involvement",
   "fp:asset|automat|exclud|exemption|fiv|grant|issu|market|permitt|platform",
   "fp:baht|ban|cap|daily|fiv|limit|party|propos|rul|stablecoin",
-  "fp:540|902|adopt11|block25|compatibility|evm|hardfork|improv|improvement|interstellar"
+  "fp:540|902|adopt11|block25|compatibility|evm|hardfork|improv|improvement|interstellar",
+  "fp:asset|bridg|dao|enabl|ethena|financ|integration|justlend|network|plann",
+  "fp:asset|blockchain|dollar|kazakhstan|kztg|network|non|pegg|stablecoin|telegram",
+  "fp:100m|advanc|collaboration|equity|invest|investment|kraken|nasdaq|of2027|parent"
 ]
