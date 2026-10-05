@@ -1065,9 +1065,10 @@
           "error": "Error: Video ledger PUT failed — HTTP 409"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Account Manager, Dutch-speaking at eToro. Tel Aviv District.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-05T11:32:03.962Z"
+          "startedAt": "2026-10-05T11:32:03.962Z",
+          "postId": "6ac38ab51cf337b59da44a35"
         }
       }
     },
