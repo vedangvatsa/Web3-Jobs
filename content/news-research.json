@@ -1914,11 +1914,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "192aea5404ac0dc8e999",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:46:10.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "duplicate",
+      "note": "Same ICBA Oct 2 APA suit against OCC over the crypto trust charter rule already covered by occ-lawsuit.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T11:01:31.218Z",
+      "duplicateOf": "occ-lawsuit",
+      "lastReviewedDay": "2026-10-05"
     },
     "97977109041df9049888": {
       "source": "Unchained",
@@ -3087,6 +3093,14 @@
           "note": "Same ICBA Oct 2 APA suit against OCC over the March 2026 trust-charter rule already covered by occ-lawsuit.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T11:01:29.731Z",
+          "duplicateOf": "occ-lawsuit"
+        },
+        "192aea5404ac0dc8e999": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ICBA Oct 2 APA suit against OCC over the crypto trust charter rule already covered by occ-lawsuit.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T11:01:31.218Z",
           "duplicateOf": "occ-lawsuit"
         }
       },
