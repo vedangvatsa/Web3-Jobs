@@ -1861,11 +1861,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "32922bb50bf5e4312567",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T03:50:29.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "price-chatter",
+      "note": "Ether Q3 rally retrospective with thinning-liquidity analysis; backward-looking market commentary, not an event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:03.971Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "3741b5e3fc4142c147b5": {
       "source": "CoinDesk",
@@ -3322,6 +3332,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:02.420Z"
+        },
+        "32922bb50bf5e4312567": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Ether Q3 rally retrospective with thinning-liquidity analysis; backward-looking market commentary, not an event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:03.971Z"
         }
       },
       "baselineSlugs": [
