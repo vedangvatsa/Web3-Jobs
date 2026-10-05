@@ -1969,11 +1969,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "56af0f7b4b61eae6a698",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T10:10:02.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "not-a-concrete-event",
+      "note": "Altcoin futures concentration analysis on Talos report data; methodology explainer with no fresh event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ten-tokens-held-62-of-altcoin-futures-exposure-but-shared-collateral-can-put-other-positions-at-risk/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:38.249Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "9a03edbbd921148b2bbe": {
       "source": "CoinJournal",
@@ -3516,6 +3526,18 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:36.696Z"
+        },
+        "56af0f7b4b61eae6a698": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Altcoin futures concentration analysis on Talos report data; methodology explainer with no fresh event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ten-tokens-held-62-of-altcoin-futures-exposure-but-shared-collateral-can-put-other-positions-at-risk/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:38.249Z"
         }
       },
       "baselineSlugs": [
