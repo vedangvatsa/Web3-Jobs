@@ -663,7 +663,7 @@
     "sentAt": "2026-10-04T19:33:03.278Z"
   },
   "ec32bf5c-a67e-4830-9936-6c10a9ef46c3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-05T04:04:53.076Z",
     "stories": [
       {
@@ -687,6 +687,8 @@
         "originalTitle": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
       }
     ],
-    "slotKey": "2026-10-05:morning"
+    "slotKey": "2026-10-05:morning",
+    "messageId": 193319,
+    "sentAt": "2026-10-05T04:04:55.108Z"
   }
 }

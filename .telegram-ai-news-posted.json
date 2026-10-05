@@ -671,6 +671,8 @@
   "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
   "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
   "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+  "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1796,6 +1798,10 @@
   "Trump unveils his new Super Intelligence Force",
   "Blackstone's Jas Khaira to Speak at TechCrunch Disrupt 2026",
   "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+  "Google pauses open source bug bounty over AI submissions",
+  "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+  "TechCrunch Equity podcast evaluates white house AI safety pacts",
+  "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1984,5 +1990,7 @@
   "fp:100|299|cost|devic|due|expensiv|increas|mor|now|nvidia",
   "fp:cod|developer|fre|gadget|generation|hardwar|imag|infus|integration|meta",
   "fp:address|aim|concern|federal|forc|his|national|safety|security|super",
-  "fp:address|blackston|build|builder|disrupt2026|event|executiv|futur|generation|giant"
+  "fp:address|blackston|build|builder|disrupt2026|event|executiv|futur|generation|giant",
+  "fp:bounty|bug|due|froz|generat|googl|influx|low|open|overwhelm",
+  "fp:analyst|bind|brand|can|commitment|corporat|discuss|effort|equity|evaluat"
 ]
