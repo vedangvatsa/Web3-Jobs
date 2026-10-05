@@ -681,13 +681,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c30e41989e4b36a286f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T00:35:34.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "PGPZ Oct 1 LDA registration naming Divij Pandya, covering Clarity Act and two tax bills. Verified via LDA filing primary, Cointelegraph, and Crypto Briefing. Distinct from zcash-split/upgrade/vote coverage.",
+      "note": "PGPZ Oct 1 LDA registration naming Divij Pandya covering Clarity Act and two tax bills; verified via LDA filing primary, Cointelegraph, and Crypto Briefing.",
       "sourceChecks": [
         {
           "url": "https://lda.gov/filings/public/filing/47b11898-84df-460d-8319-22411a1a14a9/print/",
@@ -702,7 +702,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-05T03:47:04.600Z",
+      "reviewedAt": "2026-10-05T11:00:05.235Z",
       "articleSlug": "zcash-lobbyist",
       "lastReviewedDay": "2026-10-05",
       "lastValidationErrors": [
@@ -2524,6 +2524,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:03.575Z",
           "articleSlug": "illinois-tax"
+        },
+        "7c30e41989e4b36a286f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "PGPZ Oct 1 LDA registration naming Divij Pandya covering Clarity Act and two tax bills; verified via LDA filing primary, Cointelegraph, and Crypto Briefing.",
+          "sourceChecks": [
+            {
+              "url": "https://lda.gov/filings/public/filing/47b11898-84df-460d-8319-22411a1a14a9/print/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/zcash-advocacy-group-registers-first-lobbyist/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:05.235Z",
+          "articleSlug": "zcash-lobbyist"
         }
       },
       "baselineSlugs": [
