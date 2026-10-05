@@ -288,11 +288,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e164479e00dae79e3118",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-07T22:05:40.000Z",
-      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+      "lastSeenAt": "2026-10-05T03:31:38.041Z",
+      "reason": "not-a-concrete-event",
+      "note": "Coin Metrics PIT methodology explainer stating no return change is established; methods piece, not an event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-05T03:47:33.233Z",
+      "lastReviewedDay": "2026-10-05"
     },
     "03d8221e464fa2f1a234": {
       "source": "BeInCrypto",
@@ -1487,6 +1492,13 @@
           "note": "Single-personality Kiyosaki hard-truth commentary on gold, silver, and bitcoin; page returned HTTP 403 and title and search confirm opinion with no filing, launch, or vote.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-05T03:47:31.835Z"
+        },
+        "e164479e00dae79e3118": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Coin Metrics PIT methodology explainer stating no return change is established; methods piece, not an event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-05T03:47:33.233Z"
         }
       },
       "baselineSlugs": [
