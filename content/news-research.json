@@ -1311,11 +1311,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "291820cca5cb4ef97b55",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T09:10:23.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "verified-event",
+      "note": "Circle Oct 1 MiCA review filing seeking liquidity standard in place of bank-deposit floors, with Tether-ESCB overlap framed as context not joint action; verified via Circle primary and two outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://circle.com/blog/circles-response-to-the-european-commissions-mica-review-consultation",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:00:44.631Z",
+      "articleSlug": "mica-review",
+      "lastReviewedDay": "2026-10-05"
     },
     "8924ec9c1a80d18c425d": {
       "source": "CoinDesk",
@@ -2694,6 +2713,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:38.045Z",
           "articleSlug": "triple-funds"
+        },
+        "291820cca5cb4ef97b55": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Circle Oct 1 MiCA review filing seeking liquidity standard in place of bank-deposit floors, with Tether-ESCB overlap framed as context not joint action; verified via Circle primary and two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://circle.com/blog/circles-response-to-the-european-commissions-mica-review-consultation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:44.631Z",
+          "articleSlug": "mica-review"
         }
       },
       "baselineSlugs": [
