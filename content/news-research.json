@@ -1,5 +1,1039 @@
 {
   "version": 1,
-  "candidates": {},
-  "runs": {}
+  "candidates": {
+    "83a660f656b2172cbc69": {
+      "source": "CryptoSlate",
+      "title": "El Salvador’s $666 million Bitcoin reserve survives IMF review",
+      "link": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+      "published": "2026-10-05T00:00:39.000Z",
+      "score": 4,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
+          "published": "2026-10-05T00:00:39.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "83a660f656b2172cbc69",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T00:00:39.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "f8bf8a703c961520da34": {
+      "source": "Cointelegraph",
+      "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T22:31:12.000Z",
+      "score": 4,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-04T22:31:12.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "f8bf8a703c961520da34",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T22:31:12.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "cb272dc5f3a019f51157": {
+      "source": "CryptoSlate",
+      "title": "Bitcoin’s $85,000 recovery awaits proof that ETF investors kept buying after payrolls",
+      "link": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
+      "published": "2026-10-04T20:45:36.000Z",
+      "score": 4,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
+          "published": "2026-10-04T20:45:36.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "cb272dc5f3a019f51157",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T20:45:36.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "c21c7a578d483e64674d": {
+      "source": "Decrypt",
+      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
+      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+      "published": "2026-10-04T17:01:03.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
+          "published": "2026-10-04T17:01:03.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "c21c7a578d483e64674d",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T17:01:03.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "751c0a31b9ee07e32b36": {
+      "source": "CryptoSlate",
+      "title": "Lido’s proposed staking route needs over 13 times the default entry bond",
+      "link": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+      "published": "2026-10-04T15:20:58.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+          "published": "2026-10-04T15:20:58.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "751c0a31b9ee07e32b36",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T15:20:58.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "c421321e4f5faaaf535d": {
+      "source": "CoinDesk",
+      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
+      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+      "published": "2026-10-04T13:00:00.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
+          "published": "2026-10-04T13:00:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "c421321e4f5faaaf535d",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T13:00:00.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "4c14e33d96645484c2e5": {
+      "source": "CryptoSlate",
+      "title": "Drift hack recovery opened near one cent per dollar lost",
+      "link": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost/",
+      "published": "2026-10-04T17:20:02.000Z",
+      "score": 2,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/drift-hack-recovery-opened-near-one-cent-per-dollar-lost/",
+          "published": "2026-10-04T17:20:02.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "4c14e33d96645484c2e5",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T17:20:02.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "5c08feea06d46ad93dc5": {
+      "source": "BeInCrypto",
+      "title": "Do You Own Gold, Silver or Bitcoin? Robert Kiyosaki Just Dropped a Hard Truth",
+      "link": "https://beincrypto.com/own-gold-silver-bitcoin-kiyosaki/",
+      "published": "2026-10-05T01:00:00.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/own-gold-silver-bitcoin-kiyosaki/",
+          "published": "2026-10-05T01:00:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "5c08feea06d46ad93dc5",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T01:00:00.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "e164479e00dae79e3118": {
+      "source": "CryptoSlate",
+      "title": "Ethereum’s past outflow charts can change when more exchange wallets are identified",
+      "link": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
+      "published": "2026-10-04T22:05:40.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
+          "published": "2026-10-04T22:05:40.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "e164479e00dae79e3118",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T22:05:40.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "03d8221e464fa2f1a234": {
+      "source": "BeInCrypto",
+      "title": "Peter Schiff Says MicroStrategy Lost Its Bitcoin-Buying Power",
+      "link": "https://beincrypto.com/peter-schiff-microstrategy-stretch-bitcoin-buying/",
+      "published": "2026-10-04T20:51:31.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/peter-schiff-microstrategy-stretch-bitcoin-buying/",
+          "published": "2026-10-04T20:51:31.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "03d8221e464fa2f1a234",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T20:51:31.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "943ed098405000c87dae": {
+      "source": "CryptoSlate",
+      "title": "Bitcoin Core’s new fix closes gap that could redirect funds without stealing keys",
+      "link": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+      "published": "2026-10-04T19:40:34.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
+          "published": "2026-10-04T19:40:34.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "943ed098405000c87dae",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T19:40:34.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "4055f697fbc2978efaa6": {
+      "source": "BeInCrypto",
+      "title": "French Bond Crisis: Will Japan's October 8 Data Spill Into Bitcoin?",
+      "link": "https://beincrypto.com/french-bond-crisis-japan-data-bitcoin/",
+      "published": "2026-10-04T17:59:34.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/french-bond-crisis-japan-data-bitcoin/",
+          "published": "2026-10-04T17:59:34.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "4055f697fbc2978efaa6",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T17:59:34.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "5f23e01f8b7d7b3164c1": {
+      "source": "BeInCrypto",
+      "title": "Bitcoin Enters October With 4 Problems That Could Show On Charts",
+      "link": "https://beincrypto.com/bitcoin-price-october-risks-2026/",
+      "published": "2026-10-04T15:18:55.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/bitcoin-price-october-risks-2026/",
+          "published": "2026-10-04T15:18:55.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "5f23e01f8b7d7b3164c1",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T15:18:55.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "523acc390bdd385ef10f": {
+      "source": "Decrypt",
+      "title": "'Uptober' Starts Green as Bitcoin ETFs Draw $134 Million",
+      "link": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+      "published": "2026-10-04T15:01:03.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million",
+          "published": "2026-10-04T15:01:03.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "523acc390bdd385ef10f",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T15:01:03.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "e54a44100eb99e3f410c": {
+      "source": "Cointelegraph",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T09:40:00.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-04T09:40:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "e54a44100eb99e3f410c",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T09:40:00.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "624cb4fe8a643f74ff20": {
+      "source": "Cointelegraph",
+      "title": "Safe investor asks Swiss watchdog to intervene in governance dispute",
+      "link": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-05T03:12:21.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-05T03:12:21.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "624cb4fe8a643f74ff20",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T03:12:21.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "be10f9f232d84aabc6ae": {
+      "source": "BeInCrypto",
+      "title": "Egan-Jones Maps Where AI Disruption Hits First: Services, Venture Capital, Housing",
+      "link": "https://beincrypto.com/egan-jones-ai-disruption-services-housing/",
+      "published": "2026-10-05T02:54:06.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/egan-jones-ai-disruption-services-housing/",
+          "published": "2026-10-05T02:54:06.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "be10f9f232d84aabc6ae",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T02:54:06.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "dbd3f0b1ab850f1091bf": {
+      "source": "BeInCrypto",
+      "title": "Gary Marcus Likens AI Agents to Cars With Cardboard Brakes as FTC Probe Opens",
+      "link": "https://beincrypto.com/gary-marcus-ai-agents-recall/",
+      "published": "2026-10-05T02:44:17.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/gary-marcus-ai-agents-recall/",
+          "published": "2026-10-05T02:44:17.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "dbd3f0b1ab850f1091bf",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T02:44:17.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "812a3c7e071e70ff46d1": {
+      "source": "CryptoSlate",
+      "title": "Illinois backs delay to crypto tax rule after months of industry pushback",
+      "link": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
+      "published": "2026-10-05T02:00:45.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
+          "published": "2026-10-05T02:00:45.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "812a3c7e071e70ff46d1",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T02:00:45.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "9ae10beb98c4ec7c78d4": {
+      "source": "BeInCrypto",
+      "title": "Dan Ives Explains Why 2027 Could Be Tesla's Golden Year with Robotaxis and Optimus",
+      "link": "https://beincrypto.com/dan-ives-tesla-golden-year-2027/",
+      "published": "2026-10-05T00:53:43.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/dan-ives-tesla-golden-year-2027/",
+          "published": "2026-10-05T00:53:43.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9ae10beb98c4ec7c78d4",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T00:53:43.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "7c30e41989e4b36a286f": {
+      "source": "Cointelegraph",
+      "title": "Zcash gets a Washington lobbyist to push crypto policy",
+      "link": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-05T00:35:34.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-05T00:35:34.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "7c30e41989e4b36a286f",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T00:35:34.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "06aaf8b6dfca92b2f1c3": {
+      "source": "BeInCrypto",
+      "title": "Musk Wants to Rename SpaceXAI Again. The AI Brand Barely Survived a Quarter",
+      "link": "https://beincrypto.com/spacexai-name-change-90-days-spacexsi/",
+      "published": "2026-10-04T21:19:45.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/spacexai-name-change-90-days-spacexsi/",
+          "published": "2026-10-04T21:19:45.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "06aaf8b6dfca92b2f1c3",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T21:19:45.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "62db655303ece72e1363": {
+      "source": "BeInCrypto",
+      "title": "Nvidia’s $1 Billion Option Dispute: Does This Early Advisor Have a Case?",
+      "link": "https://beincrypto.com/nvidia-billion-option-dispute-early-advisor/",
+      "published": "2026-10-04T20:30:28.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/nvidia-billion-option-dispute-early-advisor/",
+          "published": "2026-10-04T20:30:28.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "62db655303ece72e1363",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T20:30:28.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "228d436daac1b0d652d8": {
+      "source": "BeInCrypto",
+      "title": "Iran's Oil Minister Quits Days Before Its Last Cargoes Run Out",
+      "link": "https://beincrypto.com/iran-oil-minister-quits-cargoes-cutoff/",
+      "published": "2026-10-04T19:09:56.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/iran-oil-minister-quits-cargoes-cutoff/",
+          "published": "2026-10-04T19:09:56.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "228d436daac1b0d652d8",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T19:09:56.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "78579329143eee86d19b": {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T18:51:50.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-04T18:51:50.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "78579329143eee86d19b",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T18:51:50.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "a76797a17f940ac26d3c": {
+      "source": "BeInCrypto",
+      "title": "Another Alarm Bell at OpenAI as Safety Lead Resigns Over Major Risks",
+      "link": "https://beincrypto.com/openai-safety-lead-quits-nuclear-rules/",
+      "published": "2026-10-04T18:43:49.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/openai-safety-lead-quits-nuclear-rules/",
+          "published": "2026-10-04T18:43:49.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "a76797a17f940ac26d3c",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T18:43:49.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "59adb76295b42ab3d29d": {
+      "source": "CryptoSlate",
+      "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
+      "link": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
+      "published": "2026-10-04T18:40:36.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
+          "published": "2026-10-04T18:40:36.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "59adb76295b42ab3d29d",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T18:40:36.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "033f27c4689c30fa49da": {
+      "source": "CoinDesk",
+      "title": "There's an election next month: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+      "published": "2026-10-04T18:30:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
+          "published": "2026-10-04T18:30:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "033f27c4689c30fa49da",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T18:30:00.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "9b340bd7245c206100de": {
+      "source": "CryptoSlate",
+      "title": "India’s local crypto exchanges get just 0.7% of inflows, Chainalysis reports",
+      "link": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
+      "published": "2026-10-04T18:20:31.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
+          "published": "2026-10-04T18:20:31.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9b340bd7245c206100de",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T18:20:31.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "40c787591ef16971e0c1": {
+      "source": "CryptoSlate",
+      "title": "Vitalik-inspired AI payment system can send expired deposits to its treasury",
+      "link": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury/",
+      "published": "2026-10-04T16:20:35.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/vitalik-inspired-ai-payment-system-can-send-expired-deposits-to-its-treasury/",
+          "published": "2026-10-04T16:20:35.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "40c787591ef16971e0c1",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T16:20:35.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "31eb2becc60db42bc102": {
+      "source": "Decrypt",
+      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
+      "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+      "published": "2026-10-04T16:01:03.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
+          "published": "2026-10-04T16:01:03.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "31eb2becc60db42bc102",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T16:01:03.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "1c83d9671464c7c764e8": {
+      "source": "CoinDesk",
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "link": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "published": "2026-10-04T14:00:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+          "published": "2026-10-04T14:00:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "1c83d9671464c7c764e8",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T14:00:00.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "aa6d05f20b2519ec8d05": {
+      "source": "Cointelegraph",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T13:48:48.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-04T13:48:48.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "aa6d05f20b2519ec8d05",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T13:48:48.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "6075ac4a1f1f28663ebe": {
+      "source": "Decrypt",
+      "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
+      "link": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+      "published": "2026-10-04T13:01:03.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+          "published": "2026-10-04T13:01:03.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "6075ac4a1f1f28663ebe",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T13:01:03.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "e52989bfd7df8a5c5c56": {
+      "source": "Cointelegraph",
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T12:42:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-04T12:42:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "e52989bfd7df8a5c5c56",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T12:42:00.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "98a7eadeef49c950ca20": {
+      "source": "Cointelegraph",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "link": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-04T07:18:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-04T07:18:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "98a7eadeef49c950ca20",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-07T07:18:00.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    },
+    "0369fc09962e754542dd": {
+      "source": "BeInCrypto",
+      "title": "What Is the Most In-Demand AI Skill on Wall Street?",
+      "link": "https://beincrypto.com/agent-orchestration-wall-street-ai-jobs/",
+      "published": "2026-10-05T00:00:01.000Z",
+      "score": -4,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/agent-orchestration-wall-street-ai-jobs/",
+          "published": "2026-10-05T00:00:01.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "0369fc09962e754542dd",
+      "status": "pending",
+      "firstSeenAt": "2026-10-05T03:31:38.041Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-08T00:00:01.000Z",
+      "lastSeenAt": "2026-10-05T03:31:38.041Z"
+    }
+  },
+  "runs": {
+    "2026-10-05": {
+      "day": "2026-10-05",
+      "startedAt": "2026-10-05T03:31:38.041Z",
+      "status": "prepared",
+      "candidateIds": [
+        "83a660f656b2172cbc69",
+        "f8bf8a703c961520da34",
+        "cb272dc5f3a019f51157",
+        "c21c7a578d483e64674d",
+        "751c0a31b9ee07e32b36",
+        "c421321e4f5faaaf535d",
+        "4c14e33d96645484c2e5",
+        "5c08feea06d46ad93dc5",
+        "e164479e00dae79e3118",
+        "03d8221e464fa2f1a234",
+        "943ed098405000c87dae",
+        "4055f697fbc2978efaa6",
+        "5f23e01f8b7d7b3164c1",
+        "523acc390bdd385ef10f",
+        "e54a44100eb99e3f410c",
+        "624cb4fe8a643f74ff20",
+        "be10f9f232d84aabc6ae",
+        "dbd3f0b1ab850f1091bf",
+        "812a3c7e071e70ff46d1",
+        "9ae10beb98c4ec7c78d4",
+        "7c30e41989e4b36a286f",
+        "06aaf8b6dfca92b2f1c3",
+        "62db655303ece72e1363",
+        "228d436daac1b0d652d8",
+        "78579329143eee86d19b",
+        "a76797a17f940ac26d3c",
+        "59adb76295b42ab3d29d",
+        "033f27c4689c30fa49da",
+        "9b340bd7245c206100de",
+        "40c787591ef16971e0c1",
+        "31eb2becc60db42bc102",
+        "1c83d9671464c7c764e8",
+        "aa6d05f20b2519ec8d05",
+        "6075ac4a1f1f28663ebe",
+        "e52989bfd7df8a5c5c56",
+        "98a7eadeef49c950ca20",
+        "0369fc09962e754542dd"
+      ],
+      "outcomes": {},
+      "baselineSlugs": [
+        "anchorage-cuts",
+        "animoca-currenc",
+        "ark-venture",
+        "avalanche-uae",
+        "base-wallet",
+        "bastion-charter",
+        "binance-etfs",
+        "binance-mica",
+        "bitbank-sanctions",
+        "bitcoin-reserve",
+        "bitget-breach",
+        "blast-shutdown",
+        "brazil-depository",
+        "california-memecoins",
+        "cash-fx",
+        "cftc-markets",
+        "cftc-relief",
+        "chainlink-ccip",
+        "circle-arc",
+        "circle-borrow",
+        "citi-coinbase",
+        "clarity-act",
+        "cleanspark-debt",
+        "cobalt",
+        "coinbase-clearing",
+        "coinbase-moov",
+        "coinbase-oura",
+        "coinbase-sentencing",
+        "coinex-shutdown",
+        "demat-2",
+        "dtcpay-funding",
+        "duelbits-hack",
+        "ecb-pontes",
+        "eden-exploit",
+        "eigenlayer-slashing",
+        "eqibank-seizure",
+        "esma-eu",
+        "esma-innovation",
+        "etf-inflows",
+        "ethena-tron",
+        "ether-staking",
+        "euro-pilot",
+        "evernorth-listing",
+        "fairshake-ohio",
+        "fca-gateway",
+        "fca-perimeter",
+        "fed-stablecoin",
+        "fetch-hack",
+        "fundsz",
+        "glamsterdam",
+        "hana-bond",
+        "house-probe",
+        "iran-forfeiture",
+        "kalshi-appeal",
+        "kalshi-perps",
+        "kamino-ceo",
+        "kelp-intercept",
+        "kelp-lawsuit",
+        "kztg-stablecoin",
+        "libra-ruling",
+        "liquid-ransom",
+        "maharashtra-assets",
+        "metamask-split",
+        "mica-lending",
+        "moneygram-stablecoin",
+        "morpho-stocks",
+        "nasdaq-tokens",
+        "near-bitget",
+        "near-etf",
+        "near-exploit",
+        "occ-lawsuit",
+        "ondo-shares",
+        "openzeppelin-acquisition",
+        "peirce-exit",
+        "polymarket-cfo",
+        "polymarket-fraud",
+        "polymarket-lawsuit",
+        "quantum-bitcoin",
+        "quantum-cost",
+        "radix-halt",
+        "riot-loan",
+        "robinhood-tokens",
+        "sec-buybacks",
+        "sec-custody",
+        "sec-exemption",
+        "sec-transfer",
+        "solana-hires",
+        "solana-slots",
+        "starknet-upgrade",
+        "sun-prize",
+        "symbiosis-bridge",
+        "tax-bills",
+        "tda-sanctions",
+        "thailand-stablecoin",
+        "thorchain-bitget",
+        "uniswap-hook",
+        "vechain-interstellar",
+        "visa-memecoins",
+        "waterplum",
+        "x-payout",
+        "xrpl-batch",
+        "zcash-split",
+        "zcash-upgrade",
+        "zcash-vote",
+        "zeta-solana"
+      ],
+      "discovery": {
+        "feeds": [
+          {
+            "source": "CoinDesk",
+            "url": "https://www.coindesk.com/arc/outboundfeeds/rss",
+            "ok": true,
+            "items": 25
+          },
+          {
+            "source": "Cointelegraph",
+            "url": "https://cointelegraph.com/rss",
+            "ok": true,
+            "items": 30
+          },
+          {
+            "source": "The Block",
+            "url": "https://www.theblock.co/rss.xml",
+            "ok": true,
+            "items": 19
+          },
+          {
+            "source": "Blockworks",
+            "url": "https://blockworks.com/feed",
+            "ok": true,
+            "items": 50
+          },
+          {
+            "source": "Decrypt",
+            "url": "https://decrypt.co/feed",
+            "ok": true,
+            "items": 39
+          },
+          {
+            "source": "Crypto Briefing",
+            "url": "https://cryptobriefing.com/feeds/",
+            "ok": false,
+            "error": "Error: Response is not an RSS/Atom feed",
+            "items": 0
+          },
+          {
+            "source": "CryptoSlate",
+            "url": "https://cryptoslate.com/feed/",
+            "ok": true,
+            "items": 10
+          },
+          {
+            "source": "BeInCrypto",
+            "url": "https://beincrypto.com/feed/",
+            "ok": true,
+            "items": 12
+          },
+          {
+            "source": "Bitcoin Magazine",
+            "url": "https://bitcoinmagazine.com/feed",
+            "ok": true,
+            "items": 10
+          },
+          {
+            "source": "CoinJournal",
+            "url": "https://coinjournal.net/feed/",
+            "ok": true,
+            "items": 9
+          },
+          {
+            "source": "The Defiant",
+            "url": "https://thedefiant.io/api/feed",
+            "ok": true,
+            "items": 100
+          },
+          {
+            "source": "Unchained",
+            "url": "https://unchainedcrypto.com/feed/",
+            "ok": true,
+            "items": 10
+          },
+          {
+            "source": "Bankless",
+            "url": "https://www.bankless.com/rss/feed",
+            "ok": true,
+            "items": 100
+          },
+          {
+            "source": "SEC Press Releases",
+            "url": "https://www.sec.gov/news/pressreleases.rss",
+            "ok": true,
+            "items": 25
+          },
+          {
+            "source": "Chainwire",
+            "url": "https://chainwire.org/feed/",
+            "ok": true,
+            "items": 6
+          },
+          {
+            "source": "Ethereum Foundation",
+            "url": "https://blog.ethereum.org/en/feed.xml",
+            "ok": true,
+            "items": 641
+          }
+        ],
+        "total": 37,
+        "checkedAt": "2026-10-05T03:31:38.041Z"
+      }
+    }
+  }
 }
