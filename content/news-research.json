@@ -1351,11 +1351,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "8924ec9c1a80d18c425d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T06:40:29.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "verified-event",
+      "note": "Oct 5 snapshots show 786k ETH exit queue and 1.5M ETH entry queue after MetaMask precautionary withdrawals; entry and exit kept separate; verified via CoinDesk, Cointelegraph, and queue data.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.validatorqueue.com/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:00:46.561Z",
+      "articleSlug": "staking-queue",
+      "lastReviewedDay": "2026-10-05"
     },
     "e465fe93729a1dc70134": {
       "source": "Decrypt",
@@ -2734,6 +2753,27 @@
           ],
           "reviewedAt": "2026-10-05T11:00:44.631Z",
           "articleSlug": "mica-review"
+        },
+        "8924ec9c1a80d18c425d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Oct 5 snapshots show 786k ETH exit queue and 1.5M ETH entry queue after MetaMask precautionary withdrawals; entry and exit kept separate; verified via CoinDesk, Cointelegraph, and queue data.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.validatorqueue.com/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:00:46.561Z",
+          "articleSlug": "staking-queue"
         }
       },
       "baselineSlugs": [
