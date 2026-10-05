@@ -2238,11 +2238,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "623319aad99616fa67c0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T08:59:55.000Z",
-      "lastSeenAt": "2026-10-05T10:42:34.701Z"
+      "lastSeenAt": "2026-10-05T10:42:34.701Z",
+      "reason": "source-blocked",
+      "note": "THORWallet Monero integration reported only by BeInCrypto with no openable primary or second outlet; native swaps explicitly not live yet.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/thorwallet-integrates-monero-bringing-native-xmr-support/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-05T11:02:48.294Z",
+      "retrySearches": [
+        "THORWallet Monero native XMR support announcement October 2026"
+      ],
+      "lastReviewedDay": "2026-10-05",
+      "nextReviewDate": "2026-10-06"
     },
     "8726f0c4bbbe1e0598c8": {
       "source": "Cointelegraph",
@@ -3560,6 +3574,21 @@
             }
           ],
           "reviewedAt": "2026-10-05T11:02:40.104Z"
+        },
+        "623319aad99616fa67c0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "THORWallet Monero integration reported only by BeInCrypto with no openable primary or second outlet; native swaps explicitly not live yet.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/thorwallet-integrates-monero-bringing-native-xmr-support/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-05T11:02:48.294Z",
+          "retrySearches": [
+            "THORWallet Monero native XMR support announcement October 2026"
+          ]
         }
       },
       "baselineSlugs": [
