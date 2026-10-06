@@ -1306,9 +1306,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "PMO Project Manager (Growth, Development, Power) at Galaxy Digital\n\nDallas, Texas\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
-          "startedAt": "2026-10-06T19:34:04.910Z"
+          "startedAt": "2026-10-06T19:34:04.910Z",
+          "containerId": "17916569178461009"
         }
       }
     }
