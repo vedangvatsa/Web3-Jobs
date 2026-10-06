@@ -5837,11 +5837,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb056b0706d8366650b1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T03:31:57.325Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T02:38:21.000Z",
-      "lastSeenAt": "2026-10-06T03:31:57.325Z"
+      "lastSeenAt": "2026-10-06T03:31:57.325Z",
+      "reason": "opinion",
+      "note": "Analyst commentary on Nvidia earnings and a hypothetical Lehman-style market crash; no concrete Web3 event, only what-if framing around AI equities.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/dan-ives-nvidia-lehman-moment-risk/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T03:41:43.640Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "bd2d9d6072eec5285549": {
       "source": "Cointelegraph",
@@ -8568,6 +8578,18 @@
           "reviewedAt": "2026-10-06T03:41:38.066Z",
           "duplicateOf": "zachxbt-syndicate",
           "mergedInto": "326675e76ea9e57d0cb9"
+        },
+        "eb056b0706d8366650b1": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Analyst commentary on Nvidia earnings and a hypothetical Lehman-style market crash; no concrete Web3 event, only what-if framing around AI equities.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/dan-ives-nvidia-lehman-moment-risk/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T03:41:43.640Z"
         }
       },
       "baselineSlugs": [
