@@ -1270,7 +1270,13 @@
         "youtube": "San Francisco, Seattle, New York\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
         "youtubeTitle": "Staff Software Engineer, Link - Bank Connections at Stripe"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Staff Software Engineer, Link - Bank Connections at Stripe\n\nSan Francisco, Seattle, New York\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
+          "startedAt": "2026-10-06T19:31:25.839Z"
+        }
+      }
     },
     "mkt62": {
       "slot": "2026-10-06:evening",
