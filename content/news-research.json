@@ -8565,14 +8565,14 @@
       "expiresAt": "2026-10-09T14:19:00.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Ether.fi dollar stablecoin with Ethena running reserves across two readable outlets; Defiant origin 403 not cited.",
+      "note": "Verified Ether.fi dollar stablecoin with Ethena running reserves across Unchained, Fxstreet syndication and Ethena docs; Defiant origin 403 not cited.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/ether-fi-is-launching-its-own-stablecoin-with-ethena-running-the-reserves/",
           "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
+          "url": "https://www.mitrade.com/au/insights/news/live-news/article-3-2141207-20261006",
           "outcome": "read"
         },
         {
@@ -8580,7 +8580,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T17:43:25.356Z",
+      "reviewedAt": "2026-10-06T17:43:42.269Z",
       "articleSlug": "etherfi-stablecoin",
       "lastReviewedDay": "2026-10-06"
     },
@@ -12227,14 +12227,14 @@
         "28fa76ae1c70d3c3f94a": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Verified Ether.fi dollar stablecoin with Ethena running reserves across two readable outlets; Defiant origin 403 not cited.",
+          "note": "Verified Ether.fi dollar stablecoin with Ethena running reserves across Unchained, Fxstreet syndication and Ethena docs; Defiant origin 403 not cited.",
           "sourceChecks": [
             {
               "url": "https://unchainedcrypto.com/ether-fi-is-launching-its-own-stablecoin-with-ethena-running-the-reserves/",
               "outcome": "read"
             },
             {
-              "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
+              "url": "https://www.mitrade.com/au/insights/news/live-news/article-3-2141207-20261006",
               "outcome": "read"
             },
             {
@@ -12242,7 +12242,7 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-10-06T17:43:25.356Z",
+          "reviewedAt": "2026-10-06T17:43:42.269Z",
           "articleSlug": "etherfi-stablecoin"
         }
       },
