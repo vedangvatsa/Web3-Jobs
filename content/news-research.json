@@ -3544,11 +3544,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7e124ba182d2474f85f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T14:54:17.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Bitmine 41M ETH buy opened in Decrypt; Unchained weekly copy open, The Block blocked. Full verification plus drafting carries to next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/tom-lees-bitmine-slows-ether-buying-for-a-second-straight-week-adding-15112-eth/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:39.100Z",
+      "retrySearches": [
+        "Bitmine 15112 ETH purchase October 2026 filing"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "2981e25a6d7558ccaa5f": {
       "source": "Unchained",
@@ -7549,6 +7571,29 @@
           "reviewedAt": "2026-10-06T01:06:37.345Z",
           "retrySearches": [
             "Strive 2000 bitcoin buy preferred buyback facility October 2026 filing"
+          ]
+        },
+        "c7e124ba182d2474f85f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Bitmine 41M ETH buy opened in Decrypt; Unchained weekly copy open, The Block blocked. Full verification plus drafting carries to next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/tom-lees-bitmine-slows-ether-buying-for-a-second-straight-week-adding-15112-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:39.100Z",
+          "retrySearches": [
+            "Bitmine 15112 ETH purchase October 2026 filing"
           ]
         }
       },
