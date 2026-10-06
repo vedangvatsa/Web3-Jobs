@@ -1198,11 +1198,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Channel Partner Manager, AMER at Chainalysis\n\nNew York Office\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
           "startedAt": "2026-10-06T11:31:23.264Z",
           "containerId": "17916515724461009",
-          "postId": "18342295306254494"
+          "postId": "18342295306254494",
+          "url": "https://www.instagram.com/reel/DeJrsHilLRg/"
         }
       }
     },
