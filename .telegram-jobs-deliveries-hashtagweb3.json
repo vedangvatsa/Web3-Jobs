@@ -780,5 +780,49 @@
     "slotKey": "2026-10-05:afternoon",
     "messageId": 155613,
     "sentAt": "2026-10-05T11:32:33.039Z"
+  },
+  "7eb59aee-3f39-40b5-af67-0a7caa2433df": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T03:58:56.401Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "8012069003",
+        "slug": "pm212",
+        "url": "https://hashtagweb3.com/pm212?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Senior Product Owner"
+      },
+      {
+        "key": "6125995004",
+        "slug": "regional3",
+        "url": "https://hashtagweb3.com/regional3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Telcoin",
+        "title": "Regional Chief Risk Officer"
+      },
+      {
+        "key": "d7724d91-fc91-4697-baf3-008de0ee5e37",
+        "slug": "security77",
+        "url": "https://hashtagweb3.com/security77?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Arbitrum",
+        "title": "Security Engineer"
+      },
+      {
+        "key": "8112333",
+        "slug": "kor",
+        "url": "https://hashtagweb3.com/kor?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Knowledge & Operational Readiness Lead"
+      },
+      {
+        "key": "c912de9c-bad3-41d6-98cc-94b418d80261",
+        "slug": "manager310",
+        "url": "https://hashtagweb3.com/manager310?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Somnia",
+        "title": "Senior Business Development Manager"
+      }
+    ],
+    "message": "• DriveWealth is hiring <a href=\"https://hashtagweb3.com/pm212?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Owner</a>\n• Telcoin is hiring <a href=\"https://hashtagweb3.com/regional3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Regional Chief Risk Officer</a>\n• Arbitrum is hiring <a href=\"https://hashtagweb3.com/security77?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Security Engineer</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/kor?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Knowledge &amp; Operational Readiness Lead</a>\n• Somnia is hiring <a href=\"https://hashtagweb3.com/manager310?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Business Development Manager</a>",
+    "slotKey": "2026-10-06:morning"
   }
 }
