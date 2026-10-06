@@ -2796,17 +2796,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a72cd6b96e10be3d9fbe",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T19:21:06.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 Fairshake 32-candidate House slate covered by fairshake-house.",
+      "note": "Same Oct 5 Fairshake 32-candidate House slate already drafted as fairshake-house with Cointelegraph and CoinDesk.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:01:49.485Z",
+      "reviewedAt": "2026-10-06T11:57:39.940Z",
       "duplicateOf": "fairshake-house",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "b3c290e86d3b6ddc0eb6"
     },
     "743ece7e765299271e0f": {
       "source": "Cointelegraph",
@@ -10739,6 +10740,15 @@
           "reviewedAt": "2026-10-06T11:57:38.293Z",
           "duplicateOf": "cftc-leverage",
           "mergedInto": "b016d77f01cee47e2ca1"
+        },
+        "a72cd6b96e10be3d9fbe": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Fairshake 32-candidate House slate already drafted as fairshake-house with Cointelegraph and CoinDesk.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:57:39.940Z",
+          "duplicateOf": "fairshake-house",
+          "mergedInto": "b3c290e86d3b6ddc0eb6"
         }
       },
       "baselineSlugs": [
