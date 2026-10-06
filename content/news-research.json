@@ -3352,11 +3352,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e32cc8ff28d76f51043e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T15:09:57.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "price-chatter",
+      "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:15.681Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "7775ce7c48965cffcc7c": {
       "source": "The Block",
@@ -6457,6 +6462,13 @@
           "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:13.896Z"
+        },
+        "e32cc8ff28d76f51043e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:15.681Z"
         }
       },
       "baselineSlugs": [
