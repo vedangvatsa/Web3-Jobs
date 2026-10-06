@@ -1564,7 +1564,7 @@
     "sentAt": "2026-10-05T11:32:25.684Z"
   },
   "31226758-8488-47dd-ae89-f3ac9fc23eb4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T03:58:45.461Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -1605,6 +1605,8 @@
       }
     ],
     "message": "• Jito Labs is hiring <a href=\"https://hashtagweb3.com/sec84?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Security Engineer</a>\n• bitbank is hiring <a href=\"https://hashtagweb3.com/android?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">【リテールシステム部】Androidエンジニア</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/manager231?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Manager, Mid-Market Sales</a>\n• Fasset is hiring <a href=\"https://hashtagweb3.com/manager160?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Country Manager</a>\n• DRW is hiring <a href=\"https://hashtagweb3.com/ops73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Crypto Wallet Operations Specialist</a>",
-    "slotKey": "2026-10-06:morning"
+    "slotKey": "2026-10-06:morning",
+    "messageId": 16510,
+    "sentAt": "2026-10-06T03:58:48.172Z"
   }
 }
