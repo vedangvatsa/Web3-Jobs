@@ -1321,9 +1321,10 @@
           "url": "https://www.youtube.com/watch?v=zm9InaRCWEI"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "PMO Project Manager (Growth, Development, Power) at Galaxy Digital. Dallas, Texas.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
-          "startedAt": "2026-10-06T19:34:59.622Z"
+          "startedAt": "2026-10-06T19:34:59.622Z",
+          "postId": "6ac54d64544ff8353df86761"
         }
       }
     }
