@@ -1,5 +1,5 @@
 {
-  "lastIndex": 355,
+  "lastIndex": 357,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -154,7 +154,9 @@
     "mgr106",
     "dea",
     "cmp72",
-    "pm39"
+    "pm39",
+    "ese",
+    "an58"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5159,494 +5161,6 @@
       "verification": "verified"
     },
     {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "urn:li:share:7511871094526590976",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "facebook",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "691827047618629_1104766272130607",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "instagram",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "17864831793677825",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "x",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "6ac07c6ce22a2e5172b09642",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Crypto.com is hiring Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)\n\nhttps://hashtagweb3.com/pm169/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106231352399942088"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "threads",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "17905141743581688",
-      "verification": "verified",
-      "expectedText": "Crypto.com is hiring Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App): https://hashtagweb3.com/pm169/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeBI_xgEUXx",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "bluesky",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwwyhsaqpr2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0xb65a32d568140eb63d0bffc9b2bfb04a49c61f8c",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x4139a9f2328348a9981bc70c66c8040424a059c0",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0xbf492327623edb0a8471d4b01a4f50058b7e7d1c",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x150e949ab2fb50022e0721f9df879a45c320ce60",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x84fadb032d423ba2388e85ed13a34b676064e81d",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0xb37e667739e320f07034dae7fadbde50987a420a",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x9613d448b138ca26d5da4633880671f849d7e34b",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0xa83bfed72739009962b396ae1bb2c4d52916e0bd",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x579ea64954764006987c9349d3b2bc168634bb0e",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x415c81d1f0442b4a8adef1b5839f290641edf30c",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x2ae6a950e13b9eb59cc9062ca2747fe8c441abc1",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x9752c9020f99f502f39124806cba3d2b9705c4bd",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0xe825059aa076eaf1f0955acf53bb6db5191f4603",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x92eb726523508e895f1745936ea1554556436341",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0xc155314bcd3b8d8d4c9a7f63de78161a3dee3ddc",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0xecc482b3c171627b5088b1546a025d442a45afb9",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "0x03711277ab8afef702a75f67efa85ce8502a8942",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "6ac07c7f16dec17c265164d5",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "6ac07c89e22a2e5172b09870",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "urn:li:share:7511997208649625600",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "facebook",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "691827047618629_1105054338768467",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm169",
-      "company": "Crypto.com",
-      "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
-      "platform": "instagram",
-      "postedAt": "2026-10-03T03:54:20.367Z",
-      "postId": "18121678048929076",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "x",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "6ac07cad713b7277a0a953b1",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Consensys is hiring Director of Technical Accounting\n\nhttps://hashtagweb3.com/sls174/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106231625180701025"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "threads",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "18128984377748498",
-      "verification": "verified",
-      "expectedText": "Consensys is hiring Director of Technical Accounting: https://hashtagweb3.com/sls174/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeBJHszkbmL",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "bluesky",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwwyjqfhgc2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xa6e056035c237918f2a05e0e9d92f15cdbfb63fb",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x4f7ff521c068a3ccb2993c0892caa38c18f59f22",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x8c45b33c7a020186dba5af95f02bc3eec2b21e64",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xf123ad17ac076de1d37cad20c221373daeb37b78",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xad7c186b440d6ecd0ce02091e4b5a30bebdcdc9a",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xd557193ad3fa9f2df4fa38d7e5b1c924b7165123",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xecfd1a00a28702ef8b41484532b0006eea394c3d",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x136f652dc68bd0c2b142b25f25704913859c918b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xd3e12bbb09348f229cbb7506cdf8deaf42d14c38",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xd04b79b487e8c86fad4039f962471ae386dce67a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x183f57b903fd609a9e08e18641298d29e531b8ce",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x807b7946829d5b99072f8aa4c1f186361b02a3bb",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x215032bba57031e10372efc762c5eb4822d6f1e4",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x03a5bf7d8de2667c9046cd5e6aa69866974e9d50",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0x53a9b8910b57e7fee310d69a0ab554bffe666690",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xe6d830faa66bc44dafb47ade0ac7a2f8a08c4261",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "0xc242175c15b6de29f375e4be90cd4be425feff54",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
       "slug": "sls174",
       "company": "Consensys",
       "title": "Director of Technical Accounting",
@@ -10147,6 +9661,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-06T12:02:15.071Z",
       "postId": "691827047618629_1108009191806315",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "x",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "6ac54ca5e0e7ba24e079e54f",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Hut 8 is hiring Electrical Systems Expert\n\nhttps://hashtagweb3.com/ese/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107554440936821054"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "threads",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "18092866286418515",
+      "verification": "verified",
+      "expectedText": "Hut 8 is hiring Electrical Systems Expert: https://hashtagweb3.com/ese/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeKiqyImflC",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "bluesky",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxa6avjpha2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x3c5472a99722c12878b54f5e3a1f2b26e8b5c0ea",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x9b133ed4f72e447f536e983c5fd62ab0bf01b277",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x171ccf74297074c3457fcfc721cde02dd9a4ef82",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x175842ca29ca67652d589f93d2ecd88e2507eef3",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0xd007c262760e7c6a3f28ccab9bcc32ad01d90081",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0xd8f70795010a8dc7198055a45ab4fc4d765c61b9",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x862016e0992b2fd1cff9b8988891340f130c5dc4",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x05e50512dc4fa49babae66cd8a5c8961d2fd2264",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0xf561666af0ee5c2e768a386fe3bd5aa774a6eab2",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x1eeedd0ace23a737f67b8f46ea752051bdeb42b8",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x2ae4011f3e49755959f185bf6092562b6f063a5b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x443baa87943198825ecad650e87300e53765d607",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x5467a27d5bae63219ddcc913626b1a7759f83e20",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0xd627ed6a8e369b6f0fceb573777633171905c8aa",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0xb8f3d3a284cc79ae6018c63112cfcd7ca5778c6f",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x86a986bbdc9140612bdafb2209aeada3353948a3",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "0x41da21936d43f04765f51165486fadf67a27629d",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "6ac54cb8535ade2f59d1056b",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "6ac54cc3544ff8353df84266",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "urn:li:share:7513320301972283392",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ese",
+      "company": "Hut 8",
+      "title": "Electrical Systems Expert",
+      "platform": "facebook",
+      "postedAt": "2026-10-06T19:31:48.985Z",
+      "postId": "691827047618629_1108330958440805",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "x",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "6ac54cd53f882bac50133f33",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "TRM Labs is hiring Senior / Staff Threat Intelligence Analyst, Hacks\n\nhttps://hashtagweb3.com/an58/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107554643538497747"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "threads",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "18155878909531946",
+      "verification": "verified",
+      "expectedText": "TRM Labs is hiring Senior / Staff Threat Intelligence Analyst, Hacks: https://hashtagweb3.com/an58/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeKiwlLGVen",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "bluesky",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxa6cbd5m42r",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x8f3194d09e6db8688a5de472d0241b7c56b0c25f",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x19dd1157aecb67dd3e2cd2023f81290aae8e689a",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x37bef23cb9ed07d783254dc08409764b9583d224",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x1d1903f80ba7a30ae2e98e9cffb42460faf1fa4d",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0xf81e98ffe0e1d6354f6a22bbe190207373c86ee4",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0xd212458a8bdb06ce153d237bf5b07cfbad9bc114",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x35f9a98802ed8818770be09ae79f0e94e95797fc",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x41e4e2dd2650c90f9241a44df4637a270ca5dc61",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x81f70622574fbca4ca7c8e63945d34bd9e809154",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x6dd9143992e1f480b8ef9fa21c420de52455dddb",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0xef220c995ba33fce7dc9995706ba0757e10851e2",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x45b69f47bdfd80c0490f27ac42335b8d1c2fc0b6",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0xb5124ba4e3ad061706c8e227b637c4bd3a0abee4",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x8a6fd1952768826ea2f915f5dcc9c90197281777",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0xf60a0bd3dc2d1cc2081084e03f013722b3ddbaa3",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0x1c7bba92804c24ac9eaf49abf9b6e0101f4f3299",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "0xaf9d42450130d350543a6a756c1046c07da9aec1",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "6ac54ce6e0e7ba24e079ef4f",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "6ac54cf038b9e9d5545d4ca9",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "urn:li:share:7513320493492408320",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "an58",
+      "company": "TRM Labs",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "platform": "facebook",
+      "postedAt": "2026-10-06T19:32:37.643Z",
+      "postId": "691827047618629_1108331405107427",
       "verification": "verified"
     }
   ]
