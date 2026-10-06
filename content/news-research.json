@@ -8609,11 +8609,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "921e2171ef1de71348c5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:02:33.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "verified-event",
+      "note": "Verified Arbitrum joining Paxos Global Dollar network with USDG as ecosystem dollar across CoinDesk and Cointelegraph.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:43:10.479Z",
+      "articleSlug": "arbitrum-usdg",
+      "lastReviewedDay": "2026-10-06"
     },
     "45c21342fa7bb3b8990c": {
       "source": "The Block",
@@ -12037,6 +12052,23 @@
           ],
           "reviewedAt": "2026-10-06T17:43:08.767Z",
           "articleSlug": "hashsmash"
+        },
+        "921e2171ef1de71348c5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Arbitrum joining Paxos Global Dollar network with USDG as ecosystem dollar across CoinDesk and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:43:10.479Z",
+          "articleSlug": "arbitrum-usdg"
         }
       },
       "baselineSlugs": [
