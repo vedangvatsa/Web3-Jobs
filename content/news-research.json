@@ -7889,11 +7889,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b4a5915a05438b92b78",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T12:27:11.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "out-of-scope",
+      "note": "Decrypt Morning Minute newsletter recap of the CFTC plan already drafted as cftc-leverage; no new event.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:33.446Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "2b4428473fa3333e3d8b": {
       "source": "Decrypt",
@@ -12878,6 +12888,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:31.781Z"
+        },
+        "7b4a5915a05438b92b78": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Decrypt Morning Minute newsletter recap of the CFTC plan already drafted as cftc-leverage; no new event.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:33.446Z"
         }
       },
       "baselineSlugs": [
