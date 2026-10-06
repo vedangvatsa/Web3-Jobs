@@ -5260,13 +5260,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "af683c29d6e5e763d727",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T14:21:17.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Oct 4 Greenfield open letter and ESA complaint with board demands, Q2 1.98M revenue and 66B to 30B TVL across forum letter, Cointelegraph and CryptoBriefing.",
+      "note": "Verified Oct 4 Greenfield open letter and ESA complaint with board demands, Q2 revenue and TVL figures across forum letter and two outlets.",
       "sourceChecks": [
         {
           "url": "https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149",
@@ -5281,7 +5281,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:56:44.407Z",
+      "reviewedAt": "2026-10-06T17:42:19.452Z",
       "articleSlug": "safe-complaint",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11667,6 +11667,27 @@
           ],
           "reviewedAt": "2026-10-06T17:42:12.834Z",
           "articleSlug": "fincen-withdrawal"
+        },
+        "af683c29d6e5e763d727": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 4 Greenfield open letter and ESA complaint with board demands, Q2 revenue and TVL figures across forum letter and two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/greenfield-capital-safe-foundation-swiss-regulator/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:19.452Z",
+          "articleSlug": "safe-complaint"
         }
       },
       "baselineSlugs": [
