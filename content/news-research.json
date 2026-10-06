@@ -6339,11 +6339,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "65adbb7dc59b1b681107",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T08:14:17.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Daily ETF outflow and price-level recap with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:53.115Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "590bff9c9cd1541dfb11": {
       "source": "Cointelegraph",
@@ -9914,6 +9919,13 @@
           "note": "Retrospective on bitcoin trading 32pct below a year-old high, explaining flows and leverage, with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:51.340Z"
+        },
+        "65adbb7dc59b1b681107": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Daily ETF outflow and price-level recap with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:53.115Z"
         }
       },
       "baselineSlugs": [
