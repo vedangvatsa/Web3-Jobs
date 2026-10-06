@@ -1673,7 +1673,10 @@
         "SHIB live on Solana via Sunrise gateway October 2026 Solana announcement"
       ],
       "lastReviewedDay": "2026-10-06",
-      "articleSlug": "shib-solana"
+      "articleSlug": "shib-solana",
+      "lastValidationErrors": [
+        "Missing article-specific image: cftc-leverage"
+      ]
     },
     "6a51f4bf5b32bdf0faf1": {
       "source": "Unchained",
@@ -2749,7 +2752,10 @@
       ],
       "reviewedAt": "2026-10-06T01:09:36.221Z",
       "articleSlug": "fairshake-house",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "Missing article-specific image: cftc-leverage"
+      ]
     },
     "90cd3650b7fd07894c9a": {
       "source": "The Defiant",
@@ -2967,7 +2973,10 @@
       ],
       "reviewedAt": "2026-10-06T01:08:51.854Z",
       "articleSlug": "cftc-leverage",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "Missing article-specific image: cftc-leverage"
+      ]
     },
     "bee78c29a5f42e9f2317": {
       "source": "The Block",
@@ -3163,7 +3172,10 @@
       ],
       "reviewedAt": "2026-10-06T01:10:29.925Z",
       "articleSlug": "zachxbt-syndicate",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "Missing article-specific image: cftc-leverage"
+      ]
     },
     "c5df46f189a550c4b985": {
       "source": "The Block",
@@ -4364,7 +4376,10 @@
       ],
       "reviewedAt": "2026-10-06T01:07:53.575Z",
       "articleSlug": "fincen-withdrawal",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "Missing article-specific image: cftc-leverage"
+      ]
     },
     "cbd36e5805fbad70b68e": {
       "source": "Bitcoin Magazine",
@@ -5313,7 +5328,10 @@
       ],
       "reviewedAt": "2026-10-06T01:11:20.447Z",
       "articleSlug": "safe-complaint",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "Missing article-specific image: cftc-leverage"
+      ]
     },
     "6d23c2dc193de0e0ff83": {
       "source": "The Defiant",
@@ -7054,7 +7072,7 @@
     "2026-10-06": {
       "day": "2026-10-06",
       "startedAt": "2026-10-06T00:55:35.855Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "751c0a31b9ee07e32b36",
         "624cb4fe8a643f74ff20",
@@ -8659,7 +8677,10 @@
         ],
         "total": 131,
         "checkedAt": "2026-10-06T00:55:35.855Z"
-      }
+      },
+      "validationErrors": [
+        "Missing article-specific image: cftc-leverage"
+      ]
     }
   }
 }
