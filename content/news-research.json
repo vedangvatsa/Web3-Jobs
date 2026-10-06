@@ -6798,13 +6798,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "31a11ef84d7f87a7df34",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T09:38:28.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Ondo Private Markets launch, first pre-IPO AI notes trading this week and payout mechanics across Ondo blog and Cointelegraph.",
+      "note": "Verified Oct 5 Ondo Private Markets launch with pre-IPO AI notes trading this week and payout mechanics across Ondo blog, Cointelegraph and Manila Times.",
       "sourceChecks": [
         {
           "url": "https://ondo.finance/blog/introducing-ondo-private-markets",
@@ -6813,9 +6813,13 @@
         {
           "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/ondo-private-markets-to-bring-private-company-exposure-onchain-starting-with-ai/2439653",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:03:43.567Z",
+      "reviewedAt": "2026-10-06T11:57:14.718Z",
       "articleSlug": "ondo-private",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -10530,6 +10534,27 @@
           ],
           "reviewedAt": "2026-10-06T11:57:13.079Z",
           "articleSlug": "polymarket-v2"
+        },
+        "31a11ef84d7f87a7df34": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Ondo Private Markets launch with pre-IPO AI notes trading this week and payout mechanics across Ondo blog, Cointelegraph and Manila Times.",
+          "sourceChecks": [
+            {
+              "url": "https://ondo.finance/blog/introducing-ondo-private-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/ondo-private-markets-to-bring-private-company-exposure-onchain-starting-with-ai/2439653",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:57:14.718Z",
+          "articleSlug": "ondo-private"
         }
       },
       "baselineSlugs": [
