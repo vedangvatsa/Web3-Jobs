@@ -7886,11 +7886,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "bab880453caae397d6f8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:32:32.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "verified-event",
+      "note": "Verified OKX raise at 25B flat valuation backed by Circle Ripple StanChart and QRT across six outlets and company announcement.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:42:31.654Z",
+      "articleSlug": "okx-raise",
+      "lastReviewedDay": "2026-10-06"
     },
     "aa80e4d9c82031d31293": {
       "source": "Decrypt",
@@ -11762,6 +11781,27 @@
           ],
           "reviewedAt": "2026-10-06T17:42:25.666Z",
           "articleSlug": "rain-charter"
+        },
+        "bab880453caae397d6f8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified OKX raise at 25B flat valuation backed by Circle Ripple StanChart and QRT across six outlets and company announcement.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:31.654Z",
+          "articleSlug": "okx-raise"
         }
       },
       "baselineSlugs": [
