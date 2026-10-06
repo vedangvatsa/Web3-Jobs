@@ -832,5 +832,36 @@
     "slotKey": "2026-10-06:afternoon",
     "messageId": 155630,
     "sentAt": "2026-10-06T12:05:01.470Z"
+  },
+  "990b7cd5-f248-4c8e-99db-e0cb021690b5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T19:35:51.108Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "EU Regulator Clarifies Rules for Prediction Markets",
+        "summary": "European authorities state that prediction contracts may fall under financial, crypto, or gambling regulations depending on their structure.",
+        "link": "https://hashtagweb3.com/esma-eu?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ESMA Sets Out EU Rules and Risks for Prediction Markets"
+      },
+      {
+        "index": -1,
+        "headline": "MoneyGram Releases Stablecoin-Backed Visa Card in Colombia",
+        "summary": "Users in Colombia can now access a new Visa card developed by MoneyGram and Rain using stablecoins.",
+        "link": "https://hashtagweb3.com/moneygram-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MoneyGram Launches Stablecoin-Backed Visa Card in Colombia"
+      },
+      {
+        "index": -1,
+        "headline": "Robinhood CEO Defends Tokenized Shares Against Issuer Vetoes",
+        "summary": "Vlad Tenev argues companies cannot block tokenized versions of their shares despite objections from AMC leadership.",
+        "link": "https://hashtagweb3.com/robinhood-tokens?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Robinhood CEO Rejects Issuer Veto in AMC Stock-Token Dispute"
+      }
+    ],
+    "slotKey": "2026-10-06:evening"
   }
 }
