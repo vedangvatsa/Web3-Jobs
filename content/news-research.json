@@ -8615,11 +8615,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4e279649315223b0139",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T15:55:06.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "opinion",
+      "note": "Bitcoin Magazine featured essay on Ecash custody; commentary with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/featured/ecash-ecosystem-rises-to-challenge-in-the-defense-of-decentralized-custody",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:00.786Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "6afe7f63290814ecbb7d": {
       "source": "The Defiant",
@@ -13098,6 +13108,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:58.822Z"
+        },
+        "b4e279649315223b0139": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bitcoin Magazine featured essay on Ecash custody; commentary with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/featured/ecash-ecosystem-rises-to-challenge-in-the-defense-of-decentralized-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:00.786Z"
         }
       },
       "baselineSlugs": [
