@@ -996,5 +996,52 @@
     "slotKey": "2026-10-06:morning",
     "messageId": 155621,
     "sentAt": "2026-10-06T03:58:30.684Z"
+  },
+  "daababf3-d9e4-45cd-8931-3f0388ba7b77": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T12:01:23.713Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtQMI8ZVlsQHaG8",
+        "slug": "a3dvp6r5",
+        "name": "Stablecoin Morning 5K Run",
+        "startDate": "2026-10-06T23:30:00.000Z",
+        "keys": [
+          "luma-batch-evtqmi8zvlsqhag8",
+          "page:a3dvp6r5:2026-10-07",
+          "luma:evt-qmi8zvlsqhag8no",
+          "luma-url:/a3dvp6r5",
+          "event:stablecoinmorning5krun:2026-10-07:singapore"
+        ]
+      },
+      {
+        "id": "premier-token2049-singapore-2026",
+        "slug": "token2049",
+        "name": "TOKEN2049 Singapore 2026",
+        "startDate": "2026-10-07",
+        "keys": [
+          "premier-token2049-singapore-2026",
+          "page:token2049:2026-10-07",
+          "url:token2049.com/singapore:2026-10-07",
+          "event:token2049singapore2026:2026-10-07:singapore"
+        ]
+      },
+      {
+        "id": "token2049-evt-uWH1GyNj7CHfMY3",
+        "slug": "talk-token",
+        "name": "Talk: Token 2049 Singapore",
+        "startDate": "2026-10-07T00:00:00.000Z",
+        "keys": [
+          "token2049-evt-uwh1gynj7chfmy3",
+          "page:talk-token:2026-10-07",
+          "luma:evt-uwh1gynj7chfmy3",
+          "luma-url:/n0if8mxq",
+          "event:talktoken2049singapore:2026-10-07:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-06:afternoon"
   }
 }
