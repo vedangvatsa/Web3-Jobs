@@ -9001,11 +9001,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "946be3594d9c3d0668ad",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:00:00.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "opinion",
+      "note": "Cointelegraph opinion essay on US crypto rules surviving the election; commentary with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:11.791Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "8081af4652c596b28c64": {
       "source": "Cointelegraph",
@@ -13164,6 +13174,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:05.131Z"
+        },
+        "946be3594d9c3d0668ad": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Cointelegraph opinion essay on US crypto rules surviving the election; commentary with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:11.791Z"
         }
       },
       "baselineSlugs": [
