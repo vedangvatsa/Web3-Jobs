@@ -8823,11 +8823,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "aefb4f834db7add58502",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T12:54:15.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Polymarket Protocol V2 rebuild already drafted as polymarket-v2.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:44:57.140Z",
+      "duplicateOf": "polymarket-v2",
+      "mergedInto": "497d0bcc0be35364d1a3",
+      "lastReviewedDay": "2026-10-06"
     },
     "bc5d5b18888ec5d33590": {
       "source": "Unchained",
@@ -12560,6 +12567,15 @@
           "note": "Same Oct 5 Polymarket Protocol V2 rebuild already drafted as polymarket-v2.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T17:44:52.315Z",
+          "duplicateOf": "polymarket-v2",
+          "mergedInto": "497d0bcc0be35364d1a3"
+        },
+        "aefb4f834db7add58502": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Polymarket Protocol V2 rebuild already drafted as polymarket-v2.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:44:57.140Z",
           "duplicateOf": "polymarket-v2",
           "mergedInto": "497d0bcc0be35364d1a3"
         }
