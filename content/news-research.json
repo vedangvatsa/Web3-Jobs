@@ -3914,11 +3914,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b1006b432c5900176f8b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T20:33:27.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "opinion",
+      "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:08.153Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "cc4a4cc7319b8b183a6d": {
       "source": "The Defiant",
@@ -6421,6 +6426,13 @@
           "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:06.451Z"
+        },
+        "b1006b432c5900176f8b": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:08.153Z"
         }
       },
       "baselineSlugs": [
