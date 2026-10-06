@@ -7516,11 +7516,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f909e5a5b01d74cad48c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T11:31:41.725Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T11:30:00.000Z",
-      "lastSeenAt": "2026-10-06T11:31:41.725Z"
+      "lastSeenAt": "2026-10-06T11:31:41.725Z",
+      "reason": "price-chatter",
+      "note": "Bond VIX versus bitcoin and stocks market commentary with no concrete launch vote ruling filing hack raise or upgrade.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:58:36.661Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "e62f3d989a454f045a0f": {
       "source": "Bitcoin Magazine",
@@ -10989,6 +10999,18 @@
           "reviewedAt": "2026-10-06T11:58:35.111Z",
           "duplicateOf": "okx-money",
           "mergedInto": "2ebac434c9d8844265a8"
+        },
+        "f909e5a5b01d74cad48c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bond VIX versus bitcoin and stocks market commentary with no concrete launch vote ruling filing hack raise or upgrade.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:58:36.661Z"
         }
       },
       "baselineSlugs": [
