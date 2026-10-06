@@ -2669,11 +2669,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "3337ac1bcc54a3102d54",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T11:14:35.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "duplicate",
+      "note": "Same Oct 2 SEC approval of Cboe listing rules for six 3x Volatility Shares funds already covered by triple-funds.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:24.442Z",
+      "duplicateOf": "triple-funds",
+      "lastReviewedDay": "2026-10-06"
     },
     "70e7075c490e51cbb16e": {
       "source": "CryptoSlate",
@@ -6172,6 +6178,14 @@
           "note": "Same Oct 2 SEC approval of Cboe listing rules for six 3x Volatility Shares funds already covered by triple-funds.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:22.617Z",
+          "duplicateOf": "triple-funds"
+        },
+        "3337ac1bcc54a3102d54": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 2 SEC approval of Cboe listing rules for six 3x Volatility Shares funds already covered by triple-funds.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:24.442Z",
           "duplicateOf": "triple-funds"
         }
       },
