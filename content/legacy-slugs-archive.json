@@ -134017,5 +134017,78 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt87"
+  },
+  "eng398": {
+    "id": "8209410",
+    "link": "https://ripple.com/careers/all-jobs/job/8209410?gh_jid=8209410",
+    "company": "Ripple",
+    "title": "Manager, Software Engineering"
+  },
+  "fs17": {
+    "id": "8214616",
+    "link": "https://stripe.com/jobs/search?gh_jid=8214616",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering"
+  },
+  "mgr73": {
+    "id": "8209637",
+    "link": "https://stripe.com/jobs/search?gh_jid=8209637",
+    "company": "Stripe",
+    "title": "Workplace Project Manager"
+  },
+  "eng87": {
+    "id": "8203625",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8203625",
+    "company": "Flow Traders",
+    "title": "Senior Technical Support Engineer"
+  },
+  "be52": {
+    "id": "4973946101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4973946101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "eng394": {
+    "id": "4971542101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971542101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "pm221": {
+    "id": "4971231101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971231101",
+    "company": "Bybit",
+    "title": "Senior Growth Product Manager - User Activation"
+  },
+  "ti": {
+    "id": "5386903008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5386903008",
+    "company": "Hut 8",
+    "title": "Transmission & Interconnection, Principal"
+  },
+  "eng74": {
+    "id": "8021647",
+    "link": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
+    "company": "Coinbase",
+    "title": "Senior Software Engineer"
+  },
+  "cs3": {
+    "id": "7994498",
+    "link": "https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498",
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV"
+  },
+  "ps6": {
+    "id": "7880424002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/7880424002?gh_jid=7880424002",
+    "company": "Jane Street",
+    "title": "Procurement Specialist"
+  },
+  "sls220": {
+    "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "company": "Open Standard",
+    "title": "Account Manager",
+    "newSlug": "sls225"
   }
 }
