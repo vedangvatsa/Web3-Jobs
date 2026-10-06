@@ -2940,13 +2940,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "b016d77f01cee47e2ca1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T16:46:03.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "verified-event",
-      "note": "Verified the Oct 5 ANPRM for Reg CTX and Reg CAM in the CFTC release with leverage trigger, CAM license, 60-day comment and spot gap matching Decrypt and CoinDesk.",
+      "note": "Verified Oct 5 ANPRM for Reg CTX and Reg CAM in CFTC release 9307-26 with 60-day comment, margin trigger, CAM license and spot gap matching Decrypt and CoinDesk.",
       "sourceChecks": [
         {
           "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
@@ -2959,13 +2959,9 @@
         {
           "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:08:51.854Z",
+      "reviewedAt": "2026-10-06T03:40:36.427Z",
       "articleSlug": "cftc-leverage",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -8225,6 +8221,27 @@
           "retrySearches": [
             "Lido CSM 0x02 bond 32 ETH site:coindesk.com OR site:theblock.co OR site:dlnews.com OR site:decrypt.co OR site:cointelegraph.com"
           ]
+        },
+        "b016d77f01cee47e2ca1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 ANPRM for Reg CTX and Reg CAM in CFTC release 9307-26 with 60-day comment, margin trigger, CAM license and spot gap matching Decrypt and CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9307-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T03:40:36.427Z",
+          "articleSlug": "cftc-leverage"
         }
       },
       "baselineSlugs": [
