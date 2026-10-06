@@ -5939,11 +5939,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "2aafb6461bda2479bba1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T09:59:43.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 CFTC advance notice for Reg CTX and Reg CAM covered by cftc-leverage; Oct 6 Unchained copy adds no new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:01:37.786Z",
+      "duplicateOf": "cftc-leverage",
+      "mergedInto": "b016d77f01cee47e2ca1",
+      "lastReviewedDay": "2026-10-06"
     },
     "0f1d73fea0f196cf845d": {
       "source": "Cointelegraph",
@@ -9492,6 +9499,15 @@
           "note": "Same Oct 5 CFTC advance notice for Reg CTX and Reg CAM covered by cftc-leverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:01:36.006Z",
+          "duplicateOf": "cftc-leverage",
+          "mergedInto": "b016d77f01cee47e2ca1"
+        },
+        "2aafb6461bda2479bba1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 CFTC advance notice for Reg CTX and Reg CAM covered by cftc-leverage; Oct 6 Unchained copy adds no new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:01:37.786Z",
           "duplicateOf": "cftc-leverage",
           "mergedInto": "b016d77f01cee47e2ca1"
         }
