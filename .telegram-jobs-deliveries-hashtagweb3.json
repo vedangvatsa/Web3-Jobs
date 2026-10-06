@@ -872,5 +872,49 @@
     "slotKey": "2026-10-06:afternoon",
     "messageId": 155628,
     "sentAt": "2026-10-06T12:01:12.133Z"
+  },
+  "4c05eda8-9d97-46db-9790-0c40da117325": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T19:31:58.434Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "b77585e9-83fb-4538-8e51-dc3cba1e8d36",
+        "slug": "gp",
+        "url": "https://hashtagweb3.com/gp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "GRC & Privacy Lead"
+      },
+      {
+        "key": "db211fc3-b7d2-4834-a696-99b03baf9ad1",
+        "slug": "an58",
+        "url": "https://hashtagweb3.com/an58?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior / Staff Threat Intelligence Analyst"
+      },
+      {
+        "key": "e7f93f9f-9e39-4a3f-87e3-4dea1efb79b1",
+        "slug": "binance5",
+        "url": "https://hashtagweb3.com/binance5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Binance Accelerator Program"
+      },
+      {
+        "key": "6e1a4fea-9953-4c1a-9ef7-ea60168a0c3f",
+        "slug": "mgr113",
+        "url": "https://hashtagweb3.com/mgr113?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Technical Program Manager"
+      },
+      {
+        "key": "7cfd28cb-1bea-49a1-acaa-e78c64f9b86e",
+        "slug": "eng295",
+        "url": "https://hashtagweb3.com/eng295?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hedera",
+        "title": "IT Operations Engineer"
+      }
+    ],
+    "message": "• Polymarket is hiring <a href=\"https://hashtagweb3.com/gp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">GRC &amp; Privacy Lead</a>\n• TRM Labs is hiring <a href=\"https://hashtagweb3.com/an58?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior / Staff Threat Intelligence Analyst</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/binance5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Binance Accelerator Program</a>\n• Sardine is hiring <a href=\"https://hashtagweb3.com/mgr113?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Program Manager</a>\n• Hedera is hiring <a href=\"https://hashtagweb3.com/eng295?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">IT Operations Engineer</a>",
+    "slotKey": "2026-10-06:evening"
   }
 }
