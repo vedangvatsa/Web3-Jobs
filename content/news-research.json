@@ -4932,11 +4932,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "33f8a1199da7b9b5f3c4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T13:00:00.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "China P2P stablecoin wallets 43x growth opened and confirmed in Cointelegraph citing Chainalysis; needs a second openable outlet or the Chainalysis report.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:05:28.204Z",
+      "retrySearches": [
+        "China P2P stablecoin wallets 43x Chainalysis October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "4537a93b76d3142e2d63": {
       "source": "Decrypt",
@@ -7005,6 +7019,21 @@
           "reviewedAt": "2026-10-06T01:05:26.517Z",
           "retrySearches": [
             "Greek soldiers 8M crypto pyramid scheme arrests October 2026"
+          ]
+        },
+        "33f8a1199da7b9b5f3c4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "China P2P stablecoin wallets 43x growth opened and confirmed in Cointelegraph citing Chainalysis; needs a second openable outlet or the Chainalysis report.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:05:28.204Z",
+          "retrySearches": [
+            "China P2P stablecoin wallets 43x Chainalysis October 2026"
           ]
         }
       },
