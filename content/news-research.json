@@ -2718,13 +2718,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3c290e86d3b6ddc0eb6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T21:42:30.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Fairshake 32-candidate House slate with 19R-13D split, 1M each for six named incumbents and Clarity Act criterion across Cointelegraph and CoinDesk.",
+      "note": "Verified Oct 5 Fairshake 32-candidate House slate with 19R-13D split and Clarity Act criterion across three newsrooms.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms",
@@ -2735,7 +2735,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:56:46.076Z",
+      "reviewedAt": "2026-10-06T17:42:03.570Z",
       "articleSlug": "fairshake-house",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11587,6 +11587,23 @@
             }
           ],
           "reviewedAt": "2026-10-06T11:58:55.135Z"
+        },
+        "b3c290e86d3b6ddc0eb6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Fairshake 32-candidate House slate with 19R-13D split and Clarity Act criterion across three newsrooms.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:03.570Z",
+          "articleSlug": "fairshake-house"
         }
       },
       "baselineSlugs": [
