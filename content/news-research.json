@@ -510,33 +510,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "624cb4fe8a643f74ff20",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T03:12:21.000Z",
       "lastSeenAt": "2026-10-06T00:55:35.855Z",
-      "reason": "source-blocked",
-      "note": "Greenfield complaint and Safe forum letter read, but only aggregator pickups found; Gate page 403 and no second reputable outlet yet. Check for Safe Foundation response.",
+      "reason": "duplicate",
+      "note": "Same Greenfield ESA complaint over Safe governance covered by safe-complaint alongside af68.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
           "outcome": "read"
         },
         {
-          "url": "https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149",
+          "url": "https://cryptobriefing.com/greenfield-capital-safe-foundation-swiss-regulator/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.gate.com",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-05T03:47:13.419Z",
+      "reviewedAt": "2026-10-06T01:11:25.168Z",
       "retrySearches": [
         "Greenfield Safe ESA supervisory complaint site:theblock.co OR site:coindesk.com OR site:dlnews.com OR site:decrypt.co"
       ],
-      "lastReviewedDay": "2026-10-05",
-      "nextReviewDate": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "duplicateOf": "safe-complaint",
+      "mergedInto": "af683c29d6e5e763d727"
     },
     "be10f9f232d84aabc6ae": {
       "source": "BeInCrypto",
@@ -8378,6 +8375,24 @@
           ],
           "reviewedAt": "2026-10-06T01:11:20.447Z",
           "articleSlug": "safe-complaint"
+        },
+        "624cb4fe8a643f74ff20": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greenfield ESA complaint over Safe governance covered by safe-complaint alongside af68.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/greenfield-capital-safe-foundation-swiss-regulator/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:11:25.168Z",
+          "duplicateOf": "safe-complaint",
+          "mergedInto": "af683c29d6e5e763d727"
         }
       },
       "baselineSlugs": [
