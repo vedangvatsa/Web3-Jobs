@@ -5902,11 +5902,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7a80de71112069e1bdfd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T09:37:44.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin ETF outflow price recap with no concrete event: level and flow commentary, no launch vote ruling filing hack raise or upgrade.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:44.493Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "0063225a576fd35d6e65": {
       "source": "Cointelegraph",
@@ -9854,6 +9859,13 @@
           ],
           "reviewedAt": "2026-10-06T11:02:34.808Z",
           "articleSlug": "china-p2p"
+        },
+        "7a80de71112069e1bdfd": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin ETF outflow price recap with no concrete event: level and flow commentary, no launch vote ruling filing hack raise or upgrade.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:44.493Z"
         }
       },
       "baselineSlugs": [
