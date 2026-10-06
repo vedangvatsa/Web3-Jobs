@@ -4169,11 +4169,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ddbe9d14387a975201fa",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T19:46:22.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "source-blocked",
+      "note": "Aave LlamaRisk agents for Pendle on Plasma seen only in The Defiant; page blocked, needs a second openable outlet or governance post.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:05:21.218Z",
+      "retrySearches": [
+        "Aave LlamaRisk Pendle Plasma October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "a7358d89d66ffc436fc9": {
       "source": "CryptoSlate",
@@ -6889,6 +6903,21 @@
           "reviewedAt": "2026-10-06T01:05:19.519Z",
           "retrySearches": [
             "Modern Treasury trust bank charter OCC application October 2026"
+          ]
+        },
+        "ddbe9d14387a975201fa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Aave LlamaRisk agents for Pendle on Plasma seen only in The Defiant; page blocked, needs a second openable outlet or governance post.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:05:21.218Z",
+          "retrySearches": [
+            "Aave LlamaRisk Pendle Plasma October 2026"
           ]
         }
       },
