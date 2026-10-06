@@ -1045,5 +1045,53 @@
     "slotKey": "2026-10-06:afternoon",
     "messageId": 155629,
     "sentAt": "2026-10-06T12:01:26.477Z"
+  },
+  "14b37001-e815-40f5-8c92-8388125acd2a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T19:32:12.343Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-q2d3rNyeBNrqk1s",
+        "slug": "sst",
+        "name": "Stablecoin Sessions @ Token2049 Singapore",
+        "startDate": "2026-10-07T02:00:00.000Z",
+        "keys": [
+          "luma-crypto-q2d3rnyebnrqk1s",
+          "page:sst:2026-10-07",
+          "luma:evt-q2d3rnyebnrqk1s",
+          "luma-url:/2m5vkueq",
+          "event:stablecoinsessionstoken2049singapore:2026-10-07:singapore"
+        ]
+      },
+      {
+        "id": "token2049-side-6a9f1f8cd567345aad6847e6",
+        "slug": "neobankers-brunch",
+        "name": "Neobankers Brunch: More Than A Crypto Card",
+        "startDate": "2026-10-07T02:00:00.000Z",
+        "keys": [
+          "token2049-side-6a9f1f8cd567345aad6847e6",
+          "page:neobankers-brunch:2026-10-07",
+          "luma:evt-gl42hxuivhekvsp",
+          "luma-url:/vzpoa3ni",
+          "event:neobankersbrunchmorethanacryptocard:2026-10-07:singapore"
+        ]
+      },
+      {
+        "id": "luma-crypto-AxvuEgt2SBXjO1I",
+        "slug": "apuao",
+        "name": "Affogato Pop-up, with Altitude and Optimism",
+        "startDate": "2026-10-07T03:30:00.000Z",
+        "keys": [
+          "luma-crypto-axvuegt2sbxjo1i",
+          "page:apuao:2026-10-07",
+          "luma:evt-axvuegt2sbxjo1i",
+          "luma-url:/altitude-oplabs-affogato",
+          "event:affogatopopupwithaltitudeandoptimism:2026-10-07:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-06:evening"
   }
 }
