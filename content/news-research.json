@@ -8559,11 +8559,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "28fa76ae1c70d3c3f94a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:19:00.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "verified-event",
+      "note": "Verified Ether.fi dollar stablecoin with Ethena running reserves across two readable outlets; Defiant origin 403 not cited.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/ether-fi-is-launching-its-own-stablecoin-with-ethena-running-the-reserves/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:43:25.356Z",
+      "articleSlug": "etherfi-stablecoin",
+      "lastReviewedDay": "2026-10-06"
     },
     "92090e574e85c65e5d1e": {
       "source": "The Defiant",
@@ -12204,6 +12223,27 @@
           ],
           "reviewedAt": "2026-10-06T17:43:23.439Z",
           "articleSlug": "ripple-prime"
+        },
+        "28fa76ae1c70d3c3f94a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Ether.fi dollar stablecoin with Ethena running reserves across two readable outlets; Defiant origin 403 not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ether-fi-is-launching-its-own-stablecoin-with-ethena-running-the-reserves/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/ether-fi-announces-dollar-stablecoin-powered-by-ethena",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:43:25.356Z",
+          "articleSlug": "etherfi-stablecoin"
         }
       },
       "baselineSlugs": [
