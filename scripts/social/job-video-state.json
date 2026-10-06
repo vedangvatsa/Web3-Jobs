@@ -1272,11 +1272,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Staff Software Engineer, Link - Bank Connections at Stripe\n\nSan Francisco, Seattle, New York\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
           "startedAt": "2026-10-06T19:31:25.839Z",
           "containerId": "17916568989461009",
-          "postId": "18114865417832822"
+          "postId": "18114865417832822",
+          "url": "https://www.instagram.com/reel/DeKioGDDEZV/"
         }
       }
     },
