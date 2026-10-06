@@ -2716,13 +2716,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3c290e86d3b6ddc0eb6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T21:42:30.000Z",
       "lastSeenAt": "2026-10-06T10:35:17.133Z",
       "reason": "verified-event",
-      "note": "Verified 32-candidate House slate, 19R-13D split, M each for Bynum, Tran, Horsford, Hill, Huizenga, Steil and Clarity Act vote criterion across Cointelegraph and CoinDesk.",
+      "note": "Verified 32-candidate House slate, 19R-13D split, 1M each for six named candidates and Clarity Act criterion across Cointelegraph and CoinDesk.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms",
@@ -2733,7 +2733,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T03:40:44.485Z",
+      "reviewedAt": "2026-10-06T11:01:47.590Z",
       "articleSlug": "fairshake-house",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -9510,6 +9510,23 @@
           "reviewedAt": "2026-10-06T11:01:37.786Z",
           "duplicateOf": "cftc-leverage",
           "mergedInto": "b016d77f01cee47e2ca1"
+        },
+        "b3c290e86d3b6ddc0eb6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 32-candidate House slate, 19R-13D split, 1M each for six named candidates and Clarity Act criterion across Cointelegraph and CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-pac-fairshake-house-endorsements-us-midterms",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:01:47.590Z",
+          "articleSlug": "fairshake-house"
         }
       },
       "baselineSlugs": [
