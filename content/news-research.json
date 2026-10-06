@@ -8464,11 +8464,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c975d95267ed63707c56",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T16:50:26.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "opinion",
+      "note": "CoinDesk opinion essay on what can be priced; commentary with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:57.110Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "360aba413f29ecfbf5c2": {
       "source": "Unchained",
@@ -13054,6 +13064,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:51.606Z"
+        },
+        "c975d95267ed63707c56": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "CoinDesk opinion essay on what can be priced; commentary with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:57.110Z"
         }
       },
       "baselineSlugs": [
