@@ -510,20 +510,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "624cb4fe8a643f74ff20",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T03:12:21.000Z",
       "lastSeenAt": "2026-10-06T00:55:35.855Z",
       "reason": "duplicate",
       "note": "Same Greenfield ESA complaint over Safe governance covered by safe-complaint.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T03:41:04.361Z",
+      "reviewedAt": "2026-10-06T11:01:21.190Z",
       "retrySearches": [
         "Greenfield Safe ESA supervisory complaint site:theblock.co OR site:coindesk.com OR site:dlnews.com OR site:decrypt.co"
       ],
       "lastReviewedDay": "2026-10-06",
-      "duplicateOf": "safe-complaint"
+      "duplicateOf": "safe-complaint",
+      "mergedInto": "af683c29d6e5e763d727"
     },
     "be10f9f232d84aabc6ae": {
       "source": "BeInCrypto",
@@ -9386,6 +9387,15 @@
           ],
           "reviewedAt": "2026-10-06T11:01:15.199Z",
           "articleSlug": "safe-complaint"
+        },
+        "624cb4fe8a643f74ff20": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greenfield ESA complaint over Safe governance covered by safe-complaint.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:01:21.190Z",
+          "duplicateOf": "safe-complaint",
+          "mergedInto": "af683c29d6e5e763d727"
         }
       },
       "baselineSlugs": [
