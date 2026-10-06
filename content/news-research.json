@@ -2691,17 +2691,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "70e7075c490e51cbb16e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T22:10:34.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage with primary release and two outlets.",
+      "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:57:38.293Z",
+      "reviewedAt": "2026-10-06T17:43:47.482Z",
       "duplicateOf": "cftc-leverage",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "b016d77f01cee47e2ca1"
     },
     "b3c290e86d3b6ddc0eb6": {
       "source": "Cointelegraph",
@@ -12244,6 +12245,15 @@
           ],
           "reviewedAt": "2026-10-06T17:43:42.269Z",
           "articleSlug": "etherfi-stablecoin"
+        },
+        "70e7075c490e51cbb16e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:43:47.482Z",
+          "duplicateOf": "cftc-leverage",
+          "mergedInto": "b016d77f01cee47e2ca1"
         }
       },
       "baselineSlugs": [
