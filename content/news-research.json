@@ -2780,11 +2780,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "743ece7e765299271e0f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T19:15:22.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "duplicate",
+      "note": "Same Oct 2 ICBA suit against the OCC over the crypto trust-charter rule already covered by occ-lawsuit; advocacy reaction adds no new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:43.369Z",
+      "duplicateOf": "occ-lawsuit",
+      "lastReviewedDay": "2026-10-06"
     },
     "680399158e99d3449fa7": {
       "source": "BeInCrypto",
@@ -6299,6 +6305,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:41.568Z",
           "duplicateOf": "staking-queue"
+        },
+        "743ece7e765299271e0f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 2 ICBA suit against the OCC over the crypto trust-charter rule already covered by occ-lawsuit; advocacy reaction adds no new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:43.369Z",
+          "duplicateOf": "occ-lawsuit"
         }
       },
       "baselineSlugs": [
