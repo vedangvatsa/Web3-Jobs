@@ -5915,13 +5915,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "0063225a576fd35d6e65",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T10:16:55.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Hui briefing committing end-2026 bill with four licenses for dealing custody advisory management across HK gov statement, Cointelegraph and Crypto Times.",
+      "note": "Verified Oct 5 Hui briefing committing end-2026 bill with four licenses for dealing custody advisory management across gov statement and two outlets.",
       "sourceChecks": [
         {
           "url": "https://www.info.gov.hk/gia/general/202610/05/P2026100500216.htm",
@@ -5936,7 +5936,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:56:53.999Z",
+      "reviewedAt": "2026-10-06T17:43:12.178Z",
       "articleSlug": "hong-kong",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -12069,6 +12069,27 @@
           ],
           "reviewedAt": "2026-10-06T17:43:10.479Z",
           "articleSlug": "arbitrum-usdg"
+        },
+        "0063225a576fd35d6e65": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Hui briefing committing end-2026 bill with four licenses for dealing custody advisory management across gov statement and two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://www.info.gov.hk/gia/general/202610/05/P2026100500216.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptotimes.io/2026/10/05/hong-kong-to-submit-virtual-asset-licensing-bill-this-year",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:43:12.178Z",
+          "articleSlug": "hong-kong"
         }
       },
       "baselineSlugs": [
