@@ -7573,11 +7573,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdcc7f032f53e77d9a1e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T11:31:41.725Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T10:36:57.000Z",
-      "lastSeenAt": "2026-10-06T11:31:41.725Z"
+      "lastSeenAt": "2026-10-06T11:31:41.725Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 5 Adam Iza 78-month sentence with 23.4M restitution, 37M Meta fraud and five deputies convicted across Decrypt, LA Times and CryptoBriefing.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.latimes.com/california/story/2026-10-05/crypto-godfather-adam-iza-prison-sentence",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/adam-iza-sentenced-meta-fraud-deputies/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:57:31.848Z",
+      "articleSlug": "godfather-fraud",
+      "lastReviewedDay": "2026-10-06"
     }
   },
   "runs": {
@@ -10679,6 +10698,27 @@
           ],
           "reviewedAt": "2026-10-06T11:57:30.128Z",
           "articleSlug": "spiko-raise"
+        },
+        "fdcc7f032f53e77d9a1e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Adam Iza 78-month sentence with 23.4M restitution, 37M Meta fraud and five deputies convicted across Decrypt, LA Times and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.latimes.com/california/story/2026-10-05/crypto-godfather-adam-iza-prison-sentence",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/adam-iza-sentenced-meta-fraud-deputies/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:57:31.848Z",
+          "articleSlug": "godfather-fraud"
         }
       },
       "baselineSlugs": [
