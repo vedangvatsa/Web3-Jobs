@@ -9244,11 +9244,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "113ae5805c11ef71498c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T11:30:49.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "not-a-concrete-event",
+      "note": "Speculative single-outlet analysis that Aave and Pendle may retain yield capital; no confirmed launch or figures.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:19.756Z",
+      "lastReviewedDay": "2026-10-06"
     }
   },
   "runs": {
@@ -13252,6 +13262,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:18.140Z"
+        },
+        "113ae5805c11ef71498c": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Speculative single-outlet analysis that Aave and Pendle may retain yield capital; no confirmed launch or figures.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:19.756Z"
         }
       },
       "baselineSlugs": [
