@@ -7426,13 +7426,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "6d9d1591c1d05e54f5d3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T11:31:41.725Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T10:58:29.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 6 Spiko 90M Series B led by NEA totaling 120M with 2.7B AUM and 25 plus jurisdictions across CryptoBriefing, Tech.eu and Business Wire.",
+      "note": "Verified Oct 6 Spiko 90M Series B led by NEA totaling 120M with 2.7B AUM across two outlets; BusinessWire 403 not cited.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/spiko-raises-90m-tokenized-cash-funds/",
@@ -7441,13 +7441,9 @@
         {
           "url": "https://tech.eu/2026/10/06/nea-leads-spikos-90m-series-b-to-expand-access-to-cash-yield",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.businesswire.com/news/home/20261006901425/en/Spiko-Raises-%2490M-Series-B-Led-by-NEA-to-Make-Yield-Universal",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:57:30.128Z",
+      "reviewedAt": "2026-10-06T17:42:36.924Z",
       "articleSlug": "spiko-raise",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11836,6 +11832,23 @@
           ],
           "reviewedAt": "2026-10-06T17:42:35.354Z",
           "articleSlug": "strive-buyback"
+        },
+        "6d9d1591c1d05e54f5d3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 6 Spiko 90M Series B led by NEA totaling 120M with 2.7B AUM across two outlets; BusinessWire 403 not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/spiko-raises-90m-tokenized-cash-funds/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://tech.eu/2026/10/06/nea-leads-spikos-90m-series-b-to-expand-access-to-cash-yield",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:36.924Z",
+          "articleSlug": "spiko-raise"
         }
       },
       "baselineSlugs": [
