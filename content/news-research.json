@@ -4714,11 +4714,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "ba6adb67998afde3dcee",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T17:58:58.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "S and P crypto lending vault risk assessments opened in Cointelegraph; BeInCrypto and Defiant copies blocked. Full verification plus drafting carries to next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/sp-global-crypto-lending-vaults-risk/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/converge/defi/s-p-global-puts-a-letter-grade-on-defi-lending-vaults",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:57.932Z",
+      "retrySearches": [
+        "S&P Global crypto lending vault risk assessments October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "690d83e27eb267a5493d": {
       "source": "BeInCrypto",
@@ -7784,6 +7806,29 @@
           "reviewedAt": "2026-10-06T01:06:56.255Z",
           "retrySearches": [
             "Aave GHO borrow rate 4.5 redemption reserves October 2026 governance"
+          ]
+        },
+        "ba6adb67998afde3dcee": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "S and P crypto lending vault risk assessments opened in Cointelegraph; BeInCrypto and Defiant copies blocked. Full verification plus drafting carries to next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/sp-global-crypto-lending-vaults-risk/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/converge/defi/s-p-global-puts-a-letter-grade-on-defi-lending-vaults",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:57.932Z",
+          "retrySearches": [
+            "S&P Global crypto lending vault risk assessments October 2026"
           ]
         }
       },
