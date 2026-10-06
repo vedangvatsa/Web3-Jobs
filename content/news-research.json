@@ -5871,17 +5871,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd2d9d6072eec5285549",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T03:31:57.325Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-09T01:47:24.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate; Oct 6 Cointelegraph copy adds no new event.",
+      "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:58:11.830Z",
+      "reviewedAt": "2026-10-06T17:44:10.883Z",
       "duplicateOf": "zachxbt-syndicate",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "326675e76ea9e57d0cb9"
     },
     "7a80de71112069e1bdfd": {
       "source": "CoinJournal",
@@ -12342,6 +12343,15 @@
           "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T17:44:09.095Z",
+          "duplicateOf": "zachxbt-syndicate",
+          "mergedInto": "326675e76ea9e57d0cb9"
+        },
+        "bd2d9d6072eec5285549": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:44:10.883Z",
           "duplicateOf": "zachxbt-syndicate",
           "mergedInto": "326675e76ea9e57d0cb9"
         }
