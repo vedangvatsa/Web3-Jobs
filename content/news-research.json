@@ -5754,11 +5754,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "83bb967c1f4fe0a55b6c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T03:31:57.325Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T02:40:43.000Z",
-      "lastSeenAt": "2026-10-06T03:31:57.325Z"
+      "lastSeenAt": "2026-10-06T03:31:57.325Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 5 8-K 500M SATA facility, 284.7M cash, 2000 BTC at 84422 and 29462 holdings with matching figures across CryptoSlate and Unchained.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoin-treasury-strive-risks-cash-reserve-to-fund-500m-buyback-and-trim-dividends/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/strive-buys-2000-bitcoin-and-discloses-a-buyback-facility-for-its-preferred-stock/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T03:40:57.306Z",
+      "articleSlug": "strive-buyback",
+      "lastReviewedDay": "2026-10-06"
     },
     "85dbab31f9a744f37bcd": {
       "source": "Decrypt",
@@ -8319,6 +8334,23 @@
           ],
           "reviewedAt": "2026-10-06T03:40:55.482Z",
           "articleSlug": "shib-solana"
+        },
+        "83bb967c1f4fe0a55b6c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 8-K 500M SATA facility, 284.7M cash, 2000 BTC at 84422 and 29462 holdings with matching figures across CryptoSlate and Unchained.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoin-treasury-strive-risks-cash-reserve-to-fund-500m-buyback-and-trim-dividends/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strive-buys-2000-bitcoin-and-discloses-a-buyback-facility-for-its-preferred-stock/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T03:40:57.306Z",
+          "articleSlug": "strive-buyback"
         }
       },
       "baselineSlugs": [
