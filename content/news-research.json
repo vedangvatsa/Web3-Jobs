@@ -6451,13 +6451,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "590bff9c9cd1541dfb11",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T07:09:33.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5-6 EEZ first atomic L1-to-L2 mainnet test with 0.001 ETH call and postAndVerifyBatch mechanics across Cointelegraph and CryptoBriefing.",
+      "note": "Verified Oct 5-6 EEZ first atomic L1-to-L2 mainnet test with 0.001 ETH call across two outlets.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
@@ -6468,7 +6468,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:57:11.486Z",
+      "reviewedAt": "2026-10-06T17:42:57.789Z",
       "articleSlug": "eez-atomic",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11978,6 +11978,23 @@
           ],
           "reviewedAt": "2026-10-06T17:42:56.039Z",
           "articleSlug": "sepolia-fork"
+        },
+        "590bff9c9cd1541dfb11": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5-6 EEZ first atomic L1-to-L2 mainnet test with 0.001 ETH call across two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/ethereum-economic-zone-first-atomic-transaction/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:57.789Z",
+          "articleSlug": "eez-atomic"
         }
       },
       "baselineSlugs": [
