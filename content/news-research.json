@@ -7695,11 +7695,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "94f02356d864cbe75c67",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T12:30:49.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "not-a-concrete-event",
+      "note": "Analytical explainer of ETHK fund mechanics and CME thresholds, not a new event; the Oct 2 listing approval is already covered by triple-funds.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:28.971Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "ab457ab2c3af497f5267": {
       "source": "Unchained",
@@ -12834,6 +12844,18 @@
           "reviewedAt": "2026-10-06T17:45:34.837Z",
           "duplicateOf": "arbitrum-usdg",
           "mergedInto": "921e2171ef1de71348c5"
+        },
+        "94f02356d864cbe75c67": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Analytical explainer of ETHK fund mechanics and CME thresholds, not a new event; the Oct 2 listing approval is already covered by triple-funds.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:28.971Z"
         }
       },
       "baselineSlugs": [
