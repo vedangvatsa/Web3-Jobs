@@ -4572,11 +4572,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "008d7a0e67574d608740",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T18:40:07.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Aave GHO borrow-rate hike opened in CryptoSlate; Defiant copy blocked. Full verification plus drafting carries to next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/aave-hikes-gho-borrow-rates-to-rescue-depleted-stablecoin-pools/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:54.313Z",
+      "retrySearches": [
+        "Aave GHO borrow rate 4.5 redemption reserves October 2026 governance"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "225c93bde85c193bfce1": {
       "source": "The Defiant",
@@ -7718,6 +7736,25 @@
           "reviewedAt": "2026-10-06T01:06:46.136Z",
           "retrySearches": [
             "DeFi Development Corp Solana holdings NAV October 2026"
+          ]
+        },
+        "008d7a0e67574d608740": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Aave GHO borrow-rate hike opened in CryptoSlate; Defiant copy blocked. Full verification plus drafting carries to next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/aave-hikes-gho-borrow-rates-to-rescue-depleted-stablecoin-pools/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:54.313Z",
+          "retrySearches": [
+            "Aave GHO borrow rate 4.5 redemption reserves October 2026 governance"
           ]
         }
       },
