@@ -5790,11 +5790,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "85dbab31f9a744f37bcd",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T03:31:57.325Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T02:01:03.000Z",
-      "lastSeenAt": "2026-10-06T03:31:57.325Z"
+      "lastSeenAt": "2026-10-06T03:31:57.325Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 5 Solana DvP launch, MIT license, JP Morgan advisory input, atomic settlement and Dec 2025 Galaxy 50M test across PR Newswire, Decrypt and CryptoBriefing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/solana-foundation-launches-solana-dvp-an-atomic-settlement-program-built-for-financial-institutions-302898811.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/solana-launches-dvp-institutional-settlement/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T03:40:59.048Z",
+      "articleSlug": "solana-dvp",
+      "lastReviewedDay": "2026-10-06"
     },
     "eb056b0706d8366650b1": {
       "source": "BeInCrypto",
@@ -8351,6 +8370,27 @@
           ],
           "reviewedAt": "2026-10-06T03:40:57.306Z",
           "articleSlug": "strive-buyback"
+        },
+        "85dbab31f9a744f37bcd": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Solana DvP launch, MIT license, JP Morgan advisory input, atomic settlement and Dec 2025 Galaxy 50M test across PR Newswire, Decrypt and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/solana-foundation-launches-solana-dvp-an-atomic-settlement-program-built-for-financial-institutions-302898811.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/solana-launches-dvp-institutional-settlement/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T03:40:59.048Z",
+          "articleSlug": "solana-dvp"
         }
       },
       "baselineSlugs": [
