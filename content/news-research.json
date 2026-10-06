@@ -8872,11 +8872,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8081af4652c596b28c64",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:00:00.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Arbitrum USDG ecosystem dollar adoption already drafted as arbitrum-usdg.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:33.149Z",
+      "duplicateOf": "arbitrum-usdg",
+      "mergedInto": "921e2171ef1de71348c5",
+      "lastReviewedDay": "2026-10-06"
     },
     "498964770daa1544f710": {
       "source": "The Defiant",
@@ -12802,6 +12809,15 @@
           "reviewedAt": "2026-10-06T17:45:30.381Z",
           "duplicateOf": "okx-raise",
           "mergedInto": "bab880453caae397d6f8"
+        },
+        "8081af4652c596b28c64": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Arbitrum USDG ecosystem dollar adoption already drafted as arbitrum-usdg.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:33.149Z",
+          "duplicateOf": "arbitrum-usdg",
+          "mergedInto": "921e2171ef1de71348c5"
         }
       },
       "baselineSlugs": [
