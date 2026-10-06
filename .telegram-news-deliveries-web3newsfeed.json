@@ -832,5 +832,36 @@
     "slotKey": "2026-10-06:morning",
     "messageId": 65732,
     "sentAt": "2026-10-06T04:01:46.492Z"
+  },
+  "e08100c2-852c-487a-82fd-87273470be54": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T12:04:52.772Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Avalanche Claims UAE Digital Vault Runs on Its Blockchain",
+        "summary": "Although Avalanche announced the integration, UAE government websites do not name any specific blockchain protocol.",
+        "link": "https://hashtagweb3.com/avalanche-uae?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UAE Identity Vault Moves to Avalanche Blockchain"
+      },
+      {
+        "index": -1,
+        "headline": "VeChain Interstellar Hard Fork Scheduled for September 16",
+        "summary": "The upgrade integrates 11 Ethereum improvement proposals to close the network's EVM compatibility gap.",
+        "link": "https://hashtagweb3.com/vechain-interstellar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VeChain Interstellar Hardfork Set for Sept 16"
+      },
+      {
+        "index": -1,
+        "headline": "Ethena Launches USDe and sUSDe on TRON",
+        "summary": "Users can bridge and transfer the assets via Stargate Finance, with upcoming DeFi integrations on JustLend and SUN.io.",
+        "link": "https://hashtagweb3.com/ethena-tron?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethena and TRON DAO Bring USDe and sUSDe to the TRON Network"
+      }
+    ],
+    "slotKey": "2026-10-06:afternoon"
   }
 }
