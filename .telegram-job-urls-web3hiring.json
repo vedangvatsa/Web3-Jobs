@@ -156,6 +156,14 @@
     "lastUrl": "https://hashtagweb3.com/hs",
     "updatedAt": "2026-09-26T11:33:51.851Z"
   },
+  "7767222": {
+    "slugs": [
+      "manager96"
+    ],
+    "lastSlug": "manager96",
+    "lastUrl": "https://hashtagweb3.com/manager96",
+    "updatedAt": "2026-10-06T12:01:01.476Z"
+  },
   "7767529": {
     "slugs": [
       "manager727"
@@ -959,6 +967,14 @@
     "lastSlug": "pm180",
     "lastUrl": "https://hashtagweb3.com/pm180",
     "updatedAt": "2026-09-30T11:43:30.830Z"
+  },
+  "8198262": {
+    "slugs": [
+      "int8"
+    ],
+    "lastSlug": "int8",
+    "lastUrl": "https://hashtagweb3.com/int8",
+    "updatedAt": "2026-10-06T12:01:01.476Z"
   },
   "8199729": {
     "slugs": [
@@ -4113,5 +4129,29 @@
     "lastSlug": "manager231",
     "lastUrl": "https://hashtagweb3.com/manager231",
     "updatedAt": "2026-10-06T03:58:52.442Z"
+  },
+  "37f7ce5b-b4da-4108-a84d-6b0b1f44e5da": {
+    "slugs": [
+      "qa24"
+    ],
+    "lastSlug": "qa24",
+    "lastUrl": "https://hashtagweb3.com/qa24",
+    "updatedAt": "2026-10-06T12:01:01.476Z"
+  },
+  "62c75011-1cf1-4c40-85bc-2e2a16d76332": {
+    "slugs": [
+      "product207"
+    ],
+    "lastSlug": "product207",
+    "lastUrl": "https://hashtagweb3.com/product207",
+    "updatedAt": "2026-10-06T12:01:01.476Z"
+  },
+  "5426213008": {
+    "slugs": [
+      "jpt"
+    ],
+    "lastSlug": "jpt",
+    "lastUrl": "https://hashtagweb3.com/jpt",
+    "updatedAt": "2026-10-06T12:01:01.476Z"
   }
 }
