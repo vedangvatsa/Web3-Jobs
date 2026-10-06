@@ -7716,11 +7716,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "ab457ab2c3af497f5267",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T16:45:01.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Winklevoss spot ZEC ETF filing already drafted as zec-etf.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:03.523Z",
+      "duplicateOf": "zec-etf",
+      "mergedInto": "34dafb263021f72ec7be",
+      "lastReviewedDay": "2026-10-06"
     },
     "708f9317d15e4e313886": {
       "source": "SEC Press Releases",
@@ -12610,6 +12617,15 @@
           "reviewedAt": "2026-10-06T17:45:01.661Z",
           "duplicateOf": "rain-charter",
           "mergedInto": "9e3a902dfd469f7d9fd3"
+        },
+        "ab457ab2c3af497f5267": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Winklevoss spot ZEC ETF filing already drafted as zec-etf.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:03.523Z",
+          "duplicateOf": "zec-etf",
+          "mergedInto": "34dafb263021f72ec7be"
         }
       },
       "baselineSlugs": [
