@@ -1658,7 +1658,7 @@
       "lastReviewedDay": "2026-10-06",
       "articleSlug": "shib-solana",
       "lastValidationErrors": [
-        "Missing article-specific image: cftc-leverage"
+        "zachxbt-syndicate.md: template phrasing: paradigm"
       ]
     },
     "6a51f4bf5b32bdf0faf1": {
@@ -2737,7 +2737,7 @@
       "articleSlug": "fairshake-house",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "Missing article-specific image: cftc-leverage"
+        "zachxbt-syndicate.md: template phrasing: paradigm"
       ]
     },
     "90cd3650b7fd07894c9a": {
@@ -2954,7 +2954,7 @@
       "articleSlug": "cftc-leverage",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "Missing article-specific image: cftc-leverage"
+        "zachxbt-syndicate.md: template phrasing: paradigm"
       ]
     },
     "bee78c29a5f42e9f2317": {
@@ -3149,7 +3149,7 @@
       "articleSlug": "zachxbt-syndicate",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "Missing article-specific image: cftc-leverage"
+        "zachxbt-syndicate.md: template phrasing: paradigm"
       ]
     },
     "c5df46f189a550c4b985": {
@@ -4345,7 +4345,7 @@
       "articleSlug": "fincen-withdrawal",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "Missing article-specific image: cftc-leverage"
+        "zachxbt-syndicate.md: template phrasing: paradigm"
       ]
     },
     "cbd36e5805fbad70b68e": {
@@ -5297,7 +5297,7 @@
       "articleSlug": "safe-complaint",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "Missing article-specific image: cftc-leverage"
+        "zachxbt-syndicate.md: template phrasing: paradigm"
       ]
     },
     "6d23c2dc193de0e0ff83": {
@@ -5780,7 +5780,10 @@
       ],
       "reviewedAt": "2026-10-06T03:40:57.306Z",
       "articleSlug": "strive-buyback",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "zachxbt-syndicate.md: template phrasing: paradigm"
+      ]
     },
     "85dbab31f9a744f37bcd": {
       "source": "Decrypt",
@@ -5820,7 +5823,10 @@
       ],
       "reviewedAt": "2026-10-06T03:40:59.048Z",
       "articleSlug": "solana-dvp",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "zachxbt-syndicate.md: template phrasing: paradigm"
+      ]
     },
     "eb056b0706d8366650b1": {
       "source": "BeInCrypto",
@@ -8819,7 +8825,10 @@
         ],
         "total": 132,
         "checkedAt": "2026-10-06T03:31:57.325Z"
-      }
+      },
+      "validationErrors": [
+        "zachxbt-syndicate.md: template phrasing: paradigm"
+      ]
     }
   }
 }
