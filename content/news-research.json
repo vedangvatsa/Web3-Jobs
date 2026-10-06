@@ -5200,11 +5200,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0d01d65012e209b3f4b1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T12:04:15.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "source-blocked",
+      "note": "Same Metaplanet sell-rebuy as b1e5; The Block page blocked. Verify and draft together next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:26.989Z",
+      "retrySearches": [
+        "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "49f54566f54e818c1cf4": {
       "source": "The Block",
@@ -7415,6 +7429,21 @@
             }
           ],
           "reviewedAt": "2026-10-06T01:06:25.250Z",
+          "retrySearches": [
+            "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
+          ]
+        },
+        "0d01d65012e209b3f4b1": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Same Metaplanet sell-rebuy as b1e5; The Block page blocked. Verify and draft together next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:26.989Z",
           "retrySearches": [
             "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
           ]
