@@ -1174,10 +1174,11 @@
           "url": "https://www.youtube.com/watch?v=mhpAP3hFIq0"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Offensive Security Engineer at Stripe. US - Remote · $170.4k - $255.7k/yr.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
           "startedAt": "2026-10-06T03:36:01.242Z",
-          "postId": "6ac46ca259057dd2e0d1473e"
+          "postId": "6ac46ca259057dd2e0d1473e",
+          "url": "https://tiktok.com/@hashtagweb3/video/7693393443485125920"
         }
       }
     }
