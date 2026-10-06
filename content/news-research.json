@@ -3794,11 +3794,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "241a6a1d4f803dea1eb1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T20:58:48.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "opinion",
+      "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:03.039Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "223a95c712a54902a5fb": {
       "source": "CryptoSlate",
@@ -6385,6 +6390,13 @@
           "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:01.275Z"
+        },
+        "241a6a1d4f803dea1eb1": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:03.039Z"
         }
       },
       "baselineSlugs": [
