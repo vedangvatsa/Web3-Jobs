@@ -768,7 +768,7 @@
     "sentAt": "2026-10-05T11:36:33.038Z"
   },
   "adbcc5e1-5245-4fd0-9839-472461b4bc00": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T04:01:10.119Z",
     "stories": [
       {
@@ -796,6 +796,8 @@
         "originalTitle": "Coinbase Wallet and Base Are Again Presented as Separate Products"
       }
     ],
-    "slotKey": "2026-10-06:morning"
+    "slotKey": "2026-10-06:morning",
+    "messageId": 155623,
+    "sentAt": "2026-10-06T04:01:13.270Z"
   }
 }

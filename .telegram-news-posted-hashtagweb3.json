@@ -677,6 +677,9 @@
   "https://hashtagweb3.com/eigenlayer-slashing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/maharashtra-assets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kalshi-perps?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coinex-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/symbiosis-bridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/base-wallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1939,6 +1942,12 @@
   "Indian State of Maharashtra Explores Tokenizing Infrastructure Assets",
   "Kalshi seeks US approval for stock-based perpetual futures",
   "Kalshi Plans 24/7 Tesla and Nvidia Perpetual Futures",
+  "CoinEx to Close Crypto Exchange After Nine Years",
+  "CoinEx to Shut Down Exchange After Nine Years",
+  "Symbiosis Recovers 15 BTC and Offers Bounty After Exploit",
+  "Symbiosis Recovers 15 BTC After Bitcoin Bridge Exploit, Offers 20% Bounty",
+  "Coinbase Reverts Wallet and Base to Separate Products",
+  "Coinbase Wallet and Base Are Again Presented as Separate Products",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2166,5 +2175,8 @@
   "fp:100m|advanc|collaboration|equity|invest|investment|kraken|nasdaq|of2027|parent",
   "fp:2025|activat|actively|april17|can|custom|defin|delay|eigenlayer|exit",
   "fp:asset|consider|draft|electricity|explor|indian|infrastructur|land|maharashtra|policy",
-  "fp:approval|bas|contract|current|etf|fil|futur|intend|kalshi|nvidia"
+  "fp:approval|bas|contract|current|etf|fil|futur|intend|kalshi|nvidia",
+  "fp:clos|coinex|complianc|cost|december2026|down|due|end|exchang|high",
+  "fp:bounty|breach|bridg|btc|compensation|develop|exploit|follow|liquidity|offer",
+  "fp:again|app|are|bas|blockchain|brief|coinbas|custody|distinct|follow"
 ]
