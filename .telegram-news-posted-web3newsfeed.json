@@ -707,6 +707,9 @@
   "https://hashtagweb3.com/kamino-ceo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kelp-intercept?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/thailand-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/avalanche-uae?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/vechain-interstellar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ethena-tron?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2025,6 +2028,12 @@
   "MEV Bot Yoink Seized $7.7M in rsETH After Ethereum Wallet Exploit",
   "Thailand Proposes Daily 5 Million Baht Stablecoin Transfer Limit",
   "Thailand Proposes 5 Million Baht Stablecoin Transfer Cap",
+  "Avalanche Claims UAE Digital Vault Runs on Its Blockchain",
+  "UAE Identity Vault Moves to Avalanche Blockchain",
+  "VeChain Interstellar Hard Fork Scheduled for September 16",
+  "VeChain Interstellar Hardfork Set for Sept 16",
+  "Ethena Launches USDe and sUSDe on TRON",
+  "Ethena and TRON DAO Bring USDe and sUSDe to the TRON Network",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2261,5 +2270,8 @@
   "fp:ask|beta|currency|digital|ecb|euro|for2027|join|merchant|one",
   "fp:against|appoint|asset|ceo|focus|founder|kamino|lend|michael|nam",
   "fp:77m|900|address|attacker|bot|draining2|exploit|front|intercept|kelp",
-  "fp:baht|cap|daily|feedback|limit|open|party|plan|prohibit|propos"
+  "fp:baht|cap|daily|feedback|limit|open|party|plan|prohibit|propos",
+  "fp:although|announc|any|avalanch|blockchain|claim|digital|government|identity|integration",
+  "fp:clos|compatibility|evm|fork|gap|hard|hardfork|improvement|integrates11|interstellar",
+  "fp:asset|bridg|can|dao|defi|ethena|financ|integration|justlend|network"
 ]

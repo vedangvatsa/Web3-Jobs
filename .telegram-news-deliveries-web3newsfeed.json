@@ -834,7 +834,7 @@
     "sentAt": "2026-10-06T04:01:46.492Z"
   },
   "e08100c2-852c-487a-82fd-87273470be54": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T12:04:52.772Z",
     "stories": [
       {
@@ -862,6 +862,8 @@
         "originalTitle": "Ethena and TRON DAO Bring USDe and sUSDe to the TRON Network"
       }
     ],
-    "slotKey": "2026-10-06:afternoon"
+    "slotKey": "2026-10-06:afternoon",
+    "messageId": 65733,
+    "sentAt": "2026-10-06T12:04:55.407Z"
   }
 }
