@@ -3119,13 +3119,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "326675e76ea9e57d0cb9",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T18:30:00.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified 349700 USDC front, 5pct per-order loss, Jimmy Green chats, 12M cluster and 442K Tether freeze across Decrypt, CryptoSlate and Cointelegraph.",
+      "note": "Verified Oct 5 ZachXBT infiltration with 349700 USDC front, 5pct loss, Jimmy Green chats, 12M cluster and 442K freeze across Decrypt, CryptoSlate and Cointelegraph.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
@@ -3140,7 +3140,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:01:51.224Z",
+      "reviewedAt": "2026-10-06T11:56:39.760Z",
       "articleSlug": "zachxbt-syndicate",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -10290,6 +10290,27 @@
           ],
           "reviewedAt": "2026-10-06T11:56:38.076Z",
           "articleSlug": "fincen-withdrawal"
+        },
+        "326675e76ea9e57d0cb9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 ZachXBT infiltration with 349700 USDC front, 5pct loss, Jimmy Green chats, 12M cluster and 442K freeze across Decrypt, CryptoSlate and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/zachxbt-infiltrates-1b-crypto-syndicate-to-expose-lazarus-group/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:56:39.760Z",
+          "articleSlug": "zachxbt-syndicate"
         }
       },
       "baselineSlugs": [
