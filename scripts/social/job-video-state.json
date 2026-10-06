@@ -1139,9 +1139,10 @@
           "url": "https://www.youtube.com/watch?v=h8EQmbk6vfk"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Product Partnerships Manager at Transak. Miami, US.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-06T03:32:22.007Z"
+          "startedAt": "2026-10-06T03:32:22.007Z",
+          "postId": "6ac46bc7b0e0485fb4699696"
         }
       }
     },
