@@ -680,6 +680,9 @@
   "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
   "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
   "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+  "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+  "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+  "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1823,6 +1826,12 @@
   "2026 Climate Tech Companies to Watch",
   "WeLion New Energy Develops Semi-Solid-State Batteries",
   "WeLion New Energy and its semi-solid-state batteries",
+  "Mistral releases Mistral Large 4 multimodal model",
+  "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+  "HackerRank deploys AI interviewer for 500,000 job screenings",
+  "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+  "Weight-loss drugs may reduce biological aging markers",
+  "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2020,5 +2029,8 @@
   "fp:ban|bystander|crackdown|devic|draft|fac|glass|government|halt|major",
   "fp:agent|allow|between|comm|context|flaw|found|gap|heard|interact",
   "fp:2026|address|business|carbon|challeng|climat|develop|emission|environmental|featur",
-  "fp:battery|boat|density|develop|dron|electric|energy|higher|ion|lithium"
+  "fp:battery|boat|density|develop|dron|electric|energy|higher|ion|lithium",
+  "fp:aim|american|chines|clos|compet|design|french|large4|leapfrog|mistral",
+  "fp:000|automat|becom|conduct|corporation|deploy|for500|glimps|hackerrank|interview",
+  "fp:appear|biological|cellular|drug|drugmaker|eli|lilly|loss|marker|may"
 ]
