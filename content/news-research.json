@@ -4207,11 +4207,38 @@
       ],
       "alsoCoveredBy": [],
       "id": "b044864ba1f8b300e5db",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T20:46:53.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "verified-event",
+      "note": "Verified both withdrawals in the FinCEN release and Federal Register notices with matching figures and quotes across Decrypt, Cointelegraph and Unchained.",
+      "sourceChecks": [
+        {
+          "url": "https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/fincen-withdraws-proposed-crypto-mixer-and-unhosted-wallet-reporting-rules/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:07:53.575Z",
+      "articleSlug": "fincen-withdrawal",
+      "lastReviewedDay": "2026-10-06"
     },
     "cbd36e5805fbad70b68e": {
       "source": "Bitcoin Magazine",
@@ -7914,6 +7941,35 @@
           "retrySearches": [
             "Lido CSM 0x02 bond 32 ETH site:coindesk.com OR site:theblock.co OR site:dlnews.com OR site:decrypt.co OR site:cointelegraph.com"
           ]
+        },
+        "b044864ba1f8b300e5db": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified both withdrawals in the FinCEN release and Federal Register notices with matching figures and quotes across Decrypt, Cointelegraph and Unchained.",
+          "sourceChecks": [
+            {
+              "url": "https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/fincen-withdraws-proposed-crypto-mixer-and-unhosted-wallet-reporting-rules/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:07:53.575Z",
+          "articleSlug": "fincen-withdrawal"
         }
       },
       "baselineSlugs": [
