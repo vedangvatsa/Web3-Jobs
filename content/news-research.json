@@ -9172,11 +9172,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "79c33c3b14d198dea11c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T12:28:07.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "opinion",
+      "note": "Moonshot AI valuation-multiples opinion piece about a non-crypto AI company; no crypto concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/deepseek-moonshot-valuation-openai-anthropic-multiples/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:13.497Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "fcf424dbb912710ba7c0": {
       "source": "BeInCrypto",
@@ -13186,6 +13196,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:11.791Z"
+        },
+        "79c33c3b14d198dea11c": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Moonshot AI valuation-multiples opinion piece about a non-crypto AI company; no crypto concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/deepseek-moonshot-valuation-openai-anthropic-multiples/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:13.497Z"
         }
       },
       "baselineSlugs": [
