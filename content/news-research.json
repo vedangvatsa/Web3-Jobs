@@ -7348,13 +7348,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "76092735e85de2494435",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T01:00:07.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 6 Startale Bond paying interest and principal in JPYSC with SBI Shinsei Trust Bank roles across Chainwire and DailyCoin.",
+      "note": "Verified Oct 6 Startale Bond paying interest and principal in JPYSC with SBI Shinsei Trust Bank roles across announcement and second outlet.",
       "sourceChecks": [
         {
           "url": "https://chainwire.org/2026/10/06/startale-japan-launches-japans-first-digital-corporate-bond-paid-in-jpysc/",
@@ -7365,7 +7365,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:57:23.636Z",
+      "reviewedAt": "2026-10-06T17:42:46.435Z",
       "articleSlug": "startale-bond",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11879,6 +11879,23 @@
           ],
           "reviewedAt": "2026-10-06T17:42:44.846Z",
           "articleSlug": "ondo-private"
+        },
+        "76092735e85de2494435": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 6 Startale Bond paying interest and principal in JPYSC with SBI Shinsei Trust Bank roles across announcement and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://chainwire.org/2026/10/06/startale-japan-launches-japans-first-digital-corporate-bond-paid-in-jpysc/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dailycoin.com/startale-launches-japans-first-digital-corporate-bond-paid-in-jpysc/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:46.435Z",
+          "articleSlug": "startale-bond"
         }
       },
       "baselineSlugs": [
