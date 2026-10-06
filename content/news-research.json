@@ -7883,11 +7883,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "2b4428473fa3333e3d8b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T12:11:50.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Don Davis prediction-market bill already drafted as davis-bill.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:05.327Z",
+      "duplicateOf": "davis-bill",
+      "mergedInto": "2a97fd1fa7e855ef22c3",
+      "lastReviewedDay": "2026-10-06"
     },
     "985d98eee3017816e519": {
       "source": "The Block",
@@ -12626,6 +12633,15 @@
           "reviewedAt": "2026-10-06T17:45:03.523Z",
           "duplicateOf": "zec-etf",
           "mergedInto": "34dafb263021f72ec7be"
+        },
+        "2b4428473fa3333e3d8b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Don Davis prediction-market bill already drafted as davis-bill.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:05.327Z",
+          "duplicateOf": "davis-bill",
+          "mergedInto": "2a97fd1fa7e855ef22c3"
         }
       },
       "baselineSlugs": [
