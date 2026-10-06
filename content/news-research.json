@@ -3055,11 +3055,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c5df46f189a550c4b985",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T16:49:15.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Umia 6.1M raise at 18M FDV reported only by The Block; page blocked, needs a second openable outlet or company announcement.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:05:10.457Z",
+      "retrySearches": [
+        "Umia raises 6.1 million token launch October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "80b65096e8fd3565317c": {
       "source": "Decrypt",
@@ -6802,6 +6816,21 @@
           "reviewedAt": "2026-10-06T01:05:08.683Z",
           "retrySearches": [
             "Plume NBND vault Fidelity FBND tokenized October 2026"
+          ]
+        },
+        "c5df46f189a550c4b985": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Umia 6.1M raise at 18M FDV reported only by The Block; page blocked, needs a second openable outlet or company announcement.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:05:10.457Z",
+          "retrySearches": [
+            "Umia raises 6.1 million token launch October 2026"
           ]
         }
       },
