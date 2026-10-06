@@ -8214,11 +8214,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b0c9f331ca250c99cdd7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:50:42.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "price-chatter",
+      "note": "ETH price action near 2700 plus spot ETF outflow figures with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:47.985Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "b1d10154abc829706514": {
       "source": "The Defiant",
@@ -12988,6 +12998,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:46.304Z"
+        },
+        "b0c9f331ca250c99cdd7": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "ETH price action near 2700 plus spot ETF outflow figures with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:47.985Z"
         }
       },
       "baselineSlugs": [
