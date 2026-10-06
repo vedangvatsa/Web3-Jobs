@@ -2974,17 +2974,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "bee78c29a5f42e9f2317",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T16:09:02.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
       "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:57:49.871Z",
+      "reviewedAt": "2026-10-06T17:43:54.936Z",
       "duplicateOf": "cftc-leverage",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "b016d77f01cee47e2ca1"
     },
     "e95bbb987cdc868de54d": {
       "source": "CoinDesk",
@@ -12282,6 +12283,15 @@
           "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T17:43:53.133Z",
+          "duplicateOf": "cftc-leverage",
+          "mergedInto": "b016d77f01cee47e2ca1"
+        },
+        "bee78c29a5f42e9f2317": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:43:54.936Z",
           "duplicateOf": "cftc-leverage",
           "mergedInto": "b016d77f01cee47e2ca1"
         }
