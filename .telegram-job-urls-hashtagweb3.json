@@ -1693,6 +1693,14 @@
     "lastUrl": "https://hashtagweb3.com/sales-1qbzimw",
     "updatedAt": "2026-09-15T19:44:52.678Z"
   },
+  "8129118": {
+    "slugs": [
+      "eng99"
+    ],
+    "lastSlug": "eng99",
+    "lastUrl": "https://hashtagweb3.com/eng99",
+    "updatedAt": "2026-10-06T12:01:12.133Z"
+  },
   "8131132": {
     "slugs": [
       "manager485",
@@ -6974,5 +6982,37 @@
     "lastSlug": "manager310",
     "lastUrl": "https://hashtagweb3.com/manager310",
     "updatedAt": "2026-10-06T03:58:59.085Z"
+  },
+  "c32760bb-dc13-4315-a78c-ac553f37fd7d": {
+    "slugs": [
+      "esports"
+    ],
+    "lastSlug": "esports",
+    "lastUrl": "https://hashtagweb3.com/esports",
+    "updatedAt": "2026-10-06T12:01:12.133Z"
+  },
+  "e1dd7ceb-0a89-40e4-b665-fd22e49a77c9": {
+    "slugs": [
+      "marketing202"
+    ],
+    "lastSlug": "marketing202",
+    "lastUrl": "https://hashtagweb3.com/marketing202",
+    "updatedAt": "2026-10-06T12:01:12.133Z"
+  },
+  "5867e405-db64-4797-ae2b-34d8902212d2": {
+    "slugs": [
+      "qa61"
+    ],
+    "lastSlug": "qa61",
+    "lastUrl": "https://hashtagweb3.com/qa61",
+    "updatedAt": "2026-10-06T12:01:12.133Z"
+  },
+  "7763203003": {
+    "slugs": [
+      "engineer389"
+    ],
+    "lastSlug": "engineer389",
+    "lastUrl": "https://hashtagweb3.com/engineer389",
+    "updatedAt": "2026-10-06T12:01:12.133Z"
   }
 }
