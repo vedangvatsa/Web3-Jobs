@@ -6663,11 +6663,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "31a11ef84d7f87a7df34",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T09:38:28.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 5 Ondo Private Markets launch, first pre-IPO AI notes trading this week and payout mechanics across Ondo blog and Cointelegraph.",
+      "sourceChecks": [
+        {
+          "url": "https://ondo.finance/blog/introducing-ondo-private-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:03:43.567Z",
+      "articleSlug": "ondo-private",
+      "lastReviewedDay": "2026-10-06"
     },
     "7fdb20121d86adea78ff": {
       "source": "CoinDesk",
@@ -10160,6 +10175,23 @@
           ],
           "reviewedAt": "2026-10-06T11:03:41.878Z",
           "articleSlug": "polymarket-v2"
+        },
+        "31a11ef84d7f87a7df34": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Ondo Private Markets launch, first pre-IPO AI notes trading this week and payout mechanics across Ondo blog and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://ondo.finance/blog/introducing-ondo-private-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:03:43.567Z",
+          "articleSlug": "ondo-private"
         }
       },
       "baselineSlugs": [
