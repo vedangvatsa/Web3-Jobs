@@ -6874,17 +6874,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c81375998e9b657c40a2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T09:21:38.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "duplicate",
       "note": "Same Oct 5 Ondo Private Markets pre-IPO AI notes launch already drafted as ondo-private.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:58:24.845Z",
+      "reviewedAt": "2026-10-06T17:44:45.383Z",
       "duplicateOf": "ondo-private",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "31a11ef84d7f87a7df34"
     },
     "67685db960ebd117ae07": {
       "source": "The Defiant",
@@ -12500,6 +12501,15 @@
           "reviewedAt": "2026-10-06T17:44:40.145Z",
           "duplicateOf": "prysm-fix",
           "mergedInto": "6e2ca852f1ef49e786e5"
+        },
+        "c81375998e9b657c40a2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Ondo Private Markets pre-IPO AI notes launch already drafted as ondo-private.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:44:45.383Z",
+          "duplicateOf": "ondo-private",
+          "mergedInto": "31a11ef84d7f87a7df34"
         }
       },
       "baselineSlugs": [
