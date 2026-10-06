@@ -3326,11 +3326,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "431c67e9e2ef0507ca32",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T16:10:00.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "price-chatter",
+      "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:13.896Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "e32cc8ff28d76f51043e": {
       "source": "Cointelegraph",
@@ -6445,6 +6450,13 @@
           "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:12.238Z"
+        },
+        "431c67e9e2ef0507ca32": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:13.896Z"
         }
       },
       "baselineSlugs": [
