@@ -1643,25 +1643,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c55fb855cb43014383f",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T10:17:54.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
-      "reason": "source-blocked",
-      "note": "SHIB on Solana via Sunrise launch reported by BeInCrypto which returned 403; Solana primary post and second independent outlet not yet opened and read.",
+      "reason": "verified-event",
+      "note": "Verified the Oct 4 SHIB listing via Sunrise, launch figures, canonical mint and app coverage across the Solana announcement, U.Today and AltcoinBuzz.",
       "sourceChecks": [
+        {
+          "url": "https://x.com/solana/status/2106779195556892964",
+          "outcome": "read"
+        },
+        {
+          "url": "https://u.today/shiba-inu-shib-goes-live-on-solana",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.altcoinbuzz.io/shib-lands-on-solana-with-514-000-in-launch-liquidity",
+          "outcome": "read"
+        },
         {
           "url": "https://beincrypto.com/shib-on-solana-shiba-inu-sunrise/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-05T11:02:49.860Z",
+      "reviewedAt": "2026-10-06T01:12:27.899Z",
       "retrySearches": [
         "SHIB live on Solana via Sunrise gateway October 2026 Solana announcement"
       ],
-      "lastReviewedDay": "2026-10-05",
-      "nextReviewDate": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "articleSlug": "shib-solana"
     },
     "6a51f4bf5b32bdf0faf1": {
       "source": "Unchained",
@@ -8393,6 +8405,31 @@
           "reviewedAt": "2026-10-06T01:11:25.168Z",
           "duplicateOf": "safe-complaint",
           "mergedInto": "af683c29d6e5e763d727"
+        },
+        "7c55fb855cb43014383f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 4 SHIB listing via Sunrise, launch figures, canonical mint and app coverage across the Solana announcement, U.Today and AltcoinBuzz.",
+          "sourceChecks": [
+            {
+              "url": "https://x.com/solana/status/2106779195556892964",
+              "outcome": "read"
+            },
+            {
+              "url": "https://u.today/shiba-inu-shib-goes-live-on-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.altcoinbuzz.io/shib-lands-on-solana-with-514-000-in-launch-liquidity",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/shib-on-solana-shiba-inu-sunrise/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:12:27.899Z",
+          "articleSlug": "shib-solana"
         }
       },
       "baselineSlugs": [
