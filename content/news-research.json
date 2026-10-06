@@ -7055,11 +7055,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b41505bfbdcc67bb73b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T06:30:33.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "opinion",
+      "note": "Bitfinex fee editorial testing an 80pct cost-cut target against a pre-existing fee floor, analysis with no new Oct launch or filing.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/cheap-crypto-capital-hits-wall-as-bitfinex-fee-rule-binds/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:04:17.738Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "e1a7cc4953a9672a40de": {
       "source": "CoinDesk",
@@ -10526,6 +10536,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T11:04:15.309Z"
+        },
+        "7b41505bfbdcc67bb73b": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bitfinex fee editorial testing an 80pct cost-cut target against a pre-existing fee floor, analysis with no new Oct launch or filing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/cheap-crypto-capital-hits-wall-as-bitfinex-fee-rule-binds/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:04:17.738Z"
         }
       },
       "baselineSlugs": [
