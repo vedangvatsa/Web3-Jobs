@@ -1241,9 +1241,10 @@
           "url": "https://www.instagram.com/reel/DeJsAVkAGnA/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "Frankfurt, Germany\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-06T11:34:46.177Z"
+          "startedAt": "2026-10-06T11:34:46.177Z",
+          "postId": "6ac4dcd8d2b2583c5a3ed736"
         }
       }
     }
