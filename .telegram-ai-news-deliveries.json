@@ -748,7 +748,7 @@
     "sentAt": "2026-10-06T03:59:06.945Z"
   },
   "02f03836-d4c3-4aad-8171-f4aa4acc4ac8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T12:04:28.544Z",
     "stories": [
       {
@@ -778,6 +778,8 @@
         "originalTitle": "WeLion New Energy and its semi-solid-state batteries"
       }
     ],
-    "slotKey": "2026-10-06:afternoon"
+    "slotKey": "2026-10-06:afternoon",
+    "messageId": 193322,
+    "sentAt": "2026-10-06T12:04:31.661Z"
   }
 }
