@@ -6774,11 +6774,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "191c57df6317c95e106f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T08:57:21.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "out-of-scope",
+      "note": "US real-estate stock analysis with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:17.245Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "d49384bba7688cd975ae": {
       "source": "The Defiant",
@@ -10044,6 +10049,13 @@
           "note": "US-China AI company funding and IPO story with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:15.054Z"
+        },
+        "191c57df6317c95e106f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US real-estate stock analysis with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:17.245Z"
         }
       },
       "baselineSlugs": [
