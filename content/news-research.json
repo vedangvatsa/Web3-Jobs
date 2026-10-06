@@ -3488,11 +3488,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8bb86c4a5e59ed6da22f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T14:24:02.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "price-chatter",
+      "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:22.597Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "b57183e4d5c9ec940165": {
       "source": "Unchained",
@@ -6505,6 +6510,13 @@
           "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:20.909Z"
+        },
+        "8bb86c4a5e59ed6da22f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:22.597Z"
         }
       },
       "baselineSlugs": [
