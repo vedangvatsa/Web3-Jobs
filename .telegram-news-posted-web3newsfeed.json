@@ -704,6 +704,9 @@
   "https://hashtagweb3.com/zcash-upgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/coinex-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/euro-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kamino-ceo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kelp-intercept?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/thailand-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2016,6 +2019,12 @@
   "CoinEx to Shut Down Exchange After Nine Years",
   "ECB seeks online merchants for 2027 digital euro pilot",
   "ECB Asks Online Merchants to Join Digital Euro Pilot Starting 2027",
+  "Kamino Appoints Michael Weisz as New CEO",
+  "Kamino Names Yieldstreet Co-Founder Michael Weisz as CEO",
+  "MEV Bot Intercepts $7.7M Stolen in Ethereum Exploit",
+  "MEV Bot Yoink Seized $7.7M in rsETH After Ethereum Wallet Exploit",
+  "Thailand Proposes Daily 5 Million Baht Stablecoin Transfer Limit",
+  "Thailand Proposes 5 Million Baht Stablecoin Transfer Cap",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2249,5 +2258,8 @@
   "fp:automat|exchang|exclud|exemption|fiv|grant|issu|market|may|real",
   "fp:advisory|and2031|approv|block|community|delay|fund|halv|mechanism|network",
   "fp:2026|clos|coinex|cost|december22|down|due|end|exchang|market",
-  "fp:ask|beta|currency|digital|ecb|euro|for2027|join|merchant|one"
+  "fp:ask|beta|currency|digital|ecb|euro|for2027|join|merchant|one",
+  "fp:against|appoint|asset|ceo|focus|founder|kamino|lend|michael|nam",
+  "fp:77m|900|address|attacker|bot|draining2|exploit|front|intercept|kelp",
+  "fp:baht|cap|daily|feedback|limit|open|party|plan|prohibit|propos"
 ]

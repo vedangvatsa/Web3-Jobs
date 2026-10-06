@@ -801,7 +801,7 @@
     "sentAt": "2026-10-05T11:36:49.612Z"
   },
   "4f86d8b7-e9b7-4245-842e-f7b67e8062dd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T04:01:43.805Z",
     "stories": [
       {
@@ -829,6 +829,8 @@
         "originalTitle": "Thailand Proposes 5 Million Baht Stablecoin Transfer Cap"
       }
     ],
-    "slotKey": "2026-10-06:morning"
+    "slotKey": "2026-10-06:morning",
+    "messageId": 65732,
+    "sentAt": "2026-10-06T04:01:46.492Z"
   }
 }
