@@ -8731,11 +8731,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "056cada6111a680c97cc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:14:05.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Ether.fi dollar stablecoin with Ethena already drafted as etherfi-stablecoin.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:18.300Z",
+      "duplicateOf": "etherfi-stablecoin",
+      "mergedInto": "28fa76ae1c70d3c3f94a",
+      "lastReviewedDay": "2026-10-06"
     },
     "921e2171ef1de71348c5": {
       "source": "CoinDesk",
@@ -12706,6 +12713,15 @@
           "reviewedAt": "2026-10-06T17:45:16.577Z",
           "duplicateOf": "ripple-prime",
           "mergedInto": "360aba413f29ecfbf5c2"
+        },
+        "056cada6111a680c97cc": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ether.fi dollar stablecoin with Ethena already drafted as etherfi-stablecoin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:18.300Z",
+          "duplicateOf": "etherfi-stablecoin",
+          "mergedInto": "28fa76ae1c70d3c3f94a"
         }
       },
       "baselineSlugs": [
