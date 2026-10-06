@@ -6192,11 +6192,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "ae726ac1baa4de481b54",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T13:38:59.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 5 Eigen Labs and Shielded Labs HashSmash launch on Yukon targeting SHA-256 SHA-3 BLAKE3 Poseidon with public review across PR Newswire and asic.tools analysis.",
+      "sourceChecks": [
+        {
+          "url": "https://chainwire.org/2026/10/05/preparing-the-worlds-cryptography-for-the-ai-era-eigen-labs-and-zcash-organization-shielded-labs-launch-hashsmash-an-open-multiplayer-competition-to-test-how-far-ai-can-advance-attacks-on-widely/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://asic.tools/en/news/hashsmash-ai-cryptanalysis-sha256-public-competition/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:04:11.494Z",
+      "articleSlug": "hashsmash",
+      "lastReviewedDay": "2026-10-06"
     },
     "5880c906f019b78141ac": {
       "source": "CoinDesk",
@@ -10440,6 +10455,23 @@
           ],
           "reviewedAt": "2026-10-06T11:04:09.847Z",
           "articleSlug": "startale-bond"
+        },
+        "ae726ac1baa4de481b54": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Eigen Labs and Shielded Labs HashSmash launch on Yukon targeting SHA-256 SHA-3 BLAKE3 Poseidon with public review across PR Newswire and asic.tools analysis.",
+          "sourceChecks": [
+            {
+              "url": "https://chainwire.org/2026/10/05/preparing-the-worlds-cryptography-for-the-ai-era-eigen-labs-and-zcash-organization-shielded-labs-launch-hashsmash-an-open-multiplayer-competition-to-test-how-far-ai-can-advance-attacks-on-widely/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://asic.tools/en/news/hashsmash-ai-cryptanalysis-sha256-public-competition/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:04:11.494Z",
+          "articleSlug": "hashsmash"
         }
       },
       "baselineSlugs": [
