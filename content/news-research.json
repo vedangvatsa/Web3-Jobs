@@ -7103,17 +7103,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a934763bc93565166fae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T07:25:11.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 ZachXBT infiltration disclosure covered by zachxbt-syndicate.",
+      "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:02:01.645Z",
+      "reviewedAt": "2026-10-06T11:58:28.539Z",
       "duplicateOf": "zachxbt-syndicate",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "326675e76ea9e57d0cb9"
     },
     "3affc6cd2072c81855c0": {
       "source": "BeInCrypto",
@@ -10959,6 +10960,15 @@
           "reviewedAt": "2026-10-06T11:58:26.667Z",
           "duplicateOf": "ondo-private",
           "mergedInto": "31a11ef84d7f87a7df34"
+        },
+        "a934763bc93565166fae": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:58:28.539Z",
+          "duplicateOf": "zachxbt-syndicate",
+          "mergedInto": "326675e76ea9e57d0cb9"
         }
       },
       "baselineSlugs": [
