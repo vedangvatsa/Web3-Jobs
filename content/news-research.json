@@ -3179,11 +3179,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "c25a6a9150e0ad4c8c3f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T19:17:44.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "duplicate",
+      "note": "Same Ethereum validator exit-queue surge and MetaMask withdrawals already covered by staking-queue with Oct 5 figures.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:41.568Z",
+      "duplicateOf": "staking-queue",
+      "lastReviewedDay": "2026-10-06"
     },
     "a6af7b8ee2eb8ce10d3d": {
       "source": "BeInCrypto",
@@ -6285,6 +6291,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:39.742Z",
           "duplicateOf": "anchorage-cuts"
+        },
+        "c25a6a9150e0ad4c8c3f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ethereum validator exit-queue surge and MetaMask withdrawals already covered by staking-queue with Oct 5 figures.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:41.568Z",
+          "duplicateOf": "staking-queue"
         }
       },
       "baselineSlugs": [
