@@ -6847,11 +6847,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "d49384bba7688cd975ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T08:24:37.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Ondo Private Markets pre-IPO AI notes launch covered by ondo-private.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:47.109Z",
+      "duplicateOf": "ondo-private",
+      "mergedInto": "31a11ef84d7f87a7df34",
+      "lastReviewedDay": "2026-10-06"
     },
     "058a98c398021660066b": {
       "source": "BeInCrypto",
@@ -10206,6 +10213,15 @@
           "note": "Same Oct 5 Ondo Private Markets pre-IPO AI notes launch covered by ondo-private.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:45.355Z",
+          "duplicateOf": "ondo-private",
+          "mergedInto": "31a11ef84d7f87a7df34"
+        },
+        "d49384bba7688cd975ae": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Ondo Private Markets pre-IPO AI notes launch covered by ondo-private.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:47.109Z",
           "duplicateOf": "ondo-private",
           "mergedInto": "31a11ef84d7f87a7df34"
         }
