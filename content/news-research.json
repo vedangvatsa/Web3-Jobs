@@ -3858,11 +3858,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "632e4bb5b98a6d6fbf9d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T10:58:03.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Same Metaplanet sell-rebuy and income strategy as b1e5; this outlet copy open. Verify and draft together next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:23.493Z",
+      "retrySearches": [
+        "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "b9840da9e11cd5ca7d90": {
       "source": "CoinDesk",
@@ -7357,6 +7371,21 @@
             }
           ],
           "reviewedAt": "2026-10-06T01:06:21.765Z",
+          "retrySearches": [
+            "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
+          ]
+        },
+        "632e4bb5b98a6d6fbf9d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Same Metaplanet sell-rebuy and income strategy as b1e5; this outlet copy open. Verify and draft together next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:23.493Z",
           "retrySearches": [
             "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
           ]
