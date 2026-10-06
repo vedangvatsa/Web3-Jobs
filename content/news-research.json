@@ -6597,17 +6597,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b2ef0a27f93e677cebab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T04:49:05.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 Prysm v7.2.1 gas-limit fix already drafted as prysm-fix with GitHub release and two outlets.",
+      "note": "Same Oct 5 Prysm v7.2.1 gas-limit fix already drafted as prysm-fix.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:58:21.387Z",
+      "reviewedAt": "2026-10-06T17:44:40.145Z",
       "duplicateOf": "prysm-fix",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "6e2ca852f1ef49e786e5"
     },
     "1f77a1ff00cb03834c5a": {
       "source": "CoinDesk",
@@ -12490,6 +12491,15 @@
           "reviewedAt": "2026-10-06T17:44:38.553Z",
           "duplicateOf": "solana-dvp",
           "mergedInto": "85dbab31f9a744f37bcd"
+        },
+        "b2ef0a27f93e677cebab": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Prysm v7.2.1 gas-limit fix already drafted as prysm-fix.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:44:40.145Z",
+          "duplicateOf": "prysm-fix",
+          "mergedInto": "6e2ca852f1ef49e786e5"
         }
       },
       "baselineSlugs": [
