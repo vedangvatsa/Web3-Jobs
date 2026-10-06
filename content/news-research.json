@@ -6498,11 +6498,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b2ef0a27f93e677cebab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T04:49:05.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Prysm v7.2.1 gas-limit fix before Glamsterdam Sepolia test covered by prysm-fix.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:53.853Z",
+      "duplicateOf": "prysm-fix",
+      "mergedInto": "6e2ca852f1ef49e786e5",
+      "lastReviewedDay": "2026-10-06"
     },
     "1f77a1ff00cb03834c5a": {
       "source": "CoinDesk",
@@ -10320,6 +10327,15 @@
           ],
           "reviewedAt": "2026-10-06T11:03:52.275Z",
           "articleSlug": "prysm-fix"
+        },
+        "b2ef0a27f93e677cebab": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Prysm v7.2.1 gas-limit fix before Glamsterdam Sepolia test covered by prysm-fix.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:53.853Z",
+          "duplicateOf": "prysm-fix",
+          "mergedInto": "6e2ca852f1ef49e786e5"
         }
       },
       "baselineSlugs": [
