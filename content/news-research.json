@@ -7547,11 +7547,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e62f3d989a454f045a0f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T11:31:41.725Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T11:30:00.000Z",
-      "lastSeenAt": "2026-10-06T11:31:41.725Z"
+      "lastSeenAt": "2026-10-06T11:31:41.725Z",
+      "reason": "promotional",
+      "note": "Single-outlet local butcher bitcoin balance-sheet anecdote with no independent corroboration or concrete market event.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/culture/bitcoin-old-major-market-48-states",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:58:38.286Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "74a0da5754a8783581b8": {
       "source": "CoinDesk",
@@ -11011,6 +11021,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T11:58:36.661Z"
+        },
+        "e62f3d989a454f045a0f": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single-outlet local butcher bitcoin balance-sheet anecdote with no independent corroboration or concrete market event.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/culture/bitcoin-old-major-market-48-states",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:58:38.286Z"
         }
       },
       "baselineSlugs": [
