@@ -2,13 +2,13 @@
  * OG asset gate for CI deploys.
  *
  * Fails loudly when share-image generation produced nothing (our bug),
- * and reports whether the opennext bundler carried public/og + public/preview
- * into .open-next/assets (warn-only: answers "did the bundler drop them?"
+ * and reports whether the standalone build carried public/og + public/preview
+ * into .next/standalone/public (warn-only: answers "did the bundler drop them?"
  * on every deploy without blocking releases).
  *
  * Usage:
  *   npx tsx scripts/assert-og-assets.ts            # pre-build: checks public/
- *   npx tsx scripts/assert-og-assets.ts --bundled  # post-build: also checks .open-next/assets
+ *   npx tsx scripts/assert-og-assets.ts --bundled  # post-build: also checks standalone public assets
  */
 import * as fs from 'fs';
 import * as path from 'path';
@@ -73,16 +73,16 @@ if (previews === 0) {
 }
 
 if (CHECK_BUNDLED) {
-  const bundledJobs = countFiles(path.join(ROOT, '.open-next', 'assets', 'og', 'jobs'), '.png');
-  const bundledPreviews = countFiles(path.join(ROOT, '.open-next', 'assets', 'preview'), '.html');
+  const bundledJobs = countFiles(path.join(ROOT, '.next', 'standalone', 'public', 'og', 'jobs'), '.png');
+  const bundledPreviews = countFiles(path.join(ROOT, '.next', 'standalone', 'public', 'preview'), '.html');
   console.log(`[assert-og-assets] bundled assets/og/jobs=${bundledJobs} assets/preview=${bundledPreviews}`);
   if (bundledJobs === 0 && ogJobs > 0) {
     console.warn(
-      '[assert-og-assets] WARNING: opennext build dropped public/og — job share cards will 404 live. Investigate adapter asset bundling.',
+      '[assert-og-assets] WARNING: standalone output is missing public/og. Check asset copying before deployment.',
     );
   }
   if (bundledPreviews === 0 && previews > 0) {
-    console.warn('[assert-og-assets] WARNING: opennext build dropped public/preview.');
+    console.warn('[assert-og-assets] WARNING: standalone output is missing public/preview.');
   }
 }
 

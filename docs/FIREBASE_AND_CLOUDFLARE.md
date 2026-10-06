@@ -2,13 +2,15 @@
 
 **Hashtagweb3.com** is served on **Firebase App Hosting** (GCP project **`web3-jobs-aggregator`**, backend in [`firebase.json`](../firebase.json)). Builds use [`apphosting.yaml`](../apphosting.yaml) (`npm run build`; **`OG_PRECOMPUTE=0`**, **`OG_FILL_MISSING=0`** — OG PNGs come from git via daily ingest).
 
-OpenNext / Cloudflare Workers paths in this repo are **legacy** (workflows and scripts may remain for reference). Do not treat Cloudflare as production when changing deploy or DNS docs.
+The OpenNext/Cloudflare Workers build toolchain has been removed. This document's
+filename is retained for existing links. The supported deployment path is Firebase
+App Hosting; repository cleanup does not change domain DNS or external accounts.
 
 ## What Firebase is used for
 
 | Layer | Role |
 |-------|------|
-| **App Hosting** | Next.js 14 HTML, middleware, `/api/*` route handlers |
+| **App Hosting** | Next.js 15 HTML, middleware, `/api/*` route handlers |
 | **Firestore** | Optional product data (rules in [`firestore.rules`](../firestore.rules)) |
 | **Secret Manager** | App Hosting env via `firebase apphosting:secrets:*` |
 | **Cloud Build** | Every App Hosting rollout (`npm ci` + full prebuild/build) |
@@ -27,7 +29,8 @@ LinkedIn/Threads posting uses **GitHub/Action secrets** (`LINKEDIN_ACCESS_TOKEN`
 
 ## App Hosting secrets (Secret Manager)
 
-GitHub Actions secrets **do not** automatically apply to App Hosting. Use **Actions → Sync Firebase App Hosting secrets** or:
+GitHub Actions secrets **do not** automatically apply to App Hosting. The daily
+deployment workflow runs the synchronization script below. For manual setup:
 
 ```bash
 firebase login
@@ -41,7 +44,8 @@ Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase
 
 ## Deploy flow
 
-1. Push to **`main`** (or trigger rollout in Firebase Console).
+1. Push to **`main`**. The normal daily workflow creates the build and rollout;
+   automatic Firebase rollouts are disabled.
 2. App Hosting runs Cloud Build → `npm run build` (prebuild gates; OG PNGs/previews from git — see [`GCP_COST_OPTIMIZATION.md`](GCP_COST_OPTIMIZATION.md)).
 3. New revision serves traffic when rollout completes.
 
@@ -51,7 +55,9 @@ Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase
 
 See [`GCP_COST_OPTIMIZATION.md`](GCP_COST_OPTIMIZATION.md) — build frequency, `OG_PRECOMPUTE`, duplicate Cloud Build rollouts, and the old **`web3-job-board-aggregator`** project.
 
-## Legacy Cloudflare (optional cleanup)
+## Runtime catalog recovery
 
-- Workflow [`.github/workflows/deploy-cloudflare.yml`](../.github/workflows/deploy-cloudflare.yml) — disable in GitHub if unused.
-- [`wrangler.jsonc`](../wrangler.jsonc), `npm run deploy:cloudflare` — not production path.
+Catalogs load from local `content/` or `public/data/` files first, then recover
+through the public site URL when necessary. No Worker context or asset binding is
+required. `npm run test:catalog-recovery` exercises retries, malformed responses,
+request deduplication and alias isolation.

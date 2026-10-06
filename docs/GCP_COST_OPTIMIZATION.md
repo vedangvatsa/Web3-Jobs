@@ -162,7 +162,7 @@ build behavior applies only when automatic rollouts are enabled.
 
 1. **Two deploy pipelines for the same app** — Confirm in [Cloud Build → Triggers](https://console.cloud.google.com/cloud-build/triggers?project=web3-jobs-aggregator) whether **`cloudbuild.yaml` / Cloud Run `web3-jobs`** is still enabled. Disable if App Hosting is the only target.
 2. **Stale GCP project `web3-job-board-aggregator`** — See [`GCP_RETIRE_LEGACY_PROJECT.md`](GCP_RETIRE_LEGACY_PROJECT.md). **Do not re-enable billing** there unless you need that project.
-3. **Turn off legacy CI you don’t use** — **Deploy Cloudflare Worker** workflow is disabled (`if: false`); production is Firebase-only.
+3. **Keep one hosting toolchain** — the retired OpenNext/Cloudflare build dependencies and deploy commands have been removed; production uses Firebase App Hosting.
 4. **Letting build queues stack** — Cancel superseded builds (see [`scripts/cancel-old-builds.py`](../scripts/cancel-old-builds.py) pattern for `web3-jobs-aggregator`).
 
 ## Reduce cost without leaving Firebase

@@ -1,4 +1,4 @@
-// Populated from NEXT_PUBLIC_FIREBASE_* env (Cloudflare Worker secrets or .env.local).
+// Populated from NEXT_PUBLIC_FIREBASE_* environment variables for App Hosting or local tools.
 
 export const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,

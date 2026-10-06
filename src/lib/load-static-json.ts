@@ -52,7 +52,7 @@ function readLocalDataFile(filename: string): unknown | null {
   return null;
 }
 
-/** Fetch a static path from the Worker assets binding (no full app re-entry). */
+/** Fetch a static catalog or shard from the site's public assets. */
 export async function fetchSiteAsset(relativePath: string, init?: RequestInit): Promise<Response> {
   const urlPath = relativePath.startsWith('/') ? relativePath : `/${relativePath}`;
   const url = `${SITE_ORIGIN}${urlPath}`;
@@ -60,17 +60,6 @@ export async function fetchSiteAsset(relativePath: string, init?: RequestInit): 
     ...init,
     headers: { Accept: 'application/json', ...(init?.headers ?? {}) },
   };
-
-  try {
-    const { getCloudflareContext } = await import('@opennextjs/cloudflare');
-    const env = getCloudflareContext()?.env;
-    const assets = env?.ASSETS;
-    if (assets) {
-      return assets.fetch(new Request(url, requestInit));
-    }
-  } catch {
-    // Not on Cloudflare Workers (local Node, tests).
-  }
 
   return fetch(url, requestInit);
 }

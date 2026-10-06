@@ -27,7 +27,7 @@ async function main() {
     process.exit(1);
   }
 
-  console.log('[firebase] Done — sync secrets to Cloudflare when switching projects.');
+  console.log('[firebase] Done. Configure App Hosting secrets when switching projects.');
 }
 
 main();

@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { loadStaticJson } from '../src/lib/load-static-json';
+import { fetchSiteAsset, loadStaticJson } from '../src/lib/load-static-json';
 import { getEvents, getEventBySlug } from '../src/lib/events-server';
 import { getAllTerms, getTerm } from '../src/lib/glossary';
 import { getNewsFeed } from '../src/lib/news';
@@ -23,8 +23,17 @@ async function main() {
     'events-runtime.json': [event], 'glossary-runtime.json': [term], 'jobs-runtime.json': [job],
     'news-cache.json': { generatedAt: '2026-09-20', items: [item] }, 'dedup-test.json': { ok: true },
   };
-  globalThis.fetch = async input => {
+  const controller = new AbortController();
+  globalThis.fetch = async (input, init) => {
     const filename = new URL(typeof input === 'string' ? input : input instanceof URL ? input.href : input.url).pathname.split('/').pop()!;
+    if (filename === 'asset-helper-probe.json') {
+      const headers = new Headers(init?.headers);
+      assert.equal(headers.get('accept'), 'application/json');
+      assert.equal(headers.get('x-catalog-test'), 'preserved');
+      assert.equal(init?.signal, controller.signal);
+      assert.equal(init?.cache, 'no-store');
+      return Response.json({ transport: 'http' });
+    }
     const count = (calls.get(filename) || 0) + 1;
     calls.set(filename, count);
     if (count === 1 && filename !== 'dedup-test.json') {
@@ -35,6 +44,8 @@ async function main() {
   };
   try {
     process.chdir(temporary);
+    const asset = await fetchSiteAsset('data/asset-helper-probe.json', { headers: { 'X-Catalog-Test': 'preserved' }, signal: controller.signal, cache: 'no-store' });
+    assert.deepEqual(await asset.json(), { transport: 'http' });
     // Transient 503s are retried inside loadStaticJson — first call still succeeds.
     assert.deepEqual(await getEvents(), [event]);
     assert.deepEqual(await getEvents(), [event]);

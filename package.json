@@ -97,8 +97,6 @@
     "ingest:untracked": "npx tsx scripts/ingest-untracked-web3-companies.ts",
     "build": "npx tsx scripts/run-production-build.ts",
     "build:full": "FAH_FAST_PREBUILD=0 npm run prebuild && npm run build",
-    "build:cloudflare": "env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare build",
-    "deploy:cloudflare": "env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare build && env -u CLOUDFLARE_API_KEY -u CLOUDFLARE_EMAIL opennextjs-cloudflare deploy",
     "postbuild": "tsx scripts/copy-standalone-catalogs.ts && tsx scripts/test-standalone-public-assets.ts && tsx scripts/test-prerender-budget.ts && npm run test:feed-compression",
     "test:feed-compression": "tsx scripts/test-feed-compression.ts",
     "test:integration-retirement": "tsx --test scripts/test-integration-retirement.ts",
@@ -145,7 +143,6 @@
     "protobufjs@7.6.6": true,
     "puppeteer@25.10.0": true,
     "unrs-resolver@1.12.2": true,
-    "workerd@1.20260917.1": true,
     "core-js": false
   },
   "dependencies": {
@@ -205,7 +202,6 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
     "@farcaster/hub-nodejs": "^0.17.0",
-    "@opennextjs/cloudflare": "1.20.6",
     "@playwright/test": "^1.62.1",
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/typography": "^0.5.10",
@@ -225,7 +221,6 @@
     "tailwindcss-animate": "^1.0.7",
     "tsx": "4.23.12",
     "typescript": "~5.9.3",
-    "wrangler": "^4.125.0",
     "xlsx": "^0.18.5"
   },
   "overrides": {

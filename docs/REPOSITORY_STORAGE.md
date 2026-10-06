@@ -48,17 +48,45 @@ rewrite, affecting commit identities and other clones. This cleanup performs no
 history rewrite and removes no valid pack, commit, branch, recovery backup or
 worktree reference.
 
-## Additional local dependency candidate
+## Cloudflare/OpenNext cleanup: October 6, 2026
 
-The retired Cloudflare/OpenNext toolchain remains a development dependency.
-Measured folders for `@opennextjs`, `@cloudflare`, `wrangler`, `workerd` and
-`@aws-sdk` occupy about **190 MiB** in this installation. `npm explain` traces the
-remaining S3 SDK to `@opennextjs/aws`, through `@opennextjs/cloudflare`.
+The retired Cloudflare/OpenNext toolchain has been removed: its direct packages,
+build/deploy commands, Worker configuration, installation hook and environment
+template entries. Its measured package folders previously occupied about
+**190 MiB**, excluding additional transitive packages.
 
-Production currently uses Firebase App Hosting. Removing this optional legacy
-toolchain would require removing its build/deploy commands and configuration,
-then verifying the Firebase build. It is a separate dependency-cleanup candidate,
-not a demonstrated 190 MiB reduction in Git or cloud billing.
+The catalog loader had a Worker-context fallback before its ordinary HTTP
+fallback. The Worker hook is removed; local-file lookup, HTTP recovery, retries,
+validation and request deduplication are retained and tested. The optional OG
+asset checker now inspects the Firebase standalone output.
+
+The lockfile drops **287 package entries**, with no new packages or version
+changes. A clean installation now installs **995 packages**, compared with 1,221
+before this removal on the same platform. This measures dependency reduction,
+not a guaranteed change to cloud billing.
+
+The repository's unused Cloudflare deployment secrets are absent from GitHub
+Actions. No active workflow references them. Ignore rules for old `.open-next/`
+and `.wrangler/` output remain so residual local artifacts cannot be committed or
+uploaded accidentally.
+
+Additional deletion checks:
+
+- Event-cover pruning found **zero unreferenced deletable files**, with 998
+  protected cover basenames.
+- Responsive-image pruning found **zero files eligible for deletion**; 120
+  otherwise unreferenced variants were protected by its cache-grace rule before
+  the verification build.
+- The two remaining 3.67 MiB Git temporary objects are truncated compressed
+  streams. They cannot be verified as duplicates of complete stored objects, so
+  their possible recovery content is retained.
+- Valid Git packs and assets at published URLs remain subject to the history and
+  reference protections described above.
+
+The Firebase production build, type validation, catalog-recovery tests, retained
+integration regressions, standalone assets, social previews and nine feed
+compression checks pass without the retired toolchain. No DNS or remote
+Cloudflare resources are changed by this repository cleanup.
 
 ## Retired integrations
 
