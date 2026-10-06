@@ -4141,11 +4141,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "61f2b84d5e804ec70e93",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T19:34:21.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "promotional",
+      "note": "Single-outlet company claim or product pitch with no independent corroboration or concrete market event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:48.501Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "09ddb1ffad4f3a169f96": {
       "source": "The Defiant",
@@ -6661,6 +6666,13 @@
           "note": "Single-outlet company claim or product pitch with no independent corroboration or concrete market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:46.834Z"
+        },
+        "61f2b84d5e804ec70e93": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single-outlet company claim or product pitch with no independent corroboration or concrete market event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:48.501Z"
         }
       },
       "baselineSlugs": [
