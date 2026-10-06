@@ -826,5 +826,49 @@
     "slotKey": "2026-10-06:morning",
     "messageId": 155622,
     "sentAt": "2026-10-06T03:58:59.085Z"
+  },
+  "8df22261-ee23-451d-ad5f-7502112e59c4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T12:01:09.347Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "c32760bb-dc13-4315-a78c-ac553f37fd7d",
+        "slug": "esports",
+        "url": "https://hashtagweb3.com/esports?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kalshi",
+        "title": "Esports GTM"
+      },
+      {
+        "key": "e1dd7ceb-0a89-40e4-b665-fd22e49a77c9",
+        "slug": "marketing202",
+        "url": "https://hashtagweb3.com/marketing202?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stronghold",
+        "title": "Senior Marketing Associate"
+      },
+      {
+        "key": "8129118",
+        "slug": "eng99",
+        "url": "https://hashtagweb3.com/eng99?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Engineering Manager"
+      },
+      {
+        "key": "5867e405-db64-4797-ae2b-34d8902212d2",
+        "slug": "qa61",
+        "url": "https://hashtagweb3.com/qa61?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Binance Accelerator Program"
+      },
+      {
+        "key": "7763203003",
+        "slug": "engineer389",
+        "url": "https://hashtagweb3.com/engineer389?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "a16z crypto",
+        "title": "IT Engineer"
+      }
+    ],
+    "message": "• Kalshi is hiring <a href=\"https://hashtagweb3.com/esports?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Esports GTM</a>\n• Stronghold is hiring <a href=\"https://hashtagweb3.com/marketing202?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Marketing Associate</a>\n• Ripple is hiring <a href=\"https://hashtagweb3.com/eng99?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engineering Manager</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/qa61?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Binance Accelerator Program</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/engineer389?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">IT Engineer</a>",
+    "slotKey": "2026-10-06:afternoon"
   }
 }
