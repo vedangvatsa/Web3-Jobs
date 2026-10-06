@@ -7238,13 +7238,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e3a902dfd469f7d9fd3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T03:45:40.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Rain OCC filing for Rain National Trust Bank, custody reserve and issuance lines, Soto leadership and Oct 2 ICBA suit context across PR Newswire, Cointelegraph and CryptoBriefing.",
+      "note": "Verified Oct 5 Rain OCC filing for Rain National Trust Bank with custody reserve issuance lines and Soto leadership across PR Newswire, Cointelegraph and CryptoBriefing.",
       "sourceChecks": [
         {
           "url": "https://www.prnewswire.com/news-releases/rain-files-application-with-the-occ-to-establish-rain-national-trust-bank-302898950.html",
@@ -7259,7 +7259,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:03:57.278Z",
+      "reviewedAt": "2026-10-06T11:57:21.847Z",
       "articleSlug": "rain-charter",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -10576,6 +10576,27 @@
           ],
           "reviewedAt": "2026-10-06T11:57:20.156Z",
           "articleSlug": "okx-money"
+        },
+        "9e3a902dfd469f7d9fd3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Rain OCC filing for Rain National Trust Bank with custody reserve issuance lines and Soto leadership across PR Newswire, Cointelegraph and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/rain-files-application-with-the-occ-to-establish-rain-national-trust-bank-302898950.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/rain-seeks-us-trust-bank-charter-days-after-occ-sued-over-crypto-charters",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/rain-occ-national-trust-bank-application/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:57:21.847Z",
+          "articleSlug": "rain-charter"
         }
       },
       "baselineSlugs": [
