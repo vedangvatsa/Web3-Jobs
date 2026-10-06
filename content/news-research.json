@@ -8360,11 +8360,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "745926fcaad7a891a38b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T11:30:00.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "promotional",
+      "note": "Single-outlet local merchant-adoption feature with no market-wide concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:49.703Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "b1325bce366c0509669e": {
       "source": "Cointelegraph",
@@ -13010,6 +13020,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:47.985Z"
+        },
+        "745926fcaad7a891a38b": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single-outlet local merchant-adoption feature with no market-wide concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:49.703Z"
         }
       },
       "baselineSlugs": [
