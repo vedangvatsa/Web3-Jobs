@@ -6470,11 +6470,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f77a1ff00cb03834c5a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T04:41:10.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin rejection at 87000 framed against stocks near records, price commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:55.198Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "455e72c4f2f7297122b3": {
       "source": "CryptoSlate",
@@ -9926,6 +9931,13 @@
           "note": "Daily ETF outflow and price-level recap with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:53.115Z"
+        },
+        "1f77a1ff00cb03834c5a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin rejection at 87000 framed against stocks near records, price commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:55.198Z"
         }
       },
       "baselineSlugs": [
