@@ -6723,24 +6723,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "497d0bcc0be35364d1a3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T10:05:11.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Rajath Alex V2 announcement, canary through Oct 30, tentative Nov 2 switch, ERC-1155 and oracle aggregator across Unchained and crypto.news.",
+      "note": "Verified Oct 5 Rajath Alex V2 announcement with canary through Oct 30, tentative Nov 2 switch and ERC-1155 oracle aggregator across Unchained and Crypto Times.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/polymarket-rebuilds-its-core-smart-contracts-with-protocol-v2-targets-nov-2-switchover/",
           "outcome": "read"
         },
         {
-          "url": "https://crypto.news/polymarket-v2-could-change-how-users-bet-on-events/",
+          "url": "https://www.cryptotimes.io/2026/10/06/polymarket-introduces-protocol-v2-with-new-market-infrastructure",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:03:41.878Z",
+      "reviewedAt": "2026-10-06T11:57:13.079Z",
       "articleSlug": "polymarket-v2",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -10513,6 +10513,23 @@
           ],
           "reviewedAt": "2026-10-06T11:57:11.486Z",
           "articleSlug": "eez-atomic"
+        },
+        "497d0bcc0be35364d1a3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Rajath Alex V2 announcement with canary through Oct 30, tentative Nov 2 switch and ERC-1155 oracle aggregator across Unchained and Crypto Times.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/polymarket-rebuilds-its-core-smart-contracts-with-protocol-v2-targets-nov-2-switchover/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptotimes.io/2026/10/06/polymarket-introduces-protocol-v2-with-new-market-infrastructure",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:57:13.079Z",
+          "articleSlug": "polymarket-v2"
         }
       },
       "baselineSlugs": [
