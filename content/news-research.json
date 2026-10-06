@@ -6193,11 +6193,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5880c906f019b78141ac",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T10:30:00.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Altcoin versus bitcoin price action roundup with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:46.273Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "371ff943c6d13b1dc3fa": {
       "source": "The Defiant",
@@ -9866,6 +9871,13 @@
           "note": "Bitcoin ETF outflow price recap with no concrete event: level and flow commentary, no launch vote ruling filing hack raise or upgrade.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:44.493Z"
+        },
+        "5880c906f019b78141ac": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Altcoin versus bitcoin price action roundup with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:46.273Z"
         }
       },
       "baselineSlugs": [
