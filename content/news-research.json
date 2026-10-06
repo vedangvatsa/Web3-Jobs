@@ -6464,13 +6464,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "590bff9c9cd1541dfb11",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T07:09:33.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5-6 EEZ first atomic L1-to-L2 mainnet test, 0.001 ETH call, postAndVerifyBatch mechanics and March Gnosis-Zisk origin across Cointelegraph and CryptoBriefing.",
+      "note": "Verified Oct 5-6 EEZ first atomic L1-to-L2 mainnet test with 0.001 ETH call and postAndVerifyBatch mechanics across Cointelegraph and CryptoBriefing.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
@@ -6481,7 +6481,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:03:55.584Z",
+      "reviewedAt": "2026-10-06T11:57:11.486Z",
       "articleSlug": "eez-atomic",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -10496,6 +10496,23 @@
           ],
           "reviewedAt": "2026-10-06T11:57:05.951Z",
           "articleSlug": "prysm-fix"
+        },
+        "590bff9c9cd1541dfb11": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5-6 EEZ first atomic L1-to-L2 mainnet test with 0.001 ETH call and postAndVerifyBatch mechanics across Cointelegraph and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/ethereum-economic-zone-first-atomic-transaction/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:57:11.486Z",
+          "articleSlug": "eez-atomic"
         }
       },
       "baselineSlugs": [
