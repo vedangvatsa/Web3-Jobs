@@ -6021,13 +6021,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "6cd27ded63a4e684b2ea",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T08:50:31.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Chainalysis Oct 5 East Asia report 176B China estimate, 59.1pct P2P share, 43x wallet growth and 33.2x turnover across Chainalysis, CryptoSlate and Cointelegraph.",
+      "note": "Verified Oct 5 Chainalysis East Asia report with 176B China estimate, 59.1pct P2P share, 43x wallet growth and 33.2x turnover across Chainalysis, CryptoSlate and Cointelegraph.",
       "sourceChecks": [
         {
           "url": "https://www.chainalysis.com/blog/eastern-asia-crypto-adoption-2026/",
@@ -6042,7 +6042,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:02:34.808Z",
+      "reviewedAt": "2026-10-06T11:56:55.539Z",
       "articleSlug": "china-p2p",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -10420,6 +10420,27 @@
           ],
           "reviewedAt": "2026-10-06T11:56:53.999Z",
           "articleSlug": "hong-kong"
+        },
+        "6cd27ded63a4e684b2ea": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Chainalysis East Asia report with 176B China estimate, 59.1pct P2P share, 43x wallet growth and 33.2x turnover across Chainalysis, CryptoSlate and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://www.chainalysis.com/blog/eastern-asia-crypto-adoption-2026/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/chinas-crypto-ban-is-failing-to-stop-a-176-billion-p2p-economy/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:56:55.539Z",
+          "articleSlug": "china-p2p"
         }
       },
       "baselineSlugs": [
