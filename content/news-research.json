@@ -6287,11 +6287,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "067ed11035dde9649927",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T09:38:48.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Prediction framing on whether a 47pct rebound holds, citing Binance Research data, with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:49.647Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "3df0ab29c47031f9e503": {
       "source": "CoinDesk",
@@ -9890,6 +9895,13 @@
           "note": "Binance outflow and whale stablecoin flow analytics with no concrete market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:48.018Z"
+        },
+        "067ed11035dde9649927": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Prediction framing on whether a 47pct rebound holds, citing Binance Research data, with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:49.647Z"
         }
       },
       "baselineSlugs": [
