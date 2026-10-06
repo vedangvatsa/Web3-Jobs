@@ -7449,11 +7449,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "6d9d1591c1d05e54f5d3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T11:31:41.725Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T10:58:29.000Z",
-      "lastSeenAt": "2026-10-06T11:31:41.725Z"
+      "lastSeenAt": "2026-10-06T11:31:41.725Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 6 Spiko 90M Series B led by NEA totaling 120M with 2.7B AUM and 25 plus jurisdictions across CryptoBriefing, Tech.eu and Business Wire.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/spiko-raises-90m-tokenized-cash-funds/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://tech.eu/2026/10/06/nea-leads-spikos-90m-series-b-to-expand-access-to-cash-yield",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.businesswire.com/news/home/20261006901425/en/Spiko-Raises-%2490M-Series-B-Led-by-NEA-to-Make-Yield-Universal",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:57:30.128Z",
+      "articleSlug": "spiko-raise",
+      "lastReviewedDay": "2026-10-06"
     },
     "f909e5a5b01d74cad48c": {
       "source": "CoinDesk",
@@ -10639,6 +10658,27 @@
           ],
           "reviewedAt": "2026-10-06T11:57:28.467Z",
           "articleSlug": "shib-solana"
+        },
+        "6d9d1591c1d05e54f5d3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 6 Spiko 90M Series B led by NEA totaling 120M with 2.7B AUM and 25 plus jurisdictions across CryptoBriefing, Tech.eu and Business Wire.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/spiko-raises-90m-tokenized-cash-funds/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://tech.eu/2026/10/06/nea-leads-spikos-90m-series-b-to-expand-access-to-cash-yield",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.businesswire.com/news/home/20261006901425/en/Spiko-Raises-%2490M-Series-B-Led-by-NEA-to-Make-Yield-Universal",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:57:30.128Z",
+          "articleSlug": "spiko-raise"
         }
       },
       "baselineSlugs": [
