@@ -1658,7 +1658,8 @@
       "lastReviewedDay": "2026-10-06",
       "articleSlug": "shib-solana",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "6a51f4bf5b32bdf0faf1": {
@@ -2737,7 +2738,8 @@
       "articleSlug": "fairshake-house",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "90cd3650b7fd07894c9a": {
@@ -2954,7 +2956,8 @@
       "articleSlug": "cftc-leverage",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "bee78c29a5f42e9f2317": {
@@ -3149,7 +3152,8 @@
       "articleSlug": "zachxbt-syndicate",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "c5df46f189a550c4b985": {
@@ -4345,7 +4349,8 @@
       "articleSlug": "fincen-withdrawal",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "cbd36e5805fbad70b68e": {
@@ -5297,7 +5302,8 @@
       "articleSlug": "safe-complaint",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "6d23c2dc193de0e0ff83": {
@@ -5782,7 +5788,8 @@
       "articleSlug": "strive-buyback",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "85dbab31f9a744f37bcd": {
@@ -5825,7 +5832,8 @@
       "articleSlug": "solana-dvp",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
-        "zachxbt-syndicate.md: template phrasing: paradigm"
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
       ]
     },
     "eb056b0706d8366650b1": {
@@ -5947,7 +5955,11 @@
       ],
       "reviewedAt": "2026-10-06T11:02:33.140Z",
       "articleSlug": "hong-kong",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "2aafb6461bda2479bba1": {
       "source": "Unchained",
@@ -6043,7 +6055,11 @@
       ],
       "reviewedAt": "2026-10-06T11:02:34.808Z",
       "articleSlug": "china-p2p",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "1f7c39f9ff15739c8c58": {
       "source": "CoinJournal",
@@ -6164,7 +6180,11 @@
       ],
       "reviewedAt": "2026-10-06T11:04:13.547Z",
       "articleSlug": "umia-raise",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "54170139f1de4b42f472": {
       "source": "Chainwire",
@@ -6226,7 +6246,11 @@
       ],
       "reviewedAt": "2026-10-06T11:04:11.494Z",
       "articleSlug": "hashsmash",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "5880c906f019b78141ac": {
       "source": "CoinDesk",
@@ -6327,7 +6351,11 @@
       ],
       "reviewedAt": "2026-10-06T11:03:52.275Z",
       "articleSlug": "prysm-fix",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "85c46f2cfbffa15568ab": {
       "source": "Cointelegraph",
@@ -6467,7 +6495,11 @@
       ],
       "reviewedAt": "2026-10-06T11:03:55.584Z",
       "articleSlug": "eez-atomic",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "3b8e7f5855b0bac51d08": {
       "source": "Bitcoin Magazine",
@@ -6724,7 +6756,11 @@
       ],
       "reviewedAt": "2026-10-06T11:03:41.878Z",
       "articleSlug": "polymarket-v2",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "c1812a87bbcaf529fb5f": {
       "source": "CryptoSlate",
@@ -6795,7 +6831,11 @@
       ],
       "reviewedAt": "2026-10-06T11:03:43.567Z",
       "articleSlug": "ondo-private",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "7fdb20121d86adea78ff": {
       "source": "CoinDesk",
@@ -6920,7 +6960,11 @@
       ],
       "reviewedAt": "2026-10-06T11:03:48.928Z",
       "articleSlug": "okx-money",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "e75a622dde13ed10ce8c": {
       "source": "BeInCrypto",
@@ -7231,7 +7275,11 @@
       ],
       "reviewedAt": "2026-10-06T11:03:57.278Z",
       "articleSlug": "rain-charter",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "1dccb852539b19b82e84": {
       "source": "BeInCrypto",
@@ -7356,7 +7404,11 @@
       ],
       "reviewedAt": "2026-10-06T11:04:09.847Z",
       "articleSlug": "startale-bond",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "lastValidationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     },
     "4a5bfa78f900728fd152": {
       "source": "Chainwire",
@@ -10922,7 +10974,11 @@
         ],
         "total": 141,
         "checkedAt": "2026-10-06T10:35:17.133Z"
-      }
+      },
+      "validationErrors": [
+        "umia-raise.md: under 600 words",
+        "Source link HTTP 503: https://x.com/0xrajath/status/2107122541219205344"
+      ]
     }
   }
 }
