@@ -4401,11 +4401,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3259e7a2e34ec400cd51",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T17:00:00.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "out-of-scope",
+      "note": "Non-crypto story with no Web3 event: macro, equities, energy, AI-safety or general tech topic.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:38.624Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "c7adb37ee5ceee828d4f": {
       "source": "BeInCrypto",
@@ -6613,6 +6618,13 @@
           "note": "Non-crypto story with no Web3 event: macro, equities, energy, AI-safety or general tech topic.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:36.939Z"
+        },
+        "3259e7a2e34ec400cd51": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Non-crypto story with no Web3 event: macro, equities, energy, AI-safety or general tech topic.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:38.624Z"
         }
       },
       "baselineSlugs": [
