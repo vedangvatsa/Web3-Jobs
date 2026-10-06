@@ -7338,17 +7338,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4cec51299979be4ad5f8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T03:40:00.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Oct 6 OKX Money stablecoin savings and payments launch covered by okx-money.",
+      "note": "Same Oct 6 OKX Money stablecoin savings and payments launch already drafted as okx-money.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:03:50.627Z",
+      "reviewedAt": "2026-10-06T11:58:35.111Z",
       "duplicateOf": "okx-money",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "2ebac434c9d8844265a8"
     },
     "8c48166d2a7c5989a222": {
       "source": "Chainwire",
@@ -10979,6 +10980,15 @@
           "reviewedAt": "2026-10-06T11:58:33.456Z",
           "duplicateOf": "fincen-withdrawal",
           "mergedInto": "b044864ba1f8b300e5db"
+        },
+        "4cec51299979be4ad5f8": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 6 OKX Money stablecoin savings and payments launch already drafted as okx-money.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:58:35.111Z",
+          "duplicateOf": "okx-money",
+          "mergedInto": "2ebac434c9d8844265a8"
         }
       },
       "baselineSlugs": [
