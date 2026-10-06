@@ -7918,11 +7918,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c0aec96f1ab166674517",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:35:03.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Polymarket Protocol V2 rebuild already drafted as polymarket-v2.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:44:52.315Z",
+      "duplicateOf": "polymarket-v2",
+      "mergedInto": "497d0bcc0be35364d1a3",
+      "lastReviewedDay": "2026-10-06"
     },
     "bab880453caae397d6f8": {
       "source": "Cointelegraph",
@@ -12546,6 +12553,15 @@
           "reviewedAt": "2026-10-06T17:44:50.632Z",
           "duplicateOf": "okx-money",
           "mergedInto": "2ebac434c9d8844265a8"
+        },
+        "c0aec96f1ab166674517": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Polymarket Protocol V2 rebuild already drafted as polymarket-v2.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:44:52.315Z",
+          "duplicateOf": "polymarket-v2",
+          "mergedInto": "497d0bcc0be35364d1a3"
         }
       },
       "baselineSlugs": [
