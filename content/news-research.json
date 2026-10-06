@@ -5749,13 +5749,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "83bb967c1f4fe0a55b6c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T03:31:57.325Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-09T02:40:43.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Strive 8-K with 2000 BTC at 84422, 29462 holdings, 284.7M cash and 500M SATA facility across CryptoSlate, Unchained and SEC filing.",
+      "note": "Verified Oct 5 Strive 8-K with 2000 BTC purchase and 500M SATA buyback facility across two outlets quoting the filing; EDGAR direct fetch 403.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/bitcoin-treasury-strive-risks-cash-reserve-to-fund-500m-buyback-and-trim-dividends/",
@@ -5764,13 +5764,9 @@
         {
           "url": "https://unchainedcrypto.com/strive-buys-2000-bitcoin-and-discloses-a-buyback-facility-for-its-preferred-stock/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026064753/asst-20261005.htm",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:56:47.753Z",
+      "reviewedAt": "2026-10-06T17:42:35.354Z",
       "articleSlug": "strive-buyback",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11823,6 +11819,23 @@
           ],
           "reviewedAt": "2026-10-06T17:42:33.296Z",
           "articleSlug": "okx-money"
+        },
+        "83bb967c1f4fe0a55b6c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Strive 8-K with 2000 BTC purchase and 500M SATA buyback facility across two outlets quoting the filing; EDGAR direct fetch 403.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoin-treasury-strive-risks-cash-reserve-to-fund-500m-buyback-and-trim-dividends/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strive-buys-2000-bitcoin-and-discloses-a-buyback-facility-for-its-preferred-stock/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:35.354Z",
+          "articleSlug": "strive-buyback"
         }
       },
       "baselineSlugs": [
