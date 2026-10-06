@@ -2851,17 +2851,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "680399158e99d3449fa7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T17:55:19.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 CFTC advance notice for Reg CTX and Reg CAM covered by cftc-leverage.",
+      "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage; BeInCrypto angle adds no new event.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:01:28.300Z",
+      "reviewedAt": "2026-10-06T11:57:41.601Z",
       "duplicateOf": "cftc-leverage",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "b016d77f01cee47e2ca1"
     },
     "a9c2ca8022535ca157d1": {
       "source": "Cointelegraph",
@@ -10749,6 +10750,15 @@
           "reviewedAt": "2026-10-06T11:57:39.940Z",
           "duplicateOf": "fairshake-house",
           "mergedInto": "b3c290e86d3b6ddc0eb6"
+        },
+        "680399158e99d3449fa7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 CFTC ANPRM for Reg CTX and Reg CAM already drafted as cftc-leverage; BeInCrypto angle adds no new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:57:41.601Z",
+          "duplicateOf": "cftc-leverage",
+          "mergedInto": "b016d77f01cee47e2ca1"
         }
       },
       "baselineSlugs": [
