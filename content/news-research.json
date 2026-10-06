@@ -9074,11 +9074,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "45c21342fa7bb3b8990c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:00:48.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "source-blocked",
+      "note": "Fortitude Zcash mining 100M equipment commitment visible only in The Block origin which returned HTTP 403; needs company announcement or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:53.159Z",
+      "retrySearches": [
+        "Fortitude Zcash mining 100 million equipment October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "946be3594d9c3d0668ad": {
       "source": "Cointelegraph",
@@ -13447,6 +13461,21 @@
           "reviewedAt": "2026-10-06T17:47:51.451Z",
           "retrySearches": [
             "UK digital gilt pilot six banks October 2026 DMO"
+          ]
+        },
+        "45c21342fa7bb3b8990c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Fortitude Zcash mining 100M equipment commitment visible only in The Block origin which returned HTTP 403; needs company announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:53.159Z",
+          "retrySearches": [
+            "Fortitude Zcash mining 100 million equipment October 2026"
           ]
         }
       },
