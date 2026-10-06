@@ -5273,14 +5273,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "af683c29d6e5e763d727",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T14:21:17.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "verified-event",
-      "note": "Verified the Greenfield ESA complaint, board demands, revenue and TVL figures and the untested Gnosis pressure claims across Cointelegraph and CryptoBriefing.",
+      "note": "Verified Greenfield Oct 4 open letter and ESA complaint, board demands, Q2 1.98M revenue, 66B to 30B TVL figures and Safe no-inquiry response across forum letter, Cointelegraph and CryptoBriefing.",
       "sourceChecks": [
+        {
+          "url": "https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149",
+          "outcome": "read"
+        },
         {
           "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
           "outcome": "read"
@@ -5288,13 +5292,9 @@
         {
           "url": "https://cryptobriefing.com/greenfield-capital-safe-foundation-swiss-regulator/",
           "outcome": "read"
-        },
-        {
-          "url": "https://thedefiant.io/news/regulation/greenfield-files-swiss-regulatory-complaint-over-safe-foundation-governance",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:11:20.447Z",
+      "reviewedAt": "2026-10-06T03:40:53.715Z",
       "articleSlug": "safe-complaint",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -8289,6 +8289,27 @@
           ],
           "reviewedAt": "2026-10-06T03:40:47.980Z",
           "articleSlug": "fincen-withdrawal"
+        },
+        "af683c29d6e5e763d727": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Greenfield Oct 4 open letter and ESA complaint, board demands, Q2 1.98M revenue, 66B to 30B TVL figures and Safe no-inquiry response across forum letter, Cointelegraph and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/safe-investor-asks-swiss-watchdog-to-intervene-in-governance-dispute",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/greenfield-capital-safe-foundation-swiss-regulator/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T03:40:53.715Z",
+          "articleSlug": "safe-complaint"
         }
       },
       "baselineSlugs": [
