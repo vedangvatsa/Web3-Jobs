@@ -6304,13 +6304,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e2ca852f1ef49e786e5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T10:00:52.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Prysm v7.2.1 with Sepolia 200M gas schedule and Oct 6 13:53 UTC activation across GitHub release, Unchained and CoinDesk.",
+      "note": "Verified Oct 5 Prysm v7.2.1 with Sepolia 200M gas schedule and Oct 6 activation across GitHub release and two outlets.",
       "sourceChecks": [
         {
           "url": "https://github.com/OffchainLabs/prysm/releases/tag/v7.2.1",
@@ -6325,7 +6325,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:57:05.951Z",
+      "reviewedAt": "2026-10-06T17:42:54.073Z",
       "articleSlug": "prysm-fix",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11917,6 +11917,27 @@
           ],
           "reviewedAt": "2026-10-06T17:42:48.074Z",
           "articleSlug": "solana-dvp"
+        },
+        "6e2ca852f1ef49e786e5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Prysm v7.2.1 with Sepolia 200M gas schedule and Oct 6 activation across GitHub release and two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://github.com/OffchainLabs/prysm/releases/tag/v7.2.1",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/ethereum-client-prysm-ships-200m-gas-limit-fix-hours-before-glamsterdam-test/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:54.073Z",
+          "articleSlug": "prysm-fix"
         }
       },
       "baselineSlugs": [
