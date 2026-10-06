@@ -683,6 +683,9 @@
   "https://hashtagweb3.com/zcash-upgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/liquid-ransom?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/metamask-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/esma-eu?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/moneygram-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/robinhood-tokens?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1957,6 +1960,12 @@
   "Liquid Restarts Transactions as Blockstream Declines Ransom Demand",
   "MetaMask Plans Split From Consensys by 2026",
   "MetaMask Plans Consumer Split from Consensys",
+  "EU Regulator Clarifies Rules for Prediction Markets",
+  "ESMA Sets Out EU Rules and Risks for Prediction Markets",
+  "MoneyGram Releases Stablecoin-Backed Visa Card in Colombia",
+  "MoneyGram Launches Stablecoin-Backed Visa Card in Colombia",
+  "Robinhood CEO Defends Tokenized Shares Against Issuer Vetoes",
+  "Robinhood CEO Rejects Issuer Veto in AMC Stock-Token Dispute",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2190,5 +2199,8 @@
   "fp:again|app|are|bas|blockchain|brief|coinbas|custody|distinct|follow",
   "fp:and2031|approv|block|coinholder|community|delay|fund|halv|keep|nu7",
   "fp:block|blockstream|btc|bug|creat|declin|demand|liquid|miss|network",
-  "fp:by2026|consensy|consumer|end|infrastructur|institutional|late2026|manag|metamask|plan"
+  "fp:by2026|consensy|consumer|end|infrastructur|institutional|late2026|manag|metamask|plan",
+  "fp:authority|clarify|contract|depend|esma|european|fall|financial|gambl|market",
+  "fp:access|back|can|card|colombia|develop|moneygram|now|rain|releas",
+  "fp:against|amc|argu|block|cannot|ceo|defend|despit|disput|issuer"
 ]

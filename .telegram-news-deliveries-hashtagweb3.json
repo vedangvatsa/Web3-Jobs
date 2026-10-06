@@ -834,7 +834,7 @@
     "sentAt": "2026-10-06T12:05:01.470Z"
   },
   "990b7cd5-f248-4c8e-99db-e0cb021690b5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T19:35:51.108Z",
     "stories": [
       {
@@ -862,6 +862,8 @@
         "originalTitle": "Robinhood CEO Rejects Issuer Veto in AMC Stock-Token Dispute"
       }
     ],
-    "slotKey": "2026-10-06:evening"
+    "slotKey": "2026-10-06:evening",
+    "messageId": 155644,
+    "sentAt": "2026-10-06T19:35:55.946Z"
   }
 }
