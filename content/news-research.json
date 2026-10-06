@@ -5923,11 +5923,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0063225a576fd35d6e65",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T10:16:55.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 5 Hui briefing, end-2026 bill target and four license categories dealing custody advisory management across gov statement, Cointelegraph and crypto.news.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/hong-kong-plans-new-licenses-across-4-crypto-services/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:02:33.140Z",
+      "articleSlug": "hong-kong",
+      "lastReviewedDay": "2026-10-06"
     },
     "2aafb6461bda2479bba1": {
       "source": "Unchained",
@@ -9782,6 +9797,23 @@
           "reviewedAt": "2026-10-06T11:02:31.263Z",
           "duplicateOf": "solana-dvp",
           "mergedInto": "85dbab31f9a744f37bcd"
+        },
+        "0063225a576fd35d6e65": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Hui briefing, end-2026 bill target and four license categories dealing custody advisory management across gov statement, Cointelegraph and crypto.news.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/hong-kong-plans-new-licenses-across-4-crypto-services/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:02:33.140Z",
+          "articleSlug": "hong-kong"
         }
       },
       "baselineSlugs": [
