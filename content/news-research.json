@@ -7373,11 +7373,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4a5bfa78f900728fd152",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T16:30:11.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "source-blocked",
+      "note": "Stockhunt CoinIQ DEX unveiling read on company wire with TOKEN2049 booth demo; no independent second outlet opened, needs outside verification.",
+      "sourceChecks": [
+        {
+          "url": "https://chainwire.org/2026/10/05/stockhunt-unveils-coiniq-an-ai-powered-self-custody-dex-at-token2049-singapore/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:04:40.935Z",
+      "retrySearches": [
+        "Stockhunt CoinIQ DEX TOKEN2049 October 2026 independent coverage"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     }
   },
   "runs": {
@@ -10663,6 +10677,21 @@
           "reviewedAt": "2026-10-06T11:04:39.298Z",
           "retrySearches": [
             "Changer stablecoin self-custodial wallet launch October 2026 independent review"
+          ]
+        },
+        "4a5bfa78f900728fd152": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Stockhunt CoinIQ DEX unveiling read on company wire with TOKEN2049 booth demo; no independent second outlet opened, needs outside verification.",
+          "sourceChecks": [
+            {
+              "url": "https://chainwire.org/2026/10/05/stockhunt-unveils-coiniq-an-ai-powered-self-custody-dex-at-token2049-singapore/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:04:40.935Z",
+          "retrySearches": [
+            "Stockhunt CoinIQ DEX TOKEN2049 October 2026 independent coverage"
           ]
         }
       },
