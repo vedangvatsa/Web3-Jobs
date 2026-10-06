@@ -3127,11 +3127,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "326675e76ea9e57d0cb9",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T18:30:00.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "verified-event",
+      "note": "Verified the 349700 USDC front, 5pct per-order loss, 12M cluster, 442K Tether freeze and Jimmy Green sequence across the primary X thread, Decrypt and CryptoSlate.",
+      "sourceChecks": [
+        {
+          "url": "https://x.com/zachxbt/status/2107081638073319437",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/zachxbt-infiltrates-1b-crypto-syndicate-to-expose-lazarus-group/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/hacks/zachxbt-infiltrated-chinese-syndicate-laundering-bybit-hack-funds",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:10:29.925Z",
+      "articleSlug": "zachxbt-syndicate",
+      "lastReviewedDay": "2026-10-06"
     },
     "c5df46f189a550c4b985": {
       "source": "The Block",
@@ -8242,6 +8265,31 @@
           "reviewedAt": "2026-10-06T01:09:38.038Z",
           "duplicateOf": "fairshake-house",
           "mergedInto": "b3c290e86d3b6ddc0eb6"
+        },
+        "326675e76ea9e57d0cb9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the 349700 USDC front, 5pct per-order loss, 12M cluster, 442K Tether freeze and Jimmy Green sequence across the primary X thread, Decrypt and CryptoSlate.",
+          "sourceChecks": [
+            {
+              "url": "https://x.com/zachxbt/status/2107081638073319437",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/zachxbt-infiltrates-1b-crypto-syndicate-to-expose-lazarus-group/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/hacks/zachxbt-infiltrated-chinese-syndicate-laundering-bybit-hack-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:10:29.925Z",
+          "articleSlug": "zachxbt-syndicate"
         }
       },
       "baselineSlugs": [
