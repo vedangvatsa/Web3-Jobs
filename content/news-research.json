@@ -6709,13 +6709,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "497d0bcc0be35364d1a3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T10:05:11.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Rajath Alex V2 announcement with canary through Oct 30, tentative Nov 2 switch and ERC-1155 oracle aggregator across Unchained and Crypto Times.",
+      "note": "Verified Oct 5 Polymarket V2 announcement with canary through Oct 30, tentative Nov 2 switch and ERC-1155 pUSD design across three outlets.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/polymarket-rebuilds-its-core-smart-contracts-with-protocol-v2-targets-nov-2-switchover/",
@@ -6724,9 +6724,13 @@
         {
           "url": "https://www.cryptotimes.io/2026/10/06/polymarket-introduces-protocol-v2-with-new-market-infrastructure",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:57:13.079Z",
+      "reviewedAt": "2026-10-06T17:42:59.506Z",
       "articleSlug": "polymarket-v2",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11995,6 +11999,27 @@
           ],
           "reviewedAt": "2026-10-06T17:42:57.789Z",
           "articleSlug": "eez-atomic"
+        },
+        "497d0bcc0be35364d1a3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Polymarket V2 announcement with canary through Oct 30, tentative Nov 2 switch and ERC-1155 pUSD design across three outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/polymarket-rebuilds-its-core-smart-contracts-with-protocol-v2-targets-nov-2-switchover/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptotimes.io/2026/10/06/polymarket-introduces-protocol-v2-with-new-market-infrastructure",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:59.506Z",
+          "articleSlug": "polymarket-v2"
         }
       },
       "baselineSlugs": [
