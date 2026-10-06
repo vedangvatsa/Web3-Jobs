@@ -5972,11 +5972,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f1d73fea0f196cf845d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T09:11:26.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Solana DvP institutional settlement launch covered by solana-dvp.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:29.579Z",
+      "duplicateOf": "solana-dvp",
+      "mergedInto": "85dbab31f9a744f37bcd",
+      "lastReviewedDay": "2026-10-06"
     },
     "6cd27ded63a4e684b2ea": {
       "source": "CryptoSlate",
@@ -9750,6 +9757,15 @@
           ],
           "reviewedAt": "2026-10-06T11:02:27.675Z",
           "articleSlug": "solana-dvp"
+        },
+        "0f1d73fea0f196cf845d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Solana DvP institutional settlement launch covered by solana-dvp.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:29.579Z",
+          "duplicateOf": "solana-dvp",
+          "mergedInto": "85dbab31f9a744f37bcd"
         }
       },
       "baselineSlugs": [
