@@ -8523,11 +8523,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f75c421bf70cd23667e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T15:24:51.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Brevan Howard Ripple Prime brokerage deal already drafted as ripple-prime.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:14.677Z",
+      "duplicateOf": "ripple-prime",
+      "mergedInto": "360aba413f29ecfbf5c2",
+      "lastReviewedDay": "2026-10-06"
     },
     "9959694474d982592689": {
       "source": "BeInCrypto",
@@ -12674,6 +12681,15 @@
           "reviewedAt": "2026-10-06T17:45:12.891Z",
           "duplicateOf": "sepolia-fork",
           "mergedInto": "e62916c7316050993bee"
+        },
+        "8f75c421bf70cd23667e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Brevan Howard Ripple Prime brokerage deal already drafted as ripple-prime.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:14.677Z",
+          "duplicateOf": "ripple-prime",
+          "mergedInto": "360aba413f29ecfbf5c2"
         }
       },
       "baselineSlugs": [
