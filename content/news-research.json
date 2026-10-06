@@ -1634,7 +1634,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c55fb855cb43014383f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
       "attempts": 6,
       "expiresAt": "2026-10-08T10:17:54.000Z",
@@ -1663,7 +1663,8 @@
       "articleSlug": "shib-solana",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "6a51f4bf5b32bdf0faf1": {
       "source": "Unchained",
@@ -2720,7 +2721,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3c290e86d3b6ddc0eb6",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
       "attempts": 5,
       "expiresAt": "2026-10-08T21:42:30.000Z",
@@ -2742,7 +2743,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "90cd3650b7fd07894c9a": {
       "source": "The Defiant",
@@ -2933,7 +2935,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b016d77f01cee47e2ca1",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
       "attempts": 5,
       "expiresAt": "2026-10-08T16:46:03.000Z",
@@ -2959,7 +2961,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "bee78c29a5f42e9f2317": {
       "source": "The Block",
@@ -3128,7 +3131,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "326675e76ea9e57d0cb9",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
       "attempts": 5,
       "expiresAt": "2026-10-08T18:30:00.000Z",
@@ -3154,7 +3157,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "c5df46f189a550c4b985": {
       "source": "The Block",
@@ -4324,7 +4328,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b044864ba1f8b300e5db",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
       "attempts": 5,
       "expiresAt": "2026-10-08T20:46:53.000Z",
@@ -4350,7 +4354,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "cbd36e5805fbad70b68e": {
       "source": "Bitcoin Magazine",
@@ -5276,7 +5281,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "af683c29d6e5e763d727",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
       "attempts": 5,
       "expiresAt": "2026-10-08T14:21:17.000Z",
@@ -5302,7 +5307,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "6d23c2dc193de0e0ff83": {
       "source": "The Defiant",
@@ -5765,7 +5771,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "83bb967c1f4fe0a55b6c",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T03:31:57.325Z",
       "attempts": 4,
       "expiresAt": "2026-10-09T02:40:43.000Z",
@@ -5787,7 +5793,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "85dbab31f9a744f37bcd": {
       "source": "Decrypt",
@@ -5804,7 +5811,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "85dbab31f9a744f37bcd",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T03:31:57.325Z",
       "attempts": 4,
       "expiresAt": "2026-10-09T02:01:03.000Z",
@@ -5830,7 +5837,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "eb056b0706d8366650b1": {
       "source": "BeInCrypto",
@@ -5932,7 +5940,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "0063225a576fd35d6e65",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T10:16:55.000Z",
@@ -5958,7 +5966,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "2aafb6461bda2479bba1": {
       "source": "Unchained",
@@ -6031,7 +6040,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6cd27ded63a4e684b2ea",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T08:50:31.000Z",
@@ -6057,7 +6066,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "1f7c39f9ff15739c8c58": {
       "source": "CoinJournal",
@@ -6159,7 +6169,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "35fb69fba60c58b3ff6e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-08T17:34:17.000Z",
@@ -6181,7 +6191,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "54170139f1de4b42f472": {
       "source": "Chainwire",
@@ -6224,7 +6235,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ae726ac1baa4de481b54",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-08T13:38:59.000Z",
@@ -6246,7 +6257,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "5880c906f019b78141ac": {
       "source": "CoinDesk",
@@ -6324,7 +6336,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e2ca852f1ef49e786e5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T10:00:52.000Z",
@@ -6350,7 +6362,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "85c46f2cfbffa15568ab": {
       "source": "Cointelegraph",
@@ -6471,7 +6484,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "590bff9c9cd1541dfb11",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T07:09:33.000Z",
@@ -6493,7 +6506,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "3b8e7f5855b0bac51d08": {
       "source": "Bitcoin Magazine",
@@ -6731,7 +6745,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "497d0bcc0be35364d1a3",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T10:05:11.000Z",
@@ -6757,7 +6771,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "c1812a87bbcaf529fb5f": {
       "source": "CryptoSlate",
@@ -6809,7 +6824,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "31a11ef84d7f87a7df34",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T09:38:28.000Z",
@@ -6831,7 +6846,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "7fdb20121d86adea78ff": {
       "source": "CoinDesk",
@@ -6933,7 +6949,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ebac434c9d8844265a8",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T09:02:01.000Z",
@@ -6959,7 +6975,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "e75a622dde13ed10ce8c": {
       "source": "BeInCrypto",
@@ -7247,7 +7264,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e3a902dfd469f7d9fd3",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T03:45:40.000Z",
@@ -7273,7 +7290,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "1dccb852539b19b82e84": {
       "source": "BeInCrypto",
@@ -7379,7 +7397,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "76092735e85de2494435",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
       "attempts": 3,
       "expiresAt": "2026-10-09T01:00:07.000Z",
@@ -7401,7 +7419,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "4a5bfa78f900728fd152": {
       "source": "Chainwire",
@@ -7453,7 +7472,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6d9d1591c1d05e54f5d3",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T11:31:41.725Z",
       "attempts": 2,
       "expiresAt": "2026-10-09T10:58:29.000Z",
@@ -7475,7 +7494,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "f909e5a5b01d74cad48c": {
       "source": "CoinDesk",
@@ -7616,7 +7636,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "fdcc7f032f53e77d9a1e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T11:31:41.725Z",
       "attempts": 2,
       "expiresAt": "2026-10-09T10:36:57.000Z",
@@ -7642,7 +7662,8 @@
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
         "Source link HTTP 403: https://www.speedinvest.com/knowledge/treasury-is-finally-becoming-software-why-we-invested-in-spiko"
-      ]
+      ],
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "34dafb263021f72ec7be": {
       "source": "The Block",
@@ -7659,7 +7680,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "34dafb263021f72ec7be",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T16:43:41.000Z",
@@ -7678,7 +7699,8 @@
       ],
       "reviewedAt": "2026-10-06T17:43:40.611Z",
       "articleSlug": "zec-etf",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "94f02356d864cbe75c67": {
       "source": "CryptoSlate",
@@ -7785,7 +7807,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "e62916c7316050993bee",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T14:25:19.000Z",
@@ -7808,7 +7830,8 @@
       ],
       "reviewedAt": "2026-10-06T17:42:56.039Z",
       "articleSlug": "sepolia-fork",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "d4b74043757589b01c27": {
       "source": "Cointelegraph",
@@ -7853,7 +7876,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a97fd1fa7e855ef22c3",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T12:47:48.000Z",
@@ -7872,7 +7895,8 @@
       ],
       "reviewedAt": "2026-10-06T17:42:21.052Z",
       "articleSlug": "davis-bill",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "7b4a5915a05438b92b78": {
       "source": "Decrypt",
@@ -8004,7 +8028,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "bab880453caae397d6f8",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T13:32:32.000Z",
@@ -8027,7 +8051,8 @@
       ],
       "reviewedAt": "2026-10-06T17:42:31.654Z",
       "articleSlug": "okx-raise",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "aa80e4d9c82031d31293": {
       "source": "Decrypt",
@@ -8537,7 +8562,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "360aba413f29ecfbf5c2",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T16:44:19.000Z",
@@ -8560,7 +8585,8 @@
       ],
       "reviewedAt": "2026-10-06T17:43:23.439Z",
       "articleSlug": "ripple-prime",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "eeca30dce8b5aa0767ab": {
       "source": "Cointelegraph",
@@ -8918,7 +8944,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "28fa76ae1c70d3c3f94a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T14:19:00.000Z",
@@ -8941,7 +8967,8 @@
       ],
       "reviewedAt": "2026-10-06T17:43:42.269Z",
       "articleSlug": "etherfi-stablecoin",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "92090e574e85c65e5d1e": {
       "source": "The Defiant",
@@ -9052,7 +9079,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "921e2171ef1de71348c5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T13:02:33.000Z",
@@ -9071,7 +9098,8 @@
       ],
       "reviewedAt": "2026-10-06T17:43:10.479Z",
       "articleSlug": "arbitrum-usdg",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "publishedAt": "2026-10-06T17:49:44.988Z"
     },
     "45c21342fa7bb3b8990c": {
       "source": "The Block",
@@ -10665,7 +10693,7 @@
     "2026-10-06": {
       "day": "2026-10-06",
       "startedAt": "2026-10-06T00:55:35.855Z",
-      "status": "incomplete",
+      "status": "completed",
       "candidateIds": [
         "751c0a31b9ee07e32b36",
         "624cb4fe8a643f74ff20",
@@ -12181,7 +12209,7 @@
           "reviewedAt": "2026-10-06T11:58:55.135Z"
         },
         "b3c290e86d3b6ddc0eb6": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Fairshake 32-candidate House slate with 19R-13D split and Clarity Act criterion across three newsrooms.",
           "sourceChecks": [
@@ -12195,10 +12223,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:03.570Z",
-          "articleSlug": "fairshake-house"
+          "articleSlug": "fairshake-house",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "b016d77f01cee47e2ca1": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 CFTC ANPRM Release 9307-26 for Reg CTX and Reg CAM with 60-day comment across primary release and two outlets.",
           "sourceChecks": [
@@ -12216,10 +12245,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:09.290Z",
-          "articleSlug": "cftc-leverage"
+          "articleSlug": "cftc-leverage",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "326675e76ea9e57d0cb9": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 ZachXBT infiltration disclosure with 349700 USDC front, Jimmy Green chats, 12M cluster and 442K freeze across three outlets.",
           "sourceChecks": [
@@ -12237,10 +12267,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:11.049Z",
-          "articleSlug": "zachxbt-syndicate"
+          "articleSlug": "zachxbt-syndicate",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "b044864ba1f8b300e5db": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 FinCEN withdrawal of Dec 2020 unhosted-wallet and 2023 mixer proposals across primary release and two outlets.",
           "sourceChecks": [
@@ -12258,10 +12289,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:12.834Z",
-          "articleSlug": "fincen-withdrawal"
+          "articleSlug": "fincen-withdrawal",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "af683c29d6e5e763d727": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 4 Greenfield open letter and ESA complaint with board demands, Q2 revenue and TVL figures across forum letter and two outlets.",
           "sourceChecks": [
@@ -12279,10 +12311,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:19.452Z",
-          "articleSlug": "safe-complaint"
+          "articleSlug": "safe-complaint",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "2a97fd1fa7e855ef22c3": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Don Davis bill barring federal candidates from trading on their own races with 10K minimum fine across House release and two outlets.",
           "sourceChecks": [
@@ -12296,10 +12329,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:21.052Z",
-          "articleSlug": "davis-bill"
+          "articleSlug": "davis-bill",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "fdcc7f032f53e77d9a1e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Adam Iza 78-month sentence with 23.4M restitution, 37M Meta fraud and five deputies convicted across three outlets.",
           "sourceChecks": [
@@ -12317,10 +12351,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:22.878Z",
-          "articleSlug": "godfather-fraud"
+          "articleSlug": "godfather-fraud",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "9e3a902dfd469f7d9fd3": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Rain OCC filing for Rain National Trust Bank with custody reserve issuance lines across PR and two outlets.",
           "sourceChecks": [
@@ -12338,10 +12373,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:25.666Z",
-          "articleSlug": "rain-charter"
+          "articleSlug": "rain-charter",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "bab880453caae397d6f8": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified OKX raise at 25B flat valuation backed by Circle Ripple StanChart and QRT across six outlets and company announcement.",
           "sourceChecks": [
@@ -12359,10 +12395,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:31.654Z",
-          "articleSlug": "okx-raise"
+          "articleSlug": "okx-raise",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "2ebac434c9d8844265a8": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 6 OKX Money launch with 50 plus currencies, 10pct USDG yield and cards rollout across company post and two outlets.",
           "sourceChecks": [
@@ -12380,10 +12417,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:33.296Z",
-          "articleSlug": "okx-money"
+          "articleSlug": "okx-money",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "83bb967c1f4fe0a55b6c": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Strive 8-K with 2000 BTC purchase and 500M SATA buyback facility across two outlets quoting the filing; EDGAR direct fetch 403.",
           "sourceChecks": [
@@ -12397,10 +12435,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:35.354Z",
-          "articleSlug": "strive-buyback"
+          "articleSlug": "strive-buyback",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "6d9d1591c1d05e54f5d3": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 6 Spiko 90M Series B led by NEA totaling 120M with 2.7B AUM across two outlets; BusinessWire 403 not cited.",
           "sourceChecks": [
@@ -12414,10 +12453,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:36.924Z",
-          "articleSlug": "spiko-raise"
+          "articleSlug": "spiko-raise",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "35fb69fba60c58b3ff6e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Umia 6M raise at 18M FDV on Base with Galaxy DCG Draper and futarchy treasury across announcement and second outlet.",
           "sourceChecks": [
@@ -12431,10 +12471,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:43.076Z",
-          "articleSlug": "umia-raise"
+          "articleSlug": "umia-raise",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "31a11ef84d7f87a7df34": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Ondo Private Markets launch with pre-IPO AI notes and payout mechanics across company blog and two outlets.",
           "sourceChecks": [
@@ -12448,10 +12489,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:44.846Z",
-          "articleSlug": "ondo-private"
+          "articleSlug": "ondo-private",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "76092735e85de2494435": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 6 Startale Bond paying interest and principal in JPYSC with SBI Shinsei Trust Bank roles across announcement and second outlet.",
           "sourceChecks": [
@@ -12465,10 +12507,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:46.435Z",
-          "articleSlug": "startale-bond"
+          "articleSlug": "startale-bond",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "85dbab31f9a744f37bcd": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Solana DvP launch with MIT license, JP Morgan input disclaimer and atomic settlement across PR and two outlets.",
           "sourceChecks": [
@@ -12486,10 +12529,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:48.074Z",
-          "articleSlug": "solana-dvp"
+          "articleSlug": "solana-dvp",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "6e2ca852f1ef49e786e5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Prysm v7.2.1 with Sepolia 200M gas schedule and Oct 6 activation across GitHub release and two outlets.",
           "sourceChecks": [
@@ -12507,10 +12551,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:54.073Z",
-          "articleSlug": "prysm-fix"
+          "articleSlug": "prysm-fix",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "e62916c7316050993bee": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 6 Glamsterdam activation on Sepolia with 200M gas test across EF announcement and two outlets; distinct from Sept rehearsal.",
           "sourceChecks": [
@@ -12528,10 +12573,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:56.039Z",
-          "articleSlug": "sepolia-fork"
+          "articleSlug": "sepolia-fork",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "590bff9c9cd1541dfb11": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5-6 EEZ first atomic L1-to-L2 mainnet test with 0.001 ETH call across two outlets.",
           "sourceChecks": [
@@ -12545,10 +12591,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:42:57.789Z",
-          "articleSlug": "eez-atomic"
+          "articleSlug": "eez-atomic",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "497d0bcc0be35364d1a3": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Polymarket V2 announcement with canary through Oct 30, tentative Nov 2 switch and ERC-1155 pUSD design across two readable outlets; TheBlock page 403.",
           "sourceChecks": [
@@ -12566,10 +12613,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:38.900Z",
-          "articleSlug": "polymarket-v2"
+          "articleSlug": "polymarket-v2",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "ae726ac1baa4de481b54": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Eigen Labs and Shielded Labs HashSmash launch on Yukon targeting SHA-256 SHA-3 BLAKE3 Poseidon across PR and second outlet.",
           "sourceChecks": [
@@ -12583,10 +12631,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:08.767Z",
-          "articleSlug": "hashsmash"
+          "articleSlug": "hashsmash",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "921e2171ef1de71348c5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Arbitrum joining Paxos Global Dollar network with USDG as ecosystem dollar across CoinDesk and Cointelegraph.",
           "sourceChecks": [
@@ -12600,10 +12649,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:10.479Z",
-          "articleSlug": "arbitrum-usdg"
+          "articleSlug": "arbitrum-usdg",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "0063225a576fd35d6e65": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Hui briefing committing end-2026 bill with four licenses for dealing custody advisory management across gov statement and two outlets.",
           "sourceChecks": [
@@ -12621,10 +12671,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:12.178Z",
-          "articleSlug": "hong-kong"
+          "articleSlug": "hong-kong",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "6cd27ded63a4e684b2ea": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 5 Chainalysis East Asia report with 176B China estimate, 59.1pct P2P share, 43x wallet growth across report and two outlets.",
           "sourceChecks": [
@@ -12642,10 +12693,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:13.901Z",
-          "articleSlug": "china-p2p"
+          "articleSlug": "china-p2p",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "7c55fb855cb43014383f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 4 SHIB live on Solana via Sunrise with canonical mint and 514000 launch liquidity across three readable outlets; BeInCrypto origin blocked.",
           "sourceChecks": [
@@ -12663,10 +12715,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:19.507Z",
-          "articleSlug": "shib-solana"
+          "articleSlug": "shib-solana",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "34dafb263021f72ec7be": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Winklevoss spot ZEC ETF filing with 0.25pct fee and WINK ticker across Unchained and CryptoBriefing; SEC S-1 direct fetch 403 so no SEC link cited.",
           "sourceChecks": [
@@ -12680,10 +12733,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:40.611Z",
-          "articleSlug": "zec-etf"
+          "articleSlug": "zec-etf",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "360aba413f29ecfbf5c2": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Brevan Howard tapping Ripple Prime for multi-asset brokerage clearing and financing across company release and two outlets.",
           "sourceChecks": [
@@ -12701,10 +12755,11 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:23.439Z",
-          "articleSlug": "ripple-prime"
+          "articleSlug": "ripple-prime",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "28fa76ae1c70d3c3f94a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Ether.fi dollar stablecoin with Ethena running reserves across Unchained, Fxstreet syndication and Ethena docs; Defiant origin 403 not cited.",
           "sourceChecks": [
@@ -12722,7 +12777,8 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:43:42.269Z",
-          "articleSlug": "etherfi-stablecoin"
+          "articleSlug": "etherfi-stablecoin",
+          "publishedAt": "2026-10-06T17:49:44.988Z"
         },
         "70e7075c490e51cbb16e": {
           "status": "rejected",
@@ -13735,7 +13791,9 @@
         ],
         "total": 138,
         "checkedAt": "2026-10-06T17:21:54.065Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-06T17:49:44.988Z"
     }
   }
 }

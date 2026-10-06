@@ -1,0 +1,38 @@
+---
+title: CFTC Proposes Federal Exchange Rules Triggered by Crypto Margin Trading
+ogTitle: "CFTC PROPOSES FEDERAL EXCHANGE RULES TRIGGERED BY CRYPTO MARGIN TRADING"
+description: The CFTC published an advance notice on Oct. 5 outlining Regulation CTX and Regulation CAM, which would bring margin-based crypto trading onto federally registered venues after a 60-day comment period.
+image: /images/news/cftc-leverage.jpg
+imageCaption: "The White House in Washington, D.C. Photo: Daniel Schwen via Wikimedia Commons (CC BY-SA 3.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:White%20House%20lawn.jpg
+category: News
+data-ai-hint: white house washington dc
+publishedDate: '2026-10-06'
+lastUpdated: '2026-10-06'
+---
+
+The Commodity Futures Trading Commission on Oct. 5 published an [advance notice](https://www.cftc.gov/PressRoom/PressReleases/9307-26), Release No. 9307-26, seeking public comment on two linked rulemakings for retail crypto trading. The notice outlines Regulation Crypto Asset Transactions, or Regulation CTX, and Regulation Crypto Asset Markets, or Regulation CAM, under section 2(c)(2)(D) of the Commodity Exchange Act, the provision that governs retail commodity transactions.
+
+"Today's action is a critical step in the CFTC's ongoing efforts to ensure America remains the crypto capital of the world," Chairman Michael S. Selig said in the [release](https://www.cftc.gov/PressRoom/PressReleases/9307-26). He said Americans deserve clarity, certainty and consumer protections in crypto asset markets, and tied the effort to the purposes of the Commodity Exchange Act and to President Trump's directive to propose a federal crypto market structure using the agency's existing statutory powers. The rules are meant to stop fraud before it happens, he said, rather than only punish schemes such as FTX after the fact.
+
+Written comments are due within 60 days of the notice's publication in the Federal Register, and anything received will be posted on Regulations.gov, the [release says](https://www.cftc.gov/PressRoom/PressReleases/9307-26). The notice describes three aims: blocking abusive practices in crypto asset markets under one national regime, giving market participants crypto-specific guidance drawn from practices the agency has seen since 2014, and creating a subcategory of designated contract market registration purpose-built for these transactions.
+
+Decrypt [reported](https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage) that the plan rests on a provision of the 2010 Dodd-Frank Act requiring retail commodity trades offered with margin or financing to take place on a CFTC-registered exchange, as if they were futures. That decades-old hook is the legal basis for pulling much of exchange-based crypto trading into federal oversight.
+
+Under the agency's preliminary reading, simply offering margin could be enough to trigger oversight. Routine onboarding documents or terms of service that mention margin might pull even fully paid trades under CFTC watch, as long as the purchased coins sit on the exchange's internal books rather than in the customer's own wallet, according to [that account](https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage).
+
+The way out is a concept the agency calls "actual delivery." The notice suggests this could require customers to hold their own private keys, and on-chain trading protocols that send tokens straight to user wallets would usually clear that bar, [the same account notes](https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage). Exchanges that never offer margin could keep operating under state money-transmitter licenses.
+
+Regulation CAM would create a "crypto asset market" license, a tailored version of the designated contract market status that futures exchanges hold. Trades would run through futures commission merchants, brokers subject to money-laundering controls, and margin could come only from those brokers or from banks they sponsor. An exchange could also register as its own broker and clearinghouse. Decrypt [noted](https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage) these structural details in its breakdown of the notice.
+
+CoinDesk [reported](https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers) that the agency is weighing proof-of-reserves demands for exchanges that hold customer assets in omnibus accounts, alongside standards meant to keep manipulation-prone products off the list. The same coverage stresses a remaining gap: direct spot trading, where assets change hands at current prices without margin, would stay outside the new rules, and state money-transmission regimes would continue to govern it.
+
+The CFTC would keep its existing power to police fraud and manipulation in spot markets, but it cannot set listing or conduct rules there. Agency officials said they are not yet sure how large the leftover spot market will be, and want industry input during the comment period, CoinDesk [wrote](https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers). Officials suggested customers may prefer to trade on federally supervised venues once the choice exists.
+
+The proposal follows the collapse of the Clarity Act, the market-structure bill that failed to advance in the Senate last month. The agency [sent the framework to the White House for review](https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act) in September, and Selig [had said in August](https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act) that the CFTC would write its own crypto rules if Congress fell short. The notice also repudiates the agency's Biden-era cases against Kraken, Ooki DAO and Uniswap as regulation by enforcement, according to [the report](https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage).
+
+The Securities and Exchange Commission has moved on a parallel track. It proposed Regulation Crypto Assets in August and unveiled an exemption for tokenized stocks last month, [that coverage notes](https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage). Earlier this year the two agencies jointly issued a token taxonomy describing which assets fall on each side of their shared boundary.
+
+In remarks prepared for Fordham Law's annual Blockchain Regulatory Symposium, Selig said the agency is doing its part to deliver clear rules for crypto asset markets through the two regulations, CoinDesk [said](https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers). He added that staff are examining protections for software developers who only ship code without taking orders or holding funds: "A person should not have to register as an introducing broker simply because that person shipped code."
+
+Several large venues already hold full designated contract market status, including Coinbase, Crypto.com and Bitnomial, as well as prediction markets Kalshi and Polymarket, [according to that coverage](https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers). The new crypto subcategory would be narrower, and firms that want to offer futures, swaps and options would still need the full designation. Transactions that complete a genuine exchange of assets within 28 days can also qualify for the actual-delivery exemption from the new requirements.
