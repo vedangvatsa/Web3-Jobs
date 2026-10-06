@@ -874,7 +874,7 @@
     "sentAt": "2026-10-06T12:01:12.133Z"
   },
   "4c05eda8-9d97-46db-9790-0c40da117325": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T19:31:58.434Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -915,6 +915,8 @@
       }
     ],
     "message": "• Polymarket is hiring <a href=\"https://hashtagweb3.com/gp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">GRC &amp; Privacy Lead</a>\n• TRM Labs is hiring <a href=\"https://hashtagweb3.com/an58?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior / Staff Threat Intelligence Analyst</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/binance5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Binance Accelerator Program</a>\n• Sardine is hiring <a href=\"https://hashtagweb3.com/mgr113?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Program Manager</a>\n• Hedera is hiring <a href=\"https://hashtagweb3.com/eng295?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">IT Operations Engineer</a>",
-    "slotKey": "2026-10-06:evening"
+    "slotKey": "2026-10-06:evening",
+    "messageId": 155642,
+    "sentAt": "2026-10-06T19:32:01.044Z"
   }
 }
