@@ -1051,6 +1051,14 @@
     "lastUrl": "https://hashtagweb3.com/developer24",
     "updatedAt": "2026-09-15T19:45:19.764Z"
   },
+  "4135728007": {
+    "slugs": [
+      "engineer32"
+    ],
+    "lastSlug": "engineer32",
+    "lastUrl": "https://hashtagweb3.com/engineer32",
+    "updatedAt": "2026-10-06T19:31:48.919Z"
+  },
   "4290673009": {
     "slugs": [
       "backend74",
@@ -4153,5 +4161,37 @@
     "lastSlug": "jpt",
     "lastUrl": "https://hashtagweb3.com/jpt",
     "updatedAt": "2026-10-06T12:01:05.841Z"
+  },
+  "34be9c00-ff95-48c3-bfe8-63b2ea029b7a": {
+    "slugs": [
+      "pm219"
+    ],
+    "lastSlug": "pm219",
+    "lastUrl": "https://hashtagweb3.com/pm219",
+    "updatedAt": "2026-10-06T19:31:48.919Z"
+  },
+  "7777037003": {
+    "slugs": [
+      "devops73"
+    ],
+    "lastSlug": "devops73",
+    "lastUrl": "https://hashtagweb3.com/devops73",
+    "updatedAt": "2026-10-06T19:31:48.919Z"
+  },
+  "6212198004": {
+    "slugs": [
+      "mgr132"
+    ],
+    "lastSlug": "mgr132",
+    "lastUrl": "https://hashtagweb3.com/mgr132",
+    "updatedAt": "2026-10-06T19:31:48.919Z"
+  },
+  "610f652b-bdb9-4d82-9973-680babe16a07": {
+    "slugs": [
+      "eng218"
+    ],
+    "lastSlug": "eng218",
+    "lastUrl": "https://hashtagweb3.com/eng218",
+    "updatedAt": "2026-10-06T19:31:48.919Z"
   }
 }
