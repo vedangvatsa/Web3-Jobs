@@ -6086,11 +6086,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc3602fd44a1e86c2f2c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T05:43:50.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "opinion",
+      "note": "Better Markets advocacy reaction calling CFTC the wrong agency, opinion with no new concrete event; underlying ANPRM covered by cftc-leverage.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:03:13.363Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "9be907d3adf6eae478eb": {
       "source": "The Block",
@@ -10010,6 +10020,18 @@
           "note": "Korea AI token trading rally framed around Worldcoin as top pick, price commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:11.730Z"
+        },
+        "cc3602fd44a1e86c2f2c": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Better Markets advocacy reaction calling CFTC the wrong agency, opinion with no new concrete event; underlying ANPRM covered by cftc-leverage.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:03:13.363Z"
         }
       },
       "baselineSlugs": [
