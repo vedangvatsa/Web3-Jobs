@@ -3163,11 +3163,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e928c65e50057be0fadf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T20:46:03.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "price-chatter",
+      "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:12.238Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "e7e79910679129f8d0d4": {
       "source": "Bitcoin Magazine",
@@ -6433,6 +6438,13 @@
           "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:08.153Z"
+        },
+        "e928c65e50057be0fadf": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:12.238Z"
         }
       },
       "baselineSlugs": [
