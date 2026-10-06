@@ -5035,11 +5035,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4537a93b76d3142e2d63",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T12:51:42.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Same Strategy Q3 gain and STRC repurchase as 2981e; Decrypt copy open. Verify and draft together next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:09.869Z",
+      "retrySearches": [
+        "Strategy Q3 2026 8-K bitcoin gain STRC repurchase filing"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "8b609249e2f40018d1df": {
       "source": "Cointelegraph",
@@ -7172,6 +7186,21 @@
             }
           ],
           "reviewedAt": "2026-10-06T01:06:07.999Z",
+          "retrySearches": [
+            "Strategy Q3 2026 8-K bitcoin gain STRC repurchase filing"
+          ]
+        },
+        "4537a93b76d3142e2d63": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Same Strategy Q3 gain and STRC repurchase as 2981e; Decrypt copy open. Verify and draft together next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:09.869Z",
           "retrySearches": [
             "Strategy Q3 2026 8-K bitcoin gain STRC repurchase filing"
           ]
