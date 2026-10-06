@@ -64,6 +64,10 @@
     "2026-10-06:morning": [
       "pm84",
       "sec61"
+    ],
+    "2026-10-06:afternoon": [
+      "mgr78",
+      "manager346"
     ]
   },
   "jobs": {
@@ -1181,6 +1185,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7693393443485125920"
         }
       }
+    },
+    "mgr78": {
+      "slot": "2026-10-06:afternoon",
+      "selectedAt": "2026-10-06T11:31:20.802Z",
+      "verifiedAt": "2026-10-06T11:31:20.802Z",
+      "captions": {
+        "instagram": "Channel Partner Manager, AMER at Chainalysis\n\nNew York Office\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Channel Partner Manager, AMER at Chainalysis. New York Office.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "New York Office\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Channel Partner Manager, AMER at Chainalysis"
+      },
+      "receipts": {}
+    },
+    "manager346": {
+      "slot": "2026-10-06:afternoon",
+      "selectedAt": "2026-10-06T11:31:20.803Z",
+      "verifiedAt": "2026-10-06T11:31:20.803Z",
+      "captions": {
+        "instagram": "Senior Client Service Manager at eToro\n\nFrankfurt, Germany\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Senior Client Service Manager at eToro. Frankfurt, Germany.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Frankfurt, Germany\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior Client Service Manager at eToro"
+      },
+      "receipts": {}
     }
   }
 }
