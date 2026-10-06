@@ -8056,11 +8056,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "357f7536e099e05435f8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T16:00:26.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same OKX 25B raise already drafted as okx-raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:23.430Z",
+      "duplicateOf": "okx-raise",
+      "mergedInto": "bab880453caae397d6f8",
+      "lastReviewedDay": "2026-10-06"
     },
     "db16f82af1c32c0a22e5": {
       "source": "BeInCrypto",
@@ -12722,6 +12729,15 @@
           "reviewedAt": "2026-10-06T17:45:18.300Z",
           "duplicateOf": "etherfi-stablecoin",
           "mergedInto": "28fa76ae1c70d3c3f94a"
+        },
+        "357f7536e099e05435f8": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OKX 25B raise already drafted as okx-raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:23.430Z",
+          "duplicateOf": "okx-raise",
+          "mergedInto": "bab880453caae397d6f8"
         }
       },
       "baselineSlugs": [
