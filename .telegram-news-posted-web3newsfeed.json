@@ -710,6 +710,9 @@
   "https://hashtagweb3.com/avalanche-uae?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/vechain-interstellar?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ethena-tron?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kalshi-appeal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kztg-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/symbiosis-bridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2034,6 +2037,12 @@
   "VeChain Interstellar Hardfork Set for Sept 16",
   "Ethena Launches USDe and sUSDe on TRON",
   "Ethena and TRON DAO Bring USDe and sUSDe to the TRON Network",
+  "Court allows state gambling laws to apply to Kalshi",
+  "Kalshi Loses Sixth Circuit Appeal Over Sports Contracts",
+  "Kazakhstan Launches Tenge-Pegged Stablecoin on Telegram",
+  "Kazakhstan Launches Tenge-Pegged KZTg Stablecoin on Telegram",
+  "Symbiosis Recovers 15 BTC Following Bridge Exploit",
+  "Symbiosis Recovers 15 BTC After Bitcoin Bridge Exploit, Offers 20% Bounty",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2273,5 +2282,8 @@
   "fp:baht|cap|daily|feedback|limit|open|party|plan|prohibit|propos",
   "fp:although|announc|any|avalanch|blockchain|claim|digital|government|identity|integration",
   "fp:clos|compatibility|evm|fork|gap|hard|hardfork|improvement|integrates11|interstellar",
-  "fp:asset|bridg|can|dao|defi|ethena|financ|integration|justlend|network"
+  "fp:asset|bridg|can|dao|defi|ethena|financ|integration|justlend|network",
+  "fp:allow|appeal|apply|are|circuit|contract|court|enforc|federal|found",
+  "fp:availabl|currency|digital|kazakhstan|kztg|national|network|now|pegg|stablecoin",
+  "fp:attacker|bounty|bridg|btc|exploit|follow|fund|offer|offers20|partial"
 ]

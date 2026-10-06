@@ -867,7 +867,7 @@
     "sentAt": "2026-10-06T12:04:55.407Z"
   },
   "28311517-d71b-4633-bed4-bd0b1a44f160": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T19:36:00.846Z",
     "stories": [
       {
@@ -895,6 +895,8 @@
         "originalTitle": "Symbiosis Recovers 15 BTC After Bitcoin Bridge Exploit, Offers 20% Bounty"
       }
     ],
-    "slotKey": "2026-10-06:evening"
+    "slotKey": "2026-10-06:evening",
+    "messageId": 65734,
+    "sentAt": "2026-10-06T19:36:04.196Z"
   }
 }
