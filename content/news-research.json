@@ -8134,11 +8134,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "db16f82af1c32c0a22e5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T15:26:22.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "price-chatter",
+      "note": "Analyst bull-market price-target roundup for BTC, ETH and XRP with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/analysts-set-bitcoin-ethereum-xrp-solana-price-targets/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:44.611Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "163c19f402ab577a6c99": {
       "source": "CoinDesk",
@@ -12944,6 +12954,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:38.012Z"
+        },
+        "db16f82af1c32c0a22e5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Analyst bull-market price-target roundup for BTC, ETH and XRP with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/analysts-set-bitcoin-ethereum-xrp-solana-price-targets/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:44.611Z"
         }
       },
       "baselineSlugs": [
