@@ -6920,11 +6920,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a01da1ec408566b8ae17",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T04:37:52.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Korea AI token trading rally framed around Worldcoin as top pick, price commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:11.730Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "0c683fe7554d887e9c0c": {
       "source": "BeInCrypto",
@@ -9998,6 +10003,13 @@
           "note": "Analyst prediction that yields could fall after midterms with a bitcoin boost, forecast with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:10.073Z"
+        },
+        "a01da1ec408566b8ae17": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Korea AI token trading rally framed around Worldcoin as top pick, price commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:11.730Z"
         }
       },
       "baselineSlugs": [
