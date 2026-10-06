@@ -134090,5 +134090,72 @@
     "company": "Open Standard",
     "title": "Account Manager",
     "newSlug": "sls225"
+  },
+  "mkt75": {
+    "id": "7972242",
+    "link": "https://ripple.com/careers/all-jobs/job/7972242?gh_jid=7972242",
+    "company": "Ripple",
+    "title": "Senior Manager, Marketing Analytics"
+  },
+  "mkt74": {
+    "id": "7972217",
+    "link": "https://ripple.com/careers/all-jobs/job/7972217?gh_jid=7972217",
+    "company": "Ripple",
+    "title": "Senior Manager, Marketing Analytics"
+  },
+  "mkt73": {
+    "id": "7972209",
+    "link": "https://ripple.com/careers/all-jobs/job/7972209?gh_jid=7972209",
+    "company": "Ripple",
+    "title": "Senior Manager, Marketing Analytics"
+  },
+  "sls219": {
+    "id": "8232741",
+    "link": "https://stripe.com/jobs/search?gh_jid=8232741",
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy"
+  },
+  "sls72": {
+    "id": "4979757101",
+    "link": "https://job-boards.eu.greenhouse.io/copperco/jobs/4979757101",
+    "company": "Copper.co",
+    "title": "Accounts Payable Analyst"
+  },
+  "eng412": {
+    "id": "4971554101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "manager630": {
+    "id": "1a2881b4-3466-4510-92c7-77c2d608066a",
+    "link": "https://jobs.lever.co/binance/1a2881b4-3466-4510-92c7-77c2d608066a",
+    "company": "Binance",
+    "title": "Internal Control Manager"
+  },
+  "ai10": {
+    "id": "8172487",
+    "link": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "company": "Stripe",
+    "title": "Abuse Investigator"
+  },
+  "eng411": {
+    "id": "8106921",
+    "link": "https://ripple.com/careers/all-jobs/job/8106921?gh_jid=8106921",
+    "company": "Ripple",
+    "title": "Manager, Software Engineering"
+  },
+  "cmp90": {
+    "id": "4932856101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
+    "company": "Bybit",
+    "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH"
+  },
+  "mkt87": {
+    "id": "b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "link": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "company": "Open Standard",
+    "title": "Communications and Marketing Lead",
+    "newSlug": "mkt89"
   }
 }
