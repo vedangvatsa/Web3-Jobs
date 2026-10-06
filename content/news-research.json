@@ -6166,11 +6166,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "54170139f1de4b42f472",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T16:30:30.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "out-of-scope",
+      "note": "Eden Labs 1.5M raise for personal AI product, non-crypto AI story on a single wire with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:28.456Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "ae726ac1baa4de481b54": {
       "source": "Chainwire",
@@ -10116,6 +10121,13 @@
           "note": "WEEX TOKEN2049 sponsorship and AI trading announcement, single-outlet event promotion with no verifiable concrete market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:25.691Z"
+        },
+        "54170139f1de4b42f472": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Eden Labs 1.5M raise for personal AI product, non-crypto AI story on a single wire with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:28.456Z"
         }
       },
       "baselineSlugs": [
