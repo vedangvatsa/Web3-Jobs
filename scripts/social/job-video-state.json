@@ -68,6 +68,10 @@
     "2026-10-06:afternoon": [
       "mgr78",
       "manager346"
+    ],
+    "2026-10-06:evening": [
+      "eng337",
+      "mkt62"
     ]
   },
   "jobs": {
@@ -1255,6 +1259,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7693516963275918624"
         }
       }
+    },
+    "eng337": {
+      "slot": "2026-10-06:evening",
+      "selectedAt": "2026-10-06T19:31:21.618Z",
+      "verifiedAt": "2026-10-06T19:31:21.618Z",
+      "captions": {
+        "instagram": "Staff Software Engineer, Link - Bank Connections at Stripe\n\nSan Francisco, Seattle, New York\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
+        "tiktok": "Staff Software Engineer, Link - Bank Connections at Stripe. San Francisco, Seattle, New York.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "San Francisco, Seattle, New York\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Staff Software Engineer, Link - Bank Connections at Stripe"
+      },
+      "receipts": {}
+    },
+    "mkt62": {
+      "slot": "2026-10-06:evening",
+      "selectedAt": "2026-10-06T19:31:21.619Z",
+      "verifiedAt": "2026-10-06T19:31:21.619Z",
+      "captions": {
+        "instagram": "PMO Project Manager (Growth, Development, Power) at Galaxy Digital\n\nDallas, Texas\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "PMO Project Manager (Growth, Development, Power) at Galaxy Digital. Dallas, Texas.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Dallas, Texas\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "PMO Project Manager (Growth, Development, Power) at Galaxy Digital"
+      },
+      "receipts": {}
     }
   }
 }
