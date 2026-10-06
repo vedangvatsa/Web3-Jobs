@@ -6149,13 +6149,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "35fb69fba60c58b3ff6e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T17:34:17.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 Umia 6M UMIA auction on Base at 18M FDV with Galaxy DCG Draper on equal terms and futarchy treasury across Chainwire and CryptoBriefing.",
+      "note": "Verified Oct 5 Umia 6M raise at 18M FDV on Base with Galaxy DCG Draper same terms and futarchy treasury across Chainwire and CryptoBriefing.",
       "sourceChecks": [
         {
           "url": "https://chainwire.org/2026/10/05/umia-raises-6-million-to-build-the-onchain-formation-platform-for-token-native-projects-joined-by-galaxy-ventures-dcg-and-draper-associates/",
@@ -6166,7 +6166,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:04:13.547Z",
+      "reviewedAt": "2026-10-06T11:57:02.648Z",
       "articleSlug": "umia-raise",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -10441,6 +10441,23 @@
           ],
           "reviewedAt": "2026-10-06T11:56:55.539Z",
           "articleSlug": "china-p2p"
+        },
+        "35fb69fba60c58b3ff6e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Umia 6M raise at 18M FDV on Base with Galaxy DCG Draper same terms and futarchy treasury across Chainwire and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://chainwire.org/2026/10/05/umia-raises-6-million-to-build-the-onchain-formation-platform-for-token-native-projects-joined-by-galaxy-ventures-dcg-and-draper-associates/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/umia-token-auction-galaxy-dcg-draper/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:57:02.648Z",
+          "articleSlug": "umia-raise"
         }
       },
       "baselineSlugs": [
