@@ -6412,11 +6412,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8d2163e404efe8af41ac",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T05:45:22.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "BitMine share versus ether performance comparison, market commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:02.156Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "bacd215647211d1ae15c": {
       "source": "BeInCrypto",
@@ -9974,6 +9979,13 @@
           "note": "Zcash price dip and ETF flow recap, primarily price chatter with no concrete event in window.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:00.475Z"
+        },
+        "8d2163e404efe8af41ac": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "BitMine share versus ether performance comparison, market commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:02.156Z"
         }
       },
       "baselineSlugs": [
