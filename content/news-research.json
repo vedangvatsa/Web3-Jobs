@@ -8594,11 +8594,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "bb2832ab5de2b5a6771b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T16:32:33.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "source-blocked",
+      "note": "Prediction-markets 188B milestone visible only in BeInCrypto origin which returned HTTP 403; needs an openable outlet with verifiable figures.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/prediction-markets-188-billion-record-cash/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:41.995Z",
+      "retrySearches": [
+        "prediction markets cumulative volume record October 2026 Polymarket Kalshi 188 billion"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "05cb819b26d003246245": {
       "source": "Bitcoin Magazine",
@@ -13331,6 +13345,21 @@
           "reviewedAt": "2026-10-06T17:47:40.349Z",
           "retrySearches": [
             "Anvil ANVL token buy Founders Fund Pantera October 2026 announcement"
+          ]
+        },
+        "bb2832ab5de2b5a6771b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Prediction-markets 188B milestone visible only in BeInCrypto origin which returned HTTP 403; needs an openable outlet with verifiable figures.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/prediction-markets-188-billion-record-cash/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:41.995Z",
+          "retrySearches": [
+            "prediction markets cumulative volume record October 2026 Polymarket Kalshi 188 billion"
           ]
         }
       },
