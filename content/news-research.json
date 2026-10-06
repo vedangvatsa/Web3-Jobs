@@ -4294,17 +4294,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "223a95c712a54902a5fb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T20:50:17.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate with three outlets.",
+      "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:57:53.143Z",
+      "reviewedAt": "2026-10-06T17:44:05.483Z",
       "duplicateOf": "zachxbt-syndicate",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "326675e76ea9e57d0cb9"
     },
     "b044864ba1f8b300e5db": {
       "source": "Cointelegraph",
@@ -12314,6 +12315,15 @@
           "reviewedAt": "2026-10-06T17:43:59.239Z",
           "duplicateOf": "cftc-leverage",
           "mergedInto": "b016d77f01cee47e2ca1"
+        },
+        "223a95c712a54902a5fb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:44:05.483Z",
+          "duplicateOf": "zachxbt-syndicate",
+          "mergedInto": "326675e76ea9e57d0cb9"
         }
       },
       "baselineSlugs": [
