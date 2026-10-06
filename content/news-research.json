@@ -8716,11 +8716,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "9959694474d982592689",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:49:20.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "promotional",
+      "note": "Product review of Arcanum Wave with no concrete market event.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/arcanum-wave-review-2026/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:02.433Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "e17dd31ded63a51f8e1a": {
       "source": "The Block",
@@ -13120,6 +13130,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:00.786Z"
+        },
+        "9959694474d982592689": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Product review of Arcanum Wave with no concrete market event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/arcanum-wave-review-2026/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:02.433Z"
         }
       },
       "baselineSlugs": [
