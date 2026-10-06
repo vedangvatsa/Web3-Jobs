@@ -6976,11 +6976,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c683fe7554d887e9c0c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T04:05:00.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "out-of-scope",
+      "note": "Dan Niles Alphabet and Meta picks on Google Cloud growth, equities commentary with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:22.375Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "9e3a902dfd469f7d9fd3": {
       "source": "Cointelegraph",
@@ -10080,6 +10085,13 @@
           "note": "ChatGPT EU watermark and detector story, general AI topic with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:20.670Z"
+        },
+        "0c683fe7554d887e9c0c": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Dan Niles Alphabet and Meta picks on Google Cloud growth, equities commentary with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:22.375Z"
         }
       },
       "baselineSlugs": [
