@@ -4145,11 +4145,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "d205d71c9a961c539169",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T18:22:23.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "duplicate",
+      "note": "Same OKX-ICE joint venture for 24/7 tokenized stock trading already covered by okx-venue.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:26.207Z",
+      "duplicateOf": "okx-venue",
+      "lastReviewedDay": "2026-10-06"
     },
     "ba6adb67998afde3dcee": {
       "source": "Cointelegraph",
@@ -6187,6 +6193,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:24.442Z",
           "duplicateOf": "triple-funds"
+        },
+        "d205d71c9a961c539169": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OKX-ICE joint venture for 24/7 tokenized stock trading already covered by okx-venue.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:26.207Z",
+          "duplicateOf": "okx-venue"
         }
       },
       "baselineSlugs": [
