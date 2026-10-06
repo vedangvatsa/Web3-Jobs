@@ -6269,11 +6269,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "371ff943c6d13b1dc3fa",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T10:13:22.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "source-blocked",
+      "note": "Circle Aave-in-Mint claim unverified: queue page blocked and only Sept 21 will-follow primary found, no Oct announcement or second outlet confirming Aave live.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/circle-adds-aave-to-bitcoin-backed-borrowing-in-mint",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:04:19.570Z",
+      "retrySearches": [
+        "Circle Mint Aave cirBTC borrowing live October 2026 Circle announcement"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "6e2ca852f1ef49e786e5": {
       "source": "Unchained",
@@ -10548,6 +10562,21 @@
             }
           ],
           "reviewedAt": "2026-10-06T11:04:17.738Z"
+        },
+        "371ff943c6d13b1dc3fa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Circle Aave-in-Mint claim unverified: queue page blocked and only Sept 21 will-follow primary found, no Oct announcement or second outlet confirming Aave live.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/circle-adds-aave-to-bitcoin-backed-borrowing-in-mint",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:04:19.570Z",
+          "retrySearches": [
+            "Circle Mint Aave cirBTC borrowing live October 2026 Circle announcement"
+          ]
         }
       },
       "baselineSlugs": [
