@@ -1702,7 +1702,7 @@
     "sentAt": "2026-10-06T12:01:01.476Z"
   },
   "bd6bd7fe-f191-4bf9-956f-2d8bdcf7f0eb": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T12:01:03.468Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -1743,6 +1743,8 @@
       }
     ],
     "message": "• Coins.ph is hiring <a href=\"https://hashtagweb3.com/qa24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">QA Engineer</a>\n• TRM Labs is hiring <a href=\"https://hashtagweb3.com/product207?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Manager</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/int8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Special Projects Intern</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/manager96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Manager, Technical Account Management</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/jpt?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>",
-    "slotKey": "2026-10-06:afternoon"
+    "slotKey": "2026-10-06:afternoon",
+    "messageId": 108,
+    "sentAt": "2026-10-06T12:01:05.841Z"
   }
 }
