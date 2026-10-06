@@ -6060,11 +6060,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f7c39f9ff15739c8c58",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T06:33:44.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Zcash price dip and ETF flow recap, primarily price chatter with no concrete event in window.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:00.475Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "cc3602fd44a1e86c2f2c": {
       "source": "Cointelegraph",
@@ -9962,6 +9967,13 @@
           "note": "Price-target prediction toward 96.7K on on-chain versus leverage framing, with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:58.810Z"
+        },
+        "1f7c39f9ff15739c8c58": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Zcash price dip and ETF flow recap, primarily price chatter with no concrete event in window.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:00.475Z"
         }
       },
       "baselineSlugs": [
