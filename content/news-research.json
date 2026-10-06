@@ -2271,23 +2271,23 @@
       "id": "623319aad99616fa67c0",
       "status": "deferred",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T08:59:55.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "source-blocked",
-      "note": "THORWallet Monero integration reported only by BeInCrypto with no openable primary or second outlet; native swaps explicitly not live yet.",
+      "note": "THORWallet native XMR support: BeInCrypto origin still blocked; only a paid Cointelegraph press release and a low-tier pickup confirm it, with swaps explicitly not live. Needs genuine independent reporting.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/thorwallet-integrates-monero-bringing-native-xmr-support/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-05T11:02:48.294Z",
+      "reviewedAt": "2026-10-06T01:07:03.439Z",
       "retrySearches": [
-        "THORWallet Monero native XMR support announcement October 2026"
+        "THORWallet Monero XMR swaps THORChain audit independent coverage"
       ],
-      "lastReviewedDay": "2026-10-05",
-      "nextReviewDate": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "8726f0c4bbbe1e0598c8": {
       "source": "Cointelegraph",
@@ -7887,6 +7887,21 @@
           "reviewedAt": "2026-10-06T01:07:01.532Z",
           "retrySearches": [
             "S&P Global crypto lending vault risk assessments October 2026"
+          ]
+        },
+        "623319aad99616fa67c0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "THORWallet native XMR support: BeInCrypto origin still blocked; only a paid Cointelegraph press release and a low-tier pickup confirm it, with swaps explicitly not live. Needs genuine independent reporting.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/thorwallet-integrates-monero-bringing-native-xmr-support/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:07:03.439Z",
+          "retrySearches": [
+            "THORWallet Monero XMR swaps THORChain audit independent coverage"
           ]
         }
       },
