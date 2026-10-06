@@ -8105,11 +8105,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "163c19f402ab577a6c99",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T15:20:30.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same OKX 25B raise already drafted as okx-raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:25.260Z",
+      "duplicateOf": "okx-raise",
+      "mergedInto": "bab880453caae397d6f8",
+      "lastReviewedDay": "2026-10-06"
     },
     "5e0ec86b57cca6b89df7": {
       "source": "The Block",
@@ -12736,6 +12743,15 @@
           "note": "Same OKX 25B raise already drafted as okx-raise.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T17:45:23.430Z",
+          "duplicateOf": "okx-raise",
+          "mergedInto": "bab880453caae397d6f8"
+        },
+        "163c19f402ab577a6c99": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OKX 25B raise already drafted as okx-raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:25.260Z",
           "duplicateOf": "okx-raise",
           "mergedInto": "bab880453caae397d6f8"
         }
