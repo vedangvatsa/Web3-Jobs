@@ -6145,17 +6145,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "9be907d3adf6eae478eb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T09:51:47.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 ZachXBT infiltration disclosure covered by zachxbt-syndicate.",
+      "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:01:59.912Z",
+      "reviewedAt": "2026-10-06T11:58:16.604Z",
       "duplicateOf": "zachxbt-syndicate",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "326675e76ea9e57d0cb9"
     },
     "35fb69fba60c58b3ff6e": {
       "source": "Chainwire",
@@ -10909,6 +10910,15 @@
           "reviewedAt": "2026-10-06T11:58:15.029Z",
           "duplicateOf": "solana-dvp",
           "mergedInto": "85dbab31f9a744f37bcd"
+        },
+        "9be907d3adf6eae478eb": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 ZachXBT infiltration disclosure already drafted as zachxbt-syndicate.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:58:16.604Z",
+          "duplicateOf": "zachxbt-syndicate",
+          "mergedInto": "326675e76ea9e57d0cb9"
         }
       },
       "baselineSlugs": [
