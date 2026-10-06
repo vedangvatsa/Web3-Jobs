@@ -1248,9 +1248,10 @@
           "url": "https://www.youtube.com/watch?v=REn1xHvebk8"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Senior Client Service Manager at eToro. Frankfurt, Germany.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-06T11:34:53.834Z"
+          "startedAt": "2026-10-06T11:34:53.834Z",
+          "postId": "6ac4dcdfb197ee96dd7a6bd6"
         }
       }
     }
