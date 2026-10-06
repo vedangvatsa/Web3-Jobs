@@ -1,5 +1,5 @@
 {
-  "lastIndex": 353,
+  "lastIndex": 355,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -152,7 +152,9 @@
     "tcs",
     "sls186",
     "mgr106",
-    "dea"
+    "dea",
+    "cmp72",
+    "pm39"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5157,496 +5159,6 @@
       "verification": "verified"
     },
     {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "instagram",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "18092622017662227",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "x",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "6ac006ba918015097ad60391",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "River Financial is hiring Client Operations Associate - Remote\n\nhttps://hashtagweb3.com/ops69/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106104978909639014"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "threads",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "17982720177091500",
-      "verification": "verified",
-      "expectedText": "River Financial is hiring Client Operations Associate - Remote: https://hashtagweb3.com/ops69/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeAPh1tDylT",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "bluesky",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mww4fuphqk22",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x0d99394904d4335386c651e3d1615ebbed653a49",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0xf8124da84c8a7a4bd38e2386d4423bd542a4038a",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0xbd0784bd971d1ddc8bb66adc39bb1d816875c7da",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0xac49d61f0d287cc4ea6dba6b177def888a0f9760",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x8dfabf7f2c3005044cfdc485f73688b0d99ea89c",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0xedefd3b5c3d22f07e7fbe2d026646e33e6cbae7a",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x31806845e9a105bc8d1cc8f04ef5ea8ec7069980",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0xe9856987be6756902f035a1f026a279f8b0fcf60",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x2b85e773d8b6c7996afd8cc6d59a691393ca0441",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x3f356985b46ee14c28d2ac8c08d0cb2ec13d00d3",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x5b43c96b9be7db3099b8305f4986b0ad744615f6",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x3e72c01d881002b4257b8996ab4fab96aeb5bf9b",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x4ea7dcc0669f46b3d11400e94672816f03b586ea",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0xbe7dae6176e29789e9f54ae0172ea1477dd55a6c",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x19cb32c12e842596225671c7a4000ad2f7ad8873",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0x9122aaa553efda340ebb9d8fd578a7025e2aab1f",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "0xbc17751f43fc1b5a16171cdf5f0b4cf9fd3d43f3",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "6ac006cea82b64098f42577c",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "6ac006d84d76cf8285c79d5e",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "urn:li:share:7511870840427343872",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "facebook",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "691827047618629_1104765588797342",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops69",
-      "company": "River Financial",
-      "title": "Client Operations Associate - Remote",
-      "platform": "instagram",
-      "postedAt": "2026-10-02T19:32:10.579Z",
-      "postId": "18103674578366677",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "x",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "6ac006fa918015097ad6093e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Zero Hash is hiring Director of Strategic Finance\n\nhttps://hashtagweb3.com/dsf/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106105243285020813"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "threads",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "17942860908089444",
-      "verification": "verified",
-      "expectedText": "Zero Hash is hiring Director of Strategic Finance: https://hashtagweb3.com/dsf/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeAPpiVjx_u",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "bluesky",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mww4houlh62u",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x80a685b967371c79253708a1de95505f508a58e2",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0xd2d96e7c9cb84e32461ae923038e5b76e66d5eb3",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0xc0c728e3e40ce61f662f44c9bbd4fa6dd1505d39",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x1e9805cdea0f2814f688116a6c5805d7c44e9082",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x08e9739a10193aaeac48647cb194a208ac6d8844",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0xc4a61cd5b588995488ab2731e36f16f0a3a3e8e6",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x23f2b974fe7211c222c9449f6bfed08daa373807",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x0a000ee8d524406dda903885b3d76bfb06c105fa",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0xd5c1a5a05107b55bb60f40e682c0055ab762802e",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x88240e63e7de9c821ff83917cd272c34202b7138",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x99f57da39d2d6b745e61a82411a624eb65dbc357",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0xce531016988d74d599e1f262c6ddc95634bb8c5a",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x5b51f97dc480c868d6690e09d671039429b4b440",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x157c9b7027556264d6ca794d94e9efb7114b2a36",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0x590d9e66c49cbffea3af1da8907bf4fce417fe57",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0xc7f42a5b5e0d7ca9a864d2c2c5b5e6c4136f5dc4",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "0xaf29b8288aca4eecc35abe3a612396e854687a76",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "6ac0070ba82b64098f4260b2",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsf",
-      "company": "Zero Hash",
-      "title": "Director of Strategic Finance",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T19:33:13.727Z",
-      "postId": "6ac007159df0308ea07c5c05",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
       "slug": "dsf",
       "company": "Zero Hash",
       "title": "Director of Strategic Finance",
@@ -10143,6 +9655,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-06T03:59:27.619Z",
       "postId": "691827047618629_1107721338501767",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "x",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "6ac4e318fd3e7cb4c2195504",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Legal/ Corporate Compliance Operations Associate\n\nhttps://hashtagweb3.com/cmp72/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107441105968976254"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "threads",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "18235103599319331",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Legal/ Corporate Compliance Operations Associate: https://hashtagweb3.com/cmp72/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeJvIROG-67",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "bluesky",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx7f3kq36r2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0xd2c6e78220a423fdfbfb8cada00ff1656fa80672",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0xd377d6a6f6df5940fe12b60c7398f7b32832b5f4",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x52c01dee3f5321eafbe1b873db67fdc920601a61",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x838308cb345fd2019e45aa0f225854c6af073444",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x4d18968bf79f873e4c10cdb66de5eac79a09176f",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x6b85ff680b1e04b8cd7579b2062192f8acf3755d",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x70777418178f83e7e599ba7ac79f43839c2edd3c",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0xa6473cf9e68d3f90ba67910ac2aa62bff4c114c7",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x0293fd096cd6a008683ce2cd8075ec5347fc1ae5",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x0a94f580cbac38cf2dc754423d51645dab97724e",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x00c0630cdd6cdb4760a7f46880d9aefbe03df9dd",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x41fe8d66439506ef94b01a7d862a5a38f712da91",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x5b73f73f3c8749514905732536563e83a6d446da",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x0f5493b1ade8782e4ca16e2ce5975d31f83ddcd8",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x089d73e68aabb440225cc436efb309f54a4577c5",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0x999d81d93bac251cf29ab5df4f04f7480666e342",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "0xbb9e03c84e5a698f8a3aee3de5f1393f50a4de00",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "6ac4e32a6425d398cacd8357",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "6ac4e334fd3e7cb4c2195e24",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "urn:li:share:7513206959614042112",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp72",
+      "company": "Stripe",
+      "title": "Legal/ Corporate Compliance Operations Associate",
+      "platform": "facebook",
+      "postedAt": "2026-10-06T12:01:28.035Z",
+      "postId": "691827047618629_1108008498473051",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "x",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "6ac4e347fd3e7cb4c21962f4",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Bybit is hiring P2P Product Manager\n\nhttps://hashtagweb3.com/pm39/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107441303160082678"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "18105935591350932",
+      "verification": "verified",
+      "expectedText": "Bybit is hiring P2P Product Manager: https://hashtagweb3.com/pm39/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeJvN-YG_PL",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx7f4weybg2h",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0xad867826e0191ae58d0776d6a26fba27642b2c58",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0xa192994eb0428c7e258316d5097caf133f85cb69",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0xfc66b01bc9261a360029b0131c7083f6b5a591dc",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x75a1477bd104530909b537872a05233f120a4263",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x4569953984ecb158f368fc40e95b8c8ae6a20282",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x74f9c30234bdd0de078ed4854c447ac675e739f1",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x2253494cccdec663e3e50853fd6e17308d9ca130",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x8acd5192655b035b6dd5303f70f40e3015dc38d7",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0xfb92f4ccf6e64272d15bc2c55e025b309052ac48",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x2397f3b395970e7290e005384a6d1b620ac1c1a5",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x1d704f0d47c010d0b0baae709dca5f030d249ca0",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x93f1e659d16593e3086a5d52103dd60c31811dcf",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x3e02038c7a3bd7fe9f5dd87e55630822d6e6841d",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0xfd57be41469ad4f2c3620e46443fb91b24ad8582",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x3d7119ab3690020b68d6d858d90b9d6b3b463312",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x638d58ed1a153ffc131e7b9868b1923aabb34bc6",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "0x91028a3494d948791ad400cee82969e3f0ef0cde",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "6ac4e357fd3e7cb4c21965da",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "6ac4e3626425d398cacd9356",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "urn:li:share:7513207152040161281",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm39",
+      "company": "Bybit",
+      "title": "P2P Product Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-06T12:02:15.071Z",
+      "postId": "691827047618629_1108009191806315",
       "verification": "verified"
     }
   ]
