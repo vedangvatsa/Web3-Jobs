@@ -6753,11 +6753,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e75a622dde13ed10ce8c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T09:00:00.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "promotional",
+      "note": "WEEX TOKEN2049 sponsorship and AI trading announcement, single-outlet event promotion with no verifiable concrete market event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:25.691Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "191c57df6317c95e106f": {
       "source": "BeInCrypto",
@@ -10104,6 +10109,13 @@
           "note": "Kilburg tech stock picks above analyst targets, equities commentary with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:24.028Z"
+        },
+        "e75a622dde13ed10ce8c": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "WEEX TOKEN2049 sponsorship and AI trading announcement, single-outlet event promotion with no verifiable concrete market event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:25.691Z"
         }
       },
       "baselineSlugs": [
