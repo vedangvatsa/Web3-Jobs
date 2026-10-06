@@ -7805,11 +7805,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "d4b74043757589b01c27",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:00:00.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Oct 6 Glamsterdam Sepolia activation already drafted as sepolia-fork.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:12.891Z",
+      "duplicateOf": "sepolia-fork",
+      "mergedInto": "e62916c7316050993bee",
+      "lastReviewedDay": "2026-10-06"
     },
     "2a97fd1fa7e855ef22c3": {
       "source": "Unchained",
@@ -12658,6 +12665,15 @@
           "reviewedAt": "2026-10-06T17:45:10.733Z",
           "duplicateOf": "davis-bill",
           "mergedInto": "2a97fd1fa7e855ef22c3"
+        },
+        "d4b74043757589b01c27": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 6 Glamsterdam Sepolia activation already drafted as sepolia-fork.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:12.891Z",
+          "duplicateOf": "sepolia-fork",
+          "mergedInto": "e62916c7316050993bee"
         }
       },
       "baselineSlugs": [
