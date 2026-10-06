@@ -8044,11 +8044,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa80e4d9c82031d31293",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T16:38:15.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "price-chatter",
+      "note": "Price commentary on BTC, Zcash and Monero moves with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:35.250Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "10a0140d3865a6389248": {
       "source": "Bitcoin Magazine",
@@ -12900,6 +12910,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:33.446Z"
+        },
+        "aa80e4d9c82031d31293": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Price commentary on BTC, Zcash and Monero moves with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:35.250Z"
         }
       },
       "baselineSlugs": [
