@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-06T10:35:08.304Z",
+  "generatedAt": "2026-10-06T11:31:27.005Z",
   "items": [
+    {
+      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+      "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Your day-ahead look for Oct. 6, 2026",
+      "source": "Coindesk"
+    },
+    {
+      "title": "CFTC Seeks Public Comment on Expansive Round of Crypto Market Regulations",
+      "link": "https://dailyhodl.com/2026/10/06/cftc-seeks-public-comment-on-expansive-round-of-crypto-market-regulations/",
+      "pubDate": "Tue, 06 Oct 2026 10:47:34 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The Commodity Futures Trading Commission (CFTC) is proposing new crypto market regulations after the Clarity Act detonated in the Senate. The regulato...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "New Generation of Crypto Miners Released by ASICID",
+      "link": "https://dailyhodl.com/2026/10/06/new-generation-of-crypto-miners-released-by-asicid/",
+      "pubDate": "Tue, 06 Oct 2026 10:43:17 +0000",
+      "creator": "Chainwire",
+      "contentSnippet": "Hong Kong, Hong Kong, October 6th, 2026, Chainwire\nThe post New Generation of Crypto Miners Released by ASICID appeared first on The Daily Hodl.",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+      "link": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+      "pubDate": "Tue, 06 Oct 2026 10:36:57 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Live updates: A drop below $84,000 could put $80,000 in play for bitcoin",
+      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "pubDate": "Tue, 06 Oct 2026 10:35:49 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday.",
+      "source": "Coindesk"
+    },
     {
       "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
       "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
@@ -474,12 +514,12 @@
       "source": "The Block"
     },
     {
-      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-      "pubDate": "Mon, 05 Oct 2026 04:41:35 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "NU7 cuts the target block time from 75 seconds to 25, giving exchanges, wallets and developers a live rehearsal before a planned November mainnet laun...",
-      "source": "Coindesk"
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 05 Oct 2026 03:47:19 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Zcash’s NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned Nov...",
+      "source": "Cointelegraph"
     },
     {
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
@@ -528,14 +568,6 @@
       "creator": "Staff",
       "contentSnippet": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his cry...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Cardano Faces Bearish Signals as Futures Demand Cools and Whales Sell",
-      "link": "https://dailyhodl.com/2026/10/03/cardano-faces-bearish-signals-as-futures-demand-cools-and-whales-sell/",
-      "pubDate": "Sat, 03 Oct 2026 11:45:15 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Cardano's September gains are running into headwinds from dropping futures open interest, whale profit-taking, and a Tom DeMark sell signal, though a ...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
@@ -608,14 +640,6 @@
       "creator": "Agent",
       "contentSnippet": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
-      "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
-      "pubDate": "Fri, 02 Oct 2026 05:50:41 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "US spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025.",
-      "source": "The Block"
     }
   ]
 }
