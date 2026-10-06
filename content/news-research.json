@@ -5182,17 +5182,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "84fff5d50c5d93106fb2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T14:37:59.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 FinCEN withdrawal of the unhosted-wallet and mixer proposals covered by fincen-withdrawal.",
+      "note": "Same Oct 5 FinCEN withdrawal of unhosted-wallet and mixer proposals covered by fincen-withdrawal.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T01:08:02.497Z",
+      "reviewedAt": "2026-10-06T03:41:36.295Z",
       "duplicateOf": "fincen-withdrawal",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "b044864ba1f8b300e5db"
     },
     "c023b8f4dad93ff74c6c": {
       "source": "The Block",
@@ -8530,6 +8531,15 @@
           "note": "Same Oct 5 FinCEN withdrawal of unhosted-wallet and mixer proposals covered by fincen-withdrawal.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T03:41:34.441Z",
+          "duplicateOf": "fincen-withdrawal",
+          "mergedInto": "b044864ba1f8b300e5db"
+        },
+        "84fff5d50c5d93106fb2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 FinCEN withdrawal of unhosted-wallet and mixer proposals covered by fincen-withdrawal.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T03:41:36.295Z",
           "duplicateOf": "fincen-withdrawal",
           "mergedInto": "b044864ba1f8b300e5db"
         }
