@@ -8175,11 +8175,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b1d10154abc829706514",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:21:05.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same OKX 25B raise already drafted as okx-raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:45:26.902Z",
+      "duplicateOf": "okx-raise",
+      "mergedInto": "bab880453caae397d6f8",
+      "lastReviewedDay": "2026-10-06"
     },
     "b94a419f9db4d969b512": {
       "source": "BeInCrypto",
@@ -12752,6 +12759,15 @@
           "note": "Same OKX 25B raise already drafted as okx-raise.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T17:45:25.260Z",
+          "duplicateOf": "okx-raise",
+          "mergedInto": "bab880453caae397d6f8"
+        },
+        "b1d10154abc829706514": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OKX 25B raise already drafted as okx-raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:45:26.902Z",
           "duplicateOf": "okx-raise",
           "mergedInto": "bab880453caae397d6f8"
         }
