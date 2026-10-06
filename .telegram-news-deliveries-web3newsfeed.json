@@ -865,5 +865,36 @@
     "slotKey": "2026-10-06:afternoon",
     "messageId": 65733,
     "sentAt": "2026-10-06T12:04:55.407Z"
+  },
+  "28311517-d71b-4633-bed4-bd0b1a44f160": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T19:36:00.846Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Court allows state gambling laws to apply to Kalshi",
+        "summary": "Ohio and Tennessee may enforce local regulations after judges found the platform's contracts are not federal swaps.",
+        "link": "https://hashtagweb3.com/kalshi-appeal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kalshi Loses Sixth Circuit Appeal Over Sports Contracts"
+      },
+      {
+        "index": -1,
+        "headline": "Kazakhstan Launches Tenge-Pegged Stablecoin on Telegram",
+        "summary": "The KZTg stablecoin is now available on the TON network as a digital version of the national currency.",
+        "link": "https://hashtagweb3.com/kztg-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kazakhstan Launches Tenge-Pegged KZTg Stablecoin on Telegram"
+      },
+      {
+        "index": -1,
+        "headline": "Symbiosis Recovers 15 BTC Following Bridge Exploit",
+        "summary": "The protocol recovered partial funds after a September exploit and offered the attacker a 20% bounty.",
+        "link": "https://hashtagweb3.com/symbiosis-bridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Symbiosis Recovers 15 BTC After Bitcoin Bridge Exploit, Offers 20% Bounty"
+      }
+    ],
+    "slotKey": "2026-10-06:evening"
   }
 }
