@@ -181,7 +181,10 @@ test('visa upgrade retains existing programs and service links are safe', () => 
 test('root-level tool and city routes preserve existing published identities and share shells', () => {
   const routes = nomadRoutes();
   assert.equal(routes.length, 102);
-  assert.deepEqual(NOMAD_STATIC_PATHS, ['/nomads', '/digital-nomad-visas']);
+  assert.deepEqual(NOMAD_STATIC_PATHS, ['/nomads', '/visas']);
+  assert.equal(legacyNomadToolDestination('/digital-nomad-visas'), '/visas');
+  assert.equal(legacyNomadToolDestination('/nomads/schengen'), '/visas?tab=checker');
+  assert.equal(legacyNomadToolDestination('/nomads/taxes'), '/visas');
   for (const [oldPath, destination] of Object.entries(NOMAD_LEGACY_ROUTES)) {
     assert.ok(RESERVED_APP_ROUTE_SLUGS.includes(oldPath.slice(1)), `${oldPath} must stay reserved`);
     assert.equal(nomadPageInfo(oldPath), null);

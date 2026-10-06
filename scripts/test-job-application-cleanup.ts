@@ -40,7 +40,7 @@ async function main() {
     }
   }
   assert.equal(isRemovedJobPath('/%65io'), true);
-  for (const path of ['/nomad', '/nomads', '/eio-unrelated', '/digital-nomad-visas']) assert.equal(isRemovedJobPath(path), false);
+  for (const path of ['/nomad', '/nomads', '/eio-unrelated', '/digital-nomad-visas', '/visas']) assert.equal(isRemovedJobPath(path), false);
   assert.equal(isRemovedJobPath('/product578'), false, 'The original Bybit alias must survive removal of the unrelated listing that reused it');
   assert.equal((await resolveJobSlug('product578')).job?.link, 'https://job-boards.eu.greenhouse.io/bybit/jobs/4944488101');
   const recovered = await middleware(new NextRequest('https://hashtagweb3.com/product578/tg?from=saved', { headers: { 'User-Agent': 'Mozilla/5.0', 'Sec-Fetch-Mode': 'navigate' } }));

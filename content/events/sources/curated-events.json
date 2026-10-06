@@ -4204,13 +4204,13 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "/events/premier-gts-2026-3dc84af3.webp",
+    "coverImage": "/events/premier-gts-2026-14026f76.webp",
     "id": "premier-gts-2026",
     "slug": "gts",
     "name": "Global Trading Show 2026",
-    "description": "Connect with 5000+ traders, elite speakers, and industry leaders at the Global Trading Show. Explore the future of trading, December 15–16, 2026 in Abu Dhabi.\n\n## Program\n\nA premier multi-asset trading expo spanning forex, crypto, equities, AI trading, DeFi, and prediction markets. Passes suit every level of participation, with a trading experience floor plan, monthly insider updates, speaker reveals, agenda drops, and sponsor news.\n\n## Tickets\n\nBook your Global Trading Show tickets and explore the floor plan through the official tickets page to connect with investors, fintech leaders, traders, and innovators. The VIP Pass is listed at US$699.\n\nThe event runs December 15–16, 2026 in Abu Dhabi.",
-    "startDate": "2026-12-15T08:00:00+00:00",
-    "endDate": "2026-12-16T18:00:00+00:00",
+    "description": "Global Trading Show 2026 takes place December 10-11, 2026 in Abu Dhabi, UAE. The expo and conference covers forex, crypto, equities, gold, AI trading, DeFi and prediction markets.\n\nThe announced programme includes an exhibition, main-stage talks, structured networking and strategy workshops. Registration is available through the official tickets page, with Standard, Business and VIP passes.\n\nThe event is presented by Times of Trading and organised by VAP Group.",
+    "startDate": "2026-12-10",
+    "endDate": "2026-12-11",
     "city": "Abu Dhabi",
     "country": "UAE",
     "location": "Abu Dhabi, UAE",
@@ -4218,48 +4218,14 @@
     "url": "https://www.globaltradingshow.com/",
     "website": "https://www.globaltradingshow.com/",
     "registrationUrl": "https://www.globaltradingshow.com/tickets/",
-    "speakers": [
-      "Christos Christou",
-      "Marcin Kaźmierczak",
-      "Evgeny Gokhberg",
-      "Mahmoud Hamouda",
-      "John Lilic"
-    ],
-    "speakerDetails": [
-      {
-        "name": "Christos Christou",
-        "title": "Chief Compliance Officer",
-        "organization": "Lulu Financial Holdings"
-      },
-      {
-        "name": "Marcin Kaźmierczak",
-        "title": "Co-Founder",
-        "organization": "RedStone"
-      },
-      {
-        "name": "Evgeny Gokhberg",
-        "title": "Founder",
-        "organization": "Re7 Capital"
-      },
-      {
-        "name": "Mahmoud Hamouda",
-        "title": "Deputy Chief Strategy Officer",
-        "organization": "Banque Misr"
-      },
-      {
-        "name": "John Lilic",
-        "title": "Chief Advisor",
-        "organization": "Hilbert Group"
-      }
-    ],
     "addressLocality": "Abu Dhabi",
     "addressCountry": "UAE",
     "descriptionSource": {
-      "url": "https://www.globaltradingshow.com/tickets/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
+      "url": "https://www.globaltradingshow.com/",
+      "fetchedAt": "2026-10-06T11:55:41.462Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Global Trading Show Tickets 2026 | Book Your Pass",
-      "sha256": "d4709fb50f7313d06951272bdc8be92e3ee49e97047fefa77b39002a2477cb6c"
+      "pageTitle": "Global Trading Show | Premier Multi-Asset Trading Event",
+      "sha256": "9f52034d8492463474d2f97df978ba6c621969ec9b61e23c5d7ba75e5d760ae9"
     }
   },
   {

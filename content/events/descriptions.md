@@ -5376,6 +5376,25 @@ Be part of the flagship event shaping the future of Bitcoin in Africa! By sponso
 - "The most powerful thing that comes from Bitcoin is the fact that it is decentralized...anything that increases that decentralization contributes to making it a much stronger and more resilient network."Jack DorseyBlock
 - "Human rights are good for business. Freedom, democracy, freedom of expression, and freedom of association are crucial for innovation and prosperity."Mike BrockTBD
 
+<a id="event-249314dfed298138"></a>
+
+## Global Trading Show 2026
+
+- Record: `premier-gts-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-10
+- Description: Source-backed
+- Original page: <https://www.globaltradingshow.com/>
+- Original page: <https://www.globaltradingshow.com/tickets/>
+
+### About the event
+
+Global Trading Show 2026 takes place December 10-11, 2026 in Abu Dhabi, UAE. The expo and conference covers forex, crypto, equities, gold, AI trading, DeFi and prediction markets.
+
+The announced programme includes an exhibition, main-stage talks, structured networking and strategy workshops. Registration is available through the official tickets page, with Standard, Business and VIP passes.
+
+The event is presented by Times of Trading and organised by VAP Group.
+
 <a id="event-b3688887bea35093"></a>
 
 ## Messari Mainnet 2026
@@ -5387,31 +5406,6 @@ Be part of the flagship event shaping the future of Bitcoin in Africa! By sponso
 - Original page: <https://mainnet.events>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-249314dfed298138"></a>
-
-## Global Trading Show 2026
-
-- Record: `premier-gts-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-12-15T08:00:00+00:00
-- Description: Source-backed
-- Original page: <https://www.globaltradingshow.com/>
-- Original page: <https://www.globaltradingshow.com/tickets/>
-
-### About the event
-
-Connect with 5000+ traders, elite speakers, and industry leaders at the Global Trading Show. Explore the future of trading, December 15-16, 2026 in Abu Dhabi.
-
-### Program
-
-A premier multi-asset trading expo spanning forex, crypto, equities, AI trading, DeFi, and prediction markets. Passes suit every level of participation, with a trading experience floor plan, monthly insider updates, speaker reveals, agenda drops, and sponsor news.
-
-### Tickets
-
-Book your Global Trading Show tickets and explore the floor plan through the official tickets page to connect with investors, fintech leaders, traders, and innovators. The VIP Pass is listed at US$699.
-
-The event runs December 15-16, 2026 in Abu Dhabi.
 
 <a id="event-2e48a53a0f4ca41f"></a>
 

@@ -46,7 +46,7 @@ async function main() {
     `${siteUrl}/web3-career-quiz`,
     `${siteUrl}/interview-questions`,
     `${siteUrl}/freelance-rates-by-industry`,
-    `${siteUrl}/digital-nomad-visas`,
+    `${siteUrl}/visas`,
     `${siteUrl}/remote-work-checklist`,
     `${siteUrl}/employee-onboarding-checklist`,
     `${siteUrl}/offer-letter-customizer`,

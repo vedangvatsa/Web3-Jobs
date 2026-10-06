@@ -4,7 +4,7 @@ import { NomadShell } from '@/components/nomads/shell';
 import { getNomadVisas, getPassportCountries } from '@/lib/nomads/server';
 import { nomadMetadata } from '@/lib/nomads/metadata';
 
-export const metadata = nomadMetadata('/digital-nomad-visas');
+export const metadata = nomadMetadata('/visas');
 
 export default function DigitalNomadVisasPage() {
  return (

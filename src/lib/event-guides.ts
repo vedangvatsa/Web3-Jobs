@@ -1749,21 +1749,18 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
   },
   gts: {
     summaryLead:
-      "Global Trading Show (GTS) 2026 runs December 15 to 16, 2026 at the Emirates Palace in Abu Dhabi, UAE. Presented by Times of Trading and organized by VAP Group, it is a premier multi-asset trading conference and expo uniting forex, crypto, equities, AI trading, DeFi, and prediction markets. The 2026 speaker lineup features key industry leaders including Christos Christou (Chief Compliance Officer at Lulu Financial Holdings), Marcin Kaźmierczak (Co-Founder of RedStone), Evgeny Gokhberg (Founder of Re7 Capital), Mahmoud Hamouda (Deputy Chief Strategy Officer at Banque Misr), and John Lilic (Chief Advisor at Hilbert Group).",
-    speakers: "Christos Christou (Lulu Financial), Marcin Kaźmierczak (RedStone), Evgeny Gokhberg (Re7 Capital), Mahmoud Hamouda (Banque Misr), John Lilic (Hilbert Group)",
-    expectedAttendance: "Multi-asset institutional traders, fund managers, and Web3 founders",
+      "Global Trading Show (GTS) 2026 takes place December 10-11, 2026 in Abu Dhabi, UAE. Presented by Times of Trading and organised by VAP Group, the expo and conference covers forex, crypto, equities, gold, AI trading, DeFi and prediction markets.",
     sections: [
       {
-        heading: "Multi-Asset & Institutional Focus",
+        heading: "Programme",
         content: [
-          "GTS 2026 bridges institutional finance with decentralized markets, hosting specialized tracks for algorithmic trading, cross-chain oracle infrastructure, regulatory compliance, and tokenized real-world asset (RWA) funds.",
-          "The speaker directory pairs traditional finance executives like Christos Christou (Lulu Financial) and Mahmoud Hamouda (Banque Misr) with Web3 leaders including Marcin Kaźmierczak (RedStone), Evgeny Gokhberg (Re7 Capital), and John Lilic (Hilbert Group), offering direct access to GCC banking leaders and crypto operators under UAE regulatory frameworks.",
+          "The announced programme includes an exhibition, main-stage talks, structured networking and strategy workshops.",
         ],
       },
       {
         heading: "Venue & Logistics",
         content: [
-          "The conference takes place at the Emirates Palace in Abu Dhabi, UAE. Registration and ticket tiers (including access to keynotes, executive deal-flow zones, and speaker sessions) are available through the official checkout at globaltradingshow.com.",
+          "The organiser lists the location as Abu Dhabi, UAE. Standard, Business and VIP passes are available through the official tickets page at globaltradingshow.com.",
         ],
       },
     ],
@@ -1805,4 +1802,3 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 };
-

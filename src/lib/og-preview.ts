@@ -205,7 +205,7 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
       description: 'Plan a secure, productive remote workspace.',
       ogImageUrl: STATIC_OG.tools,
     },
-    '/digital-nomad-visas': {
+    '/visas': {
       title: `Visas for Digital Nomads | ${SITE_NAME}`,
       description: 'Browse digital-nomad visa requirements for remote Web3 workers.',
       ogImageUrl: STATIC_OG.tools,
@@ -324,7 +324,7 @@ export async function collectOgPreviewPaths(): Promise<string[]> {
     '/invoice-generator',
     '/resume-builder',
     '/remote-work-checklist',
-    '/digital-nomad-visas',
+    '/visas',
     '/web3-hiring-report',
   ]);
 

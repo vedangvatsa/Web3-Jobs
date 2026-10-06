@@ -6,8 +6,9 @@
   "/climate": "/nomads?category=temperature",
   "/city-report": "/nomads",
   "/timezones": "/nomads?view=compare",
-  "/schengen": "/digital-nomad-visas?tab=checker",
+  "/digital-nomad-visas": "/visas",
+  "/schengen": "/visas?tab=checker",
   "/savings-runway": "/nomads?category=cost",
-  "/tax-planning": "/digital-nomad-visas",
+  "/tax-planning": "/visas",
   "/nomad-services": "/resources"
 }

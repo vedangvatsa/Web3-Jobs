@@ -117,7 +117,7 @@ export function CityExplorer({ cities, date, referencePeriod }: { cities: Explor
         <p role="status" className="text-sm text-muted-foreground">{filtered.length} cities{climate ? ` · ${CLIMATE_MONTHS[month]}` : ''}</p>
         <div data-explorer-controls className="flex flex-wrap items-center gap-2">
           {Boolean(q || region || budget || speed || weatherFilterCount) && <Button variant="ghost" onClick={reset}>Clear filters</Button>}
-          <Button asChild variant="ghost"><Link href="/digital-nomad-visas" prefetch={false}>Visas & entry ↗</Link></Button>
+          <Button asChild variant="ghost"><Link href="/visas" prefetch={false}>Visas & entry ↗</Link></Button>
           <Button variant="ghost" size="icon" className="h-11 w-11" disabled={!filtered.length || !!report} aria-label={report ? 'Preparing city report' : 'Print city report'} title="Print / save city report as PDF" onClick={() => setReport({ cities: filtered.slice(0, 50), ranking: `${definition.label}${climate ? ` · ${CLIMATE_MONTHS[month]}` : ''}` })}><Printer className="h-4 w-4" aria-hidden /></Button>
         </div>
       </div>

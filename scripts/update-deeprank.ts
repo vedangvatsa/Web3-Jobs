@@ -82,7 +82,7 @@ async function updateDeeprankJson() {
     },
     {
       type: 'WebResource',
-      id: '/digital-nomad-visas',
+      id: '/visas',
       title: 'Digital Nomad Visa List',
       description: 'A comprehensive, searchable list of digital nomad visas for Web3 professionals.',
       category: 'Remote Work',

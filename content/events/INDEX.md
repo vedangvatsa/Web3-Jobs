@@ -144,8 +144,8 @@ Each entry links to its formatted description and original source file. All stor
 | [CryptoCon Sydney 2026](descriptions.md#event-99a91ef39510a040) | 2026-11-28 | Source-backed (4391 chars) |
 | [Blockchain Life 2026](descriptions.md#event-868f2327eef135c3) | 2026-12-01 | Source-backed (5505 chars) |
 | [Africa Bitcoin Conference 2026](descriptions.md#event-850e9a2b8df1c561) | 2026-12-02 | Source-backed (3917 chars) |
+| [Global Trading Show 2026](descriptions.md#event-249314dfed298138) | 2026-12-10 | Source-backed (465 chars) |
 | [Messari Mainnet 2026](descriptions.md#event-b3688887bea35093) | 2026-12-10 | Unverified stored copy (142 chars) |
-| [Global Trading Show 2026](descriptions.md#event-249314dfed298138) | 2026-12-15 | Source-backed (702 chars) |
 | [Consensus Hong Kong 2027](descriptions.md#event-2e48a53a0f4ca41f) | 2027-02-01 | Source-backed (1074 chars) |
 | [Denver Zero-Knowledge Proofs & Coprocessor Summit](descriptions.md#event-3af1ab46a7509946) | 2027-02-25 | Unverified stored copy (175 chars) |
 | [DAO Governance & On-Chain Legal Roundtable](descriptions.md#event-22900e77aa340ea2) | 2027-02-26 | Unverified stored copy (187 chars) |

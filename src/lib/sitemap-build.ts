@@ -161,7 +161,7 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.5,
  },
  {
-  url: `${siteUrl}/digital-nomad-visas`,
+  url: `${siteUrl}/visas`,
   lastModified: new Date('2025-01-01'),
   changeFrequency: 'monthly',
   priority: 0.5,

@@ -87,7 +87,7 @@ async function main(): Promise<void> {
     '/remote-work-checklist',
     '/jd-builder',
     '/invoice-generator',
-    '/digital-nomad-visas',
+    '/visas',
     '/web3-hiring-report',
     '/web3-career-quiz',
     '/interview-questions',

@@ -38436,6 +38436,14 @@
     "/popups/zuberlin/zuberlingallery3.webp": {
       "sha256": "449fd166dacba59db731b8054f863faeeb056eb154381c28884ae0dbb4c64c94",
       "status": "retained"
+    },
+    "/events/premier-gts-2026-14026f76.webp": {
+      "sha256": "9b5888bda51f6145c430f56f6203ff671f29c25a3ceaa99f14c99effe1fc750d",
+      "status": "optimized"
+    },
+    "/og/pages/visas.png": {
+      "sha256": "3b889f68cd230541cab881068ce84df6f09122c6724fb075fa14cb64944fb361",
+      "status": "retained"
     }
   }
 }

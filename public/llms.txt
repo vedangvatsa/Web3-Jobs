@@ -55,7 +55,7 @@ Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client
 - Articles index: `https://hashtagweb3.com/data/articles-index.json`
 - Companies: `https://hashtagweb3.com/data/companies-runtime.json`
 - Nomad city index: `https://hashtagweb3.com/data/nomads/cities.json`; details: `/data/nomads/cities/{slug}.json`
-- City guides use root URLs such as `https://hashtagweb3.com/lisbon`. `/nomads` combines destination search, ranking filters, a places map, in-page city comparison and print export. `/digital-nomad-visas` has visa programs and passport entry requirements. Former standalone tools and old `/nomads/*` page URLs permanently redirect; static `/data/nomads/*` URLs are unchanged.
+- City guides use root URLs such as `https://hashtagweb3.com/lisbon`. `/nomads` combines destination search, ranking filters, a places map, in-page city comparison and print export. `/visas` has visa programs and passport entry requirements; `/digital-nomad-visas` permanently redirects there. Former standalone tools and old `/nomads/*` page URLs permanently redirect; static `/data/nomads/*` URLs are unchanged.
 - Nomad places: `https://hashtagweb3.com/data/nomads/places.json` (compact rows; schema in the OpenAPI description)
 - Passport index: `https://hashtagweb3.com/data/nomads/passports.json`; selected passport: `/data/nomads/passports/{id}.json`
 - Nomad data is an attributed reference snapshot, not live pricing or immigration advice. Sources: `https://hashtagweb3.com/nomad-data-notices.txt`.
@@ -150,7 +150,7 @@ npm install @hashtag_web3_/sdk
 - [Web3 Career Quiz](https://hashtagweb3.com/web3-career-quiz): Assessment mapping skills to Web3 career archetypes.
 - [Job Description Builder](https://hashtagweb3.com/jd-builder): Generates structured Web3 job descriptions with token compensation.
 - [Freelance Invoice Generator](https://hashtagweb3.com/invoice-generator): Generates professional invoices for Web3 contractors.
-- [Digital Nomad Visa List](https://hashtagweb3.com/digital-nomad-visas): Searchable database of digital nomad visas by country.
+- [Digital Nomad Visa List](https://hashtagweb3.com/visas): Searchable database of digital nomad visas by country.
 - [Digital Nomad Resources](https://hashtagweb3.com/nomads): Explore city guides and places on a map, rank destinations by costs, climate or connectivity, compare two cities in-page, and print a filtered city report.
 - [Remote Work Checklist](https://hashtagweb3.com/remote-work-checklist): Remote workspace setup and productivity checklist.
 - [Freelance Rates by Industry](https://hashtagweb3.com/freelance-rates-by-industry): Hourly and project benchmarks across tech and crypto.

@@ -10,7 +10,13 @@ separate Cities, Rankings, Places or Compare navigation, and no More tools menu.
 | --- | --- |
 | `/nomads` | Search cities/places, filter region/budget, rank destinations, explore the map, compare in-page and print results |
 | `/[city]`, e.g. `/lisbon` | 100 city guides with budgets, monthly climate, places, community links and related Hashtag content |
-| `/digital-nomad-visas` | 71 merged program references plus a 199-passport entry checker with an automatic map |
+| `/visas` | 71 merged program references plus a 199-passport entry checker with an automatic map |
+
+`/digital-nomad-visas` permanently redirects to `/visas`, preserving search
+parameters and social-share suffixes. Existing `/schengen` and `/tax-planning`
+links also resolve directly to `/visas`; the checker link retains `tab=checker`.
+The retired long root stays reserved and its published preview/image URLs remain
+available. Canonicals, navigation and sitemaps use `/visas`.
 
 Rank by overall score, living costs, internet, safety, walkability, temperature,
 rainfall or humidity. Weather ranks reveal month/range controls. Unknown values

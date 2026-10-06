@@ -143,7 +143,7 @@ export default function ResourcesPage() {
               </div>
               <div className="grid gap-3 sm:grid-cols-2">
                 <ToolCard href="/nomads" label="Digital Nomad Resources" description="Explore destinations, rank and compare cities, and find stays and workspaces on the map." />
-                <ToolCard href="/digital-nomad-visas" label="Visas & passport entry" description="Browse longer-stay program references and short-visit passport requirements." />
+                <ToolCard href="/visas" label="Visas & passport entry" description="Browse longer-stay program references and short-visit passport requirements." />
               </div>
             </section>
             {/* For Job Seekers */}

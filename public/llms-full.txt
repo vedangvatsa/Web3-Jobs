@@ -145,7 +145,7 @@ npm install @hashtag_web3_/sdk
 - [Web3 Career Quiz](https://hashtagweb3.com/web3-career-quiz): Assessment mapping skills to Web3 career archetypes.
 - [Job Description Builder](https://hashtagweb3.com/jd-builder): Generates structured Web3 job descriptions with token compensation.
 - [Freelance Invoice Generator](https://hashtagweb3.com/invoice-generator): Generates professional invoices for Web3 contractors.
-- [Digital Nomad Visa List](https://hashtagweb3.com/digital-nomad-visas): Searchable database of digital nomad visas by country.
+- [Digital Nomad Visa List](https://hashtagweb3.com/visas): Searchable database of digital nomad visas by country.
 - [Remote Work Checklist](https://hashtagweb3.com/remote-work-checklist): Remote workspace setup and productivity checklist.
 - [Freelance Rates by Industry](https://hashtagweb3.com/freelance-rates-by-industry): Hourly and project benchmarks across tech and crypto.
 

@@ -228,7 +228,7 @@ export const resources = [
   { href:"/salary-calculator", label:"Salary Calculator", icon: Calculator },
   { href:"/resume-builder", label:"Resume Builder", icon: FileSignature },
   { href:"/invoice-generator", label:"Invoice Generator", icon: FileText },
-  { href:"/digital-nomad-visas", label:"Digital Nomad Visas", icon: Globe },
+  { href:"/visas", label:"Digital Nomad Visas", icon: Globe },
   { href:"/remote-work-checklist", label:"Remote Checklist", icon: ListChecks },
   { href:"/jd-builder", label:"JD Builder", icon: ClipboardEdit },
   { href:"/offer-letter-customizer", label:"Offer Letter Customizer", icon: FileSignature },

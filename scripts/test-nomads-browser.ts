@@ -66,7 +66,7 @@ async function main() {
       assert.equal(destination.searchParams.get('from'), 'test');
       assert.ok(!sitemap.includes(`https://hashtagweb3.com${oldPath}</loc>`), oldPath);
     }
-    for (const route of ['/nomads', '/lisbon', '/digital-nomad-visas']) {
+    for (const route of ['/nomads', '/lisbon', '/visas']) {
       const response = await fetch(`${origin}${route}/tg`, { headers: { 'User-Agent': 'TelegramBot' } });
       assert.equal(response.status, 200);
       const html = await response.text();
@@ -74,13 +74,25 @@ async function main() {
       assert.equal(load(html)('link[rel="canonical"]').attr('href'), `https://hashtagweb3.com${route}`);
       assert.match((await fetch(`${origin}${route}?mode=agent`, { headers: humanHeaders })).headers.get('content-type') || '', /json/);
     }
-    for (const [oldPath, target] of [['/nomads/cities/lisbon', '/lisbon'], ['/compare-cities', '/nomads'], ['/nomads/compare', '/nomads']]) {
+    for (const [oldPath, target] of [['/nomads/cities/lisbon', '/lisbon'], ['/compare-cities', '/nomads'], ['/nomads/compare', '/nomads'], ['/digital-nomad-visas', '/visas'], ['/schengen', '/visas'], ['/tax-planning', '/visas']]) {
       const response = await fetch(`${origin}${oldPath}/tg?from=test`, { headers: humanHeaders, redirect: 'manual' });
       assert.equal(response.status, 308);
       assert.equal(new URL(response.headers.get('location')!, origin).pathname, `${target}/tg`);
       const crawler = await fetch(`${origin}${oldPath}/tg`, { headers: { 'User-Agent': 'TelegramBot' } });
       assert.equal(load(await crawler.text())('link[rel="canonical"]').attr('href'), `https://hashtagweb3.com${target}`);
     }
+    const visaQuery = '?tab=checker&passport=india&q=Japan&utm_source=newsletter';
+    for (const suffix of ['', '/tg']) {
+      const legacy = await fetch(`${origin}/digital-nomad-visas${suffix}${visaQuery}`, { headers: humanHeaders, redirect: 'manual' });
+      assert.equal(legacy.status, 308);
+      const destination = new URL(legacy.headers.get('location')!, origin);
+      assert.equal(destination.pathname, `/visas${suffix}`);
+      for (const [key, value] of new URLSearchParams(visaQuery)) assert.equal(destination.searchParams.get(key), value);
+    }
+    const oldVisaShell = load(await (await fetch(`${origin}/preview/digital-nomad-visas.html`)).text());
+    assert.equal(oldVisaShell('link[rel="canonical"]').attr('href'), 'https://hashtagweb3.com/visas');
+    assert.equal(oldVisaShell('meta[property="og:image"]').attr('content'), nomadOgImage('/visas'));
+    assert.equal((await fetch(`${origin}/og/pages/digital-nomad-visas.png`)).status, 200);
     const popup = await fetch(`${origin}/nomad`, { headers: humanHeaders });
     assert.equal(popup.status, 200); assert.match(await popup.text(), /nomad.homes/);
     console.log(`HTTP: ${routes.length} canonical pages, ${oldRoutes.length} legacy redirects, sitemap, previews and protected popup passed.`);
@@ -228,7 +240,12 @@ async function main() {
     await go('/climate?month=0&min=15&max=25'); await expect(page.getByLabel('Climate month')).toHaveValue('0');
     await go('/timezones?cities=bangalore,london'); await expect(comparison.getByText('UTC+5:30', { exact: true })).toBeVisible();
 
-    await go('/digital-nomad-visas');
+    await go('/digital-nomad-visas?tab=checker&passport=india');
+    await expect(page).toHaveURL(/\/visas\?tab=checker&passport=india$/);
+    await expect(page.getByRole('tab', { name: 'Passport checker', exact: true })).toHaveAttribute('aria-selected', 'true');
+    await expect(page.getByRole('combobox', { name: 'Your passport', exact: true })).toHaveValue('india');
+    await expect(page.locator('#passport-map svg')).toBeVisible();
+    await go('/visas');
     await expect(page.getByRole('link', { name: 'Explore destinations', exact: true })).toHaveCount(0);
     await expect(page.getByText(/program and remote-stay references/)).toHaveCount(0);
     await expect(page.locator('main article')).toHaveCount(getNomadVisas().length);
@@ -252,7 +269,7 @@ async function main() {
 
     for (const width of [320, 390, 768, 1024, 1440]) {
       await page.setViewportSize({ width, height: 1000 });
-      for (const route of ['/nomads', '/nomads?view=compare&a=lisbon&b=bangkok', '/digital-nomad-visas?tab=checker&passport=india', '/lisbon']) {
+      for (const route of ['/nomads', '/nomads?view=compare&a=lisbon&b=bangkok', '/visas?tab=checker&passport=india', '/lisbon']) {
         await go(route);
         if (route.includes('view=compare')) { await expect(comparison.getByRole('table')).toBeVisible(); await comparison.screenshot({ path: `.cache/nomads/comparison-${width}.png` }); }
         if (route.includes('passport=india')) await expect(page.locator('#passport-map svg')).toBeVisible();

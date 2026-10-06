@@ -21,7 +21,7 @@ const routes = process.argv.includes('--city-details') ? ['/glossary', '/lisbon'
   ...NOMAD_TOOLS.map(tool => tool.href),
   '/nomads?view=compare&a=lisbon&b=bangkok',
   '/nomads?category=temperature&month=0',
-  '/digital-nomad-visas?tab=checker&passport=india',
+  '/visas?tab=checker&passport=india',
   '/lisbon', '/ho-chi-minh-city', '/madrid',
 ];
 const modes = [

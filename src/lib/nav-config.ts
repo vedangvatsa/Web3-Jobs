@@ -104,7 +104,7 @@ export const EMPLOYEE_RESOURCES: NavLinkItem[] = [
     description: 'A free and simple invoice generator for Web3 freelancers.',
   },
   {
-    href: '/digital-nomad-visas',
+    href: '/visas',
     label: 'Digital Nomad Visas',
     icon: Globe,
     description: 'A searchable list of visas for working remotely around the world.',

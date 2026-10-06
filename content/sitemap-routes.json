@@ -10488,12 +10488,6 @@
     "lastModified": "2026-10-07T10:00:00.000Z"
   },
   {
-    "url": "https://hashtagweb3.com/digital-nomad-visas",
-    "changeFrequency": "monthly",
-    "priority": 0.6,
-    "lastModified": "2026-10-02T00:00:00.000Z"
-  },
-  {
     "url": "https://hashtagweb3.com/director10",
     "changeFrequency": "daily",
     "priority": 0.8,
@@ -20199,7 +20193,7 @@
     "url": "https://hashtagweb3.com/gts",
     "changeFrequency": "weekly",
     "priority": 0.6,
-    "lastModified": "2026-12-15T08:00:00.000Z"
+    "lastModified": "2026-12-10T00:00:00.000Z"
   },
   {
     "url": "https://hashtagweb3.com/guadalajara",
@@ -47584,6 +47578,12 @@
     "changeFrequency": "monthly",
     "priority": 0.7,
     "lastModified": "2026-09-20T00:00:00.000Z"
+  },
+  {
+    "url": "https://hashtagweb3.com/visas",
+    "changeFrequency": "monthly",
+    "priority": 0.6,
+    "lastModified": "2026-10-02T00:00:00.000Z"
   },
   {
     "url": "https://hashtagweb3.com/viva",
