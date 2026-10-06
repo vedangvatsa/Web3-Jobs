@@ -6260,11 +6260,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e2ca852f1ef49e786e5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T10:00:52.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 5 Prysm v7.2.1 release, Sepolia 200M gas schedule and Oct 6 13:53 UTC activation across GitHub release, Unchained and CoinDesk; new development versus Sept 17 glamsterdam rehearsal.",
+      "sourceChecks": [
+        {
+          "url": "https://github.com/OffchainLabs/prysm/releases/tag/v7.2.1",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/ethereum-client-prysm-ships-200m-gas-limit-fix-hours-before-glamsterdam-test/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:03:52.275Z",
+      "articleSlug": "prysm-fix",
+      "lastReviewedDay": "2026-10-06"
     },
     "85c46f2cfbffa15568ab": {
       "source": "Cointelegraph",
@@ -10280,6 +10299,27 @@
           "reviewedAt": "2026-10-06T11:03:50.627Z",
           "duplicateOf": "okx-money",
           "mergedInto": "2ebac434c9d8844265a8"
+        },
+        "6e2ca852f1ef49e786e5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 5 Prysm v7.2.1 release, Sepolia 200M gas schedule and Oct 6 13:53 UTC activation across GitHub release, Unchained and CoinDesk; new development versus Sept 17 glamsterdam rehearsal.",
+          "sourceChecks": [
+            {
+              "url": "https://github.com/OffchainLabs/prysm/releases/tag/v7.2.1",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/ethereum-client-prysm-ships-200m-gas-limit-fix-hours-before-glamsterdam-test/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:03:52.275Z",
+          "articleSlug": "prysm-fix"
         }
       },
       "baselineSlugs": [
