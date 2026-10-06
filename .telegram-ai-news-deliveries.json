@@ -707,5 +707,42 @@
     "slotKey": "2026-10-05:afternoon",
     "messageId": 193320,
     "sentAt": "2026-10-05T11:33:04.342Z"
+  },
+  "36a0b57f-3ace-4d94-9a66-83677c407b8d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T03:59:00.196Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "headline": "OpenAI to watermark ChatGPT text in the European Union",
+        "summary": "The company will implement invisible markers on generated outputs to comply with the European Union AI Act.",
+        "event_rationale": "This covers OpenAI's implementation of text watermarking in the EU, which is a distinct regulatory compliance event.",
+        "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI will start watermarking ChatGPT’s text in the EU"
+      },
+      {
+        "index": 9,
+        "original_title": "OpenAI launches visual ads that appear alongside image generation results",
+        "headline": "OpenAI introduces visual advertisements alongside image generation results",
+        "summary": "The company will display sponsored products to users in the United States starting this month.",
+        "event_rationale": "This covers OpenAI's launch of visual advertising, representing a major shift in generative AI monetization.",
+        "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+        "source": "TechCrunch",
+        "originalTitle": "OpenAI launches visual ads that appear alongside image generation results"
+      },
+      {
+        "index": 11,
+        "original_title": "AI glasses face their first major government crackdown",
+        "headline": "Norway proposes temporary ban on AI recording glasses",
+        "summary": "Government regulators seek to halt the devices to draft permanent privacy rules protecting bystanders.",
+        "event_rationale": "This covers Norway's regulatory crackdown on wearable AI hardware, which is a distinct privacy and regulatory event.",
+        "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+        "source": "Ars Technica",
+        "originalTitle": "AI glasses face their first major government crackdown"
+      }
+    ],
+    "slotKey": "2026-10-06:morning"
   }
 }
