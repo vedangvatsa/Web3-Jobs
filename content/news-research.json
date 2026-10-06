@@ -8879,11 +8879,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d27e0738838fc0bb9bc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T12:31:51.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Adam Iza sentencing already drafted as godfather-fraud.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T17:44:58.934Z",
+      "duplicateOf": "godfather-fraud",
+      "mergedInto": "fdcc7f032f53e77d9a1e",
+      "lastReviewedDay": "2026-10-06"
     },
     "79c33c3b14d198dea11c": {
       "source": "BeInCrypto",
@@ -12578,6 +12585,15 @@
           "reviewedAt": "2026-10-06T17:44:57.140Z",
           "duplicateOf": "polymarket-v2",
           "mergedInto": "497d0bcc0be35364d1a3"
+        },
+        "7d27e0738838fc0bb9bc": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Adam Iza sentencing already drafted as godfather-fraud.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T17:44:58.934Z",
+          "duplicateOf": "godfather-fraud",
+          "mergedInto": "fdcc7f032f53e77d9a1e"
         }
       },
       "baselineSlugs": [
