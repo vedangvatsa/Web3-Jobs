@@ -1700,5 +1700,49 @@
     "slotKey": "2026-10-06:afternoon",
     "messageId": 16512,
     "sentAt": "2026-10-06T12:01:01.476Z"
+  },
+  "bd6bd7fe-f191-4bf9-956f-2d8bdcf7f0eb": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T12:01:03.468Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "37f7ce5b-b4da-4108-a84d-6b0b1f44e5da",
+        "slug": "qa24",
+        "url": "https://hashtagweb3.com/qa24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coins.ph",
+        "title": "QA Engineer"
+      },
+      {
+        "key": "62c75011-1cf1-4c40-85bc-2e2a16d76332",
+        "slug": "product207",
+        "url": "https://hashtagweb3.com/product207?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Product Manager"
+      },
+      {
+        "key": "8198262",
+        "slug": "int8",
+        "url": "https://hashtagweb3.com/int8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Special Projects Intern"
+      },
+      {
+        "key": "7767222",
+        "slug": "manager96",
+        "url": "https://hashtagweb3.com/manager96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Manager, Technical Account Management"
+      },
+      {
+        "key": "5426213008",
+        "slug": "jpt",
+        "url": "https://hashtagweb3.com/jpt?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Software Engineer"
+      }
+    ],
+    "message": "• Coins.ph is hiring <a href=\"https://hashtagweb3.com/qa24?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">QA Engineer</a>\n• TRM Labs is hiring <a href=\"https://hashtagweb3.com/product207?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Manager</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/int8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Special Projects Intern</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/manager96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Manager, Technical Account Management</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/jpt?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>",
+    "slotKey": "2026-10-06:afternoon"
   }
 }
