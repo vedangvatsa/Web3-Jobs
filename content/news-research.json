@@ -8885,11 +8885,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a6c8020af64898cf04d2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:30:00.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "opinion",
+      "note": "Raoul Pal interview commentary predicting capital rotation from AI to crypto; prediction with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:05.131Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "056cada6111a680c97cc": {
       "source": "Unchained",
@@ -13142,6 +13152,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:02.433Z"
+        },
+        "a6c8020af64898cf04d2": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Raoul Pal interview commentary predicting capital rotation from AI to crypto; prediction with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:05.131Z"
         }
       },
       "baselineSlugs": [
