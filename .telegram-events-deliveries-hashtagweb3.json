@@ -944,5 +944,55 @@
     "slotKey": "2026-10-05:afternoon",
     "messageId": 155612,
     "sentAt": "2026-10-05T11:31:53.691Z"
+  },
+  "853d06bf-f373-47be-a35b-9dad903147de": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T03:58:27.790Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-global-onchain-summit-sg-2026",
+        "slug": "global-onchain-summit",
+        "name": "Global Onchain Summit Singapore 2026",
+        "startDate": "2026-10-06T04:00:00.000Z",
+        "keys": [
+          "premier-global-onchain-summit-sg-2026",
+          "gos",
+          "token2049-side-6a50a69910f84b19adc7276d",
+          "page:global-onchain-summit:2026-10-06",
+          "luma:evt-xagol8hjri9q1xu",
+          "luma-url:/5c8pnpl2",
+          "event:globalonchainsummitsingapore2026:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "token2049-evt-FMgPTiAfJKFD0Mo",
+        "slug": "polygon-vip",
+        "name": "Polygon VIP Lunch @ TOKEN2049",
+        "startDate": "2026-10-06T04:00:00.000Z",
+        "keys": [
+          "token2049-evt-fmgptiafjkfd0mo",
+          "page:polygon-vip:2026-10-06",
+          "luma:evt-fmgptiafjkfd0mo",
+          "luma-url:/j4lhpjzw",
+          "event:polygonviplunchtoken2049:2026-10-06:singapore"
+        ]
+      },
+      {
+        "id": "luma-batch-evtUiwJpYm0Y5afi",
+        "slug": "gj0iv2kk",
+        "name": "STABLECOIN & PAYMENTS: FUNDS FLOW",
+        "startDate": "2026-10-06T04:00:00.000Z",
+        "keys": [
+          "luma-batch-evtuiwjpym0y5afi",
+          "page:gj0iv2kk:2026-10-06",
+          "luma:evt-uiwjpym0y5afi75",
+          "luma-url:/gj0iv2kk",
+          "event:stablecoinpaymentsfundsflow:2026-10-06:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-06:morning"
   }
 }
