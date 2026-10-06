@@ -801,7 +801,7 @@
     "sentAt": "2026-10-06T04:01:13.270Z"
   },
   "d90fad5f-14ab-4644-9c60-c9e7e3164683": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T12:04:56.796Z",
     "stories": [
       {
@@ -829,6 +829,8 @@
         "originalTitle": "MetaMask Plans Consumer Split from Consensys"
       }
     ],
-    "slotKey": "2026-10-06:afternoon"
+    "slotKey": "2026-10-06:afternoon",
+    "messageId": 155630,
+    "sentAt": "2026-10-06T12:05:01.470Z"
   }
 }
