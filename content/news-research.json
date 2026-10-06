@@ -3509,11 +3509,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7775ce7c48965cffcc7c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T15:03:54.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "source-blocked",
+      "note": "Same Strive 2000 BTC buy as 80b6; The Block page blocked. Verify and draft together next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:37.345Z",
+      "retrySearches": [
+        "Strive 2000 bitcoin buy preferred buyback facility October 2026 filing"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "c7e124ba182d2474f85f": {
       "source": "Decrypt",
@@ -7518,6 +7532,21 @@
             }
           ],
           "reviewedAt": "2026-10-06T01:06:35.652Z",
+          "retrySearches": [
+            "Strive 2000 bitcoin buy preferred buyback facility October 2026 filing"
+          ]
+        },
+        "7775ce7c48965cffcc7c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Same Strive 2000 BTC buy as 80b6; The Block page blocked. Verify and draft together next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:37.345Z",
           "retrySearches": [
             "Strive 2000 bitcoin buy preferred buyback facility October 2026 filing"
           ]
