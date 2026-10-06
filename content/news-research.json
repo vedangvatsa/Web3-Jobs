@@ -7754,11 +7754,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "708f9317d15e4e313886",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:37:55.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "out-of-scope",
+      "note": "Routine SEC compliance outreach seminar notice with no rule, filing, launch or enforcement action.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:31.781Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "e62916c7316050993bee": {
       "source": "The Defiant",
@@ -12856,6 +12866,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:28.971Z"
+        },
+        "708f9317d15e4e313886": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Routine SEC compliance outreach seminar notice with no rule, filing, launch or enforcement action.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:31.781Z"
         }
       },
       "baselineSlugs": [
