@@ -6496,11 +6496,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "455e72c4f2f7297122b3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T04:40:09.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Futures open-interest drop versus spot buying narrative, derivatives positioning commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:57.050Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "a4bb50c477cfebe36a82": {
       "source": "BeInCrypto",
@@ -9938,6 +9943,13 @@
           "note": "Bitcoin rejection at 87000 framed against stocks near records, price commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:55.198Z"
+        },
+        "455e72c4f2f7297122b3": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Futures open-interest drop versus spot buying narrative, derivatives positioning commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:57.050Z"
         }
       },
       "baselineSlugs": [
