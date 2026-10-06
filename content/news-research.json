@@ -8667,11 +8667,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "47b4b8373ca86fd98c5f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T15:26:41.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "not-a-concrete-event",
+      "note": "Retrospective study of 2020-2024 flash-loan losses; analysis of old events, not fresh news.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:18.140Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "8f75c421bf70cd23667e": {
       "source": "Cointelegraph",
@@ -13230,6 +13240,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:15.189Z"
+        },
+        "47b4b8373ca86fd98c5f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Retrospective study of 2020-2024 flash-loan losses; analysis of old events, not fresh news.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:18.140Z"
         }
       },
       "baselineSlugs": [
