@@ -7231,11 +7231,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "76092735e85de2494435",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T01:00:07.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 6 Startale Bond paying interest and principal in JPYSC with SBI Shinsei Trust Bank issuer roles across Chainwire and DailyCoin.",
+      "sourceChecks": [
+        {
+          "url": "https://chainwire.org/2026/10/06/startale-japan-launches-japans-first-digital-corporate-bond-paid-in-jpysc/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://dailycoin.com/startale-launches-japans-first-digital-corporate-bond-paid-in-jpysc/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:04:09.847Z",
+      "articleSlug": "startale-bond",
+      "lastReviewedDay": "2026-10-06"
     },
     "4a5bfa78f900728fd152": {
       "source": "Chainwire",
@@ -10408,6 +10423,23 @@
           ],
           "reviewedAt": "2026-10-06T11:03:57.278Z",
           "articleSlug": "rain-charter"
+        },
+        "76092735e85de2494435": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 6 Startale Bond paying interest and principal in JPYSC with SBI Shinsei Trust Bank issuer roles across Chainwire and DailyCoin.",
+          "sourceChecks": [
+            {
+              "url": "https://chainwire.org/2026/10/06/startale-japan-launches-japans-first-digital-corporate-bond-paid-in-jpysc/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://dailycoin.com/startale-launches-japans-first-digital-corporate-bond-paid-in-jpysc/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:04:09.847Z",
+          "articleSlug": "startale-bond"
         }
       },
       "baselineSlugs": [
