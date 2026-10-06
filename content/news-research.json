@@ -1634,13 +1634,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c55fb855cb43014383f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T10:17:54.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
       "reason": "verified-event",
-      "note": "Verified Oct 4 SHIB listing via Sunrise with 3005 trades, 514K liquidity, canonical mint and nine-app coverage across U.Today and AltcoinBuzz.",
+      "note": "Verified Oct 4 SHIB listing via Sunrise with canonical mint, nine-app coverage and muted price across U.Today and AltcoinBuzz.",
       "sourceChecks": [
         {
           "url": "https://u.today/shiba-inu-shib-goes-live-on-solana-network",
@@ -1651,7 +1651,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T03:40:55.482Z",
+      "reviewedAt": "2026-10-06T11:01:22.961Z",
       "retrySearches": [
         "SHIB live on Solana via Sunrise gateway October 2026 Solana announcement"
       ],
@@ -9396,6 +9396,23 @@
           "reviewedAt": "2026-10-06T11:01:21.190Z",
           "duplicateOf": "safe-complaint",
           "mergedInto": "af683c29d6e5e763d727"
+        },
+        "7c55fb855cb43014383f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 4 SHIB listing via Sunrise with canonical mint, nine-app coverage and muted price across U.Today and AltcoinBuzz.",
+          "sourceChecks": [
+            {
+              "url": "https://u.today/shiba-inu-shib-goes-live-on-solana-network",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.altcoinbuzz.io/shib-lands-on-solana-with-514-000-in-launch-liquidity",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:01:22.961Z",
+          "articleSlug": "shib-solana"
         }
       },
       "baselineSlugs": [
