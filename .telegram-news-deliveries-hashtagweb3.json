@@ -799,5 +799,36 @@
     "slotKey": "2026-10-06:morning",
     "messageId": 155623,
     "sentAt": "2026-10-06T04:01:13.270Z"
+  },
+  "d90fad5f-14ab-4644-9c60-c9e7e3164683": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T12:04:56.796Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Zcash Voters Approve NU7 Upgrade and Funding Delay",
+        "summary": "Coinholders voted to keep scheduled halvings and delay releasing sustainability funds until 2031.",
+        "link": "https://hashtagweb3.com/zcash-upgrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Zcash Community Approves NU7 Upgrade With 25-Second Blocks and 2031 Reserve Plan"
+      },
+      {
+        "index": -1,
+        "headline": "Liquid Network Resumes Transactions After Rejecting Ransom Demand",
+        "summary": "Block production resumed after a bug created unbacked tokens, but peg-outs stay paused with 598.5 BTC still missing.",
+        "link": "https://hashtagweb3.com/liquid-ransom?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Liquid Restarts Transactions as Blockstream Declines Ransom Demand"
+      },
+      {
+        "index": -1,
+        "headline": "MetaMask Plans Split From Consensys by 2026",
+        "summary": "MetaMask will target retail users while Consensys manages institutional infrastructure, with the transition ending by late 2026.",
+        "link": "https://hashtagweb3.com/metamask-split?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MetaMask Plans Consumer Split from Consensys"
+      }
+    ],
+    "slotKey": "2026-10-06:afternoon"
   }
 }
