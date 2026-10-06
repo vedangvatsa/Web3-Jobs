@@ -6313,11 +6313,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3df0ab29c47031f9e503",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T08:27:43.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Retrospective on bitcoin trading 32pct below a year-old high, explaining flows and leverage, with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:51.340Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "65adbb7dc59b1b681107": {
       "source": "Cointelegraph",
@@ -9902,6 +9907,13 @@
           "note": "Prediction framing on whether a 47pct rebound holds, citing Binance Research data, with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:49.647Z"
+        },
+        "3df0ab29c47031f9e503": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Retrospective on bitcoin trading 32pct below a year-old high, explaining flows and leverage, with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:51.340Z"
         }
       },
       "baselineSlugs": [
