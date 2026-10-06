@@ -4130,11 +4130,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "0ac45e3bc48da2fb31e3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T18:31:26.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "duplicate",
+      "note": "Same Anchorage Digital 17 percent staff cut already covered by anchorage-cuts.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:39.742Z",
+      "duplicateOf": "anchorage-cuts",
+      "lastReviewedDay": "2026-10-06"
     },
     "d205d71c9a961c539169": {
       "source": "The Defiant",
@@ -6271,6 +6277,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:37.997Z",
           "duplicateOf": "hamas-sanctions"
+        },
+        "0ac45e3bc48da2fb31e3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Anchorage Digital 17 percent staff cut already covered by anchorage-cuts.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:39.742Z",
+          "duplicateOf": "anchorage-cuts"
         }
       },
       "baselineSlugs": [
