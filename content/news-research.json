@@ -4473,11 +4473,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f1287cf1e6eeac29163",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T16:03:03.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "promotional",
+      "note": "Single-outlet company claim or product pitch with no independent corroboration or concrete market event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:53.758Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "0c5df15fe9fbc3c12561": {
       "source": "CryptoSlate",
@@ -6697,6 +6702,13 @@
           "note": "Single-outlet company claim or product pitch with no independent corroboration or concrete market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:51.984Z"
+        },
+        "8f1287cf1e6eeac29163": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single-outlet company claim or product pitch with no independent corroboration or concrete market event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:53.758Z"
         }
       },
       "baselineSlugs": [
