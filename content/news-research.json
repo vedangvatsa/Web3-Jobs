@@ -9203,11 +9203,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "fcf424dbb912710ba7c0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T12:07:43.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "out-of-scope",
+      "note": "Iran diplomat impeachment and oil-price geopolitics with no crypto event.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/iran-araghchi-impeachment-oil-cargoes/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:15.189Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "113ae5805c11ef71498c": {
       "source": "CryptoSlate",
@@ -13208,6 +13218,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:13.497Z"
+        },
+        "fcf424dbb912710ba7c0": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Iran diplomat impeachment and oil-price geopolitics with no crypto event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/iran-araghchi-impeachment-oil-cargoes/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:15.189Z"
         }
       },
       "baselineSlugs": [
