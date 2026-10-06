@@ -2743,11 +2743,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "90cd3650b7fd07894c9a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T20:32:07.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "source-blocked",
+      "note": "CFTC staff stock-index perpetual conversion notice seen only in The Defiant; page blocked to fetches, needs a second openable outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:05:06.854Z",
+      "retrySearches": [
+        "CFTC staff stock-index perpetual conversion five-day notice October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "a72cd6b96e10be3d9fbe": {
       "source": "CoinDesk",
@@ -6745,6 +6759,21 @@
           "note": "General AI-economy speculation with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:04:17.490Z"
+        },
+        "90cd3650b7fd07894c9a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CFTC staff stock-index perpetual conversion notice seen only in The Defiant; page blocked to fetches, needs a second openable outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:05:06.854Z",
+          "retrySearches": [
+            "CFTC staff stock-index perpetual conversion five-day notice October 2026"
+          ]
         }
       },
       "baselineSlugs": [
