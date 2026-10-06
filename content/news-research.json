@@ -4042,11 +4042,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3d2e63a298c447c4c97c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T20:14:22.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "out-of-scope",
+      "note": "Non-crypto story with no Web3 event: macro, equities, energy, AI-safety or general tech topic.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:35.092Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "0b668f8eee3f9b807d90": {
       "source": "Cointelegraph",
@@ -6589,6 +6594,13 @@
           "note": "Non-crypto story with no Web3 event: macro, equities, energy, AI-safety or general tech topic.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:33.037Z"
+        },
+        "3d2e63a298c447c4c97c": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Non-crypto story with no Web3 event: macro, equities, energy, AI-safety or general tech topic.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:35.092Z"
         }
       },
       "baselineSlugs": [
