@@ -3111,11 +3111,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4262e79f93c0df09caff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T20:54:41.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "opinion",
+      "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:55.937Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "e38e2e1866998abdee03": {
       "source": "Bitcoin Magazine",
@@ -6337,6 +6342,13 @@
           "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:54.207Z"
+        },
+        "4262e79f93c0df09caff": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Single interview or video segment offering predictions and commentary with no fresh concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:55.937Z"
         }
       },
       "baselineSlugs": [
