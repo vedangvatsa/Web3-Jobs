@@ -7023,11 +7023,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1dccb852539b19b82e84",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T03:43:00.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "out-of-scope",
+      "note": "Kilburg tech stock picks above analyst targets, equities commentary with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:03:24.028Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "4cec51299979be4ad5f8": {
       "source": "Cointelegraph",
@@ -10092,6 +10097,13 @@
           "note": "Dan Niles Alphabet and Meta picks on Google Cloud growth, equities commentary with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:03:22.375Z"
+        },
+        "1dccb852539b19b82e84": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Kilburg tech stock picks above analyst targets, equities commentary with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:03:24.028Z"
         }
       },
       "baselineSlugs": [
