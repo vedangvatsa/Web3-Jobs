@@ -7188,17 +7188,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1a7cc4953a9672a40de",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T04:55:36.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Oct 5 FinCEN withdrawal of 10K unhosted-wallet reporting proposal covered by fincen-withdrawal.",
+      "note": "Same Oct 5 FinCEN withdrawal of 10K unhosted-wallet proposal already drafted as fincen-withdrawal.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T11:02:23.917Z",
+      "reviewedAt": "2026-10-06T11:58:33.456Z",
       "duplicateOf": "fincen-withdrawal",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "b044864ba1f8b300e5db"
     },
     "a01da1ec408566b8ae17": {
       "source": "BeInCrypto",
@@ -10969,6 +10970,15 @@
           "reviewedAt": "2026-10-06T11:58:28.539Z",
           "duplicateOf": "zachxbt-syndicate",
           "mergedInto": "326675e76ea9e57d0cb9"
+        },
+        "e1a7cc4953a9672a40de": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 FinCEN withdrawal of 10K unhosted-wallet proposal already drafted as fincen-withdrawal.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:58:33.456Z",
+          "duplicateOf": "fincen-withdrawal",
+          "mergedInto": "b044864ba1f8b300e5db"
         }
       },
       "baselineSlugs": [
