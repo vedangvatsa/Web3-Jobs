@@ -8263,11 +8263,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b94a419f9db4d969b512",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T13:32:25.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "price-chatter",
+      "note": "Peter Brandt chart comparison of XRP, Monero and Solana with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/peter-brandt-xrp-monero-solana-chart-comparison/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:46.304Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "3e798a32b904807b29a6": {
       "source": "Unchained",
@@ -12966,6 +12976,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:44.611Z"
+        },
+        "b94a419f9db4d969b512": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Peter Brandt chart comparison of XRP, Monero and Solana with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/peter-brandt-xrp-monero-solana-chart-comparison/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:46.304Z"
         }
       },
       "baselineSlugs": [
