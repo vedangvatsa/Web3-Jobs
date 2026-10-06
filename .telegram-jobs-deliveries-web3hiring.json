@@ -1792,5 +1792,49 @@
     "slotKey": "2026-10-06:evening",
     "messageId": 16513,
     "sentAt": "2026-10-06T19:31:48.919Z"
+  },
+  "46cd8961-9d5f-48eb-b0a4-0fc1c28d4059": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T19:31:50.814Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "34be9c00-ff95-48c3-bfe8-63b2ea029b7a",
+        "slug": "pm219",
+        "url": "https://hashtagweb3.com/pm219?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Head of Compliance Product"
+      },
+      {
+        "key": "7777037003",
+        "slug": "devops73",
+        "url": "https://hashtagweb3.com/devops73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Engineering Director"
+      },
+      {
+        "key": "4135728007",
+        "slug": "engineer32",
+        "url": "https://hashtagweb3.com/engineer32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ritual",
+        "title": "Smart Contract Engineer"
+      },
+      {
+        "key": "6212198004",
+        "slug": "mgr132",
+        "url": "https://hashtagweb3.com/mgr132?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Project Manager"
+      },
+      {
+        "key": "610f652b-bdb9-4d82-9973-680babe16a07",
+        "slug": "eng218",
+        "url": "https://hashtagweb3.com/eng218?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "River Financial",
+        "title": "Staff Software Engineer"
+      }
+    ],
+    "message": "• Elliptic is hiring <a href=\"https://hashtagweb3.com/pm219?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Compliance Product</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/devops73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engineering Director</a>\n• Ritual is hiring <a href=\"https://hashtagweb3.com/engineer32?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Smart Contract Engineer</a>\n• Alpaca is hiring <a href=\"https://hashtagweb3.com/mgr132?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Project Manager</a>\n• River Financial is hiring <a href=\"https://hashtagweb3.com/eng218?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Staff Software Engineer</a>",
+    "slotKey": "2026-10-06:evening"
   }
 }
