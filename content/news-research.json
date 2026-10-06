@@ -7712,11 +7712,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e62916c7316050993bee",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T14:25:19.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 6 Glamsterdam activation on Sepolia with 200M gas test across EF announcement and two outlets; distinct from Sept rehearsal.",
+      "sourceChecks": [
+        {
+          "url": "https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/ethereum-glamsterdam-hits-sepolia-with-200-million-gas-limit-test/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:42:56.039Z",
+      "articleSlug": "sepolia-fork",
+      "lastReviewedDay": "2026-10-06"
     },
     "d4b74043757589b01c27": {
       "source": "Cointelegraph",
@@ -11938,6 +11957,27 @@
           ],
           "reviewedAt": "2026-10-06T17:42:54.073Z",
           "articleSlug": "prysm-fix"
+        },
+        "e62916c7316050993bee": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 6 Glamsterdam activation on Sepolia with 200M gas test across EF announcement and two outlets; distinct from Sept rehearsal.",
+          "sourceChecks": [
+            {
+              "url": "https://blog.ethereum.org/2026/09/17/glamsterdam-testnet-announcement",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/ethereum-glamsterdam-hits-sepolia-with-200-million-gas-limit-test/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:56.039Z",
+          "articleSlug": "sepolia-fork"
         }
       },
       "baselineSlugs": [
