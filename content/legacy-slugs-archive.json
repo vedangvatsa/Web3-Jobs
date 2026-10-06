@@ -134157,5 +134157,199 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt89"
+  },
+  "eng397": {
+    "id": "a23caaa3-9083-41db-8294-f18ae81ce104",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/a23caaa3-9083-41db-8294-f18ae81ce104",
+    "company": "Chainlink Labs",
+    "title": "Senior Data Engineer"
+  },
+  "infra31": {
+    "id": "8080799",
+    "link": "https://stripe.com/jobs/search?gh_jid=8080799",
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Infrastructure"
+  },
+  "sls210": {
+    "id": "5411218008",
+    "link": "http://block.xyz/careers/jobs/5411218008?gh_jid=5411218008",
+    "company": "Block",
+    "title": "Mid Market Sales Account Executive"
+  },
+  "ae2": {
+    "id": "2767448",
+    "link": "https://careers.tether.io/o/head-of-ai-expansion-5",
+    "company": "Tether",
+    "title": "Head of AI Expansion"
+  },
+  "an24": {
+    "id": "8220938",
+    "link": "https://stripe.com/jobs/search?gh_jid=8220938",
+    "company": "Stripe",
+    "title": "Workday Analyst"
+  },
+  "eng199": {
+    "id": "4f986c94-5c3a-461a-952a-cc46dfd42a4d",
+    "link": "https://jobs.ashbyhq.com/QuickNode/4f986c94-5c3a-461a-952a-cc46dfd42a4d",
+    "company": "QuickNode",
+    "title": "Technical Support Engineer"
+  },
+  "ops18": {
+    "id": "5426219008",
+    "link": "https://job-boards.greenhouse.io/breezecash/jobs/5426219008",
+    "company": "Breeze Cash",
+    "title": "Risk Operations Specialist"
+  },
+  "eng43": {
+    "id": "4997f952-affa-4e24-b506-98b1f4e5c81d",
+    "link": "https://jobs.ashbyhq.com/kraken.com/4997f952-affa-4e24-b506-98b1f4e5c81d",
+    "company": "Kraken",
+    "title": "Engineering Operations Specialist - Consumer"
+  },
+  "ops14": {
+    "id": "4732710005",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4732710005",
+    "company": "FalconX",
+    "title": "Analyst, Credit Business Operations"
+  },
+  "tr84": {
+    "id": "8754684002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8754684002?gh_jid=8754684002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "devops134": {
+    "id": "5414062008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5414062008",
+    "company": "Hut 8",
+    "title": "IT Operations & Infrastructure Engineer, Principal"
+  },
+  "sales374": {
+    "id": "5412731008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5412731008",
+    "company": "Hut 8",
+    "title": "Accounts Payable- Projects, Partner"
+  },
+  "sales318": {
+    "id": "4705808006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4705808006",
+    "company": "Fireblocks",
+    "title": "Sales Director, DACH"
+  },
+  "be53": {
+    "id": "4950522101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4950522101",
+    "company": "Bybit",
+    "title": "Senior Principal Backend Development Engineer"
+  },
+  "tr83": {
+    "id": "8474407002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "eng409": {
+    "id": "8648512002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8648512002?gh_jid=8648512002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "eng389": {
+    "id": "8641377002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8641377002?gh_jid=8641377002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "tr82": {
+    "id": "8498547002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8498547002?gh_jid=8498547002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "be37": {
+    "id": "e1417b0c-b499-43a0-bfd9-88c6ecbbd1e9",
+    "link": "https://jobs.ashbyhq.com/moonshot/e1417b0c-b499-43a0-bfd9-88c6ecbbd1e9",
+    "company": "Moonshot",
+    "title": "Senior Backend Engineer"
+  },
+  "be5": {
+    "id": "9ba4b284-1275-422d-871c-a1a0ed19188b",
+    "link": "https://jobs.lever.co/binance/9ba4b284-1275-422d-871c-a1a0ed19188b",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Backend Engineer (Web3)"
+  },
+  "architect28": {
+    "id": "b175bceb-71cd-4ccd-b4bc-da74a6be369f",
+    "link": "https://jobs.ashbyhq.com/Blockdaemon/b175bceb-71cd-4ccd-b4bc-da74a6be369f",
+    "company": "Blockdaemon",
+    "title": "Solutions Architect, EMEA"
+  },
+  "sls156": {
+    "id": "5183240008",
+    "link": "http://block.xyz/careers/jobs/5183240008?gh_jid=5183240008",
+    "company": "Block",
+    "title": "Senior Sales Account Executive"
+  },
+  "expansion": {
+    "id": "2631824",
+    "link": "https://careers.tether.io/o/expansion-event-coordinator-7",
+    "company": "Tether",
+    "title": "Expansion Event Coordinator"
+  },
+  "brands": {
+    "id": "2631788",
+    "link": "https://careers.tether.io/o/brands-event-coordinator-7",
+    "company": "Tether",
+    "title": "Brands Event Coordinator"
+  },
+  "mlr6": {
+    "id": "8576934002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8576934002?gh_jid=8576934002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "mlr7": {
+    "id": "8576931002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "tr81": {
+    "id": "8573523002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8573523002?gh_jid=8573523002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "be54": {
+    "id": "4855359101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4855359101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "tr80": {
+    "id": "4808264002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/4808264002?gh_jid=4808264002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "mlr": {
+    "id": "4276720002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/4276720002?gh_jid=4276720002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "sls225": {
+    "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "company": "Open Standard",
+    "title": "Account Manager",
+    "newSlug": "sls227"
+  },
+  "mkt89": {
+    "id": "b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "link": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "company": "Open Standard",
+    "title": "Communications and Marketing Lead",
+    "newSlug": "mkt92"
   }
 }
