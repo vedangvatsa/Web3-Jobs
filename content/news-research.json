@@ -8688,11 +8688,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6afe7f63290814ecbb7d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T15:27:34.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "source-blocked",
+      "note": "Agora OCC approval for AUSD trust-bank move visible only in Defiant origin which returned HTTP 403; needs OCC record or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:49.566Z",
+      "retrySearches": [
+        "Agora AUSD OCC trust bank approval October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "47b4b8373ca86fd98c5f": {
       "source": "Decrypt",
@@ -13389,6 +13403,21 @@
           "reviewedAt": "2026-10-06T17:47:43.750Z",
           "retrySearches": [
             "Bloomberg Terminal Hyperliquid perpetuals pricing October 2026"
+          ]
+        },
+        "6afe7f63290814ecbb7d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Agora OCC approval for AUSD trust-bank move visible only in Defiant origin which returned HTTP 403; needs OCC record or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:49.566Z",
+          "retrySearches": [
+            "Agora AUSD OCC trust bank approval October 2026"
           ]
         }
       },
