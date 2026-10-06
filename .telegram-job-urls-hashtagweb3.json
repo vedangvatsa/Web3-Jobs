@@ -1592,6 +1592,14 @@
     "lastUrl": "https://hashtagweb3.com/product267",
     "updatedAt": "2026-09-15T19:44:55.052Z"
   },
+  "8112333": {
+    "slugs": [
+      "kor"
+    ],
+    "lastSlug": "kor",
+    "lastUrl": "https://hashtagweb3.com/kor",
+    "updatedAt": "2026-10-06T03:58:59.085Z"
+  },
   "8112938": {
     "slugs": [
       "operations12938",
@@ -6934,5 +6942,37 @@
     "lastSlug": "mgr4",
     "lastUrl": "https://hashtagweb3.com/mgr4",
     "updatedAt": "2026-10-05T11:32:33.039Z"
+  },
+  "8012069003": {
+    "slugs": [
+      "pm212"
+    ],
+    "lastSlug": "pm212",
+    "lastUrl": "https://hashtagweb3.com/pm212",
+    "updatedAt": "2026-10-06T03:58:59.085Z"
+  },
+  "6125995004": {
+    "slugs": [
+      "regional3"
+    ],
+    "lastSlug": "regional3",
+    "lastUrl": "https://hashtagweb3.com/regional3",
+    "updatedAt": "2026-10-06T03:58:59.085Z"
+  },
+  "d7724d91-fc91-4697-baf3-008de0ee5e37": {
+    "slugs": [
+      "security77"
+    ],
+    "lastSlug": "security77",
+    "lastUrl": "https://hashtagweb3.com/security77",
+    "updatedAt": "2026-10-06T03:58:59.085Z"
+  },
+  "c912de9c-bad3-41d6-98cc-94b418d80261": {
+    "slugs": [
+      "manager310"
+    ],
+    "lastSlug": "manager310",
+    "lastUrl": "https://hashtagweb3.com/manager310",
+    "updatedAt": "2026-10-06T03:58:59.085Z"
   }
 }

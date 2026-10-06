@@ -782,7 +782,7 @@
     "sentAt": "2026-10-05T11:32:33.039Z"
   },
   "7eb59aee-3f39-40b5-af67-0a7caa2433df": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T03:58:56.401Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -823,6 +823,8 @@
       }
     ],
     "message": "• DriveWealth is hiring <a href=\"https://hashtagweb3.com/pm212?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Owner</a>\n• Telcoin is hiring <a href=\"https://hashtagweb3.com/regional3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Regional Chief Risk Officer</a>\n• Arbitrum is hiring <a href=\"https://hashtagweb3.com/security77?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Security Engineer</a>\n• Robinhood is hiring <a href=\"https://hashtagweb3.com/kor?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Knowledge &amp; Operational Readiness Lead</a>\n• Somnia is hiring <a href=\"https://hashtagweb3.com/manager310?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Business Development Manager</a>",
-    "slotKey": "2026-10-06:morning"
+    "slotKey": "2026-10-06:morning",
+    "messageId": 155622,
+    "sentAt": "2026-10-06T03:58:59.085Z"
   }
 }
