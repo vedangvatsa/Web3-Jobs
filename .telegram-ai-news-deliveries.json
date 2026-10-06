@@ -781,5 +781,40 @@
     "slotKey": "2026-10-06:afternoon",
     "messageId": 193322,
     "sentAt": "2026-10-06T12:04:31.661Z"
+  },
+  "36628272-b02d-4de5-95c7-269f60ab7089": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T19:34:10.491Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "[TechCrunch] Mistral’s new 1T model aims to leapfrog closed and open rivals",
+        "headline": "Mistral releases Mistral Large 4 multimodal model",
+        "summary": "The French company released a one-trillion parameter multimodal model designed to compete with top-tier American and Chinese AI systems.",
+        "event_rationale": "This covers the release of a new frontier-class model, which is a primary industry-moving event.",
+        "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+        "source": "TechCrunch",
+        "originalTitle": "Mistral’s new 1T model aims to leapfrog closed and open rivals"
+      },
+      {
+        "index": 16,
+        "original_title": "[TechCrunch] HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+        "headline": "HackerRank deploys AI interviewer for 500,000 job screenings",
+        "summary": "The platform has conducted over 500,000 automated interviews for major corporations, signaling a shift toward AI-led recruitment processes.",
+        "event_rationale": "This represents a large-scale commercial deployment of AI in the professional recruitment sector with verified usage numbers.",
+        "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+        "source": "TechCrunch",
+        "originalTitle": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become"
+      },
+      {
+        "index": 2,
+        "headline": "Weight-loss drugs may reduce biological aging markers",
+        "summary": "Eli Lilly and Novo Nordisk report that their medications appear to slow cellular aging processes in patients.",
+        "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Weight-loss drugs show signs of slowing biological aging, say drugmakers"
+      }
+    ],
+    "slotKey": "2026-10-06:evening"
   }
 }
