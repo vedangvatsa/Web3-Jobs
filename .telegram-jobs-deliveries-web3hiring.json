@@ -1562,5 +1562,49 @@
     "slotKey": "2026-10-05:afternoon",
     "messageId": 106,
     "sentAt": "2026-10-05T11:32:25.684Z"
+  },
+  "31226758-8488-47dd-ae89-f3ac9fc23eb4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T03:58:45.461Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "4422a816-97a3-444c-96ef-b37a6c5e59df",
+        "slug": "sec84",
+        "url": "https://hashtagweb3.com/sec84?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jito Labs",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "key": "0000289",
+        "slug": "android",
+        "url": "https://hashtagweb3.com/android?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "bitbank",
+        "title": "【リテールシステム部】Androidエンジニア"
+      },
+      {
+        "key": "5267739008",
+        "slug": "manager231",
+        "url": "https://hashtagweb3.com/manager231?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Manager, Mid-Market Sales"
+      },
+      {
+        "key": "281",
+        "slug": "manager160",
+        "url": "https://hashtagweb3.com/manager160?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fasset",
+        "title": "Country Manager"
+      },
+      {
+        "key": "8238250",
+        "slug": "ops73",
+        "url": "https://hashtagweb3.com/ops73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Crypto Wallet Operations Specialist"
+      }
+    ],
+    "message": "• Jito Labs is hiring <a href=\"https://hashtagweb3.com/sec84?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Security Engineer</a>\n• bitbank is hiring <a href=\"https://hashtagweb3.com/android?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">【リテールシステム部】Androidエンジニア</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/manager231?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Manager, Mid-Market Sales</a>\n• Fasset is hiring <a href=\"https://hashtagweb3.com/manager160?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Country Manager</a>\n• DRW is hiring <a href=\"https://hashtagweb3.com/ops73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Crypto Wallet Operations Specialist</a>",
+    "slotKey": "2026-10-06:morning"
   }
 }
