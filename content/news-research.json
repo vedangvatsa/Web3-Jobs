@@ -4441,17 +4441,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc4a4cc7319b8b183a6d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T20:23:19.000Z",
       "lastSeenAt": "2026-10-06T10:35:17.133Z",
       "reason": "duplicate",
       "note": "Same Oct 5 ZachXBT infiltration disclosure covered by zachxbt-syndicate.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T03:41:25.282Z",
+      "reviewedAt": "2026-10-06T11:01:54.827Z",
       "duplicateOf": "zachxbt-syndicate",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "326675e76ea9e57d0cb9"
     },
     "4df6d2cfee8cd65047e3": {
       "source": "Decrypt",
@@ -9566,6 +9567,15 @@
           "note": "Same Oct 5 ZachXBT infiltration disclosure covered by zachxbt-syndicate.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:01:53.089Z",
+          "duplicateOf": "zachxbt-syndicate",
+          "mergedInto": "326675e76ea9e57d0cb9"
+        },
+        "cc4a4cc7319b8b183a6d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 ZachXBT infiltration disclosure covered by zachxbt-syndicate.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:01:54.827Z",
           "duplicateOf": "zachxbt-syndicate",
           "mergedInto": "326675e76ea9e57d0cb9"
         }
