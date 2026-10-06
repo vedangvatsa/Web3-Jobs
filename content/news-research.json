@@ -2688,17 +2688,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "70e7075c490e51cbb16e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T22:10:34.000Z",
       "lastSeenAt": "2026-10-06T10:35:17.133Z",
       "reason": "duplicate",
       "note": "Same Oct 5 CFTC advance notice for Reg CTX and Reg CAM covered by cftc-leverage.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-06T03:41:06.194Z",
+      "reviewedAt": "2026-10-06T11:01:26.591Z",
       "duplicateOf": "cftc-leverage",
-      "lastReviewedDay": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "mergedInto": "b016d77f01cee47e2ca1"
     },
     "b3c290e86d3b6ddc0eb6": {
       "source": "Cointelegraph",
@@ -9434,6 +9435,15 @@
           ],
           "reviewedAt": "2026-10-06T11:01:24.900Z",
           "articleSlug": "cftc-leverage"
+        },
+        "70e7075c490e51cbb16e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 CFTC advance notice for Reg CTX and Reg CAM covered by cftc-leverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:01:26.591Z",
+          "duplicateOf": "cftc-leverage",
+          "mergedInto": "b016d77f01cee47e2ca1"
         }
       },
       "baselineSlugs": [
