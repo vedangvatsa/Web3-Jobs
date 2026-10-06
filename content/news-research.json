@@ -8535,11 +8535,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "eeca30dce8b5aa0767ab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T16:32:57.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "not-a-concrete-event",
+      "note": "ECB policymaker speech warning about fragmentation without digital euro; remarks with no decision or action.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:46:58.822Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "bb2832ab5de2b5a6771b": {
       "source": "BeInCrypto",
@@ -13076,6 +13086,18 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:46:57.110Z"
+        },
+        "eeca30dce8b5aa0767ab": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "ECB policymaker speech warning about fragmentation without digital euro; remarks with no decision or action.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:46:58.822Z"
         }
       },
       "baselineSlugs": [
