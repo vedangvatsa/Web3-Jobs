@@ -6484,11 +6484,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b8e7f5855b0bac51d08",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T07:01:00.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "source-blocked",
+      "note": "Bringin euro accounts launch dated Oct 6 but all coverage traces to the same company release; needs a second independent newsroom with its own verification.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T11:04:23.116Z",
+      "retrySearches": [
+        "Bringin business beta euro accounts October 2026 Lightspark"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "8d2163e404efe8af41ac": {
       "source": "BeInCrypto",
@@ -10605,6 +10619,21 @@
           "reviewedAt": "2026-10-06T11:04:21.360Z",
           "retrySearches": [
             "CIP-113 programmable tokens mainnet wallet October 2026"
+          ]
+        },
+        "3b8e7f5855b0bac51d08": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bringin euro accounts launch dated Oct 6 but all coverage traces to the same company release; needs a second independent newsroom with its own verification.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T11:04:23.116Z",
+          "retrySearches": [
+            "Bringin business beta euro accounts October 2026 Lightspark"
           ]
         }
       },
