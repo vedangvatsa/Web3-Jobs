@@ -3641,11 +3641,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "0e662a84c5b49d279ddd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T00:30:28.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "duplicate",
+      "note": "Same Kraken parent and Singapore Gulf Bank 24/7 dollar rails story already covered by kraken-settlement.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:36.081Z",
+      "duplicateOf": "kraken-settlement",
+      "lastReviewedDay": "2026-10-06"
     },
     "8d2c75e1228b98f57e54": {
       "source": "BeInCrypto",
@@ -6243,6 +6249,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:34.211Z",
           "duplicateOf": "okx-venue"
+        },
+        "0e662a84c5b49d279ddd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Kraken parent and Singapore Gulf Bank 24/7 dollar rails story already covered by kraken-settlement.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:36.081Z",
+          "duplicateOf": "kraken-settlement"
         }
       },
       "baselineSlugs": [
