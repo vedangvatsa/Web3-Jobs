@@ -1284,6 +1284,11 @@
           "text": "San Francisco, Seattle, New York\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-06T19:32:05.011Z",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Staff Software Engineer, Link - Bank Connections at Stripe. San Francisco, Seattle, New York.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-06T19:32:08.172Z"
         }
       }
     },
