@@ -5299,10 +5299,10 @@
         },
         {
           "url": "https://thedefiant.io/news/regulation/greenfield-files-swiss-regulatory-complaint-over-safe-foundation-governance",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:11:14.741Z",
+      "reviewedAt": "2026-10-06T01:11:20.447Z",
       "articleSlug": "safe-complaint",
       "lastReviewedDay": "2026-10-06"
     },
@@ -8373,10 +8373,10 @@
             },
             {
               "url": "https://thedefiant.io/news/regulation/greenfield-files-swiss-regulatory-complaint-over-safe-foundation-governance",
-              "outcome": "read"
+              "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-10-06T01:11:14.741Z",
+          "reviewedAt": "2026-10-06T01:11:20.447Z",
           "articleSlug": "safe-complaint"
         }
       },
