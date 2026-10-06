@@ -1,5 +1,5 @@
 {
-  "lastIndex": 350,
+  "lastIndex": 353,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -150,7 +150,9 @@
     "pm183",
     "sls184",
     "tcs",
-    "sls186"
+    "sls186",
+    "mgr106",
+    "dea"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5155,494 +5157,6 @@
       "verification": "verified"
     },
     {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "threads",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "17894650413610307",
-      "verification": "verified",
-      "expectedText": "Solana Foundation is hiring VP, International Communications: https://hashtagweb3.com/int15/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd_YlaukX3W",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "bluesky",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwvblebgyj2l",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x1a02e773c59de5b63d18a03ba3ed11bbe0e92792",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x83cd4ed5b4039ce2922b5019963d34d79339a932",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x4f3594f74489615c1c677a7819ff798860b4d31e",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x7e27726c37763f4f525f88eb2862ee0d9139365c",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0xfcd46796d25f6786c9ef15bcbf2d29a49046ed1f",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x4cb08bfa2db896ea198ea03ea0c24a9a9057148e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x624517f67007c4dd006a71c3fecf0fbe88c9c908",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0xb16fd91d56cc6d7b12c2eae84b78aac5711934c2",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x319da38542642c967bf16d2b48d84e4e599fbc59",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0xdb660e6f52034c6e3082e09ff1531d4aef2bcb1b",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0xa7d6c373ad152b3436e23c85c8b7cc9c45aa5e4d",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0xb3dedb071d0a2c3948361471705dff091046ead0",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x1b9388bbb36fd46a77b38b60c4f8327bc4666de6",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x8948e385d540d60f99d59e8372779b43ba8d0144",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0xa7cc080aa7b0fedb5d21894a3d15c9b3c7e06b2e",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x00034a5760865cb9c3b5671dd0729f57921d7137",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "0x54e3ccc828fb7c31a64c4f7413a5aa6f329103c3",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "6abf9647b41a266eabf77451",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "6abf9651f781c1ecf162c3e7",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "urn:li:share:7511750015384477696",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "facebook",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "691827047618629_1104375212169713",
-      "verification": "verified"
-    },
-    {
-      "slug": "int15",
-      "company": "Solana Foundation",
-      "title": "VP, International Communications",
-      "platform": "instagram",
-      "postedAt": "2026-10-02T11:32:03.807Z",
-      "postId": "18499698049096745",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "x",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "6abf96711b2a6a8e155c3ea8",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Alpaca is hiring Staff Engineer - New Markets Singapore\n\nhttps://hashtagweb3.com/eng325/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2105984410545689072"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "threads",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "18107270318193809",
-      "verification": "verified",
-      "expectedText": "Alpaca is hiring Staff Engineer - New Markets Singapore: https://hashtagweb3.com/eng325/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/Dd_Ys6YEcmm",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "bluesky",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwvbn7ys3b2l",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0xa1dfbbed50abbfa9b1e8c9332a705796fd17c417",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x273335ae295d4517b4d835f8a72468687fca660e",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x72bee9b891747f81d2f7b405ee7548221a4b1f66",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x1878c16b1079e8d2df631e22144d9afc485339d2",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0xe9e383f12e99215edc26f268ed6c0057cad7f7fc",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x4e80bd304e749f69157f1927451b7794892584a3",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x718596ef790939957c63424da4183d3c06f520d3",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0xe617bdcb3ec09abf3488705b36f1e82db2961f76",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0xb3870b92311fd5f3261c8d7a4fd21ec3b4dd18a9",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x3e418091db42cd7dfe5222725d7f096509e5092e",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x7e959f1096725f4ffb8441fc2a20d0f62245a240",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x23379bb4f1d66f7d0826772f096525ab535080c8",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x3d34cba38da426525d9233e4ef7d5248a4812547",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0xb5a3bad138af28a1735cfdc1173dd5e5c76d05d1",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0x9136b53a46782924225ff09464c7ba646c223d07",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0xec3020e19b7ed8e64baa5962ee90d58a5698ad59",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "farcaster",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "0xa6cebaba4c531c2204e8faaa1ef8318f630c3a33",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "6abf968579e44b20b32b4d17",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "6abf96901b2a6a8e155c43e0",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "linkedin",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "urn:li:share:7511750277473976320",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng325",
-      "company": "Alpaca",
-      "title": "Staff Engineer - New Markets Singapore",
-      "platform": "facebook",
-      "postedAt": "2026-10-02T11:33:05.066Z",
-      "postId": "691827047618629_1104376122169622",
-      "verification": "verified"
-    },
-    {
       "slug": "eng325",
       "company": "Alpaca",
       "title": "Staff Engineer - New Markets Singapore",
@@ -10137,6 +9651,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-05T11:32:48.296Z",
       "postId": "691827047618629_1107106361896598",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "x",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "6ac471f1acc08dcd5ea0dd76",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Incident Response Manager\n\nhttps://hashtagweb3.com/mgr106/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107319611624456471"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "18448589785133825",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Incident Response Manager: https://hashtagweb3.com/mgr106/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeI34UdkTeU",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx6k4bzygk2u",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0xc72a3522ed8ffe08a0edea012244d6b241efa264",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0xf2e27804e6468230b33442bfb749708a66af2835",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x35207095b4a0d6def202e4da8d0d7502779e5b83",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0xaf1e32fd875f5c5469247c374aa9dd428dc6abfc",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x7c0a34a12c46f1a5f715de7f3413c845009c0928",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x130bf2023d7ce13edda4f3064d00cc5cb0b485e5",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x0f5b6c39b1164a29750bff5c32288af66b246d1c",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0xbf7762df883342c49b612bf6984b19d6352fa49a",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x3323756cb7627458474b02259c8bbf15bfcf36ea",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x95c4dc6ca76ab31fe67419e37071fe00c70161fd",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x6948033f63ecc0a944f3c4f1ea1868b7ef995c00",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0xc7ae4d9bb6a73e36277acb31fc852c1e48789e5c",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0xe7059dacbc5ecf7f6e788ec9037bc2ba92e5d235",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x60ca7d919bec9466c1579b1eaf0fc37f313685fd",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x5a76e5dd5ea099419de4e2dcc4144647f1a6680b",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x61b4aa424f0bc98277720412bcdc80339270da60",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "0x45438ffb4706ac6a6d0c2f292e6c8470764da20e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "6ac47202b0e0485fb46a5384",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "6ac4720c032d0529987a0034",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "urn:li:share:7513085459183501312",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr106",
+      "company": "Stripe",
+      "title": "Incident Response Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-06T03:58:41.681Z",
+      "postId": "691827047618629_1107720941835140",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "x",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "6ac4721fb0e0485fb46a57f1",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "eToro is hiring Senior Dealer\n\nhttps://hashtagweb3.com/dea/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107319803690045841"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "threads",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "18127605853856030",
+      "verification": "verified",
+      "expectedText": "eToro is hiring Senior Dealer: https://hashtagweb3.com/dea/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeI3934kYrr",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx6k5optcs2u",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xa3e2404a9006f1bef58599a827db196f221b1e31",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x69147218c7f7dc4974ef24aea0d83c00b29abb32",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x68ed70a2c090cf98a315483ce43b2783835a06a0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x9e01e067d2e8adeb543023d522832a3e81db605c",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xdf06a8d7d5d69464496886e57fdda22cc1a8712c",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xe18bc3e568c4c571b833a0d9fbfa5a1fed5b055a",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x9cafdd3c5f66be2bfd9355d2314523894c15e4dc",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x0314124efb36705553818095273ff8fb2fcadc4d",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xc87f2d2210bfa348a53e1578438e781a88c70a92",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xe4f7ba6e7dd29a458db1ab014d4f8c3d8e5ce4ef",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x6017d0fede3d8f29e03fb6c0f9f67d5ac8b628ad",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x25ee80ef1378ceb6e234e4d5e77f585b6c27b09f",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xfb6a4671f7f4c9487bea0b8db780aba35f2b4a5f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x7ee6bac39171ec4e6dbb3c2ce6d5aeac3681c490",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0x2c793ed2acc5c1555af5dd52f0e154622663070a",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xcf06df016e449efb5c34a80595d92fc64cc8193f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "0xb21df9a11dc368cd6502d28519cabbcb8f8a3d06",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "6ac47230032d0529987a052d",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "6ac4723bb0e0485fb46a596a",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "urn:li:share:7513085661059510272",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "dea",
+      "company": "eToro",
+      "title": "Senior Dealer",
+      "platform": "facebook",
+      "postedAt": "2026-10-06T03:59:27.619Z",
+      "postId": "691827047618629_1107721338501767",
       "verification": "verified"
     }
   ]
