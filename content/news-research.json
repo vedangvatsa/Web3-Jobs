@@ -6522,11 +6522,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a4bb50c477cfebe36a82",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T04:30:00.000Z",
-      "lastSeenAt": "2026-10-06T10:35:17.133Z"
+      "lastSeenAt": "2026-10-06T10:35:17.133Z",
+      "reason": "price-chatter",
+      "note": "Price-target prediction toward 96.7K on on-chain versus leverage framing, with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T11:02:58.810Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "f57bf96a4c1aed3bca91": {
       "source": "CoinDesk",
@@ -9950,6 +9955,13 @@
           "note": "Futures open-interest drop versus spot buying narrative, derivatives positioning commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T11:02:57.050Z"
+        },
+        "a4bb50c477cfebe36a82": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Price-target prediction toward 96.7K on on-chain versus leverage framing, with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T11:02:58.810Z"
         }
       },
       "baselineSlugs": [
