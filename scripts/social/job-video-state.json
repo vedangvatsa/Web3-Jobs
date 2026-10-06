@@ -60,6 +60,10 @@
     "2026-10-05:afternoon": [
       "manager523",
       "ops66"
+    ],
+    "2026-10-06:morning": [
+      "pm84",
+      "sec61"
     ]
   },
   "jobs": {
@@ -1107,6 +1111,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7693145919675551009"
         }
       }
+    },
+    "pm84": {
+      "slot": "2026-10-06:morning",
+      "selectedAt": "2026-10-06T03:31:07.288Z",
+      "verifiedAt": "2026-10-06T03:31:07.288Z",
+      "captions": {
+        "instagram": "Product Partnerships Manager at Transak\n\nMiami, US\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #ProductJobs #Hiring",
+        "tiktok": "Product Partnerships Manager at Transak. Miami, US.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Miami, US\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Product Partnerships Manager at Transak"
+      },
+      "receipts": {}
+    },
+    "sec61": {
+      "slot": "2026-10-06:morning",
+      "selectedAt": "2026-10-06T03:31:07.288Z",
+      "verifiedAt": "2026-10-06T03:31:07.288Z",
+      "captions": {
+        "instagram": "Offensive Security Engineer at Stripe\n\nUS - Remote · $170.4k - $255.7k/yr\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #RemoteJobs",
+        "tiktok": "Offensive Security Engineer at Stripe. US - Remote · $170.4k - $255.7k/yr.\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtube": "US - Remote · $170.4k - $255.7k/yr\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtubeTitle": "Offensive Security Engineer at Stripe · US - Remote"
+      },
+      "receipts": {}
     }
   }
 }
