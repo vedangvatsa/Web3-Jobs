@@ -1286,10 +1286,11 @@
           "error": "Error: Video ledger PUT failed — HTTP 409"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Staff Software Engineer, Link - Bank Connections at Stripe. San Francisco, Seattle, New York.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-06T19:32:08.172Z",
-          "postId": "6ac54cb9535ade2f59d10611"
+          "postId": "6ac54cb9535ade2f59d10611",
+          "url": "https://tiktok.com/@hashtagweb3/video/7693639983093124384"
         }
       }
     },
