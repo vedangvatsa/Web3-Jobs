@@ -4134,11 +4134,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0b668f8eee3f9b807d90",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T19:53:52.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Modern Treasury trust-bank charter bid opened and confirmed in Cointelegraph; needs a second openable outlet or the OCC filing.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:05:19.519Z",
+      "retrySearches": [
+        "Modern Treasury trust bank charter OCC application October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "ddbe9d14387a975201fa": {
       "source": "The Defiant",
@@ -6860,6 +6874,21 @@
           "reviewedAt": "2026-10-06T01:05:12.165Z",
           "retrySearches": [
             "Xverse Draper Associates strategic round bitcoin wallet October 2026"
+          ]
+        },
+        "0b668f8eee3f9b807d90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Modern Treasury trust-bank charter bid opened and confirmed in Cointelegraph; needs a second openable outlet or the OCC filing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:05:19.519Z",
+          "retrySearches": [
+            "Modern Treasury trust bank charter OCC application October 2026"
           ]
         }
       },
