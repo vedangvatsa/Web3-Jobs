@@ -1314,10 +1314,11 @@
           "url": "https://www.instagram.com/reel/DeKi7kdCVu8/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Dallas, Texas\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-06T19:34:52.974Z",
-          "postId": "6ac54d5e9b4b7d7d77d5644c"
+          "postId": "6ac54d5e9b4b7d7d77d5644c",
+          "url": "https://www.youtube.com/watch?v=zm9InaRCWEI"
         }
       }
     }
