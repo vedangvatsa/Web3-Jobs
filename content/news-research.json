@@ -3315,11 +3315,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "0b0d10208ecb3f50cbc4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T17:30:29.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Strategy 334 BTC buy opened in CryptoSlate; The Block second outlet blocked this round. Full verification plus drafting carries to next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:04.276Z",
+      "retrySearches": [
+        "Strategy 334 bitcoin STRC buyback October 2026 filing"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "cfc9f386bb32f544ad69": {
       "source": "Cointelegraph",
@@ -7063,6 +7081,25 @@
           "reviewedAt": "2026-10-06T01:05:29.959Z",
           "retrySearches": [
             "Stripe stablecoin cards 100 countries Privy Stern October 2026"
+          ]
+        },
+        "0b0d10208ecb3f50cbc4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Strategy 334 BTC buy opened in CryptoSlate; The Block second outlet blocked this round. Full verification plus drafting carries to next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:04.276Z",
+          "retrySearches": [
+            "Strategy 334 bitcoin STRC buyback October 2026 filing"
           ]
         }
       },
