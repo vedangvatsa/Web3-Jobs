@@ -3284,11 +3284,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfc9f386bb32f544ad69",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T16:53:08.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "price-chatter",
+      "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:03:17.418Z",
+      "lastReviewedDay": "2026-10-06"
     },
     "b1e55f7f84c981ba728a": {
       "source": "CryptoSlate",
@@ -6469,6 +6474,13 @@
           "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:03:15.681Z"
+        },
+        "cfc9f386bb32f544ad69": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Price action, chart pattern, prediction or market commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:03:17.418Z"
         }
       },
       "baselineSlugs": [
