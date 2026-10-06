@@ -166,20 +166,12 @@
       "id": "751c0a31b9ee07e32b36",
       "status": "deferred",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-07T15:20:58.000Z",
       "lastSeenAt": "2026-10-05T03:31:38.041Z",
       "reason": "source-blocked",
-      "note": "Lido CSM 0x02 bond figures confirmed only in Lido forum and docs; Crypto Briefing and Gate pages returned HTTP 403, leaving no second openable independent outlet on the specific bond.",
+      "note": "Lido CSM 0x02 bond: still no second openable independent outlet on the required list; only low-tier mirrors of the CryptoSlate piece found. Expires 2026-10-07.",
       "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://research.lido.fi/t/community-staking-module/5917/240",
-          "outcome": "read"
-        },
         {
           "url": "https://cryptobriefing.com",
           "outcome": "blocked"
@@ -189,12 +181,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-05T03:47:11.854Z",
+      "reviewedAt": "2026-10-06T01:07:05.287Z",
       "retrySearches": [
-        "Lido CSM 0x02 32 ETH first key bond October 2026 site:coindesk.com OR site:cointelegraph.com OR site:theblock.co"
+        "Lido CSM 0x02 bond 32 ETH site:coindesk.com OR site:theblock.co OR site:dlnews.com OR site:decrypt.co OR site:cointelegraph.com"
       ],
-      "lastReviewedDay": "2026-10-05",
-      "nextReviewDate": "2026-10-06"
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "c421321e4f5faaaf535d": {
       "source": "CoinDesk",
@@ -7902,6 +7894,25 @@
           "reviewedAt": "2026-10-06T01:07:03.439Z",
           "retrySearches": [
             "THORWallet Monero XMR swaps THORChain audit independent coverage"
+          ]
+        },
+        "751c0a31b9ee07e32b36": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Lido CSM 0x02 bond: still no second openable independent outlet on the required list; only low-tier mirrors of the CryptoSlate piece found. Expires 2026-10-07.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.gate.com",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:07:05.287Z",
+          "retrySearches": [
+            "Lido CSM 0x02 bond 32 ETH site:coindesk.com OR site:theblock.co OR site:dlnews.com OR site:decrypt.co OR site:cointelegraph.com"
           ]
         }
       },
