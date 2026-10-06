@@ -4325,11 +4325,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c5df15fe9fbc3c12561",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T15:30:48.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "duplicate",
+      "note": "Same NYSE-owner and OKX 24/7 tokenized stock trading plan already covered by okx-venue.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-06T01:02:34.211Z",
+      "duplicateOf": "okx-venue",
+      "lastReviewedDay": "2026-10-06"
     },
     "01e61b6ba535884dc7ea": {
       "source": "The Defiant",
@@ -6228,6 +6234,14 @@
           "note": "Same OKX-ICE filing to trade tokenized stocks already covered by okx-venue.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-06T01:02:29.823Z",
+          "duplicateOf": "okx-venue"
+        },
+        "0c5df15fe9fbc3c12561": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NYSE-owner and OKX 24/7 tokenized stock trading plan already covered by okx-venue.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-06T01:02:34.211Z",
           "duplicateOf": "okx-venue"
         }
       },
