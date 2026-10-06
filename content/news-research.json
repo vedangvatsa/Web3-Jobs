@@ -3823,11 +3823,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d372d8efef76dfb7dae2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T12:04:01.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Same Metaplanet sell-rebuy and income strategy as b1e5; this outlet copy open. Verify and draft together next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:21.765Z",
+      "retrySearches": [
+        "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "632e4bb5b98a6d6fbf9d": {
       "source": "CoinDesk",
@@ -7328,6 +7342,21 @@
             }
           ],
           "reviewedAt": "2026-10-06T01:06:20.002Z",
+          "retrySearches": [
+            "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
+          ]
+        },
+        "d372d8efef76dfb7dae2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Same Metaplanet sell-rebuy and income strategy as b1e5; this outlet copy open. Verify and draft together next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:21.765Z",
           "retrySearches": [
             "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
           ]
