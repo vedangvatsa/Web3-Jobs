@@ -674,6 +674,9 @@
   "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
   "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
   "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+  "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+  "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+  "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1805,6 +1808,12 @@
   "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
   "Startup Springboards builds LLM to generate diverse responses",
   "People really hate AI, so why can’t they get enough?",
+  "OpenAI to watermark ChatGPT text in the European Union",
+  "OpenAI will start watermarking ChatGPT’s text in the EU",
+  "OpenAI introduces visual advertisements alongside image generation results",
+  "OpenAI launches visual ads that appear alongside image generation results",
+  "Norway proposes temporary ban on AI recording glasses",
+  "AI glasses face their first major government crackdown",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1996,5 +2005,8 @@
   "fp:address|blackston|build|builder|disrupt2026|event|executiv|futur|generation|giant",
   "fp:bounty|bug|due|froz|generat|googl|influx|low|open|overwhelm",
   "fp:analyst|bind|brand|can|commitment|corporat|discuss|effort|equity|evaluat",
-  "fp:aim|answer|build|can|competitor|divers|enough|generat|get|hat"
+  "fp:aim|answer|build|can|competitor|divers|enough|generat|get|hat",
+  "fp:act|comply|european|generat|implement|invisibl|marker|openai|output|start",
+  "fp:advertisement|alongsid|appear|display|generation|imag|introduc|month|openai|product",
+  "fp:ban|bystander|crackdown|devic|draft|fac|glass|government|halt|major"
 ]

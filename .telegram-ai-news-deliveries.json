@@ -709,7 +709,7 @@
     "sentAt": "2026-10-05T11:33:04.342Z"
   },
   "36a0b57f-3ace-4d94-9a66-83677c407b8d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-06T03:59:00.196Z",
     "stories": [
       {
@@ -743,6 +743,8 @@
         "originalTitle": "AI glasses face their first major government crackdown"
       }
     ],
-    "slotKey": "2026-10-06:morning"
+    "slotKey": "2026-10-06:morning",
+    "messageId": 193321,
+    "sentAt": "2026-10-06T03:59:06.945Z"
   }
 }
