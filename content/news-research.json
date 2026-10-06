@@ -6914,13 +6914,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ebac434c9d8844265a8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T09:02:01.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Verified Oct 6 OKX Money launch with 50 plus currencies, 10pct USDG yield and cards rollout across OKX post, CoinDesk and Cointelegraph.",
+      "note": "Verified Oct 6 OKX Money launch with 50 plus currencies, 10pct USDG yield and cards rollout across company post and two outlets.",
       "sourceChecks": [
         {
           "url": "https://www.okx.com/en-gb/learn/okx-money-launch-select-markets",
@@ -6935,7 +6935,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:57:20.156Z",
+      "reviewedAt": "2026-10-06T17:42:33.296Z",
       "articleSlug": "okx-money",
       "lastReviewedDay": "2026-10-06",
       "lastValidationErrors": [
@@ -11802,6 +11802,27 @@
           ],
           "reviewedAt": "2026-10-06T17:42:31.654Z",
           "articleSlug": "okx-raise"
+        },
+        "2ebac434c9d8844265a8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 6 OKX Money launch with 50 plus currencies, 10pct USDG yield and cards rollout across company post and two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://www.okx.com/en-gb/learn/okx-money-launch-select-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:42:33.296Z",
+          "articleSlug": "okx-money"
         }
       },
       "baselineSlugs": [
