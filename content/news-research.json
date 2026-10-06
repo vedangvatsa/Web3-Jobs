@@ -4869,11 +4869,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8785470a177469d3a057",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T13:46:31.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "Stripe stablecoin cards to 100 countries opened and confirmed in CoinDesk (published Oct 1, at window edge); needs a second openable outlet or Stripe announcement.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:05:29.959Z",
+      "retrySearches": [
+        "Stripe stablecoin cards 100 countries Privy Stern October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "53cd0a8a368388dea5ce": {
       "source": "The Block",
@@ -7034,6 +7048,21 @@
           "reviewedAt": "2026-10-06T01:05:28.204Z",
           "retrySearches": [
             "China P2P stablecoin wallets 43x Chainalysis October 2026"
+          ]
+        },
+        "8785470a177469d3a057": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Stripe stablecoin cards to 100 countries opened and confirmed in CoinDesk (published Oct 1, at window edge); needs a second openable outlet or Stripe announcement.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:05:29.959Z",
+          "retrySearches": [
+            "Stripe stablecoin cards 100 countries Privy Stern October 2026"
           ]
         }
       },
