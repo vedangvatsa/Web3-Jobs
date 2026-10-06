@@ -766,5 +766,36 @@
     "slotKey": "2026-10-05:afternoon",
     "messageId": 155614,
     "sentAt": "2026-10-05T11:36:33.038Z"
+  },
+  "adbcc5e1-5245-4fd0-9839-472461b4bc00": {
+    "status": "reserved",
+    "reservedAt": "2026-10-06T04:01:10.119Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CoinEx to Close Crypto Exchange After Nine Years",
+        "summary": "Spot trading will end on September 29, with withdrawals closing in December 2026 due to high compliance costs.",
+        "link": "https://hashtagweb3.com/coinex-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CoinEx to Shut Down Exchange After Nine Years"
+      },
+      {
+        "index": -1,
+        "headline": "Symbiosis Recovers 15 BTC and Offers Bounty After Exploit",
+        "summary": "The protocol is developing a compensation plan for liquidity providers following the September 11 bridge security breach.",
+        "link": "https://hashtagweb3.com/symbiosis-bridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Symbiosis Recovers 15 BTC After Bitcoin Bridge Exploit, Offers 20% Bounty"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase Reverts Wallet and Base to Separate Products",
+        "summary": "Official materials now treat the self-custody app and the blockchain as distinct offerings following a brief rebranding.",
+        "link": "https://hashtagweb3.com/base-wallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Wallet and Base Are Again Presented as Separate Products"
+      }
+    ],
+    "slotKey": "2026-10-06:morning"
   }
 }
