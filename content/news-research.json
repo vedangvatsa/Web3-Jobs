@@ -3133,11 +3133,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "74a2b4bafbb0dfb5e2c3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-08T21:48:03.000Z",
-      "lastSeenAt": "2026-10-06T00:55:35.855Z"
+      "lastSeenAt": "2026-10-06T00:55:35.855Z",
+      "reason": "needs-corroboration",
+      "note": "DeFi Development 3M SOL buy opened in Decrypt; The Block NAV copy blocked. Full verification plus drafting carries to next batch.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-06T01:06:44.287Z",
+      "retrySearches": [
+        "DeFi Development Corp Solana holdings NAV October 2026"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "5045507257a81cfa8ec0": {
       "source": "Bitcoin Magazine",
@@ -7652,6 +7670,25 @@
           "reviewedAt": "2026-10-06T01:06:42.535Z",
           "retrySearches": [
             "Bitmine 15112 ETH purchase October 2026 filing"
+          ]
+        },
+        "74a2b4bafbb0dfb5e2c3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "DeFi Development 3M SOL buy opened in Decrypt; The Block NAV copy blocked. Full verification plus drafting carries to next batch.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-06T01:06:44.287Z",
+          "retrySearches": [
+            "DeFi Development Corp Solana holdings NAV October 2026"
           ]
         }
       },
