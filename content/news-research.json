@@ -8422,11 +8422,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d307a4a80069a028f244",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T17:00:37.000Z",
-      "lastSeenAt": "2026-10-06T17:21:54.065Z"
+      "lastSeenAt": "2026-10-06T17:21:54.065Z",
+      "reason": "source-blocked",
+      "note": "Read CryptoSlate on Oct 5 DOJ venue filing citing Bitcoin Fog appeal in Roman Storm case with Apr 2027 retrial; needs a second independent outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-06T17:47:38.752Z",
+      "retrySearches": [
+        "Roman Storm venue filing Bitcoin Fog appeal October 2026 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-06",
+      "nextReviewDate": "2026-10-07"
     },
     "d1c0c41c21a98aa3f029": {
       "source": "CoinDesk",
@@ -13274,6 +13288,21 @@
             }
           ],
           "reviewedAt": "2026-10-06T17:47:19.756Z"
+        },
+        "d307a4a80069a028f244": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read CryptoSlate on Oct 5 DOJ venue filing citing Bitcoin Fog appeal in Roman Storm case with Apr 2027 retrial; needs a second independent outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-06T17:47:38.752Z",
+          "retrySearches": [
+            "Roman Storm venue filing Bitcoin Fog appeal October 2026 second outlet"
+          ]
         }
       },
       "baselineSlugs": [
