@@ -5441,23 +5441,23 @@
       "id": "53cd0a8a368388dea5ce",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T13:23:07.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "source-blocked",
-      "note": "Same Bitmine 15112 ETH buy as c7e1; The Block page blocked. Verify and draft together next batch.",
+      "note": "Same Bitmine buy as c7e1; Block page blocked.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:42.535Z",
+      "reviewedAt": "2026-10-07T03:45:42.542Z",
       "retrySearches": [
         "Bitmine 15112 ETH purchase October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "e8e3472828ab121b445b": {
       "source": "Cointelegraph",
@@ -16058,6 +16058,21 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:45:40.711Z",
+          "retrySearches": [
+            "Bitmine 15112 ETH purchase October 2026 filing"
+          ]
+        },
+        "53cd0a8a368388dea5ce": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Same Bitmine buy as c7e1; Block page blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:42.542Z",
           "retrySearches": [
             "Bitmine 15112 ETH purchase October 2026 filing"
           ]
