@@ -9658,11 +9658,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7a31c4be4515529bbda",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T17:59:32.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "needs-corroboration",
+      "note": "Cointelegraph Oct 6 read confirms Davis bill, 10K penalty, recess timing; needs bill text or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:46:55.944Z",
+      "retrySearches": [
+        "No Betting on Your Own Race Act Davis bill text October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "dc4cdf128cd4d101b0e6": {
       "source": "BeInCrypto",
@@ -16243,6 +16257,21 @@
           "reviewedAt": "2026-10-07T03:46:54.018Z",
           "retrySearches": [
             "SEC two commissioners quorum amendment crypto October 2026 second outlet"
+          ]
+        },
+        "d7a31c4be4515529bbda": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Cointelegraph Oct 6 read confirms Davis bill, 10K penalty, recess timing; needs bill text or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:46:55.944Z",
+          "retrySearches": [
+            "No Betting on Your Own Race Act Davis bill text October 2026"
           ]
         }
       },
