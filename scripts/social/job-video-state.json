@@ -1360,10 +1360,11 @@
           "error": "Error: Video ledger PUT failed — HTTP 409"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Finance & Strategy Analyst at Stripe. SF, SEA, CHI, NYC.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-07T03:32:20.017Z",
-          "postId": "6ac5bd4553551104161d929c"
+          "postId": "6ac5bd4553551104161d929c",
+          "url": "https://tiktok.com/@hashtagweb3/video/7693763555467742496"
         }
       }
     },
