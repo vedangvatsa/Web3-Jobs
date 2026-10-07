@@ -10872,11 +10872,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0104640e7b2b652586ba",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T17:54:45.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "source-blocked",
+      "note": "Anchorage-Routable acquisition seen only in blocked Defiant origin; needs company post or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:48:55.365Z",
+      "retrySearches": [
+        "Anchorage Digital Routable acquisition October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "7de78afd1b8f17875c74": {
       "source": "Cointelegraph",
@@ -16563,6 +16577,21 @@
           "reviewedAt": "2026-10-07T03:48:49.473Z",
           "retrySearches": [
             "THORChain treasury refund stolen crypto fees October 2026"
+          ]
+        },
+        "0104640e7b2b652586ba": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Anchorage-Routable acquisition seen only in blocked Defiant origin; needs company post or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:48:55.365Z",
+          "retrySearches": [
+            "Anchorage Digital Routable acquisition October 2026"
           ]
         }
       },
