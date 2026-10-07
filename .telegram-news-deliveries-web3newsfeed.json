@@ -964,5 +964,36 @@
     "slotKey": "2026-10-07:afternoon",
     "messageId": 65736,
     "sentAt": "2026-10-07T11:34:56.304Z"
+  },
+  "90c0ee13-6903-429e-a680-44fcd28cae5f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T19:34:44.381Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Proposes Federal Oversight for Crypto Margin Trading",
+        "summary": "Proposed regulations CTX and CAM would require margin-based crypto trading to occur on federally registered venues.",
+        "link": "https://hashtagweb3.com/cftc-leverage?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Proposes Federal Exchange Rules Triggered by Crypto Margin Trading"
+      },
+      {
+        "index": -1,
+        "headline": "Eigen Labs and Shielded Labs launch AI hash attack contest",
+        "summary": "The October 5 competition evaluates how artificial intelligence can compromise four specific cryptographic hash functions.",
+        "link": "https://hashtagweb3.com/hashsmash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Eigen Labs and Shielded Labs Launch HashSmash AI Contest"
+      },
+      {
+        "index": -1,
+        "headline": "Ether.fi to launch dollar stablecoin with Ethena managing reserves",
+        "summary": "Ethena will handle minting, redemptions, and regulatory compliance for the new token announced on October 6.",
+        "link": "https://hashtagweb3.com/etherfi-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ether.fi Plans Dollar Stablecoin With Ethena Running Reserves"
+      }
+    ],
+    "slotKey": "2026-10-07:evening"
   }
 }
