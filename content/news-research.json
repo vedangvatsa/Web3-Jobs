@@ -4874,11 +4874,11 @@
       "id": "ba6adb67998afde3dcee",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T17:58:58.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "needs-corroboration",
-      "note": "S and P crypto lending vault risk assessments opened in Cointelegraph; BeInCrypto and Defiant copies blocked. Full verification plus drafting carries to next batch.",
+      "note": "Cointelegraph read confirms vault grades; BeInCrypto and Defiant copies blocked.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
@@ -4893,12 +4893,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:57.932Z",
+      "reviewedAt": "2026-10-07T03:43:31.958Z",
       "retrySearches": [
-        "S&P Global crypto lending vault risk assessments October 2026"
+        "S and P Global crypto lending vault risk assessments October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "690d83e27eb267a5493d": {
       "source": "BeInCrypto",
@@ -15759,6 +15759,29 @@
           "reviewedAt": "2026-10-07T03:43:30.164Z",
           "retrySearches": [
             "Compound governance vote cancel treasury operations proposal October 2026"
+          ]
+        },
+        "ba6adb67998afde3dcee": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Cointelegraph read confirms vault grades; BeInCrypto and Defiant copies blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/sp-global-crypto-lending-vaults-risk/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/converge/defi/s-p-global-puts-a-letter-grade-on-defi-lending-vaults",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:31.958Z",
+          "retrySearches": [
+            "S and P Global crypto lending vault risk assessments October 2026"
           ]
         }
       },
