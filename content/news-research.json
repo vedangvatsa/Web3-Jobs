@@ -3041,23 +3041,23 @@
       "id": "94d4b7992a3e8fbbcf3f",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T13:49:34.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "Plume NBND vault backed by Fidelity bond ETF reported only by The Defiant; page blocked, needs a second openable outlet or the Plume announcement.",
+      "reason": "source-blocked",
+      "note": "Plume NBND vault seen only in blocked Defiant page; needs Plume announcement or second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:05:08.683Z",
+      "reviewedAt": "2026-10-07T03:43:06.095Z",
       "retrySearches": [
         "Plume NBND vault Fidelity FBND tokenized October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "100d466d2a7f1cf362e1": {
       "source": "SEC Press Releases",
@@ -15635,6 +15635,21 @@
           "reviewedAt": "2026-10-07T03:42:59.186Z",
           "retrySearches": [
             "CFTC staff stock-index perpetual conversion five-day notice October 2026"
+          ]
+        },
+        "94d4b7992a3e8fbbcf3f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Plume NBND vault seen only in blocked Defiant page; needs Plume announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:06.095Z",
+          "retrySearches": [
+            "Plume NBND vault Fidelity FBND tokenized October 2026"
           ]
         }
       },
