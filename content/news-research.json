@@ -9414,11 +9414,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "28f2f6211a7250f01b9f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T19:46:04.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "verified-event",
+      "note": "Verified SDNY filing, 2.76M figure, Brazil probe details across four outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/payments-firm-says-tether-froze-2-76-million-brazilian-police-didnt-flag-forcing-layoffs/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze",
+          "outcome": "read"
+        },
+        {
+          "url": "https://protos.com/conduit-sues-tether-over-2-8m-usdt-freeze/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:41:47.587Z",
+      "articleSlug": "tether-freeze",
+      "lastReviewedDay": "2026-10-07"
     },
     "28d44778853a7225286f": {
       "source": "CryptoSlate",
@@ -15302,6 +15325,31 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:34:15.339Z",
           "duplicateOf": "fincen-withdrawal"
+        },
+        "28f2f6211a7250f01b9f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified SDNY filing, 2.76M figure, Brazil probe details across four outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/payments-firm-says-tether-froze-2-76-million-brazilian-police-didnt-flag-forcing-layoffs/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze",
+              "outcome": "read"
+            },
+            {
+              "url": "https://protos.com/conduit-sues-tether-over-2-8m-usdt-freeze/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:41:47.587Z",
+          "articleSlug": "tether-freeze"
         }
       },
       "baselineSlugs": [
