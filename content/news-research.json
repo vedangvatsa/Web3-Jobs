@@ -5691,23 +5691,23 @@
       "id": "75cc7ba5278c4c5b4e90",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T11:18:01.000Z",
       "lastSeenAt": "2026-10-06T10:35:17.133Z",
       "reason": "needs-corroboration",
-      "note": "Greek soldiers 8M crypto pyramid story opened and confirmed in Decrypt; needs a second openable outlet or official statement.",
+      "note": "Decrypt Oct 5 read confirms arrests and 8M figure via To Vima and ERT; needs openable second outlet.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T01:05:26.517Z",
+      "reviewedAt": "2026-10-07T03:47:49.516Z",
       "retrySearches": [
-        "Greek soldiers 8M crypto pyramid scheme arrests October 2026"
+        "Greek soldiers crypto pyramid Katerini arrests To Vima English October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "5367f9116e465a5481a5": {
       "source": "CoinDesk",
@@ -16400,6 +16400,21 @@
           "reviewedAt": "2026-10-07T03:47:47.661Z",
           "retrySearches": [
             "Bitcoin Group futurum BaFin MiCA refusal October 2026 Handelsblatt Boersen-Zeitung"
+          ]
+        },
+        "75cc7ba5278c4c5b4e90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt Oct 5 read confirms arrests and 8M figure via To Vima and ERT; needs openable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:47:49.516Z",
+          "retrySearches": [
+            "Greek soldiers crypto pyramid Katerini arrests To Vima English October 2026"
           ]
         }
       },
