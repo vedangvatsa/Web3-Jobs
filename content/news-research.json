@@ -10318,11 +10318,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "711102a2697ca9eea804",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T19:30:29.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Mining-share analysis roundup with no fresh filing, vote or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:05.468Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "1fcf17e79a1b7602cb10": {
       "source": "The Defiant",
@@ -17001,6 +17006,13 @@
           "note": "US services inflation gauge macro piece; not a crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:59.618Z"
+        },
+        "711102a2697ca9eea804": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Mining-share analysis roundup with no fresh filing, vote or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:05.468Z"
         }
       },
       "baselineSlugs": [
