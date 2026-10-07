@@ -1353,9 +1353,11 @@
           "url": "https://www.instagram.com/reel/DeLZjlaCUYa/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "SF, SEA, CHI, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-07T03:32:13.178Z"
+          "startedAt": "2026-10-07T03:32:13.178Z",
+          "postId": "6ac5bd3e36c2a7788dcbc2e8",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
