@@ -818,5 +818,36 @@
     "slotKey": "2026-10-06:evening",
     "messageId": 193323,
     "sentAt": "2026-10-06T19:34:12.832Z"
+  },
+  "d894dc92-f6b7-4b5f-a61e-dffc2b688a92": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T04:09:57.173Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Former Ramp engineers raise $20 million for Melius",
+        "summary": "The startup shifted its focus from ad spend management to developing tools that create marketing assets and campaigns.",
+        "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+        "source": "TechCrunch",
+        "originalTitle": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product"
+      },
+      {
+        "index": 2,
+        "headline": "OpenAI to add watermarks to ChatGPT in the EU",
+        "summary": "These digital markers are easy to remove and may not consistently identify AI-generated content.",
+        "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+        "source": "Ars Technica",
+        "originalTitle": "OpenAI will watermark ChatGPT outputs by default—but only in the EU"
+      },
+      {
+        "index": 3,
+        "headline": "Musubi releases open-weight AI model for content moderation",
+        "summary": "The new PolicyLM-1.7B model provides a lightweight tool for real-time automated content filtering.",
+        "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "source": "TechCrunch",
+        "originalTitle": "How AI decision models could change content moderation"
+      }
+    ],
+    "slotKey": "2026-10-07:morning"
   }
 }
