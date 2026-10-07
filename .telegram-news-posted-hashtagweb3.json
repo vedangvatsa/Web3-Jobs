@@ -692,6 +692,9 @@
   "https://hashtagweb3.com/gilt-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftc-leverage?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/godfather-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/abstract-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ripple-prime?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/davis-bill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1984,6 +1987,12 @@
   "CFTC Proposes Federal Exchange Rules Triggered by Crypto Margin Trading",
   "Adam Iza Sentenced to Prison for Meta Fraud",
   "Crypto Godfather Adam Iza Gets 78 Months for Meta Fraud and Deputy Scheme",
+  "Abstract Ethereum Layer 2 to Close on December 15",
+  "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline",
+  "Brevan Howard selects Ripple Prime for brokerage and clearing",
+  "Brevan Howard Taps Ripple Prime for Brokerage and Clearing",
+  "Bill would fine candidates for betting on their own races",
+  "Don Davis Bill Would Fine Federal Candidates for Trading on Their Own Races",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2226,5 +2235,8 @@
   "fp:1763b|activity|ban|chainalysis|china|chines|despit|fold|government|grew43",
   "fp:appoint|bank|barclay|digital|early2027|gilt|hsbc|lead|lloyd|manag",
   "fp:bas|cftc|comment|cryptocurrency|exchang|federal|federally|margin|occur|period",
-  "fp:234m|adam|advertis|deputy|evasion|fraud|gets78|godfather|harass|hir"
+  "fp:234m|adam|advertis|deputy|evasion|fraud|gets78|godfather|harass|hir",
+  "fp:abstract|cit|clos|closur|deadlin|dec15|december|december15|down|fit",
+  "fp:asset|brevan|brokerag|clear|digital|financ|howard|manager|market|multi",
+  "fp:000|bett|bill|candidat|contract|davis|don|election|federal|fin"
 ]

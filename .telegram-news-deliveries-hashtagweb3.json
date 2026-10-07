@@ -933,7 +933,7 @@
     "sentAt": "2026-10-07T11:33:40.571Z"
   },
   "d9bb50be-3379-40f3-b888-b31b79580c8d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-07T19:33:52.830Z",
     "stories": [
       {
@@ -961,6 +961,8 @@
         "originalTitle": "Don Davis Bill Would Fine Federal Candidates for Trading on Their Own Races"
       }
     ],
-    "slotKey": "2026-10-07:evening"
+    "slotKey": "2026-10-07:evening",
+    "messageId": 155674,
+    "sentAt": "2026-10-07T19:33:56.087Z"
   }
 }
