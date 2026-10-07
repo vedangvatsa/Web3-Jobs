@@ -1929,6 +1929,14 @@
     "lastUrl": "https://hashtagweb3.com/mkt48",
     "updatedAt": "2026-09-24T19:33:58.661Z"
   },
+  "8237364": {
+    "slugs": [
+      "sec94"
+    ],
+    "lastSlug": "sec94",
+    "lastUrl": "https://hashtagweb3.com/sec94",
+    "updatedAt": "2026-10-07T11:32:35.773Z"
+  },
   "8238565": {
     "slugs": [
       "ops29"
@@ -7094,5 +7102,37 @@
     "lastSlug": "manager300",
     "lastUrl": "https://hashtagweb3.com/manager300",
     "updatedAt": "2026-10-07T04:07:32.307Z"
+  },
+  "7765814003": {
+    "slugs": [
+      "compliance42"
+    ],
+    "lastSlug": "compliance42",
+    "lastUrl": "https://hashtagweb3.com/compliance42",
+    "updatedAt": "2026-10-07T11:32:35.773Z"
+  },
+  "546c36d8-f568-458e-9e3a-19c5704a6a95": {
+    "slugs": [
+      "engineer12"
+    ],
+    "lastSlug": "engineer12",
+    "lastUrl": "https://hashtagweb3.com/engineer12",
+    "updatedAt": "2026-10-07T11:32:35.773Z"
+  },
+  "b08ec78d-408a-4857-99d9-5a0304544cf7": {
+    "slugs": [
+      "cmp53"
+    ],
+    "lastSlug": "cmp53",
+    "lastUrl": "https://hashtagweb3.com/cmp53",
+    "updatedAt": "2026-10-07T11:32:35.773Z"
+  },
+  "21a591d9-d731-4f2d-935d-841d3a779ec9": {
+    "slugs": [
+      "security4"
+    ],
+    "lastSlug": "security4",
+    "lastUrl": "https://hashtagweb3.com/security4",
+    "updatedAt": "2026-10-07T11:32:35.773Z"
   }
 }
