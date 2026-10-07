@@ -3102,23 +3102,23 @@
       "id": "631b3a02f1f2030f4216",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T20:26:10.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "source-blocked",
-      "note": "Same Aave GHO rate hike as 008d; The Defiant page blocked. Verify and draft together next batch.",
+      "note": "Same GHO hike as 008d; Defiant page blocked.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:56.255Z",
+      "reviewedAt": "2026-10-07T03:43:08.016Z",
       "retrySearches": [
         "Aave GHO borrow rate 4.5 redemption reserves October 2026 governance"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "326675e76ea9e57d0cb9": {
       "source": "The Defiant",
@@ -15650,6 +15650,21 @@
           "reviewedAt": "2026-10-07T03:43:06.095Z",
           "retrySearches": [
             "Plume NBND vault Fidelity FBND tokenized October 2026"
+          ]
+        },
+        "631b3a02f1f2030f4216": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Same GHO hike as 008d; Defiant page blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:08.016Z",
+          "retrySearches": [
+            "Aave GHO borrow rate 4.5 redemption reserves October 2026 governance"
           ]
         }
       },
