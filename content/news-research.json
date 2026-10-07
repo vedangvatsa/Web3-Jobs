@@ -10021,11 +10021,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "7fee08b9e4ba7e19096e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T20:35:24.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "verified-event",
+      "note": "Verified Dec 15 shutdown, Igloo losses, bridge instructions across three outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/pudgy-penguins-owner-is-shutting-down-its-abstract-chain-where-47-million-still-sits/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:42:19.728Z",
+      "articleSlug": "abstract-shutdown",
+      "lastReviewedDay": "2026-10-07"
     },
     "8bf807743ef792545376": {
       "source": "CryptoSlate",
@@ -15414,6 +15433,27 @@
           "reviewedAt": "2026-10-07T03:42:01.479Z",
           "duplicateOf": "tether-freeze",
           "mergedInto": "28f2f6211a7250f01b9f"
+        },
+        "7fee08b9e4ba7e19096e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Dec 15 shutdown, Igloo losses, bridge instructions across three outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/pudgy-penguins-owner-is-shutting-down-its-abstract-chain-where-47-million-still-sits/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:42:19.728Z",
+          "articleSlug": "abstract-shutdown"
         }
       },
       "baselineSlugs": [
