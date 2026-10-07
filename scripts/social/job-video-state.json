@@ -1434,9 +1434,10 @@
           "url": "https://www.youtube.com/watch?v=s__IvoUTZdU"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "DFT Engineer/Leader at Bitdeer. Singapore, SG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-07T11:32:23.643Z"
+          "startedAt": "2026-10-07T11:32:23.643Z",
+          "postId": "6ac62dc93f62a9ae41a28354"
         }
       }
     },
