@@ -1195,5 +1195,51 @@
     "slotKey": "2026-10-07:afternoon",
     "messageId": 155652,
     "sentAt": "2026-10-07T11:32:34.062Z"
+  },
+  "71008970-3de1-4510-bcf5-02380bc160cf": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T19:32:11.869Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-stablecoinsg",
+        "slug": "stablecoin-summit-2026",
+        "name": "Stablecoin Summit Singapore 2026",
+        "startDate": "2026-10-08",
+        "keys": [
+          "premier-stablecoinsg",
+          "page:stablecoin-summit-2026:2026-10-08",
+          "event:stablecoinsummitsingapore2026:2026-10-08:singapore"
+        ]
+      },
+      {
+        "id": "token2049-evt-36Uw5PVpEzK0wCo",
+        "slug": "onchain-breakfast",
+        "name": "Onchain Breakfast, Singapore",
+        "startDate": "2026-10-08T00:00:00.000Z",
+        "keys": [
+          "token2049-evt-36uw5pvpezk0wco",
+          "page:onchain-breakfast:2026-10-08",
+          "luma:evt-36uw5pvpezk0wco",
+          "luma-url:/uulrmjzz",
+          "event:onchainbreakfastsingapore:2026-10-08:singapore"
+        ]
+      },
+      {
+        "id": "w3v-on-chain-horizons-founders-x-funders",
+        "slug": "chain-horizons",
+        "name": "On-Chain Horizons: Founders x Funders",
+        "startDate": "2026-10-08T00:00:00.000Z",
+        "keys": [
+          "w3v-on-chain-horizons-founders-x-funders",
+          "page:chain-horizons:2026-10-08",
+          "luma:evt-meaecqh41wzzlok",
+          "luma-url:/ixmrhvtm",
+          "event:onchainhorizonsfoundersxfunders:2026-10-08:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-07:evening"
   }
 }
