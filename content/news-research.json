@@ -9776,11 +9776,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "2edd9d3c535ecdf11772",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:59:58.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same Conduit vs Tether 2.76M SDNY suit drafted once as tether-freeze.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:41:56.214Z",
+      "duplicateOf": "tether-freeze",
+      "mergedInto": "28f2f6211a7250f01b9f",
+      "lastReviewedDay": "2026-10-07"
     },
     "e2d3ba46f21b880f569a": {
       "source": "Unchained",
@@ -15350,6 +15357,15 @@
           ],
           "reviewedAt": "2026-10-07T03:41:47.587Z",
           "articleSlug": "tether-freeze"
+        },
+        "2edd9d3c535ecdf11772": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Conduit vs Tether 2.76M SDNY suit drafted once as tether-freeze.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:41:56.214Z",
+          "duplicateOf": "tether-freeze",
+          "mergedInto": "28f2f6211a7250f01b9f"
         }
       },
       "baselineSlugs": [
