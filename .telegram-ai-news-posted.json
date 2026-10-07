@@ -689,6 +689,9 @@
   "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
   "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
   "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+  "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+  "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+  "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1850,6 +1853,12 @@
   "The next hurdle for AI agents: getting websites to let them in",
   "Hark releases privacy-focused AI assistant",
   "Hark releases an AI personal assistant with a focus on privacy",
+  "Google launches public tool for identifying AI-generated media",
+  "Google’s new SynthID website can identify AI-generated media",
+  "Healthleap secures $38 million in funding",
+  "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+  "Meta launches Muse AI agent on iPad",
+  "Meta’s Muse launches on iPad just a month after its mobile debut",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2056,5 +2065,8 @@
   "fp:automat|chang|content|decision|filter|how|lightweight|moderation|musubi|open",
   "fp:145b|ahead|are|back|blackston|coatu|comput|fund|investment|ipo",
   "fp:agent|aim|assistant|automat|block|book|bypass|flight|gett|help",
-  "fp:assistant|compet|design|dot|focus|function|hark|instinct|mus|operat"
+  "fp:assistant|compet|design|dot|focus|function|hark|instinct|mus|operat",
+  "fp:allow|audio|can|clip|creat|generat|googl|identify|imag|media",
+  "fp:38m|attention|closer|develop|diagnostic|flag|fund|healthleap|hospital|identify",
+  "fp:agent|arriv|assistant|availability|debut|four|increas|ipad|meta|mobil"
 ]
