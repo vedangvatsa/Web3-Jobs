@@ -10026,11 +10026,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7081e920578e7f62964",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:12:30.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "opinion",
+      "note": "China-supercycle speculation piece; prediction, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:32.213Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "7fe030c38c9a4fc74bae": {
       "source": "The Defiant",
@@ -16881,6 +16886,13 @@
           "note": "AI-alignment commentary pegged to OpenAI probes; op-ed, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:30.391Z"
+        },
+        "d7081e920578e7f62964": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "China-supercycle speculation piece; prediction, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:32.213Z"
         }
       },
       "baselineSlugs": [
