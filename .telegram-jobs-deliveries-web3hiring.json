@@ -1884,5 +1884,49 @@
     "slotKey": "2026-10-07:morning",
     "messageId": 16514,
     "sentAt": "2026-10-07T04:07:14.899Z"
+  },
+  "3a1e7dcb-bdbe-4b7f-bb14-7df61f151616": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T04:07:18.379Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "21a295dd-58df-4bed-aee3-fc8490b3457e",
+        "slug": "trader70",
+        "url": "https://hashtagweb3.com/trader70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinhako",
+        "title": "Crypto Options Trader"
+      },
+      {
+        "key": "6615074003",
+        "slug": "engineer96",
+        "url": "https://hashtagweb3.com/engineer96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Staff Software Engineer"
+      },
+      {
+        "key": "7c55aa7c-90a5-46af-9ce7-134fbf370284",
+        "slug": "sls171",
+        "url": "https://hashtagweb3.com/sls171?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Sales Development Representative"
+      },
+      {
+        "key": "fff1e597-ca3c-48aa-a171-d68c624419da",
+        "slug": "backend111",
+        "url": "https://hashtagweb3.com/backend111?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Helius",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "key": "a3a5b27e-a3b7-4096-ba62-d78a7bd24013",
+        "slug": "engineer970",
+        "url": "https://hashtagweb3.com/engineer970?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Web Platform Lead Engineer"
+      }
+    ],
+    "message": "• Coinhako is hiring <a href=\"https://hashtagweb3.com/trader70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Crypto Options Trader</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/engineer96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Staff Software Engineer</a>\n• Ramp is hiring <a href=\"https://hashtagweb3.com/sls171?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sales Development Representative</a>\n• Helius is hiring <a href=\"https://hashtagweb3.com/backend111?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Polymarket is hiring <a href=\"https://hashtagweb3.com/engineer970?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Web Platform Lead Engineer</a>",
+    "slotKey": "2026-10-07:morning"
   }
 }
