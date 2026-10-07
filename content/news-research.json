@@ -3713,11 +3713,11 @@
       "id": "2981e25a6d7558ccaa5f",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T14:39:30.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "Strategy 20.9B Q3 gain estimate opened in Unchained; Decrypt and Cointelegraph copies open. Full verification plus drafting carries to next batch.",
+      "reason": "missing-primary-source",
+      "note": "Q3 gain plus STRC repurchase corroborated across three outlets; 8-K not yet opened.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/strategy-estimates-a-20-9-billion-q3-bitcoin-gain-reversing-its-second-quarter-loss/",
@@ -3732,12 +3732,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:07.999Z",
+      "reviewedAt": "2026-10-07T03:45:17.002Z",
       "retrySearches": [
-        "Strategy Q3 2026 8-K bitcoin gain STRC repurchase filing"
+        "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "42ec5c76ae42f4ebda3d": {
       "source": "CryptoSlate",
@@ -15935,6 +15935,29 @@
           "reviewedAt": "2026-10-07T03:45:09.704Z",
           "retrySearches": [
             "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
+          ]
+        },
+        "2981e25a6d7558ccaa5f": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Q3 gain plus STRC repurchase corroborated across three outlets; 8-K not yet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/strategy-estimates-a-20-9-billion-q3-bitcoin-gain-reversing-its-second-quarter-loss/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:17.002Z",
+          "retrySearches": [
+            "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
           ]
         }
       },
