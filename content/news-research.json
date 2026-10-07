@@ -9498,11 +9498,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f552e99d3474b953c57",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T20:53:19.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same Winklevoss WINK S-1 filing Oct 6 already covered by zec-etf.md.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:34:07.364Z",
+      "duplicateOf": "zec-etf",
+      "lastReviewedDay": "2026-10-07"
     },
     "5c3e3543ffeb133deebc": {
       "source": "SEC Press Releases",
@@ -15232,6 +15238,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:31:41.749Z",
           "automatic": true
+        },
+        "8f552e99d3474b953c57": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Winklevoss WINK S-1 filing Oct 6 already covered by zec-etf.md.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:34:07.364Z",
+          "duplicateOf": "zec-etf"
         }
       },
       "baselineSlugs": [
