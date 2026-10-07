@@ -4535,23 +4535,23 @@
       "id": "0b668f8eee3f9b807d90",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T19:53:52.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "needs-corroboration",
-      "note": "Modern Treasury trust-bank charter bid opened and confirmed in Cointelegraph; needs a second openable outlet or the OCC filing.",
+      "note": "Cointelegraph read confirms charter bid; needs second outlet or OCC filing.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T01:05:19.519Z",
+      "reviewedAt": "2026-10-07T03:43:19.182Z",
       "retrySearches": [
         "Modern Treasury trust bank charter OCC application October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "ddbe9d14387a975201fa": {
       "source": "The Defiant",
@@ -15699,6 +15699,21 @@
           "reviewedAt": "2026-10-07T03:43:17.313Z",
           "retrySearches": [
             "Umia raises 6.1 million token launch October 2026"
+          ]
+        },
+        "0b668f8eee3f9b807d90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Cointelegraph read confirms charter bid; needs second outlet or OCC filing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:19.182Z",
+          "retrySearches": [
+            "Modern Treasury trust bank charter OCC application October 2026"
           ]
         }
       },
