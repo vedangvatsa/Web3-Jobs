@@ -10383,11 +10383,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "96449ef0f98463f24115",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T02:07:05.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same Abstract shutdown price-angle pickup of the same Dec 15 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:42:32.815Z",
+      "duplicateOf": "abstract-shutdown",
+      "mergedInto": "7fee08b9e4ba7e19096e",
+      "lastReviewedDay": "2026-10-07"
     },
     "e80935cd64f903191b02": {
       "source": "BeInCrypto",
@@ -15516,6 +15523,15 @@
           "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:42:31.024Z",
+          "duplicateOf": "abstract-shutdown",
+          "mergedInto": "7fee08b9e4ba7e19096e"
+        },
+        "96449ef0f98463f24115": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Abstract shutdown price-angle pickup of the same Dec 15 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:42:32.815Z",
           "duplicateOf": "abstract-shutdown",
           "mergedInto": "7fee08b9e4ba7e19096e"
         }
