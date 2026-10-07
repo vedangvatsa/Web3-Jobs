@@ -8200,23 +8200,23 @@
       "id": "5e0ec86b57cca6b89df7",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T15:09:41.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "DeFi Development CHAD preferred buyback visible only in The Block origin which returned HTTP 403; needs company filing or second outlet.",
+      "note": "CHAD preferred buyback seen only in blocked Block origin; needs filing or second outlet.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T17:47:55.140Z",
+      "reviewedAt": "2026-10-07T03:46:14.534Z",
       "retrySearches": [
         "DeFi Development Corp CHAD preferred buyback October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "b0c9f331ca250c99cdd7": {
       "source": "CryptoSlate",
@@ -16199,6 +16199,21 @@
           "reviewedAt": "2026-10-07T03:46:12.693Z",
           "retrySearches": [
             "Fortitude Zcash mining 100 million equipment October 2026"
+          ]
+        },
+        "5e0ec86b57cca6b89df7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CHAD preferred buyback seen only in blocked Block origin; needs filing or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:46:14.534Z",
+          "retrySearches": [
+            "DeFi Development Corp CHAD preferred buyback October 2026 filing"
           ]
         }
       },
