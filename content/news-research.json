@@ -9741,11 +9741,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "753edbe8399a832dc23c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:28:37.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "opinion",
+      "note": "AI-alignment commentary pegged to OpenAI probes; op-ed, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:30.391Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "1367eb14b95c67f35f43": {
       "source": "The Block",
@@ -16869,6 +16874,13 @@
           "retrySearches": [
             "Xverse Draper Associates strategic round bitcoin wallet October 2026"
           ]
+        },
+        "753edbe8399a832dc23c": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "AI-alignment commentary pegged to OpenAI probes; op-ed, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:30.391Z"
         }
       },
       "baselineSlugs": [
