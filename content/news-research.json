@@ -10565,11 +10565,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "bf5478ae4287582986f4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T02:00:00.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "source-blocked",
+      "note": "BTCC trust-center refresh is single-company news; origin blocked, needs independent pickup.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/btcc-exchange-refreshed-trust-center/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:49:18.082Z",
+      "retrySearches": [
+        "BTCC trust center refresh October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "8e7d6c5c95c8af45ac1f": {
       "source": "CryptoSlate",
@@ -16766,6 +16780,21 @@
           "reviewedAt": "2026-10-07T03:49:16.177Z",
           "retrySearches": [
             "Ethereum validator count 863000 staked ETH October 2026"
+          ]
+        },
+        "bf5478ae4287582986f4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BTCC trust-center refresh is single-company news; origin blocked, needs independent pickup.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/btcc-exchange-refreshed-trust-center/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:49:18.082Z",
+          "retrySearches": [
+            "BTCC trust center refresh October 2026"
           ]
         }
       },
