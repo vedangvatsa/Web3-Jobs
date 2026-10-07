@@ -1508,10 +1508,11 @@
           "url": "https://www.youtube.com/watch?v=5_K5qBSDhVQ"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Senior Data Engineer at Nexo. Bulgaria.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-07T19:32:53.289Z",
-          "postId": "6ac69e6766aa35478820a712"
+          "postId": "6ac69e6766aa35478820a712",
+          "url": "https://tiktok.com/@hashtagweb3/video/7694011239961234720"
         }
       }
     },
