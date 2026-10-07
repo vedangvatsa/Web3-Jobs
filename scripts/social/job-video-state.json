@@ -80,6 +80,10 @@
     "2026-10-07:afternoon": [
       "engineer850",
       "senior45"
+    ],
+    "2026-10-07:evening": [
+      "engineer816",
+      "sls137"
     ]
   },
   "jobs": {
@@ -1476,6 +1480,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7693888205577391392"
         }
       }
+    },
+    "engineer816": {
+      "slot": "2026-10-07:evening",
+      "selectedAt": "2026-10-07T19:31:54.688Z",
+      "verifiedAt": "2026-10-07T19:31:54.688Z",
+      "captions": {
+        "instagram": "Senior Data Engineer at Nexo\n\nBulgaria\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
+        "tiktok": "Senior Data Engineer at Nexo. Bulgaria.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Bulgaria\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Senior Data Engineer at Nexo"
+      },
+      "receipts": {}
+    },
+    "sls137": {
+      "slot": "2026-10-07:evening",
+      "selectedAt": "2026-10-07T19:31:54.688Z",
+      "verifiedAt": "2026-10-07T19:31:54.688Z",
+      "captions": {
+        "instagram": "Account Executive, Velocity SMB Hunter at Stripe\n\nDublin\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #SalesJobs #Hiring",
+        "tiktok": "Account Executive, Velocity SMB Hunter at Stripe. Dublin.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Dublin\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Account Executive, Velocity SMB Hunter at Stripe"
+      },
+      "receipts": {}
     }
   }
 }
