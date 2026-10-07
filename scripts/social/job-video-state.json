@@ -1501,9 +1501,10 @@
           "url": "https://www.instagram.com/reel/DeNHe_uEyzf/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "Bulgaria\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-07T19:32:45.468Z"
+          "startedAt": "2026-10-07T19:32:45.468Z",
+          "postId": "6ac69e5fb7850fff3cb80ae2"
         }
       }
     },
