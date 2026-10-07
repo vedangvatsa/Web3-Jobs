@@ -837,6 +837,14 @@
     "lastUrl": "https://hashtagweb3.com/fullstack17",
     "updatedAt": "2026-09-15T19:45:20.085Z"
   },
+  "8143537": {
+    "slugs": [
+      "cs4"
+    ],
+    "lastSlug": "cs4",
+    "lastUrl": "https://hashtagweb3.com/cs4",
+    "updatedAt": "2026-10-07T19:32:09.973Z"
+  },
   "8144772": {
     "slugs": [
       "architect53"
@@ -4273,5 +4281,37 @@
     "lastSlug": "analyst68",
     "lastUrl": "https://hashtagweb3.com/analyst68",
     "updatedAt": "2026-10-07T11:32:27.936Z"
+  },
+  "8432f456-a0b4-4417-bd1f-4593c0f58f8f": {
+    "slugs": [
+      "manager448"
+    ],
+    "lastSlug": "manager448",
+    "lastUrl": "https://hashtagweb3.com/manager448",
+    "updatedAt": "2026-10-07T19:32:09.973Z"
+  },
+  "6db53b36-8b12-4174-b679-e735f26091ae": {
+    "slugs": [
+      "sales217"
+    ],
+    "lastSlug": "sales217",
+    "lastUrl": "https://hashtagweb3.com/sales217",
+    "updatedAt": "2026-10-07T19:32:09.973Z"
+  },
+  "2fdef238-6fb9-44fc-9ed9-a74381e89e19": {
+    "slugs": [
+      "sales422"
+    ],
+    "lastSlug": "sales422",
+    "lastUrl": "https://hashtagweb3.com/sales422",
+    "updatedAt": "2026-10-07T19:32:09.973Z"
+  },
+  "8bd71e0a-0bb1-4b30-baa0-fa7a814b224a": {
+    "slugs": [
+      "product163"
+    ],
+    "lastSlug": "product163",
+    "lastUrl": "https://hashtagweb3.com/product163",
+    "updatedAt": "2026-10-07T19:32:09.973Z"
   }
 }
