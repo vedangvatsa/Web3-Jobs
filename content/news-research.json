@@ -9575,11 +9575,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5c3e3543ffeb133deebc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T20:30:24.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "needs-corroboration",
+      "note": "SEC release is primary but returned 403 to fetches; needs openable copy or independent outlet on Leech motion.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:47:18.547Z",
+      "retrySearches": [
+        "SEC Ken Leech cherry picking final judgment October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "63e6bcc5958cd253a0d4": {
       "source": "The Defiant",
@@ -16342,6 +16356,21 @@
           "reviewedAt": "2026-10-07T03:47:07.735Z",
           "retrySearches": [
             "Coinbase Pro return Deribit integration global exchange October 2026"
+          ]
+        },
+        "5c3e3543ffeb133deebc": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "SEC release is primary but returned 403 to fetches; needs openable copy or independent outlet on Leech motion.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:47:18.547Z",
+          "retrySearches": [
+            "SEC Ken Leech cherry picking final judgment October 2026"
           ]
         }
       },
