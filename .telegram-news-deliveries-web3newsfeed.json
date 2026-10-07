@@ -898,5 +898,36 @@
     "slotKey": "2026-10-06:evening",
     "messageId": 65734,
     "sentAt": "2026-10-06T19:36:04.196Z"
+  },
+  "e31ed389-42ee-4da9-9161-59dcb8a44a3f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T04:08:11.759Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Conduit sues Tether over frozen $2.76 million USDT",
+        "summary": "The technology firm filed a lawsuit claiming Brazilian police never flagged its wallet before Tether blocked the funds.",
+        "link": "https://hashtagweb3.com/tether-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Conduit sues Tether over $2.76M USDT freeze tied to Brazil probe"
+      },
+      {
+        "index": -1,
+        "headline": "UK Treasury selects six banks for digital gilt pilot",
+        "summary": "Barclays, HSBC, and four other banks will manage the project scheduled for completion by early 2027.",
+        "link": "https://hashtagweb3.com/gilt-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK names six banks to lead first digital gilt pilot"
+      },
+      {
+        "index": -1,
+        "headline": "Arbitrum Integrates Paxos USDG Stablecoin",
+        "summary": "The USDG stablecoin launched on Arbitrum One alongside a proposal for 100 million ARB in user incentives.",
+        "link": "https://hashtagweb3.com/arbitrum-usdg?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Arbitrum Joins Paxos Global Dollar Network With USDG"
+      }
+    ],
+    "slotKey": "2026-10-07:morning"
   }
 }
