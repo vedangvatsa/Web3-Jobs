@@ -1388,10 +1388,11 @@
           "url": "https://www.instagram.com/reel/DeLZ40EACbv/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "London\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-07T03:35:04.516Z",
-          "postId": "6ac5bdea203d24e39e0a4bec"
+          "postId": "6ac5bdea203d24e39e0a4bec",
+          "url": "https://www.youtube.com/watch?v=gvFja19S3O8"
         }
       }
     }
