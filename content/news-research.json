@@ -9881,11 +9881,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "e2d3ba46f21b880f569a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:57:55.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "needs-corroboration",
+      "note": "Unchained read confirms open-source settlement code offer; needs second outlet or foundation post.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/solana-foundation-offers-banks-open-source-code-to-settle-tokenized-trades-in-one-step/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:48:47.668Z",
+      "retrySearches": [
+        "Solana Foundation bank settlement open source code October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "f14768f9c1b71016227a": {
       "source": "Decrypt",
@@ -16505,6 +16519,21 @@
           "reviewedAt": "2026-10-07T03:48:45.821Z",
           "retrySearches": [
             "Kalshi US 500 perpetual launch trading October 2026 CFTC"
+          ]
+        },
+        "e2d3ba46f21b880f569a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Unchained read confirms open-source settlement code offer; needs second outlet or foundation post.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/solana-foundation-offers-banks-open-source-code-to-settle-tokenized-trades-in-one-step/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:48:47.668Z",
+          "retrySearches": [
+            "Solana Foundation bank settlement open source code October 2026"
           ]
         }
       },
