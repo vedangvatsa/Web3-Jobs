@@ -689,6 +689,9 @@
   "https://hashtagweb3.com/tether-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/arbitrum-usdg?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/china-p2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/gilt-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftc-leverage?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/godfather-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1975,6 +1978,12 @@
   "Arbitrum Joins Paxos Global Dollar Network With USDG",
   "China P2P Stablecoin Use Increased Despite Government Ban",
   "China P2P Stablecoin Wallets Grew 43 Fold Despite Ban",
+  "UK names six banks for digital gilt pilot",
+  "UK names six banks to lead first digital gilt pilot",
+  "CFTC Proposes Rules for Crypto Margin Trading",
+  "CFTC Proposes Federal Exchange Rules Triggered by Crypto Margin Trading",
+  "Adam Iza Sentenced to Prison for Meta Fraud",
+  "Crypto Godfather Adam Iza Gets 78 Months for Meta Fraud and Deputy Scheme",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2214,5 +2223,8 @@
   "fp:against|amc|argu|block|cannot|ceo|defend|despit|disput|issuer",
   "fp:276m|allegedly|brazil|brazilian|conduit|fil|freez|froz|frozen|fund",
   "fp:100m|alongsid|arb|arbitrum|dollar|global|incentiv|integrat|join|network",
-  "fp:1763b|activity|ban|chainalysis|china|chines|despit|fold|government|grew43"
+  "fp:1763b|activity|ban|chainalysis|china|chines|despit|fold|government|grew43",
+  "fp:appoint|bank|barclay|digital|early2027|gilt|hsbc|lead|lloyd|manag",
+  "fp:bas|cftc|comment|cryptocurrency|exchang|federal|federally|margin|occur|period",
+  "fp:234m|adam|advertis|deputy|evasion|fraud|gets78|godfather|harass|hir"
 ]
