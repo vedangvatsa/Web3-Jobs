@@ -11119,11 +11119,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7de78afd1b8f17875c74",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T17:30:18.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "promotional",
+      "note": "Vendor survey marketing write-up; single-source promo without event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:36.454Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "1382d3b099f762c94082": {
       "source": "Decrypt",
@@ -17133,6 +17138,13 @@
           "note": "Spain real-estate polemic with bitcoin framing; commentary, no event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:34.698Z"
+        },
+        "7de78afd1b8f17875c74": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Vendor survey marketing write-up; single-source promo without event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:36.454Z"
         }
       },
       "baselineSlugs": [
