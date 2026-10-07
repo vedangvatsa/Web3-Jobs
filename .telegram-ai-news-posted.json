@@ -683,6 +683,9 @@
   "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
   "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
   "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+  "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+  "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+  "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1832,6 +1835,12 @@
   "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
   "Weight-loss drugs may reduce biological aging markers",
   "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+  "Former Ramp engineers raise $20 million for Melius",
+  "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+  "OpenAI to add watermarks to ChatGPT in the EU",
+  "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+  "Musubi releases open-weight AI model for content moderation",
+  "How AI decision models could change content moderation",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2032,5 +2041,8 @@
   "fp:battery|boat|density|develop|dron|electric|energy|higher|ion|lithium",
   "fp:aim|american|chines|clos|compet|design|french|large4|leapfrog|mistral",
   "fp:000|automat|becom|conduct|corporation|deploy|for500|glimps|hackerrank|interview",
-  "fp:appear|biological|cellular|drug|drugmaker|eli|lilly|loss|marker|may"
+  "fp:appear|biological|cellular|drug|drugmaker|eli|lilly|loss|marker|may",
+  "fp:20m|asset|campaign|creat|develop|engineer|focus|former|management|market",
+  "fp:add|are|consistently|content|default|digital|easy|generat|identify|marker",
+  "fp:automat|chang|content|decision|filter|how|lightweight|moderation|musubi|open"
 ]
