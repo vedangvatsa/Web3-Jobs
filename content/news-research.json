@@ -3468,11 +3468,11 @@
       "id": "0b0d10208ecb3f50cbc4",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T17:30:29.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "needs-corroboration",
-      "note": "Strategy 334 BTC buy opened in CryptoSlate; The Block second outlet blocked this round. Full verification plus drafting carries to next batch.",
+      "note": "CryptoSlate read confirms 334 BTC buy and 1.45B buybacks; Block copy blocked.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
@@ -3483,12 +3483,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:04.276Z",
+      "reviewedAt": "2026-10-07T03:45:27.948Z",
       "retrySearches": [
         "Strategy 334 bitcoin STRC buyback October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "cfc9f386bb32f544ad69": {
       "source": "Cointelegraph",
@@ -15988,6 +15988,25 @@
           "reviewedAt": "2026-10-07T03:45:20.800Z",
           "retrySearches": [
             "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
+          ]
+        },
+        "0b0d10208ecb3f50cbc4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CryptoSlate read confirms 334 BTC buy and 1.45B buybacks; Block copy blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:27.948Z",
+          "retrySearches": [
+            "Strategy 334 bitcoin STRC buyback October 2026 filing"
           ]
         }
       },
