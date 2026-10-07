@@ -10786,11 +10786,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "94b7b6fed45cb639c46a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:00:19.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "TikTok scrape data story; non-crypto tech news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:11.321Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "abfda675cf9bb2ba7634": {
       "source": "The Defiant",
@@ -17037,6 +17042,13 @@
           "note": "Google image-model launch; non-crypto tech news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:09.287Z"
+        },
+        "94b7b6fed45cb639c46a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "TikTok scrape data story; non-crypto tech news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:11.321Z"
         }
       },
       "baselineSlugs": [
