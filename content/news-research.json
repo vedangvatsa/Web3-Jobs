@@ -10015,11 +10015,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "05608c82f2942109d4dc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:28:54.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Video interview on housing vs bitcoin, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:43.414Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "d7081e920578e7f62964": {
       "source": "BeInCrypto",
@@ -16917,6 +16922,13 @@
           "note": "Podcast video interview, not a news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:41.540Z"
+        },
+        "05608c82f2942109d4dc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Video interview on housing vs bitcoin, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:43.414Z"
         }
       },
       "baselineSlugs": [
