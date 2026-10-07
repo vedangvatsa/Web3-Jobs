@@ -2,7 +2,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
 import { getNomadCities, getNomadSummaries, getPassportCountries } from '../src/lib/nomads/server';
-import type { EntryRule, PassportRules } from '../src/lib/nomads/types';
+import { compilePassportRules } from './lib/passport-policies';
+import policies from '../content/nomads/entry-policies.json';
+import { validatePassportIndexSnapshot, type PassportIndexSnapshot } from './lib/passport-index';
 
 const output = path.resolve('public/data/nomads');
 function write(relative: string, value: unknown) { const filename = path.join(output, relative); fs.mkdirSync(path.dirname(filename), { recursive: true }); fs.writeFileSync(filename, JSON.stringify(value)); }
@@ -10,16 +12,11 @@ write('cities.json', getNomadSummaries());
 for (const city of getNomadCities()) write(`cities/${city.slug}.json`, city);
 write('places.json', JSON.parse(fs.readFileSync('content/nomads/places.json', 'utf8')));
 const countries = getPassportCountries();
-const countryByName = new Map(countries.map(country => [country.name, country]));
-const rules = JSON.parse(fs.readFileSync('content/nomads/passport-rules.json', 'utf8')) as Record<string, Record<string, EntryRule>>;
-write('passports.json', countries.filter(country => rules[country.name]));
-for (const [passport, destinations] of Object.entries(rules)) {
-  const country = countryByName.get(passport);
-  if (!country) throw new Error(`Missing passport country: ${passport}`);
-  const data: PassportRules = { passport, destinations: Object.entries(destinations).map(([name, rule]) => ({ name, iso: countryByName.get(name)?.iso || null, rule })) };
-  write(`passports/${country.id}.json`, data);
-}
-console.log(`Nomad catalogs: ${getNomadCities().length} city details, ${Object.keys(rules).length} passport shards, compact places.`);
+const reference = JSON.parse(fs.readFileSync('content/nomads/passport-index.json', 'utf8')) as PassportIndexSnapshot;
+validatePassportIndexSnapshot(reference, countries.map(country => country.iso!));
+write('passports.json', countries);
+for (const country of countries) write(`passports/${country.id}.json`, compilePassportRules(country, countries, policies, undefined, reference));
+console.log(`Nomad catalogs: ${getNomadCities().length} city details, ${countries.length} source-backed passport shards, compact places.`);
 
 async function cityThumbnails() {
   let written = 0;

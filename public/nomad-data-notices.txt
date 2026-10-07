@@ -22,8 +22,21 @@ The directory is an imported snapshot. Map tiles are provided by CARTO, using
 OpenStreetMap contributor data: https://carto.com/attributions
 
 Passport entry references
-Source: https://github.com/ilyankou/passport-index-dataset
-The source project's data is redistributed in per-passport JSON files.
+The original imported matrix is retained for audit, with its MIT attribution:
+https://github.com/ilyankou/passport-index-dataset
+That upstream repository is archived and is not a current verification source.
+
+The public version-3 passport files combine reviewed government policies with
+attributed Passport Index dashboard snapshots (https://www.passportindex.org/).
+Government rules take precedence. Source metadata distinguishes government
+checks from reference retrievals; each includes its date and source URL.
+Passport Index references are not described as government-verified. Live-page
+facts are separately attributed; the MIT notice below covers the archived dataset.
+The snapshot covers all 199 passports and 198 foreign destinations each.
+Independent government verification is partial. Unresolved rules are marked unknown and have
+no asserted stay allowance. Zero days means unspecified, not unlimited stay.
+Temporary exemptions include their expiry and require rechecking afterwards.
+Official references are linked in each passport file's sources object.
 
 MIT License
 

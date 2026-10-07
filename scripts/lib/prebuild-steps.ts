@@ -37,7 +37,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'nomad-catalogs',
-    inputs: ['content/nomads', 'public/images/nomads', 'scripts/precompute-nomads.ts', 'src/lib/nomads/types.ts'],
+    inputs: ['content/nomads', 'public/images/nomads', 'scripts/precompute-nomads.ts', 'scripts/lib/passport-policies.ts', 'scripts/lib/passport-index.ts', 'src/lib/nomads/types.ts', 'src/lib/nomads/entry-rules.ts'],
     outputs: [
       'public/data/nomads/cities.json', 'public/data/nomads/places.json', 'public/data/nomads/passports.json',
       ...nomadCities.map(city => `public/data/nomads/cities/${city.slug}.json`),

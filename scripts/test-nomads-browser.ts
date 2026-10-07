@@ -10,6 +10,7 @@ import { load } from 'cheerio';
 import { getNomadCities, getNomadCity, getNomadPlaces, getNomadVisas } from '../src/lib/nomads/server';
 import { nomadRoutes, nomadOgImage } from '../src/lib/nomads/metadata';
 import { NOMAD_TOOLS, NOMAD_TOOL_PATHS, NOMAD_LEGACY_ROUTES, legacyNomadToolDestination } from '../src/lib/nomads/routes';
+import type { PassportRules } from '../src/lib/nomads/types';
 
 const origin = 'http://127.0.0.1:3184';
 const humanHeaders = { 'User-Agent': 'Mozilla/5.0', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Dest': 'document' };
@@ -146,7 +147,10 @@ async function main() {
     await expect(page.getByRole('button', { name: 'Show more cities' })).toHaveCount(0);
     const cards = page.locator('[data-nomad-city]');
     const photo = await cards.first().locator('img').boundingBox();
-    assert.ok(photo && photo.width > 300 && photo.height > 180, 'City cards should have full-width photos');
+    const cardBox = await cards.first().boundingBox();
+    assert.ok(photo && cardBox && Math.abs(photo.width - cardBox.width) <= 2 && photo.height >= 128 && photo.height <= 144, 'City photos should remain full width at compact listing height');
+    assert.ok(cardBox.height <= 300, 'City cards should use compact listing spacing');
+    assert.equal(await cards.first().locator('h2').evaluate(element => getComputedStyle(element).fontSize), '16px');
     let shown = await cards.count();
     while (shown < getNomadCities().length) {
       await page.locator('[data-city-sentinel]').scrollIntoViewIfNeeded();
@@ -158,7 +162,9 @@ async function main() {
     await expect(page.locator('[data-city-sentinel]')).toHaveCount(0);
     await search.fill('Lisbon'); await expect(cards).toHaveCount(1);
     await page.getByRole('button', { name: 'Clear filters', exact: true }).click();
-    await expect(cards).toHaveCount(12);
+    await expect.poll(() => cards.count()).toBeGreaterThanOrEqual(12);
+    assert.ok(await cards.count() < getNomadCities().length, 'Filter reset must not retain the fully loaded catalog');
+    assert.equal((await cards.count()) % 12, 0, 'Compact cards may prefetch another batch, but batches remain 12 cities');
     await expect.poll(async () => Number(await map.getAttribute('data-zoom'))).toBe(2);
     assert.equal(requests.some(url => /passport|\/cities\/lisbon.json/.test(url)), false);
     await stableDropdown(page.getByRole('combobox', { name: 'Filter destinations by region' }));
@@ -232,7 +238,9 @@ async function main() {
     const emptyReset = page.getByRole('status').filter({ hasText: 'No matches for these filters.' }).getByRole('button', { name: 'Clear filters', exact: true });
     const resetBox = await emptyReset.boundingBox(); assert.ok(resetBox && resetBox.height >= 44);
     await emptyReset.click();
-    await expect(page.locator('[data-nomad-city]')).toHaveCount(12);
+    await expect.poll(() => cards.count()).toBeGreaterThanOrEqual(12);
+    assert.ok(await cards.count() < getNomadCities().length);
+    assert.equal((await cards.count()) % 12, 0);
     await go('/places?city=lisbon&type=coworking');
     await expect(search).toHaveValue('Lisbon'); await mapReady();
     for (const type of ['coliving', 'hostel', 'apartment', 'guesthouse']) await expect(page.locator(`[data-place-category="${type}"]`)).toHaveAttribute('aria-pressed', 'false');
@@ -258,14 +266,73 @@ async function main() {
     await page.keyboard.press('ArrowLeft'); await expect(page.getByRole('searchbox', { name: 'Search visa programs' })).toHaveValue('Portugal');
     await checkerTab.click(); await stableDropdown(page.getByRole('combobox', { name: 'Your passport', exact: true }));
     let failPassport = true;
-    await page.route('**/data/nomads/passports/india.json', route => failPassport ? (failPassport = false, route.fulfill({ status: 503, body: 'Unavailable' })) : route.continue());
+    await page.route('**/data/nomads/passports/india.json*', route => failPassport ? (failPassport = false, route.fulfill({ status: 503, body: 'Unavailable' })) : route.continue());
     await select('Your passport', 'india'); await expect(page.locator('main').getByRole('alert')).toContainText('could not be loaded');
     await page.getByRole('button', { name: 'Try again', exact: true }).click(); await expect(page.getByRole('table')).toBeVisible();
+    await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Malaysia');
+    const entryRow = page.locator('main tbody tr');
+    await expect(entryRow).toHaveCount(1);
+    await expect(entryRow).not.toContainText('90 days');
+    if (new Date().toISOString().slice(0, 10) <= '2026-12-31') {
+      await expect(entryRow).toContainText('Up to 30 days');
+      await entryRow.locator('summary').click();
+      await expect(entryRow).toContainText('MDAC'); await expect(entryRow).toContainText('2026-12-31');
+      await expect(entryRow.locator('a').first()).toHaveAttribute('href', 'https://www.hcikl.gov.in/pdf/img-20260922-wa0000.pdf');
+    } else {
+      await expect(entryRow).toContainText('Not yet verified'); await expect(entryRow).not.toContainText('Up to 30 days');
+    }
+    await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Hong Kong');
+    await expect(entryRow).toContainText('Up to 14 days'); await expect(entryRow).toContainText('Electronic authorization / registration');
+    await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Singapore');
+    await expect(entryRow).toContainText('Visa required'); await expect(entryRow).not.toContainText('Up to 30 days');
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Japan'); await expect(page.locator('main tbody tr')).toHaveCount(1);
+    await expect(entryRow).toContainText('Visa required');
+    await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Nepal');
+    await expect(entryRow).toHaveCount(1); await expect(entryRow).toContainText('Not specified by source');
+    await expect(entryRow).not.toContainText('90 days');
+    await entryRow.locator('summary').click();
+    await expect(entryRow).toContainText('Retrieved');
+    await expect(entryRow.locator('a')).toHaveAttribute('href', 'https://www.passportindex.org/passport/india/');
+    await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Armenia');
+    await expect(entryRow).toContainText('eVisa'); await expect(entryRow).toContainText('Up to 120 days');
+    await expect(entryRow).not.toContainText('Visa on arrival');
+    await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Cambodia');
+    await select('Entry category', 'ev'); await expect(entryRow).toHaveCount(1);
+    await expect(entryRow).toContainText('eVisa · visa on arrival');
+    await select('Entry category', 'voa'); await expect(entryRow).toHaveCount(1);
+    await select('Entry category', '');
+    await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Australia');
+    await expect(entryRow).toContainText('eVisa'); await expect(entryRow).toContainText('Not specified by source');
+    const passportReference = await (await fetch(`${origin}/data/nomads/passports/india.json`)).json() as PassportRules;
+    assert.equal(passportReference.version, 3);
+    assert.equal(passportReference.destinations.length, 198);
+    assert.equal(passportReference.destinations.filter(destination => destination.rule.t === 'unknown').length, new Date().toISOString().slice(0, 10) <= '2026-12-31' ? 0 : 1);
+    const unverified = passportReference.destinations.find(destination => destination.rule.t === 'unknown');
+    if (unverified) {
+      await page.getByRole('searchbox', { name: 'Search destinations' }).fill(unverified.name);
+      await expect(entryRow.filter({ hasText: unverified.name }).first()).toContainText('Not yet verified');
+    }
     await expect(page.locator('#passport-map svg')).toBeVisible();
     const mapBox = await page.locator('#passport-map').boundingBox(), svgBox = await page.locator('#passport-map svg').boundingBox();
     assert.ok(mapBox && svgBox && Math.abs(mapBox.x + mapBox.width / 2 - svgBox.x - svgBox.width / 2) < 2);
     assert.equal(requests.some(url => /visa-requirements.json|passport-rules.json/.test(url)), false);
+
+    for (const [passport, destination, label, stay] of [
+      ['united-states', 'Brazil', 'eVisa', 'Not specified by source'],
+      ['germany', 'Australia', 'eVisitors', 'Up to 90 days'],
+      ['china', 'Cambodia', 'eVisa · free visa on arrival', ''],
+      ['united-arab-emirates', 'Liberia', 'eVisa on arrival', ''],
+    ]) {
+      await go(`/visas?tab=checker&passport=${passport}`);
+      await page.getByRole('searchbox', { name: 'Search destinations' }).fill(destination);
+      await expect(page.locator('main tbody tr')).toHaveCount(1);
+      await expect(page.locator('main tbody tr')).toContainText(label);
+      if (stay) await expect(page.locator('main tbody tr')).toContainText(stay);
+      await page.locator('main tbody tr summary').click();
+      await expect(page.locator('main tbody tr')).toContainText('Retrieved');
+      const sourceSlug = passport === 'united-states' ? 'united-states-of-america' : passport;
+      await expect(page.locator('main tbody tr a')).toHaveAttribute('href', `https://www.passportindex.org/passport/${sourceSlug}/`);
+    }
 
     for (const width of [320, 390, 768, 1024, 1440]) {
       await page.setViewportSize({ width, height: 1000 });

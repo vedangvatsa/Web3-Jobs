@@ -1,6 +1,6 @@
 'use client';
 
-import { Card, CardHeader, CardTitle } from '@/components/ui/card';
+import { ListingCard, ListingCardHeader, ListingCardTitle } from '@/components/listing-card';
 import { DatePill } from '@/components/date-pill';
 import { trackNewsClick } from '@/lib/posthog';
 import { getEventDatePill } from '@/lib/events';
@@ -19,17 +19,17 @@ export function NewsCard({ item }: { item: NewsItem }) {
       onClick={() => trackNewsClick(item.title, item.link, item.source)}
       className="group block h-full"
     >
-      <Card className="flex h-full flex-col border-border/70 bg-card shadow-none transition-colors hover:border-foreground/25">
-        <CardHeader className="px-4 pb-3 pt-4">
+      <ListingCard>
+        <ListingCardHeader>
           <div className="flex items-center gap-3">
             <DatePill month={datePill.month} day={datePill.day} />
             <div className="min-w-0">
-              <CardTitle
-                className="line-clamp-2 text-base font-semibold leading-snug transition-colors group-hover:text-primary"
+              <ListingCardTitle
+                className="transition-colors group-hover:text-primary"
                 title={item.title}
               >
                 {item.title}
-              </CardTitle>
+              </ListingCardTitle>
               {showSource && (
                 <p className="mt-0.5 truncate text-xs text-muted-foreground" title={item.source}>
                   {item.source}
@@ -37,8 +37,8 @@ export function NewsCard({ item }: { item: NewsItem }) {
               )}
             </div>
           </div>
-        </CardHeader>
-      </Card>
+        </ListingCardHeader>
+      </ListingCard>
     </a>
   );
 }

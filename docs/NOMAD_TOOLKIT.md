@@ -18,6 +18,18 @@ links also resolve directly to `/visas`; the checker link retains `tab=checker`.
 The retired long root stays reserved and its published preview/image URLs remain
 available. Canonicals, navigation and sitemaps use `/visas`.
 
+Passport files now use schema version 3 with reviewed government policies from
+`content/nomads/entry-policies.json` and attributed live-page snapshots from
+`content/nomads/passport-index.json`. Government rules take precedence, including
+temporary-waiver expiry. Source metadata distinguishes government checks from
+Passport Index retrievals. Missing durations stay unspecified; multiple entry
+options remain searchable. Routes without either source are explicitly unknown.
+All 199 live Passport Index dashboards are imported, covering 39,402 routes.
+Government checks support 6,668 routes; the other 32,734 are attributed references.
+Independent government verification remains incomplete; see
+[the passport audit](PASSPORT_DATA_AUDIT.md) for coverage and remaining work.
+The archived imported matrix is retained for audit.
+
 Rank by overall score, living costs, internet, safety, walkability, temperature,
 rainfall or humidity. Weather ranks reveal month/range controls. Unknown values
 sort last in both directions. Search and ranking share the same city results.

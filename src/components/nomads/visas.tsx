@@ -10,7 +10,7 @@ import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Tabs, TabsContent } from '@/components/ui/tabs';
 import { cn } from '@/lib/utils';
-import { ENTRY_RULES, validPassportRules } from '@/lib/nomads/entry-rules';
+import { ENTRY_RULES, effectiveEntryRule, entryRuleLabel, matchesEntryCategory, validPassportRules } from '@/lib/nomads/entry-rules';
 import { safeExternalUrl, type PassportCountry, type PassportRules, type VisaProgramListing } from '@/lib/nomads/types';
 import { useNomadData, useNomadQuery } from './hooks';
 import { buttonStyle, EmptyResults, FilterSelect, inputStyle, NomadPanel, TableFrame, tableStyle } from './ui';
@@ -43,18 +43,26 @@ function PassportChecker({ countries }: { countries: PassportCountry[] }) {
   const { params, update } = useNomadQuery();
   const selected = countries.find(country => country.id === params.get('passport'));
   const query = params.get('destination') || '', filter = params.get('entry') || '';
-  const { data, error, loading, retry } = useNomadData<PassportRules>(selected ? `/data/nomads/passports/${selected.id}.json` : null, validPassportRules);
+  const { data, error, loading, retry } = useNomadData<PassportRules>(selected ? `/data/nomads/passports/${selected.id}.json?v=3` : null, validPassportRules);
   const rules = data?.passport === selected?.name ? data : null;
-  const destinations = rules?.destinations.filter(item => item.name !== selected?.name) || [];
-  const filtered = destinations.filter(item => (!query || item.name.toLowerCase().includes(query.trim().toLowerCase())) && (!filter || item.rule.t === filter)).sort((a, b) => a.name.localeCompare(b.name));
+  const destinations = rules?.destinations.filter(item => item.name !== selected?.name).map(item => ({ ...item, rule: effectiveEntryRule(item.rule, rules.sources) })) || [];
+  const filtered = destinations.filter(item => (!query || item.name.toLowerCase().includes(query.trim().toLowerCase())) && (!filter || matchesEntryCategory(item.rule, filter))).sort((a, b) => a.name.localeCompare(b.name));
+  const officialCount = destinations.filter(item => item.rule.t !== 'unknown' && item.rule.s && rules?.sources[item.rule.s]?.kind === 'government').length;
+  const referenceCount = destinations.filter(item => item.rule.t !== 'unknown' && item.rule.s && rules?.sources[item.rule.s]?.kind === 'reference').length;
   return <>
     {!selected && <p className="py-6 text-sm text-muted-foreground">Choose a passport to see entry requirements.</p>}
     {loading && <p role="status" className="py-12 text-center">Loading entry references for {selected?.name}…</p>}
     {(error || (data && !rules)) && <NomadPanel role="alert"><p>Entry references could not be loaded.</p><button className={cn(buttonStyle, 'mt-4')} onClick={retry}>Try again</button></NomadPanel>}
     {rules && <>
-      <div id="passport-map" className="mb-6"><PassportMap key={rules.passport} rules={rules} home={selected?.iso || null} /></div>
-      <p className="mb-4 text-sm text-muted-foreground" aria-live="polite">{filtered.length} destinations<span className="sr-only"> for {rules.passport} passport holders</span></p>
-      {filtered.length ? <TableFrame label="Passport entry references"><table className={tableStyle}><caption className="sr-only">Visitor entry for {rules.passport} passport holders</caption><thead><tr><th scope="col">Destination</th><th scope="col">Visitor entry</th><th scope="col">Stay reference</th></tr></thead><tbody>{filtered.map(item => <tr key={item.name}><th scope="row" className="!bg-transparent !text-sm !text-foreground"><CountryIdentity name={item.name} code={item.iso} /></th><td>{ENTRY_RULES[item.rule.t].label}</td><td>{item.rule.d > 0 ? `${item.rule.d} days` : 'Not specified'}</td></tr>)}</tbody></table></TableFrame> : <EmptyResults onReset={() => update({ destination: null, entry: null })}>No destinations match these filters.</EmptyResults>}
+      <div id="passport-map" className="mb-6"><PassportMap key={rules.passport} rules={{ ...rules, destinations }} home={selected?.iso || null} /></div>
+      <p className="mb-2 text-sm text-muted-foreground">{rules.scope}</p>
+      <p className="mb-4 text-sm text-muted-foreground" aria-live="polite">Showing {filtered.length} of {destinations.length} destinations · {officialCount} from government sources{referenceCount > 0 && ` · ${referenceCount} Passport Index references`}{destinations.length > officialCount + referenceCount && ` · ${destinations.length - officialCount - referenceCount} not yet verified`}<span className="sr-only"> for {rules.passport} passport holders</span></p>
+      {filtered.length ? <TableFrame label="Passport entry references"><table className={tableStyle}><caption className="sr-only">Visitor entry for {rules.passport} passport holders</caption><thead><tr><th scope="col">Destination</th><th scope="col">Visitor entry and conditions</th><th scope="col">Stay reference</th></tr></thead><tbody>{filtered.map(item => {
+        const source = item.rule.s ? rules.sources[item.rule.s] : undefined;
+        const isReference = source?.kind === 'reference';
+        const stay = item.rule.t === 'unknown' ? 'Not verified' : item.rule.t === 'na' ? 'Not applicable' : item.rule.stay || (item.rule.d > 0 ? `Up to ${item.rule.d} days` : isReference ? 'Not specified by source' : item.rule.t === 'fm' ? 'See residence rules' : 'See issued visa or entry pass');
+        return <tr key={item.name}><th scope="row" className="!bg-transparent !text-sm !text-foreground"><CountryIdentity name={item.name} code={item.iso} /></th><td><span>{entryRuleLabel(item.rule)}</span>{source && <details className="mt-1 max-w-md"><summary className="min-h-11 cursor-pointer py-3 text-xs">{isReference ? 'Passport Index reference' : 'Conditions & sources'}</summary>{item.rule.n && <p className="text-xs leading-relaxed">{item.rule.n}</p>}<p className="mt-2 text-xs text-muted-foreground">{isReference ? 'Retrieved' : 'Checked'} {source.checkedAt}{item.rule.until && ` · Exemption ends ${item.rule.until}`}</p>{source.urls.map((url, index) => <a key={url} href={url} target="_blank" rel="noopener noreferrer" className="mr-3 inline-flex min-h-11 items-center text-xs underline" aria-label={`${source.title}, source ${index + 1} for ${item.name} (opens in a new tab)`}>{isReference ? 'Passport Index' : 'Official source'}{source.urls.length > 1 ? ` ${index + 1}` : ''}</a>)}</details>}</td><td>{stay}</td></tr>;
+      })}</tbody></table></TableFrame> : <EmptyResults onReset={() => update({ destination: null, entry: null })}>No destinations match these filters.</EmptyResults>}
     </>}
   </>;
 }
