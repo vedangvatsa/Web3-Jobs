@@ -1345,9 +1345,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Finance & Strategy Analyst at Stripe\n\nSF, SEA, CHI, NYC\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
-          "startedAt": "2026-10-07T03:31:23.497Z"
+          "startedAt": "2026-10-07T03:31:23.497Z",
+          "containerId": "17916604797461009"
         }
       }
     },
