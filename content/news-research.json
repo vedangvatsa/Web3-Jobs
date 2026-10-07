@@ -10042,11 +10042,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7fe030c38c9a4fc74bae",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:07:36.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "source-blocked",
+      "note": "Coinbase short-term price markets seen only in blocked Defiant origin.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:49:19.882Z",
+      "retrySearches": [
+        "Coinbase 15 minute hourly crypto price markets October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "8b0ca374854723bfa6f6": {
       "source": "Bitcoin Magazine",
@@ -16795,6 +16809,21 @@
           "reviewedAt": "2026-10-07T03:49:18.082Z",
           "retrySearches": [
             "BTCC trust center refresh October 2026"
+          ]
+        },
+        "7fe030c38c9a4fc74bae": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Coinbase short-term price markets seen only in blocked Defiant origin.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:49:19.882Z",
+          "retrySearches": [
+            "Coinbase 15 minute hourly crypto price markets October 2026"
           ]
         }
       },
