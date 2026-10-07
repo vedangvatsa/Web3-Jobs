@@ -11126,11 +11126,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f8bbe76cd7bfd860528",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:16:05.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Analyst video on MSTR price target, prediction content, not an event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:47.024Z",
+      "lastReviewedDay": "2026-10-07"
     }
   },
   "runs": {
@@ -16941,6 +16946,13 @@
           "note": "Video interview on real-estate premium thesis, not a news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:45.144Z"
+        },
+        "0f8bbe76cd7bfd860528": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Analyst video on MSTR price target, prediction content, not an event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:47.024Z"
         }
       },
       "baselineSlugs": [
