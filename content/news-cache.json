@@ -1,6 +1,190 @@
 {
-  "generatedAt": "2026-10-07T11:31:47.600Z",
+  "generatedAt": "2026-10-07T19:31:35.666Z",
   "items": [
+    {
+      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+      "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+      "pubDate": "Wed, 07 Oct 2026 18:59:32 +0000",
+      "creator": "Will Canny",
+      "contentSnippet": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+      "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+      "pubDate": "Wed, 07 Oct 2026 18:37:17 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
+      "source": "The Block"
+    },
+    {
+      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+      "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 18:00:10 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+      "link": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 17:46:59 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency acti...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+      "pubDate": "Wed, 07 Oct 2026 17:23:02 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash.",
+      "source": "The Block"
+    },
+    {
+      "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+      "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+      "pubDate": "Wed, 07 Oct 2026 16:56:56 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it i...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+      "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+      "pubDate": "Wed, 07 Oct 2026 16:30:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Polygon said businesses can also move the world’s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridg...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "link": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 16:25:38 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset in...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+      "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 16:06:03 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CF...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+      "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 15:36:11 +0000",
+      "creator": "Sam Bourgi",
+      "contentSnippet": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
+      "link": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
+      "pubDate": "Wed, 07 Oct 2026 15:34:31 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Gate bets all-in-one money app is crypto’s biggest consumer trend this year and next",
+      "link": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+      "pubDate": "Wed, 07 Oct 2026 15:13:15 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Gate rebrands around Gate Money, which combines accounts, asset conversion, savings and card payments as the exchange broadens beyond its trading base...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 15:06:14 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+      "pubDate": "Wed, 07 Oct 2026 15:03:54 +0000",
+      "creator": "Helene Braun",
+      "contentSnippet": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don’t age out. Michael Zha...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+      "link": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
+      "pubDate": "Wed, 07 Oct 2026 14:55:32 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH—roughly six to seven weeks—from its 5% cap, setting an end date on ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Moody’s gives Sky Protocol B3 rating as institutional interest in USDS grows",
+      "link": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+      "pubDate": "Wed, 07 Oct 2026 14:20:01 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Moody's assigned Sky a B3 issuer rating with a stable outlook, its first rating of a stablecoin protocol. Sky is also rated B- by S&P.",
+      "source": "The Block"
+    },
+    {
+      "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
+      "link": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+      "pubDate": "Wed, 07 Oct 2026 12:39:09 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Daniel Rhyne locked his company's IT administrators out of its network and demanded 20 BTC, then worth $750,000, to stop the shutdowns.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "pubDate": "Wed, 07 Oct 2026 12:34:13 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves further onchain.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO ",
+      "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 12:29:39 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to P...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+      "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
+      "pubDate": "Wed, 07 Oct 2026 12:18:43 +0000",
+      "creator": "Tyler Warner",
+      "contentSnippet": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+      "pubDate": "Wed, 07 Oct 2026 11:59:24 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift’s tokenized-deposit network, Taurus’s...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Tether Is Facing Lawsuit Over Alleged $2,760,000 USDT Freeze Without Justification",
+      "link": "https://dailyhodl.com/2026/10/07/tether-is-facing-lawsuit-over-alleged-2760000-usdt-freeze-without-justification/",
+      "pubDate": "Wed, 07 Oct 2026 11:45:48 +0000",
+      "creator": "Agent",
+      "contentSnippet": "A cross-border payments firm has sued Tether, claiming the stablecoin operator froze $2.76 million in USDT from its treasury wallet in September 2025 ...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Crypto card access doesn’t match global demand, Tangem says",
+      "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 07 Oct 2026 11:37:48 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Crypto card demand can be stronger where access is harder, Tangem says, as it expands its Visa payment offering, allowing users to spend from its self...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Here’s what bitcoin needs to break above $87,000",
       "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
@@ -18,11 +202,11 @@
       "source": "The Block"
     },
     {
-      "title": "Live updates: BitMine announces ETH buying limit. Ether, bitcoin slide",
+      "title": "Live updates: Bitcoin edges up from worst levels as yields pull back",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "pubDate": "Wed, 07 Oct 2026 11:09:50 +0000",
       "creator": "Shaurya Malwa",
-      "contentSnippet": "Traders betting on higher prices took the brunt of the forced selling, while oil climbed on Iranian tanker attacks. Fed minutes are due later Wednesda...",
+      "contentSnippet": "Ether underperformed, losing 6% after Tom Lee said Bitmine would soon stop purchasing additional ETH.",
       "source": "Coindesk"
     },
     {
@@ -114,7 +298,7 @@
       "source": "Decrypt"
     },
     {
-      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "title": "Robinhood adds $25 million of bitcoin to its balance sheet",
       "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
       "pubDate": "Wed, 07 Oct 2026 08:53:27 +0000",
       "creator": "Omkar Godbole",
@@ -146,14 +330,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
-      "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
-      "pubDate": "Wed, 07 Oct 2026 05:58:25 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Wallets linked to the U.S. government moved millions in crypto on Tuesday, according to data tracked by Arkham.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Kalshi’s 15-min gold markets overtake Ether just weeks after launch ",
       "link": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 07 Oct 2026 04:57:54 +0000",
@@ -178,27 +354,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-      "pubDate": "Wed, 07 Oct 2026 04:00:51 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Bitcoin briefly broke under the level analysts flagged as the point where sellers take over. Oil and the dollar both climbed.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
       "link": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
       "pubDate": "Wed, 07 Oct 2026 03:57:21 +0000",
       "creator": "Timmy Shen",
       "contentSnippet": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass.",
-      "source": "The Block"
-    },
-    {
-      "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
-      "link": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
-      "pubDate": "Wed, 07 Oct 2026 03:00:00 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
       "source": "The Block"
     },
     {
@@ -218,28 +378,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-      "link": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 21:00:44 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
       "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 06 Oct 2026 20:53:19 +0000",
       "creator": "Nate Kostar",
       "contentSnippet": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million invest...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-      "link": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
-      "pubDate": "Tue, 06 Oct 2026 19:46:04 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to—and has profit...",
-      "source": "Decrypt"
     },
     {
       "title": "UK names 6 banks to lead first digitally native government bond",
@@ -306,14 +450,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-      "pubDate": "Tue, 06 Oct 2026 15:20:30 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following a...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Solana treasury DeFi Development authorizes CHAD preferred stock buyback program",
       "link": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
       "pubDate": "Tue, 06 Oct 2026 15:09:41 +0000",
@@ -338,30 +474,6 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 14:00:00 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Sepolia marks one of the final major rehearsals before the final activation of Glamsterdam, aimed at bringing more efficiency and scalability to the E...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "OKX exchange raises fresh capital at $25B valuation",
-      "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 13:32:32 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "OKX raised an undisclosed amount at a $25 billion valuation as an extension to March’s investment round led by the parent company of the New York Stoc...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
-      "link": "https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 13:30:00 +0000",
-      "creator": "Yohan Yun",
-      "contentSnippet": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and S...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
       "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
       "pubDate": "Tue, 06 Oct 2026 13:02:33 +0000",
@@ -376,22 +488,6 @@
       "creator": "Brian Danga",
       "contentSnippet": "Fortitude secured priority access to BITMAIN’s next-generation Zcash miners as it expands capacity and increases financing from DCG.",
       "source": "The Block"
-    },
-    {
-      "title": "US crypto rules need to survive the next election",
-      "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-      "creator": "Andrew M. Cuomo",
-      "contentSnippet": "US crypto rules could be vulnerable to political change after the midterms. Former New York Gov. Andrew Cuomo argues Congress needs to pass durable, b...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-      "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 12:54:15 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Polymarket begins its Protocol V2 rollout ahead of a planned November transition for new prediction markets, while existing positions remain on the cu...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
@@ -410,115 +506,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
-      "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Your day-ahead look for Oct. 6, 2026",
-      "source": "Coindesk"
-    },
-    {
       "title": "CFTC Seeks Public Comment on Expansive Round of Crypto Market Regulations",
       "link": "https://dailyhodl.com/2026/10/06/cftc-seeks-public-comment-on-expansive-round-of-crypto-market-regulations/",
       "pubDate": "Tue, 06 Oct 2026 10:47:34 +0000",
       "creator": "Agent",
       "contentSnippet": "The Commodity Futures Trading Commission (CFTC) is proposing new crypto market regulations after the Clarity Act detonated in the Senate. The regulato...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "New Generation of Crypto Miners Released by ASICID",
-      "link": "https://dailyhodl.com/2026/10/06/new-generation-of-crypto-miners-released-by-asicid/",
-      "pubDate": "Tue, 06 Oct 2026 10:43:17 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Hong Kong, Hong Kong, October 6th, 2026, Chainwire\nThe post New Generation of Crypto Miners Released by ASICID appeared first on The Daily Hodl.",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
-      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-      "pubDate": "Tue, 06 Oct 2026 10:35:49 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-      "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
-      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Leading the gains is BTW, the native token of Bitway, a bitcoin-compatible layer-1, which jumped 25% in the past 24 hours and is up 170% over the past...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-      "link": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 10:16:55 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management servi...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
-      "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 06 Oct 2026 09:59:12 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Ondo launches onchain private-company exposure, starting with AI",
-      "link": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
-      "pubDate": "Tue, 06 Oct 2026 09:38:28 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Ondo Finance launched a private-markets platform with tokenized notes tied initially to a pre-IPO artificial intelligence company.",
-      "source": "The Block"
-    },
-    {
-      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "pubDate": "Tue, 06 Oct 2026 09:02:01 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "OKX appears to be designing products to keep the blockchain element abstracted or out of sight for users who simply want to hold digital dollars and u...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-      "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
-      "pubDate": "Tue, 06 Oct 2026 08:27:43 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "This shallower decline isn’t limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77%...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-      "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-      "pubDate": "Tue, 06 Oct 2026 04:55:36 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "FinCEN withdrew two proposals that had hung over self-custody and crypto mixers for years without ever taking effect.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-      "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-      "pubDate": "Tue, 06 Oct 2026 04:49:05 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "One of Ethereum’s main validator clients updated its software hours before a Sepolia test that will raise the amount of work each block can hold to 20...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-      "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
-      "pubDate": "Tue, 06 Oct 2026 04:41:10 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "BTC fell back to about $85,600 after sellers turned it away from $87,000 for the third time since Sept. 23, while Nasdaq closed at a record and Treasu...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
-      "link": "https://dailyhodl.com/2026/10/05/changer-launches-stablecoin-first-self-custodial-wallet-to-make-stablecoins-easier-to-use/",
-      "pubDate": "Tue, 06 Oct 2026 03:04:10 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Singapore, Singapore, 6th October 2026, Chainwire\nThe post Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use ...",
       "source": "Daily Hodl"
     },
     {
@@ -570,36 +562,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Treasury withdraws crypto mixing rule, citing concerns over ‘chilling effect on legitimate activity’",
-      "link": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-      "pubDate": "Mon, 05 Oct 2026 17:22:37 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act.",
-      "source": "The Block"
-    },
-    {
-      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
-      "link": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-      "pubDate": "Mon, 05 Oct 2026 16:49:15 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Umia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part.",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
       "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
       "pubDate": "Mon, 05 Oct 2026 16:10:00 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.",
       "source": "Decrypt"
-    },
-    {
-      "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
-      "link": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
-      "pubDate": "Mon, 05 Oct 2026 16:09:02 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchang...",
-      "source": "The Block"
     },
     {
       "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
@@ -615,46 +583,6 @@
       "pubDate": "Mon, 05 Oct 2026 12:51:42 +0000",
       "creator": "Agent",
       "contentSnippet": "The firm's Bitcoin holdings hit a record 848,000 BTC, while the quarterly gain is a fair-value mark carrying $1.88 billion in deferred tax.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
-      "link": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-      "pubDate": "Mon, 05 Oct 2026 12:04:01 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Rating agencies ask if a Bitcoin company will actually sell when obligations fall due. \"We answered by doing it,\" said CEO Simon Gerovich.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Morning Minute: Uptober Off to a Green Start",
-      "link": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
-      "pubDate": "Mon, 05 Oct 2026 11:39:08 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "Crypto majors and alts are rallying to start October. What’s driving the early action and will it continue?",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-      "link": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-      "pubDate": "Mon, 05 Oct 2026 11:18:01 +0000",
-      "creator": "Agent",
-      "contentSnippet": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-      "link": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-      "pubDate": "Sun, 04 Oct 2026 17:01:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-      "link": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-      "pubDate": "Sun, 04 Oct 2026 16:01:03 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without ...",
       "source": "Decrypt"
     }
   ]
