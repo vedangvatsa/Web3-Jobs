@@ -10971,11 +10971,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1ed48370ffe960a0e139",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T19:15:04.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "Longevity lifestyle piece; non-crypto.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:18.824Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "1ea60427ddeeb2805cbf": {
       "source": "CryptoSlate",
@@ -17061,6 +17066,13 @@
           "note": "Mistral AI model release; non-crypto tech news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:16.892Z"
+        },
+        "1ed48370ffe960a0e139": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Longevity lifestyle piece; non-crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:18.824Z"
         }
       },
       "baselineSlugs": [
