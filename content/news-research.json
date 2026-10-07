@@ -5159,23 +5159,23 @@
       "id": "b013d194c3bc936ef68a",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T14:49:17.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "source-blocked",
-      "note": "Same S and P vault grades as ba6a; BeInCrypto page blocked. Verify and draft together next batch.",
+      "note": "Same S and P vault grades as ba6a; BeInCrypto blocked.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/sp-global-crypto-lending-vaults-risk/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:59.781Z",
+      "reviewedAt": "2026-10-07T03:43:41.708Z",
       "retrySearches": [
-        "S&P Global crypto lending vault risk assessments October 2026"
+        "S and P Global crypto lending vault risk assessments October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "84fff5d50c5d93106fb2": {
       "source": "Unchained",
@@ -15780,6 +15780,21 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:43:31.958Z",
+          "retrySearches": [
+            "S and P Global crypto lending vault risk assessments October 2026"
+          ]
+        },
+        "b013d194c3bc936ef68a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Same S and P vault grades as ba6a; BeInCrypto blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/sp-global-crypto-lending-vaults-risk/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:41.708Z",
           "retrySearches": [
             "S and P Global crypto lending vault risk assessments October 2026"
           ]
