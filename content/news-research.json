@@ -9931,11 +9931,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f14768f9c1b71016227a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:16:03.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Celebrity marketing appointment story; promo, no market event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:07.506Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "acfe448d69d1b8e35546": {
       "source": "CryptoSlate",
@@ -17013,6 +17018,13 @@
           "note": "Mining-share analysis roundup with no fresh filing, vote or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:05.468Z"
+        },
+        "f14768f9c1b71016227a": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Celebrity marketing appointment story; promo, no market event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:07.506Z"
         }
       },
       "baselineSlugs": [
