@@ -8478,23 +8478,23 @@
       "id": "d1c0c41c21a98aa3f029",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T17:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Read CoinDesk on Founders Fund led 5M ANVL token buy with Pantera and Bullish plus SDK launch; needs a second independent outlet.",
+      "reason": "needs-corroboration",
+      "note": "CoinDesk read confirms Founders Fund 5M ANVL buy with Pantera; needs second outlet or announcement.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T17:47:40.349Z",
+      "reviewedAt": "2026-10-07T03:45:59.421Z",
       "retrySearches": [
         "Anvil ANVL token buy Founders Fund Pantera October 2026 announcement"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "c975d95267ed63707c56": {
       "source": "CoinDesk",
@@ -16124,6 +16124,21 @@
           "reviewedAt": "2026-10-07T03:45:57.547Z",
           "retrySearches": [
             "Roman Storm venue filing Bitcoin Fog appeal October 2026 second outlet"
+          ]
+        },
+        "d1c0c41c21a98aa3f029": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CoinDesk read confirms Founders Fund 5M ANVL buy with Pantera; needs second outlet or announcement.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:59.421Z",
+          "retrySearches": [
+            "Anvil ANVL token buy Founders Fund Pantera October 2026 announcement"
           ]
         }
       },
