@@ -10698,11 +10698,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "824d47be55685a7a0430",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:48:49.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "source-blocked",
+      "note": "12.5B card-payments record seen only in blocked origin; needs openable outlet with methodology.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:48:59.307Z",
+      "retrySearches": [
+        "crypto card payments record 12.5 billion stablecoin October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "ef77aa0b91ec17c8e0d5": {
       "source": "Unchained",
@@ -16621,6 +16635,21 @@
           "reviewedAt": "2026-10-07T03:48:57.463Z",
           "retrySearches": [
             "Russia digital ruble 220000 accounts October 2026 second outlet"
+          ]
+        },
+        "824d47be55685a7a0430": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "12.5B card-payments record seen only in blocked origin; needs openable outlet with methodology.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:48:59.307Z",
+          "retrySearches": [
+            "crypto card payments record 12.5 billion stablecoin October 2026"
           ]
         }
       },
