@@ -1425,6 +1425,11 @@
           "containerId": "17916642456461009",
           "postId": "18010928048988133",
           "error": "Error: Video ledger PUT failed — HTTP 409"
+        },
+        "youtube": {
+          "status": "creating",
+          "text": "Singapore, SG\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-07T11:32:16.309Z"
         }
       }
     },
