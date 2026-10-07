@@ -10649,11 +10649,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "abfda675cf9bb2ba7634",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:59:32.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "source-blocked",
+      "note": "Defiant page blocked; Kalshi US500 launch needs company page plus two openable independents.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:48:45.821Z",
+      "retrySearches": [
+        "Kalshi US 500 perpetual launch trading October 2026 CFTC"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "824d47be55685a7a0430": {
       "source": "Bitcoin Magazine",
@@ -16476,6 +16490,21 @@
           "reviewedAt": "2026-10-07T03:48:38.939Z",
           "retrySearches": [
             "Circle Mint Aave borrowing live October 2026 Circle announcement"
+          ]
+        },
+        "abfda675cf9bb2ba7634": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant page blocked; Kalshi US500 launch needs company page plus two openable independents.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:48:45.821Z",
+          "retrySearches": [
+            "Kalshi US 500 perpetual launch trading October 2026 CFTC"
           ]
         }
       },
