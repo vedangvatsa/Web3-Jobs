@@ -9989,11 +9989,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cad42c62aaaed2d73770",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:34:32.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Podcast video interview, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:41.540Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "05608c82f2942109d4dc": {
       "source": "Bitcoin Magazine",
@@ -16905,6 +16910,13 @@
           "note": "CEO interview about the earlier 387M hack; no new event or disclosure.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:34.119Z"
+        },
+        "cad42c62aaaed2d73770": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Podcast video interview, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:41.540Z"
         }
       },
       "baselineSlugs": [
