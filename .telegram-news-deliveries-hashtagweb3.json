@@ -898,5 +898,36 @@
     "slotKey": "2026-10-07:morning",
     "messageId": 155649,
     "sentAt": "2026-10-07T04:09:59.808Z"
+  },
+  "ea98f294-6554-43cf-81dc-4c71861b0ef8": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T11:33:37.831Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "UK names six banks for digital gilt pilot",
+        "summary": "HM Treasury appointed Barclays, HSBC, Lloyds, Morgan Stanley, NatWest and RBC to manage the trial by early 2027.",
+        "link": "https://hashtagweb3.com/gilt-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK names six banks to lead first digital gilt pilot"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC Proposes Rules for Crypto Margin Trading",
+        "summary": "Proposed regulations would require margin-based cryptocurrency trading to occur on federally registered exchanges after a public comment period.",
+        "link": "https://hashtagweb3.com/cftc-leverage?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Proposes Federal Exchange Rules Triggered by Crypto Margin Trading"
+      },
+      {
+        "index": -1,
+        "headline": "Adam Iza Sentenced to Prison for Meta Fraud",
+        "summary": "He must pay $23.4 million in restitution for tax evasion, advertising schemes, and hiring deputies to harass rivals.",
+        "link": "https://hashtagweb3.com/godfather-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Crypto Godfather Adam Iza Gets 78 Months for Meta Fraud and Deputy Scheme"
+      }
+    ],
+    "slotKey": "2026-10-07:afternoon"
   }
 }
