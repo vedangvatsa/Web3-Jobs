@@ -10719,11 +10719,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ef77aa0b91ec17c8e0d5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:25:20.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "needs-corroboration",
+      "note": "Unchained read confirms co-founder statement of intent; refund is proposal only, needs second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/thorchain-co-founder-will-ask-its-treasury-about-refunding-fees-from-stolen-crypto/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:48:49.473Z",
+      "retrySearches": [
+        "THORChain treasury refund stolen crypto fees October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "e3d3a52f2fc2bf872be4": {
       "source": "Bitcoin Magazine",
@@ -16534,6 +16548,21 @@
           "reviewedAt": "2026-10-07T03:48:47.668Z",
           "retrySearches": [
             "Solana Foundation bank settlement open source code October 2026"
+          ]
+        },
+        "ef77aa0b91ec17c8e0d5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Unchained read confirms co-founder statement of intent; refund is proposal only, needs second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/thorchain-co-founder-will-ask-its-treasury-about-refunding-fees-from-stolen-crypto/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:48:49.473Z",
+          "retrySearches": [
+            "THORChain treasury refund stolen crypto fees October 2026"
           ]
         }
       },
