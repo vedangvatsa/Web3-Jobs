@@ -4711,23 +4711,23 @@
       "id": "f73283cc9198a25662a1",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T18:44:11.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "source-blocked",
-      "note": "Base vault 6M drain in Aave deposit tokens seen only in The Defiant; page blocked, needs a second openable outlet or post-mortem.",
+      "note": "Base vault drain seen only in blocked Defiant page; Immunefi disclosure noted in crypto.news related link, needs openable second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/base-vault-drained-of-about-6-million-in-aave-deposit-tokens",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:05:24.837Z",
+      "reviewedAt": "2026-10-07T03:43:28.367Z",
       "retrySearches": [
-        "Base vault drained 6 million Aave deposit tokens exploit October 2026"
+        "Base vault drained 6 million Aave deposit tokens exploit October 2026 Immunefi"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "008d7a0e67574d608740": {
       "source": "CryptoSlate",
@@ -15729,6 +15729,21 @@
           "reviewedAt": "2026-10-07T03:43:21.077Z",
           "retrySearches": [
             "Aave LlamaRisk Pendle Plasma October 2026"
+          ]
+        },
+        "f73283cc9198a25662a1": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Base vault drain seen only in blocked Defiant page; Immunefi disclosure noted in crypto.news related link, needs openable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/base-vault-drained-of-about-6-million-in-aave-deposit-tokens",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:28.367Z",
+          "retrySearches": [
+            "Base vault drained 6 million Aave deposit tokens exploit October 2026 Immunefi"
           ]
         }
       },
