@@ -4032,23 +4032,23 @@
       "id": "d372d8efef76dfb7dae2",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T12:04:01.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "Same Metaplanet sell-rebuy and income strategy as b1e5; this outlet copy open. Verify and draft together next batch.",
+      "reason": "missing-primary-source",
+      "note": "Same Metaplanet event as b1e5; Decrypt copy read, filing still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:21.765Z",
+      "reviewedAt": "2026-10-07T03:45:05.957Z",
       "retrySearches": [
-        "Metaplanet 10000 bitcoin sold 11000 rebought credit rating Q3 2026 filing"
+        "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "632e4bb5b98a6d6fbf9d": {
       "source": "CoinDesk",
@@ -15888,6 +15888,21 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:45:04.024Z",
+          "retrySearches": [
+            "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
+          ]
+        },
+        "d372d8efef76dfb7dae2": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Same Metaplanet event as b1e5; Decrypt copy read, filing still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:05.957Z",
           "retrySearches": [
             "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
           ]
