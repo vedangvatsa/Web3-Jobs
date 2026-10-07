@@ -10877,11 +10877,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e3d3a52f2fc2bf872be4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:21:43.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Video interview on real-estate premium thesis, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:45.144Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "4439b20862c66e020961": {
       "source": "Cointelegraph",
@@ -16929,6 +16934,13 @@
           "note": "Video interview on housing vs bitcoin, not a news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:43.414Z"
+        },
+        "e3d3a52f2fc2bf872be4": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Video interview on real-estate premium thesis, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:45.144Z"
         }
       },
       "baselineSlugs": [
