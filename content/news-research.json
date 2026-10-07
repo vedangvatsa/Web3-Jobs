@@ -10131,11 +10131,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8d95786904ceeedd22c7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T20:11:30.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:42:27.290Z",
+      "duplicateOf": "abstract-shutdown",
+      "mergedInto": "7fee08b9e4ba7e19096e",
+      "lastReviewedDay": "2026-10-07"
     },
     "711102a2697ca9eea804": {
       "source": "CryptoSlate",
@@ -15468,6 +15475,15 @@
           "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:42:25.526Z",
+          "duplicateOf": "abstract-shutdown",
+          "mergedInto": "7fee08b9e4ba7e19096e"
+        },
+        "8d95786904ceeedd22c7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:42:27.290Z",
           "duplicateOf": "abstract-shutdown",
           "mergedInto": "7fee08b9e4ba7e19096e"
         }
