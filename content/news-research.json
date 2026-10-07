@@ -166,12 +166,16 @@
       "id": "751c0a31b9ee07e32b36",
       "status": "deferred",
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-07T15:20:58.000Z",
       "lastSeenAt": "2026-10-05T03:31:38.041Z",
       "reason": "source-blocked",
-      "note": "Lido CSM 0x02 bond: still no second openable independent outlet on the required list; only low-tier mirrors of the CryptoSlate piece found. Expires 2026-10-07.",
+      "note": "CryptoSlate read confirms Oct 1 CSM 0x02 plan; no second openable independent outlet. Expires today 15:20 UTC.",
       "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+          "outcome": "read"
+        },
         {
           "url": "https://cryptobriefing.com",
           "outcome": "blocked"
@@ -181,12 +185,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:07:05.287Z",
+      "reviewedAt": "2026-10-07T03:42:55.345Z",
       "retrySearches": [
         "Lido CSM 0x02 bond 32 ETH site:coindesk.com OR site:theblock.co OR site:dlnews.com OR site:decrypt.co OR site:cointelegraph.com"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "c421321e4f5faaaf535d": {
       "source": "CoinDesk",
@@ -15579,6 +15583,29 @@
           "reviewedAt": "2026-10-07T03:42:41.080Z",
           "duplicateOf": "gilt-pilot",
           "mergedInto": "2651854477bf82f654ba"
+        },
+        "751c0a31b9ee07e32b36": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CryptoSlate read confirms Oct 1 CSM 0x02 plan; no second openable independent outlet. Expires today 15:20 UTC.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/lidos-proposed-staking-route-needs-over-13-times-the-default-entry-bond/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.gate.com",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:42:55.345Z",
+          "retrySearches": [
+            "Lido CSM 0x02 bond 32 ETH site:coindesk.com OR site:theblock.co OR site:dlnews.com OR site:decrypt.co OR site:cointelegraph.com"
+          ]
         }
       },
       "baselineSlugs": [
