@@ -10082,11 +10082,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f0bcfd96681ea1538d27",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T20:28:53.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:42:25.526Z",
+      "duplicateOf": "abstract-shutdown",
+      "mergedInto": "7fee08b9e4ba7e19096e",
+      "lastReviewedDay": "2026-10-07"
     },
     "66da0c683e82872691be": {
       "source": "Bitcoin Magazine",
@@ -15454,6 +15461,15 @@
           ],
           "reviewedAt": "2026-10-07T03:42:19.728Z",
           "articleSlug": "abstract-shutdown"
+        },
+        "f0bcfd96681ea1538d27": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:42:25.526Z",
+          "duplicateOf": "abstract-shutdown",
+          "mergedInto": "7fee08b9e4ba7e19096e"
         }
       },
       "baselineSlugs": [
