@@ -10215,11 +10215,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8bf807743ef792545376",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T20:35:01.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "US services inflation gauge macro piece; not a crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:59.618Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "f0bcfd96681ea1538d27": {
       "source": "Decrypt",
@@ -16989,6 +16994,13 @@
           "note": "Intraday price grind toward 87K, market commentary only.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:57.539Z"
+        },
+        "8bf807743ef792545376": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US services inflation gauge macro piece; not a crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:59.618Z"
         }
       },
       "baselineSlugs": [
