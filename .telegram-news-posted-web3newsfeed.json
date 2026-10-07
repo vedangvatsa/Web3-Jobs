@@ -713,6 +713,9 @@
   "https://hashtagweb3.com/kalshi-appeal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kztg-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/symbiosis-bridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tether-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/gilt-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/arbitrum-usdg?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2043,6 +2046,12 @@
   "Kazakhstan Launches Tenge-Pegged KZTg Stablecoin on Telegram",
   "Symbiosis Recovers 15 BTC Following Bridge Exploit",
   "Symbiosis Recovers 15 BTC After Bitcoin Bridge Exploit, Offers 20% Bounty",
+  "Conduit sues Tether over frozen $2.76 million USDT",
+  "Conduit sues Tether over $2.76M USDT freeze tied to Brazil probe",
+  "UK Treasury selects six banks for digital gilt pilot",
+  "UK names six banks to lead first digital gilt pilot",
+  "Arbitrum Integrates Paxos USDG Stablecoin",
+  "Arbitrum Joins Paxos Global Dollar Network With USDG",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2285,5 +2294,8 @@
   "fp:asset|bridg|can|dao|defi|ethena|financ|integration|justlend|network",
   "fp:allow|appeal|apply|are|circuit|contract|court|enforc|federal|found",
   "fp:availabl|currency|digital|kazakhstan|kztg|national|network|now|pegg|stablecoin",
-  "fp:attacker|bounty|bridg|btc|exploit|follow|fund|offer|offers20|partial"
+  "fp:attacker|bounty|bridg|btc|exploit|follow|fund|offer|offers20|partial",
+  "fp:276m|block|brazil|brazilian|claim|conduit|fil|firm|flagg|freez",
+  "fp:bank|barclay|completion|digital|early2027|four|gilt|hsbc|lead|manag",
+  "fp:100m|alongsid|arb|arbitrum|dollar|global|incentiv|integrat|join|network"
 ]
