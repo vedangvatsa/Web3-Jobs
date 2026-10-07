@@ -72,6 +72,10 @@
     "2026-10-06:evening": [
       "eng337",
       "mkt62"
+    ],
+    "2026-10-07:morning": [
+      "an56",
+      "mkt61"
     ]
   },
   "jobs": {
@@ -1328,6 +1332,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7693640706962869537"
         }
       }
+    },
+    "an56": {
+      "slot": "2026-10-07:morning",
+      "selectedAt": "2026-10-07T03:31:21.269Z",
+      "verifiedAt": "2026-10-07T03:31:21.269Z",
+      "captions": {
+        "instagram": "Finance & Strategy Analyst at Stripe\n\nSF, SEA, CHI, NYC\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Finance & Strategy Analyst at Stripe. SF, SEA, CHI, NYC.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "SF, SEA, CHI, NYC\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Finance & Strategy Analyst at Stripe"
+      },
+      "receipts": {}
+    },
+    "mkt61": {
+      "slot": "2026-10-07:morning",
+      "selectedAt": "2026-10-07T03:31:21.270Z",
+      "verifiedAt": "2026-10-07T03:31:21.270Z",
+      "captions": {
+        "instagram": "Growth Creative Designer, International at Ramp\n\nLondon\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #DesignJobs #Hiring",
+        "tiktok": "Growth Creative Designer, International at Ramp. London.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "London\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Growth Creative Designer, International at Ramp"
+      },
+      "receipts": {}
     }
   }
 }
