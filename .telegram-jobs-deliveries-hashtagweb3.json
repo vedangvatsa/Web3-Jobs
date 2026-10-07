@@ -1012,7 +1012,7 @@
     "sentAt": "2026-10-07T11:32:35.773Z"
   },
   "acf7e309-072a-4ec1-b37b-055b655a93f5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-07T19:32:16.580Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1053,6 +1053,8 @@
       }
     ],
     "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/arc18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Specialist Solutions Architect</a>\n• Uphold is hiring <a href=\"https://hashtagweb3.com/eng205?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Marketing Technology Manager</a>\n• Coins.ph is hiring <a href=\"https://hashtagweb3.com/sls47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Sales Associate</a>\n• Aave Labs is hiring <a href=\"https://hashtagweb3.com/sec19?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Protocol Security Researcher</a>\n• Ripple is hiring <a href=\"https://hashtagweb3.com/rfp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">RFP Specialist</a>",
-    "slotKey": "2026-10-07:evening"
+    "slotKey": "2026-10-07:evening",
+    "messageId": 155673,
+    "sentAt": "2026-10-07T19:32:20.782Z"
   }
 }
