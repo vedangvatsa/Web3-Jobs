@@ -3782,23 +3782,23 @@
       "id": "1248bcd6d2198b742392",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T14:25:06.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "Xverse strategic round led by Draper Associates reported only by The Defiant; page blocked, needs a second openable outlet or company announcement.",
+      "reason": "source-blocked",
+      "note": "Xverse round seen only in blocked Defiant origin; needs company announcement or second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/xverse-draper-associates-strategic-round-bitcoin-neobank",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:05:12.165Z",
+      "reviewedAt": "2026-10-07T03:49:28.560Z",
       "retrySearches": [
         "Xverse Draper Associates strategic round bitcoin wallet October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "8bb86c4a5e59ed6da22f": {
       "source": "BeInCrypto",
@@ -16853,6 +16853,21 @@
           "reviewedAt": "2026-10-07T03:49:21.958Z",
           "retrySearches": [
             "Amir Taaki deported Singapore October 2026"
+          ]
+        },
+        "1248bcd6d2198b742392": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Xverse round seen only in blocked Defiant origin; needs company announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/xverse-draper-associates-strategic-round-bitcoin-neobank",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:49:28.560Z",
+          "retrySearches": [
+            "Xverse Draper Associates strategic round bitcoin wallet October 2026"
           ]
         }
       },
