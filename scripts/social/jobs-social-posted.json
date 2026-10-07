@@ -1,5 +1,5 @@
 {
-  "lastIndex": 357,
+  "lastIndex": 359,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -156,7 +156,9 @@
     "cmp72",
     "pm39",
     "ese",
-    "an58"
+    "an58",
+    "ops70",
+    "infra29"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5161,496 +5163,6 @@
       "verification": "verified"
     },
     {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "6ac07cbf9fdc9f926e69037d",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "6ac07cca713b7277a0a95481",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "urn:li:share:7511997479337283584",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "facebook",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "691827047618629_1105055012101733",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls174",
-      "company": "Consensys",
-      "title": "Director of Technical Accounting",
-      "platform": "instagram",
-      "postedAt": "2026-10-03T03:55:25.673Z",
-      "postId": "17928995709413302",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "x",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "6ac0e7b77d53b827e0d99bb6",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Kraken is hiring KOL Lead, Netherlands & Germany\n\nhttps://hashtagweb3.com/kng/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106346555296956624"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "threads",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "18098580308646637",
-      "verification": "verified",
-      "expectedText": "Kraken is hiring KOL Lead, Netherlands & Germany: https://hashtagweb3.com/kng/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeB9Ylvlp2p",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "bluesky",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwxs2azeih2h",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x27dcdbee153e7600456413f69365f0c4bcf110b7",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x2214bc76b5f0b412ec8db09b2b9345e6d34be59e",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x9b51f28765760b2d6645b431c1ef55fa17be8e75",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x0e6750d15405d88d27b753853bca7aa6ce8b0adb",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x5df7549b0a55ac19e028eeeffbbd167cd53e6cd3",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x5190e04d9837dcc02de01d18ae15e1ae388755b8",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x295103c062ccdcd180bfffd3e92e39bf9054423d",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x4e475ad2c84acc9387a300bc81c8b0036177ba9c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0xccc7d4d23e854ea34e2444239e83c686c5536577",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0xa3277f981dbf5128e54e056f0ea4e7b04eb1e3d6",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0xc1ecac5b50d6b70c8b23b722f6591bc930eed2bc",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x383023ac61fa40b561732604dec5c88b02dc46ee",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x6acafc86f15e8f48aa00b0460f3c597bd9ef54cc",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x389ab4632ff785e3cf575581fc2ebd83abe56a64",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x07f71f4fc0fe1f238ccb64657a49656b4cae5b9d",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0x80f92259e32aeb73702be0434a4b0c87fdf23da0",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "0xdee9088d2198b0be13cf365f770bbf2019ea30c6",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "6ac0e7c5905eed02e0634424",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "6ac0e7cf814d657011c1e71a",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "urn:li:share:7512112394811146240",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "facebook",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "691827047618629_1105327908741110",
-      "verification": "verified"
-    },
-    {
-      "slug": "kng",
-      "company": "Kraken",
-      "title": "KOL Lead, Netherlands & Germany",
-      "platform": "instagram",
-      "postedAt": "2026-10-03T11:32:07.010Z",
-      "postId": "18133889926645346",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "x",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "6ac0e7eead7fd83bc5ef7ed8",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Fireblocks is hiring Sales Director\n\nhttps://hashtagweb3.com/sls185/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106346788449890572"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "threads",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "18268124857306789",
-      "verification": "verified",
-      "expectedText": "Fireblocks is hiring Sales Director: https://hashtagweb3.com/sls185/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeB9fWxFuf7",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "bluesky",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwxs3w3v4a26",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0xbd8a9c5105ad1653f325f20bc5c5ff371d57eb7a",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0xf92e8cca86203da6ad95cf49f4895b69c81da5ba",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x21f7081f37f8763b75f459173274a135b7aaeaa4",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x1e58d6a9c6e91557c502210eac5073ef788877c0",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0xf15955826e0208450f49b085a4847efa01edca5b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0xb2a7086e86e51240b34cb758236e12781c12f658",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x49e3497f29710c797c55476ea4ef35f037cbebfd",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x09c2726e614ee9e12c741f35ec53431e52576d30",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x31861a0ea3141f5a1286eadf4ee16d525d99bd49",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x791b7d788b1d438193b90c51dddfa056c53e71d5",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x4c1edfaa63a0795b0bb3076abbbbffe44bd8b367",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x6cf32d463ac050fd1ae41a1378ec79df6e360a14",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x3645095e24384516a1c881f003e436b11cf72554",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0xb43d97517bc6dc30b93c4795b1cb7c33a0a12f1c",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls185",
-      "company": "Fireblocks",
-      "title": "Sales Director",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T11:33:02.739Z",
-      "postId": "0x7f6de7cdfbc7071a1ec34d218082f74813837e2e",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
       "slug": "sls185",
       "company": "Fireblocks",
       "title": "Sales Director",
@@ -10153,6 +9665,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-06T19:32:37.643Z",
       "postId": "691827047618629_1108331405107427",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "x",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "6ac5c55ac22c37a573b68318",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Zero Hash is hiring SVP, Global Head of Operations\n\nhttps://hashtagweb3.com/ops70/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107684048227143851"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "threads",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "17924946924199493",
+      "verification": "verified",
+      "expectedText": "Zero Hash is hiring SVP, Global Head of Operations: https://hashtagweb3.com/ops70/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeLdm1Jm0-T",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "bluesky",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxb2zslepa2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x193cb6caa489240d12ab015a53a47f4e84f94941",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x662371f162a480c3fc48a9b5cfaed9b264667676",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x2be2dd0a694144cefc2005f8e7b7d44f13a75977",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x669ea2a6427c7f597fc948f05738dbac864184b2",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x08cf2879563afd6dbd8e2889b7bfb5fb6c706f8d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xbea81ad8d7342e93134f82966722ca8bd75e7b27",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xf555615b6df525590940b5945d9f5bfe15056c8d",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xcd383e332271a226dff460e5faf2220125782469",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xd719467d6b58f8dffc2a035e048c57bd2334e378",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x1a9f7b7a64ef7b7ebf20d6aaef9197298e6cbba4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xf0612efae067379d4f331b24839719cf039c22c1",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x091d415342ca6938dc62833c75441facaba77d28",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x59e7e5542734f734181f93a83f1145374290b849",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0x1631a77dc7193b172185819114d6ceaa0075e05b",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xa7ff8c80b76362c38c28d30d13cebf748e1ba384",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xf5094ca92f8368427f6394b52126a75925759552",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "0xa80d437dd033647eef95041fd2ca74d41dfd5403",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "6ac5c56d203d24e39e0b5039",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "6ac5c5776d07ab8da759f2e0",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "urn:li:share:7513449906074746880",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops70",
+      "company": "Zero Hash",
+      "title": "SVP, Global Head of Operations",
+      "platform": "facebook",
+      "postedAt": "2026-10-07T04:06:50.057Z",
+      "postId": "691827047618629_1108605355080032",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "x",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "6ac5c58d53551104161ea498",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Software Engineer, Metronome Infrastructure\n\nhttps://hashtagweb3.com/infra29/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107684263084626154"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "threads",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "18151817113548749",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Software Engineer, Metronome Infrastructure: https://hashtagweb3.com/infra29/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeLdtBim_u3",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "bluesky",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxb33geo7v2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x545f11322111c390b1f47620c724ea255274eb4c",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x44da54d2efc640895f0f3c83af9267278e5ff2bf",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0xc682f839a5409b9ce1cfe2554d06c458146d28e9",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x3932d19d018e4ea02d2aa5319e31dcd01c8d4e31",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0xe09a641d548e2813cd96dd237835ac53983fb44d",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x68fcb47ed549a1126bad09b702d00f57e9d16cd8",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x6f7d2026f67b08f5a1bcf9256416bd3e3efda8dc",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0xfd7b1be84f9321a46aeab128d11e4fb635a5efbb",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x2e5f0470db7ec01636d383c5c3f7b43be018a3d6",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0xe6d70b8f75ac248030110de244730a52c0cedffd",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x65175d8bd8eb273700e6f336be7780d57a942d83",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x13716dbe01a285b7c7b376c518e00ac016e45fc0",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0xe898786e404951b9a6a857ad3d428705766f8fa0",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x399016b63ece50fa2d90620f8a334f7ff8f97eff",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0xb7817d66f2edea42ed80bda2083b47a3eef15a92",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0xc841ea5f5c8e301270b8e343c82566441140054f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "0x92e5487b9bcc60ee63498ffa34b2f362b70689e5",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "6ac5c5a3203d24e39e0b63e6",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "6ac5c5aec22c37a573b68eff",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "urn:li:share:7513450133838036993",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "infra29",
+      "company": "Stripe",
+      "title": "Software Engineer, Metronome Infrastructure",
+      "platform": "facebook",
+      "postedAt": "2026-10-07T04:07:41.305Z",
+      "postId": "691827047618629_1108605808413320",
       "verification": "verified"
     }
   ]
