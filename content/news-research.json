@@ -10664,11 +10664,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4439b20862c66e020961",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T19:19:00.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same UK DIGIT six-bank mandate drafted once as gilt-pilot.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:42:41.080Z",
+      "duplicateOf": "gilt-pilot",
+      "mergedInto": "2651854477bf82f654ba",
+      "lastReviewedDay": "2026-10-07"
     },
     "1ed48370ffe960a0e139": {
       "source": "Decrypt",
@@ -15563,6 +15570,15 @@
           ],
           "reviewedAt": "2026-10-07T03:42:39.407Z",
           "articleSlug": "gilt-pilot"
+        },
+        "4439b20862c66e020961": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same UK DIGIT six-bank mandate drafted once as gilt-pilot.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:42:41.080Z",
+          "duplicateOf": "gilt-pilot",
+          "mergedInto": "2651854477bf82f654ba"
         }
       },
       "baselineSlugs": [
