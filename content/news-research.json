@@ -9957,11 +9957,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "acfe448d69d1b8e35546",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:10:18.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Tax-windfall analysis derived from price rally; commentary, no filing or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:45.116Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "7b62084df69d7e0ae4a9": {
       "source": "BeInCrypto",
@@ -17145,6 +17150,13 @@
           "note": "Vendor survey marketing write-up; single-source promo without event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:36.454Z"
+        },
+        "acfe448d69d1b8e35546": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Tax-windfall analysis derived from price rally; commentary, no filing or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:45.116Z"
         }
       },
       "baselineSlugs": [
