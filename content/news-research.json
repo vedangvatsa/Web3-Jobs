@@ -3997,23 +3997,23 @@
       "id": "42ed2abdd0c4a62e4dfa",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T12:13:28.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "source-blocked",
-      "note": "Same Strategy 334 BTC buy as 0b0d; The Block page blocked, CryptoSlate copy open. Verify and draft together next batch.",
+      "note": "Same Strategy 334 BTC buy as 0b0d; Block page blocked.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:06.158Z",
+      "reviewedAt": "2026-10-07T03:45:29.817Z",
       "retrySearches": [
         "Strategy 334 bitcoin STRC buyback October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "d372d8efef76dfb7dae2": {
       "source": "Decrypt",
@@ -16005,6 +16005,21 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:45:27.948Z",
+          "retrySearches": [
+            "Strategy 334 bitcoin STRC buyback October 2026 filing"
+          ]
+        },
+        "42ed2abdd0c4a62e4dfa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Same Strategy 334 BTC buy as 0b0d; Block page blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:29.817Z",
           "retrySearches": [
             "Strategy 334 bitcoin STRC buyback October 2026 filing"
           ]
