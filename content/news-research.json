@@ -9824,11 +9824,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "628e95ee29428ffa8565",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T01:48:53.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "needs-corroboration",
+      "note": "Cointelegraph Oct 7 read confirms BaFin refusal, June 12 halt, partner plan; only aggregator mirrors beyond it.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:47:47.661Z",
+      "retrySearches": [
+        "Bitcoin Group futurum BaFin MiCA refusal October 2026 Handelsblatt Boersen-Zeitung"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "2edd9d3c535ecdf11772": {
       "source": "Unchained",
@@ -16371,6 +16385,21 @@
           "reviewedAt": "2026-10-07T03:47:18.547Z",
           "retrySearches": [
             "SEC Ken Leech cherry picking final judgment October 2026"
+          ]
+        },
+        "628e95ee29428ffa8565": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Cointelegraph Oct 7 read confirms BaFin refusal, June 12 halt, partner plan; only aggregator mirrors beyond it.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:47:47.661Z",
+          "retrySearches": [
+            "Bitcoin Group futurum BaFin MiCA refusal October 2026 Handelsblatt Boersen-Zeitung"
           ]
         }
       },
