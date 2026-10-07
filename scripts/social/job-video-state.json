@@ -1493,9 +1493,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Senior Data Engineer at Nexo\n\nBulgaria\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
-          "startedAt": "2026-10-07T19:31:56.573Z"
+          "startedAt": "2026-10-07T19:31:56.573Z",
+          "containerId": "17916695646461009"
         }
       }
     },
