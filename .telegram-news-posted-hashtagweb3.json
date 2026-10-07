@@ -686,6 +686,9 @@
   "https://hashtagweb3.com/esma-eu?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/moneygram-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/robinhood-tokens?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tether-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/arbitrum-usdg?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/china-p2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1966,6 +1969,12 @@
   "MoneyGram Launches Stablecoin-Backed Visa Card in Colombia",
   "Robinhood CEO Defends Tokenized Shares Against Issuer Vetoes",
   "Robinhood CEO Rejects Issuer Veto in AMC Stock-Token Dispute",
+  "Conduit Sues Tether Over Frozen $2.76 Million USDT",
+  "Conduit sues Tether over $2.76M USDT freeze tied to Brazil probe",
+  "Arbitrum Integrates Paxos USDG Stablecoin",
+  "Arbitrum Joins Paxos Global Dollar Network With USDG",
+  "China P2P Stablecoin Use Increased Despite Government Ban",
+  "China P2P Stablecoin Wallets Grew 43 Fold Despite Ban",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2202,5 +2211,8 @@
   "fp:by2026|consensy|consumer|end|infrastructur|institutional|late2026|manag|metamask|plan",
   "fp:authority|clarify|contract|depend|esma|european|fall|financial|gambl|market",
   "fp:access|back|can|card|colombia|develop|moneygram|now|rain|releas",
-  "fp:against|amc|argu|block|cannot|ceo|defend|despit|disput|issuer"
+  "fp:against|amc|argu|block|cannot|ceo|defend|despit|disput|issuer",
+  "fp:276m|allegedly|brazil|brazilian|conduit|fil|freez|froz|frozen|fund",
+  "fp:100m|alongsid|arb|arbitrum|dollar|global|incentiv|integrat|join|network",
+  "fp:1763b|activity|ban|chainalysis|china|chines|despit|fold|government|grew43"
 ]
