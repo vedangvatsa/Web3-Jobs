@@ -1,5 +1,5 @@
 {
-  "lastIndex": 361,
+  "lastIndex": 363,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -160,7 +160,9 @@
     "ops70",
     "infra29",
     "ops79",
-    "psl2"
+    "psl2",
+    "pm191",
+    "dsci"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5165,497 +5167,6 @@
       "verification": "verified"
     },
     {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "0x21cc502a62dd1ce4f61cc2672f12d7dd74e1fad1",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "0x6330fb27d7afdfcb1746d0813bf9889bacdaed2c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "0xd065f0f4e095084bb5f4913565d2fb1742d665bb",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "0xe0101db4b5df598ef546088f8039a56193a03a21",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "6ac15877ad7fd83bc500b616",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "6ac15882aa79e514b9fc5a08",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "urn:li:share:7512233401127460866",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "691827047618629_1105670825373485",
-      "verification": "verified"
-    },
-    {
-      "slug": "eng358",
-      "company": "Elwood Technologies",
-      "title": "Graduate/Junior Software Engineer",
-      "platform": "instagram",
-      "postedAt": "2026-10-03T19:32:53.230Z",
-      "postId": "18098159234531712",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "x",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "6ac1cd8d5829d2489a034d83",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Animoca Brands is hiring Talent Acquisition Specialist - (6-Month Contract)\n\nhttps://hashtagweb3.com/rec22/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106593339277533341"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "threads",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "18123432910918577",
-      "verification": "verified",
-      "expectedText": "Animoca Brands is hiring Talent Acquisition Specialist - (6-Month Contract): https://hashtagweb3.com/rec22/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeDtm_nG_1E",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "bluesky",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwzitvvsej2t",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x3113f0d4221fbcce2349150b86f98429107ad1a6",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x186d8a71665cab9cd3d18f176b7a1dbd4947f3bb",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x20bee476c0aaa383dd27c37ce61c82461e7d626b",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0xc88ad2d8a555368fa63eb15409ea71d880a8faf9",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0xb8fdb7feeac07d7d444f94212af1339256fa6740",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x2fa0fae277b8a35c881b0d5620c2ce74b676f440",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0xcac8ec657ee7c6f7f2e4fd5ae87c1eaabc39298c",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x8239d566467d1e3aa7829918b61911b97b89fc77",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x177d5217fc9e3c5659579953137593395bc3f1c9",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x19c880da2e9522b90d11e46c3e1f64402e0edba5",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x3c257eba6f720946c338ae5962add0717e997abb",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x44abaac1b96a38f3b374825dc4b226644adebf9d",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x1418873771eef802317f3fb68a2a9e1fdf7ac9bc",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x317b47c9445d65796724257414204829817acdd7",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x4555fce90160211b1fe181f8d6d005a024035d68",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x3725e0b1bca1f7e42bcead2249264abff8f47a32",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "0x10a05d3c26b5fb5543657aeea71c464ec685723a",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "6ac1cda2ad7fd83bc50f0bb0",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "6ac1cdad8dc991c73c68b537",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "urn:li:share:7512359210102218752",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "rec22",
-      "company": "Animoca Brands",
-      "title": "Talent Acquisition Specialist - (6-Month Contract)",
-      "platform": "facebook",
-      "postedAt": "2026-10-04T03:52:44.688Z",
-      "postId": "691827047618629_1105946262012608",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "x",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "6ac1cdc0ad7fd83bc50f0d73",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Bybit is hiring Lead Corporate Secretary\n\nhttps://hashtagweb3.com/cs7/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106593555250655525"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "threads",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "18011775599973625",
-      "verification": "verified",
-      "expectedText": "Bybit is hiring Lead Corporate Secretary: https://hashtagweb3.com/cs7/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeDttOsG_gS",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "bluesky",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mwzivcflwy26",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x2c8602f9a4752ed2fd045d3d945da97056208cba",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x3b2a79721e2b92c90b42be7057bf3ad25a4b2734",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x171973953f24a95f7add730c75b2df11d061a0d7",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0xcc04ebec2b22bb2e813eac4a8856ef6e42384846",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x260a1c0ef1bd460dce56a059c29cc36fe16d5649",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x3f3e2841f6961527d8e5b6c1f7177c3646cefe9f",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x19281b6f86b44e425ca33ef7a2ba308d75505163",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x30ae097eb039b237fe1d6a57edaaac040fb30162",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x1944dc3861dd18db54e4bdd6d14c67973a7e1c6c",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x634e2eb9fb7c620508f3825e359fb96847c377b1",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0xcc3192848955f18fa67dcb4e830acd94d35db064",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cs7",
-      "company": "Bybit",
-      "title": "Lead Corporate Secretary",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T03:53:36.325Z",
-      "postId": "0x1864701c3150734319ad5955d39554373b402e6a",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "cs7",
       "company": "Bybit",
       "title": "Lead Corporate Secretary",
@@ -10161,6 +9672,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-07T11:32:43.778Z",
       "postId": "691827047618629_1108858505054717",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "x",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "6ac69e2905769b096e401d0a",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "OKX is hiring Principal Product Manager - Simple Trading\n\nhttps://hashtagweb3.com/pm191/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107916845105750341"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "threads",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "18029688962896474",
+      "verification": "verified",
+      "expectedText": "OKX is hiring Principal Product Manager - Simple Trading: https://hashtagweb3.com/pm191/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeNHeF4m8DE",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "bluesky",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxcopx22i42t",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x2bcd798d5cf1f6612623ae1d9c3f95c6134ca84f",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x9e9a363cce0b4c187493ae7523c7a6ccbf2c127a",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x2c9f21f440d283f96f8a37564e11697b699977c8",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0xa871fd61185f49ff04e33d7077038d51f109c0af",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x5115f9c67e7e430d8ec79a6b864777048e286338",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x454fa170e80d132ff05a6de08b4a58b18dfcf47c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x9ebffbbcd0500a424df6c4fa4737a9129b7731b9",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x8557fc1cdcb164cead23a157e2da1ef3c08aa2e4",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0xe943bead7a17098b4d234073568c0da976e7410d",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x7cf8adda86345708c857a5d107aec9ea770058e3",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x84b5448b843f6c7c616dabbb740906eb5a641e0a",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0xda8a7e1a9ba4b28c372f4818efff94dcfdab91d9",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0xc94f0fb107b1876482f837b08c4291bc828f9351",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x2a681fc712c46407632dcc63a6e0df11f5048083",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x8b7f735da32b1140151e53bfa80a3476c4f1771c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0x1eef689b54abe0c4fa3f3e84e3968f5f7649bc41",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "0xe8bb370dc8e95907f9ec5113725e98e34157cb27",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "6ac69e3c66aa35478820a12f",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "6ac69e474b237fa33e446b35",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "urn:li:share:7513682706648477696",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm191",
+      "company": "OKX",
+      "title": "Principal Product Manager - Simple Trading",
+      "platform": "facebook",
+      "postedAt": "2026-10-07T19:31:52.990Z",
+      "postId": "691827047618629_1109193375021230",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "x",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "6ac69e5f05769b096e4029af",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Chainalysis is hiring Deployment Strategist - Crypto Investigations\n\nhttps://hashtagweb3.com/dsci/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2107917069907828932"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "threads",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "18113061242166315",
+      "verification": "verified",
+      "expectedText": "Chainalysis is hiring Deployment Strategist - Crypto Investigations: https://hashtagweb3.com/dsci/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeNHkmHm_L4",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "bluesky",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxcoriebx62c",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x16906b5f80e8c0d8a7e200323b80e544cc807040",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x68b022221461ce2453426546a97e0d18aaa0af9b",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x1925f3cd2722b73ac1c2bb18882e2ddcfe04c9d3",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0xb190bc108f794ff032be33a5c3e0b15fe48c62bc",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x74d9d9fb3fbc7ba813c3f5807af74cd37937c429",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x7725e72258a75e8e1f7ba61784901df93cce7259",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x66d5ec66e3a6c8403be5fce96f10c0b6f7dde57c",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x9636032f62ab024df57568f75e6a93370bec868a",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x4746d72c0ffdcd97ec10b2b08e017ff11b811e16",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x080acf41d8afd6b82cf32469e42468ab62116ea2",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0xc4f8d1cb9e7f48e9f8cfabe17f540d803a9c4c84",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0xe358dd374e2882017e2b276d710f378e6c6d094c",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0xa3d35cf5e6917ebb50990b3755f844662b014daa",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x4eb8848c19c6fc9f322cd0b26db060828a7f6720",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0xe1d651612eedee25604a0ea82cd615af13d5e90d",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x2bdd601d5fc42d0b8b4d3b0a552c74839630c012",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "0x68bfbf50d780e7e7610b107b7e1d7505bae7f86b",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "6ac69e7105769b096e402d96",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "6ac69e7b819a4d01246c64dc",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "urn:li:share:7513682926585405441",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "dsci",
+      "company": "Chainalysis",
+      "title": "Deployment Strategist - Crypto Investigations",
+      "platform": "facebook",
+      "postedAt": "2026-10-07T19:32:46.773Z",
+      "postId": "691827047618629_1109193868354514",
       "verification": "verified"
     }
   ]
