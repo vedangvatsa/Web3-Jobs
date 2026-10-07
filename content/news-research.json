@@ -10593,11 +10593,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "1ea60427ddeeb2805cbf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T18:20:29.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same FinCEN Oct 5 mixer-proposal withdrawal already covered by fincen-withdrawal.md which covers both withdrawals.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:34:15.339Z",
+      "duplicateOf": "fincen-withdrawal",
+      "lastReviewedDay": "2026-10-07"
     },
     "82cff8bbba1d2449bb5f": {
       "source": "Cointelegraph",
@@ -15288,6 +15294,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:34:13.102Z",
           "duplicateOf": "okx-raise"
+        },
+        "1ea60427ddeeb2805cbf": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same FinCEN Oct 5 mixer-proposal withdrawal already covered by fincen-withdrawal.md which covers both withdrawals.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:34:15.339Z",
+          "duplicateOf": "fincen-withdrawal"
         }
       },
       "baselineSlugs": [
