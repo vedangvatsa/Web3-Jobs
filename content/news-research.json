@@ -8975,23 +8975,23 @@
       "id": "92090e574e85c65e5d1e",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T14:17:49.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "Bloomberg Terminal Hyperliquid pricing story visible only in Defiant origin which returned HTTP 403; needs an openable outlet.",
+      "note": "Bloomberg Terminal Hyperliquid pricing seen only in blocked Defiant origin.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T17:47:43.750Z",
+      "reviewedAt": "2026-10-07T03:46:10.853Z",
       "retrySearches": [
         "Bloomberg Terminal Hyperliquid perpetuals pricing October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "a6c8020af64898cf04d2": {
       "source": "Cointelegraph",
@@ -16169,6 +16169,21 @@
           "reviewedAt": "2026-10-07T03:46:09.005Z",
           "retrySearches": [
             "Agora AUSD OCC trust bank approval October 2026"
+          ]
+        },
+        "92090e574e85c65e5d1e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bloomberg Terminal Hyperliquid pricing seen only in blocked Defiant origin.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:46:10.853Z",
+          "retrySearches": [
+            "Bloomberg Terminal Hyperliquid perpetuals pricing October 2026"
           ]
         }
       },
