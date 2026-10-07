@@ -10536,11 +10536,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e5f009e251840925f76",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T03:00:00.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "S and P ex-AI equities index piece; no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:21.226Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "52f82ed6b5339b83d4e9": {
       "source": "BeInCrypto",
@@ -17073,6 +17078,13 @@
           "note": "Longevity lifestyle piece; non-crypto.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:18.824Z"
+        },
+        "9e5f009e251840925f76": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "S and P ex-AI equities index piece; no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:21.226Z"
         }
       },
       "baselineSlugs": [
