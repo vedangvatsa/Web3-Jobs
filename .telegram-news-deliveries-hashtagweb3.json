@@ -865,5 +865,36 @@
     "slotKey": "2026-10-06:evening",
     "messageId": 155644,
     "sentAt": "2026-10-06T19:35:55.946Z"
+  },
+  "0d90ce76-94bc-453d-94c3-914820a7bc2f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T04:09:56.851Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Conduit Sues Tether Over Frozen $2.76 Million USDT",
+        "summary": "Conduit filed a lawsuit in New York after Tether froze funds allegedly linked to a Brazilian police investigation.",
+        "link": "https://hashtagweb3.com/tether-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Conduit sues Tether over $2.76M USDT freeze tied to Brazil probe"
+      },
+      {
+        "index": -1,
+        "headline": "Arbitrum Integrates Paxos USDG Stablecoin",
+        "summary": "The USDG stablecoin launched on Arbitrum One alongside a proposal for 100 million ARB in user incentives.",
+        "link": "https://hashtagweb3.com/arbitrum-usdg?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Arbitrum Joins Paxos Global Dollar Network With USDG"
+      },
+      {
+        "index": -1,
+        "headline": "China P2P Stablecoin Use Increased Despite Government Ban",
+        "summary": "Chainalysis reports $176.3 billion in Chinese crypto activity, with most transactions occurring through peer-to-peer transfers.",
+        "link": "https://hashtagweb3.com/china-p2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "China P2P Stablecoin Wallets Grew 43 Fold Despite Ban"
+      }
+    ],
+    "slotKey": "2026-10-07:morning"
   }
 }
