@@ -931,5 +931,36 @@
     "slotKey": "2026-10-07:morning",
     "messageId": 65735,
     "sentAt": "2026-10-07T04:08:14.369Z"
+  },
+  "00be4983-f346-4045-bcb9-66757a7f1646": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T11:34:53.757Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "China's Crypto Economy Estimated at $176.3 Billion",
+        "summary": "Chainalysis reports that domestic peer-to-peer transfers accounted for 59.1 percent of China's crypto activity from 2025 to 2026.",
+        "link": "https://hashtagweb3.com/china-p2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "China P2P Stablecoin Wallets Grew 43 Fold Despite Ban"
+      },
+      {
+        "index": -1,
+        "headline": "Adam Iza Sentenced to 78 Months for Ad Fraud",
+        "summary": "He must pay $23.4 million in restitution for tax evasion and using deputies to harass business rivals.",
+        "link": "https://hashtagweb3.com/godfather-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Crypto Godfather Adam Iza Gets 78 Months for Meta Fraud and Deputy Scheme"
+      },
+      {
+        "index": -1,
+        "headline": "Proposed Bill Fines Candidates Betting on Their Own Elections",
+        "summary": "Representative Don Davis introduced legislation to penalize federal candidates at least $10,000 for trading prediction-market contracts on themselves.",
+        "link": "https://hashtagweb3.com/davis-bill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Don Davis Bill Would Fine Federal Candidates for Trading on Their Own Races"
+      }
+    ],
+    "slotKey": "2026-10-07:afternoon"
   }
 }
