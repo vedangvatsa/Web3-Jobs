@@ -10562,11 +10562,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "52f82ed6b5339b83d4e9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T02:59:02.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "Wells Fargo Meta price target equities piece; no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:23.191Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "c06e0e552b45756cda92": {
       "source": "BeInCrypto",
@@ -17085,6 +17090,13 @@
           "note": "S and P ex-AI equities index piece; no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:21.226Z"
+        },
+        "52f82ed6b5339b83d4e9": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Wells Fargo Meta price target equities piece; no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:23.191Z"
         }
       },
       "baselineSlugs": [
