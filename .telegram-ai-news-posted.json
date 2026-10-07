@@ -686,6 +686,9 @@
   "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
   "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
   "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+  "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+  "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+  "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1841,6 +1844,12 @@
   "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
   "Musubi releases open-weight AI model for content moderation",
   "How AI decision models could change content moderation",
+  "Lambda seeks $4 billion funding ahead of 2027 IPO",
+  "AI computing startup Lambda to raise $4B ahead of planned IPO",
+  "Websites block AI agents from performing online tasks",
+  "The next hurdle for AI agents: getting websites to let them in",
+  "Hark releases privacy-focused AI assistant",
+  "Hark releases an AI personal assistant with a focus on privacy",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2044,5 +2053,8 @@
   "fp:appear|biological|cellular|drug|drugmaker|eli|lilly|loss|marker|may",
   "fp:20m|asset|campaign|creat|develop|engineer|focus|former|management|market",
   "fp:add|are|consistently|content|default|digital|easy|generat|identify|marker",
-  "fp:automat|chang|content|decision|filter|how|lightweight|moderation|musubi|open"
+  "fp:automat|chang|content|decision|filter|how|lightweight|moderation|musubi|open",
+  "fp:145b|ahead|are|back|blackston|coatu|comput|fund|investment|ipo",
+  "fp:agent|aim|assistant|automat|block|book|bypass|flight|gett|help",
+  "fp:assistant|compet|design|dot|focus|function|hark|instinct|mus|operat"
 ]
