@@ -966,7 +966,7 @@
     "sentAt": "2026-10-07T11:34:56.304Z"
   },
   "90c0ee13-6903-429e-a680-44fcd28cae5f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-07T19:34:44.381Z",
     "stories": [
       {
@@ -994,6 +994,8 @@
         "originalTitle": "Ether.fi Plans Dollar Stablecoin With Ethena Running Reserves"
       }
     ],
-    "slotKey": "2026-10-07:evening"
+    "slotKey": "2026-10-07:evening",
+    "messageId": 65737,
+    "sentAt": "2026-10-07T19:34:49.096Z"
   }
 }
