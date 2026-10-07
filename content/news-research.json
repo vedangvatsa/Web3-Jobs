@@ -8875,25 +8875,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "2651854477bf82f654ba",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T14:21:22.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "UK digital gilt pilot with six banks visible only in Defiant origin which returned HTTP 403; needs UK government notice or second outlet.",
+      "reason": "verified-event",
+      "note": "Verified six banks, Rigby announcement, DIGIT design via GOV.UK primary plus two outlets.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/uk-names-six-banks-to-lead-first-digital-gilt-pilot",
-          "outcome": "blocked"
+          "url": "https://www.gov.uk/government/news/uk-takes-next-step-towards-first-digitally-native-government-bond",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/uk-names-six-banks-to-lead-first-digital-gilt-issuance/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T17:47:51.451Z",
+      "reviewedAt": "2026-10-07T03:42:39.407Z",
       "retrySearches": [
         "UK digital gilt pilot six banks October 2026 DMO"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "articleSlug": "gilt-pilot"
     },
     "52151d8d99531b6212a8": {
       "source": "The Defiant",
@@ -15534,6 +15542,27 @@
           "reviewedAt": "2026-10-07T03:42:32.815Z",
           "duplicateOf": "abstract-shutdown",
           "mergedInto": "7fee08b9e4ba7e19096e"
+        },
+        "2651854477bf82f654ba": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified six banks, Rigby announcement, DIGIT design via GOV.UK primary plus two outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://www.gov.uk/government/news/uk-takes-next-step-towards-first-digitally-native-government-bond",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/uk-names-six-banks-to-lead-first-digital-gilt-issuance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:42:39.407Z",
+          "articleSlug": "gilt-pilot"
         }
       },
       "baselineSlugs": [
