@@ -1932,7 +1932,7 @@
     "sentAt": "2026-10-07T04:07:20.584Z"
   },
   "d1c2362a-0be4-46e8-a511-86b119a4ea3a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-07T11:32:12.182Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -1973,6 +1973,8 @@
       }
     ],
     "message": "• Binance is hiring <a href=\"https://hashtagweb3.com/marketing148?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Binance Accelerator Program</a>\n• DV Trading is hiring <a href=\"https://hashtagweb3.com/trader7?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Experienced Trader</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/sec89?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Security GRC Program Manager</a>\n• GRVT is hiring <a href=\"https://hashtagweb3.com/analyst68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data &amp; BI Analyst</a>\n• Ripple is hiring <a href=\"https://hashtagweb3.com/manager243?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior GRC Program Manager</a>",
-    "slotKey": "2026-10-07:afternoon"
+    "slotKey": "2026-10-07:afternoon",
+    "messageId": 16515,
+    "sentAt": "2026-10-07T11:32:14.891Z"
   }
 }
