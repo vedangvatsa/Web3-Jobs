@@ -10334,11 +10334,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "846968c6e0edde18aa93",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T17:56:00.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "source-blocked",
+      "note": "Validator-count snapshot seen only in blocked Defiant origin; needs openable outlet or beacon data.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:49:16.177Z",
+      "retrySearches": [
+        "Ethereum validator count 863000 staked ETH October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "9978e7da6da4d08536f1": {
       "source": "The Block",
@@ -16737,6 +16751,21 @@
           "reviewedAt": "2026-10-07T03:49:09.570Z",
           "retrySearches": [
             "Quantus bitcoin quantum October 2026 launch"
+          ]
+        },
+        "846968c6e0edde18aa93": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Validator-count snapshot seen only in blocked Defiant origin; needs openable outlet or beacon data.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:49:16.177Z",
+          "retrySearches": [
+            "Ethereum validator count 863000 staked ETH October 2026"
           ]
         }
       },
