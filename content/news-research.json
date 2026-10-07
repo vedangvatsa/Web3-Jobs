@@ -9573,11 +9573,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a06e5eb5ade277d83a6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T19:01:29.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same OKX 25B round with Circle Ripple QRT SC Ventures already covered by okx-raise.md.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:34:13.102Z",
+      "duplicateOf": "okx-raise",
+      "lastReviewedDay": "2026-10-07"
     },
     "f9746104045e67fa4194": {
       "source": "Decrypt",
@@ -15274,6 +15280,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:34:11.235Z",
           "duplicateOf": "zec-etf"
+        },
+        "0a06e5eb5ade277d83a6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same OKX 25B round with Circle Ripple QRT SC Ventures already covered by okx-raise.md.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:34:13.102Z",
+          "duplicateOf": "okx-raise"
         }
       },
       "baselineSlugs": [
