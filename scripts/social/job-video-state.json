@@ -1543,10 +1543,11 @@
           "url": "https://www.youtube.com/watch?v=wSeF1D5ioQU"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Account Executive, Velocity SMB Hunter at Stripe. Dublin.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-07T19:35:36.975Z",
-          "postId": "6ac69f0a819a4d01246c8735"
+          "postId": "6ac69f0a819a4d01246c8735",
+          "url": "https://tiktok.com/@hashtagweb3/video/7694011957547896097"
         }
       }
     }
