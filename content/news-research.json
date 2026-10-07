@@ -10642,11 +10642,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e80935cd64f903191b02",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T02:01:59.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "China biotech pharma equities piece; no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:32.800Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "bf5478ae4287582986f4": {
       "source": "BeInCrypto",
@@ -17109,6 +17114,13 @@
           "note": "Equities rally breadth analysis; no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:30.739Z"
+        },
+        "e80935cd64f903191b02": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "China biotech pharma equities piece; no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:32.800Z"
         }
       },
       "baselineSlugs": [
