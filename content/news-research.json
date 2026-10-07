@@ -10495,11 +10495,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c55ce1b2eae71c3d3d6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T17:19:58.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "price-chatter",
+      "note": "Intraday price grind toward 87K, market commentary only.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:57.539Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "9e5f009e251840925f76": {
       "source": "BeInCrypto",
@@ -16977,6 +16982,13 @@
           "note": "Bitcoin-vs-equities price comparison, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:55.725Z"
+        },
+        "3c55ce1b2eae71c3d3d6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Intraday price grind toward 87K, market commentary only.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:57.539Z"
         }
       },
       "baselineSlugs": [
