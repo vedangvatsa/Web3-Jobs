@@ -5543,23 +5543,23 @@
       "id": "4537a93b76d3142e2d63",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T12:51:42.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "Same Strategy Q3 gain and STRC repurchase as 2981e; Decrypt copy open. Verify and draft together next batch.",
+      "reason": "missing-primary-source",
+      "note": "Same Strategy Q3 event as 2981e; Decrypt copy read, 8-K still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:09.869Z",
+      "reviewedAt": "2026-10-07T03:45:20.800Z",
       "retrySearches": [
-        "Strategy Q3 2026 8-K bitcoin gain STRC repurchase filing"
+        "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "8b609249e2f40018d1df": {
       "source": "Cointelegraph",
@@ -15971,6 +15971,21 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:45:18.863Z",
+          "retrySearches": [
+            "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
+          ]
+        },
+        "4537a93b76d3142e2d63": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Same Strategy Q3 event as 2981e; Decrypt copy read, 8-K still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:20.800Z",
           "retrySearches": [
             "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
           ]
