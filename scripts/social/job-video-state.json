@@ -1422,7 +1422,9 @@
           "status": "publishing",
           "text": "DFT Engineer/Leader at Bitdeer\n\nSingapore, SG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
           "startedAt": "2026-10-07T11:31:26.305Z",
-          "containerId": "17916642456461009"
+          "containerId": "17916642456461009",
+          "postId": "18010928048988133",
+          "error": "Error: Video ledger PUT failed — HTTP 409"
         }
       }
     },
