@@ -7413,23 +7413,23 @@
       "id": "4a5bfa78f900728fd152",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T16:30:11.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "source-blocked",
-      "note": "Stockhunt CoinIQ DEX unveiling read on company wire with TOKEN2049 booth demo; no independent second outlet opened, needs outside verification.",
+      "reason": "needs-corroboration",
+      "note": "Company wire read; TOKEN2049 unveiling has no independent coverage.",
       "sourceChecks": [
         {
           "url": "https://chainwire.org/2026/10/05/stockhunt-unveils-coiniq-an-ai-powered-self-custody-dex-at-token2049-singapore/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T11:04:40.935Z",
+      "reviewedAt": "2026-10-07T03:48:37.143Z",
       "retrySearches": [
         "Stockhunt CoinIQ DEX TOKEN2049 October 2026 independent coverage"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "6d9d1591c1d05e54f5d3": {
       "source": "The Block",
@@ -16446,6 +16446,21 @@
           "reviewedAt": "2026-10-07T03:48:35.324Z",
           "retrySearches": [
             "Changer stablecoin self-custodial wallet launch October 2026 independent review"
+          ]
+        },
+        "4a5bfa78f900728fd152": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Company wire read; TOKEN2049 unveiling has no independent coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://chainwire.org/2026/10/05/stockhunt-unveils-coiniq-an-ai-powered-self-custody-dex-at-token2049-singapore/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:48:37.143Z",
+          "retrySearches": [
+            "Stockhunt CoinIQ DEX TOKEN2049 October 2026 independent coverage"
           ]
         }
       },
