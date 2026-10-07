@@ -9452,11 +9452,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "28d44778853a7225286f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T02:20:47.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "needs-corroboration",
+      "note": "CryptoSlate Oct 7 read confirms Peirce exit plus quorum amendment; needs second outlet on the rule.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:46:54.018Z",
+      "retrySearches": [
+        "SEC two commissioners quorum amendment crypto October 2026 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "79021417e15a0215ac3d": {
       "source": "BeInCrypto",
@@ -16214,6 +16228,21 @@
           "reviewedAt": "2026-10-07T03:46:14.534Z",
           "retrySearches": [
             "DeFi Development Corp CHAD preferred buyback October 2026 filing"
+          ]
+        },
+        "28d44778853a7225286f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CryptoSlate Oct 7 read confirms Peirce exit plus quorum amendment; needs second outlet on the rule.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:46:54.018Z",
+          "retrySearches": [
+            "SEC two commissioners quorum amendment crypto October 2026 second outlet"
           ]
         }
       },
