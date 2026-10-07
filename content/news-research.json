@@ -10274,11 +10274,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "66da0c683e82872691be",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T20:13:35.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "opinion",
+      "note": "Spain real-estate polemic with bitcoin framing; commentary, no event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:34.698Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "8d95786904ceeedd22c7": {
       "source": "The Block",
@@ -17121,6 +17126,13 @@
           "note": "China biotech pharma equities piece; no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:32.800Z"
+        },
+        "66da0c683e82872691be": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Spain real-estate polemic with bitcoin framing; commentary, no event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:34.698Z"
         }
       },
       "baselineSlugs": [
