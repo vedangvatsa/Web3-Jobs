@@ -10851,11 +10851,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "82cff8bbba1d2449bb5f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T18:19:35.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "needs-corroboration",
+      "note": "Cointelegraph read confirms 220K ruble accounts vs forecast; needs second outlet or central bank source.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:48:57.463Z",
+      "retrySearches": [
+        "Russia digital ruble 220000 accounts October 2026 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "0104640e7b2b652586ba": {
       "source": "The Defiant",
@@ -16592,6 +16606,21 @@
           "reviewedAt": "2026-10-07T03:48:55.365Z",
           "retrySearches": [
             "Anchorage Digital Routable acquisition October 2026"
+          ]
+        },
+        "82cff8bbba1d2449bb5f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Cointelegraph read confirms 220K ruble accounts vs forecast; needs second outlet or central bank source.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:48:57.463Z",
+          "retrySearches": [
+            "Russia digital ruble 220000 accounts October 2026 second outlet"
           ]
         }
       },
