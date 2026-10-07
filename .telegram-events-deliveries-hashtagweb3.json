@@ -1095,5 +1095,53 @@
     "slotKey": "2026-10-06:evening",
     "messageId": 155643,
     "sentAt": "2026-10-06T19:32:15.172Z"
+  },
+  "5feed736-cb18-4b16-a111-8e5dff2d4892": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T04:07:13.418Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-evt-RBs2kwc5zxYLG5c",
+        "slug": "onchain-capital",
+        "name": "Onchain Capital & Liquidity: DeFi & AI Singapore | Oct 7-8 | During Token2049 Singapore",
+        "startDate": "2026-10-07T06:00:00.000Z",
+        "keys": [
+          "token2049-evt-rbs2kwc5zxylg5c",
+          "page:onchain-capital:2026-10-07",
+          "luma:evt-rbs2kwc5zxylg5c",
+          "luma-url:/chnf8m35",
+          "event:onchaincapitalliquiditydefiaisingaporeoct78duringtoken2049singapore:2026-10-07:"
+        ]
+      },
+      {
+        "id": "token2049-evt-3SbvtX3C28sUGCK",
+        "slug": "beyond-equity",
+        "name": "Beyond Equity: Token Raises for Established Companies | Token2049 Singapore",
+        "startDate": "2026-10-07T07:00:00.000Z",
+        "keys": [
+          "token2049-evt-3sbvtx3c28sugck",
+          "page:beyond-equity:2026-10-07",
+          "luma:evt-3sbvtx3c28sugck",
+          "luma-url:/8bfomi5i",
+          "event:beyondequitytokenraisesforestablishedcompaniestoken2049singapore:2026-10-07:singapore"
+        ]
+      },
+      {
+        "id": "token2049-evt-hY3D1bwL06kQbJK",
+        "slug": "arthur-hayes",
+        "name": "Arthur Hayes Fireside Chat and Neobank Panels | ether.fi Lounge",
+        "startDate": "2026-10-07T07:00:00.000Z",
+        "keys": [
+          "token2049-evt-hy3d1bwl06kqbjk",
+          "page:arthur-hayes:2026-10-07",
+          "luma:evt-hy3d1bwl06kqbjk",
+          "luma-url:/81n4d52e",
+          "event:arthurhayesfiresidechatandneobankpanelsetherfilounge:2026-10-07:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-07:morning"
   }
 }
