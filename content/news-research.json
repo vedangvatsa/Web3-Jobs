@@ -9720,11 +9720,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "dc4cdf128cd4d101b0e6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:30:24.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "CEO interview about the earlier 387M hack; no new event or disclosure.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:49:34.119Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "753edbe8399a832dc23c": {
       "source": "Unchained",
@@ -16893,6 +16898,13 @@
           "note": "China-supercycle speculation piece; prediction, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:49:32.213Z"
+        },
+        "dc4cdf128cd4d101b0e6": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "CEO interview about the earlier 387M hack; no new event or disclosure.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:49:34.119Z"
         }
       },
       "baselineSlugs": [
