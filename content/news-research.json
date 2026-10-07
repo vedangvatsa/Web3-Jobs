@@ -5424,23 +5424,23 @@
       "id": "8785470a177469d3a057",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T13:46:31.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "needs-corroboration",
-      "note": "Stripe stablecoin cards to 100 countries opened and confirmed in CoinDesk (published Oct 1, at window edge); needs a second openable outlet or Stripe announcement.",
+      "note": "CoinDesk read confirms 100-country card plan but story dates Oct 1, window edge; needs Stripe announcement or second outlet.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T01:05:29.959Z",
+      "reviewedAt": "2026-10-07T03:43:45.352Z",
       "retrySearches": [
-        "Stripe stablecoin cards 100 countries Privy Stern October 2026"
+        "Stripe stablecoin cards 100 countries Privy October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "53cd0a8a368388dea5ce": {
       "source": "The Block",
@@ -15812,6 +15812,21 @@
           "reviewedAt": "2026-10-07T03:43:43.545Z",
           "retrySearches": [
             "S and P Global crypto lending vault risk assessments October 2026"
+          ]
+        },
+        "8785470a177469d3a057": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CoinDesk read confirms 100-country card plan but story dates Oct 1, window edge; needs Stripe announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:45.352Z",
+          "retrySearches": [
+            "Stripe stablecoin cards 100 countries Privy October 2026"
           ]
         }
       },
