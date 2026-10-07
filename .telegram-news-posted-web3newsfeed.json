@@ -716,6 +716,9 @@
   "https://hashtagweb3.com/tether-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/gilt-pilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/arbitrum-usdg?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/china-p2p?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/godfather-fraud?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/davis-bill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2052,6 +2055,12 @@
   "UK names six banks to lead first digital gilt pilot",
   "Arbitrum Integrates Paxos USDG Stablecoin",
   "Arbitrum Joins Paxos Global Dollar Network With USDG",
+  "China's Crypto Economy Estimated at $176.3 Billion",
+  "China P2P Stablecoin Wallets Grew 43 Fold Despite Ban",
+  "Adam Iza Sentenced to 78 Months for Ad Fraud",
+  "Crypto Godfather Adam Iza Gets 78 Months for Meta Fraud and Deputy Scheme",
+  "Proposed Bill Fines Candidates Betting on Their Own Elections",
+  "Don Davis Bill Would Fine Federal Candidates for Trading on Their Own Races",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2297,5 +2306,8 @@
   "fp:attacker|bounty|bridg|btc|exploit|follow|fund|offer|offers20|partial",
   "fp:276m|block|brazil|brazilian|claim|conduit|fil|firm|flagg|freez",
   "fp:bank|barclay|completion|digital|early2027|four|gilt|hsbc|lead|manag",
-  "fp:100m|alongsid|arb|arbitrum|dollar|global|incentiv|integrat|join|network"
+  "fp:100m|alongsid|arb|arbitrum|dollar|global|incentiv|integrat|join|network",
+  "fp:1763b|account|activity|ban|chainalysis|china|despit|domestic|economy|estimat",
+  "fp:234m|adam|business|deputy|evasion|fraud|gets78|godfather|harass|iza",
+  "fp:000|bett|bill|candidat|contract|davis|don|election|federal|fin"
 ]
