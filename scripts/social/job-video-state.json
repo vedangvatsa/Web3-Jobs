@@ -1462,10 +1462,11 @@
           "url": "https://www.instagram.com/reel/DeMQ4PGlT4G/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-07T11:35:22.200Z",
-          "postId": "6ac62e7b7cc39385d22b6811"
+          "postId": "6ac62e7b7cc39385d22b6811",
+          "url": "https://www.youtube.com/watch?v=UFuji_Cfyrw"
         }
       }
     }
