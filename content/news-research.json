@@ -11110,11 +11110,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1382d3b099f762c94082",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T17:22:54.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "Mistral AI model release; non-crypto tech news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:16.892Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "f559821dc4caab9c87a8": {
       "source": "The Defiant",
@@ -17049,6 +17054,13 @@
           "note": "TikTok scrape data story; non-crypto tech news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:11.321Z"
+        },
+        "1382d3b099f762c94082": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Mistral AI model release; non-crypto tech news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:16.892Z"
         }
       },
       "baselineSlugs": [
