@@ -10077,11 +10077,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b0ca374854723bfa6f6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T21:07:23.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "source-blocked",
+      "note": "Taaki deportation seen only in blocked origin; needs second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-07T03:49:21.958Z",
+      "retrySearches": [
+        "Amir Taaki deported Singapore October 2026"
+      ],
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "65dd137a595f7f56af89": {
       "source": "Cointelegraph",
@@ -16824,6 +16838,21 @@
           "reviewedAt": "2026-10-07T03:49:19.882Z",
           "retrySearches": [
             "Coinbase 15 minute hourly crypto price markets October 2026"
+          ]
+        },
+        "8b0ca374854723bfa6f6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Taaki deportation seen only in blocked origin; needs second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:49:21.958Z",
+          "retrySearches": [
+            "Amir Taaki deported Singapore October 2026"
           ]
         }
       },
