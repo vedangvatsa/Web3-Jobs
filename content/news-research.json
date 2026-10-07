@@ -10516,11 +10516,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "9f38d7f06d5a330447c7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:22:24.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "duplicate",
+      "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:42:31.024Z",
+      "duplicateOf": "abstract-shutdown",
+      "mergedInto": "7fee08b9e4ba7e19096e",
+      "lastReviewedDay": "2026-10-07"
     },
     "94b7b6fed45cb639c46a": {
       "source": "Decrypt",
@@ -15500,6 +15507,15 @@
           "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:42:29.119Z",
+          "duplicateOf": "abstract-shutdown",
+          "mergedInto": "7fee08b9e4ba7e19096e"
+        },
+        "9f38d7f06d5a330447c7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Abstract Dec 15 shutdown drafted once as abstract-shutdown.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:42:31.024Z",
           "duplicateOf": "abstract-shutdown",
           "mergedInto": "7fee08b9e4ba7e19096e"
         }
