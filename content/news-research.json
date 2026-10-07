@@ -8855,7 +8855,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "2651854477bf82f654ba",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
       "attempts": 2,
       "expiresAt": "2026-10-09T14:21:22.000Z",
@@ -8881,7 +8881,8 @@
         "UK digital gilt pilot six banks October 2026 DMO"
       ],
       "lastReviewedDay": "2026-10-07",
-      "articleSlug": "gilt-pilot"
+      "articleSlug": "gilt-pilot",
+      "publishedAt": "2026-10-07T03:51:20.260Z"
     },
     "52151d8d99531b6212a8": {
       "source": "The Defiant",
@@ -9402,7 +9403,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "28f2f6211a7250f01b9f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T19:46:04.000Z",
@@ -9429,7 +9430,8 @@
       ],
       "reviewedAt": "2026-10-07T03:41:47.587Z",
       "articleSlug": "tether-freeze",
-      "lastReviewedDay": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "publishedAt": "2026-10-07T03:51:20.260Z"
     },
     "28d44778853a7225286f": {
       "source": "CryptoSlate",
@@ -10185,7 +10187,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7fee08b9e4ba7e19096e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
       "attempts": 1,
       "expiresAt": "2026-10-09T20:35:24.000Z",
@@ -10208,7 +10210,8 @@
       ],
       "reviewedAt": "2026-10-07T03:42:19.728Z",
       "articleSlug": "abstract-shutdown",
-      "lastReviewedDay": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "publishedAt": "2026-10-07T03:51:20.260Z"
     },
     "8bf807743ef792545376": {
       "source": "CryptoSlate",
@@ -15625,7 +15628,7 @@
     "2026-10-07": {
       "day": "2026-10-07",
       "startedAt": "2026-10-07T03:31:41.749Z",
-      "status": "prepared",
+      "status": "completed",
       "candidateIds": [
         "751c0a31b9ee07e32b36",
         "623319aad99616fa67c0",
@@ -15800,7 +15803,7 @@
           "duplicateOf": "fincen-withdrawal"
         },
         "28f2f6211a7250f01b9f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified SDNY filing, 2.76M figure, Brazil probe details across four outlets.",
           "sourceChecks": [
@@ -15822,7 +15825,8 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:41:47.587Z",
-          "articleSlug": "tether-freeze"
+          "articleSlug": "tether-freeze",
+          "publishedAt": "2026-10-07T03:51:20.260Z"
         },
         "2edd9d3c535ecdf11772": {
           "status": "rejected",
@@ -15861,7 +15865,7 @@
           "mergedInto": "28f2f6211a7250f01b9f"
         },
         "7fee08b9e4ba7e19096e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Dec 15 shutdown, Igloo losses, bridge instructions across three outlets.",
           "sourceChecks": [
@@ -15879,7 +15883,8 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:42:19.728Z",
-          "articleSlug": "abstract-shutdown"
+          "articleSlug": "abstract-shutdown",
+          "publishedAt": "2026-10-07T03:51:20.260Z"
         },
         "f0bcfd96681ea1538d27": {
           "status": "rejected",
@@ -15927,7 +15932,7 @@
           "mergedInto": "7fee08b9e4ba7e19096e"
         },
         "2651854477bf82f654ba": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified six banks, Rigby announcement, DIGIT design via GOV.UK primary plus two outlets.",
           "sourceChecks": [
@@ -15945,7 +15950,8 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:42:39.407Z",
-          "articleSlug": "gilt-pilot"
+          "articleSlug": "gilt-pilot",
+          "publishedAt": "2026-10-07T03:51:20.260Z"
         },
         "4439b20862c66e020961": {
           "status": "rejected",
@@ -17426,7 +17432,9 @@
         ],
         "total": 136,
         "checkedAt": "2026-10-07T03:31:41.749Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-07T03:51:20.260Z"
     }
   }
 }
