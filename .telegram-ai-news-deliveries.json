@@ -884,5 +884,40 @@
     "slotKey": "2026-10-07:afternoon",
     "messageId": 193325,
     "sentAt": "2026-10-07T11:36:17.106Z"
+  },
+  "2e66473f-0013-4ff2-91f0-4c38ed595515": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T19:33:56.845Z",
+    "stories": [
+      {
+        "index": 11,
+        "original_title": "Google’s new SynthID website can identify AI-generated media",
+        "headline": "Google launches public tool for identifying AI-generated media",
+        "summary": "The website allows users to verify if images, videos, or audio clips were created using artificial intelligence.",
+        "event_rationale": "This covers the deployment of a new AI detection utility, distinct from infrastructure, funding, or model release events.",
+        "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+        "source": "TechCrunch",
+        "originalTitle": "Google’s new SynthID website can identify AI-generated media"
+      },
+      {
+        "index": 6,
+        "original_title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+        "headline": "Healthleap secures $38 million in funding",
+        "summary": "The startup develops diagnostic software that monitors hospital patients to identify those requiring urgent medical attention.",
+        "event_rationale": "This covers a significant funding round for an AI healthcare application, which is distinct from the other selected industry events.",
+        "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+        "source": "TechCrunch",
+        "originalTitle": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look"
+      },
+      {
+        "index": 1,
+        "headline": "Meta launches Muse AI agent on iPad",
+        "summary": "The tablet version arrives four weeks after the mobile launch to increase the assistant's availability.",
+        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+        "source": "TechCrunch",
+        "originalTitle": "Meta’s Muse launches on iPad just a month after its mobile debut"
+      }
+    ],
+    "slotKey": "2026-10-07:evening"
   }
 }
