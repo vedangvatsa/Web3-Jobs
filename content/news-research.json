@@ -3181,23 +3181,23 @@
       "id": "c5df46f189a550c4b985",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T16:49:15.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "Umia 6.1M raise at 18M FDV reported only by The Block; page blocked, needs a second openable outlet or company announcement.",
+      "reason": "source-blocked",
+      "note": "Umia raise seen only in blocked Block page; needs company announcement or second outlet.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-06T01:05:10.457Z",
+      "reviewedAt": "2026-10-07T03:43:17.313Z",
       "retrySearches": [
         "Umia raises 6.1 million token launch October 2026"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "80b65096e8fd3565317c": {
       "source": "Decrypt",
@@ -15684,6 +15684,21 @@
           "reviewedAt": "2026-10-07T03:43:09.868Z",
           "retrySearches": [
             "Aave GHO borrow rate 4.5 redemption reserves October 2026 governance"
+          ]
+        },
+        "c5df46f189a550c4b985": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Umia raise seen only in blocked Block page; needs company announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:43:17.313Z",
+          "retrySearches": [
+            "Umia raises 6.1 million token launch October 2026"
           ]
         }
       },
