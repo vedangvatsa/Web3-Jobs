@@ -1145,5 +1145,53 @@
     "slotKey": "2026-10-07:morning",
     "messageId": 155646,
     "sentAt": "2026-10-07T04:07:17.416Z"
+  },
+  "cf8be4d6-9351-47b3-887a-410b9180aed7": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T11:32:22.679Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtDE6g45qZhsILO",
+        "slug": "uoqavs7x",
+        "name": "Pr1me [Lisbon Series] - Exclusive Dinner for Web3 Finance",
+        "startDate": "2026-10-07T18:00:00.000Z",
+        "keys": [
+          "luma-batch-evtde6g45qzhsilo",
+          "page:uoqavs7x:2026-10-07",
+          "luma:evt-de6g45qzhsiloxs",
+          "luma-url:/uoqavs7x",
+          "event:pr1melisbonseriesexclusivedinnerforweb3finance:2026-10-07:lisbon"
+        ]
+      },
+      {
+        "id": "luma-crypto-XeNEjxuPS7Ubymi",
+        "slug": "psh",
+        "name": "Pax Silica Hackathon: SF Tech Week",
+        "startDate": "2026-10-07T22:00:00.000Z",
+        "keys": [
+          "luma-crypto-xenejxups7ubymi",
+          "page:psh:2026-10-07",
+          "luma:evt-xenejxups7ubymi",
+          "luma-url:/builde-q0bj",
+          "event:paxsilicahackathonsftechweek:2026-10-07:san francisco"
+        ]
+      },
+      {
+        "id": "luma-crypto-1vMPCKsGTGq54i7",
+        "slug": "ssrb",
+        "name": "Solana Strider Run & Breakfast",
+        "startDate": "2026-10-07T23:30:00.000Z",
+        "keys": [
+          "luma-crypto-1vmpcksgtgq54i7",
+          "page:ssrb:2026-10-08",
+          "luma:evt-1vmpcksgtgq54i7",
+          "luma-url:/hn4u80ws",
+          "event:solanastriderrunbreakfast:2026-10-08:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-07:afternoon"
   }
 }
