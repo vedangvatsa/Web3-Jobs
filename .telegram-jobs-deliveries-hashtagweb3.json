@@ -920,7 +920,7 @@
     "sentAt": "2026-10-06T19:32:01.044Z"
   },
   "164af874-3f58-49fa-a37e-7884ae7fdc7b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-07T04:07:29.885Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -961,6 +961,8 @@
       }
     ],
     "message": "• DRW is hiring <a href=\"https://hashtagweb3.com/tr65?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Quant Researcher</a>\n• Groma is hiring <a href=\"https://hashtagweb3.com/operations8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Junior Property Operations Associate</a>\n• Bitpanda is hiring <a href=\"https://hashtagweb3.com/associate84?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Executive Assistant</a>\n• Telcoin is hiring <a href=\"https://hashtagweb3.com/regional?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Regional CCO</a>\n• The Block is hiring <a href=\"https://hashtagweb3.com/manager300?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Strategic Partnership Senior Manager</a>",
-    "slotKey": "2026-10-07:morning"
+    "slotKey": "2026-10-07:morning",
+    "messageId": 155647,
+    "sentAt": "2026-10-07T04:07:32.307Z"
   }
 }
