@@ -10732,11 +10732,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ceb7f975b4ecf723cf23",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-09T22:46:03.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "out-of-scope",
+      "note": "Google image-model launch; non-crypto tech news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:09.287Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "9f38d7f06d5a330447c7": {
       "source": "Unchained",
@@ -17025,6 +17030,13 @@
           "note": "Celebrity marketing appointment story; promo, no market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:07.506Z"
+        },
+        "ceb7f975b4ecf723cf23": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Google image-model launch; non-crypto tech news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:09.287Z"
         }
       },
       "baselineSlugs": [
