@@ -10713,11 +10713,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8e7d6c5c95c8af45ac1f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T00:30:19.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "not-a-concrete-event",
+      "note": "Single-source onchain supply snapshot with no launch, vote or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:50:46.886Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "5a91fb81407fdaba3f67": {
       "source": "Cointelegraph",
@@ -17157,6 +17162,13 @@
           "note": "Tax-windfall analysis derived from price rally; commentary, no filing or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-07T03:50:45.116Z"
+        },
+        "8e7d6c5c95c8af45ac1f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Single-source onchain supply snapshot with no launch, vote or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:50:46.886Z"
         }
       },
       "baselineSlugs": [
