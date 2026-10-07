@@ -931,5 +931,36 @@
     "slotKey": "2026-10-07:afternoon",
     "messageId": 155654,
     "sentAt": "2026-10-07T11:33:40.571Z"
+  },
+  "d9bb50be-3379-40f3-b888-b31b79580c8d": {
+    "status": "reserved",
+    "reservedAt": "2026-10-07T19:33:52.830Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Abstract Ethereum Layer 2 to Close on December 15",
+        "summary": "Igloo Inc. cited a lack of product-market fit for the closure and urged users to withdraw funds before mid-December.",
+        "link": "https://hashtagweb3.com/abstract-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline"
+      },
+      {
+        "index": -1,
+        "headline": "Brevan Howard selects Ripple Prime for brokerage and clearing",
+        "summary": "The asset manager will use the service for multi-asset financing across traditional and digital markets.",
+        "link": "https://hashtagweb3.com/ripple-prime?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Brevan Howard Taps Ripple Prime for Brokerage and Clearing"
+      },
+      {
+        "index": -1,
+        "headline": "Bill would fine candidates for betting on their own races",
+        "summary": "Representative Don Davis introduced legislation imposing $10,000 penalties for trading prediction-market contracts related to a candidate's own election.",
+        "link": "https://hashtagweb3.com/davis-bill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Don Davis Bill Would Fine Federal Candidates for Trading on Their Own Races"
+      }
+    ],
+    "slotKey": "2026-10-07:evening"
   }
 }
