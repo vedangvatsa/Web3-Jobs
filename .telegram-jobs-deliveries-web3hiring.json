@@ -2070,7 +2070,7 @@
     "sentAt": "2026-10-07T19:32:09.973Z"
   },
   "50dc96dd-4d4b-4a26-8e28-cdae8941f4d9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-07T19:32:11.469Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -2111,6 +2111,8 @@
       }
     ],
     "message": "• Flow Traders is hiring <a href=\"https://hashtagweb3.com/cs4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Communications Specialist</a>\n• Ramp is hiring <a href=\"https://hashtagweb3.com/manager448?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Channel Partner Manager</a>\n• Elliptic is hiring <a href=\"https://hashtagweb3.com/sales217?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Enterprise Account Executive</a>\n• Crystal Intelligence is hiring <a href=\"https://hashtagweb3.com/sales422?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Associate Director of Sales</a>\n• Rain is hiring <a href=\"https://hashtagweb3.com/product163?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Data Analyst</a>",
-    "slotKey": "2026-10-07:evening"
+    "slotKey": "2026-10-07:evening",
+    "messageId": 112,
+    "sentAt": "2026-10-07T19:32:13.451Z"
   }
 }
