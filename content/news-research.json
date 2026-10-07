@@ -9487,11 +9487,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "79021417e15a0215ac3d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T01:45:10.000Z",
-      "lastSeenAt": "2026-10-07T03:31:41.749Z"
+      "lastSeenAt": "2026-10-07T03:31:41.749Z",
+      "reason": "opinion",
+      "note": "Policy-chief commentary on Clarity Act politics with no concrete event; origin blocked.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-07T03:47:05.106Z",
+      "lastReviewedDay": "2026-10-07"
     },
     "baa9316ece00bf2fbe7f": {
       "source": "BeInCrypto",
@@ -16302,6 +16307,13 @@
           "retrySearches": [
             "Hyperliquid Singapore MAS license October 2026"
           ]
+        },
+        "79021417e15a0215ac3d": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Policy-chief commentary on Clarity Act politics with no concrete event; origin blocked.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-07T03:47:05.106Z"
         }
       },
       "baselineSlugs": [
