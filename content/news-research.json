@@ -5345,23 +5345,23 @@
       "id": "9b27d6e3d137c258d8c9",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-08T14:15:45.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "Same Bitmine 15112 ETH weekly buy as c7e1; Unchained copy open. Verify and draft together next batch.",
+      "reason": "missing-primary-source",
+      "note": "Same Bitmine buy as c7e1; Unchained copy read, filing still needed.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/tom-lees-bitmine-slows-ether-buying-for-a-second-straight-week-adding-15112-eth/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-06T01:06:40.787Z",
+      "reviewedAt": "2026-10-07T03:45:40.711Z",
       "retrySearches": [
         "Bitmine 15112 ETH purchase October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-06",
-      "nextReviewDate": "2026-10-07"
+      "lastReviewedDay": "2026-10-07",
+      "nextReviewDate": "2026-10-08"
     },
     "cff828417cd1fb1a55c5": {
       "source": "BeInCrypto",
@@ -16043,6 +16043,21 @@
             }
           ],
           "reviewedAt": "2026-10-07T03:45:31.637Z",
+          "retrySearches": [
+            "Bitmine 15112 ETH purchase October 2026 filing"
+          ]
+        },
+        "9b27d6e3d137c258d8c9": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Same Bitmine buy as c7e1; Unchained copy read, filing still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/tom-lees-bitmine-slows-ether-buying-for-a-second-straight-week-adding-15112-eth/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-07T03:45:40.711Z",
           "retrySearches": [
             "Bitmine 15112 ETH purchase October 2026 filing"
           ]
