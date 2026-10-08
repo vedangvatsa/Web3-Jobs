@@ -1582,9 +1582,10 @@
           "url": "https://www.youtube.com/watch?v=C5hJW9aTNMQ"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Senior BI Analyst at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-08T03:31:55.793Z"
+          "startedAt": "2026-10-08T03:31:55.793Z",
+          "postId": "6ac70ead2977c961bdc3eaec"
         }
       }
     },
