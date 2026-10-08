@@ -11341,11 +11341,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "97826309e5398265914f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T15:56:49.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 verified Lido Lend Morpho-fork proposal targeting Q4 across Lido forum and CryptoBriefing; draft not yet written, frame as proposal not launch.",
+      "sourceChecks": [
+        {
+          "url": "https://research.lido.fi/t/unveiling-lido-lend-security-first-lending/11987",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/lido-lend-morpho-blue-fork-q4/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:16.751Z",
+      "retrySearches": [
+        "Lido Lend governance vote parameters audits"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "0955147a83933017387f": {
       "source": "Decrypt",
@@ -22887,6 +22905,25 @@
           "reviewedAt": "2026-10-08T04:19:15.032Z",
           "retrySearches": [
             "Anchorage Routable acquisition terms price"
+          ]
+        },
+        "97826309e5398265914f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Lido Lend Morpho-fork proposal targeting Q4 across Lido forum and CryptoBriefing; draft not yet written, frame as proposal not launch.",
+          "sourceChecks": [
+            {
+              "url": "https://research.lido.fi/t/unveiling-lido-lend-security-first-lending/11987",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/lido-lend-morpho-blue-fork-q4/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:16.751Z",
+          "retrySearches": [
+            "Lido Lend governance vote parameters audits"
           ]
         }
       },
