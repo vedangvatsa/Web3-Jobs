@@ -8383,23 +8383,27 @@
       "id": "d1c0c41c21a98aa3f029",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T17:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "needs-corroboration",
-      "note": "CoinDesk read confirms Founders Fund 5M ANVL buy with Pantera; needs second outlet or announcement.",
+      "note": "Round 3 verified Founders Fund 5M ANVL token buy with Pantera across CoinDesk and company release; draft not yet written.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/press-releases/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-417852",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-07T03:45:59.421Z",
+      "reviewedAt": "2026-10-08T04:18:32.426Z",
       "retrySearches": [
-        "Anvil ANVL token buy Founders Fund Pantera October 2026 announcement"
+        "Anvil ANVL token valuation SDK enterprise partnerships"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "c975d95267ed63707c56": {
       "source": "CoinDesk",
@@ -22635,6 +22639,25 @@
           "reviewedAt": "2026-10-08T04:18:30.755Z",
           "retrySearches": [
             "DeFi Development CHAD preferred repurchase 8-K filing"
+          ]
+        },
+        "d1c0c41c21a98aa3f029": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Founders Fund 5M ANVL token buy with Pantera across CoinDesk and company release; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/press-releases/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-417852",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:32.426Z",
+          "retrySearches": [
+            "Anvil ANVL token valuation SDK enterprise partnerships"
           ]
         }
       },
