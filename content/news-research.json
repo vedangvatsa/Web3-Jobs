@@ -15414,11 +15414,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a0c255f93489afb87051",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T05:09:36.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin support-level prediction piece, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:26:57.554Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "01c21aee4fac03ad75c2": {
       "source": "CoinDesk",
@@ -24981,6 +24986,13 @@
           "note": "Daily ETF flow figure with no standalone event behind it.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:26:55.244Z"
+        },
+        "a0c255f93489afb87051": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin support-level prediction piece, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:26:57.554Z"
         }
       },
       "baselineSlugs": [
