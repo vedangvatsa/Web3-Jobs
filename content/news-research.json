@@ -18399,11 +18399,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bf5b389323675d6a9a56",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:55:28.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "Brent oil snapback above 105 on Iran headlines; commodities coverage, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:34.632Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "964296716382de4ef341": {
       "source": "BeInCrypto",
@@ -27493,6 +27498,13 @@
           "note": "HTX Ventures convergence report announcement; exchange research promo, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:32.530Z"
+        },
+        "bf5b389323675d6a9a56": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Brent oil snapback above 105 on Iran headlines; commodities coverage, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:34.632Z"
         }
       },
       "baselineSlugs": [
