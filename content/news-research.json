@@ -12971,11 +12971,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "50c25c5479e00100eded",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T01:52:42.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "TV-pundit SpaceX valuation commentary; equities media, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:48.104Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "6ea3eec89f65a0f91093": {
       "source": "BeInCrypto",
@@ -21324,6 +21329,13 @@
           "note": "Megachurch database hack with no crypto nexus; general cybercrime.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:46.501Z"
+        },
+        "50c25c5479e00100eded": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "TV-pundit SpaceX valuation commentary; equities media, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:48.104Z"
         }
       },
       "baselineSlugs": [
