@@ -13121,17 +13121,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "febbaaae7d96d4c83e87",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T02:30:16.000Z",
       "lastSeenAt": "2026-10-08T17:58:12.592Z",
       "reason": "duplicate",
-      "note": "Same Samsung Wallet USDC October rollout covered by samsung-usdc.",
+      "note": "Same Samsung Wallet USDC October rollout to 82M Galaxy devices covered by samsung-usdc in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:16:07.404Z",
+      "reviewedAt": "2026-10-08T18:50:00.557Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "2a5f0f76edb1ecb37ab3"
     },
     "b5cfc3e7d261d8e4319d": {
       "source": "The Defiant",
@@ -28102,6 +28103,15 @@
           "note": "S and P vault risk assessment published Oct 5 expired Oct 8 17:58 UTC before this round could verify and draft; window ended after 72 hours with no timely second read completed in round 5.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:49:56.003Z"
+        },
+        "febbaaae7d96d4c83e87": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC October rollout to 82M Galaxy devices covered by samsung-usdc in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:50:00.557Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
       },
       "baselineSlugs": [
