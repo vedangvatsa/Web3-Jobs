@@ -12848,11 +12848,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc2a3a741a821d307629",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T03:34:42.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Sudden selloff price recap; market-movement coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:00.684Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "febbaaae7d96d4c83e87": {
       "source": "The Defiant",
@@ -21084,6 +21089,13 @@
           "note": "Sub-84k slide with liquidation tally; same price event as sibling items.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:59.076Z"
+        },
+        "bc2a3a741a821d307629": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Sudden selloff price recap; market-movement coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:00.684Z"
         }
       },
       "baselineSlugs": [
