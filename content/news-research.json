@@ -11118,25 +11118,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "f559821dc4caab9c87a8",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T15:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Redstone tokenized-stocks report seen only in blocked Defiant origin; vendor report needs independent pickup.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/defi/redstone-tokenized-stocks-report-defi-gap-equity-perps",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:49:05.893Z",
+      "reason": "not-a-concrete-event",
+      "note": "Tokenized-stock growth data report; industry metric, no event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:31.532Z",
       "retrySearches": [
         "Redstone tokenized stocks 395 percent DeFi report October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "0f8bbe76cd7bfd860528": {
       "source": "Bitcoin Magazine",
@@ -21509,6 +21503,13 @@
           "note": "Payments-volume data report; industry metric, no event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:29.920Z"
+        },
+        "f559821dc4caab9c87a8": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Tokenized-stock growth data report; industry metric, no event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:31.532Z"
         }
       },
       "baselineSlugs": [
