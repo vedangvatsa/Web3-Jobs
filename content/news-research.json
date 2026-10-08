@@ -13817,11 +13817,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ec4c0579b481f18e630",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:36:16.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 verified NEAR Intents Robinhood Chain integration across CryptoBriefing and Coinscreamer; draft not yet written.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/robinhood-chain-near-intents-cross-chain-swaps/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinscreamer.com/robinhood-chain-near-intents-confidential-swaps/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/near-adds-robinhood-chain-to-its-multichain-app",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:39.746Z",
+      "retrySearches": [
+        "NEAR Intents Robinhood Chain volume assets supported"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "47785a59bf9afa150ab7": {
       "source": "The Defiant",
@@ -23093,6 +23115,29 @@
           "reviewedAt": "2026-10-08T04:19:38.054Z",
           "retrySearches": [
             "frogman hack cause key theft investigation update"
+          ]
+        },
+        "3ec4c0579b481f18e630": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified NEAR Intents Robinhood Chain integration across CryptoBriefing and Coinscreamer; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/robinhood-chain-near-intents-cross-chain-swaps/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinscreamer.com/robinhood-chain-near-intents-confidential-swaps/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/near-adds-robinhood-chain-to-its-multichain-app",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:39.746Z",
+          "retrySearches": [
+            "NEAR Intents Robinhood Chain volume assets supported"
           ]
         }
       },
