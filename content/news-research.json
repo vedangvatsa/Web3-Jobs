@@ -19712,11 +19712,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f5851954e1037664b42a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:00:00.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "price-chatter",
+      "note": "October bloodbath question headline is market prediction framing with no concrete event or verifiable claim.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:49.718Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "75f378f115dd86028600": {
       "source": "BeInCrypto",
@@ -29046,6 +29051,13 @@
           "note": "Bitcoin buy-wall and liquidation bloodbath framing is price-action coverage with no concrete crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:47.619Z"
+        },
+        "f5851954e1037664b42a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "October bloodbath question headline is market prediction framing with no concrete event or verifiable claim.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:49.718Z"
         }
       },
       "baselineSlugs": [
