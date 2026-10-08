@@ -14172,13 +14172,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "9947fd6054fa80daa4d4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T13:20:54.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Wrote europol-quantum (895 words): Europol Oct 7 twin quantum reports, wallets exposed, 6.9M BTC, phased migration. CoinDesk plus Decrypt read. All gates pass.",
+      "note": "Wrote europol-quantum (806 words): Europol Oct 7 twin quantum reports with wallet exposure, 6.9M and 6.04M BTC figures and phased PQC migration. CoinDesk, Decrypt and Yahoo-Unchained read; Europol JS-shell recovered via quotes. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
@@ -14187,9 +14187,13 @@
         {
           "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
           "outcome": "read"
+        },
+        {
+          "url": "https://tech.yahoo.com/cybersecurity/articles/europol-urges-crypto-wallet-providers-104641660.html",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T12:14:07.695Z",
+      "reviewedAt": "2026-10-08T18:49:09.514Z",
       "articleSlug": "europol-quantum",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -27843,6 +27847,27 @@
           ],
           "reviewedAt": "2026-10-08T18:49:04.641Z",
           "articleSlug": "cardano-standard"
+        },
+        "9947fd6054fa80daa4d4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote europol-quantum (806 words): Europol Oct 7 twin quantum reports with wallet exposure, 6.9M and 6.04M BTC figures and phased PQC migration. CoinDesk, Decrypt and Yahoo-Unchained read; Europol JS-shell recovered via quotes. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://tech.yahoo.com/cybersecurity/articles/europol-urges-crypto-wallet-providers-104641660.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:49:09.514Z",
+          "articleSlug": "europol-quantum"
         }
       },
       "baselineSlugs": [
