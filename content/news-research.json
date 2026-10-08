@@ -14145,11 +14145,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0babe217af4738d51336",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T10:26:55.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified WLFI USD1 Mesh payments plan outlined at TOKEN2049 panel across Cointelegraph and CryptoBriefing.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:11:27.562Z",
+      "articleSlug": "wlfi-payments",
+      "lastReviewedDay": "2026-10-08"
     },
     "2fdc8b32451fba85bb96": {
       "source": "Cointelegraph",
@@ -22021,6 +22036,23 @@
           ],
           "reviewedAt": "2026-10-08T04:11:24.039Z",
           "articleSlug": "securitize-korea"
+        },
+        "0babe217af4738d51336": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified WLFI USD1 Mesh payments plan outlined at TOKEN2049 panel across Cointelegraph and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:11:27.562Z",
+          "articleSlug": "wlfi-payments"
         }
       },
       "baselineSlugs": [
