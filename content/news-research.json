@@ -17630,11 +17630,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "fa40fab3841719355019",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:10:30.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "duplicate",
+      "note": "Same Cardano Oct 8 Veridian spinoff with tokenized shares covered by veridian-equity.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:11:32.125Z",
+      "duplicateOf": "veridian-equity",
+      "mergedInto": "bbfbc980f72f30b4800c",
+      "lastReviewedDay": "2026-10-08"
     },
     "fe10153decb3c5a33060": {
       "source": "BeInCrypto",
@@ -26541,6 +26548,15 @@
           "reviewedAt": "2026-10-08T18:11:29.831Z",
           "duplicateOf": "esma-stablecoins",
           "mergedInto": "624dea8769fe6ccc1f7b"
+        },
+        "fa40fab3841719355019": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Cardano Oct 8 Veridian spinoff with tokenized shares covered by veridian-equity.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:11:32.125Z",
+          "duplicateOf": "veridian-equity",
+          "mergedInto": "bbfbc980f72f30b4800c"
         }
       },
       "baselineSlugs": [
