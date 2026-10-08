@@ -13581,11 +13581,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c6e71394c4eba7312643",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T15:03:54.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Newsletter essay on Zcash privacy; analysis, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:22.289Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "e1016b5ea433bb06db24": {
       "source": "The Block",
@@ -21192,6 +21197,13 @@
           "note": "Vendor survey-based take on card access; analysis without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:20.665Z"
+        },
+        "c6e71394c4eba7312643": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Newsletter essay on Zcash privacy; analysis, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:22.289Z"
         }
       },
       "baselineSlugs": [
