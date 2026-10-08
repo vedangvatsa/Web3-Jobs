@@ -15457,11 +15457,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d0c341e251b419b5c56",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:47:21.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "duplicate",
+      "note": "Same Samsung Wallet USDC October rollout covered by samsung-usdc.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:26:25.852Z",
+      "duplicateOf": "samsung-usdc",
+      "mergedInto": "2a5f0f76edb1ecb37ab3",
+      "lastReviewedDay": "2026-10-08"
     },
     "6db4d7756b0c78596b24": {
       "source": "Unchained",
@@ -24819,6 +24826,15 @@
           "note": "Same Samsung Wallet USDC October rollout covered by samsung-usdc.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:26:23.786Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "4d0c341e251b419b5c56": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC October rollout covered by samsung-usdc.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:26:25.852Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
