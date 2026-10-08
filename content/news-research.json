@@ -11927,11 +11927,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "315f594c1f4585bf6ecf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:52:51.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "promotional",
+      "note": "One-bitcoin conference giveaway stunt; marketing, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:15.381Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "5a0f5db2536ebf860244": {
       "source": "Bitcoin Magazine",
@@ -21480,6 +21485,13 @@
           "note": "Exchange executive trend prediction; marketing interview, not an event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:13.680Z"
+        },
+        "315f594c1f4585bf6ecf": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "One-bitcoin conference giveaway stunt; marketing, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:15.381Z"
         }
       },
       "baselineSlugs": [
