@@ -12236,11 +12236,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "d557a2418f1625e8f9f2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T12:39:09.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Rhyne 32-month sentence, 20 BTC demand and forensic details across Decrypt and news.bitcoin.com.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/regulation-and-legal/engineer-sabotaged-employer-bitcoin-ransom-prison-time/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:59:18.157Z",
+      "articleSlug": "rhyne-extortion",
+      "lastReviewedDay": "2026-10-08"
     },
     "6fdc2a0451102e6067f0": {
       "source": "Bitcoin Magazine",
@@ -21610,6 +21625,23 @@
           "reviewedAt": "2026-10-08T03:59:10.971Z",
           "duplicateOf": "storm-venue",
           "mergedInto": "4954b8be94596f23a77e"
+        },
+        "d557a2418f1625e8f9f2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Rhyne 32-month sentence, 20 BTC demand and forensic details across Decrypt and news.bitcoin.com.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/regulation-and-legal/engineer-sabotaged-employer-bitcoin-ransom-prison-time/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:59:18.157Z",
+          "articleSlug": "rhyne-extortion"
         }
       },
       "baselineSlugs": [
