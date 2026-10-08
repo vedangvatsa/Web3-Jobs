@@ -18425,11 +18425,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "964296716382de4ef341",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:37:33.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "TSMC Q3 revenue beat; chip-earnings news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:36.729Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "e85710a4d0d8f74f72c1": {
       "source": "Decrypt",
@@ -27505,6 +27510,13 @@
           "note": "Brent oil snapback above 105 on Iran headlines; commodities coverage, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:34.632Z"
+        },
+        "964296716382de4ef341": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "TSMC Q3 revenue beat; chip-earnings news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:36.729Z"
         }
       },
       "baselineSlugs": [
