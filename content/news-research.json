@@ -15571,13 +15571,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "a58ed5f4524012c5b9b0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T09:17:18.000Z",
       "lastSeenAt": "2026-10-08T17:58:12.592Z",
       "reason": "verified-event",
-      "note": "Wrote greece-tax (611 words): Greece 10 percent crypto tax draft with 500-euro exemption and November parliament target. CoinDesk plus Decrypt read. All gates pass.",
+      "note": "Wrote greece-tax (617 words): Greece Oct 7 draft bill for 10% crypto CGT with 500-euro exemption, June 15% cut, Oct 22 consultation and November parliament plan. CoinDesk, Decrypt and Unchained read; Reuters origin blocked (401). All file gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
@@ -15586,9 +15586,13 @@
         {
           "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
           "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T12:14:19.775Z",
+      "reviewedAt": "2026-10-08T18:23:03.137Z",
       "articleSlug": "greece-tax",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -27529,6 +27533,27 @@
           "note": "Musk praises Bezos Blue Origin reveal; billionaire space commentary, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:39.806Z"
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote greece-tax (617 words): Greece Oct 7 draft bill for 10% crypto CGT with 500-euro exemption, June 15% cut, Oct 22 consultation and November parliament plan. CoinDesk, Decrypt and Unchained read; Reuters origin blocked (401). All file gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:23:03.137Z",
+          "articleSlug": "greece-tax"
         }
       },
       "baselineSlugs": [
