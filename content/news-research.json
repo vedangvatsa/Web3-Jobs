@@ -15440,11 +15440,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "01c21aee4fac03ad75c2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T04:00:07.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "Intraday bitcoin-oil price move with no crypto-native event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:06.859Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "90b295b23c89886bad46": {
       "source": "BeInCrypto",
@@ -24993,6 +24998,13 @@
           "note": "Bitcoin support-level prediction piece, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:26:57.554Z"
+        },
+        "01c21aee4fac03ad75c2": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Intraday bitcoin-oil price move with no crypto-native event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:06.859Z"
         }
       },
       "baselineSlugs": [
