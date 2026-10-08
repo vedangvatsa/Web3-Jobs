@@ -964,5 +964,36 @@
     "slotKey": "2026-10-07:evening",
     "messageId": 155674,
     "sentAt": "2026-10-07T19:33:56.087Z"
+  },
+  "3efaceb0-42f7-4975-bab3-187e16d283ae": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T20:18:37.006Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Eigen and Shielded Labs Launch HashSmash AI Contest",
+        "summary": "The event challenges participants to use artificial intelligence to test vulnerabilities in four cryptographic hash functions.",
+        "link": "https://hashtagweb3.com/hashsmash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Eigen Labs and Shielded Labs Launch HashSmash AI Contest"
+      },
+      {
+        "index": -1,
+        "headline": "Ether.fi to launch stablecoin with Ethena managing reserves",
+        "summary": "Ethena will manage reserves, minting, and compliance for the new ether.fi USD stablecoin.",
+        "link": "https://hashtagweb3.com/etherfi-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ether.fi Plans Dollar Stablecoin With Ethena Running Reserves"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Mainnet Tests First Atomic L1-to-L2 Transaction",
+        "summary": "The demonstration linked the main blockchain and a scaling layer in a single all-or-nothing operation.",
+        "link": "https://hashtagweb3.com/eez-atomic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Economic Zone Tests First Atomic L1 to L2 Transaction"
+      }
+    ],
+    "slotKey": "2026-10-08:evening"
   }
 }
