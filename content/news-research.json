@@ -4682,27 +4682,27 @@
       "id": "008d7a0e67574d608740",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T18:40:07.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "needs-corroboration",
-      "note": "CryptoSlate read confirms hike; Defiant copy blocked. Needs second openable outlet or governance post.",
+      "note": "Pairs with 631b3a02 on the same Aave GHO 4.5 percent hike; governance proposal plus CryptoSlate read verified, draft not yet written.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/aave-hikes-gho-borrow-rates-to-rescue-depleted-stablecoin-pools/",
           "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/defi/aave-raises-core-gho-borrow-rate-to-4-5-amid-thin-redemption-reserves",
-          "outcome": "blocked"
+          "url": "https://governance.aave.com/t/gho-stewards-october-2026-gho-borrow-rate-update/25754",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-07T03:43:09.868Z",
+      "reviewedAt": "2026-10-08T04:18:04.595Z",
       "retrySearches": [
-        "Aave GHO borrow rate 4.5 redemption reserves October 2026 governance"
+        "Aave GHO borrow rate 4.5 executed redemption reserves update"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "225c93bde85c193bfce1": {
       "source": "The Defiant",
@@ -22436,6 +22436,25 @@
             }
           ],
           "reviewedAt": "2026-10-08T04:18:02.523Z",
+          "retrySearches": [
+            "Aave GHO borrow rate 4.5 executed redemption reserves update"
+          ]
+        },
+        "008d7a0e67574d608740": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Pairs with 631b3a02 on the same Aave GHO 4.5 percent hike; governance proposal plus CryptoSlate read verified, draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/aave-hikes-gho-borrow-rates-to-rescue-depleted-stablecoin-pools/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://governance.aave.com/t/gho-stewards-october-2026-gho-borrow-rate-update/25754",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:04.595Z",
           "retrySearches": [
             "Aave GHO borrow rate 4.5 executed redemption reserves update"
           ]
