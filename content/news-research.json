@@ -15823,17 +15823,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "82a8a22ee00a5925034e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T08:03:47.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
       "note": "Same Greece 10 percent crypto tax draft covered by greece-tax.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:26:42.167Z",
+      "reviewedAt": "2026-10-08T12:16:37.641Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "a58ed5f4524012c5b9b0"
     },
     "7820fa9063ea1c03de98": {
       "source": "CoinDesk",
@@ -25470,6 +25471,15 @@
           "note": "Same Greece 10 percent crypto tax draft covered by greece-tax.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T12:16:35.395Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "a58ed5f4524012c5b9b0"
+        },
+        "82a8a22ee00a5925034e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece 10 percent crypto tax draft covered by greece-tax.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:16:37.641Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "a58ed5f4524012c5b9b0"
         }
