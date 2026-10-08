@@ -11741,11 +11741,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9a6e149de49b4c1f5756",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T19:40:35.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Weekly XRP ETF flow figures with no concrete event; fund-flow price coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:22.498Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "19fa3f395a7a7b3c5975": {
       "source": "CryptoSlate",
@@ -20856,6 +20861,13 @@
           "note": "Bitcoin liquidation and ETF-flow price action with no concrete event; market-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:12.069Z"
+        },
+        "9a6e149de49b4c1f5756": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Weekly XRP ETF flow figures with no concrete event; fund-flow price coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:22.498Z"
         }
       },
       "baselineSlugs": [
