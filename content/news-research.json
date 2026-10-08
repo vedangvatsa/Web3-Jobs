@@ -17697,11 +17697,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "07f2f5a0e02145449369",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T16:09:40.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "promotional",
+      "note": "Bitget and Block Scholes vendor report on tokenized-stock capital savings; sponsored-style research, no event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:50.066Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "0bd3fb37178624c073b0": {
       "source": "Bitcoin Magazine",
@@ -27313,6 +27318,13 @@
           "note": "JPMorgan two-stock picks amid rising yields; equities advice, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:47.371Z"
+        },
+        "07f2f5a0e02145449369": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Bitget and Block Scholes vendor report on tokenized-stock capital savings; sponsored-style research, no event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:50.066Z"
         }
       },
       "baselineSlugs": [
