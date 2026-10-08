@@ -26,15 +26,19 @@ The original imported matrix is retained for audit, with its MIT attribution:
 https://github.com/ilyankou/passport-index-dataset
 That upstream repository is archived and is not a current verification source.
 
-The public version-3 passport files combine reviewed government policies with
+The public version-4 passport files combine reviewed government policies with
 attributed Passport Index dashboard snapshots (https://www.passportindex.org/).
 Government rules take precedence. Source metadata distinguishes government
 checks from reference retrievals; each includes its date and source URL.
 Passport Index references are not described as government-verified. Live-page
 facts are separately attributed; the MIT notice below covers the archived dataset.
 The snapshot covers all 199 passports and 198 foreign destinations each.
-Independent government verification is partial. Unresolved rules are marked unknown and have
-no asserted stay allowance. Zero days means unspecified, not unlimited stay.
+Every destination separately records a checked, historical or unresolved review.
+Dated official archives retain capture URLs and as-of dates; they are not current checks.
+Independent government verification remains incomplete. Merely unresolved routes
+retain earlier source answers with an unresolved status. Withdrawn claims without
+replacements and expired exemptions become unknown, with evidence where available.
+Zero days means no single documented day limit, not unlimited stay.
 Temporary exemptions include their expiry and require rechecking afterwards.
 Official references are linked in each passport file's sources object.
 

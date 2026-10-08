@@ -25,9 +25,10 @@ export const COMPACT_CATEGORIES: PlaceCategory[] = ['coliving', 'hostel', 'apart
 export type VisaProgram = { id: string; country: string; continent: string; minIncome: number; visaLength: string; description: string; requirements: string[]; officialUrl?: string; fee?: string; taxNotes?: string; referenceIncome?: string; source: string };
 export type VisaProgramListing = Omit<VisaProgram, 'source'>;
 export type PassportCountry = { id: string; name: string; iso: string | null };
-export type EntryRule = { t: 'vf' | 'voa' | 'ev' | 'eta' | 'vr' | 'fm' | 'na' | 'unknown'; d: number; stay?: string; s?: string; n?: string; until?: string; label?: string; a?: EntryRule['t'][] };
-export type EntrySource = { kind: 'government' | 'reference'; title: string; urls: string[]; checkedAt: string; sha256?: string };
-export type PassportRules = { version: 3; passport: string; scope: string; sources: Record<string, EntrySource>; destinations: { name: string; iso: string | null; rule: EntryRule }[] };
+export type EntryRule = { t: 'vf' | 'voa' | 'ev' | 'eta' | 'vr' | 'fm' | 'na' | 'unknown'; d: number; stay?: string; s?: string; n?: string; until?: string; label?: string; a?: EntryRule['t'][]; evidence?: string[] };
+export type EntrySource = { kind: 'government' | 'reference'; title: string; urls: string[]; checkedAt: string; sha256?: string; historical?: boolean };
+export type EntryReview = 'checked' | 'historical' | 'unresolved';
+export type PassportRules = { version: 4; passport: string; scope: string; sources: Record<string, EntrySource>; destinations: { name: string; iso: string | null; rule: EntryRule; review: EntryReview }[] };
 export type ServiceCategory = { id: string; title: string; description: string; resources: { name: string; url: string; description: string; tag?: string }[] };
 export type TaxReference = { country: string; emoji: string; rate: number; dnVisa: boolean; notes: string; source: string };
 

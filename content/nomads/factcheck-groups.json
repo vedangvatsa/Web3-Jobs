@@ -1,0 +1,12 @@
+{
+  "europe-schengen": "AT BE BG HR CZ DK EE FI FR DE GR HU IS IT LV LI LT LU MT NL NO PL PT RO SK SI ES SE CH AD MC SM VA IE CY",
+  "europe-central-asia": "GB AL AM AZ BY BA GE XK MD ME MK RU RS TR UA KZ KG TJ TM UZ",
+  "north-america": "CA US MX GT BZ HN SV NI CR PA CU BS JM HT DO",
+  "south-america-caribbean": "AG BB DM GD KN LC VC TT AR BO BR CL CO EC GY PY PE SR UY VE",
+  "east-south-asia": "CN HK MO TW JP KP KR MN BD BT IN MV NP PK LK AF",
+  "southeast-asia": "SG MY TH VN KH LA MM ID PH BN TL",
+  "middle-east": "AE BH IR IQ IL JO KW LB OM PS QA SA SY YE",
+  "oceania-islands": "AU NZ PG FJ SB VU TO TV WS KI NR FM MH PW KM MG MU SC",
+  "west-central-africa": "DZ AO BJ BF CM CV CF TD CG CD CI GQ GA GM GH GN GW LR ML MR NE NG SN ST SL TG",
+  "east-south-africa": "NA ZA ZM ZW BW LS SZ MZ MW TZ KE UG RW BI ET ER DJ SO SS SD EG LY MA TN"
+}

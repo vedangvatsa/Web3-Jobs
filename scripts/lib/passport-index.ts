@@ -20,9 +20,9 @@ export function validatePassportIndexSnapshot(snapshot: PassportIndexSnapshot, c
     const expected = countries.filter(code => code !== passport);
     if (!page.rules || Object.keys(page.rules).length !== expected.length || expected.some(code => !Object.hasOwn(page.rules, code))) throw new Error(`Incomplete Passport Index snapshot for ${passport}`);
     const valid = validPassportRules({
-      version: 3, passport, scope: 'Passport Index reference',
+      version: 4, passport, scope: 'Passport Index reference',
       sources: { reference: { kind: 'reference', title: 'Passport Index', urls: [page.url], checkedAt: page.fetchedAt.slice(0, 10) } },
-      destinations: expected.map(iso => ({ name: iso, iso, rule: { ...page.rules[iso], s: 'reference' } })),
+      destinations: expected.map(iso => ({ name: iso, iso, review: 'unresolved', rule: { ...page.rules[iso], s: 'reference' } })),
     });
     if (!valid) throw new Error(`Invalid Passport Index rules for ${passport}`);
   }

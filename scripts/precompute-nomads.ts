@@ -5,6 +5,7 @@ import { getNomadCities, getNomadSummaries, getPassportCountries } from '../src/
 import { compilePassportRules } from './lib/passport-policies';
 import policies from '../content/nomads/entry-policies.json';
 import { validatePassportIndexSnapshot, type PassportIndexSnapshot } from './lib/passport-index';
+import { validateFactchecks, factcheckCounts, type Factchecks } from './lib/passport-factchecks';
 
 const output = path.resolve('public/data/nomads');
 function write(relative: string, value: unknown) { const filename = path.join(output, relative); fs.mkdirSync(path.dirname(filename), { recursive: true }); fs.writeFileSync(filename, JSON.stringify(value)); }
@@ -15,8 +16,10 @@ const countries = getPassportCountries();
 const reference = JSON.parse(fs.readFileSync('content/nomads/passport-index.json', 'utf8')) as PassportIndexSnapshot;
 validatePassportIndexSnapshot(reference, countries.map(country => country.iso!));
 write('passports.json', countries);
-for (const country of countries) write(`passports/${country.id}.json`, compilePassportRules(country, countries, policies, undefined, reference));
-console.log(`Nomad catalogs: ${getNomadCities().length} city details, ${countries.length} source-backed passport shards, compact places.`);
+const audit = JSON.parse(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8')) as Factchecks;
+validateFactchecks(audit, countries.map(country => country.iso!));
+for (const country of countries) write(`passports/${country.id}.json`, compilePassportRules(country, countries, policies, undefined, reference, audit));
+console.log(`Nomad catalogs: ${getNomadCities().length} city details, ${countries.length} audited passport shards, compact places.`, factcheckCounts(audit));
 
 async function cityThumbnails() {
   let written = 0;

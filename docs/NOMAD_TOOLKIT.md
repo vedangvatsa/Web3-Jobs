@@ -18,15 +18,17 @@ links also resolve directly to `/visas`; the checker link retains `tab=checker`.
 The retired long root stays reserved and its published preview/image URLs remain
 available. Canonicals, navigation and sitemaps use `/visas`.
 
-Passport files now use schema version 3 with reviewed government policies from
-`content/nomads/entry-policies.json` and attributed live-page snapshots from
-`content/nomads/passport-index.json`. Government rules take precedence, including
-temporary-waiver expiry. Source metadata distinguishes government checks from
-Passport Index retrievals. Missing durations stay unspecified; multiple entry
-options remain searchable. Routes without either source are explicitly unknown.
-All 199 live Passport Index dashboards are imported, covering 39,402 routes.
-Government checks support 6,668 routes; the other 32,734 are attributed references.
-Independent government verification remains incomplete; see
+Passport shards use schema version 4. Reviewed rules in
+`content/nomads/entry-factchecks.json` precede legacy government policies in
+`entry-policies.json` and the unchanged version-1 `passport-index.json` snapshots.
+Explicit withdrawals block older claims; expired exemptions become unknown.
+All 39,402 routes have review status: 29,761 checked government-backed baselines,
+346 historical official-evidence routes, and 9,295 unresolved official reviews.
+Unresolved routes retain 25 legacy government answers and 9,270 attributed
+Passport Index answers. Historical sources expose archive URLs and actual dates.
+Missing durations stay unspecified; variable methods and periods retain their
+conditions. Only the selected passport shard is fetched (`?v=4`).
+Government-backed baselines do not verify every traveller's eligibility; see
 [the passport audit](PASSPORT_DATA_AUDIT.md) for coverage and remaining work.
 The archived imported matrix is retained for audit.
 

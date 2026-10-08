@@ -10,13 +10,14 @@ import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Tabs, TabsContent } from '@/components/ui/tabs';
 import { cn } from '@/lib/utils';
-import { ENTRY_RULES, effectiveEntryRule, entryRuleLabel, matchesEntryCategory, validPassportRules } from '@/lib/nomads/entry-rules';
+import { ENTRY_RULES, ENTRY_REVIEWS as reviewLabels, effectiveEntryRule, entryRuleLabel, matchesEntryCategory, validPassportRules } from '@/lib/nomads/entry-rules';
 import { safeExternalUrl, type PassportCountry, type PassportRules, type VisaProgramListing } from '@/lib/nomads/types';
 import { useNomadData, useNomadQuery } from './hooks';
 import { buttonStyle, EmptyResults, FilterSelect, inputStyle, NomadPanel, TableFrame, tableStyle } from './ui';
 import { CountryIdentity } from './city-identity';
 
 const PassportMap = dynamic(() => import('./passport-map'), { ssr: false, loading: () => <div role="status" className="flex min-h-56 items-center justify-center rounded-lg border bg-muted/20 text-sm text-muted-foreground sm:min-h-96">Loading map...</div> });
+const readableDate = (date: string) => new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${date}T00:00:00Z`));
 
 function Programs({ programs }: { programs: VisaProgramListing[] }) {
   const { params, update } = useNomadQuery();
@@ -43,12 +44,15 @@ function PassportChecker({ countries }: { countries: PassportCountry[] }) {
   const { params, update } = useNomadQuery();
   const selected = countries.find(country => country.id === params.get('passport'));
   const query = params.get('destination') || '', filter = params.get('entry') || '';
-  const { data, error, loading, retry } = useNomadData<PassportRules>(selected ? `/data/nomads/passports/${selected.id}.json?v=3` : null, validPassportRules);
+  const { data, error, loading, retry } = useNomadData<PassportRules>(selected ? `/data/nomads/passports/${selected.id}.json?v=4` : null, validPassportRules);
   const rules = data?.passport === selected?.name ? data : null;
-  const destinations = rules?.destinations.filter(item => item.name !== selected?.name).map(item => ({ ...item, rule: effectiveEntryRule(item.rule, rules.sources) })) || [];
+  const destinations = rules?.destinations.filter(item => item.name !== selected?.name).map(item => {
+    const rule = effectiveEntryRule(item.rule, rules.sources);
+    return { ...item, rule, review: rule.t === 'unknown' ? 'unresolved' as const : item.review };
+  }) || [];
   const filtered = destinations.filter(item => (!query || item.name.toLowerCase().includes(query.trim().toLowerCase())) && (!filter || matchesEntryCategory(item.rule, filter))).sort((a, b) => a.name.localeCompare(b.name));
-  const officialCount = destinations.filter(item => item.rule.t !== 'unknown' && item.rule.s && rules?.sources[item.rule.s]?.kind === 'government').length;
-  const referenceCount = destinations.filter(item => item.rule.t !== 'unknown' && item.rule.s && rules?.sources[item.rule.s]?.kind === 'reference').length;
+  const officialCount = destinations.filter(item => item.review === 'checked').length;
+  const historicalCount = destinations.filter(item => item.review === 'historical').length;
   return <>
     {!selected && <p className="py-6 text-sm text-muted-foreground">Choose a passport to see entry requirements.</p>}
     {loading && <p role="status" className="py-12 text-center">Loading entry references for {selected?.name}…</p>}
@@ -56,12 +60,17 @@ function PassportChecker({ countries }: { countries: PassportCountry[] }) {
     {rules && <>
       <div id="passport-map" className="mb-6"><PassportMap key={rules.passport} rules={{ ...rules, destinations }} home={selected?.iso || null} /></div>
       <p className="mb-2 text-sm text-muted-foreground">{rules.scope}</p>
-      <p className="mb-4 text-sm text-muted-foreground" aria-live="polite">Showing {filtered.length} of {destinations.length} destinations · {officialCount} from government sources{referenceCount > 0 && ` · ${referenceCount} Passport Index references`}{destinations.length > officialCount + referenceCount && ` · ${destinations.length - officialCount - referenceCount} not yet verified`}<span className="sr-only"> for {rules.passport} passport holders</span></p>
+      <p className="mb-2 text-sm text-muted-foreground">Government-backed baselines describe ordinary-passport tourist rules, not every traveller’s eligibility. Historical evidence uses dated archives. Unresolved routes retain earlier sources unless a claim was withdrawn.</p>
+      <p className="mb-4 text-sm text-muted-foreground" aria-live="polite">Showing {filtered.length} of {destinations.length} destinations · {officialCount} checked baselines · {historicalCount} historical · {destinations.length - officialCount - historicalCount} unresolved official reviews<span className="sr-only"> for {rules.passport} passport holders</span></p>
       {filtered.length ? <TableFrame label="Passport entry references"><table className={tableStyle}><caption className="sr-only">Visitor entry for {rules.passport} passport holders</caption><thead><tr><th scope="col">Destination</th><th scope="col">Visitor entry and conditions</th><th scope="col">Stay reference</th></tr></thead><tbody>{filtered.map(item => {
         const source = item.rule.s ? rules.sources[item.rule.s] : undefined;
         const isReference = source?.kind === 'reference';
         const stay = item.rule.t === 'unknown' ? 'Not verified' : item.rule.t === 'na' ? 'Not applicable' : item.rule.stay || (item.rule.d > 0 ? `Up to ${item.rule.d} days` : isReference ? 'Not specified by source' : item.rule.t === 'fm' ? 'See residence rules' : 'See issued visa or entry pass');
-        return <tr key={item.name}><th scope="row" className="!bg-transparent !text-sm !text-foreground"><CountryIdentity name={item.name} code={item.iso} /></th><td><span>{entryRuleLabel(item.rule)}</span>{source && <details className="mt-1 max-w-md"><summary className="min-h-11 cursor-pointer py-3 text-xs">{isReference ? 'Passport Index reference' : 'Conditions & sources'}</summary>{item.rule.n && <p className="text-xs leading-relaxed">{item.rule.n}</p>}<p className="mt-2 text-xs text-muted-foreground">{isReference ? 'Retrieved' : 'Checked'} {source.checkedAt}{item.rule.until && ` · Exemption ends ${item.rule.until}`}</p>{source.urls.map((url, index) => <a key={url} href={url} target="_blank" rel="noopener noreferrer" className="mr-3 inline-flex min-h-11 items-center text-xs underline" aria-label={`${source.title}, source ${index + 1} for ${item.name} (opens in a new tab)`}>{isReference ? 'Passport Index' : 'Official source'}{source.urls.length > 1 ? ` ${index + 1}` : ''}</a>)}</details>}</td><td>{stay}</td></tr>;
+        const evidence = [...new Set([item.rule.s, ...(item.rule.evidence || [])])].filter((id): id is string => Boolean(id)).map(id => rules.sources[id]);
+        return <tr key={item.name}><th scope="row" className="!bg-transparent !text-sm !text-foreground"><CountryIdentity name={item.name} code={item.iso} /></th><td className="break-words"><span>{entryRuleLabel(item.rule)}</span><p className="mt-1 whitespace-normal text-xs text-muted-foreground">{reviewLabels[item.review]}</p>{source && <details className="mt-1 max-w-md whitespace-normal [overflow-wrap:anywhere]"><summary className="min-h-11 cursor-pointer py-3 text-xs">{isReference ? 'Passport Index reference' : 'Conditions & sources'}</summary>{item.rule.n && <p className="text-xs leading-relaxed">{item.rule.n}</p>}{item.rule.t === 'vr' && <p className="mt-2 text-xs leading-relaxed">A visa requirement alone does not establish whether eVisa is available. Check the application method and eligibility with the issuing authority.</p>}{item.review === 'unresolved' && item.rule.t !== 'unknown' && <p className="mt-2 text-xs leading-relaxed">This answer retains earlier source information; the official review remains unresolved for this passport.</p>}{item.rule.until && <p className="mt-2 text-xs">Documented exemption end: {readableDate(item.rule.until)}</p>}{evidence.map((citation, sourceIndex) => <div key={sourceIndex} className="mt-2"><p className="text-xs text-muted-foreground">{citation.historical ? 'Historical official evidence · as of' : citation.kind === 'reference' ? 'Reference retrieved' : 'Source checked'} {readableDate(citation.checkedAt)}</p>{citation.urls.map((url, index) => {
+          const archive = url.match(/^https:\/\/web\.archive\.org\/web\/(\d{4})(\d{2})(\d{2})/);
+          return <a key={url} href={url} target="_blank" rel="noopener noreferrer" className="mr-3 inline-flex min-h-11 max-w-full items-center py-2 text-xs underline" aria-label={`${citation.title}, source ${index + 1} for ${item.name} (opens in a new tab)`}>{citation.title}{archive ? ` · Archived ${readableDate(`${archive[1]}-${archive[2]}-${archive[3]}`)}` : citation.urls.length > 1 ? ` · Source ${index + 1}` : ''}</a>;
+        })}</div>)}</details>}</td><td>{stay}</td></tr>;
       })}</tbody></table></TableFrame> : <EmptyResults onReset={() => update({ destination: null, entry: null })}>No destinations match these filters.</EmptyResults>}
     </>}
   </>;

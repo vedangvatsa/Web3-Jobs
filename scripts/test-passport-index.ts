@@ -6,6 +6,8 @@ import policies from '../content/nomads/entry-policies.json';
 import { parsePassportIndexHtml, validatePassportIndexSnapshot, type PassportIndexSnapshot } from './lib/passport-index';
 import { compilePassportRules } from './lib/passport-policies';
 import { matchesEntryCategory, validPassportRules } from '../src/lib/nomads/entry-rules';
+import type { Factchecks } from './lib/passport-factchecks';
+const audit = JSON.parse(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8')) as Factchecks;
 
 const codes = ['IN', 'MY', 'AM', 'KH', 'NP', 'AU'];
 const row = (iso: string, label: string, days = '', group = 'vr') => `<tr class="show-tr ${group}"><td><span class="flag-icon flag-icon-${iso.toLowerCase()}"></span></td><td><span class="vrules">${label}</span>${days ? `<span class="vdays">${days}</span>` : ''}<a href="https://link.passportindex.org/">Apply now</a></td></tr>`;
@@ -50,28 +52,27 @@ test('worldwide labels retain permits, registrations, fee-free visas and arrival
   }
 });
 
-test('all 199 passports have 198 evidenced destinations, with government precedence across the whole matrix', () => {
+test('all 199 passports have 198 accounted destinations, with reviewed government precedence across the whole matrix', () => {
   const reference = JSON.parse(fs.readFileSync('content/nomads/passport-index.json', 'utf8')) as PassportIndexSnapshot;
   const allCodes = countries.map(country => country.iso!);
   validatePassportIndexSnapshot(reference, allCodes);
   assert.equal(Object.keys(reference.passports).length, 199);
-  const asOf = Object.values(reference.passports).map(page => page.fetchedAt.slice(0, 10)).sort().at(-1)!;
-  let routes = 0, government = 0, references = 0;
+  const asOf = '2026-10-08';
+  let routes = 0, checked = 0, historical = 0, unresolved = 0;
   for (const passport of countries) {
-    const result = compilePassportRules(passport, countries, policies, asOf, reference);
+    const result = compilePassportRules(passport, countries, policies, asOf, reference, audit);
     assert.ok(validPassportRules(result), passport.name);
     assert.equal(result.destinations.length, 198, passport.name);
     assert.equal(result.destinations.some(destination => destination.iso === passport.iso), false);
     for (const destination of result.destinations) {
       routes++;
-      assert.notEqual(destination.rule.t, 'unknown', `${passport.iso}/${destination.iso}`);
+      if (destination.review === 'checked') checked++; else if (destination.review === 'historical') historical++; else unresolved++;
       const source = result.sources[destination.rule.s!];
       assert.ok(source, `${passport.iso}/${destination.iso} provenance`);
-      if (source.kind === 'government') government++;
-      else { references++; assert.deepEqual(destination.rule, { ...reference.passports[passport.iso!].rules[destination.iso!], s: 'passport-index' }); }
+      if (source.kind === 'reference') { assert.equal(destination.review, 'unresolved'); assert.deepEqual(destination.rule, { ...reference.passports[passport.iso!].rules[destination.iso!], s: 'passport-index' }); }
     }
   }
-  assert.equal(routes, 39402); assert.equal(government, 6668); assert.equal(references, 32734);
+  assert.equal(routes, 39402); assert.equal(checked, 29761); assert.equal(historical, 346); assert.equal(unresolved, 9295);
   assert.equal(reference.passports.DE.rules.AU.t, 'ev', 'Australian eVisitor is not visa on arrival');
   assert.equal(reference.passports.US.rules.BR.t, 'ev');
   assert.equal(reference.passports.US.rules.BR.d, 0, 'No invented Brazilian eVisa stay');
@@ -88,12 +89,12 @@ test('empty and partially populated world snapshots cannot replace the complete 
   assert.throws(() => validatePassportIndexSnapshot(missingDestination, allCodes), /Incomplete.*US/);
 });
 
-test('live India snapshot covers all 198 destinations and public data distinguishes reference from government evidence', () => {
+test('legacy-only compilation retains the India snapshot and distinguishes reference from government evidence', () => {
   const reference = JSON.parse(fs.readFileSync('content/nomads/passport-index.json', 'utf8')) as PassportIndexSnapshot;
   const india = countries.find(country => country.iso === 'IN')!;
   assert.equal(Object.keys(reference.passports.IN.rules).length, 198);
   const result = compilePassportRules(india, countries, policies, '2026-10-07', reference);
-  assert.ok(validPassportRules(result)); assert.equal(result.version, 3);
+  assert.ok(validPassportRules(result)); assert.equal(result.version, 4);
   assert.equal(result.destinations.length, 198);
   assert.equal(result.destinations.filter(item => item.rule.t === 'unknown').length, 0);
   const malaysia = result.destinations.find(item => item.iso === 'MY')!.rule;
@@ -105,7 +106,8 @@ test('live India snapshot covers all 198 destinations and public data distinguis
   assert.equal(result.sources[australia.s!].urls[0], 'https://www.passportindex.org/passport/india/');
   assert.equal(result.destinations.find(item => item.iso === 'NP')!.rule.d, 0);
   const expired = compilePassportRules(india, countries, policies, '2027-01-01', reference);
-  assert.deepEqual(expired.destinations.find(item => item.iso === 'MY')!.rule, { t: 'unknown', d: 0 }, 'An expired official waiver must not fall back to the conflicting 90-day reference');
+  assert.equal(expired.destinations.find(item => item.iso === 'MY')!.rule.t, 'unknown', 'An expired official waiver must not fall back to the conflicting 90-day reference');
+  assert.equal(validPassportRules({ ...result, version: 3 }), false, 'Reject cached catalogs without route-level official review status');
   assert.equal(validPassportRules({ ...result, version: 2 }), false, 'Older clients must not mislabel reference evidence as official');
   assert.equal(validPassportRules({ ...result, sources: { ...result.sources, 'passport-index': { ...result.sources['passport-index'], kind: undefined } } }), false);
 });

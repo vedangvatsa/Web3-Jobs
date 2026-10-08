@@ -11,6 +11,9 @@ import { getNomadCities, getNomadCity, getNomadPlaces, getNomadVisas } from '../
 import { nomadRoutes, nomadOgImage } from '../src/lib/nomads/metadata';
 import { NOMAD_TOOLS, NOMAD_TOOL_PATHS, NOMAD_LEGACY_ROUTES, legacyNomadToolDestination } from '../src/lib/nomads/routes';
 import type { PassportRules } from '../src/lib/nomads/types';
+import { factcheckCounts, type Factchecks } from './lib/passport-factchecks';
+import countries from '../content/nomads/countries.json';
+import { validPassportRules } from '../src/lib/nomads/entry-rules';
 
 const origin = 'http://127.0.0.1:3184';
 const humanHeaders = { 'User-Agent': 'Mozilla/5.0', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Dest': 'document' };
@@ -97,6 +100,26 @@ async function main() {
     const popup = await fetch(`${origin}/nomad`, { headers: humanHeaders });
     assert.equal(popup.status, 200); assert.match(await popup.text(), /nomad.homes/);
     console.log(`HTTP: ${routes.length} canonical pages, ${oldRoutes.length} legacy redirects, sitemap, previews and protected popup passed.`);
+    const coverage = { checked: 0, historical: 0, unresolved: 0 };
+    for (const country of countries) {
+      const response = await fetch(`${origin}/data/nomads/passports/${country.id}.json?v=4`);
+      assert.equal(response.status, 200, country.id);
+      const data = await response.json();
+      assert.ok(validPassportRules(data), country.id);
+      assert.equal(data.destinations.length, 198);
+      assert.deepEqual(data, JSON.parse(fs.readFileSync(`public/data/nomads/passports/${country.id}.json`, 'utf8')));
+      for (const item of data.destinations) coverage[item.review]++;
+    }
+    const audit = JSON.parse(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8')) as Factchecks;
+    const audited = factcheckCounts(audit), today = new Date().toISOString().slice(0, 10);
+    const expectedCoverage = { checked: audited.checked, historical: audited.historical, unresolved: audited.unresolved };
+    for (const policy of audit.policies) if ((policy.until && policy.until < today) || audit.sources[policy.s!].checkedAt > today) {
+      const count = policy.passports.length * policy.destinations.length;
+      expectedCoverage[audit.sources[policy.s!].historical ? 'historical' : 'checked'] -= count;
+      expectedCoverage.unresolved += count;
+    }
+    assert.deepEqual(coverage, expectedCoverage);
+    console.log('HTTP: all 199 schema-v4 passport shards match generated catalogs; 39,402 routes accounted.', coverage);
 
     browser = await chromium.launch({ executablePath: process.env.CHROME_BIN || await puppeteer.executablePath(), headless: true });
     const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
@@ -276,7 +299,7 @@ async function main() {
     if (new Date().toISOString().slice(0, 10) <= '2026-12-31') {
       await expect(entryRow).toContainText('Up to 30 days');
       await entryRow.locator('summary').click();
-      await expect(entryRow).toContainText('MDAC'); await expect(entryRow).toContainText('2026-12-31');
+      await expect(entryRow).toContainText('MDAC'); await expect(entryRow).toContainText('31 Dec 2026');
       await expect(entryRow.locator('a').first()).toHaveAttribute('href', 'https://www.hcikl.gov.in/pdf/img-20260922-wa0000.pdf');
     } else {
       await expect(entryRow).toContainText('Not yet verified'); await expect(entryRow).not.toContainText('Up to 30 days');
@@ -286,27 +309,33 @@ async function main() {
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Singapore');
     await expect(entryRow).toContainText('Visa required'); await expect(entryRow).not.toContainText('Up to 30 days');
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Japan'); await expect(page.locator('main tbody tr')).toHaveCount(1);
-    await expect(entryRow).toContainText('Visa required');
+    await expect(entryRow).toContainText('eVisa'); await expect(entryRow).toContainText('Up to 90 days');
+    await entryRow.locator('summary').click();
+    await expect(entryRow).toContainText('accredited agency');
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Nepal');
-    await expect(entryRow).toHaveCount(1); await expect(entryRow).toContainText('Not specified by source');
+    await expect(entryRow).toHaveCount(1); await expect(entryRow).toContainText('Visa-free');
     await expect(entryRow).not.toContainText('90 days');
     await entryRow.locator('summary').click();
-    await expect(entryRow).toContainText('Retrieved');
-    await expect(entryRow.locator('a')).toHaveAttribute('href', 'https://www.passportindex.org/passport/india/');
+    await expect(entryRow).toContainText('Checked · government-backed baseline');
+    await expect(entryRow.locator('a').first()).toContainText('Nepal');
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Armenia');
-    await expect(entryRow).toContainText('eVisa'); await expect(entryRow).toContainText('Up to 120 days');
+    await expect(entryRow).toContainText('eVisa');
     await expect(entryRow).not.toContainText('Visa on arrival');
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Cambodia');
     await select('Entry category', 'ev'); await expect(entryRow).toHaveCount(1);
-    await expect(entryRow).toContainText('eVisa · visa on arrival');
+    await expect(entryRow).toContainText('eVisa');
     await select('Entry category', 'voa'); await expect(entryRow).toHaveCount(1);
     await select('Entry category', '');
     await page.getByRole('searchbox', { name: 'Search destinations' }).fill('Australia');
-    await expect(entryRow).toContainText('eVisa'); await expect(entryRow).toContainText('Not specified by source');
+    await expect(entryRow).toContainText('Visitor visa (600), online application');
+    await expect(entryRow).toContainText('generally 3 months');
     const passportReference = await (await fetch(`${origin}/data/nomads/passports/india.json`)).json() as PassportRules;
-    assert.equal(passportReference.version, 3);
+    assert.equal(passportReference.version, 4);
     assert.equal(passportReference.destinations.length, 198);
-    assert.equal(passportReference.destinations.filter(destination => destination.rule.t === 'unknown').length, new Date().toISOString().slice(0, 10) <= '2026-12-31' ? 0 : 1);
+    for (const destination of passportReference.destinations.filter(destination => destination.rule.t === 'unknown')) {
+      assert.equal(destination.review, 'unresolved'); assert.equal(destination.rule.d, 0);
+      assert.ok(destination.rule.n, 'Withdrawn or expired claims retain an explanation');
+    }
     const unverified = passportReference.destinations.find(destination => destination.rule.t === 'unknown');
     if (unverified) {
       await page.getByRole('searchbox', { name: 'Search destinations' }).fill(unverified.name);
@@ -318,21 +347,47 @@ async function main() {
     assert.equal(requests.some(url => /visa-requirements.json|passport-rules.json/.test(url)), false);
 
     for (const [passport, destination, label, stay] of [
-      ['united-states', 'Brazil', 'eVisa', 'Not specified by source'],
-      ['germany', 'Australia', 'eVisitors', 'Up to 90 days'],
-      ['china', 'Cambodia', 'eVisa · free visa on arrival', ''],
-      ['united-arab-emirates', 'Liberia', 'eVisa on arrival', ''],
+      ['united-states', 'Georgia', 'Visa-free', '1 year'],
+      ['united-states', 'Thailand', 'Visa-free', 'Up to 30 days'],
+      ['china', 'Cambodia', 'Visa-free', 'Up to 14 days'],
+      ['nigeria', 'Palau', 'Advance visa or written pre-clearance', 'maximum 30 days'],
+      ['hong-kong', 'Sri Lanka', 'Prior ETA; entry visa at BIA', 'Up to 30 days'],
     ]) {
       await go(`/visas?tab=checker&passport=${passport}`);
       await page.getByRole('searchbox', { name: 'Search destinations' }).fill(destination);
       await expect(page.locator('main tbody tr')).toHaveCount(1);
+      if (passport === 'china' && destination === 'Cambodia' && today > '2026-10-15') {
+        await expect(entryRow).toContainText('Not yet verified');
+        await expect(entryRow).not.toContainText('Up to 14 days');
+        continue;
+      }
       await expect(page.locator('main tbody tr')).toContainText(label);
       if (stay) await expect(page.locator('main tbody tr')).toContainText(stay);
       await page.locator('main tbody tr summary').click();
-      await expect(page.locator('main tbody tr')).toContainText('Retrieved');
-      const sourceSlug = passport === 'united-states' ? 'united-states-of-america' : passport;
-      await expect(page.locator('main tbody tr a')).toHaveAttribute('href', `https://www.passportindex.org/passport/${sourceSlug}/`);
+      await expect(page.locator('main tbody tr')).toContainText('Checked · government-backed baseline');
+      assert.ok((await page.locator('main tbody tr a').first().innerText()).length > 20, 'Useful source titles are visible');
     }
+
+    for (const width of [320, 390, 768, 1440]) {
+      await page.setViewportSize({ width, height: 1000 });
+      const start = requests.length;
+      await go('/visas?tab=checker&passport=france&destination=India');
+      await expect(entryRow).toHaveCount(1);
+      await expect(entryRow).toContainText('Historical official evidence');
+      await entryRow.locator('summary').click();
+      await expect(entryRow).toContainText('as of 10 Sept 2026');
+      await expect(entryRow.locator('a[href*="web.archive.org"]')).toContainText('Archived 10 Sept 2026');
+      await noOverflow();
+      assert.ok(requests.slice(start).filter(url => /\/passports\/.*\.json/.test(url)).every(url => /\/france.json\?v=4/.test(url)), 'Only selected passport shard loads');
+      await page.screenshot({ path: `.cache/nomads/passport-archive-${width}.png` });
+    }
+
+    const unresolved = passportReference.destinations.find(item => item.review === 'unresolved' && passportReference.sources[item.rule.s!]?.kind === 'reference')!;
+    await go(`/visas?tab=checker&passport=india&destination=${encodeURIComponent(unresolved.name)}`);
+    await expect(entryRow).toHaveCount(1); await entryRow.locator('summary').click();
+    await expect(entryRow).toContainText('Unresolved official review');
+    await expect(entryRow).toContainText('Reference retrieved');
+    await expect(entryRow.locator('a')).toHaveAttribute('href', 'https://www.passportindex.org/passport/india/');
 
     for (const width of [320, 390, 768, 1024, 1440]) {
       await page.setViewportSize({ width, height: 1000 });
