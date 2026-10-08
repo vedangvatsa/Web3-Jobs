@@ -16995,11 +16995,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "078ecab18048b56a3980",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:55:55.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin three-week low on Iran-strike oil headlines; price-move coverage, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:07.212Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "a9eb98459b549dbf0199": {
       "source": "Decrypt",
@@ -27145,6 +27150,13 @@
           "note": "Uptober-to-Spooky seasonal price recap cutting September gains; market commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:05.054Z"
+        },
+        "078ecab18048b56a3980": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin three-week low on Iran-strike oil headlines; price-move coverage, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:07.212Z"
         }
       },
       "baselineSlugs": [
