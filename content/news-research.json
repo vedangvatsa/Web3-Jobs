@@ -18889,11 +18889,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "54353ff1baf355b45869",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T18:41:20.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "out-of-scope",
+      "note": "Oracle stock drop on OpenAI revenue gap is equities news with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:36.681Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "4fabdda2459903e8146b": {
       "source": "Bitcoin Magazine",
@@ -28068,6 +28073,13 @@
           "reviewedAt": "2026-10-08T19:40:31.092Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "54353ff1baf355b45869": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Oracle stock drop on OpenAI revenue gap is equities news with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:36.681Z"
         }
       },
       "baselineSlugs": [
