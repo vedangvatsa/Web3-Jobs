@@ -16390,6 +16390,24 @@
       "attempts": 0,
       "expiresAt": "2026-10-11T03:38:56.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z"
+    },
+    "ce6a97a6514922530586": {
+      "id": "ce6a97a6514922530586",
+      "title": "US government moves 770M Bitcoin to Coinbase Prime",
+      "link": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
+      "published": "2026-10-08T00:00:00.000Z",
+      "source": "Bitcoin Foundation",
+      "sources": [
+        {
+          "name": "Bitcoin Foundation",
+          "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/"
+        }
+      ],
+      "status": "pending",
+      "firstSeenAt": "2026-10-08T11:28:39.109Z",
+      "lastSeenAt": "2026-10-08T11:28:39.109Z",
+      "expiresAt": "2026-10-11T00:00:00.000Z",
+      "attempts": 0
     }
   },
   "runs": {
@@ -22834,7 +22852,8 @@
         "f7b1fec09118711577e0",
         "94798f529212e6e7e3ab",
         "0c2e6eda802bb217ed79",
-        "ac1dee72e3538b3b129d"
+        "ac1dee72e3538b3b129d",
+        "ce6a97a6514922530586"
       ],
       "outcomes": {
         "751c0a31b9ee07e32b36": {
