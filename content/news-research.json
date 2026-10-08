@@ -11713,11 +11713,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "7932aabf918494530ac0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T20:48:34.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 verified Circle-Tereina USDC EURC SAP integration across Circle release and securities.io; hero circle-sap.jpg already prepared, draft not yet written.",
+      "sourceChecks": [
+        {
+          "url": "https://investor.circle.com/news/news-details/2026/Tereina-an-SAP-Backed-Company-and-Circle-Bring-USDC-and-EURC-into-Enterprise-Workflows-Starting-with-the-SAP-Ecosystem-Behind-84-of-Global-Commerce/default.aspx",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.securities.io/circle-partners-with-sap-backed-tereina-to-embed-stablecoin-payments-in-erp/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:18.467Z",
+      "retrySearches": [
+        "Tereina SAP Pay USDC proof-of-value enterprise rollout"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "f7d69f046dbb94aa723d": {
       "source": "BeInCrypto",
@@ -22924,6 +22942,25 @@
           "reviewedAt": "2026-10-08T04:19:16.751Z",
           "retrySearches": [
             "Lido Lend governance vote parameters audits"
+          ]
+        },
+        "7932aabf918494530ac0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Circle-Tereina USDC EURC SAP integration across Circle release and securities.io; hero circle-sap.jpg already prepared, draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://investor.circle.com/news/news-details/2026/Tereina-an-SAP-Backed-Company-and-Circle-Bring-USDC-and-EURC-into-Enterprise-Workflows-Starting-with-the-SAP-Ecosystem-Behind-84-of-Global-Commerce/default.aspx",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.securities.io/circle-partners-with-sap-backed-tereina-to-embed-stablecoin-payments-in-erp/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:18.467Z",
+          "retrySearches": [
+            "Tereina SAP Pay USDC proof-of-value enterprise rollout"
           ]
         }
       },
