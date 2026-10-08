@@ -15466,11 +15466,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "90b295b23c89886bad46",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T04:00:00.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "Halving-clock calendar speculation, excluded token-calendar item.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:08.942Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "4d0c341e251b419b5c56": {
       "source": "Unchained",
@@ -25005,6 +25010,13 @@
           "note": "Intraday bitcoin-oil price move with no crypto-native event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:06.859Z"
+        },
+        "90b295b23c89886bad46": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Halving-clock calendar speculation, excluded token-calendar item.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:08.942Z"
         }
       },
       "baselineSlugs": [
