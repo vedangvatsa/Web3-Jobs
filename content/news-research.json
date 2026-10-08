@@ -9744,23 +9744,27 @@
       "id": "628e95ee29428ffa8565",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T01:48:53.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "needs-corroboration",
-      "note": "Cointelegraph Oct 7 read confirms BaFin refusal, June 12 halt, partner plan; only aggregator mirrors beyond it.",
+      "note": "Round 3 verified BaFin futurum MiCA refusal and fallback partner plan across EQS ad-hoc and Cointelegraph; draft not yet written.",
       "sourceChecks": [
+        {
+          "url": "https://www.eqs-news.com/news/ad-hoc/bitcoin-group-se-bafin-refuses-micar-authorisation-applied-for-by-futurum-bank-ag/3326ef73-71ab-4d5b-aba5-58c5e92a8f75_en",
+          "outcome": "read"
+        },
         {
           "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-07T03:47:47.661Z",
+      "reviewedAt": "2026-10-08T04:18:48.152Z",
       "retrySearches": [
-        "Bitcoin Group futurum BaFin MiCA refusal October 2026 Handelsblatt Boersen-Zeitung"
+        "futurum BaFin objection MiCA trading partner resume weeks"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "2edd9d3c535ecdf11772": {
       "source": "Unchained",
@@ -22742,6 +22746,25 @@
           "reviewedAt": "2026-10-08T04:18:42.539Z",
           "retrySearches": [
             "Ken Leech cherry picking final judgment order October 2026"
+          ]
+        },
+        "628e95ee29428ffa8565": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified BaFin futurum MiCA refusal and fallback partner plan across EQS ad-hoc and Cointelegraph; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://www.eqs-news.com/news/ad-hoc/bitcoin-group-se-bafin-refuses-micar-authorisation-applied-for-by-futurum-bank-ag/3326ef73-71ab-4d5b-aba5-58c5e92a8f75_en",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:48.152Z",
+          "retrySearches": [
+            "futurum BaFin objection MiCA trading partner resume weeks"
           ]
         }
       },
