@@ -14088,11 +14088,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6432dc3868c75a80c0ef",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T08:30:01.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Policy-interview views on exchanges adopting blockchains; opinion, not an event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:28.708Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "c4f3f560217dd042e479": {
       "source": "Cointelegraph",
@@ -21240,6 +21245,13 @@
           "note": "CFTC chair conference speech promising no repeat of FTX; forward-looking remarks, not an event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:27.024Z"
+        },
+        "6432dc3868c75a80c0ef": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Policy-interview views on exchanges adopting blockchains; opinion, not an event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:28.708Z"
         }
       },
       "baselineSlugs": [
