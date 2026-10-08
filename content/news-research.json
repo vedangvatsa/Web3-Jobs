@@ -8564,25 +8564,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "bb2832ab5de2b5a6771b",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T16:32:33.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
-      "reason": "source-blocked",
-      "note": "188B milestone seen only in blocked BeInCrypto origin; needs openable outlet with figures.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/prediction-markets-188-billion-record-cash/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:46:01.467Z",
+      "reason": "not-a-concrete-event",
+      "note": "Prediction-market volume roundup; data analysis, no event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:33.095Z",
       "retrySearches": [
         "prediction markets cumulative volume record October 2026 Polymarket Kalshi 188 billion"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "05cb819b26d003246245": {
       "source": "Bitcoin Magazine",
@@ -21510,6 +21504,13 @@
           "note": "Tokenized-stock growth data report; industry metric, no event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:31.532Z"
+        },
+        "bb2832ab5de2b5a6771b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Prediction-market volume roundup; data analysis, no event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:33.095Z"
         }
       },
       "baselineSlugs": [
