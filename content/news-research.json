@@ -5522,25 +5522,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0d01d65012e209b3f4b1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T12:04:15.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "source-blocked",
-      "note": "Same Metaplanet event as b1e5; Block page blocked.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:09.704Z",
+      "reason": "duplicate",
+      "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft; Block origin page was blocked.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:14:57.026Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "metaplanet-sale",
+      "mergedInto": "b1e55f7f84c981ba728a"
     },
     "49f54566f54e818c1cf4": {
       "source": "The Block",
@@ -22210,6 +22206,15 @@
           "note": "Same Metaplanet net-1000 Q3 addition to 44000 BTC already covered by the metaplanet-sale draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:14:53.681Z",
+          "duplicateOf": "metaplanet-sale",
+          "mergedInto": "b1e55f7f84c981ba728a"
+        },
+        "0d01d65012e209b3f4b1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft; Block origin page was blocked.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:14:57.026Z",
           "duplicateOf": "metaplanet-sale",
           "mergedInto": "b1e55f7f84c981ba728a"
         }
