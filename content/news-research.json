@@ -10848,25 +10848,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "ef77aa0b91ec17c8e0d5",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T21:25:20.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "Unchained read confirms co-founder statement of intent; refund is proposal only, needs second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/thorchain-co-founder-will-ask-its-treasury-about-refunding-fees-from-stolen-crypto/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:48:49.473Z",
+      "reason": "not-a-concrete-event",
+      "note": "Statement of future intent to ask treasury about refunds; no decision or vote occurred.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:35.140Z",
       "retrySearches": [
         "THORChain treasury refund stolen crypto fees October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "e3d3a52f2fc2bf872be4": {
       "source": "Bitcoin Magazine",
@@ -21511,6 +21505,13 @@
           "note": "Prediction-market volume roundup; data analysis, no event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:33.095Z"
+        },
+        "ef77aa0b91ec17c8e0d5": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Statement of future intent to ask treasury about refunds; no decision or vote occurred.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:35.140Z"
         }
       },
       "baselineSlugs": [
