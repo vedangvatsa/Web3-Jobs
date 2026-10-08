@@ -12174,11 +12174,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fecca4574a1255593725",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T15:06:14.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin October-low price coverage tied to bond selloff; no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:35.669Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "ef70587c25b3a339f650": {
       "source": "Decrypt",
@@ -20952,6 +20957,13 @@
           "note": "Single-day SPAC price drop ahead of listing; price-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:33.993Z"
+        },
+        "fecca4574a1255593725": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin October-low price coverage tied to bond selloff; no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:35.669Z"
         }
       },
       "baselineSlugs": [
