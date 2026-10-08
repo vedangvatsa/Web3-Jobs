@@ -13665,11 +13665,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "de4721c62db6c99cdb0f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T15:13:15.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "promotional",
+      "note": "Exchange executive trend prediction; marketing interview, not an event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:13.680Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "c6e71394c4eba7312643": {
       "source": "CoinDesk",
@@ -21468,6 +21473,13 @@
           "note": "Routine trading-terminal vendor partnership from single weak outlet; marketing, no major figures.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:12.027Z"
+        },
+        "de4721c62db6c99cdb0f": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Exchange executive trend prediction; marketing interview, not an event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:13.680Z"
         }
       },
       "baselineSlugs": [
