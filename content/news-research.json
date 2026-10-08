@@ -9762,25 +9762,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1367eb14b95c67f35f43",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T03:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Coinbase Pro return plus Deribit integration seen only in blocked Block origin; needs company post or second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:47:07.735Z",
+      "reason": "duplicate",
+      "note": "Same Coinbase Deribit integration and Pro return already covered by coinbase-pro.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:49:31.944Z",
       "retrySearches": [
         "Coinbase Pro return Deribit integration global exchange October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "coinbase-pro",
+      "mergedInto": "697bdf91d6c6d3bd5f3f"
     },
     "a2e229654bb11a6cff23": {
       "source": "BeInCrypto",
@@ -20438,6 +20434,15 @@
           "note": "Same Coinbase Deribit integration and Pro return already covered by coinbase-pro.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:49:30.406Z",
+          "duplicateOf": "coinbase-pro",
+          "mergedInto": "697bdf91d6c6d3bd5f3f"
+        },
+        "1367eb14b95c67f35f43": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Coinbase Deribit integration and Pro return already covered by coinbase-pro.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:49:31.944Z",
           "duplicateOf": "coinbase-pro",
           "mergedInto": "697bdf91d6c6d3bd5f3f"
         }
