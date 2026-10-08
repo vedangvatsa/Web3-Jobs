@@ -14951,13 +14951,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4f3f560217dd042e479",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T08:06:35.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Verified Bank of Russia Oct 6 first registers with four exchanges and five custodians across Cointelegraph, Interfax and TokenPost.",
+      "note": "Drafted report on Bank of Russia Oct 6 first crypto registers with Sberbank-VTB and access tiers. Cointelegraph plus Interfax read. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law",
@@ -14966,13 +14966,9 @@
         {
           "url": "https://www.interfax.ru/business/1120700",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.tokenpost.com/news/regulation/27356",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:11:20.529Z",
+      "reviewedAt": "2026-10-08T11:23:59.958Z",
       "articleSlug": "sberbank-register",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24205,6 +24201,23 @@
           ],
           "reviewedAt": "2026-10-08T11:23:53.822Z",
           "articleSlug": "bitmine-cap"
+        },
+        "c4f3f560217dd042e479": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Bank of Russia Oct 6 first crypto registers with Sberbank-VTB and access tiers. Cointelegraph plus Interfax read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.interfax.ru/business/1120700",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:59.958Z",
+          "articleSlug": "sberbank-register"
         }
       },
       "baselineSlugs": [
