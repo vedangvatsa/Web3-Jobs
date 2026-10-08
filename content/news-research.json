@@ -14597,13 +14597,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "2c1699713477803bf1b1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T08:50:02.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Drafted report on Bitmine 5 percent hard cap with 6.02M ETH and 100k to go, ending weekly buys. Audits pass.",
+      "note": "Wrote bitmine-cap (627 words): Bitmine 5 percent hard cap with 6.02M ETH and end of weekly buys. CoinDesk plus Cointelegraph read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
@@ -14614,7 +14614,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:23:53.822Z",
+      "reviewedAt": "2026-10-08T12:14:13.048Z",
       "articleSlug": "bitmine-cap",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24841,6 +24841,23 @@
           ],
           "reviewedAt": "2026-10-08T12:14:11.259Z",
           "articleSlug": "securitize-korea"
+        },
+        "2c1699713477803bf1b1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote bitmine-cap (627 words): Bitmine 5 percent hard cap with 6.02M ETH and end of weekly buys. CoinDesk plus Cointelegraph read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:14:13.048Z",
+          "articleSlug": "bitmine-cap"
         }
       },
       "baselineSlugs": [
