@@ -16247,11 +16247,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7b1fec09118711577e0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T04:39:00.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "out-of-scope",
+      "note": "Smucker stock picks with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:23.444Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "94798f529212e6e7e3ab": {
       "source": "Cointelegraph",
@@ -25065,6 +25070,13 @@
           "note": "Anthropic valuation commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:21.305Z"
+        },
+        "f7b1fec09118711577e0": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Smucker stock picks with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:23.444Z"
         }
       },
       "baselineSlugs": [
