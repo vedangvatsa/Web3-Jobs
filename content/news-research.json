@@ -10951,23 +10951,27 @@
       "id": "82cff8bbba1d2449bb5f",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T18:19:35.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "needs-corroboration",
-      "note": "Cointelegraph read confirms 220K ruble accounts vs forecast; needs second outlet or central bank source.",
+      "note": "Round 3 verified 220K digital ruble accounts vs 60K forecast across Euronext-Reuters and CryptoBriefing; draft not yet written.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments",
+          "url": "https://live.euronext.com/en/financial-news/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-bank",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/digital-ruble-accounts-top-220000-first-month/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-07T03:48:57.463Z",
+      "reviewedAt": "2026-10-08T04:19:04.302Z",
       "retrySearches": [
-        "Russia digital ruble 220000 accounts October 2026 second outlet"
+        "digital ruble rollout wave banks universal license 2027"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "0104640e7b2b652586ba": {
       "source": "The Defiant",
@@ -22849,6 +22853,25 @@
           "reviewedAt": "2026-10-08T04:19:02.591Z",
           "retrySearches": [
             "Kalshi US500 perpetual volume trading debut week"
+          ]
+        },
+        "82cff8bbba1d2449bb5f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified 220K digital ruble accounts vs 60K forecast across Euronext-Reuters and CryptoBriefing; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://live.euronext.com/en/financial-news/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-bank",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/digital-ruble-accounts-top-220000-first-month/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:04.302Z",
+          "retrySearches": [
+            "digital ruble rollout wave banks universal license 2027"
           ]
         }
       },
