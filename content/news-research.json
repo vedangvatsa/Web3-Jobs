@@ -2253,25 +2253,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "623319aad99616fa67c0",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-05T10:42:34.701Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T08:59:55.000Z",
       "lastSeenAt": "2026-10-05T10:42:34.701Z",
-      "reason": "source-blocked",
-      "note": "BeInCrypto origin still blocked; only paid press release plus low-tier pickup, swaps not live.",
+      "reason": "promotional",
+      "note": "THORWallet Monero support rests on a paid press release with no independent coverage and swaps not live; window expired Oct 8.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/thorwallet-integrates-monero-bringing-native-xmr-support/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:42:57.165Z",
+      "reviewedAt": "2026-10-08T04:17:39.157Z",
       "retrySearches": [
         "THORWallet Monero XMR swaps THORChain audit independent coverage"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "8726f0c4bbbe1e0598c8": {
       "source": "Cointelegraph",
@@ -22277,6 +22276,18 @@
           ],
           "reviewedAt": "2026-10-08T04:17:10.050Z",
           "articleSlug": "cftc-perps"
+        },
+        "623319aad99616fa67c0": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "THORWallet Monero support rests on a paid press release with no independent coverage and swaps not live; window expired Oct 8.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/thorwallet-integrates-monero-bringing-native-xmr-support/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:17:39.157Z"
         }
       },
       "baselineSlugs": [
