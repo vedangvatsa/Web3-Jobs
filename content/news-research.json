@@ -16951,17 +16951,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e33a650c55f3e7ab383a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T16:44:20.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 US 12,267 BTC Bitfinex-seizure move covered by bitfinex-bitcoin.",
+      "note": "Same US Oct 8 1B dollar Bitfinex-hack bitcoin move covered by seized-bitcoin in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T18:11:06.658Z",
-      "duplicateOf": "bitfinex-bitcoin",
-      "lastReviewedDay": "2026-10-08"
+      "reviewedAt": "2026-10-08T19:42:51.267Z",
+      "duplicateOf": "seized-bitcoin",
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "0acef52c24bebf178d60": {
       "source": "BeInCrypto",
@@ -28320,6 +28321,15 @@
           "note": "Same US Oct 8 1B dollar Bitfinex-hack bitcoin move covered by seized-bitcoin in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:42:49.288Z",
+          "duplicateOf": "seized-bitcoin",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "e33a650c55f3e7ab383a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US Oct 8 1B dollar Bitfinex-hack bitcoin move covered by seized-bitcoin in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:42:51.267Z",
           "duplicateOf": "seized-bitcoin",
           "mergedInto": "be4753c98af4393ba28f"
         }
