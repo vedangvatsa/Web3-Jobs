@@ -8579,25 +8579,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "6afe7f63290814ecbb7d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T15:27:34.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Agora OCC approval seen only in blocked Defiant origin; needs OCC record or second outlet.",
+      "reason": "stale",
+      "note": "Agora OCC item recaps a Sept 18 preliminary approval covered Sept 21; the Oct 6 piece adds no fresh event.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:46:09.005Z",
+      "reviewedAt": "2026-10-08T04:17:49.344Z",
       "retrySearches": [
         "Agora AUSD OCC trust bank approval October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "47b4b8373ca86fd98c5f": {
       "source": "Decrypt",
@@ -22297,6 +22296,18 @@
           "reviewedAt": "2026-10-08T04:17:43.939Z",
           "duplicateOf": "storm-venue",
           "mergedInto": "4954b8be94596f23a77e"
+        },
+        "6afe7f63290814ecbb7d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Agora OCC item recaps a Sept 18 preliminary approval covered Sept 21; the Oct 6 piece adds no fresh event.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/agora-s-occ-approval-sets-up-ausd-move-to-a-us-trust-bank",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:17:49.344Z"
         }
       },
       "baselineSlugs": [
