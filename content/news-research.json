@@ -11544,11 +11544,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a745ae9b5abcb4207f2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T22:24:45.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:59:23.527Z",
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e",
+      "lastReviewedDay": "2026-10-08"
     },
     "b52931b86de777cd1461": {
       "source": "The Block",
@@ -21688,6 +21695,15 @@
           "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:59:21.816Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "a745ae9b5abcb4207f2a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:59:23.527Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
