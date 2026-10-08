@@ -16766,11 +16766,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c52e57d52067e8770d9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T16:53:52.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read Bitcoin Magazine Oct 8 EDX-VerifiedX vBTC partnership with validator role; press-release based with disclosed financial tie, needs second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:11.170Z",
+      "retrySearches": [
+        "EDX VerifiedX vBTC validator partnership second outlet"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "ae47f8ab88a2c7848349": {
       "source": "CryptoSlate",
@@ -26731,6 +26745,21 @@
           "reviewedAt": "2026-10-08T18:17:09.052Z",
           "retrySearches": [
             "NextBlock Soda Labs M seed round second outlet"
+          ]
+        },
+        "3c52e57d52067e8770d9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read Bitcoin Magazine Oct 8 EDX-VerifiedX vBTC partnership with validator role; press-release based with disclosed financial tie, needs second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:11.170Z",
+          "retrySearches": [
+            "EDX VerifiedX vBTC validator partnership second outlet"
           ]
         }
       },
