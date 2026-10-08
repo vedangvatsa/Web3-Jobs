@@ -15267,17 +15267,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4c5102f5a98f48f2121",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T10:46:25.000Z",
       "lastSeenAt": "2026-10-08T17:58:12.592Z",
       "reason": "duplicate",
-      "note": "Same Greece 10 percent crypto tax draft covered by greece-tax.",
+      "note": "Same Greece 10% crypto tax draft with 500-euro exemption and November parliament plan covered by greece-tax.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:16:33.571Z",
+      "reviewedAt": "2026-10-08T18:23:07.949Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "a58ed5f4524012c5b9b0"
     },
     "7c88defa6c907e3cd190": {
       "source": "Decrypt",
@@ -27554,6 +27555,15 @@
           ],
           "reviewedAt": "2026-10-08T18:23:03.137Z",
           "articleSlug": "greece-tax"
+        },
+        "b4c5102f5a98f48f2121": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece 10% crypto tax draft with 500-euro exemption and November parliament plan covered by greece-tax.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:23:07.949Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "a58ed5f4524012c5b9b0"
         }
       },
       "baselineSlugs": [
