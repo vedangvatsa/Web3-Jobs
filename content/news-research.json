@@ -13317,11 +13317,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "54f3eed624c0da1f9f8b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T18:08:51.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "Google game-builder feature; consumer-tech news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:43.295Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "a69bf44691793495fd4a": {
       "source": "Cointelegraph",
@@ -21288,6 +21293,13 @@
           "note": "Anthropic model launch; AI-lab news, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:41.668Z"
+        },
+        "54f3eed624c0da1f9f8b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Google game-builder feature; consumer-tech news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:43.295Z"
         }
       },
       "baselineSlugs": [
