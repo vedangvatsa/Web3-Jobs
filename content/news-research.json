@@ -12406,17 +12406,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "975d9f51a02a30183717",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T14:27:37.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
       "note": "Same Tether Kazakhstan MoU on tenge pilot and tokenization covered by tether-kazakhstan.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:25:33.003Z",
+      "reviewedAt": "2026-10-08T12:15:57.193Z",
       "duplicateOf": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "5e818d6c7c2ca5d7595e"
     },
     "d557a2418f1625e8f9f2": {
       "source": "Decrypt",
@@ -25290,6 +25291,15 @@
           "note": "Same Tether Kazakhstan MoU on tenge pilot and tokenization covered by tether-kazakhstan.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T12:15:55.397Z",
+          "duplicateOf": "tether-kazakhstan",
+          "mergedInto": "5e818d6c7c2ca5d7595e"
+        },
+        "975d9f51a02a30183717": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Tether Kazakhstan MoU on tenge pilot and tokenization covered by tether-kazakhstan.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:15:57.193Z",
           "duplicateOf": "tether-kazakhstan",
           "mergedInto": "5e818d6c7c2ca5d7595e"
         }
