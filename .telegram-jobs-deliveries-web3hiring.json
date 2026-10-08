@@ -2160,5 +2160,49 @@
     "slotKey": "2026-10-08:morning",
     "messageId": 16517,
     "sentAt": "2026-10-08T04:29:58.480Z"
+  },
+  "5469556f-451f-409d-b82b-18207b4a813f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T12:28:16.361Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "2d77b496-ab0d-4e54-bcf8-33260d1bab6b",
+        "slug": "product3",
+        "url": "https://hashtagweb3.com/product3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Lightning Labs",
+        "title": "Technical Product Manager"
+      },
+      {
+        "key": "4198e4add516",
+        "slug": "vp10",
+        "url": "https://hashtagweb3.com/vp10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Zero Hash",
+        "title": "Head of Liquidity & Exchange Services"
+      },
+      {
+        "key": "7594424003",
+        "slug": "eng101",
+        "url": "https://hashtagweb3.com/eng101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DriveWealth",
+        "title": "Principal Software Development Engineer"
+      },
+      {
+        "key": "5c02b8eb-58c4-47e5-ab5f-34ac1820d4a9",
+        "slug": "marketing10",
+        "url": "https://hashtagweb3.com/marketing10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Arbitrum",
+        "title": "Head of Ecosystem Growth"
+      },
+      {
+        "key": "d6d4cda0-81c5-4b88-9af5-f3bc1d48e1bc",
+        "slug": "rust15",
+        "url": "https://hashtagweb3.com/rust15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "• Lightning Labs is hiring <a href=\"https://hashtagweb3.com/product3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Product Manager</a>\n• Zero Hash is hiring <a href=\"https://hashtagweb3.com/vp10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Liquidity &amp; Exchange Services</a>\n• DriveWealth is hiring <a href=\"https://hashtagweb3.com/eng101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Principal Software Development Engineer</a>\n• Arbitrum is hiring <a href=\"https://hashtagweb3.com/marketing10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Ecosystem Growth</a>\n• Kraken is hiring <a href=\"https://hashtagweb3.com/rust15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-10-08:afternoon"
   }
 }
