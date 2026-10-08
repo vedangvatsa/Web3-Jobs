@@ -16448,11 +16448,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e00f0a7692b2de975e42",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:00:46.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "not-a-concrete-event",
+      "note": "CryptoSlate Oct 8 staking-queue piece is hypothetical modeling of a Sept 30 1000-dollar diversion with unknown return decisions; analysis, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:46.156Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "634e1516faeb608c8daa": {
       "source": "The Block",
@@ -27051,6 +27061,18 @@
           "retrySearches": [
             "Drake bunker mode newsletter recap draft follow-up"
           ]
+        },
+        "e00f0a7692b2de975e42": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "CryptoSlate Oct 8 staking-queue piece is hypothetical modeling of a Sept 30 1000-dollar diversion with unknown return decisions; analysis, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:46.156Z"
         }
       },
       "baselineSlugs": [
