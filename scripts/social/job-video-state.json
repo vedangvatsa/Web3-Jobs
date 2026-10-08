@@ -1684,9 +1684,10 @@
           "url": "https://www.instagram.com/reel/DeO1qKVEqT-/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "North America, South America\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-08T11:35:16.355Z"
+          "startedAt": "2026-10-08T11:35:16.355Z",
+          "postId": "6ac77ff6e63932e2c59d6386"
         }
       }
     }
