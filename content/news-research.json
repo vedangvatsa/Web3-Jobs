@@ -15398,11 +15398,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9bd7034edda705b4a484",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T05:40:41.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "not-a-concrete-event",
+      "note": "Lender survey feature on loan uses; analysis without a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:28:03.840Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "a0c255f93489afb87051": {
       "source": "BeInCrypto",
@@ -25161,6 +25166,13 @@
           "note": "CEO market-cycle predictions with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:28:01.785Z"
+        },
+        "9bd7034edda705b4a484": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Lender survey feature on loan uses; analysis without a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:28:03.840Z"
         }
       },
       "baselineSlugs": [
