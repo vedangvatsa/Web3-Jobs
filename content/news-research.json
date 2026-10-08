@@ -14450,11 +14450,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "21f0c3a44c024692a6be",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T09:51:29.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "source-blocked",
+      "note": "Jito JTX mobile app and perps plan seen only in blocked Block origin; needs company post or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:41.273Z",
+      "retrySearches": [
+        "Jito JTX mobile app launch perps integration"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "925d4f99930e103b24e6": {
       "source": "CoinDesk",
@@ -23138,6 +23152,21 @@
           "reviewedAt": "2026-10-08T04:19:39.746Z",
           "retrySearches": [
             "NEAR Intents Robinhood Chain volume assets supported"
+          ]
+        },
+        "21f0c3a44c024692a6be": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Jito JTX mobile app and perps plan seen only in blocked Block origin; needs company post or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:41.273Z",
+          "retrySearches": [
+            "Jito JTX mobile app launch perps integration"
           ]
         }
       },
