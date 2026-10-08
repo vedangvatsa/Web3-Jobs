@@ -1292,5 +1292,55 @@
     "slotKey": "2026-10-08:morning",
     "messageId": 155683,
     "sentAt": "2026-10-08T04:30:00.781Z"
+  },
+  "a0a86b91-e64a-4661-b579-3039af3d3d58": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T12:28:13.330Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtQaRHdxkE9l6Jm",
+        "slug": "hb6ziku6",
+        "name": "Trustable Systems in a Distrustful World: Singapore's Blockchain Survival Strategy",
+        "startDate": "2026-10-08T14:00:00.000Z",
+        "keys": [
+          "luma-batch-evtqarhdxke9l6jm",
+          "page:hb6ziku6:2026-10-08",
+          "luma:evt-qarhdxke9l6jmuk",
+          "luma-url:/hb6ziku6",
+          "event:trustablesystemsinadistrustfulworldsingaporesblockchainsurvivalstrategy:2026-10-08:zug"
+        ]
+      },
+      {
+        "id": "luma-crypto-Idth15LWAl7MhKh",
+        "slug": "ai-hackath",
+        "name": "AI Hackathon: Sales Copilot AI",
+        "startDate": "2026-10-08T18:00:00.000Z",
+        "keys": [
+          "luma-crypto-idth15lwal7mhkh",
+          "page:ai-hackath:2026-10-08",
+          "luma:evt-idth15lwal7mhkh",
+          "luma-url:/qzct3ybt",
+          "event:aihackathonsalescopilotai:2026-10-08:san francisco"
+        ]
+      },
+      {
+        "id": "premier-finalityforum",
+        "slug": "finality-forum-2026",
+        "name": "Finality Forum @ Token2049 SG 2026",
+        "startDate": "2026-10-09T02:00:00.000Z",
+        "keys": [
+          "premier-finalityforum",
+          "finality-forum",
+          "token2049-side-6a5ea218d1b48ddf39d0835f",
+          "page:finality-forum-2026:2026-10-09",
+          "luma:evt-l0q2lprjgf8hgej",
+          "luma-url:/g2lg0htf",
+          "event:finalityforumtoken2049sg2026:2026-10-09:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-08:afternoon"
   }
 }
