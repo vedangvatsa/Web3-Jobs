@@ -1649,10 +1649,11 @@
           "url": "https://www.instagram.com/reel/DeO1U3jGDn-/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Kuala Lumpur, Malaysia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-08T11:32:37.320Z",
-          "postId": "6ac77f56d1ababbf88ab4eeb"
+          "postId": "6ac77f56d1ababbf88ab4eeb",
+          "url": "https://www.youtube.com/watch?v=xOAJhdBfTfA"
         }
       }
     },
