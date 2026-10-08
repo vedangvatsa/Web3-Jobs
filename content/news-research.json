@@ -14249,17 +14249,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "9dad087f927922704e2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T12:40:31.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap.",
+      "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:14:45.772Z",
+      "reviewedAt": "2026-10-08T18:51:22.632Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "2de409dcf0f9eb524c55": {
       "source": "CoinDesk",
@@ -28420,6 +28421,15 @@
           "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:51:20.364Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
+        },
+        "9dad087f927922704e2a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:51:22.632Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
         }
