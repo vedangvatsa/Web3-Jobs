@@ -16301,11 +16301,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "392872e824f8556b402f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T11:32:02.994Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:15:00.000Z",
-      "lastSeenAt": "2026-10-08T11:32:02.994Z"
+      "lastSeenAt": "2026-10-08T11:32:02.994Z",
+      "reason": "price-chatter",
+      "note": "CoinDesk daybook newsletter on 487M ETF outflows with price-level commentary and analyst quotes; fund-flow market coverage with no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T12:16:55.809Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "12cd8e1ece2bf4f73473": {
       "source": "CryptoSlate",
@@ -25482,6 +25492,18 @@
           "reviewedAt": "2026-10-08T12:16:37.641Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "a58ed5f4524012c5b9b0"
+        },
+        "392872e824f8556b402f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "CoinDesk daybook newsletter on 487M ETF outflows with price-level commentary and analyst quotes; fund-flow market coverage with no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:16:55.809Z"
         }
       },
       "baselineSlugs": [
