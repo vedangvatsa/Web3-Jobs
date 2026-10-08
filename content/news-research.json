@@ -12249,17 +12249,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f473ee7a875080f630f5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T16:25:38.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "duplicate",
-      "note": "Same Tether Kazakhstan MoU already covered by tether-kazakhstan.",
+      "note": "Same Tether Kazakhstan MoU on tenge pilot and tokenization covered by tether-kazakhstan.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T03:51:02.240Z",
+      "reviewedAt": "2026-10-08T11:25:31.044Z",
       "duplicateOf": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "5e818d6c7c2ca5d7595e"
     },
     "8c65ec88a9d5f318eeff": {
       "source": "Bitcoin Magazine",
@@ -24555,6 +24556,15 @@
           "reviewedAt": "2026-10-08T11:25:25.319Z",
           "duplicateOf": "sberbank-register",
           "mergedInto": "c4f3f560217dd042e479"
+        },
+        "f473ee7a875080f630f5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Tether Kazakhstan MoU on tenge pilot and tokenization covered by tether-kazakhstan.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:25:31.044Z",
+          "duplicateOf": "tether-kazakhstan",
+          "mergedInto": "5e818d6c7c2ca5d7595e"
         }
       },
       "baselineSlugs": [
