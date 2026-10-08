@@ -3860,25 +3860,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a2c26b4393987bbe0dd8",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T13:47:17.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "missing-primary-source",
-      "note": "Same Metaplanet event as b1e5; Cointelegraph copy read, filing still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:04.024Z",
+      "reason": "duplicate",
+      "note": "Same Metaplanet income-strategy event already covered by the metaplanet-sale draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:14:47.731Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "metaplanet-sale",
+      "mergedInto": "b1e55f7f84c981ba728a"
     },
     "d436f47af69b48a70f31": {
       "source": "CryptoSlate",
@@ -22195,6 +22191,15 @@
           "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:14:44.359Z",
+          "duplicateOf": "metaplanet-sale",
+          "mergedInto": "b1e55f7f84c981ba728a"
+        },
+        "a2c26b4393987bbe0dd8": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Metaplanet income-strategy event already covered by the metaplanet-sale draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:14:47.731Z",
           "duplicateOf": "metaplanet-sale",
           "mergedInto": "b1e55f7f84c981ba728a"
         }
