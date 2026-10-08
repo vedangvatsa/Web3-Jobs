@@ -4725,23 +4725,23 @@
       "id": "225c93bde85c193bfce1",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T18:34:55.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "source-blocked",
-      "note": "Compound treasury vote seen only in blocked Defiant page; needs proposal page or second outlet.",
+      "note": "Compound treasury-cancel vote seen only in blocked Defiant page; needs proposal page or second outlet with vote status.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/compound-votes-on-giving-governance-power-to-cancel-treasury-operations",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:43:30.164Z",
+      "reviewedAt": "2026-10-08T04:18:23.332Z",
       "retrySearches": [
-        "Compound governance vote cancel treasury operations proposal October 2026"
+        "Compound treasury operations cancel governance proposal vote result"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "0ac45e3bc48da2fb31e3": {
       "source": "The Defiant",
@@ -22567,6 +22567,21 @@
           "reviewedAt": "2026-10-08T04:18:19.342Z",
           "retrySearches": [
             "Base vault Aave deposit tokens exploit Immunefi disclosure"
+          ]
+        },
+        "225c93bde85c193bfce1": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Compound treasury-cancel vote seen only in blocked Defiant page; needs proposal page or second outlet with vote status.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/compound-votes-on-giving-governance-power-to-cancel-treasury-operations",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:23.332Z",
+          "retrySearches": [
+            "Compound treasury operations cancel governance proposal vote result"
           ]
         }
       },
