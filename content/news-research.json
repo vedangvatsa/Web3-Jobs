@@ -12577,11 +12577,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cd86457c4b35b8968b5c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T09:03:38.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Daily ETF inflow/outflow figures; fund-flow price coverage, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:52.354Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "7d334a722b2c2115415a": {
       "source": "Decrypt",
@@ -21024,6 +21029,13 @@
           "note": "550M liquidation tally on bitcoin dip; same price event as other liquidation items.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:50.686Z"
+        },
+        "cd86457c4b35b8968b5c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Daily ETF inflow/outflow figures; fund-flow price coverage, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:52.354Z"
         }
       },
       "baselineSlugs": [
