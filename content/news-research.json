@@ -9489,23 +9489,23 @@
       "id": "5c3e3543ffeb133deebc",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T20:30:24.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "SEC release is primary but returned 403 to fetches; needs openable copy or independent outlet on Leech motion.",
+      "reason": "source-blocked",
+      "note": "SEC Leech final-judgment release returned 403 to fetches; needs openable copy or independent outlet on the motion.",
       "sourceChecks": [
         {
           "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:47:18.547Z",
+      "reviewedAt": "2026-10-08T04:18:42.539Z",
       "retrySearches": [
-        "SEC Ken Leech cherry picking final judgment October 2026"
+        "Ken Leech cherry picking final judgment order October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "63e6bcc5958cd253a0d4": {
       "source": "The Defiant",
@@ -22727,6 +22727,21 @@
           "reviewedAt": "2026-10-08T04:18:40.862Z",
           "retrySearches": [
             "SEC quorum one commissioner recusal crypto enforcement October 2026"
+          ]
+        },
+        "5c3e3543ffeb133deebc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SEC Leech final-judgment release returned 403 to fetches; needs openable copy or independent outlet on the motion.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:42.539Z",
+          "retrySearches": [
+            "Ken Leech cherry picking final judgment order October 2026"
           ]
         }
       },
