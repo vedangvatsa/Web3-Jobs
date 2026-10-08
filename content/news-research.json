@@ -13159,11 +13159,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "04d09b166c458ff23159",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T22:00:00.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "Science-medal politics; no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:55.031Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "c2b094a954a1d7504a9a": {
       "source": "Decrypt",
@@ -21372,6 +21377,13 @@
           "note": "Brokerage stock drop on China-ties report; equities news, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:53.399Z"
+        },
+        "04d09b166c458ff23159": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Science-medal politics; no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:55.031Z"
         }
       },
       "baselineSlugs": [
