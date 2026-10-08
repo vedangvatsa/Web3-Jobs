@@ -13356,17 +13356,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "70033f0ef71a5c26d294",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T02:00:00.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same Cardano CIP-0113 launch already covered by cardano-standard.",
+      "note": "Same Cardano CIP-0113 issuer-controls launch covered by cardano-standard.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T03:49:20.098Z",
+      "reviewedAt": "2026-10-08T11:26:15.473Z",
       "duplicateOf": "cardano-standard",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "47785a59bf9afa150ab7"
     },
     "50c25c5479e00100eded": {
       "source": "BeInCrypto",
@@ -24757,6 +24758,15 @@
           "note": "Same Cardano CIP-0113 issuer-controls launch covered by cardano-standard.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:26:13.445Z",
+          "duplicateOf": "cardano-standard",
+          "mergedInto": "47785a59bf9afa150ab7"
+        },
+        "70033f0ef71a5c26d294": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Cardano CIP-0113 issuer-controls launch covered by cardano-standard.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:26:15.473Z",
           "duplicateOf": "cardano-standard",
           "mergedInto": "47785a59bf9afa150ab7"
         }
