@@ -18815,11 +18815,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "b94981880c3d659e2dd8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T18:30:35.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "verified-event",
+      "note": "Derive V3 went live Oct 8 retiring Derive Chain for a zkVM exchange with L1 custody, cross-margin and new borrowing assets. Bankless, TokenPost, PANews and governance forum read; all gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/news/derive-v3-goes-live-moving-onchain-options-custody-to-ethereum",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/28410",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.panews.io/articles/01a11c3c-3070-7404-963c-ea7ce2fe89ff",
+          "outcome": "read"
+        },
+        {
+          "url": "https://forums.derive.xyz/t/dip-launch-derive-v3/322",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T20:07:04.371Z",
+      "articleSlug": "derive-v3",
+      "lastReviewedDay": "2026-10-08"
     },
     "082e493221b37a47877c": {
       "source": "Decrypt",
@@ -28918,6 +28941,31 @@
           ],
           "reviewedAt": "2026-10-08T20:07:02.474Z",
           "articleSlug": "whitebit-lightning"
+        },
+        "b94981880c3d659e2dd8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Derive V3 went live Oct 8 retiring Derive Chain for a zkVM exchange with L1 custody, cross-margin and new borrowing assets. Bankless, TokenPost, PANews and governance forum read; all gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/derive-v3-goes-live-moving-onchain-options-custody-to-ethereum",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/28410",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.panews.io/articles/01a11c3c-3070-7404-963c-ea7ce2fe89ff",
+              "outcome": "read"
+            },
+            {
+              "url": "https://forums.derive.xyz/t/dip-launch-derive-v3/322",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T20:07:04.371Z",
+          "articleSlug": "derive-v3"
         }
       },
       "baselineSlugs": [
