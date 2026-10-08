@@ -11713,13 +11713,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "b52931b86de777cd1461",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T22:01:02.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified Oct 7 Orca-Loopscale merger into Formation, Truitt CEO and 550B volume plus 150M deposits across PRNewswire release and CryptoBriefing.",
+      "note": "Drafted report on Orca-Loopscale merger into Formation with Truitt CEO, 550B volume and frontier financing plan. Primary plus CryptoBriefing read. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
@@ -11728,13 +11728,9 @@
         {
           "url": "https://cryptobriefing.com/orca-loopscale-merge-formation-ai-defense/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:12:18.162Z",
+      "reviewedAt": "2026-10-08T11:23:41.780Z",
       "articleSlug": "orca-merger",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24108,6 +24104,23 @@
           ],
           "reviewedAt": "2026-10-08T11:23:39.759Z",
           "articleSlug": "bunker-mode"
+        },
+        "b52931b86de777cd1461": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Orca-Loopscale merger into Formation with Truitt CEO, 550B volume and frontier financing plan. Primary plus CryptoBriefing read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/orca-loopscale-merge-formation-ai-defense/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:41.780Z",
+          "articleSlug": "orca-merger"
         }
       },
       "baselineSlugs": [
