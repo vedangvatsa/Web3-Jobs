@@ -18102,11 +18102,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "468524abbb1ccf6bfb49",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T13:42:27.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "opinion",
+      "note": "Fidelity no-going-back quote on tokenized onchain future; single-executive conference line, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:03.341Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "74ef292c7a3ac6197029": {
       "source": "Bitcoin Magazine",
@@ -27385,6 +27390,13 @@
           "note": "Siebert CIO Micron stock buy call; equities commentary, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:01.198Z"
+        },
+        "468524abbb1ccf6bfb49": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Fidelity no-going-back quote on tokenized onchain future; single-executive conference line, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:03.341Z"
         }
       },
       "baselineSlugs": [
