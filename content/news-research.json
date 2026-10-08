@@ -3174,25 +3174,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "c5df46f189a550c4b985",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T16:49:15.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "source-blocked",
-      "note": "Umia raise seen only in blocked Block page; needs company announcement or second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:43:17.313Z",
+      "reason": "duplicate",
+      "note": "Umia 6.1M raise at 18M FDV already covered by the existing umia-raise article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:17:40.785Z",
       "retrySearches": [
         "Umia raises 6.1 million token launch October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "umia-raise"
     },
     "80b65096e8fd3565317c": {
       "source": "Decrypt",
@@ -22288,6 +22283,14 @@
             }
           ],
           "reviewedAt": "2026-10-08T04:17:39.157Z"
+        },
+        "c5df46f189a550c4b985": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Umia 6.1M raise at 18M FDV already covered by the existing umia-raise article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:17:40.785Z",
+          "duplicateOf": "umia-raise"
         }
       },
       "baselineSlugs": [
