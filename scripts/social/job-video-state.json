@@ -92,6 +92,10 @@
     "2026-10-08:afternoon": [
       "as",
       "eng336"
+    ],
+    "2026-10-08:evening": [
+      "sls109",
+      "qa46"
     ]
   },
   "jobs": {
@@ -1698,6 +1702,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7694259267448098081"
         }
       }
+    },
+    "sls109": {
+      "slot": "2026-10-08:evening",
+      "selectedAt": "2026-10-08T19:31:06.437Z",
+      "verifiedAt": "2026-10-08T19:31:06.437Z",
+      "captions": {
+        "instagram": "Mid-Market Account Executive at Block\n\nChicago, IL, United States of America\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "Mid-Market Account Executive at Block. Chicago, IL, United States of America.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Chicago, IL, United States of America\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Mid-Market Account Executive at Block"
+      },
+      "receipts": {}
+    },
+    "qa46": {
+      "slot": "2026-10-08:evening",
+      "selectedAt": "2026-10-08T19:31:06.438Z",
+      "verifiedAt": "2026-10-08T19:31:06.438Z",
+      "captions": {
+        "instagram": "Senior Quality Engineer at Solflare\n\nZagreb, Croatia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
+        "tiktok": "Senior Quality Engineer at Solflare. Zagreb, Croatia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Zagreb, Croatia\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Senior Quality Engineer at Solflare"
+      },
+      "receipts": {}
     }
   }
 }
