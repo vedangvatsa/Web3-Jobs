@@ -3511,18 +3511,14 @@
       ],
       "alsoCoveredBy": [],
       "id": "b1e55f7f84c981ba728a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T16:30:56.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
-      "reason": "missing-primary-source",
-      "note": "Sell-rebuy plus income strategy corroborated across five outlets; company filing or TSE disclosure not yet opened.",
+      "reason": "verified-event",
+      "note": "Verified Metaplanet Q3 sale of 10000 BTC and 11000 repurchase to 44000 holdings for credit-rating bid across Decrypt and CoinDesk.",
       "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/metaplanet-sold-10000-bitcoin-in-a-credit-rating-bid-only-to-buy-back-11000-btc-at-a-higher-price-per-coin/",
-          "outcome": "read"
-        },
         {
           "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
           "outcome": "read"
@@ -3532,24 +3528,16 @@
           "outcome": "read"
         },
         {
-          "url": "https://unchainedcrypto.com/metaplanet-sells-and-rebuys-its-bitcoin-in-a-bid-for-a-credit-rating",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation",
-          "outcome": "read"
-        },
-        {
           "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:44:54.444Z",
+      "reviewedAt": "2026-10-08T04:14:40.349Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "articleSlug": "metaplanet-sale"
     },
     "431c67e9e2ef0507ca32": {
       "source": "Decrypt",
@@ -22183,6 +22171,27 @@
           "reviewedAt": "2026-10-08T04:13:59.676Z",
           "duplicateOf": "strategy-q3",
           "mergedInto": "2981e25a6d7558ccaa5f"
+        },
+        "b1e55f7f84c981ba728a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Metaplanet Q3 sale of 10000 BTC and 11000 repurchase to 44000 holdings for credit-rating bid across Decrypt and CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:14:40.349Z",
+          "articleSlug": "metaplanet-sale"
         }
       },
       "baselineSlugs": [
