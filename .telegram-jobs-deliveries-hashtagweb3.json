@@ -1056,5 +1056,49 @@
     "slotKey": "2026-10-07:evening",
     "messageId": 155673,
     "sentAt": "2026-10-07T19:32:20.782Z"
+  },
+  "903b3761-8eff-453d-a2ba-7b4c06c8c472": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T12:28:34.481Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "53.F6B",
+        "slug": "manager494",
+        "url": "https://hashtagweb3.com/manager494?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "eToro",
+        "title": "Senior Client Service Manager"
+      },
+      {
+        "key": "ae1afd2556e5",
+        "slug": "ddrm",
+        "url": "https://hashtagweb3.com/ddrm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Zero Hash",
+        "title": "Director / Senior Director"
+      },
+      {
+        "key": "744000149884939",
+        "slug": "eng70",
+        "url": "https://hashtagweb3.com/eng70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "key": "8012557003",
+        "slug": "mkt83",
+        "url": "https://hashtagweb3.com/mkt83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Grayscale",
+        "title": "Campaign Manager"
+      },
+      {
+        "key": "8632392002",
+        "slug": "eng389",
+        "url": "https://hashtagweb3.com/eng389?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Software Engineer"
+      }
+    ],
+    "message": "• eToro is hiring <a href=\"https://hashtagweb3.com/manager494?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Client Service Manager</a>\n• Zero Hash is hiring <a href=\"https://hashtagweb3.com/ddrm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Director / Senior Director</a>\n• Solflare is hiring <a href=\"https://hashtagweb3.com/eng70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Engineer</a>\n• Grayscale is hiring <a href=\"https://hashtagweb3.com/mkt83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Campaign Manager</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/eng389?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>",
+    "slotKey": "2026-10-08:afternoon"
   }
 }
