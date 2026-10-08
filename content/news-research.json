@@ -13086,11 +13086,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8159be2c028b15feea4f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T00:12:21.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "Speculative equities-supercycle opinion; no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:51.590Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "47e63912212162135693": {
       "source": "Cointelegraph",
@@ -21348,6 +21353,13 @@
           "note": "Bond-market punditry; macro commentary, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:49.602Z"
+        },
+        "8159be2c028b15feea4f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Speculative equities-supercycle opinion; no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:51.590Z"
         }
       },
       "baselineSlugs": [
