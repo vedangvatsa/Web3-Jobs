@@ -12844,14 +12844,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d334a722b2c2115415a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T09:01:03.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Wrote ledger-loans (806 words): Ledger Oct 7 Crypto Loan via Morpho and Yield.xyz plus direct Morpho access and Spurs device. Ledger primary plus Decrypt and crypto.news read. All gates pass.",
+      "note": "Wrote ledger-loans (859 words): Ledger Oct 7 Crypto Loan via Morpho and Yield.xyz plus direct Morpho access and Spurs device. Ledger blog plus Decrypt and crypto.news read; Defiant blocked 403. All gates pass.",
       "sourceChecks": [
+        {
+          "url": "https://www.ledger.com/blog-morpho-direct-access-ledger-wallet",
+          "outcome": "read"
+        },
         {
           "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
           "outcome": "read"
@@ -12859,13 +12863,9 @@
         {
           "url": "https://crypto.news/ledger-adds-bitcoin-backed-loans-through-morpho/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.ledger.com/blog-morpho-direct-access-ledger-wallet",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T12:13:40.706Z",
+      "reviewedAt": "2026-10-08T18:48:52.217Z",
       "articleSlug": "ledger-loans",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -27751,6 +27751,27 @@
           ],
           "reviewedAt": "2026-10-08T18:48:47.575Z",
           "articleSlug": "storm-venue"
+        },
+        "7d334a722b2c2115415a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote ledger-loans (859 words): Ledger Oct 7 Crypto Loan via Morpho and Yield.xyz plus direct Morpho access and Spurs device. Ledger blog plus Decrypt and crypto.news read; Defiant blocked 403. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.ledger.com/blog-morpho-direct-access-ledger-wallet",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/ledger-adds-bitcoin-backed-loans-through-morpho/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:48:52.217Z",
+          "articleSlug": "ledger-loans"
         }
       },
       "baselineSlugs": [
