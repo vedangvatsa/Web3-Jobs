@@ -13520,11 +13520,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5ce17ac3ad0afbb39a2b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:40:51.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "promotional",
+      "note": "Same LAPTOP memecoin stunt coverage; promotional, no verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:07.299Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "3ec4c0579b481f18e630": {
       "source": "The Defiant",
@@ -21420,6 +21425,13 @@
           "note": "Celebrity memecoin troll statement from single outlet; promotional stunt, no verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:05.737Z"
+        },
+        "5ce17ac3ad0afbb39a2b": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Same LAPTOP memecoin stunt coverage; promotional, no verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:07.299Z"
         }
       },
       "baselineSlugs": [
