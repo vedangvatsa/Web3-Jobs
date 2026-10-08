@@ -17352,11 +17352,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f17adecb451c144469c3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:48:13.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read Decrypt Oct 8 Morning Minute newsletter recap of Drake bunker-mode call; opinion-labeled roundup pairing with reported pieces, draft not yet written.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:44.097Z",
+      "retrySearches": [
+        "Drake bunker mode newsletter recap draft follow-up"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "1a9b8a63c6b803e825da": {
       "source": "CoinDesk",
@@ -27021,6 +27035,21 @@
           "reviewedAt": "2026-10-08T18:17:41.989Z",
           "retrySearches": [
             "Project Eleven Quantus institutional custody Q1 2027 second outlet"
+          ]
+        },
+        "f17adecb451c144469c3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read Decrypt Oct 8 Morning Minute newsletter recap of Drake bunker-mode call; opinion-labeled roundup pairing with reported pieces, draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:44.097Z",
+          "retrySearches": [
+            "Drake bunker mode newsletter recap draft follow-up"
           ]
         }
       },
