@@ -13703,11 +13703,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "9947fd6054fa80daa4d4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T13:20:54.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Europol EC3 and harvest-now reports, 6.9M BTC exposure and migration figures across CoinDesk and Decrypt.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:59:05.822Z",
+      "articleSlug": "europol-quantum",
+      "lastReviewedDay": "2026-10-08"
     },
     "a3f0498b0937836134a4": {
       "source": "The Defiant",
@@ -21514,6 +21529,23 @@
           "note": "Quantum-project pitch from single weak outlet; marketing without verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:38.205Z"
+        },
+        "9947fd6054fa80daa4d4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Europol EC3 and harvest-now reports, 6.9M BTC exposure and migration figures across CoinDesk and Decrypt.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:59:05.822Z",
+          "articleSlug": "europol-quantum"
         }
       },
       "baselineSlugs": [
