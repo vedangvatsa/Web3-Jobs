@@ -3886,20 +3886,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "286242ffe42f36b19b5a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T14:12:58.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft.",
+      "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T04:14:44.359Z",
+      "reviewedAt": "2026-10-08T11:24:23.013Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "metaplanet-sale"
+      "duplicateOf": "metaplanet-sale",
+      "mergedInto": "b1e55f7f84c981ba728a"
     },
     "a2c26b4393987bbe0dd8": {
       "source": "Cointelegraph",
@@ -24315,6 +24316,15 @@
           "reviewedAt": "2026-10-08T11:24:17.469Z",
           "duplicateOf": "strategy-q3",
           "mergedInto": "2981e25a6d7558ccaa5f"
+        },
+        "286242ffe42f36b19b5a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:24:23.013Z",
+          "duplicateOf": "metaplanet-sale",
+          "mergedInto": "b1e55f7f84c981ba728a"
         }
       },
       "baselineSlugs": [
