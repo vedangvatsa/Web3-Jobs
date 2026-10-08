@@ -16289,11 +16289,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c2e6eda802bb217ed79",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T04:02:00.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic valuation commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:21.305Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "ac1dee72e3538b3b129d": {
       "source": "The Defiant",
@@ -25053,6 +25058,13 @@
           "note": "Bitcoin slide framed around bunker-mode debate; price move without new event, underlying story covered by bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:15.059Z"
+        },
+        "0c2e6eda802bb217ed79": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic valuation commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:21.305Z"
         }
       },
       "baselineSlugs": [
