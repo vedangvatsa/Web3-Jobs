@@ -14696,11 +14696,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbb488f6b4d099639f78",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T03:40:39.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "source-blocked",
+      "note": "Muneeb Ali Stacks IP-transfer CEO plan seen only in blocked Defiant origin; needs proposal post or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:42.941Z",
+      "retrySearches": [
+        "Muneeb Ali Stacks CEO endowment IP transfer vote"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     }
   },
   "runs": {
@@ -23167,6 +23181,21 @@
           "reviewedAt": "2026-10-08T04:19:41.273Z",
           "retrySearches": [
             "Jito JTX mobile app launch perps integration"
+          ]
+        },
+        "bbb488f6b4d099639f78": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Muneeb Ali Stacks IP-transfer CEO plan seen only in blocked Defiant origin; needs proposal post or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:42.941Z",
+          "retrySearches": [
+            "Muneeb Ali Stacks CEO endowment IP transfer vote"
           ]
         }
       },
