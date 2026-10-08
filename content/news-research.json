@@ -17331,11 +17331,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e9948d74caa61550c47",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T17:46:44.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "duplicate",
+      "note": "Same NFL Oct 8 Supreme Court amicus in Kalshi case covered by nfl-kalshi.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:11:27.394Z",
+      "duplicateOf": "nfl-kalshi",
+      "mergedInto": "634e1516faeb608c8daa",
+      "lastReviewedDay": "2026-10-08"
     },
     "817d26b99c3d48e348ee": {
       "source": "The Block",
@@ -26509,6 +26516,15 @@
           "reviewedAt": "2026-10-08T18:11:25.202Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "b4cab21a62516fd28dba"
+        },
+        "6e9948d74caa61550c47": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL Oct 8 Supreme Court amicus in Kalshi case covered by nfl-kalshi.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:11:27.394Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
