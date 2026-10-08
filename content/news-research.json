@@ -15581,11 +15581,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c88defa6c907e3cd190",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:45:11.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "out-of-scope",
+      "note": "Sony disc-drive gaming commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:31.102Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "b9a465812b47048b16e1": {
       "source": "CoinDesk",
@@ -25113,6 +25118,13 @@
           "note": "Anthropic model pricing and IPO commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:29.076Z"
+        },
+        "7c88defa6c907e3cd190": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Sony disc-drive gaming commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:31.102Z"
         }
       },
       "baselineSlugs": [
