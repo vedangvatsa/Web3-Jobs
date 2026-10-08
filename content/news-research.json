@@ -13211,11 +13211,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b424e6aa5a23a598fae4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T21:05:14.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "General stock-market recap; no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:56.566Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "9f85525ff3fef5b2cbb9": {
       "source": "BeInCrypto",
@@ -21384,6 +21389,13 @@
           "note": "Science-medal politics; no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:55.031Z"
+        },
+        "b424e6aa5a23a598fae4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "General stock-market recap; no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:56.566Z"
         }
       },
       "baselineSlugs": [
