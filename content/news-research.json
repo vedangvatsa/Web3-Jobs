@@ -18873,11 +18873,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d416de44a67384b9ce55",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T18:46:59.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "price-chatter",
+      "note": "JPMorgan 50B inflow estimate is analyst fund-flow analysis with no concrete event behind it.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:47.808Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "54353ff1baf355b45869": {
       "source": "BeInCrypto",
@@ -28140,6 +28145,13 @@
           "note": "Single Satoshi-era wallet moving 8.3M dollars after 16 years is isolated on-chain movement with no verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:45.984Z"
+        },
+        "d416de44a67384b9ce55": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "JPMorgan 50B inflow estimate is analyst fund-flow analysis with no concrete event behind it.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:47.808Z"
         }
       },
       "baselineSlugs": [
