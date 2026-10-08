@@ -16137,11 +16137,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "35b5090ce24657a84aec",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T07:55:14.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "TheBlock StanChart custody page returned 403; CoinDesk and Cointelegraph versions read under sibling candidates.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:28:58.590Z",
+      "retrySearches": [
+        "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "bb706419d66dbccbac9d": {
       "source": "BeInCrypto",
@@ -25340,6 +25354,21 @@
             }
           ],
           "reviewedAt": "2026-10-08T11:28:53.089Z",
+          "retrySearches": [
+            "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+          ]
+        },
+        "35b5090ce24657a84aec": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "TheBlock StanChart custody page returned 403; CoinDesk and Cointelegraph versions read under sibling candidates.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:28:58.590Z",
           "retrySearches": [
             "Standard Chartered Singapore crypto custody supported assets launch date MAS"
           ]
