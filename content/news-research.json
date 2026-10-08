@@ -13540,11 +13540,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a3f0498b0937836134a4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T13:13:05.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Moody's Sky B3 rating already covered by sky-rating.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:50:55.042Z",
+      "duplicateOf": "sky-rating",
+      "mergedInto": "e1016b5ea433bb06db24",
+      "lastReviewedDay": "2026-10-08"
     },
     "9dad087f927922704e2a": {
       "source": "CoinDesk",
@@ -20757,6 +20764,15 @@
           ],
           "reviewedAt": "2026-10-08T03:50:53.299Z",
           "articleSlug": "sky-rating"
+        },
+        "a3f0498b0937836134a4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Moody's Sky B3 rating already covered by sky-rating.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:50:55.042Z",
+          "duplicateOf": "sky-rating",
+          "mergedInto": "e1016b5ea433bb06db24"
         }
       },
       "baselineSlugs": [
