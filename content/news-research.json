@@ -18180,11 +18180,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "83bfb7938b797be788f4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T13:28:26.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "Amazon AI shopping-agent blocking with Paul Graham commentary; tech-platform news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:21.943Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "73cac54b5d776d043e46": {
       "source": "Bitcoin Magazine",
@@ -27421,6 +27426,13 @@
           "note": "Crypto lending magazine feature asking if risks are solved; analysis essay, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:19.760Z"
+        },
+        "83bfb7938b797be788f4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Amazon AI shopping-agent blocking with Paul Graham commentary; tech-platform news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:21.943Z"
         }
       },
       "baselineSlugs": [
