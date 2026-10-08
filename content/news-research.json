@@ -16487,11 +16487,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ac1dee72e3538b3b129d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T03:38:56.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "Defiant HYPE wallet-distribution page returned 403; onchain claim needs a readable second source.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:29:17.091Z",
+      "retrySearches": [
+        "Hyperliquid Labs wallet 330 million HYPE distribution Arkham"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "ce6a97a6514922530586": {
       "id": "ce6a97a6514922530586",
@@ -25487,6 +25501,21 @@
           "reviewedAt": "2026-10-08T11:29:15.061Z",
           "retrySearches": [
             "Deus X Capital wind down TensorX second report"
+          ]
+        },
+        "ac1dee72e3538b3b129d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant HYPE wallet-distribution page returned 403; onchain claim needs a readable second source.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:29:17.091Z",
+          "retrySearches": [
+            "Hyperliquid Labs wallet 330 million HYPE distribution Arkham"
           ]
         }
       },
