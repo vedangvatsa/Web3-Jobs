@@ -14118,13 +14118,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "47785a59bf9afa150ab7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T16:32:48.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified CIP-0113 mainnet launch, TOKEN2049 announcement, audits and CMTA recognition across Unchained and CoinDesk.",
+      "note": "Drafted report on Cardano CIP-0113 mainnet launch with issuer freeze controls and CMTA recognition. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/cardanos-programmable-token-standard-goes-live-with-built-in-kyc-and-freeze-controls/",
@@ -14135,7 +14135,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:49:15.396Z",
+      "reviewedAt": "2026-10-08T11:23:17.794Z",
       "articleSlug": "cardano-standard",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -23977,6 +23977,23 @@
           ],
           "reviewedAt": "2026-10-08T11:23:11.476Z",
           "articleSlug": "polygon-tron"
+        },
+        "47785a59bf9afa150ab7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Cardano CIP-0113 mainnet launch with issuer freeze controls and CMTA recognition. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/cardanos-programmable-token-standard-goes-live-with-built-in-kyc-and-freeze-controls/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:17.794Z",
+          "articleSlug": "cardano-standard"
         }
       },
       "baselineSlugs": [
