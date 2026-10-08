@@ -16123,11 +16123,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7820fa9063ea1c03de98",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T08:00:00.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "Read CoinDesk Oct 8 Deus X wind-down with Jan 2027 unwind; second outlet confirming shutdown not yet opened.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:29:15.061Z",
+      "retrySearches": [
+        "Deus X Capital wind down TensorX second report"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "26d8a39bd0abb78005cb": {
       "source": "BeInCrypto",
@@ -25458,6 +25472,21 @@
           "reviewedAt": "2026-10-08T11:29:09.446Z",
           "retrySearches": [
             "Ripple Prime leveraged ETF financing Wall Street Journal Hidden Road Brevan Howard"
+          ]
+        },
+        "7820fa9063ea1c03de98": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read CoinDesk Oct 8 Deus X wind-down with Jan 2027 unwind; second outlet confirming shutdown not yet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:29:15.061Z",
+          "retrySearches": [
+            "Deus X Capital wind down TensorX second report"
           ]
         }
       },
