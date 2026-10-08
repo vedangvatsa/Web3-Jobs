@@ -16607,20 +16607,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Wrote bitfinex-bitcoin (852 words): Oct 8 US 12,267 BTC Bitfinex-seizure move to unlabeled wallets with prior-day Coinbase Prime flows and reserve policy. CoinDesk, Decrypt and CryptoSlate read. All gates pass.",
+      "note": "US Oct 8 move of 12,267 BTC tied to Bitfinex hack with unlabeled-vs-Coinbase-Prime destination conflict unresolved and no sale shown, plus Galaxy 319K holdings and reserve-policy context. Verified across CoinDesk, Cointelegraph and CryptoSlate, all read Oct 8. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
           "outcome": "read"
         },
         {
-          "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+          "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction",
           "outcome": "read"
         },
         {
@@ -16628,8 +16628,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:10:34.918Z",
-      "articleSlug": "bitfinex-bitcoin",
+      "reviewedAt": "2026-10-08T19:42:47.356Z",
+      "articleSlug": "seized-bitcoin",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
         "europol-quantum.md: template phrasing: unlock(?:ing)?",
@@ -28291,6 +28291,27 @@
           "reviewedAt": "2026-10-08T19:42:42.547Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "US Oct 8 move of 12,267 BTC tied to Bitfinex hack with unlabeled-vs-Coinbase-Prime destination conflict unresolved and no sale shown, plus Galaxy 319K holdings and reserve-policy context. Verified across CoinDesk, Cointelegraph and CryptoSlate, all read Oct 8. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T19:42:47.356Z",
+          "articleSlug": "seized-bitcoin"
         }
       },
       "baselineSlugs": [
