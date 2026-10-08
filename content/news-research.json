@@ -13522,11 +13522,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "828bc64f9ce3e7732d93",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:56:12.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "stale",
+      "note": "ZKsync Prividium open-sourcing dates to Sept 8; the Oct 7 piece is a late recap, not a fresh event.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:17:54.581Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "1b3b9cc46940d7e87b52": {
       "source": "The Defiant",
@@ -22333,6 +22343,18 @@
             }
           ],
           "reviewedAt": "2026-10-08T04:17:52.834Z"
+        },
+        "828bc64f9ce3e7732d93": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "ZKsync Prividium open-sourcing dates to Sept 8; the Oct 7 piece is a late recap, not a fresh event.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:17:54.581Z"
         }
       },
       "baselineSlugs": [
