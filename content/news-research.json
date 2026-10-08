@@ -14858,17 +14858,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a1c86818b7c64cbbed6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T04:11:33.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
       "note": "Same Cardano CIP-0113 issuer controls story covered by cardano-standard in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T18:51:31.348Z",
+      "reviewedAt": "2026-10-08T20:07:59.998Z",
       "duplicateOf": "cardano-standard",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "47785a59bf9afa150ab7"
     },
     "bbb488f6b4d099639f78": {
       "source": "The Defiant",
@@ -29166,6 +29167,15 @@
           "reviewedAt": "2026-10-08T20:07:55.886Z",
           "duplicateOf": "seized-crypto",
           "mergedInto": "123b0a703647ad531e85"
+        },
+        "6a1c86818b7c64cbbed6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Cardano CIP-0113 issuer controls story covered by cardano-standard in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T20:07:59.998Z",
+          "duplicateOf": "cardano-standard",
+          "mergedInto": "47785a59bf9afa150ab7"
         }
       },
       "baselineSlugs": [
