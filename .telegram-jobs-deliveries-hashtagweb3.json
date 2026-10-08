@@ -1104,7 +1104,7 @@
     "sentAt": "2026-10-08T12:28:37.669Z"
   },
   "e5382f09-919e-4757-b539-4bbdad3c566e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-08T20:17:29.273Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1145,6 +1145,8 @@
       }
     ],
     "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/pm161?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Account Executive</a>\n• Solana Foundation is hiring <a href=\"https://hashtagweb3.com/tr37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Lead Engineer</a>\n• FinTax is hiring <a href=\"https://hashtagweb3.com/dev8?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior ERP Developer / ERP Technical Lead</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/eng384?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/security9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Member of Technical Staff</a>",
-    "slotKey": "2026-10-08:evening"
+    "slotKey": "2026-10-08:evening",
+    "messageId": 155697,
+    "sentAt": "2026-10-08T20:17:32.303Z"
   }
 }
