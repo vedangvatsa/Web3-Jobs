@@ -17401,11 +17401,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "54e70e74dd24c8a9a2ef",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T16:20:21.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 verified BaFin Oct 6 Futurum Bank MiCA refusal and partner-model rebuild across CryptoSlate and Cointelegraph; draft not yet written.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:16:13.383Z",
+      "retrySearches": [
+        "Bitcoin.de regulated partner relaunch trading restart date"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "8f6ae7eb5f29e368d620": {
       "source": "BeInCrypto",
@@ -26637,6 +26655,25 @@
           ],
           "reviewedAt": "2026-10-08T18:15:45.774Z",
           "articleSlug": "stanchart-custody"
+        },
+        "54e70e74dd24c8a9a2ef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified BaFin Oct 6 Futurum Bank MiCA refusal and partner-model rebuild across CryptoSlate and Cointelegraph; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:16:13.383Z",
+          "retrySearches": [
+            "Bitcoin.de regulated partner relaunch trading restart date"
+          ]
         }
       },
       "baselineSlugs": [
