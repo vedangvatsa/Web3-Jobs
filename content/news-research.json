@@ -17842,11 +17842,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d95fa2d052471948ef8d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T14:39:48.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read CoinDesk Oct 8 Project Eleven-Quantus Q1 2027 custody integration for post-quantum key management; needs company statements or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:41.989Z",
+      "retrySearches": [
+        "Project Eleven Quantus institutional custody Q1 2027 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "bbfbc980f72f30b4800c": {
       "source": "CoinDesk",
@@ -26992,6 +27006,21 @@
           "reviewedAt": "2026-10-08T18:17:39.307Z",
           "retrySearches": [
             "Drake bunker mode fresh addresses draft follow-up"
+          ]
+        },
+        "d95fa2d052471948ef8d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read CoinDesk Oct 8 Project Eleven-Quantus Q1 2027 custody integration for post-quantum key management; needs company statements or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:41.989Z",
+          "retrySearches": [
+            "Project Eleven Quantus institutional custody Q1 2027 second outlet"
           ]
         }
       },
