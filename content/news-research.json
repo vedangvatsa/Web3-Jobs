@@ -8322,25 +8322,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d307a4a80069a028f244",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T17:00:37.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "CryptoSlate read confirms Oct 5 venue filing citing Bitcoin Fog appeal and Apr 2027 retrial; Crypto Briefing second outlet read, court papers not yet opened.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:57.547Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Storm venue filing and Bitcoin Fog ruling already covered by the storm-venue draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:17:43.939Z",
       "retrySearches": [
         "Roman Storm venue filing Bitcoin Fog appeal October 2026 second outlet"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "storm-venue",
+      "mergedInto": "4954b8be94596f23a77e"
     },
     "d1c0c41c21a98aa3f029": {
       "source": "CoinDesk",
@@ -22292,6 +22288,15 @@
           "note": "Stripe 100-country card story dates to Oct 1, outside the freshness window, with no new development since.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:17:42.292Z"
+        },
+        "d307a4a80069a028f244": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Storm venue filing and Bitcoin Fog ruling already covered by the storm-venue draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:17:43.939Z",
+          "duplicateOf": "storm-venue",
+          "mergedInto": "4954b8be94596f23a77e"
         }
       },
       "baselineSlugs": [
