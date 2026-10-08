@@ -4062,20 +4062,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "632e4bb5b98a6d6fbf9d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T10:58:03.000Z",
       "lastSeenAt": "2026-10-06T10:35:17.133Z",
       "reason": "duplicate",
-      "note": "Same Metaplanet net-1000 Q3 addition to 44000 BTC already covered by the metaplanet-sale draft.",
+      "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T04:14:53.681Z",
+      "reviewedAt": "2026-10-08T11:24:29.116Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "metaplanet-sale"
+      "duplicateOf": "metaplanet-sale",
+      "mergedInto": "b1e55f7f84c981ba728a"
     },
     "b9840da9e11cd5ca7d90": {
       "source": "CoinDesk",
@@ -24343,6 +24344,15 @@
           "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:24:26.839Z",
+          "duplicateOf": "metaplanet-sale",
+          "mergedInto": "b1e55f7f84c981ba728a"
+        },
+        "632e4bb5b98a6d6fbf9d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:24:29.116Z",
           "duplicateOf": "metaplanet-sale",
           "mergedInto": "b1e55f7f84c981ba728a"
         }
