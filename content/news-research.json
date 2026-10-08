@@ -18319,11 +18319,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f2bcecb3d72ae1cfd618",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T12:15:51.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "AI video-game mod mashups roundup; gaming culture piece, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:30.347Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "87edf17a86289e0f2c9b": {
       "source": "BeInCrypto",
@@ -27469,6 +27474,13 @@
           "note": "Bearish S and P 500 chart-signal call; equities commentary, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:28.255Z"
+        },
+        "f2bcecb3d72ae1cfd618": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI video-game mod mashups roundup; gaming culture piece, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:30.347Z"
         }
       },
       "baselineSlugs": [
