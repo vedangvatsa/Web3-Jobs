@@ -923,7 +923,7 @@
     "sentAt": "2026-10-07T19:34:02.240Z"
   },
   "606f370a-3b5d-4ef1-a046-a4563ad331ce": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-08T20:18:04.577Z",
     "stories": [
       {
@@ -953,6 +953,8 @@
         "originalTitle": "OpenAI’s revenue is reportedly $20 billion less than previously projected"
       }
     ],
-    "slotKey": "2026-10-08:evening"
+    "slotKey": "2026-10-08:evening",
+    "messageId": 193327,
+    "sentAt": "2026-10-08T20:18:07.114Z"
   }
 }
