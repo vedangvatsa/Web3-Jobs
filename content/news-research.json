@@ -13167,11 +13167,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "47e63912212162135693",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T00:04:32.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:59:28.571Z",
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e",
+      "lastReviewedDay": "2026-10-08"
     },
     "ab8cef483299638b534a": {
       "source": "BeInCrypto",
@@ -21736,6 +21743,15 @@
           "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:59:26.895Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "47e63912212162135693": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:59:28.571Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
