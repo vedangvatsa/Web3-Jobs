@@ -16403,11 +16403,25 @@
           "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/"
         }
       ],
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T11:28:39.109Z",
       "lastSeenAt": "2026-10-08T11:28:39.109Z",
       "expiresAt": "2026-10-11T00:00:00.000Z",
-      "attempts": 0
+      "attempts": 1,
+      "reason": "source-blocked",
+      "note": "Read Bitcoin Foundation Oct 8 report of 9261 BTC to Coinbase Prime per Galaxy Research; Cointelegraph version seen in sidebar but not yet opened for corroboration.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:28:44.520Z",
+      "retrySearches": [
+        "Cointelegraph US government 770M Bitcoin Coinbase Prime Galaxy Research October 2026"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     }
   },
   "runs": {
@@ -25248,6 +25262,21 @@
             }
           ],
           "reviewedAt": "2026-10-08T11:28:13.981Z"
+        },
+        "ce6a97a6514922530586": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Bitcoin Foundation Oct 8 report of 9261 BTC to Coinbase Prime per Galaxy Research; Cointelegraph version seen in sidebar but not yet opened for corroboration.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:28:44.520Z",
+          "retrySearches": [
+            "Cointelegraph US government 770M Bitcoin Coinbase Prime Galaxy Research October 2026"
+          ]
         }
       },
       "baselineSlugs": [
