@@ -14197,11 +14197,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "925d4f99930e103b24e6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T09:09:06.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Rain OCC charter application already covered by rain-charter.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:01:40.606Z",
+      "duplicateOf": "rain-charter",
+      "lastReviewedDay": "2026-10-08"
     },
     "2c1699713477803bf1b1": {
       "source": "Cointelegraph",
@@ -21782,6 +21788,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:01:38.760Z",
           "duplicateOf": "abstract-shutdown"
+        },
+        "925d4f99930e103b24e6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Rain OCC charter application already covered by rain-charter.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:01:40.606Z",
+          "duplicateOf": "rain-charter"
         }
       },
       "baselineSlugs": [
