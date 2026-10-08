@@ -11606,17 +11606,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d1b5e461acc4fc87814",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T00:00:12.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
       "note": "Same Oct 7 US seized-crypto Coinbase transfers covered by seized-crypto.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:25:34.926Z",
+      "reviewedAt": "2026-10-08T12:15:38.171Z",
       "duplicateOf": "seized-crypto",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "123b0a703647ad531e85"
     },
     "a745ae9b5abcb4207f2a": {
       "source": "CryptoSlate",
@@ -25212,6 +25213,15 @@
           "reviewedAt": "2026-10-08T12:15:36.207Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "1d1b5e461acc4fc87814": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 7 US seized-crypto Coinbase transfers covered by seized-crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:15:38.171Z",
+          "duplicateOf": "seized-crypto",
+          "mergedInto": "123b0a703647ad531e85"
         }
       },
       "baselineSlugs": [
