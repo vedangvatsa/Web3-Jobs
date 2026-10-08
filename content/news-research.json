@@ -19474,11 +19474,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9341dbaf7b2e2dacd92b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T19:40:44.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "not-a-concrete-event",
+      "note": "XRP circulating-supply explainer answers what buyers get, an educational piece with no dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:51.754Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f6fedff0fdf0cda068db": {
       "source": "Cointelegraph",
@@ -29058,6 +29063,13 @@
           "note": "October bloodbath question headline is market prediction framing with no concrete event or verifiable claim.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:49.718Z"
+        },
+        "9341dbaf7b2e2dacd92b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "XRP circulating-supply explainer answers what buyers get, an educational piece with no dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:51.754Z"
         }
       },
       "baselineSlugs": [
