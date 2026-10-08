@@ -15638,11 +15638,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "90660e686b3eae9c75da",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:44:44.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "not-a-concrete-event",
+      "note": "Lido Lend is a forum proposal pending DAO votes with launch this quarter; unveiling without approval is not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/lido-contributors-unveil-lido-lend-a-morpho-blue-fork-built-for-lower-risk-lending/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:28:13.981Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "663555c49519d6527839": {
       "source": "Unchained",
@@ -25207,6 +25217,18 @@
             }
           ],
           "reviewedAt": "2026-10-08T11:28:11.943Z"
+        },
+        "90660e686b3eae9c75da": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Lido Lend is a forum proposal pending DAO votes with launch this quarter; unveiling without approval is not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/lido-contributors-unveil-lido-lend-a-morpho-blue-fork-built-for-lower-risk-lending/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:28:13.981Z"
         }
       },
       "baselineSlugs": [
