@@ -1617,9 +1617,10 @@
           "url": "https://www.youtube.com/watch?v=5SuiIrlCH94"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Partner Development Manager, Global Payment Methods at Stripe. London.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-08T03:34:58.683Z"
+          "startedAt": "2026-10-08T03:34:58.683Z",
+          "postId": "6ac70f64365feab0d73bc3fa"
         }
       }
     }
