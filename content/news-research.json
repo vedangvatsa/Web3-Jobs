@@ -17165,17 +17165,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d71a9d867c5924200b7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 Securitize 12-stock Solana launch covered by securitize-stocks.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-08T18:11:17.005Z",
+      "reason": "verified-event",
+      "note": "Securitize Oct 8 launch of 1:1-backed Securitize Stocks for 12 US equities on Solana with Jump liquidity and RQD settlement, NYSE and OKXICE listings pending. Verified across company release via PRNewswire, CoinDesk and Unchained, all read Oct 8. All gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T19:39:57.616Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "articleSlug": "securitize-stocks"
     },
     "3b110ea0056b771ffe65": {
       "source": "The Defiant",
@@ -27857,6 +27871,27 @@
           "reviewedAt": "2026-10-08T19:39:53.177Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Securitize Oct 8 launch of 1:1-backed Securitize Stocks for 12 US equities on Solana with Jump liquidity and RQD settlement, NYSE and OKXICE listings pending. Verified across company release via PRNewswire, CoinDesk and Unchained, all read Oct 8. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T19:39:57.616Z",
+          "articleSlug": "securitize-stocks"
         }
       },
       "baselineSlugs": [
