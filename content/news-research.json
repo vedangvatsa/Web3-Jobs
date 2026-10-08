@@ -15819,11 +15819,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "beaa28a9473ad8ef4c1f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T09:16:23.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "Pi Network support-level price note, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:13.006Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "45186be758e1123e3a5a": {
       "source": "CoinDesk",
@@ -25029,6 +25034,13 @@
           "note": "NEAR top-20 rank on a 30-day price surge, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:10.981Z"
+        },
+        "beaa28a9473ad8ef4c1f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Pi Network support-level price note, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:13.006Z"
         }
       },
       "baselineSlugs": [
