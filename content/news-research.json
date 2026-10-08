@@ -5240,25 +5240,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "6d23c2dc193de0e0ff83",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T14:20:50.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "source-blocked",
-      "note": "Same S and P vault grades as ba6a; Defiant blocked.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/defi/s-p-global-puts-a-letter-grade-on-defi-lending-vaults",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:43:43.545Z",
+      "reason": "duplicate",
+      "note": "Same S and P vault risk grades event already covered by the sp-vaults draft; Defiant origin page was blocked.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:15:57.959Z",
       "retrySearches": [
         "S and P Global crypto lending vault risk assessments October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "sp-vaults",
+      "mergedInto": "ba6adb67998afde3dcee"
     },
     "9b27d6e3d137c258d8c9": {
       "source": "Unchained",
@@ -22241,6 +22237,15 @@
           "note": "Same S and P vault risk grades event already covered by the sp-vaults draft; BeInCrypto origin page was blocked.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:15:54.904Z",
+          "duplicateOf": "sp-vaults",
+          "mergedInto": "ba6adb67998afde3dcee"
+        },
+        "6d23c2dc193de0e0ff83": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same S and P vault risk grades event already covered by the sp-vaults draft; Defiant origin page was blocked.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:15:57.959Z",
           "duplicateOf": "sp-vaults",
           "mergedInto": "ba6adb67998afde3dcee"
         }
