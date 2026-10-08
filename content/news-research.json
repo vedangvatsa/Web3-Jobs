@@ -3715,13 +3715,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "2981e25a6d7558ccaa5f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T14:39:30.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "verified-event",
-      "note": "Verified Strategy Oct 5 8-K with 334 BTC buy, 848000 holdings, 20.91B Q3 gain and 176.3M STRC buybacks across CryptoSlate and Decrypt.",
+      "note": "Drafted 900-word report on Oct 5 8-K: 334 BTC buy, 848k holdings, 20.91B Q3 gain, 176.3M STRC buybacks, Oct 28 vote. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
@@ -3732,11 +3732,11 @@
           "outcome": "read"
         },
         {
-          "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526413164/mstr-20261005.htm",
-          "outcome": "blocked"
+          "url": "https://unchainedcrypto.com/strategy-estimates-a-20-9-billion-q3-bitcoin-gain-reversing-its-second-quarter-loss/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:13:46.483Z",
+      "reviewedAt": "2026-10-08T11:22:25.248Z",
       "retrySearches": [
         "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
       ],
@@ -23748,6 +23748,27 @@
           "retrySearches": [
             "Muneeb Ali Stacks CEO endowment IP transfer vote"
           ]
+        },
+        "2981e25a6d7558ccaa5f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted 900-word report on Oct 5 8-K: 334 BTC buy, 848k holdings, 20.91B Q3 gain, 176.3M STRC buybacks, Oct 28 vote. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strategy-estimates-a-20-9-billion-q3-bitcoin-gain-reversing-its-second-quarter-loss/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:22:25.248Z",
+          "articleSlug": "strategy-q3"
         }
       },
       "baselineSlugs": [
