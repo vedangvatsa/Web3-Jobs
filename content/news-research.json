@@ -18128,11 +18128,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "74ef292c7a3ac6197029",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T13:39:35.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "opinion",
+      "note": "Video interview on currency debasement from oil run; macro punditry, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:17.691Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "8f8d27511e88214cebab": {
       "source": "Cointelegraph",
@@ -27397,6 +27402,13 @@
           "note": "Fidelity no-going-back quote on tokenized onchain future; single-executive conference line, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:03.341Z"
+        },
+        "74ef292c7a3ac6197029": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Video interview on currency debasement from oil run; macro punditry, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:17.691Z"
         }
       },
       "baselineSlugs": [
