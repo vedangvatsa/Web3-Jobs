@@ -14352,13 +14352,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "9947fd6054fa80daa4d4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T13:20:54.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified Europol EC3 and harvest-now reports, 6.9M BTC exposure and migration figures across CoinDesk and Decrypt.",
+      "note": "Drafted report on Europol Oct 7 twin quantum reports: wallets exposed, 6.9M BTC, phased migration. CoinDesk plus Decrypt read. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
@@ -14369,7 +14369,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:59:05.822Z",
+      "reviewedAt": "2026-10-08T11:23:00.909Z",
       "articleSlug": "europol-quantum",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -23901,6 +23901,23 @@
           ],
           "reviewedAt": "2026-10-08T11:22:58.964Z",
           "articleSlug": "wlfi-payments"
+        },
+        "9947fd6054fa80daa4d4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Europol Oct 7 twin quantum reports: wallets exposed, 6.9M BTC, phased migration. CoinDesk plus Decrypt read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:00.909Z",
+          "articleSlug": "europol-quantum"
         }
       },
       "baselineSlugs": [
