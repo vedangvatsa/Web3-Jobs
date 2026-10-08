@@ -5149,20 +5149,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b013d194c3bc936ef68a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T14:49:17.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "duplicate",
-      "note": "Same S and P vault risk grades event already covered by the sp-vaults draft; BeInCrypto origin page was blocked.",
+      "note": "Same S and P vault risk assessment launch covered by sp-vaults.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T04:15:54.904Z",
+      "reviewedAt": "2026-10-08T11:24:49.295Z",
       "retrySearches": [
         "S and P Global crypto lending vault risk assessments October 2026"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "sp-vaults"
+      "duplicateOf": "sp-vaults",
+      "mergedInto": "ba6adb67998afde3dcee"
     },
     "84fff5d50c5d93106fb2": {
       "source": "Unchained",
@@ -24425,6 +24426,15 @@
           "reviewedAt": "2026-10-08T11:24:47.472Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
+        },
+        "b013d194c3bc936ef68a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same S and P vault risk assessment launch covered by sp-vaults.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:24:49.295Z",
+          "duplicateOf": "sp-vaults",
+          "mergedInto": "ba6adb67998afde3dcee"
         }
       },
       "baselineSlugs": [
