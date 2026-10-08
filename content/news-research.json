@@ -12700,11 +12700,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "62fb009c34786809414b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T07:52:22.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Bullish-trajectory chart opinion; price commentary, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:55.836Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "39a72fc1ef8eff10e953": {
       "source": "Cointelegraph",
@@ -21048,6 +21053,13 @@
           "note": "Pre-FOMC bitcoin price slip; market-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:53.997Z"
+        },
+        "62fb009c34786809414b": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bullish-trajectory chart opinion; price commentary, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:55.836Z"
         }
       },
       "baselineSlugs": [
