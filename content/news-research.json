@@ -19048,11 +19048,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b9a11ab88206c8c738a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T17:43:23.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "out-of-scope",
+      "note": "Nasdaq drop on OpenAI revenue shortfall is equities news with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:38.601Z",
+      "lastReviewedDay": "2026-10-08"
     }
   },
   "runs": {
@@ -28080,6 +28085,13 @@
           "note": "Oracle stock drop on OpenAI revenue gap is equities news with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:36.681Z"
+        },
+        "7b9a11ab88206c8c738a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Nasdaq drop on OpenAI revenue shortfall is equities news with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:38.601Z"
         }
       },
       "baselineSlugs": [
