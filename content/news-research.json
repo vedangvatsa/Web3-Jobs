@@ -11528,13 +11528,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "a4ce1e4837064cf2b528",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T04:57:54.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Wrote kalshi-gold (816 words): Kalshi 15-min gold passing ether in Sept fees with InGame short-duration data. Cointelegraph plus CoinMarketCap Academy plus InGame read. All gates pass.",
+      "note": "Wrote kalshi-gold (764 words): Kalshi August 15-min gold passing ether in Sept fees with InGame short-duration data. Cointelegraph, CoinMarketCap Academy and InGame read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
@@ -11549,7 +11549,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T12:13:11.746Z",
+      "reviewedAt": "2026-10-08T18:49:32.336Z",
       "articleSlug": "kalshi-gold",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -27957,6 +27957,27 @@
           ],
           "reviewedAt": "2026-10-08T18:49:25.012Z",
           "articleSlug": "orca-merger"
+        },
+        "a4ce1e4837064cf2b528": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote kalshi-gold (764 words): Kalshi August 15-min gold passing ether in Sept fees with InGame short-duration data. Cointelegraph, CoinMarketCap Academy and InGame read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/kalshi-gold-15-minute-markets-overtake-ether",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ingame.com/kalshi-non-sports-15-minute-crypto/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:49:32.336Z",
+          "articleSlug": "kalshi-gold"
         }
       },
       "baselineSlugs": [
