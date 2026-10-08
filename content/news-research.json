@@ -12248,11 +12248,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "697bdf91d6c6d3bd5f3f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T10:05:37.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Deribit integration completion, Oct 1 migration, 30B OI and Pro year-end return across Unchained and Cointelegraph.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:49:28.831Z",
+      "articleSlug": "coinbase-pro",
+      "lastReviewedDay": "2026-10-08"
     },
     "e9fd034440ac8ecd0769": {
       "source": "Unchained",
@@ -20392,6 +20407,23 @@
           "reviewedAt": "2026-10-08T03:49:20.098Z",
           "duplicateOf": "cardano-standard",
           "mergedInto": "47785a59bf9afa150ab7"
+        },
+        "697bdf91d6c6d3bd5f3f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Deribit integration completion, Oct 1 migration, 30B OI and Pro year-end return across Unchained and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:49:28.831Z",
+          "articleSlug": "coinbase-pro"
         }
       },
       "baselineSlugs": [
