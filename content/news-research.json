@@ -11686,13 +11686,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "85911409ad9cf3216a4e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T21:16:03.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Drafted report on Drake Oct 7 bunker-mode call with Buterin backing, ECDSA timeline and migration cautions. Audits pass.",
+      "note": "Wrote bunker-mode (650 words): Drake Oct 7 bunker-mode call with Buterin backing, ECDSA timeline and migration cautions. Decrypt plus Cointelegraph read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
@@ -11703,7 +11703,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:23:39.759Z",
+      "reviewedAt": "2026-10-08T12:13:15.290Z",
       "articleSlug": "bunker-mode",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24480,6 +24480,23 @@
           ],
           "reviewedAt": "2026-10-08T12:13:13.570Z",
           "articleSlug": "orca-merger"
+        },
+        "85911409ad9cf3216a4e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote bunker-mode (650 words): Drake Oct 7 bunker-mode call with Buterin backing, ECDSA timeline and migration cautions. Decrypt plus Cointelegraph read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:13:15.290Z",
+          "articleSlug": "bunker-mode"
         }
       },
       "baselineSlugs": [
