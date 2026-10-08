@@ -16745,11 +16745,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "14054f6a0bf4d8eb43b9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T17:07:48.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read Decrypt Oct 8 Buterin Oct 7 X post on AI vs lattice cryptography with hash-based preference; pairs with Drake call, needs second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:37.018Z",
+      "retrySearches": [
+        "Buterin AI lattice cryptography warning October 2026 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "3c52e57d52067e8770d9": {
       "source": "Bitcoin Magazine",
@@ -26934,6 +26948,21 @@
           "reviewedAt": "2026-10-08T18:17:28.926Z",
           "retrySearches": [
             "Astroport ends tokenholder governance Neutron Terra vote"
+          ]
+        },
+        "14054f6a0bf4d8eb43b9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read Decrypt Oct 8 Buterin Oct 7 X post on AI vs lattice cryptography with hash-based preference; pairs with Drake call, needs second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:37.018Z",
+          "retrySearches": [
+            "Buterin AI lattice cryptography warning October 2026 second outlet"
           ]
         }
       },
