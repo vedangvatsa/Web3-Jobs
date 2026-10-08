@@ -13141,11 +13141,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "54d775eafeae3a222fce",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T00:35:24.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Cointelegraph sale search, 80 percent traffic drop and 700k visits across CoinDesk and CryptoBriefing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/cointelegraph-seeks-buyer-traffic-collapse/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:11:12.011Z",
+      "articleSlug": "mercury-sale",
+      "lastReviewedDay": "2026-10-08"
     },
     "f7c27eb21fe1a04b0304": {
       "source": "BeInCrypto",
@@ -13702,11 +13717,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "063f2939659560bacb86",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:30:00.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Polygon Open Money Stack Tron support, 94B USDT and US banking rails across CoinDesk and CryptoBriefing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/tron-integrates-polygon-open-money-stack/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:11:16.921Z",
+      "articleSlug": "polygon-tron",
+      "lastReviewedDay": "2026-10-08"
     },
     "40fe1ba3ce7ff9326b39": {
       "source": "The Defiant",
@@ -21885,6 +21915,40 @@
           ],
           "reviewedAt": "2026-10-08T04:11:11.010Z",
           "articleSlug": "kalshi-gold"
+        },
+        "54d775eafeae3a222fce": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Cointelegraph sale search, 80 percent traffic drop and 700k visits across CoinDesk and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cointelegraph-seeks-buyer-traffic-collapse/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:11:12.011Z",
+          "articleSlug": "mercury-sale"
+        },
+        "063f2939659560bacb86": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Polygon Open Money Stack Tron support, 94B USDT and US banking rails across CoinDesk and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/tron-integrates-polygon-open-money-stack/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:11:16.921Z",
+          "articleSlug": "polygon-tron"
         }
       },
       "baselineSlugs": [
