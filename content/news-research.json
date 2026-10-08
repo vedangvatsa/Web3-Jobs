@@ -11209,11 +11209,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "007cad9061e5f16775bb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T12:20:29.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin liquidation and ETF-flow price action with no concrete event; market-movement coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:12.069Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "2a5f0f76edb1ecb37ab3": {
       "source": "The Block",
@@ -20844,6 +20849,13 @@
           "reviewedAt": "2026-10-08T03:51:08.814Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
+        },
+        "007cad9061e5f16775bb": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin liquidation and ETF-flow price action with no concrete event; market-movement coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:12.069Z"
         }
       },
       "baselineSlugs": [
