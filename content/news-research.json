@@ -11826,13 +11826,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "5e818d6c7c2ca5d7595e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T19:46:04.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Drafted report on Tether NBK-Alatau MoU for tenge pilot and Hadron tokenization with Evo and reserve context. Audits pass.",
+      "note": "Wrote tether-kazakhstan (867 words): Tether NBK-Alatau MoU for tenge pilot and Hadron tokenization. Tether primary plus Decrypt and CoinDesk read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/",
@@ -11841,9 +11841,13 @@
         {
           "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:23:32.173Z",
+      "reviewedAt": "2026-10-08T12:13:17.910Z",
       "articleSlug": "tether-kazakhstan",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24497,6 +24501,27 @@
           ],
           "reviewedAt": "2026-10-08T12:13:15.290Z",
           "articleSlug": "bunker-mode"
+        },
+        "5e818d6c7c2ca5d7595e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote tether-kazakhstan (867 words): Tether NBK-Alatau MoU for tenge pilot and Hadron tokenization. Tether primary plus Decrypt and CoinDesk read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:13:17.910Z",
+          "articleSlug": "tether-kazakhstan"
         }
       },
       "baselineSlugs": [
