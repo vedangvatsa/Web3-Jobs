@@ -13743,11 +13743,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "870ad4e3cea216f2ec6a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T12:29:39.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Conference-panel opinion on token speculation; no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:13.806Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "d9875d26b60fd1e020d2": {
       "source": "CoinDesk",
@@ -21132,6 +21137,13 @@
           "note": "Single-executive market commentary on holder behavior; opinion, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:12.229Z"
+        },
+        "870ad4e3cea216f2ec6a": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Conference-panel opinion on token speculation; no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:13.806Z"
         }
       },
       "baselineSlugs": [
