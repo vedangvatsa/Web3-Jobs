@@ -11433,11 +11433,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fa921a1756c2f7d7f70a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T18:00:10.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "promotional",
+      "note": "Celebrity memecoin troll statement from single outlet; promotional stunt, no verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:05.737Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "7e098f9cba997973da18": {
       "source": "The Defiant",
@@ -21408,6 +21413,13 @@
           "note": "Print-magazine issue on quantum exposure; analysis package, not a fresh event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:58.189Z"
+        },
+        "fa921a1756c2f7d7f70a": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Celebrity memecoin troll statement from single outlet; promotional stunt, no verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:05.737Z"
         }
       },
       "baselineSlugs": [
