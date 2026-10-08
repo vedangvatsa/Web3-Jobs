@@ -5430,25 +5430,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8e3472828ab121b445b",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T13:22:16.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "missing-primary-source",
-      "note": "Same Strategy Q3 event as 2981e; Cointelegraph copy read, 8-K still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:18.863Z",
+      "reason": "duplicate",
+      "note": "Same Strategy Q3 filing with STRC buybacks outpacing BTC buys already covered by the strategy-q3 draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:13:56.152Z",
       "retrySearches": [
         "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "strategy-q3",
+      "mergedInto": "2981e25a6d7558ccaa5f"
     },
     "33f8a1199da7b9b5f3c4": {
       "source": "Cointelegraph",
@@ -22171,6 +22167,15 @@
           "note": "Same Strategy 334 BTC purchase event already covered by the strategy-q3 draft; Block origin page was blocked.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:13:53.106Z",
+          "duplicateOf": "strategy-q3",
+          "mergedInto": "2981e25a6d7558ccaa5f"
+        },
+        "e8e3472828ab121b445b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Strategy Q3 filing with STRC buybacks outpacing BTC buys already covered by the strategy-q3 draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:13:56.152Z",
           "duplicateOf": "strategy-q3",
           "mergedInto": "2981e25a6d7558ccaa5f"
         }
