@@ -14739,13 +14739,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4f3f560217dd042e479",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T08:06:35.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Wrote sberbank-register (805 words): Bank of Russia Oct 6 first registers with Sberbank-VTB custody and exchange lists plus 300K ruble tier and Dec 1 products. CBR primary plus Cointelegraph, Interfax and Bitcoin Magazine read. All gates pass.",
+      "note": "Bank of Russia Oct 6 first registers with Sberbank-VTB custody and exchange lists plus 300K ruble tier and Dec 1 products. CBR primary plus Cointelegraph and Interfax read; all gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.cbr.ru/press/event/?id=32894",
@@ -14760,7 +14760,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:49:18.524Z",
+      "reviewedAt": "2026-10-08T20:06:50.535Z",
       "articleSlug": "sberbank-register",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -28781,6 +28781,27 @@
           ],
           "reviewedAt": "2026-10-08T20:06:44.322Z",
           "articleSlug": "bitmine-cap"
+        },
+        "c4f3f560217dd042e479": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bank of Russia Oct 6 first registers with Sberbank-VTB custody and exchange lists plus 300K ruble tier and Dec 1 products. CBR primary plus Cointelegraph and Interfax read; all gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cbr.ru/press/event/?id=32894",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law",
+              "outcome": "read"
+            },
+            {
+              "url": "https://interfax.com/newsroom/top-stories/119421/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T20:06:50.535Z",
+          "articleSlug": "sberbank-register"
         }
       },
       "baselineSlugs": [
