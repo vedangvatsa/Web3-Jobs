@@ -16172,11 +16172,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "26d8a39bd0abb78005cb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T07:56:32.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto ASICID miners page returned 403; cannot verify whether product news or vendor PR.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/new-generation-crypto-miners-asicid/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:29:25.361Z",
+      "retrySearches": [
+        "ASICID new crypto miners release October 2026 independent coverage"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "35b5090ce24657a84aec": {
       "source": "The Block",
@@ -25545,6 +25559,21 @@
           "reviewedAt": "2026-10-08T11:29:23.130Z",
           "retrySearches": [
             "Bitget off-exchange settlement institutional custody October 2026 independent coverage"
+          ]
+        },
+        "26d8a39bd0abb78005cb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto ASICID miners page returned 403; cannot verify whether product news or vendor PR.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/new-generation-crypto-miners-asicid/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:29:25.361Z",
+          "retrySearches": [
+            "ASICID new crypto miners release October 2026 independent coverage"
           ]
         }
       },
