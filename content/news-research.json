@@ -11148,24 +11148,32 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a5f0f76edb1ecb37ab3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T02:50:01.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Drafted report on Samsung Wallet USDC rollout to 82M Galaxy devices with Bastion-Coinbase custody and Solana-Sui rails. Primary plus Solana read. Audits pass.",
+      "note": "Wrote samsung-usdc (689 words): Samsung Wallet USDC rollout to 82M Galaxy devices with Coinbase custody, Bastion, Solana-Sui rails. Solana primary plus CoinDesk and SamMobile read; unverified Coinbase-blog claims re-sourced or cut. All gates pass.",
       "sourceChecks": [
-        {
-          "url": "https://www.samsungmobilepress.com/articles/samsung-wallet-stablecoin-galaxy-us",
-          "outcome": "read"
-        },
         {
           "url": "https://solana.com/news/samsung-wallet",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sammobile.com/news/samsung-wallet-usdc-stablecoin-integration-usa",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coinbase.com/blog/coinbase-and-samsung-bring-usdc-to-samsung-wallet",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:23:49.938Z",
+      "reviewedAt": "2026-10-08T12:13:02.391Z",
       "articleSlug": "samsung-usdc",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24380,6 +24388,31 @@
           ],
           "reviewedAt": "2026-10-08T12:13:00.493Z",
           "articleSlug": "sp-vaults"
+        },
+        "2a5f0f76edb1ecb37ab3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote samsung-usdc (689 words): Samsung Wallet USDC rollout to 82M Galaxy devices with Coinbase custody, Bastion, Solana-Sui rails. Solana primary plus CoinDesk and SamMobile read; unverified Coinbase-blog claims re-sourced or cut. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://solana.com/news/samsung-wallet",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sammobile.com/news/samsung-wallet-usdc-stablecoin-integration-usa",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coinbase.com/blog/coinbase-and-samsung-bring-usdc-to-samsung-wallet",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:13:02.391Z",
+          "articleSlug": "samsung-usdc"
         }
       },
       "baselineSlugs": [
