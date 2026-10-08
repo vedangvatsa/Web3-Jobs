@@ -13843,11 +13843,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "553b03e2edf69ed0e67a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T10:35:09.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "547M liquidation tally on oil rally; same price event as sibling items.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:02.298Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "0babe217af4738d51336": {
       "source": "Cointelegraph",
@@ -21096,6 +21101,13 @@
           "note": "Sudden selloff price recap; market-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:00.684Z"
+        },
+        "553b03e2edf69ed0e67a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "547M liquidation tally on oil rally; same price event as sibling items.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:02.298Z"
         }
       },
       "baselineSlugs": [
