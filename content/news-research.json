@@ -12436,13 +12436,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "d557a2418f1625e8f9f2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T12:39:09.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Wrote rhyne-extortion (619 words): Rhyne 32-month sentence for 20 BTC extortion plot with VM forensics. Decrypt plus Bitcoin.com read. All gates pass.",
+      "note": "Wrote rhyne-extortion (630 words): Rhyne 32-month Sept 28 sentence for Nov 2023 20 BTC plot with hidden VM and password reuse. Decrypt and Bitcoin.com read; DOJ release blocked empty recovered via search snippet. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
@@ -12451,13 +12451,9 @@
         {
           "url": "https://news.bitcoin.com/regulation-and-legal/engineer-sabotaged-employer-bitcoin-ransom-prison-time/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.justice.gov/usao-nj/pr/former-employee-industrial-company-sentenced-32-months-prison-computer-attack-and",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T12:13:42.568Z",
+      "reviewedAt": "2026-10-08T18:49:22.701Z",
       "articleSlug": "rhyne-extortion",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -27931,6 +27927,23 @@
           ],
           "reviewedAt": "2026-10-08T18:49:18.524Z",
           "articleSlug": "sberbank-register"
+        },
+        "d557a2418f1625e8f9f2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote rhyne-extortion (630 words): Rhyne 32-month Sept 28 sentence for Nov 2023 20 BTC plot with hidden VM and password reuse. Decrypt and Bitcoin.com read; DOJ release blocked empty recovered via search snippet. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/regulation-and-legal/engineer-sabotaged-employer-bitcoin-ransom-prison-time/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:49:22.701Z",
+          "articleSlug": "rhyne-extortion"
         }
       },
       "baselineSlugs": [
