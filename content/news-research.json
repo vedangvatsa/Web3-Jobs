@@ -15770,11 +15770,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a5d0ab664417117a5a2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T09:51:23.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto Bitget custody piece returned 403; cannot verify whether standalone event or sponsored promo.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/bitget-off-exchange-settlement-institutional-custody/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:29:23.130Z",
+      "retrySearches": [
+        "Bitget off-exchange settlement institutional custody October 2026 independent coverage"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "860da2d41ccdf27f0d30": {
       "source": "Cointelegraph",
@@ -25516,6 +25530,21 @@
           "reviewedAt": "2026-10-08T11:29:17.091Z",
           "retrySearches": [
             "Hyperliquid Labs wallet 330 million HYPE distribution Arkham"
+          ]
+        },
+        "6a5d0ab664417117a5a2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto Bitget custody piece returned 403; cannot verify whether standalone event or sponsored promo.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitget-off-exchange-settlement-institutional-custody/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:29:23.130Z",
+          "retrySearches": [
+            "Bitget off-exchange settlement institutional custody October 2026 independent coverage"
           ]
         }
       },
