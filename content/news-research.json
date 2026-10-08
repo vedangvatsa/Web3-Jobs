@@ -17251,11 +17251,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1ec88ba57e1d14860c07",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T14:00:36.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "price-chatter",
+      "note": "Citi 113k bitcoin target with demand-case test; prediction piece, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:23.182Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "a20fdedf1c8740a4345b": {
       "source": "Bitcoin Magazine",
@@ -27205,6 +27210,13 @@
           "note": "Six-million-plus bitcoin behind exposed keys tally riding AI warnings; metric observation, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:21.026Z"
+        },
+        "1ec88ba57e1d14860c07": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Citi 113k bitcoin target with demand-case test; prediction piece, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:23.182Z"
         }
       },
       "baselineSlugs": [
