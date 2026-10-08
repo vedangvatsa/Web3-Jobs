@@ -11960,11 +11960,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f473ee7a875080f630f5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:25:38.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Tether Kazakhstan MoU already covered by tether-kazakhstan.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:51:02.240Z",
+      "duplicateOf": "tether-kazakhstan",
+      "mergedInto": "5e818d6c7c2ca5d7595e",
+      "lastReviewedDay": "2026-10-08"
     },
     "8c65ec88a9d5f318eeff": {
       "source": "Bitcoin Magazine",
@@ -20805,6 +20812,15 @@
           ],
           "reviewedAt": "2026-10-08T03:51:00.648Z",
           "articleSlug": "tether-kazakhstan"
+        },
+        "f473ee7a875080f630f5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Tether Kazakhstan MoU already covered by tether-kazakhstan.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:51:02.240Z",
+          "duplicateOf": "tether-kazakhstan",
+          "mergedInto": "5e818d6c7c2ca5d7595e"
         }
       },
       "baselineSlugs": [
