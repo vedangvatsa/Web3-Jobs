@@ -11720,11 +11720,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "5e818d6c7c2ca5d7595e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T19:46:04.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Tether-NBK-Alatau MoU, tenge pilot and Hadron tokenization across Tether announcement and Decrypt.",
+      "sourceChecks": [
+        {
+          "url": "https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:51:00.648Z",
+      "articleSlug": "tether-kazakhstan",
+      "lastReviewedDay": "2026-10-08"
     },
     "9a6e149de49b4c1f5756": {
       "source": "CryptoSlate",
@@ -20773,6 +20788,23 @@
           "reviewedAt": "2026-10-08T03:50:55.042Z",
           "duplicateOf": "sky-rating",
           "mergedInto": "e1016b5ea433bb06db24"
+        },
+        "5e818d6c7c2ca5d7595e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Tether-NBK-Alatau MoU, tenge pilot and Hadron tokenization across Tether announcement and Decrypt.",
+          "sourceChecks": [
+            {
+              "url": "https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:51:00.648Z",
+          "articleSlug": "tether-kazakhstan"
         }
       },
       "baselineSlugs": [
