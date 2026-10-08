@@ -13795,11 +13795,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "acb80a52236da439c56c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T11:37:48.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Vendor survey-based take on card access; analysis without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:20.665Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "4137662377301d5f7d38": {
       "source": "The Block",
@@ -21180,6 +21185,13 @@
           "note": "Conference-panel warning on ledger design; opinion, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:19.061Z"
+        },
+        "acb80a52236da439c56c": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Vendor survey-based take on card access; analysis without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:20.665Z"
         }
       },
       "baselineSlugs": [
