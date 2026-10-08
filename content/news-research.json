@@ -11493,11 +11493,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "a4ce1e4837064cf2b528",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T04:57:54.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Kalshi 15-min gold 542M contracts and 5M September fees passing ether across Cointelegraph and CoinMarketCap Academy.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinmarketcap.com/academy/nl/article/kalshi-gold-15-minute-markets-overtake-ether",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:11:11.010Z",
+      "articleSlug": "kalshi-gold",
+      "lastReviewedDay": "2026-10-08"
     },
     "23007533bd70cfbd0d1e": {
       "source": "BeInCrypto",
@@ -21853,6 +21868,23 @@
           ],
           "reviewedAt": "2026-10-08T04:11:06.378Z",
           "articleSlug": "hyperliquid-base"
+        },
+        "a4ce1e4837064cf2b528": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Kalshi 15-min gold 542M contracts and 5M September fees passing ether across Cointelegraph and CoinMarketCap Academy.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/nl/article/kalshi-gold-15-minute-markets-overtake-ether",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:11:11.010Z",
+          "articleSlug": "kalshi-gold"
         }
       },
       "baselineSlugs": [
