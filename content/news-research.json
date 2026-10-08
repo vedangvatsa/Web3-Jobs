@@ -14220,11 +14220,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "256cca266632a898b8b3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T10:04:45.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Securitize LG CNS Oct 6 MOU on tokenized funds and stablecoin infrastructure across PRNewswire release and Unchained via Yahoo.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/securitize-and-lg-cns-partner-to-advance-tokenized-assets-in-south-korea-302899254.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-teams-korea-lg-cns-100445886.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:11:24.039Z",
+      "articleSlug": "securitize-korea",
+      "lastReviewedDay": "2026-10-08"
     },
     "21f0c3a44c024692a6be": {
       "source": "The Block",
@@ -21989,6 +22004,23 @@
           ],
           "reviewedAt": "2026-10-08T04:11:20.529Z",
           "articleSlug": "sberbank-register"
+        },
+        "256cca266632a898b8b3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Securitize LG CNS Oct 6 MOU on tokenized funds and stablecoin infrastructure across PRNewswire release and Unchained via Yahoo.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/securitize-and-lg-cns-partner-to-advance-tokenized-assets-in-south-korea-302899254.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-teams-korea-lg-cns-100445886.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:11:24.039Z",
+          "articleSlug": "securitize-korea"
         }
       },
       "baselineSlugs": [
