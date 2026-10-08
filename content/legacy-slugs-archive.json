@@ -135838,5 +135838,59 @@
     "link": "https://job-boards.greenhouse.io/drweng/jobs/7513647",
     "company": "DRW",
     "title": "Application Support Specialist"
+  },
+  "cmp94": {
+    "id": "8248518",
+    "link": "https://stripe.com/jobs/search?gh_jid=8248518",
+    "company": "Stripe",
+    "title": "Legal Program Manager, Launch Readiness"
+  },
+  "sls244": {
+    "id": "5442639008",
+    "link": "http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008",
+    "company": "Block",
+    "title": "Bilingual Mandarin Business Development Rep"
+  },
+  "fs20": {
+    "id": "8214618",
+    "link": "https://stripe.com/jobs/search?gh_jid=8214618",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering"
+  },
+  "qa79": {
+    "id": "744000151848845",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151848845-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "wec": {
+    "id": "4721331005",
+    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4721331005",
+    "company": "Shakepay",
+    "title": "Workplace and Executive Coordinator"
+  },
+  "sales419": {
+    "id": "5413681008",
+    "link": "http://block.xyz/careers/jobs/5413681008?gh_jid=5413681008",
+    "company": "Block",
+    "title": "Territory Account Executive, New Jersey"
+  },
+  "infra": {
+    "id": "bb8ff69d-ef1d-4e26-94be-abe7b0f825c2",
+    "link": "https://jobs.ashbyhq.com/QuickNode/bb8ff69d-ef1d-4e26-94be-abe7b0f825c2",
+    "company": "QuickNode",
+    "title": "Senior Infrastructure Engineer, Core Systems"
+  },
+  "cs11": {
+    "id": "8031253",
+    "link": "https://www.coinbase.com/careers/positions/8031253?gh_jid=8031253",
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV"
+  },
+  "cs10": {
+    "id": "7994498",
+    "link": "https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498",
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV"
   }
 }
