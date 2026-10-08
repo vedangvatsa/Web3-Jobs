@@ -13394,11 +13394,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "9dad087f927922704e2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T12:40:31.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Bitmine 5 percent cap event already covered by bitmine-cap.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:49:06.184Z",
+      "duplicateOf": "bitmine-cap",
+      "mergedInto": "2c1699713477803bf1b1",
+      "lastReviewedDay": "2026-10-08"
     },
     "2de409dcf0f9eb524c55": {
       "source": "CoinDesk",
@@ -20294,6 +20301,15 @@
           "note": "Same Bitmine 5 percent cap event already covered by bitmine-cap.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:49:04.591Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
+        },
+        "9dad087f927922704e2a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Bitmine 5 percent cap event already covered by bitmine-cap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:49:06.184Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
         }
