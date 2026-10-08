@@ -12674,11 +12674,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d2758d9ea1f508acaf9a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T08:12:53.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Pre-FOMC bitcoin price slip; market-movement coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:53.997Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "62fb009c34786809414b": {
       "source": "CoinDesk",
@@ -21036,6 +21041,13 @@
           "note": "Daily ETF inflow/outflow figures; fund-flow price coverage, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:52.354Z"
+        },
+        "d2758d9ea1f508acaf9a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Pre-FOMC bitcoin price slip; market-movement coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:53.997Z"
         }
       },
       "baselineSlugs": [
