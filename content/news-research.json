@@ -11767,11 +11767,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "19fa3f395a7a7b3c5975",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T18:40:43.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Ethereum 6 percent drop and liquidation-risk framing; price-movement coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:24.220Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "48d8ee930b8fd5aceb4d": {
       "source": "CryptoSlate",
@@ -20868,6 +20873,13 @@
           "note": "Weekly XRP ETF flow figures with no concrete event; fund-flow price coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:22.498Z"
+        },
+        "19fa3f395a7a7b3c5975": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Ethereum 6 percent drop and liquidation-risk framing; price-movement coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:24.220Z"
         }
       },
       "baselineSlugs": [
