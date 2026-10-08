@@ -11488,11 +11488,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "23007533bd70cfbd0d1e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T01:19:18.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:59:21.816Z",
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e",
+      "lastReviewedDay": "2026-10-08"
     },
     "1d1b5e461acc4fc87814": {
       "source": "CryptoSlate",
@@ -21674,6 +21681,15 @@
           ],
           "reviewedAt": "2026-10-08T03:59:19.857Z",
           "articleSlug": "bunker-mode"
+        },
+        "23007533bd70cfbd0d1e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:59:21.816Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
         }
       },
       "baselineSlugs": [
