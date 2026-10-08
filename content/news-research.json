@@ -17671,11 +17671,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8f6ae7eb5f29e368d620",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T16:18:55.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "JPMorgan two-stock picks amid rising yields; equities advice, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:47.371Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "07f2f5a0e02145449369": {
       "source": "BeInCrypto",
@@ -27301,6 +27306,13 @@
           "note": "Block GCCI 2026 Korea country profile; research report package, no fresh event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:45.167Z"
+        },
+        "8f6ae7eb5f29e368d620": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "JPMorgan two-stock picks amid rising yields; equities advice, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:47.371Z"
         }
       },
       "baselineSlugs": [
