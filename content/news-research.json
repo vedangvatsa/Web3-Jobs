@@ -15313,11 +15313,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "01126b2c27ac6d1ef629",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T09:56:07.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "Monthly inflow and rally-stall market analysis, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:26:53.188Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "97cd7b6349290032f276": {
       "source": "Decrypt",
@@ -24957,6 +24962,13 @@
           "note": "Bitcoin breakout volume analysis with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:26:51.345Z"
+        },
+        "01126b2c27ac6d1ef629": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Monthly inflow and rally-stall market analysis, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:26:53.188Z"
         }
       },
       "baselineSlugs": [
