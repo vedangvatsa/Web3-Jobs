@@ -16948,11 +16948,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a24ff3e84b27f6e7fec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:24:16.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "duplicate",
+      "note": "Same Oct 8 US 12,267 BTC Bitfinex-seizure move covered by bitfinex-bitcoin.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:11:11.073Z",
+      "duplicateOf": "bitfinex-bitcoin",
+      "mergedInto": "be4753c98af4393ba28f",
+      "lastReviewedDay": "2026-10-08"
     },
     "4d71a9d867c5924200b7": {
       "source": "Decrypt",
@@ -26427,6 +26434,15 @@
           "note": "Same Oct 8 US 12,267 BTC Bitfinex-seizure move covered by bitfinex-bitcoin.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:11:08.926Z",
+          "duplicateOf": "bitfinex-bitcoin",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "3a24ff3e84b27f6e7fec": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 US 12,267 BTC Bitfinex-seizure move covered by bitfinex-bitcoin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:11:11.073Z",
           "duplicateOf": "bitfinex-bitcoin",
           "mergedInto": "be4753c98af4393ba28f"
         }
