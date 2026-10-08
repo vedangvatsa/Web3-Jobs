@@ -12997,11 +12997,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6ea3eec89f65a0f91093",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T01:34:59.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "Bond-market punditry; macro commentary, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:49.602Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "ea6372bc4078bce0f5af": {
       "source": "BeInCrypto",
@@ -21336,6 +21341,13 @@
           "note": "TV-pundit SpaceX valuation commentary; equities media, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:48.104Z"
+        },
+        "6ea3eec89f65a0f91093": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Bond-market punditry; macro commentary, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:49.602Z"
         }
       },
       "baselineSlugs": [
