@@ -11352,11 +11352,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "0955147a83933017387f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T12:18:43.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "OKX 25B strategic round already covered by okx-raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:01:42.361Z",
+      "duplicateOf": "okx-raise",
+      "lastReviewedDay": "2026-10-08"
     },
     "fa921a1756c2f7d7f70a": {
       "source": "Cointelegraph",
@@ -21796,6 +21802,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:01:40.606Z",
           "duplicateOf": "rain-charter"
+        },
+        "0955147a83933017387f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "OKX 25B strategic round already covered by okx-raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:01:42.361Z",
+          "duplicateOf": "okx-raise"
         }
       },
       "baselineSlugs": [
