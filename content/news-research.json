@@ -16526,28 +16526,28 @@
       ],
       "alsoCoveredBy": [],
       "id": "634e1516faeb608c8daa",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Wrote nfl-kalshi (793 words): NFL Oct 8 Supreme Court amicus backing New Jersey in Kalshi case, sports contracts as gambling, 1.8B volume and circuit split. SCOTUS docket primary plus CNBC and NYPost read. All gates pass.",
+      "note": "NFL Oct 8 amicus brief backing New Jersey petition for Supreme Court review of Kalshi sports-contracts ruling, gambling-not-swaps argument with Gensler Dodd states and tribes also filing. Verified across SCOTUS docket, Decrypt and CoinDesk, all read Oct 8. All gates pass.",
       "sourceChecks": [
         {
-          "url": "https://www.supremecourt.gov/DocketPDF/26/26-299/428826/20261008053543625_NFL%20Amicus%20Brief.pdf",
+          "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-299.html",
           "outcome": "read"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
+          "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
           "outcome": "read"
         },
         {
-          "url": "https://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/",
+          "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:10:48.631Z",
+      "reviewedAt": "2026-10-08T19:40:23.326Z",
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -27989,6 +27989,27 @@
           "reviewedAt": "2026-10-08T19:40:16.806Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "b4c5102f5a98f48f2121"
+        },
+        "634e1516faeb608c8daa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "NFL Oct 8 amicus brief backing New Jersey petition for Supreme Court review of Kalshi sports-contracts ruling, gambling-not-swaps argument with Gensler Dodd states and tribes also filing. Verified across SCOTUS docket, Decrypt and CoinDesk, all read Oct 8. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-299.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T19:40:23.326Z",
+          "articleSlug": "nfl-kalshi"
         }
       },
       "baselineSlugs": [
