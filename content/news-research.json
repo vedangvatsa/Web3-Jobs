@@ -12266,17 +12266,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c44addcd0ee193c5ca8c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T15:36:11.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
       "note": "Same Coinbase Deribit integration and Pro return covered by coinbase-pro.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:25:01.719Z",
+      "reviewedAt": "2026-10-08T12:15:14.001Z",
       "duplicateOf": "coinbase-pro",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "697bdf91d6c6d3bd5f3f"
     },
     "36c61b06f6a67f1e56db": {
       "source": "Decrypt",
@@ -25110,6 +25111,15 @@
           "note": "Same Coinbase Deribit integration and Pro return covered by coinbase-pro.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T12:15:12.174Z",
+          "duplicateOf": "coinbase-pro",
+          "mergedInto": "697bdf91d6c6d3bd5f3f"
+        },
+        "c44addcd0ee193c5ca8c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Coinbase Deribit integration and Pro return covered by coinbase-pro.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:15:14.001Z",
           "duplicateOf": "coinbase-pro",
           "mergedInto": "697bdf91d6c6d3bd5f3f"
         }
