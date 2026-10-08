@@ -11270,13 +11270,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "dc93e29a726604392489",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T16:42:19.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Wrote hyperliquid-base (855 words): Hyperliquid Singapore HQ confirmation with MAS no-jurisdiction stance and June IAL history. crypto.news, Blockhead and TokenPost read; Defiant JS-shell and BeInCrypto blocked. All gates pass.",
+      "note": "Hyperliquid Singapore HQ confirmation with MAS no-jurisdiction stance and June IAL history. crypto.news, Blockhead and TokenPost read; all gates pass.",
       "sourceChecks": [
         {
           "url": "https://crypto.news/hyperliquid-confirms-singapore-base-as-mas-says/",
@@ -11291,7 +11291,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:48:54.316Z",
+      "reviewedAt": "2026-10-08T20:05:53.992Z",
       "articleSlug": "hyperliquid-base",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -28373,6 +28373,27 @@
           ],
           "reviewedAt": "2026-10-08T20:05:40.031Z",
           "articleSlug": "cftc-perps"
+        },
+        "dc93e29a726604392489": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Hyperliquid Singapore HQ confirmation with MAS no-jurisdiction stance and June IAL history. crypto.news, Blockhead and TokenPost read; all gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://crypto.news/hyperliquid-confirms-singapore-base-as-mas-says/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.blockhead.co/2026/10/07/hyperliquid-confirms-singapore-registration-as-mas-says-exchange-falls-outside-its-jurisdiction/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/27545",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T20:05:53.992Z",
+          "articleSlug": "hyperliquid-base"
         }
       },
       "baselineSlugs": [
