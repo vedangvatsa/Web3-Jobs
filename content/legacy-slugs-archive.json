@@ -134539,5 +134539,384 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt95"
+  },
+  "arc18": {
+    "id": "8225567",
+    "link": "https://stripe.com/jobs/search?gh_jid=8225567",
+    "company": "Stripe",
+    "title": "Specialist Solutions Architect, Radar (APAC)"
+  },
+  "an74": {
+    "id": "8860535002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8860535002",
+    "company": "Figure",
+    "title": "Senior Pricing Analyst"
+  },
+  "rec30": {
+    "id": "b8a3e55b-0afc-4cfe-b49c-d01ea2286ec2",
+    "link": "https://jobs.lever.co/offchainlabs/b8a3e55b-0afc-4cfe-b49c-d01ea2286ec2",
+    "company": "Arbitrum",
+    "title": "Senior HR Generalist"
+  },
+  "eng399": {
+    "id": "5443757008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5443757008",
+    "company": "Hut 8",
+    "title": "Digital Operations Engineer"
+  },
+  "cspc2": {
+    "id": "e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+    "link": "https://jobs.ashbyhq.com/kraken.com/e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+    "company": "Kraken",
+    "title": "Creative Strategist & Producer - Consumer"
+  },
+  "cspc": {
+    "id": "cd686ea6-c076-410d-b6d0-e6215a75c710",
+    "link": "https://jobs.ashbyhq.com/kraken.com/cd686ea6-c076-410d-b6d0-e6215a75c710",
+    "company": "Kraken",
+    "title": "Creative Strategist & Producer - Consumer"
+  },
+  "dev26": {
+    "id": "113446937B",
+    "link": "https://apply.workable.com/j/113446937B",
+    "company": "IO Global",
+    "title": "AI Developer Tools Engineer - Midnight Foundation"
+  },
+  "cs7": {
+    "id": "4931693101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4931693101",
+    "company": "Bybit",
+    "title": "Lead Corporate Secretary"
+  },
+  "eng357": {
+    "id": "8239006",
+    "link": "https://stripe.com/jobs/search?gh_jid=8239006",
+    "company": "Stripe",
+    "title": "Android BSP Engineer"
+  },
+  "fs19": {
+    "id": "8214616",
+    "link": "https://stripe.com/jobs/search?gh_jid=8214616",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering"
+  },
+  "rs10": {
+    "id": "c591538b-b19c-4377-9a56-f5b9b30fc9fa",
+    "link": "https://jobs.ashbyhq.com/kraken.com/c591538b-b19c-4377-9a56-f5b9b30fc9fa",
+    "company": "Kraken",
+    "title": "Senior Software Engineer - Rust - Consumer"
+  },
+  "mgr92": {
+    "id": "848f577a-3688-4aff-966c-2b6d81531038",
+    "link": "https://jobs.lever.co/crypto/848f577a-3688-4aff-966c-2b6d81531038",
+    "company": "Crypto.com",
+    "title": "CRM Manager"
+  },
+  "sec65": {
+    "id": "8842136002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8842136002?gh_jid=8842136002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer: Security Operations Center (SOC)"
+  },
+  "sec64": {
+    "id": "8842129002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8842129002?gh_jid=8842129002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer: Security Operations Center (SOC)"
+  },
+  "aso43": {
+    "id": "8232346",
+    "link": "https://www.coinbase.com/careers/positions/8232346?gh_jid=8232346",
+    "company": "Coinbase",
+    "title": "Trade Surveillance Associate"
+  },
+  "sls149": {
+    "id": "8176726",
+    "link": "https://stripe.com/jobs/search?gh_jid=8176726",
+    "company": "Stripe",
+    "title": "Sales Manager, Enterprise, DACH"
+  },
+  "eng204": {
+    "id": "5a6411d4-455f-48d5-a282-7bec2bec3494",
+    "link": "https://jobs.ashbyhq.com/Sardine/5a6411d4-455f-48d5-a282-7bec2bec3494",
+    "company": "Sardine",
+    "title": "Forward Deployed Engineer, Integrations"
+  },
+  "mgr46": {
+    "id": "7998505003",
+    "link": "https://boards.greenhouse.io/drivewealth/jobs/7998505003?gh_jid=7998505003",
+    "company": "DriveWealth",
+    "title": "Delivery Manager"
+  },
+  "an15": {
+    "id": "4979569101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/4979569101",
+    "company": "BVNK",
+    "title": "Treasury & PayOps Analyst"
+  },
+  "is": {
+    "id": "7a0c0bc5-7876-4370-8132-622f02286558",
+    "link": "https://jobs.ashbyhq.com/Parity/7a0c0bc5-7876-4370-8132-622f02286558",
+    "company": "Parity Technologies",
+    "title": "IT Support Lead"
+  },
+  "mkt20": {
+    "id": "dd464e3e-314b-435d-9c89-a9c7dccbe60c",
+    "link": "https://jobs.ashbyhq.com/kraken.com/dd464e3e-314b-435d-9c89-a9c7dccbe60c",
+    "company": "Kraken",
+    "title": "Sr. Creative Designer, Performance Marketing - Kraken Consumer"
+  },
+  "mkt18": {
+    "id": "e901ac3b-e145-41a9-a153-149c248a56a2",
+    "link": "https://jobs.ashbyhq.com/kraken.com/e901ac3b-e145-41a9-a153-149c248a56a2",
+    "company": "Kraken",
+    "title": "Sr. Creative Designer, Performance Marketing - Kraken Consumer"
+  },
+  "cmp13": {
+    "id": "4977343101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/4977343101",
+    "company": "StraitsX",
+    "title": "Senior Legal Executive (Corporate Secretariat, Corporate Governance)"
+  },
+  "tr9": {
+    "id": "4705b469-bdd0-4822-a272-de7b98a00280",
+    "link": "https://jobs.lever.co/binance/4705b469-bdd0-4822-a272-de7b98a00280",
+    "company": "Binance",
+    "title": "Quantitative Trading Strategy Algorithm Engineer"
+  },
+  "pm29": {
+    "id": "8144513",
+    "link": "https://stripe.com/jobs/search?gh_jid=8144513",
+    "company": "Stripe",
+    "title": "Account Executive, Product - Terminal"
+  },
+  "be10": {
+    "id": "7988264",
+    "link": "https://stripe.com/jobs/search?gh_jid=7988264",
+    "company": "Stripe",
+    "title": "Backend Engineer, Intelligent Commerce"
+  },
+  "ds7": {
+    "id": "JR101585",
+    "link": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/London/Desktop-Support-Lead_JR101585",
+    "company": "Brevan Howard",
+    "title": "Desktop Support Lead"
+  },
+  "tr48": {
+    "id": "8415898002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8415898002?gh_jid=8415898002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "eng416": {
+    "id": "4971542101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971542101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "compliance185": {
+    "id": "yzilabs-a1a402e2-ad08-43a9-9bca-e2672a511ae8",
+    "link": "https://talent.yzilabs.com/jobs/a1a402e2-ad08-43a9-9bca-e2672a511ae8",
+    "company": "Paimon Finance",
+    "title": "Director of Operation and Compliance"
+  },
+  "analyst183": {
+    "id": "8177636",
+    "link": "https://stripe.com/jobs/search?gh_jid=8177636",
+    "company": "Stripe",
+    "title": "Processing cost Analyst"
+  },
+  "customer19": {
+    "id": "DE.C65",
+    "link": "https://www.etoro.com/about/careers/position/de.c65/",
+    "company": "eToro",
+    "title": "Customer Service Representative (English)"
+  },
+  "manager687": {
+    "id": "8179214",
+    "link": "https://www.coinbase.com/careers/positions/8179214?gh_jid=8179214",
+    "company": "Coinbase",
+    "title": "Engineering Manager, Market Data & Analytics"
+  },
+  "engineer967": {
+    "id": "8180204",
+    "link": "https://ripple.com/careers/all-jobs/job/8180204?gh_jid=8180204",
+    "company": "Ripple",
+    "title": "Staff Software Engineer, Cash Forecasting"
+  },
+  "investigator2": {
+    "id": "8172491",
+    "link": "https://stripe.com/jobs/search?gh_jid=8172491",
+    "company": "Stripe",
+    "title": "Investigator"
+  },
+  "manager621": {
+    "id": "8174158",
+    "link": "https://stripe.com/jobs/search?gh_jid=8174158",
+    "company": "Stripe",
+    "title": "Sales Manager, Enterprise (AUNZ)"
+  },
+  "rfp2": {
+    "id": "8173047",
+    "link": "https://ripple.com/careers/all-jobs/job/8173047?gh_jid=8173047",
+    "company": "Ripple",
+    "title": "RFP Specialist (12-Month Contract)"
+  },
+  "rfp": {
+    "id": "8173045",
+    "link": "https://ripple.com/careers/all-jobs/job/8173045?gh_jid=8173045",
+    "company": "Ripple",
+    "title": "RFP Specialist (12-Month Contract)"
+  },
+  "engineer922": {
+    "id": "8172164",
+    "link": "https://stripe.com/jobs/search?gh_jid=8172164",
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Payment Systems"
+  },
+  "engineer920": {
+    "id": "8171539",
+    "link": "https://stripe.com/jobs/search?gh_jid=8171539",
+    "company": "Stripe",
+    "title": "Staff Software Engineer, Storage Abstractions"
+  },
+  "manager597": {
+    "id": "8a0d513b846001",
+    "link": "https://nexo.breezy.hr/p/8a0d513b846001-account-manager-italian-english",
+    "company": "Nexo",
+    "title": "Account Manager, Italian & English"
+  },
+  "sales362": {
+    "id": "4964902101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4964902101",
+    "company": "Bybit",
+    "title": "Business Development Assistant"
+  },
+  "architect61": {
+    "id": "edc7ff85-5f39-4b24-8299-8b58e15157ec",
+    "link": "https://jobs.ashbyhq.com/Notabene/edc7ff85-5f39-4b24-8299-8b58e15157ec",
+    "company": "Notabene",
+    "title": "Solutions Architect, Lead"
+  },
+  "sales316": {
+    "id": "8129958",
+    "link": "https://stripe.com/jobs/search?gh_jid=8129958",
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)"
+  },
+  "ti2": {
+    "id": "5386903008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5386903008",
+    "company": "Hut 8",
+    "title": "Transmission & Interconnection, Principal"
+  },
+  "architect46": {
+    "id": "5c619e9b-3d11-45a4-be7d-574f4265cafe",
+    "link": "https://jobs.ashbyhq.com/Sardine/5c619e9b-3d11-45a4-be7d-574f4265cafe",
+    "company": "Sardine",
+    "title": "Solutions Architect, Integrations (AUS)"
+  },
+  "mgr2": {
+    "id": "fa5ba570427201",
+    "link": "https://transak-inc.breezy.hr/p/fa5ba570427201-responsible-manager-australia",
+    "company": "Transak",
+    "title": "Responsible Manager, Australia"
+  },
+  "tr77": {
+    "id": "7957241",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/7957241",
+    "company": "DRW",
+    "title": "Quantitative Trading Analyst"
+  },
+  "pm122": {
+    "id": "128a664d-54fb-4b8f-a507-ee99e5af6b80",
+    "link": "https://jobs.ashbyhq.com/zodl/128a664d-54fb-4b8f-a507-ee99e5af6b80",
+    "company": "ZODL",
+    "title": "Head of Product"
+  },
+  "eng415": {
+    "id": "8651274002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651274002?gh_jid=8651274002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "investment": {
+    "id": "8083464",
+    "link": "https://stripe.com/jobs/search?gh_jid=8083464",
+    "company": "Stripe",
+    "title": "Investment Lead, Intercept"
+  },
+  "intern12": {
+    "id": "C0D3CFE35F",
+    "link": "https://apply.workable.com/j/C0D3CFE35F",
+    "company": "Crypto Finance",
+    "title": "Intern - Application Management"
+  },
+  "eng408": {
+    "id": "8624440002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002",
+    "company": "Jane Street",
+    "title": "Hardware Engineer (FPGA/ASIC)"
+  },
+  "eng210": {
+    "id": "8617298002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8617298002?gh_jid=8617298002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "mgr101": {
+    "id": "4906149101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4906149101",
+    "company": "Bybit",
+    "title": "Finance Manager (El Salvardor)"
+  },
+  "eng407": {
+    "id": "7961318",
+    "link": "https://www.coinbase.com/careers/positions/7961318?gh_jid=7961318",
+    "company": "Coinbase",
+    "title": "Senior Software Engineer"
+  },
+  "learning": {
+    "id": "8556795002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8556795002?gh_jid=8556795002",
+    "company": "Jane Street",
+    "title": "Learning and Development Specialist"
+  },
+  "indirect": {
+    "id": "7589400",
+    "link": "https://stripe.com/jobs/search?gh_jid=7589400",
+    "company": "Stripe",
+    "title": "Indirect Tax Advisory Consultant"
+  },
+  "architect5": {
+    "id": "aabf9a4b-18ef-4932-ac20-4ed07eacd6ca",
+    "link": "https://jobs.ashbyhq.com/Sardine/aabf9a4b-18ef-4932-ac20-4ed07eacd6ca",
+    "company": "Sardine",
+    "title": "Solutions Architect, Integrations (US/CA)"
+  },
+  "eng405": {
+    "id": "7449077002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/7449077002?gh_jid=7449077002",
+    "company": "Jane Street",
+    "title": "Machine Learning Performance Engineer"
+  },
+  "an12": {
+    "id": "5601881",
+    "link": "https://stripe.com/jobs/search?gh_jid=5601881",
+    "company": "Stripe",
+    "title": "Data Analyst"
+  },
+  "eng25": {
+    "id": "5372886002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/5372886002?gh_jid=5372886002",
+    "company": "Jane Street",
+    "title": "Linux Engineer"
+  },
+  "sls229": {
+    "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "company": "Open Standard",
+    "title": "Account Manager",
+    "newSlug": "sls235"
   }
 }
