@@ -9559,25 +9559,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7a31c4be4515529bbda",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T17:59:32.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "Cointelegraph Oct 6 read confirms Davis bill, 10K penalty, recess timing; needs bill text or second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:46:55.944Z",
+      "reason": "duplicate",
+      "note": "Davis prediction-market bill already covered by the existing davis-bill article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:17:51.152Z",
       "retrySearches": [
         "No Betting on Your Own Race Act Davis bill text October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "davis-bill"
     },
     "dc4cdf128cd4d101b0e6": {
       "source": "BeInCrypto",
@@ -22308,6 +22303,14 @@
             }
           ],
           "reviewedAt": "2026-10-08T04:17:49.344Z"
+        },
+        "d7a31c4be4515529bbda": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Davis prediction-market bill already covered by the existing davis-bill article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:17:51.152Z",
+          "duplicateOf": "davis-bill"
         }
       },
       "baselineSlugs": [
