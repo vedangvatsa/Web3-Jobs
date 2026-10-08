@@ -17916,11 +17916,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0a11108f14e2d650ebcf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:11:08.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "not-a-concrete-event",
+      "note": "Glassnode founder count of 6.26M BTC with exposed keys; metric observation tied to warning theme, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:59.117Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "fa40fab3841719355019": {
       "source": "The Defiant",
@@ -27361,6 +27366,13 @@
           "note": "Crypto-for-advisors Q3 outperformance recap vs stocks and gold; performance analysis, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:56.896Z"
+        },
+        "0a11108f14e2d650ebcf": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Glassnode founder count of 6.26M BTC with exposed keys; metric observation tied to warning theme, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:59.117Z"
         }
       },
       "baselineSlugs": [
