@@ -4510,23 +4510,23 @@
       "id": "ddbe9d14387a975201fa",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T19:46:22.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "source-blocked",
-      "note": "LlamaRisk agents story seen only in blocked Defiant page; needs governance post or second outlet.",
+      "note": "Aave LlamaRisk Pendle-on-Plasma story seen only in blocked Defiant page; needs governance post or second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:43:21.077Z",
+      "reviewedAt": "2026-10-08T04:18:17.673Z",
       "retrySearches": [
-        "Aave LlamaRisk Pendle Plasma October 2026"
+        "Aave LlamaRisk Pendle Plasma governance proposal"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "a7358d89d66ffc436fc9": {
       "source": "CryptoSlate",
@@ -22537,6 +22537,21 @@
           "reviewedAt": "2026-10-08T04:18:15.994Z",
           "retrySearches": [
             "Modern Treasury national trust bank OCC approval status"
+          ]
+        },
+        "ddbe9d14387a975201fa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Aave LlamaRisk Pendle-on-Plasma story seen only in blocked Defiant page; needs governance post or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aave-activates-llamarisk-agents-for-pendle-collateral-on-plasma",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:17.673Z",
+          "retrySearches": [
+            "Aave LlamaRisk Pendle Plasma governance proposal"
           ]
         }
       },
