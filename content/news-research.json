@@ -17464,11 +17464,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "0bd3fb37178624c073b0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:46:05.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "verified-event",
+      "note": "Standard Chartered announced Oct 8 plans for Singapore custody of selected cryptoassets, stablecoins and tokenized assets for institutional clients, subject to regulatory requirements. Bank release plus Bitcoin Magazine plus CoinDesk read.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sc.com/en/press-release/standard-chartered-advances-into-digital-asset-custody-offering-in-singapore/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:15:45.774Z",
+      "articleSlug": "stanchart-custody",
+      "lastReviewedDay": "2026-10-08"
     },
     "4771b52b3d346e08e888": {
       "source": "The Defiant",
@@ -26597,6 +26616,27 @@
           ],
           "reviewedAt": "2026-10-08T18:15:40.407Z",
           "articleSlug": "uranium-verdict"
+        },
+        "0bd3fb37178624c073b0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Standard Chartered announced Oct 8 plans for Singapore custody of selected cryptoassets, stablecoins and tokenized assets for institutional clients, subject to regulatory requirements. Bank release plus Bitcoin Magazine plus CoinDesk read.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sc.com/en/press-release/standard-chartered-advances-into-digital-asset-custody-offering-in-singapore/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:15:45.774Z",
+          "articleSlug": "stanchart-custody"
         }
       },
       "baselineSlugs": [
