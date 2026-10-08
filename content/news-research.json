@@ -11360,11 +11360,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a88523447b99942ca281",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:06:03.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Same French Hill CLARITY-remarks story as 1225681e; statement, not an event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:25.487Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "97826309e5398265914f": {
       "source": "The Defiant",
@@ -21216,6 +21221,13 @@
           "note": "Lawmaker conference remarks criticizing regulators; statement, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:23.927Z"
+        },
+        "a88523447b99942ca281": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Same French Hill CLARITY-remarks story as 1225681e; statement, not an event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:25.487Z"
         }
       },
       "baselineSlugs": [
