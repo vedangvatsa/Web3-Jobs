@@ -15470,11 +15470,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6db4d7756b0c78596b24",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:46:41.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "duplicate",
+      "note": "Same Europol quantum wallet warning covered by europol-quantum.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:26:19.655Z",
+      "duplicateOf": "europol-quantum",
+      "mergedInto": "9947fd6054fa80daa4d4",
+      "lastReviewedDay": "2026-10-08"
     },
     "b4c5102f5a98f48f2121": {
       "source": "Unchained",
@@ -24777,6 +24784,15 @@
           "note": "Same Europol quantum wallet warning covered by europol-quantum.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:26:17.425Z",
+          "duplicateOf": "europol-quantum",
+          "mergedInto": "9947fd6054fa80daa4d4"
+        },
+        "6db4d7756b0c78596b24": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Europol quantum wallet warning covered by europol-quantum.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:26:19.655Z",
           "duplicateOf": "europol-quantum",
           "mergedInto": "9947fd6054fa80daa4d4"
         }
