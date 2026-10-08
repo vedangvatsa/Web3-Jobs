@@ -16469,11 +16469,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "634e1516faeb608c8daa",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T17:30:58.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "verified-event",
+      "note": "Wrote nfl-kalshi (793 words): NFL Oct 8 Supreme Court amicus backing New Jersey in Kalshi case, sports contracts as gambling, 1.8B volume and circuit split. SCOTUS docket primary plus CNBC and NYPost read. All gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.supremecourt.gov/DocketPDF/26/26-299/428826/20261008053543625_NFL%20Amicus%20Brief.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:10:48.631Z",
+      "articleSlug": "nfl-kalshi",
+      "lastReviewedDay": "2026-10-08"
     },
     "bbda3002c00d1edb824d": {
       "source": "The Block",
@@ -26255,6 +26274,27 @@
           ],
           "reviewedAt": "2026-10-08T18:10:43.939Z",
           "articleSlug": "securitize-stocks"
+        },
+        "634e1516faeb608c8daa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote nfl-kalshi (793 words): NFL Oct 8 Supreme Court amicus backing New Jersey in Kalshi case, sports contracts as gambling, 1.8B volume and circuit split. SCOTUS docket primary plus CNBC and NYPost read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.supremecourt.gov/DocketPDF/26/26-299/428826/20261008053543625_NFL%20Amicus%20Brief.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://nypost.com/2026/10/08/business/nfl-urges-supreme-court-to-rule-prediction-markets-are-gambling-apps/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:10:48.631Z",
+          "articleSlug": "nfl-kalshi"
         }
       },
       "baselineSlugs": [
