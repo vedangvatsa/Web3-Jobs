@@ -6249,25 +6249,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "371ff943c6d13b1dc3fa",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T10:13:22.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Aave-in-Mint claim unverified; page blocked, only older will-follow primary found.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/defi/circle-adds-aave-to-bitcoin-backed-borrowing-in-mint",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:48:38.939Z",
+      "reason": "duplicate",
+      "note": "Circle Mint bitcoin-backed borrowing already covered by circle-borrow.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:01:54.212Z",
       "retrySearches": [
         "Circle Mint Aave borrowing live October 2026 Circle announcement"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "circle-borrow"
     },
     "6e2ca852f1ef49e786e5": {
       "source": "Unchained",
@@ -21810,6 +21805,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:01:42.361Z",
           "duplicateOf": "okx-raise"
+        },
+        "371ff943c6d13b1dc3fa": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Circle Mint bitcoin-backed borrowing already covered by circle-borrow.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:01:54.212Z",
+          "duplicateOf": "circle-borrow"
         }
       },
       "baselineSlugs": [
