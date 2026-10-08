@@ -17373,11 +17373,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1a9b8a63c6b803e825da",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:47:16.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read CoinDesk Oct 8 Drake bunker-mode call with worst-case months timeline and Buterin caution; pairs with Decrypt version, draft not yet written.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:39.307Z",
+      "retrySearches": [
+        "Drake bunker mode fresh addresses draft follow-up"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "91ed1a5d0f1b5fd4782e": {
       "source": "CoinDesk",
@@ -26963,6 +26977,21 @@
           "reviewedAt": "2026-10-08T18:17:37.018Z",
           "retrySearches": [
             "Buterin AI lattice cryptography warning October 2026 second outlet"
+          ]
+        },
+        "1a9b8a63c6b803e825da": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read CoinDesk Oct 8 Drake bunker-mode call with worst-case months timeline and Buterin caution; pairs with Decrypt version, draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:39.307Z",
+          "retrySearches": [
+            "Drake bunker mode fresh addresses draft follow-up"
           ]
         }
       },
