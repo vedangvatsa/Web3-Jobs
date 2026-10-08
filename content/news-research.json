@@ -16298,11 +16298,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "94798f529212e6e7e3ab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T04:28:27.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "opinion",
+      "note": "Canton CEO policy opinion interview, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:59.857Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "0c2e6eda802bb217ed79": {
       "source": "BeInCrypto",
@@ -25137,6 +25142,13 @@
           "note": "Cuomo interview opinion on crypto political spending, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:57.877Z"
+        },
+        "94798f529212e6e7e3ab": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Canton CEO policy opinion interview, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:59.857Z"
         }
       },
       "baselineSlugs": [
