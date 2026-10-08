@@ -15488,17 +15488,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e519c79d92e069c437fa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T10:32:52.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same Greece Oct 7 draft 10 percent crypto tax bill covered by greece-tax in this run.",
+      "note": "Same Greece 10 percent crypto tax draft with 500-euro exemption as covered by greece-tax in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:40:11.531Z",
+      "reviewedAt": "2026-10-08T23:58:58.669Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "b4c5102f5a98f48f2121"
     },
     "316cb572de6b08407ac4": {
       "source": "The Block",
@@ -28870,6 +28871,15 @@
           "reviewedAt": "2026-10-08T23:58:54.310Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "e519c79d92e069c437fa": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece 10 percent crypto tax draft with 500-euro exemption as covered by greece-tax in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:58:58.669Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "b4c5102f5a98f48f2121"
         }
       },
       "baselineSlugs": [
