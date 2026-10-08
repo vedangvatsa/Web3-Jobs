@@ -11944,11 +11944,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "537d09641333d70264c9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:35:21.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Retrospective bitcoin-vs-Treasury performance analysis; no fresh event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:29.094Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f473ee7a875080f630f5": {
       "source": "Cointelegraph",
@@ -20904,6 +20909,13 @@
           "note": "Cost-basis and token-breadth market recap; no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:27.503Z"
+        },
+        "537d09641333d70264c9": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Retrospective bitcoin-vs-Treasury performance analysis; no fresh event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:29.094Z"
         }
       },
       "baselineSlugs": [
