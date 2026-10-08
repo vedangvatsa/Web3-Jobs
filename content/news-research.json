@@ -11676,17 +11676,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d1b5e461acc4fc87814",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T00:00:12.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "duplicate",
-      "note": "Same US seized-crypto Coinbase transfers already covered by seized-crypto.",
+      "note": "Same Oct 7 US seized-crypto Coinbase transfers covered by seized-crypto.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T03:50:47.880Z",
+      "reviewedAt": "2026-10-08T11:25:34.926Z",
       "duplicateOf": "seized-crypto",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "123b0a703647ad531e85"
     },
     "a745ae9b5abcb4207f2a": {
       "source": "CryptoSlate",
@@ -24575,6 +24576,15 @@
           "reviewedAt": "2026-10-08T11:25:33.003Z",
           "duplicateOf": "tether-kazakhstan",
           "mergedInto": "5e818d6c7c2ca5d7595e"
+        },
+        "1d1b5e461acc4fc87814": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 7 US seized-crypto Coinbase transfers covered by seized-crypto.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:25:34.926Z",
+          "duplicateOf": "seized-crypto",
+          "mergedInto": "123b0a703647ad531e85"
         }
       },
       "baselineSlugs": [
