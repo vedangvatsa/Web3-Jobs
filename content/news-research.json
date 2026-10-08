@@ -18373,11 +18373,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c01aa070c06b9b158f6e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:59:18.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "promotional",
+      "note": "HTX Ventures convergence report announcement; exchange research promo, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:32.530Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "bf5b389323675d6a9a56": {
       "source": "BeInCrypto",
@@ -27481,6 +27486,13 @@
           "note": "AI video-game mod mashups roundup; gaming culture piece, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:30.347Z"
+        },
+        "c01aa070c06b9b158f6e": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "HTX Ventures convergence report announcement; exchange research promo, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:32.530Z"
         }
       },
       "baselineSlugs": [
