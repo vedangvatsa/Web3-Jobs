@@ -10633,25 +10633,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "bf5478ae4287582986f4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T02:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "BTCC trust-center refresh is single-company news; origin blocked, needs independent pickup.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/btcc-exchange-refreshed-trust-center/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:49:18.082Z",
+      "reason": "promotional",
+      "note": "Exchange trust-center PR interview; self-promotion, no news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:20.178Z",
       "retrySearches": [
         "BTCC trust center refresh October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "8e7d6c5c95c8af45ac1f": {
       "source": "CryptoSlate",
@@ -21494,6 +21488,13 @@
           "note": "DEX-launch announcement from single wire outlet; marketing without independent coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:18.520Z"
+        },
+        "bf5478ae4287582986f4": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Exchange trust-center PR interview; self-promotion, no news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:20.178Z"
         }
       },
       "baselineSlugs": [
