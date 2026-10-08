@@ -5619,23 +5619,27 @@
       "id": "75cc7ba5278c4c5b4e90",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T11:18:01.000Z",
       "lastSeenAt": "2026-10-06T10:35:17.133Z",
       "reason": "needs-corroboration",
-      "note": "Decrypt Oct 5 read confirms arrests and 8M figure via To Vima and ERT; needs openable second outlet.",
+      "note": "Round 3 verified Katerini crypto pyramid arrests and Oct 6 detention update across Decrypt and Ekathimerini; draft not yet written.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.ekathimerini.com/news/1317012/17-arrested-in-alleged-e8-million-cryptocurrency-investment-scam-in-greece/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-07T03:47:49.516Z",
+      "reviewedAt": "2026-10-08T04:18:24.939Z",
       "retrySearches": [
-        "Greek soldiers crypto pyramid Katerini arrests To Vima English October 2026"
+        "Katerini crypto pyramid pretrial detention soldiers October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "5367f9116e465a5481a5": {
       "source": "CoinDesk",
@@ -22582,6 +22586,25 @@
           "reviewedAt": "2026-10-08T04:18:23.332Z",
           "retrySearches": [
             "Compound treasury operations cancel governance proposal vote result"
+          ]
+        },
+        "75cc7ba5278c4c5b4e90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Katerini crypto pyramid arrests and Oct 6 detention update across Decrypt and Ekathimerini; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ekathimerini.com/news/1317012/17-arrested-in-alleged-e8-million-cryptocurrency-investment-scam-in-greece/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:24.939Z",
+          "retrySearches": [
+            "Katerini crypto pyramid pretrial detention soldiers October 2026"
           ]
         }
       },
