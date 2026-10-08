@@ -12453,11 +12453,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d334a722b2c2115415a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T09:01:03.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Crypto Loan cbBTC/wBTC collateral, Morpho via Yield.xyz and Oct 7 rollout across crypto.news and Ledger release notes.",
+      "sourceChecks": [
+        {
+          "url": "https://crypto.news/ledger-adds-bitcoin-backed-loans-through-morpho/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.ledger.com/blog-ledger-wallet-october-2026",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:49:51.972Z",
+      "articleSlug": "ledger-loans",
+      "lastReviewedDay": "2026-10-08"
     },
     "0dedfbfff13ea6532054": {
       "source": "CoinDesk",
@@ -20493,6 +20508,23 @@
           "reviewedAt": "2026-10-08T03:49:50.364Z",
           "duplicateOf": "gsr-hare",
           "mergedInto": "1b3b9cc46940d7e87b52"
+        },
+        "7d334a722b2c2115415a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Crypto Loan cbBTC/wBTC collateral, Morpho via Yield.xyz and Oct 7 rollout across crypto.news and Ledger release notes.",
+          "sourceChecks": [
+            {
+              "url": "https://crypto.news/ledger-adds-bitcoin-backed-loans-through-morpho/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ledger.com/blog-ledger-wallet-october-2026",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:49:51.972Z",
+          "articleSlug": "ledger-loans"
         }
       },
       "baselineSlugs": [
