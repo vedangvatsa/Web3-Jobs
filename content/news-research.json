@@ -13900,11 +13900,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2fdc8b32451fba85bb96",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T10:19:27.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "CEO conference commentary on wealth models; opinion, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:15.748Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "43692630e3e532c8981a": {
       "source": "Unchained",
@@ -21144,6 +21149,13 @@
           "note": "Conference-panel opinion on token speculation; no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:13.806Z"
+        },
+        "2fdc8b32451fba85bb96": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "CEO conference commentary on wealth models; opinion, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:15.748Z"
         }
       },
       "baselineSlugs": [
