@@ -13294,13 +13294,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "54d775eafeae3a222fce",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T00:35:24.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Wrote mercury-sale (664 words): Cointelegraph reported buyer search after 12M to 700K traffic collapse with Oct 8 not-for-sale denial. CoinDesk, CryptoBriefing and CoinCentral read. Framed as disputed throughout. All gates pass.",
+      "note": "Cointelegraph reported buyer search after 12M to 700K traffic collapse with Oct 8 not-for-sale denial. CoinDesk, CryptoBriefing and CoinCentral read; framed as disputed throughout; all gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
@@ -13315,7 +13315,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:49:40.356Z",
+      "reviewedAt": "2026-10-08T20:06:20.867Z",
       "articleSlug": "mercury-sale",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -28571,6 +28571,27 @@
           ],
           "reviewedAt": "2026-10-08T20:06:19.006Z",
           "articleSlug": "ledger-loans"
+        },
+        "54d775eafeae3a222fce": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cointelegraph reported buyer search after 12M to 700K traffic collapse with Oct 8 not-for-sale denial. CoinDesk, CryptoBriefing and CoinCentral read; framed as disputed throughout; all gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cointelegraph-seeks-buyer-traffic-collapse/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coincentral.com/cointelegraph-denies-report-it-is-seeking-a-buyer-after-traffic-collapse",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T20:06:20.867Z",
+          "articleSlug": "mercury-sale"
         }
       },
       "baselineSlugs": [
