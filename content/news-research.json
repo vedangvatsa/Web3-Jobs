@@ -15917,11 +15917,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7686b683757996b39984",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T08:17:14.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "NEAR top-20 rank on a 30-day price surge, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:10.981Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "4160479ec2ff507b5ccc": {
       "source": "BeInCrypto",
@@ -25017,6 +25022,13 @@
           "note": "Halving-clock calendar speculation, excluded token-calendar item.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:08.942Z"
+        },
+        "7686b683757996b39984": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "NEAR top-20 rank on a 30-day price surge, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:10.981Z"
         }
       },
       "baselineSlugs": [
