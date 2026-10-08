@@ -18964,11 +18964,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d927b5b07d0b2763551",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T18:20:04.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "not-a-concrete-event",
+      "note": "Starknet weighing an L1 move for 2027 quantum resistance is deliberation with no decision or vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:42.563Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "a398729c148364162b2f": {
       "source": "Cointelegraph",
@@ -28104,6 +28109,13 @@
           "note": "Crypto slide framed around flash-crash anniversary is price movement coverage with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:40.542Z"
+        },
+        "1d927b5b07d0b2763551": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Starknet weighing an L1 move for 2027 quantum resistance is deliberation with no decision or vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:42.563Z"
         }
       },
       "baselineSlugs": [
