@@ -13529,11 +13529,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "a69bf44691793495fd4a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T17:46:59.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified 40,614,180 TPS offchain tunnel test at Sui Basecamp Singapore, CertiK audit pending, across Sui Foundation post and Cointelegraph.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:13:05.053Z",
+      "articleSlug": "sui-tunnels",
+      "lastReviewedDay": "2026-10-08"
     },
     "1202764b0e462f7b31dc": {
       "source": "The Defiant",
@@ -22114,6 +22129,23 @@
           ],
           "reviewedAt": "2026-10-08T04:12:18.162Z",
           "articleSlug": "orca-merger"
+        },
+        "a69bf44691793495fd4a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 40,614,180 TPS offchain tunnel test at Sui Basecamp Singapore, CertiK audit pending, across Sui Foundation post and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:13:05.053Z",
+          "articleSlug": "sui-tunnels"
         }
       },
       "baselineSlugs": [
