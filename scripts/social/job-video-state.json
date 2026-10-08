@@ -1656,9 +1656,10 @@
           "url": "https://www.youtube.com/watch?v=xOAJhdBfTfA"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Lead AML Specialist at Bybit. Kuala Lumpur, Malaysia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-08T11:32:44.928Z"
+          "startedAt": "2026-10-08T11:32:44.928Z",
+          "postId": "6ac77f5e444a36d3be1d077a"
         }
       }
     },
