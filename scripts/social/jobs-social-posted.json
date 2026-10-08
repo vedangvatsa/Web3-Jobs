@@ -1,5 +1,5 @@
 {
-  "lastIndex": 367,
+  "lastIndex": 369,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -166,7 +166,9 @@
     "sec13",
     "an45",
     "mkt81",
-    "mssp"
+    "mssp",
+    "pm211",
+    "eng381"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5171,98 +5173,6 @@
       "verification": "verified"
     },
     {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0xb1cbf7545debcb695e1ee0b21033343ff23d1a64",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0xf1bb14ca1d809897e33ae02f5a79ef5fd470e3b6",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x766e9a5928dac8d60a1b084000989f4d5a5299d1",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0xbdd65865b845fe7cef8c8791f7f53a75fe052107",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0xbfbbcd9b3fc1ce4b18d22a11fdca1ec017db6f02",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "6ac2aa06ca1380ada8349c46",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "6ac2aa11d467abe8cfc4a967",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "urn:li:share:7512595852922732544",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "facebook",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "691827047618629_1106571045283463",
-      "verification": "verified"
-    },
-    {
       "slug": "mkt2",
       "company": "Bybit",
       "title": "[EU] Head of Marketing, EU",
@@ -5494,406 +5404,6 @@
       "platform": "facebook",
       "postedAt": "2026-10-05T04:04:47.512Z",
       "postId": "691827047618629_1106837065256861",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "x",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "6ac3220aca1380ada8453150",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Merkle Science is hiring Sales Development Representative\n\nhttps://hashtagweb3.com/sls184/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106958938549756047"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "threads",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "18107672318236095",
-      "verification": "verified",
-      "expectedText": "Merkle Science is hiring Sales Development Representative: https://hashtagweb3.com/sls184/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeGT3R9FrVV",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "bluesky",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx3zzhos3r2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0xb9729187d30e29c0fb3fe9b17ba5b262e78affe5",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0xd7040173feaeb52c2c79732a7bb13c23ef4a6c78",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x919088daf4a98ba47a8cd3cb29f72ad0c448baf8",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x7589afeec4fd287f06472c619aebb72204a998e3",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x54ee19ffb80497c98b7eb1a73712b497ff6df7a3",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0xb7fd19cd388d29a9d9b32a98547f0c9937958c32",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0xb83341c797b179dfb860d768b56bb7fa47c900a4",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x86cb8208bf9c6173dc71eba8d4de33059a8e093b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x24e1808dead19d62b725db63bdd0110e95e8b31c",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x03c6f7647db00ad2dcab709321650418e5e8f1de",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x4cb7314d1da16fec4354d7f0647020b90a3f0d3e",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0xd1a9a9aab367e4d3c32781d25dffac6a7689cc3b",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0xb9a5d4879ce53361f8beb486d0aa5824bdb7346d",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x9047abf3f522247f78361c2d1a8adbcf1ccba63b",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x00221be8d2352895ef77b807d655bfd2df877988",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x33e9fe23bdfa723ffc2fe47e541e2b63e363a079",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "0x04dc1e11742b3503a2f073e5b3b06675edae37c2",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "6ac322175de5ee424c24e94c",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "6ac3222269a169193a59cea8",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "urn:li:share:7512724771785146368",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls184",
-      "company": "Merkle Science",
-      "title": "Sales Development Representative",
-      "platform": "facebook",
-      "postedAt": "2026-10-05T04:05:30.669Z",
-      "postId": "691827047618629_1106837415256826",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "x",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "6ac38aae1cf337b59da44841",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "OKX is hiring Team Lead, Customer Service\n\nhttps://hashtagweb3.com/tcs/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107071292528574839"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "threads",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "18062776493785330",
-      "verification": "verified",
-      "expectedText": "OKX is hiring Team Lead, Customer Service: https://hashtagweb3.com/tcs/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeHG9PdmynC",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "bluesky",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx4sxvbld322",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0xeadda88a4b3d7586ed3d7896fa22f8cbb2456286",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x9eb332124d9c88e760b97876b340135ad75900bc",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x304d9c717ec80bb29ec105e66147b3d303b067d2",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0xa0a4efa7a969e73a710891201eb988115c7cc272",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x5668535add96b1ff5b66a9811e37e12be6f0b070",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x65d5e83980e10614675879c72bd6deb088033c3e",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0xc73a17629a8b2b6259f47edd04491da04de6cd47",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x4bc4a4c6a1850392e1800577a4449a0079cec7ae",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x52d262c7e254541473d2ac10afe511b7c650b361",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0xcfe6cb88949d0b605943fed6a3b76c983ccfc355",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0xf224440b344e43cd39271db1de9f9b74378be593",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0xad0afaebe3b05c89e71ab94feed8f18b6222564b",
-      "account": "channel:solana",
       "verification": "verified"
     },
     {
@@ -10168,6 +9678,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-08T12:28:44.299Z",
       "postId": "691827047618629_1109788881628346",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "x",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "6ac7fa5153e023600017fd16",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Kalshi is hiring Growth Product Manager - Reactivation\n\nhttps://hashtagweb3.com/pm211/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108290674269335971"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "threads",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "18133021417676422",
+      "verification": "verified",
+      "expectedText": "Kalshi is hiring Growth Product Manager - Reactivation: https://hashtagweb3.com/pm211/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DePxd_Xj1NA",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "bluesky",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxfbq6fc7v22",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xbd79ced4d3e256ad94531b0d998f97e981ebda4c",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xdd3275b0eebbd00450271edbba09308db61934b5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x614db35720d2cba2201d40fdc3ba2f51f58cf44d",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x5f9af2c58e70ce994ebe4679460b85af29047db9",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xfcd3cae0eac737197826d34eec10479029f27722",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x20f3a19352f3dd323e11f6fe9d592753e4f82d78",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x39582554f076cd1c38419d594d92303413a61063",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x52ea7f1444765c73e2d3635305fb17ea506ab715",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xed8a4e027af6ecb2adbeff3eacec4599b8cb5bc2",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xdb21f7553242e627293764472792d9b7770eba86",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xd2d7fcffc2ef8ffdd0c31a6ab29ef251fc5c6b0b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x3883b4f76bb2025ceaf2e89ee2f0d88aff431b20",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xb4fbce053cb259ade834a591ce72a921170efa01",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x59d2b65d992b2f0d186c0f8120e0e7a21833b384",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0xc9d923c49863c3a9e2e3eb044fae7d7e43befd2d",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x2fc4c1a1f14ba8e2b379b59204829d7df62ed820",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "0x541ca58e22f74ef5be4164957edc957fa6879d36",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "6ac7fa652a80dca54c7cdc59",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "6ac7fa6f62435c1f1fe0de3b",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "urn:li:share:7514056539402485760",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm211",
+      "company": "Kalshi",
+      "title": "Growth Product Manager - Reactivation",
+      "platform": "facebook",
+      "postedAt": "2026-10-08T20:17:20.857Z",
+      "postId": "691827047618629_1110118561595378",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "6ac7fa852a80dca54c7ce266",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Ondo Finance is hiring Senior iOS Engineer\n\nhttps://hashtagweb3.com/eng381/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108290891676840297"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "18149752225545099",
+      "verification": "verified",
+      "expectedText": "Ondo Finance is hiring Senior iOS Engineer: https://hashtagweb3.com/eng381/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DePxkRSDy3W",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxfbrnybuh2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0xda7f4881dc726c4d97a9db528f84d8472525c38d",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0xa75697c86f7a6eb1728fdbf6ca8dc32267625132",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x5a8110d87adf74d668b8f6588238a12f1aa91d0b",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x9bea638644f141bd13bcb9d203df645165355440",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x84c0c5365fb456153ee647d01490c64bf09c7bf9",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0xb988289bdee136877957824bffd78176c8d12c13",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x549fb0f001afa922fd56c083a53ef993d8c64825",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x176defd675f79b9d51c456b09bd6c0a4dc56e147",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x05642bad0f2348f1057a247c4bb96a60ee12738b",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x696695d7276ef7fd76e54fac51fc6a183e43dee4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x4fbeb02786e7f0c6b5baae4daa5ce4991ded928b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x7d33b69dbe6798097520aa6bcad778e6dd04e5e5",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x47a12cdb82c5dfa77fabd9f3ee7522b1535f335e",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x107339e9e605e01367a69fe2352ef006693cb52b",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0xf5c78a8cef8918b1376181f59d07d71c4f64e946",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0x48e51de16d190e9759f40f0afbff4f3824c50720",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "0xf347762091ed1bfdad200d5d4ed5adf8681b4ac6",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "6ac7fa9674384ca756d983e8",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "6ac7faa12a80dca54c7ce5b1",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "urn:li:share:7514056747054022656",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng381",
+      "company": "Ondo Finance",
+      "title": "Senior iOS Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-08T20:18:12.750Z",
+      "postId": "691827047618629_1110119011595333",
       "verification": "verified"
     }
   ]
