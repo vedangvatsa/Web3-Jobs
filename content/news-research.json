@@ -18004,11 +18004,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "32b36bec7d323b2e8fa7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T12:54:21.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read Cointelegraph Oct 8 EU Parliament nonbinding anti-corruption resolution naming crypto; needs Parliament release or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:24.446Z",
+      "retrySearches": [
+        "EU Parliament anti-corruption crypto resolution second outlet"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "a9f2bc15fdd302863c79": {
       "source": "BeInCrypto",
@@ -26847,6 +26861,21 @@
           "reviewedAt": "2026-10-08T18:17:22.203Z",
           "retrySearches": [
             "IMF tokenized markets October 2026 analysis second outlet"
+          ]
+        },
+        "32b36bec7d323b2e8fa7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read Cointelegraph Oct 8 EU Parliament nonbinding anti-corruption resolution naming crypto; needs Parliament release or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:24.446Z",
+          "retrySearches": [
+            "EU Parliament anti-corruption crypto resolution second outlet"
           ]
         }
       },
