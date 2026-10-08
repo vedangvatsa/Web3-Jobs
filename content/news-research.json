@@ -17421,11 +17421,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "96c04b2d83f02153f42e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T12:54:08.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "opinion",
+      "note": "Schwartz vs Flare CEO panel debate on XRP lending size; conference discussion, no decision or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:35.911Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f17adecb451c144469c3": {
       "source": "Decrypt",
@@ -27265,6 +27270,13 @@
           "note": "Bitcoin Wall Street-open weakness with Coinbase discount framing; intraday price coverage, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:33.730Z"
+        },
+        "96c04b2d83f02153f42e": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Schwartz vs Flare CEO panel debate on XRP lending size; conference discussion, no decision or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:35.911Z"
         }
       },
       "baselineSlugs": [
