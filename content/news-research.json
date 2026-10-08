@@ -17890,11 +17890,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "882629e8128a3badc5eb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:11:15.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "not-a-concrete-event",
+      "note": "Crypto-for-advisors Q3 outperformance recap vs stocks and gold; performance analysis, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:56.896Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "0a11108f14e2d650ebcf": {
       "source": "The Defiant",
@@ -27349,6 +27354,13 @@
           "note": "Digital money and digital yield explainer; educational piece, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:54.597Z"
+        },
+        "882629e8128a3badc5eb": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Crypto-for-advisors Q3 outperformance recap vs stocks and gold; performance analysis, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:56.896Z"
         }
       },
       "baselineSlugs": [
