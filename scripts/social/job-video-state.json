@@ -1765,10 +1765,11 @@
           "error": "Error: Buffer publish failed — It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Senior Quality Engineer at Solflare. Zagreb, Croatia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-08T19:34:40.125Z",
-          "postId": "6ac7f051777d0616a600183d"
+          "postId": "6ac7f051777d0616a600183d",
+          "url": "https://tiktok.com/@hashtagweb3/video/7694382786374831392"
         }
       }
     }
