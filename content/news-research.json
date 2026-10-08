@@ -11292,11 +11292,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1225681e3e29c24fcc87",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T20:16:04.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Lawmaker conference remarks criticizing regulators; statement, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:23.927Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "6be0acacd24e5cb4d83d": {
       "source": "The Block",
@@ -21204,6 +21209,13 @@
           "note": "Newsletter essay on Zcash privacy; analysis, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:22.289Z"
+        },
+        "1225681e3e29c24fcc87": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Lawmaker conference remarks criticizing regulators; statement, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:23.927Z"
         }
       },
       "baselineSlugs": [
