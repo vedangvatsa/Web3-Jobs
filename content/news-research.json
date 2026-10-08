@@ -14170,13 +14170,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "063f2939659560bacb86",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T16:30:00.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified Polygon Open Money Stack Tron support, 94B USDT and US banking rails across CoinDesk and CryptoBriefing.",
+      "note": "Drafted report on Polygon Open Money Stack TRON support for 94B USDT with 48-state rails. CoinDesk plus CryptoBriefing plus Crypto Times read. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
@@ -14185,9 +14185,13 @@
         {
           "url": "https://cryptobriefing.com/tron-integrates-polygon-open-money-stack/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.cryptotimes.io/2026/10/08/polygon-open-money-stack-adds-tron-support-for-usdt-payments/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:11:16.921Z",
+      "reviewedAt": "2026-10-08T11:23:11.476Z",
       "articleSlug": "polygon-tron",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -23952,6 +23956,27 @@
           ],
           "reviewedAt": "2026-10-08T11:23:09.657Z",
           "articleSlug": "sky-rating"
+        },
+        "063f2939659560bacb86": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Polygon Open Money Stack TRON support for 94B USDT with 48-state rails. CoinDesk plus CryptoBriefing plus Crypto Times read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/tron-integrates-polygon-open-money-stack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptotimes.io/2026/10/08/polygon-open-money-stack-adds-tron-support-for-usdt-payments/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:11.476Z",
+          "articleSlug": "polygon-tron"
         }
       },
       "baselineSlugs": [
