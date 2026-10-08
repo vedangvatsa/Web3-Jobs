@@ -2753,25 +2753,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "90cd3650b7fd07894c9a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T20:32:07.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
-      "reason": "source-blocked",
-      "note": "CFTC staff conversion notice seen only in blocked Defiant page; needs second openable outlet.",
+      "reason": "verified-event",
+      "note": "Verified CFTC Oct 5 no-action relief letting DCMs convert perpetual-style index futures with five-day notice across CFTC release and FinanceMagnates.",
       "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9308-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.financemagnates.com/forex/regulation/cftc-lets-coinbase-turn-25-year-index-futures-into-contracts-that-never-expire/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:42:59.186Z",
+      "reviewedAt": "2026-10-08T04:17:10.050Z",
       "retrySearches": [
         "CFTC staff stock-index perpetual conversion five-day notice October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "articleSlug": "cftc-perps"
     },
     "a72cd6b96e10be3d9fbe": {
       "source": "CoinDesk",
@@ -22248,6 +22256,27 @@
           "reviewedAt": "2026-10-08T04:15:57.959Z",
           "duplicateOf": "sp-vaults",
           "mergedInto": "ba6adb67998afde3dcee"
+        },
+        "90cd3650b7fd07894c9a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified CFTC Oct 5 no-action relief letting DCMs convert perpetual-style index futures with five-day notice across CFTC release and FinanceMagnates.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9308-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.financemagnates.com/forex/regulation/cftc-lets-coinbase-turn-25-year-index-futures-into-contracts-that-never-expire/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/cftc-staff-clears-fast-track-for-stock-index-perpetual-conversions",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:17:10.050Z",
+          "articleSlug": "cftc-perps"
         }
       },
       "baselineSlugs": [
