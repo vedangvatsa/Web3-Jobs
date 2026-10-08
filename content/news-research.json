@@ -19069,17 +19069,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4fabdda2459903e8146b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T18:39:39.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same Greece Oct 7 draft 10 percent crypto tax bill covered by greece-tax in this run.",
+      "note": "Same Greece crypto capital gains tax report as covered by greece-tax in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:40:16.806Z",
+      "reviewedAt": "2026-10-08T23:59:04.899Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "b4c5102f5a98f48f2121"
     },
     "78edccd870113509675c": {
       "source": "The Defiant",
@@ -28898,6 +28899,15 @@
           "note": "Same Greece 10 percent crypto capital gains plan as covered by greece-tax in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:02.875Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "b4c5102f5a98f48f2121"
+        },
+        "4fabdda2459903e8146b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece crypto capital gains tax report as covered by greece-tax in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:04.899Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "b4c5102f5a98f48f2121"
         }
