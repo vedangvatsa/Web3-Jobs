@@ -15367,11 +15367,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "67de49f7da8711f3fc2f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T07:30:42.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "Daily ETF flow figure with no standalone event behind it.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:26:55.244Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "9bd7034edda705b4a484": {
       "source": "CoinDesk",
@@ -24969,6 +24974,13 @@
           "note": "Monthly inflow and rally-stall market analysis, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:26:53.188Z"
+        },
+        "67de49f7da8711f3fc2f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Daily ETF flow figure with no standalone event behind it.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:26:55.244Z"
         }
       },
       "baselineSlugs": [
