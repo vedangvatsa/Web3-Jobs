@@ -15643,11 +15643,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "a58ed5f4524012c5b9b0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T09:17:18.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "verified-event",
+      "note": "Drafted report on Greece 10 percent crypto tax draft with 500-euro exempt and November parliament target. Three outlets read. Audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:24:05.045Z",
+      "articleSlug": "greece-tax",
+      "lastReviewedDay": "2026-10-08"
     },
     "beaa28a9473ad8ef4c1f": {
       "source": "CoinJournal",
@@ -24235,6 +24254,27 @@
           ],
           "reviewedAt": "2026-10-08T11:24:02.817Z",
           "articleSlug": "securitize-korea"
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Greece 10 percent crypto tax draft with 500-euro exempt and November parliament target. Three outlets read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:24:05.045Z",
+          "articleSlug": "greece-tax"
         }
       },
       "baselineSlugs": [
