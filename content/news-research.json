@@ -3544,13 +3544,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "b1e55f7f84c981ba728a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T16:30:56.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "verified-event",
-      "note": "Verified Metaplanet Q3 sale of 10000 BTC and 11000 repurchase to 44000 holdings for credit-rating bid across Decrypt and CoinDesk.",
+      "note": "Drafted report on Metaplanet Q3 10k BTC sale and 11k repurchase to 44k holdings for credit-rating bid plus net interest income strategy. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
@@ -3559,13 +3559,9 @@
         {
           "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:14:40.349Z",
+      "reviewedAt": "2026-10-08T11:22:35.666Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
@@ -23769,6 +23765,23 @@
           ],
           "reviewedAt": "2026-10-08T11:22:25.248Z",
           "articleSlug": "strategy-q3"
+        },
+        "b1e55f7f84c981ba728a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Metaplanet Q3 10k BTC sale and 11k repurchase to 44k holdings for credit-rating bid plus net interest income strategy. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:22:35.666Z",
+          "articleSlug": "metaplanet-sale"
         }
       },
       "baselineSlugs": [
