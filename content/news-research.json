@@ -16728,11 +16728,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c2854b849440241fced",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T17:18:24.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "opinion",
+      "note": "TD Cowen analyst note on Strategy dilution vs bitcoin forecasts; sell-side commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:00.319Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "d0cb8de1fa1a2e4d4f07": {
       "source": "Bitcoin Magazine",
@@ -27109,6 +27114,13 @@
           "note": "Bitcoin slide below 81k tied to Fed pause and oil pressure; market-move analysis, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:17:58.130Z"
+        },
+        "7c2854b849440241fced": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "TD Cowen analyst note on Strategy dilution vs bitcoin forecasts; sell-side commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:00.319Z"
         }
       },
       "baselineSlugs": [
