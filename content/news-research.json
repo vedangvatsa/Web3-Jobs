@@ -11769,13 +11769,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "85911409ad9cf3216a4e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T21:16:03.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified Drake Oct 7 bunker-mode call, 722 OpenAI results, Buterin response across Decrypt and Cointelegraph.",
+      "note": "Drafted report on Drake Oct 7 bunker-mode call with Buterin backing, ECDSA timeline and migration cautions. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
@@ -11786,7 +11786,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:59:19.857Z",
+      "reviewedAt": "2026-10-08T11:23:39.759Z",
       "articleSlug": "bunker-mode",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24091,6 +24091,23 @@
           ],
           "reviewedAt": "2026-10-08T11:23:32.173Z",
           "articleSlug": "tether-kazakhstan"
+        },
+        "85911409ad9cf3216a4e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Drake Oct 7 bunker-mode call with Buterin backing, ECDSA timeline and migration cautions. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:39.759Z",
+          "articleSlug": "bunker-mode"
         }
       },
       "baselineSlugs": [
