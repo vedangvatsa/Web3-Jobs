@@ -12796,11 +12796,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "479d9f39ef85b12bd060",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T04:00:51.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin dip on oil/Iran headlines; market-movement coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:57.470Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "2e8ecf58d0fbc3ef5022": {
       "source": "The Block",
@@ -21060,6 +21065,13 @@
           "note": "Bullish-trajectory chart opinion; price commentary, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:55.836Z"
+        },
+        "479d9f39ef85b12bd060": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin dip on oil/Iran headlines; market-movement coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:57.470Z"
         }
       },
       "baselineSlugs": [
