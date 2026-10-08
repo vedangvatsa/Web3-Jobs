@@ -16511,11 +16511,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:43:04.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "verified-event",
+      "note": "Wrote bitfinex-bitcoin (852 words): Oct 8 US 12,267 BTC Bitfinex-seizure move to unlabeled wallets with prior-day Coinbase Prime flows and reserve policy. CoinDesk, Decrypt and CryptoSlate read. All gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:10:34.918Z",
+      "articleSlug": "bitfinex-bitcoin",
+      "lastReviewedDay": "2026-10-08"
     },
     "793e33cc45c8a11bda37": {
       "source": "Cointelegraph",
@@ -26175,6 +26194,27 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T17:58:12.592Z",
           "automatic": true
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote bitfinex-bitcoin (852 words): Oct 8 US 12,267 BTC Bitfinex-seizure move to unlabeled wallets with prior-day Coinbase Prime flows and reserve policy. CoinDesk, Decrypt and CryptoSlate read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:10:34.918Z",
+          "articleSlug": "bitfinex-bitcoin"
         }
       },
       "baselineSlugs": [
