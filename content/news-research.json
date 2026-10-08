@@ -13133,11 +13133,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ab8cef483299638b534a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T23:00:00.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "Brokerage stock drop on China-ties report; equities news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:53.399Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "04d09b166c458ff23159": {
       "source": "BeInCrypto",
@@ -21360,6 +21365,13 @@
           "note": "Speculative equities-supercycle opinion; no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:51.590Z"
+        },
+        "ab8cef483299638b534a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Brokerage stock drop on China-ties report; equities news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:53.399Z"
         }
       },
       "baselineSlugs": [
