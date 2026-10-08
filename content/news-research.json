@@ -16570,11 +16570,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "793e33cc45c8a11bda37",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T12:03:28.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read Cointelegraph Oct 8 Hashi phased rollout with 500M commitments and 20-company coalition; needs Sui Foundation announcement or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:06.742Z",
+      "retrySearches": [
+        "Sui Hashi hBTC mainnet launch second outlet Anchorage"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "49796226371352e18cd0": {
       "source": "CoinJournal",
@@ -26673,6 +26687,21 @@
           "reviewedAt": "2026-10-08T18:16:13.383Z",
           "retrySearches": [
             "Bitcoin.de regulated partner relaunch trading restart date"
+          ]
+        },
+        "793e33cc45c8a11bda37": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read Cointelegraph Oct 8 Hashi phased rollout with 500M commitments and 20-company coalition; needs Sui Foundation announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:06.742Z",
+          "retrySearches": [
+            "Sui Hashi hBTC mainnet launch second outlet Anchorage"
           ]
         }
       },
