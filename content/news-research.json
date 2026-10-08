@@ -13228,11 +13228,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7fd40f5fea63e1a31461",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T20:46:03.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic model launch; AI-lab news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:41.668Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "e58271d5d4ff8fa33e13": {
       "source": "Bitcoin Magazine",
@@ -21276,6 +21281,13 @@
           "note": "OpenAI math-model announcement with no crypto event; AI-lab news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:37.792Z"
+        },
+        "7fd40f5fea63e1a31461": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic model launch; AI-lab news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:41.668Z"
         }
       },
       "baselineSlugs": [
