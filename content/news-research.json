@@ -4815,13 +4815,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "ba6adb67998afde3dcee",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T17:58:58.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "verified-event",
-      "note": "Drafted report on S and P Oct 4 Vault Risk Assessment across six factors for 10B vault sector. Primary release plus Cointelegraph read. Audits pass.",
+      "note": "Wrote sp-vaults (664 words): S and P Oct 4 Vault Risk Assessment launch across six factors for 10B vault sector. Primary release plus Cointelegraph read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://press.spglobal.com/2026-10-04-S-P-Global-Ratings-launches-Vault-Risk-Assessment-for-digital-asset-markets",
@@ -4832,7 +4832,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:22:37.730Z",
+      "reviewedAt": "2026-10-08T12:13:00.493Z",
       "retrySearches": [
         "S and P Global crypto lending vault risk assessments October 2026"
       ],
@@ -24363,6 +24363,23 @@
           ],
           "reviewedAt": "2026-10-08T12:12:58.469Z",
           "articleSlug": "strategy-q3"
+        },
+        "ba6adb67998afde3dcee": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote sp-vaults (664 words): S and P Oct 4 Vault Risk Assessment launch across six factors for 10B vault sector. Primary release plus Cointelegraph read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://press.spglobal.com/2026-10-04-S-P-Global-Ratings-launches-Vault-Risk-Assessment-for-digital-asset-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:13:00.493Z",
+          "articleSlug": "sp-vaults"
         }
       },
       "baselineSlugs": [
