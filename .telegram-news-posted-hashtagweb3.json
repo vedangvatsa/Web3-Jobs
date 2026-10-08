@@ -695,6 +695,9 @@
   "https://hashtagweb3.com/abstract-shutdown?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ripple-prime?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/davis-bill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hashsmash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/etherfi-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/eez-atomic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1993,6 +1996,12 @@
   "Brevan Howard Taps Ripple Prime for Brokerage and Clearing",
   "Bill would fine candidates for betting on their own races",
   "Don Davis Bill Would Fine Federal Candidates for Trading on Their Own Races",
+  "Eigen and Shielded Labs Launch HashSmash AI Contest",
+  "Eigen Labs and Shielded Labs Launch HashSmash AI Contest",
+  "Ether.fi to launch stablecoin with Ethena managing reserves",
+  "Ether.fi Plans Dollar Stablecoin With Ethena Running Reserves",
+  "Ethereum Mainnet Tests First Atomic L1-to-L2 Transaction",
+  "Ethereum Economic Zone Tests First Atomic L1 to L2 Transaction",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2238,5 +2247,8 @@
   "fp:234m|adam|advertis|deputy|evasion|fraud|gets78|godfather|harass|hir",
   "fp:abstract|cit|clos|closur|deadlin|dec15|december|december15|down|fit",
   "fp:asset|brevan|brokerag|clear|digital|financ|howard|manager|market|multi",
-  "fp:000|bett|bill|candidat|contract|davis|don|election|federal|fin"
+  "fp:000|bett|bill|candidat|contract|davis|don|election|federal|fin",
+  "fp:challeng|contest|cryptographic|eigen|event|four|function|hash|hashsmash|lab",
+  "fp:complianc|dollar|ethena|ether|manag|mint|plan|reserv|runn|stablecoin",
+  "fp:all|atomic|blockchain|demonstration|economic|layer|link|main|mainnet|noth"
 ]

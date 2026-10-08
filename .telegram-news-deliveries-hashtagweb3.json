@@ -966,7 +966,7 @@
     "sentAt": "2026-10-07T19:33:56.087Z"
   },
   "3efaceb0-42f7-4975-bab3-187e16d283ae": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-08T20:18:37.006Z",
     "stories": [
       {
@@ -994,6 +994,8 @@
         "originalTitle": "Ethereum Economic Zone Tests First Atomic L1 to L2 Transaction"
       }
     ],
-    "slotKey": "2026-10-08:evening"
+    "slotKey": "2026-10-08:evening",
+    "messageId": 155698,
+    "sentAt": "2026-10-08T20:18:40.665Z"
   }
 }
