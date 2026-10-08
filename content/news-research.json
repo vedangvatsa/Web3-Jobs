@@ -13160,11 +13160,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c2b094a954a1d7504a9a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T21:46:03.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI math-model announcement with no crypto event; AI-lab news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:37.792Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "b424e6aa5a23a598fae4": {
       "source": "BeInCrypto",
@@ -21264,6 +21269,13 @@
           "note": "Non-announcement: CEO declined to discuss a token; no event occurred.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:30.436Z"
+        },
+        "c2b094a954a1d7504a9a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI math-model announcement with no crypto event; AI-lab news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:37.792Z"
         }
       },
       "baselineSlugs": [
