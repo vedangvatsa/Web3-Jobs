@@ -13152,17 +13152,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b5cfc3e7d261d8e4319d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T02:22:39.000Z",
       "lastSeenAt": "2026-10-08T17:58:12.592Z",
       "reason": "duplicate",
-      "note": "Same Drake bunker-mode warning and Buterin response covered by bunker-mode.",
+      "note": "Same Drake bunker-mode warning and Buterin response covered by bunker-mode in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:15:25.835Z",
+      "reviewedAt": "2026-10-08T18:50:22.779Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "70033f0ef71a5c26d294": {
       "source": "BeInCrypto",
@@ -28190,6 +28191,15 @@
           "note": "Same Drake bunker-mode warning and Buterin response covered by bunker-mode in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:50:20.624Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "b5cfc3e7d261d8e4319d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Drake bunker-mode warning and Buterin response covered by bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:50:22.779Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
