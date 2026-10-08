@@ -12105,13 +12105,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "123b0a703647ad531e85",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T16:56:56.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified 833.6 BTC to Coinbase Prime and 40285 BNB moves via Decrypt; 470M tranche via CryptoSlate.",
+      "note": "Drafted report on Oct 7 US 103M BTC-plus-BNB Coinbase Prime moves with HashFlare-Bitfinex-Alameda provenance plus 470M tally and reserve policy. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
@@ -12122,7 +12122,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:50:46.036Z",
+      "reviewedAt": "2026-10-08T11:23:28.048Z",
       "articleSlug": "seized-crypto",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24032,6 +24032,23 @@
           ],
           "reviewedAt": "2026-10-08T11:23:22.212Z",
           "articleSlug": "gsr-hare"
+        },
+        "123b0a703647ad531e85": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Oct 7 US 103M BTC-plus-BNB Coinbase Prime moves with HashFlare-Bitfinex-Alameda provenance plus 470M tally and reserve policy. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:28.048Z",
+          "articleSlug": "seized-crypto"
         }
       },
       "baselineSlugs": [
