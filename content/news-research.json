@@ -8333,20 +8333,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d307a4a80069a028f244",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-09T17:00:37.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "duplicate",
-      "note": "Same Storm venue filing and Bitcoin Fog ruling covered by storm-venue.",
+      "note": "Same Storm venue filing and Bitcoin Fog ruling covered by storm-venue in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:15:06.393Z",
+      "reviewedAt": "2026-10-08T18:51:06.387Z",
       "retrySearches": [
         "Roman Storm venue filing Bitcoin Fog appeal October 2026 second outlet"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "storm-venue"
+      "duplicateOf": "storm-venue",
+      "mergedInto": "4954b8be94596f23a77e"
     },
     "d1c0c41c21a98aa3f029": {
       "source": "CoinDesk",
@@ -28362,6 +28363,15 @@
           "reviewedAt": "2026-10-08T18:51:04.164Z",
           "duplicateOf": "coinbase-pro",
           "mergedInto": "697bdf91d6c6d3bd5f3f"
+        },
+        "d307a4a80069a028f244": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Storm venue filing and Bitcoin Fog ruling covered by storm-venue in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:51:06.387Z",
+          "duplicateOf": "storm-venue",
+          "mergedInto": "4954b8be94596f23a77e"
         }
       },
       "baselineSlugs": [
