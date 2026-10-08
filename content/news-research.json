@@ -16519,11 +16519,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbda3002c00d1edb824d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T16:43:47.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "opinion",
+      "note": "Bitwise CEO interview comment calling Dogecoin ETF failure tragic; single-executive commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:17:53.684Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "be4753c98af4393ba28f": {
       "source": "CoinDesk",
@@ -27073,6 +27078,13 @@
             }
           ],
           "reviewedAt": "2026-10-08T18:17:46.156Z"
+        },
+        "bbda3002c00d1edb824d": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bitwise CEO interview comment calling Dogecoin ETF failure tragic; single-executive commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:17:53.684Z"
         }
       },
       "baselineSlugs": [
