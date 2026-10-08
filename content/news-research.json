@@ -16402,11 +16402,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1de3b4ef4e25d03b93c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T11:32:02.994Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:49:08.000Z",
-      "lastSeenAt": "2026-10-08T11:32:02.994Z"
+      "lastSeenAt": "2026-10-08T11:32:02.994Z",
+      "reason": "not-a-concrete-event",
+      "note": "Wells Fargo-Payward liquidity talks explicitly may not produce a deal, sourced to two anonymous persons via a single CoinDesk report; unconfirmed talks rumor, no filing or agreement.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/wells-fargo-reportedly-talking-with-kraken-parent-payward-to-source-crypto-trading-liquidity/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T12:16:57.808Z",
+      "lastReviewedDay": "2026-10-08"
     }
   },
   "runs": {
@@ -25504,6 +25514,18 @@
             }
           ],
           "reviewedAt": "2026-10-08T12:16:55.809Z"
+        },
+        "f1de3b4ef4e25d03b93c": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Wells Fargo-Payward liquidity talks explicitly may not produce a deal, sourced to two anonymous persons via a single CoinDesk report; unconfirmed talks rumor, no filing or agreement.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/wells-fargo-reportedly-talking-with-kraken-parent-payward-to-source-crypto-trading-liquidity/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:16:57.808Z"
         }
       },
       "baselineSlugs": [
