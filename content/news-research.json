@@ -9454,25 +9454,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "baa9316ece00bf2fbe7f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T22:39:09.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Hyperliquid Singapore licensing question; origin blocked, needs MAS register check or second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/hyperliquid-singapore-mas-license/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:46:57.778Z",
+      "reason": "duplicate",
+      "note": "Same Hyperliquid Singapore base and MAS no-license story already covered by the hyperliquid-base draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:11:33.443Z",
       "retrySearches": [
         "Hyperliquid Singapore MAS license October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "hyperliquid-base",
+      "mergedInto": "dc93e29a726604392489"
     },
     "8f552e99d3474b953c57": {
       "source": "Cointelegraph",
@@ -22069,6 +22065,15 @@
           "reviewedAt": "2026-10-08T04:11:30.602Z",
           "duplicateOf": "sberbank-register",
           "mergedInto": "c4f3f560217dd042e479"
+        },
+        "baa9316ece00bf2fbe7f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Hyperliquid Singapore base and MAS no-license story already covered by the hyperliquid-base draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:11:33.443Z",
+          "duplicateOf": "hyperliquid-base",
+          "mergedInto": "dc93e29a726604392489"
         }
       },
       "baselineSlugs": [
