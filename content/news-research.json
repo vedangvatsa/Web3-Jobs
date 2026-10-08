@@ -11705,17 +11705,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a745ae9b5abcb4207f2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T22:24:45.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "duplicate",
-      "note": "Same Drake bunker-mode warning already covered by bunker-mode.",
+      "note": "Same Drake bunker-mode warning and Buterin response covered by bunker-mode.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T03:59:23.527Z",
+      "reviewedAt": "2026-10-08T11:25:50.523Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "b52931b86de777cd1461": {
       "source": "The Block",
@@ -24633,6 +24634,15 @@
           "note": "Same Drake bunker-mode warning and Buterin response covered by bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:25:48.398Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "a745ae9b5abcb4207f2a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Drake bunker-mode warning and Buterin response covered by bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:25:50.523Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
