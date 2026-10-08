@@ -2252,5 +2252,49 @@
     "slotKey": "2026-10-08:afternoon",
     "messageId": 113,
     "sentAt": "2026-10-08T12:28:30.353Z"
+  },
+  "430451c9-4b85-45e4-a09d-22f100d55849": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T20:17:17.255Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "8076626",
+        "slug": "engineer609",
+        "url": "https://hashtagweb3.com/engineer609?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Software Engineer"
+      },
+      {
+        "key": "8260052",
+        "slug": "an75",
+        "url": "https://hashtagweb3.com/an75?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "Senior Risk Analyst"
+      },
+      {
+        "key": "761fa778-2383-41ed-80ab-f0371f675f11",
+        "slug": "sls206",
+        "url": "https://hashtagweb3.com/sls206?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Wormhole Labs",
+        "title": "Senior Accountant"
+      },
+      {
+        "key": "744000151845942",
+        "slug": "an51",
+        "url": "https://hashtagweb3.com/an51?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Analyst"
+      },
+      {
+        "key": "9ee015287c0d",
+        "slug": "lc",
+        "url": "https://hashtagweb3.com/lc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Logistics Coordinator"
+      }
+    ],
+    "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/engineer609?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>\n• Coinbase is hiring <a href=\"https://hashtagweb3.com/an75?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Risk Analyst</a>\n• Wormhole Labs is hiring <a href=\"https://hashtagweb3.com/sls206?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Accountant</a>\n• Solflare is hiring <a href=\"https://hashtagweb3.com/an51?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Analyst</a>\n• Bitdeer is hiring <a href=\"https://hashtagweb3.com/lc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Logistics Coordinator</a>",
+    "slotKey": "2026-10-08:evening"
   }
 }
