@@ -15618,11 +15618,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e519c79d92e069c437fa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:32:52.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "duplicate",
+      "note": "Same Greece 10 percent crypto tax draft covered by greece-tax.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:26:38.004Z",
+      "duplicateOf": "greece-tax",
+      "mergedInto": "a58ed5f4524012c5b9b0",
+      "lastReviewedDay": "2026-10-08"
     },
     "316cb572de6b08407ac4": {
       "source": "The Block",
@@ -24885,6 +24892,15 @@
           "reviewedAt": "2026-10-08T11:26:31.918Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "e519c79d92e069c437fa": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece 10 percent crypto tax draft covered by greece-tax.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:26:38.004Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "a58ed5f4524012c5b9b0"
         }
       },
       "baselineSlugs": [
