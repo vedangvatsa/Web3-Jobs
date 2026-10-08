@@ -15620,28 +15620,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "a58ed5f4524012c5b9b0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T09:17:18.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "verified-event",
-      "note": "Wrote greece-tax (617 words): Greece Oct 7 draft bill for 10% crypto CGT with 500-euro exemption, June 15% cut, Oct 22 consultation and November parliament plan. CoinDesk, Decrypt and Unchained read; Reuters origin blocked (401). All file gates pass.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T18:23:03.137Z",
+      "reason": "duplicate",
+      "note": "Same Greece Oct 7 draft 10 percent crypto tax bill covered by greece-tax in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:13.261Z",
       "articleSlug": "greece-tax",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -15649,7 +15636,9 @@
         "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26",
         "Source link HTTP 403: https://www.cftc.gov/csl/26-29/download"
-      ]
+      ],
+      "duplicateOf": "greece-tax",
+      "mergedInto": "b4c5102f5a98f48f2121"
     },
     "beaa28a9473ad8ef4c1f": {
       "source": "CoinJournal",
@@ -27963,6 +27952,15 @@
           "note": "Same Greece Oct 7 draft 10 percent crypto tax bill covered by greece-tax in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:11.531Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "b4c5102f5a98f48f2121"
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece Oct 7 draft 10 percent crypto tax bill covered by greece-tax in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:13.261Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "b4c5102f5a98f48f2121"
         }
