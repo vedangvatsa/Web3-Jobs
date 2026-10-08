@@ -13159,17 +13159,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "78e886ce7b303d7c7c1f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T07:08:36.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same Robinhood 25M BTC balance-sheet buy already covered by robinhood-bitcoin.",
+      "note": "Same Robinhood 25M BTC balance-sheet buy covered by robinhood-bitcoin.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T03:50:01.062Z",
+      "reviewedAt": "2026-10-08T11:25:21.447Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "e04537f91ce4996c0500"
     },
     "8e04d51579a11af2f2df": {
       "source": "CoinDesk",
@@ -24523,6 +24524,15 @@
           "note": "Same Robinhood 25M BTC balance-sheet buy covered by robinhood-bitcoin.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:25:19.391Z",
+          "duplicateOf": "robinhood-bitcoin",
+          "mergedInto": "e04537f91ce4996c0500"
+        },
+        "78e886ce7b303d7c7c1f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Robinhood 25M BTC balance-sheet buy covered by robinhood-bitcoin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:25:21.447Z",
           "duplicateOf": "robinhood-bitcoin",
           "mergedInto": "e04537f91ce4996c0500"
         }
