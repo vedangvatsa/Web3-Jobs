@@ -12276,17 +12276,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c65ec88a9d5f318eeff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T16:14:51.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "duplicate",
-      "note": "Same Oct 6 Bank of Russia register event as the sberbank-register draft; Sberbank custody angle is folded into that report.",
+      "note": "Same Russia first crypto registers with Sberbank custody covered by sberbank-register.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T04:11:30.602Z",
+      "reviewedAt": "2026-10-08T11:25:25.319Z",
       "duplicateOf": "sberbank-register",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "c4f3f560217dd042e479"
     },
     "ba0c708aa9eb48adefba": {
       "source": "Bitcoin Magazine",
@@ -24545,6 +24546,15 @@
           "reviewedAt": "2026-10-08T11:25:23.444Z",
           "duplicateOf": "ledger-loans",
           "mergedInto": "7d334a722b2c2115415a"
+        },
+        "8c65ec88a9d5f318eeff": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Russia first crypto registers with Sberbank custody covered by sberbank-register.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:25:25.319Z",
+          "duplicateOf": "sberbank-register",
+          "mergedInto": "c4f3f560217dd042e479"
         }
       },
       "baselineSlugs": [
