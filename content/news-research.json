@@ -17392,28 +17392,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4cab21a62516fd28dba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T13:06:24.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "verified-event",
-      "note": "Wrote securitize-stocks (905 words): Oct 8 Securitize Stocks launch of 12 one-to-one backed US stocks on Solana with NYSE and OKXICE venues planned. CoinDesk, Decrypt and Unchained read. All gates pass.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T18:10:43.939Z",
+      "reason": "duplicate",
+      "note": "Same Securitize Oct 8 tokenized-stocks launch on Solana covered by securitize-stocks in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:02.952Z",
       "articleSlug": "securitize-stocks",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -17421,7 +17408,9 @@
         "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26",
         "Source link HTTP 403: https://www.cftc.gov/csl/26-29/download"
-      ]
+      ],
+      "duplicateOf": "securitize-stocks",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "5efcd88f74b3e3ca8122": {
       "source": "Bitcoin Magazine",
@@ -27910,6 +27899,15 @@
           "note": "Same Securitize Oct 8 tokenized-stocks launch on Solana covered by securitize-stocks in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:01.257Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "b4cab21a62516fd28dba": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize Oct 8 tokenized-stocks launch on Solana covered by securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:02.952Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
         }
