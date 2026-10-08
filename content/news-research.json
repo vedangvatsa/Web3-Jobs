@@ -5411,25 +5411,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "53cd0a8a368388dea5ce",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T13:23:07.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "source-blocked",
-      "note": "Same Bitmine buy as c7e1; Block page blocked.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:42.542Z",
+      "reason": "duplicate",
+      "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:51:08.814Z",
       "retrySearches": [
         "Bitmine 15112 ETH purchase October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "bitmine-cap",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "e8e3472828ab121b445b": {
       "source": "Cointelegraph",
@@ -20837,6 +20833,15 @@
           "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:51:07.115Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
+        },
+        "53cd0a8a368388dea5ce": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:51:08.814Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
         }
