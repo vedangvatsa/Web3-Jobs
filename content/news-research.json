@@ -13033,11 +13033,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ea6372bc4078bce0f5af",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T00:40:15.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "promotional",
+      "note": "Exchange card product review; sponsored-style product promotion.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:08.835Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "54d775eafeae3a222fce": {
       "source": "CoinDesk",
@@ -21432,6 +21437,13 @@
           "note": "Same LAPTOP memecoin stunt coverage; promotional, no verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:07.299Z"
+        },
+        "ea6372bc4078bce0f5af": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Exchange card product review; sponsored-style product promotion.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:08.835Z"
         }
       },
       "baselineSlugs": [
