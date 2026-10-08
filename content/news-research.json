@@ -13966,13 +13966,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b3b9cc46940d7e87b52",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T16:55:22.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified 100M Hare commitment, credit-facility structure, Turtle build and Aave gold/dollar vaults across CoinDesk and TokenPost.",
+      "note": "Drafted report on GSR 100M Hare vault business with Turtle, Aave products and launch details. Three outlets read. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
@@ -13981,9 +13981,13 @@
         {
           "url": "https://www.tokenpost.com/news/business/27420",
           "outcome": "read"
+        },
+        {
+          "url": "https://defiprime.com/gsr-launches-hare-onchain-vault-curation",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:49:48.690Z",
+      "reviewedAt": "2026-10-08T11:23:22.212Z",
       "articleSlug": "gsr-hare",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24007,6 +24011,27 @@
           ],
           "reviewedAt": "2026-10-08T11:23:20.032Z",
           "articleSlug": "hyperliquid-base"
+        },
+        "1b3b9cc46940d7e87b52": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on GSR 100M Hare vault business with Turtle, Aave products and launch details. Three outlets read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/business/27420",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defiprime.com/gsr-launches-hare-onchain-vault-curation",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:22.212Z",
+          "articleSlug": "gsr-hare"
         }
       },
       "baselineSlugs": [
