@@ -16114,11 +16114,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "abf560930f1f7e557115",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T06:36:56.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "out-of-scope",
+      "note": "Tech stock picks with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:27.119Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "951a3273d39a1cd34d50": {
       "source": "CoinDesk",
@@ -25089,6 +25094,13 @@
           "note": "Fidelity Q3 earnings commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:25.299Z"
+        },
+        "abf560930f1f7e557115": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Tech stock picks with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:27.119Z"
         }
       },
       "baselineSlugs": [
