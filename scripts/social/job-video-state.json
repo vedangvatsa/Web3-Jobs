@@ -1676,11 +1676,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Senior Software Engineer - Payments & Treasury at Alpaca\n\nNorth America, South America\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
           "startedAt": "2026-10-08T11:34:40.171Z",
           "containerId": "17916769425461009",
-          "postId": "17906714481561743"
+          "postId": "17906714481561743",
+          "url": "https://www.instagram.com/reel/DeO1qKVEqT-/"
         }
       }
     }
