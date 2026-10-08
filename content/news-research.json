@@ -15969,17 +15969,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "bb706419d66dbccbac9d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T07:24:03.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Samsung Wallet USDC October rollout covered by samsung-usdc.",
+      "note": "Same Samsung Wallet USDC October rollout to 82M Galaxy devices covered by samsung-usdc in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:16:17.329Z",
+      "reviewedAt": "2026-10-08T18:50:12.155Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "2a5f0f76edb1ecb37ab3"
     },
     "abf560930f1f7e557115": {
       "source": "BeInCrypto",
@@ -28150,6 +28151,15 @@
           "note": "Same Samsung Wallet USDC October rollout to 82M Galaxy devices covered by samsung-usdc in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:50:10.138Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "bb706419d66dbccbac9d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC October rollout to 82M Galaxy devices covered by samsung-usdc in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:50:12.155Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
