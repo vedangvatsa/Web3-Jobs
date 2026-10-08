@@ -17864,11 +17864,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "060c73a9205c8ae971c8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:22:29.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "not-a-concrete-event",
+      "note": "Digital money and digital yield explainer; educational piece, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:54.597Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "882629e8128a3badc5eb": {
       "source": "CoinDesk",
@@ -27337,6 +27342,13 @@
           "note": "Single wallet shifting 150M USDT from Aave to Spark; isolated fund movement, no verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:52.576Z"
+        },
+        "060c73a9205c8ae971c8": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Digital money and digital yield explainer; educational piece, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:54.597Z"
         }
       },
       "baselineSlugs": [
