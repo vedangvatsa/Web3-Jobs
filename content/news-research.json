@@ -19006,11 +19006,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "67285d9f4f17042ddaf1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T18:14:39.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "price-chatter",
+      "note": "Crypto slide framed around flash-crash anniversary is price movement coverage with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:40.542Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "c69fbe223cd6bc09e10f": {
       "source": "Bankless",
@@ -28092,6 +28097,13 @@
           "note": "Nasdaq drop on OpenAI revenue shortfall is equities news with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:38.601Z"
+        },
+        "67285d9f4f17042ddaf1": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Crypto slide framed around flash-crash anniversary is price movement coverage with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:40.542Z"
         }
       },
       "baselineSlugs": [
