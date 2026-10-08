@@ -18184,11 +18184,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "49e46f3fdd2e63839617",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:36:25.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read CoinDesk Oct 8 NUVA HOME token for Figure HELOC exposure with 7 percent target; needs company announcement or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:19.689Z",
+      "retrySearches": [
+        "NUVA HOME token Figure HELOC launch second report"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "c8a36242c9ff08804857": {
       "source": "BeInCrypto",
@@ -26789,6 +26803,21 @@
           "reviewedAt": "2026-10-08T18:17:13.362Z",
           "retrySearches": [
             "Decrypt Money Accounts Solana Information Exchange independent coverage"
+          ]
+        },
+        "49e46f3fdd2e63839617": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read CoinDesk Oct 8 NUVA HOME token for Figure HELOC exposure with 7 percent target; needs company announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:19.689Z",
+          "retrySearches": [
+            "NUVA HOME token Figure HELOC launch second report"
           ]
         }
       },
