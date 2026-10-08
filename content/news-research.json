@@ -17225,11 +17225,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "463e8a4d0d3370904b92",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T14:03:20.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "not-a-concrete-event",
+      "note": "Six-million-plus bitcoin behind exposed keys tally riding AI warnings; metric observation, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:21.026Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "1ec88ba57e1d14860c07": {
       "source": "CryptoSlate",
@@ -27193,6 +27198,13 @@
           "note": "THORChain record September income figure with hack-surge attribution; monthly metric observation, no launch vote ruling or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:18.739Z"
+        },
+        "463e8a4d0d3370904b92": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Six-million-plus bitcoin behind exposed keys tally riding AI warnings; metric observation, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:21.026Z"
         }
       },
       "baselineSlugs": [
