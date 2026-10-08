@@ -1600,7 +1600,13 @@
         "youtube": "London\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
         "youtubeTitle": "Partner Development Manager, Global Payment Methods at Stripe"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Partner Development Manager, Global Payment Methods at Stripe\n\nLondon\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+          "startedAt": "2026-10-08T03:33:52.207Z"
+        }
+      }
     }
   }
 }
