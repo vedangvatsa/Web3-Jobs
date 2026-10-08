@@ -18526,11 +18526,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c8a36242c9ff08804857",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:25:02.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "Musk praises Bezos Blue Origin reveal; billionaire space commentary, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:39.806Z",
+      "lastReviewedDay": "2026-10-08"
     }
   },
   "runs": {
@@ -27517,6 +27522,13 @@
           "note": "TSMC Q3 revenue beat; chip-earnings news, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:36.729Z"
+        },
+        "c8a36242c9ff08804857": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Musk praises Bezos Blue Origin reveal; billionaire space commentary, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:39.806Z"
         }
       },
       "baselineSlugs": [
