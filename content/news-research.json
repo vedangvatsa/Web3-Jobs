@@ -5154,23 +5154,27 @@
       "id": "c023b8f4dad93ff74c6c",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T14:33:14.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "source-blocked",
-      "note": "Same DeFi Development SOL position as 74a2; Block page blocked.",
+      "note": "Same DeFi Development SOL position as 74a2b4ba; Block page blocked, pairs with the Decrypt read.",
       "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+          "outcome": "read"
+        },
         {
           "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:45:46.334Z",
+      "reviewedAt": "2026-10-08T04:18:10.242Z",
       "retrySearches": [
-        "DeFi Development Corp Solana holdings NAV October 2026"
+        "DeFi Development Corp 8-K Solana 2.56 million September 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "70de51c1e621405a2525": {
       "source": "The Defiant",
@@ -22474,6 +22478,25 @@
             }
           ],
           "reviewedAt": "2026-10-08T04:18:08.537Z",
+          "retrySearches": [
+            "DeFi Development Corp 8-K Solana 2.56 million September 2026"
+          ]
+        },
+        "c023b8f4dad93ff74c6c": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Same DeFi Development SOL position as 74a2b4ba; Block page blocked, pairs with the Decrypt read.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:10.242Z",
           "retrySearches": [
             "DeFi Development Corp 8-K Solana 2.56 million September 2026"
           ]
