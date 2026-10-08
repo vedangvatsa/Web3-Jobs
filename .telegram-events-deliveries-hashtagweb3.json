@@ -1243,5 +1243,52 @@
     "slotKey": "2026-10-07:evening",
     "messageId": 155672,
     "sentAt": "2026-10-07T19:32:18.706Z"
+  },
+  "5208d8cc-84c5-4472-832d-d3461486debf": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T04:29:57.898Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "token2049-evt-1euzuQVicyCXCut",
+        "slug": "when-ai",
+        "name": "When AI Meets BTC - 2049 Side Event",
+        "startDate": "2026-10-08T05:00:00.000Z",
+        "keys": [
+          "token2049-evt-1euzuqvicycxcut",
+          "page:when-ai:2026-10-08",
+          "luma:evt-1euzuqvicycxcut",
+          "luma-url:/204926oc",
+          "event:whenaimeetsbtc2049sideevent:2026-10-08:"
+        ]
+      },
+      {
+        "id": "luma-crypto-r9i9A4Xqub15b04",
+        "slug": "aeoa",
+        "name": "AI & Emerging Onchain Assets-TOKEN 2049",
+        "startDate": "2026-10-08T05:30:00.000Z",
+        "keys": [
+          "luma-crypto-r9i9a4xqub15b04",
+          "page:aeoa:2026-10-08",
+          "luma:evt-r9i9a4xqub15b04",
+          "luma-url:/09pd8o7a",
+          "event:aiemergingonchainassetstoken2049:2026-10-08:singapore"
+        ]
+      },
+      {
+        "id": "premier-theodds",
+        "slug": "the2",
+        "name": "The Odds: Prediction Markets Summit Singapore 2026",
+        "startDate": "2026-10-08T14:00:00+08:00",
+        "keys": [
+          "premier-theodds",
+          "page:the2:2026-10-08",
+          "url:mnm.live/theodds/t2049singapore:2026-10-08",
+          "event:theoddspredictionmarketssummitsingapore2026:2026-10-08:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-08:morning"
   }
 }
