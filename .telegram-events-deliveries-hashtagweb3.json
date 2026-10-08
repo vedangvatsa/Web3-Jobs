@@ -1344,5 +1344,53 @@
     "slotKey": "2026-10-08:afternoon",
     "messageId": 155688,
     "sentAt": "2026-10-08T12:28:16.281Z"
+  },
+  "9108c401-65d4-47d8-9962-4543b2498703": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T20:17:27.232Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-iuFabSnK5cWmb7t",
+        "slug": "svxtis",
+        "name": "Sony Ventures x Taisu Innovation Summit: Soneium and Onchain Entertainment",
+        "startDate": "2026-10-09T02:00:00.000Z",
+        "keys": [
+          "luma-crypto-iufabsnk5cwmb7t",
+          "page:svxtis:2026-10-09",
+          "luma:evt-iufabsnk5cwmb7t",
+          "luma-url:/w2vo3svp",
+          "event:sonyventuresxtaisuinnovationsummitsoneiumandonchainentertainment:2026-10-09:singapore"
+        ]
+      },
+      {
+        "id": "token2049-evt-GEenAYO83msTTak",
+        "slug": "blockchain-association",
+        "name": "Blockchain Association Singapore Digital Assets Forum 2026 - Building Onchain in the Agentic era",
+        "startDate": "2026-10-09T06:00:00.000Z",
+        "keys": [
+          "token2049-evt-geenayo83msttak",
+          "page:blockchain-association:2026-10-09",
+          "luma:evt-geenayo83msttak",
+          "luma-url:/ig33t77h",
+          "event:blockchainassociationsingaporedigitalassetsforum2026buildingonchainintheagenticera:2026-10-09:"
+        ]
+      },
+      {
+        "id": "luma-batch-evtIm8g8d6jd7HLA",
+        "slug": "6mv7bwxa",
+        "name": "Pickleball + Crypto Whales 🇸🇬",
+        "startDate": "2026-10-09T06:00:00.000Z",
+        "keys": [
+          "luma-batch-evtim8g8d6jd7hla",
+          "page:6mv7bwxa:2026-10-09",
+          "luma:evt-im8g8d6jd7hla95",
+          "luma-url:/6mv7bwxa",
+          "event:pickleballcryptowhales:2026-10-09:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-08:evening"
   }
 }
