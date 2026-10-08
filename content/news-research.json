@@ -16605,11 +16605,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "49796226371352e18cd0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T13:00:19.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read CoinJournal Oct 7 NextBlock 3M seed round funding Soda Labs privacy tech; single weak outlet, needs company post or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://coinjournal.net/news/nextblock-invests-3m-in-soda-labs-to-expand-blockchain-privacy/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:09.052Z",
+      "retrySearches": [
+        "NextBlock Soda Labs M seed round second outlet"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "b527cd2ccd70547325ed": {
       "source": "CryptoSlate",
@@ -26702,6 +26716,21 @@
           "reviewedAt": "2026-10-08T18:17:06.742Z",
           "retrySearches": [
             "Sui Hashi hBTC mainnet launch second outlet Anchorage"
+          ]
+        },
+        "49796226371352e18cd0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read CoinJournal Oct 7 NextBlock 3M seed round funding Soda Labs privacy tech; single weak outlet, needs company post or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/nextblock-invests-3m-in-soda-labs-to-expand-blockchain-privacy/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:09.052Z",
+          "retrySearches": [
+            "NextBlock Soda Labs M seed round second outlet"
           ]
         }
       },
