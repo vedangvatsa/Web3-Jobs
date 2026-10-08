@@ -18465,17 +18465,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "87edf17a86289e0f2c9b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T12:00:54.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "duplicate",
-      "note": "Same ESMA Oct 8 non-MiCA stablecoin wind-down covered by esma-stablecoins.",
+      "note": "Same ESMA Oct 8 non-MiCA stablecoin wind-down covered by esma-stablecoins in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T18:11:29.831Z",
+      "reviewedAt": "2026-10-08T20:08:15.579Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "624dea8769fe6ccc1f7b"
     },
     "c01aa070c06b9b158f6e": {
       "source": "BeInCrypto",
@@ -29236,6 +29237,15 @@
           "reviewedAt": "2026-10-08T20:08:13.766Z",
           "duplicateOf": "europol-quantum",
           "mergedInto": "9947fd6054fa80daa4d4"
+        },
+        "87edf17a86289e0f2c9b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ESMA Oct 8 non-MiCA stablecoin wind-down covered by esma-stablecoins in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T20:08:15.579Z",
+          "duplicateOf": "esma-stablecoins",
+          "mergedInto": "624dea8769fe6ccc1f7b"
         }
       },
       "baselineSlugs": [
