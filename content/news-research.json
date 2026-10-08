@@ -15777,11 +15777,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "860da2d41ccdf27f0d30",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T09:42:04.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph Oct 8 ESMA Jan 8 2027 stablecoin deadline; ESMA primary statement and second outlet not yet opened.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:29:00.564Z",
+      "retrySearches": [
+        "ESMA stablecoin January 2027 deadline statement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "d9e5ae4047dd36ca736e": {
       "source": "CoinDesk",
@@ -25371,6 +25385,21 @@
           "reviewedAt": "2026-10-08T11:28:58.590Z",
           "retrySearches": [
             "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+          ]
+        },
+        "860da2d41ccdf27f0d30": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph Oct 8 ESMA Jan 8 2027 stablecoin deadline; ESMA primary statement and second outlet not yet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:29:00.564Z",
+          "retrySearches": [
+            "ESMA stablecoin January 2027 deadline statement second outlet"
           ]
         }
       },
