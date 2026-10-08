@@ -11819,11 +11819,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c73ddaf7bec985d8f9bf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T17:24:18.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Cost-basis and token-breadth market recap; no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:27.503Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "eca318284bdbbe071a87": {
       "source": "The Block",
@@ -20892,6 +20897,13 @@
           "note": "Macro-analysis linking Japanese bond selling to bitcoin; no concrete crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:25.856Z"
+        },
+        "c73ddaf7bec985d8f9bf": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Cost-basis and token-breadth market recap; no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:27.503Z"
         }
       },
       "baselineSlugs": [
