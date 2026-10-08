@@ -12726,11 +12726,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "39a72fc1ef8eff10e953",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T07:10:59.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Storm venue filing already covered by storm-venue.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:59:10.971Z",
+      "duplicateOf": "storm-venue",
+      "mergedInto": "4954b8be94596f23a77e",
+      "lastReviewedDay": "2026-10-08"
     },
     "78e886ce7b303d7c7c1f": {
       "source": "The Block",
@@ -21594,6 +21601,15 @@
           ],
           "reviewedAt": "2026-10-08T03:59:09.260Z",
           "articleSlug": "storm-venue"
+        },
+        "39a72fc1ef8eff10e953": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Storm venue filing already covered by storm-venue.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:59:10.971Z",
+          "duplicateOf": "storm-venue",
+          "mergedInto": "4954b8be94596f23a77e"
         }
       },
       "baselineSlugs": [
