@@ -8109,23 +8109,23 @@
       "id": "5e0ec86b57cca6b89df7",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T15:09:41.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "CHAD preferred buyback seen only in blocked Block origin; needs filing or second outlet.",
+      "note": "DeFi Development CHAD preferred buyback seen only in blocked Block origin; needs filing or second outlet.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:46:14.534Z",
+      "reviewedAt": "2026-10-08T04:18:30.755Z",
       "retrySearches": [
-        "DeFi Development Corp CHAD preferred buyback October 2026 filing"
+        "DeFi Development CHAD preferred repurchase 8-K filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "b0c9f331ca250c99cdd7": {
       "source": "CryptoSlate",
@@ -22620,6 +22620,21 @@
           "reviewedAt": "2026-10-08T04:18:26.664Z",
           "retrySearches": [
             "Bringin euro business accounts bitcoin companies launch"
+          ]
+        },
+        "5e0ec86b57cca6b89df7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "DeFi Development CHAD preferred buyback seen only in blocked Block origin; needs filing or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:30.755Z",
+          "retrySearches": [
+            "DeFi Development CHAD preferred repurchase 8-K filing"
           ]
         }
       },
