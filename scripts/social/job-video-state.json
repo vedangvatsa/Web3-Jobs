@@ -1763,6 +1763,11 @@
           "startedAt": "2026-10-08T19:34:33.698Z",
           "postId": "6ac7f04bd3b0be2fc41736f9",
           "error": "Error: Buffer publish failed — It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+        },
+        "tiktok": {
+          "status": "creating",
+          "text": "Senior Quality Engineer at Solflare. Zagreb, Croatia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-08T19:34:40.125Z"
         }
       }
     }
