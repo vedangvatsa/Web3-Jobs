@@ -18051,11 +18051,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e85710a4d0d8f74f72c1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:37:17.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "verified-event",
+      "note": "Manhattan jury convicted Jonathan Spalletta on Oct 7 over two April 2021 Uranium Finance hacks totaling about 53M with Tornado Cash laundering and collectibles spending. Decrypt plus BleepingComputer read; DOJ release fetch returned empty.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.justice.gov/usao-sdny/pr/jonathan-spalletta-convicted-defrauding-crypto-exchange-over-50-million-hacks-0",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:15:40.407Z",
+      "articleSlug": "uranium-verdict",
+      "lastReviewedDay": "2026-10-08"
     },
     "49e46f3fdd2e63839617": {
       "source": "CoinDesk",
@@ -26557,6 +26576,27 @@
           "reviewedAt": "2026-10-08T18:11:32.125Z",
           "duplicateOf": "veridian-equity",
           "mergedInto": "bbfbc980f72f30b4800c"
+        },
+        "e85710a4d0d8f74f72c1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Manhattan jury convicted Jonathan Spalletta on Oct 7 over two April 2021 Uranium Finance hacks totaling about 53M with Tornado Cash laundering and collectibles spending. Decrypt plus BleepingComputer read; DOJ release fetch returned empty.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.justice.gov/usao-sdny/pr/jonathan-spalletta-convicted-defrauding-crypto-exchange-over-50-million-hacks-0",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:15:40.407Z",
+          "articleSlug": "uranium-verdict"
         }
       },
       "baselineSlugs": [
