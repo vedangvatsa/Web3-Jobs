@@ -3252,11 +3252,11 @@
       "id": "74a2b4bafbb0dfb5e2c3",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T21:48:03.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "needs-corroboration",
-      "note": "Decrypt read confirms 3M SOL add; Block NAV copy blocked.",
+      "note": "Decrypt read confirms DeFi Development 26,203 SOL add to 2.56M; Block NAV copy blocked, 8-K figures need a second openable source.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
@@ -3267,12 +3267,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:45:44.425Z",
+      "reviewedAt": "2026-10-08T04:18:08.537Z",
       "retrySearches": [
-        "DeFi Development Corp Solana holdings NAV October 2026"
+        "DeFi Development Corp 8-K Solana 2.56 million September 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "5045507257a81cfa8ec0": {
       "source": "Bitcoin Magazine",
@@ -22457,6 +22457,25 @@
           "reviewedAt": "2026-10-08T04:18:04.595Z",
           "retrySearches": [
             "Aave GHO borrow rate 4.5 executed redemption reserves update"
+          ]
+        },
+        "74a2b4bafbb0dfb5e2c3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt read confirms DeFi Development 26,203 SOL add to 2.56M; Block NAV copy blocked, 8-K figures need a second openable source.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:08.537Z",
+          "retrySearches": [
+            "DeFi Development Corp 8-K Solana 2.56 million September 2026"
           ]
         }
       },
