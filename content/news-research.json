@@ -17206,17 +17206,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b110ea0056b771ffe65",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T15:10:15.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Securitize 12-stock Solana launch covered by securitize-stocks.",
+      "note": "Same Securitize Oct 8 tokenized-stocks launch on Solana covered by securitize-stocks in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T18:11:19.465Z",
+      "reviewedAt": "2026-10-08T19:39:59.374Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "1b96b3a80a7d4b84f0ae": {
       "source": "Unchained",
@@ -27892,6 +27893,15 @@
           ],
           "reviewedAt": "2026-10-08T19:39:57.616Z",
           "articleSlug": "securitize-stocks"
+        },
+        "3b110ea0056b771ffe65": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize Oct 8 tokenized-stocks launch on Solana covered by securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:39:59.374Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
         }
       },
       "baselineSlugs": [
