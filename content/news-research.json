@@ -14550,17 +14550,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "43692630e3e532c8981a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T10:05:11.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
       "note": "Same Cardano CIP-0113 issuer controls story covered by cardano-standard in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T18:51:29.320Z",
+      "reviewedAt": "2026-10-08T20:07:54.090Z",
       "duplicateOf": "cardano-standard",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "47785a59bf9afa150ab7"
     },
     "256cca266632a898b8b3": {
       "source": "Unchained",
@@ -29146,6 +29147,15 @@
           "reviewedAt": "2026-10-08T20:07:52.204Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
+        },
+        "43692630e3e532c8981a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Cardano CIP-0113 issuer controls story covered by cardano-standard in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T20:07:54.090Z",
+          "duplicateOf": "cardano-standard",
+          "mergedInto": "47785a59bf9afa150ab7"
         }
       },
       "baselineSlugs": [
