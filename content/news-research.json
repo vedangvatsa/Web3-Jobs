@@ -16254,11 +16254,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "951a3273d39a1cd34d50",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T06:17:13.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "Read CoinDesk Oct 8 Ripple Prime leveraged-ETF financing story based on WSJ; WSJ original and second outlet not yet opened.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:29:09.446Z",
+      "retrySearches": [
+        "Ripple Prime leveraged ETF financing Wall Street Journal Hidden Road Brevan Howard"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "2abe9d6cedb8bf1b7f04": {
       "source": "BeInCrypto",
@@ -25429,6 +25443,21 @@
           "reviewedAt": "2026-10-08T11:29:06.674Z",
           "retrySearches": [
             "Glamsterdam Sepolia 200 million gas Hoodi October 27 second report"
+          ]
+        },
+        "951a3273d39a1cd34d50": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read CoinDesk Oct 8 Ripple Prime leveraged-ETF financing story based on WSJ; WSJ original and second outlet not yet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:29:09.446Z",
+          "retrySearches": [
+            "Ripple Prime leveraged ETF financing Wall Street Journal Hidden Road Brevan Howard"
           ]
         }
       },
