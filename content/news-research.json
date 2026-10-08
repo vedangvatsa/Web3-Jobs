@@ -16192,11 +16192,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "912edcabc0150def8d27",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T05:06:51.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "opinion",
+      "note": "Cuomo interview opinion on crypto political spending, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:57.877Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "7c6723a99f30c0229739": {
       "source": "BeInCrypto",
@@ -25125,6 +25130,13 @@
           "note": "Sony disc-drive gaming commentary with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:31.102Z"
+        },
+        "912edcabc0150def8d27": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Cuomo interview opinion on crypto political spending, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:57.877Z"
         }
       },
       "baselineSlugs": [
