@@ -14396,13 +14396,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "0babe217af4738d51336",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T10:26:55.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Drafted report on WLFI USD1 Mesh payments rollout for Web2 at TOKEN2049 plus trust charter and AgentPay context. Audits pass.",
+      "note": "Wrote wlfi-payments (813 words): WLFI USD1 Mesh payments rollout for Web2 at TOKEN2049 plus trust charter and AgentPay context. Cointelegraph plus CryptoBriefing plus CoinMarketCap Academy read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
@@ -14411,9 +14411,13 @@
         {
           "url": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/",
           "outcome": "read"
+        },
+        {
+          "url": "https://coinmarketcap.com/academy/article/wlfi-usd1-mesh-merchant-network",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:22:58.964Z",
+      "reviewedAt": "2026-10-08T12:14:09.470Z",
       "articleSlug": "wlfi-payments",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24791,6 +24795,27 @@
           ],
           "reviewedAt": "2026-10-08T12:14:07.695Z",
           "articleSlug": "europol-quantum"
+        },
+        "0babe217af4738d51336": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote wlfi-payments (813 words): WLFI USD1 Mesh payments rollout for Web2 at TOKEN2049 plus trust charter and AgentPay context. Cointelegraph plus CryptoBriefing plus CoinMarketCap Academy read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/wlfi-usd1-mesh-merchant-network",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:14:09.470Z",
+          "articleSlug": "wlfi-payments"
         }
       },
       "baselineSlugs": [
