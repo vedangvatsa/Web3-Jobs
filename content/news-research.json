@@ -13129,17 +13129,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "febbaaae7d96d4c83e87",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T02:30:16.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
       "note": "Same Samsung Wallet USDC October rollout covered by samsung-usdc.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:26:21.857Z",
+      "reviewedAt": "2026-10-08T12:16:07.404Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "2a5f0f76edb1ecb37ab3"
     },
     "b5cfc3e7d261d8e4319d": {
       "source": "The Defiant",
@@ -25322,6 +25323,15 @@
           "reviewedAt": "2026-10-08T12:16:00.838Z",
           "duplicateOf": "ledger-loans",
           "mergedInto": "7d334a722b2c2115415a"
+        },
+        "febbaaae7d96d4c83e87": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC October rollout covered by samsung-usdc.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:16:07.404Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
       },
       "baselineSlugs": [
