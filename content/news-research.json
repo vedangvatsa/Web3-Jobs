@@ -5105,20 +5105,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b013d194c3bc936ef68a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T14:49:17.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "duplicate",
       "note": "Same S and P vault risk assessment launch covered by sp-vaults.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:24:49.295Z",
+      "reviewedAt": "2026-10-08T12:15:01.673Z",
       "retrySearches": [
         "S and P Global crypto lending vault risk assessments October 2026"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "sp-vaults"
+      "duplicateOf": "sp-vaults",
+      "mergedInto": "ba6adb67998afde3dcee"
     },
     "84fff5d50c5d93106fb2": {
       "source": "Unchained",
@@ -25052,6 +25053,15 @@
           "reviewedAt": "2026-10-08T12:14:59.469Z",
           "duplicateOf": "metaplanet-sale",
           "mergedInto": "b1e55f7f84c981ba728a"
+        },
+        "b013d194c3bc936ef68a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same S and P vault risk assessment launch covered by sp-vaults.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:15:01.673Z",
+          "duplicateOf": "sp-vaults",
+          "mergedInto": "ba6adb67998afde3dcee"
         }
       },
       "baselineSlugs": [
