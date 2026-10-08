@@ -12845,13 +12845,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "4954b8be94596f23a77e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T09:58:06.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Verified Oct 5 venue filing, Bitcoin Fog Sept 25 ruling, Ahmed testimony and 2027 retrial across Decrypt and Cointelegraph.",
+      "note": "Drafted report on Oct 5 prosecutors letter citing Bitcoin Fog ruling against Storm venue challenge plus FinCEN mixer-rule withdrawal. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
@@ -12862,7 +12862,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:59:09.260Z",
+      "reviewedAt": "2026-10-08T11:22:46.541Z",
       "articleSlug": "storm-venue",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -23808,6 +23808,23 @@
           ],
           "reviewedAt": "2026-10-08T11:22:39.678Z",
           "articleSlug": "cftc-perps"
+        },
+        "4954b8be94596f23a77e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Oct 5 prosecutors letter citing Bitcoin Fog ruling against Storm venue challenge plus FinCEN mixer-rule withdrawal. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:22:46.541Z",
+          "articleSlug": "storm-venue"
         }
       },
       "baselineSlugs": [
