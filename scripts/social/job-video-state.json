@@ -1575,10 +1575,11 @@
           "url": "https://www.instagram.com/reel/DeN-VICgsbh/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-08T03:31:49.152Z",
-          "postId": "6ac70ea601166a3e1c1303dc"
+          "postId": "6ac70ea601166a3e1c1303dc",
+          "url": "https://www.youtube.com/watch?v=C5hJW9aTNMQ"
         }
       }
     },
