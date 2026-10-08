@@ -18714,17 +18714,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "823e99f6e2c7e227d089",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T18:06:41.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same NFL Oct 8 amicus brief in New Jersey vs Kalshi Supreme Court petition covered by nfl-kalshi in this run.",
+      "note": "Same NFL prediction-markets Supreme Court pushback as covered by nfl-kalshi in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:40:29.353Z",
+      "reviewedAt": "2026-10-08T23:59:35.948Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "dd25110442b0f822a9d6": {
       "source": "CryptoSlate",
@@ -28984,6 +28985,15 @@
           "note": "Same NFL pushback on prediction markets at Supreme Court as covered by nfl-kalshi in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:33.801Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "823e99f6e2c7e227d089": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL prediction-markets Supreme Court pushback as covered by nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:35.948Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
