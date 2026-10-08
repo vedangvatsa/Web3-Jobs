@@ -14080,11 +14080,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "78e87e0f1da84a3a6ba2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T07:48:51.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Weekly dogecoin price and support-level analysis; price coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:04.068Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "b7aacd3692ceca68a190": {
       "source": "CoinDesk",
@@ -21108,6 +21113,13 @@
           "note": "547M liquidation tally on oil rally; same price event as sibling items.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:02.298Z"
+        },
+        "78e87e0f1da84a3a6ba2": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Weekly dogecoin price and support-level analysis; price coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:04.068Z"
         }
       },
       "baselineSlugs": [
