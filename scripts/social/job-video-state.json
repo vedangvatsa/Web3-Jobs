@@ -1610,10 +1610,11 @@
           "url": "https://www.instagram.com/reel/DeN-rzojNIf/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "London\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-08T03:34:51.886Z",
-          "postId": "6ac70f5d2977c961bdc3fa9a"
+          "postId": "6ac70f5d2977c961bdc3fa9a",
+          "url": "https://www.youtube.com/watch?v=5SuiIrlCH94"
         }
       }
     }
