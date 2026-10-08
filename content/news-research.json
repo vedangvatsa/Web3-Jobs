@@ -5319,25 +5319,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "9b27d6e3d137c258d8c9",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T14:15:45.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "missing-primary-source",
-      "note": "Same Bitmine buy as c7e1; Unchained copy read, filing still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/tom-lees-bitmine-slows-ether-buying-for-a-second-straight-week-adding-15112-eth/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:40.711Z",
+      "reason": "duplicate",
+      "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:51:07.115Z",
       "retrySearches": [
         "Bitmine 15112 ETH purchase October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "bitmine-cap",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "cff828417cd1fb1a55c5": {
       "source": "BeInCrypto",
@@ -20832,6 +20828,15 @@
           "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:51:05.481Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
+        },
+        "9b27d6e3d137c258d8c9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:51:07.115Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
         }
