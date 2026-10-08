@@ -12718,13 +12718,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "4954b8be94596f23a77e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T09:58:06.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Wrote storm-venue (885 words): Oct 5 SDNY letter citing Sept 25 Bitcoin Fog venue ruling against Storm challenge with Ahmed Manhattan mapping plus FinCEN mixer withdrawal. Distinct from fincen-withdrawal. Decrypt, Cointelegraph and CryptoSlate read. All gates pass.",
+      "note": "Oct 5 SDNY letter citing Sept 25 Bitcoin Fog venue ruling against Storm challenge with Ahmed Manhattan mapping plus FinCEN mixer withdrawal. Decrypt, Cointelegraph and CryptoSlate read; all gates pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
@@ -12739,7 +12739,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:48:47.575Z",
+      "reviewedAt": "2026-10-08T20:06:17.081Z",
       "articleSlug": "storm-venue",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -28529,6 +28529,27 @@
           ],
           "reviewedAt": "2026-10-08T20:06:12.142Z",
           "articleSlug": "robinhood-bitcoin"
+        },
+        "4954b8be94596f23a77e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Oct 5 SDNY letter citing Sept 25 Bitcoin Fog venue ruling against Storm challenge with Ahmed Manhattan mapping plus FinCEN mixer withdrawal. Decrypt, Cointelegraph and CryptoSlate read; all gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T20:06:17.081Z",
+          "articleSlug": "storm-venue"
         }
       },
       "baselineSlugs": [
