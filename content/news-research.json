@@ -13769,11 +13769,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9875d26b60fd1e020d2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T11:59:24.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Conference-panel warning on ledger design; opinion, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:19.061Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "acb80a52236da439c56c": {
       "source": "Cointelegraph",
@@ -21168,6 +21173,13 @@
           "note": "Founder interview view on exchanges; opinion, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:17.392Z"
+        },
+        "d9875d26b60fd1e020d2": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Conference-panel warning on ledger design; opinion, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:19.061Z"
         }
       },
       "baselineSlugs": [
