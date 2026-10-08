@@ -19575,11 +19575,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ac581fb09a7a22009e10",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:25:20.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "not-a-concrete-event",
+      "note": "Netflix FTX trailer mockery on social media is entertainment chatter with no verifiable Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:58.468Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "72abe9d593ff7eec4021": {
       "source": "Decrypt",
@@ -29082,6 +29087,13 @@
           "note": "PumpFun memecoin crash-rate analysis is market-performance commentary with no concrete event or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:56.446Z"
+        },
+        "ac581fb09a7a22009e10": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Netflix FTX trailer mockery on social media is entertainment chatter with no verifiable Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:58.468Z"
         }
       },
       "baselineSlugs": [
