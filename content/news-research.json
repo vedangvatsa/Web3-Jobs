@@ -9366,23 +9366,27 @@
       "id": "28d44778853a7225286f",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T02:20:47.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "needs-corroboration",
-      "note": "CryptoSlate Oct 7 read confirms Peirce exit plus quorum amendment; needs second outlet on the rule.",
+      "note": "Round 3 verified SEC quorum amendment allowing one-member quorum across Federal Register and CryptoSlate; draft not yet written.",
       "sourceChecks": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20262/commission-quorum-requirement",
+          "outcome": "read"
+        },
         {
           "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-07T03:46:54.018Z",
+      "reviewedAt": "2026-10-08T04:18:40.862Z",
       "retrySearches": [
-        "SEC two commissioners quorum amendment crypto October 2026 second outlet"
+        "SEC quorum one commissioner recusal crypto enforcement October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "79021417e15a0215ac3d": {
       "source": "BeInCrypto",
@@ -22704,6 +22708,25 @@
           "reviewedAt": "2026-10-08T04:18:38.784Z",
           "retrySearches": [
             "Fortitude BITMAIN ZEC miners binding agreement specs pricing"
+          ]
+        },
+        "28d44778853a7225286f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified SEC quorum amendment allowing one-member quorum across Federal Register and CryptoSlate; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20262/commission-quorum-requirement",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:40.862Z",
+          "retrySearches": [
+            "SEC quorum one commissioner recusal crypto enforcement October 2026"
           ]
         }
       },
