@@ -3656,33 +3656,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7e124ba182d2474f85f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T14:54:17.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "missing-primary-source",
-      "note": "Bitmine 15112 ETH buy read in two outlets; company filing not yet opened.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/tom-lees-bitmine-slows-ether-buying-for-a-second-straight-week-adding-15112-eth/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:31.637Z",
+      "reason": "duplicate",
+      "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:51:05.481Z",
       "retrySearches": [
         "Bitmine 15112 ETH purchase October 2026 filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "bitmine-cap",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "2981e25a6d7558ccaa5f": {
       "source": "Unchained",
@@ -20837,6 +20825,15 @@
           "reviewedAt": "2026-10-08T03:51:03.777Z",
           "duplicateOf": "tether-kazakhstan",
           "mergedInto": "5e818d6c7c2ca5d7595e"
+        },
+        "c7e124ba182d2474f85f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Oct 5 Bitmine 15112 ETH weekly buy covered as the Monday update inside bitmine-cap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:51:05.481Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
         }
       },
       "baselineSlugs": [
