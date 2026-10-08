@@ -11964,11 +11964,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd6f0fa3b3457591b9c7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T15:55:20.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Ledger Morpho loan launch already covered by ledger-loans.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:49:53.586Z",
+      "duplicateOf": "ledger-loans",
+      "mergedInto": "7d334a722b2c2115415a",
+      "lastReviewedDay": "2026-10-08"
     },
     "858583e197c522a902a7": {
       "source": "Bankless",
@@ -20525,6 +20532,15 @@
           ],
           "reviewedAt": "2026-10-08T03:49:51.972Z",
           "articleSlug": "ledger-loans"
+        },
+        "bd6f0fa3b3457591b9c7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger Morpho loan launch already covered by ledger-loans.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:49:53.586Z",
+          "duplicateOf": "ledger-loans",
+          "mergedInto": "7d334a722b2c2115415a"
         }
       },
       "baselineSlugs": [
