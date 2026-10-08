@@ -15659,11 +15659,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "663555c49519d6527839",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:44:25.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "not-a-concrete-event",
+      "note": "Starknet L1 move only actively considered per X post with 2027 target; no decision or governance vote, so deliberation not an event.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/starknet-weighs-becoming-a-layer-1-to-chase-quantum-resistance-by-2027/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:28:11.943Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "e519c79d92e069c437fa": {
       "source": "Decrypt",
@@ -25185,6 +25195,18 @@
           "note": "Rolling live market blog, roundup with no standalone event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:28:05.817Z"
+        },
+        "663555c49519d6527839": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Starknet L1 move only actively considered per X post with 2027 target; no decision or governance vote, so deliberation not an event.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/starknet-weighs-becoming-a-layer-1-to-chase-quantum-resistance-by-2027/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:28:11.943Z"
         }
       },
       "baselineSlugs": [
