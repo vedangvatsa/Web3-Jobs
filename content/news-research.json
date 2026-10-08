@@ -18997,17 +18997,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4de505ce74bf43d697e4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T19:17:18.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same NFL Oct 8 amicus brief in New Jersey vs Kalshi Supreme Court petition covered by nfl-kalshi in this run.",
+      "note": "Same NFL backing of New Jersey SCOTUS petition over Kalshi as covered by nfl-kalshi in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:40:31.092Z",
+      "reviewedAt": "2026-10-08T23:59:38.063Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "d416de44a67384b9ce55": {
       "source": "The Block",
@@ -28994,6 +28995,15 @@
           "note": "Same NFL prediction-markets Supreme Court pushback as covered by nfl-kalshi in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:35.948Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "4de505ce74bf43d697e4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL backing of New Jersey SCOTUS petition over Kalshi as covered by nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:38.063Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
