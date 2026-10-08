@@ -17032,11 +17032,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b96b3a80a7d4b84f0ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T14:54:49.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "duplicate",
+      "note": "Same Oct 8 Securitize 12-stock Solana launch covered by securitize-stocks.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:11:22.218Z",
+      "duplicateOf": "securitize-stocks",
+      "mergedInto": "b4cab21a62516fd28dba",
+      "lastReviewedDay": "2026-10-08"
     },
     "9c99bbb806b4fba25563": {
       "source": "The Block",
@@ -26475,6 +26482,15 @@
           "note": "Same Oct 8 Securitize 12-stock Solana launch covered by securitize-stocks.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:11:19.465Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
+        },
+        "1b96b3a80a7d4b84f0ae": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Securitize 12-stock Solana launch covered by securitize-stocks.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:11:22.218Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "b4cab21a62516fd28dba"
         }
