@@ -11278,13 +11278,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "dc93e29a726604392489",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T16:42:19.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Drafted report on Hyperliquid Singapore HQ confirmation with MAS no-jurisdiction stance and IAL history. Audits pass.",
+      "note": "Wrote hyperliquid-base (720 words): Hyperliquid Singapore HQ confirmation with MAS no-jurisdiction stance and IAL history. crypto.news plus Blockhead read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://crypto.news/hyperliquid-confirms-singapore-base-as-mas-says/",
@@ -11295,7 +11295,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:23:20.032Z",
+      "reviewedAt": "2026-10-08T12:13:04.384Z",
       "articleSlug": "hyperliquid-base",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24413,6 +24413,23 @@
           ],
           "reviewedAt": "2026-10-08T12:13:02.391Z",
           "articleSlug": "samsung-usdc"
+        },
+        "dc93e29a726604392489": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote hyperliquid-base (720 words): Hyperliquid Singapore HQ confirmation with MAS no-jurisdiction stance and IAL history. crypto.news plus Blockhead read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://crypto.news/hyperliquid-confirms-singapore-base-as-mas-says/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.blockhead.co/2026/10/07/hyperliquid-confirms-singapore-registration-as-mas-says-exchange-falls-outside-its-jurisdiction/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:13:04.384Z",
+          "articleSlug": "hyperliquid-base"
         }
       },
       "baselineSlugs": [
