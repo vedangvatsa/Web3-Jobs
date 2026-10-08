@@ -13160,11 +13160,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b3b9cc46940d7e87b52",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:55:22.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified 100M Hare commitment, credit-facility structure, Turtle build and Aave gold/dollar vaults across CoinDesk and TokenPost.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/business/27420",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:49:48.690Z",
+      "articleSlug": "gsr-hare",
+      "lastReviewedDay": "2026-10-08"
     },
     "a9116bc759b65e01b382": {
       "source": "The Defiant",
@@ -20445,6 +20460,23 @@
           "reviewedAt": "2026-10-08T03:49:31.944Z",
           "duplicateOf": "coinbase-pro",
           "mergedInto": "697bdf91d6c6d3bd5f3f"
+        },
+        "1b3b9cc46940d7e87b52": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 100M Hare commitment, credit-facility structure, Turtle build and Aave gold/dollar vaults across CoinDesk and TokenPost.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/business/27420",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:49:48.690Z",
+          "articleSlug": "gsr-hare"
         }
       },
       "baselineSlugs": [
