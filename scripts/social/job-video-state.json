@@ -1641,9 +1641,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Lead AML Specialist at Bybit\n\nKuala Lumpur, Malaysia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
-          "startedAt": "2026-10-08T11:30:56.577Z"
+          "startedAt": "2026-10-08T11:30:56.577Z",
+          "containerId": "17916768855461009"
         }
       }
     },
