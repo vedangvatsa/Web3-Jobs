@@ -10336,25 +10336,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "7a322c15f45b5b28af51",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T19:03:08.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "Bankless read confirms Quantus intro framing; needs second outlet with launch or technical specifics.",
-      "sourceChecks": [
-        {
-          "url": "https://www.bankless.com/read/quantus-takes-aim-at-bitcoin-s-quantum-problem",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:49:09.570Z",
+      "reason": "promotional",
+      "note": "Quantum-project pitch from single weak outlet; marketing without verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:38.205Z",
       "retrySearches": [
         "Quantus bitcoin quantum October 2026 launch"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "846968c6e0edde18aa93": {
       "source": "The Defiant",
@@ -21513,6 +21507,13 @@
           "note": "Pre-launch insurance product announcement from single blocked outlet; marketing without verifiable details.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:36.686Z"
+        },
+        "7a322c15f45b5b28af51": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Quantum-project pitch from single weak outlet; marketing without verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:38.205Z"
         }
       },
       "baselineSlugs": [
