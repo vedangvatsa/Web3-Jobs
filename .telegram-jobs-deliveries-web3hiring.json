@@ -2116,7 +2116,7 @@
     "sentAt": "2026-10-07T19:32:13.451Z"
   },
   "0e7accb9-b6f7-4683-9c4f-b6aba53b2782": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-08T04:29:56.510Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -2157,6 +2157,8 @@
       }
     ],
     "message": "• Figure is hiring <a href=\"https://hashtagweb3.com/mgr116?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Team Manager</a>\n• Riot Platforms is hiring <a href=\"https://hashtagweb3.com/sales296?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Accountant</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/associate54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Events Associate</a>\n• Breeze Cash is hiring <a href=\"https://hashtagweb3.com/sls69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Account Executive</a>\n• Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/developer13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">VP, Algo/SOR Developer</a>",
-    "slotKey": "2026-10-08:morning"
+    "slotKey": "2026-10-08:morning",
+    "messageId": 16517,
+    "sentAt": "2026-10-08T04:29:58.480Z"
   }
 }
