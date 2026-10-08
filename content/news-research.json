@@ -11271,11 +11271,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c05eec0aa4cd9623abd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T20:21:22.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "CFTC chair conference speech promising no repeat of FTX; forward-looking remarks, not an event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:27.024Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "1225681e3e29c24fcc87": {
       "source": "Decrypt",
@@ -21228,6 +21233,13 @@
           "note": "Same French Hill CLARITY-remarks story as 1225681e; statement, not an event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:25.487Z"
+        },
+        "7c05eec0aa4cd9623abd": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "CFTC chair conference speech promising no repeat of FTX; forward-looking remarks, not an event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:27.024Z"
         }
       },
       "baselineSlugs": [
