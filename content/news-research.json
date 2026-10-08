@@ -16557,18 +16557,14 @@
       ],
       "alsoCoveredBy": [],
       "id": "634e1516faeb608c8daa",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "verified-event",
-      "note": "NFL Oct 8 amicus brief backing New Jersey petition for Supreme Court review of Kalshi sports-contracts ruling, gambling-not-swaps argument with Gensler Dodd states and tribes also filing. Verified across SCOTUS docket, Decrypt and CoinDesk, all read Oct 8. All gates pass.",
+      "note": "NFL Oct 8 amicus brief backing New Jersey SCOTUS review verified: Third versus Sixth and Ninth Circuit split, gambling-not-swaps argument, Gensler and Dodd briefs, Kalshi and CFTC responses. Read Decrypt and CoinDesk.",
       "sourceChecks": [
-        {
-          "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-299.html",
-          "outcome": "read"
-        },
         {
           "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
           "outcome": "read"
@@ -16578,7 +16574,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T19:40:23.326Z",
+      "reviewedAt": "2026-10-08T23:58:10.542Z",
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -28729,6 +28725,23 @@
           ],
           "reviewedAt": "2026-10-08T23:58:08.082Z",
           "articleSlug": "securitize-stocks"
+        },
+        "634e1516faeb608c8daa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "NFL Oct 8 amicus brief backing New Jersey SCOTUS review verified: Third versus Sixth and Ninth Circuit split, gambling-not-swaps argument, Gensler and Dodd briefs, Kalshi and CFTC responses. Read Decrypt and CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T23:58:10.542Z",
+          "articleSlug": "nfl-kalshi"
         }
       },
       "baselineSlugs": [
