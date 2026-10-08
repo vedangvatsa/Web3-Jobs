@@ -10428,25 +10428,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "90d07465f89e7944f57a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T17:53:39.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Firelight XRP cover story seen only in blocked Defiant origin.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/defi/firelight-begins-writing-defi-cover-backed-by-staked-xrp",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:49:07.654Z",
+      "reason": "promotional",
+      "note": "Pre-launch insurance product announcement from single blocked outlet; marketing without verifiable details.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:36.686Z",
       "retrySearches": [
         "Firelight DeFi cover staked XRP October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "3c55ce1b2eae71c3d3d6": {
       "source": "Cointelegraph",
@@ -21512,6 +21506,13 @@
           "note": "Statement of future intent to ask treasury about refunds; no decision or vote occurred.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:35.140Z"
+        },
+        "90d07465f89e7944f57a": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Pre-launch insurance product announcement from single blocked outlet; marketing without verifiable details.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:36.686Z"
         }
       },
       "baselineSlugs": [
