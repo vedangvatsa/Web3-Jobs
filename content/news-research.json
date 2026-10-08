@@ -18637,11 +18637,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c31ee8280e95318f8bf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T19:31:03.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "duplicate",
+      "note": "Same NFL Oct 8 amicus brief in New Jersey vs Kalshi Supreme Court petition covered by nfl-kalshi in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:27.536Z",
+      "duplicateOf": "nfl-kalshi",
+      "mergedInto": "634e1516faeb608c8daa",
+      "lastReviewedDay": "2026-10-08"
     },
     "823e99f6e2c7e227d089": {
       "source": "CoinDesk",
@@ -28018,6 +28025,15 @@
           "note": "Same NFL Oct 8 amicus brief in New Jersey vs Kalshi Supreme Court petition covered by nfl-kalshi in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:25.732Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "0c31ee8280e95318f8bf": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL Oct 8 amicus brief in New Jersey vs Kalshi Supreme Court petition covered by nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:27.536Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
