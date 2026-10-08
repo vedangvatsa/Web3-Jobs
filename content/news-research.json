@@ -15612,11 +15612,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b9a465812b47048b16e1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:44:47.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "not-a-concrete-event",
+      "note": "Rolling live market blog, roundup with no standalone event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:28:05.817Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "90660e686b3eae9c75da": {
       "source": "Unchained",
@@ -25173,6 +25178,13 @@
           "note": "Lender survey feature on loan uses; analysis without a news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:28:03.840Z"
+        },
+        "b9a465812b47048b16e1": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Rolling live market blog, roundup with no standalone event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:28:05.817Z"
         }
       },
       "baselineSlugs": [
