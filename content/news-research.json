@@ -3974,25 +3974,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d372d8efef76dfb7dae2",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T12:04:01.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "missing-primary-source",
-      "note": "Same Metaplanet event as b1e5; Decrypt copy read, filing still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:45:05.957Z",
+      "reason": "duplicate",
+      "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:14:50.789Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "metaplanet-sale",
+      "mergedInto": "b1e55f7f84c981ba728a"
     },
     "632e4bb5b98a6d6fbf9d": {
       "source": "CoinDesk",
@@ -22200,6 +22196,15 @@
           "note": "Same Metaplanet income-strategy event already covered by the metaplanet-sale draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:14:47.731Z",
+          "duplicateOf": "metaplanet-sale",
+          "mergedInto": "b1e55f7f84c981ba728a"
+        },
+        "d372d8efef76dfb7dae2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:14:50.789Z",
           "duplicateOf": "metaplanet-sale",
           "mergedInto": "b1e55f7f84c981ba728a"
         }
