@@ -13427,13 +13427,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "54d775eafeae3a222fce",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T00:35:24.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified Cointelegraph sale search, 80 percent traffic drop and 700k visits across CoinDesk and CryptoBriefing.",
+      "note": "Drafted balanced report on Cointelegraph sale-shopping claim and denial with 80 percent traffic collapse. Four outlets read. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
@@ -13442,9 +13442,17 @@
         {
           "url": "https://cryptobriefing.com/cointelegraph-seeks-buyer-traffic-collapse/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/business/27676",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coincentral.com/cointelegraph-denies-report-it-is-seeking-a-buyer-after-traffic-collapse/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:11:12.011Z",
+      "reviewedAt": "2026-10-08T11:23:52.005Z",
       "articleSlug": "mercury-sale",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24155,6 +24163,31 @@
           ],
           "reviewedAt": "2026-10-08T11:23:49.938Z",
           "articleSlug": "samsung-usdc"
+        },
+        "54d775eafeae3a222fce": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted balanced report on Cointelegraph sale-shopping claim and denial with 80 percent traffic collapse. Four outlets read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cointelegraph-seeks-buyer-traffic-collapse/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/business/27676",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coincentral.com/cointelegraph-denies-report-it-is-seeking-a-buyer-after-traffic-collapse/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:52.005Z",
+          "articleSlug": "mercury-sale"
         }
       },
       "baselineSlugs": [
