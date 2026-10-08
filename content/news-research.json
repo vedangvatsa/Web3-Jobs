@@ -15652,15 +15652,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "a58ed5f4524012c5b9b0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T09:17:18.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same Greece Oct 7 draft 10 percent crypto tax bill covered by greece-tax in this run.",
+      "note": "Same Greece 10 percent capital gains levy as covered by greece-tax in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:40:13.261Z",
+      "reviewedAt": "2026-10-08T23:59:00.770Z",
       "articleSlug": "greece-tax",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -15669,7 +15669,8 @@
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26",
         "Source link HTTP 403: https://www.cftc.gov/csl/26-29/download"
       ],
-      "duplicateOf": "greece-tax"
+      "duplicateOf": "greece-tax",
+      "mergedInto": "b4c5102f5a98f48f2121"
     },
     "beaa28a9473ad8ef4c1f": {
       "source": "CoinJournal",
@@ -28878,6 +28879,15 @@
           "note": "Same Greece 10 percent crypto tax draft with 500-euro exemption as covered by greece-tax in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:58:58.669Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "b4c5102f5a98f48f2121"
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece 10 percent capital gains levy as covered by greece-tax in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:00.770Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "b4c5102f5a98f48f2121"
         }
