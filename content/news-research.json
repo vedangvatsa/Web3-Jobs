@@ -2778,7 +2778,23 @@
         "CFTC staff stock-index perpetual conversion five-day notice October 2026"
       ],
       "lastReviewedDay": "2026-10-08",
-      "articleSlug": "cftc-perps"
+      "articleSlug": "cftc-perps",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "a72cd6b96e10be3d9fbe": {
       "source": "CoinDesk",
@@ -3555,7 +3571,23 @@
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "articleSlug": "metaplanet-sale"
+      "articleSlug": "metaplanet-sale",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "431c67e9e2ef0507ca32": {
       "source": "Decrypt",
@@ -3711,7 +3743,23 @@
         "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "articleSlug": "strategy-q3"
+      "articleSlug": "strategy-q3",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "42ec5c76ae42f4ebda3d": {
       "source": "CryptoSlate",
@@ -4838,7 +4886,23 @@
         "S and P Global crypto lending vault risk assessments October 2026"
       ],
       "lastReviewedDay": "2026-10-08",
-      "articleSlug": "sp-vaults"
+      "articleSlug": "sp-vaults",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "690d83e27eb267a5493d": {
       "source": "BeInCrypto",
@@ -11175,7 +11239,23 @@
       ],
       "reviewedAt": "2026-10-08T03:50:29.508Z",
       "articleSlug": "samsung-usdc",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "7c05eec0aa4cd9623abd": {
       "source": "Bitcoin Magazine",
@@ -11298,7 +11378,23 @@
       ],
       "reviewedAt": "2026-10-08T04:11:06.378Z",
       "articleSlug": "hyperliquid-base",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "a88523447b99942ca281": {
       "source": "Cointelegraph",
@@ -11536,7 +11632,23 @@
       ],
       "reviewedAt": "2026-10-08T04:11:11.010Z",
       "articleSlug": "kalshi-gold",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "23007533bd70cfbd0d1e": {
       "source": "BeInCrypto",
@@ -11660,7 +11772,23 @@
       ],
       "reviewedAt": "2026-10-08T04:12:18.162Z",
       "articleSlug": "orca-merger",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "85911409ad9cf3216a4e": {
       "source": "Decrypt",
@@ -11696,7 +11824,23 @@
       ],
       "reviewedAt": "2026-10-08T03:59:19.857Z",
       "articleSlug": "bunker-mode",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "7932aabf918494530ac0": {
       "source": "Cointelegraph",
@@ -11834,7 +11978,23 @@
       ],
       "reviewedAt": "2026-10-08T03:51:00.648Z",
       "articleSlug": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "9a6e149de49b4c1f5756": {
       "source": "CryptoSlate",
@@ -12002,7 +12162,23 @@
       ],
       "reviewedAt": "2026-10-08T03:50:46.036Z",
       "articleSlug": "seized-crypto",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "315f594c1f4585bf6ecf": {
       "source": "Bitcoin Magazine",
@@ -12414,7 +12590,23 @@
       ],
       "reviewedAt": "2026-10-08T03:59:18.157Z",
       "articleSlug": "rhyne-extortion",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "6fdc2a0451102e6067f0": {
       "source": "Bitcoin Magazine",
@@ -12556,7 +12748,23 @@
       ],
       "reviewedAt": "2026-10-08T03:49:28.831Z",
       "articleSlug": "coinbase-pro",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "e9fd034440ac8ecd0769": {
       "source": "Unchained",
@@ -12646,7 +12854,23 @@
       ],
       "reviewedAt": "2026-10-08T03:50:04.460Z",
       "articleSlug": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "4954b8be94596f23a77e": {
       "source": "Decrypt",
@@ -12682,7 +12906,23 @@
       ],
       "reviewedAt": "2026-10-08T03:59:09.260Z",
       "articleSlug": "storm-venue",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "66d3e46c168fc07dc068": {
       "source": "Cointelegraph",
@@ -12796,7 +13036,23 @@
       ],
       "reviewedAt": "2026-10-08T03:49:51.972Z",
       "articleSlug": "ledger-loans",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "0dedfbfff13ea6532054": {
       "source": "CoinDesk",
@@ -13242,7 +13498,23 @@
       ],
       "reviewedAt": "2026-10-08T04:11:12.011Z",
       "articleSlug": "mercury-sale",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "f7c27eb21fe1a04b0304": {
       "source": "BeInCrypto",
@@ -13640,7 +13912,23 @@
       ],
       "reviewedAt": "2026-10-08T04:13:05.053Z",
       "articleSlug": "sui-tunnels",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "1202764b0e462f7b31dc": {
       "source": "The Defiant",
@@ -13746,7 +14034,23 @@
       ],
       "reviewedAt": "2026-10-08T03:49:48.690Z",
       "articleSlug": "gsr-hare",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "a9116bc759b65e01b382": {
       "source": "The Defiant",
@@ -13879,7 +14183,23 @@
       ],
       "reviewedAt": "2026-10-08T03:49:15.396Z",
       "articleSlug": "cardano-standard",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "063f2939659560bacb86": {
       "source": "CoinDesk",
@@ -13915,7 +14235,23 @@
       ],
       "reviewedAt": "2026-10-08T04:11:16.921Z",
       "articleSlug": "polygon-tron",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "40fe1ba3ce7ff9326b39": {
       "source": "The Defiant",
@@ -14029,7 +14365,23 @@
       ],
       "reviewedAt": "2026-10-08T03:50:53.299Z",
       "articleSlug": "sky-rating",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "9947fd6054fa80daa4d4": {
       "source": "CoinDesk",
@@ -14065,7 +14417,23 @@
       ],
       "reviewedAt": "2026-10-08T03:59:05.822Z",
       "articleSlug": "europol-quantum",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "a3f0498b0937836134a4": {
       "source": "The Defiant",
@@ -14343,7 +14711,23 @@
       ],
       "reviewedAt": "2026-10-08T04:11:27.562Z",
       "articleSlug": "wlfi-payments",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "2fdc8b32451fba85bb96": {
       "source": "Cointelegraph",
@@ -14433,7 +14817,23 @@
       ],
       "reviewedAt": "2026-10-08T04:11:24.039Z",
       "articleSlug": "securitize-korea",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "21f0c3a44c024692a6be": {
       "source": "The Block",
@@ -14531,7 +14931,23 @@
       ],
       "reviewedAt": "2026-10-08T03:48:57.425Z",
       "articleSlug": "bitmine-cap",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "6432dc3868c75a80c0ef": {
       "source": "The Block",
@@ -14597,7 +15013,23 @@
       ],
       "reviewedAt": "2026-10-08T04:11:20.529Z",
       "articleSlug": "sberbank-register",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "lastValidationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     },
     "78e87e0f1da84a3a6ba2": {
       "source": "CoinJournal",
@@ -20925,7 +21357,7 @@
     "2026-10-08": {
       "day": "2026-10-08",
       "startedAt": "2026-10-08T03:31:25.243Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "751c0a31b9ee07e32b36",
         "623319aad99616fa67c0",
@@ -23457,7 +23889,23 @@
         ],
         "total": 123,
         "checkedAt": "2026-10-08T03:31:25.243Z"
-      }
+      },
+      "validationErrors": [
+        "gsr-hare.md: under 600 words",
+        "hyperliquid-base.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "kalshi-gold.md: under 600 words",
+        "ledger-loans.md: under 600 words",
+        "mercury-sale.md: under 600 words",
+        "orca-merger.md: template phrasing: unlock(?:ing)?, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "polygon-tron.md: under 600 words",
+        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
+        "sberbank-register.md: under 600 words",
+        "securitize-korea.md: under 600 words, template phrasing: pivotal",
+        "sky-rating.md: under 600 words",
+        "tether-kazakhstan.md: under 600 words",
+        "wlfi-payments.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
+      ]
     }
   }
 }
