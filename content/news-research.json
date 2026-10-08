@@ -19765,11 +19765,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b003cd0a478350d3fc78",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T19:47:40.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "duplicate",
+      "note": "Same NFL prediction-markets audible as covered by nfl-kalshi in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:40.130Z",
+      "duplicateOf": "nfl-kalshi",
+      "mergedInto": "634e1516faeb608c8daa",
+      "lastReviewedDay": "2026-10-08"
     }
   },
   "runs": {
@@ -29004,6 +29011,15 @@
           "note": "Same NFL backing of New Jersey SCOTUS petition over Kalshi as covered by nfl-kalshi in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:38.063Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "b003cd0a478350d3fc78": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL prediction-markets audible as covered by nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:40.130Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
