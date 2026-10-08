@@ -12019,11 +12019,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ba0c708aa9eb48adefba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:08:40.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin-under-83k oil-driven price move; market-movement coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:30.725Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "bd6f0fa3b3457591b9c7": {
       "source": "The Defiant",
@@ -20916,6 +20921,13 @@
           "note": "Retrospective bitcoin-vs-Treasury performance analysis; no fresh event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:29.094Z"
+        },
+        "ba0c708aa9eb48adefba": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin-under-83k oil-driven price move; market-movement coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:30.725Z"
         }
       },
       "baselineSlugs": [
