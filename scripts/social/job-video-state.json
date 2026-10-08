@@ -1691,10 +1691,11 @@
           "error": "Error: Buffer publish failed — It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Senior Software Engineer - Payments & Treasury at Alpaca. North America, South America.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-08T11:35:22.242Z",
-          "postId": "6ac77ffb82db5af660c05c5f"
+          "postId": "6ac77ffb82db5af660c05c5f",
+          "url": "https://tiktok.com/@hashtagweb3/video/7694259267448098081"
         }
       }
     }
