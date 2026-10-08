@@ -17571,11 +17571,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "817d26b99c3d48e348ee",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T17:16:23.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "not-a-concrete-event",
+      "note": "Block GCCI 2026 Korea country profile; research report package, no fresh event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:45.167Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "6f421eab942d61e269b4": {
       "source": "Cointelegraph",
@@ -27289,6 +27294,13 @@
           "note": "Single 2010-mined wallet moving 8.5M dollars after 16 years; isolated on-chain movement, no verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:38.442Z"
+        },
+        "817d26b99c3d48e348ee": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Block GCCI 2026 Korea country profile; research report package, no fresh event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:45.167Z"
         }
       },
       "baselineSlugs": [
