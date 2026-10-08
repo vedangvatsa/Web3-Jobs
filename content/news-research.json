@@ -16198,11 +16198,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7c6723a99f30c0229739",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T05:04:25.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "out-of-scope",
+      "note": "Fidelity Q3 earnings commentary with no crypto nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:25.299Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f1958aab734084fafaa5": {
       "source": "The Block",
@@ -25077,6 +25082,13 @@
           "note": "Smucker stock picks with no crypto nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:23.444Z"
+        },
+        "7c6723a99f30c0229739": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Fidelity Q3 earnings commentary with no crypto nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:25.299Z"
         }
       },
       "baselineSlugs": [
