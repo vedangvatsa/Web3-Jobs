@@ -17970,11 +17970,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe10153decb3c5a33060",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:05:05.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "Siebert CIO Micron stock buy call; equities commentary, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:01.198Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "d95fa2d052471948ef8d": {
       "source": "CoinDesk",
@@ -27373,6 +27378,13 @@
           "note": "Glassnode founder count of 6.26M BTC with exposed keys; metric observation tied to warning theme, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:59.117Z"
+        },
+        "fe10153decb3c5a33060": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Siebert CIO Micron stock buy call; equities commentary, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:01.198Z"
         }
       },
       "baselineSlugs": [
