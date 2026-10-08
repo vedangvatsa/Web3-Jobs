@@ -10006,23 +10006,23 @@
       "id": "7fe030c38c9a4fc74bae",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T21:07:36.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "Coinbase short-term price markets seen only in blocked Defiant origin.",
+      "note": "Coinbase 15-minute and hourly price markets seen only in blocked Defiant origin; needs company post or second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:49:19.882Z",
+      "reviewedAt": "2026-10-08T04:18:51.690Z",
       "retrySearches": [
-        "Coinbase 15 minute hourly crypto price markets October 2026"
+        "Coinbase 15-minute hourly crypto price markets launch"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "8b0ca374854723bfa6f6": {
       "source": "Bitcoin Magazine",
@@ -22788,6 +22788,21 @@
           "reviewedAt": "2026-10-08T04:18:49.955Z",
           "retrySearches": [
             "Solana DvP design partners bank pilot settlement"
+          ]
+        },
+        "7fe030c38c9a4fc74bae": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Coinbase 15-minute and hourly price markets seen only in blocked Defiant origin; needs company post or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:51.690Z",
+          "retrySearches": [
+            "Coinbase 15-minute hourly crypto price markets launch"
           ]
         }
       },
