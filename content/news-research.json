@@ -16676,11 +16676,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "466d40135746f38f38fe",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T17:46:05.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin ETF worst-loss-since-June flow tally with Uptober framing; fund-flow price coverage, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:17:56.115Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f97be0d1de203e850d2a": {
       "source": "CryptoSlate",
@@ -27085,6 +27090,13 @@
           "note": "Bitwise CEO interview comment calling Dogecoin ETF failure tragic; single-executive commentary, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:17:53.684Z"
+        },
+        "466d40135746f38f38fe": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin ETF worst-loss-since-June flow tally with Uptober framing; fund-flow price coverage, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:17:56.115Z"
         }
       },
       "baselineSlugs": [
