@@ -18714,11 +18714,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f0783b73ca3eb4e55ba2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T19:17:12.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "promotional",
+      "note": "Breez claim of an AI-agent surge in bitcoin integration requests is a single-vendor assertion without independent coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:49.640Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "647681ddbdfa617274b4": {
       "source": "Bitcoin Magazine",
@@ -28152,6 +28157,13 @@
           "note": "JPMorgan 50B inflow estimate is analyst fund-flow analysis with no concrete event behind it.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:47.808Z"
+        },
+        "f0783b73ca3eb4e55ba2": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Breez claim of an AI-agent surge in bitcoin integration requests is a single-vendor assertion without independent coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:49.640Z"
         }
       },
       "baselineSlugs": [
