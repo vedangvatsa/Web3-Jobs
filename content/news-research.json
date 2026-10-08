@@ -18293,11 +18293,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a9f2bc15fdd302863c79",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T12:27:08.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "out-of-scope",
+      "note": "Bearish S and P 500 chart-signal call; equities commentary, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:19:28.255Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f2bcecb3d72ae1cfd618": {
       "source": "Decrypt",
@@ -27457,6 +27462,13 @@
           "note": "StoneX macro video on French bonds and BTC outlook; strategist interview, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:19:26.170Z"
+        },
+        "a9f2bc15fdd302863c79": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Bearish S and P 500 chart-signal call; equities commentary, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:19:28.255Z"
         }
       },
       "baselineSlugs": [
