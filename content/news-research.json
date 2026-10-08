@@ -15528,13 +15528,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "a58ed5f4524012c5b9b0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T09:17:18.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Drafted report on Greece 10 percent crypto tax draft with 500-euro exempt and November parliament target. Three outlets read. Audits pass.",
+      "note": "Wrote greece-tax (611 words): Greece 10 percent crypto tax draft with 500-euro exemption and November parliament target. CoinDesk plus Decrypt read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
@@ -15543,13 +15543,9 @@
         {
           "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
           "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:24:05.045Z",
+      "reviewedAt": "2026-10-08T12:14:19.775Z",
       "articleSlug": "greece-tax",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24883,6 +24879,23 @@
           ],
           "reviewedAt": "2026-10-08T12:14:17.689Z",
           "articleSlug": "sberbank-register"
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote greece-tax (611 words): Greece 10 percent crypto tax draft with 500-euro exemption and November parliament target. CoinDesk plus Decrypt read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:14:19.775Z",
+          "articleSlug": "greece-tax"
         }
       },
       "baselineSlugs": [
