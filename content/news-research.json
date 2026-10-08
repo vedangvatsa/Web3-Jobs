@@ -13254,11 +13254,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e58271d5d4ff8fa33e13",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T19:38:16.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Brokerage survey on investor intentions; sentiment poll, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:44.830Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "94b7da213a1b9e0ac215": {
       "source": "Decrypt",
@@ -21300,6 +21305,13 @@
           "note": "Google game-builder feature; consumer-tech news, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:43.295Z"
+        },
+        "e58271d5d4ff8fa33e13": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Brokerage survey on investor intentions; sentiment poll, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:44.830Z"
         }
       },
       "baselineSlugs": [
