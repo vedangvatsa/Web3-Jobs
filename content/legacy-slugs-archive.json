@@ -135585,5 +135585,60 @@
     "company": "Open Standard",
     "title": "Account Manager",
     "newSlug": "sls240"
+  },
+  "eng445": {
+    "id": "8209410",
+    "link": "https://ripple.com/careers/all-jobs/job/8209410?gh_jid=8209410",
+    "company": "Ripple",
+    "title": "Manager, Software Engineering"
+  },
+  "tr93": {
+    "id": "8415898002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8415898002?gh_jid=8415898002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "eng442": {
+    "id": "4971554101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "eng427": {
+    "id": "8759009002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8759009002?gh_jid=8759009002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "ti3": {
+    "id": "5386903008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5386903008",
+    "company": "Hut 8",
+    "title": "Transmission & Interconnection, Principal"
+  },
+  "eng424": {
+    "id": "8589868002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "tr91": {
+    "id": "8573726002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8573726002?gh_jid=8573726002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "securities": {
+    "id": "8549369002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8549369002?gh_jid=8549369002",
+    "company": "Jane Street",
+    "title": "Securities Financing Specialist"
+  },
+  "sls240": {
+    "id": "8129958",
+    "link": "https://stripe.com/jobs/search?gh_jid=8129958",
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)",
+    "newSlug": "sls243"
   }
 }
