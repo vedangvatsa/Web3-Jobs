@@ -17517,11 +17517,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "91ed1a5d0f1b5fd4782e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T11:30:19.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "not-a-concrete-event",
+      "note": "Single 2010-mined wallet moving 8.5M dollars after 16 years; isolated on-chain movement, no verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:38.442Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "6e9948d74caa61550c47": {
       "source": "Bankless",
@@ -27277,6 +27282,13 @@
           "note": "Schwartz vs Flare CEO panel debate on XRP lending size; conference discussion, no decision or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:35.911Z"
+        },
+        "91ed1a5d0f1b5fd4782e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Single 2010-mined wallet moving 8.5M dollars after 16 years; isolated on-chain movement, no verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:38.442Z"
         }
       },
       "baselineSlugs": [
