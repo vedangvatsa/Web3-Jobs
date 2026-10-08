@@ -8878,23 +8878,23 @@
       "id": "92090e574e85c65e5d1e",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T14:17:49.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "Bloomberg Terminal Hyperliquid pricing seen only in blocked Defiant origin.",
+      "note": "Bloomberg Terminal Hyperliquid pricing seen only in blocked Defiant origin; needs second outlet or Bloomberg confirmation.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:46:10.853Z",
+      "reviewedAt": "2026-10-08T04:18:34.082Z",
       "retrySearches": [
-        "Bloomberg Terminal Hyperliquid perpetuals pricing October 2026"
+        "Bloomberg Terminal Hyperliquid perpetuals pricing data"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "a6c8020af64898cf04d2": {
       "source": "Cointelegraph",
@@ -22658,6 +22658,21 @@
           "reviewedAt": "2026-10-08T04:18:32.426Z",
           "retrySearches": [
             "Anvil ANVL token valuation SDK enterprise partnerships"
+          ]
+        },
+        "92090e574e85c65e5d1e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bloomberg Terminal Hyperliquid pricing seen only in blocked Defiant origin; needs second outlet or Bloomberg confirmation.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/bloomberg-terminal-adds-24-7-hyperliquid-perpetuals-pricing",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:34.082Z",
+          "retrySearches": [
+            "Bloomberg Terminal Hyperliquid perpetuals pricing data"
           ]
         }
       },
