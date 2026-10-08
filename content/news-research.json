@@ -17201,28 +17201,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d71a9d867c5924200b7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "verified-event",
-      "note": "Securitize Oct 8 launch of 1:1-backed Securitize Stocks for 12 US equities on Solana with Jump liquidity and RQD settlement, NYSE and OKXICE listings pending. Verified across company release via PRNewswire, CoinDesk and Unchained, all read Oct 8. All gates pass.",
+      "note": "Securitize Oct 8 tokenized stocks launch verified: 12 names 1-for-1 backed with UCC entitlement, Solana PropAMM with Jump liquidity and USDC settlement, NYSE and OKX-ICE venues planned. Read Decrypt and CoinDesk.",
       "sourceChecks": [
         {
-          "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
           "outcome": "read"
         },
         {
           "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
           "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T19:39:57.616Z",
+      "reviewedAt": "2026-10-08T23:58:08.082Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-08",
       "articleSlug": "securitize-stocks",
@@ -28716,6 +28712,23 @@
           ],
           "reviewedAt": "2026-10-08T23:58:03.245Z",
           "articleSlug": "greece-tax"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Securitize Oct 8 tokenized stocks launch verified: 12 names 1-for-1 backed with UCC entitlement, Solana PropAMM with Jump liquidity and USDC settlement, NYSE and OKX-ICE venues planned. Read Decrypt and CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T23:58:08.082Z",
+          "articleSlug": "securitize-stocks"
         }
       },
       "baselineSlugs": [
