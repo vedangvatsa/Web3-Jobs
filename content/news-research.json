@@ -17303,11 +17303,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d2783d2711338c48da64",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T13:46:59.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "opinion",
+      "note": "Video interview claiming bitcoin first institutional cycle has arrived; punditry, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:27.589Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "b4cab21a62516fd28dba": {
       "source": "CoinDesk",
@@ -27229,6 +27234,13 @@
           "note": "Bitcoin liquidity-advantage market analysis for institutions; explainer, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:25.475Z"
+        },
+        "d2783d2711338c48da64": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Video interview claiming bitcoin first institutional cycle has arrived; punditry, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:27.589Z"
         }
       },
       "baselineSlugs": [
