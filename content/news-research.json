@@ -18756,11 +18756,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1988b3076bc270e455d3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T18:46:04.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "not-a-concrete-event",
+      "note": "Single Satoshi-era wallet moving 8.3M dollars after 16 years is isolated on-chain movement with no verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T19:40:45.984Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "b94981880c3d659e2dd8": {
       "source": "Bankless",
@@ -28128,6 +28133,13 @@
           "note": "Netflix trailer for an FTX drama series is entertainment coverage, not a crypto industry event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T19:40:44.269Z"
+        },
+        "1988b3076bc270e455d3": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Single Satoshi-era wallet moving 8.3M dollars after 16 years is isolated on-chain movement with no verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T19:40:45.984Z"
         }
       },
       "baselineSlugs": [
