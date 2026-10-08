@@ -12357,11 +12357,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "74b324ed8bce31c30e74",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T10:38:23.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Recovery-stalls market recap framed around holder cohorts; price coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:47.084Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "697bdf91d6c6d3bd5f3f": {
       "source": "Unchained",
@@ -20988,6 +20993,13 @@
           "note": "Live price-updates blog on bitcoin slide and liquidations; running market coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:45.366Z"
+        },
+        "74b324ed8bce31c30e74": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Recovery-stalls market recap framed around holder cohorts; price coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:47.084Z"
         }
       },
       "baselineSlugs": [
