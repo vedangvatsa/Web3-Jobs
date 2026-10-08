@@ -12331,11 +12331,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "acafca0ccca590f85306",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T11:09:50.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Live price-updates blog on bitcoin slide and liquidations; running market coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:45.366Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "74b324ed8bce31c30e74": {
       "source": "CoinDesk",
@@ -20976,6 +20981,13 @@
           "note": "Breakout-level prediction piece on what bitcoin needs for 87k; forecast, not event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:37.247Z"
+        },
+        "acafca0ccca590f85306": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Live price-updates blog on bitcoin slide and liquidations; running market coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:45.366Z"
         }
       },
       "baselineSlugs": [
