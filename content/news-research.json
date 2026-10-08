@@ -14300,24 +14300,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1016b5ea433bb06db24",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T14:20:01.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "verified-event",
-      "note": "Verified Moodys B3 stable outlook and reserves across PRNewswire announcement and CryptoBriefing.",
+      "note": "Drafted report on Moody's B3 Sky rating, 90M buffer vs 10B assets, 150M reserve target. CryptoBriefing plus Sky primary read. Audits pass.",
       "sourceChecks": [
-        {
-          "url": "https://www.prnewswire.com/news-releases/moodys-ratings-assigns-first-issuer-rating-to-sky-protocol-302900578.html",
-          "outcome": "read"
-        },
         {
           "url": "https://cryptobriefing.com/moodys-b3-rating-sky-protocol/",
           "outcome": "read"
+        },
+        {
+          "url": "https://insights.skyeco.com/insights/moodys-ratings-assigns-rating-to-sky-protocol",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:50:53.299Z",
+      "reviewedAt": "2026-10-08T11:23:09.657Z",
       "articleSlug": "sky-rating",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -23935,6 +23935,23 @@
           ],
           "reviewedAt": "2026-10-08T11:23:07.377Z",
           "articleSlug": "rhyne-extortion"
+        },
+        "e1016b5ea433bb06db24": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Moody's B3 Sky rating, 90M buffer vs 10B assets, 150M reserve target. CryptoBriefing plus Sky primary read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/moodys-b3-rating-sky-protocol/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://insights.skyeco.com/insights/moodys-ratings-assigns-rating-to-sky-protocol",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:23:09.657Z",
+          "articleSlug": "sky-rating"
         }
       },
       "baselineSlugs": [
