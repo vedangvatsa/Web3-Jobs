@@ -3036,23 +3036,31 @@
       "id": "94d4b7992a3e8fbbcf3f",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T13:49:34.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "source-blocked",
-      "note": "Plume NBND vault seen only in blocked Defiant page; needs Plume announcement or second outlet.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 verified Plume Oct 5 nBND vault holding Fidelity FBND shares across PRNewswire release and CryptoBriefing; draft not yet written.",
       "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/plume-accelerates-tokenizations-role-in-global-finance-with-nbnd-vault-302898132.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/plume-nbnd-vault-fidelity-bond-etf/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:43:06.095Z",
+      "reviewedAt": "2026-10-08T04:18:00.802Z",
       "retrySearches": [
-        "Plume NBND vault Fidelity FBND tokenized October 2026"
+        "Plume nBND vault deposits curator Fidelity FBND traction"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "100d466d2a7f1cf362e1": {
       "source": "SEC Press Releases",
@@ -22377,6 +22385,29 @@
             }
           ],
           "reviewedAt": "2026-10-08T04:17:56.284Z"
+        },
+        "94d4b7992a3e8fbbcf3f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Plume Oct 5 nBND vault holding Fidelity FBND shares across PRNewswire release and CryptoBriefing; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/plume-accelerates-tokenizations-role-in-global-finance-with-nbnd-vault-302898132.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/plume-nbnd-vault-fidelity-bond-etf/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/tradfi-and-fintech/plume-nbnd-vault-fidelity-total-bond-etf-fbnd-tokenized-fixed-income",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:00.802Z",
+          "retrySearches": [
+            "Plume nBND vault deposits curator Fidelity FBND traction"
+          ]
         }
       },
       "baselineSlugs": [
