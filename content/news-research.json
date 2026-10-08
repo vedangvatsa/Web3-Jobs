@@ -12090,11 +12090,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "858583e197c522a902a7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T15:37:06.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "not-a-concrete-event",
+      "note": "Forward-looking upgrade preview essay; no launch, vote or filing occurred.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:21.758Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "c44addcd0ee193c5ca8c": {
       "source": "Cointelegraph",
@@ -21495,6 +21500,13 @@
           "note": "Exchange trust-center PR interview; self-promotion, no news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:20.178Z"
+        },
+        "858583e197c522a902a7": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Forward-looking upgrade preview essay; no launch, vote or filing occurred.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:21.758Z"
         }
       },
       "baselineSlugs": [
