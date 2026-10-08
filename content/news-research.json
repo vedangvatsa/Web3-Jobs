@@ -11793,11 +11793,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "48d8ee930b8fd5aceb4d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T17:35:20.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Macro-analysis linking Japanese bond selling to bitcoin; no concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:25.856Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "c73ddaf7bec985d8f9bf": {
       "source": "The Defiant",
@@ -20880,6 +20885,13 @@
           "note": "Ethereum 6 percent drop and liquidation-risk framing; price-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:24.220Z"
+        },
+        "48d8ee930b8fd5aceb4d": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Macro-analysis linking Japanese bond selling to bitcoin; no concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:25.856Z"
         }
       },
       "baselineSlugs": [
