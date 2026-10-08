@@ -19481,11 +19481,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f6fedff0fdf0cda068db",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T19:31:38.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "duplicate",
+      "note": "Same Securitize Solana equities launch with market reaction as covered by securitize-stocks in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:18.682Z",
+      "duplicateOf": "securitize-stocks",
+      "mergedInto": "4d71a9d867c5924200b7",
+      "lastReviewedDay": "2026-10-08"
     },
     "3b1404bce9913baf99ba": {
       "source": "Cointelegraph",
@@ -28948,6 +28955,15 @@
           "note": "Same Securitize 1-for-1 backed tokenized stocks launch as covered by securitize-stocks in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:16.600Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "f6fedff0fdf0cda068db": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize Solana equities launch with market reaction as covered by securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:18.682Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
         }
