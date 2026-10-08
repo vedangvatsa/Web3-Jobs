@@ -19380,11 +19380,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4a009b12285216504b8c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:05:33.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin intraday rebound framed around Trump and Iran headlines is price movement coverage with no concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:45.603Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "991944270ef04227dd5e": {
       "source": "CryptoSlate",
@@ -29022,6 +29027,13 @@
           "reviewedAt": "2026-10-08T23:59:40.130Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "4a009b12285216504b8c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin intraday rebound framed around Trump and Iran headlines is price movement coverage with no concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:45.603Z"
         }
       },
       "baselineSlugs": [
