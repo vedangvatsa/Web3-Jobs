@@ -11595,17 +11595,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d1b5e461acc4fc87814",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T00:00:12.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Oct 7 US seized-crypto Coinbase transfers covered by seized-crypto in this run.",
+      "note": "Same Oct 7 US seized-crypto Coinbase transfers including the 470M tally covered by seized-crypto in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T18:50:39.497Z",
+      "reviewedAt": "2026-10-08T20:07:15.621Z",
       "duplicateOf": "seized-crypto",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "123b0a703647ad531e85"
     },
     "a745ae9b5abcb4207f2a": {
       "source": "CryptoSlate",
@@ -28996,6 +28997,15 @@
           "reviewedAt": "2026-10-08T20:07:13.674Z",
           "duplicateOf": "coinbase-pro",
           "mergedInto": "697bdf91d6c6d3bd5f3f"
+        },
+        "1d1b5e461acc4fc87814": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 7 US seized-crypto Coinbase transfers including the 470M tally covered by seized-crypto in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T20:07:15.621Z",
+          "duplicateOf": "seized-crypto",
+          "mergedInto": "123b0a703647ad531e85"
         }
       },
       "baselineSlugs": [
