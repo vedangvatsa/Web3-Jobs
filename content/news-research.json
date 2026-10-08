@@ -17275,17 +17275,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b96b3a80a7d4b84f0ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T14:54:49.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same Securitize Oct 8 tokenized-stocks launch on Solana covered by securitize-stocks in this run.",
+      "note": "Same Securitize 1-for-1 backed stock tokens rollout as covered by securitize-stocks in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:40:01.257Z",
+      "reviewedAt": "2026-10-08T23:59:12.590Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "9c99bbb806b4fba25563": {
       "source": "The Block",
@@ -28918,6 +28919,15 @@
           "note": "Same Securitize tokenized Apple Nvidia Tesla launch on Solana as covered by securitize-stocks in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:10.294Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "1b96b3a80a7d4b84f0ae": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize 1-for-1 backed stock tokens rollout as covered by securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:12.590Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
         }
