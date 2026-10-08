@@ -4790,14 +4790,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "ba6adb67998afde3dcee",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T17:58:58.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
-      "reason": "needs-corroboration",
-      "note": "Cointelegraph read confirms vault grades; BeInCrypto and Defiant copies blocked.",
+      "reason": "verified-event",
+      "note": "Verified S and P Oct 4 Vault Risk Assessment with six factors and 10B deposits across SP press release and Cointelegraph.",
       "sourceChecks": [
+        {
+          "url": "https://press.spglobal.com/2026-10-04-S-P-Global-Ratings-launches-Vault-Risk-Assessment-for-digital-asset-markets",
+          "outcome": "read"
+        },
         {
           "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
           "outcome": "read"
@@ -4805,18 +4809,14 @@
         {
           "url": "https://beincrypto.com/sp-global-crypto-lending-vaults-risk/",
           "outcome": "blocked"
-        },
-        {
-          "url": "https://thedefiant.io/converge/defi/s-p-global-puts-a-letter-grade-on-defi-lending-vaults",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:43:31.958Z",
+      "reviewedAt": "2026-10-08T04:15:50.482Z",
       "retrySearches": [
         "S and P Global crypto lending vault risk assessments October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "articleSlug": "sp-vaults"
     },
     "690d83e27eb267a5493d": {
       "source": "BeInCrypto",
@@ -22217,6 +22217,27 @@
           "reviewedAt": "2026-10-08T04:14:57.026Z",
           "duplicateOf": "metaplanet-sale",
           "mergedInto": "b1e55f7f84c981ba728a"
+        },
+        "ba6adb67998afde3dcee": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified S and P Oct 4 Vault Risk Assessment with six factors and 10B deposits across SP press release and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://press.spglobal.com/2026-10-04-S-P-Global-Ratings-launches-Vault-Risk-Assessment-for-digital-asset-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/sp-global-crypto-lending-vaults-risk/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:15:50.482Z",
+          "articleSlug": "sp-vaults"
         }
       },
       "baselineSlugs": [
