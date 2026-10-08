@@ -10990,23 +10990,23 @@
       "id": "0104640e7b2b652586ba",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T17:54:45.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "Anchorage-Routable acquisition seen only in blocked Defiant origin; needs company post or second outlet.",
+      "note": "Anchorage-Routable acquisition seen only in blocked Defiant origin; needs company post or second outlet with terms.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:48:55.365Z",
+      "reviewedAt": "2026-10-08T04:19:15.032Z",
       "retrySearches": [
-        "Anchorage Digital Routable acquisition October 2026"
+        "Anchorage Routable acquisition terms price"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "7de78afd1b8f17875c74": {
       "source": "Cointelegraph",
@@ -22872,6 +22872,21 @@
           "reviewedAt": "2026-10-08T04:19:04.302Z",
           "retrySearches": [
             "digital ruble rollout wave banks universal license 2027"
+          ]
+        },
+        "0104640e7b2b652586ba": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Anchorage-Routable acquisition seen only in blocked Defiant origin; needs company post or second outlet with terms.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:15.032Z",
+          "retrySearches": [
+            "Anchorage Routable acquisition terms price"
           ]
         }
       },
