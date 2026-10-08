@@ -17056,11 +17056,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2207f988a382d5c483da",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:40:34.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin ETF exodus and nine-month ether withdrawal flow figures; fund-flow coverage, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:09.464Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "3a24ff3e84b27f6e7fec": {
       "source": "Cointelegraph",
@@ -27157,6 +27162,13 @@
           "note": "Bitcoin three-week low on Iran-strike oil headlines; price-move coverage, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:07.212Z"
+        },
+        "2207f988a382d5c483da": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin ETF exodus and nine-month ether withdrawal flow figures; fund-flow coverage, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:09.464Z"
         }
       },
       "baselineSlugs": [
