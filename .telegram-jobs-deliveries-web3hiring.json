@@ -2114,5 +2114,49 @@
     "slotKey": "2026-10-07:evening",
     "messageId": 112,
     "sentAt": "2026-10-07T19:32:13.451Z"
+  },
+  "0e7accb9-b6f7-4683-9c4f-b6aba53b2782": {
+    "status": "reserved",
+    "reservedAt": "2026-10-08T04:29:56.510Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "8859159002",
+        "slug": "mgr116",
+        "url": "https://hashtagweb3.com/mgr116?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Team Manager"
+      },
+      {
+        "key": "79147982-537d-4ff3-829e-bd34dbbcf382",
+        "slug": "sales296",
+        "url": "https://hashtagweb3.com/sales296?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Senior Accountant"
+      },
+      {
+        "key": "7828581003",
+        "slug": "associate54",
+        "url": "https://hashtagweb3.com/associate54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "a16z crypto",
+        "title": "Events Associate"
+      },
+      {
+        "key": "5427912008",
+        "slug": "sls69",
+        "url": "https://hashtagweb3.com/sls69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Breeze Cash",
+        "title": "Senior Account Executive"
+      },
+      {
+        "key": "5793291004",
+        "slug": "developer13",
+        "url": "https://hashtagweb3.com/developer13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "VP, Algo/SOR Developer"
+      }
+    ],
+    "message": "• Figure is hiring <a href=\"https://hashtagweb3.com/mgr116?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Team Manager</a>\n• Riot Platforms is hiring <a href=\"https://hashtagweb3.com/sales296?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Accountant</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/associate54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Events Associate</a>\n• Breeze Cash is hiring <a href=\"https://hashtagweb3.com/sls69?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Account Executive</a>\n• Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/developer13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">VP, Algo/SOR Developer</a>",
+    "slotKey": "2026-10-08:morning"
   }
 }
