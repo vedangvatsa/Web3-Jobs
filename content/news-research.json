@@ -12688,13 +12688,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "697bdf91d6c6d3bd5f3f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T10:05:37.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Verified Deribit integration completion, Oct 1 migration, 30B OI and Pro year-end return across Unchained and Cointelegraph.",
+      "note": "Drafted report on Coinbase Deribit integration completion, 30B OI, Pro return by year end. Unchained plus Cointelegraph read. Audits pass.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
@@ -12705,7 +12705,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T03:49:28.831Z",
+      "reviewedAt": "2026-10-08T11:22:56.929Z",
       "articleSlug": "coinbase-pro",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -23867,6 +23867,23 @@
           ],
           "reviewedAt": "2026-10-08T11:22:50.660Z",
           "articleSlug": "robinhood-bitcoin"
+        },
+        "697bdf91d6c6d3bd5f3f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drafted report on Coinbase Deribit integration completion, 30B OI, Pro return by year end. Unchained plus Cointelegraph read. Audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:22:56.929Z",
+          "articleSlug": "coinbase-pro"
         }
       },
       "baselineSlugs": [
