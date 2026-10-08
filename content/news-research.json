@@ -13811,11 +13811,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4137662377301d5f7d38",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T11:15:16.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "opinion",
+      "note": "Founder interview view on exchanges; opinion, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:17.392Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f515f2d002b9fe1d6f3d": {
       "source": "Decrypt",
@@ -21156,6 +21161,13 @@
           "note": "CEO conference commentary on wealth models; opinion, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:15.748Z"
+        },
+        "4137662377301d5f7d38": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Founder interview view on exchanges; opinion, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:17.392Z"
         }
       },
       "baselineSlugs": [
