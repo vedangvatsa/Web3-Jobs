@@ -17194,11 +17194,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9c99bbb806b4fba25563",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T14:52:27.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin pullback with 80k-90k Q4 analyst forecast range; prediction framing, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:12.026Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "463e8a4d0d3370904b92": {
       "source": "CoinDesk",
@@ -27169,6 +27174,13 @@
           "note": "Bitcoin ETF exodus and nine-month ether withdrawal flow figures; fund-flow coverage, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:09.464Z"
+        },
+        "9c99bbb806b4fba25563": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin pullback with 80k-90k Q4 analyst forecast range; prediction framing, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:12.026Z"
         }
       },
       "baselineSlugs": [
