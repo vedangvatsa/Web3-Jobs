@@ -5414,20 +5414,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8e3472828ab121b445b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T13:22:16.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
       "note": "Same Strategy Oct 5 filing with 334 BTC buy and STRC buybacks covered by strategy-q3.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:24:15.100Z",
+      "reviewedAt": "2026-10-08T12:14:32.378Z",
       "retrySearches": [
         "Strategy Q3 2026 8-K bitcoin gain STRC repurchase SEC filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "strategy-q3"
+      "duplicateOf": "strategy-q3",
+      "mergedInto": "2981e25a6d7558ccaa5f"
     },
     "33f8a1199da7b9b5f3c4": {
       "source": "Cointelegraph",
@@ -24914,6 +24915,15 @@
           "note": "Same Strategy Oct 5 filing with 334 BTC buy and STRC buybacks covered by strategy-q3.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T12:14:30.543Z",
+          "duplicateOf": "strategy-q3",
+          "mergedInto": "2981e25a6d7558ccaa5f"
+        },
+        "e8e3472828ab121b445b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Strategy Oct 5 filing with 334 BTC buy and STRC buybacks covered by strategy-q3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:14:32.378Z",
           "duplicateOf": "strategy-q3",
           "mergedInto": "2981e25a6d7558ccaa5f"
         }
