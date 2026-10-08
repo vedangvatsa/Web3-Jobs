@@ -4471,23 +4471,27 @@
       "id": "0b668f8eee3f9b807d90",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T19:53:52.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "needs-corroboration",
-      "note": "Cointelegraph read confirms charter bid; needs second outlet or OCC filing.",
+      "note": "Round 3 verified Modern Treasury Oct 5 national trust bank OCC application across company release and BankingDive; draft not yet written.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.bankingdive.com/news/rain-modern-treasury-seek-occ-trust-charters/832257/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-07T03:43:19.182Z",
+      "reviewedAt": "2026-10-08T04:18:15.994Z",
       "retrySearches": [
-        "Modern Treasury trust bank charter OCC application October 2026"
+        "Modern Treasury national trust bank OCC approval status"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "ddbe9d14387a975201fa": {
       "source": "The Defiant",
@@ -22514,6 +22518,25 @@
           "reviewedAt": "2026-10-08T04:18:11.901Z",
           "retrySearches": [
             "Xverse Draper Associates strategic round amount October 2026"
+          ]
+        },
+        "0b668f8eee3f9b807d90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Modern Treasury Oct 5 national trust bank OCC application across company release and BankingDive; draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankingdive.com/news/rain-modern-treasury-seek-occ-trust-charters/832257/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:15.994Z",
+          "retrySearches": [
+            "Modern Treasury national trust bank OCC approval status"
           ]
         }
       },
