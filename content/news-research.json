@@ -12731,11 +12731,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "febbaaae7d96d4c83e87",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T02:30:16.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "duplicate",
+      "note": "Same Samsung Wallet USDC launch (Sui side) already covered by samsung-usdc.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:50:31.291Z",
+      "duplicateOf": "samsung-usdc",
+      "mergedInto": "2a5f0f76edb1ecb37ab3",
+      "lastReviewedDay": "2026-10-08"
     },
     "b5cfc3e7d261d8e4319d": {
       "source": "The Defiant",
@@ -20629,6 +20636,15 @@
           ],
           "reviewedAt": "2026-10-08T03:50:29.508Z",
           "articleSlug": "samsung-usdc"
+        },
+        "febbaaae7d96d4c83e87": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC launch (Sui side) already covered by samsung-usdc.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:50:31.291Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
       },
       "baselineSlugs": [
