@@ -9480,20 +9480,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "baa9316ece00bf2fbe7f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T22:39:09.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "duplicate",
-      "note": "Same Hyperliquid Singapore base and MAS no-license story already covered by the hyperliquid-base draft.",
+      "note": "Same Hyperliquid Singapore base and MAS no-license story covered by hyperliquid-base.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T04:11:33.443Z",
+      "reviewedAt": "2026-10-08T11:24:57.631Z",
       "retrySearches": [
         "Hyperliquid Singapore MAS license October 2026"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "hyperliquid-base"
+      "duplicateOf": "hyperliquid-base",
+      "mergedInto": "dc93e29a726604392489"
     },
     "8f552e99d3474b953c57": {
       "source": "Cointelegraph",
@@ -24445,6 +24446,15 @@
           "reviewedAt": "2026-10-08T11:24:51.331Z",
           "duplicateOf": "sp-vaults",
           "mergedInto": "ba6adb67998afde3dcee"
+        },
+        "baa9316ece00bf2fbe7f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Hyperliquid Singapore base and MAS no-license story covered by hyperliquid-base.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:24:57.631Z",
+          "duplicateOf": "hyperliquid-base",
+          "mergedInto": "dc93e29a726604392489"
         }
       },
       "baselineSlugs": [
