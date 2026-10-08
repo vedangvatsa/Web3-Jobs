@@ -1,5 +1,5 @@
 {
-  "lastIndex": 365,
+  "lastIndex": 367,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -164,7 +164,9 @@
     "pm191",
     "dsci",
     "sec13",
-    "an45"
+    "an45",
+    "mkt81",
+    "mssp"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5169,498 +5171,6 @@
       "verification": "verified"
     },
     {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "0x87cc422a312d3231d986dbe05b8d698bee390b9b",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "0xaaf70374275a166242ef8fd2a22994cf44433a1f",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "0xeceb5236dbce573c0aa6afa3f6a88b9f24dfccc0",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "0x028dc257805d0284cb5b12fb7bf0318e3249375e",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "0x1e1201c4eba400d6fff2d09fbe20ff4058578f60",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "6ac2396ba486988a6e14219e",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "6ac239766f5f5d018d9edd24",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "urn:li:share:7512474941548851200",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm184",
-      "company": "Binance",
-      "title": "Product Compliance Manager (Abu Dhabi Based)",
-      "platform": "facebook",
-      "postedAt": "2026-10-04T11:32:45.224Z",
-      "postId": "691827047618629_1106228918651009",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "x",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "6ac2a9bd63761da98b59fd41",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Bitdeer is hiring Senior/Staff Physical Verification Engineer\n\nhttps://hashtagweb3.com/engineer590/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106829764296134818"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "threads",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "17884610601502731",
-      "verification": "verified",
-      "expectedText": "Bitdeer is hiring Senior/Staff Physical Verification Engineer: https://hashtagweb3.com/engineer590/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeFZH5foHdH",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "bluesky",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx35duxvx726",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xa28a41ca3ada087cdfa7fd7a053c46b5103616e1",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xb32f1c2c2c4063a9bb9ebc6231ca7b5a5add5ade",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xe447e6920bcf448089301c7f5cf0718a7ddc4605",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xb7c64bb7fa9a02cd935db8bc1ee0f56eda585a45",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xaf12d9576076f338919f44ac9e8620e37932c09a",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xbf15a1107f02031f8da81c1c45817b83ca84c4d5",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xabd09f0f6002b972a95feaab4dd2bcdb24d1f9fa",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xbe686e2b5163d4d041bc47fa4eb1c776d0413a0c",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0xbe4b9d984da50142a2c68ada906843c4cf350add",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x9206205d14c22d6b5006622cda711bfada0cf600",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x738b218df6b1c3cc89267ed5d37f02ec3af4063b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x5b08451e20f205238a21081b3b5223599cd85cb4",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x168dce445cf29c14500043b8b88b360287b31c1e",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x9f200276901fd0069fd257412121bc5a3d293366",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x4735aa3f8c300c7e0f46a7501d16804567c9a252",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x3137d5632db75e75dcc936f2d916a2b683b3e7df",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "0x4c9825107f271e55b02bb49a8e287a077f07a265",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "6ac2a9d4283083e601bf23e0",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "6ac2a9de63761da98b59ff83",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "urn:li:share:7512595641328410624",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "engineer590",
-      "company": "Bitdeer",
-      "title": "Senior/Staff Physical Verification Engineer",
-      "platform": "facebook",
-      "postedAt": "2026-10-04T19:32:12.532Z",
-      "postId": "691827047618629_1106570555283512",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "x",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "6ac2a9f263761da98b5a008a",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Kraken is hiring Senior Software Engineer - Full-stack - Growth Product\n\nhttps://hashtagweb3.com/pm183/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2106829985700786546"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "threads",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "18132804403679962",
-      "verification": "verified",
-      "expectedText": "Kraken is hiring Senior Software Engineer - Full-stack - Growth Product: https://hashtagweb3.com/pm183/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeFZOS_IMvG",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "bluesky",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx35ffwh362o",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x9e8f8bbf941b4aa879b2be81fc8063bc3d8837bf",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0xc357a88eeb7e9828f9adaeb8d344c938f4d06eed",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x8c85849d41f391059852322fcf2df8e7cb41efe9",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0xb18a5ab2b5dc7511e912bea478e17b7fc166cca6",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x58ff49e054e4773f6a2daa6b653314d7b32cdf09",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x9ba257c80524c19afa23f45816710dca54228523",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x3e4a5fd36b20419a0790d907d3b89ed8f7999e26",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x58495936744b63fc5c8fe1ee1426b880a368385b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x4e33c9a3c0e7e8e37ec181adaa0c0d87d549d173",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0xbaf07fa9ad91f7d588efc02299e104ce6da3b685",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x254866f3b01438ba488e812665e32187ca9b21ad",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm183",
-      "company": "Kraken",
-      "title": "Senior Software Engineer - Full-stack - Growth Product",
-      "platform": "farcaster",
-      "postedAt": "2026-10-04T19:33:05.785Z",
-      "postId": "0x63cc5f69043ace3a0fe4fe8e04f95cf36182d311",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "pm183",
       "company": "Kraken",
       "title": "Senior Software Engineer - Full-stack - Growth Product",
@@ -10166,6 +9676,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-08T04:30:45.173Z",
       "postId": "691827047618629_1109484558325445",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "x",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "6ac78c4b08d405a9e7ff0b8a",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Coinbase is hiring Senior Marketing Manager, Brand Strategy\n\nhttps://hashtagweb3.com/mkt81/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108172536949178775"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "threads",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "17891491743446985",
+      "verification": "verified",
+      "expectedText": "Coinbase is hiring Senior Marketing Manager, Brand Strategy: https://hashtagweb3.com/mkt81/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeO7vv8muNa",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "bluesky",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxehipl6z32h",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0xf4898bb696abfce05a3671973a01cca5cf30e8b7",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0xcf59a2edece52313043e05b760f2e608635a31bd",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0xa672835adbc5905f1678baa2950f1e005209c18f",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x3ca322cfd831e9f6463f59152c90590976982ab1",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x74ff27e38aeed2665e38689834b47bb46779b94c",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0xcfb800d31f45c75800a315525676bacf80698970",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x5dfc1f38cda0f57b61671f46fea7ac48ea8f48a0",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0xfd3e154ae31eda2ab9228fd11fb328e71a2f2eb3",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x1a0d1134e57836192b1cd59ebfca2a9588f1991f",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x1bdddaea7b145cb71be0ff4da9a58fd15918d14a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0xc38bc430ad84f89b729e6839d2eff832ce9061ba",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x4b29324bd6fa374ccc2e98546aa3d5b47c785692",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x8fff41613d5e51c1c70717b4066826ac57fea7d9",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x851e8cfa8d6a2225f1a9300a01506f95beace74b",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0xb3b9bbced9d99ff54b196b71512f1c5b53d352dd",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x5b5b4f6cf53f5627ccf6c6b9aa31ff7b556b51f9",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "0x7214b1d4f96f19de225e5360ed07500ceae002d3",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "6ac78c5d08d405a9e7ff0dee",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "6ac78c67daf7bb7cba1f1fff",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "urn:li:share:7513938396180840448",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt81",
+      "company": "Coinbase",
+      "title": "Senior Marketing Manager, Brand Strategy",
+      "platform": "facebook",
+      "postedAt": "2026-10-08T12:27:54.650Z",
+      "postId": "691827047618629_1109788391628395",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "x",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "6ac78c7c82db5af660c314cc",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Monetization Services Specialist - Pricing Activation\n\nhttps://hashtagweb3.com/mssp/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108172744432975986"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "threads",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "18208505119365099",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Monetization Services Specialist - Pricing Activation: https://hashtagweb3.com/mssp/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeO71tXmr8H",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "bluesky",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxehk5tvi72v",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x1c4ac6ee573b8df61bd7175c17a5c6f588cf9942",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x9ab45a0bedb14a1cc9d1fec19c5f119af8d00f6e",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0xdaf79a3a51dcef48e823b2107e4d4ae5f99a18a6",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x113f16de59bbed7a3e6e25a482fe887c447915db",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x38b65d6de3b65b0ba074fb9ca02bb4bbe864d708",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x1ef94085fd1a79d26d0a1852a39f1814a54bc61f",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0xaf10b4761741bf84a333cf8c07dcb6157a30a414",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x582a76e3dd830f0cc09dbe053a181d246bfbe4b4",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x85183fd4d8caa2c580fadf465998321c69256963",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0xb73c05812f897efd3cfe60d2664eeedaaa896c2a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x6e0119a5bcc97488efc317f063600cfec4a5e1ff",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x72b4ee5c27186b6e3daff0a9405e362b32dafa6e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x94d5f9fb6868bdc7733df333435f08f5b0b2b70b",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0xb72b779d32d0a7ea6c2d604097d2f61ed437be02",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0xcf6c52a0d5e3238b415f153522416093f8a7f3b4",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0xebe42f8ef635cbde96eda3ad78738a3b029c67b6",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "farcaster",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "0x8f5dfc20cf036d8a5198139621955aff8cdc9749",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "6ac78c8edaf7bb7cba1f24a8",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "6ac78c98daf7bb7cba1f266c",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "linkedin",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "urn:li:share:7513938597964677120",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mssp",
+      "company": "Stripe",
+      "title": "Monetization Services Specialist - Pricing Activation",
+      "platform": "facebook",
+      "postedAt": "2026-10-08T12:28:44.299Z",
+      "postId": "691827047618629_1109788881628346",
       "verification": "verified"
     }
   ]
