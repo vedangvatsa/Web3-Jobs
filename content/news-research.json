@@ -16032,11 +16032,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "05e2be220e67b4d8f1e9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T08:08:03.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph version of StanChart Singapore custody plan; same missing assets and date gap as CoinDesk version.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:28:53.089Z",
+      "retrySearches": [
+        "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "82a8a22ee00a5925034e": {
       "source": "Cointelegraph",
@@ -25311,6 +25325,21 @@
             }
           ],
           "reviewedAt": "2026-10-08T11:28:51.019Z",
+          "retrySearches": [
+            "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+          ]
+        },
+        "05e2be220e67b4d8f1e9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph version of StanChart Singapore custody plan; same missing assets and date gap as CoinDesk version.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:28:53.089Z",
           "retrySearches": [
             "Standard Chartered Singapore crypto custody supported assets launch date MAS"
           ]
