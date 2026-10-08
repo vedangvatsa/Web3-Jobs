@@ -13674,11 +13674,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "2c1699713477803bf1b1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T08:50:02.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Lee 5 percent hard-cap remarks at TOKEN2049 and 6.01M ETH position across CoinDesk and Cointelegraph; fixed description target to 6.11M.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:48:57.425Z",
+      "articleSlug": "bitmine-cap",
+      "lastReviewedDay": "2026-10-08"
     },
     "6432dc3868c75a80c0ef": {
       "source": "The Block",
@@ -20232,6 +20247,23 @@
           ],
           "reviewedAt": "2026-10-08T03:44:01.170Z",
           "articleSlug": "robinhood-bitcoin"
+        },
+        "2c1699713477803bf1b1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Lee 5 percent hard-cap remarks at TOKEN2049 and 6.01M ETH position across CoinDesk and Cointelegraph; fixed description target to 6.11M.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:48:57.425Z",
+          "articleSlug": "bitmine-cap"
         }
       },
       "baselineSlugs": [
