@@ -3475,20 +3475,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0b0d10208ecb3f50cbc4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T17:30:29.000Z",
       "lastSeenAt": "2026-10-06T03:31:57.325Z",
       "reason": "duplicate",
       "note": "Same Strategy Oct 5 filing with 334 BTC buy and STRC buybacks covered by strategy-q3.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:24:10.955Z",
+      "reviewedAt": "2026-10-08T12:14:28.252Z",
       "retrySearches": [
         "Strategy 334 bitcoin STRC buyback October 2026 filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "strategy-q3"
+      "duplicateOf": "strategy-q3",
+      "mergedInto": "2981e25a6d7558ccaa5f"
     },
     "cfc9f386bb32f544ad69": {
       "source": "Cointelegraph",
@@ -24896,6 +24897,15 @@
           ],
           "reviewedAt": "2026-10-08T12:14:19.775Z",
           "articleSlug": "greece-tax"
+        },
+        "0b0d10208ecb3f50cbc4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Strategy Oct 5 filing with 334 BTC buy and STRC buybacks covered by strategy-q3.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:14:28.252Z",
+          "duplicateOf": "strategy-q3",
+          "mergedInto": "2981e25a6d7558ccaa5f"
         }
       },
       "baselineSlugs": [
