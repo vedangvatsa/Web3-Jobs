@@ -13483,11 +13483,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1016b5ea433bb06db24",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T14:20:01.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified Moodys B3 stable outlook and reserves across PRNewswire announcement and CryptoBriefing.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/moodys-ratings-assigns-first-issuer-rating-to-sky-protocol-302900578.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/moodys-b3-rating-sky-protocol/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:50:53.299Z",
+      "articleSlug": "sky-rating",
+      "lastReviewedDay": "2026-10-08"
     },
     "9947fd6054fa80daa4d4": {
       "source": "CoinDesk",
@@ -20725,6 +20740,23 @@
           "reviewedAt": "2026-10-08T03:50:51.430Z",
           "duplicateOf": "seized-crypto",
           "mergedInto": "123b0a703647ad531e85"
+        },
+        "e1016b5ea433bb06db24": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Moodys B3 stable outlook and reserves across PRNewswire announcement and CryptoBriefing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/moodys-ratings-assigns-first-issuer-rating-to-sky-protocol-302900578.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/moodys-b3-rating-sky-protocol/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:50:53.299Z",
+          "articleSlug": "sky-rating"
         }
       },
       "baselineSlugs": [
