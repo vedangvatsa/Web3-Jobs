@@ -6433,23 +6433,23 @@
       "id": "3b8e7f5855b0bac51d08",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T07:01:00.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
       "reason": "source-blocked",
-      "note": "Bringin launch traces to company release; origin blocked, needs independent newsroom.",
+      "note": "Bringin euro-accounts launch traces to company release with blocked origin; needs independent newsroom coverage.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:47:51.459Z",
+      "reviewedAt": "2026-10-08T04:18:26.664Z",
       "retrySearches": [
-        "Bringin business euro accounts bitcoin companies October 2026"
+        "Bringin euro business accounts bitcoin companies launch"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "8d2163e404efe8af41ac": {
       "source": "BeInCrypto",
@@ -22605,6 +22605,21 @@
           "reviewedAt": "2026-10-08T04:18:24.939Z",
           "retrySearches": [
             "Katerini crypto pyramid pretrial detention soldiers October 2026"
+          ]
+        },
+        "3b8e7f5855b0bac51d08": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bringin euro-accounts launch traces to company release with blocked origin; needs independent newsroom coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:18:26.664Z",
+          "retrySearches": [
+            "Bringin euro business accounts bitcoin companies launch"
           ]
         }
       },
