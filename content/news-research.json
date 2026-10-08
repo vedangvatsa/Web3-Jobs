@@ -19406,11 +19406,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "991944270ef04227dd5e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:00:13.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin buy-wall and liquidation bloodbath framing is price-action coverage with no concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:47.619Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "8ffe5aac80ee4f8e44aa": {
       "source": "CryptoSlate",
@@ -29034,6 +29039,13 @@
           "note": "Bitcoin intraday rebound framed around Trump and Iran headlines is price movement coverage with no concrete crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:45.603Z"
+        },
+        "991944270ef04227dd5e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin buy-wall and liquidation bloodbath framing is price-action coverage with no concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:47.619Z"
         }
       },
       "baselineSlugs": [
