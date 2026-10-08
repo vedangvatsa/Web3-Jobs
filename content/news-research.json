@@ -12122,11 +12122,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "36c61b06f6a67f1e56db",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T15:34:31.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin dip on oil shock with what-next framing; price coverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:32.317Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "ade598fafc851e3c912b": {
       "source": "CryptoSlate",
@@ -20928,6 +20933,13 @@
           "note": "Bitcoin-under-83k oil-driven price move; market-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:30.725Z"
+        },
+        "36c61b06f6a67f1e56db": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin dip on oil shock with what-next framing; price coverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:32.317Z"
         }
       },
       "baselineSlugs": [
