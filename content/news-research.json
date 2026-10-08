@@ -12167,17 +12167,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c65ec88a9d5f318eeff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T16:14:51.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Russia first crypto registers with Sberbank custody covered by sberbank-register.",
+      "note": "Same Russia first registers with Sberbank custody covered by sberbank-register in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:15:58.936Z",
+      "reviewedAt": "2026-10-08T18:51:44.357Z",
       "duplicateOf": "sberbank-register",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "c4f3f560217dd042e479"
     },
     "ba0c708aa9eb48adefba": {
       "source": "Bitcoin Magazine",
@@ -28512,6 +28513,15 @@
           "reviewedAt": "2026-10-08T18:51:42.264Z",
           "duplicateOf": "gsr-hare",
           "mergedInto": "1b3b9cc46940d7e87b52"
+        },
+        "8c65ec88a9d5f318eeff": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Russia first registers with Sberbank custody covered by sberbank-register in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:51:44.357Z",
+          "duplicateOf": "sberbank-register",
+          "mergedInto": "c4f3f560217dd042e479"
         }
       },
       "baselineSlugs": [
