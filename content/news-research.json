@@ -13443,11 +13443,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "9f85525ff3fef5b2cbb9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T21:00:00.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 verified Spalletta Uranium conviction across crypto-economy; BeInCrypto origin blocked, needs sentencing-date follow and second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://crypto-economy.com/pokemon-collector-convicted-in-major-crypto-hack-and-money-laundering-case/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/crypto-hacker-pokemon-cards-convicted/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:24.034Z",
+      "retrySearches": [
+        "Jonathan Spalletta sentencing date Uranium Finance restitution"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "7fd40f5fea63e1a31461": {
       "source": "Decrypt",
@@ -22990,6 +23008,25 @@
           "reviewedAt": "2026-10-08T04:19:22.277Z",
           "retrySearches": [
             "Binance bStocks JPMorgan Eli Lilly margin collateral Backed"
+          ]
+        },
+        "9f85525ff3fef5b2cbb9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Spalletta Uranium conviction across crypto-economy; BeInCrypto origin blocked, needs sentencing-date follow and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://crypto-economy.com/pokemon-collector-convicted-in-major-crypto-hack-and-money-laundering-case/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/crypto-hacker-pokemon-cards-convicted/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:24.034Z",
+          "retrySearches": [
+            "Jonathan Spalletta sentencing date Uranium Finance restitution"
           ]
         }
       },
