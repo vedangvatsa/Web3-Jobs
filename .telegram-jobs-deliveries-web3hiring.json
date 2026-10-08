@@ -2162,7 +2162,7 @@
     "sentAt": "2026-10-08T04:29:58.480Z"
   },
   "5469556f-451f-409d-b82b-18207b4a813f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-08T12:28:16.361Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -2203,6 +2203,8 @@
       }
     ],
     "message": "• Lightning Labs is hiring <a href=\"https://hashtagweb3.com/product3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Product Manager</a>\n• Zero Hash is hiring <a href=\"https://hashtagweb3.com/vp10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Liquidity &amp; Exchange Services</a>\n• DriveWealth is hiring <a href=\"https://hashtagweb3.com/eng101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Principal Software Development Engineer</a>\n• Arbitrum is hiring <a href=\"https://hashtagweb3.com/marketing10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Ecosystem Growth</a>\n• Kraken is hiring <a href=\"https://hashtagweb3.com/rust15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>",
-    "slotKey": "2026-10-08:afternoon"
+    "slotKey": "2026-10-08:afternoon",
+    "messageId": 16519,
+    "sentAt": "2026-10-08T12:28:25.741Z"
   }
 }
