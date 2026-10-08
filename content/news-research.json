@@ -16053,11 +16053,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4160479ec2ff507b5ccc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T08:14:49.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto tokenization summit page returned 403; event promo versus news outcome unclear.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/digital-assets-tokenization-summit-singapore/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:29:27.362Z",
+      "retrySearches": [
+        "Digital Assets Tokenization Summit Singapore October 2026 announcements"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "05e2be220e67b4d8f1e9": {
       "source": "Cointelegraph",
@@ -25574,6 +25588,21 @@
           "reviewedAt": "2026-10-08T11:29:25.361Z",
           "retrySearches": [
             "ASICID new crypto miners release October 2026 independent coverage"
+          ]
+        },
+        "4160479ec2ff507b5ccc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto tokenization summit page returned 403; event promo versus news outcome unclear.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/digital-assets-tokenization-summit-singapore/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:29:27.362Z",
+          "retrySearches": [
+            "Digital Assets Tokenization Summit Singapore October 2026 announcements"
           ]
         }
       },
