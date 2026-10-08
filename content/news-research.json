@@ -19084,11 +19084,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "78edccd870113509675c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T18:23:35.000Z",
-      "lastSeenAt": "2026-10-08T19:31:31.819Z"
+      "lastSeenAt": "2026-10-08T19:31:31.819Z",
+      "reason": "needs-corroboration",
+      "note": "Defiant Oct 8 reaffirmation of the 210M APT lock returns HTTP 403; CryptoBriefing Oct 8 piece read but the underlying commitment dates to the February tokenomics update, so a fresh primary Foundation statement is needed to treat this as a new event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/aptos-foundation-locks-210m-apt-staking/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/tokens/aptos-reaffirms-210-million-apt-lock-as-insider-unlock-cycle-nears-end",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T20:08:29.118Z",
+      "retrySearches": [
+        "Aptos Foundation October 8 2026 210 million APT lock permanent stake primary announcement X post"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "1d927b5b07d0b2763551": {
       "source": "Bankless",
@@ -29352,6 +29370,25 @@
           "reviewedAt": "2026-10-08T20:08:26.742Z",
           "retrySearches": [
             "Aave V3 Monad PT-AUSD-17DEC2026 listing executed October 8 AIP execution second outlet"
+          ]
+        },
+        "78edccd870113509675c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Defiant Oct 8 reaffirmation of the 210M APT lock returns HTTP 403; CryptoBriefing Oct 8 piece read but the underlying commitment dates to the February tokenomics update, so a fresh primary Foundation statement is needed to treat this as a new event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/aptos-foundation-locks-210m-apt-staking/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/tokens/aptos-reaffirms-210-million-apt-lock-as-insider-unlock-cycle-nears-end",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T20:08:29.118Z",
+          "retrySearches": [
+            "Aptos Foundation October 8 2026 210 million APT lock permanent stake primary announcement X post"
           ]
         }
       },
