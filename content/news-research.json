@@ -12219,17 +12219,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd6f0fa3b3457591b9c7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T15:55:20.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Ledger Morpho bitcoin loans launch covered by ledger-loans.",
+      "note": "Same Ledger Morpho bitcoin loans launch covered by ledger-loans in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T12:16:00.838Z",
+      "reviewedAt": "2026-10-08T18:51:10.468Z",
       "duplicateOf": "ledger-loans",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "mergedInto": "7d334a722b2c2115415a"
     },
     "858583e197c522a902a7": {
       "source": "Bankless",
@@ -28382,6 +28383,15 @@
           "reviewedAt": "2026-10-08T18:51:08.483Z",
           "duplicateOf": "storm-venue",
           "mergedInto": "4954b8be94596f23a77e"
+        },
+        "bd6f0fa3b3457591b9c7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger Morpho bitcoin loans launch covered by ledger-loans in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:51:10.468Z",
+          "duplicateOf": "ledger-loans",
+          "mergedInto": "7d334a722b2c2115415a"
         }
       },
       "baselineSlugs": [
