@@ -19549,11 +19549,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb1101206c25f4465b27",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T22:00:06.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "price-chatter",
+      "note": "PumpFun memecoin crash-rate analysis is market-performance commentary with no concrete event or filing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:59:56.446Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "ac581fb09a7a22009e10": {
       "source": "The Defiant",
@@ -29070,6 +29075,13 @@
           "note": "XRP circulating-supply explainer answers what buyers get, an educational piece with no dated event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:51.754Z"
+        },
+        "eb1101206c25f4465b27": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "PumpFun memecoin crash-rate analysis is market-performance commentary with no concrete event or filing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:59:56.446Z"
         }
       },
       "baselineSlugs": [
