@@ -84,6 +84,10 @@
     "2026-10-07:evening": [
       "engineer816",
       "sls137"
+    ],
+    "2026-10-08:morning": [
+      "analyst30",
+      "mgr81"
     ]
   },
   "jobs": {
@@ -1550,6 +1554,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7694011957547896097"
         }
       }
+    },
+    "analyst30": {
+      "slot": "2026-10-08:morning",
+      "selectedAt": "2026-10-08T03:31:07.992Z",
+      "verifiedAt": "2026-10-08T03:31:07.992Z",
+      "captions": {
+        "instagram": "Senior BI Analyst at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Senior BI Analyst at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior BI Analyst at Nexo"
+      },
+      "receipts": {}
+    },
+    "mgr81": {
+      "slot": "2026-10-08:morning",
+      "selectedAt": "2026-10-08T03:31:07.993Z",
+      "verifiedAt": "2026-10-08T03:31:07.993Z",
+      "captions": {
+        "instagram": "Partner Development Manager, Global Payment Methods at Stripe\n\nLondon\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Partner Development Manager, Global Payment Methods at Stripe. London.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "London\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Partner Development Manager, Global Payment Methods at Stripe"
+      },
+      "receipts": {}
     }
   }
 }
