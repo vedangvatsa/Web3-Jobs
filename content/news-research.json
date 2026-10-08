@@ -12013,28 +12013,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "123b0a703647ad531e85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T16:56:56.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Oct 7 US 103M BTC-plus-BNB Coinbase Prime moves with HashFlare-Bitfinex-Alameda provenance plus 470M tally and reserve policy. Distinct from Oct 8 1B Bitfinex move. Decrypt, Unchained and CryptoSlate read; all gates pass.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/u-s-government-moves-103-million-in-seized-bitcoin-and-bnb-sending-btc-to-coinbase-prime/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T20:06:06.694Z",
+      "reason": "duplicate",
+      "note": "Same-week US seized-crypto Coinbase flows with Oct 7 03M BTC-plus-BNB detail covered as context by bitfinex-move.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T23:58:48.327Z",
       "articleSlug": "seized-crypto",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -12044,7 +12031,9 @@
         "sberbank-register.md: under 600 words",
         "stanchart-custody.md: under 600 words",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
-      ]
+      ],
+      "duplicateOf": "bitfinex-move",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "315f594c1f4585bf6ecf": {
       "source": "Bitcoin Magazine",
@@ -28840,6 +28829,15 @@
           "note": "Same Oct 8 US B seized bitcoin transfer as covered by bitfinex-move in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:58:43.409Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "123b0a703647ad531e85": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same-week US seized-crypto Coinbase flows with Oct 7 03M BTC-plus-BNB detail covered as context by bitfinex-move.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T23:58:48.327Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
