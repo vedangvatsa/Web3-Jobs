@@ -5386,20 +5386,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "53cd0a8a368388dea5ce",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-08T13:23:07.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
       "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T11:24:41.022Z",
+      "reviewedAt": "2026-10-08T12:14:40.024Z",
       "retrySearches": [
         "Bitmine 15112 ETH purchase October 2026 filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "bitmine-cap"
+      "duplicateOf": "bitmine-cap",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "e8e3472828ab121b445b": {
       "source": "Cointelegraph",
@@ -24954,6 +24955,15 @@
           "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T12:14:38.080Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
+        },
+        "53cd0a8a368388dea5ce": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T12:14:40.024Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
         }
