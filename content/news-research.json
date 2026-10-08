@@ -13080,11 +13080,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7c27eb21fe1a04b0304",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T00:27:27.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "promotional",
+      "note": "Exchange anniversary PR; self-promotion, no news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:54:10.442Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "8159be2c028b15feea4f": {
       "source": "BeInCrypto",
@@ -21444,6 +21449,13 @@
           "note": "Exchange card product review; sponsored-style product promotion.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:54:08.835Z"
+        },
+        "f7c27eb21fe1a04b0304": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Exchange anniversary PR; self-promotion, no news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:54:10.442Z"
         }
       },
       "baselineSlugs": [
