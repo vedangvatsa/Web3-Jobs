@@ -13818,13 +13818,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b3b9cc46940d7e87b52",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T16:55:22.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Wrote gsr-hare (700 words): GSR 100M Hare vault business with Turtle, Aave products and launch details. CoinDesk plus DeFiPrime read. All gates pass.",
+      "note": "Wrote gsr-hare (823 words): GSR 100M Hare vault business with Turtle and Aave stablecoin plus gold vaults coming soon. CoinDesk, DeFiPrime and CryptoBriefing read; Defiant blocked. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
@@ -13835,11 +13835,11 @@
           "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/defi/gsr-commits-100-million-to-hare-vault-business",
-          "outcome": "blocked"
+          "url": "https://cryptobriefing.com/gsr-commits-100m-hare-onchain-vault/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T12:13:53.323Z",
+      "reviewedAt": "2026-10-08T18:49:16.457Z",
       "articleSlug": "gsr-hare",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -27889,6 +27889,27 @@
           ],
           "reviewedAt": "2026-10-08T18:49:11.561Z",
           "articleSlug": "sky-rating"
+        },
+        "1b3b9cc46940d7e87b52": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote gsr-hare (823 words): GSR 100M Hare vault business with Turtle and Aave stablecoin plus gold vaults coming soon. CoinDesk, DeFiPrime and CryptoBriefing read; Defiant blocked. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defiprime.com/gsr-launches-hare-onchain-vault-curation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/gsr-commits-100m-hare-onchain-vault/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:49:16.457Z",
+          "articleSlug": "gsr-hare"
         }
       },
       "baselineSlugs": [
