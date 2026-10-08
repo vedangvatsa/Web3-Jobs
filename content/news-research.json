@@ -12305,11 +12305,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5ff173456b73cda92633",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T11:30:00.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Breakout-level prediction piece on what bitcoin needs for 87k; forecast, not event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:37.247Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "acafca0ccca590f85306": {
       "source": "CoinDesk",
@@ -20964,6 +20969,13 @@
           "note": "Bitcoin October-low price coverage tied to bond selloff; no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:35.669Z"
+        },
+        "5ff173456b73cda92633": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Breakout-level prediction piece on what bitcoin needs for 87k; forecast, not event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:37.247Z"
         }
       },
       "baselineSlugs": [
