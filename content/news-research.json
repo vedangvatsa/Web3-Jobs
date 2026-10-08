@@ -11780,11 +11780,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5e3509b7c11a0d8b4664",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T20:24:56.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "source-blocked",
+      "note": "Binance bStocks JPMorgan Eli Lilly margin collateral seen only in blocked Defiant origin; needs exchange notice or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-adds-jpmorgan-and-eli-lilly-bstocks-as-margin-collateral",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:22.277Z",
+      "retrySearches": [
+        "Binance bStocks JPMorgan Eli Lilly margin collateral Backed"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "5e818d6c7c2ca5d7595e": {
       "source": "Decrypt",
@@ -22961,6 +22975,21 @@
           "reviewedAt": "2026-10-08T04:19:18.467Z",
           "retrySearches": [
             "Tereina SAP Pay USDC proof-of-value enterprise rollout"
+          ]
+        },
+        "5e3509b7c11a0d8b4664": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Binance bStocks JPMorgan Eli Lilly margin collateral seen only in blocked Defiant origin; needs exchange notice or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-adds-jpmorgan-and-eli-lilly-bstocks-as-margin-collateral",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:22.277Z",
+          "retrySearches": [
+            "Binance bStocks JPMorgan Eli Lilly margin collateral Backed"
           ]
         }
       },
