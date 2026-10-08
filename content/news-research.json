@@ -17395,11 +17395,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b96173e2efc90a15dd3e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T13:00:24.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin Wall Street-open weakness with Coinbase discount framing; intraday price coverage, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:33.730Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "96c04b2d83f02153f42e": {
       "source": "BeInCrypto",
@@ -27253,6 +27258,13 @@
           "note": "Money20/20 event press release on bitcoin stablecoins and AI; conference promo, no news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:30.672Z"
+        },
+        "b96173e2efc90a15dd3e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin Wall Street-open weakness with Coinbase discount framing; intraday price coverage, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:33.730Z"
         }
       },
       "baselineSlugs": [
