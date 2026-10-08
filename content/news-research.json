@@ -14076,13 +14076,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1016b5ea433bb06db24",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T14:20:01.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Drafted report on Moody's B3 Sky rating, 90M buffer vs 10B assets, 150M reserve target. CryptoBriefing plus Sky primary read. Audits pass.",
+      "note": "Wrote sky-rating (727 words): Moody's B3 Sky rating, 90M buffer vs 10B assets, 150M reserve target. CryptoBriefing plus Sky primary read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/moodys-b3-rating-sky-protocol/",
@@ -14091,9 +14091,13 @@
         {
           "url": "https://insights.skyeco.com/insights/moodys-ratings-assigns-rating-to-sky-protocol",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:23:09.657Z",
+      "reviewedAt": "2026-10-08T12:13:59.011Z",
       "articleSlug": "sky-rating",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24749,6 +24753,27 @@
           ],
           "reviewedAt": "2026-10-08T12:13:57.356Z",
           "articleSlug": "polygon-tron"
+        },
+        "e1016b5ea433bb06db24": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote sky-rating (727 words): Moody's B3 Sky rating, 90M buffer vs 10B assets, 150M reserve target. CryptoBriefing plus Sky primary read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/moodys-b3-rating-sky-protocol/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://insights.skyeco.com/insights/moodys-ratings-assigns-rating-to-sky-protocol",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:13:59.011Z",
+          "articleSlug": "sky-rating"
         }
       },
       "baselineSlugs": [
