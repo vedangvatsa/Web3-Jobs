@@ -13554,11 +13554,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "40fe1ba3ce7ff9326b39",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:00:29.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "not-a-concrete-event",
+      "note": "Non-announcement: CEO declined to discuss a token; no event occurred.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:30.436Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "de4721c62db6c99cdb0f": {
       "source": "CoinDesk",
@@ -21252,6 +21257,13 @@
           "note": "Policy-interview views on exchanges adopting blockchains; opinion, not an event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:28.708Z"
+        },
+        "40fe1ba3ce7ff9326b39": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Non-announcement: CEO declined to discuss a token; no event occurred.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:30.436Z"
         }
       },
       "baselineSlugs": [
