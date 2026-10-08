@@ -14006,13 +14006,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "063f2939659560bacb86",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T16:30:00.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Wrote polygon-tron (757 words): Polygon Open Money Stack TRON support for 94B USDT with 48-state rails and cross-border flow. CoinDesk, CryptoBriefing, Crypto Times and Polygon blog read. All gates pass.",
+      "note": "Polygon Open Money Stack TRON support for 94B USDT with 48-state rails and cross-border flow. CoinDesk, CryptoBriefing and Polygon blog read; all gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
@@ -14027,7 +14027,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:49:46.654Z",
+      "reviewedAt": "2026-10-08T20:06:31.500Z",
       "articleSlug": "polygon-tron",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -28655,6 +28655,27 @@
           ],
           "reviewedAt": "2026-10-08T20:06:29.663Z",
           "articleSlug": "cardano-standard"
+        },
+        "063f2939659560bacb86": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Polygon Open Money Stack TRON support for 94B USDT with 48-state rails and cross-border flow. CoinDesk, CryptoBriefing and Polygon blog read; all gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/tron-integrates-polygon-open-money-stack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://polygon.technology/blog/polygon-oms-supports-tron",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T20:06:31.500Z",
+          "articleSlug": "polygon-tron"
         }
       },
       "baselineSlugs": [
