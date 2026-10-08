@@ -16948,11 +16948,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a9eb98459b549dbf0199",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T15:42:16.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read Decrypt Oct 8 Money Accounts Solana launch; outlet covering its own product with partners unnamed, needs independent coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:13.362Z",
+      "retrySearches": [
+        "Decrypt Money Accounts Solana Information Exchange independent coverage"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "2207f988a382d5c483da": {
       "source": "CryptoSlate",
@@ -26760,6 +26774,21 @@
           "reviewedAt": "2026-10-08T18:17:11.170Z",
           "retrySearches": [
             "EDX VerifiedX vBTC validator partnership second outlet"
+          ]
+        },
+        "a9eb98459b549dbf0199": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read Decrypt Oct 8 Money Accounts Solana launch; outlet covering its own product with partners unnamed, needs independent coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:13.362Z",
+          "retrySearches": [
+            "Decrypt Money Accounts Solana Information Exchange independent coverage"
           ]
         }
       },
