@@ -11341,11 +11341,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7e098f9cba997973da18",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:54:42.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "stale",
+      "note": "Injective Meridian upgrade went live Sept 24; the Oct 7 piece is a recap outside the window.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:17:52.834Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "bd6bc2888d94ff041abd": {
       "source": "CryptoSlate",
@@ -22311,6 +22321,18 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:17:51.152Z",
           "duplicateOf": "davis-bill"
+        },
+        "7e098f9cba997973da18": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Injective Meridian upgrade went live Sept 24; the Oct 7 piece is a recap outside the window.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:17:52.834Z"
         }
       },
       "baselineSlugs": [
