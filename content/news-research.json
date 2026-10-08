@@ -10743,23 +10743,31 @@
       "id": "abfda675cf9bb2ba7634",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-09T21:59:32.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Defiant page blocked; Kalshi US500 launch needs company page plus two openable independents.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 verified Kalshi US500 perpetual launch Oct 6 across Kalshi certification docs and FinanceMagnates; distinct from kalshi-gold, draft not yet written.",
       "sourceChecks": [
+        {
+          "url": "https://kalshi-public-docs.s3.amazonaws.com/regulatory/product-certifications/US500.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-07T03:48:45.821Z",
+      "reviewedAt": "2026-10-08T04:19:02.591Z",
       "retrySearches": [
-        "Kalshi US 500 perpetual launch trading October 2026 CFTC"
+        "Kalshi US500 perpetual volume trading debut week"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "824d47be55685a7a0430": {
       "source": "Bitcoin Magazine",
@@ -22818,6 +22826,29 @@
           "reviewedAt": "2026-10-08T04:19:00.878Z",
           "retrySearches": [
             "Amir Taaki Singapore deportation reason confirmation"
+          ]
+        },
+        "abfda675cf9bb2ba7634": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 verified Kalshi US500 perpetual launch Oct 6 across Kalshi certification docs and FinanceMagnates; distinct from kalshi-gold, draft not yet written.",
+          "sourceChecks": [
+            {
+              "url": "https://kalshi-public-docs.s3.amazonaws.com/regulatory/product-certifications/US500.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:02.591Z",
+          "retrySearches": [
+            "Kalshi US500 perpetual volume trading debut week"
           ]
         }
       },
