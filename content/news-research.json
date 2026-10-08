@@ -17436,11 +17436,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6f421eab942d61e269b4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T16:25:06.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 read Cointelegraph Oct 8 IMF tokenized-markets analysis with 65B figure; needs IMF post and second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T18:17:22.203Z",
+      "retrySearches": [
+        "IMF tokenized markets October 2026 analysis second outlet"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "54e70e74dd24c8a9a2ef": {
       "source": "CryptoSlate",
@@ -26818,6 +26832,21 @@
           "reviewedAt": "2026-10-08T18:17:19.689Z",
           "retrySearches": [
             "NUVA HOME token Figure HELOC launch second report"
+          ]
+        },
+        "6f421eab942d61e269b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 read Cointelegraph Oct 8 IMF tokenized-markets analysis with 65B figure; needs IMF post and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T18:17:22.203Z",
+          "retrySearches": [
+            "IMF tokenized markets October 2026 analysis second outlet"
           ]
         }
       },
