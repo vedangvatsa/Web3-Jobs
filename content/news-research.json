@@ -13560,11 +13560,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "47cf80c8527a6cb00bc3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T18:59:32.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "needs-corroboration",
+      "note": "Wells Fargo-Payward talks rest on two anonymous sources with both sides declining comment; needs confirmation or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T04:19:25.904Z",
+      "retrySearches": [
+        "Wells Fargo Payward Kraken crypto trading confirmation"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "54f3eed624c0da1f9f8b": {
       "source": "Decrypt",
@@ -23027,6 +23041,21 @@
           "reviewedAt": "2026-10-08T04:19:24.034Z",
           "retrySearches": [
             "Jonathan Spalletta sentencing date Uranium Finance restitution"
+          ]
+        },
+        "47cf80c8527a6cb00bc3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Wells Fargo-Payward talks rest on two anonymous sources with both sides declining comment; needs confirmation or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T04:19:25.904Z",
+          "retrySearches": [
+            "Wells Fargo Payward Kraken crypto trading confirmation"
           ]
         }
       },
