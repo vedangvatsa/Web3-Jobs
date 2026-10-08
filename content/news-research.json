@@ -12551,11 +12551,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8dd8b619dcfc45ca1e82",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T09:45:35.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "550M liquidation tally on bitcoin dip; same price event as other liquidation items.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:50.686Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "cd86457c4b35b8968b5c": {
       "source": "Cointelegraph",
@@ -21012,6 +21017,13 @@
           "note": "Leveraged-long liquidation tally on bitcoin drop; price-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:49.052Z"
+        },
+        "8dd8b619dcfc45ca1e82": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "550M liquidation tally on bitcoin dip; same price event as other liquidation items.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:50.686Z"
         }
       },
       "baselineSlugs": [
