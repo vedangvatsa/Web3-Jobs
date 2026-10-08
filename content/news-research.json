@@ -15266,11 +15266,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "64113d8e816512d7bbf0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T10:30:41.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin slide framed around bunker-mode debate; price move without new event, underlying story covered by bunker-mode.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T11:27:15.059Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "2e6ffb8c92db82be0c54": {
       "source": "CryptoSlate",
@@ -25041,6 +25046,13 @@
           "note": "Pi Network support-level price note, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:27:13.006Z"
+        },
+        "64113d8e816512d7bbf0": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin slide framed around bunker-mode debate; price move without new event, underlying story covered by bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:27:15.059Z"
         }
       },
       "baselineSlugs": [
