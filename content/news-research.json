@@ -11839,11 +11839,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "123b0a703647ad531e85",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:56:56.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "verified-event",
+      "note": "Verified 833.6 BTC to Coinbase Prime and 40285 BNB moves via Decrypt; 470M tranche via CryptoSlate.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-08T03:50:46.036Z",
+      "articleSlug": "seized-crypto",
+      "lastReviewedDay": "2026-10-08"
     },
     "315f594c1f4585bf6ecf": {
       "source": "Bitcoin Magazine",
@@ -20645,6 +20660,23 @@
           "reviewedAt": "2026-10-08T03:50:31.291Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "123b0a703647ad531e85": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 833.6 BTC to Coinbase Prime and 40285 BNB moves via Decrypt; 470M tranche via CryptoSlate.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T03:50:46.036Z",
+          "articleSlug": "seized-crypto"
         }
       },
       "baselineSlugs": [
