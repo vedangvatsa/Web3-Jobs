@@ -88,6 +88,10 @@
     "2026-10-08:morning": [
       "analyst30",
       "mgr81"
+    ],
+    "2026-10-08:afternoon": [
+      "as",
+      "eng336"
     ]
   },
   "jobs": {
@@ -1624,6 +1628,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7694135355238370593"
         }
       }
+    },
+    "as": {
+      "slot": "2026-10-08:afternoon",
+      "selectedAt": "2026-10-08T11:30:55.048Z",
+      "verifiedAt": "2026-10-08T11:30:55.048Z",
+      "captions": {
+        "instagram": "Lead AML Specialist at Bybit\n\nKuala Lumpur, Malaysia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Lead AML Specialist at Bybit. Kuala Lumpur, Malaysia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Kuala Lumpur, Malaysia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Lead AML Specialist at Bybit"
+      },
+      "receipts": {}
+    },
+    "eng336": {
+      "slot": "2026-10-08:afternoon",
+      "selectedAt": "2026-10-08T11:30:55.049Z",
+      "verifiedAt": "2026-10-08T11:30:55.049Z",
+      "captions": {
+        "instagram": "Senior Software Engineer - Payments & Treasury at Alpaca\n\nNorth America, South America\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
+        "tiktok": "Senior Software Engineer - Payments & Treasury at Alpaca. North America, South America.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "North America, South America\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Senior Software Engineer - Payments & Treasury at Alpaca"
+      },
+      "receipts": {}
     }
   }
 }
