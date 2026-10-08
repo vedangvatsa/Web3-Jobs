@@ -5330,25 +5330,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "8785470a177469d3a057",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T13:46:31.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "needs-corroboration",
-      "note": "CoinDesk read confirms 100-country card plan but story dates Oct 1, window edge; needs Stripe announcement or second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:43:45.352Z",
+      "reason": "stale",
+      "note": "Stripe 100-country card story dates to Oct 1, outside the freshness window, with no new development since.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:17:42.292Z",
       "retrySearches": [
         "Stripe stablecoin cards 100 countries Privy October 2026"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08"
     },
     "53cd0a8a368388dea5ce": {
       "source": "The Block",
@@ -22291,6 +22285,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T04:17:40.785Z",
           "duplicateOf": "umia-raise"
+        },
+        "8785470a177469d3a057": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Stripe 100-country card story dates to Oct 1, outside the freshness window, with no new development since.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:17:42.292Z"
         }
       },
       "baselineSlugs": [
