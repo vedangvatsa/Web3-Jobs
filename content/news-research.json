@@ -17369,11 +17369,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5efcd88f74b3e3ca8122",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T13:05:59.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "promotional",
+      "note": "Money20/20 event press release on bitcoin stablecoins and AI; conference promo, no news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:30.672Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "b96173e2efc90a15dd3e": {
       "source": "CryptoSlate",
@@ -27241,6 +27246,13 @@
           "note": "Video interview claiming bitcoin first institutional cycle has arrived; punditry, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:27.589Z"
+        },
+        "5efcd88f74b3e3ca8122": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Money20/20 event press release on bitcoin stablecoins and AI; conference promo, no news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:30.672Z"
         }
       },
       "baselineSlugs": [
