@@ -5581,20 +5581,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0d01d65012e209b3f4b1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-08T12:04:15.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
       "reason": "duplicate",
-      "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft; Block origin page was blocked.",
+      "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T04:14:57.026Z",
+      "reviewedAt": "2026-10-08T11:24:31.524Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
       "lastReviewedDay": "2026-10-08",
-      "duplicateOf": "metaplanet-sale"
+      "duplicateOf": "metaplanet-sale",
+      "mergedInto": "b1e55f7f84c981ba728a"
     },
     "49f54566f54e818c1cf4": {
       "source": "The Block",
@@ -24353,6 +24354,15 @@
           "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T11:24:29.116Z",
+          "duplicateOf": "metaplanet-sale",
+          "mergedInto": "b1e55f7f84c981ba728a"
+        },
+        "0d01d65012e209b3f4b1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Metaplanet Q3 sale-and-repurchase event covered by metaplanet-sale.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T11:24:31.524Z",
           "duplicateOf": "metaplanet-sale",
           "mergedInto": "b1e55f7f84c981ba728a"
         }
