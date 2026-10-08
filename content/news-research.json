@@ -16969,11 +16969,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c0cdd9d68ce4ce6ba774",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T16:14:46.000Z",
-      "lastSeenAt": "2026-10-08T17:58:12.592Z"
+      "lastSeenAt": "2026-10-08T17:58:12.592Z",
+      "reason": "price-chatter",
+      "note": "Uptober-to-Spooky seasonal price recap cutting September gains; market commentary, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T18:18:05.054Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "078ecab18048b56a3980": {
       "source": "Cointelegraph",
@@ -27133,6 +27138,13 @@
           "note": "Bitcoin below 81k on oil spike and Fed talk; price-move recap, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T18:18:02.724Z"
+        },
+        "c0cdd9d68ce4ce6ba774": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Uptober-to-Spooky seasonal price recap cutting September gains; market commentary, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T18:18:05.054Z"
         }
       },
       "baselineSlugs": [
