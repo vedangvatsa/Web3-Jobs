@@ -11938,11 +11938,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5a0f5db2536ebf860244",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T16:46:41.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "not-a-concrete-event",
+      "note": "Print-magazine issue on quantum exposure; analysis package, not a fresh event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:53:58.189Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "537d09641333d70264c9": {
       "source": "CryptoSlate",
@@ -21396,6 +21401,13 @@
           "note": "General stock-market recap; no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:53:56.566Z"
+        },
+        "5a0f5db2536ebf860244": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Print-magazine issue on quantum exposure; analysis package, not a fresh event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:53:58.189Z"
         }
       },
       "baselineSlugs": [
