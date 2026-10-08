@@ -15798,11 +15798,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9e5ae4047dd36ca736e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T09:32:13.000Z",
-      "lastSeenAt": "2026-10-08T10:47:57.980Z"
+      "lastSeenAt": "2026-10-08T10:47:57.980Z",
+      "reason": "source-blocked",
+      "note": "Read CoinDesk Oct 8 StanChart Singapore custody plan; announcement names no assets or start date and TheBlock version returned 403.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-08T11:28:51.019Z",
+      "retrySearches": [
+        "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+      ],
+      "lastReviewedDay": "2026-10-08",
+      "nextReviewDate": "2026-10-09"
     },
     "a58ed5f4524012c5b9b0": {
       "source": "CoinDesk",
@@ -25276,6 +25294,25 @@
           "reviewedAt": "2026-10-08T11:28:44.520Z",
           "retrySearches": [
             "Cointelegraph US government 770M Bitcoin Coinbase Prime Galaxy Research October 2026"
+          ]
+        },
+        "d9e5ae4047dd36ca736e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read CoinDesk Oct 8 StanChart Singapore custody plan; announcement names no assets or start date and TheBlock version returned 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-08T11:28:51.019Z",
+          "retrySearches": [
+            "Standard Chartered Singapore crypto custody supported assets launch date MAS"
           ]
         }
       },
