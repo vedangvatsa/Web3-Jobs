@@ -12822,11 +12822,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2e8ecf58d0fbc3ef5022",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-10T03:57:21.000Z",
-      "lastSeenAt": "2026-10-08T03:31:25.243Z"
+      "lastSeenAt": "2026-10-08T03:31:25.243Z",
+      "reason": "price-chatter",
+      "note": "Sub-84k slide with liquidation tally; same price event as sibling items.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T03:52:59.076Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "bc2a3a741a821d307629": {
       "source": "The Defiant",
@@ -21072,6 +21077,13 @@
           "note": "Bitcoin dip on oil/Iran headlines; market-movement coverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T03:52:57.470Z"
+        },
+        "2e8ecf58d0fbc3ef5022": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Sub-84k slide with liquidation tally; same price event as sibling items.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T03:52:59.076Z"
         }
       },
       "baselineSlugs": [
