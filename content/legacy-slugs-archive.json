@@ -134918,5 +134918,672 @@
     "company": "Open Standard",
     "title": "Account Manager",
     "newSlug": "sls235"
+  },
+  "cmp103": {
+    "id": "aad93d60-ef48-4c8e-adae-23b96af3161e",
+    "link": "https://jobs.lever.co/binance/aad93d60-ef48-4c8e-adae-23b96af3161e",
+    "company": "Binance",
+    "title": "Senior Legal Operations & Admin Executive (fully remote!)"
+  },
+  "an76": {
+    "id": "d4d2ba9b-3bc6-4f10-a3c1-54b7b40e563d",
+    "link": "https://jobs.lever.co/binance/d4d2ba9b-3bc6-4f10-a3c1-54b7b40e563d",
+    "company": "Binance",
+    "title": "Business Intelligence/ Data Analyst"
+  },
+  "fss1": {
+    "id": "371938c3-875b-431a-a8d9-16f02b184441",
+    "link": "https://jobs.lever.co/binance/371938c3-875b-431a-a8d9-16f02b184441",
+    "company": "Binance",
+    "title": "Finance Systems Specialist (12 months contract)"
+  },
+  "be58": {
+    "id": "8258307",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
+    "company": "Robinhood",
+    "title": "Software Engineer, Web3 Backend"
+  },
+  "be57": {
+    "id": "8258305",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305",
+    "company": "Robinhood",
+    "title": "Software Engineer, Web3 Backend"
+  },
+  "sec88": {
+    "id": "ade55e91-a6b0-4311-8e23-285306f0ea81",
+    "link": "https://jobs.lever.co/binance/ade55e91-a6b0-4311-8e23-285306f0ea81",
+    "company": "Binance",
+    "title": "Internal Audit - Investigations Specialist"
+  },
+  "aai": {
+    "id": "495005da-6a19-4ba1-b98b-19f9495ccb2a",
+    "link": "https://jobs.lever.co/binance/495005da-6a19-4ba1-b98b-19f9495ccb2a",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Ads Implementation"
+  },
+  "sls221": {
+    "id": "5442639008",
+    "link": "http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008",
+    "company": "Block",
+    "title": "Bilingual Mandarin Business Development Rep"
+  },
+  "pm210": {
+    "id": "94f1c58f-4d46-420a-abc3-166c3d845896",
+    "link": "https://jobs.lever.co/binance/94f1c58f-4d46-420a-abc3-166c3d845896",
+    "company": "Binance",
+    "title": "Senior Product Manager"
+  },
+  "mgr134": {
+    "id": "102ed2e0-16a7-4a3c-836d-5f2b13927855",
+    "link": "https://jobs.lever.co/binance/102ed2e0-16a7-4a3c-836d-5f2b13927855",
+    "company": "Binance",
+    "title": "Client Manager, VIP/ Institutional Clients- Senior Specialist"
+  },
+  "vuos": {
+    "id": "a4ac0dda-7e25-4cba-90bc-4f478c3eccdc",
+    "link": "https://jobs.lever.co/binance/a4ac0dda-7e25-4cba-90bc-4f478c3eccdc",
+    "company": "Binance",
+    "title": "VIP User Operation Senior Specialist"
+  },
+  "be48": {
+    "id": "c0c39e9b-8795-4622-b1c5-0e93ac87c67d",
+    "link": "https://jobs.lever.co/binance/c0c39e9b-8795-4622-b1c5-0e93ac87c67d",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Backend Engineer, Pay & Card"
+  },
+  "prdd": {
+    "id": "780971fe-05d4-4af7-8fc0-ce6de70fce5b",
+    "link": "https://jobs.lever.co/binance/780971fe-05d4-4af7-8fc0-ce6de70fce5b",
+    "company": "Binance",
+    "title": "Project Research & Due Diligence"
+  },
+  "ops75": {
+    "id": "cd7e1f56-ce11-45c7-96e7-40a91cfd5818",
+    "link": "https://jobs.lever.co/binance/cd7e1f56-ce11-45c7-96e7-40a91cfd5818",
+    "company": "Binance",
+    "title": "Operations Specialist"
+  },
+  "cs8": {
+    "id": "49dd4502-48b9-4e9d-9807-09387b9a5bd8",
+    "link": "https://jobs.lever.co/binance/49dd4502-48b9-4e9d-9807-09387b9a5bd8",
+    "company": "Binance",
+    "title": "Clearing CS Specialist"
+  },
+  "pm184": {
+    "id": "c12787fe-8c32-4476-ac64-adc9249752d0",
+    "link": "https://jobs.lever.co/binance/c12787fe-8c32-4476-ac64-adc9249752d0",
+    "company": "Binance",
+    "title": "Product Compliance Manager (Abu Dhabi Based)"
+  },
+  "csps": {
+    "id": "f4c2355d-9cc3-48c6-9255-f068ac1a3d6e",
+    "link": "https://jobs.lever.co/binance/f4c2355d-9cc3-48c6-9255-f068ac1a3d6e",
+    "company": "Binance",
+    "title": "Global Crypto-as-a-Service Partnership- Senior Specialist"
+  },
+  "ticp": {
+    "id": "9ad43870-5296-43f2-8825-23cd0f47abe9",
+    "link": "https://jobs.lever.co/binance/9ad43870-5296-43f2-8825-23cd0f47abe9",
+    "company": "Binance",
+    "title": "Tech Lead, Payments (Kazakhstan)"
+  },
+  "ops67": {
+    "id": "16fefe71-f6b8-4697-85dc-75f55f90036d",
+    "link": "https://jobs.lever.co/binance/16fefe71-f6b8-4697-85dc-75f55f90036d",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Creative Operations"
+  },
+  "pks": {
+    "id": "e40f57b3-71bc-4496-b574-ea7f5bf1e965",
+    "link": "https://jobs.lever.co/binance/e40f57b3-71bc-4496-b574-ea7f5bf1e965",
+    "company": "Binance",
+    "title": "Senior PR KOL Specialist"
+  },
+  "operations166": {
+    "id": "1C5D20762E",
+    "link": "https://apply.workable.com/j/1C5D20762E",
+    "company": "CoinJar",
+    "title": "Financial Crime Operations Officer (Melbourne, AU)"
+  },
+  "mgr85": {
+    "id": "8f148612-9a2a-4b73-9f9e-cfcc005953bf",
+    "link": "https://jobs.lever.co/binance/8f148612-9a2a-4b73-9f9e-cfcc005953bf",
+    "company": "Binance",
+    "title": "HRIS Manager"
+  },
+  "qa73": {
+    "id": "b5627380-0111-4d47-bbd5-9cb8b312fb8c",
+    "link": "https://jobs.lever.co/binance/b5627380-0111-4d47-bbd5-9cb8b312fb8c",
+    "company": "Binance",
+    "title": "Team Lead — Compliance Monitoring, Assurance & Testing (CMAT)"
+  },
+  "eng334": {
+    "id": "92750245-5e14-4704-82e9-dcd7317e6146",
+    "link": "https://jobs.lever.co/binance/92750245-5e14-4704-82e9-dcd7317e6146",
+    "company": "Binance",
+    "title": "Cloud AI Engineer"
+  },
+  "mgr55": {
+    "id": "67106111-8a40-4236-9287-30794315c712",
+    "link": "https://jobs.lever.co/binance/67106111-8a40-4236-9287-30794315c712",
+    "company": "Binance",
+    "title": "PR Manager, Pakistan"
+  },
+  "be24": {
+    "id": "e2ff393c-1ca5-4c31-adcd-a2e373bab71f",
+    "link": "https://jobs.lever.co/binance/e2ff393c-1ca5-4c31-adcd-a2e373bab71f",
+    "company": "Binance",
+    "title": "Backend Engineer (Java) -Trading"
+  },
+  "sls157": {
+    "id": "8345f353-81e8-49ca-b1f0-36bef643eb80",
+    "link": "https://jobs.lever.co/binance/8345f353-81e8-49ca-b1f0-36bef643eb80",
+    "company": "Binance",
+    "title": "Chief Accountant, Payments (Kazakhstan)"
+  },
+  "ops57": {
+    "id": "d829ceef-19e7-452c-befd-534146af79ae",
+    "link": "https://jobs.lever.co/binance/d829ceef-19e7-452c-befd-534146af79ae",
+    "company": "Binance",
+    "title": "Operations Manager, Payments (Kazakhstan)"
+  },
+  "cmp59": {
+    "id": "7d019671-5db0-41d0-b70d-88762cff76d4",
+    "link": "https://jobs.lever.co/binance/7d019671-5db0-41d0-b70d-88762cff76d4",
+    "company": "Binance",
+    "title": "Legal & Regulatory Counsel, Payments (Kazakhstan)"
+  },
+  "mgr75": {
+    "id": "8df2d358-6d9f-4de0-93dd-962109eb9ce1",
+    "link": "https://jobs.lever.co/binance/8df2d358-6d9f-4de0-93dd-962109eb9ce1",
+    "company": "Binance",
+    "title": "Risk Manager, Payments (Kazakhstan)"
+  },
+  "cmp58": {
+    "id": "9050c659-301e-4b6b-b1cf-42d9c1969614",
+    "link": "https://jobs.lever.co/binance/9050c659-301e-4b6b-b1cf-42d9c1969614",
+    "company": "Binance",
+    "title": "Compliance Officer, Payments (Kazakhstan)"
+  },
+  "iner": {
+    "id": "EB31B7E2A4",
+    "link": "https://apply.workable.com/j/EB31B7E2A4",
+    "company": "Hex Trust",
+    "title": "Independent Non-Executive Resident Director (INED) - Dubai, UAE"
+  },
+  "sec45": {
+    "id": "8046ebc2-5708-4396-9aa0-a2ad3d589784",
+    "link": "https://jobs.lever.co/binance/8046ebc2-5708-4396-9aa0-a2ad3d589784",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Internal Audit (Technology)"
+  },
+  "sas": {
+    "id": "8d97dab5-ee66-44ac-8771-75d6b412785f",
+    "link": "https://jobs.lever.co/binance/8d97dab5-ee66-44ac-8771-75d6b412785f",
+    "company": "Binance",
+    "title": "Sanctions Advisory Specialist"
+  },
+  "adsa": {
+    "id": "31b3540c-5025-4e1f-9084-9f777ef82b2e",
+    "link": "https://jobs.lever.co/binance/31b3540c-5025-4e1f-9084-9f777ef82b2e",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Data Scientist, Analytics"
+  },
+  "pm109": {
+    "id": "c752b0f0-aa8c-4f9f-a71e-c5faf033260f",
+    "link": "https://jobs.lever.co/binance/c752b0f0-aa8c-4f9f-a71e-c5faf033260f",
+    "company": "Binance",
+    "title": "Earn Product Operation Manager (Tradfi)"
+  },
+  "sls113": {
+    "id": "cdaad664-05ea-4813-b7bf-578098a4d049",
+    "link": "https://jobs.lever.co/binance/cdaad664-05ea-4813-b7bf-578098a4d049",
+    "company": "Binance",
+    "title": "VIP Sales, SEA (6 months contract)"
+  },
+  "rs7": {
+    "id": "5acd7a5e-29c4-4b37-952c-8ff03d01205a",
+    "link": "https://jobs.lever.co/binance/5acd7a5e-29c4-4b37-952c-8ff03d01205a",
+    "company": "Binance",
+    "title": "Senior QA Engineer (Rust/Java), Margin"
+  },
+  "rec10": {
+    "id": "021a1e07-21cf-4f41-8e32-408dc22bd45d",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/021a1e07-21cf-4f41-8e32-408dc22bd45d",
+    "company": "Chainlink Labs",
+    "title": "Senior Talent Partner - Technology"
+  },
+  "mkt40": {
+    "id": "5f7658b5-0dfa-4123-8d92-ffb987fb99ce",
+    "link": "https://jobs.lever.co/binance/5f7658b5-0dfa-4123-8d92-ffb987fb99ce",
+    "company": "Binance",
+    "title": "Earn Institutional & Growth Lead"
+  },
+  "mkt24": {
+    "id": "49e376e8-9969-4d50-8638-6e6f653a7c8e",
+    "link": "https://jobs.lever.co/binance/49e376e8-9969-4d50-8638-6e6f653a7c8e",
+    "company": "Binance",
+    "title": "Business Insight Lead (User Growth)"
+  },
+  "eng396": {
+    "id": "8211486",
+    "link": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
+    "company": "Coinbase",
+    "title": "Staff Machine Learning Engineer(Platform - Identity)"
+  },
+  "ewra": {
+    "id": "4758ec72-f47f-4cdc-8d64-7aa9a7642234",
+    "link": "https://jobs.lever.co/binance/4758ec72-f47f-4cdc-8d64-7aa9a7642234",
+    "company": "Binance",
+    "title": "Enterprise Wide Risk Assessment (EWRA) Specialist"
+  },
+  "cmp22": {
+    "id": "51845eb8-91b1-425a-809b-6bfc0ad9b7fa",
+    "link": "https://jobs.lever.co/binance/51845eb8-91b1-425a-809b-6bfc0ad9b7fa",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Compliance"
+  },
+  "sls46": {
+    "id": "8e3f4049-7274-43c8-9866-27a4a8ad06ea",
+    "link": "https://jobs.lever.co/binance/8e3f4049-7274-43c8-9866-27a4a8ad06ea",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - VIP Sales"
+  },
+  "pm38": {
+    "id": "2aebaf67-34f5-4d1b-a002-47e35c03ff78",
+    "link": "https://jobs.lever.co/binance/2aebaf67-34f5-4d1b-a002-47e35c03ff78",
+    "company": "Binance",
+    "title": "Product Manager - Community Strategy"
+  },
+  "sec15": {
+    "id": "8810604002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8810604002?gh_jid=8810604002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer"
+  },
+  "psaf": {
+    "id": "4977307101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4977307101",
+    "company": "Bitpanda",
+    "title": "Phone Support Agent, French Market"
+  },
+  "eng53": {
+    "id": "1605ad62-b3bb-4e5a-9827-b558648840e9",
+    "link": "https://jobs.lever.co/binance/1605ad62-b3bb-4e5a-9827-b558648840e9",
+    "company": "Binance",
+    "title": "Senior Evaluation Algorithm Engineer"
+  },
+  "mgr8": {
+    "id": "6e7ad60c-ec7e-4676-9854-deca3d1bc4a2",
+    "link": "https://jobs.lever.co/binance/6e7ad60c-ec7e-4676-9854-deca3d1bc4a2",
+    "company": "Binance",
+    "title": "Regional Branding Manager - GC"
+  },
+  "cmp5": {
+    "id": "02e2379e-9828-40c2-af39-16933a51549a",
+    "link": "https://jobs.lever.co/binance/02e2379e-9828-40c2-af39-16933a51549a",
+    "company": "Binance",
+    "title": "Legal Operations & Admin Executive - 12 months contract"
+  },
+  "pm6": {
+    "id": "d3f92311-36f0-41d7-a280-e955ed9e6ccb",
+    "link": "https://jobs.lever.co/binance/d3f92311-36f0-41d7-a280-e955ed9e6ccb",
+    "company": "Binance",
+    "title": "Data Product Manager, Derivatives (12 months contract)"
+  },
+  "operations176": {
+    "id": "8dba5264-ddca-4456-bf09-983f7541b3fd",
+    "link": "https://jobs.lever.co/binance/8dba5264-ddca-4456-bf09-983f7541b3fd",
+    "company": "Binance",
+    "title": "Earn Operations Specialist (Onchain Direction)"
+  },
+  "sales421": {
+    "id": "84404e19-5904-497e-91e1-ef65da4e7452",
+    "link": "https://jobs.lever.co/binance/84404e19-5904-497e-91e1-ef65da4e7452",
+    "company": "Binance",
+    "title": "VIP & Institutional Sales - MENA"
+  },
+  "eng428": {
+    "id": "4971516101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971516101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "analyst188": {
+    "id": "f610850c-df60-4c64-9951-23ca130f58eb",
+    "link": "https://jobs.lever.co/binance/f610850c-df60-4c64-9951-23ca130f58eb",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Data Analyst"
+  },
+  "pm234": {
+    "id": "4971231101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971231101",
+    "company": "Bybit",
+    "title": "Senior Growth Product Manager - User Activation"
+  },
+  "marketing245": {
+    "id": "05d495e3-982e-4af7-9d38-f87014984901",
+    "link": "https://jobs.lever.co/binance/05d495e3-982e-4af7-9d38-f87014984901",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - TradFI Business Development"
+  },
+  "marketing218": {
+    "id": "bc1ba4b5-03d0-4fd9-8d17-62c08d36fb51",
+    "link": "https://jobs.lever.co/binance/bc1ba4b5-03d0-4fd9-8d17-62c08d36fb51",
+    "company": "Binance",
+    "title": "Marketing Manager - Central Africa"
+  },
+  "ae": {
+    "id": "b6a7e960-52b6-400c-ac58-f6d578b59fbd",
+    "link": "https://jobs.lever.co/binance/b6a7e960-52b6-400c-ac58-f6d578b59fbd",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Events"
+  },
+  "manager629": {
+    "id": "15de5e6e-afa1-4bed-a2d0-1d4ed0df191b",
+    "link": "https://jobs.lever.co/binance/15de5e6e-afa1-4bed-a2d0-1d4ed0df191b",
+    "company": "Binance",
+    "title": "Finance Manager"
+  },
+  "manager627": {
+    "id": "57f835b1-47be-40c0-a20f-988d56a8f3f4",
+    "link": "https://jobs.lever.co/binance/57f835b1-47be-40c0-a20f-988d56a8f3f4",
+    "company": "Binance",
+    "title": "Finance Systems Manager- crypto"
+  },
+  "manager626": {
+    "id": "281f252b-ad90-45e1-b8f2-eca5e8c1a8e9",
+    "link": "https://jobs.lever.co/binance/281f252b-ad90-45e1-b8f2-eca5e8c1a8e9",
+    "company": "Binance",
+    "title": "Business Analytics (AI) & Strategic Partnerships (Tokenization) Manager"
+  },
+  "government3": {
+    "id": "265313fd-ee2f-42d1-8702-1b2d8dded241",
+    "link": "https://jobs.lever.co/binance/265313fd-ee2f-42d1-8702-1b2d8dded241",
+    "company": "Binance",
+    "title": "Government Relations - APAC"
+  },
+  "recruiting93": {
+    "id": "f5e9f843-fa64-40c8-af06-1f1a58943897",
+    "link": "https://jobs.lever.co/binance/f5e9f843-fa64-40c8-af06-1f1a58943897",
+    "company": "Binance",
+    "title": "Senior Talent Acquisition Operations Specialist (Contract)"
+  },
+  "community14": {
+    "id": "20860120-81de-487f-9c64-d14cfc6b54d7",
+    "link": "https://jobs.lever.co/binance/20860120-81de-487f-9c64-d14cfc6b54d7",
+    "company": "Binance",
+    "title": "Partnerships & Growth Manager (Turkey)"
+  },
+  "operations140": {
+    "id": "7111b594-b63b-4085-8e0c-25c66cece708",
+    "link": "https://jobs.lever.co/binance/7111b594-b63b-4085-8e0c-25c66cece708",
+    "company": "Binance",
+    "title": "Operations Specialist - Gulf Binance"
+  },
+  "eng426": {
+    "id": "8637960002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8637960002?gh_jid=8637960002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "traditional": {
+    "id": "5e5c344b-d43d-4250-a729-9f04bc008388",
+    "link": "https://jobs.lever.co/binance/5e5c344b-d43d-4250-a729-9f04bc008388",
+    "company": "Binance",
+    "title": "Traditional Finance PMO (CEO Office)"
+  },
+  "recruiting75": {
+    "id": "3b91b8f5-e50a-4a41-ac15-3639dc196b6c",
+    "link": "https://jobs.lever.co/binance/3b91b8f5-e50a-4a41-ac15-3639dc196b6c",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - HR Talent Acquisition"
+  },
+  "eng391": {
+    "id": "8700980002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "sales288": {
+    "id": "ef975982-7989-42fc-a9bb-32f1c31aeeae",
+    "link": "https://jobs.lever.co/binance/ef975982-7989-42fc-a9bb-32f1c31aeeae",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Global Affiliate BD"
+  },
+  "eng258": {
+    "id": "8127242",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
+    "company": "DRW",
+    "title": "Software Engineer Intern (Data Engineering)"
+  },
+  "pm99": {
+    "id": "4e1e2942-2f42-4d09-a930-a8ab0c321ffa",
+    "link": "https://jobs.lever.co/binance/4e1e2942-2f42-4d09-a930-a8ab0c321ffa",
+    "company": "Binance",
+    "title": "Product Lead Counsel"
+  },
+  "be56": {
+    "id": "4950522101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4950522101",
+    "company": "Bybit",
+    "title": "Senior Principal Backend Development Engineer"
+  },
+  "operational2": {
+    "id": "744cb1d2-2f53-4819-8b5f-ef82a4460776",
+    "link": "https://jobs.lever.co/binance/744cb1d2-2f53-4819-8b5f-ef82a4460776",
+    "company": "Binance",
+    "title": "Operational Risk / Enterprise Risk Management Framework (ERMF) Specialist"
+  },
+  "tr88": {
+    "id": "8576270002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "apsm": {
+    "id": "3009fd11-526f-468d-bd1e-1437bc476afa",
+    "link": "https://jobs.lever.co/binance/3009fd11-526f-468d-bd1e-1437bc476afa",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - PK Social Media"
+  },
+  "architect35": {
+    "id": "8024033",
+    "link": "https://stripe.com/jobs/search?gh_jid=8024033",
+    "company": "Stripe",
+    "title": "Partner Solutions Architect, AI Partnerships"
+  },
+  "eng414": {
+    "id": "8641280002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8641280002?gh_jid=8641280002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "fs12": {
+    "id": "43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac",
+    "link": "https://jobs.lever.co/binance/43c20b4a-fbe2-4b1d-9c0b-7cdbe2bb2aac",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Full Stack Engineer (AI)"
+  },
+  "tr87": {
+    "id": "8623733002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8623733002?gh_jid=8623733002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "risk": {
+    "id": "0de37732-ab17-4b6d-8507-58039706abda",
+    "link": "https://jobs.lever.co/binance/0de37732-ab17-4b6d-8507-58039706abda",
+    "company": "Binance",
+    "title": "Risk Specialist, Taiwan"
+  },
+  "be55": {
+    "id": "4908935101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "mlr10": {
+    "id": "8594416002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "mkt38": {
+    "id": "ab4fc805-7fe8-4fef-843e-40d9aa1b636c",
+    "link": "https://jobs.lever.co/binance/ab4fc805-7fe8-4fef-843e-40d9aa1b636c",
+    "company": "Binance",
+    "title": "User Growth & Lifecycle Marketing Manager"
+  },
+  "pm178": {
+    "id": "44b997f0-ec80-442d-93e0-3210f0915216",
+    "link": "https://jobs.lever.co/binance/44b997f0-ec80-442d-93e0-3210f0915216",
+    "company": "Binance",
+    "title": "AI Product Manager"
+  },
+  "eng287": {
+    "id": "7965410",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/7965410",
+    "company": "Flow Traders",
+    "title": "Reliability Engineer"
+  },
+  "ops31": {
+    "id": "b46a1b43-d138-408d-af45-de505982b47a",
+    "link": "https://jobs.lever.co/binance/b46a1b43-d138-408d-af45-de505982b47a",
+    "company": "Binance",
+    "title": "Binance Accelerator Programme - Campaigns Operations, Binance Square"
+  },
+  "ards": {
+    "id": "ca44ee4e-392b-4745-9ad9-8e287f5a6d37",
+    "link": "https://jobs.lever.co/binance/ca44ee4e-392b-4745-9ad9-8e287f5a6d37",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Research Data Scientist"
+  },
+  "eng52": {
+    "id": "7deee48b-bc3a-454b-9224-953d3f65c244",
+    "link": "https://jobs.lever.co/binance/7deee48b-bc3a-454b-9224-953d3f65c244",
+    "company": "Binance",
+    "title": "AI Agent Platform Engineer (Openclaw)"
+  },
+  "pm83": {
+    "id": "3cc553ce-b5e9-4715-9aab-0eb22edde5cf",
+    "link": "https://jobs.lever.co/binance/3cc553ce-b5e9-4715-9aab-0eb22edde5cf",
+    "company": "Binance",
+    "title": "Senior Card product manager"
+  },
+  "sls37": {
+    "id": "e67b325a-2e6d-4856-a719-51b409bdb231",
+    "link": "https://jobs.lever.co/binance/e67b325a-2e6d-4856-a719-51b409bdb231",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Affiliate BD"
+  },
+  "pr": {
+    "id": "b22f7d6f-383d-4fc4-8639-bd5e7dfa5bef",
+    "link": "https://jobs.lever.co/binance/b22f7d6f-383d-4fc4-8639-bd5e7dfa5bef",
+    "company": "Binance",
+    "title": "PR KOL Specialist - APAC"
+  },
+  "eng89": {
+    "id": "b20adcce-7e6a-4d8b-b178-f55c521fe097",
+    "link": "https://jobs.lever.co/binance/b20adcce-7e6a-4d8b-b178-f55c521fe097",
+    "company": "Binance",
+    "title": "Blockchain Engineer - Binance Wallet"
+  },
+  "apag": {
+    "id": "4d7610ac-4aa3-49b1-83c1-9772d6c243d4",
+    "link": "https://jobs.lever.co/binance/4d7610ac-4aa3-49b1-83c1-9772d6c243d4",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Paid Ads (Greater China)"
+  },
+  "llm": {
+    "id": "834478e8-854c-40d0-8093-7bc0a5e080d5",
+    "link": "https://jobs.lever.co/binance/834478e8-854c-40d0-8093-7bc0a5e080d5",
+    "company": "Binance",
+    "title": "LLM Applied Data Scientist (RAG/ NLP)"
+  },
+  "research": {
+    "id": "61081858-6041-489c-8e6a-cf9e7a604060",
+    "link": "https://jobs.lever.co/binance/61081858-6041-489c-8e6a-cf9e7a604060",
+    "company": "Binance",
+    "title": "Research Scientist - LLM Foundation Models"
+  },
+  "qa61": {
+    "id": "5867e405-db64-4797-ae2b-34d8902212d2",
+    "link": "https://jobs.lever.co/binance/5867e405-db64-4797-ae2b-34d8902212d2",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - QA Engineer, Compliance (Java, SQL)"
+  },
+  "adsa2": {
+    "id": "1245204b-d029-4961-9819-bb6fc37d9b16",
+    "link": "https://jobs.lever.co/binance/1245204b-d029-4961-9819-bb6fc37d9b16",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Data Scientist, Risk Monitoring (Fully Remote)"
+  },
+  "architect": {
+    "id": "5499b3e1-ce03-4f4f-ba4d-13ea55ba8ffe",
+    "link": "https://jobs.lever.co/binance/5499b3e1-ce03-4f4f-ba4d-13ea55ba8ffe",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - iOS Architect"
+  },
+  "abds": {
+    "id": "96e8326e-074f-4d1f-89c4-8ed1a6f96014",
+    "link": "https://jobs.lever.co/binance/96e8326e-074f-4d1f-89c4-8ed1a6f96014",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Data Scientist (On Chain background) Fully Remote"
+  },
+  "csra": {
+    "id": "ae805ce9-f3c6-4c40-96a1-0e39ba1751b1",
+    "link": "https://jobs.lever.co/binance/ae805ce9-f3c6-4c40-96a1-0e39ba1751b1",
+    "company": "Binance",
+    "title": "Customer Service Representative (Arabic & English)"
+  },
+  "customer": {
+    "id": "ace9d4b6-f0c9-48e0-a196-f209aac95cfc",
+    "link": "https://jobs.lever.co/binance/ace9d4b6-f0c9-48e0-a196-f209aac95cfc",
+    "company": "Binance",
+    "title": "Customer Service Representative (Spanish/English)"
+  },
+  "qa": {
+    "id": "95d5f25b-583c-4f36-b4a3-4d5ac249b269",
+    "link": "https://jobs.lever.co/binance/95d5f25b-583c-4f36-b4a3-4d5ac249b269",
+    "company": "Binance",
+    "title": "Binance Accelerator Program - QA Tooling Developer (Quality & Efficiency)"
+  },
+  "dev10": {
+    "id": "c899ed69-9dea-49a0-9732-8cdce5c99ecf",
+    "link": "https://jobs.lever.co/binance/c899ed69-9dea-49a0-9732-8cdce5c99ecf",
+    "company": "Binance",
+    "title": "Senior Backend Engineer – AI Agents (Golang)"
+  },
+  "be51": {
+    "id": "1fc32f93-a16e-4e8a-9e08-d246f469ccaa",
+    "link": "https://jobs.lever.co/binance/1fc32f93-a16e-4e8a-9e08-d246f469ccaa",
+    "company": "Binance",
+    "title": "Senior Backend Engineer (Java / Go)"
+  },
+  "recruiting": {
+    "id": "80a64970-528f-4d90-aada-84284bd6f1f3",
+    "link": "https://jobs.lever.co/binance/80a64970-528f-4d90-aada-84284bd6f1f3",
+    "company": "Binance",
+    "title": "LLM Data Scientist/Algorithm Engineer (Top Talent Program)"
+  },
+  "compliance": {
+    "id": "e345434f-aa43-4287-a275-d5c5139764a8",
+    "link": "https://jobs.lever.co/binance/e345434f-aa43-4287-a275-d5c5139764a8",
+    "company": "Binance",
+    "title": "Senior Java Developer - Compliance Tech"
+  },
+  "mlr8": {
+    "id": "4276720002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/4276720002?gh_jid=4276720002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "sls235": {
+    "id": "04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "link": "https://jobs.ashbyhq.com/openstandard/04a51842-36eb-43b1-a4dc-d6e133a40788",
+    "company": "Open Standard",
+    "title": "Account Manager",
+    "newSlug": "sls240"
   }
 }
