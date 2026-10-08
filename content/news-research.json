@@ -14492,24 +14492,28 @@
       ],
       "alsoCoveredBy": [],
       "id": "256cca266632a898b8b3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T10:04:45.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Drafted report on Securitize LG CNS Oct 6 MOU on tokenized funds and stablecoin rails with FSC backdrop. Primary plus Yahoo read. Audits pass.",
+      "note": "Wrote securitize-korea (801 words): Securitize LG CNS Oct 6 MOU on tokenized funds and stablecoin rails with FSC backdrop. PRNewswire primary plus Unchained and FSC read. All gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.prnewswire.com/news-releases/securitize-and-lg-cns-partner-to-advance-tokenized-assets-in-south-korea-302899254.html",
           "outcome": "read"
         },
         {
-          "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-teams-korea-lg-cns-100445886.html",
+          "url": "https://unchainedcrypto.com/securitize-teams-with-koreas-lg-cns-to-explore-tokenized-funds-and-stablecoins/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fsc.go.kr/eng/pr010101/87834",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:24:02.817Z",
+      "reviewedAt": "2026-10-08T12:14:11.259Z",
       "articleSlug": "securitize-korea",
       "lastReviewedDay": "2026-10-08",
       "lastValidationErrors": [
@@ -24816,6 +24820,27 @@
           ],
           "reviewedAt": "2026-10-08T12:14:09.470Z",
           "articleSlug": "wlfi-payments"
+        },
+        "256cca266632a898b8b3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wrote securitize-korea (801 words): Securitize LG CNS Oct 6 MOU on tokenized funds and stablecoin rails with FSC backdrop. PRNewswire primary plus Unchained and FSC read. All gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/securitize-and-lg-cns-partner-to-advance-tokenized-assets-in-south-korea-302899254.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/securitize-teams-with-koreas-lg-cns-to-explore-tokenized-funds-and-stablecoins/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fsc.go.kr/eng/pr010101/87834",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-08T12:14:11.259Z",
+          "articleSlug": "securitize-korea"
         }
       },
       "baselineSlugs": [
