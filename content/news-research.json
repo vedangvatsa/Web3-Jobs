@@ -3829,25 +3829,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "286242ffe42f36b19b5a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-06T00:55:35.855Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-08T14:12:58.000Z",
       "lastSeenAt": "2026-10-06T11:31:41.725Z",
-      "reason": "missing-primary-source",
-      "note": "Same Metaplanet event as b1e5; Unchained copy read, filing still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/metaplanet-sells-and-rebuys-its-bitcoin-in-a-bid-for-a-credit-rating/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-07T03:44:56.308Z",
+      "reason": "duplicate",
+      "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-08T04:14:44.359Z",
       "retrySearches": [
         "Metaplanet Q3 2026 bitcoin sale repurchase income strategy official disclosure filing"
       ],
-      "lastReviewedDay": "2026-10-07",
-      "nextReviewDate": "2026-10-08"
+      "lastReviewedDay": "2026-10-08",
+      "duplicateOf": "metaplanet-sale",
+      "mergedInto": "b1e55f7f84c981ba728a"
     },
     "a2c26b4393987bbe0dd8": {
       "source": "Cointelegraph",
@@ -22192,6 +22188,15 @@
           ],
           "reviewedAt": "2026-10-08T04:14:40.349Z",
           "articleSlug": "metaplanet-sale"
+        },
+        "286242ffe42f36b19b5a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Metaplanet Q3 sale-and-repurchase event already covered by the metaplanet-sale draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-08T04:14:44.359Z",
+          "duplicateOf": "metaplanet-sale",
+          "mergedInto": "b1e55f7f84c981ba728a"
         }
       },
       "baselineSlugs": [
