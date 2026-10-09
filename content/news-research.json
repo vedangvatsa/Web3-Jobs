@@ -20821,11 +20821,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "21458613a4184395da55",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T09:21:08.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "Hidden-uptrend-signal piece is technical-analysis price commentary with a 96-percent caveat, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:19.796Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "33d2532cea35902b8372": {
       "source": "CoinDesk",
@@ -32280,6 +32285,13 @@
           "note": "XRP 1.32 support and ETF-demand framing is intraday price action with no filing, launch, vote or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:17.757Z"
+        },
+        "21458613a4184395da55": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Hidden-uptrend-signal piece is technical-analysis price commentary with a 96-percent caveat, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:19.796Z"
         }
       },
       "baselineSlugs": [
