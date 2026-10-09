@@ -24836,11 +24836,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf7f677d465ab1ca9d58",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T22:20:23.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "not-a-concrete-event",
+      "note": "ETH fee-burn 2 percent metric piece is onchain analysis with no launch, vote, filing or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:41:45.321Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "d2a36ff801c6db70c716": {
       "source": "The Defiant",
@@ -38929,6 +38934,13 @@
           "note": "Justin Sun TOKEN2049 AI vision speech is conference opinion with no reportable development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:41:41.009Z"
+        },
+        "cf7f677d465ab1ca9d58": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "ETH fee-burn 2 percent metric piece is onchain analysis with no launch, vote, filing or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:41:45.321Z"
         }
       },
       "baselineSlugs": [
