@@ -24382,11 +24382,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "351397f78573a7a81270",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T19:14:46.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "out-of-scope",
+      "note": "Trump Putin diesel shipment piece covers energy politics with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:41:27.535Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "8c1696a893d3fe91f3f2": {
       "source": "CryptoSlate",
@@ -38869,6 +38874,13 @@
           "note": "Bitcoin rebound piece is price action plus trader downside predictions; no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:41:25.675Z"
+        },
+        "351397f78573a7a81270": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Trump Putin diesel shipment piece covers energy politics with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:41:27.535Z"
         }
       },
       "baselineSlugs": [
