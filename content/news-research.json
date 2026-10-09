@@ -10844,13 +10844,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "82cff8bbba1d2449bb5f",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T18:19:35.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 verified 220K digital ruble accounts vs 60K forecast across Euronext-Reuters and CryptoBriefing; draft not yet written.",
+      "reason": "verified-event",
+      "note": "220K digital rouble accounts vs 60K forecast verified in Reuters wire and CryptoBriefing; new first-month figure, distinct from wages pilot article.",
       "sourceChecks": [
         {
           "url": "https://live.euronext.com/en/financial-news/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-bank",
@@ -10861,12 +10861,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:19:04.302Z",
+      "reviewedAt": "2026-10-09T04:10:19.766Z",
       "retrySearches": [
         "digital ruble rollout wave banks universal license 2027"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "articleSlug": "ruble-accounts"
     },
     "0104640e7b2b652586ba": {
       "source": "The Defiant",
@@ -30012,6 +30012,23 @@
           ],
           "reviewedAt": "2026-10-09T04:10:14.789Z",
           "articleSlug": "kalshi-us500"
+        },
+        "82cff8bbba1d2449bb5f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "220K digital rouble accounts vs 60K forecast verified in Reuters wire and CryptoBriefing; new first-month figure, distinct from wages pilot article.",
+          "sourceChecks": [
+            {
+              "url": "https://live.euronext.com/en/financial-news/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-bank",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/digital-ruble-accounts-top-220000-first-month/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:19.766Z",
+          "articleSlug": "ruble-accounts"
         }
       },
       "baselineSlugs": [
