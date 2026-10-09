@@ -18182,17 +18182,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a004e01e7f72c40546e6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T14:04:39.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Securitize 1-for-1 backed tokenized stocks launch as covered by securitize-stocks in this run.",
+      "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:16.600Z",
+      "reviewedAt": "2026-10-09T04:15:12.955Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "468524abbb1ccf6bfb49": {
       "source": "Cointelegraph",
@@ -31660,6 +31661,15 @@
           "reviewedAt": "2026-10-09T04:15:10.956Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "a004e01e7f72c40546e6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:12.955Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
         }
       },
       "baselineSlugs": [
