@@ -16650,23 +16650,23 @@
       "id": "49796226371352e18cd0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T13:00:19.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 read CoinJournal Oct 7 NextBlock 3M seed round funding Soda Labs privacy tech; single weak outlet, needs company post or second outlet.",
+      "note": "NextBlock 3M Soda Labs round seen only in single trade outlet; needs company announcement or second outlet with terms.",
       "sourceChecks": [
         {
           "url": "https://coinjournal.net/news/nextblock-invests-3m-in-soda-labs-to-expand-blockchain-privacy/",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T18:17:09.052Z",
+      "reviewedAt": "2026-10-09T04:18:08.151Z",
       "retrySearches": [
-        "NextBlock Soda Labs M seed round second outlet"
+        "NextBlock Soda Labs 3M blockchain privacy round"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "b527cd2ccd70547325ed": {
       "source": "CryptoSlate",
@@ -32292,6 +32292,21 @@
           "reviewedAt": "2026-10-09T04:17:54.755Z",
           "retrySearches": [
             "Korean bank hacker Claude CrowdStrike stolen data"
+          ]
+        },
+        "49796226371352e18cd0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "NextBlock 3M Soda Labs round seen only in single trade outlet; needs company announcement or second outlet with terms.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/nextblock-invests-3m-in-soda-labs-to-expand-blockchain-privacy/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:18:08.151Z",
+          "retrySearches": [
+            "NextBlock Soda Labs 3M blockchain privacy round"
           ]
         }
       },
