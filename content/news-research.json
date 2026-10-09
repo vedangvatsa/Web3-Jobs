@@ -15535,25 +15535,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "860da2d41ccdf27f0d30",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T09:42:04.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Read Cointelegraph Oct 8 ESMA Jan 8 2027 stablecoin deadline; ESMA primary statement and second outlet not yet opened.",
+      "reason": "duplicate",
+      "note": "Same ESMA non-compliant stablecoin exit drafted as esma-stablecoins in this run.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
-          "outcome": "read"
+          "url": "https://www.theblock.co/news/markets/2026-10-08-esma-stablecoins-417819",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:29:00.564Z",
+      "reviewedAt": "2026-10-09T04:15:44.752Z",
       "retrySearches": [
         "ESMA stablecoin January 2027 deadline statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "duplicateOf": "esma-stablecoins",
+      "mergedInto": "624dea8769fe6ccc1f7b"
     },
     "d9e5ae4047dd36ca736e": {
       "source": "CoinDesk",
@@ -31755,6 +31756,20 @@
           "reviewedAt": "2026-10-09T04:15:39.514Z",
           "duplicateOf": "bitcoin-de",
           "mergedInto": "628e95ee29428ffa8565"
+        },
+        "860da2d41ccdf27f0d30": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ESMA non-compliant stablecoin exit drafted as esma-stablecoins in this run.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-08-esma-stablecoins-417819",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:15:44.752Z",
+          "duplicateOf": "esma-stablecoins",
+          "mergedInto": "624dea8769fe6ccc1f7b"
         }
       },
       "baselineSlugs": [
