@@ -24803,11 +24803,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d2a36ff801c6db70c716",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T21:57:10.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "source-blocked",
+      "note": "Kalshi WSJ press-secretary probe seen only in single Defiant origin citing WSJ; needs WSJ or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:41:15.720Z",
+      "retrySearches": [
+        "Kalshi probes bets Trump press secretary pick WSJ insider trading"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "2f33d3c76777e7ef334e": {
       "source": "Cointelegraph",
@@ -38774,6 +38788,21 @@
           "reviewedAt": "2026-10-09T23:41:11.400Z",
           "retrySearches": [
             "Robinhood Chain paying traders priority technology confirmation decision"
+          ]
+        },
+        "d2a36ff801c6db70c716": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Kalshi WSJ press-secretary probe seen only in single Defiant origin citing WSJ; needs WSJ or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:41:15.720Z",
+          "retrySearches": [
+            "Kalshi probes bets Trump press secretary pick WSJ insider trading"
           ]
         }
       },
