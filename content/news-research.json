@@ -20207,11 +20207,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6ec871e1632c167e860d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T01:47:26.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "out-of-scope",
+      "note": "KBW bank earnings preview covers traditional Q3 bank results with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:16:35.241Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "9f43581c1ad7c47fcc1e": {
       "source": "BeInCrypto",
@@ -31917,6 +31922,13 @@
           "note": "Skydance Paramount-Warner debt piece covers media M and A leverage with no crypto event or nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:16:29.919Z"
+        },
+        "6ec871e1632c167e860d": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "KBW bank earnings preview covers traditional Q3 bank results with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:16:35.241Z"
         }
       },
       "baselineSlugs": [
