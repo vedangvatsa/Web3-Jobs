@@ -20915,11 +20915,30 @@
         "The Block"
       ],
       "id": "2a7c81f07dc6e3b3eb0f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T09:06:00.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "verified-event",
+      "note": "Verified Meanwhile 37.5M Bain Capital Crypto-led round with Altman backing and Bermuda insurance business across CoinDesk, the Business Wire company release via Morningstar, and crypto.news.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.morningstar.com/news/business-wire/20261008meanwhile-raises-375m",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/meanwhile-raises-37-5m-bain-capital-crypto/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T11:11:57.911Z",
+      "articleSlug": "meanwhile-raise",
+      "lastReviewedDay": "2026-10-09"
     },
     "9f11ca9ae896380c93c0": {
       "source": "CryptoSlate",
@@ -32601,6 +32620,27 @@
           ],
           "reviewedAt": "2026-10-09T11:11:56.121Z",
           "articleSlug": "empire-sentence"
+        },
+        "2a7c81f07dc6e3b3eb0f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Meanwhile 37.5M Bain Capital Crypto-led round with Altman backing and Bermuda insurance business across CoinDesk, the Business Wire company release via Morningstar, and crypto.news.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.morningstar.com/news/business-wire/20261008meanwhile-raises-375m",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/meanwhile-raises-37-5m-bain-capital-crypto/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:11:57.911Z",
+          "articleSlug": "meanwhile-raise"
         }
       },
       "baselineSlugs": [
