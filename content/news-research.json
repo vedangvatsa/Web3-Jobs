@@ -17408,17 +17408,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b110ea0056b771ffe65",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T15:10:15.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
+      "note": "Securitize tokenized stocks covered by securitize-stocks.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:55.604Z",
+      "reviewedAt": "2026-10-09T11:43:36.976Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "1b96b3a80a7d4b84f0ae": {
       "source": "Unchained",
@@ -33715,6 +33716,15 @@
           "reviewedAt": "2026-10-09T11:43:34.915Z",
           "duplicateOf": "cardano-standard",
           "mergedInto": "47785a59bf9afa150ab7"
+        },
+        "3b110ea0056b771ffe65": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Securitize tokenized stocks covered by securitize-stocks.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:36.976Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
         }
       },
       "baselineSlugs": [
