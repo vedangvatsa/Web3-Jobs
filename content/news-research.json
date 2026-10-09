@@ -19215,11 +19215,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "90d78758432a6842a6c0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T20:16:03.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "needs-corroboration",
+      "note": "Sepolia 200M gas activation verified only in Decrypt read; pairs with Glamsterdam candidate, needs second openable source.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:17:27.365Z",
+      "retrySearches": [
+        "Sepolia Glamsterdam epoch 353024 gas limit testnet"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "f19567ccdc1636cca1c4": {
       "source": "Decrypt",
@@ -32158,6 +32172,21 @@
           "reviewedAt": "2026-10-09T04:17:24.977Z",
           "retrySearches": [
             "Sepolia Glamsterdam 200 million gas limit October 6 2026"
+          ]
+        },
+        "90d78758432a6842a6c0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Sepolia 200M gas activation verified only in Decrypt read; pairs with Glamsterdam candidate, needs second openable source.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:27.365Z",
+          "retrySearches": [
+            "Sepolia Glamsterdam epoch 353024 gas limit testnet"
           ]
         }
       },
