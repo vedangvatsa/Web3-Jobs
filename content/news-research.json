@@ -11523,17 +11523,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d1b5e461acc4fc87814",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T00:00:12.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Oct 7 US seized-crypto Coinbase transfers with the 470M tally covered as context by bitfinex-move.",
+      "note": "Same Oct 7 seized-crypto Coinbase flows covered as context in bitfinex-move in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:58:52.377Z",
+      "reviewedAt": "2026-10-09T04:12:29.255Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "a745ae9b5abcb4207f2a": {
       "source": "CryptoSlate",
@@ -31054,6 +31055,15 @@
           "reviewedAt": "2026-10-09T04:12:25.177Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "1d1b5e461acc4fc87814": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 7 seized-crypto Coinbase flows covered as context in bitfinex-move in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:12:29.255Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
