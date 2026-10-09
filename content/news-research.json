@@ -20576,28 +20576,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "19357b6f78dfafe2a59e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:16:48.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified French finance-committee adoption of stablecoin swap-tax amendment I-CF1826 with loss relief and exit-tax details across Cointelegraph, TokenPost, crypto.news and the Assembly record; staged as committee vote, not enacted law.",
+      "reason": "source-blocked",
+      "note": "Cointelegraph France stablecoin-tax page failed to fetch in round 3 triage with no second outlet in queue. Next: find the budget-bill text or a second outlet and draft.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.tokenpost.com/news/regulation/28646",
-          "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/france-advances-stablecoin-tax-plan-and-10-year-crypto-loss-relief/",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T11:22:35.221Z",
+      "reviewedAt": "2026-10-09T14:16:21.166Z",
       "articleSlug": "france-tax",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -20606,7 +20598,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "France stablecoin swap tax budget bill draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "f7cc92328214d5e25bb3": {
       "source": "CoinDesk",
@@ -34855,6 +34851,21 @@
           "reviewedAt": "2026-10-09T14:16:19.018Z",
           "retrySearches": [
             "Robinhood T. Rowe Price stock token confirmation draft"
+          ]
+        },
+        "19357b6f78dfafe2a59e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Cointelegraph France stablecoin-tax page failed to fetch in round 3 triage with no second outlet in queue. Next: find the budget-bill text or a second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:21.166Z",
+          "retrySearches": [
+            "France stablecoin swap tax budget bill draft"
           ]
         }
       },
