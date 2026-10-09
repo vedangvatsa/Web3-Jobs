@@ -18067,25 +18067,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d95fa2d052471948ef8d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T14:39:48.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 read CoinDesk Oct 8 Project Eleven-Quantus Q1 2027 custody integration for post-quantum key management; needs company statements or second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T18:17:41.989Z",
+      "reason": "duplicate",
+      "note": "Same bunker-mode theme drafted as bunker-mode in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:37.116Z",
       "retrySearches": [
         "Project Eleven Quantus institutional custody Q1 2027 second outlet"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "bbfbc980f72f30b4800c": {
       "source": "CoinDesk",
@@ -31747,6 +31743,15 @@
           "note": "Same Drake bunker-mode warning drafted as bunker-mode in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:15:35.055Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "d95fa2d052471948ef8d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same bunker-mode theme drafted as bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:37.116Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
