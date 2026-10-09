@@ -21674,11 +21674,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "91eb678ea04331f1b685",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T05:25:27.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "out-of-scope",
+      "note": "Trump administration 6B science push on quantum and AI is federal research policy with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:58:07.512Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "d5427606298ee2c92134": {
       "source": "BeInCrypto",
@@ -32520,6 +32525,13 @@
           "note": "AI-agents shopping chargeback piece is a scenario explainer on merchant disputes with no launch, filing or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:58:05.549Z"
+        },
+        "91eb678ea04331f1b685": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Trump administration 6B science push on quantum and AI is federal research policy with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:58:07.512Z"
         }
       },
       "baselineSlugs": [
