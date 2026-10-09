@@ -20775,11 +20775,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c8e5464d8009c02f491",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:21:00.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "duplicate",
+      "note": "Same Oct 8 1B Bitfinex bitcoin move to unlabeled wallets already drafted as bitfinex-move in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T11:12:45.273Z",
+      "duplicateOf": "bitfinex-move",
+      "mergedInto": "be4753c98af4393ba28f",
+      "lastReviewedDay": "2026-10-09"
     },
     "62cd6c1ea3c742f4cf88": {
       "source": "CoinDesk",
@@ -32823,6 +32830,15 @@
           "note": "Same Oct 8 1B seized-bitcoin move after the 770M transfers already covered in bitfinex-move in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:12:43.398Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "4c8e5464d8009c02f491": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 1B Bitfinex bitcoin move to unlabeled wallets already drafted as bitfinex-move in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:12:45.273Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
