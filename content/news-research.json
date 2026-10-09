@@ -21147,11 +21147,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d2fab52ab6cb52bcc7b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T04:04:36.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "Ether bets wiped out at six times bitcoin rate in the 1B flush is liquidation price chatter, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:55.897Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "85e225c955abc653af52": {
       "source": "CryptoSlate",
@@ -32448,6 +32453,13 @@
           "note": "Speculators moving 55K BTC to exchanges amid liquidations is exchange-flow price chatter with no single verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:54.034Z"
+        },
+        "7d2fab52ab6cb52bcc7b": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Ether bets wiped out at six times bitcoin rate in the 1B flush is liquidation price chatter, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:55.897Z"
         }
       },
       "baselineSlugs": [
