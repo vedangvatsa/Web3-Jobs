@@ -1839,9 +1839,10 @@
           "url": "https://www.youtube.com/watch?v=kERAKOpnM1Q"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Senior Data Analyst at Solflare. Belgrade, Serbia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
-          "startedAt": "2026-10-09T11:34:26.360Z"
+          "startedAt": "2026-10-09T11:34:26.360Z",
+          "postId": "6ac8d143b9c4fe562db95065"
         }
       }
     }
