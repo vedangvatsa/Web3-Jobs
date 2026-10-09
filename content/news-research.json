@@ -19639,22 +19639,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "8ffe5aac80ee4f8e44aa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T20:40:19.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Circle-Tereina SAP Pay integration drafted as circle-sap; Mint-gating detail belongs to that story, not a distinct launch.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T04:15:23.902Z",
+      "note": "Same SAP Pay USDC story covered by circle-sap.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T12:01:53.837Z",
       "duplicateOf": "circle-sap",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "7932aabf918494530ac0"
     },
     "f60147e856eff36f6ea7": {
       "source": "CoinDesk",
@@ -34001,6 +33997,15 @@
           "reviewedAt": "2026-10-09T12:01:51.971Z",
           "duplicateOf": "ledger-loans",
           "mergedInto": "7d334a722b2c2115415a"
+        },
+        "8ffe5aac80ee4f8e44aa": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same SAP Pay USDC story covered by circle-sap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T12:01:53.837Z",
+          "duplicateOf": "circle-sap",
+          "mergedInto": "7932aabf918494530ac0"
         }
       },
       "baselineSlugs": [
