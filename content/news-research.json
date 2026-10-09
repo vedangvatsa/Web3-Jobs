@@ -12961,17 +12961,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "39a72fc1ef8eff10e953",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T07:10:59.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "duplicate",
-      "note": "Same Storm venue filing and Bitcoin Fog ruling already drafted as storm-venue in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:21.141Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph Storm acquittal-bid headline; pairs with the Decrypt venue piece opened this run. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:12:00.388Z",
       "duplicateOf": "storm-venue",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Roman Storm acquittal Bitcoin Fog Decrypt corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "78e886ce7b303d7c7c1f": {
       "source": "The Block",
@@ -34236,6 +34245,21 @@
           "reviewedAt": "2026-10-09T14:11:58.223Z",
           "retrySearches": [
             "Ledger bitcoin loans Morpho second outlet draft"
+          ]
+        },
+        "39a72fc1ef8eff10e953": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph Storm acquittal-bid headline; pairs with the Decrypt venue piece opened this run. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:12:00.388Z",
+          "retrySearches": [
+            "Roman Storm acquittal Bitcoin Fog Decrypt corroboration draft"
           ]
         }
       },
