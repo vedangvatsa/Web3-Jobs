@@ -19529,17 +19529,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "8ffe5aac80ee4f8e44aa",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T20:40:19.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same SAP Pay USDC story covered by circle-sap.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T12:01:53.837Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CryptoSlate SAP-Mint headline; pairs with the Cointelegraph Circle-SAP piece. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:14:40.600Z",
       "duplicateOf": "circle-sap",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "SAP USDC Circle Mint corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "f60147e856eff36f6ea7": {
       "source": "CoinDesk",
@@ -34757,6 +34766,21 @@
           "reviewedAt": "2026-10-09T14:14:38.270Z",
           "retrySearches": [
             "Cantor Tether Blumenthal records draft"
+          ]
+        },
+        "8ffe5aac80ee4f8e44aa": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CryptoSlate SAP-Mint headline; pairs with the Cointelegraph Circle-SAP piece. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:40.600Z",
+          "retrySearches": [
+            "SAP USDC Circle Mint corroboration draft"
           ]
         }
       },
