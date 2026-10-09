@@ -19579,11 +19579,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "7407ca7e3e0f94a9efa3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:05:54.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "verified-event",
+      "note": "Ondo Private Markets live with OpenAI note verified in Ondo blog, product page and CryptoTicker; exposure-only terms and eligibility confirmed.",
+      "sourceChecks": [
+        {
+          "url": "https://ondo.finance/blog/introducing-ondo-private-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ondo.finance/private-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoticker.io/en/ondo-private-markets-launch",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:12:09.030Z",
+      "articleSlug": "ondo-note",
+      "lastReviewedDay": "2026-10-09"
     },
     "0398136c795f44bd34ed": {
       "source": "The Defiant",
@@ -30870,6 +30893,31 @@
           ],
           "reviewedAt": "2026-10-09T04:12:07.173Z",
           "articleSlug": "sui-hashi"
+        },
+        "7407ca7e3e0f94a9efa3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Ondo Private Markets live with OpenAI note verified in Ondo blog, product page and CryptoTicker; exposure-only terms and eligibility confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://ondo.finance/blog/introducing-ondo-private-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ondo.finance/private-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoticker.io/en/ondo-private-markets-launch",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:12:09.030Z",
+          "articleSlug": "ondo-note"
         }
       },
       "baselineSlugs": [
