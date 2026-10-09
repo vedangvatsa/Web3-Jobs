@@ -11282,26 +11282,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "97826309e5398265914f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T15:56:49.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Lido Lend Morpho-fork proposal targeting Q4 verified in governance forum and CryptoBriefing; framed as proposal. Draft 869 words, audits clean.",
+      "reason": "source-blocked",
+      "note": "Defiant Lido Lend origin returned HTTP 403 to round 3; rounds 1-2 list the governance forum plus CryptoBriefing reads. Next: re-open those two and draft.",
       "sourceChecks": [
         {
-          "url": "https://research.lido.fi/t/unveiling-lido-lend-security-first-lending/11987",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/lido-lend-morpho-blue-fork-q4/",
-          "outcome": "read"
+          "url": "https://thedefiant.io/news/defi/lido-unveils-morpho-based-lending-protocol-for-staking-loops",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T12:01:39.543Z",
+      "reviewedAt": "2026-10-09T14:11:03.822Z",
       "retrySearches": [
-        "Lido Lend governance vote parameters audits"
+        "Lido Lend governance forum CryptoBriefing draft proposal"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "lido-lend",
@@ -11311,7 +11307,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "0955147a83933017387f": {
       "source": "Decrypt",
@@ -33987,6 +33984,21 @@
           "reviewedAt": "2026-10-09T14:11:01.633Z",
           "retrySearches": [
             "Hyperliquid Singapore MAS crypto.news Blockhead draft"
+          ]
+        },
+        "97826309e5398265914f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Lido Lend origin returned HTTP 403 to round 3; rounds 1-2 list the governance forum plus CryptoBriefing reads. Next: re-open those two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/lido-unveils-morpho-based-lending-protocol-for-staking-loops",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:03.822Z",
+          "retrySearches": [
+            "Lido Lend governance forum CryptoBriefing draft proposal"
           ]
         }
       },
