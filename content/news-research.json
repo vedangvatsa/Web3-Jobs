@@ -20128,11 +20128,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f60440751b5ec5c29e75",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T02:26:37.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "out-of-scope",
+      "note": "Skydance Paramount-Warner debt piece covers media M and A leverage with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:16:29.919Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "a107631a948ec7966b21": {
       "source": "The Defiant",
@@ -31905,6 +31910,13 @@
           "note": "SpaceX versus mobile carriers piece covers telecom stocks with no crypto event or nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:16:27.973Z"
+        },
+        "f60440751b5ec5c29e75": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Skydance Paramount-Warner debt piece covers media M and A leverage with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:16:29.919Z"
         }
       },
       "baselineSlugs": [
