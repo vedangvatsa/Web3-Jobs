@@ -12107,17 +12107,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c65ec88a9d5f318eeff",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T16:14:51.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Same Bank of Russia first-register story with Sberbank custody drafted as sberbank-register.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:12:43.445Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Bitcoin Magazine Sberbank custody headline; pairs with the Cointelegraph first-register piece. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:11:30.663Z",
       "duplicateOf": "sberbank-register",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Sberbank custody Bank of Russia register draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "ba0c708aa9eb48adefba": {
       "source": "Bitcoin Magazine",
@@ -34068,6 +34077,21 @@
           "reviewedAt": "2026-10-09T14:11:28.497Z",
           "retrySearches": [
             "Tether Kazakhstan tenge stablecoin Decrypt corroboration draft"
+          ]
+        },
+        "8c65ec88a9d5f318eeff": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Bitcoin Magazine Sberbank custody headline; pairs with the Cointelegraph first-register piece. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:30.663Z",
+          "retrySearches": [
+            "Sberbank custody Bank of Russia register draft"
           ]
         }
       },
