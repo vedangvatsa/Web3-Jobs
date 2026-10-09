@@ -13392,13 +13392,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "54d775eafeae3a222fce",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T00:35:24.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Cointelegraph buyer-search report and Oct 8 denial verified in CoinDesk, CryptoBriefing and CoinCentral; draft frames the claim as disputed throughout.",
+      "note": "Cointelegraph buyer-search claim and Oct 8 denial verified in CoinDesk, CryptoBriefing and CoinCentral; framed as disputed. Draft 679 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
@@ -13413,7 +13413,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:04.696Z",
+      "reviewedAt": "2026-10-09T12:07:20.789Z",
       "articleSlug": "mercury-sale",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -34027,6 +34027,27 @@
           ],
           "reviewedAt": "2026-10-09T12:07:18.795Z",
           "articleSlug": "rhyne-extortion"
+        },
+        "54d775eafeae3a222fce": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cointelegraph buyer-search claim and Oct 8 denial verified in CoinDesk, CryptoBriefing and CoinCentral; framed as disputed. Draft 679 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cointelegraph-seeks-buyer-traffic-collapse/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coincentral.com/cointelegraph-denies-report-it-is-seeking-a-buyer-after-traffic-collapse",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T12:07:20.789Z",
+          "articleSlug": "mercury-sale"
         }
       },
       "baselineSlugs": [
