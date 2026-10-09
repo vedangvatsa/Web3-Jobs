@@ -11507,17 +11507,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "23007533bd70cfbd0d1e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T01:19:18.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "duplicate",
-      "note": "BeInCrypto version of the same Drake bunker-mode warning and Buterin reply drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:07.830Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto Buterin AI warning page returned HTTP 403 to round 3; same Drake bunker-mode event verified in readable Decrypt and CoinDesk accounts. Next: re-open two readable outlets and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:57:47.279Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Drake bunker mode Buterin lattice reply two readable outlets draft bunker-mode"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "1d1b5e461acc4fc87814": {
       "source": "CryptoSlate",
@@ -36382,6 +36391,21 @@
           "reviewedAt": "2026-10-09T17:55:17.171Z",
           "duplicateOf": "dwf-bitgo",
           "mergedInto": "496643e7a159131009a6"
+        },
+        "23007533bd70cfbd0d1e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto Buterin AI warning page returned HTTP 403 to round 3; same Drake bunker-mode event verified in readable Decrypt and CoinDesk accounts. Next: re-open two readable outlets and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:57:47.279Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin lattice reply two readable outlets draft bunker-mode"
+          ]
         }
       },
       "baselineSlugs": [
