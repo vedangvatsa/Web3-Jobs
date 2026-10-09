@@ -13702,28 +13702,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "a69bf44691793495fd4a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T17:46:59.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Sui 40.6M TPS tunnel test at Basecamp verified in Sui blog, Cointelegraph and CryptoBriefing; test framing kept. Draft 821 words, audits clean.",
-      "sourceChecks": [
-        {
-          "url": "https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/sui-40-million-tps-basecamp-record/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T12:07:24.579Z",
+      "reason": "promotional",
+      "note": "Single-outlet vendor stress-test claim of 40.6M TPS on Sui offchain tunnels with no independent measurement or launch event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T14:12:08.991Z",
       "articleSlug": "sui-tunnels",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -34305,6 +34292,13 @@
           "retrySearches": [
             "Wells Fargo Kraken Payward talks confirmation draft"
           ]
+        },
+        "a69bf44691793495fd4a": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single-outlet vendor stress-test claim of 40.6M TPS on Sui offchain tunnels with no independent measurement or launch event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:12:08.991Z"
         }
       },
       "baselineSlugs": [
