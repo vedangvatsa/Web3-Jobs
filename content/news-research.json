@@ -10891,23 +10891,27 @@
       "id": "0104640e7b2b652586ba",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T17:54:45.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Anchorage-Routable acquisition seen only in blocked Defiant origin; needs company post or second outlet with terms.",
+      "reason": "needs-corroboration",
+      "note": "Anchorage-Routable acquisition verified in company release read; one independent outlet open still needed for terms and close status.",
       "sourceChecks": [
+        {
+          "url": "https://www.anchorage.com/press-room/anchorage-digital-acquires-routable-extending-its-institutional-platform-to-the-payment-rails-of-the-worlds-largest-companies",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:19:15.032Z",
+      "reviewedAt": "2026-10-09T04:17:06.128Z",
       "retrySearches": [
-        "Anchorage Routable acquisition terms price"
+        "Anchorage Routable acquisition Axios BankingDive October 2026"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "7de78afd1b8f17875c74": {
       "source": "Cointelegraph",
@@ -32057,6 +32061,25 @@
           "reviewedAt": "2026-10-09T04:17:00.479Z",
           "retrySearches": [
             "Amir Taaki deported Singapore October 2026 DarkFi confirmation"
+          ]
+        },
+        "0104640e7b2b652586ba": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Anchorage-Routable acquisition verified in company release read; one independent outlet open still needed for terms and close status.",
+          "sourceChecks": [
+            {
+              "url": "https://www.anchorage.com/press-room/anchorage-digital-acquires-routable-extending-its-institutional-platform-to-the-payment-rails-of-the-worlds-largest-companies",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:06.128Z",
+          "retrySearches": [
+            "Anchorage Routable acquisition Axios BankingDive October 2026"
           ]
         }
       },
