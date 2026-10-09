@@ -1832,10 +1832,11 @@
           "url": "https://www.instagram.com/reel/DeRaUZ9jnUs/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Belgrade, Serbia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-09T11:34:19.826Z",
-          "postId": "6ac8d13d5e9e68eeb1dcbe58"
+          "postId": "6ac8d13d5e9e68eeb1dcbe58",
+          "url": "https://www.youtube.com/watch?v=kERAKOpnM1Q"
         }
       }
     }
