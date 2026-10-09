@@ -19908,11 +19908,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f6f7be9c8cb584fca73",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T00:46:27.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "duplicate",
+      "note": "Same Blumenthal Cantor-Tether probe drafted as cantor-probe in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:14:59.772Z",
+      "duplicateOf": "cantor-probe",
+      "mergedInto": "3c7573a4e5dbe80c2c0a",
+      "lastReviewedDay": "2026-10-09"
     },
     "99dff87f954749a3c3aa": {
       "source": "CoinDesk",
@@ -31604,6 +31611,15 @@
           "reviewedAt": "2026-10-09T04:14:54.767Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
+        },
+        "4f6f7be9c8cb584fca73": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blumenthal Cantor-Tether probe drafted as cantor-probe in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:59.772Z",
+          "duplicateOf": "cantor-probe",
+          "mergedInto": "3c7573a4e5dbe80c2c0a"
         }
       },
       "baselineSlugs": [
