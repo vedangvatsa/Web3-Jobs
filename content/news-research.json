@@ -24761,11 +24761,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "368c99d2c809c3ce18b9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T20:00:29.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "source-blocked",
+      "note": "XRP Ledger account-duties feature seen only in single CryptoSlate origin; needs Ripple or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:41:17.477Z",
+      "retrySearches": [
+        "XRP Ledger account delegation institutions keys feature announcement"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "cf7f677d465ab1ca9d58": {
       "source": "CryptoSlate",
@@ -38803,6 +38817,21 @@
           "reviewedAt": "2026-10-09T23:41:15.720Z",
           "retrySearches": [
             "Kalshi probes bets Trump press secretary pick WSJ insider trading"
+          ]
+        },
+        "368c99d2c809c3ce18b9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "XRP Ledger account-duties feature seen only in single CryptoSlate origin; needs Ripple or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:41:17.477Z",
+          "retrySearches": [
+            "XRP Ledger account delegation institutions keys feature announcement"
           ]
         }
       },
