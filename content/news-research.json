@@ -10868,26 +10868,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "82cff8bbba1d2449bb5f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-09T18:19:35.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "verified-event",
-      "note": "220K digital rouble accounts vs 60K forecast verified in Reuters wire and CryptoBriefing; distinct from wages pilot. Draft 754 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph digital-ruble surge headline; rounds 1-2 list a Reuters wire mirror plus CryptoBriefing reads. Next: re-open both and draft.",
       "sourceChecks": [
         {
-          "url": "https://live.euronext.com/en/financial-news/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-bank",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/digital-ruble-accounts-top-220000-first-month/",
+          "url": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:54:54.573Z",
+      "reviewedAt": "2026-10-09T14:10:59.559Z",
       "retrySearches": [
-        "digital ruble rollout wave banks universal license 2027"
+        "digital ruble 220000 accounts Reuters CryptoBriefing draft"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "ruble-accounts",
@@ -10897,7 +10893,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "0104640e7b2b652586ba": {
       "source": "The Defiant",
@@ -33964,6 +33961,21 @@
           "reviewedAt": "2026-10-09T14:10:57.412Z",
           "retrySearches": [
             "Kalshi US500 perpetual FinanceMagnates MarketsMedia draft"
+          ]
+        },
+        "82cff8bbba1d2449bb5f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph digital-ruble surge headline; rounds 1-2 list a Reuters wire mirror plus CryptoBriefing reads. Next: re-open both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:10:59.559Z",
+          "retrySearches": [
+            "digital ruble 220000 accounts Reuters CryptoBriefing draft"
           ]
         }
       },
