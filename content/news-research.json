@@ -12431,17 +12431,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "ef70587c25b3a339f650",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T14:55:32.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same BitMine 5 percent hard-cap story drafted as bitmine-cap in this run.",
+      "note": "BitMine 5 percent cap covered by bitmine-cap.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:12:51.765Z",
+      "reviewedAt": "2026-10-09T11:43:22.593Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "975d9f51a02a30183717": {
       "source": "CoinDesk",
@@ -33645,6 +33646,15 @@
           "reviewedAt": "2026-10-09T11:43:20.632Z",
           "duplicateOf": "robinhood-bitcoin",
           "mergedInto": "e04537f91ce4996c0500"
+        },
+        "ef70587c25b3a339f650": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "BitMine 5 percent cap covered by bitmine-cap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:22.593Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
         }
       },
       "baselineSlugs": [
