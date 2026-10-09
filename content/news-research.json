@@ -23776,11 +23776,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c1d0d154bba53b41bc48",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:38:38.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "source-blocked",
+      "note": "Defiant LiquidAcre-Uphold page returned HTTP 403 to round 3; single trade-outlet source on infrastructure partnership. Next: find LiquidAcre or Uphold announcement plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:52.776Z",
+      "retrySearches": [
+        "LiquidAcre Uphold digital asset infrastructure announcement"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "bf34f2622a6f3f3d5bbb": {
       "source": "Cointelegraph",
@@ -36920,6 +36934,21 @@
           "reviewedAt": "2026-10-09T17:58:47.708Z",
           "retrySearches": [
             "Franklin Templeton Animoca NUVA asset lineup notice"
+          ]
+        },
+        "c1d0d154bba53b41bc48": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant LiquidAcre-Uphold page returned HTTP 403 to round 3; single trade-outlet source on infrastructure partnership. Next: find LiquidAcre or Uphold announcement plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:52.776Z",
+          "retrySearches": [
+            "LiquidAcre Uphold digital asset infrastructure announcement"
           ]
         }
       },
