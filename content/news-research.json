@@ -12703,35 +12703,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "e04537f91ce4996c0500",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T10:04:35.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "verified-event",
-      "note": "Robinhood 25M dollar BTC buy disclosed by Kerbrat at DAS Asia verified in Unchained, CoinDesk and Bitcoin Magazine; first holding, 294 BTC estimate and custody split confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Unchained Robinhood 25M buy page fetched HTTP 200 but round 3 did not complete a full re-read; rounds 1-2 list Unchained plus CoinDesk plus Bitcoin Magazine reads. Next: full-read two and draft robinhood-bitcoin.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/robinhood-puts-25-million-of-bitcoin-on-its-balance-sheet-executive-says/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
-          "outcome": "read"
-        },
-        {
-          "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
-          "outcome": "read"
+          "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T13:59:49.404Z",
+      "reviewedAt": "2026-10-09T17:59:37.727Z",
       "articleSlug": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "Robinhood 25M Kerbrat Unchained CoinDesk full read draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "4954b8be94596f23a77e": {
       "source": "Decrypt",
@@ -37171,6 +37167,21 @@
           "reviewedAt": "2026-10-09T17:59:35.836Z",
           "retrySearches": [
             "Robinhood bitcoin balance sheet Bitcoin Magazine full read draft"
+          ]
+        },
+        "e04537f91ce4996c0500": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Unchained Robinhood 25M buy page fetched HTTP 200 but round 3 did not complete a full re-read; rounds 1-2 list Unchained plus CoinDesk plus Bitcoin Magazine reads. Next: full-read two and draft robinhood-bitcoin.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:37.727Z",
+          "retrySearches": [
+            "Robinhood 25M Kerbrat Unchained CoinDesk full read draft"
           ]
         }
       },
