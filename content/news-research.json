@@ -22985,11 +22985,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe698f27fac724e48c17",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T15:29:41.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "source-blocked",
+      "note": "Defiant Tether Ledger-theft freeze page returned HTTP 403 to round 3; existing tether-freeze covers a different Conduit lawsuit freeze. Next: find MistTrack report plus second outlet on Ledger-linked freeze.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:34.717Z",
+      "retrySearches": [
+        "Tether freeze Ledger user thefts MistTrack second outlet"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "d6ebc8a19d31822069ab": {
       "source": "The Defiant",
@@ -36746,6 +36760,21 @@
           "reviewedAt": "2026-10-09T17:58:29.483Z",
           "retrySearches": [
             "SEC cross trading registered funds proposal October 2026 mirror"
+          ]
+        },
+        "fe698f27fac724e48c17": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Tether Ledger-theft freeze page returned HTTP 403 to round 3; existing tether-freeze covers a different Conduit lawsuit freeze. Next: find MistTrack report plus second outlet on Ledger-linked freeze.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:34.717Z",
+          "retrySearches": [
+            "Tether freeze Ledger user thefts MistTrack second outlet"
           ]
         }
       },
