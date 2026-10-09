@@ -22427,11 +22427,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "f669a9dcee8b304958e7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T16:22:45.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "verified-event",
+      "note": "Verified Blockchain.com Oct 9 CFTC DCM plus FCM applications across CNBC company disclosure, Cointelegraph and FinanceMagnates with Smith quote, Polymarket-Hyperliquid international base, Aug 25 NFA pending status and IPO terms.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.financemagnates.com/fintech/from-reseller-to-exchange-blockchaincom-moves-to-bring-us-derivatives-in-house/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:55:04.458Z",
+      "articleSlug": "blockchain-cftc",
+      "lastReviewedDay": "2026-10-09"
     },
     "86f3a145bde0d3311251": {
       "source": "Decrypt",
@@ -36258,6 +36277,27 @@
           "reviewedAt": "2026-10-09T17:49:45.739Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "f669a9dcee8b304958e7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Blockchain.com Oct 9 CFTC DCM plus FCM applications across CNBC company disclosure, Cointelegraph and FinanceMagnates with Smith quote, Polymarket-Hyperliquid international base, Aug 25 NFA pending status and IPO terms.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.financemagnates.com/fintech/from-reseller-to-exchange-blockchaincom-moves-to-bring-us-derivatives-in-house/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:55:04.458Z",
+          "articleSlug": "blockchain-cftc"
         }
       },
       "baselineSlugs": [
