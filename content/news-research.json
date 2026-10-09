@@ -15726,20 +15726,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "860da2d41ccdf27f0d30",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T09:42:04.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Cointelegraph version of the same ESMA three-month wind-down opinion drafted as esma-stablecoins.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:00:30.963Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read CoinDesk on ESMA Oct 8 opinion with Jan 8 2027 wind-down deadline and exit-only services; draft not yet written. Next: re-open Cointelegraph plus ESMA PDF primary and draft esma-stablecoins.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:00:49.184Z",
       "retrySearches": [
-        "ESMA stablecoin January 2027 deadline statement second outlet"
+        "ESMA opinion stablecoin wind-down Cointelegraph ESMA PDF draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "esma-stablecoins"
+      "duplicateOf": "esma-stablecoins",
+      "nextReviewDate": "2026-10-10"
     },
     "d9e5ae4047dd36ca736e": {
       "source": "CoinDesk",
@@ -37401,6 +37407,21 @@
           "reviewedAt": "2026-10-09T18:00:40.340Z",
           "retrySearches": [
             "Bitcoin Magazine Greece tax full read Reuters draft"
+          ]
+        },
+        "860da2d41ccdf27f0d30": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read CoinDesk on ESMA Oct 8 opinion with Jan 8 2027 wind-down deadline and exit-only services; draft not yet written. Next: re-open Cointelegraph plus ESMA PDF primary and draft esma-stablecoins.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:00:49.184Z",
+          "retrySearches": [
+            "ESMA opinion stablecoin wind-down Cointelegraph ESMA PDF draft"
           ]
         }
       },
