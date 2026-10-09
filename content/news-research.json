@@ -19601,11 +19601,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "72abe9d593ff7eec4021",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:16:03.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "out-of-scope",
+      "note": "Google Gemini coworker email feature is a mainstream AI product story with no Web3 nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T00:00:00.421Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "7407ca7e3e0f94a9efa3": {
       "source": "The Defiant",
@@ -29094,6 +29099,13 @@
           "note": "Netflix FTX trailer mockery on social media is entertainment chatter with no verifiable Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-08T23:59:58.468Z"
+        },
+        "72abe9d593ff7eec4021": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Google Gemini coworker email feature is a mainstream AI product story with no Web3 nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:00.421Z"
         }
       },
       "baselineSlugs": [
