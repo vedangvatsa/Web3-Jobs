@@ -8288,26 +8288,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "d1c0c41c21a98aa3f029",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-09T17:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "verified-event",
-      "note": "Founders Fund 5M ANVL buy with Pantera verified in CoinDesk and GlobeNewswire release; SDK and partnerships confirmed. Draft 862 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Anvil headline; rounds 1-2 list CoinDesk plus GlobeNewswire reads. Next: re-open both and draft the 5M ANVL buy.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale/2441951",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:54:47.928Z",
+      "reviewedAt": "2026-10-09T14:10:46.421Z",
       "retrySearches": [
-        "Anvil ANVL token valuation SDK enterprise partnerships"
+        "Anvil ANVL 5M Founders Fund Pantera GlobeNewswire draft figures"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "anvil-token",
@@ -8317,7 +8313,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "c975d95267ed63707c56": {
       "source": "CoinDesk",
@@ -33882,6 +33879,21 @@
           "reviewedAt": "2026-10-09T14:10:44.247Z",
           "retrySearches": [
             "Roman Storm venue filing Bitcoin Fog ruling second outlet October 2026"
+          ]
+        },
+        "d1c0c41c21a98aa3f029": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Anvil headline; rounds 1-2 list CoinDesk plus GlobeNewswire reads. Next: re-open both and draft the 5M ANVL buy.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:10:46.421Z",
+          "retrySearches": [
+            "Anvil ANVL 5M Founders Fund Pantera GlobeNewswire draft figures"
           ]
         }
       },
