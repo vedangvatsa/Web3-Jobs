@@ -16541,11 +16541,11 @@
       "id": "be4753c98af4393ba28f",
       "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "Oct 8 US 12,267 BTC .01B Bitfinex-seizure move to unlabeled wallets verified via Arkham data in both outlets, plus Oct 7 Coinbase Prime flows and March 2025 reserve policy. Read CoinDesk and Decrypt.",
+      "note": "Oct 8 US 12,267 BTC 1B Bitfinex-seizure move verified via Arkham data in CoinDesk and Decrypt; Oct 7 Coinbase flows and reserve policy confirmed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
@@ -16556,9 +16556,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T23:57:52.925Z",
+      "reviewedAt": "2026-10-09T04:10:29.924Z",
       "articleSlug": "bitfinex-move",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30088,6 +30088,23 @@
           ],
           "reviewedAt": "2026-10-09T04:10:27.851Z",
           "articleSlug": "samsung-usdc"
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Oct 8 US 12,267 BTC 1B Bitfinex-seizure move verified via Arkham data in CoinDesk and Decrypt; Oct 7 Coinbase flows and reserve policy confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:29.924Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
