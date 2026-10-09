@@ -24082,22 +24082,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "625750d26ecc321a617e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T13:24:12.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "duplicate",
-      "note": "Same DWF affiliates 141M BitGo suit over early FF and ESPORTS sales already drafted as dwf-bitgo; Unchained version read as second corroborating source.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T17:55:17.171Z",
+      "note": "Same DWF affiliates 141M BitGo suit covered by dwf-bitgo.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:40:42.402Z",
       "duplicateOf": "dwf-bitgo",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "496643e7a159131009a6"
     },
     "086f433689c7a72fd7a9": {
       "source": "The Block",
@@ -38540,6 +38536,15 @@
           "reviewedAt": "2026-10-09T23:40:40.655Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "625750d26ecc321a617e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same DWF affiliates 141M BitGo suit covered by dwf-bitgo.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:42.402Z",
+          "duplicateOf": "dwf-bitgo",
+          "mergedInto": "496643e7a159131009a6"
         }
       },
       "baselineSlugs": [
