@@ -17186,28 +17186,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d71a9d867c5924200b7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Securitize Oct 8 tokenized stocks launch verified in Decrypt, CoinDesk and PRNewswire release: 12 names 1-for-1 backed, PropAMM, NYSE plans. Draft 878 words, audits clean.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T11:43:03.394Z",
+      "reason": "duplicate",
+      "note": "Same Securitize Oct 8 tokenized stocks launch on Solana already drafted as securitize-stocks in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:24:07.773Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "securitize-stocks",
@@ -17217,7 +17204,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "mergedInto": "b4cab21a62516fd28dba"
     },
     "3b110ea0056b771ffe65": {
       "source": "The Defiant",
@@ -33119,6 +33107,15 @@
           "reviewedAt": "2026-10-09T13:24:02.128Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize Oct 8 tokenized stocks launch on Solana already drafted as securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:24:07.773Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
         }
       },
       "baselineSlugs": [
