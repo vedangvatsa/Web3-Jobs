@@ -18918,28 +18918,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "b94981880c3d659e2dd8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T18:30:35.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Derive V3 Oct 8 launch retiring Derive Chain verified in Bankless, TokenPost and governance forum; zkVM exchange with L1 custody confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Bankless Derive V3 headline; single outlet so far. Next: find a Derive announcement or second outlet and draft.",
       "sourceChecks": [
         {
           "url": "https://www.bankless.com/read/news/derive-v3-goes-live-moving-onchain-options-custody-to-ethereum",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.tokenpost.com/news/technology/28410",
-          "outcome": "read"
-        },
-        {
-          "url": "https://forums.derive.xyz/t/dip-launch-derive-v3/322",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:44.561Z",
+      "reviewedAt": "2026-10-09T14:14:32.947Z",
       "articleSlug": "derive-v3",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -18953,7 +18945,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Derive V3 Ethereum custody announcement draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "082e493221b37a47877c": {
       "source": "Decrypt",
@@ -34711,6 +34707,21 @@
           "reviewedAt": "2026-10-09T14:14:30.100Z",
           "retrySearches": [
             "WhiteBIT Lightning integration notice draft"
+          ]
+        },
+        "b94981880c3d659e2dd8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Bankless Derive V3 headline; single outlet so far. Next: find a Derive announcement or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/derive-v3-goes-live-moving-onchain-options-custody-to-ethereum",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:32.947Z",
+          "retrySearches": [
+            "Derive V3 Ethereum custody announcement draft"
           ]
         }
       },
