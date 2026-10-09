@@ -22843,11 +22843,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b55e715b81b3ef155332",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T15:20:36.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin consolidates near 82.5K piece is intraday price action on Ledger theft reports with no new crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:05.756Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "ee15793b442eee359409": {
       "source": "Bitcoin Magazine",
@@ -35905,6 +35910,13 @@
           "note": "Starknet 20 percent jump on L1-shift talk is price movement on floated consideration with no vote or decision.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:02.731Z"
+        },
+        "b55e715b81b3ef155332": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin consolidates near 82.5K piece is intraday price action on Ledger theft reports with no new crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:05.756Z"
         }
       },
       "baselineSlugs": [
