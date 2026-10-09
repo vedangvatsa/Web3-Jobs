@@ -2344,5 +2344,49 @@
     "slotKey": "2026-10-08:evening",
     "messageId": 114,
     "sentAt": "2026-10-08T20:17:25.478Z"
+  },
+  "095d405c-5f97-458a-816a-2349f9ced3ff": {
+    "status": "reserved",
+    "reservedAt": "2026-10-09T19:52:27.440Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "e353d1bc-9b67-476f-846c-961e1db8c49b",
+        "slug": "engineer302",
+        "url": "https://hashtagweb3.com/engineer302?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "key": "4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
+        "slug": "engineer110",
+        "url": "https://hashtagweb3.com/engineer110?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Mobile Engineer"
+      },
+      {
+        "key": "4975129101",
+        "slug": "security263",
+        "url": "https://hashtagweb3.com/security263?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Internal Audit Manager"
+      },
+      {
+        "key": "4c9cafd3-0ff5-4497-aa85-4fcc4945247a",
+        "slug": "head74",
+        "url": "https://hashtagweb3.com/head74?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Head of Financial Risk Management"
+      },
+      {
+        "key": "8237b5c4-d59f-42bc-a016-4ac2b81c6ca5",
+        "slug": "sales39",
+        "url": "https://hashtagweb3.com/sales39?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockstream",
+        "title": "Business Development Representative"
+      }
+    ],
+    "message": "• Polymarket is hiring <a href=\"https://hashtagweb3.com/engineer302?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Ramp is hiring <a href=\"https://hashtagweb3.com/engineer110?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Mobile Engineer</a>\n• Bybit is hiring <a href=\"https://hashtagweb3.com/security263?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Internal Audit Manager</a>\n• Kraken is hiring <a href=\"https://hashtagweb3.com/head74?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Financial Risk Management</a>\n• Blockstream is hiring <a href=\"https://hashtagweb3.com/sales39?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Representative</a>",
+    "slotKey": "2026-10-09:evening"
   }
 }
