@@ -12231,17 +12231,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "c44addcd0ee193c5ca8c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T15:36:11.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Coinbase Deribit integration covered by coinbase-pro.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:36:42.851Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph Deribit-to-US headline; pairs with the Unchained integration piece opened this run. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:11:34.982Z",
       "duplicateOf": "coinbase-pro",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Coinbase Deribit US options Unchained corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "36c61b06f6a67f1e56db": {
       "source": "Decrypt",
@@ -34116,6 +34125,21 @@
           "reviewedAt": "2026-10-09T14:11:32.774Z",
           "retrySearches": [
             "Ledger Morpho bitcoin loans second outlet draft"
+          ]
+        },
+        "c44addcd0ee193c5ca8c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph Deribit-to-US headline; pairs with the Unchained integration piece opened this run. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:34.982Z",
+          "retrySearches": [
+            "Coinbase Deribit US options Unchained corroboration draft"
           ]
         }
       },
