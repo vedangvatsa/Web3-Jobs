@@ -997,5 +997,38 @@
     "slotKey": "2026-10-07:evening",
     "messageId": 65737,
     "sentAt": "2026-10-07T19:34:49.096Z"
+  },
+  "e48a7a06-07e0-4c44-b537-a76c4788f018": {
+    "status": "sent",
+    "reservedAt": "2026-10-08T20:18:16.287Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Brevan Howard to Use Ripple Prime for Brokerage Services",
+        "summary": "The asset manager will utilize the platform for clearing and financing across traditional and digital markets.",
+        "link": "https://hashtagweb3.com/ripple-prime?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Brevan Howard Taps Ripple Prime for Brokerage and Clearing"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Activates Glamsterdam Upgrade on Sepolia Testnet",
+        "summary": "The October 6 launch tests a 200 million gas limit and new block rules.",
+        "link": "https://hashtagweb3.com/sepolia-fork?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Activates Glamsterdam Upgrade on Sepolia Testnet"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Completes First Atomic L1 to L2 Mainnet Transaction",
+        "summary": "The demonstration linked layer 1 and layer 2 in a single all-or-nothing operation on October 5 and 6.",
+        "link": "https://hashtagweb3.com/eez-atomic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Economic Zone Tests First Atomic L1 to L2 Transaction"
+      }
+    ],
+    "slotKey": "2026-10-08:evening",
+    "messageId": 65738,
+    "sentAt": "2026-10-08T20:18:18.576Z"
   }
 }

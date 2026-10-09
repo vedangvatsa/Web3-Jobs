@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-08T19:31:39.347Z",
+  "generatedAt": "2026-10-09T03:37:37.131Z",
   "items": [
+    {
+      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+      "pubDate": "Fri, 09 Oct 2026 03:27:38 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+      "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 09 Oct 2026 03:08:51 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties  ",
+      "link": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 09 Oct 2026 00:46:27 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+      "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 08 Oct 2026 22:35:00 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+      "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+      "pubDate": "Thu, 08 Oct 2026 20:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+      "link": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+      "pubDate": "Thu, 08 Oct 2026 19:46:15 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poi...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+      "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 08 Oct 2026 19:31:38 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-...",
+      "source": "Cointelegraph"
+    },
     {
       "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
       "link": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
@@ -114,14 +170,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes ",
-      "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 15:55:55 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
       "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
       "pubDate": "Thu, 08 Oct 2026 15:42:16 +0000",
@@ -136,14 +184,6 @@
       "creator": "Olivier Acuna",
       "contentSnippet": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-      "pubDate": "Thu, 08 Oct 2026 15:10:49 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Sola...",
-      "source": "Decrypt"
     },
     {
       "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
@@ -192,6 +232,14 @@
       "creator": "Christina Comben",
       "contentSnippet": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protoco...",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+      "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+      "pubDate": "Thu, 08 Oct 2026 13:06:24 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital...",
+      "source": "Coindesk"
     },
     {
       "title": "EU lawmakers push crypto onto anti-corruption agenda",
@@ -258,11 +306,11 @@
       "source": "Coindesk"
     },
     {
-      "title": "Live updates: Bitcoin adds to declines, testing $80,000 level",
+      "title": "Live updates: Bitcoin pulls off worst levels late in Thursday session",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "pubDate": "Thu, 08 Oct 2026 10:44:47 +0000",
       "creator": "James Van Straten",
-      "contentSnippet": "Crypto markets are tumbling on Thursday, with cryptography fears, rising oil prices and interest rates, and the one-year anniversary of last October's...",
+      "contentSnippet": "Crypto markets tumbled on Thursday, with cryptography fears, rising oil prices and interest rates, and the one-year anniversary of last October's flas...",
       "source": "Coindesk"
     },
     {
@@ -328,14 +376,6 @@
       "creator": "Ezra Reguerra",
       "contentSnippet": "NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR Intents surpassed $31 billion in cumulative transaction volume.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Solana (SOL) Sees Record Tokenized Equity Growth in September 2026",
-      "link": "https://Blockchain.News/news/solana-tokenized-equity-growth-september-2026",
-      "pubDate": "Thu, 08 Oct 2026 08:15:49 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "September 2026 marked significant growth for Solana (SOL), hosting over half of the year's tokenized equity volume and reaching new records in stablec...",
-      "source": "Blockchain.News"
     },
     {
       "title": "SEC Pursues Final Judgment Against Former Western Asset Co-CIO Ken Leech",
@@ -434,14 +474,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-      "pubDate": "Thu, 08 Oct 2026 00:35:24 +0000",
-      "creator": "Ian Allison",
-      "contentSnippet": "The amount of money the crypto media firm has been shopping itself for was not revealed.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
       "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 07 Oct 2026 20:48:34 +0000",
@@ -464,14 +496,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
-      "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-      "pubDate": "Wed, 07 Oct 2026 18:59:32 +0000",
-      "creator": "Will Canny",
-      "contentSnippet": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
-      "source": "Coindesk"
     },
     {
       "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
@@ -498,28 +522,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 15:36:11 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
       "link": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
       "pubDate": "Wed, 07 Oct 2026 15:34:31 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 15:06:14 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
@@ -538,28 +546,12 @@
       "source": "The Block"
     },
     {
-      "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO ",
-      "link": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 12:29:39 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Some traders are looking for more predictable prediction market opportunities, rather than playing “hot potato” with the next 100x gem, according to P...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
       "link": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
       "pubDate": "Wed, 07 Oct 2026 12:18:43 +0000",
       "creator": "Tyler Warner",
       "contentSnippet": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Crypto card access doesn’t match global demand, Tangem says",
-      "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 11:37:48 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Crypto card demand can be stronger where access is harder, Tangem says, as it expands its Visa payment offering, allowing users to spend from its self...",
-      "source": "Cointelegraph"
     },
     {
       "title": "NEAR’s Polosukhin sees shrinking need for centralized exchanges as onchain tools expand",
@@ -631,14 +623,6 @@
       "pubDate": "Tue, 06 Oct 2026 20:28:53 +0000",
       "creator": "Agent",
       "contentSnippet": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-      "link": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
-      "pubDate": "Tue, 06 Oct 2026 19:46:04 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to—and has profit...",
       "source": "Decrypt"
     }
   ]
