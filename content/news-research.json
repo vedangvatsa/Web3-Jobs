@@ -12963,17 +12963,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "78e886ce7b303d7c7c1f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T07:08:36.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same Robinhood 25M BTC balance-sheet buy covered by robinhood-bitcoin in this run.",
+      "note": "Same Robinhood 25M BTC balance-sheet story drafted as robinhood-bitcoin in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T20:07:48.025Z",
+      "reviewedAt": "2026-10-09T04:13:05.936Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "e04537f91ce4996c0500"
     },
     "8e04d51579a11af2f2df": {
       "source": "CoinDesk",
@@ -31204,6 +31205,15 @@
           "reviewedAt": "2026-10-09T04:13:04.108Z",
           "duplicateOf": "storm-venue",
           "mergedInto": "4954b8be94596f23a77e"
+        },
+        "78e886ce7b303d7c7c1f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Robinhood 25M BTC balance-sheet story drafted as robinhood-bitcoin in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:13:05.936Z",
+          "duplicateOf": "robinhood-bitcoin",
+          "mergedInto": "e04537f91ce4996c0500"
         }
       },
       "baselineSlugs": [
