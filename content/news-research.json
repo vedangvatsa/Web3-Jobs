@@ -8930,13 +8930,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "45c21342fa7bb3b8990c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-09T13:00:48.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "verified-event",
-      "note": "Fortitude Oct 5 BITMAIN LOI up to 100M with 20M refundable deposit verified in company mirror and Bitcoin.com; draft flags non-binding status throughout.",
+      "note": "Fortitude Oct 5 BITMAIN LOI up to 100M with 20M refundable deposit verified in company mirror and Bitcoin.com; non-binding flagged. Draft 724 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://heartsciences.com/news/fortitude-bitmain-supply/",
@@ -8951,7 +8951,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:06.613Z",
+      "reviewedAt": "2026-10-09T11:54:50.375Z",
       "retrySearches": [
         "Fortitude BITMAIN ZEC miners binding agreement specs pricing"
       ],
@@ -33812,6 +33812,27 @@
           ],
           "reviewedAt": "2026-10-09T11:54:47.928Z",
           "articleSlug": "anvil-token"
+        },
+        "45c21342fa7bb3b8990c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Fortitude Oct 5 BITMAIN LOI up to 100M with 20M refundable deposit verified in company mirror and Bitcoin.com; non-binding flagged. Draft 724 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://heartsciences.com/news/fortitude-bitmain-supply/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/mining/fortitude-bets-100-million-bitmain-zcash-mining-hardware/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:54:50.375Z",
+          "articleSlug": "fortitude-zcash"
         }
       },
       "baselineSlugs": [
