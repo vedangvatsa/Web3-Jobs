@@ -16012,23 +16012,23 @@
       "id": "951a3273d39a1cd34d50",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T06:17:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Read CoinDesk Oct 8 Ripple Prime leveraged-ETF financing story based on WSJ; WSJ original and second outlet not yet opened.",
+      "reason": "needs-corroboration",
+      "note": "Ripple financing leveraged stock bets seen only in blocked origin; needs Ripple disclosure or second outlet on the business.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:29:09.446Z",
+      "reviewedAt": "2026-10-09T04:17:44.968Z",
       "retrySearches": [
-        "Ripple Prime leveraged ETF financing Wall Street Journal Hidden Road Brevan Howard"
+        "Ripple financing leveraged stock bets prime brokerage"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "2abe9d6cedb8bf1b7f04": {
       "source": "BeInCrypto",
@@ -32232,6 +32232,21 @@
           "reviewedAt": "2026-10-09T04:17:43.014Z",
           "retrySearches": [
             "ASICID new crypto miners specs release"
+          ]
+        },
+        "951a3273d39a1cd34d50": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Ripple financing leveraged stock bets seen only in blocked origin; needs Ripple disclosure or second outlet on the business.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:44.968Z",
+          "retrySearches": [
+            "Ripple financing leveraged stock bets prime brokerage"
           ]
         }
       },
