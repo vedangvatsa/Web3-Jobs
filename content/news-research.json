@@ -20677,11 +20677,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "55e5b088109341dbdee5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:44:22.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin steadying near 82,500 on Trump Iran remarks is intraday price movement on political news, not a crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:48.082Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "cfb84dbee91c6c9c59e0": {
       "source": "Unchained",
@@ -32424,6 +32429,13 @@
           "note": "Why-is-the-market-up piece is intraday price roundup with no filing, launch, vote or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:46.211Z"
+        },
+        "55e5b088109341dbdee5": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin steadying near 82,500 on Trump Iran remarks is intraday price movement on political news, not a crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:48.082Z"
         }
       },
       "baselineSlugs": [
