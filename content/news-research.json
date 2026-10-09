@@ -17614,17 +17614,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e9948d74caa61550c47",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T17:46:44.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same NFL pushback on prediction markets at Supreme Court as covered by nfl-kalshi in this run.",
+      "note": "Same NFL amicus SCOTUS fight drafted as nfl-kalshi in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:33.801Z",
+      "reviewedAt": "2026-10-09T04:14:04.637Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "817d26b99c3d48e348ee": {
       "source": "The Block",
@@ -31414,6 +31415,15 @@
           "reviewedAt": "2026-10-09T04:13:59.645Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "6e9948d74caa61550c47": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL amicus SCOTUS fight drafted as nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:04.637Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
