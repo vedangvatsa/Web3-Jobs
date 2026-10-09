@@ -17847,18 +17847,14 @@
       ],
       "alsoCoveredBy": [],
       "id": "624dea8769fe6ccc1f7b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T15:23:26.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "ESMA Oct 8 opinion telling licensed firms to stop non-MiCA stablecoin services with Jan 8 2027 wind-down. ESMA PDF primary plus CoinDesk and Cointelegraph read; all gates pass.",
+      "note": "ESMA Oct 8 opinion on non-MiCA stablecoins verified in CoinDesk and Cointelegraph; Jan 8 2027 wind-down date confirmed in both outlets.",
       "sourceChecks": [
-        {
-          "url": "https://www.esma.europa.eu/sites/default/files/2026-10/ESMA75-113276571-1742_Opinion_on_the_provision_of_crypto_asset_services_in_relation_to_non-MiCA-compliant_asset-referenced_tokens_and_e-money_tokens.pdf",
-          "outcome": "read"
-        },
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
           "outcome": "read"
@@ -17868,9 +17864,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T20:06:54.296Z",
+      "reviewedAt": "2026-10-09T04:11:51.420Z",
       "articleSlug": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30677,6 +30673,23 @@
           ],
           "reviewedAt": "2026-10-09T04:11:46.643Z",
           "articleSlug": "stanchart-custody"
+        },
+        "624dea8769fe6ccc1f7b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "ESMA Oct 8 opinion on non-MiCA stablecoins verified in CoinDesk and Cointelegraph; Jan 8 2027 wind-down date confirmed in both outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:11:51.420Z",
+          "articleSlug": "esma-stablecoins"
         }
       },
       "baselineSlugs": [
