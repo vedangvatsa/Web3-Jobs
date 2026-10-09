@@ -13984,15 +13984,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "47785a59bf9afa150ab7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T16:32:48.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Defiant CIP-0113 standard launch covered as the enabling event inside veridian-spin.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:00:45.203Z",
+      "reason": "source-blocked",
+      "note": "Defiant Cardano standard launch page returned HTTP 403 to round 3; same CIP-0113 event readable in CoinDesk and Unchained versions. Next: re-open two readable outlets and draft veridian-spin.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:10.445Z",
       "articleSlug": "cardano-standard",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -14002,7 +14007,11 @@
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
-      "duplicateOf": "veridian-spin"
+      "duplicateOf": "veridian-spin",
+      "retrySearches": [
+        "Cardano programmable token standard issuer controls second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "063f2939659560bacb86": {
       "source": "CoinDesk",
@@ -36573,6 +36582,21 @@
           "reviewedAt": "2026-10-09T17:58:08.214Z",
           "retrySearches": [
             "Cardano CIP-0113 freeze seize standard two readable outlets draft"
+          ]
+        },
+        "47785a59bf9afa150ab7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Cardano standard launch page returned HTTP 403 to round 3; same CIP-0113 event readable in CoinDesk and Unchained versions. Next: re-open two readable outlets and draft veridian-spin.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:10.445Z",
+          "retrySearches": [
+            "Cardano programmable token standard issuer controls second outlet draft"
           ]
         }
       },
