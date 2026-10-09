@@ -19343,11 +19343,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f77b67e53e367f0f0d37",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T23:34:05.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "opinion",
+      "note": "Single-cryptographer FUD characterization of the Drake warning is commentary with no new verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T00:00:30.097Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "2251163d99d43fca70b6": {
       "source": "CryptoSlate",
@@ -29166,6 +29171,13 @@
           "note": "Asia Express weekly roundup recycles the China P2P wallets story already covered by china-p2p with no standalone event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T00:00:25.159Z"
+        },
+        "f77b67e53e367f0f0d37": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Single-cryptographer FUD characterization of the Drake warning is commentary with no new verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:30.097Z"
         }
       },
       "baselineSlugs": [
