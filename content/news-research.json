@@ -20150,11 +20150,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "d3c7df7b211472a7b053",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T02:00:05.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "duplicate",
+      "note": "Analysis of the same Abstract Dec 15 shutdown already covered by the existing abstract-shutdown article; no new development verified.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/abstracts-shutdown-exposes-the-gap-between-owning-assets-and-being-able-to-move-them/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:15:21.962Z",
+      "duplicateOf": "abstract-shutdown",
+      "lastReviewedDay": "2026-10-09"
     },
     "6ec871e1632c167e860d": {
       "source": "BeInCrypto",
@@ -31682,6 +31693,19 @@
           "note": "Same Abstract Dec 15 shutdown and withdrawal mechanics already covered by the existing abstract-shutdown article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:15:17.054Z",
+          "duplicateOf": "abstract-shutdown"
+        },
+        "d3c7df7b211472a7b053": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Analysis of the same Abstract Dec 15 shutdown already covered by the existing abstract-shutdown article; no new development verified.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/abstracts-shutdown-exposes-the-gap-between-owning-assets-and-being-able-to-move-them/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:15:21.962Z",
           "duplicateOf": "abstract-shutdown"
         }
       },
