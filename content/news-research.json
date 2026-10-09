@@ -22700,11 +22700,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "51caa7b8a45ffaf919fd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T17:00:01.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "price-chatter",
+      "note": "Ethereum open interest ETH vs dollar value piece is derivatives positioning metrics with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:00.154Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "32bf700a38b0d9260487": {
       "source": "Decrypt",
@@ -35881,6 +35886,13 @@
           "note": "Bitcoin ETF two-day outflow piece is flow price action with no filing, launch, vote or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:44:58.304Z"
+        },
+        "51caa7b8a45ffaf919fd": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Ethereum open interest ETH vs dollar value piece is derivatives positioning metrics with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:00.154Z"
         }
       },
       "baselineSlugs": [
