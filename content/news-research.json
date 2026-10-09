@@ -19688,11 +19688,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d543faed605b223ba11",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:01:55.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "verified-event",
+      "note": "USDKG wind-down under Order 639-t verified in usdkg.com notice, 24.kg and crypto.news; sanctions rename and liquidation facts confirmed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.usdkg.com/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://24.kg/en/article/sanctions-kyrgyzstan-announces-liquidation-of-state-backed-usdkg-stablecoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/kyrgyzstan-shuts-50m-usdkg-months-after-uk-sanctions/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:12:14.917Z",
+      "articleSlug": "kyrgyz-usdkg",
+      "lastReviewedDay": "2026-10-09"
     },
     "daed728f3277e7307bc1": {
       "source": "The Defiant",
@@ -30966,6 +30989,31 @@
           ],
           "reviewedAt": "2026-10-09T04:12:10.898Z",
           "articleSlug": "polkadot-dotusd"
+        },
+        "1d543faed605b223ba11": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "USDKG wind-down under Order 639-t verified in usdkg.com notice, 24.kg and crypto.news; sanctions rename and liquidation facts confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.usdkg.com/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://24.kg/en/article/sanctions-kyrgyzstan-announces-liquidation-of-state-backed-usdkg-stablecoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/kyrgyzstan-shuts-50m-usdkg-months-after-uk-sanctions/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:12:14.917Z",
+          "articleSlug": "kyrgyz-usdkg"
         }
       },
       "baselineSlugs": [
