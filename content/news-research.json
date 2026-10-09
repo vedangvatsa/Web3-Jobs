@@ -18963,17 +18963,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4de505ce74bf43d697e4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T19:17:18.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same NFL backing of New Jersey SCOTUS petition over Kalshi as covered by nfl-kalshi in this run.",
+      "note": "Same NFL backing of NJ SCOTUS petition drafted as nfl-kalshi in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:38.063Z",
+      "reviewedAt": "2026-10-09T04:14:50.902Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "d416de44a67384b9ce55": {
       "source": "The Block",
@@ -31574,6 +31575,15 @@
           "reviewedAt": "2026-10-09T04:14:48.947Z",
           "duplicateOf": "orca-merger",
           "mergedInto": "b52931b86de777cd1461"
+        },
+        "4de505ce74bf43d697e4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL backing of NJ SCOTUS petition drafted as nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:50.902Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
