@@ -22035,11 +22035,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T12:04:07.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "duplicate",
+      "note": "Same UK Oct 8 sanctions on three crypto exchanges over Russia links already drafted as uk-sanctions in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:24:38.419Z",
+      "duplicateOf": "uk-sanctions",
+      "mergedInto": "00846212524fc336a196",
+      "lastReviewedDay": "2026-10-09"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -33199,6 +33206,15 @@
           "note": "Same UK Oct 8 sanctions on three crypto exchanges over Russia links already drafted as uk-sanctions in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:24:35.829Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "00846212524fc336a196"
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same UK Oct 8 sanctions on three crypto exchanges over Russia links already drafted as uk-sanctions in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:24:38.419Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "00846212524fc336a196"
         }
