@@ -20714,17 +20714,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfb84dbee91c6c9c59e0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:27:35.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same XRP Ledger delegation and controls package already drafted as xrpl-controls in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:12:32.261Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Unchained XRPL page and confirmed the delegation headline; pairs with the CoinDesk controls piece. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:16:25.778Z",
       "duplicateOf": "xrpl-controls",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "XRP Ledger delegation CoinDesk corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "b22ff44197a4ebb9636a": {
       "source": "Unchained",
@@ -34881,6 +34890,21 @@
           "reviewedAt": "2026-10-09T14:16:23.463Z",
           "retrySearches": [
             "Solana 200ms final upgrade Anza confirmation draft"
+          ]
+        },
+        "cfb84dbee91c6c9c59e0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Unchained XRPL page and confirmed the delegation headline; pairs with the CoinDesk controls piece. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:25.778Z",
+          "retrySearches": [
+            "XRP Ledger delegation CoinDesk corroboration draft"
           ]
         }
       },
