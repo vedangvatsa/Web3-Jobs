@@ -20534,11 +20534,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6521f65a66822c1c1481",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:40:59.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "duplicate",
+      "note": "Same Thailand SEC bitcoin ether ETF rules event drafted as thailand-etfs; TheBlock headline matches identical Oct 16 effective rules.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:55:19.018Z",
+      "duplicateOf": "thailand-etfs",
+      "mergedInto": "62cd6c1ea3c742f4cf88",
+      "lastReviewedDay": "2026-10-09"
     },
     "111c40e3f46ad4991183": {
       "source": "CoinJournal",
@@ -32170,6 +32177,15 @@
           "note": "Same Thailand SEC Oct 8 ETF rules event drafted as thailand-etfs from the CoinDesk candidate; Cointelegraph confirms identical rules and Oct 16 date.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:55:16.936Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "62cd6c1ea3c742f4cf88"
+        },
+        "6521f65a66822c1c1481": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thailand SEC bitcoin ether ETF rules event drafted as thailand-etfs; TheBlock headline matches identical Oct 16 effective rules.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:55:19.018Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "62cd6c1ea3c742f4cf88"
         }
