@@ -15911,17 +15911,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6dfcb9105a9c9fcd521a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T08:24:24.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Samsung Oct 7 USDC late-October launch for 82M devices already drafted as samsung-usdc.",
+      "note": "Same Samsung Oct 7 USDC late-October launch for 82M devices covered by samsung-usdc.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T17:44:05.160Z",
+      "reviewedAt": "2026-10-09T23:39:32.309Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "2a5f0f76edb1ecb37ab3"
     },
     "7686b683757996b39984": {
       "source": "Cointelegraph",
@@ -38210,6 +38211,15 @@
           "note": "Same Samsung Oct 7 USDC late-October launch for 82M devices covered by samsung-usdc.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:39:30.568Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "6dfcb9105a9c9fcd521a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Oct 7 USDC late-October launch for 82M devices covered by samsung-usdc.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:39:32.309Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
