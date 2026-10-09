@@ -20881,11 +20881,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "33d2532cea35902b8372",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T09:20:16.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "duplicate",
+      "note": "Same Empire Market 40-year sentencing and 1,230 BTC forfeiture already drafted as empire-sentence in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T11:12:28.464Z",
+      "duplicateOf": "empire-sentence",
+      "mergedInto": "35543151e27a95014f9d",
+      "lastReviewedDay": "2026-10-09"
     },
     "724035b8cd9bafa2f945": {
       "source": "CoinDesk",
@@ -32737,6 +32744,15 @@
           ],
           "reviewedAt": "2026-10-09T11:12:22.845Z",
           "articleSlug": "slot-times"
+        },
+        "33d2532cea35902b8372": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Empire Market 40-year sentencing and 1,230 BTC forfeiture already drafted as empire-sentence in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:12:28.464Z",
+          "duplicateOf": "empire-sentence",
+          "mergedInto": "35543151e27a95014f9d"
         }
       },
       "baselineSlugs": [
