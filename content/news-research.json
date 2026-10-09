@@ -21222,11 +21222,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "00846212524fc336a196",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:14:59.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 8 FCDO 38-designation package, Xeltox TokenSpot Processing KG Tsunami plus Bukabaev, A7 90B claim, oil tanker and CHP goods strands across GOV.UK primary, CoinDesk, Cointelegraph and Chainalysis.",
+      "sourceChecks": [
+        {
+          "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T10:55:25.372Z",
+      "articleSlug": "uk-sanctions",
+      "lastReviewedDay": "2026-10-09"
     },
     "35543151e27a95014f9d": {
       "source": "Decrypt",
@@ -32204,6 +32227,31 @@
           "reviewedAt": "2026-10-09T10:55:20.783Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "62cd6c1ea3c742f4cf88"
+        },
+        "00846212524fc336a196": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 FCDO 38-designation package, Xeltox TokenSpot Processing KG Tsunami plus Bukabaev, A7 90B claim, oil tanker and CHP goods strands across GOV.UK primary, CoinDesk, Cointelegraph and Chainalysis.",
+          "sourceChecks": [
+            {
+              "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T10:55:25.372Z",
+          "articleSlug": "uk-sanctions"
         }
       },
       "baselineSlugs": [
