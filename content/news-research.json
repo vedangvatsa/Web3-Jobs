@@ -17003,20 +17003,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "14054f6a0bf4d8eb43b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T17:07:48.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Buterin bunker-mode reply drafted as bunker-mode in this run.",
+      "note": "Same Buterin bunker-mode response already drafted as bunker-mode in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:27.883Z",
+      "reviewedAt": "2026-10-09T11:23:11.898Z",
       "retrySearches": [
         "Buterin AI lattice cryptography warning October 2026 second outlet"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bunker-mode"
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "3c52e57d52067e8770d9": {
       "source": "Bitcoin Magazine",
@@ -33127,6 +33128,15 @@
           "note": "Same Buterin do-not-rush reply to the bunker-mode debate already drafted as bunker-mode in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:23:09.878Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "14054f6a0bf4d8eb43b9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Buterin bunker-mode response already drafted as bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:11.898Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
