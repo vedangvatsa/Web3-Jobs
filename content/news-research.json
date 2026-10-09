@@ -8905,13 +8905,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "45c21342fa7bb3b8990c",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-09T13:00:48.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 verified Fortitude Oct 5 BITMAIN LOI up to 100M with 20M deposit across BusinessWire mirror and Bitcoin.com; draft not yet written, flag non-binding.",
+      "reason": "verified-event",
+      "note": "Fortitude Oct 5 BITMAIN LOI up to 100M with 20M refundable deposit verified in company mirror and Bitcoin.com; draft flags non-binding status throughout.",
       "sourceChecks": [
         {
           "url": "https://heartsciences.com/news/fortitude-bitmain-supply/",
@@ -8926,12 +8926,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:18:38.784Z",
+      "reviewedAt": "2026-10-09T04:10:06.613Z",
       "retrySearches": [
         "Fortitude BITMAIN ZEC miners binding agreement specs pricing"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "articleSlug": "fortitude-zcash"
     },
     "946be3594d9c3d0668ad": {
       "source": "Cointelegraph",
@@ -29928,6 +29928,27 @@
           ],
           "reviewedAt": "2026-10-09T04:10:01.562Z",
           "articleSlug": "anvil-token"
+        },
+        "45c21342fa7bb3b8990c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Fortitude Oct 5 BITMAIN LOI up to 100M with 20M refundable deposit verified in company mirror and Bitcoin.com; draft flags non-binding status throughout.",
+          "sourceChecks": [
+            {
+              "url": "https://heartsciences.com/news/fortitude-bitmain-supply/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/mining/fortitude-bets-100-million-bitmain-zcash-mining-hardware/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:06.613Z",
+          "articleSlug": "fortitude-zcash"
         }
       },
       "baselineSlugs": [
