@@ -16570,13 +16570,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "634e1516faeb608c8daa",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "NFL Oct 8 amicus brief backing New Jersey SCOTUS review verified in Decrypt and CoinDesk; circuit split, Barr counsel, Kalshi and CFTC responses confirmed.",
+      "note": "Verified NFL Oct 8 amicus brief backing New Jersey SCOTUS review across Decrypt and CoinDesk reads with circuit split and gambling versus swaps arguments.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
@@ -16587,7 +16587,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T13:59:34.480Z",
+      "reviewedAt": "2026-10-09T17:49:36.881Z",
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -36201,6 +36201,23 @@
           "note": "Polygon USDT0 holder scam-pattern piece is onchain analysis with no launch, vote, ruling, filing or hack event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:47:42.742Z"
+        },
+        "634e1516faeb608c8daa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified NFL Oct 8 amicus brief backing New Jersey SCOTUS review across Decrypt and CoinDesk reads with circuit split and gambling versus swaps arguments.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:49:36.881Z",
+          "articleSlug": "nfl-kalshi"
         }
       },
       "baselineSlugs": [
