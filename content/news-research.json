@@ -13978,28 +13978,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "063f2939659560bacb86",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T16:30:00.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Polygon Open Money Stack TRON support for 94B USDT verified in CoinDesk, CryptoBriefing and Polygon blog; 48-state rails and cross-border flow confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Polygon-TRON headline with the 94B figure; single outlet so far. Next: find a Polygon, TRON or bank-rail confirmation and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
           "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/tron-integrates-polygon-open-money-stack/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://polygon.technology/blog/polygon-oms-supports-tron",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:17.168Z",
+      "reviewedAt": "2026-10-09T14:13:17.596Z",
       "articleSlug": "polygon-tron",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -14013,7 +14005,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Polygon TRON 94B banking rails confirmation draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "40fe1ba3ce7ff9326b39": {
       "source": "The Defiant",
@@ -34333,6 +34329,21 @@
           "reviewedAt": "2026-10-09T14:13:15.321Z",
           "retrySearches": [
             "BitMine 5 percent ETH Tom Lee two outlets draft"
+          ]
+        },
+        "063f2939659560bacb86": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Polygon-TRON headline with the 94B figure; single outlet so far. Next: find a Polygon, TRON or bank-rail confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:17.596Z",
+          "retrySearches": [
+            "Polygon TRON 94B banking rails confirmation draft"
           ]
         }
       },
