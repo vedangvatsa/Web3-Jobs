@@ -1,0 +1,4022 @@
+{
+  "version": 1,
+  "batch": "gap-02",
+  "baselineSha256": "628d74004a53c4e3e18467e95a6051e23182bdffd858efc24cdde02b1268d31c",
+  "sources": {
+    "gap-02-ua-table": {
+      "title": "Ukraine MFA ordinary travel-passport table, stated as of 8 June 2023; archived 18 September 2026",
+      "urls": [
+        "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine/entry-regime-ukraine-foreign-citizens",
+        "https://web.archive.org/web/20260918182352/https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine/entry-regime-ukraine-foreign-citizens"
+      ],
+      "checkedAt": "2026-09-18",
+      "sha256": "ac6df577d1cb8504620520799ab6cd3a9120c234ed91a1e1ae2da5d92f470dd5",
+      "historical": true
+    },
+    "gap-02-ua-presidential": {
+      "title": "Ukraine Presidential Decrees 1131/2005 and 289/2020 in Rada; archived 10 June 2025",
+      "urls": [
+        "https://zakon.rada.gov.ua/laws/show/1131/2005",
+        "https://web.archive.org/web/20250610210958/https://zakon.rada.gov.ua/laws/show/1131/2005",
+        "https://zakon.rada.gov.ua/laws/show/289/2020",
+        "https://web.archive.org/web/20250610211152/https://zakon.rada.gov.ua/laws/show/289/2020"
+      ],
+      "checkedAt": "2025-06-10",
+      "sha256": "b3201bff0b7202ef44acd76cec65327101e7774c5168171cc6832a6885fa767a",
+      "historical": true
+    },
+    "gap-02-ua-canada": {
+      "title": "Global Affairs Canada: regular Canadian tourist entry to Ukraine",
+      "urls": [
+        "https://travel.gc.ca/destinations/ukraine"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "59fe11de1e8fd4458253cb1e415ffb0ac8dd7334218c187797ac57ca4cebcae2"
+    },
+    "gap-02-mongolia-outbound": {
+      "title": "Mongolia MFA Consular Department: Mongolian citizens exempted from visas, passport classes and effective dates",
+      "urls": [
+        "https://en.consul.mn/visa/c/84"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "0d162ee8e2bfae2012fa92b38063d8ce544affbfd24804da580ef76abe8c9111"
+    },
+    "gap-02-lr-conditions": {
+      "title": "Liberia: embassy visa default, LIS approval/airport conditions and January 2025 service charter",
+      "urls": [
+        "https://www.embassyofliberia.co.uk/consular-services/visa-application/",
+        "https://visaonarrival.lis.gov.lr/",
+        "https://lis.gov.lr/img/SERVICE_DELIVERY_CHARTER.pdf",
+        "https://liberianembassyus.org/page/visa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "cdbc1824f04c0062b0ba72d5f9e554c38c21082c78c03a49075d075902ccc29a"
+    },
+    "gap-02-bd-aip-current": {
+      "title": "Bangladesh current-retained AIP GEN 1.3, October 2026 checklist, and official conditional visa procedures",
+      "urls": [
+        "https://new.caab.gov.bd/aip/general/genall.pdf",
+        "https://new.caab.gov.bd/aip/amd/AIP%20AMDT%2004-26(06-08-26)",
+        "https://new.caab.gov.bd/aip/",
+        "https://new.caab.gov.bd/aip/amd/amd.html",
+        "https://voa.specialbranch.gov.bd/public/voa-instructions.html",
+        "https://washington.mofa.gov.bd/pages/static-pages/695266b935ce18e1c05aaf83",
+        "https://washington.mofa.gov.bd/pages/static-pages/6952668835ce18e1c05a9d63"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "b7e164375ad0077045d2722c171fdb39044c56920b338af3b2f8888effaae13d"
+    },
+    "gap-02-bd-methods": {
+      "title": "Bangladesh Special Branch VOA instructions and current migrated Washington embassy visa page",
+      "urls": [
+        "https://voa.specialbranch.gov.bd/public/voa-instructions.html",
+        "https://washington.mofa.gov.bd/pages/static-pages/695266b935ce18e1c05aaf83",
+        "https://washington.mofa.gov.bd/pages/static-pages/6952668835ce18e1c05a9d63"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "ea04e68b569622896348a00f53397970263a4843366854b6c3c9c1942a3afa86"
+    },
+    "gap-02-iq-serbia": {
+      "title": "Serbia MFA: ordinary passport visa for federal Iraq and separate Kurdistan-only permission",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/iraq"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "97a5b97f8d80d197689487f0338efdacb9a3854e58cab3247e1cf7abfe6712e8"
+    },
+    "gap-02-cv-americas": {
+      "title": "Cabo Verde government: adopted tourism-waiver expansion to Brazil, Canada and United States; current consular conditions",
+      "urls": [
+        "https://www.governo.cv/governo-decide-pela-isencao-de-vistos-de-turismo-para-cidadaos-do-brasil-canada-e-eua/",
+        "https://portalconsular.mnec.gov.cv/en/vistos",
+        "https://travel.gc.ca/destinations/cabo-verde"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "c2f6d24690dfdd42ebfed176b6d3f5cfadbb5da1d81822c7aa5d0044ae9df153"
+    },
+    "gap-02-ly-bosnia": {
+      "title": "Libya official eVisa nationality flags and public eligibility check: active BA record",
+      "urls": [
+        "https://back.evisa.gov.ly/api/v1/countries",
+        "https://back.evisa.gov.ly/api/v1/landing-resource",
+        "https://back.evisa.gov.ly/api/v1/purpose-of-visit",
+        "https://back.evisa.gov.ly/api/v1/check-config",
+        "https://evisa.gov.ly/assets/index-Ae1CyGRv.js"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "1b37ce0a78b1b8e485a4d7deec8ae7d71237137cc9dd9d77eedebda2ca0c489e"
+    },
+    "gap-02-ki-eu": {
+      "title": "EEAS: EU–Kiribati ordinary-passport waiver and current confirmation that the agreement applies",
+      "urls": [
+        "https://www.eeas.europa.eu/node/8022_en",
+        "https://www.eeas.europa.eu/fiji/european-union-and-republic-kiribati_en"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "d4f2f53e3f53958a154977116d16d3406c47ecc1ac1b86379fd2370dd53d5b1f"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "CA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-canada",
+      "n": "Regular Canadian passport: tourist stays up to 90 days within a 180-day period. Ukrainian dual-national/document rules and lawful entry-point restrictions remain applicable; this does not authorize travel through occupied territory."
+    },
+    {
+      "passports": [
+        "MN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-mongolia-outbound",
+      "n": "Mongolian passport: official invitation required for the visa exemption. Current origin-government table gives up to 90 days but does not specify an aggregate rolling limit. Lawful entry-point and territorial permissions remain separate."
+    },
+    {
+      "passports": [
+        "AF"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "AL"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "DZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "AD"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "AO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "AG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "AR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "AM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "AU"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "AZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BS"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BH"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BD"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "BB"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BJ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "BT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 30 days for 60 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BW"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "BR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 30 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "BF"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "BI"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "KH"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "CV"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "CF"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "TD"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "CL"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "CD"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "CR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "HR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CU"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "CY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "DK"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "DJ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "DM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "DO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "TL"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "EC"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "EG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "SV"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "GQ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "ER"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "EE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "ET"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "FJ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "FI"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "FR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "GA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "GM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "GE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days (including for biometric passports in the form of an ID card). Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "GH"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "GR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "GD"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free up to 90 days for 180 days for tourism or unpaid activities. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "GT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "GN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "GW"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "GY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "HT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "HN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 14,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 14 days. Hong Kong SAR passport only. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "HU"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "IS"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "IN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "ID"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "IR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "IE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "IL"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CI"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "JM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "JP"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "JO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "KZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days from the date of the first crossing of the state border. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "KE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "KG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free up to 90 days from the date of crossing the border. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "KI"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "KW"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "LA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "LV"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "LB"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "LS"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "LR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "LY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "LI"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "LT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "LU"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "MG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "MW"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "MY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "MV"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "ML"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "MT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "MH"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "MR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "MX"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "FM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "MD"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "MC"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "ME"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free up to 90 days within 180 days from the date of first entry. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "MA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "MZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "MM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "NA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "NR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "NP"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "NL"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "NZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "NI"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "NE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "NG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "KP"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "MK"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days (exclusively for trips on the basis of biometric travel documents). Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical biometric-passport waiver"
+    },
+    {
+      "passports": [
+        "NO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "OM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "PK"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "PW"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "PS"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "PA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "PG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "PY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days within 6 months from the date of entry. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "PE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "PH"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "PL"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "PT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "QA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "RO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa*. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. The table says Ukrainian missions in Russia stopped operating. Applications abroad require temporary/permanent permission to stay in the third country; it also names temporary presence in Belarus, Georgia or Kazakhstan as a branch. No foreign residence is assumed. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "RW"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "LC"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "VC"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "WS"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "ST"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "SA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "SC"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SL"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "SG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SK"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SI"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SB"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SO"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "ZA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "KR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SS"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "ES"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "LK"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "KN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SD"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "SR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "SE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "CH"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "SY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "TJ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "TZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "TH"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "TT"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "TN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "TR"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa - free for up to 90 days for 180 days (including for biometric passports in the form of ID cards). Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "TM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "TV"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "UG"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "US"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "UY"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "UZ"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "VU"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa, including e-Visa. Historical eVisa eligibility is explicit, but neither a tourist stay duration nor current operational availability is established by this table. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "VA"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa-free for up to 90 days for 180 days. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints."
+    },
+    {
+      "passports": [
+        "VE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "VN"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "YE"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "ZM"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "ZW"
+      ],
+      "destinations": [
+        "UA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-ua-table",
+      "n": "Historical official evidence only: MFA table stated as of 2023-06-08, captured 2026-09-18. Ordinary travel passport row: visa. A visa requirement is established historically; the current application method and permitted stay remain unverified. This does not establish that eVisa is unavailable. Valid national passport required; refugee/stateless documents have separate rules. Occupied-territory access requires separate permission and lawful checkpoints.",
+      "label": "Historical visa requirement; method unverified"
+    },
+    {
+      "passports": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BG",
+        "BH",
+        "BI",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "MM",
+        "MN",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SM",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "destinations": [
+        "LR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-lr-conditions",
+      "n": "Visa required for ordinary short tourism under the embassy explicit foreign-national default. Issuance method depends on consular jurisdiction and the LIS embassy-country criterion; nationality alone does not establish the online-arrival branch. LIS says to apply directly at the embassy if one exists in your country, without clearly distinguishing nationality from residence. If LIS confirms eligibility for its online-arrival process, obtain the approved QR confirmation before travel, enter at Roberts International Airport (ROB), then complete biometrics and collect the visa sticker. Approval is valid for entry within three months, not a three-month stay. The officer sets visit permission (portal describes 30 or 90 days); no common duration is assigned. No foreign residence or approval is assumed; this does not claim eVisa/arrival issuance is unavailable.",
+      "label": "Visa required; issuance method conditional"
+    },
+    {
+      "passports": [
+        "AG",
+        "BS",
+        "BT",
+        "DM",
+        "FJ",
+        "GD",
+        "GM",
+        "GW",
+        "GY",
+        "HN",
+        "JM",
+        "KN",
+        "LC",
+        "LS",
+        "MV",
+        "MW",
+        "PG",
+        "SB",
+        "SC",
+        "UY",
+        "VC",
+        "ZM"
+      ],
+      "destinations": [
+        "BD"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-bd-aip-current",
+      "n": "Ordinary national passport: explicitly named in CAAB AIP GEN 1.3-1 visa-exempt list for stays up to 90 days. The October 2026 amendment checklist retains this page. Nationality-based exemption, not a visa-fee waiver or diplomatic-passport concession. Entry declarations and ordinary admission checks remain applicable."
+    },
+    {
+      "passports": [
+        "IL"
+      ],
+      "destinations": [
+        "BD"
+      ],
+      "t": "na",
+      "d": 0,
+      "s": "gap-02-bd-aip-current",
+      "n": "CAAB AIP GEN 1.3-1 explicitly refuses admission and transit to nationals of Israel. The October 2026 amendment checklist retains this provision. This records the stated nationality restriction, rather than inferring a ban from a missing application option.",
+      "label": "Admission and transit refused"
+    },
+    {
+      "passports": [
+        "AF",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BB",
+        "BF",
+        "BI",
+        "BJ",
+        "BO",
+        "BR",
+        "BW",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "DJ",
+        "DO",
+        "DZ",
+        "EC",
+        "ER",
+        "ET",
+        "FM",
+        "GA",
+        "GE",
+        "GH",
+        "GN",
+        "GQ",
+        "GT",
+        "HT",
+        "ID",
+        "IQ",
+        "IR",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KP",
+        "KZ",
+        "LA",
+        "LB",
+        "LK",
+        "LR",
+        "LY",
+        "MA",
+        "MG",
+        "MH",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MU",
+        "MX",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "NR",
+        "PA",
+        "PE",
+        "PH",
+        "PK",
+        "PW",
+        "PY",
+        "RW",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UG",
+        "UZ",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZW"
+      ],
+      "destinations": [
+        "BD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-bd-aip-current",
+      "n": "Ordinary passport: the current-retained CAAB AIP states a visa-required default outside its named exemptions. Obtain an advance mission-issued sticker visa unless an actual conditional arrival-permission branch applies. Special Branch permits justified VOA applications by citizens arriving from countries without a Bangladesh embassy, and also describes arrivals from another country without a Bangladesh embassy; departure/residence is not assumed. Eligible applicants must follow online VOA pre-application/acknowledgement and final border issuance. The AIP additionally describes discretionary international-airport tourist/business landing permission up to 15 days with return air tickets, while the current police VOA product allows up to 30 days. These are not a uniform stay or unconditional walk-up entitlement; d=0 preserves the unresolved product-specific grant. Washington expressly says an eVisa has not yet been introduced; an online form is not itself a visa. Ancestry/NVR, diplomatic status and foreign residence are not assumed.",
+      "label": "Visa required; conditional arrival permissions"
+    },
+    {
+      "passports": [
+        "VA"
+      ],
+      "destinations": [
+        "BD"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-bd-aip-current",
+      "n": "Vatican City ordinary passport is expressly named in the CAAB AIP visa-exempt list for up to 90 days. Amendment 04/2026 retains this page. This specific exemption replaces the earlier generic Europe-based VOA classification; it is not a fee exemption."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "IQ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-02-iq-serbia",
+      "n": "Serbian ordinary passport: federal Iraqi visa required; the MFA identifies Embassy Belgrade processing. No short-tourist stay duration is established here, and electronic-channel availability is not determined. A Kurdistan Regional Government permit is region-only and cannot authorize travel to other parts of Iraq. Regional guarantor arrangements and registration requirements are separate.",
+      "label": "Federal visa required; KRI permission separate"
+    },
+    {
+      "passports": [
+        "BR",
+        "CA",
+        "US"
+      ],
+      "destinations": [
+        "CV"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-02-cv-americas",
+      "n": "Tourism exemption up to 30 days under the government-adopted expansion of Resolution 134/2018. Complete applicable EASE pre-registration and airport-security-tax requirements; these do not constitute an eVisa and do not grant residence or work permission."
+    },
+    {
+      "passports": [
+        "MN"
+      ],
+      "destinations": [
+        "PY"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-mongolia-outbound",
+      "n": "Mongolian passport: all-passport visa-waiver agreement in force from 17 January 2024; up to 90 days according to the current Mongolia MFA outbound schedule. No rolling/annual aggregate specified by that table."
+    },
+    {
+      "passports": [
+        "BA"
+      ],
+      "destinations": [
+        "LY"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-02-ly-bosnia",
+      "n": "Use the active Bosnia nationality record (official ISO code BA, id150) for an ordinary tourist eVisa; the duplicate legacy Herzegovina alias is inactive. Official flags permit online application and email delivery, and the public eligibility check permits proceeding. Obtain approval before travel and satisfy individual age/gender screening. No fixed permitted stay is established; acceptance at every Libyan region/port is not established."
+    },
+    {
+      "passports": [
+        "LT",
+        "LV",
+        "MT"
+      ],
+      "destinations": [
+        "KI"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-02-ki-eu",
+      "n": "EU citizen holding a valid ordinary passport: treaty visa exemption up to 90 days in any 180-day period, excluding paid activity. EEAS currently confirms the agreement applies. This is the treaty-specific entitlement; omission from the separate 2023 domestic exemption list is not evidence of treaty termination. Normal entry-permission and travel-document checks remain applicable."
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "UA",
+      "resolvedOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MT",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TR",
+        "TT",
+        "TV",
+        "TZ",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "IQ",
+        "KM",
+        "MO",
+        "MU",
+        "TG",
+        "TO",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "Recovered and inspected the MFA ordinary-passport table from capture 2026-09-18; its content still says as of June 2023. These additions are historical, except independently current CA/MN. No source-date laundering.",
+        "Retrieved Rada Presidential Decrees 1131/2005 and 289/2020 from dated archives; live Rada timed out and Presidency denied access. Cabinet amendment path returned 404; correct 118/2017 and 150/2012 archive lookups hit 429 and were stopped. A mistaken 123/2017 result concerned a bank and was rejected.",
+        "Seven unlisted documents/nationalities (IQ KM MO TW TG TO XK) remain unresolved; MU retained because a later treaty lead conflicts with the old eVisa row. Expired UK footnote is not applied to the already-supported GB route.",
+        "Historical eVisa entries have d=0 because the table supplies no stay; requirement-only rows explicitly retain method uncertainty. Biometric MK, conditional MN, HKSAR and Russian application-country qualifications were individually inspected.",
+        "Exact baseline partition: 187 additions; 8 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://web.archive.org/web/20250610210958/https://zakon.rada.gov.ua/laws/show/1131/2005",
+        "https://www.kmu.gov.ua/ua/npas/pro-vnesennya-zmin-do-pravil-oformlennya-viz-dlya-vyizdu-v-ukrayinu-i-tranzitnogo-proyizdu-cherez-yiyi-teritoriyu",
+        "https://archive.org/wayback/available?url=https%3A%2F%2Fzakon.rada.gov.ua%2Flaws%2Fshow%2F118-2017-%D0%BF",
+        "https://archive.org/wayback/available?url=https%3A%2F%2Fzakon.rada.gov.ua%2Flaws%2Fshow%2F150-2012-%D0%BF",
+        "https://www.smartraveller.gov.au/destinations/europe/ukraine",
+        "https://travel.gc.ca/destinations/ukraine",
+        "https://www.ua.emb-japan.go.jp/itpr_ja/00_000011.html",
+        "https://www.mfa.gov.tr/ukrayna-seyahat-edecek-turk-vatandaslarinin-dikkatine.tr.mfa",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Ukraine.html",
+        "https://www.kmu.gov.ua/en/news/mzs-vidnovliuie-oformlennia-elektronnykh-viz-e-viza-dlia-inozemtsiv",
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://ukraineinvest.gov.ua/en/response-to-war/helpdesk/migration/",
+        "https://ukraineinvest.gov.ua/en/doing-business-in-ukraine/visa-and-immigration/",
+        "https://zakon.rada.gov.ua/laws/show/1131/2005",
+        "https://archive.org/wayback/available?url=zakon.rada.gov.ua/laws/show/123-2017-%D0%BF",
+        "https://web.archive.org/web/20250606213031/https://zakon.rada.gov.ua/laws/show/123-2017-%D0%BF",
+        "https://archive.org/wayback/available?url=zakon.rada.gov.ua/laws/show/289/2020",
+        "https://web.archive.org/web/20250610211152/https://zakon.rada.gov.ua/laws/show/289/2020",
+        "https://passport.govmu.org/passport/?page_id=1536",
+        "https://foreign.govmu.org/Pages/News/News.aspx",
+        "https://foreign.govmu.org/Pages/Passport%20and%20Visa/Passport-and-Visa.aspx",
+        "https://www.president.gov.ua/documents/3202024-50777",
+        "https://archive.org/wayback/available?url=https%3A%2F%2Fzakon.rada.gov.ua%2Frada%2Fshow%2Fv8039321-25",
+        "https://www.mfa.gov.sg/countries-regions/u/ukraine/travel-page",
+        "https://archive.org/wayback/available?url=https%3A%2F%2Fmfa.gov.ua%2Fen%2Fconsular-affairs%2Fentry-and-stay-foreigners-ukraine%2Fentry-regime-ukraine-foreign-citizens",
+        "https://web.archive.org/web/20260918182352/https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine/entry-regime-ukraine-foreign-citizens",
+        "https://en.consul.mn/visa/c/84",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Ukraine",
+        "https://www.president.gov.ua/documents/11312005-2928"
+      ]
+    },
+    {
+      "destination": "LR",
+      "resolvedOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BG",
+        "BH",
+        "BI",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "MM",
+        "MN",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SM",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "BF",
+        "HK",
+        "ML",
+        "MO",
+        "NE",
+        "PS",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "Explicit current embassy foreign-national visa default supports requirement-only additions. This does not turn every nationality into an unconditional VOA/eVisa entitlement.",
+        "LIS current portal and 2025 charter inspected. ROB-only collection follows advance QR approval; 3-month entry validity is distinct from officer-selected visit permission. Embassy-country language does not settle nationality versus residence.",
+        "BF/ML/NE remain unresolved for post-withdrawal ECOWAS/AES document treatment. HK/MO/PS/TW/XK remain unresolved for accepted-document evidence.",
+        "Exact baseline partition: 178 additions; 8 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://travel.gc.ca/destinations/liberia",
+        "https://lis.gov.lr/img/SERVICE_DELIVERY_CHARTER.pdf",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/liberia/",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/liberiasicherheit-222384",
+        "https://lis.gov.lr/",
+        "https://www.embassyofliberia.co.uk/consular-services/visa-application/",
+        "https://lnta.gov.lr/travel-information/",
+        "https://lis.gov.lr/service",
+        "https://lnta.gov.lr/?s=visa",
+        "https://lnta.gov.lr/",
+        "https://unforgettableliberia.com/",
+        "https://liberianembassyus.org/consular-services/",
+        "https://liberianembassyus.org/",
+        "https://liberianembassyus.org/page/visa",
+        "https://liberianembassyus.org/consular-services/visas/",
+        "https://visaonarrival.lis.gov.lr/"
+      ]
+    },
+    {
+      "destination": "IQ",
+      "resolvedOrigins": [
+        "RS"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "DJ",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HT",
+        "ID",
+        "IL",
+        "IN",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SG",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Added Serbian ordinary federal visa requirement from Serbia MFA. Regional KRI host/guarantor and eVisa material cannot establish country-wide federal entitlement.",
+        "Re-fetched Houston notice: positive 37-nationality list only; no explicit residual nationality rule. Islamabad/Tehran/Riyadh/MFA alternatives did not provide a current exhaustive ordinary-passport schedule. Old 1987-law/2011 product descriptions are not evidence of the stay for current electronic visas.",
+        "159 residual origins still need federal exemption/application evidence; IR air-versus-land agreement scope and IL/XK/SAR/PS/TW document treatment are especially unresolved. KRI public eligibility page alone is region-specific.",
+        "Exact baseline partition: 1 additions; 159 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://mofa.gov.iq/newdelhi/en/visa/",
+        "https://www.eoibaghdad.gov.in/page/visa/",
+        "https://mofa.gov.iq/texas/en/visa/",
+        "https://mofa.gov.iq/islamabad/en/visa/",
+        "https://visit.gov.krd/visa-eligibility-checker",
+        "https://visit.gov.krd/how-to-apply",
+        "https://gov.krd/english/information-and-services/visitor/",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/iraq",
+        "https://mofa.gov.iq/riyadh/en/visa/",
+        "https://www.mfa.gov.sg/countries-regions/i/iraq/travel-page",
+        "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/iraq/",
+        "https://mofa.gov.iq/tehran/en/visa/"
+      ]
+    },
+    {
+      "destination": "BD",
+      "resolvedOrigins": [
+        "AF",
+        "AG",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BB",
+        "BF",
+        "BI",
+        "BJ",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "DJ",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HT",
+        "ID",
+        "IL",
+        "IQ",
+        "IR",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LK",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MG",
+        "MH",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "NR",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PW",
+        "PY",
+        "RW",
+        "SB",
+        "SC",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UG",
+        "UY",
+        "UZ",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "HK",
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "Recovered CAAB AIP from its government-linked replacement host and October 2026 amendment 04/26. The current checklist expressly retains the entry pages dated 2 December 2021: this establishes current publication status instead of assuming an old PDF is current.",
+        "Applied the named ordinary-nationality exemption list, explicit default and Israeli admission/transit refusal. Only non-catalog Montserrat excluded; specific Vatican waiver corrects generic Europe-based baseline VOA.",
+        "Recorded conditional no-mission/departure VOA and retained AIP discretionary landing permission without assuming residence or departure. Current police 30-day VOA versus AIP 15-day landing permission remains a product/duration limitation; no one duration assigned to both.",
+        "Five remaining special-document origins HK/MO/PS/TW/XK need recognition/specific passport eligibility evidence. Washington page states eVisa not yet introduced; online forms/VOA pre-registration are not end-to-end electronic visas.",
+        "Migrated Washington and Stockholm URLs recovered through current homepage links. Former Delhi domain is gambling content and rejected; old CAAB URL now serves a portal homepage. Historical Washington page was procedural/COVID-era and not used for current rules.",
+        "Exact baseline partition: 129 additions; 5 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://archive.org/wayback/available?url=www.caab.gov.bd/aip/general/genall.pdf",
+        "https://new.caab.gov.bd/aip/general/genall.pdf",
+        "https://caab.gov.bd/aip/aip.html",
+        "https://www.caab.gov.bd/aip/general/genall.pdf",
+        "https://www.hsia.gov.bd/passenger-guide-category",
+        "https://www.hsia.gov.bd/content-details/19/Bangladesh-Immigration-Police",
+        "https://www.hsia.gov.bd/",
+        "https://new.caab.gov.bd/aip/amd/AIP%20AMDT%2004-26(06-08-26)",
+        "https://new.caab.gov.bd/aip/amd/amd.html",
+        "https://archive.org/wayback/available?url=http%3A%2F%2Fwww.bdembassyusa.org%2Findex.php%3Fpage%3Drequirement-visa",
+        "https://web.archive.org/web/20220815041617/http://www.bdembassyusa.org/index.php?page=requirement-visa",
+        "https://www.hsia.gov.bd/passenger-guide-category/2/arrival-guideline-2",
+        "https://www.bdembassy.or.th/visa",
+        "https://www.bangladeshembassy.de/visa/",
+        "https://www.mfa.gov.bt/rbedhaka/consular-services/visa/",
+        "https://www.mfa.gov.bt/visa-exemption/",
+        "https://archive.org/wayback/available?url=http%3A%2F%2Fcaab.gov.bd%2Faip%2Fgeneral%2Fgenall.pdf",
+        "https://bdhcdelhi.org/visa.html",
+        "https://washington.mofa.gov.bd/search?query=visa",
+        "https://www.immi.gov.bd/",
+        "https://bhclondon.org.uk/visa-exemption",
+        "https://www.bangladeshconsulatela.com/visa.html",
+        "https://bangladeshembassy.dk/consular-services/visa/",
+        "https://bangladeshembassy.nl/visa/",
+        "https://stockholm.mofa.gov.bd/en/site/page/Visa",
+        "https://foreign.gov.mv/index.php/en/consular/visa-free-agreements",
+        "https://new.caab.gov.bd/aip/",
+        "https://washington.mofa.gov.bd/",
+        "https://www.bdhcottawa.ca/visa",
+        "https://www.bhpretoria.org/visa/",
+        "https://stockholm.mofa.gov.bd/",
+        "https://stockholm.mofa.gov.bd/pages/static-pages/695266b635ce18e1c05aaeb7",
+        "https://bangladeshembassy.se/visa/",
+        "https://voa.specialbranch.gov.bd/public/voa-instructions.html",
+        "https://washington.mofa.gov.bd/pages/static-pages/6952668835ce18e1c05a9d63",
+        "https://washington.mofa.gov.bd/en/site/page/Visa-2",
+        "https://washington.mofa.gov.bd/pages/static-pages/695266b935ce18e1c05aaf83",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Bangladesh"
+      ]
+    },
+    {
+      "destination": "CV",
+      "resolvedOrigins": [
+        "BR",
+        "CA",
+        "US"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AG",
+        "AL",
+        "AR",
+        "AU",
+        "BA",
+        "BB",
+        "BS",
+        "BZ",
+        "CM",
+        "CN",
+        "CU",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GQ",
+        "IL",
+        "IN",
+        "JP",
+        "KE",
+        "KN",
+        "KR",
+        "KW",
+        "LC",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MH",
+        "MK",
+        "MO",
+        "MU",
+        "MV",
+        "MY",
+        "NZ",
+        "QA",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SM",
+        "ST",
+        "TH",
+        "TL",
+        "TR",
+        "TW",
+        "UA",
+        "UY",
+        "VA",
+        "VC",
+        "XK"
+      ],
+      "findings": [
+        "Government Council decision adds BR/CA/US tourism exemptions for 30 days; Canadian current advice independently corroborates CA.",
+        "Other 55 origins still lack reconciled exemptions after the older consular PDF. A 2025 Japan visit announcement does not itself establish an ordinary-passport exemption. Residence-dependent border issuance not made unconditional.",
+        "US mission website includes unrelated injected links and was not relied on. Current consular rule still reserves law/treaty exemptions; EASE/TSA is separate from a visa.",
+        "Exact baseline partition: 3 additions; 55 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://www.governo.cv/governo-decide-pela-isencao-de-vistos-de-turismo-para-cidadaos-do-brasil-canada-e-eua/",
+        "https://www.gov.br/mre/pt-br/consulado-praia/informacoes-uteis/vistos",
+        "https://travel.gc.ca/destinations/cabo-verde",
+        "https://portalconsular.mnec.gov.cv/en/vistos",
+        "https://www.governo.cv/?s=isen%C3%A7%C3%A3o+vistos",
+        "https://www.governo.cv/primeiro-ministro-representa-cabo-verde-no-ticad9-no-japao/",
+        "https://www.embcv.pt/",
+        "https://boe.incv.cv/",
+        "https://www.visit-caboverde.com/en/travel-guide/travel-tips",
+        "https://www.embcv-usa.gov.cv/"
+      ]
+    },
+    {
+      "destination": "PY",
+      "resolvedOrigins": [
+        "MN"
+      ],
+      "remainingOrigins": [
+        "GE",
+        "HK",
+        "KN",
+        "KP",
+        "KR",
+        "MO",
+        "PS",
+        "SA",
+        "TT",
+        "XK"
+      ],
+      "findings": [
+        "Mongolia MFA outbound table directly establishes MN ordinary/all-passport waiver, 90 days, effective 2024-01-17.",
+        "Current Paraguay MFA suppression page recovered but its linked August 2024 PDF returns 404. Visa verification page is a paid authentication procedure for an already-issued visa, not an eligibility checker; no form submitted.",
+        "GE/KN/SA/TT commencement remains unverified. Unqualified Korea in the old mission table does not distinguish KP/KR. HK/MO/PS/XK document treatment remains unverified.",
+        "Exact baseline partition: 1 additions; 10 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://www.mre.gov.py/verificador-de-visas/",
+        "https://www.mre.gov.py/",
+        "https://www.geoconsul.gov.ge/en/visaInformation?countryId=129",
+        "https://www.foreign.gov.kn/visa-free-countries/",
+        "https://overseas.mofa.go.kr/py-ko/index.do",
+        "https://en.consul.mn/visa/c/84",
+        "https://en.consul.mn/visa/c/83",
+        "https://www.mre.gov.py/application/files/9217/2374/5237/Supresion_de_Visas_-_cuadro_AGOSTO_2024.pdf",
+        "https://www.mofa.gov.sa/en/TravelToSaudi/Pages/default.aspx",
+        "https://www.mre.gov.py/acuerdos-de-supresion-de-visas/",
+        "https://www.mre.gov.py/visas/"
+      ]
+    },
+    {
+      "destination": "ER",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ET",
+        "HK",
+        "KE",
+        "MO",
+        "PS",
+        "SD",
+        "TW",
+        "UG",
+        "XK"
+      ],
+      "findings": [
+        "Kenya Presidency 9 February 2023 announcement of agreed permanent visa abolition recovered. It provides neither an operative commencement date nor implementation instructions, so KE is not certified from announcement alone.",
+        "Nairobi embassy hostname serves only an empty directory listing; Uganda/other ministry and state-news searches did not resolve ordinary-passport waivers or ET/SD arrival arrangements.",
+        "ET/KE/SD/UG and HK/MO/PS/TW/XK remain unresolved for their previously identified specific exceptions/document cases. Generic Washington non-national default does not reconcile these.",
+        "Exact baseline partition: 0 additions; 9 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://www.president.go.ke/wp-content/uploads/Joint-Communique-Kenya-Eritrea.pdf",
+        "https://www.president.go.ke/kenya-eritrea-permanently-abolish-visa-requirements-for-their-citizens/",
+        "https://mfa.go.ke/",
+        "https://www.president.go.ke/?s=eritrea+visa",
+        "https://mfa.go.ke/kenya-and-eritrea-agree-abolish-visa-requirements",
+        "https://mfa.go.ke/visa-free-regime",
+        "https://www.eritreanembassy.co.ke/",
+        "https://shabait.com/?s=Kenya+visa",
+        "https://www.mofa.go.ug/visa-exempt-countries",
+        "https://shabait.com/?s=Uganda+visa",
+        "https://www.immigration.go.ug/services/visa-free-countries"
+      ]
+    },
+    {
+      "destination": "LY",
+      "resolvedOrigins": [
+        "BA"
+      ],
+      "remainingOrigins": [
+        "IL",
+        "SS",
+        "TR",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "BA resolved using the active official ISO BA row, inactive legacy same-code alias, landing metadata and positive public eligibility check; no inference from a dropdown alone.",
+        "TR current checker samples return exemption for children/adolescents/elderly and eVisa proceeding for an adult. These samples do not prove all exact age/gender thresholds, so TR remains unresolved. XK/SS/TW disabled online and IL absent do not establish country-wide entry bans.",
+        "Exact baseline partition: 1 additions; 5 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://back.evisa.gov.ly/api/v1/check-config",
+        "https://evisa.gov.ly/assets/index-Ae1CyGRv.js",
+        "https://back.evisa.gov.ly/api/v1/countries",
+        "https://evisa.gov.ly/user/visa-eligibility",
+        "https://back.evisa.gov.ly/api/v1/landing-resource",
+        "https://back.evisa.gov.ly/api/v1/purpose-of-visit",
+        "https://tripoli-be.mfa.gov.tr/Mission/InfoNotes",
+        "https://trablus-be.mfa.gov.tr/Mission/InfoNotes",
+        "https://www.mfa.gov.tr/libya-seyahat-edecek-turk-vatandaslarinin-dikkatine.tr.mfa"
+      ]
+    },
+    {
+      "destination": "LK",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CD",
+        "CG",
+        "KP",
+        "PS"
+      ],
+      "findings": [
+        "Current Immigration service/fee pages and alternative missions were pursued. They do not settle CG/CD/KP/PS exceptional tourist issuance/document treatment.",
+        "Former South Africa mission domain redirects to unrelated bookkeeping/tax content and is rejected; other mission endpoints fail DNS/access or provide no nationality rule. Existing generic ETA rules are not expanded over these four special cases.",
+        "Exact baseline partition: 0 additions; 4 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://srilankaembassy.cn/",
+        "https://www.srilankaembassy.cn/visa/",
+        "https://srilanka-botschaft.de/consular/visa",
+        "https://mfa.gov.lk/mission/sri-lanka-high-commission-in-pretoria-south-africa/",
+        "https://srilankahc.uk/visa/",
+        "https://www.slhcnairobi.org/consular-services/visa/",
+        "https://www.immigration.gov.lk/pages_e.php?id=14",
+        "https://www.slhc.uk/consular/visa",
+        "https://www.srilanka.co.za/",
+        "https://srilanka.co.za/consular/visas/",
+        "https://www.immigration.gov.lk/pages_e.php?id=45"
+      ]
+    },
+    {
+      "destination": "KI",
+      "resolvedOrigins": [
+        "LT",
+        "LV",
+        "MT"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Recovered substantive EEAS treaty notice (ordinary passports, 90/180, unpaid purposes) and current EEAS confirmation that the waiver applies. This settles the treaty coverage question for LT/LV/MT.",
+        "2023 domestic-list omissions were not converted into visa requirements or treaty cancellation. Council/EUR-Lex substantive fetches failed/returned empty, but EEAS contains the operative nationality-class/period statement.",
+        "Exact baseline partition: 3 additions; 0 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://www.eeas.europa.eu/fiji/european-union-and-republic-kiribati_en",
+        "https://www.consilium.europa.eu/en/press/press-releases/2016/06/24/eu-kiribati-visa-waiver-agreement/",
+        "https://www.mfa.gov.lv/lv/kiribati-celojumu-bridinajumi",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22016A0628(01)",
+        "https://keliauk.urm.lt/location/kiribatis",
+        "https://www.mfa.gov.lv/lv/celotajiem",
+        "https://www.mfa.gov.lv/lv/kiribati",
+        "https://www.eeas.europa.eu/node/8022_en",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22016A0628(01)"
+      ]
+    },
+    {
+      "destination": "VN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "TL",
+        "XK"
+      ],
+      "findings": [
+        "Timor-Leste government directly confirms ordinary-passport waiver signed 9 June 2026; Cabinet on 2 September 2026 approved a draft parliamentary resolution. Neither record establishes commencement by the check date.",
+        "TL remains unresolved for waiver-versus-eVisa classification; a known electronic fallback does not establish the primary waiver rule. XK document acceptance remains unverified; worldwide eVisa wording alone does not settle it.",
+        "Exact baseline partition: 0 additions; 2 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://timor-leste.gov.tl/?p=51178&lang=en",
+        "https://timor-leste.gov.tl/?s=Vietnam+visa&lang=en",
+        "https://timor-leste.gov.tl/?p=49626&lang=en"
+      ]
+    },
+    {
+      "destination": "DE",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Nairobi current Somali-applicant notice dated 29 July 2026 confirms single-entry processing and 45-day processing period, not a permitted stay. Generic Schengen tourist procedure also inspected.",
+        "The notice addresses Somali nationality but does not resolve the recognized-document/exceptional-entry authorization necessary for an ordinary Somali passport. No nationality ban or ordinary tourist entitlement inferred.",
+        "Exact baseline partition: 0 additions; 1 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://nairobi.diplo.de/ke-en/service/faqs-1510744",
+        "https://nairobi.diplo.de/ke-en/service",
+        "https://nairobi.diplo.de/ke-en/service/visa-entry/2780510-2780510",
+        "https://nairobi.diplo.de/ke-en/service/visa-entry/schengen-visa-1671552",
+        "https://nairobi.diplo.de/ke-en/service/visa-entry/schengenvisa",
+        "https://nairobi.diplo.de/ke-en/service/visa-entry/schengenvisa/somalia",
+        "https://nairobi.diplo.de/ke-en/service/visa-entry/2736340-2736340",
+        "https://nairobi.diplo.de/ke-en/service/05-visaeinreise",
+        "https://nairobi.diplo.de/ke-en/service/visa-entry"
+      ]
+    },
+    {
+      "destination": "AD",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Current Andorra tourism access requirements re-fetched. Local lack of visa does not remove Schengen access/re-entry requirements.",
+        "Current German Somali-applicant notice independently confirms single-entry restriction. Separate authorizations or exception-based lawful round-trip itinerary remains unproved; SO stays unresolved.",
+        "Exact baseline partition: 0 additions; 1 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://visitandorra.com/en/visitor-information/before-you-arrive/passport-visas-customs/",
+        "https://nairobi.diplo.de/ke-en/service/visa-entry/2780510-2780510"
+      ]
+    },
+    {
+      "destination": "MH",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "GT"
+      ],
+      "findings": [
+        "Current Immigration schedule re-fetched: byte-identical to prior evidence, still puts Guatemala in both 90-day exemption and 90-day VOA lists. These are not interchangeable merely because fees are waived.",
+        "Guatemala MFA returned 403 and alternative Marshall foreign-affairs domains failed. Exact visa method remains conflicting; GT stays unresolved.",
+        "Exact baseline partition: 0 additions; 1 unresolved. Lists in this review are exhaustive."
+      ],
+      "attemptedUrls": [
+        "https://www.mofat.gov.mh/",
+        "https://www.minex.gob.gt/Visor_Pagina.aspx?PaginaID=21",
+        "https://rmiimmigration.org/",
+        "https://rmiimmigration.org/wp-content/uploads/2026/03/voa-202403.pdf",
+        "https://www.rmi-mofat.com/visa-requirements.html"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "passport": "VA",
+      "destination": "BD",
+      "reason": "Baseline applied a generic European-country VOA/regular-visa rule. Current-retained CAAB AIP GEN 1.3-1 specifically names Vatican City as visa-exempt for up to 90 days; amendment 04/2026 verifies the page remains current.",
+      "sources": [
+        "gap-02-bd-aip-current"
+      ]
+    }
+  ]
+}

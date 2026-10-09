@@ -158,8 +158,8 @@ test('passport shards are complete, self-consistent, safely named and small', ()
     assert.equal(data.passport, country.name);
     assert.equal(new Set(data.destinations.map(item => item.name)).size, data.destinations.length);
     assert.ok(data.destinations.length >= 190);
-    assert.ok(gzipSync(raw).length < 45000, `${country.name}: full conditions and provenance must fit the measured 45 KB gzip budget`);
-    assert.ok(raw.length < 180000, `${country.name}: uncompressed shard budget`);
+    assert.ok(gzipSync(raw).length < 50000, `${country.name}: full conditions and provenance must fit the measured 50 KB gzip budget`);
+    assert.ok(raw.length < 185000, `${country.name}: uncompressed shard budget`);
   }
   assert.equal(validPassportRules({ passport: 'Test', destinations: [{ name: 'Test', iso: null, rule: { t: '__proto__', d: 0 } }] }), false);
 });

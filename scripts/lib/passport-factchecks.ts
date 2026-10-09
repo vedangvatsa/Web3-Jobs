@@ -1,11 +1,12 @@
 import assert from 'node:assert/strict';
 import { validDate, validPassportRules } from '../../src/lib/nomads/entry-rules';
 import { safeExternalUrl, type EntryRule, type EntrySource } from '../../src/lib/nomads/types';
+import type { Replacement } from './passport-gap-patches';
 
 export type ReviewedPolicy = EntryRule & { passports: string[]; destinations: string[] };
 export type DestinationReview = { destination: string; status: 'complete' | 'partial' | 'blocked'; unresolvedPassports: string[]; findings: string[]; attemptedUrls: string[] };
 export type Withdrawal = { passport: string; destination: string; reason: string; sources: string[] };
-export type Factchecks = { version: 1; sources: Record<string, Omit<EntrySource, 'kind'>>; policies: ReviewedPolicy[]; reviews: DestinationReview[]; withdrawals: Withdrawal[] };
+export type Factchecks = { version: 1; sources: Record<string, Omit<EntrySource, 'kind'>>; policies: ReviewedPolicy[]; reviews: DestinationReview[]; withdrawals: Withdrawal[]; replacements?: Replacement[] };
 export type Candidate = Factchecks & { group: string };
 
 const ephemeral = (url: string) => /[?&][^=]*(?:nonce|token|signature|session)[^=]*=/i.test(url);
@@ -28,10 +29,17 @@ export function validateFactchecks(file: Factchecks, codes: string[], destinatio
   }
   const routes = new Set<string>();
   const sources = Object.fromEntries(Object.entries(file.sources).map(([id, source]) => [id, { ...source, kind: 'government' }]));
+  assert.ok(validPassportRules({ version: 4, passport: 'validation', scope: '', sources, destinations: [] }), 'Invalid source registry');
+  const validRule = (rule: EntryRule, destination: string) => {
+    const ids = [rule.s, ...(Array.isArray(rule.evidence) ? rule.evidence : [])];
+    const evidence = Object.fromEntries([...new Set(ids)].filter((id): id is string => typeof id === 'string' && Object.hasOwn(sources, id)).map(id => [id, sources[id]]));
+    return validPassportRules({ version: 4, passport: 'validation', scope: '', sources: evidence,
+      destinations: [{ name: destination, iso: destination, review: file.sources[rule.s!]?.historical ? 'historical' : 'checked', rule }] });
+  };
   for (const { passports, destinations: targets, ...rule } of file.policies) {
     assert.ok(passports.length && targets.length && uniqueCodes(passports, codes) && uniqueCodes(targets, destinations), 'Invalid policy codes');
     assert.ok(rule.t !== 'unknown', 'A policy needs a supported rule');
-    assert.ok(validPassportRules({ version: 4, passport: 'validation', scope: '', sources, destinations: [{ name: 'validation', iso: targets[0], review: file.sources[rule.s!]?.historical ? 'historical' : 'checked', rule }] }), `Invalid policy ${rule.s}`);
+    assert.ok(validRule(rule, targets[0]), `Invalid policy ${rule.s}`);
     for (const from of passports) for (const to of targets) {
       const key = `${from}/${to}`;
       assert.notEqual(from, to, `Self route ${key}`);
@@ -54,6 +62,23 @@ export function validateFactchecks(file: Factchecks, codes: string[], destinatio
     assert.ok(withdrawal.reason?.trim() && withdrawal.sources.length && withdrawal.sources.every(id => Object.hasOwn(file.sources, id)), `Withdrawal without evidence ${key}`);
     withdrawn.add(key);
   }
+  const records = new Map<string, Replacement>();
+  const recordIds = new Set<string>();
+  const policyRules = new Map(file.policies.flatMap(({ passports, destinations: targets, ...rule }) => passports.flatMap(from => targets.map(to => [`${from}/${to}`, rule] as const))));
+  for (const record of file.replacements || []) {
+    const key = `${record.passport}/${record.destination}`, id = `${record.batch}/${key}`;
+    assert.match(record.batch, /^[a-z0-9][a-z0-9-]*$/);
+    assert.ok(!recordIds.has(id) && withdrawn.has(key), `Invalid replacement provenance ${id}`);
+    recordIds.add(id);
+    const withdrawal = file.withdrawals.find(item => `${item.passport}/${item.destination}` === key)!;
+    assert.ok(record.reason?.trim() && withdrawal.reason.includes(record.reason) && record.sources.length && record.sources.every(source => withdrawal.sources.includes(source)), `Replacement evidence missing from withdrawal ${id}`);
+    for (const rule of [record.previous, record.replacement].filter((rule): rule is EntryRule => rule !== null)) {
+      assert.ok(rule.t !== 'unknown' && validRule(rule, record.destination), `Invalid replacement rule ${id}`);
+    }
+    if (records.has(key)) assert.deepEqual(record.previous, records.get(key)!.replacement, `Broken replacement history ${key}`);
+    records.set(key, record);
+  }
+  for (const [key, record] of records) assert.deepEqual(policyRules.get(key), record.replacement || undefined, `Replacement differs from final policy ${key}`);
 }
 
 export function mergeCandidates(candidates: Candidate[], groups: Record<string, string>, codes: string[]): Factchecks {

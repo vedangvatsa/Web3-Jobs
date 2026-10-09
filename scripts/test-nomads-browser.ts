@@ -352,21 +352,68 @@ async function main() {
       ['china', 'Cambodia', 'Visa-free', 'Up to 14 days'],
       ['nigeria', 'Palau', 'Advance visa or written pre-clearance', 'maximum 30 days'],
       ['hong-kong', 'Sri Lanka', 'Prior ETA; entry visa at BIA', 'Up to 30 days'],
+      ['china', 'Kuwait', 'Visa required; channel conflict', ''],
+      ['panama', 'Tajikistan', 'eVisa / age-conditioned waiver', '60 calendar days'],
+      ['india', 'South Korea', 'Visa required / Jeju-only 30-day exemption', 'regular visa stay not established'],
+      ['czech-republic', 'Sao Tome and Principe', 'Visa-free', 'Up to 15 days'],
+      ['taiwan', 'Nauru', 'Prior visitor visa; no Taiwan Schedule 3 fee exemption', 'three months'],
+      ['fiji', 'Nauru', 'Visitor visa required; fee exemption / channel conflict', '3 months'],
+      ['china', 'Benin', 'Visa-free', 'Up to 30 days'],
+      ['mali', 'Niger', 'Air entry only: visa-free', '3 months'],
+      ['burkina-faso', 'Niger', 'Air entry only: visa-free', ''],
+      ['cameroon', 'Central African Republic', 'Air entry only: visa-free', ''],
+      ['australia', 'Burkina Faso', 'Air entry only: prior eVisa', ''],
     ]) {
       await go(`/visas?tab=checker&passport=${passport}`);
       await page.getByRole('searchbox', { name: 'Search destinations' }).fill(destination);
-      await expect(page.locator('main tbody tr')).toHaveCount(1);
+      const resultRow = entryRow.filter({ has: page.getByRole('rowheader', { name: destination, exact: true }) });
+      await expect(resultRow).toHaveCount(1);
       if (passport === 'china' && destination === 'Cambodia' && today > '2026-10-15') {
-        await expect(entryRow).toContainText('Not yet verified');
-        await expect(entryRow).not.toContainText('Up to 14 days');
+        await expect(resultRow).toContainText('Not yet verified');
+        await expect(resultRow).not.toContainText('Up to 14 days');
         continue;
       }
-      await expect(page.locator('main tbody tr')).toContainText(label);
-      if (stay) await expect(page.locator('main tbody tr')).toContainText(stay);
-      await page.locator('main tbody tr summary').click();
-      await expect(page.locator('main tbody tr')).toContainText('Checked · government-backed baseline');
-      assert.ok((await page.locator('main tbody tr a').first().innerText()).length > 20, 'Useful source titles are visible');
+      await expect(resultRow).toContainText(label);
+      if (stay) await expect(resultRow).toContainText(stay);
+      await resultRow.locator('summary').click();
+      await expect(resultRow).toContainText('Checked · government-backed baseline');
+      if (passport === 'fiji' && destination === 'Nauru') {
+        await expect(resultRow).toContainText('on entry');
+        await expect(resultRow).toContainText('advance application');
+        await expect(resultRow).toContainText('unreconciled');
+      }
+      if (label.startsWith('Air entry only:')) await expect(resultRow).toContainText('Land and sea entry are not established');
+      if (passport === 'burkina-faso' && destination === 'Niger') {
+        await expect(resultRow).toContainText('three months'); await expect(resultRow).toContainText('60 days');
+        await expect(resultRow).not.toContainText('Up to 60 days'); await expect(resultRow).not.toContainText('Up to 90 days');
+      }
+      assert.ok((await resultRow.locator('a').first().innerText()).length > 20, 'Useful source titles are visible');
     }
+
+    await go('/visas?tab=checker&passport=sweden&destination=Niger');
+    const nigerRow = entryRow.filter({ has: page.getByRole('rowheader', { name: 'Niger', exact: true }) });
+    await expect(nigerRow).toHaveCount(1); await expect(nigerRow).toContainText('Not yet verified');
+    await nigerRow.locator('summary').click();
+    await expect(nigerRow).toContainText('Air-entry evidence conflict');
+    await expect(nigerRow).toContainText('Unresolved official review');
+    assert.ok(await nigerRow.locator('a[href*="aim.asecna.aero/pdf/FR-_12GEN"]').count() > 0);
+    assert.ok(await nigerRow.locator('a[href*="ambassadeniger-fr.org"]').count() > 0);
+
+    await go('/visas?tab=checker&passport=bahrain&destination=Azerbaijan');
+    await expect(entryRow).toHaveCount(1);
+    await entryRow.locator('summary').click();
+    if (today <= '2027-02-15') await expect(entryRow).toContainText('Historical official evidence');
+    else await expect(entryRow).toContainText('Not yet verified');
+    await expect(entryRow).not.toContainText('Checked · government-backed baseline');
+    await expect(entryRow).toContainText('23 Jul 2026');
+    await expect(entryRow).toContainText('three visa-free entries');
+    await go('/visas?tab=checker&passport=iceland&destination=Swaziland');
+    await expect(entryRow).toHaveCount(1);
+    await entryRow.locator('summary').click();
+    await expect(entryRow).toContainText('Not yet verified');
+    await expect(entryRow).toContainText('Unresolved official review');
+    await expect(entryRow).toContainText('Iceland ordinary-passport exemption');
+    assert.ok(await entryRow.locator('a').count() >= 2, 'Conflict withdrawal exposes both evidence sources');
 
     for (const width of [320, 390, 768, 1440]) {
       await page.setViewportSize({ width, height: 1000 });

@@ -1,0 +1,1704 @@
+{
+  "version": 1,
+  "batch": "gap-08",
+  "baselineSha256": "628d74004a53c4e3e18467e95a6051e23182bdffd858efc24cdde02b1268d31c",
+  "sources": {
+    "gap-08-cg-law": {
+      "title": "Congo SGG: Law 29-2017, replacing and completing Law 23-96",
+      "urls": [
+        "https://sgg.cg/JO/2017/congo-jo-2017-38.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "8acbce743281c2ae754e7c053ac98692fafc0248adec02b9d08ca5b495b936b4"
+    },
+    "gap-08-cg-rwanda": {
+      "title": "Congo official gazette: Rwanda agreement, ordinary-passport free arrival visa",
+      "urls": [
+        "https://sgg.cg/JO/2023/congo-jo-2023-39.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "d4dd2b73e2f6aa9b1ee99167b2413a3d9ab072df0b42558dd0529a47d780c0a3"
+    },
+    "gap-08-cg-de": {
+      "title": "Origin foreign ministry: DE ordinary-passport entry to Republic of Congo",
+      "urls": [
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongorepubliksicherheit-208542"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "7c8af4ea18bfb55b411eff2217716c242d54e8d3f3daf11ea539e053b87b9340"
+    },
+    "gap-08-cg-rs": {
+      "title": "Origin foreign ministry: RS ordinary-passport entry to Republic of Congo",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/congo-republic"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "7cb61f0b4df0c55b1cd1b8c55a87bb3390d7eef65c7eb7aa77f75d5030c6b7b1"
+    },
+    "gap-08-cg-cemac-2017": {
+      "title": "Historical Congo Interior Ministry signed Circular 00647, 23 October 2017 (third-party-hosted facsimile)",
+      "urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/MINISTERE_DE_L%27INTERIEUR_ET_DE_LA_DECENTRALISATION_REPUBLIQUE_DU_CONGO_Note_circulaire_%E2%84%9600647.png"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6d21cd120395982cf5190436bba2c8416444f96f328865c20fe0be068b0ba387",
+      "historical": true
+    },
+    "gap-08-sy-fr": {
+      "title": "Origin foreign ministry: FR visa requirement and Syrian border conditions",
+      "urls": [
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/syrie/conseils-aux-voyageurs-entree-sejour"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "60574957a09740931b8e3f0404089d4f5608d51916f8bc03eb3b082bbfc8fbae"
+    },
+    "gap-08-sy-de": {
+      "title": "Origin foreign ministry: DE visa requirement and Syrian border conditions",
+      "urls": [
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "94104a7bde8d9e9f0b77a0f34ca953b647db887850bcc05f0b0e3ed5b7d27aa7"
+    },
+    "gap-08-sy-cn": {
+      "title": "China MFA: ordinary Chinese passports and Syrian electronic visa applications",
+      "urls": [
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/xly_648004/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "cec21ade4486060b50c3023f3bf4f5e8ac13c4415efd467ed5978bf6d3068b04"
+    },
+    "gap-08-sy-tw-historical": {
+      "title": "Taiwan BOCA: explicitly historical Syrian eVisa rule pending post-December-2024 confirmation",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-245-ef906-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "598621e1dba2e1ab65205f339d98d4381ca085f8801484aa25c63c799f6dc5c3",
+      "historical": true
+    },
+    "gap-08-ye-workflow": {
+      "title": "Yemen MFA launch and official Aden IPNA tourism portal",
+      "urls": [
+        "https://www.mofa-ye.org/Pages/32929/",
+        "https://yemenevisa.org/visas"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap-08-ye-tw": {
+      "title": "Origin foreign ministry: TW advance visa requirement for Yemen",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-195-bc8f3-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a1cc8820f06b64449f81e9ec701460d6e008a5ed37fbcec8a528d95dccf37ec7"
+    },
+    "gap-08-ye-cn": {
+      "title": "Origin foreign ministry: CN advance visa requirement for Yemen",
+      "urls": [
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/ym_648066/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e27a21b8602eeaa4042d10c7f9d369a2a55be0411c4d44b9a52456bf6e03c172"
+    },
+    "gap-08-gy-stay-conflicts": {
+      "title": "Guyana MFA and Brussels mission: agreed exemptions with conflicting stay periods",
+      "urls": [
+        "https://www.minfor.gov.gy/visa-information",
+        "https://www.embassyofguyana.be/countries-whose-nationals-do-not-require-visas-to-enter-guyana.php"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap-08-na-nationality-schedule": {
+      "title": "Namibia Ministry and missions: full exemption schedule and visa-required remainder",
+      "urls": [
+        "https://www.namibia-botschaft.de/wp-content/uploads/2025/05/Untitled-attachment-01018.pdf",
+        "https://www.namibia-botschaft.de/list-of-countries-with-visa-exemption-agreements-with-namibia/",
+        "https://www.namibia-botschaft.de/application-for-visa/",
+        "https://www.namibiahc.org.uk/fees-and-requirements.php",
+        "https://www.namibiahc.org.uk/services-for-foreign-nationals.php"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap-08-dj-faq": {
+      "title": "Djibouti Immigration: current public ordinary-passport eVisa FAQ",
+      "urls": [
+        "https://www.evisa.gouv.dj/applicant-api/v1/api/applicant/getFaqdetails"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "03ace408b608a97e963549959ef9ddf5f0764086e48c73d563c8030c4e5c9c12"
+    },
+    "gap-08-dj-tw": {
+      "title": "Taiwan BOCA: Djibouti tourist eVisa expressly available to Taiwan passports",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-191-a2058-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "74c2c7433a5225d2025ac34d7b571d3569f4be0cb2d9d94e793720c3976fd6f9"
+    },
+    "gap-08-dj-mo": {
+      "title": "Macao DSI official passport concession checker: Djibouti eVisa",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/en/visa"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap-08-gt-nationality-charts": {
+      "title": "Guatemala IGM: published destination-specific A/B/C visa classification charts",
+      "urls": [
+        "https://controlmigratorio.igm.gob.gt/index.php/clasificacion-paises-visas",
+        "https://controlmigratorio.igm.gob.gt/images/galeria/Categoria-a-actualizada-2023.jpg",
+        "https://controlmigratorio.igm.gob.gt/images/galeria/Modern-Travel-Magazine-Cover-Paid.jpg",
+        "https://controlmigratorio.igm.gob.gt/images/galeria/visas-c.jpg",
+        "https://extranjeria.igm.gob.gt/index.php/component/content/article/visas-gt?catid=8"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap-08-fm-visitor": {
+      "title": "FSM Immigration Act and current official visitor guidance: universal short-visit exemption",
+      "urls": [
+        "https://www.fsmlaw.org/fsm/code/title50/T50_Ch01.htm",
+        "https://visit-micronesia.fm/regulation/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap-08-by-taiwan": {
+      "title": "Taiwan BOCA and Belarus MFA: Taiwan passport consular visa or pre-arranged Minsk issuance",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-145-33da6-02-1.html",
+        "https://mfa.gov.by/en/visa/NationalAirportMinsk/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap-08-ie-libya": {
+      "title": "Irish Immigration: current restricted consideration of Libyan visitor visa applications",
+      "urls": [
+        "https://www.irishimmigration.ie/visa-non-visa-required-nationalities/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "d075a0538c1bbd5aa8b06848276a03e5300d6da42054694fc3efbc641ec70546"
+    },
+    "gap-08-pw-eu-treaty": {
+      "title": "EU-Palau short-stay visa-waiver agreement: full published treaty including non-Schengen EU members",
+      "urls": [
+        "https://publications.europa.eu/resource/cellar/9a755b61-a55a-11e5-b528-01aa75ed71a1.0006.03/DOC_1"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "fab185eb40f8a761a9f9645dc832adba38c63bf165b030180a0b09ac72ec8851"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "RW"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap-08-cg-rwanda",
+      "n": "Ordinary Rwandan passport: a visa is issued free of charge on entry under Article 1(1) of the bilateral agreement, provisionally effective from signature on 24 November 2021 and ratified/published in 2023. The treaty gives visa validity of no more than 90 days; an independently specified admitted tourist stay was not established, so d=0. Diplomatic/service visa exemption is not extended to ordinary passports. Use an authorised international crossing; normal admissibility and local law remain applicable.",
+      "label": "Fee-free visa on arrival"
+    },
+    {
+      "passports": [
+        "DE"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-cg-de",
+      "n": "Ordinary DE passport: visa required before travel through the competent Congolese mission. No tourist stay is specified. The existence of an online form/payment service does not establish a stand-alone eVisa; other electronic issuance options remain unverified.",
+      "evidence": [
+        "gap-08-cg-law"
+      ]
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-cg-rs",
+      "n": "Ordinary RS passport: visa required before travel through the competent Congolese mission. No tourist stay is specified. The existence of an online form/payment service does not establish a stand-alone eVisa; other electronic issuance options remain unverified.",
+      "evidence": [
+        "gap-08-cg-law"
+      ]
+    },
+    {
+      "passports": [
+        "CM",
+        "GA",
+        "GQ",
+        "TD",
+        "CF"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-08-cg-cemac-2017",
+      "n": "HISTORICAL DOCUMENT: the signed 23 October 2017 Interior Ministry circular exempts holders of valid biometric ordinary passports from entry visas and exit authorisation for stays up to 90 days. Non-biometric passports are outside the stated exemption. This third-party-hosted facsimile establishes the historical implemented rule; current operation was not independently established. No unrestricted residence/work right is asserted.",
+      "label": "Historical biometric CEMAC waiver"
+    },
+    {
+      "passports": [
+        "FR"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-sy-fr",
+      "n": "Ordinary FR passport: obtain a Syrian visa before travel through the competent mission. No admitted stay is established. Current independent eVisa eligibility for this origin is not confirmed; a consular instruction does not prove eVisa unavailable. Israeli travel evidence can cause refusal even with a visa. A national visa does not establish access to every territory or crossing. France states that issuance when entering by road from Lebanon requires proof of Lebanese residence or entry to Lebanon through Beirut airport; immigration regularisation is required for stays over fifteen days. Neither rule is a fifteen-day visa grant."
+    },
+    {
+      "passports": [
+        "DE"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-sy-de",
+      "n": "Ordinary DE passport: obtain a Syrian visa before travel through the competent mission. No admitted stay is established. Current independent eVisa eligibility for this origin is not confirmed; a consular instruction does not prove eVisa unavailable. Israeli travel evidence can cause refusal even with a visa. A national visa does not establish access to every territory or crossing. Germany requires six-month passport validity and directs applicants to the Syrian mission responsible for their residence country; Lebanon transit has separate entry rules."
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-08-sy-cn",
+      "n": "Chinese ordinary passports require a Syrian visa; China MFA directs ordinary-passport applicants to the electronic-visa channel linked by the Syrian embassy in China (offline receipt discontinued from 1 May 2024). No visa exemption applies. Approval and territorial/crossing permissions remain necessary. The page describes fifteen-day visa validity and immigration registration for stays beyond fifteen days; neither is converted into a fixed tourist stay."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "ev",
+      "d": 15,
+      "s": "gap-08-sy-tw-historical",
+      "n": "HISTORICAL RULE ONLY: BOCA describes the May 2024 Taiwan ordinary-passport eVisa regime but explicitly says post-8 December 2024 implementation awaits confirmation. Requires a guarantor resident in Syria whom authorities can contact, a six-month passport, approval before travel and printed approval. Former maximum stay fifteen days; one/three/six-month visa validity is separate. Israeli travel evidence can prevent entry. Not current admission verification.",
+      "label": "Historical sponsored tourist eVisa"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "YE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-ye-tw",
+      "n": "Ordinary TW passport: a visa must be arranged before travel. BOCA requires a six-month passport, itinerary, invitation/purpose and a contact in Yemen, with a prior appointment at a Yemeni mission. The Aden IPNA portal provides an agency/authority-mediated tourist approval process; nationality-specific independent eVisa eligibility and stay remain unverified. Prior approval followed by a border sticker is one process. Confirm the competent authority and entry port for mainland Yemen or Socotra; no permission for all territories is inferred.",
+      "evidence": [
+        "gap-08-ye-workflow"
+      ]
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "YE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-ye-cn",
+      "n": "Ordinary CN passport: a visa must be arranged before travel. China MFA expressly requires a visa; its diplomatic-passport fee waiver is not a visa exemption. The Aden IPNA portal provides an agency/authority-mediated tourist approval process; nationality-specific independent eVisa eligibility and stay remain unverified. Prior approval followed by a border sticker is one process. Confirm the competent authority and entry port for mainland Yemen or Socotra; no permission for all territories is inferred.",
+      "evidence": [
+        "gap-08-ye-workflow"
+      ]
+    },
+    {
+      "passports": [
+        "CR"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-08-gy-stay-conflicts",
+      "n": "Ordinary-passport tourist visa exemption is expressly supported by both official sources. Permitted duration conflicts: 90 days at the central MFA versus 30 at Brussels. No maximum stay is selected; confirm the current authorised period before travel and follow the admission stamp. This duration dispute is not evidence of a visa requirement.",
+      "label": "Visa-free; stay period disputed"
+    },
+    {
+      "passports": [
+        "DO"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-08-gy-stay-conflicts",
+      "n": "Ordinary-passport tourist visa exemption is expressly supported by both official sources. Permitted duration conflicts: 90 days at the central MFA versus 30 at Brussels. No maximum stay is selected; confirm the current authorised period before travel and follow the admission stamp. This duration dispute is not evidence of a visa requirement.",
+      "label": "Visa-free; stay period disputed"
+    },
+    {
+      "passports": [
+        "PA"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-08-gy-stay-conflicts",
+      "n": "Ordinary-passport tourist visa exemption is expressly supported by both official sources. Permitted duration conflicts: 90 days at the central MFA versus 180 at Brussels. No maximum stay is selected; confirm the current authorised period before travel and follow the admission stamp. This duration dispute is not evidence of a visa requirement.",
+      "label": "Visa-free; stay period disputed"
+    },
+    {
+      "passports": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AG",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BZ",
+        "BT",
+        "BO",
+        "BA",
+        "BN",
+        "CN",
+        "CO",
+        "CG",
+        "CD",
+        "CR",
+        "CY",
+        "DM",
+        "DO",
+        "EG",
+        "SV",
+        "ET",
+        "FJ",
+        "GE",
+        "GD",
+        "GT",
+        "GY",
+        "HT",
+        "HN",
+        "IN",
+        "IR",
+        "IQ",
+        "JO",
+        "KI",
+        "KW",
+        "LA",
+        "LB",
+        "LY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "FM",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MM",
+        "NR",
+        "NP",
+        "NG",
+        "KP",
+        "MK",
+        "OM",
+        "PK",
+        "PW",
+        "PA",
+        "PG",
+        "PH",
+        "QA",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "SA",
+        "SN",
+        "RS",
+        "SI",
+        "SB",
+        "SO",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "YE"
+      ],
+      "destinations": [
+        "NA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-na-nationality-schedule",
+      "n": "Ordinary passport: visa required under the Ministry/mission full exemption schedule for the regime effective 1 April 2025. Diplomatic/official/service-only exemptions do not cover an ordinary passport. These origins are not assigned an arrival/eVisa entitlement by subtraction from the arrival list. Missions advertise online holiday-visa applications as well as consular processing, but origin-specific electronic eligibility remains unconfirmed; consult the competent mission/Ministry. No third-country residence or visa is assumed. Stay is as granted: the advertised 90-day validity from submission is not encoded as a stay.",
+      "label": "Visa required; issuance method unconfirmed"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "DJ"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-08-dj-tw",
+      "n": "Taiwan ordinary passport: apply for a single-entry tourist eVisa before travel. BOCA describes short-stay visas for 15-90 days; duration is as approved. Carry printed eVisa, passport and flight documents; immigration can request boarding passes for the full route. BOCA also mentions arrival issuance, while the destination FAQ conflicts; only the common advance eVisa option is certified.",
+      "stay": "15-90 days, as specified on the approved short-stay visa",
+      "evidence": [
+        "gap-08-dj-faq"
+      ]
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "DJ"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-08-dj-mo",
+      "n": "Macao SAR ordinary passport: the DSI public travel-concession checker explicitly lists Djibouti with electronic-visa availability. Obtain advance single-entry tourist eVisa; stay is as issued. The checker does not establish a visa exemption or walk-up arrival right. Six-month passport, accommodation/invitation and transport evidence are required under the destination FAQ.",
+      "evidence": [
+        "gap-08-dj-faq"
+      ]
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "GT"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-08-gt-nationality-charts",
+      "n": "Hong Kong SAR passport is explicitly Category A (visa exempt) in the Guatemalan immigration authority chart. No general Chinese or Macao exemption is inferred. No stay length appears in the chart; applicable regional CA-4 admission time must be checked rather than assuming a new allowance at each border."
+    },
+    {
+      "passports": [
+        "BO"
+      ],
+      "destinations": [
+        "GT"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-gt-nationality-charts",
+      "n": "Ordinary Bolivian passport is explicitly Category B: consular visa. Obtain the required approval before travel. No third-country-document exemption is assumed. Chart supplies no stay; independent electronic issuance is not established."
+    },
+    {
+      "passports": [
+        "AL"
+      ],
+      "destinations": [
+        "GT"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-gt-nationality-charts",
+      "n": "Ordinary Albanian passport is explicitly Category C: consulted visa/advance immigration approval. The IGM tourist process requires a Guatemalan guarantor and supporting documents. No third-country-document exemption is assumed and no stay is invented. This is Guatemala-specific evidence, independent of unilateral El Salvador annotations.",
+      "label": "Consulted tourist visa"
+    },
+    {
+      "passports": [
+        "CH",
+        "IS",
+        "LI",
+        "NO"
+      ],
+      "destinations": [
+        "FM"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-08-fm-visitor",
+      "n": "The FSM Immigration Act and official visitor guidance establish visa/advance-permit-free short visits, including the universal stay of thirty days or less. A separate longer bilateral entitlement for these non-EU EFTA passports was not established; d=0 preserves uncertainty over the total permitted maximum rather than importing the EU 90/180 rule. Present valid passport (visitor guidance: 120 days beyond entry), completed CIQ form and onward travel or accepted substitute evidence. Longer stay/extension requires immigration permission.",
+      "label": "Visa-free; maximum entitlement unconfirmed"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "BY"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap-08-by-taiwan",
+      "n": "Taiwan ordinary passport: either obtain a consular visa before travel or arrange issuance at Minsk National Airport. For Minsk issuance the inviting person/organisation must submit original visa-support documents and a copy to DAF at least two business days before arrival; carry the DAF-stamped copy for airline check-in. Not available on flights from Russia: obtain the consular visa instead. Ordinary tourism and document checks remain applicable. BOCA describes consular short-stay visas up to 90 days, but an equal arrival-visa stay was not established, so no shared duration is assigned.",
+      "a": [
+        "voa",
+        "vr"
+      ],
+      "stay": "Consular short-stay visa: up to 90 days as granted; Minsk issuance: as granted",
+      "label": "Pre-arranged Minsk visa or consular visa"
+    },
+    {
+      "passports": [
+        "LY"
+      ],
+      "destinations": [
+        "IE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-08-ie-libya",
+      "n": "Libyan ordinary passport requires an Irish visa. Visitor applications may be considered when the applicant is a long-term resident of an EU Member State or another country AND has good, recent travel history to the UK, EU, Australia, New Zealand, Canada or US; alternatively applications supported by an Irish Government Department or State Agency may be considered with sponsorship evidence. Those conditions are not assumed. Outside the published accepted categories, ordinary-tourist consideration is not established under the continuing restrictions; this is not a nationality-wide entry ban. Immediate-family applications have separately listed conditions, not a general tourist waiver. No stay is established.",
+      "label": "Visa required; visitor applications restricted"
+    },
+    {
+      "passports": [
+        "CY"
+      ],
+      "destinations": [
+        "PW"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-08-pw-eu-treaty",
+      "n": "Cypriot ordinary passport is covered by the EU-Palau agreement: 90 days in any rolling 180-day period, regardless of transport mode. Article 2 defines EU Member States with only UK/Ireland excluded, not only Schengen countries. Paid activity is outside the waiver; other entry and short-stay requirements remain. Complete the current Palau entry declaration and meet passport, funds/onward-travel and border-admissibility conditions. This is a visitor waiver, not free movement.",
+      "label": "EU treaty short-stay waiver"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "CG",
+      "resolvedOrigins": [
+        "CF",
+        "CM",
+        "DE",
+        "GA",
+        "GQ",
+        "RS",
+        "RW",
+        "TD"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CH",
+        "CI",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Recovered and read Law 29-2017 (official gazette 38/2017), replacing/completing the 1996 law. Article15 has a visa default but expressly reserves particular immigration agreements; the database is not an exhaustive current exemption schedule.",
+        "Rwanda ordinary-passport fee-free arrival visa is expressly established by the 2021 agreement, provisionally effective on signature and published/ratified in 2023; visa validity is not converted into stay.",
+        "DE/RS resolved using nationality-specific origin-ministry statements. Signed 2017 biometric CEMAC circular supports five HISTORICAL additions only; third-party facsimile does not count as current operational confirmation.",
+        "Current MFA/AfDB guidance still says most travellers, not all. Paris form/payment with passport submission is not standalone eVisa. Other origins lack a complete present exemption/arrival/recognition schedule; no blanket is manufactured. A secondary 2027 African waiver announcement is not current policy."
+      ],
+      "attemptedUrls": [
+        "https://am.afdb.org/en/2026-annual-meetings/your-stay/visa",
+        "https://am.afdb.org/en",
+        "https://am.afdb.org/en/2026-annual-meetings/visa",
+        "https://am.afdb.org/en/2026-annual-meetings/visa-and-immigration",
+        "https://visasnews.com/en/congo-to-waive-visa-requirement-for-african-travelers-in-2027/",
+        "https://sgg.cg/fr/recherche.html?field_titre=circulation&action=Rechercher",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/MINISTERE_DE_L%27INTERIEUR_ET_DE_LA_DECENTRALISATION_REPUBLIQUE_DU_CONGO_Note_circulaire_%E2%84%9600647.png",
+        "https://www.diplomatie.cg/etrangers-voyageant-en-republique-du-congo",
+        "https://sgg.cg/fr/droit-regional/cemac.html",
+        "https://sgg.cg/fr/droit-congolais/les-codes-consolides.html",
+        "https://sgg.cg/fr/droit-international/conventions-internationales.html",
+        "https://sgg.cg/fr/droit-international/conventions-internationales.html?field_titre=visa&action=Rechercher",
+        "https://www.ambacongofr.org/site/services?cat=visas",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongorepubliksicherheit-208542",
+        "https://sgg.cg/textes-officiels/lois/1996/congo-loi-1996-23.pdf",
+        "https://sgg.cg/JO/2017/congo-jo-2017-38.pdf",
+        "https://www.sgg.cg/textes-officiels.html",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/congo-republic",
+        "https://sgg.cg/JO/2023/congo-jo-2023-39.pdf",
+        "https://www.migration.gov.rw/our-services/visa-issued-to-rwandans",
+        "https://sgg.cg/fr/recherche.html?field_titre=entr%C3%A9e&action=Rechercher",
+        "https://sgg.cg/fr/recherche.html?field_titre=%C3%A9trangers&action=Rechercher",
+        "https://sgg.cg/fr/recherche.html?field_numeroAAAA=1996&field_numeroNN=23&action=Rechercher",
+        "https://sgg.cg/fr/recherche.html?field_titre=visa&action=Rechercher",
+        "https://sgg.cg/fr/recherche.html",
+        "https://sgg.cg/fr/droit-international/conventions-internationales.html?words=visa&action=Rechercher",
+        "https://sgg.cg/fr/recherche.html?page=1&row=30&field_titre=visa&action=Rechercher",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_the_Republic_of_the_Congo"
+      ]
+    },
+    {
+      "destination": "SY",
+      "resolvedOrigins": [
+        "CN",
+        "FR",
+        "DE",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AT",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BE",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BG",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CU",
+        "CY",
+        "CZ",
+        "DK",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "EE",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "ID",
+        "IQ",
+        "IE",
+        "IT",
+        "JM",
+        "JP",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NL",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "RS",
+        "SC",
+        "SL",
+        "SG",
+        "SK",
+        "SI",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "ES",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "AE",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "FR/DE visa requirement retained despite uncertainty about electronic issuance; French Lebanon-road conditions preserved. China MFA expressly confirms electronic ordinary-passport applications and its current page covers the transitional government.",
+        "BOCA expressly labels Taiwan electronic rules as pre-transition reference pending implementation confirmation; TW is HISTORICAL only, with local guarantor and fifteen-day former stay.",
+        "Current Syrian MFA services list is principally citizen documentation, not a tourist nationality schedule. Portal TLS failure, inaccessible/irrelevant mission paths and current border/territorial uncertainty prevent a universal tourist category; Arab/Lebanese exceptions and special documents remain unproven."
+      ],
+      "attemptedUrls": [
+        "https://mofaex.gov.sy/berlin-embassy/",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/syrie/conseils-aux-voyageurs-entree-sejour",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/syrie/",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
+        "https://mofa.gov.sy/",
+        "https://mofaex.gov.sy/diplomatic-missions",
+        "https://evisa.sy/",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/syrian-arab-republic",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/syria",
+        "https://mofaex.gov.sy/services",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-245-ef906-02-1.html",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Syria.html",
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/xly_648004/"
+      ]
+    },
+    {
+      "destination": "YE",
+      "resolvedOrigins": [
+        "CN",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AZ",
+        "BS",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "CU",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IL",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KG",
+        "LA",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "ST",
+        "SN",
+        "SL",
+        "SB",
+        "SO",
+        "ZA",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "AE",
+        "UY",
+        "UZ",
+        "VU",
+        "VE",
+        "VN",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "TW/CN advance-visa requirements independently established by origin authorities. Diplomatic fee exemption is not visa exemption.",
+        "Freshly read Yemen MFA launch and official IPNA tourist products. Approved agencies, advance authority approval and border sticker are sequential steps. Aden credentials do not establish entry to all mainland areas or Socotra.",
+        "Sanaa tourism-board guidance still mentions EEC/G8 airport visas and a dubious 96-day transit visa; no operational date or territorial scope settles its conflict with current Aden processing. Not used for new policies.",
+        "Remaining origins: no dependable exhaustive tourist nationality/recognition schedule; generic portal eligibility/template data cannot certify all passports. HK has a prior conflicting origin-table concession."
+      ],
+      "attemptedUrls": [
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-1.html",
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/ym_648112/rjjl_648122/",
+        "https://www.yemenembassy.org/consuloraffairs/visa-services/",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/yemen/conseils-aux-voyageurs-entree-sejour",
+        "https://yementourism.com/useful-tips/general-information",
+        "https://www.eoisanaa.gov.in/page/visa-services/",
+        "https://www.mofa-ye.org/Pages/32929/",
+        "https://www.mofa.gov.pk/yemen",
+        "https://yementourism.com/",
+        "https://yemenevisa.org/visas",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-195-bc8f3-02-1.html",
+        "https://www.mofa.gov.ae/en/Missions/Sanaa/Services/Visas",
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/ym_648066/"
+      ]
+    },
+    {
+      "destination": "GY",
+      "resolvedOrigins": [
+        "CR",
+        "DO",
+        "PA"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AF",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BD",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CN",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DZ",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GE",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LK",
+        "LR",
+        "LT",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MW",
+        "MX",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "NR",
+        "OM",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UY",
+        "UZ",
+        "VA",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "CR/DO/PA resolved as visa-free with d=0 because both authorities agree on category but disagree on stay. No false 30/90/180-day selection.",
+        "New tourism-authority guidelines claim about 125 exempt countries without listing them. This cannot complete the nationality schedule. Brussels tourist/arrival procedures do not establish every nationality eligibility.",
+        "Spanish MFA Guyana page gives an EU-wide exemption claim, inconsistent with diplomatic-only entries and destination schedules; ES/ID/UY category conflicts remain. Other omitted origins have neither a reliable exhaustive/default schedule nor individual evidence. Guatemala/Honduras/Mexico third-country-document branches do not by themselves prove the no-document branch."
+      ],
+      "attemptedUrls": [
+        "https://moha.gov.gy/legal-acts/",
+        "https://www.embassyofguyana.be/services.php?sid=34",
+        "https://www.embassyofguyana.be/countries-whose-nationals-do-not-require-visas-to-enter-guyana.php",
+        "https://guyanatourism.com/plan-your-trip/guyana-travel-guidelines/",
+        "https://moha.gov.gy/immigration-services/",
+        "https://www.guyanahclondon.co.uk/visas/",
+        "https://www.minfor.gov.gy/visa-information",
+        "https://guyanaconsulatenewyork.org/visas/",
+        "https://www.guyanamissionottawa.org/visa-services",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Guyana",
+        "https://www.exteriores.gob.es/Embajadas/puertoespana/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx",
+        "https://guyanatourism.com/travel-tips/",
+        "https://www.guyanatourism.com/",
+        "https://www.embassyofguyana.be/services.php?sid=30",
+        "https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/publicaciones/regimen-visas-admision",
+        "https://guyanaembassyusa.org/visas/"
+      ]
+    },
+    {
+      "destination": "NA",
+      "resolvedOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AG",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BZ",
+        "BT",
+        "BO",
+        "BA",
+        "BN",
+        "CN",
+        "CO",
+        "CG",
+        "CD",
+        "CR",
+        "CY",
+        "DM",
+        "DO",
+        "EG",
+        "SV",
+        "ET",
+        "FJ",
+        "GE",
+        "GD",
+        "GT",
+        "GY",
+        "HT",
+        "HN",
+        "IN",
+        "IR",
+        "IQ",
+        "JO",
+        "KI",
+        "KW",
+        "LA",
+        "LB",
+        "LY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "FM",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MM",
+        "NR",
+        "NP",
+        "NG",
+        "KP",
+        "MK",
+        "OM",
+        "PK",
+        "PW",
+        "PA",
+        "PG",
+        "PH",
+        "QA",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "SA",
+        "SN",
+        "RS",
+        "SI",
+        "SB",
+        "SO",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "YE"
+      ],
+      "remainingOrigins": [
+        "XK",
+        "PS",
+        "TW"
+      ],
+      "findings": [
+        "Visa requirement resolved from the explicitly full exemption schedule, read with the Ministry fact sheet and Berlin textual list; 85 origins are ordinary passports outside the all-passport waivers. Arrival/electronic eligibility is NOT assigned by subtraction.",
+        "London and Berlin advertise online Holiday Visa applications, but the portal failed TLS checks. Preserve known visa requirement with issuance-method uncertainty, and d=0 because visa validity is not stay.",
+        "XK/PS/TW remain unresolved: special-document acceptance/recognition and nationality-specific process not established by a generic schedule."
+      ],
+      "attemptedUrls": [
+        "https://www.namibia-botschaft.de/application-for-visa/",
+        "https://www.namibia-botschaft.de/visa/",
+        "https://www.namibia-botschaft.de/list-of-countries-with-visa-exemption-agreements-with-namibia/",
+        "https://www.namibia-botschaft.de/wp-content/uploads/2025/05/Untitled-attachment-01018.pdf",
+        "https://www.namibiahc.org.uk/fees-and-requirements.php",
+        "https://www.namibiaembassy.fi/visa-information",
+        "https://embassyofnamibia.fr/index.php/en/consular/visa-information",
+        "https://eservices.mhaiss.gov.na/holidayvisa-services",
+        "https://www.namibiahc.in/visa.php",
+        "https://www.namibiahc.org.uk/perch/resources/factsheetvisarequirementstonamibia-1.pdf",
+        "https://mhaiss.gov.na/immigration-control",
+        "https://eservices.mhaiss.gov.na/",
+        "https://eservices.mha.gov.na/holidayvisa",
+        "https://www.namibia.org.za/consular-services/",
+        "https://www.namibiahc.org.uk/visa-requirements.php",
+        "https://www.namibiahc.org.uk/services-for-foreign-nationals.php",
+        "https://namibianembassyusa.org/visa-information/"
+      ]
+    },
+    {
+      "destination": "DJ",
+      "resolvedOrigins": [
+        "MO",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "HK",
+        "IL",
+        "XK",
+        "PS",
+        "SG"
+      ],
+      "findings": [
+        "Taiwan BOCA explicitly supplies tourist eVisa process and 15-90-day variable grant. Macao DSI public visa-information checker explicitly marks Djibouti electronic eligibility.",
+        "HK source confirms a 14-day concession but does not distinguish visa-free from visa-on-arrival; official FAQ conflicts on arrival issuance. Kept unresolved rather than inventing the method. SG potential waiver and IL/XK/PS document treatment remain unverified. The Singapore MFA page has no substantive entry details."
+      ],
+      "attemptedUrls": [
+        "https://www.dsi.gov.mo/_nuxt/BpNNY0vm.js",
+        "https://www.dsi.gov.mo/en/visa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.evisa.gouv.dj/applicant-api/v1/api/applicant/getFaqdetails",
+        "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/djibouti/",
+        "https://www.mfa.gov.sg/countries-regions/d/djibouti/travel-page",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-191-a2058-02-1.html"
+      ]
+    },
+    {
+      "destination": "GT",
+      "resolvedOrigins": [
+        "AL",
+        "BO",
+        "HK"
+      ],
+      "remainingOrigins": [
+        "MO",
+        "SS"
+      ],
+      "findings": [
+        "Located the new IGM domain and its controlmigratorio/extranjeria subdomains through official navigation; visually read A/B/C chart images. AL=C consulted, BO=B consular, HK=A exempt.",
+        "Macao and South Sudan absent from the charts; no inference from China/Hong Kong or Sudan. Current MINEX remains 403. Charts also differ from the prior CA-4 source for some already-supported methods; absent a dated controlling amendment, no correction is asserted."
+      ],
+      "attemptedUrls": [
+        "https://controlmigratorio.igm.gob.gt/images/galeria/Categoria-a-actualizada-2023.jpg",
+        "https://controlmigratorio.igm.gob.gt/images/galeria/Modern-Travel-Magazine-Cover-Paid.jpg",
+        "https://controlmigratorio.igm.gob.gt/images/galeria/visas-c.jpg",
+        "https://controlmigratorio.igm.gob.gt/index.php/clasificacion-paises-visas",
+        "https://controlmigratorio.igm.gob.gt/",
+        "https://extranjeria.igm.gob.gt/",
+        "https://igm.gob.gt/",
+        "https://migracion.gob.gt/",
+        "https://www.minex.gob.gt/Visor_Pagina.aspx?PaginaID=21",
+        "https://www.consulguateny.org/visas",
+        "https://extranjeria.igm.gob.gt/index.php/clasificacion-paises",
+        "https://extranjeria.igm.gob.gt/index.php/component/content/article/visas-gt?catid=8",
+        "https://igm.gob.gt/visas/"
+      ]
+    },
+    {
+      "destination": "FM",
+      "resolvedOrigins": [
+        "CH",
+        "IS",
+        "LI",
+        "NO"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Official universal statutory visa/advance-permit-free short-visit rule resolves the category for all four EFTA origins. d=0 explicitly preserves uncertainty about their total maximum/any longer bilateral entitlement.",
+        "No extension of EU treaty membership to EFTA, no automatic 90/180 rule, and no free-movement inference. Origin-ministry attempts did not retrieve additional treaty content."
+      ],
+      "attemptedUrls": [
+        "https://www.government.is/topics/foreign-affairs/travel-advice/",
+        "https://www.fsmlaw.org/fsm/code/title50/T50_Ch01.htm",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_mikronesia/id2417124/",
+        "https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/micronesia/travel-advice-micronesia.html",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Micronesia",
+        "https://visit-micronesia.fm/regulation/"
+      ]
+    },
+    {
+      "destination": "BY",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "BOCA expressly establishes Taiwan document acceptance and two genuine methods. Belarus MFA freshly confirms two-business-day invitation submission, stamped DAF receipt for carrier, and no airport issuance from Russia.",
+        "Kosovo document recognition/ordinary tourist application route remains unproven; generic foreigner requirements do not prove entry prohibition."
+      ],
+      "attemptedUrls": [
+        "https://mfa.gov.by/en/visa/viezd_vyezd/general/",
+        "https://mfa.gov.by/en/visa/NationalAirportMinsk/",
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-145-33da6-02-1.html"
+      ]
+    },
+    {
+      "destination": "MM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "Fresh primary ministry visa pages and region-wise embassy directory read, plus Belgrade tourist requirements. Cairo/Bangkok/Berlin/London channels returned errors or provided only generic process.",
+        "Neither Kosovo nor Palestinian ordinary document recognition and tourist issuance was specifically established. No entry-ban inference, and no application-country dropdown counted as eligibility."
+      ],
+      "attemptedUrls": [
+        "https://mebangkok.org/index.php/visa/tourist-visa",
+        "https://www.mebelgrade.org/index.php/visas/tourist-visa",
+        "https://meberlin.com/visa/",
+        "https://mecairo.org/index.php/statement-speches",
+        "https://londonmyanmarembassy.com/",
+        "https://www.myanmarembassylondon.org/visa/",
+        "https://www.mofa.gov.mm/?page_id=10523",
+        "https://www.mofa.gov.mm/consular-affairs/visa-information/",
+        "https://www.myanmarmissionnewyork.org/visa",
+        "https://www.myanmarembassy.sg/visa/",
+        "https://www.mofa.gov.mm/?page_id=10525"
+      ]
+    },
+    {
+      "destination": "GR",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Nationality remains visa-required in the common EU framework, but ordinary Somali passport recognition is the unresolved issue. Fresh Greek MFA visa/mission pages returned403.",
+        "Existing EU recognition evidence and general separate-sheet/LTV law do not establish a Greek ordinary tourist issuance route for this document. Keep SO unresolved; do not conflate non-recognition with a nationality-wide entry ban."
+      ],
+      "attemptedUrls": [
+        "https://www.mfa.gr/missionsabroad/en/visas.html?mission=nai&mis=kenya",
+        "https://www.mfa.gr/missionsabroad/en/kenya-en/visas/general-information.html",
+        "https://www.mfa.gr/en/visas/visas-for-foreigners-traveling-to-greece/countries-requiring-or-not-requiring-visa.html"
+      ]
+    },
+    {
+      "destination": "IE",
+      "resolvedOrigins": [
+        "LY"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Live ISD notice provides supported conditional visitor-processing branches for Libyan nationals: long-term residence plus specified recent travel history, or Irish state sponsorship. No qualifying status is presumed.",
+        "All one baseline gap is represented as restricted visa-required with conditions rather than unconditional admission or visa exemption."
+      ],
+      "attemptedUrls": [
+        "https://www.irishimmigration.ie/visa-non-visa-required-nationalities/"
+      ]
+    },
+    {
+      "destination": "PW",
+      "resolvedOrigins": [
+        "CY"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Recovered the full treaty through the Publications Office public RDF catalogue and identified its English manifestation; actual Articles2-4 establish Cyprus coverage and90/180.",
+        "Search/metadata alone was not used as evidence. The treaty differentiates EU nationality from Schengen territory; EFTA needs separate agreements. All one baseline gap resolved."
+      ],
+      "attemptedUrls": [
+        "https://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015058",
+        "https://www.eeas.europa.eu/delegations/fiji/eu-and-palau-sign-visa-waiver-agreement_en",
+        "https://publications.europa.eu/webapi/rdf/sparql?query=PREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0A++++++++SELECT+%3Fexpression+%3Fmanifestation+%3Fitem+WHERE+%7B%0A++++++++++%3Fexpression+cdm%3Aexpression_belongs_to_work+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fresource%2Fcellar%2F9a755b61-a55a-11e5-b528-01aa75ed71a1%3E+%3B%0A++++++++++++cdm%3Aexpression_uses_language+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fresource%2Fauthority%2Flanguage%2FENG%3E+.%0A++++++++++%3Fmanifestation+cdm%3Amanifestation_manifests_expression+%3Fexpression+.%0A++++++++++OPTIONAL+%7B+%3Fitem+cdm%3Aitem_belongs_to_manifestation+%3Fmanifestation+.+%7D%0A++++++++%7D&format=application%2Fsparql-results%2Bjson",
+        "https://op.europa.eu/en/search-results?queryText=Palau+visa+waiver",
+        "https://publications.europa.eu/webapi/rdf/sparql?query=PREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0A++++++++PREFIX+bif%3A+%3Cbif%3A%3E%0A++++++++SELECT+%3Fwork+%3Fcelex+%3Ftitle+WHERE+%7B%0A++++++++++%3Fexp+cdm%3Aexpression_belongs_to_work+%3Fwork+%3B+cdm%3Aexpression_title+%3Ftitle+.%0A++++++++++%3Ftitle+bif%3Acontains+%22Palau%22+.%0A++++++++++%3Fwork+cdm%3Aresource_legal_id_celex+%3Fcelex+.%0A++++++++++FILTER%28CONTAINS%28LCASE%28STR%28%3Ftitle%29%29%2C+%22waiver%22%29%29%0A++++++++%7D+LIMIT+50&format=application%2Fsparql-results%2Bjson",
+        "https://publications.europa.eu/webapi/rdf/sparql?query=PREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0A++++++++SELECT+%3Fwork+%3Fcelex+%3Ftitle+WHERE+%7B%0A++++++++++%3Fwork+cdm%3Aresource_legal_id_celex+%3Fcelex+.%0A++++++++++%3Fexp+cdm%3Aexpression_belongs_to_work+%3Fwork+%3B+cdm%3Aexpression_title+%3Ftitle+.%0A++++++++++FILTER%28CONTAINS%28LCASE%28STR%28%3Ftitle%29%29%2C+%22palau%22%29+%26%26+CONTAINS%28LCASE%28STR%28%3Ftitle%29%29%2C+%22waiver%22%29%29%0A++++++++%7D+LIMIT+50&format=application%2Fsparql-results%2Bjson",
+        "https://www.consilium.europa.eu/en/documents-publications/treaties-agreements/agreement/?id=2015058",
+        "https://eur-lex.europa.eu/search.html?text=Palau&scope=EURLEX&type=quick&lang=en",
+        "https://eur-lex.europa.eu/EN/legal-content/summary/eu-palau-agreement-on-the-short-stay-visa-waiver.html",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22015A1223(01)",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Palau",
+        "https://publications.europa.eu/resource/celex/22015A1223(01)",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22015A1223(01)",
+        "https://publications.europa.eu/resource/cellar/9a755b61-a55a-11e5-b528-01aa75ed71a1.0006.02/DOC_1",
+        "https://publications.europa.eu/resource/cellar/9a755b61-a55a-11e5-b528-01aa75ed71a1.0006.03/DOC_1",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22015A1210(01)"
+      ]
+    }
+  ],
+  "corrections": []
+}

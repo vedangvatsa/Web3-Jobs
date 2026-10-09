@@ -1,0 +1,583 @@
+{
+  "audit": {
+    "destinations": 199,
+    "routes": 39402,
+    "checked": 33620,
+    "historical": 983,
+    "unresolved": 4799,
+    "withdrawals": 188
+  },
+  "rendered": {
+    "checked": 33620,
+    "historical": 983,
+    "unresolved": 4799,
+    "government": 34606,
+    "reference": 4791,
+    "unknown": 5,
+    "changedCategory": 6366,
+    "changedDays": 10269,
+    "changedStayOrMethods": 7523,
+    "retainedLegacyUnresolved": 3,
+    "withdrawalWithoutReplacement": 5
+  },
+  "reference": {
+    "version": 1,
+    "passports": 199,
+    "sha256": "cfbba9ffc469e7f80b9140aa36a1371aabdb2260499b3108771c4684afbb3f6e"
+  },
+  "policies": 3669,
+  "sources": 2335,
+  "payload": {
+    "totalBytes": 33476127,
+    "totalGzipBytes": 8568366,
+    "largest": [
+      {
+        "passport": "SO",
+        "bytes": 182953,
+        "gzipBytes": 48296
+      },
+      {
+        "passport": "VN",
+        "bytes": 182705,
+        "gzipBytes": 46568
+      },
+      {
+        "passport": "MR",
+        "bytes": 181065,
+        "gzipBytes": 46546
+      },
+      {
+        "passport": "TJ",
+        "bytes": 180925,
+        "gzipBytes": 46381
+      },
+      {
+        "passport": "TM",
+        "bytes": 182091,
+        "gzipBytes": 46305
+      }
+    ],
+    "largestRaw": [
+      {
+        "passport": "SO",
+        "bytes": 182953,
+        "gzipBytes": 48296
+      },
+      {
+        "passport": "VN",
+        "bytes": 182705,
+        "gzipBytes": 46568
+      },
+      {
+        "passport": "TM",
+        "bytes": 182091,
+        "gzipBytes": 46305
+      },
+      {
+        "passport": "NP",
+        "bytes": 181954,
+        "gzipBytes": 46104
+      },
+      {
+        "passport": "SY",
+        "bytes": 181719,
+        "gzipBytes": 45519
+      }
+    ],
+    "budget": {
+      "bytes": 185000,
+      "gzipBytes": 50000
+    }
+  },
+  "examples": {
+    "AF/FR": {
+      "name": "France",
+      "iso": "FR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "europe-schengen-common",
+        "n": "An advance short-stay visa is required. Authorised stay is set by the visa, subject to the Schengen-wide 90/180-day maximum. Apply through the competent mission/visa centre; online form submission does not by itself establish an eVisa. Short tourism only. The Schengen limit is 90 days in any rolling 180-day period across the whole area, not 90 days per country. Passport issued within the previous 10 years and valid at least three months after intended departure; accommodation, funds and return/onward travel may be checked. ETIAS is not operational at this check; EES border registration is not an advance travel authorisation. Covers metropolitan/Schengen France; French overseas territories have separate rules. Passport recognition: Non-machine-readable ORDINARY passport not recognised"
+      }
+    },
+    "AU/BF": {
+      "name": "Burkina Faso",
+      "iso": "BF",
+      "review": "checked",
+      "rule": {
+        "t": "ev",
+        "d": 0,
+        "s": "aip-reviewed-aip-bf",
+        "evidence": [
+          "aip-reviewed-aip-register",
+          "aip-reviewed-bf-electronic",
+          "aip-reviewed-bf-uae-prior",
+          "aip-reviewed-bf-burundi-prior",
+          "aip-reviewed-bf-indonesia-official",
+          "aip-reviewed-review-rw-outbound"
+        ],
+        "label": "Air entry only: prior eVisa",
+        "n": "Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed. Visa required under the express entry default, after excluding the full ordinary-passport AIP exemption schedule, independently supported UAE waiver and unresolved newer-agreement/document/restriction cases. Apply through Visa Burkina before travel; obtain electronic approval before boarding. Source supports electronic issuance but not guaranteed approval or a uniform authorized stay. Air-entry scope only. Review: Rwanda is also excluded because its immigration authority publishes an explicit ordinary-passport exemption that conflicts with this residual rule. The retained 156 cases are scoped default proposals after known exclusions, not certification of a universally complete live exemption register. The governing pages are dated 2 October 2025 (AMDT 10/25) and individually retained in the full AMDT 10/26 register effective 1 October 2026; the January 2026 HTML title is not a visa enactment date."
+      }
+    },
+    "BH/AZ": {
+      "name": "Azerbaijan",
+      "iso": "AZ",
+      "review": "historical",
+      "rule": {
+        "t": "vf",
+        "d": 30,
+        "s": "gap-05-az-asan-july2026",
+        "n": "Historical official ASAN capture of 2026-07-23: up to three visa-free entries during 2026-02-15 through 2027-02-15, with up to 30 days per entry; fourth and subsequent entries require a valid visa. The same table positively lists electronic-visa eligibility. No unlimited-entry waiver or unrestricted land-entry permission is asserted.",
+        "until": "2027-02-15",
+        "label": "Limited-entry visa waiver (historical evidence)"
+      }
+    },
+    "BF/NE": {
+      "name": "Niger",
+      "iso": "NE",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 0,
+        "s": "aip-reviewed-aip-ne",
+        "evidence": [
+          "aip-reviewed-aip-register"
+        ],
+        "label": "Air entry only: visa-free",
+        "n": "Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed. Both paragraph 7 and paragraph 9 expressly waive visas for valid Burkina ordinary passports. The same section gives three months in paragraph 7 and 60 days in paragraph 9; visa-free status is supported, but the tourist duration remains unresolved. Do not select the longer or silently convert months to days. The incoming-passenger pages are dated 11 June 2026 (AMDT 06/26) and individually retained in the full October 2026 register; neither the July HTML title nor the October package date establishes a new waiver commencement."
+      }
+    },
+    "CM/CF": {
+      "name": "Central African Republic",
+      "iso": "CF",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 0,
+        "s": "aip-reviewed-aip-cf-aic",
+        "evidence": [
+          "aip-reviewed-aip-register",
+          "aip-reviewed-review-rw-outbound"
+        ],
+        "label": "Air entry only: visa-free",
+        "n": "Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed. Named incoming-passenger exemptions in the CAR authorities’ still-published permanent AIC 17/A/22FC. The annex is unqualified by diplomatic/service passport class; ordinary passports are within its nationality statement. No waiver stay is specified. Restrict this proposal to air entry and valid ordinary passports. No expired-passport entitlement or CEMAC-wide extrapolation. The separate less-than-one-month exceptional visa provision is not the waiver duration. Re-read both actual PDF pages: ten names total, nine retained because US remains held. Current Rwanda immigration additionally corroborates RW ordinary passport. No unnamed origin receives a requirement from the annex omission. AIC 17/A/22FC is dated 25 March 2022 and remains listed PERM in the current October 2026 AIC index. Its continuing specific entry provisions, not the old generic GEN page or package date alone, support this scoped record."
+      }
+    },
+    "CN/BJ": {
+      "name": "Benin",
+      "iso": "BJ",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 30,
+        "s": "gap4-06-bj-china-waiver",
+        "n": "Chinese ordinary passports: up to 30 days across one or more visits within the 90-day period counted from first entry. Passport must remain valid at least six months on first entry; enter through an officially designated international border crossing. Longer stays require compliance with Beninese stay legislation."
+      }
+    },
+    "CN/KH": {
+      "name": "Cambodia",
+      "iso": "KH",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 14,
+        "s": "southeast-asia-p2-mo-pilot",
+        "n": "PRC ordinary passport or Macao SAR passport: government notice explicitly describes visa exemption, maximum14 days per entry, during15 June–15 October2026. Complete E-Arrival Card before entry; no advance visa or visa fee. Detailed destination checkpoint/stamping implementation could not be independently retrieved. Ordinary tourist visas are a separate regime.",
+        "until": "2026-10-15"
+      }
+    },
+    "CN/KW": {
+      "name": "Kuwait",
+      "iso": "KW",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap-12-kw-china-conflict",
+        "n": "Chinese ordinary passports: published tourist guidance describes a visa requirement, but direct eVisa/arrival eligibility conflicts with the current no-third-country-status checker, which returns false for both, and the runtime arrival list. Requirement retained; precise application channel and duration remain unconfirmed. Do not infer an entry ban or universal electronic-visa unavailability from this branch.",
+        "label": "Visa required; channel conflict"
+      }
+    },
+    "CN/NR": {
+      "name": "Nauru",
+      "iso": "NR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap4-07-nr-law",
+        "evidence": [
+          "oceania-islands-nr"
+        ],
+        "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+        "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+        "label": "Visitor visa required; fee exemption / channel conflict"
+      }
+    },
+    "CZ/ST": {
+      "name": "Sao Tome and Principe",
+      "iso": "ST",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 15,
+        "s": "gap4-04-st-cz-current",
+        "n": "Czech ordinary passport: visa-free for a stay not exceeding 15 days without gainful activity. Longer stays or paid activity require the appropriate visa."
+      }
+    },
+    "FJ/NR": {
+      "name": "Nauru",
+      "iso": "NR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap4-07-nr-law",
+        "evidence": [
+          "oceania-islands-nr"
+        ],
+        "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+        "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+        "label": "Visitor visa required; fee exemption / channel conflict"
+      }
+    },
+    "FR/IN": {
+      "name": "India",
+      "iso": "IN",
+      "review": "historical",
+      "rule": {
+        "t": "ev",
+        "d": 0,
+        "s": "east-south-asia-pass2-india-table",
+        "n": "Ordinary-passport tourist eVisa, based on the official 2026-09-10 archived eligibility table. Obtain GRANTED approval before travel; six-month passport, two blank pages, onward/return ticket and funds. Pakistani-origin restrictions apply, including parents/grandparents born or permanently resident in Pakistan; Canadian applicants with defence/security/police backgrounds must use a regular visa. Enter only through designated eVisa airports/seaports. The 30-day product runs from first arrival; one-/five-year validity is not stay, and the 180-day calendar-year ceiling is an aggregate. Regular mission visa is an alternative, with stay as issued.",
+        "a": [
+          "ev",
+          "vr"
+        ],
+        "stay": "30-day eVisa option; longer-validity tourist visas have issued conditions and a 180-day annual aggregate"
+      }
+    },
+    "HK/LK": {
+      "name": "Sri Lanka",
+      "iso": "LK",
+      "review": "checked",
+      "rule": {
+        "t": "eta",
+        "d": 30,
+        "s": "east-south-asia-pass2-sri-lanka-hksar",
+        "n": "HKSAR passport holders must apply online for ETA before visiting; the Sri Lankan Embassy notification provides up to 30-day entry visa upon arrival at Bandaranaike International Airport. ETA and the arrival stamp are sequential requirements, not interchangeable alternatives. Six-month passport,return ticket and funds required.",
+        "label": "Prior ETA; entry visa at BIA"
+      }
+    },
+    "IS/SZ": {
+      "name": "Swaziland",
+      "iso": "SZ",
+      "review": "unresolved",
+      "rule": {
+        "t": "unknown",
+        "d": 0,
+        "s": "gap-12-sz-schedules",
+        "evidence": [
+          "gap-12-sz-schedules",
+          "east-south-africa-p2-sz"
+        ],
+        "n": "Integration review: Iceland ordinary-passport exemption in the prior Brussels source conflicts with the explicitly visa-required Iceland row in the newly inspected Ministry of Home Affairs 2025-labelled schedule. Neither a controlling replacement nor supersession is established. Withdraw the supported exemption pending reconciliation; do not fall back to the legacy or Passport Index answer."
+      }
+    },
+    "IN/MY": {
+      "name": "Malaysia",
+      "iso": "MY",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 30,
+        "s": "southeast-asia-my-india",
+        "n": "Tourism/social visits only; minimum six-month passport validity, confirmed return travel, hotel booking and MDAC before arrival required.",
+        "until": "2026-12-31"
+      }
+    },
+    "IN/KR": {
+      "name": "South Korea",
+      "iso": "KR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap-10-kr-conditional",
+        "n": "Ordinary independent visits outside the Jeju concession require a Korean visa; electronic eligibility depends on the visa category and is not established here. Conditional exception: direct international arrival at Jeju airport or seaport for tourism/transit, staying only in Jeju, is visa-exempt for up to 30 days. Mainland transfer is not covered. Separate document-and-itinerary-dependent transit concessions exist (qualifying foreign visas/residence or a recognised escorted Incheon transit tour); none is assumed. Regular visa stay varies.",
+        "label": "Visa required / Jeju-only 30-day exemption",
+        "stay": "Jeju-only exemption: up to 30 days; regular visa stay not established"
+      }
+    },
+    "ML/NE": {
+      "name": "Niger",
+      "iso": "NE",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 0,
+        "s": "aip-reviewed-aip-ne",
+        "evidence": [
+          "aip-reviewed-aip-register"
+        ],
+        "label": "Air entry only: visa-free",
+        "n": "Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed. Mali explicitly included for valid ordinary passports, visa-free for a stay not exceeding three months. Retain the source unit; do not convert to 90 days. Applies to incoming air passengers, not inferred solely from AES membership. The incoming-passenger pages are dated 11 June 2026 (AMDT 06/26) and individually retained in the full October 2026 register; neither the July HTML title nor the October package date establishes a new waiver commencement.",
+        "stay": "Up to 3 months (air entry only)"
+      }
+    },
+    "MR/NE": {
+      "name": "Niger",
+      "iso": "NE",
+      "review": "unresolved",
+      "rule": {
+        "t": "unknown",
+        "d": 0,
+        "s": "aip-reviewed-aip-ne",
+        "evidence": [
+          "aip-reviewed-aip-ne",
+          "aip-reviewed-review-ne-2024",
+          "aip-reviewed-review-ne-paris",
+          "aip-reviewed-review-mr-accords",
+          "aip-reviewed-aip-register",
+          "gap4-10-ne-default"
+        ],
+        "n": "Air-entry evidence conflict for MR ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Mauritania MFA supplies a visa-suppression agreement lead, but no controlling ordinary-passport treaty text or commencement resolves the Paris mission visa-required default. The AIP exemption was already printed in 2024. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+      }
+    },
+    "MU/NE": {
+      "name": "Niger",
+      "iso": "NE",
+      "review": "unresolved",
+      "rule": {
+        "t": "unknown",
+        "d": 0,
+        "s": "aip-reviewed-aip-ne",
+        "evidence": [
+          "aip-reviewed-aip-ne",
+          "aip-reviewed-review-ne-2024",
+          "aip-reviewed-review-ne-paris",
+          "aip-reviewed-review-mu-outbound",
+          "aip-reviewed-review-mu-index",
+          "aip-reviewed-aip-register",
+          "gap4-10-ne-default"
+        ],
+        "n": "Air-entry evidence conflict for MU ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. The currently linked Mauritius MFA outbound table still requires a Niger visa, alongside the Paris mission default. The added 2026 AIP exemption has no established priority or supersession over this counterevidence. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+      }
+    },
+    "MA/BF": {
+      "name": "Burkina Faso",
+      "iso": "BF",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 0,
+        "s": "aip-reviewed-aip-bf",
+        "evidence": [
+          "aip-reviewed-aip-register"
+        ],
+        "label": "Air entry only: visa-free",
+        "n": "Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed. Explicit ordinary-passport exemptions for Mali, Niger, Morocco, Tunisia and Saint Kitts and Nevis. Valid passport. No numeric ordinary-tourist duration is stated; the separate CEN-SAD 30-day period is diplomatic/service-only. Apply only to incoming air passengers on this evidence. The governing pages are dated 2 October 2025 (AMDT 10/25) and individually retained in the full AMDT 10/26 register effective 1 October 2026; the January 2026 HTML title is not a visa enactment date."
+      }
+    },
+    "NG/PW": {
+      "name": "Palau",
+      "iso": "PW",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "oceania-islands-p2-pw",
+        "n": "Effective 30 March 2026, Executive Order 499 requires a visa issued before travel OR BCBP written pre-clearance before boarding; visa issuance at port is prohibited for these passports. Submit pre-clearance at least five days before travel by designated official email; include arrival form, passport bio page, non-refundable return ticket, accommodation and funds. Pre-clearance-based stay is ticket-based, maximum 30 days and non-extendable; a separately granted formal visa/permit can authorise longer. No shared duration is assigned to these distinct methods.",
+        "stay": "Pre-clearance: return-ticket period, maximum 30 days; formal visa: as granted",
+        "label": "Advance visa or written pre-clearance"
+      }
+    },
+    "PA/TJ": {
+      "name": "Tajikistan",
+      "iso": "TJ",
+      "review": "checked",
+      "rule": {
+        "t": "ev",
+        "d": 0,
+        "s": "gap-03-tj-conditional",
+        "n": "An electronic visa is available with up to 60 calendar days of stay within 90-day visa validity; generally passport validity of at least six months and printed emailed approval required. A separate 14-day waiver applies to the age-qualified group: current National-passport table says over 55, while the 2024 MFA announcement says aged 55 and over; confirm the waiver boundary if exactly 55. Do not assume the traveller meets the age condition. The electronic route is established independently of this waiver boundary. Visa-free visitors generally register within ten working days; eVisa holders are exempt from that registration. Border-area/GBAO permission is separate. The public checker omits the age qualifier and is not used for unconditional visa freedom.",
+        "label": "eVisa / age-conditioned waiver",
+        "a": [
+          "ev",
+          "vf"
+        ],
+        "stay": "eVisa: up to 60 calendar days; qualifying older travellers: waiver up to 14 days"
+      }
+    },
+    "RU/NO": {
+      "name": "Norway",
+      "iso": "NO",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap4-04-no-ru-law",
+        "n": "Russian ordinary passport: visa required, but a Schengen tourist visa is not sufficient assurance of entry. Immigration Regulations section 19A-4b specifically permits rejection for tourism or other non-essential travel at Norway’s external Schengen border on foreign-policy grounds. The scope is external-border entry, not a nationality-wide prohibition everywhere. Eligibility for exceptions, actual visa issuance and any internal-Schengen itinerary must be determined separately; none is presumed.",
+        "label": "Visa required; external-border tourist restriction"
+      }
+    },
+    "RU/TH": {
+      "name": "Thailand",
+      "iso": "TH",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 30,
+        "s": "southeast-asia-th-2026",
+        "n": "Ordinary-passport bilateral exemption on current September 2026 schedule; HK/MO means SAR passport. Submit TDAC within three days before arrival."
+      }
+    },
+    "RW/BF": {
+      "name": "Burkina Faso",
+      "iso": "BF",
+      "review": "unresolved",
+      "rule": {
+        "t": "ev",
+        "d": 0,
+        "label": "eVisa",
+        "s": "passport-index"
+      }
+    },
+    "RW/NE": {
+      "name": "Niger",
+      "iso": "NE",
+      "review": "unresolved",
+      "rule": {
+        "t": "unknown",
+        "d": 0,
+        "s": "aip-reviewed-aip-ne",
+        "evidence": [
+          "aip-reviewed-aip-ne",
+          "aip-reviewed-review-ne-2024",
+          "aip-reviewed-review-ne-paris",
+          "aip-reviewed-review-rw-outbound",
+          "aip-reviewed-aip-register",
+          "gap4-10-ne-default"
+        ],
+        "n": "Air-entry evidence conflict for RW ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Rwanda Immigration corroborates an ordinary-passport exemption, but the Paris mission still publishes a conflicting requirement. Source agreement and first appearance in the compared 2026 AIP do not establish legal priority or commencement. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+      }
+    },
+    "SO/ES": {
+      "name": "Spain",
+      "iso": "ES",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap4-07-es-so-qualified",
+        "n": "Somali nationals are visa-required under Annex I. Separately, the EU recognition matrix marks the Somali ordinary Baasaboor passport as not recognised by Spain, without a Spanish issue-date or issuing-authority exception. The Visa Code provides a separate-sheet, limited-territorial mechanism when the issuing state does not recognise a document; it does not guarantee Spanish tourist issuance. An accepted substitute document or specific Spanish authorisation and itinerary must be established before travel. Neither an ordinary passport alone nor this requirement record establishes admission, Schengen-wide transit rights or routine visa availability. No nationality-wide prohibition or tourist stay is asserted.",
+        "label": "Visa required; ordinary document not recognised"
+      }
+    },
+    "SE/NE": {
+      "name": "Niger",
+      "iso": "NE",
+      "review": "unresolved",
+      "rule": {
+        "t": "unknown",
+        "d": 0,
+        "s": "aip-reviewed-aip-ne",
+        "evidence": [
+          "aip-reviewed-aip-ne",
+          "aip-reviewed-review-ne-2024",
+          "aip-reviewed-review-ne-paris",
+          "aip-reviewed-review-se-advice",
+          "aip-reviewed-aip-register",
+          "gap4-10-ne-default"
+        ],
+        "n": "Air-entry evidence conflict for SE ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Swedish government entry guidance and the Paris mission still require a visa. The Swedish exemption was already printed in 2024; retention in the 2026 AIP does not establish supersession. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+      }
+    },
+    "TW/NR": {
+      "name": "Nauru",
+      "iso": "NR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap4-07-nr-tw-correction",
+        "n": "Visitor visa required before entry under the ordinary statutory rule. Nauru’s amendment notified 7 May 2024 expressly removed Republic of China (Taiwan) from Schedule 3’s visitor-visa fee exemptions and substituted People’s Republic of China; the prior Taiwan fee-exempt label is therefore withdrawn. This fee change is not a visa waiver or entry ban. The grant, accepted documents and current application channel must be confirmed; electronic issuance is not declared unavailable.",
+        "stay": "As granted, no more than three months under Regulation 12(7).",
+        "label": "Prior visitor visa; no Taiwan Schedule 3 fee exemption"
+      }
+    },
+    "GB/PS": {
+      "name": "Palestine",
+      "iso": "PS",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap-01-ps-gb",
+        "n": "Territory-dependent permission, not a Palestinian visa requirement. For a full British citizen passport, access via Israel ordinarily requires ETA-IL and Israeli admission; crossing Israel/Palestine requires passport and Israeli immigration slip. Follow any Palestinian-Authority-only/Judea-and-Samaria-only stamp or express advance-COGAT-authorisation restriction. Gaza requires the relevant entry/exit permission; Erez is reported closed and Rafah may close, so this is not a confirmed open tourist route. British nationals on the Palestinian Population Register or with a Palestinian ID need a Palestinian passport/travel document to leave the West Bank/Gaza; resident dual nationals have Allenby/Rafah exit-and-same-route-return restrictions. Israel-associated and specified other dual nationalities have separate document/preapproval rules. No country-wide stay is established.",
+        "label": "Territory- and route-dependent entry permission"
+      }
+    },
+    "US/GE": {
+      "name": "Georgia",
+      "iso": "GE",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 0,
+        "s": "europe-central-asia-ge-law",
+        "n": "Ordinance 255: one full year. This is not 360 days or a guessed number of days.",
+        "stay": "1 year"
+      }
+    },
+    "US/PK": {
+      "name": "Pakistan",
+      "iso": "PK",
+      "review": "historical",
+      "rule": {
+        "t": "ev",
+        "d": 0,
+        "s": "east-south-asia-pass2-pakistan-roster",
+        "n": "Advance online tourist visa. Listed in NADRA’s 192-country roster (capture 2026-08-28) and DGIP’s tourist List A (capture 2026-08-06). DGIP allows up to three months stay; actual approval controls. Apply from home country or legal permanent residence, with itinerary/hotel or sponsor documents and applicable sponsor biometrics. This is not visa-free entry or unconditional VOA; current free-VPA availability is not established.",
+        "stay": "Up to 3 months, subject to the visa issued"
+      }
+    },
+    "US/PW": {
+      "name": "Palau",
+      "iso": "PW",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 0,
+        "s": "oceania-islands-p2-pw",
+        "n": "BCBP confirms exemption from immigration visa/renewal for US/FSM/Marshall Islands citizens for the duration of visit; no onward ticket requirement, but valid passport and Palau Entry Form remain required. This short-tourism rule is visa-free, not unrestricted free movement. Residence/domicile, employment, labour permits and investment laws must be checked separately. Compact section142 recognises conditional US occupational/residence access but reserves Palau regulation. Section1338 addresses worker-status requirements even for people lawfully present without a visa. RPPL11-26 full text was not independently recovered.",
+        "stay": "Duration of visit under visa exemption; no unconditional work/residence grant asserted",
+        "label": "Regional/Compact visitor visa exemption"
+      }
+    },
+    "US/TH": {
+      "name": "Thailand",
+      "iso": "TH",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 30,
+        "s": "southeast-asia-th-2026",
+        "n": "Tourism waiver effective 15 September 2026. Sufficient funds of 20,000 baht per person/40,000 per family; submit TDAC within three days before arrival (not a visa). Extension up to a further 30 days is discretionary. GB refers to British citizen passport."
+      }
+    },
+    "VA/BD": {
+      "name": "Bangladesh",
+      "iso": "BD",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 90,
+        "s": "gap-02-bd-aip-current",
+        "n": "Vatican City ordinary passport is expressly named in the CAAB AIP visa-exempt list for up to 90 days. Amendment 04/2026 retains this page. This specific exemption replaces the earlier generic Europe-based VOA classification; it is not a fee exemption."
+      }
+    }
+  }
+}

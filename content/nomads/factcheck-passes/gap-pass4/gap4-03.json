@@ -1,0 +1,1395 @@
+{
+  "version": 1,
+  "batch": "gap4-03",
+  "baselineSha256": "4f998906b7a139661baf2a82d15de315463be057bd7eccf79c463f2448945055",
+  "sources": {
+    "gap4-03-cd-belgian": {
+      "title": "Belgian Foreign Affairs: DR Congo visa requirement and application jurisdiction",
+      "urls": [
+        "https://diplomatie.belgium.be/fr/pays/republique-democratique-du-congo/voyager-en-republique-democratique-du-congo-conseils-aux-voyageurs/informations-pratiques-pour-la-republique-democratique-du-congo"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "b11af9f92533fb3404ab2654c360f619b39c892c5605d6a3246ee45fccd5c0b4"
+    },
+    "gap4-03-cd-tokyo": {
+      "title": "DR Congo Embassy Tokyo: Japanese tourist visa requirement",
+      "urls": [
+        "https://embassyofdrcongo.com/visa-informations/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a9d3b1862ae277cb39733b597dc988196a260ea5483ad4e6a05c2d083460c453"
+    },
+    "gap4-03-cd-dutch": {
+      "title": "Netherlands Foreign Affairs: Dutch passport visa requirement for DR Congo",
+      "urls": [
+        "https://www.nederlandwereldwijd.nl/reisadvies/congo-democratische-republiek"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "da8b4fe3084af57b1b18dce1945cb1827f56aad6d3796346ff813f1f9c48fe0b"
+    },
+    "gap4-03-cd-spanish": {
+      "title": "Spanish Embassy Kinshasa: visa requirement and residence-country issuance",
+      "urls": [
+        "https://www.exteriores.gob.es/Embajadas/kinshasa/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "af4e1eb2c171dcc4cd54abf4efc7b787894ae30c536d60c62b3481562891e1ee"
+    },
+    "gap4-03-russian-outbound": {
+      "title": "Russian MFA: ordinary-passport DR Congo duty and Iranian organised-group exception",
+      "urls": [
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "9202e4927c2cba1c93fa8d9cca93b28f90b71bc87f993b39e1a634bb5db320b7"
+    },
+    "gap4-03-cd-australian": {
+      "title": "Australian DFAT: visa required before travel to DR Congo",
+      "urls": [
+        "https://www.smartraveller.gov.au/destinations/africa/democratic-republic-congo"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-03-ir-dutch": {
+      "title": "Dutch Iranian visa requirement, with BOCA agency rule for foreign visa applicants",
+      "urls": [
+        "https://www.nederlandwereldwijd.nl/reisadvies/iran",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-199-96551-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "edfb9db6ce902691ca7c2d24e755d1c3ae4fea25c1c6e61f675dcb3f30c6fd2a"
+    },
+    "gap4-03-ir-belgian": {
+      "title": "Belgian Iranian visa requirement and conditional airport reference, with BOCA agency rule",
+      "urls": [
+        "https://diplomatie.belgium.be/fr/pays/iran/voyager-en-iran-conseils-aux-voyageurs/informations-pratiques-pour-liran",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-199-96551-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f4f50598180347d2c518a099b2724c7703fa8873c9257b6f3b8a1e88b32fde9a"
+    },
+    "gap4-03-ir-danish": {
+      "title": "Danish MFA Iranian visa duty and online application; BOCA agency condition",
+      "urls": [
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/iran",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-199-96551-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "717ff693ddeaed278bdf559096bf73b529a7f01197530b0759606c10724bda91"
+    },
+    "gap4-03-ir-slovenian": {
+      "title": "Slovenian MFA Iranian electronic visa and suspended airport issuance, with BOCA agency rule",
+      "urls": [
+        "https://www.gov.si/drzave/iran/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-199-96551-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "07b67055d237fa202aea289f923ff57342c47641e7c6f80c40477078aab3b38f"
+    },
+    "gap4-03-ir-estonian": {
+      "title": "Estonian MFA Iranian visa requirement, with BOCA foreign-applicant agency condition",
+      "urls": [
+        "https://reisitargalt.vm.ee/sihtkoht/iraan/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-199-96551-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "eb88fe46e07ec7393edbef8e5ffff361845fc5d13175bf6838cf2b57019c7484"
+    },
+    "gap4-03-ir-macao": {
+      "title": "Macao DSI: ordinary SAR passport visa-free entry to Iran, 21 days",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/405?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "247d6b662b75d66e57b41acbc689cff8c89354a6695d79920814731ffe688c71"
+    },
+    "gap4-03-ir-russian-conditional": {
+      "title": "Russian MFA independent/group Iranian visa distinction and BOCA foreign visa-applicant condition",
+      "urls": [
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-199-96551-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "9202e4927c2cba1c93fa8d9cca93b28f90b71bc87f993b39e1a634bb5db320b7"
+    },
+    "gap4-03-gy-legal-default": {
+      "title": "Guyana Immigration (Passports) Order and current national/mission exemption schedules",
+      "urls": [
+        "https://mola.gov.gy/public/laws/Volume%205%20Cap.%2012.22%20-%2017.021696969977.pdf",
+        "https://mola.gov.gy/public/laws-of-guyana?page=11",
+        "https://www.minfor.gov.gy/visa-information",
+        "https://www.embassyofguyana.be/countries-whose-nationals-do-not-require-visas-to-enter-guyana.php",
+        "https://www.guyanaembassy-kuwait.com/wp-content/uploads/2024/01/COUNTRIES-WHOSE-NATIONALS-DO-NOT-REQUIRE-VISAS-TO-ENTER-GUYANA.pdf",
+        "https://www.guyanaembassy-kuwait.com/visas/",
+        "https://www.guyanaembassy-kuwait.com/visas-on-arrival/",
+        "https://eservices.iss.gov.gy/visitor-visa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6847164caad64780db7e91823a28ca953e4842dbb060c291fbd80aebbe57d05a"
+    },
+    "gap4-03-gy-spanish-statute": {
+      "title": "Guyana statutory Spanish-passport exemption and live embassy schedules",
+      "urls": [
+        "https://mola.gov.gy/public/laws/Volume%205%20Cap.%2012.22%20-%2017.021696969977.pdf",
+        "https://mola.gov.gy/public/laws-of-guyana?page=11",
+        "https://www.minfor.gov.gy/visa-information",
+        "https://www.embassyofguyana.be/countries-whose-nationals-do-not-require-visas-to-enter-guyana.php",
+        "https://www.guyanaembassy-kuwait.com/wp-content/uploads/2024/01/COUNTRIES-WHOSE-NATIONALS-DO-NOT-REQUIRE-VISAS-TO-ENTER-GUYANA.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6847164caad64780db7e91823a28ca953e4842dbb060c291fbd80aebbe57d05a"
+    },
+    "gap4-03-gy-czech": {
+      "title": "Czech MFA tourist visa instructions, read with Guyana statutory default",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/jizni_amerika/guyana/cestovani/visa.html",
+        "https://mola.gov.gy/public/laws/Volume%205%20Cap.%2012.22%20-%2017.021696969977.pdf",
+        "https://www.minfor.gov.gy/visa-information"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "49847e6503094dbc0e7dd1221f00008b4bd79441385eb00db19d647f64ed57c1"
+    },
+    "gap4-03-gy-estonian": {
+      "title": "Estonian MFA: Guyana visa required for Estonian citizens",
+      "urls": [
+        "https://reisitargalt.vm.ee/sihtkoht/guyana/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "260f0568dc0a3074acb56a1c4af74de307dff84e60c0d8c673adf75045de7bbd"
+    },
+    "gap4-03-gy-eu-conflict": {
+      "title": "Spanish MFA broader EU waiver claim conflicts with ordinary requirement sources",
+      "urls": [
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Guyana"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "25ed521badcdf9dae4a2124298772ec6c1f6ff7244d8589dd07315e4a15045f0"
+    },
+    "gap4-03-gy-turkish": {
+      "title": "Türkiye MFA: Guyana ordinary-passport visa duty",
+      "urls": [
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "44445d7e3cd0e9d4c5b787b7364563eb1a093b966cf90f293a4782e14bbdf33c"
+    },
+    "gap4-03-gy-serbian": {
+      "title": "Serbian MFA: Guyana requirement for Serbian passport holders",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/guyana"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "552ecb7ad26fdd262ceb9a60d70e024f6ef6ceb45bd2b8bc5d17d2f4737d4b54"
+    },
+    "gap4-03-gy-macao": {
+      "title": "Macao DSI Guyana 30-day arrival visa; Guyana prior-approval and residence conditions",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/389?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.guyanaembassy-kuwait.com/visas-on-arrival/",
+        "https://eservices.iss.gov.gy/visitor-visa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6699ec3eb16fc9732f6244855b93927e9047f24fac4f86e937735883ae40c6f9"
+    },
+    "gap4-03-me-current-decree": {
+      "title": "Montenegro MFA current consolidated Visa Regime Decree through Gazette 108/26",
+      "urls": [
+        "https://wapi.gov.me/download/7a121553-7780-477b-9117-d57985bfe57b?version=1.0",
+        "https://www.gov.me/dokumenta/7a121553-7780-477b-9117-d57985bfe57b",
+        "https://www.gov.me/pretraga?q=viznom"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "3ba753e8cad8e560952b704028401547cb8d6f2ca38e12cb68261fa50ba15789"
+    },
+    "gap4-03-lu-somali-requirement": {
+      "title": "EU visa duty and Luxembourg Somali ordinary-passport non-recognition qualification",
+      "urls": [
+        "https://publications.europa.eu/resource/cellar/ece43fab-0ca3-11f1-8870-01aa75ed71a1.0006.02/DOC_1",
+        "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-immigration.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "d903ae2efaada70c04a70f353a43e5827258d5facf98622627cfeb9e1b87a9ee"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "BE"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-cd-belgian",
+      "n": "Belgian ordinary-passport visitors require a visa. Apply in the country of residence, or a neighbouring country where no DRC mission is present in the residence country. Belgian residents of Belgium are directed to Brussels or Antwerp. The permitted stay and nationality-specific electronic issuance route are not established; this visa requirement does not mean eVisa is unavailable."
+    },
+    {
+      "passports": [
+        "JP"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-cd-tokyo",
+      "n": "Japanese ordinary-passport tourists require a visa. Tokyo describes original-passport consular processing, including a passport valid over six months, itinerary, accommodation and yellow-fever certificate. Six months is visa validity, not a universal stay. The permitted stay and nationality-specific electronic issuance route are not established; this visa requirement does not mean eVisa is unavailable."
+    },
+    {
+      "passports": [
+        "NL"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-cd-dutch",
+      "n": "Dutch ordinary-passport visitors require a visa. The permitted stay and nationality-specific electronic issuance route are not established; this visa requirement does not mean eVisa is unavailable."
+    },
+    {
+      "passports": [
+        "ES"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-cd-spanish",
+      "n": "Spanish visitors require a visa obtained in Spain or their country of residence. The DRC embassy in Brazzaville cannot issue visas to foreigners not resident in the Republic of Congo. The permitted stay and nationality-specific electronic issuance route are not established; this visa requirement does not mean eVisa is unavailable."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-russian-outbound",
+      "n": "Russian ordinary passports require a visa. The March 2025 diplomatic/service waiver does not cover ordinary tourists. The permitted stay and nationality-specific electronic issuance route are not established; this visa requirement does not mean eVisa is unavailable."
+    },
+    {
+      "passports": [
+        "AU"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-cd-australian",
+      "n": "Australian DFAT requires a visa before travel and advises that Australian travellers cannot obtain one on arrival. Nationality-specific electronic eligibility and the permitted stay are not established here; eVisa unavailability is not inferred."
+    },
+    {
+      "passports": [
+        "NL"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-ir-dutch",
+      "n": "Dutch ordinary-passport visitors require a visa; Dutch guidance directs applicants to the Iranian embassy in The Hague. Taiwan BOCA expressly reports that all foreign visa applicants must use a legally registered Iranian travel agency and an agency-arranged itinerary. This does not apply a visa duty to independently exempt passports. No residence, preapproval, arrival eligibility or qualifying itinerary is assumed. Issuance method and permitted stay remain uncertain."
+    },
+    {
+      "passports": [
+        "BE"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-ir-belgian",
+      "n": "Belgian visitors require a visa. Belgian guidance also mentions a tourist airport-issuance procedure at Tehran Imam Khomeini, but its complete current eligibility/preapproval conditions are not established, so no arrival entitlement is asserted. Taiwan BOCA expressly reports that all foreign visa applicants must use a legally registered Iranian travel agency and an agency-arranged itinerary. This does not apply a visa duty to independently exempt passports. No residence, preapproval, arrival eligibility or qualifying itinerary is assumed. Stay and final issuance method remain uncertain."
+    },
+    {
+      "passports": [
+        "DK"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-ir-danish",
+      "n": "Danish ordinary-passport visitors require a visa and online application. MFA guidance reports a maximum stay of 90 days, with issuance online, at a mission or at an airport depending on the case; this does not establish interchangeable methods or an automatic 90-day grant. Taiwan BOCA expressly reports that all foreign visa applicants must use a legally registered Iranian travel agency and an agency-arranged itinerary. This does not apply a visa duty to independently exempt passports. No residence, preapproval, arrival eligibility or qualifying itinerary is assumed. Final method and granted duration must be confirmed."
+    },
+    {
+      "passports": [
+        "SI"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap4-03-ir-slovenian",
+      "n": "Slovenian MFA explicitly requires a visa and identifies the Iranian electronic visa. It says airport issuance is suspended until further notice; no airport alternative is assigned. Taiwan BOCA expressly reports that all foreign visa applicants must use a legally registered Iranian travel agency and an agency-arranged itinerary. This does not apply a visa duty to independently exempt passports. No residence, preapproval, arrival eligibility or qualifying itinerary is assumed. No source-established fixed stay is assigned."
+    },
+    {
+      "passports": [
+        "EE"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-ir-estonian",
+      "n": "Estonian ordinary-passport visitors require a visa. Taiwan BOCA expressly reports that all foreign visa applicants must use a legally registered Iranian travel agency and an agency-arranged itinerary. This does not apply a visa duty to independently exempt passports. No residence, preapproval, arrival eligibility or qualifying itinerary is assumed. The electronic/consular/airport issuance branch and permitted stay remain uncertain."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vf",
+      "d": 21,
+      "s": "gap4-03-ir-macao",
+      "n": "Macao SAR passport, not the Macao travel permit: DSI expressly reports visa-free entry for up to 21 days. Mainland Chinese and Hong Kong documents are not inferred from this record. The foreign visa-applicant agency rule is not assumed to require visas for already exempt visitors."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-ir-russian-conditional",
+      "n": "Russian ordinary-passport visitors require a visa unless they qualify for the bilateral organised-tourist-group exemption. The Russian MFA reports that exemption as up to 15 days, at most 90 in 180; an agency-arranged itinerary alone is not proof of the treaty group qualification. Group approval/list and other implementing requirements remain to be established for a personal waiver decision. Taiwan BOCA expressly reports that all foreign visa applicants must use a legally registered Iranian travel agency and an agency-arranged itinerary. This does not apply a visa duty to independently exempt passports. No residence, preapproval, arrival eligibility or qualifying itinerary is assumed. The visa branch has no verified fixed stay or issuance method.",
+      "label": "Visa required; qualifying tour-group exception"
+    },
+    {
+      "passports": [
+        "AD",
+        "AF",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CN",
+        "CU",
+        "CV",
+        "DJ",
+        "DZ",
+        "EG",
+        "ER",
+        "ET",
+        "FM",
+        "GE",
+        "GN",
+        "GQ",
+        "GW",
+        "HT",
+        "IL",
+        "IQ",
+        "IR",
+        "IS",
+        "JO",
+        "KG",
+        "KH",
+        "KM",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LR",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "NE",
+        "NI",
+        "NP",
+        "OM",
+        "PH",
+        "PW",
+        "PY",
+        "SA",
+        "SD",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "UA",
+        "UZ",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZW"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-gy-legal-default",
+      "n": "Ordinary national passport: visa required under the Immigration (Passports) Order default, read with the current MFA and embassy exemption schedules. Diplomatic/service-only waivers do not extend to this passport. A pre-approved arrival process may be available depending on residence and ability to apply at a Guyana mission; no such condition is assumed. Online application, prior approval and border issuance are sequential, not interchangeable visa methods. The nationality-specific issuance channel and granted stay remain uncertain; eVisa unavailability is not inferred."
+    },
+    {
+      "passports": [
+        "GT",
+        "HN",
+        "MX"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-gy-legal-default",
+      "n": "Visa required for an ordinary passport without qualifying foreign documentation. Current mission schedules provide a 90-day exemption for holders of a valid US, Canadian or Schengen visa or a US permanent resident card; no such document is assumed. The non-exempt visa branch has no verified fixed stay or unconditional electronic/arrival entitlement.",
+      "label": "Visa required; foreign-document exemption"
+    },
+    {
+      "passports": [
+        "ES"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-03-gy-spanish-statute",
+      "n": "Spanish ordinary-passport exemption is established by the currently published statutory Schedule and corroborated by two embassy schedules. The central MFA table mentions diplomatic passports but supplies no express revocation of the statutory ordinary exemption. No fixed ordinary visitor stay is established across these sources; confirm the granted period rather than assuming 90 days."
+    },
+    {
+      "passports": [
+        "TR"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-gy-turkish",
+      "n": "Turkish ordinary-passport visitors require a visa. The separate diplomatic/service/special passport waiver does not apply to ordinary passports. Nationality-specific electronic/arrival eligibility and the permitted stay remain uncertain."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-gy-serbian",
+      "n": "Serbian ordinary-passport holders require a visa, expressly confirmed in the outbound entry section of Serbia MFA advice. The nearby table labelled entry into Serbia is not inverted. Nationality-specific electronic/arrival eligibility and stay remain uncertain."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-gy-macao",
+      "n": "Macao SAR ordinary passport requires a visa. DSI explicitly identifies a 30-day tourist arrival visa and electronic processing, with invitation, host/hotel contacts, two photographs and funds. Guyana limits its pre-approved arrival procedure by mission access/residence: obtain and print approval before travel where eligible; it is not a walk-up visa or an independent electronic alternative. No residence or approval is assumed. Consular eligibility and stay outside that branch are not established.",
+      "label": "Visa required; pre-approved arrival branch"
+    },
+    {
+      "passports": [
+        "CV",
+        "EC",
+        "MR",
+        "MZ",
+        "PK",
+        "SS"
+      ],
+      "destinations": [
+        "ME"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-me-current-decree",
+      "n": "Ordinary passports are subject to the current Visa Regime Decree Article 4 default; these nationalities are not in its ordinary-passport exemptions. No diplomatic/service treaty benefit is assumed. Article 7 separately permits up to 30 days with a valid Schengen, Australian, Japanese, Canadian, New Zealand, Irish, US or UK visa or residence permit, or an APEC business travel card, never beyond that document’s expiry. No qualifying foreign document is assumed. The ordinary visa branch’s granted stay and electronic availability remain uncertain.",
+      "label": "Visa required; foreign-document exception"
+    },
+    {
+      "passports": [
+        "SO"
+      ],
+      "destinations": [
+        "LU"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-03-lu-somali-requirement",
+      "n": "Somali nationals are subject to the EU visa requirement. The Commission’s 2 October 2026 recognition matrix marks the ordinary Somali passport as not recognised by Benelux, including Luxembourg. This is a visa/document-authorisation requirement only: it does not establish a routinely issuable tourist visa, acceptance of the ordinary passport, a substitute-document approval, or lawful Schengen transit. Any exceptional territorial/separate-sheet permission and itinerary require an individual authority decision; the practical tourist route and stay remain unresolved.",
+      "label": "Visa required; passport not recognised",
+      "evidence": [
+        "europe-schengen-recognition"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "CD",
+      "resolvedOrigins": [
+        "AU",
+        "BE",
+        "ES",
+        "JP",
+        "NL",
+        "RU"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Six narrow current additions from Tokyo and Australian/Belgian/Dutch/Spanish/Russian origin-government evidence. No consular validity period became a stay.",
+        "New Tokyo, Delhi, Brussels, Paris and DGM sources inspected. Tokyo explicitly establishes Japanese duty; Delhi/Paris generic application instructions and DGM eVisa links do not establish all remaining nationalities or an exhaustive current exemption roster.",
+        "The remaining 186 origins need an operative ordinary-passport exemption/default reconciliation, especially EAC/CEPGL, Chad commencement, Zimbabwe and HK/MO/PS/XK recognition. No default was inferred from eVisa application access."
+      ],
+      "attemptedUrls": [
+        "https://www.smartraveller.gov.au/destinations/africa/democratic-republic-congo",
+        "https://diplomatie.belgium.be/fr/pays/republique-democratique-du-congo/voyager-en-republique-democratique-du-congo-conseils-aux-voyageurs/informations-pratiques-pour-la-republique-democratique-du-congo",
+        "https://ambardc.be/demande-de-visa/",
+        "https://www.ambardc.be/",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/congo-den-demokratiske-republik",
+        "https://dgm.cd/",
+        "https://www.ambardc-india.com/get-a-visa",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_the_Democratic_Republic_of_the_Congo",
+        "https://www.ambardc.london/visas",
+        "https://www.ambardc-india.com/",
+        "https://www.nederlandwereldwijd.nl/reisadvies/congo-democratische-republiek",
+        "https://ambardcparis.com/visas-2/",
+        "https://www.ambardcparis.com/",
+        "https://www.drcembassy.org.za/",
+        "https://www.mfa.gov.sg/countries-regions/c/congo-democratic-republic-of/travel-page",
+        "https://www.exteriores.gob.es/Embajadas/kinshasa/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx",
+        "https://embassyofdrcongo.com/visa-informations/",
+        "https://embassyofdrcongo.com/",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/DemocraticRepublicoftheCongoDRC.html",
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/"
+      ]
+    },
+    {
+      "destination": "IR",
+      "resolvedOrigins": [
+        "BE",
+        "DK",
+        "EE",
+        "MO",
+        "NL",
+        "RU",
+        "SI"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AT",
+        "AZ",
+        "BS",
+        "BD",
+        "BB",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BW",
+        "BG",
+        "BF",
+        "BI",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CN",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "CY",
+        "CZ",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IQ",
+        "IE",
+        "IL",
+        "IT",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MG",
+        "MW",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "FM",
+        "MD",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PH",
+        "PL",
+        "PT",
+        "RO",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SL",
+        "SK",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "ES",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "SY",
+        "TJ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "US",
+        "UY",
+        "VU",
+        "VA",
+        "VE",
+        "YE",
+        "ZM"
+      ],
+      "findings": [
+        "Seven current additions: Macao21 visa-free; Slovenia electronic visa with agency condition; NL/BE/DK/EE visa duties; RU conditional visa/group distinction.",
+        "BOCA agency rule expressly applies to foreign visa applicants. It is not extended to persons already exempt. Embassy/airport/online steps are not assumed interchangeable. Russian organised treaty group and agency-arranged individual itinerary are distinct.",
+        "Current Iranian eVisa-traveller, tourism helpdesk, Vienna, Singapore and Hong Kong mission endpoints redirect-loop. Other origin advice retrieved; Austria/NZ offered no operative visitor visa rule, Poland redirected to Odyseusz, Italy returned a shell, Irish/Swedish/Norwegian sources blocked.",
+        "HKSAR table confirms21 days under a combined visa-free/arrival heading but does not independently disambiguate the method here. Remaining origins lack a verified current waiver/default and nationality/channel branch; no global electronic or airport entitlement is assigned."
+      ],
+      "attemptedUrls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/iran",
+        "https://diplomatie.belgium.be/fr/pays/iran/voyager-en-iran-conseils-aux-voyageurs/informations-pratiques-pour-liran",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/asie/iran/cestovani/visa.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-199-96551-02-1.html",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/iran",
+        "https://reisitargalt.vm.ee/sihtkoht/iraan/",
+        "https://evisatraveller.mfa.ir/",
+        "https://iran.mfa.gov.ge/",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://hongkong.mfa.gov.ir/en/generalcategoryservices/11766/visa-requirements-and-fees",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/iran/",
+        "https://www.iranembassy.ie/",
+        "https://www.viaggiaresicuri.it/find-country/country/IRN",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Iran",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/405?travelPermit=0",
+        "https://mfa.gov.ir/portal/helpdeskdata/5027/346/%D8%B1%D9%88%D8%A7%D8%AF%DB%8C%D8%AF-%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C%D9%88%DB%8C%D8%B2%D8%A7%DB%8C-%D8%AA%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C",
+        "https://singapore.mfa.gov.ir/en/generalcategoryservices/12143",
+        "https://austria.mfa.gov.ir/de/generalcategoryservices/12143",
+        "https://www.nederlandwereldwijd.nl/reisadvies/iran",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_iran/id2417199/",
+        "https://www.safetravel.govt.nz/destinations/iran",
+        "https://www.fm.gov.om/visitors/omani-citizens/travel-advice/",
+        "https://www.gov.pl/web/iran/informacje-dla-podrozujacych",
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+        "https://tehran.mid.ru/ru/consular-services/consulate/visas/",
+        "https://iran.mid.ru/ru/consular-services/",
+        "https://www.gov.si/drzave/iran/",
+        "https://www.exteriores.gob.es/Embajadas/teheran/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx",
+        "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/iran/reseinformation/ambassadens-reseinformation/in--och-utresebest%C3%A4mmelser/",
+        "https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/iran/reisehinweise-fuerdeniran.html",
+        "https://mfa.tj/en/main/view/15564/visa-free-regime-between-tajikistan-and-iran",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iran.html"
+      ]
+    },
+    {
+      "destination": "GY",
+      "resolvedOrigins": [
+        "AD",
+        "AF",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CN",
+        "CU",
+        "CV",
+        "DJ",
+        "DZ",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FM",
+        "GE",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "HN",
+        "HT",
+        "IL",
+        "IQ",
+        "IR",
+        "IS",
+        "JO",
+        "KG",
+        "KH",
+        "KM",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LR",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MX",
+        "NE",
+        "NI",
+        "NP",
+        "OM",
+        "PH",
+        "PW",
+        "PY",
+        "RS",
+        "SA",
+        "SD",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TR",
+        "UA",
+        "UZ",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "BD",
+        "BG",
+        "BN",
+        "CM",
+        "CY",
+        "CZ",
+        "EE",
+        "FJ",
+        "GA",
+        "GM",
+        "HR",
+        "HU",
+        "ID",
+        "IN",
+        "KE",
+        "KI",
+        "KW",
+        "LK",
+        "LT",
+        "LV",
+        "MT",
+        "MU",
+        "MW",
+        "MZ",
+        "NA",
+        "NG",
+        "NR",
+        "PG",
+        "PK",
+        "PL",
+        "PS",
+        "RO",
+        "RW",
+        "SB",
+        "SC",
+        "SI",
+        "SK",
+        "SL",
+        "TG",
+        "TO",
+        "TV",
+        "TW",
+        "TZ",
+        "UG",
+        "UY",
+        "VU",
+        "WS",
+        "XK",
+        "ZM"
+      ],
+      "findings": [
+        "Recovered full Immigration Act and subsidiary Immigration (Passports) Order from the currently linked Ministry of Legal Affairs compilation: clause2 explicit visa default, clause3 statutory/Commonwealth-reciprocity/ministerial/treaty exceptions. L.R.O.1/2012 is the document revision, not a 2026 enactment.",
+        "Default additions are limited to non-Commonwealth ordinary passports after reconciling the statutory Schedule, current central inbound list, Brussels and newly retrieved authenticated Kuwait mission PDF. No default is derived from omission alone. Unproved Commonwealth reciprocity remains held.",
+        "ES resolved from positive statutory Schedule and two unqualified mission entries, d0. Central diplomatic-only mention does not expressly repeal the statutory ordinary exemption. ID/UY/KW category/implementation leads remain held; dates and stay conflicts are not silently selected.",
+        "Czech and Estonian origin authorities positively describe visa duties, but the earlier Spanish MFA source explicitly claims an EU-wide tourist waiver under one month. Re-read that source without redating it; all13 other assigned EU origins are withheld pending reconciliation, rather than silently choosing either the broad waiver or the statutory default.",
+        "GT/HN/MX preserve the explicit90-day foreign-document exception without assuming foreign status. MO has a documented30-day pre-approved arrival branch; unknown consular stay and residence prevent an unconditional30-day record.",
+        "The portal explicitly requests an arrival-visa letter; application access is not proof of visa duty or immediate approval. Kuwait residence/no-mission condition, preapproval and border issue remain sequential."
+      ],
+      "attemptedUrls": [
+        "https://mola.gov.gy/public/laws/Volume%205%20Cap.%2012.22%20-%2017.021696969942.pdf",
+        "https://www.guyanahcottawa.ca/",
+        "https://www.minfor.gov.gy/visa-information",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/jizni_amerika/guyana/cestovani/visa.html",
+        "https://guyanaembassydc.org/documents",
+        "https://guyanaembassydc.org/",
+        "https://guyanaembassydc.org/visa",
+        "https://newdelhihc.mission.gov.gy/consular-services/visa-enter-guyana",
+        "https://newdelhihc.mission.gov.gy/",
+        "https://eservices.iss.gov.gy/visitor-visa",
+        "https://dpi.gov.gy/?s=visa+free",
+        "https://www.embassyofguyana.be/countries-whose-nationals-do-not-require-visas-to-enter-guyana.php",
+        "https://reisitargalt.vm.ee/sihtkoht/guyana/",
+        "https://um.fi/matkustustiedote/-/c/GY",
+        "https://www.hcguyana.co.in/visa.html",
+        "https://mola.gov.gy/public/laws/Volume%205%20Cap.%2012.22%20-%2017.021696969977.pdf",
+        "https://www.minfor.gov.gy/consulates/india-republic",
+        "https://www.hcigeorgetown.gov.in/",
+        "https://www.hcigeorgetown.gov.in/page/guyana-visa/",
+        "https://www.hcigeorgetown.gov.in/pages/NzM4",
+        "https://www.guyanaembassy-kuwait.com/visas-on-arrival/",
+        "https://www.minfor.gov.gy/consulates/kuwait-state",
+        "https://www.guyanaembassy-kuwait.com/wp-content/uploads/2024/01/COUNTRIES-WHOSE-NATIONALS-DO-NOT-REQUIRE-VISAS-TO-ENTER-GUYANA.pdf",
+        "https://www.guyanaembassy-kuwait.com/visas/",
+        "https://www.guyanaembassy-kuwait.com/",
+        "https://mola.gov.gy/public/laws-of-guyana?page=10",
+        "https://mola.gov.gy/public/laws-of-guyana?page=11",
+        "https://mola.gov.gy/public/laws-of-guyana?page=12",
+        "https://mola.gov.gy/public/laws-of-guyana?page=4",
+        "https://mola.gov.gy/public/laws-of-guyana?page=9",
+        "https://mola.gov.gy/public/laws-of-guyana?search=immigration",
+        "https://mola.gov.gy/laws-of-guyana/",
+        "https://www.guyanahclondon.co.uk/",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/389?travelPermit=0",
+        "https://www.minfor.gov.gy/guyana-overseas-missions/canada",
+        "https://www.minfor.gov.gy/diplomatic-and-consular-services/missions",
+        "https://www.minfor.gov.gy/consulates/canada-ottawa",
+        "https://www.guyanamissionottawa.org/",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/guyana",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-91-07614-02-1.html",
+        "https://guyanaembassydc.org/consular-services/visas/",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa"
+      ]
+    },
+    {
+      "destination": "VU",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BH",
+        "KG",
+        "MC",
+        "MD",
+        "MK",
+        "MN",
+        "PS",
+        "RW",
+        "TR"
+      ],
+      "findings": [
+        "All9 gaps re-reviewed against fresh official visit/tourist pages, current home-page law link, legal/gazette alternatives and North Macedonian/Mongolian origin leads.",
+        "Fresh tourist page confirms120-day tourist product and prior-versus-arrival process, but supplies no controlling country determination for the9 gaps. Law/gazette alternatives404; origin leads give no operative replacement. BH/MC/RW/TR remain conflicting, KG/MD/MK/MN/PS remain omitted or document-unproved. Existing poisoned/identical eVisa catalogue is not reused."
+      ],
+      "attemptedUrls": [
+        "https://mjcs.gov.vu/index.php/acts-and-legislation",
+        "https://immigration.gov.vu/",
+        "https://www.gov.vu/index.php/legislation",
+        "https://immigration.gov.vu/legislation/",
+        "https://immigration.gov.vu/index.php/legislation",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Vanuatu",
+        "https://mfa.gov.mk/en/page/432/visa-regime",
+        "https://consul.mn/visa/c/24",
+        "https://immigration.gov.vu/tourist-visa/",
+        "https://immigration.gov.vu/visiting-vanuatu/",
+        "https://immigration.gov.vu/visit/"
+      ]
+    },
+    {
+      "destination": "ME",
+      "resolvedOrigins": [
+        "CV",
+        "EC",
+        "MR",
+        "MZ",
+        "PK",
+        "SS"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "All6 gaps receive requirement-only additions from newly recovered Ministry consolidated decree, published6 August2026 and indexed as updated8 October2026, through Gazette108/26. This supplies the missing current legal default instead of relying on malformed country paragraphs.",
+        "Article7 foreign-document concessions retained without assumption; Article11 diplomatic/service treaty treatment is separate. Third-country document expiry limits the30-day branch. Visa stay/electronic availability remain unspecified."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.me/diplomatske-misije/ambasade-i-konzulati-crne-gore/zelenortska-ostrva",
+        "https://www.cancilleria.gob.ec/2020/06/30/paises-que-no-exigen-visa-a-los-ecuatorianos/",
+        "https://www.gov.me/dokumenta/7a121553-7780-477b-9117-d57985bfe57b",
+        "https://wapi.gov.me/download/7a121553-7780-477b-9117-d57985bfe57b?version=1.0",
+        "https://www.gov.me/pretraga?query=viznom&type=documents",
+        "https://www.gov.me/pretraga?q=%22sporazumi%22%20%22viza%22",
+        "https://www.gov.me/clanak/ekvador",
+        "https://www.gov.me/clanak/mauritanija",
+        "https://www.gov.me/clanak/mozambik",
+        "https://www.gov.me/clanak/pakistan",
+        "https://www.gov.me/diplomatske-misije/ambasade-i-konzulati-crne-gore/pakistan",
+        "https://www.gov.me/pretraga?q=viznom",
+        "https://www.gov.me/mvp/konzularni-poslovi/vize",
+        "https://www.gov.me/pretraga?q=%22viznog%20re%C5%BEima%22",
+        "https://www.gov.me/pretraga?q=pregled%20sporazuma%20viza",
+        "https://www.gov.me/pretraga?q=ukidanju%20viza"
+      ]
+    },
+    {
+      "destination": "LY",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL",
+        "XK",
+        "SS",
+        "TW",
+        "TR"
+      ],
+      "findings": [
+        "All5 gaps re-reviewed; current national-rule/landing payloads preserve Turkey PARTIAL, Taiwan disabled and no positively established ordinary tourist branch for the other exceptional origins.",
+        "Turkish MFA current outbound page calls for eVisa but does not reconcile the destination checker’s child/adolescent/elderly waiver results. Age-group metadata alone is not a full nationality-specific decision table. A new mission note URL was unrelated. IL/SS/TW/XK require affirmative visa/document/issuance rules; disabled/absent electronic entries are not bans."
+      ],
+      "attemptedUrls": [
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-2-1.html",
+        "https://back.evisa.gov.ly/api/v1/countries",
+        "https://back.evisa.gov.ly/api/v1/landing-resource",
+        "https://trablus-be.mfa.gov.tr/Mission/ShowInfoNote/412347"
+      ]
+    },
+    {
+      "destination": "NI",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "MO",
+        "SS"
+      ],
+      "findings": [
+        "All3 omissions in signed002-2026 remain: XK/MO/SS. New legislative-digest endpoint403; Japanese mission alternative DNS failure. Macao concession checker has no Nicaragua entry, which does not establish a visa duty.",
+        "No current nationality-specific amendment or explicit omitted-country fallback obtained; do not map Macao to China or South Sudan to Sudan."
+      ],
+      "attemptedUrls": [
+        "https://digesto.asamblea.gob.ni/",
+        "https://www.embanic.jp/consular-services/"
+      ]
+    },
+    {
+      "destination": "BW",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "MO",
+        "VA"
+      ],
+      "findings": [
+        "All3 gaps re-reviewed with new Brussels mission/tourism and legal alternatives, plus Macao DSI. Brussels tourism page lacks the required nationality determination; government tourism500, e-laws DNS failure.",
+        "VA remains Holy See-exempt versus Vatican-required conflict. MO remains absent in concession evidence, and XK lacks positive accepted-document/requirement evidence. No checker-not-found result becomes visa-required."
+      ],
+      "attemptedUrls": [
+        "https://www.botswana-brussels.com/",
+        "https://www.botswana-brussels.com/tourism.html",
+        "https://elaws.gov.bw/",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.botswana-brussels.com/visa/",
+        "https://www.botswanatourism.co.bw/travel-info/entry-formalities"
+      ]
+    },
+    {
+      "destination": "KM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SC",
+        "XK"
+      ],
+      "findings": [
+        "Both gaps re-reviewed with new Seychelles treaty index and international-agreement pages. Those pages expose general multilateral treaties and staff country portfolios, not an operative Comoros visa-waiver text.",
+        "SC method conflict remains Seychelles1–3-month visa-free table versus destination tourist-arrival/45-day law. XK accepted ordinary document remains unproved. No fee exemption becomes visa freedom."
+      ],
+      "attemptedUrls": [
+        "https://mfa.gov.sc/international-conventions-agreements-and-laws/",
+        "https://mfa.gov.sc/treaties/"
+      ]
+    },
+    {
+      "destination": "LU",
+      "resolvedOrigins": [
+        "SO"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "SO receives a narrowly qualified visa/document-authorisation requirement from current EU AnnexI plus existing2 October2026 BNL recognition evidence.",
+        "No routine tourist issuance, accepted Somali ordinary passport, substitute-document entitlement or cross-Schengen itinerary is asserted. The practical path remains a concrete blocker despite the proved requirement.",
+        "The ministry link named Annex-1_en.pdf actually redirected to a national-derogations spreadsheet. Cached and inspected as such, not falsely cited as an ordinary nationality schedule."
+      ],
+      "attemptedUrls": [
+        "https://publications.europa.eu/resource/cellar/ece43fab-0ca3-11f1-8870-01aa75ed71a1.0006.02/DOC_1",
+        "https://home-affairs.ec.europa.eu/document/download/ebd6113d-4d14-4ac2-ac9b-47f2e7976515_en?filename=Annex-1_en.pdf",
+        "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-immigration.html"
+      ]
+    },
+    {
+      "destination": "MX",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains unresolved after new Austria/Germany mission pages returned Radware browser-verification pages and Kosovo MFA origin locator404.",
+        "No challenge bypass. No accepted Kosovo ordinary passport, substitute document or nationality-specific tourist visa duty established from the incomplete INM schedule."
+      ],
+      "attemptedUrls": [
+        "https://embamex.sre.gob.mx/austria/index.php/en/consular-services/visas",
+        "https://embamex.sre.gob.mx/alemania/index.php/en/consular-services/visas",
+        "https://mfa-ks.net/en/consular-services/visa-regime-for-kosovo-citizens/"
+      ]
+    },
+    {
+      "destination": "BN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL"
+      ],
+      "findings": [
+        "IL remains unresolved after new London/Kuala Lumpur mission and Immigration FAQ locators404 and Israeli-government origin endpoint403.",
+        "Prior current Passports Act exemption order does not establish Israeli document acceptance/special-entry approval. No missing-row entry ban or automatic tourist issuance inferred."
+      ],
+      "attemptedUrls": [
+        "https://www.immigration.gov.bn/en/SitePages/Frequently%20Asked%20Questions.aspx",
+        "https://www.gov.il/en/departments/dynamiccollectors/travel-warnings-nsc",
+        "https://www.mfa.gov.bn/malaysia-kuala-lumpur/SitePages/consular.aspx",
+        "https://www.mfa.gov.bn/uk-london/SitePages/visa.aspx"
+      ]
+    }
+  ],
+  "corrections": []
+}

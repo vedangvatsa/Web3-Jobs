@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "baseline": {
+    "path": "baseline-pass2.json",
+    "sha256": "628d74004a53c4e3e18467e95a6051e23182bdffd858efc24cdde02b1268d31c"
+  },
+  "passes": [
+    {
+      "id": "gap-pass3",
+      "baselineSha256": "628d74004a53c4e3e18467e95a6051e23182bdffd858efc24cdde02b1268d31c",
+      "assignments": {
+        "path": "gap-pass3/assignments.json",
+        "sha256": "9474142a3d389d7da0f4e2197e5932bf04baa6c3b73fba4262881dc8301f1bdc"
+      },
+      "patches": [
+        {
+          "batch": "gap-01",
+          "path": "gap-pass3/gap-01.json",
+          "sha256": "37723998dd4a996bfc59be65d1aa47b2fa2f9df87e4bc76b9c784e68236014d3"
+        },
+        {
+          "batch": "gap-02",
+          "path": "gap-pass3/gap-02.json",
+          "sha256": "0774d92d56c8cc3d5fd39025f998466d9c485d15eab8ecda9d330f8a92b1bade"
+        },
+        {
+          "batch": "gap-03",
+          "path": "gap-pass3/gap-03.json",
+          "sha256": "804b9036fc8b63519449c184efb347ff025d30146c37744e1249a1d081310a9e"
+        },
+        {
+          "batch": "gap-04",
+          "path": "gap-pass3/gap-04.json",
+          "sha256": "985a6e666ab29918064bbd97ed0d2b5279456554a08e3140486986f23225f30c"
+        },
+        {
+          "batch": "gap-05",
+          "path": "gap-pass3/gap-05.json",
+          "sha256": "9e3f0141d9b6d68c12a5089a5430b8e408b66e709169b2b4efa2f899781abca1"
+        },
+        {
+          "batch": "gap-06",
+          "path": "gap-pass3/gap-06.json",
+          "sha256": "77d27eda217c0ca455227c13fca87ab39241ca8e959482abfd7996a72f31056f"
+        },
+        {
+          "batch": "gap-07",
+          "path": "gap-pass3/gap-07.json",
+          "sha256": "b33c241b651071c8a6dd6e70d6997ba661e366ef70393ca22f0a810545a531d3"
+        },
+        {
+          "batch": "gap-08",
+          "path": "gap-pass3/gap-08.json",
+          "sha256": "990a57ae657ceb26f7694c042b912fcc6b443efb895bfdd82d430df7eb1d1f7c"
+        },
+        {
+          "batch": "gap-09",
+          "path": "gap-pass3/gap-09.json",
+          "sha256": "1e411d33907562465dffbaff4567a25894e220538b96e28c9c9e5cb7b1d5bde6"
+        },
+        {
+          "batch": "gap-10",
+          "path": "gap-pass3/gap-10.json",
+          "sha256": "c364594db3c5e1de66035be96cdadf4e313134b60b6355837d2e2cc40818263c"
+        },
+        {
+          "batch": "gap-11",
+          "path": "gap-pass3/gap-11.json",
+          "sha256": "fa091588b1c65cf148b45538bf5ec03943e384296985ebbf3ea53097c1fa8a3a"
+        },
+        {
+          "batch": "gap-12",
+          "path": "gap-pass3/gap-12.json",
+          "sha256": "2f2ee7cba5e17240642fe2bd2a033346eb37b4f7951f761c908383653d65cfa0"
+        }
+      ],
+      "contradictions": [
+        {
+          "passport": "IS",
+          "destination": "SZ",
+          "reason": "Integration review: Iceland ordinary-passport exemption in the prior Brussels source conflicts with the explicitly visa-required Iceland row in the newly inspected Ministry of Home Affairs 2025-labelled schedule. Neither a controlling replacement nor supersession is established. Withdraw the supported exemption pending reconciliation; do not fall back to the legacy or Passport Index answer.",
+          "sources": [
+            "gap-12-sz-schedules",
+            "east-south-africa-p2-sz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gap-pass4",
+      "baselineSha256": "4f998906b7a139661baf2a82d15de315463be057bd7eccf79c463f2448945055",
+      "assignments": {
+        "path": "gap-pass4/assignments.json",
+        "sha256": "4f7622a87a3907a7806690e7905d1eb400b61a6f696ad8f4f60b04a6e24ad613"
+      },
+      "patches": [
+        {
+          "batch": "gap4-01",
+          "path": "gap-pass4/gap4-01.json",
+          "sha256": "9de25b26c133e33804090a4fa0cf73cebd7697dcb198576f1e7de1f794773fb6"
+        },
+        {
+          "batch": "gap4-02",
+          "path": "gap-pass4/gap4-02.json",
+          "sha256": "d03458cfd8f10e9fc388733e40c19a97ad9aa4007dd145a2cdeaa6f365f02046"
+        },
+        {
+          "batch": "gap4-03",
+          "path": "gap-pass4/gap4-03.json",
+          "sha256": "d367fbc090487958b9ed50068ac37a2ad0c7c461ef171fd5f1e78ac5f1ac6fc0"
+        },
+        {
+          "batch": "gap4-04",
+          "path": "gap-pass4/gap4-04.json",
+          "sha256": "f5d9c26358d11949054cb1833a74943abbb2a56ee1f2f99217bec2273b52db38"
+        },
+        {
+          "batch": "gap4-05",
+          "path": "gap-pass4/gap4-05.json",
+          "sha256": "9c2981dc137bd1841712e5b637acc8e1a510a7b17ab80e0453b9dd0e5e80ffd7"
+        },
+        {
+          "batch": "gap4-06",
+          "path": "gap-pass4/gap4-06.json",
+          "sha256": "6cb50e0b987ca58aa16da4e59dd14444643a39242ae1e6727818b4baf03e06ee"
+        },
+        {
+          "batch": "gap4-07",
+          "path": "gap-pass4/gap4-07.json",
+          "sha256": "256b03d2dd915106677338538a3ff2eba84dd734a62629f8ed5770e3898b551a"
+        },
+        {
+          "batch": "gap4-08",
+          "path": "gap-pass4/gap4-08.json",
+          "sha256": "ba5d01d1f6a6b7ec269691a5d63401795f827c2f6e744f74f9515efc42206f0e"
+        },
+        {
+          "batch": "gap4-09",
+          "path": "gap-pass4/gap4-09.json",
+          "sha256": "b6d173193a5ea6f63417bde6cda2c0565f2f23fab78b5ecd307b6c8207e3c44e"
+        },
+        {
+          "batch": "gap4-10",
+          "path": "gap-pass4/gap4-10.json",
+          "sha256": "f4d887b12ab87c40595b277145136264978c6dad8573d966495d8617931946e5"
+        },
+        {
+          "batch": "gap4-11",
+          "path": "gap-pass4/gap4-11.json",
+          "sha256": "0cb723d43489cb854ecee85a11ba689ed15650982119569600c14f75447bb20c"
+        },
+        {
+          "batch": "gap4-12",
+          "path": "gap-pass4/gap4-12.json",
+          "sha256": "e27806fd08338723799be987eae68062059e48b792e8d77bb565bb62e646cc13"
+        }
+      ],
+      "contradictions": [],
+      "qualifications": {
+        "path": "gap-pass4/qualifications.json",
+        "sha256": "e99b49381dd54fcdef4394a7770eeefbe11d768d84bd340c8c6a9717d24c2a30"
+      }
+    },
+    {
+      "id": "aip-research",
+      "baselineSha256": "fb7593d6d43a6794e69b98750cf7222936cc03fe16c8a9a041616ab239f49da4",
+      "assignments": {
+        "path": "aip-research/assignments.json",
+        "sha256": "0028a1fd864cece62d371656a686930c56a0c3ba1f20accc09f4526537c46c9a"
+      },
+      "patches": [
+        {
+          "batch": "aip-reviewed",
+          "path": "aip-research/aip-reviewed.json",
+          "sha256": "c4cc553af775d7d609d6018445504ea79516c3f2b1c15bfd1deae4f52442600d"
+        }
+      ],
+      "contradictions": [
+        {
+          "passport": "SE",
+          "destination": "NE",
+          "sources": [
+            "aip-reviewed-aip-ne",
+            "aip-reviewed-review-ne-2024",
+            "aip-reviewed-review-ne-paris",
+            "aip-reviewed-review-se-advice",
+            "aip-reviewed-aip-register",
+            "gap4-10-ne-default"
+          ],
+          "reason": "Air-entry evidence conflict for SE ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Swedish government entry guidance and the Paris mission still require a visa. The Swedish exemption was already printed in 2024; retention in the 2026 AIP does not establish supersession. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+        },
+        {
+          "passport": "MR",
+          "destination": "NE",
+          "sources": [
+            "aip-reviewed-aip-ne",
+            "aip-reviewed-review-ne-2024",
+            "aip-reviewed-review-ne-paris",
+            "aip-reviewed-review-mr-accords",
+            "aip-reviewed-aip-register",
+            "gap4-10-ne-default"
+          ],
+          "reason": "Air-entry evidence conflict for MR ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Mauritania MFA supplies a visa-suppression agreement lead, but no controlling ordinary-passport treaty text or commencement resolves the Paris mission visa-required default. The AIP exemption was already printed in 2024. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+        },
+        {
+          "passport": "MU",
+          "destination": "NE",
+          "sources": [
+            "aip-reviewed-aip-ne",
+            "aip-reviewed-review-ne-2024",
+            "aip-reviewed-review-ne-paris",
+            "aip-reviewed-review-mu-outbound",
+            "aip-reviewed-review-mu-index",
+            "aip-reviewed-aip-register",
+            "gap4-10-ne-default"
+          ],
+          "reason": "Air-entry evidence conflict for MU ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. The currently linked Mauritius MFA outbound table still requires a Niger visa, alongside the Paris mission default. The added 2026 AIP exemption has no established priority or supersession over this counterevidence. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+        },
+        {
+          "passport": "RW",
+          "destination": "NE",
+          "sources": [
+            "aip-reviewed-aip-ne",
+            "aip-reviewed-review-ne-2024",
+            "aip-reviewed-review-ne-paris",
+            "aip-reviewed-review-rw-outbound",
+            "aip-reviewed-aip-register",
+            "gap4-10-ne-default"
+          ],
+          "reason": "Air-entry evidence conflict for RW ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Rwanda Immigration corroborates an ordinary-passport exemption, but the Paris mission still publishes a conflicting requirement. Source agreement and first appearance in the compared 2026 AIP do not establish legal priority or commencement. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
+        }
+      ],
+      "researchSha256": "14f734144ac48ca6dee8eca8db88ede562bcf446bd1d2e371dc458426ca32abf"
+    }
+  ]
+}

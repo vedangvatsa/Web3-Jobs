@@ -1,0 +1,2625 @@
+{
+  "version": 1,
+  "batch": "gap-09",
+  "baselineSha256": "628d74004a53c4e3e18467e95a6051e23182bdffd858efc24cdde02b1268d31c",
+  "sources": {
+    "gap-09-hksar": {
+      "title": "Hong Kong Immigration: named ordinary HKSAR passport concessions",
+      "urls": [
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a9c85ebb49a9cb29c3fdb697bfa7844402a52e934da36a4b34b71506a0467c8f"
+    },
+    "gap-09-bi-waivers": {
+      "title": "Burundi MFA: ordinary versus diplomatic/service exemption schedule",
+      "urls": [
+        "https://www.mae.gov.bi/2024/09/27/les-pays-signes-avec-le-burundi-les-accords-dexemption-des-visas-2/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "c86f56a535a6110fbf76acb20a8722ec8bb6efb43beeae85a6725034e81cdadf"
+    },
+    "gap-09-bi-airport": {
+      "title": "Burundi CGM: all-foreign-national airport rule and reconciled ordinary exemptions",
+      "urls": [
+        "https://migration.gov.bi/assets/img/cgm_visa_info_fra.jpg",
+        "https://migration.gov.bi/",
+        "https://www.mae.gov.bi/2024/09/27/les-pays-signes-avec-le-burundi-les-accords-dexemption-des-visas-2/",
+        "https://www.mae.gov.bi/visa-gratuit/",
+        "https://www.ambabuwashington.mae.gov.bi/visa/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "fae6d671b7bcb4614aa0163ceb6b7330f64e214c0346ea71c54af6003f95b89f"
+    },
+    "gap-09-bi-canada": {
+      "title": "Canada: Burundi ordinary tourist visa and airport certificate route",
+      "urls": [
+        "https://travel.gc.ca/destinations/burundi",
+        "https://migration.gov.bi/assets/img/cgm_visa_info_fra.jpg"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "00ce57e7df7fdf7715782435efcdd048a3d1d0022b78b348964ce3f9123dd811"
+    },
+    "gap-09-mo-ge": {
+      "title": "Macao DSI: ordinary SAR passport result for GE",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/424?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "345a5e52b86511b07c54afcfbf510225da676c41be6085c2205a650cb29f560c"
+    },
+    "gap-09-mo-ga": {
+      "title": "Macao DSI: ordinary SAR passport result for GA",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/431?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "345a5e52b86511b07c54afcfbf510225da676c41be6085c2205a650cb29f560c"
+    },
+    "gap-09-mo-bj": {
+      "title": "Macao DSI: ordinary SAR passport result for BJ",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/451?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "345a5e52b86511b07c54afcfbf510225da676c41be6085c2205a650cb29f560c"
+    },
+    "gap-09-mo-bi": {
+      "title": "Macao DSI: ordinary SAR passport result for BI",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/360?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "345a5e52b86511b07c54afcfbf510225da676c41be6085c2205a650cb29f560c"
+    },
+    "gap-09-ga-eu": {
+      "title": "Portugal MNE: explicit EU-national visa requirement and electronic process for Gabon",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/vai-viajar/conselhos-aos-viajantes/africa/gabao"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "4aaec606b61f4925e00b06bf170d889996dafe5f3bfbea20d963a7e1954ea275"
+    },
+    "gap-09-ga-taiwan": {
+      "title": "Taiwan BOCA: Gabon preapproved airport visa for ROC passports",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-239-d0062-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "884fa0250ee246065556d690c9b7856303bd3983cd682a5bcff9edcae037230c"
+    },
+    "gap-09-bj-canada": {
+      "title": "Official origin-government Benin tourist entry instructions: CA",
+      "urls": [
+        "https://travel.gc.ca/destinations/benin",
+        "https://beninembassy.us/visas/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e897d989c231066311dc199b465c7e2a27209035608aa41fa26deecd91298a7e"
+    },
+    "gap-09-bj-rs": {
+      "title": "Official origin-government Benin tourist entry instructions: RS",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/benin",
+        "https://beninembassy.us/visas/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "461b498a318de9db28fdef6bd38265a05cbf75a72bc878dda4ccd2757fd5d29c"
+    },
+    "gap-09-bj-fr-entry": {
+      "title": "Official origin-government Benin tourist entry instructions: FR",
+      "urls": [
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/benin/conseils-aux-voyageurs-entree-sejour",
+        "https://beninembassy.us/visas/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "0a552e74f04b7b4174b710937405faa9ba656c2e0a58d3e3e1a7e7e4adffffb2"
+    },
+    "gap-09-bj-tw-exact": {
+      "title": "Official origin-government Benin tourist entry instructions: TW",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-235-01fd3-1.html",
+        "https://beninembassy.us/visas/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "48076f76a3875a67628cf5bc41182470b345d6a3c926c913ff254ca1b626c6a8"
+    },
+    "gap-09-ec-can": {
+      "title": "Ecuador MFA: Andean Statute operational implementation from 1 April 2023",
+      "urls": [
+        "https://www.cancilleria.gob.ec/2023/04/12/el-estatuto-migratorio-andino-entro-en-vigencia-operativa-desde-el-1-de-abril-de-2023/",
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2025/04/ley_orgAnica_de_movilidad_humana_19_de_junio_2024.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6fcdc683909da57c91ad9de71e0b992cf7259df6100b5157264637e3f0d13997"
+    },
+    "gap-09-ec-taiwan": {
+      "title": "Taiwan BOCA: Ecuador tourist eVisa for ordinary ROC passports",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-97-55cdc-1.html",
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2025/04/reglamento_a_la_ley_organica_de_movilidad_humana_23_marzo_de_2023.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "4f31ff857bc6d8a38b86c8eab64e3ccb9253a48f646388951aa30738b93d0401"
+    },
+    "gap-09-ec-rs": {
+      "title": "Official origin-government Ecuador tourist exemption: RS",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/ecuador"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e762e2c28406e7b86dcacfaf2d84864c917dd6962cd7c62ba366374b28af5bf3"
+    },
+    "gap-09-ec-sg": {
+      "title": "Official origin-government Ecuador tourist exemption: SG",
+      "urls": [
+        "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/ecuador/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "10d400fa182697131b15d4fda80c324fa01a38e23ca65d70a41e11c63f587de6"
+    },
+    "gap-09-ec-fr": {
+      "title": "Official origin-government Ecuador tourist exemption: FR",
+      "urls": [
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/equateur/conseils-aux-voyageurs-entree-sejour",
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2025/04/ley_orgAnica_de_movilidad_humana_19_de_junio_2024.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "15e839da3deb7f1f3882d4b14ba1a6419b9296337d7bee1baccf4d4cd7692f94"
+    },
+    "gap-09-ec-es": {
+      "title": "Official origin-government Ecuador tourist exemption: ES",
+      "urls": [
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Ecuador"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "dfcf437cb0fa09b4b058e6d83148d2c9ca515fa4415d404eb9a929756e50d4a6"
+    },
+    "gap-09-ec-evisa": {
+      "title": "Ecuador: electronic issuance authority, tourism eVisa rollout and CESDI implementation",
+      "urls": [
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2025/04/reglamento_a_la_ley_organica_de_movilidad_humana_23_marzo_de_2023.pdf",
+        "https://www.cancilleria.gob.ec/2024/07/05/ecuador-da-la-bienvenida-a-los-visitantes-con-una-opcion-facil-y-segura-la-visa-electronica/",
+        "https://www.cancilleria.gob.ec/alemania/2025/12/02/la-tramitacion-de-evisas-se-realiza-a-traves-de-una-plataforma-digital/",
+        "https://www.cancilleria.gob.ec/2020/06/30/lista-de-paises-que-deben-presentar-visa-al-ingresar-al-ecuador/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f15aeb0eeb21f117f416daf64e138bcbb3d358854a37089235aabdf7655b0147"
+    },
+    "gap-09-pg-requirement": {
+      "title": "PNG ICA: universal visa requirement; unresolved current checker/processing contradictions",
+      "urls": [
+        "https://ica.gov.pg/uploads/media/post_file_3195072-visa-information-booklet-2025.pdf",
+        "https://ica.gov.pg/visa/visit/visitor",
+        "https://evisa.ica.gov.pg/evisa/global/get_allowed_nationalities?ptype=191C7C89-06BE-48AD-B4D6-4B16C2F55CB3",
+        "https://evisa.ica.gov.pg/evisa/global/get_allowed_nationalities?ptype=E0C5ACB1-468B-4256-B55B-0B1809B2D1F0",
+        "https://evisa.ica.gov.pg/evisa/global/get_allowed_nationalities?ptype=54195EA4-A5F1-42A2-AD65-4FCBA7F74E1D",
+        "https://ica.gov.pg/public-notices/2026/mandatory-completion-of-png-digital-arrival-card"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "2d53c34dded8a66caf60b2063ac95b9a4f059a3b7e3d2c1f8babc0fec302844e"
+    },
+    "gap-09-ge-dz": {
+      "title": "Georgia public nationality checker: ALGERIA",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=386",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6905024c4d3556b3bfdb85662bcccf28df523fc1cda70dc044950f6b2e887ab8"
+    },
+    "gap-09-ge-kh": {
+      "title": "Georgia public nationality checker: CAMBODIA",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=453",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "ceb3a21527e94bc72ecad95fe20a77690a89724774f785a89ace39df7e8c1d70"
+    },
+    "gap-09-ge-cm": {
+      "title": "Georgia public nationality checker: CAMEROON",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=454",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "901de6d84dbd1d811791178a56df3d3418256f36fb4758a2cd53aa30196cf4d2"
+    },
+    "gap-09-ge-ma": {
+      "title": "Georgia public nationality checker: MOROCCO",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=486",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "55cf12618e858540a6f6be0a579e1d3a282af798cfdbd8661072996e59612a39"
+    },
+    "gap-09-ge-np": {
+      "title": "Georgia public nationality checker: NEPAL",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=493",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f34c2bbcfa84f9d5a8a36b34a63b8e9ddefc653ac219b4ed2ffd5a7f260b7d22"
+    },
+    "gap-09-ge-ng": {
+      "title": "Georgia public nationality checker: NIGERIA",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=495",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "25bc6188a02d2e49f199df23b986299687406c7a3664cda2bce3fa3c168cecf8"
+    },
+    "gap-09-ge-pk-confirm": {
+      "title": "Georgia public nationality checker: PAKISTAN",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=500",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "49c32b48b07e41d6f33291753d1a951d1d77b8c7fb5b0b8079d5951a501730a9"
+    },
+    "gap-09-ge-tn": {
+      "title": "Georgia public nationality checker: TUNISIA",
+      "urls": [
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=542",
+        "https://matsne.gov.ge/en/document/view/2278806"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "b396862967e8cf4d4977e5fe7f4cf3ebc8a3ba283db131dc1b032d3ebc71f65e"
+    },
+    "gap-09-ls-austria": {
+      "title": "Austria BMEIA: Lesotho entry rules",
+      "urls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/lesotho"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "3c4dab8ea7e1bdff2f4d6a38d0145d7a3d918681087f648ba975e27ef3a57d46"
+    },
+    "gap-09-ls-taiwan": {
+      "title": "Taiwan BOCA: Lesotho visa requirement and eVisa suspension",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-172-0ebf8-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "cfb18c7dafe68ca617d8fd97962fc7fbab54b09a627560d954d7027bf5481511"
+    },
+    "gap-09-td-taiwan": {
+      "title": "Taiwan BOCA: Chad prior visa through missions",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-234-a88f4-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a8fc35a629f5af74766c42b2e827b6266e1627df43eb2164862369efa75c94bb"
+    },
+    "gap-09-kg-taiwan": {
+      "title": "Taiwan BOCA: Kyrgyzstan ordinary passport visa procedure",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-138-788aa-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a14fb7d89c724eeea7871d3680039c356685df96b2116daeabed415adfb21302"
+    },
+    "gap-09-mx-required": {
+      "title": "Mexico INM: named required nationalities and conditional waivers",
+      "urls": [
+        "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+        "https://www.inm.gob.mx/gobmx/word/wp-content/uploads/2024/03/PAISES-VISA2-391x1024.jpg"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "b375b5c42c3d94557fdc560ad456b989f4173c9c4c45e78cc6fa3a7ac18c51ed"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "BI"
+      ],
+      "t": "vf",
+      "d": 14,
+      "s": "gap-09-hksar",
+      "n": "HKSAR passport only. Hong Kong Immigration explicitly lists the 14-day concession; the general Burundi airport-visa requirement is not substituted for this nationality-specific waiver."
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-09-hksar",
+      "n": "Ordinary HKSAR passport only; 30-day visa-free concession reported by Hong Kong Immigration. Not a mainland-China or BN(O) rule."
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-09-hksar",
+      "n": "Ordinary HKSAR passport only; Hong Kong Immigration names a 90-day concession. Separate mainland-China visa requirement does not itself cancel the HKSAR rule. Galapagos and port-specific entry controls remain separate."
+    },
+    {
+      "passports": [
+        "MV",
+        "SG"
+      ],
+      "destinations": [
+        "BI"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-09-bi-waivers",
+      "n": "Explicit ordinary-passport exemption in the Burundi MFA schedule. Duration is not stated. Diplomatic/service lists were not generalized."
+    },
+    {
+      "passports": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MT",
+        "MU",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "destinations": [
+        "BI"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap-09-bi-airport",
+      "n": "Airport-entry visa issued on arrival only after the mandatory online application and validation certificate before travel. This is one sequential process, not independent eVisa/arrival alternatives. Applies to ordinary tourist passports without Burundi settlement/permanent residence; ordinary bilateral waivers and EAC/CEPGL fee-free categories were separately reviewed. Airport route only; no land-port eligibility inferred. Stay duration not established for this general route."
+    },
+    {
+      "passports": [
+        "CA"
+      ],
+      "destinations": [
+        "BI"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap-09-bi-canada",
+      "n": "Canadian ordinary passport; advance online visa certificate required for visa issuance at Melchior Ndadaye International Airport, Bujumbura. Ottawa embassy issuance is also documented; stay duration is unspecified for each method.",
+      "a": [
+        "voa",
+        "vr"
+      ]
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-09-mo-ge",
+      "n": "Ordinary Macao SAR passport (travelPermit=0). Official DSI result explicitly sets visaFree=1 and 30 days; not inferred from a Chinese-nationality umbrella."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "GA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-mo-ga",
+      "n": "Ordinary Macao SAR passport (travelPermit=0). DSI explicitly reports evisa=1 and visaFree=0, linking the destination portal. Advance approval required; permitted stay is not specified. Gabon eVisa route is through Libreville airport; portal access failed during this audit, so operational availability must be confirmed."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "BJ"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-mo-bj",
+      "n": "Ordinary Macao SAR passport (travelPermit=0). DSI explicitly reports evisa=1 and visaFree=0, linking the destination portal. Advance approval required; permitted stay is not specified."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "BI"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap-09-mo-bi",
+      "n": "Ordinary Macao SAR passport. DSI explicitly allows arrival visa at Bujumbura International Airport with return/onward ticket. Burundi CGM additionally requires advance online application and validation certificate. Online request and border issuance are sequential; no separate eVisa alternative asserted."
+    },
+    {
+      "passports": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "ES",
+        "FI",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "NL",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK"
+      ],
+      "destinations": [
+        "GA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-ga-eu",
+      "n": "EU Member State ordinary tourist passport. Portuguese MFA expressly states the visa requirement for EU citizens and offers advance DGDI eVisa approval with border issuance. Use Libreville airport for the electronic route. Stay length is unspecified; three-month residence-permission threshold is not encoded as a guaranteed tourist stay. Consular issuance is separately possible; no unconditional walk-up arrival alternative asserted."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "GA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-ga-taiwan",
+      "n": "ROC ordinary passport valid at least six months. Obtain DGDI electronic entry authorization before travel; border visa issuance is the subsequent step, not a walk-up alternative. Return/onward ticket, accommodation/invitation and yellow-fever certificate required. Use the documented Libreville electronic-arrival route. Three-month visa validity is not an established stay duration."
+    },
+    {
+      "passports": [
+        "CA"
+      ],
+      "destinations": [
+        "BJ"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-bj-canada",
+      "n": "Ordinary CA passport; obtain Benin electronic visa before travel through the official portal. Visa validity choices are not converted into a universal stay allowance. No ordinary exemption inferred from diplomatic/service agreements."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "BJ"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-bj-rs",
+      "n": "Ordinary RS passport; obtain Benin electronic visa before travel through the official portal. Visa validity choices are not converted into a universal stay allowance. No ordinary exemption inferred from diplomatic/service agreements."
+    },
+    {
+      "passports": [
+        "FR"
+      ],
+      "destinations": [
+        "BJ"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-bj-fr-entry",
+      "n": "Ordinary FR passport; obtain Benin electronic visa before travel through the official portal. Visa validity choices are not converted into a universal stay allowance. No ordinary exemption inferred from diplomatic/service agreements."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "BJ"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-bj-tw-exact",
+      "n": "Ordinary TW passport; obtain Benin electronic visa before travel through the official portal. Visa validity choices are not converted into a universal stay allowance. No ordinary exemption inferred from diplomatic/service agreements."
+    },
+    {
+      "passports": [
+        "BO",
+        "CO",
+        "PE"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-09-ec-can",
+      "n": "Andean citizen tourist entry without visa on valid national identity document/passport. Ministry implementation notice specifies initial 90 days, extendable by 90, maximum 180 continuous or discontinuous days in the same year. Residency/work rights require the separate Andean residence process. General South American statutory 180-day wording does not remove the documented initial-grant/extension distinction."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "ev",
+      "d": 90,
+      "s": "gap-09-ec-taiwan",
+      "n": "ROC ordinary passport: advance electronic tourist visa required. BOCA explicitly describes 90-day multiple-entry tourist class and email issuance. Passport six months; criminal-record and financial documents need legalization; a video or consular interview may be required. This is not a mainland-China inference."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-09-ec-rs",
+      "n": "Ordinary RS tourist passport. Visa exemption up to 90 days. Source does not independently specify the aggregate clock; the general Ecuador tourist allowance is subject to annual controls and separately requested extension. Additional Galapagos and land/river-entry requirements remain separate."
+    },
+    {
+      "passports": [
+        "SG"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-09-ec-sg",
+      "n": "Ordinary SG tourist passport. Visa exemption up to 90 days. Source does not independently specify the aggregate clock; the general Ecuador tourist allowance is subject to annual controls and separately requested extension. Additional Galapagos and land/river-entry requirements remain separate."
+    },
+    {
+      "passports": [
+        "FR"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-09-ec-fr",
+      "n": "French ordinary tourist passport is explicitly visa-exempt. French advice describes 90 days in rolling twelve months, while Ecuador Law Article 56 counts a year from first entry. The numerical day field is withheld to preserve that aggregate-clock discrepancy. Separately requested extensions, Galapagos and land/river-entry requirements remain distinct.",
+      "stay": "90-day allowance; rolling-twelve-month versus first-entry-year aggregate clock differs between sources"
+    },
+    {
+      "passports": [
+        "ES"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-09-ec-es",
+      "n": "Ordinary ES tourist passport. Visa exemption up to 90 days. Source does not independently specify the aggregate clock; the general Ecuador tourist allowance is subject to annual controls and separately requested extension. Additional Galapagos and land/river-entry requirements remain separate."
+    },
+    {
+      "passports": [
+        "AF",
+        "AL",
+        "AO",
+        "BD",
+        "CD",
+        "CG",
+        "CI",
+        "CM",
+        "CN",
+        "CU",
+        "EG",
+        "ER",
+        "ET",
+        "GH",
+        "GM",
+        "GN",
+        "GW",
+        "IN",
+        "IQ",
+        "IR",
+        "KE",
+        "KG",
+        "KP",
+        "LK",
+        "LY",
+        "ML",
+        "MM",
+        "MR",
+        "NG",
+        "NP",
+        "PH",
+        "PK",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SS",
+        "SY",
+        "TD",
+        "TJ",
+        "UZ",
+        "VE",
+        "VN",
+        "YE"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-ec-evisa",
+      "n": "Nationality explicitly requires a visa under the current Ecuador MFA schedule. Tourist eVisa processing is supported by the Ministry worldwide 100%-online rollout, later CESDI implementation, and statutory authority for electronic issuance. Individual approval, documents and any requested interview remain required. No third-country visa/residence assumed. Stay is left unspecified here rather than conflating validity or initial-grant and extension rules."
+    },
+    {
+      "passports": [
+        "HT"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-09-ec-evisa",
+      "n": "Nationality explicitly requires a visa under the current Ecuador MFA schedule. Tourist eVisa processing is supported by the Ministry worldwide 100%-online rollout, later CESDI implementation, and statutory authority for electronic issuance. Individual approval, documents and any requested interview remain required. No third-country visa/residence assumed. Stay is left unspecified here rather than conflating validity or initial-grant and extension rules. The Ministry additionally requires Haitian tourist registration before entry."
+    },
+    {
+      "passports": [
+        "AO",
+        "BF",
+        "BI",
+        "BJ",
+        "BW",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CV",
+        "DJ",
+        "DZ",
+        "EG",
+        "ER",
+        "ET",
+        "GA",
+        "GM",
+        "GN",
+        "GQ",
+        "GW",
+        "KE",
+        "KG",
+        "KM",
+        "KZ",
+        "LR",
+        "MA",
+        "MD",
+        "MG",
+        "ML",
+        "MM",
+        "MR",
+        "MW",
+        "MX",
+        "MZ",
+        "NE",
+        "NG",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "TD",
+        "TG",
+        "TJ",
+        "TM",
+        "TN",
+        "UG",
+        "UZ",
+        "ZM"
+      ],
+      "destinations": [
+        "PG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-pg-requirement",
+      "n": "Visa required: ICA explicitly requires a visa for all foreign visitors. APPLICATION METHOD UNRESOLVED: current ordinary-tourist checker lists exclude this nationality, while the visitor booklet says online applications and the descriptive page offers paper forms. No eVisa, walk-up arrival visa, consular-only availability or admission ban is asserted. Obtain ICA confirmation of the usable channel before travel. Stay duration is not established for this unresolved channel. Mandatory PNG Digital Arrival Card is a separate requirement, not a replacement visa.",
+      "label": "Visa required — application channel unresolved"
+    },
+    {
+      "passports": [
+        "DZ"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-dz",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "KH"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-kh",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "CM"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-cm",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "MA"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-ma",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "NP"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-np",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "NG"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-ng",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "PK"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-pk-confirm",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "TN"
+      ],
+      "destinations": [
+        "GE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ge-tn",
+      "n": "Official checker explicitly sets NeedVisa=true for this ordinary nationality. Standard short-stay electronic branch is disabled; C5 flag is enabled. Law defines C5 separately with a non-resident-work limitation and distinct validity/stay rules. Eligibility for that specific channel is not assumed, and no 30-day or one-year allowance is assigned. Visa requirement is verified; complete tourist application-channel eligibility remains unresolved, not eVisa-unavailable.",
+      "label": "Visa required — C5 eligibility needs confirmation"
+    },
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "LS"
+      ],
+      "t": "vf",
+      "d": 14,
+      "s": "gap-09-ls-austria",
+      "n": "Austrian ordinary passport; visa-free for up to 14 days. Passport valid six months after departure, return/onward ticket and sufficient funds. South African routing requirements are separate."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "LS"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-ls-taiwan",
+      "n": "ROC ordinary passport valid six months; tourist visa required. BOCA states the eVisa application service is suspended and directs applicants to the Lesotho Ministry visa-applications email process. Current issuance/collection mechanics and stay remain unverified; no claim of unrestricted arrival visa. South African transit/entry permission is separate.",
+      "label": "Visa required — manual application instructions"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "TD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-td-taiwan",
+      "n": "ROC ordinary passport; BOCA documents applying for a Chad visa through its US/French/Indian missions. Online eligibility for this particular document remains unverified; this does not establish eVisa unavailable. Stay unspecified."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "KG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-kg-taiwan",
+      "n": "ROC ordinary passport valid six months. Apply for a visa with a Kyrgyz travel-agency or other invitation through a Kyrgyz mission, including documented nearby Japan/Korea/Malaysia options. Return/onward ticket required; visa grant determines stay. Online method is not independently established for this document."
+    },
+    {
+      "passports": [
+        "AL",
+        "BR"
+      ],
+      "destinations": [
+        "MX"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-09-mx-required",
+      "n": "Visa required for the ordinary nationality-only tourist baseline. INM explicitly names Albania in the live text and Brazil in the linked required-country image. Qualifying third-country visa/permanent-residence exemptions are not assumed. Electronic authorization/eVisa availability is not conclusively established for this nationality; vr does not mean consular-only. Stay is granted at entry within the 180-day ceiling.",
+      "stay": "As granted on entry, up to 180 days",
+      "label": "Visa required — electronic method not confirmed"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "GA",
+      "resolvedOrigins": [
+        "AT",
+        "BE",
+        "BG",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "ES",
+        "FI",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "MO",
+        "MT",
+        "NL",
+        "PL",
+        "PT",
+        "RO",
+        "SE",
+        "SI",
+        "SK",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "DJ",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HT",
+        "ID",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SG",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Portugal MNE expressly covers EU citizens, enabling 26 additions beyond already supported France. Taiwan and Macao official passport guidance supply two document-specific electronic routes.",
+        "Remaining non-EU origins: no current comprehensive ordinary exemption/default schedule retrieved. Gabon DGDI TLS/DNS failures, gazette/MFA timeouts, mission dead domains and US advisory 403s remain specific blockers. No unsupported US ban or regional waiver.",
+        "CEMAC 2024 Gabon operational brigade and 2025 presidential statements describe facilitation/integration, not a current biometric-passport admission schedule. Archived DGDI entry page captured 2024-06-21 says eVisa is still being installed despite its known operation; rejected as stale for bulk policies. Archived portal scripts/list payloads were unavailable."
+      ],
+      "attemptedUrls": [
+        "https://cemac.int/2024/11/11/loperationnalisation-de-la-brigade-mixte-de-la-cemac-au-gabon-prend-forme/",
+        "https://cemac.int/2025/03/17/decryptage-du-discours-du-president-en-exercice-de-la-cemac-a-loccasion-de-la-journee-de-la-cemac-2025/",
+        "https://cemac.int/?s=libre+circulation",
+        "https://consulatgabonfrance.com/visas/",
+        "https://dirco.gov.za/foreign-travel-advice-for-south-african-citizens-travelling-abroad/",
+        "https://dirco.gov.za/foreign-travel-advice/",
+        "https://evisa.dgdi.ga/",
+        "https://gabonembassyuk.com/visa/",
+        "https://gabonembassyusa.org/",
+        "https://journal-officiel.ga/legislation",
+        "https://journal-officiel.gouv.ga/",
+        "https://portaldascomunidades.mne.gov.pt/pt/vai-viajar/conselhos-aos-viajantes/africa/gabao",
+        "https://travel.state.gov/en/international-travel/travel-advisories/gabon.html",
+        "https://web.archive.org/web/20240601090517/https://www.dgdi.ga/aller-au-gabon/",
+        "https://web.archive.org/web/20240601090517/https://www.dgdi.ga/e-visa/",
+        "https://web.archive.org/web/20250000000000/https://evisa.dgdi.ga/",
+        "https://web.archive.org/web/20250105180120/https://evisa.dgdi.ga/assets/javascripts/scripts.js",
+        "https://web.archive.org/web/20250105180120/https://evisa.dgdi.ga/bundle.js",
+        "https://www.ambagabon.com/",
+        "https://www.ambassade-gabon.jp/",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gabunsicherheit-220424",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-239-d0062-1.html",
+        "https://www.botschaft-gabun.de/",
+        "https://www.consulat.ma/fr/infos-utiles-aux-marocains-voyageant-au-gabon",
+        "https://www.dgdi.ga/",
+        "https://www.diplocam.cm/index.php/fr/services-consulaires/visas",
+        "https://www.diplomatie.gouv.ga/",
+        "https://www.droit-afrique.com/uploads/Gabon-Loi-1986-05-admission-sejour-etrangers.pdf",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/431?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.mfa.gov.sg/countries-regions/g/gabon/travel-page",
+        "https://www.smartraveller.gov.au/destinations/africa/gabon"
+      ]
+    },
+    {
+      "destination": "BI",
+      "resolvedOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CA",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SR",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "CD",
+        "PS",
+        "SO",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "CGM official airport notice supplies explicit all-foreign-national default; MFA ordinary waiver schedule supplies Maldives/Singapore exceptions and expressly suspended Serbian waiver. HKSAR 14-day exemption and Macao preapproved airport visa independently evidenced. General arrival policies require advance validation, not walk-up issuance.",
+        "CD/SO: national EAC/CEPGL fee-free category texts do not conclusively reconcile newer accessions and passport-specific implementation; kept unresolved. XK/PS/TW: no specific accepted-document evidence retrieved. No fee waiver converted to visa waiver.",
+        "Fresh MFA directory led to genuine Washington/Berlin/New Delhi missions. Former ambassade-du-burundi.fr explicitly disclaims official status and was rejected. Current mission visa templates mostly give procedure rather than nationality rules."
+      ],
+      "attemptedUrls": [
+        "https://burundiembassy-usa.org/visa.html",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Burundi",
+        "https://migration.gov.bi/",
+        "https://migration.gov.bi/Services",
+        "https://migration.gov.bi/assets/img/cgm_visa.png",
+        "https://migration.gov.bi/assets/img/cgm_visa_info_fra.jpg",
+        "https://migration.gov.bi/assets/img/visavisiteurCGM.jpg",
+        "https://presidence.gov.bi/?s=etrangers",
+        "https://travel.gc.ca/destinations/burundi",
+        "https://www.ambabuberlin.mae.gov.bi/",
+        "https://www.ambabuberlin.mae.gov.bi/visa/",
+        "https://www.ambabunewdelhi.mae.gov.bi/",
+        "https://www.ambabunewdelhi.mae.gov.bi/visa/",
+        "https://www.ambabuparis.mae.gov.bi/",
+        "https://www.ambabuwashington.mae.gov.bi/",
+        "https://www.ambabuwashington.mae.gov.bi/visa/",
+        "https://www.ambassade-du-burundi.fr/",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/360?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf",
+        "https://www.mae.gov.bi/",
+        "https://www.mae.gov.bi/2024/09/27/les-pays-signes-avec-le-burundi-les-accords-dexemption-des-visas-2/",
+        "https://www.mae.gov.bi/?s=visa",
+        "https://www.mae.gov.bi/ambassades-du-burundi-a-letranger/",
+        "https://www.mae.gov.bi/visa-gratuit/",
+        "https://www.mofa.gov.ae/en/mediahub/news/2019/2019/1/4/04-01-2019-uae-burundi-",
+        "https://www.smartraveller.gov.au/destinations/africa/burundi"
+      ]
+    },
+    {
+      "destination": "EC",
+      "resolvedOrigins": [
+        "BO",
+        "CO",
+        "ES",
+        "FR",
+        "HK",
+        "PE",
+        "RS",
+        "SG",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AG",
+        "AM",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CF",
+        "CH",
+        "CL",
+        "CR",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EE",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HN",
+        "HR",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "MN",
+        "MO",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NL",
+        "NO",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PG",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SI",
+        "SK",
+        "SM",
+        "SR",
+        "ST",
+        "SV",
+        "SZ",
+        "TG",
+        "TH",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "VA",
+        "VC",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Retrieved current required-nationality list, Ministry-hosted June 2024 consolidated law and March 2023 regulations through the public media index, plus 2024/2025 electronic rollout. Forty-five already supported requirement-only routes replaced with evidenced eVisa method; numeric stays deliberately unchanged at zero.",
+        "CAN operational notice explicitly resolves BO/CO/PE; HKSAR plus French/Spanish/Serbian/Singaporean advice establish named exemptions. Taiwan BOCA explicitly requires eVisa; no mainland/SAR/Taiwan substitution.",
+        "All remaining assigned origins lack an explicit exhaustive visa-free/default rule in the retrieved material. Statutory tourist stay limits and list omissions alone are not visa-exemption proof. Ordinary South American 180-day provision is not projected into an unsupported nationality waiver; special PS/XK/MO acceptance remains unverified."
+      ],
+      "attemptedUrls": [
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Ecuador",
+        "https://servicios.turismo.gob.ec/ley-organica-de-movilidad-humana/",
+        "https://visitquito.ec/",
+        "https://visitquito.ec/planifica-tu-viaje/",
+        "https://www.asambleanacional.gob.ec/sites/default/files/private/asambleanacional/filesasambleanacionalnameuid-29/Leyes%202013-2017/163-movilidad/ro-ley-movilidad-humana-ro-938-sup-06-02-2017.pdf",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-97-55cdc-1.html",
+        "https://www.cancilleria.gob.ec/2019/08/12/ecuador-exige-visa-a-los-ciudadanos-de-11-paises/",
+        "https://www.cancilleria.gob.ec/2020/06/15/visa-temporal/",
+        "https://www.cancilleria.gob.ec/2020/06/15/visas-en-el-ecuador/",
+        "https://www.cancilleria.gob.ec/2020/06/30/lista-de-paises-que-deben-presentar-visa-al-ingresar-al-ecuador/",
+        "https://www.cancilleria.gob.ec/2022/03/16/nuevo-reglamento-a-la-ley-de-movilidad-humana-contempla-reformas-para-garantizar-la-migracion-segura-ordenada-y-regular/",
+        "https://www.cancilleria.gob.ec/2023/04/12/el-estatuto-migratorio-andino-entro-en-vigencia-operativa-desde-el-1-de-abril-de-2023/",
+        "https://www.cancilleria.gob.ec/2024/07/05/ecuador-da-la-bienvenida-a-los-visitantes-con-una-opcion-facil-y-segura-la-visa-electronica/",
+        "https://www.cancilleria.gob.ec/?s=cualquier+nacionalidad",
+        "https://www.cancilleria.gob.ec/?s=extranjeros+excepto",
+        "https://www.cancilleria.gob.ec/?s=extranjeros+sin+visa",
+        "https://www.cancilleria.gob.ec/?s=ley+organica+movilidad+humana",
+        "https://www.cancilleria.gob.ec/?s=no+necesitan+visa",
+        "https://www.cancilleria.gob.ec/?s=no+requieren+visa",
+        "https://www.cancilleria.gob.ec/alemania/",
+        "https://www.cancilleria.gob.ec/alemania/2025/12/02/la-tramitacion-de-evisas-se-realiza-a-traves-de-una-plataforma-digital/",
+        "https://www.cancilleria.gob.ec/alemania/wp-json/wp/v2/search?search=visa&per_page=100",
+        "https://www.cancilleria.gob.ec/australia/",
+        "https://www.cancilleria.gob.ec/canada/2023/12/05/visas/",
+        "https://www.cancilleria.gob.ec/canada/wp-json/wp/v2/search?search=visa&per_page=100",
+        "https://www.cancilleria.gob.ec/estadosunidos/visas/",
+        "https://www.cancilleria.gob.ec/india/",
+        "https://www.cancilleria.gob.ec/madrid/visas/",
+        "https://www.cancilleria.gob.ec/paisesbajos/wp-json/wp/v2/search?search=visa&per_page=100",
+        "https://www.cancilleria.gob.ec/reinounido/2021/07/27/tourist-visa/",
+        "https://www.cancilleria.gob.ec/reinounido/visa/",
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2023/06/ley_organica_de_movilidad_humana.pdf",
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2025/04/ley_orgAnica_de_movilidad_humana_19_de_junio_2024.pdf",
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2025/04/reglamento_a_la_ley_organica_de_movilidad_humana_23_marzo_de_2023.pdf",
+        "https://www.cancilleria.gob.ec/wp-json/wp/v2/media?search=movilidad&per_page=100",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/equateur/conseils-aux-voyageurs-entree-sejour",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Ecuador",
+        "https://www.gob.ec/mremh/tramites/concesion-visa-visitante-temporal-turista-90-dias",
+        "https://www.gob.ec/sites/default/files/regulations/2019-11/LOMH.pdf",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/ecuador",
+        "https://www.mfa.gov.sg/countries-regions/e/ecuador/travel-page",
+        "https://www.mfa.gov.sg/travelling-overseas/travel-advisories-notices-and-visa-information/ecuador/",
+        "https://www.ministeriodelinterior.gob.ec/requisitos-de-ingreso-al-ecuador/",
+        "https://www.turismo.gob.ec/wp-content/uploads/2017/02/LEY-ORGANICA-DE-MOVILIDAD-HUMANA.pdf"
+      ]
+    },
+    {
+      "destination": "BJ",
+      "resolvedOrigins": [
+        "CA",
+        "FR",
+        "MO",
+        "RS",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BG",
+        "BH",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BY",
+        "BZ",
+        "CH",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DM",
+        "DO",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GR",
+        "GT",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KG",
+        "KH",
+        "KI",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "MD",
+        "ME",
+        "MH",
+        "MK",
+        "MM",
+        "MN",
+        "MT",
+        "MV",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "SA",
+        "SB",
+        "SE",
+        "SI",
+        "SK",
+        "SM",
+        "SR",
+        "SV",
+        "SY",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE"
+      ],
+      "findings": [
+        "Current Canadian/French/Serbian/Taiwan advice and Macao DSI resolve five eVisa routes. Tokyo and Washington missions independently explain electronic issuance.",
+        "Remaining origins: current MFA site is under maintenance; exact reciprocal-exemption path is 404; its 2026-06-05 archive is an empty Angular shell. Government secretariat search returned no operative list. Tokyo/Washington process pages do not establish every non-African nationality requirement.",
+        "Non-African bilateral waiver leads, including China and Caribbean countries, were not flattened into an all-other-nationalities requirement. Outbound Beninese exemption page is the wrong direction and was not inverted."
+      ],
+      "attemptedUrls": [
+        "https://ambabenin.ru/",
+        "https://ambabeninaccra.org/visa/",
+        "https://beninembassy.us/?s=exemption",
+        "https://beninembassy.us/visas/",
+        "https://beninembassy.us/visiter-les-pays-dexemption-de-visa-aux-beninois/",
+        "https://dei.gouv.bj/",
+        "https://diplomatie.gouv.bj/",
+        "https://diplomatie.gouv.bj/fr/representations/visas/exemption_reciproque_de_visa",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Benin",
+        "https://evisa.bj/faqs",
+        "https://service-public.bj/public/services/service/PS00373",
+        "https://sgg.gouv.bj/recherche/?q=visa",
+        "https://travel.gc.ca/destinations/benin",
+        "https://travel.state.gov/en/international-travel/travel-advisories/benin.html",
+        "https://web.archive.org/web/20250000000000/https://diplomatie.gouv.bj/fr/representations/visas/exemption_reciproque_de_visa",
+        "https://web.archive.org/web/20260605204223/https://diplomatie.gouv.bj/main-MNQRNFET.js",
+        "https://www.ambabenin-sn.org/visas/",
+        "https://www.beninembassy.jp/",
+        "https://www.beninembassy.jp/consular-services/visas-and-travel/",
+        "https://www.beninembassy.jp/visas/",
+        "https://www.beninembassy.us/visas.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-235-01fd3-1.html",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/benin/",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/benin/conseils-aux-voyageurs-entree-sejour",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/451?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/benin",
+        "https://www.smartraveller.gov.au/destinations/africa/benin"
+      ]
+    },
+    {
+      "destination": "PG",
+      "resolvedOrigins": [
+        "AO",
+        "BF",
+        "BI",
+        "BJ",
+        "BW",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CV",
+        "DJ",
+        "DZ",
+        "EG",
+        "ER",
+        "ET",
+        "GA",
+        "GM",
+        "GN",
+        "GQ",
+        "GW",
+        "KE",
+        "KG",
+        "KM",
+        "KZ",
+        "LR",
+        "MA",
+        "MD",
+        "MG",
+        "ML",
+        "MM",
+        "MR",
+        "MW",
+        "MX",
+        "MZ",
+        "NE",
+        "NG",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "TD",
+        "TG",
+        "TJ",
+        "TM",
+        "TN",
+        "UG",
+        "UZ",
+        "ZM"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "All 52 assigned origins now have the independently evidenced visa requirement only. This is not a resolution of electronic eligibility or the checker contradiction.",
+        "Fresh copies of all three ordinary-tourist nationality lists have identical hashes to the prior pass, retaining the BW/MX descriptive-list contradictions. No rejected nationality assigned an inferred eVisa or visa-on-arrival.",
+        "Paper-versus-online instructions conflict; practical application channels remain blocked for all 52 additions. d=0 preserves unverified stays. PNGDAC is separately required."
+      ],
+      "attemptedUrls": [
+        "https://evisa.ica.gov.pg/evisa/global/get_allowed_nationalities?ptype=191C7C89-06BE-48AD-B4D6-4B16C2F55CB3",
+        "https://evisa.ica.gov.pg/evisa/global/get_allowed_nationalities?ptype=54195EA4-A5F1-42A2-AD65-4FCBA7F74E1D",
+        "https://evisa.ica.gov.pg/evisa/global/get_allowed_nationalities?ptype=E0C5ACB1-468B-4256-B55B-0B1809B2D1F0",
+        "https://ica.gov.pg/public-notices/2026/mandatory-completion-of-png-digital-arrival-card",
+        "https://ica.gov.pg/uploads/media/post_file_3195072-visa-information-booklet-2025.pdf",
+        "https://ica.gov.pg/visa/visit/visitor",
+        "https://pngcanberra.org/visas/"
+      ]
+    },
+    {
+      "destination": "GE",
+      "resolvedOrigins": [
+        "CM",
+        "DZ",
+        "HK",
+        "KH",
+        "MA",
+        "MO",
+        "NG",
+        "NP",
+        "PK",
+        "TN"
+      ],
+      "remainingOrigins": [
+        "PS",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "Eight ordinary nationalities explicitly return NeedVisa=true, CanGetVisa=false, CanGetC5Visa=true. New law inspection distinguishes C5 from C1, but candidates retain requirement-only/method uncertainty rather than guessing C5 prerequisites or duration.",
+        "HKSAR and Macao each have explicit 30-day visa-free origin-government evidence.",
+        "XK/PS accepted ordinary documents remain unestablished. Taiwan BOCA describes only exceptional conference/sports invitations and inability to select Taiwan electronically; an ordinary-tourism admission prohibition or permitted tourist pathway is not conclusively established."
+      ],
+      "attemptedUrls": [
+        "https://matsne.gov.ge/en/document/view/2278806",
+        "https://matsne.gov.ge/en/document/view/2867361",
+        "https://pakistan.mfa.gov.ge/en/visa-information",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-139-c4698-1.html",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/424?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=386",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=453",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=454",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=486",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=493",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=495",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=500",
+        "https://www.evisa.gov.ge/GeoVisa/en/VisaApp/CheckCountry?countryid=542",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf"
+      ]
+    },
+    {
+      "destination": "LS",
+      "resolvedOrigins": [
+        "AT",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "DZ",
+        "KP",
+        "PS",
+        "PW",
+        "SS",
+        "WS",
+        "XK"
+      ],
+      "findings": [
+        "Austria explicitly confirms 14-day waiver; Taiwan BOCA establishes visa requirement and suspended eVisa service/manual contact instructions.",
+        "DZ/PW/PS/SS/XK remain absent/unestablished in the usable ordinary schedule. KP has duplicate YES/NO conflict, WS Samoa/Western Samoa conflict. New ministry/mission alternatives yielded 404, DNS failures or unrelated content; no inference from omission."
+      ],
+      "attemptedUrls": [
+        "https://lesothohighcommission.co.za/visa/",
+        "https://lesotholondon.org.uk/",
+        "https://lesotholondon.org.uk/visas",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/lesotho",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-172-0ebf8-1.html",
+        "https://www.gov.ls/services/visa/",
+        "https://www.lesothoembassy.de/visa/"
+      ]
+    },
+    {
+      "destination": "TD",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "CM",
+        "HK",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "Taiwan BOCA explicitly documents mission application, preserving electronic-method uncertainty.",
+        "CM: fresh CEMAC operational commentary and Paris/Washington mission procedure files do not resolve omission from Chad portal exemptions with current passport conditions. HK/MO/PS/XK document acceptance remains unverified. Paris fee-waived diplomatic visa is not visa exemption."
+      ],
+      "attemptedUrls": [
+        "https://ambatchadparis.fr/wp-content/uploads/2023/09/visa2019.pdf",
+        "https://cemac.int/2025/03/17/decryptage-du-discours-du-president-en-exercice-de-la-cemac-a-loccasion-de-la-journee-de-la-cemac-2025/",
+        "https://cemac.int/?s=libre+circulation",
+        "https://www.ambatchadparis.fr/",
+        "https://www.ambatchadparis.fr/index.php/services-consulaires/visas",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-234-a88f4-1.html",
+        "https://www.chadembassy.us/services-4"
+      ]
+    },
+    {
+      "destination": "CZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BY",
+        "NR",
+        "RU",
+        "SO"
+      ],
+      "findings": [
+        "All four assigned origins reviewed. Fresh current MFA nationality page retains Nauru conflict with EU agreement-activation condition; no waiver assumed.",
+        "Russia/Belarus visa-service exceptions do not settle tourist entry through internal versus external Schengen borders. Somali travel-document non-recognition and limited-territorial/separate-sheet legal mechanisms do not establish a currently available ordinary-tourist route. New English Somalia measure and mission restrictions inspected; four remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://mzv.gov.cz/jnp/en/information_for_aliens/news/entry_of_citizens_of_russia_to_the_czech.html",
+        "https://mzv.gov.cz/jnp/en/information_for_aliens/news/index.html",
+        "https://mzv.gov.cz/jnp/en/information_for_aliens/news/limited_visa_services_for_russian_and.html",
+        "https://mzv.gov.cz/jnp/en/information_for_aliens/news/somalia_visa_implementing_decision.html",
+        "https://mzv.gov.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are_exempt/index.html"
+      ]
+    },
+    {
+      "destination": "MX",
+      "resolvedOrigins": [
+        "AL",
+        "BR"
+      ],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Fresh INM live text explicitly lists Albania, and current linked image names Brazil; both receive visa-required with electronic-method uncertainty, not an assumed obsolete consular-only rule.",
+        "Kosovo omitted; acceptable-document and application pathway not established. Brazilian electronic-method investigation returned unavailable/challenge/irrelevant pages, so not guessed."
+      ],
+      "attemptedUrls": [
+        "https://ambasadat.net/meksika/",
+        "https://consulmex.sre.gob.mx/saopaulo/index.php/servicios-a-extranjeros/visas",
+        "https://embamex.sre.gob.mx/serbia/index.php/consular/visas",
+        "https://punetejashtme.gov.al/regjimi-i-vizave-per-shtetasit-shqiptare/",
+        "https://www.gob.mx/sre/prensa/mexico-facilita-el-ingreso-de-turistas-brasilenos-con-la-nueva-visa-electronica",
+        "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+        "https://www.inm.gob.mx/gobmx/word/wp-content/uploads/2024/03/PAISES-VISA2-391x1024.jpg",
+        "https://www.inm.gob.mx/sae/publico/pt/solicitud.html"
+      ]
+    },
+    {
+      "destination": "KG",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Taiwan BOCA explicitly documents ordinary ROC passport consular visa and invitation requirements.",
+        "Kosovo remains absent from usable ordinary eligibility data; no recognized-document or specific mission rule found. General consular possibility is not invented from omission."
+      ],
+      "attemptedUrls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-138-788aa-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-44-12e7e-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-1.html?page=2"
+      ]
+    },
+    {
+      "destination": "MU",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ME",
+        "XK"
+      ],
+      "findings": [
+        "Fresh government nationality/visa page and Montenegro ministry English/native pages inspected. Montenegro page gives MU-to-ME rules only and cannot establish reciprocal ME-to-MU access.",
+        "Both remain unresolved: obsolete Yugoslavia (Serbia & Montenegro) row does not identify modern ME; Kosovo diplomatic exclusion does not supply ordinary passport eligibility. Alternative mission/origin pages failed or provided no usable inbound rule."
+      ],
+      "attemptedUrls": [
+        "https://ambasadat.net/vizat/",
+        "https://foreign.govmu.org/Pages/Consular%20and%20Visa/Travel-and-Visa.aspx",
+        "https://mauritiushighcommission.co.uk/visa-information/",
+        "https://mfa-ks.net/en/visa-regime-for-kosovo-citizens/",
+        "https://passport.govmu.org/passport/?page_id=605",
+        "https://www.gov.me/clanak/mauricijus",
+        "https://www.gov.me/diplomatske-misije/ambasade-i-konzulati-crne-gore-u-svijetu/mauricijus",
+        "https://www.gov.me/en/article/mauritius",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/mauritius",
+        "https://www.gov.me/pretraga?query=mauricijus"
+      ]
+    },
+    {
+      "destination": "ES",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Fresh Spanish Embassy Nairobi Schengen tourist instructions retrieved; they require a valid passport but do not establish acceptance or substitute-document issuance for Somali ordinary passport holders. Existing EU recognition/LTV context retained. SO remains unresolved, not a blanket entry ban."
+      ],
+      "attemptedUrls": [
+        "https://www.exteriores.gob.es/Embajadas/nairobi/en/ServiciosConsulares/Paginas/Consular/Visados-Schengen.aspx"
+      ]
+    },
+    {
+      "destination": "JP",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CO"
+      ],
+      "findings": [
+        "Japanese MOFA and Colombia mission alternatives returned 403/404; archived Colombia visa URL resolves to a 2025-06-19 wrapper whose actual frame is 404. No archived substantive evidence obtained.",
+        "Colombia remains unresolved: MOFA exemption-list omission versus note-10 advice is not converted into a categorical requirement or exemption."
+      ],
+      "attemptedUrls": [
+        "https://web.archive.org/web/20250000000000/https://www.colombia.emb-japan.go.jp/itpr_es/visas.html",
+        "https://web.archive.org/web/20250619135734if_/https://www.colombia.emb-japan.go.jp/itpr_es/visas.html",
+        "https://www.cancilleria.gov.co/recomendaciones-viajar-japon",
+        "https://www.colombia.emb-japan.go.jp/",
+        "https://www.colombia.emb-japan.go.jp/ESP/consular/visa.htm",
+        "https://www.colombia.emb-japan.go.jp/itpr_es/FAQ.html",
+        "https://www.colombia.emb-japan.go.jp/itpr_es/visa.html",
+        "https://www.colombia.emb-japan.go.jp/itpr_es/visas.html",
+        "https://www.colombia.emb-japan.go.jp/itprtop_es/index.html",
+        "https://www.es.emb-japan.go.jp/itpr_es/00_000222.html",
+        "https://www.mofa.go.jp/j_info/visit/visa/short/novisa.html",
+        "https://www.mofa.go.jp/j_info/visit/visa/short/other_visa.html"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "passport": "AF",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "AL",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "AO",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "BD",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "CD",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "CG",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "CI",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "CM",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "CN",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "CU",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "EG",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "ER",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "ET",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "GH",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "GM",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "GN",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "GW",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "IN",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "IQ",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "IR",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "KE",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "KG",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "KP",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "LK",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "LY",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "ML",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "MM",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "MR",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "NG",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "NP",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "PH",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "PK",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "SD",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "SL",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "SN",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "SO",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "SS",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "SY",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "TD",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "TJ",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "UZ",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "VE",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "VN",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "YE",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    },
+    {
+      "passport": "HT",
+      "destination": "EC",
+      "reason": "Replace the previously method-unverified visa-required record with the now substantiated electronic tourist-visa channel; no claim that the previous requirement was false.",
+      "sources": [
+        "gap-09-ec-evisa"
+      ]
+    }
+  ]
+}

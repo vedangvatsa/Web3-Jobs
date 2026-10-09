@@ -40,7 +40,7 @@
     "test:bandwidth": "tsx scripts/test-bandwidth-budget.ts",
     "test:cost-savings": "node --test scripts/test-apphosting-secret-sync.mjs && tsx scripts/test-glossary-bandwidth.ts",
     "test:cost-savings:browser": "tsx scripts/test-cost-savings-browser.ts",
-    "test:nomads": "tsx --test scripts/test-nomads.ts scripts/test-passport-policies.ts scripts/test-passport-index.ts scripts/test-passport-factchecks.ts",
+    "test:nomads": "tsx --test scripts/test-nomads.ts scripts/test-passport-policies.ts scripts/test-passport-index.ts scripts/test-passport-factchecks.ts scripts/test-passport-gap-patches.ts",
     "import:passport-factchecks": "tsx scripts/import-passport-factchecks.ts",
     "test:nomads:browser": "tsx scripts/test-nomads-browser.ts",
     "precompute:nomads": "tsx scripts/precompute-nomads.ts",

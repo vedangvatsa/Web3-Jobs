@@ -1,0 +1,1950 @@
+{
+  "version": 1,
+  "batch": "gap-07",
+  "baselineSha256": "628d74004a53c4e3e18467e95a6051e23182bdffd858efc24cdde02b1268d31c",
+  "sources": {
+    "gap-07-ss-ca": {
+      "title": "Canada: South Sudan ordinary tourist eVisa requirement",
+      "urls": [
+        "https://travel.gc.ca/destinations/south-sudan"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "aeb2a583fb4b5da3ebd0966d9f039445f9aeaa2e15461782b73f2f949649084f"
+    },
+    "gap-07-ss-ae": {
+      "title": "UAE MFA: South Sudan normal-passport visa requirement and electronic channel",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=SSD"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "9ba325ea1977b2cf344da985b8133544d19e7bcc198817b461af0ef992fe30e6"
+    },
+    "gap-07-ss-rs": {
+      "title": "Serbian MFA: Serbian nationals need a South Sudan visa",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/south-sudan"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6e8494a700759c419c5e76a4cca12303899f56a91d00706d5947a5df16b8e2a2"
+    },
+    "gap-07-bf-ae": {
+      "title": "UAE MFA: Burkina Faso normal-passport visa exemption",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=BFA"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "933555d5826c4db51ef33125cf084dd83ab06a89362dbd56b5a40e97d31b8e67"
+    },
+    "gap-07-bf-fr": {
+      "title": "France MFA: Burkina Faso advance visa and eVisa issuance",
+      "urls": [
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/burkina-faso/conseils-aux-voyageurs-entree-sejour"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "7e0359b98e2406a2d8bbd03347edce3dc1d26e5f8fcc84965cb7da832c1e20be"
+    },
+    "gap-07-bf-rs": {
+      "title": "Serbian MFA requirement plus Burkina Security Ministry electronic eligibility",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/burkina-faso",
+        "https://www.securite.gov.bf/default-title?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=500&cHash=85fb96cdb6c4f1c58714838f68a58344"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "66132c07eb3d6a2cc20b8abe8d4e9e71fb8b624d4c47fb43973cf60a0938ea14"
+    },
+    "gap-07-vc-ca": {
+      "title": "Canada: Saint Vincent Canadian tourist exemption",
+      "urls": [
+        "https://travel.gc.ca/destinations/saint-vincent-the-grenadines"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "192b9b5c8d3f9a669d995086781f9d83fd93552574fc8ddd19b8cf6c94133ce1"
+    },
+    "gap-07-vc-sg": {
+      "title": "Singapore MFA: Saint Vincent tourist exemption",
+      "urls": [
+        "https://www.mfa.gov.sg/countries-regions/s/saint-vincent-and-the-grenadines/travel-page"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "b5f2091949c443bf4b9e9cafa6064cb31642823d62114e507e6527b645973aec"
+    },
+    "gap-07-vc-rs": {
+      "title": "Serbian MFA: Saint Vincent ordinary-passport exemption",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/saint-vincent-and-grenadines"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "40702554dcda0118762d2e53e18a56015ab698d162dac54d52b75dec4728c0de"
+    },
+    "gap-07-vc-ae": {
+      "title": "UAE MFA: Saint Vincent normal-passport exemption",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=VCT"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "568c42d7d4e5f57b8f798028385f4a0dca2a976f7ecd0db56dfe9f2e17bf5b22"
+    },
+    "gap-07-hk-schedule": {
+      "title": "Hong Kong Immigration: HKSAR passport access schedule and country remarks",
+      "urls": [
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f48fa417cb606b63212319927ee1934f565f3a2802df8ae45c54ad4ac3a59146"
+    },
+    "gap-07-mo-vc": {
+      "title": "Macao DSI: ordinary SAR passport checker, Saint Vincent",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/358?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/en/visa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a87bf6c8cc3b5312a3080462345d01045dfb96ce595568685e0528c3ffdb1d2e"
+    },
+    "gap-07-mo-mk": {
+      "title": "Macao DSI: ordinary SAR passport checker, North Macedonia",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/340?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/en/visa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "1f161756ef68eef61fbfbb7d05fe26b2afb17b693f1056436769d79de621a146"
+    },
+    "gap-07-dm-general": {
+      "title": "Dominica: live tourist exemption, operative SRO 7/2015 and current Tourism Authority exceptions",
+      "urls": [
+        "https://dominica.gov.dm/services/passports-and-travel-documents-non-nationals/124-do-i-need-a-visa-to-enter-into-dominica",
+        "https://www.dominica.gov.dm/laws/2015/Aliens%20(Visa%20Exemption)%20Regulations,%202015.pdf",
+        "https://discoverdominica.com/travel-dominica-entry-requirements/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f371c4b082fe2384bbe97138ca0452572cad979d4bed3e49e434eb2f8867734b"
+    },
+    "gap-07-dm-ae": {
+      "title": "UAE MFA: Dominica normal-passport tourist exemption",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=DMA"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "026bdef70628afad64281eeb4ad15d7643e1f0386751733742cd04dc0a06f869"
+    },
+    "gap-07-mo-dm": {
+      "title": "Macao DSI: ordinary SAR passport checker, Dominica",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/343?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/en/visa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "01fe780f7e3c7e8ebdd7322d6a8cdc62e5cdf7ceaaea50a799e9017f1106e0b3"
+    },
+    "gap-07-dm-2016-archive": {
+      "title": "Dominica SRO 5/2016: six-month named exemptions; archived 6 March 2022",
+      "urls": [
+        "https://web.archive.org/web/20220306133410id_/http://www.dominica.gov.dm/laws/2016/Aliens%20%28Visa%20Exemption%29%20%28Amendment%29%20Regulations,%202016.pdf"
+      ],
+      "checkedAt": "2022-03-06",
+      "sha256": "930f6ef3dbcad988116203a5ab48d9e6f1f07b3e7dc0e1db77db4e37c4ee812a",
+      "historical": true
+    },
+    "gap-07-dm-uruguay-archive": {
+      "title": "Dominica SRO 10/2015: Uruguay exemption; archived 6 March 2022",
+      "urls": [
+        "https://web.archive.org/web/20220306133342id_/http://www.dominica.gov.dm/laws/2015/Aliens%20%28Visa%20Exemption%29%20%28Amendment%29%20Regulations,%202015.pdf"
+      ],
+      "checkedAt": "2022-03-06",
+      "sha256": "b0ac24be49aeff423a6ce30bff279d100d7d5531ce54b863eedb5e4802200110",
+      "historical": true
+    },
+    "gap-07-ao-bilateral": {
+      "title": "Angola SME: five expressly named bilateral short-stay visa exemptions",
+      "urls": [
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/evisa-english-version/",
+        "https://www.smevisa.gov.ao/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "ce72b5b7d610975536e291e29c3362c4ebfe96e7305f85c4b4e1c6c4f9bd7a6c"
+    },
+    "gap-07-ao-default": {
+      "title": "Angola Law 13/19 Article 14, Decree 189/23 and SME exemption schedule",
+      "urls": [
+        "https://www.sme.gov.ao/fotos/frontend_1/gov_documentos/nova-lei-sobre-o-regime-juridico-dos-cidadaos-estrangeiros-na-republica-de-angola-2019-1_3410837316791309bc6619.pdf",
+        "https://plataformacipra.gov.ao/public/ficheiros/arquivos/Gov_AngolaDecreto%20Presidencial880210230334451696257285.pdf",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/evisa-english-version/",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/vistos/",
+        "https://www.smevisa.gov.ao/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "34d65988dc20fd6121100ea238a2d9955dc9d1d973ce86051bb45e6d2c89e3f0"
+    },
+    "gap-07-in-default": {
+      "title": "India current official visa default and nationality-specific tourist submission instructions",
+      "urls": [
+        "https://www.indembassy-tokyo.gov.in/eoityo_pages/Nzk,",
+        "https://cgihk.gov.in/page/visa-information/",
+        "https://www.eoibeijing.gov.in/page/visa-services/",
+        "https://www.eoibeijing.gov.in/page/visa-categories/",
+        "https://hcidhaka.gov.in/pdf/Visa_Category_Wise_Documents_Required_13082026.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "22f594b2a78654ed2a735e9fe465dd2d81fb02d7f86f5fc993432a684567050d"
+    },
+    "gap-07-gn-mo": {
+      "title": "Macao DSI Guinea eVisa statement reconciled with Guinea portal limitation",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/454?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.paf.gov.gn/visa",
+        "https://www.paf.gov.gn/visa/xml/lookup/CountryHome.xml"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "5087a8b6912b11915b7473f24a038109d1c5c5e3fe81b53173fbd7c1372a3738"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "CA"
+      ],
+      "destinations": [
+        "SS"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-07-ss-ca",
+      "n": "Canadian ordinary passport: obtain the electronic visa before departure. The source does not establish an authorised stay length; follow the issued visa. A landing stamp follows approval and is not an independent walk-up visa alternative."
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "SS"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap-07-ss-ae",
+      "n": "UAE normal passport; apply in advance through the official South Sudan eVisa website. The source gives 30 days starting from the specified arrival date, not from arbitrary visa issuance."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "SS"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-ss-rs",
+      "n": "A visa is required for Serbian ordinary passports. Tourist eVisa/arrival eligibility and stay are not established for this nationality by the retrieved evidence. The source contains an unrelated Cambodia-linked method paragraph; it is not applied to South Sudan.",
+      "label": "Visa required; method unconfirmed"
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "BF"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-07-bf-ae",
+      "n": "UAE ordinary/normal passport; origin MFA expressly lists visa-free access for 90 days, renewable. The same source prohibits UAE citizens from travelling to Burkina Faso: this is an origin-country travel restriction, not a Burkina Faso nationality entry ban. No work right is inferred."
+    },
+    {
+      "passports": [
+        "FR"
+      ],
+      "destinations": [
+        "BF"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-07-bf-fr",
+      "n": "French ordinary passport; obtain the visa before travel through the official eVisaburkina platform and print the electronic visa for arrival. Duration is not specified here. Consular processing is also described, but no common duration is assigned to different methods."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "BF"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-07-bf-rs",
+      "n": "Serbian ordinary passport requires a visa. Burkina Security Ministry expressly permits every visa-subject foreigner to apply online; its 17 August 2023 launch statement corroborates the current official portal. Obtain approval before travel. No authorised stay is established by these sources."
+    },
+    {
+      "passports": [
+        "CA"
+      ],
+      "destinations": [
+        "VC"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-07-vc-ca",
+      "n": "Ordinary Canadian passport. The Canadian-government nationality-specific tourist allowance is 30 days; the SVG Tourism Authority generic visitor-permit ceiling is not substituted for it."
+    },
+    {
+      "passports": [
+        "SG"
+      ],
+      "destinations": [
+        "VC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-07-vc-sg",
+      "n": "Singapore ordinary passport; short visits up to 90 days. Entry permission does not establish residence or employment rights."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "VC"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-07-vc-rs",
+      "n": "Serbian ordinary passport; up to 30 days in a one-year period, rather than a fresh annual allowance at each entry. No employment right established."
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "VC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-vc-ae",
+      "n": "UAE ordinary/normal passport; tourism only. The period is three calendar months, not a converted day count.",
+      "stay": "3 months"
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "VC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-hk-schedule",
+      "n": "HKSAR passport, not a mainland Chinese ordinary passport or other Hong Kong travel document. The HKSAR schedule lists access and expressly leaves stay to the competent authorities on arrival. No fixed stay or work permission is inferred."
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "MK"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-07-hk-schedule",
+      "n": "HKSAR passport only. Hong Kong Immigration explicitly lists North Macedonia for 90 days; no rolling or annual aggregate period is invented."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "VC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-mo-vc",
+      "n": "Macao SAR ordinary passport (travelPermit=0), not the Macao travel permit. The official DSI checker explicitly grants visa exemption for one calendar month.",
+      "stay": "1 month"
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "MK"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-07-mo-mk",
+      "n": "Macao SAR ordinary passport (travelPermit=0). The official origin-government checker supplies an explicit 90-day exemption; mainland China is not substituted for this passport."
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-dm-ae",
+      "n": "UAE ordinary/normal passport; tourism for three calendar months. No employment permission is inferred.",
+      "stay": "3 months"
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-07-mo-dm",
+      "n": "Macao SAR ordinary passport (travelPermit=0); explicit 90-day visa exemption. Not inferred from mainland China or from travel-permit rules."
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 21,
+      "s": "gap-07-hk-schedule",
+      "n": "HKSAR passport only. Bona fide tourism up to 21 days requires a return ticket and satisfaction of the immigration officer as to departure within that period. No third-country visa or residence assumed."
+    },
+    {
+      "passports": [
+        "HT",
+        "DO"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-dm-general",
+      "n": "The current Dominica Tourism Authority expressly requires a visa for Haitian and Dominican Republic citizens. The general 21-day tourist clause is not applied to these named exceptions. The Dominican exception is also explicit in regulation 2(3) of SRO 7/2015. No third-country visa/residence exception is assumed; issuance channel and stay are unconfirmed.",
+      "label": "Visa required; method unconfirmed"
+    },
+    {
+      "passports": [
+        "BR"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-dm-general",
+      "n": "Brazilian ordinary passport: SRO 7/2015 regulation 2(2)(d) grants visits not exceeding three months. Return ticket, funds and accommodation/address requirements remain.",
+      "stay": "3 months"
+    },
+    {
+      "passports": [
+        "CU"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 28,
+      "s": "gap-07-dm-general",
+      "n": "Cuban ordinary passport: SRO 7/2015 regulation 2(2)(f) explicitly grants no more than 28 consecutive days. This is not a work or residence right."
+    },
+    {
+      "passports": [
+        "HR",
+        "TW"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-dm-general",
+      "n": "SRO 7/2015 regulation 2(2)(a) expressly includes Croatia and Republic of China (Taiwan) for visits not exceeding six months. Ordinary national passport; no assumed third-country permission.",
+      "stay": "6 months"
+    },
+    {
+      "passports": [
+        "MT",
+        "SR"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-dm-general",
+      "n": "Visa exemption is explicit. Duration is not resolved: the live government overview says three months, while SRO 7/2015 gives six months (and Suriname also falls within the overview CARICOM category). No unsupported common duration is selected."
+    },
+    {
+      "passports": [
+        "CH",
+        "IS",
+        "LI"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-dm-2016-archive",
+      "n": "Historical statutory evidence only: SRO 5/2016, captured 6 March 2022, names these citizens for six-month visa exemption. A current consolidated amendment chain was not recovered; do not present this as a current live six-month verification.",
+      "stay": "6 months"
+    },
+    {
+      "passports": [
+        "UY"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-07-dm-uruguay-archive",
+      "n": "Historical evidence only: national passports expressly included in SRO 10/2015 for 90 days; public capture 6 March 2022. Current consolidated amendments were not recovered."
+    },
+    {
+      "passports": [
+        "AD",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BO",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CL",
+        "CO",
+        "CV",
+        "DJ",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "FM",
+        "GE",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "HN",
+        "ID",
+        "IQ",
+        "IR",
+        "JO",
+        "KG",
+        "KH",
+        "KM",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LR",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "NE",
+        "NI",
+        "NP",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PW",
+        "PY",
+        "QA",
+        "RS",
+        "RU",
+        "SA",
+        "SD",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TR",
+        "UA",
+        "UZ",
+        "VA",
+        "VN",
+        "YE",
+        "ZW"
+      ],
+      "destinations": [
+        "DM"
+      ],
+      "t": "vf",
+      "d": 21,
+      "s": "gap-07-dm-general",
+      "n": "Conditional general tourist exemption, not a claim that 21 days is the maximum under every bilateral agreement. The traveller must be a bona fide tourist, possess a return ticket, and satisfy the immigration officer that the visit will not exceed 21 days. Current national guidance corroborates SRO 7/2015. Funds and local address are required. Longer visits outside another established exemption require a visa; no foreign visa/residence, employment or regional free-movement right is assumed.",
+      "label": "Conditional 21-day tourist exemption"
+    },
+    {
+      "passports": [
+        "MZ",
+        "NA",
+        "ST",
+        "ZA",
+        "ZM"
+      ],
+      "destinations": [
+        "AO"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-07-ao-bilateral",
+      "n": "SME expressly names this nationality as exempt for short stays under a bilateral agreement. The authoritative bilateral stay/aggregate limit is not established in the retrieved text; the generic tourism portal 30-day/90-day annual wording is not substituted for each treaty. No employment or unrestricted residence right is inferred."
+    },
+    {
+      "passports": [
+        "AD",
+        "AF",
+        "AL",
+        "AM",
+        "AZ",
+        "BA",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "DJ",
+        "DM",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "GA",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GT",
+        "GW",
+        "HN",
+        "IQ",
+        "IR",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KM",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LK",
+        "LR",
+        "LY",
+        "MD",
+        "ME",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MV",
+        "MY",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "OM",
+        "PE",
+        "PH",
+        "PK",
+        "PY",
+        "RS",
+        "SD",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "SV",
+        "SY",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TM",
+        "TN",
+        "UA",
+        "UG",
+        "UZ",
+        "VE",
+        "VN",
+        "YE"
+      ],
+      "destinations": [
+        "AO"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-ao-default",
+      "n": "Overnight ordinary tourism requires an appropriate visa under the explicit statutory default in Law 13/19 Article 14(1)(b), reconciled with Decree 189/23 and the SME decree-plus-bilateral exemption schedule. This is not a requirement inferred solely from omission from the 98-country annex. Statutory exceptions include qualifying cruise passengers/day visitors and resident or treaty beneficiaries; none is assumed. Decree Article 4 permits advance online pre-authorisation followed by visa affixing at the border; current electronic versus consular completion remains unconfirmed for this nationality because SME instructions conflict. Do not travel on an unapproved application. Stay follows the issued authorisation; no visa-validity period is used as stay.",
+      "label": "Visa required for overnight tourism; channel unconfirmed"
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "IN"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-in-default",
+      "n": "Chinese ordinary passport: a tourist visa is required. Current Beijing instructions require the printed online form and supporting documents at the authorised IVAC; biometrics normally require attendance, with stated age/diplomatic exceptions. This verifies an ordinary consular route, not an end-to-end eVisa for all categories. Current e-Tourist eligibility is not established; no claim that eVisa is unavailable. Stay is visa-specific."
+    },
+    {
+      "passports": [
+        "HK",
+        "MO"
+      ],
+      "destinations": [
+        "IN"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-in-default",
+      "n": "HKSAR or Macao SAR ordinary passport, respectively: a visa is required. Current Hong Kong Consulate instructions expressly describe T-1 tourism, appointment and physical passport submission, HK/Macao identity or lawful-status evidence, itinerary, return/onward travel, funds and accommodation. Passport valid for the next 180 days with two consecutive blank pages. Country/category-specific e-Tourist eligibility is unconfirmed, not declared unavailable; actual stay follows the visa."
+    },
+    {
+      "passports": [
+        "BD"
+      ],
+      "destinations": [
+        "IN"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-in-default",
+      "n": "Bangladeshi ordinary passport requires a visa; a fee waiver is not a visa waiver. The currently linked Dhaka August 2026 document lists T-1 tourist visa requirements including original passport, Bangladesh identity/residence/profession evidence and funds. This does not prove that tourist appointments or issuance are presently available to every applicant. Current issuance availability, electronic eligibility and stay remain unconfirmed.",
+      "label": "Visa required; tourist issuance unconfirmed"
+    },
+    {
+      "passports": [
+        "AF"
+      ],
+      "destinations": [
+        "IN"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-in-default",
+      "n": "Afghan ordinary passport requires a visa under the explicit official nationality default. Gratis-visa wording is a fee concession only. The retrieved sources do not establish current ordinary-tourist issuance or e-Tourist availability for Afghan nationals; do not assume emergency, student or medical permissions cover tourism. Stay unconfirmed.",
+      "label": "Visa required; tourist issuance unconfirmed"
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "GN"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-07-gn-mo",
+      "n": "Macao SAR ordinary passport: the origin-government checker explicitly indicates visa required with an eVisa route. However, Guinea public country data marks Macao inactive, so current electronic application eligibility is not confirmed. Preserve the visa requirement with method uncertainty; seek confirmation of an accepted channel before travel. Approval letter and border enrolment are sequential, not alternative visa methods. The portal 90-day field is labelled Validity and is not used as stay.",
+      "label": "Visa required; electronic channel unconfirmed"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "SS",
+      "resolvedOrigins": [
+        "CA",
+        "RS",
+        "AE"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AU",
+        "AT",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BE",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BG",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CN",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CU",
+        "CY",
+        "CZ",
+        "DK",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "EE",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "DE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IE",
+        "IL",
+        "IT",
+        "JM",
+        "JP",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NL",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "SC",
+        "SL",
+        "SG",
+        "SK",
+        "SI",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "ES",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "SY",
+        "TW",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Fresh current origin-government sources add CA, AE and RS only. Serbian page contains an unrelated Cambodia eVisa paragraph; only its explicit South Sudan requirement is used.",
+        "Current South Sudan eVisa landing page links account creation/sign-in without a public nationality schedule. Three archive-availability queries returned no captures. Additional mission domains failed DNS; Kenya mission timed out. EAC search and actual implementation article concern DRC/Uganda and fee/visa language; neither establishes all present South Sudan inbound exemptions."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=SSD",
+        "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.evisa.gov.ss%2Feligibility",
+        "https://archive.org/wayback/available?url=https%3A%2F%2Fevisa.gov.ss%2Feligibility",
+        "https://archive.org/wayback/available?url=https%3A%2F%2Fwww.evisa.gov.ss%2F",
+        "https://www.smartraveller.gov.au/destinations/africa/south-sudan",
+        "https://travel.gc.ca/destinations/south-sudan",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_South_Sudan",
+        "https://www.eac.int/component/finder/search?q=waives+South+Sudan",
+        "https://www.eac.int/eac-press-releases/2889-eac-lauds-the-republic-of-uganda-and-the-democratic-republic-of-congo-for-waiving-visa-requirements-for-their-citizens",
+        "https://www.eac.int/component/finder/search?q=visa+South+Sudan",
+        "https://www.eac.int/component/search/?searchword=visa%20South%20Sudan&searchphrase=all&Itemid=101",
+        "https://www.eac.int/component/finder/search?q=visa%20South%20Sudan&start=20",
+        "https://www.eac.int/component/finder/search?q=visa%20South%20Sudan&start=40",
+        "https://www.eac.int/press-releases",
+        "https://www.eac.int/search?searchword=South%20Sudan%20visa&searchphrase=all",
+        "https://www.eac.int/press-releases/2180-eac-secretariat-applauds-move-by-kenya-to-waive-visa-requirements-for-south-sudanese-citizens",
+        "https://ambassadesoudandusud.fr/visa/",
+        "https://southsudanembassy.in/visa/",
+        "https://www.eoijuba.gov.in/",
+        "https://www.southsudanembassyjapan.com/consular-services/visa/",
+        "https://juba.mfa.go.ke/",
+        "https://mfa.go.ke/?s=South+Sudan+visa",
+        "https://southsudanembassy.no/visa/",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/south-sudan",
+        "https://www.ss.tzembassy.go.tz/services/category/visa-information",
+        "https://embrss.org.uk/",
+        "https://www.evisa.gov.ss/"
+      ]
+    },
+    {
+      "destination": "BF",
+      "resolvedOrigins": [
+        "AE",
+        "FR",
+        "RS"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BG",
+        "BH",
+        "BI",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SM",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "FR advance eVisa, RS visa requirement plus destination-wide electronic eligibility, and AE normal-passport 90-day exemption are supported. The UAE outbound prohibition is distinguished from a Burkina admission ban.",
+        "Security Ministry confirms electronic application for every visa-subject foreigner, not that every foreigner is visa-subject. Current Washington mission provides document intake only. MFA treaty/search, public-service and legal-site attempts did not establish an exhaustive ordinary nationality schedule. CF/MR/MA bilateral exemptions, intra-AES ML/NE implementation and US restrictions remain specifically unverified. No reuse/bypass of the prior protected configuration endpoint."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=BFA",
+        "https://www.mofa.gov.ae/travel-updates?code=BFA",
+        "https://diplomatie.gov.bf/",
+        "https://www.aib.media/?s=visa+Maroc",
+        "https://www.aib.media/?s=visa+am%C3%A9ricains",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Burkina_Faso",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/burkina-faso/conseils-aux-voyageurs-entree-sejour",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/burkina-faso/",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212350",
+        "https://www.legiburkina.bf/",
+        "https://www.diplomatie.ma/fr/le-maroc-et-le-burkina-faso-signent-un-accord-portant-suppression-de-visas-pour-les-d%C3%A9tenteurs-de-passeports-ordinaires",
+        "https://diplomatie.gov.bf/?s=Maroc+visa",
+        "https://www.maroc.ma/fr/actualites/le-maroc-et-le-burkina-faso-signent-un-accord-portant-suppression-de-visas-pour-les-detenteurs",
+        "https://maroc.diplomatie.gov.bf/",
+        "https://diplomatie.gov.bf/?s=visa",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/burkina-faso",
+        "https://www.securite.gov.bf/default-title?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=500&cHash=85fb96cdb6c4f1c58714838f68a58344",
+        "https://servicepublic.gov.bf/",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BurkinaFaso.html",
+        "https://diplomatie.gov.bf/index.php/accords-et-conventions/",
+        "https://www.mofa.gov.ae/ar-ae/travel-updates?code=BFA",
+        "https://www.burkina-usa.org/visas/",
+        "https://diplomatie.gov.bf/?s=Etats-Unis+visa",
+        "https://www.visaburkina.bf/"
+      ]
+    },
+    {
+      "destination": "VC",
+      "resolvedOrigins": [
+        "AE",
+        "CA",
+        "HK",
+        "MO",
+        "RS",
+        "SG"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "FR",
+        "GA",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HR",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TR",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Six nationality-specific additions use CA, SG, RS, AE and both SAR governments. Stay differences remain 30 days, 90 days, 30 days/year, three months, one month and officer-determined respectively.",
+        "The current national-security list and Tourism Authority disagree about Jordan. Neither explicitly states an all-other-nationalities visa-free default. Tourism visitor-permit ceilings do not by themselves prove visa exemption. EEAS explains outbound Vincentian access to Europe; it is not inverted. EU treaty retrievals returned empty/blocked content, and a guessed Council document was about water policy and rejected.",
+        "Existing OECS and four-state enhanced rights were reviewed in prior evidence: entry, indefinite stay and work rights only for expressly implementing citizenship groups. Other CARICOM visitor permits or CSME certificate work permissions are not broadened to fm."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=VCT",
+        "https://archive.org/wayback/available?url=http%3A%2F%2Fwww.gov.vc%2Findex.php%2Fvisitors%2Fvisa",
+        "https://travel.gc.ca/destinations/saint-vincent-the-grenadines",
+        "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Saint_Vincent_and_the_Grenadines",
+        "https://www.eeas.europa.eu/barbados/travel-study_en?s=132",
+        "https://www.svg-un.org/visa-information",
+        "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/visa-free-regime_en",
+        "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/legal-documents-related-schengen-visas_en",
+        "https://www.consilium.europa.eu/en/press/press-releases/2015/05/28/eu-signs-visa-waiver-agreements-with-7-acp-countries/",
+        "https://data.consilium.europa.eu/doc/document/ST-7152-2015-INIT/en/pdf",
+        "https://eur-lex.europa.eu/EN/legal-content/summary/visa-waiver-agreements.html",
+        "https://publications.europa.eu/resource/celex/22015A0703(01)?language=EN&format=PDF",
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf",
+        "https://security.gov.vc/security/index.php?option=com_content&view=article&id=53&Itemid=106",
+        "https://www.gov.vc/index.php/laws-of-st-vincent-and-the-grenadines",
+        "https://svghighcom.co.uk/",
+        "https://svghighcom.co.uk/visa-information/",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/saint-vincent-and-grenadines",
+        "https://security.gov.vc/security/index.php?option=com_content&view=article&id=708:entry-visa-application-form&catid=70&Itemid=426",
+        "https://www.mfa.gov.sg/countries-regions/s/saint-vincent-and-the-grenadines/travel-page",
+        "https://discoversvg.com/travel/getting-to-svg/",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22015A0703(01)",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22015A0703(01)",
+        "https://www.gov.vc/index.php/visitors/visa",
+        "https://www.dsi.gov.mo/en/visa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "DM",
+      "resolvedOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BO",
+        "BR",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CO",
+        "CU",
+        "CV",
+        "DJ",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "FM",
+        "GE",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "ID",
+        "IQ",
+        "IR",
+        "IS",
+        "JO",
+        "KG",
+        "KH",
+        "KM",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LR",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "NE",
+        "NI",
+        "NP",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PW",
+        "PY",
+        "QA",
+        "RS",
+        "RU",
+        "SA",
+        "SD",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TR",
+        "TW",
+        "UA",
+        "UY",
+        "UZ",
+        "VA",
+        "VN",
+        "YE",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "Live SRO 7/2015 recovered and read in full, with 2005/1993 predecessor material and archived 2015/2016 amendments. Current Tourism Authority confirms the Haiti and Dominican Republic visa exceptions and the general conditional 21-day visitor clause.",
+        "Three archived six-month exemptions (CH/IS/LI) and UY90 are historical-only; other additions have live evidence. MT/SR duration conflict is retained as d=0. Named AE and MO current longer exemptions prevail over the generic 21-day branch.",
+        "The 21-day branch is a useful conditional route, not a maximum-stay claim across every bilateral agreement. XK/PS document recognition remains unresolved. No foreign visa/residence assumed. A current tourism page has inconsistent two-week wording for US/CA/FR; it is not used to override existing stronger nationality evidence."
+      ],
+      "attemptedUrls": [
+        "https://dominica.gov.dm/laws-of-dominica/2026",
+        "https://www.mofa.gov.ae/en/travel-updates?code=DMA",
+        "https://web.archive.org/web/20220306133342id_/http://www.dominica.gov.dm/laws/2015/Aliens%20%28Visa%20Exemption%29%20%28Amendment%29%20Regulations,%202015.pdf",
+        "https://web.archive.org/web/20220306133413id_/http://www.dominica.gov.dm/laws/2015/Aliens%20%28Visa%20Exemption%29%20%28Amendment%29%20%28No.%202%29%20Regulations,%202015.pdf",
+        "https://web.archive.org/web/20220306133410id_/http://www.dominica.gov.dm/laws/2016/Aliens%20%28Visa%20Exemption%29%20%28Amendment%29%20Regulations,%202016.pdf",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Dominica",
+        "https://mirex.gob.do/?s=Dominica",
+        "https://news.gov.dm/component/search/?searchword=Haitian%20visa&searchphrase=all",
+        "https://news.gov.dm/news/visa-restrictions-imposed-on-haitian-nationals",
+        "https://www.dominica.gov.dm/laws/1993/sro10-1993.pdf",
+        "https://www.dominica.gov.dm/laws/2005/sro32-2005.pdf",
+        "https://www.dominica.gov.dm/laws/2015/Aliens%20(Visa%20Exemption)%20Regulations,%202015.pdf",
+        "https://www.dominica.gov.dm/laws/2015/Aliens%20(Visa%20Exemption)%20(Amendment)%20Regulations,%202015.pdf",
+        "https://www.dominica.gov.dm/laws/2015/Aliens%20(Visa%20Exemption)%20(Amendment)%20(No.%202)%20Regulations,%202015.pdf",
+        "https://www.dominica.gov.dm/laws/2016/Aliens%20(Visa%20Exemption)%20(Amendment)%20Regulations,%202016.pdf",
+        "https://web.archive.org/web/20220306133410/http://www.dominica.gov.dm/laws/2016/Aliens%20%28Visa%20Exemption%29%20%28Amendment%29%20Regulations,%202016.pdf",
+        "https://dominica.gov.dm/laws/2016/Aliens%20%28Visa%20Exemption%29%20%28Amendment%29%20Regulations%2C%202016.pdf",
+        "https://dominica.gov.dm/laws/2019",
+        "https://dominica.gov.dm/laws-of-dominica",
+        "https://dominica.gov.dm/laws/2016/",
+        "https://mid.ru/ru/foreign_policy/international_contracts/international_contracts/2_contract/53386/",
+        "https://dominica.gov.dm/services/passports-and-travel-documents-non-nationals/124-do-i-need-a-visa-to-enter-into-dominica",
+        "https://discoverdominica.com/travel-dominica-entry-requirements/",
+        "https://discoverdominica.com/",
+        "https://discoverdominica.com/en/travel-advisory",
+        "https://mfa.gov.ua/consul/forua/travel/visas",
+        "https://www.dsi.gov.mo/en/visa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "AO",
+      "resolvedOrigins": [
+        "AD",
+        "AF",
+        "AL",
+        "AM",
+        "AZ",
+        "BA",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "DJ",
+        "DM",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "GA",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GT",
+        "GW",
+        "HN",
+        "IQ",
+        "IR",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KM",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LK",
+        "LR",
+        "LY",
+        "MD",
+        "ME",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MV",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "OM",
+        "PE",
+        "PH",
+        "PK",
+        "PY",
+        "RS",
+        "SD",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TM",
+        "TN",
+        "UA",
+        "UG",
+        "UZ",
+        "VE",
+        "VN",
+        "YE",
+        "ZA",
+        "ZM"
+      ],
+      "remainingOrigins": [
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "Recovered statutory default in Law 13/19 Article 14; visual inspection confirms passport/visa conditions and cruise/day-visitor/treaty/residence exceptions. Decree 189/23 Articles 3, 4 and 6 inspected as actual gazette images.",
+        "SME explicitly supplies the five missing bilateral short-stay exemptions MZ/NA/ST/ZA/ZM. Default requirement is reconciled against both the decree annex and these exceptions; it is not inferred from annex omission alone. No treaty stay guessed.",
+        "Online pre-authorisation in decree is real, but old mandatory-consulate disclaimer conflicts with newer email issuance text. Generic requirements retain channel uncertainty. The new complete-list page is only a placeholder. MO has a current DSI eVisa listing plus a possible newer waiver-agreement lead whose commencement is unverified; PS/TW/XK recognition is not settled."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=AGO",
+        "https://www.consuladogeralangola-porto.pt/pt/vistos",
+        "https://www.sme.gov.ao/fotos/frontend_1/gov_documentos/dec_pres_56_18_20022018_1119715080679133f0808df.pdf",
+        "https://plataformacipra.gov.ao/public/ficheiros/arquivos/Gov_AngolaDecreto%20Presidencial880210230334451696257285.pdf",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Angola",
+        "https://evisa.ao/ao/perguntas-frequentes/",
+        "https://www.smevisa.gov.ao/",
+        "https://evisa.ao/ao/lista-completa-de-paises-isentos/",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/",
+        "https://www.sme.gov.ao/fotos/frontend_1/gov_documentos/nova-lei-sobre-o-regime-juridico-dos-cidadaos-estrangeiros-na-republica-de-angola-2019-1_3410837316791309bc6619.pdf",
+        "https://www.sme.gov.ao/ao/documentos/index.php?tipo=7",
+        "https://www.angola.org.uk/visas/",
+        "https://www.gov.mo/en/news/?s=Angola",
+        "https://www.gov.mo/en/?s=Angola+visa",
+        "https://www.kln.gov.my/web/zaf_pretoria/requirement_foreigner",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/angola",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/evisa-english-version/",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/vistos/",
+        "https://www.sme.gov.ao/",
+        "https://www.sme.gov.ao/ao/catalogo/actos/visto-de-turismo/",
+        "https://www.dsi.gov.mo/en/visa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "IN",
+      "resolvedOrigins": [
+        "AF",
+        "BD",
+        "CN",
+        "HK",
+        "MO"
+      ],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Fresh official default establishes five requirements without claiming tourist issuance is open: AF/BD remain explicitly issuance-uncertain, CN/HK/MO have current consular tourism instructions. Fees and visa exemption are separate.",
+        "Central visa portal timed out; no current universal e-Tourist category schedule recovered. Kosovo ordinary-document recognition remains unverified; Budapest generic services do not resolve it."
+      ],
+      "attemptedUrls": [
+        "https://eoi.gov.in/kabul/",
+        "https://kabul.indiainafghanistan.gov.in/",
+        "https://indianvisaonline.gov.in/visa/index.html",
+        "https://www.ivacbd.com/",
+        "https://hcidhaka.gov.in/pdf/Visa_Category_Wise_Documents_Required_13082026.pdf",
+        "https://www.hcidhaka.gov.in/",
+        "https://www.eoibeijing.gov.in/page/visa-categories/",
+        "https://www.eoibeijing.gov.in/page/miscellaneous-visa-info/",
+        "https://eoibeijing.isb.co.in/docs/1783405591notice_for_visa_applicants_25_05_2026.pdf",
+        "https://www.eoibeijing.gov.in/",
+        "https://www.eoibeijing.gov.in/page/visa-services/",
+        "https://www.eoibeijing.gov.in/visa-services.php",
+        "https://cgihk.gov.in/page/visa-information/",
+        "https://www.cgihk.gov.in/",
+        "https://cgihk.gov.in/page/tourist-visa-one/",
+        "https://cgihk.gov.in/page/tourist-visa-two/",
+        "https://cgihk.gov.in/page/tourist-visa/",
+        "https://www.cgihk.gov.in/page/visa-services/",
+        "https://www.indembassy-tokyo.gov.in/eoityo_pages/Nzk,",
+        "https://www.mha.gov.in/en/divisionofmha/foreigners-division/visa-policy-and-guidelines",
+        "https://www.eoibudapest.gov.in/page/visa-services/"
+      ]
+    },
+    {
+      "destination": "GN",
+      "resolvedOrigins": [
+        "MO"
+      ],
+      "remainingOrigins": [
+        "HK",
+        "PS",
+        "VC",
+        "ZM"
+      ],
+      "findings": [
+        "Macao DSI explicit visa/eVisa statement establishes requirement, while destination ACTIVE=0 retains electronic-channel uncertainty. The 90-day portal field is validity, not stay.",
+        "Fresh CountryHome.xml and portal inspected. HK/PS/VC/ZM remain inactive without a separately verified nationality rule or recognised application route. Neither inactive presence nor absence creates refusal or exemption."
+      ],
+      "attemptedUrls": [
+        "https://www.ambaguinee.org/consular-services/visa/",
+        "https://www.ambaguinee.org/",
+        "https://www.ambaguinee.org/index.php/visa/",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.dsi.gov.mo/download/visa_free_list_e.pdf",
+        "https://www.paf.gov.gn/visa",
+        "https://www.paf.gov.gn/visa/xml/lookup/CountryHome.xml",
+        "https://www.dsi.gov.mo/en/visa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "MK",
+      "resolvedOrigins": [
+        "HK",
+        "MO"
+      ],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "Fresh HKSAR country-matched schedule and Macao DSI ordinary-passport checker resolve HK/MO90, rather than treating either as China. Palestine remains absent/unresolved for specific accepted-document and issuance treatment."
+      ],
+      "attemptedUrls": [
+        "https://mfa.gov.mk/en-GB/konzularni-uslugi/dali-ti-e-potrebna-viza",
+        "https://www.immd.gov.hk/pdf/Visa-free%20Access%20or%20Visa-on-arrival%20for%20HKSAR%20passport%20list_Eng.pdf",
+        "https://mfa.gov.mk/en-GB/konzularni-uslugi/informacii-za-vlez-vo-republika-severna-makedonija",
+        "https://www.dsi.gov.mo/en/visa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "RU",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "UA"
+      ],
+      "findings": [
+        "Current September 2026 destination nationality table confirms Ukrainian visa waiver. Searched KDmid and current MFA/legal publication leads for special entry-port and age rules. The official 2723-r publication shell was inspected via webfetch, but operative PDF retrieval stalled/failed and present implementation was not settled; UA remains unresolved rather than unrestricted.",
+        "Kosovo is absent from nationality table; non-recognition is not automatically an entry ban. General MFA 90-days/calendar-year notice is not enough to establish an accepted XK ordinary document."
+      ],
+      "attemptedUrls": [
+        "https://latvia.mid.ru/ru/consular-services/consulate/entry_into_russia/",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Russia",
+        "https://estonia.mid.ru/ru/consular-services/",
+        "https://mid.ru/ru/foreign_policy/news/1989369/",
+        "https://www.kdmid.ru/search/?q=%D0%A8%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D1%82%D1%8C%D0%B5%D0%B2%D0%BE",
+        "https://actual.pravo.gov.ru/content/content.html#pnum=0001202310060030",
+        "https://www.kdmid.ru/search/?q=%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B",
+        "https://www.kdmid.ru/cons/visas/conditions-of-entry-foreign-citizens-in-russian-federation/",
+        "https://www.mid.ru/ru/foreign_policy/news/1908397/",
+        "https://government.ru/docs/49756/"
+      ]
+    },
+    {
+      "destination": "SB",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ME",
+        "MO"
+      ],
+      "findings": [
+        "Current July 2026 short-term delivery policy reaffirms electronic processing and repeal of concessional arrival visas. It gives universal procedure wording, not an accepted nationality decision for missing ME/MO. Macao DSI has no Solomon Islands row; no mapping to China or Serbia. Montenegro official-origin alternatives returned 404. Both remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.me/en/article/solomon-islands",
+        "https://www.gov.me/en/diplomatic-missions/foreign-missions-to-montenegro/solomon-islands",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro",
+        "https://www.dsi.gov.mo/documents/visa_free_list_c.pdf",
+        "https://immigration.gov.sb/wp-content/uploads/2026/07/Solomon-Islands-Immigration-Division-Delivery-Policy-Short-Term-Visa.pdf",
+        "https://www.dsi.gov.mo/en/visa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "LI",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Somali ordinary-passport non-recognition remains distinct from nationality-wide exclusion. Fresh Liechtenstein foreigner-law and Swiss document-resource attempts did not establish a usable ordinary-tourist substitute-document/LTV route applicable to Liechtenstein. Mission page returned 403 and was not bypassed."
+      ],
+      "attemptedUrls": [
+        "https://www.sem.admin.ch/dam/sem/en/data/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste1-e.pdf.download.pdf/bfm-anh01-liste1-e.pdf",
+        "https://www.gesetze.li/konso/2008315000",
+        "https://www.sem.admin.ch/sem/en/home/publiservice/weisungen-kreisschreiben/visa/liste1_staatsangehoerigkeit.html",
+        "https://www.eda.admin.ch/countries/kenya/en/home/visa/entry-ch/up-90-days/documents-schengen.html",
+        "https://www.llv.li/en/individuals/mobility-travel-and-abroad/entry-and-residence/entry-regulations-and-visa"
+      ]
+    },
+    {
+      "destination": "DO",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Fresh destination Ministry and Kosovo-origin Ministry searches/consular alternatives did not yield an ordinary-passport entry determination. Existing public MIREX checker has no Kosovo option. Diplomatic relations or a generic third-country visa concession do not independently prove ordinary-document acceptance."
+      ],
+      "attemptedUrls": [
+        "https://www.consuladord.com/visas/",
+        "https://mirex.gob.do/",
+        "https://mfa-ks.net/udheto/",
+        "https://mfa-ks.net/",
+        "https://mirex.gob.do/?s=Kosovo",
+        "https://mirex.gob.do/servicios/visas/"
+      ]
+    },
+    {
+      "destination": "SL",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Fresh Immigration/MFA/High Commission pages investigated. London application form includes Kosovo among generic country choices, but this is not eligibility; eVisa prior evidence identifies UNMIK resident document rather than an ordinary Kosovo passport. No fallback empty response or dropdown-based visa claim made."
+      ],
+      "attemptedUrls": [
+        "https://www.slhc-uk.org/how-to-apply-for-a-visa/",
+        "https://www.slhc-uk.org/visa/",
+        "https://slid.gov.sl/",
+        "https://slid.gov.sl/visa/",
+        "https://mfaic.gov.sl/?s=Kosovo",
+        "https://mfaic.gov.sl/"
+      ]
+    }
+  ],
+  "corrections": []
+}

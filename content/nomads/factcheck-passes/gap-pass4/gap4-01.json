@@ -1,0 +1,1220 @@
+{
+  "version": 1,
+  "batch": "gap4-01",
+  "baselineSha256": "4f998906b7a139661baf2a82d15de315463be057bd7eccf79c463f2448945055",
+  "sources": {
+    "gap4-01-kw-advance": {
+      "title": "Kuwait Embassy Tokyo: advance-visa requirement for non-eligible foreign nationals; MOI tourist eligibility results",
+      "urls": [
+        "https://www.kuwait-embassy.or.jp/visa_01.html",
+        "https://www.kuwait-embassy.or.jp/visa_04.html",
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "ea626909bb74a89cdf662cd85be479d3226c300a3e1eb0734099262858f8fa91"
+    },
+    "gap4-01-kw-taiwan": {
+      "title": "Taiwan BOCA: Kuwait entry visas and unpublished ordinary-tourism application method",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-46-a835f-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "9eebdac020ce0e0b0b4ae1eab135acb22da1d304456fb333d0e1e016d518f21a"
+    },
+    "gap4-01-kw-uae": {
+      "title": "UAE Ministry of Foreign Affairs: Emirati normal-passport Kuwait exemption",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=KWT"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "0df1e4cbd43e93e6fd7631f631a46ef8c95815de9743f9845980bc26411677ec"
+    },
+    "gap4-01-kw-qatar": {
+      "title": "Qatar Embassy Kuwait: Qatari regular-passport visa exemption",
+      "urls": [
+        "https://kuwait.embassy.qa/en"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "9b19c076e25f90b3f21962ee0a1a07c900459476e65ba92705473a5ca4c6b692"
+    },
+    "gap4-01-ye-uae": {
+      "title": "UAE Ministry of Foreign Affairs: Yemen normal-passport exemption and separate UAE travel prohibition",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=YEM"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "b7e63b5a700aeb0497492d02ed8377a9580224378131f0ed2f8273e94cd2ec2e"
+    },
+    "gap4-01-sz-macao": {
+      "title": "Eswatini London High Commission: expressly named Macao visa requirement",
+      "urls": [
+        "https://eswatinihighcommissionlondon.org.uk/wp-content/uploads/2025/11/VISA-REQUIRED-IMMIGRANTS-COUNTRIES.docx",
+        "https://eswatinihighcommissionlondon.org.uk/visa-services/",
+        "https://www.thekingdomofeswatini.com/visa-guide/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "34e71f8ee16012e370b1df7e46c90acbe79d5e692647f157670987b757c33751"
+    },
+    "gap4-01-sz-serbia": {
+      "title": "Serbia Ministry of Foreign Affairs: national-passport Eswatini exemption",
+      "urls": [
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/eswatini"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "548725bbf2101d7c416301327afaadad8540c4499bc098b874977d486be51dc8"
+    },
+    "gap4-01-sz-stkitts": {
+      "title": "Joint Eswatini and Saint Kitts and Nevis embassy announcement: operative mutual 90-day waiver",
+      "urls": [
+        "https://www.sknis.gov.kn/2020/12/03/governments-of-st-kitts-nevis-and-kingdom-of-eswatini-establish-mutual-visa-waiver-agreement/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "fbaa114bce3c63bd157f37fdf63b2ecda3486f345f033d90021bc6bab625e583"
+    },
+    "gap4-01-sz-uae": {
+      "title": "UAE Ministry of Foreign Affairs and Eswatini ministry scan: Emirati visa requirement",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=SWZ",
+        "https://www.dropbox.com/scl/fi/g1y9vtdf17zbhi3c9j228/Visa-Countries-Min-of-HA-2025.pdf?rlkey=2ljkp3x3pjkod2umc6rwtarxr&dl=1",
+        "https://www.thekingdomofeswatini.com/visa-guide/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "cdae608d27ce219dd2bf7fdcd8c22609d5086ce904cfb40aba4fbc92b0d4c10f"
+    },
+    "gap4-01-qa-tourist-list": {
+      "title": "Qatar Tourism: expressly named Hayya tourist-visa nationalities",
+      "urls": [
+        "https://visitqatar.com/intl-en/practical-info/visas"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6eaf029b152ef87a78c14a40209059294bfdf3429859751487d4be1b96f66c4b"
+    },
+    "gap4-01-kz-taiwan": {
+      "title": "Taiwan BOCA: Kazakhstan tourist eVisa with ministry-approved invitation",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-137-c6e20-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "4090fd0d7d2fc670ce575267edf9c11b98dd83917b1df80b1cac5baf776b2e15"
+    },
+    "gap4-01-na-taiwan": {
+      "title": "Taiwan BOCA: Namibia online Holiday Visa for Taiwan passport holders",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-179-934da-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "cd98541aabc9cfed4bc9aec4db4a4dde83c3d827846ca33f8385f27ee9e5c667"
+    },
+    "gap4-01-li-somalia": {
+      "title": "SEM visa and document guidance, read with the Schengen nationality law and CH/LI recognition matrix",
+      "urls": [
+        "https://www.sem.admin.ch/dam/sem/en/data/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste1-e.pdf.download.pdf/bfm-anh01-liste1-e.pdf",
+        "https://www.sem.admin.ch/sem/en/home/themen/einreise/faq.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "fc2c0b709b8a4591ef4343641cbf6be46d23239fe0a7747272a352813195de6f"
+    },
+    "gap4-01-ps-germany": {
+      "title": "German Foreign Office: German-passport West Bank permission, routing and population-register rules",
+      "urls": [
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/israelsicherheit-203814"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "3177d8036d1fea51cd23beb28340753e248885915c500d8bc47bdd2e2e451fd1"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "AL",
+        "DZ",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AZ",
+        "BS",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BF",
+        "BI",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CR",
+        "CI",
+        "CU",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GH",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "IN",
+        "ID",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "KG",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MG",
+        "MW",
+        "ML",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NI",
+        "NE",
+        "NG",
+        "MK",
+        "PW",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SO",
+        "ZA",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UY",
+        "UZ",
+        "VU",
+        "VE",
+        "VN",
+        "ZM",
+        "ZW"
+      ],
+      "destinations": [
+        "KW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-01-kw-advance",
+      "n": "For ordinary short tourism without assumed foreign visa or residence status, Kuwait’s embassy states that foreign nationals unable to use eVisa or arrival issuance must obtain a visa before travel through a local sponsor; a hotel is an expressly mentioned tourism sponsor. The MOI tourist checker returned no arrival/online/eVisa eligibility for this no-foreign-status profile. This establishes the visa requirement, not guaranteed sponsor acceptance, visa issuance or admission. Current practical issuance channel and stay remain unconfirmed; electronic processing through another eligible product is not ruled out.",
+      "label": "Advance visa required; issuance availability unconfirmed"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "KW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-01-kw-taiwan",
+      "n": "Taiwan BOCA describes a required entry visa but states that Kuwait has not published an ordinary-tourism application method for Taiwan nationals. A four-star-or-higher hotel may arrange a short-visit visa; its described 30-day stay is not assigned to an unconfirmed tourism product. Issuance, electronic eligibility and admission remain subject to Kuwaiti authority approval.",
+      "label": "Entry visa required; tourist application method unconfirmed"
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "KW"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-01-kw-uae",
+      "n": "UAE normal passports are visa-exempt. The original valid passport or original Emirates ID must be presented; a mobile digital ID is not sufficient. No tourist stay duration is stated."
+    },
+    {
+      "passports": [
+        "QA"
+      ],
+      "destinations": [
+        "KW"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-01-kw-qatar",
+      "n": "Qatari regular passports are visa-exempt. This does not extend to sponsored companions holding other nationalities; the embassy gives separate prior-visa rules for them. Stay duration is not stated."
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "YE"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-01-ye-uae",
+      "n": "The UAE foreign ministry lists its normal passport as visa-free for Yemen, while separately prohibiting UAE nationals from travelling there. The origin-country prohibition remains applicable and is not a Yemeni nationality-wide entry ban. This visa classification does not establish an open tourist route, permission for any particular Yemeni territory or crossing, or a stay duration.",
+      "label": "Visa exemption listed; UAE travel prohibition applies"
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "SZ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-01-sz-macao",
+      "n": "The currently linked Eswatini High Commission nationality schedule explicitly marks Macao as visa-required; its holiday-visit instructions describe advance application. This is the Macao SAR passport rule, not a mainland-China substitution. Stay and eligibility for electronic issuance are not established."
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "SZ"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-01-sz-serbia",
+      "n": "Serbia’s foreign ministry expressly confirms visa-free entry for national passports. Passport validity of six months from planned entry and two blank pages are stated. Ordinary-passport stay is unspecified; the separate diplomatic/official 90-in-180 rule is not applied."
+    },
+    {
+      "passports": [
+        "KN"
+      ],
+      "destinations": [
+        "SZ"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-01-sz-stkitts",
+      "n": "The joint embassy announcement establishes the mutual waiver for valid passports, effective 24 December 2020, for stays not exceeding 90 days. Work and study are excluded. The older London schedule predates this agreement."
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "SZ"
+      ],
+      "t": "vr",
+      "d": 30,
+      "s": "gap4-01-sz-uae",
+      "n": "UAE normal-passport visitors require a visa. Current UAE guidance identifies application through the Eswatini Embassy in Abu Dhabi and a 30-day stay per entry, consistent with the ministry schedule’s required marking. Multi-entry validity periods of three to twelve months are not stays. Electronic issuance eligibility is not established."
+    },
+    {
+      "passports": [
+        "CV",
+        "KI",
+        "MH",
+        "FM",
+        "NR"
+      ],
+      "destinations": [
+        "QA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap4-01-qa-tourist-list",
+      "n": "Qatar Tourism explicitly names this nationality in its Tourist Visas list and directs tourist-visa applications to Hayya. This records the documented electronic tourist-visa route, subject to approval; no foreign residence or supporting visa is assumed. The independent page wizard omits this nationality, so a wizard result and any arrival alternative are not asserted. No stay duration is established.",
+      "label": "Hayya tourist eVisa route"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "KZ"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap4-01-kz-taiwan",
+      "n": "Taiwan ordinary-passport tourists may obtain an eVisa after securing an invitation bearing a Kazakhstan Interior Ministry migration approval number. Print the eVisa and enter through Almaty or Astana international airport. An unapproved invitation is insufficient. BOCA also describes consular tourist applications; its event-specific pre-cleared arrival procedure is not presented as a general tourist option."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "NA"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap4-01-na-taiwan",
+      "n": "Taiwan passport holders may apply for Namibia’s online Holiday Visa. After approval and payment, the electronic result is emailed. Stay and extension are finally determined by border immigration and may differ from the online approval; no fixed stay is assigned. Availability has been reported since 22 September 2023, not newly introduced in this audit."
+    },
+    {
+      "passports": [
+        "SO"
+      ],
+      "destinations": [
+        "LI"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-01-li-somalia",
+      "n": "Somali nationals remain subject to the Schengen visa requirement, but the published CH/LI document-recognition matrix does not recognise the ordinary Somali passport. A visa alone does not establish that this document is acceptable. Any substitute-document or limited-territorial authorization, its practical availability for tourism and the permitted transit itinerary must be separately established with the competent authorities. No routine issuance, recognised ordinary-passport pathway or nationality-wide entry prohibition is asserted.",
+      "label": "Visa required; ordinary passport not recognised",
+      "evidence": [
+        "europe-schengen-common"
+      ]
+    },
+    {
+      "passports": [
+        "DE"
+      ],
+      "destinations": [
+        "PS"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-01-ps-germany",
+      "n": "German ordinary passports only; permission is territory- and route-dependent. Germany’s Foreign Office identifies CoGAT as the competent authority: a journey exclusively to the West Bank generally needs prior CoGAT permission and entry via Jordan at Allenby, rather than Ben Gurion. That procedure expressly excludes an Israel stay combined with a short West Bank visit; Israeli admission and its entry card do not grant Gaza access. For the Israel-routing branch, the German visa waiver applies to persons born after 1 January 1928 and ETA-IL is required; prior deportation, overstay or refusal requires case review and a visa. German nationals also holding LB/SY/IQ/IR nationality or born there need separate advance permission. German holders of Palestinian IDs generally need a Palestinian passport, use Allenby, and need a separate permit for Israel/Jerusalem; German Gaza-origin Palestinian-ID holders cannot enter Israel or the West Bank under the cited guidance. Gaza access and currently closed Rafah routing remain separately unresolved. No country-wide tourist permission, common stay or waiver is asserted.",
+      "label": "Territory- and route-dependent permission"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "PS",
+      "resolvedOrigins": [
+        "DE"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AU",
+        "AT",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BE",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BG",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CN",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CU",
+        "CY",
+        "CZ",
+        "DK",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "EE",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "FR",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IE",
+        "IL",
+        "IT",
+        "JM",
+        "JP",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NL",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "RS",
+        "SC",
+        "SL",
+        "SG",
+        "SK",
+        "SI",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "ES",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "SY",
+        "TW",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TR",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "AE",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "One German-passport conditional requirement is supported by explicit origin-government statements naming CoGAT and distinguishing West-Bank-only travel, incidental West Bank visits, Gaza and Palestinian population-register documents. No Israeli rule is extrapolated to other passports.",
+        "The other 195 origins remain unresolved for the applicable nationality/document/territory/route branch. Australian advice adds genuine border and entry-card facts but does not establish its complete permission branches. COGAT direct policy returned 403; IAA redirected to a temporary notice. Gaza closure is not a nationality-wide ban."
+      ],
+      "attemptedUrls": [
+        "https://www.smartraveller.gov.au/destinations/middle-east/palestine",
+        "https://www.gov.il/en/departments/policies/judeaentry2022",
+        "https://embassies.gov.il/berlin/en/announcements/procedure-entry-and-residence-foreigners-judea-and-samaria-area",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/israelsicherheit-203814",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/israel/conseils-aux-voyageurs-entree-sejour",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/israel-territoires-palestiniens/conseils-aux-voyageurs/",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/israel-territoires-palestiniens/",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/israel-palestine/",
+        "https://www.iaa.gov.il/en/land-border-crossings/alenbi/about/",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/",
+        "https://www.safetravel.govt.nz/destinations/israel-and-the-occupied-palestinian-territory",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/IsraeltheWestBankandGaza.html"
+      ]
+    },
+    {
+      "destination": "KW",
+      "resolvedOrigins": [
+        "AL",
+        "DZ",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AZ",
+        "BS",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BF",
+        "BI",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CR",
+        "CI",
+        "CU",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GH",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "IN",
+        "ID",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "KG",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MG",
+        "MW",
+        "ML",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NI",
+        "NE",
+        "NG",
+        "MK",
+        "PW",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "QA",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SO",
+        "ZA",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TW",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "AE",
+        "UY",
+        "UZ",
+        "VU",
+        "VE",
+        "VN",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "BH",
+        "CG",
+        "CD",
+        "EG",
+        "IR",
+        "IQ",
+        "IL",
+        "XK",
+        "MO",
+        "MV",
+        "KP",
+        "OM",
+        "PK",
+        "PS",
+        "SA",
+        "SB",
+        "SS",
+        "UG",
+        "YE"
+      ],
+      "findings": [
+        "121 exact preserved no-foreign-status MOI tourist-checker negatives are paired with the newly inspected Kuwait Embassy Tokyo explicit prior-visa requirement for foreign nationals unable to use eVisa/arrival issuance. A negative method response alone is not the requirement evidence. Tokyo explicitly includes hotel sponsorship for tourism; no Japanese residence is assumed from its separate long-term visa section.",
+        "Added Taiwan requirement with unpublished ordinary-tourism method, UAE normal-passport waiver, and Qatari regular-passport waiver. No inferred universal eVisa unavailability, sponsor approval or stay.",
+        "AF/IL have exclusion-sensitive cases without conclusive current requirement/document evidence. MO/PS/XK have negative method responses but no sufficiently established ordinary-document requirement/recognition branch. BH/OM/SA exemption not retrieved. CG/CD/EG/IR/IQ/KP/PK/SB/SS/UG/YE lack valid matched negative results in the preserved data; MV timed out. No invalid code or missing lookup is treated as a decision."
+      ],
+      "attemptedUrls": [
+        "https://www.kuwaitairport.gov.kw/en/traveller-info/arrivals-procedures/passport-control/",
+        "https://www.kuwaitairport.gov.kw/en/traveller-info/arrivals-procedures/visa-services/",
+        "https://www.kuwaitairport.gov.kw/en/traveller-info/arrivals-procedures/",
+        "https://www.mofa.gov.bh/en/travel-advice",
+        "https://www.kuwaitembassy.us/page/visas",
+        "https://www.indembkwt.gov.in/kuwait-visa.php",
+        "https://www.kuwait-embassy.or.jp/visa_04.html",
+        "https://www.kuwait-embassy.or.jp/",
+        "https://www.kuwait-embassy.or.jp/visa_01.html",
+        "https://www.kuwait-embassy.or.jp/en/visa.html",
+        "https://overseas.mofa.go.kr/kw-ko/brd/m_11662/list.do",
+        "https://www.kuna.net.kw/ArticleDetails.aspx?id=3204978&language=en",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Kuwait",
+        "https://www.kuwaitembassy.org.uk/visas/",
+        "https://www.kln.gov.my/web/kwt_kuwait/requirement_malaysians",
+        "https://www.fm.gov.om/visitors/entry-visas/",
+        "https://kuwait.embassy.qa/en/kuwait/visa-requirements",
+        "https://kuwait.embassy.qa/en",
+        "https://kuwait.embassy.qa/en/kuwait/info",
+        "https://kuwait.embassy.qa/en/kuwait/tourism",
+        "https://kuwait.thaiembassy.org/en/page/visas-to-kuwait",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-46-a835f-02-1.html",
+        "https://www.mofa.gov.ae/en/travel-updates?code=KWT",
+        "https://www.mofa.gov.ae/en/missions/kuwait/visas",
+        "https://www.yemenembassy.org/consular/visas"
+      ]
+    },
+    {
+      "destination": "YE",
+      "resolvedOrigins": [
+        "AE"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AZ",
+        "BS",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "CU",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IL",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KG",
+        "LA",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "ST",
+        "SN",
+        "SL",
+        "SB",
+        "SO",
+        "ZA",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "UY",
+        "UZ",
+        "VU",
+        "VE",
+        "VN",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Recovered actual Arabic Law 47/1991 from the NIC legal database via its public search. Article 3 is a visa default, but Articles 4, 7 and 38 expressly preserve ministerial and treaty exemptions; these are not reconciled for the remaining 143 origins. The initially guessed 11712 document was a central-bank law and is rejected.",
+        "Added only UAE origin-government normal-passport exemption with the separate UAE travel prohibition explicitly retained. No territorial/crossing travel permission is inferred.",
+        "Current Washington mission tourist non-issuance and US-residence-scoped procedure, London form, Russian mission page and previous Aden agency workflow do not settle all remaining nationalities or Socotra/mainland territorial implementation. HKSAR origin/destination contradiction remains; IL/XK/PS/MO require document-specific handling."
+      ],
+      "attemptedUrls": [
+        "https://www.yemenembassy.org/",
+        "https://www.yemenembassy.org/consuloraffairs/visa-services/",
+        "https://botschaft-jemen.de/visum/",
+        "https://www.eoisanaa.gov.in/page/visa-services/",
+        "https://www.ipna.gov.ye/",
+        "https://www.mfa.gov.jo/EN/ListDetails/Countries/58/70",
+        "https://www.yemen-nic.info/db/laws_ye/detail.php?ID=11321",
+        "https://www.yemen-nic.info/db/laws_ye/",
+        "https://www.yemen-nic.info/db/laws_ye/index.php?arrFilter_pf%5Blaw_name%5D=%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8&set_filter=Y",
+        "https://www.yemen-nic.info/db/laws_ye/detail.php?ID=11712",
+        "https://yemenembassy.co.uk/wp-content/uploads/2026/09/Visa-Application-Form.pdf",
+        "https://yemenembassy.co.uk/",
+        "https://yemenembassy.co.uk/visa-information/",
+        "https://www.kln.gov.my/web/yem_sana_a/requirement_malaysians",
+        "https://riyadhpe.dfa.gov.ph/consular-services/travel-advisories/1394-travel-to-yemen",
+        "https://yemen.mid.ru/ru/consular-services/",
+        "https://www.mofa.gov.ae/en/travel-updates?code=YEM"
+      ]
+    },
+    {
+      "destination": "SZ",
+      "resolvedOrigins": [
+        "MO",
+        "KN",
+        "RS",
+        "AE"
+      ],
+      "remainingOrigins": [
+        "AO",
+        "AZ",
+        "BF",
+        "CN",
+        "XK",
+        "KW",
+        "LV",
+        "MG",
+        "MV",
+        "ME",
+        "QA",
+        "TR",
+        "IS"
+      ],
+      "findings": [
+        "Actual ministry PDF retrieved, hash-equal to prior inspected four-page scan; all four pages visually re-read. Iceland explicitly Y, while Brussels and Kuala Lumpur expressly exempt Iceland. Newly recovered London DOCX also says Y but its internal dates are 31 January 2018 despite a November 2025 upload path. The PDF creation timestamp is 1 October 2025, not proof of legal commencement. No controlling amendment settles the conflict: IS remains unresolved.",
+        "Resolved MO from an explicitly named current mission-linked requirement, RS from Serbian national-passport advice, KN from the joint embassies’ explicit 24 December 2020 commencement/90-day terms (later than the 2018 list), and AE from dated August 2026 UAE guidance matching the ministry required row.",
+        "AO/AZ/BF/CN retain direct schedule contradictions; CN has both China N and Peoples Republic of China Y and is not disambiguated by guessing. KW/LV/MG/MV/QA have positive London/tourism exemptions against the Kuala Lumpur explicit default; no documented supersession. TR waiver-versus-Turkish-government-arrival-visa wording, ME obsolete joint-country naming and XK accepted document remain unresolved. IS is already an assigned baseline gap, so no supported-baseline withdrawal is required."
+      ],
+      "attemptedUrls": [
+        "https://www.eswatini-embassy.eu/",
+        "https://www.eswatini-embassy.eu/immigration/",
+        "https://www.eswatini-embassy.eu/consular-services/visa/",
+        "https://www.thekingdomofeswatini.com/visa-guide/",
+        "https://www.government.is/diplomatic-missions/embassy-of-iceland-in-london/visit-eswatini/",
+        "https://eswatinikualalumpur.org/visa-information/",
+        "https://www.sknis.gov.kn/2020/12/03/governments-of-st-kitts-nevis-and-kingdom-of-eswatini-establish-mutual-visa-waiver-agreement/",
+        "https://www.sknis.gov.kn/?s=Eswatini+visa",
+        "https://www.mfa.gov.lv/en/eswatini",
+        "https://www.eswatinilii.org/akn/sz/act/1982/17/eng@1998-12-01",
+        "https://eswatinihighcommissionlondon.org.uk/",
+        "https://eswatinihighcommissionlondon.org.uk/wp-content/uploads/2025/11/VISA-REQUIRED-IMMIGRANTS-COUNTRIES.docx",
+        "https://eswatinihighcommissionlondon.org.uk/visa-services/",
+        "https://eswatinihighcommissionlondon.org.uk/visas/",
+        "https://www.mfa.gov.lv/lv/esvatini-celojumu-bridinajumi",
+        "https://www.dropbox.com/scl/fi/g1y9vtdf17zbhi3c9j228/Visa-Countries-Min-of-HA-2025.pdf?rlkey=2ljkp3x3pjkod2umc6rwtarxr&dl=1",
+        "https://www.gov.sz/index.php?option=com_content&view=article&id=314&Itemid=439",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/eswatini",
+        "https://www.mofa.gov.ae/en/travel-updates?code=SWZ",
+        "https://www.mofa.gov.ae/en/travel-advice/eswatini"
+      ]
+    },
+    {
+      "destination": "QA",
+      "resolvedOrigins": [
+        "CV",
+        "KI",
+        "MH",
+        "FM",
+        "NR"
+      ],
+      "remainingOrigins": [
+        "IL",
+        "XK"
+      ],
+      "findings": [
+        "Five expressly named nationalities in the substantive Tourist Visas list support a Hayya electronic tourism route. This is not a nationality-dropdown inference, a universal mandatory-visa claim, or an invented stay. The wizard itself omits all seven assigned origins and supplies no usable result for them.",
+        "IL/XK are absent from both the useful named tourist list and the wizard. Generic all-countries marketing does not settle their accepted ordinary documents or tourist issuance. Both remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://london.embassy.qa/en/services/visas",
+        "https://visitqatar.com/intl-en/practical-info/visas"
+      ]
+    },
+    {
+      "destination": "DJ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "IL",
+        "XK",
+        "PS",
+        "SG"
+      ],
+      "findings": [
+        "All five origins remain unresolved. HKSAR schedule still uses combined visa-free/arrival wording without settling its 14-day method; Singapore MFA supplies passport-validity advice but no visa classification. IL/XK/PS ordinary-document rules not established.",
+        "Additional mission attempts did not supply governing nationality rules. djiboutiembassy.org redirects to private VisaHQ and is explicitly rejected as primary evidence; no private service list or failed press-release URL is used."
+      ],
+      "attemptedUrls": [
+        "https://www.djiboutiembassy.org/consular-services/visa/",
+        "https://www.info.gov.hk/gia/general/201709/28/P2017092800454.htm",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://ambdjibouti.fr/visas/",
+        "https://www.mfa.gov.sg/countries-regions/d/djibouti/travel-page"
+      ]
+    },
+    {
+      "destination": "KZ",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "Taiwan BOCA explicitly establishes tourist eVisa, ministry-approved invitation number, Almaty/Astana airport scope and 30-day stay. Event-only arrival visas are not general tourism alternatives.",
+        "PS/XK remain unresolved: no current ordinary-document authority decision obtained; Ramallah ministry path timed out and legacy MFA failed hostname validation. No inference from omitted nationalities or diplomatic recognition."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.kz/memleket/entities/mfa-ramallah/activities/6636?lang=en",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-137-c6e20-02-1.html",
+        "https://mfa.gov.kz/en/content-view/vizovyj-rezhim-rk-s-inostrannymi-gosudarstvami"
+      ]
+    },
+    {
+      "destination": "NA",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "Taiwan BOCA expressly confirms online Holiday Visa for its passport holders and officer-final stay, resolving TW without a guessed number of days.",
+        "Current Berlin mission entry/visa pages supply general processing and named arrival lists but no PS/XK ordinary-document decision. Both remain unresolved; Taiwan evidence is not broadened."
+      ],
+      "attemptedUrls": [
+        "https://namibia-botschaft.de/visa/",
+        "https://www.namibia-botschaft.de/visa-application/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-179-934da-02-1.html",
+        "https://www.namibia-botschaft.de/application-for-visa/"
+      ]
+    },
+    {
+      "destination": "PH",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ME",
+        "SS"
+      ],
+      "findings": [
+        "Both ME and SS remain unresolved. Recovered Washington embassy’s actual publicly linked Google-sheet checker and inspected its consumer JavaScript: 199 rows, neither Montenegro nor South Sudan present. No matching countries found is not a visa decision; Sudan and Serbia cannot be substituted.",
+        "The sheet still says Taiwan visa required despite the more specific baseline MECO waiver, further preventing an assumption of a complete current exception schedule. The general visa-default sentence does not cure the missing current national treatment. Montenegro’s page is the opposite direction; Philippine mission/gazette alternatives were access-blocked."
+      ],
+      "attemptedUrls": [
+        "https://budapestpe.dfa.gov.ph/consular-services/visa",
+        "https://docs.google.com/spreadsheets/d/1cR1mR7Vgnj71A3QmgIiEXCEpP6hlClqC0WjJpc2kPVk/gviz/tq?tqx=out:json",
+        "https://www.philippine-embassy.ie/visas/",
+        "https://www.officialgazette.gov.ph/1960/11/09/executive-order-no-408-s-1960/",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/philippines",
+        "https://nairobipe.dfa.gov.ph/consular-services/visa-services",
+        "https://www.philippineconsulatela.org/consular-services-2/visa/visa-requirements-for-foreign-travelers-to-the-philippines",
+        "https://consular.dfa.gov.ph/services/visa/visa-general-info",
+        "https://philippineembassy-dc.org/visa/"
+      ]
+    },
+    {
+      "destination": "LI",
+      "resolvedOrigins": [
+        "SO"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "SO is resolved only at the visa-duty/document-restriction level under the renewed protocol. Regulation 2018/1806 Article 3 and Annex I Somalia, Liechtenstein recital 37, current SEM guidance and the preserved CH/LI recognition matrix agree on requirement plus ordinary-passport non-recognition.",
+        "Practical tourism issuance, substitute-document/LTV authority and transit remain blockers, explicitly inside the rule. No new Somali passport recognition or routine visa/admission entitlement is claimed. The existing common-source check date remains 2026-10-07."
+      ],
+      "attemptedUrls": [
+        "https://www.llv.li/en/individuals/leisure-travel-and-mobility/entry-and-residence/entry-into-liechtenstein",
+        "https://www.sem.admin.ch/dam/sem/en/data/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste1-e.pdf.download.pdf/bfm-anh01-liste1-e.pdf",
+        "https://www.sem.admin.ch/sem/en/home/themen/einreise/faq.html",
+        "https://tourismus.li/en/plan-your-trip/arrival-and-mobility/entry-and-customs-regulations/"
+      ]
+    },
+    {
+      "destination": "KG",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains unresolved. Actual current public eligibility page describes its country-based mechanism but has no Kosovo option; a missing code cannot be queried as a genuine decision. General tourist TS category/validity and generic recognized-passport requirements do not establish Kosovo ordinary-document handling. The London mission alternative returned 502."
+      ],
+      "attemptedUrls": [
+        "https://mfa.gov.kg/en/dm/kyrgyz-embassy-in-the-uk/Menu---Foreign-/Consular-issues/Visas",
+        "https://www.evisa.e-gov.kg/get_information.php?lng=en"
+      ]
+    },
+    {
+      "destination": "NP",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains unresolved. Discovered newly organized official immigration pages via current root navigation: visa-information, visa-exemption and eta-visa-nepal. They describe current electronic/arrival/mission procedures and diplomatic waivers, but no specific Kosovo ordinary-document decision.",
+        "New generic eVisa availability is not passport recognition. No application, account or CAPTCHA flow was opened. Old /en/page/tourist-visa is 404; mission alternative 404 and MFA locator failed DNS."
+      ],
+      "attemptedUrls": [
+        "https://immigration.gov.np/eta-visa-nepal",
+        "https://immigration.gov.np/visa-exemption",
+        "https://mfa.gov.np/pages/visa-11/",
+        "https://immigration.gov.np/",
+        "https://immigration.gov.np/visa-information",
+        "https://www.immigration.gov.np/en/page/tourist-visa",
+        "https://dk.nepalembassy.gov.np/visa/"
+      ]
+    }
+  ],
+  "corrections": []
+}

@@ -1,0 +1,1225 @@
+{
+  "version": 1,
+  "batch": "gap4-02",
+  "baselineSha256": "4f998906b7a139661baf2a82d15de315463be057bd7eccf79c463f2448945055",
+  "sources": {
+    "gap4-02-tr-outbound": {
+      "title": "Türkiye MFA: ordinary Turkish passport requirements for CAR, Ecuador and Trinidad and Tobago",
+      "urls": [
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f4512ee0b60510bd53723758cfe0fd78c3384eaf4c881a802e5c5cc6ee6b3f03"
+    },
+    "gap4-02-ec-law-reused": {
+      "title": "Ecuador Human Mobility Law, June 2024 compilation: Article 56; original prior-pass receipt retained",
+      "urls": [
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2025/04/ley_orgAnica_de_movilidad_humana_19_de_junio_2024.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "517510807510f5c1f39ab3f85f144b01b19daac79fff27264abdd337965974e2"
+    },
+    "gap4-02-cf-italy": {
+      "title": "Italian MFA: CAR visa requirement and competent Paris embassy",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/CAF.pdf",
+        "https://paris.diplomatie.gouv.cf/",
+        "https://paris.diplomatie.gouv.cf/services/24/visa-court-sejour"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "42f0062992b2daa55a5bbe4d216423840c584c117ef42da42a8c5da44eabab79"
+    },
+    "gap4-02-ec-entry-conditions": {
+      "title": "Ecuador tourism authority: entry documents and land-border alternatives under the 27 May 2024 agreement",
+      "urls": [
+        "https://ecuador.travel/en/travel-safe/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "330b342b74d9503966d6e8c4416db5f20b8ae5aac81c01a2046288f787055f46"
+    },
+    "gap4-02-ec-japan": {
+      "title": "Japanese Embassy Quito: Japanese tourist exemption; live page headed 12 June 2023",
+      "urls": [
+        "https://www.ec.emb-japan.go.jp/itpr_ja/11_000001_00025.html"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-02-ec-australia": {
+      "title": "Australian DFAT: Ecuador tourist visa exemption and extension conditions",
+      "urls": [
+        "https://www.smartraveller.gov.au/destinations/americas/ecuador"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-02-ec-germany": {
+      "title": "German Foreign Office: Ecuador 90-day exemption in the year from first entry",
+      "urls": [
+        "https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit-223232"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f57813c1eb978e353f2cd8650e41c347590f75fe3cd80d6cc6095366ccab9df4"
+    },
+    "gap4-02-ec-italy": {
+      "title": "Italian MFA: Ecuador tourist exemption and first-entry-year allowance",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/ECU.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e27d0b2a24b102168f43d359da8a81dc1726b53589cf76be8fccf760c5caa493"
+    },
+    "gap4-02-ec-portugal": {
+      "title": "Portuguese Foreign Ministry: Ecuador tourist exemption for Portuguese nationals",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/e/equador"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "bc926b4b07ae4a6ef50c397ef34cf4915fde2b806cafa8b1ff5686ba3307346a"
+    },
+    "gap4-02-ec-austria": {
+      "title": "Austrian Foreign Ministry: Ecuador ordinary-passport exemption and stamp conditions",
+      "urls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/ecuador"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f9c3c270093be801ac9bb19dbaa8da89a33522d5402e67b8d0bd39dae3f78e23"
+    },
+    "gap4-02-tt-japan": {
+      "title": "Japan MOFA: Trinidad confirms Japanese exemption despite omission from its published list",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_253.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "3b1bb965c7d5fe5ae7a21f35e5f2b4b3a413eaa69186c9457d7a8c354dd4f421"
+    },
+    "gap4-02-tt-austria": {
+      "title": "Austrian Foreign Ministry: Trinidad and Tobago tourist exemption",
+      "urls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/trinidad-und-tobago"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "5c445c9faf02d734932ae8df0a7cd00c7732778408cd2d059b174bb9fa67aa8d"
+    },
+    "gap4-02-tt-italy": {
+      "title": "Italian MFA: Trinidad and Tobago exemption for visits shorter than 90 days",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/TTO.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "26f43e04b77013ee5e0eaf5883b1c5d51ed125e0f54191c18164279cac908f50"
+    },
+    "gap4-02-tt-australia": {
+      "title": "Australian DFAT: Trinidad and Tobago eVisa and discretionary paid airport waiver",
+      "urls": [
+        "https://www.smartraveller.gov.au/destinations/americas/trinidad-and-tobago",
+        "https://evisa.ttservices.online/tt-evisa-entitlement-online-ui/resources/docs/FAQ.pdf",
+        "https://laws.gov.tt/ttdll-web/revision/download/123456?type=amendment"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-02-tt-compulsory": {
+      "title": "Trinidad Immigration Regulation 13(11), Second Schedule, 2019 Venezuelan amendment and current amendment register",
+      "urls": [
+        "https://laws.gov.tt/ttdll-web/revision/download/105942?type=act",
+        "https://laws.gov.tt/ttdll-web/revision/list?offset=0&q=immigration&currentid=306",
+        "https://laws.gov.tt/ttdll-web/revision/download/108134?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/118773?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/123246?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/110590?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/112875?type=amendment",
+        "https://evisa.ttservices.online/tt-evisa-entitlement-online-ui/resources/docs/FAQ.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "7d6a77089e0f5fa0fde9bc78b2fa961f44b2dc3c697cf57b15893416f8b37061"
+    },
+    "gap4-02-so-taiwan-requirement": {
+      "title": "Taiwan BOCA: explicit advance Somalia visa obligation, with current issuance unresolved",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-198-2e75a-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f4016c89ed3bc267f1ff795b78996591deac8d185631ea0f3b44a21118f3380f"
+    },
+    "gap4-02-ve-taiwan-restriction": {
+      "title": "Venezuela explicit tourist-visa default and Taiwan BOCA warning that tourist visas are generally not issued",
+      "urls": [
+        "https://madrid.consulado.gob.ve/turismo/",
+        "https://www.mppre.gob.ve/index.php/detalle_turismo/2",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-205-20209-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "8b064d085eedb06aed5a00e0c374021b289963e3fb9b38310434ba158049f22a"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "TR"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-02-tr-outbound",
+      "n": "The Turkish MFA explicitly requires a visa for ordinary Turkish passports. Permitted stay and electronic or arrival issuance eligibility are not established; this does not mean an eVisa is unavailable."
+    },
+    {
+      "passports": [
+        "TR"
+      ],
+      "destinations": [
+        "TT"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap4-02-tr-outbound",
+      "n": "Ordinary Turkish passports: visa-free visits up to 30 days according to the Turkish MFA. This origin-specific period is not generalized to other passports."
+    },
+    {
+      "passports": [
+        "TR"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-02-tr-outbound",
+      "n": "Tourist visa exemption for ordinary Turkish passports is explicit. Türkiye describes 90 days in each 180 days; Ecuador Law Article 56 instead gives a general 90-day allowance in the year from first entry, subject to specific international agreements. The applicable Turkish treaty or period reconciliation was not established, so no numeric stay is asserted.",
+      "evidence": [
+        "gap4-02-ec-law-reused"
+      ]
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-02-cf-italy",
+      "n": "Italian ordinary tourists require a visa. Italy identifies the CAR Embassy in Paris; its short-stay service requires the printed form, original passport, photos and supporting documents to be sent to the embassy. Its online form is not electronic visa issuance. Stay and other issuance methods remain unspecified."
+    },
+    {
+      "passports": [
+        "JP"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-ec-japan",
+      "n": "Japanese tourists may enter without a visa for up to 90 days; passport must have six months remaining on entry. The embassy page is headed 12 June 2023, not a new 2026 enactment, and does not define an annual or rolling reset. It requires an apostilled Spanish translation of a five-year criminal-record certificate for land entry from Peru or Colombia. The tourism authority additionally describes a requested SIMIEC check as an alternative; operational availability is not guaranteed.",
+      "evidence": [
+        "gap4-02-ec-entry-conditions"
+      ]
+    },
+    {
+      "passports": [
+        "AU"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-ec-australia",
+      "n": "Australian tourists may stay visa-free up to 90 days. A further 90 days requires a paid extension requested before expiry and is not an automatic initial stay. For land entry from Peru or Colombia, the tourism authority describes an apostilled five-year criminal-record certificate or a requested SIMIEC check; availability of a border check is not guaranteed. Galapagos has separate transit-card and insurance requirements.",
+      "evidence": [
+        "gap4-02-ec-entry-conditions"
+      ]
+    },
+    {
+      "passports": [
+        "DE"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-ec-germany",
+      "n": "German tourists: up to 90 visa-free days in the year counted from the first entry, not the calendar year or a fresh allowance on each entry. An extension requires a separate application. Passport must remain valid six months on entry. For land entry from Peru or Colombia, the tourism authority describes an apostilled five-year criminal-record certificate or a requested SIMIEC check; availability of a border check is not guaranteed. Galapagos has separate transit-card and insurance requirements.",
+      "evidence": [
+        "gap4-02-ec-entry-conditions"
+      ]
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-ec-italy",
+      "n": "Italian tourists: up to 90 days in the year counted from first entry, not the calendar year or a per-visit reset. Passport valid at least six months on entry; obtain the immigration entry stamp. For land entry from Peru or Colombia, the tourism authority describes an apostilled five-year criminal-record certificate or a requested SIMIEC check; availability of a border check is not guaranteed. Galapagos has separate transit-card and insurance requirements.",
+      "evidence": [
+        "gap4-02-ec-entry-conditions"
+      ]
+    },
+    {
+      "passports": [
+        "PT"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-ec-portugal",
+      "n": "Portuguese tourists: visa-free visits up to 90 days, with a passport valid at least six months on entry. This source does not establish a fresh 90-day allowance on every entry. For land entry from Peru or Colombia, the tourism authority describes an apostilled five-year criminal-record certificate or a requested SIMIEC check; availability of a border check is not guaranteed. Galapagos has separate transit-card and insurance requirements.",
+      "evidence": [
+        "gap4-02-ec-entry-conditions"
+      ]
+    },
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-ec-austria",
+      "n": "Austrian tourists: visa-free up to 90 days, passport valid six months on entry, return/onward ticket and an entry stamp required. The actual stamp can grant less than 90 days; inspect it and seek any extension before expiry. For land entry from Peru or Colombia, the tourism authority describes an apostilled five-year criminal-record certificate or a requested SIMIEC check; availability of a border check is not guaranteed. Galapagos has separate transit-card and insurance requirements.",
+      "evidence": [
+        "gap4-02-ec-entry-conditions"
+      ]
+    },
+    {
+      "passports": [
+        "JP"
+      ],
+      "destinations": [
+        "TT"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-tt-japan",
+      "n": "Japanese passport holders visiting for up to 90 days do not need a visa: Japan MOFA records an explicit reply from Trinidad and Tobago MFA despite Japan being omitted from the online list. Passport valid six months on entry, outbound air ticket, sufficient funds and accommodation required. Complete online immigration/customs declarations within three days before arrival and departure; the stated start date is 17 March 2026."
+    },
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "TT"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-02-tt-austria",
+      "n": "Austrian ordinary-passport visits up to 90 days are visa-free. Austrian advice requires passport validity at least six months at departure, evidence of return/onward travel and sufficient funds. The period is origin-specific, not a general rule for every European passport."
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "TT"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-02-tt-italy",
+      "n": "Italian advice explicitly exempts visits shorter than 90 days. The exact less-than boundary is retained rather than encoded as an inclusive 90-day permission. Passport must have at least six months remaining; a longer stay needs separate authority."
+    },
+    {
+      "passports": [
+        "AU"
+      ],
+      "destinations": [
+        "TT"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap4-02-tt-australia",
+      "n": "Australian tourists are instructed to obtain an eVisa at least 14 business days before travel. The visa is emailed on approval; processing lead time is not permitted stay. DFAT also describes a discretionary paid waiver at the airport if arriving without a visa, with the period decided by the officer; this is not guaranteed walk-up admission. Cruise entry under 24 hours is separately exempt. Complete online arrival/departure declarations within 72 hours of travel."
+    },
+    {
+      "passports": [
+        "KP",
+        "MK",
+        "VN",
+        "VE"
+      ],
+      "destinations": [
+        "TT"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-02-tt-compulsory",
+      "n": "Ordinary-passport visa requirement is established by Immigration Regulation 13(11) and the compulsory Second Schedule; Venezuela was added effective 17 June 2019. The 2024 Venezuelan service/diplomatic exemption is not an ordinary-tourist waiver. No ordinary-tourist stay is established. A current eVisa service exists, but this requirement-only record does not certify each nationality’s product-specific electronic eligibility or exclude electronic issuance."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "SO"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-02-so-taiwan-requirement",
+      "n": "Taiwan BOCA explicitly instructs ROC passport travellers to obtain a visa before departure. This establishes the requirement only. Its mission-application instructions do not reconcile the newer federal electronic process or current document/issuance restrictions; no functioning tourist channel, eVisa eligibility, duration or routine issuance is asserted. Federal Somalia and Somaliland entry regimes are separate.",
+      "label": "Visa required; issuance unresolved"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "VE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-02-ve-taiwan-restriction",
+      "n": "For ordinary ROC passports travelling by air, the consular tourist-visa default requires permission, and Taiwan BOCA states that business and tourist visas are generally not issued to holders of its passports. This is a restrictive requirement-only record: a currently usable ordinary-tourist channel and stay are not established, and routine issuance is not implied. It is not an absolute nationality-wide entry ban.",
+      "label": "Visa required; issuance restricted"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "CF",
+      "resolvedOrigins": [
+        "IT",
+        "TR"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "IT and TR requirements added from explicit origin-government evidence. The Paris mission recovered via Italy’s official link distinguishes online form preparation from physical passport/form submission; it proves no worldwide visa requirement.",
+        "All 193 assigned origins were compared with the prior regional/default blockers and the new mission, legal-index and origin-specific material. Paris Textes officiels exposes a constitution draft and public-procurement reference, not a current exemption/default enactment. Justice search supplied no operative foreign-entry schedule.",
+        "Remaining CM/CG/GA/GQ/TD need current passport/document and national implementation conditions; CEMAC membership and political statements alone were not converted into unrestricted free movement. AE retains conflicting exemption/arrival descriptions. HK/MO/PS/TW/XK need document-specific authority. Other remaining origins lack an exhaustive current ordinary-nationality rule; advisory service/application availability is insufficient.",
+        "US advisory requests remain 403; several origin-government locators are unavailable or return unrelated content. Australian advice directs travellers to missions without making an explicit nationality visa determination; no AU addition."
+      ],
+      "attemptedUrls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/zentralafrikanische-republik",
+        "https://www.smartraveller.gov.au/destinations/africa/central-african-republic",
+        "http://cs.mfa.gov.cn/zggmcg/ljmdd/fz_648564/zf_652273/rjjl_652283/",
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/fz_648564/zf_652273/",
+        "http://cf.china-embassy.gov.cn/lsfw/",
+        "https://amb-rca.ru/visa/",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Rep%C3%BAblica%20Centroafricana",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/republique-centrafricaine/conseils-aux-voyageurs-entree-sejour",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/CAF.pdf",
+        "https://www.cmr.emb-japan.go.jp/itpr_ja/centrafrique.html",
+        "https://www.justice.gouv.cf/",
+        "https://www.justice.gouv.cf/?s=etrangers",
+        "https://paris.diplomatie.gouv.cf/",
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/c/centro-africana-republica",
+        "https://www.mfa.gov.sg/countries-regions/c/central-african-republic/travel-page",
+        "https://paris.diplomatie.gouv.cf/services/24/visa-court-sejour",
+        "https://paris.diplomatie.gouv.cf/textes-officiels",
+        "https://travel.state.gov/en/international-travel/travel-advisories/central-african-republic.html",
+        "https://cf.usembassy.gov/alert-new-visa-requirements-for-u-s-citizen-travelers-to-the-central-african-republic/",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.gov.me/pretraga?query=vizni%20rezim%20crnogorske",
+        "https://www.gov.me/clanak/informacije-o-viznom-rezimu-za-crnogorske-drzavljane"
+      ]
+    },
+    {
+      "destination": "TT",
+      "resolvedOrigins": [
+        "AT",
+        "AU",
+        "IT",
+        "JP",
+        "KP",
+        "MK",
+        "TR",
+        "VE",
+        "VN"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BA",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BO",
+        "BR",
+        "BT",
+        "BY",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GE",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IQ",
+        "IR",
+        "IS",
+        "JO",
+        "KG",
+        "KH",
+        "KM",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LI",
+        "LK",
+        "LR",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MX",
+        "MZ",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SM",
+        "SN",
+        "SO",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "XK",
+        "YE",
+        "ZA"
+      ],
+      "findings": [
+        "Recovered government-linked 2016 Immigration Act compilation, the current 73-amendment register, all listed 2019–2026 legal notices, and Acts 25/2019, 9/2022 and 14/2025. The 2019 Act concerns enforcement offences; the 2022 Act concerns CARICOM skilled-certificate holders, not a new ordinary-tourist nationality schedule. Regulation 13(5) says where required, not every foreigner; 13(8) preserves Commonwealth and visa-abolition agreements; 13(13) permits further class-specific directions. No missing-name default was manufactured.",
+        "KP/MK/VN/VE are requirement-only additions under the express compulsory schedule and Venezuelan 2019 commencement, with 2024 special-passport distinction. Current statutory register and later amendments establish continued application; the old compilation is not described as a newly enacted 2026 law.",
+        "AT/IT/JP/TR waivers and AU eVisa are separately sourced. Japanese MOFA expressly confirms an MFA reply that Japan is exempt despite omission from the destination list. Italian less-than-90 boundary and Turkish 30-day period are retained. The official FAQ establishes electronic processing only for people who require a visa; it is not evidence that all applicants or omitted nationalities require one.",
+        "All 154 gaps were compared with these clauses and the present incomplete positive list. CU remains unreconciled between the compulsory schedule and separate reported waiver; remaining Commonwealth exceptions and bilateral waivers need explicit operative evidence. EU treaty content could not be recovered from the attempted official repositories; outbound Trinidad-to-EU advice was not inverted. MO/PS/XK/TW document cases remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://laws.gov.tt/ttdll-web/revision/download/108107?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/108109?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/108134?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/110590?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/110126?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/110526?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/111713?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/111803?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/111805?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/112615?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/112875?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/117322?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/118595?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/120497?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/118773?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/118820?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/119131?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/123170?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/123178?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/123456?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/123246?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/123754?type=amendment",
+        "https://laws.gov.tt/ttdll-web/revision/download/105942?type=act",
+        "https://agla.gov.tt/law-revision-commission/",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/trinidad-und-tobago",
+        "https://www.smartraveller.gov.au/destinations/americas/trinidad-and-tobago",
+        "https://publications.europa.eu/resource/celex/22015A0618(01)",
+        "https://www.consilium.europa.eu/en/documents/treaties-agreements/agreement/?id=2015030",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/trinidadundtobagosicherheit-220412",
+        "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220412",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22015A0618(01)&print=true",
+        "https://www.europarl.europa.eu/doceo/document/A-8-2015-032",
+        "https://evisa.ttservices.online/tt-evisa-entitlement-online-ui/resources/docs/FAQ.pdf",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/trinidad-and-tobago/",
+        "https://laws.gov.tt/ttdll-web/revision/list?offset=0&q=immigration&currentid=306",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/TTO.pdf",
+        "https://www.tt.emb-japan.go.jp/itpr_ja/11_000001_03629.html",
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_253.html",
+        "https://www.tt.emb-japan.go.jp/itprtop_ja/index.html",
+        "https://laws.gov.tt/ttdll-web/revision/list?q=immigration",
+        "https://laws.gov.tt/ttdll-web/revision/bytitle",
+        "https://agla.gov.tt/downloads/laws/18.01.pdf",
+        "https://homelandsecurity.gov.tt/wp-content/uploads/2024/09/List-of-Countries-Whose-Citizens-Do-Not-Require-Entry-Visas-for-TT.pdf",
+        "https://foreign.gov.tt/resources/documents/consulate-general-miami/",
+        "https://portales.sre.gob.mx/guiadelviajero/103-ficha-de-paises/438-trinidad-y-tobago",
+        "https://foreign.gov.tt/resources/documents/consulate-general-new-york-immigration-section-forms-and-information/",
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/t/trindade-e-tobago",
+        "https://laws.gov.tt/ttdll-web/revision/bylegalnotice?q=Immigration",
+        "https://publications.europa.eu/resource/celex/22015A0630(01)",
+        "https://travel.state.gov/en/international-travel/travel-advisories/trinidad-and-tobago.html",
+        "https://nationalsecurity.gov.tt/divisions/immigrationdivision/evisa-online/",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.gov.me/pretraga?query=vizni%20rezim%20crnogorske",
+        "https://www.gov.me/clanak/informacije-o-viznom-rezimu-za-crnogorske-drzavljane"
+      ]
+    },
+    {
+      "destination": "EC",
+      "resolvedOrigins": [
+        "AT",
+        "AU",
+        "DE",
+        "IT",
+        "JP",
+        "PT",
+        "TR"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AG",
+        "AM",
+        "AR",
+        "AZ",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CF",
+        "CH",
+        "CL",
+        "CR",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EE",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HN",
+        "HR",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IS",
+        "JM",
+        "JO",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "MN",
+        "MO",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NL",
+        "NO",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PG",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SI",
+        "SK",
+        "SM",
+        "SR",
+        "ST",
+        "SV",
+        "SZ",
+        "TG",
+        "TH",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "VA",
+        "VC",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Seven origin-specific exemptions added: AT/AU/DE/IT/JP/PT/TR. JP source is actual live Japanese embassy content headed 12 June 2023, not a 2026 policy change. Passport validity and land-border criminal-record qualifications are retained; current tourism guidance adds a requested SIMIEC alternative, not guaranteed availability.",
+        "DE/IT explicitly use the year from first entry, not calendar year. Austrian actual stamp may be shorter than the nominal allowance. Turkish 90-in-180 wording is not reconciled with the general Article 56 first-entry-year rule, so TR has d=0 while the exemption remains supported.",
+        "All 142 assigned gaps were tested against the prior Article 56/66 and regulation analysis, new public ministry index results, present tourism entry pages and available origin guidance. Tourist durations and an eVisa application option are not waiver/default evidence. The new ministry VISAS pages are statistics/download indexes, not nationality schedules.",
+        "Remaining ordinary nationalities lack an explicit exhaustive exemption/default in the retrieved material; MO/PS/XK additionally need accepted-document and nationality-specific evidence. No inference from the required-list complement or the lack of a Macao DSI concession row."
+      ],
+      "attemptedUrls": [
+        "https://www.cancilleria.gob.ec/2022/04/05/visas-6/",
+        "https://www.cancilleria.gob.ec/2022/04/05/visas-5/",
+        "https://www.cancilleria.gob.ec/2023/08/30/visas-7/",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/ecuador",
+        "https://www.smartraveller.gov.au/destinations/americas/ecuador",
+        "https://www.cancilleria.gob.ec/2020/06/16/visas-en-el-exterior/",
+        "https://www.cancilleria.gob.ec/estadosunidos/visas/",
+        "https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit-223232",
+        "https://www.cancilleria.gob.ec/2017/11/06/sobre-los-rumores-acerca-de-las-visas-y-los-seguros-medicos/",
+        "https://www.gob.ec/mremh/tramites/concesion-visa-visitante-temporal-turista",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/ecuador/",
+        "https://www.ministeriodegobierno.gob.ec/requisitos-para-ingresar-a-ecuador/",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/ECU.pdf",
+        "https://www.ec.emb-japan.go.jp/itpr_ja/11_000001_00025.html",
+        "https://www.cancilleria.gob.ec/reinounido/visa/",
+        "https://www.migracion.gob.ec/requisitos-ingreso-y-salida/",
+        "https://portales.sre.gob.mx/guiadelviajero/103-ficha-de-paises/264-ecuador",
+        "https://ecuador.travel/en/plan-your-trip/",
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/e/equador",
+        "https://ecuador.travel/en/travel-safe/",
+        "https://www.turismo.gob.ec/requisitos-para-ingresar-a-ecuador/",
+        "https://ecuador.travel/en/",
+        "https://www.turismo.gob.ec/wp-json/wp/v2/search?search=visa&per_page=30",
+        "https://ecuador.travel/en/travel-safe-in-ecuador/",
+        "https://www.cancilleria.gob.ec/wp-json/wp/v2/search?search=visa&per_page=100",
+        "https://travel.state.gov/en/international-travel/travel-advisories/ecuador.html",
+        "https://www.cancilleria.gob.ec/wp-json/wp/v2/search?search=turismo&per_page=30",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.gov.me/pretraga?query=vizni%20rezim%20crnogorske",
+        "https://www.gov.me/clanak/informacije-o-viznom-rezimu-za-crnogorske-drzavljane"
+      ]
+    },
+    {
+      "destination": "SO",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "BI",
+        "CD",
+        "HK",
+        "IL",
+        "KE",
+        "XK",
+        "MO",
+        "PS",
+        "RW",
+        "SS",
+        "TZ",
+        "UG"
+      ],
+      "findings": [
+        "TW added only at the independently explicit advance-visa-requirement level from live BOCA guidance. Its older mission workflow does not certify current federal electronic eligibility, passport handling, open tourist issuance, or any Somaliland permission; those practical issues remain unresolved and are stated in the policy.",
+        "All 13 gaps reviewed: BI/CD/KE/RW/SS/TZ/UG need current national implementation of EAC exemptions after the electronic rollout. HK/IL/MO/PS/XK need actual document-specific permission evidence. New ministry/mission alternatives returned 404/timeout; a general application service or regional accession is not a nationality decision."
+      ],
+      "attemptedUrls": [
+        "https://www.somaliembassy.co.ke/visa/",
+        "https://mfa.go.ke/visa-information",
+        "https://immigration.gov.so/visa/",
+        "https://web.mfa.gov.so/visa-information/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-198-2e75a-02-1.html",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "LS",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "DZ",
+        "XK",
+        "KP",
+        "PW",
+        "PS",
+        "WS",
+        "SS"
+      ],
+      "findings": [
+        "All seven remain: DZ/PW/PS/SS/XK omitted/unestablished; KP has conflicting YES/NO schedule rows, and WS has Samoa/Western Samoa conflict. Current Ministry immigration page expressly identifies the 1966 Act and 1968 regulations, but the retrieved publications/FAQ supply no operative nationality amendments.",
+        "The ministry-linked 2021 tourist application requirements PDF was retrieved and inspected. It lists passport, accommodation, funds and return travel, not which nationalities require visas; its old COVID instructions are not promoted to current entry policy. LesothoLII law attempt is challenged."
+      ],
+      "attemptedUrls": [
+        "https://www.homeaffairs.gov.ls/faqs/",
+        "https://www.gov.ls/visa-requirements/",
+        "https://www.homeaffairs.gov.ls/immigration/",
+        "https://www.homeaffairs.gov.ls/publication/",
+        "https://lesotholii.org/akn/ls/act/1966/16/eng@1966-01-01",
+        "https://www.homeaffairs.gov.ls/wp-content/uploads/2021/09/REQUIREMENTS-OF-VISA-APPLICATION-REVISED-PDF.pdf"
+      ]
+    },
+    {
+      "destination": "VE",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "IL",
+        "MO",
+        "XK"
+      ],
+      "findings": [
+        "TW added as a restrictive requirement-only air-arrival rule by combining the explicit consular default, actual central list and BOCA’s ordinary-passport non-issuance warning. No practical tourist issuance channel, stay, blanket ban or routine admission is claimed.",
+        "IL/MO/XK remain unresolved accepted-document/permission cases. Central schedule and default do not establish their recognition or an actual tourist process. DSI concession-index absence for MO supplies no negative rule."
+      ],
+      "attemptedUrls": [
+        "https://madrid.consulado.gob.ve/turismo/",
+        "https://www.mppre.gob.ve/index.php/detalle_turismo/2",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-205-20209-02-1.html",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ]
+    },
+    {
+      "destination": "BZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "NR",
+        "SS",
+        "TL"
+      ],
+      "findings": [
+        "All three remain: NR is literally YES - NO in the government table; SS/TL lack named rows and a usable residual default. The current London mission points back to that nationality table and supplies procedure, not new nationality decisions.",
+        "New AG/legislation locators returned application shells, unrelated HTML or DNS failures; a purported PDF was actually the AG website HTML. No operative amending nationality schedule was recovered. Foreign-visa/residence exemptions are not assumed."
+      ],
+      "attemptedUrls": [
+        "https://www.agm.gov.bz/",
+        "https://www.agm.gov.bz/laws-of-belize",
+        "https://www.agm.gov.bz/uploads/laws/Cap_156-01_Immigration_Act.pdf",
+        "https://www.belizehighcommission.co.uk/belize-visa/",
+        "https://www.belizelaw.org/web/lawadmin/PDF%20files/cap156s.pdf",
+        "https://www.belizehighcommission.co.uk/visa-information/",
+        "https://belizehighcommission.co.uk/visa-application-and-instructions/",
+        "https://www.immigration.gov.bz/visa/visa-who-qualify/"
+      ]
+    },
+    {
+      "destination": "ZM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "ME",
+        "RS"
+      ],
+      "findings": [
+        "All three remain: RS origin-MFA top row says required/arrival while its entry paragraph says no visa; ME cannot be inferred from the combined historical Serbia-and-Montenegro row; XK requires accepted-document evidence.",
+        "Fresh Immigration legislation index and 53-country waiver announcement inspected. Linked SI 129/2011 was retrieved; all thirteen opening scanned pages were rendered and visually inspected, including regulations 17–21 on visiting-visa and visiting-permit applications. They prescribe procedures/forms rather than settle these three nationality identities. The 53-country announcement cites SI 78/2024 and 1 January 2025 commencement but does not itself settle these identities; the attempted SI78 file was 404. Montenegro outbound searches did not yield an operative table and inbound pages were not reversed."
+      ],
+      "attemptedUrls": [
+        "https://www.zambiaimmigration.gov.zm/wp-content/uploads/2020/06/SI-129-of-2011.pdf",
+        "https://www.zambiaimmigration.gov.zm/publications/legislation/",
+        "https://www.zambiaimmigration.gov.zm/wp-json/wp/v2/search?search=visa&per_page=30",
+        "https://www.zambiaimmigration.gov.zm/wp-content/uploads/2024/12/SI-NO-78-OF-2024.pdf",
+        "https://www.zambiaimmigration.gov.zm/2024/12/25/zambia-waives-visa-requirements-for-nationals-of-53-countries-to-boost-tourism/",
+        "https://www.gov.me/pretraga?query=vizni%20rezim%20crnogorske",
+        "https://www.gov.me/clanak/informacije-o-viznom-rezimu-za-crnogorske-drzavljane",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/zambia"
+      ]
+    },
+    {
+      "destination": "SB",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ME",
+        "MO"
+      ],
+      "findings": [
+        "Both ME/MO remain. Fresh immigration visa page confirms short-term electronic processing, and an operational notice reports service disruption, but neither provides these missing ordinary-nationality decisions. An eVisa application route is not a visa requirement or passport-acceptance proof.",
+        "Montenegro’s Solomon page concerns Solomon nationals entering Montenegro and cannot be reversed. DSI has no positive Solomon concession row. No mapping to Serbia or mainland China."
+      ],
+      "attemptedUrls": [
+        "https://immigration.gov.sb/visa/",
+        "https://commerce.gov.sb/departments-units/immigration.html",
+        "https://mfaet.gov.sb/consular-services/visa-immigration.html",
+        "https://immigration.gov.sb/visas/",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.gov.me/pretraga?query=vizni%20rezim%20crnogorske",
+        "https://www.gov.me/clanak/informacije-o-viznom-rezimu-za-crnogorske-drzavljane",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/solomon-islands"
+      ]
+    },
+    {
+      "destination": "LT",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "RU"
+      ],
+      "findings": [
+        "RU remains. Fresh border/MFA alternatives are access-challenged, migration pages are application shells, and the proposed parliamentary identifier returned object not found. No operative national Russian-tourist external-border/internal-Schengen and exception text was recovered.",
+        "The existing Schengen visa obligation is not restated as ordinary tourist clearance, and no blanket nationality ban is invented. Serbian advice describes Serbian passports and a dated 2025 temporary border closure, not a current RU determination."
+      ],
+      "attemptedUrls": [
+        "https://vsat.lrv.lt/en/information-for-travellers/",
+        "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/3640de60d6ac11ed9b3c9397e1236c2a",
+        "https://keliauk.urm.lt/en/countries/russia",
+        "https://www.urm.lt/en/foreign-policy/lithuania-in-the-region-and-the-world/lithuanias-security-policy/russia/temporary-restrictions-for-russian-citizens/1737",
+        "https://www.migracija.lt/-/information-for-citizens-of-russia-and-belarus",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/lithuania"
+      ]
+    },
+    {
+      "destination": "UZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains. Fresh central MFA page and London mission path provided no Kosovo ordinary-passport recognition/entry determination. General visa procedures, unlisted-code defaults and another nationality’s travel permission do not establish a Kosovo rule."
+      ],
+      "attemptedUrls": [
+        "https://mfa.uz/en/pages/visa-republic-uzb",
+        "https://www.uzembassy.uk/page/16"
+      ]
+    },
+    {
+      "destination": "ID",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains. Fresh Immigration content and Budapest mission route did not yield an ordinary Kosovo passport determination. Kosovo MFA page describes entering Kosovo, including Indonesia diplomatic/official passports, so was rejected as wrong-direction/wrong-document evidence. A calling-visa list or generic application menu is not recognition or eligibility."
+      ],
+      "attemptedUrls": [
+        "https://ambasadat.net/en/visas/",
+        "https://kemlu.go.id/budapest/en/pages/visa/177/about-service",
+        "https://www.imigrasi.go.id/wna/daftar-negara-calling-visa"
+      ]
+    }
+  ],
+  "corrections": []
+}

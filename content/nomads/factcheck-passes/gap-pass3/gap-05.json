@@ -1,0 +1,1849 @@
+{
+  "version": 1,
+  "batch": "gap-05",
+  "baselineSha256": "628d74004a53c4e3e18467e95a6051e23182bdffd858efc24cdde02b1268d31c",
+  "sources": {
+    "gap-05-az-asan-july2026": {
+      "title": "ASAN official eVisa nationality table, archived 23 July 2026; live migration duration guidance",
+      "urls": [
+        "https://www.evisa.gov.az/en/countries",
+        "https://web.archive.org/web/20260723230821id_/https://www.evisa.gov.az/en/countries",
+        "https://migration.gov.az/en/page/49",
+        "https://azerbaijan.travel/tourist-visa-to-azerbaijan"
+      ],
+      "checkedAt": "2026-07-23",
+      "sha256": "d80bbd69b9d1a965a6f04258a86f40ecc78969889b3182c688874267feb5fd0c",
+      "historical": true
+    },
+    "gap-05-az-taiwan": {
+      "title": "Taiwan BOCA: Azerbaijan visa requirement and electronic-channel exclusion",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-144-9faf1-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "00753c4d4c42c267e988541a68505d39330e8b35e4ccf54ebdd96fef5afe799e"
+    },
+    "gap-05-az-china-treaty": {
+      "title": "Chinese Embassy Baku: ordinary-passport treaty effective 16 July 2025",
+      "urls": [
+        "https://az.china-embassy.gov.cn/chn/sgxw/202507/t20250716_11671922.htm"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "1f9e4d2bf8004a51521617b1b7e9daeb84dee56ed5dee7b634ab8b52081fb7f2"
+    },
+    "gap-05-ng-tourism-2026": {
+      "title": "Nigeria Immigration Service April 2026 SLA, F5A, with German/French/Turkish origin-specific visa requirements",
+      "urls": [
+        "https://immigration.gov.ng/wp-content/uploads/2026/04/SERVICE-LEVEL-AGREEMENT-2026_.pdf",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nigeriasicherheit-205788",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/nigeria/conseils-aux-voyageurs-entree-sejour",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f4436cca8d37085482096b458794cfa1647a7086313cfc030496fc6b2268f29e"
+    },
+    "gap-05-ng-taiwan": {
+      "title": "Taiwan BOCA: Nigerian visas for Taiwanese nationals and paper/electronic channel cautions",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-41-66c44-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "c2acbb818edc10e82ca1066b92769bcbf332229a3a74293fcd87fe328ee1bad8"
+    },
+    "gap-05-cd-germany": {
+      "title": "German Foreign Office: DR Congo advance visa and seven-day electronic short-stay option",
+      "urls": [
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "99bbebee98049c3496f967bec586c63dca9c3a6859ca4b629fe1eb142ee8925a"
+    },
+    "gap-05-cd-turkey": {
+      "title": "Turkish MFA: DR Congo ordinary-passport visa requirement",
+      "urls": [
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "5465065ff3ad6a3864e2fcc31ce7f667c7b8a1c6ca890c9d176e3fee68f3ab74"
+    },
+    "gap-05-cd-taiwan": {
+      "title": "Taiwan BOCA: DR Congo consular visa instructions for Taiwanese travellers",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-149-bbb26-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "ba3c9c851fc629475d6971db6768814bd189d35fcd2df50d6a1b580ea2e9774e"
+    },
+    "gap-05-ve-ordinary-default": {
+      "title": "Venezuela MFA nationality table plus government-hosted Madrid consulate tourist-visa default",
+      "urls": [
+        "https://madrid.consulado.gob.ve/turismo/",
+        "https://madrid.consulado.gob.ve/visa-de-turista-t/",
+        "https://www.mppre.gob.ve/index.php/detalle_turismo/2",
+        "https://mppre.gob.ve/index.php/publicacion/4431-0",
+        "https://travel.gc.ca/destinations/venezuela",
+        "https://mppre.gob.ve/index.php/consulados_venezuela",
+        "https://mppre.gob.ve/index.php/apiconsul"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "209aab1cb7823fff6ec04b397b5f3703cd5bcd1f4a982aa5f909c90916161e7d"
+    },
+    "gap-05-ve-serbia-waiver": {
+      "title": "Venezuela MFA: ordinary Serbian passport visa-waiver agreement in force",
+      "urls": [
+        "https://mppre.gob.ve/index.php/publicacion/4431-0",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/venezuela"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "06eb0fb527d8a08806afffa6eba69c6dcccc9ddc8aa769207bc752b5146898c7"
+    },
+    "gap-05-af-pakistan": {
+      "title": "Afghan Embassy Islamabad: visa issuance expressly covering Pakistani nationals",
+      "urls": [
+        "https://islamabad.mfa.gov.af/visa/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "66190fed18ed72970ebe64c63350eb5a31c2828a2a1119933e776c21a26c288b"
+    },
+    "gap-05-af-turkey": {
+      "title": "Turkish MFA: Afghan ordinary-passport visa requirement",
+      "urls": [
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "5465065ff3ad6a3864e2fcc31ce7f667c7b8a1c6ca890c9d176e3fee68f3ab74"
+    },
+    "gap-05-af-taiwan": {
+      "title": "Taiwan BOCA: Afghan electronic tourist visas for Taiwanese nationals",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-190-fde3f-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "9db5765ef50054260ed9a8dd113ac568438666302c2ea7aa05455efe704e2e1a"
+    },
+    "gap-05-bo-russian-treaty": {
+      "title": "Russian MFA consular table: ordinary-passport Bolivia exemption",
+      "urls": [
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "9202e4927c2cba1c93fa8d9cca93b28f90b71bc87f993b39e1a634bb5db320b7"
+    },
+    "gap-05-me-burkina": {
+      "title": "Montenegro MFA Burkina Faso country page: explicit visa requirement",
+      "urls": [
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/burkina-faso"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "3b72bcb400899dc00d44be208deb41daf10d17186735ba6e11a332581f334e16"
+    },
+    "gap-05-il-taiwan-eta": {
+      "title": "Israeli mission Taipei: Taiwanese 90-day tourism with ETA-IL",
+      "urls": [
+        "https://embassies.gov.il/taipei/en/services/foreign-citizens/entry-visa-visiting-or-touring-israel"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a44d5caaa30fd3798cba08c886ba9eca50786730397b44085177d61b188997eb"
+    },
+    "gap-05-et-hksar": {
+      "title": "Hong Kong Immigration: Ethiopian arrival visa at Bole, three-month stay",
+      "urls": [
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a9c85ebb49a9cb29c3fdb697bfa7844402a52e934da36a4b34b71506a0467c8f"
+    },
+    "gap-05-et-taiwan": {
+      "title": "Taiwan BOCA: tourist arrival-visa eligibility expressly covering Taiwanese passports",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-192-4eeea-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "84a6d284d19f5432e7a677eb858eb35ea83a989118dc629f0177403edb395a51"
+    },
+    "gap-05-lc-kosovo-law": {
+      "title": "Saint Lucia Revised Laws 2023: Immigration Visa Order Schedule 3, including SI 134/2020",
+      "urls": [
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/schedule-3"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "131f125f20806b713547111ab52c449b30c57a7b19886fca612a840dabf0e7b5"
+    },
+    "gap-05-pl-russian-external-border": {
+      "title": "Polish Border Guard current restriction guidance and linked legislative text, sections 3 and 3a",
+      "urls": [
+        "https://www.strazgraniczna.pl/pl/cudzoziemcy/obowiazujace-ograniczenia/13494,EN-RUSSIA-RESTRICTIONS-AGAINST-RUSSIAN-CITIZENS.html",
+        "https://eli.gov.pl/api/acts/DU/2023/1403/text.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "da33d9e003dd1d5bcebe45690dc32b6fd7ea126804f0cf9fe801e08765866ccf"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BB",
+        "BE",
+        "BG",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DZ",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HR",
+        "HU",
+        "IE",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "LI",
+        "LK",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "ME",
+        "MK",
+        "MN",
+        "MT",
+        "MU",
+        "MX",
+        "NL",
+        "NO",
+        "NP",
+        "NZ",
+        "PA",
+        "PE",
+        "PK",
+        "PL",
+        "PT",
+        "PY",
+        "RO",
+        "SC",
+        "SE",
+        "SI",
+        "SK",
+        "SM",
+        "TH",
+        "TM",
+        "TT",
+        "US",
+        "VA",
+        "VN",
+        "ZA"
+      ],
+      "destinations": [
+        "AZ"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap-05-az-asan-july2026",
+      "n": "Positive ASAN eligibility table preserved in the 2026-07-23 archive, not a live nationality recheck. Single-entry electronic tourist method; current Migration Service specifies up to 30 days. Apply at least three working days ahead; passport valid at least three months beyond eVisa expiry. Registration required for stays exceeding 15 days. Confirm permitted entry routing separately; this does not establish unrestricted land entry."
+    },
+    {
+      "passports": [
+        "BH",
+        "KW",
+        "OM",
+        "SA"
+      ],
+      "destinations": [
+        "AZ"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-05-az-asan-july2026",
+      "n": "Historical official ASAN capture of 2026-07-23: up to three visa-free entries during 2026-02-15 through 2027-02-15, with up to 30 days per entry; fourth and subsequent entries require a valid visa. The same table positively lists electronic-visa eligibility. No unlimited-entry waiver or unrestricted land-entry permission is asserted.",
+      "until": "2027-02-15",
+      "label": "Limited-entry visa waiver (historical evidence)"
+    },
+    {
+      "passports": [
+        "JP",
+        "KR"
+      ],
+      "destinations": [
+        "AZ"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-05-az-asan-july2026",
+      "n": "Historical official ASAN capture of 2026-07-23: up to three visa-free entries during 2026-07-01 through 2027-07-01, with up to 30 days per entry; fourth and subsequent entries require a valid visa. The same table positively lists electronic-visa eligibility. No unlimited-entry waiver or unrestricted land-entry permission is asserted.",
+      "until": "2027-07-01",
+      "label": "Limited-entry visa waiver (historical evidence)"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "AZ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-az-taiwan",
+      "n": "Taiwan BOCA explicitly describes visa acquisition as difficult and says Taiwanese nationals cannot use ASAN because their nationality is not offered. This is an official stated channel restriction, not an inference from a form dropdown. Actual approved stay and successful consular issuance remain uncertain; no admission ban inferred.",
+      "label": "Visa required; issuance/channel restrictions"
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "AZ"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap-05-az-china-treaty",
+      "n": "Chinese ordinary passport: up to 30 days per visit and 90 days cumulatively in any 180-day period under agreement effective 2025-07-16. Not automatically extended to SAR documents."
+    },
+    {
+      "passports": [
+        "DE",
+        "FR",
+        "TR"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap-05-ng-tourism-2026",
+      "n": "Origin governments establish a visa requirement for these nationalities; the NIS April 2026 SLA expressly makes F5A available to foreign nationals outside the exemptions and describes online application and emailed visa certificate. Tourist stay 30 days, single entry, non-extendable; visa validity 90 days is separate. Separate landing/exit declarations required. France also describes physical OIS processing; the electronic method is supported by the newer destination SLA, not the online form alone."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-ng-taiwan",
+      "n": "BOCA confirms Nigerian Trade Office issuance for Taiwanese nationals and recommends the formal paper visa carrying the correct nationality. It also discusses the May 2025 electronic portal and unpredictable processing, but does not establish a reliable Taiwan-specific electronic decision. Visa requirement and consular option retained; electronic eligibility/stay uncertain. Separate landing/exit declarations required.",
+      "label": "Visa required; electronic method uncertain"
+    },
+    {
+      "passports": [
+        "DE"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap-05-cd-germany",
+      "n": "German nationals require advance permission. German official advice explicitly permits online short-stay visa applications up to seven days and consular applications through Berlin. Electronic approval precedes arrival; no walk-up visa assertion. Consular stay duration unspecified.",
+      "a": [
+        "ev",
+        "vr"
+      ],
+      "stay": "Electronic short stay: up to 7 days; consular stay unspecified"
+    },
+    {
+      "passports": [
+        "TR"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-cd-turkey",
+      "n": "Turkish ordinary passports require a visa; the 90-in-180 exemption in this source applies only to diplomatic passports. Electronic versus consular availability and tourist stay not established by this origin source.",
+      "label": "Visa required; method uncertain"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-cd-taiwan",
+      "n": "Taiwan-specific government advice instructs applying at a DR Congo mission with passport, photo, application, itinerary/invitation, yellow-fever certificate and accommodation. Stay and electronic eligibility unspecified; this does not claim eVisa is unavailable.",
+      "label": "Visa required; electronic method uncertain"
+    },
+    {
+      "passports": [
+        "AE",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BS",
+        "BT",
+        "BW",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CU",
+        "CV",
+        "DJ",
+        "DO",
+        "DZ",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HT",
+        "IN",
+        "IQ",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MU",
+        "MW",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NP",
+        "NR",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PW",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SG",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UZ",
+        "VA",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "destinations": [
+        "VE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-ve-ordinary-default",
+      "n": "Air-arrival tourist baseline: Madrid’s government-hosted tourism page explicitly requires a tourist visa when the country is not on the exemption list; its tourist-visa service applies to nationals of non-waiver countries. Applied together with the central MFA air-arrival nationality table, separately established Serbian treaty and HKSAR exemption, holding special-document/recognition cases out. Visa required before travel. Nationality-specific electronic issuance and approved stay are not established; vr does not mean eVisa is unavailable. No Spanish residence or land/sea waiver assumed.",
+      "label": "Visa required; electronic method uncertain"
+    },
+    {
+      "passports": [
+        "RS"
+      ],
+      "destinations": [
+        "VE"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap-05-ve-serbia-waiver",
+      "n": "Venezuelan MFA confirms approval and entry into force of the ordinary-passport waiver on its 2025-04-01 notice. No treaty-specific stay was established. The 90-day field on the Serbian page is headed Visa regime for entering Serbia and is not inverted into an inbound Venezuelan duration. Use air-arrival scope pending treaty text for other ports."
+    },
+    {
+      "passports": [
+        "PK"
+      ],
+      "destinations": [
+        "AF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-af-pakistan",
+      "n": "Islamabad mission expressly issues visas to Pakistani nationals. Single entry, one-month stay; print online form and present passport/documents, then collect passport and visa. Passport must have six months validity. Form submission is not electronic issuance; this does not disprove other channels.",
+      "stay": "One month"
+    },
+    {
+      "passports": [
+        "TR"
+      ],
+      "destinations": [
+        "AF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-af-turkey",
+      "n": "Turkish ordinary-passport holders require a visa according to their MFA. E-Afghans residence/nationality restrictions do not establish consular refusal. Requirement retained with unspecified stay and electronic-method uncertainty.",
+      "label": "Visa required; method uncertain"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "AF"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap-05-af-taiwan",
+      "n": "BOCA expressly says Taiwanese nationals can apply for Afghan eVisa through evisa.mfa.gov.af, with entry through Kabul International Airport. Up to 30 days; passport valid at least six months, photo and national-ID scan. Approval and remaining payment precede issuance. This is nationality-specific official guidance, not inferred from a dropdown."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "BO"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap-05-bo-russian-treaty",
+      "n": "Russian ordinary-passport exemption: up to 90 days within 180 days, under 2016 agreement. The separate three-month diplomatic/service column is not used."
+    },
+    {
+      "passports": [
+        "BF"
+      ],
+      "destinations": [
+        "ME"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-me-burkina",
+      "n": "Montenegro explicitly requires visas for Burkina Faso citizens and directs applications to its diplomatic/consular missions or the nearest Serbian mission if inaccessible. Qualifying third-country visas/residence can create a conditional exemption, but none is assumed. Issued stay unspecified."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "IL"
+      ],
+      "t": "eta",
+      "d": 90,
+      "s": "gap-05-il-taiwan-eta",
+      "n": "The Israeli mission explicitly states Taiwanese passports qualify for a 90-day visa-free tourist visit following ETA-IL instructions. Obtain ETA-IL before travel. Longer stays or other purposes require the relevant visa; no separate Palestinian-territory permission implied."
+    },
+    {
+      "passports": [
+        "HK"
+      ],
+      "destinations": [
+        "ET"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap-05-et-hksar",
+      "n": "HKSAR passports: official Ethiopia country block (option_46) expressly provides arrival-visa application at Bole International Airport, Addis Ababa. Three-month stay in that same block; not extended to land ports or other Hong Kong travel documents.",
+      "stay": "3 months"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "ET"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap-05-et-taiwan",
+      "n": "Taiwan expressly included in the Ethiopian tourist arrival-visa list according to BOCA. Arrival at Addis Ababa airport; six-month passport, return ticket, accommodation, photographs, vaccination certificate and funds. Other border entry requires advance mission visa. The page separately advises advance tourist visa when entering during a transit stop; that itinerary is not assumed.",
+      "stay": "Tourist arrival-visa options: 30 or 90 days"
+    },
+    {
+      "passports": [
+        "XK"
+      ],
+      "destinations": [
+        "LC"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap-05-lc-kosovo-law",
+      "n": "Republic of Kosovo is expressly named in Schedule 3: visa required before arrival. Current published consolidation cites amendment SI 134/2020; the older November 2018 administrative list omitted Kosovo. Electronic issuance and stay are unspecified.",
+      "label": "Advance visa required; method uncertain"
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "PL"
+      ],
+      "t": "na",
+      "d": 0,
+      "s": "gap-05-pl-russian-external-border",
+      "n": "Ordinary non-essential tourist entry at Poland’s Schengen EXTERNAL border is restricted until further notice, across road, rail, river, air and sea, regardless of departure country. Section 3a preserves enumerated family, residence, employment, humanitarian, transport and other exceptions plus exceptional individual border authorization; none is assumed. This is not a ban on every Russian national or a determination of intra-Schengen movement.",
+      "label": "External-border tourist entry restricted"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "CD",
+      "resolvedOrigins": [
+        "DE",
+        "TR",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Three nationality-specific additions; no blanket rule derived from eVisa application eligibility.",
+        "Pursued DGM, current MFA public search, Washington legislative/consular resources, Journal Officiel and the 1983 foreigner-police statute. Journal Officiel returned 503; Leganet failed certificate validation; Droit-Afrique returned 403. No complete positive ordinary-passport exemption enactment obtained. EAC/CEPGL operational exemptions (BI/CG/KE/RW/TZ/UG/ZW), Chad commencement and special-document acceptance remain unproved.",
+        "US arrangement text expressly extends tourist visa issuance to all Americans, but issuance availability alone does not establish obligation. US therefore remains unresolved. Two-year visa validity is not stay."
+      ],
+      "attemptedUrls": [
+        "https://www.smartraveller.gov.au/destinations/africa/democratic-republic-congo",
+        "https://www.ambardcusa.org/consular-affairs/consular-services/",
+        "https://ambardcusa.org/visa/",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
+        "https://www.journalofficiel.cd/",
+        "https://www.kenyaembassykinshasa.org/",
+        "https://www.leganet.cd/Legislation/Droit%20Public/Police/OL.83.033.12.09.1983.htm",
+        "https://diplomatie.gouv.cd/wp-json/wp/v2/search?search=visa&per_page=100",
+        "https://diplomatie.gouv.cd/",
+        "https://www.droit-afrique.com/uploads/RDC-Loi-1983-police-etrangers.pdf",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/dr-congo",
+        "https://www.ambardcusa.org/invest-in-the-drc/legislation/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-149-bbb26-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-149-bbb26-1.html",
+        "https://diplomatie.gouv.cd/2023/07/19/diplomatie-la-rdc-et-les-usa-saccordent-doctroyer-des-visas-de-deux-ans-a-leurs-ressortissants-respectifs/",
+        "https://www.ambardcusa.org/consular-affairs/visa/"
+      ]
+    },
+    {
+      "destination": "NG",
+      "resolvedOrigins": [
+        "DE",
+        "FR",
+        "TR",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SM",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Retrieved and extracted all 93 pages of the NIS revised APRIL 2026 Service Level Agreement. F5A explicitly gives 30-day non-extendable stay, 90-day validity and emailed electronic certificate. Origin-specific FR/DE/TR requirements remove exemption uncertainty for those additions; TW has separately documented consular issuance.",
+        "Searched current public NIS post/media indexes for policy, visa, exemption and waiver; pursued NIS 2025 implementation workshop, Interior, NCAA circulars, Foreign Affairs, London and New York missions. The actual complete document titled Nigeria Visa Policy 2025 was not retrieved. Workshop publicity and the 2026 SLA are not relabelled as that missing policy.",
+        "Ordinary waivers for CM/TD/SC, remaining bilateral agreements and special documents remain unverified. London and F5A reserve unnamed exemptions. January 29 2025 ECOWAS statement was retrieved in full: continues AES citizens’ rights and recognition of ECOWAS-logo passports until further notice; Nigeria-specific current implementation/new AES document treatment still needs confirmation. No fee waiver or application list used as exemption."
+      ],
+      "attemptedUrls": [
+        "https://foreignaffairs.gov.ng/",
+        "https://www.ecowas.int/wp-content/uploads/2025/01/FINAL_Press-Statement-_-ECOWAS-_-Withdrawal-BURKINA_MALI_NIGER.pdf",
+        "https://www.ecowas.int/press-statement-withdrawal-burkina_mali_niger/",
+        "https://www.smartraveller.gov.au/destinations/africa/nigeria",
+        "https://www.ecowas.int/wp-json/wp/v2/search?search=withdrawal&per_page=100",
+        "https://immigration.gov.ng/wp-json/wp/v2/search?search=exemption&per_page=100",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/nigeria/",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/nigeria/conseils-aux-voyageurs-entree-sejour",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nigeriasicherheit-205788",
+        "https://interior.gov.ng/nigeria-visa-policy-2025/",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Nigeria",
+        "https://www.nigeriahc.org.uk/",
+        "https://www.nigeriahc.org.uk/immigration/",
+        "https://www.nigeriahc.org.uk/visa-requirements/",
+        "https://ncaa.gov.ng/documents/fsg/general-advisory-circulars-2025/",
+        "https://ncaa.gov.ng/",
+        "https://nigeriahouse.com/visas/",
+        "https://duckduckgo.com/html/?q=%22Nigeria+Visa+Policy+2025%22+pdf",
+        "https://immigration.gov.ng/wp-json/wp/v2/media?search=visa&per_page=100",
+        "https://immigration.gov.ng/wp-content/uploads/2020/02/Nigeria-Visa-Policy-2020.pdf",
+        "https://immigration.gov.ng/nis-organizes-sensitization-workshop-on-implementation-of-nigeria-visa-policy-2025-for-retired-officers-and-free-trade-zone-operators/",
+        "https://immigration.gov.ng/wp-json/wp/v2/search?search=visa%20policy&per_page=100",
+        "https://immigration.gov.ng/wp-json/wp/v2/media?search=policy&per_page=100",
+        "https://mfa.gov.sc/seychellois-travelling-abroad/",
+        "https://mfa.gov.sc/visa-exemptions/",
+        "https://www.mfa.gov.sg/countries-regions/n/nigeria/travel-page/",
+        "https://immigration.gov.ng/wp-content/uploads/2026/04/SERVICE-LEVEL-AGREEMENT-2026_.pdf",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-41-66c44-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-41-66c44-1.html",
+        "https://foreignaffairs.gov.ng/services/visas-&-passports",
+        "https://immigration.gov.ng/nigerian-visa/",
+        "https://immigration.gov.ng/wp-json/wp/v2/search?search=waiver&per_page=100"
+      ]
+    },
+    {
+      "destination": "AZ",
+      "resolvedOrigins": [
+        "AD",
+        "AR",
+        "AT",
+        "AU",
+        "BA",
+        "BB",
+        "BE",
+        "BG",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DZ",
+        "EC",
+        "EE",
+        "ES",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HR",
+        "HU",
+        "IE",
+        "IN",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "LI",
+        "LK",
+        "LT",
+        "LU",
+        "LV",
+        "MC",
+        "ME",
+        "MK",
+        "MN",
+        "MT",
+        "MU",
+        "MX",
+        "NL",
+        "NO",
+        "NP",
+        "NZ",
+        "PA",
+        "PE",
+        "PK",
+        "PL",
+        "PT",
+        "PY",
+        "RO",
+        "SC",
+        "SE",
+        "SI",
+        "SK",
+        "SM",
+        "TH",
+        "TM",
+        "TT",
+        "TW",
+        "US",
+        "VA",
+        "VN",
+        "ZA"
+      ],
+      "remainingOrigins": [
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "BD",
+        "BF",
+        "BI",
+        "BJ",
+        "BT",
+        "BW",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CM",
+        "CV",
+        "DM",
+        "DO",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GW",
+        "GY",
+        "HT",
+        "IQ",
+        "KE",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "LA",
+        "LB",
+        "LC",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MG",
+        "MH",
+        "ML",
+        "MM",
+        "MO",
+        "MR",
+        "MV",
+        "MW",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NR",
+        "PG",
+        "PH",
+        "PS",
+        "PW",
+        "RS",
+        "RW",
+        "SB",
+        "SD",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TL",
+        "TN",
+        "TO",
+        "TV",
+        "TZ",
+        "UG",
+        "UY",
+        "VC",
+        "VE",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Recovered official ASAN nationality table from exact archive capture 20260723230821; raw compressed bytes, decoded text and CDX locator retained. Positive listed nationalities only; additions remain HISTORICAL despite supporting live duration guidance.",
+        "Six baseline airport-visa-only routes corrected historically to limited-entry waivers: BH/KW/OM/SA, three entries 15 Feb 2026–15 Feb 2027; JP/KR, three entries 1 Jul 2026–1 Jul 2027. Fourth entry requires visa. Chinese ordinary treaty duration corrected with current live Baku embassy notice.",
+        "Live ASAN returned 403; central/mission MFA endpoints failed transport/certificate verification. Migration Service group III describes OUTBOUND Azerbaijani concessions and is not inverted. Unlisted origins are not declared ineligible or visa-required solely by omission; AM and special-document cases need positive current authority. TW is a narrow official-origin requirement/channel-restriction addition."
+      ],
+      "attemptedUrls": [
+        "https://web.archive.org/cdx/search/cdx?url=evisa.gov.az/en/countries&output=json&filter=statuscode:200&filter=mimetype:text/html&from=2026&collapse=timestamp:6&filter=timestamp:20260[789].*&fl=timestamp,original&limit=5",
+        "https://web.archive.org/web/20260723230821id_/https://www.evisa.gov.az/en/countries",
+        "https://evisa.gov.az/en/countries",
+        "https://az.china-embassy.gov.cn/chn/sgxw/202507/t20250716_11671922.htm",
+        "https://washington.mfa.gov.az/en/category/visa/e-visa",
+        "https://london.mfa.gov.az/en/content/44/electronic-visa",
+        "https://migration.gov.az/en/page/49",
+        "https://azerbaijan.travel/",
+        "https://azerbaijan.travel/plan-your-trip/practical-information/visa",
+        "https://azerbaijan.travel/tourist-visa-to-azerbaijan",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-144-9faf1-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-144-9faf1-1.html",
+        "https://abudhabi.mfa.gov.az/en/content/36/visa-free-regime",
+        "https://azerbaijan.travel/visas"
+      ]
+    },
+    {
+      "destination": "VE",
+      "resolvedOrigins": [
+        "AE",
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AZ",
+        "BA",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BS",
+        "BT",
+        "BW",
+        "CA",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CU",
+        "CV",
+        "DJ",
+        "DO",
+        "DZ",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GA",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HT",
+        "IN",
+        "IQ",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MR",
+        "MU",
+        "MW",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NP",
+        "NR",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PW",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SG",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UZ",
+        "VA",
+        "VN",
+        "VU",
+        "WS",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "IL",
+        "MO",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "Retrieved central MFA air-arrival nationality table plus Madrid’s government-hosted tourism page: Visa de turista (Solo necesaria si tu país no se encuentra en la siguiente lista). Its government-hosted tourist-visa service expressly applies to nationals of countries without visa suppression. Reconciled the default and central table with Serbian treaty commencement and HKSAR baseline evidence. Regular residual passports receive requirement-only air-arrival rules with electronic-method uncertainty; no Spanish residence assumed.",
+        "Authority cross-check: the MFA public consular directory and its linked public GeoJSON identify madrid.consulado.gob.ve. That host’s actual tourism and tourist-visa pages supply the final evidence. The initially inspected .com site remains locator/corroborating cache only and is not a cited policy source.",
+        "Gazette research: Imprenta Nacional connection refused, TSJ gazette timed out, National Assembly laws index retrieved but supplied no operative visa amendment. No gazette text fabricated or cited as retrieved policy. The government-hosted default plus ministry table supplies requirement evidence instead.",
+        "Serbia is visa-free but treaty-specific stay unspecified. The Serbian origin page’s top 90-day table is labelled entry into Serbia, so not reversed. TW official advice says tourist/business visas are generally not issued, which is insufficient for an absolute nationality ban; IL/MO/XK special-document/recognition cases remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://travel.gc.ca/destinations/venezuela",
+        "https://www.consulado.gob.cl/consulados-en-el-exterior/venezuela/caracas/informacion-sobre-visas-para-ingresar-a-venezuela",
+        "https://mppre.gob.ve/index.php/consulados_venezuela",
+        "https://mppre.gob.ve/index.php/apiconsul",
+        "https://consuladodevenezuelaenmadrid.com/visados/",
+        "https://www.mppre.gob.ve/index.php/detalle_turismo/2",
+        "https://www.tsj.gob.ve/gaceta-oficial",
+        "https://www.imprentanacional.gob.ve/",
+        "https://www.asambleanacional.gob.ve/leyes/sancionadas",
+        "https://mppre.gob.ve/consulares/",
+        "https://madrid.consulado.gob.ve/visa-de-turista-t/",
+        "https://madrid.consulado.gob.ve/turismo/",
+        "https://madrid.consulado.gob.ve/visas/",
+        "https://madrid.consulado.gob.ve/",
+        "https://consuladodevenezuelaenmadrid.com/index.php/visa-para-turistas-2/",
+        "https://consuladodevenezuelaenmadrid.com/index.php/visado/",
+        "https://consuladodevenezuelaenmadrid.com/",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/venezuela",
+        "https://mppre.gob.ve/index.php/publicacion/4431-0",
+        "https://www.mfa.gov.sg/countries-regions/v/venezuela/travel-page/",
+        "https://www.mofa.gov.tw/CountryInfo.aspx?CASN=6&n=487&s=97&sms=33&tabs=FB09C9C041E34414",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-205-20209-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-205-20209-1.html"
+      ]
+    },
+    {
+      "destination": "AF",
+      "resolvedOrigins": [
+        "PK",
+        "TR",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AE",
+        "AZ",
+        "CN",
+        "HK",
+        "ID",
+        "IL",
+        "IN",
+        "IR",
+        "KG",
+        "KZ",
+        "MO",
+        "MY",
+        "OM",
+        "QA",
+        "RU",
+        "SA",
+        "TJ",
+        "TM",
+        "UZ"
+      ],
+      "findings": [
+        "Added Pakistani consular one-month visa, Turkish visa requirement with method uncertainty, and Taiwanese 30-day electronic visa/Kabul-only entry from explicit official-origin guidance.",
+        "Dubai consulate confirms electronic issuance but retains nationality/residence eligibility; do not generalize “apply from anywhere”. Islamabad explicitly names Pakistan. Other mission attempts in Iran/Russia failed 500; New Delhi/Beijing guessed mission hosts failed DNS. Other assigned origins still require nationality-specific consular or permitted-residence electronic branches. HK/MO/IL document acceptance unproved."
+      ],
+      "attemptedUrls": [
+        "https://beijing.mfa.gov.af/visa/",
+        "https://www.afghanembassy.cn/visa/",
+        "https://afghanconsulate.ae/services/applying-for-visa/",
+        "https://afghanconsulate.ae/visa/",
+        "https://newdelhi.mfa.gov.af/visa/",
+        "https://tehran.mfa.gov.af/visa/",
+        "https://islamabad.mfa.gov.af/visa/",
+        "https://moscow.mfa.gov.af/visa/",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-190-fde3f-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-190-fde3f-1.html",
+        "https://afghanconsulate.ae/"
+      ]
+    },
+    {
+      "destination": "BO",
+      "resolvedOrigins": [
+        "RU"
+      ],
+      "remainingOrigins": [
+        "AE",
+        "AG",
+        "BG",
+        "CG",
+        "DO",
+        "HN",
+        "IL",
+        "KR",
+        "MO",
+        "MT",
+        "RO",
+        "SD",
+        "SS",
+        "SV",
+        "US",
+        "VC",
+        "XK",
+        "ZA"
+      ],
+      "findings": [
+        "Russian MFA ordinary column resolves RU as 90 days within 180. Diplomatic three-month column kept separate.",
+        "Re-read December 1 2025 ministry announcement: headline says from today, body explicitly says progressive/gradual implementation. Eight new Group I countries remain held pending operative commencement, especially Israel’s contradictory old portal metadata. Germany mission’s current successor website publishes generic documents, no ordinary nationality determination. Washington old host is a hosting placeholder; gazette host DNS failed; public ministry search returned 401, not bypassed.",
+        "Other bilateral/SAR and omitted-state cases (AG/CG/DO/HN/MO/SD/SS/SV/VC/XK) remain unresolved, not inferred from application group fields."
+      ],
+      "attemptedUrls": [
+        "https://cancilleria.gob.bo/mre/2025/12/01/23577/",
+        "https://cancilleria.gob.bo/mre/2026/03/12/24646/",
+        "https://www.boliviawdc.org/en-us/consular-affairs/visas/tourist-visa",
+        "https://gacetaoficialdebolivia.gob.bo/",
+        "https://www.gacetaoficialdebolivia.gob.bo/",
+        "https://embajadas.cancilleria.gob.bo/alemania/visas/",
+        "https://www.bolivia.de/konsularabteilung/visa/",
+        "https://overseas.mofa.go.kr/bo-ko/index.do",
+        "https://migracion.gob.bo/",
+        "https://cancilleria.gob.bo/mre/wp-json/wp/v2/search?search=visa&per_page=100",
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Bolivia.html"
+      ]
+    },
+    {
+      "destination": "SO",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BI",
+        "CD",
+        "HK",
+        "IL",
+        "KE",
+        "MO",
+        "PS",
+        "RW",
+        "SS",
+        "TW",
+        "TZ",
+        "UG",
+        "XK"
+      ],
+      "findings": [
+        "Reviewed federal post-September-2025 prior electronic-approval requirement against EAC and special-document gaps. ETAS returned 403; Kenyan mission is under maintenance; attempted regional and ministry pages were unavailable.",
+        "Taiwan BOCA gives older-style advance mission instructions but does not reconcile current federal electronic/document restrictions; no automatic promotion to electronic eligibility. All 13 gaps remain unresolved: seven EAC origins plus IL/HK/MO/PS/TW/XK. Somaliland is a separate entry regime."
+      ],
+      "attemptedUrls": [
+        "https://www.eac.int/immigration/visa-information",
+        "https://somaliembassy.co.ke/",
+        "https://mfa.gov.so/immigration/",
+        "https://mfa.go.ke/travel-advisory",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Somalia",
+        "https://etas.gov.so/",
+        "https://www.mofa.gov.tw/News.aspx?n=95&sms=73&key=%E7%B4%A2%E9%A6%AC%E5%88%A9%E4%BA%9E",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-198-2e75a-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-198-2e75a-1.html"
+      ]
+    },
+    {
+      "destination": "ME",
+      "resolvedOrigins": [
+        "BF"
+      ],
+      "remainingOrigins": [
+        "CV",
+        "EC",
+        "MR",
+        "MZ",
+        "PK",
+        "SS"
+      ],
+      "findings": [
+        "Current Burkina Faso country page now explicitly states visa required: one addition. Other six country pages inspected; Cabo Verde/Mozambique/South Sudan/Pakistan have only third-country-document concessions or no baseline paragraph, Ecuador only says may apply, Mauritania still mixes Congo and Mauritania in the subject.",
+        "General visa page retains older nationality exemptions contradicted by newer country pages. Its broad default cannot safely resolve the six incomplete country cases without a current consolidated exemption decree. No third-country residence assumed."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/burkina-faso",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/cabo-verde",
+        "https://www.gov.me/cg/diplomatske-misije/ambasade-i-konzulati-crne-gore/pakistan",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/cape-verde",
+        "https://www.gov.me/en/documents",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/ecuador",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/mauritania",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/mozambique",
+        "https://www.gov.me/clanak/pakistan",
+        "https://www.gov.me/diplomatske-misije/ambasade-i-konzulati-crne-gore/pakistan",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/pakistan",
+        "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/south-sudan",
+        "https://www.gov.me/en/article/visas"
+      ]
+    },
+    {
+      "destination": "IL",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "IQ",
+        "IR",
+        "LB",
+        "PS",
+        "SY"
+      ],
+      "findings": [
+        "Taipei mission explicitly resolves TW: 90-day tourist waiver subject to ETA-IL. Retrieved actual service body, not an eligibility dropdown.",
+        "IR/IQ/LB/SY require restricted-nationality/sponsor/clearance rules not supplied by ordinary tourist guidance. PS depends on population registration and permit authority, not ordinary ETA. Those five remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://embassies.gov.il/taipei/en/services",
+        "https://embassies.gov.il/london/en/services/foreign-citizens/entry-visa-visiting-or-touring-israel",
+        "https://embassies.gov.il/taipei/en/consularservices/Pages/Visas.aspx",
+        "https://embassies.gov.il/taipei/en/services/foreign-citizens/entry-visa-visiting-or-touring-israel"
+      ]
+    },
+    {
+      "destination": "ET",
+      "resolvedOrigins": [
+        "HK",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "HKSAR Immigration country ID46 expressly permits VOA at Bole with three-month stay. Taiwan BOCA expressly names tourist VOA eligibility and 30/90-day options; transit-stop and other-border caveats retained.",
+        "MO/XK/PS remain unverified for document acceptance and nationality-specific issuance. Macao alternative PDF returned 404. No universal eligibility inference from a form or generic all-countries slogan."
+      ],
+      "attemptedUrls": [
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-1.html",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.dsi.gov.mo/download/visa_free_list_e.pdf",
+        "https://www.boca.gov.tw/sp-foof-countrycp-02-165-9b769-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-192-4eeea-02-1.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-192-4eeea-1.html"
+      ]
+    },
+    {
+      "destination": "LC",
+      "resolvedOrigins": [
+        "XK"
+      ],
+      "remainingOrigins": [
+        "SS",
+        "VA"
+      ],
+      "findings": [
+        "Recovered actual current Attorney General statutory consolidation. Schedule 3, amended by SI 134/2020, explicitly names Republic of Kosovo as prior-visa required, resolving the obsolete administrative-list omission.",
+        "Schedules 2, 3 and 4 and exemption clause inspected. SS and VA remain absent. No residual visa default was established; one-day cruise exception is not generalized into ordinary tourist visa freedom."
+      ],
+      "attemptedUrls": [
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/section-4-03",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/immigration-(visa)-order-section-7-(statutory-instruments-33-2006-and-12-2007)",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/section-3-06",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/schedule-1-01",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/schedule-2-01",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/schedule-3",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/schedule-4",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/3.-requirement-for-visa"
+      ]
+    },
+    {
+      "destination": "MN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CU",
+        "XK"
+      ],
+      "findings": [
+        "Re-inspected current MFA treaty table: Cuba only in diplomatic/official section, contrary to the eVisa portal waiver listing. Havana mission alternatives 404, Cuban mission TLS failure. CU remains conflicted; XK recognition remains unestablished."
+      ],
+      "attemptedUrls": [
+        "https://misiones.cubaminrex.cu/es/mongolia/servicios-consulares",
+        "https://en.consul.mn/visa/c/83",
+        "https://havana.embassy.mn/",
+        "https://immigration.gov.mn/en/visa-total/visa-type/",
+        "https://havana.embassy.mn/subcategory/456"
+      ]
+    },
+    {
+      "destination": "DK",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Somali ordinary-passport recognition/limited-territorial-visa gap remains. New to Denmark general short-visa page retrieved but gives no Somali tourist document route. Specific travel-document/group URLs returned 404; Nairobi mission 520. EU legal ability to issue separate-sheet visas is not proof of Danish ordinary tourist issuance."
+      ],
+      "attemptedUrls": [
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visas/Travel-documents",
+        "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa",
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visas/Passport-and-other-travel-documents",
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visas/Visa-groups",
+        "https://kenya.um.dk/en/travel-and-residence/visa-and-residence-permit/visa",
+        "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Private-visits-and-tourist-visits"
+      ]
+    },
+    {
+      "destination": "PL",
+      "resolvedOrigins": [
+        "RU"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Retrieved current Border Guard restrictions index and Russian-specific guidance, then actual linked legislation through the public ELI legal-text endpoint after ISAP 403. Section 3a expressly restricts Schengen EXTERNAL border entry; section 3a(2) enumerates exceptions. RU ordinary tourism resolved as external-border restricted, not a blanket Russian-nationality ban."
+      ],
+      "attemptedUrls": [
+        "https://www.strazgraniczna.pl/pl/cudzoziemcy/warunki-wjazdu-do-rp",
+        "https://eli.gov.pl/api/acts/DU/2023/1403/text.html",
+        "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001403",
+        "https://www.strazgraniczna.pl/pl/cudzoziemcy/obowiazujace-ograniczenia",
+        "https://www.strazgraniczna.pl/",
+        "https://www.strazgraniczna.pl/pl/cudzoziemcy/obowiazujace-ograniczenia/13494,EN-RUSSIA-RESTRICTIONS-AGAINST-RUSSIAN-CITIZENS.html"
+      ]
+    },
+    {
+      "destination": "HK",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Read current Immigration visit guidance and investigated Kosovo-specific recognition leads. Official alternative URLs did not establish ordinary Kosovo document acceptance. Secondary Timatic-derived claim of refusal was located but not promoted to primary proof. XK remains unresolved rather than using the seven-day other-countries default."
+      ],
+      "attemptedUrls": [
+        "https://ambasadat.net/hong-kong/",
+        "https://www.immd.gov.hk/eng/services/visas/visit_transit.html",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Hong_Kong",
+        "https://www.immd.gov.hk/eng/forms/forms/id1004.html"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "passport": "BH",
+      "destination": "AZ",
+      "reason": "Baseline airport-visa-only classification misses the explicit temporary three-entry ordinary-national waiver in the dated ASAN table. Historical replacement; live nationality verification remains unavailable.",
+      "sources": [
+        "gap-05-az-asan-july2026"
+      ]
+    },
+    {
+      "passport": "KW",
+      "destination": "AZ",
+      "reason": "Baseline airport-visa-only classification misses the explicit temporary three-entry ordinary-national waiver in the dated ASAN table. Historical replacement; live nationality verification remains unavailable.",
+      "sources": [
+        "gap-05-az-asan-july2026"
+      ]
+    },
+    {
+      "passport": "OM",
+      "destination": "AZ",
+      "reason": "Baseline airport-visa-only classification misses the explicit temporary three-entry ordinary-national waiver in the dated ASAN table. Historical replacement; live nationality verification remains unavailable.",
+      "sources": [
+        "gap-05-az-asan-july2026"
+      ]
+    },
+    {
+      "passport": "SA",
+      "destination": "AZ",
+      "reason": "Baseline airport-visa-only classification misses the explicit temporary three-entry ordinary-national waiver in the dated ASAN table. Historical replacement; live nationality verification remains unavailable.",
+      "sources": [
+        "gap-05-az-asan-july2026"
+      ]
+    },
+    {
+      "passport": "JP",
+      "destination": "AZ",
+      "reason": "Baseline airport-visa-only classification misses the explicit temporary three-entry ordinary-national waiver in the dated ASAN table. Historical replacement; live nationality verification remains unavailable.",
+      "sources": [
+        "gap-05-az-asan-july2026"
+      ]
+    },
+    {
+      "passport": "KR",
+      "destination": "AZ",
+      "reason": "Baseline airport-visa-only classification misses the explicit temporary three-entry ordinary-national waiver in the dated ASAN table. Historical replacement; live nationality verification remains unavailable.",
+      "sources": [
+        "gap-05-az-asan-july2026"
+      ]
+    },
+    {
+      "passport": "CN",
+      "destination": "AZ",
+      "reason": "Baseline establishes the waiver but leaves days unknown; the actual Baku embassy treaty notice positively establishes 30 per visit and 90 per 180 days.",
+      "sources": [
+        "gap-05-az-china-treaty"
+      ]
+    }
+  ]
+}

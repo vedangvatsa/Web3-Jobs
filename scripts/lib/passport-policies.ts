@@ -34,6 +34,7 @@ export function compilePassportRules(passport: PassportCountry, countries: Passp
     for (const { passports, destinations, ...rule } of audit.policies) {
       if (!passports.includes(passport.iso!)) continue;
       addSource(rule.s!);
+      rule.evidence?.forEach(addSource);
       for (const destination of destinations) {
         if (reviews.has(destination)) throw new Error(`Conflicting reviewed policies ${passport.iso}/${destination}`);
         rules.set(destination, rule);

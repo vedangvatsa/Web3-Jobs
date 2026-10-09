@@ -1,0 +1,379 @@
+[
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "CN",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Obtain Visitor visa and printed approval before travel. Government tourism accepts emailed application documents including passport, photograph, return itinerary, hotel and employment/support evidence. This is a pre-approved visa, not visa on arrival; online/eVisa method beyond email application is not established.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "FJ",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "FM",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "KI",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "MH",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "PG",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "PW",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "SB",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "TH",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "TO",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "TV",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "VU",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  },
+  {
+    "batch": "gap-pass4-integration",
+    "passport": "WS",
+    "destination": "NR",
+    "reason": "Integration review of Nauru: visa duty remains supported. Regulation 12(2)(a), read with 16(4) and Schedule 3, permits on-entry visitor-visa applications for these fee-exempt nationalities, while live Tourism guidance requires advance application and printed approval. Replace the categorical preapproval-only/no-VOA claim with explicit method uncertainty; neither practical walk-up issuance nor a visa waiver is established. Taiwan is excluded following SL 14/2024; the independently evidenced UAE and Russian waivers are retained.",
+    "sources": [
+      "gap4-07-nr-law",
+      "oceania-islands-nr"
+    ],
+    "previous": {
+      "t": "vr",
+      "d": 0,
+      "s": "oceania-islands-nr",
+      "n": "Visitor visa application and approval letter required before travel even though the nationality is exempt from visitor visa fee on government tourism list. Application documents may be emailed; this is not VOA. Printed approval, passport, return itinerary, accommodation and support/employment evidence required. Confirm current document validity requirements with Immigration.",
+      "stay": "As granted; published fee bands up to 1, 2 or 3 months",
+      "label": "Pre-approved visitor visa; fee exemption"
+    },
+    "replacement": {
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-07-nr-law",
+      "evidence": [
+        "oceania-islands-nr"
+      ],
+      "n": "Visitor visa required; Schedule 3 exempts this nationality from the visitor-visa fee, not from the visa. Regulations 12(2)(a) and 16(4) permit an application on entry, but current Tourism instructions require an advance application and a printed approval letter. Practical arrival-versus-advance issuance remains unreconciled: confirm with Nauru Immigration before travel; no unconditional walk-up visa or electronic-visa availability is asserted. Tourism accepts emailed documents: passport, photograph, return itinerary, accommodation and employment/support evidence; carry the printed approval for that advance process. Confirm current passport/document validity requirements. Regulation 12 requires onward admission documents and means of support; the grant is single-entry, no more than three months, with its actual conditions controlling.",
+      "stay": "As granted; single entry, no more than 3 months under Regulation 12(7)",
+      "label": "Visitor visa required; fee exemption / channel conflict"
+    }
+  }
+]

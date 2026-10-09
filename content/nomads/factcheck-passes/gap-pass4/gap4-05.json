@@ -1,0 +1,1639 @@
+{
+  "version": 1,
+  "batch": "gap4-05",
+  "baselineSha256": "4f998906b7a139661baf2a82d15de315463be057bd7eccf79c463f2448945055",
+  "sources": {
+    "gap4-05-mo-gw": {
+      "title": "Macao DSI: MSAR-passport arrival visa at Osvaldo Vieira International Airport",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/406?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-sg-gw": {
+      "title": "Singapore MFA: Guinea-Bissau arrival visa for Singaporeans",
+      "urls": [
+        "https://www.mfa.gov.sg/countries-regions/g/guinea-bissau/travel-page"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "0c7e9821910155bd3bb213701f4bfe3f060ab776af749bf43ef8761b7cc6802b"
+    },
+    "gap4-05-nl-gw": {
+      "title": "Netherlands government: Dutch-passport Guinea-Bissau visa requirement",
+      "urls": [
+        "https://www.nederlandwereldwijd.nl/reisadvies/guinee-bissau"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e1006e2acec474005174a8055a74995dd88a6df3a0661b16156343819be5f714"
+    },
+    "gap4-05-be-gw": {
+      "title": "Belgian Foreign Affairs: Guinea-Bissau visa requirement",
+      "urls": [
+        "https://diplomatie.belgium.be/fr/pays/guinee-bissau/voyager-en-guinee-bissau-conseils-aux-voyageurs/informations-pratiques-pour-la"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "651936a978d3ba644e5dbf0777fc1c9cb9010f18268b32135952ff7d017a7f06"
+    },
+    "gap4-05-md-outbound": {
+      "title": "Moldova MFA: ordinary-passport outbound schedule, updated 20 February 2026",
+      "urls": [
+        "https://www.mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "eb601bc09b0de93863e9750a9254ea16dd423b437f8702e675621e80f8d9414a"
+    },
+    "gap4-05-mn-gw": {
+      "title": "Mongolia MFA: ordinary-passport exemptions and explicit outbound visa default",
+      "urls": [
+        "https://www.consul.mn/visa/c/24"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "dd69c9f7170a9c84de272f12a93bec6e15b60e688e552e7151ec580db41ee3be"
+    },
+    "gap4-05-in-gw": {
+      "title": "India MEA: Guinea-Bissau arrival-visa facility and recommended advance authorization",
+      "urls": [
+        "https://www.mea.gov.in/vffin"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "2ec228305d9faf15ab131fc0ec7c3d0b98fb10d712f3b79a30d7c808f88ab377"
+    },
+    "gap4-05-tw-gw": {
+      "title": "Taiwan BOCA: Guinea-Bissau prior consular visa for Taiwan nationals",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-250-5289e-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "bb21d88dd6c9a9d91dda35cd563f2359cbf5e160baa20962ef360505752d8f42"
+    },
+    "gap4-05-ml-checker": {
+      "title": "Mali Foreign Affairs: public ordinary-passport visa-requirement lookup",
+      "urls": [
+        "https://diplomatiemdc.gouv.ml/vitrine/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-mo-ml": {
+      "title": "Macao DSI: MSAR-passport Mali visa exemption",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/365?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-tw-ml": {
+      "title": "Taiwan BOCA: prior Mali visa and consular jurisdiction",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-238-18c67-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "46e01cba9da3f6b34b630ef2e566186468f28d4b7534aca7cc689d134693f661"
+    },
+    "gap4-05-ba-law-default": {
+      "title": "Bosnia and Herzegovina: current mission visa default and Decision 3/15 with full amendment chain through 37/26",
+      "urls": [
+        "https://www.bhembassy.org/visainfo.html",
+        "https://sps.gov.ba/dokumenti/predzakonski-akti/",
+        "https://sps.gov.ba/dokumenti/32/ba-odluke/1277/odluka-o-vizama",
+        "https://www.sluzbenilist.ba/page/PdfDownload?BrojIzdanja=47&NivoIzdavanja_FK=1&GodinaIzdanja=2017",
+        "https://www.sluzbenilist.ba/page/akt/Mk1PXXuNd54=",
+        "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45h8nCgruXu94=",
+        "https://www.sluzbenilist.ba/page/akt/ysp02SFC2es=",
+        "https://www.sluzbenilist.ba/page/akt/Y8iMAohz4nh78h77Zy6vE=",
+        "https://www.sluzbenilist.ba/page/akt/qkh2uhuYBvU=",
+        "https://www.sluzbenilist.ba/page/akt/Wi2t0dd7Lq4="
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-tw-ag": {
+      "title": "Taiwan BOCA: 30-day Antigua and Barbuda tourism visa exemption",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-216-16335-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "2cfb066bda7c9223bdea59b8af2d895b97607396ac9a5c536bd6e6e4bf8cf007"
+    },
+    "gap4-05-mo-cm": {
+      "title": "Macao DSI: Cameroon eVisa eligibility for ordinary MSAR passports",
+      "urls": [
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/452?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-tw-cm": {
+      "title": "Taiwan BOCA: Cameroon electronic short-tourism visa procedure",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-206-196e3-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "4475fb85ef4e8f65773f695d77d588774f540b5004a599468d42d6e75ed32213"
+    },
+    "gap4-05-tw-bd": {
+      "title": "Taiwan BOCA: Bangladesh visa requirement and conditional arrival issuance",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-122-07ecd-02-1.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "1c53e0eb8d3f4422af3c83321c0ebae664732189ad62884cdf933c02768f94aa"
+    },
+    "gap4-05-lk-requirement": {
+      "title": "Sri Lanka DI&E: prior entry-permission default and passport-class exceptions",
+      "urls": [
+        "https://eta.gov.lk/slvisa/visainfo/center.jsp?locale=en_US",
+        "https://www.eta.gov.lk/slvisa/visainfo/diplo.jsp?locale=en_US",
+        "https://eta.gov.lk/slvisa/visainfo/faq.jsp?locale=en_US"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-dk-so-requirement": {
+      "title": "Denmark Immigration Service: Somali visa obligation and current travel-document framework",
+      "urls": [
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visum/Countries-with-a-visa-requirement-and-visa-free-countries",
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visum/Overview-of-Travel-Documents,-Visa-Conditions-and-Border-Crossing-Points/",
+        "https://www.nyidanmark.dk/-/media/Files/US/Visum/Diverse-filer/Overview-of-travel-documents-visa-requirements-and-border-crossing-points130426.pdf",
+        "https://home-affairs.ec.europa.eu/document/download/8f366904-d3f7-4c5c-bfc4-3021efb65652_en?filename=part_i_travel_documents_issued_by_third_countries_and_territorial_entities_en.xlsx"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-ch-so-requirement": {
+      "title": "Swiss SEM: Somali visa obligation and recognized-travel-document condition",
+      "urls": [
+        "https://www.sem.admin.ch/sem/en/home/publiservice/weisungen-kreisschreiben/visa/liste1_staatsangehoerigkeit/s.html",
+        "https://www.sem.admin.ch/dam/sem/en/data/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste1-e.pdf.download.pdf/bfm-anh01-liste1-e.pdf",
+        "https://www.sem.admin.ch/dam/sem/en/data/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste2-e.pdf.download.pdf/sem-anh01-liste2-e.pdf",
+        "https://home-affairs.ec.europa.eu/document/download/8f366904-d3f7-4c5c-bfc4-3021efb65652_en?filename=part_i_travel_documents_issued_by_third_countries_and_territorial_entities_en.xlsx"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "gap4-05-cl-xk-requirement": {
+      "title": "Chile Consular Ministry: Kosovo visa-required row with explicit recognition caveat",
+      "urls": [
+        "https://www.consulado.gob.cl/consulados/stat/info_visas/info_visas.json",
+        "https://www.consulado.gob.cl/consulados/site/edic/base/port/notas_visas.json"
+      ],
+      "checkedAt": "2026-10-08"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "voa",
+      "d": 90,
+      "s": "gap4-05-mo-gw",
+      "n": "Ordinary Macao SAR passports only. The arrival-visa concession is limited to Osvaldo Vieira International Airport, Bissau. It does not establish arrival issuance at land or sea borders, or guarantee issuance or admission. Other visa channels are not determined by this record."
+    },
+    {
+      "passports": [
+        "SG"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "voa",
+      "d": 90,
+      "s": "gap4-05-sg-gw",
+      "n": "Singapore ordinary-passport visitors. Passport must have at least six months validity on expected departure. Singapore MFA describes the arrival-visa facility but gives no port-specific implementation details; confirm current issuance arrangements before travel."
+    },
+    {
+      "passports": [
+        "NL"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-nl-gw",
+      "n": "A visa is required for Dutch passports; passport must remain valid for at least six months on arrival. The source directs travellers to the Guinea-Bissau embassy in Brussels. Stay and electronic/arrival eligibility are not established."
+    },
+    {
+      "passports": [
+        "BE"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-be-gw",
+      "n": "Belgian nationals require a visa. The source identifies the Guinea-Bissau missions in Brussels and Dakar; it does not establish permitted stay or rule out electronic or arrival channels."
+    },
+    {
+      "passports": [
+        "MD"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-md-outbound",
+      "n": "Moldovan ordinary passports require a visa. The current MFA table identifies diplomatic missions; stay and other issuance methods are unspecified, not declared unavailable."
+    },
+    {
+      "passports": [
+        "MD"
+      ],
+      "destinations": [
+        "AG"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-05-md-outbound",
+      "n": "Moldovan ordinary-passport short visitors are visa-exempt according to Moldova MFA. No permitted stay is specified in the ordinary-passport row."
+    },
+    {
+      "passports": [
+        "MN"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-mn-gw",
+      "n": "For Mongolian ordinary passports, the MFA explicitly requires visas for destinations outside its exemption schedule, including Guinea-Bissau. Issuance method and permitted stay are not established; electronic issuance is not ruled out."
+    },
+    {
+      "passports": [
+        "IN"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap4-05-in-gw",
+      "n": "India MEA describes a visa-on-arrival facility and recommends obtaining advance Interior Ministry entry authorization requested by the host or employer. Its 90-day figure is visa validity; the permitted stay and port-specific implementation are not established. Confirm authorization and issuance arrangements before travel."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "GW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-tw-gw",
+      "n": "Taiwan nationals are instructed to obtain a visa at a Guinea-Bissau mission before travel. Passport validity of at least six months, departure ticket and yellow-fever certificate are listed. Stay and electronic eligibility are not established."
+    },
+    {
+      "passports": [
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BD",
+        "BE",
+        "BG",
+        "BI",
+        "BO",
+        "BR",
+        "BT",
+        "BW",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "GA",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HR",
+        "HT",
+        "HU",
+        "IE",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KM",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MD",
+        "MG",
+        "MN",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PK",
+        "PL",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SK",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "TH",
+        "TJ",
+        "TM",
+        "TR",
+        "TT",
+        "TZ",
+        "UA",
+        "UG",
+        "UY",
+        "UZ",
+        "VA",
+        "VE",
+        "VN",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "destinations": [
+        "ML"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-ml-checker",
+      "n": "Mali’s public government lookup explicitly requires a visa for an ordinary passport with residence in the passport country. The result establishes the requirement only: permitted stay, electronic or arrival issuance, and any additional clearance remain unconfirmed. It is not a guarantee of tourist issuance or admission and does not mean eVisa is unavailable."
+    },
+    {
+      "passports": [
+        "PS"
+      ],
+      "destinations": [
+        "ML"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-ml-checker",
+      "n": "The Mali government lookup explicitly requires a visa for the Palestine nationality option, ordinary passport, and residence in Palestine. This establishes a permission requirement only. Acceptance of a particular Palestinian issuing authority or document variant, the competent issuance channel and stay still require confirmation; routine tourist issuance or admission is not established.",
+      "label": "Visa required; document handling unconfirmed"
+    },
+    {
+      "passports": [
+        "BF",
+        "NE"
+      ],
+      "destinations": [
+        "ML"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap4-05-ml-checker",
+      "n": "The Mali government lookup exempts these ordinary-passport nationals and instructs them to present identity documents or passports currently valid in their own country. The recorded checks use residence in the passport country. No tourist stay length or unrestricted residence/work right is specified."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "ML"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap4-05-mo-ml",
+      "n": "Ordinary Macao SAR passports: visa exemption for up to 90 days. This is current DSI confirmation of the concession, with a link to the 2004 agreement, not a newly enacted 2026 policy."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "ML"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-tw-ml",
+      "n": "Taiwan nationals must obtain a visa before travel and carry a yellow-fever vaccination certificate. BOCA identifies consular submission by appointment and requires checking residence-based mission jurisdiction. Stay and electronic eligibility are unspecified."
+    },
+    {
+      "passports": [
+        "AF",
+        "DZ",
+        "AO",
+        "AM",
+        "BD",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BW",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "KM",
+        "CG",
+        "CD",
+        "CI",
+        "CU",
+        "DJ",
+        "DO",
+        "EC",
+        "EG",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GH",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KG",
+        "LA",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MG",
+        "MW",
+        "MV",
+        "ML",
+        "MR",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NE",
+        "NG",
+        "KP",
+        "PK",
+        "PG",
+        "PH",
+        "RW",
+        "ST",
+        "SN",
+        "SL",
+        "SO",
+        "ZA",
+        "SS",
+        "LK",
+        "SD",
+        "SR",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TG",
+        "TN",
+        "TM",
+        "UG",
+        "UZ",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "destinations": [
+        "BA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-ba-law-default",
+      "n": "Visa required for ordinary-passport tourism without a qualifying supporting document. Article 17 permits conditional visa-free entry with a valid multiple-entry visa or residence permit issued by a Schengen state, EU member state or the United States: no more than 30 uninterrupted days, within 90 days in any 180-day period and within document validity. No such document is assumed. Visa issuance channel and stay remain unconfirmed; eVisa is not declared unavailable.",
+      "label": "Visa required; foreign-document exemption conditional"
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "AG"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap4-05-tw-ag",
+      "n": "Taiwan passport holders may visit for tourism without a visa for 30 days. Passport must be valid more than six months from entry and a return/onward reservation is required. The ArriveAntigua electronic declaration is optional; a paper arrival card remains available."
+    },
+    {
+      "passports": [
+        "MO"
+      ],
+      "destinations": [
+        "CM"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap4-05-mo-cm",
+      "n": "Ordinary Macao SAR passports are eligible for Cameroon’s electronic visa process. Obtain the online authorization before travel and complete the applicable biometric/visa-printing formalities under the Cameroon procedure. Permitted tourist stay is not specified.",
+      "evidence": [
+        "gap-11-cm-law"
+      ]
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "CM"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap4-05-tw-cm",
+      "n": "Taiwan nationals travelling for short tourism may use Cameroon’s official electronic visa process. Obtain authorization before travel and complete the applicable biometric/visa-printing formalities. BOCA advises confirming current entry requirements with a Cameroon mission; permitted stay is unspecified.",
+      "evidence": [
+        "gap-11-cm-law"
+      ]
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "BD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-tw-bd",
+      "n": "Visa required. Taiwan BOCA confirms continued conditional arrival-visa issuance: travellers from countries without a Bangladesh embassy must justify the necessity of travel, and issuance remains discretionary. The separately documented investment/business invitation procedure is not assumed for tourism. Obtain confirmation of the appropriate visa channel before travel; no tourist stay or guaranteed arrival eligibility is established.",
+      "label": "Visa required; arrival issuance conditional",
+      "evidence": [
+        "gap-02-bd-aip-current"
+      ]
+    },
+    {
+      "passports": [
+        "CD",
+        "CG",
+        "KP"
+      ],
+      "destinations": [
+        "LK"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-lk-requirement",
+      "n": "Sri Lanka’s current DI&E guidance requires prior entry permission for ordinary foreign visitors. For these passports, the appropriate restricted-nationality approval or referral channel is not established; ordinary direct-online ETA and arrival issuance are not certified. Confirm the necessary approval with DI&E before travel. No permitted stay is assigned, and electronic issuance is not declared unavailable.",
+      "label": "Prior permission required; channel unconfirmed"
+    },
+    {
+      "passports": [
+        "SO"
+      ],
+      "destinations": [
+        "DK"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-dk-so-requirement",
+      "n": "Denmark explicitly requires a visa for Somali nationals. An ordinary Somali passport must not be assumed to satisfy the separate travel-document recognition rules. The acceptable original or substitute document, any limited-territorial authorization, transit permissions and a practical tourist issuance path remain unconfirmed. This records the visa obligation only, not routine issuance, admission or a nationality-wide entry ban.",
+      "label": "Visa required; document authorization unresolved"
+    },
+    {
+      "passports": [
+        "SO"
+      ],
+      "destinations": [
+        "CH"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-ch-so-requirement",
+      "n": "Switzerland explicitly requires a visa for Somali nationals and independently requires a recognized travel document. An ordinary Somali passport must not be assumed sufficient. A competent-authority decision on the acceptable original or substitute document, territorial permission and transit routing is still needed. Tourist issuance channel and stay are not established; this is not routine admission clearance or a nationality-wide ban.",
+      "label": "Visa required; document authorization unresolved"
+    },
+    {
+      "passports": [
+        "XK"
+      ],
+      "destinations": [
+        "CL"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-05-cl-xk-requirement",
+      "n": "Chile’s consular nationality table explicitly lists Kosovo as visa-required and notes that Chile does not recognize Kosovo as a subject of international law. This does not establish rejection of every Kosovo document or a nationality-wide entry ban. Accepted original/substitute travel-document treatment and a practical tourist visa issuance route remain unconfirmed; no routine issuance or stay is promised.",
+      "label": "Visa required; document handling unconfirmed"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "GW",
+      "resolvedOrigins": [
+        "BE",
+        "IN",
+        "MD",
+        "MN",
+        "MO",
+        "NL",
+        "SG",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Eight narrow origin-government additions; MO arrival visa is90 days at Osvaldo Vieira International Airport only. Singapore independently reports90-day arrival visas; India describes90-day validity rather than a definite stay, so IN d=0.",
+        "Current ministry/mission research from the preceding pass remains without an authentic exhaustive ordinary exemption/default schedule. No universal arrival visa, ECOWAS/AES/CPLP implementation or ordinary-document rule inferred. Old rgb-visa.com remains rejected as compromised; it was not revisited. Czech guidance only says a visa may be requested, so CZ is not added.",
+        "Other origins still need a current nationality/default schedule, regional valid-document implementation or individual origin-MFA evidence. No source for another nationality is generalized."
+      ],
+      "attemptedUrls": [
+        "https://www.smartraveller.gov.au/destinations/africa/guinea-bissau",
+        "https://diplomatie.belgium.be/fr/pays/guinee-bissau/voyager-en-guinee-bissau-conseils-aux-voyageurs/informations-pratiques-pour-la",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/guinea_bissau/cestovani/visa.html",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/guinea-bissau/",
+        "https://www.mea.gov.in/vffin",
+        "https://www.consul.mn/visa/c/24",
+        "https://www.nederlandwereldwijd.nl/reisadvies/guinee-bissau",
+        "https://www.mfa.gov.sg/countries-regions/g/guinea-bissau/travel-page",
+        "https://www.mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/406?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-250-5289e-02-1.html"
+      ]
+    },
+    {
+      "destination": "ML",
+      "resolvedOrigins": [
+        "AF",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BI",
+        "BO",
+        "BR",
+        "BT",
+        "BW",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DO",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "GA",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HR",
+        "HT",
+        "HU",
+        "IE",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KM",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MD",
+        "MG",
+        "MN",
+        "MO",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NZ",
+        "PA",
+        "PE",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SK",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "TH",
+        "TJ",
+        "TM",
+        "TR",
+        "TT",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UY",
+        "UZ",
+        "VA",
+        "VE",
+        "VN",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "AE",
+        "AG",
+        "BB",
+        "BH",
+        "BN",
+        "BS",
+        "BY",
+        "DM",
+        "FM",
+        "GD",
+        "HN",
+        "ID",
+        "IL",
+        "KI",
+        "KN",
+        "KP",
+        "LC",
+        "LI",
+        "ME",
+        "MH",
+        "MK",
+        "MM",
+        "NR",
+        "OM",
+        "PG",
+        "PW",
+        "SB",
+        "SI",
+        "SM",
+        "SV",
+        "SY",
+        "SZ",
+        "TL",
+        "TO",
+        "TV",
+        "US",
+        "VC",
+        "VU",
+        "WS",
+        "XK",
+        "YE"
+      ],
+      "findings": [
+        "Actual public requirement lookup evaluated exact nationality, ordinary passport and home-country residence; mission routing fetched from the same public UI.133 queries returned explicit visa/exemption alerts. No application redirect followed. Missing nationality or no assigned mission does not create a result.",
+        "AE is held because actual destination checker requires visa while UAE MFA normal-passport row grants90-day exemption; origin travel prohibition is separate. ID remains held for an unreconciled claimed later exemption. US/SY remain held for reported admission restrictions not reconciled with generic required alerts.",
+        "BF/NE have affirmative no-visa results accepting identity documents/passports valid in their own country; no unrestricted free movement or stay length inferred. Macao DSI independently supports MO90, and Taiwan BOCA supports prior visas. Palestine is requirement-only with specific document/issuance uncertainty."
+      ],
+      "attemptedUrls": [
+        "https://www.mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova",
+        "https://www.mofa.gov.ae/en/travel-updates?code=MLI",
+        "https://diplomatiemdc.gouv.ml/vitrine/",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Emirats+Arabes+Unis",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Afghanistan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Antigua-et-Barbuda",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Albanie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Arm%C3%A9nie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Angola",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Argentine",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Autriche",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Australie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Azerba%C3%AFdjan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bosnie-Herz%C3%A9govine",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Barbade",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bangladesh",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Belgique",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bulgarie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bahre%C3%AFn",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Burundi",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Brunei",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bolivie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Br%C3%A9sil",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bahamas",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bhoutan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Botswana",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Bi%C3%A9lorussie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Belize",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Congo-Kinshasa",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Centrafrique",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Congo-Brazzaville",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Suisse",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Chili",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Chine",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Colombie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Costa+Rica",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Cuba",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=R%C3%A9publique+de+Chypre",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=R%C3%A9publique+tch%C3%A8que",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Djibouti",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Danemark",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=R%C3%A9publique+Dominicaine",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=%C3%89quateur",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Estonie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=%C3%89gypte",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=%C3%89rythr%C3%A9e",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Espagne",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=%C3%89thiopie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Finlande",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Fidji",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Micron%C3%A9sie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Gabon",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Grenade",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=G%C3%A9orgie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Guin%C3%A9e+%C3%89quatoriale",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Gr%C3%A8ce",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Guatemala",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Guyana",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Honduras",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Croatie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Ha%C3%AFti",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Hongrie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Indon%C3%A9sie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Irlande",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Isra%C3%ABl",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Inde",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Irak",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Iran",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Islande",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Italie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Jama%C3%AFque",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Jordanie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Japon",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Kenya",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Kirghizistan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Cambodge",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Kiribati",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Comores",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Saint-Christophe-et-Ni%C3%A9v%C3%A8s",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Cor%C3%A9e+du+Nord",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Cor%C3%A9e+du+Sud",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Kowe%C3%AFt",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Kazakhstan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Laos",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Liban",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Sainte-Lucie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Liechtenstein",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Sri+Lanka",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Lesotho",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Lituanie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Luxembourg",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Lettonie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Libye",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Mont%C3%A9n%C3%A9gro",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Madagascar",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=%C3%8Eles+Marshall",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Mac%C3%A9doine+du+Nord",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Birmanie+%28Myanmar%29",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Mongolie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Malte",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Maurice",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Maldives",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Malawi",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Mexique",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Malaisie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Mozambique",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Namibie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Niger",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Nicaragua",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Pays-Bas",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Norv%C3%A8ge",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=N%C3%A9pal",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Nauru",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Nouvelle-Z%C3%A9lande",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Oman",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Panama",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=P%C3%A9rou",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Papouasie-Nouvelle-Guin%C3%A9e",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Philippines",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Pakistan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Pologne",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Palestine",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Portugal",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Palaos",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Paraguay",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Qatar",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Roumanie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Russie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Rwanda",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Arabie+Saoudite",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Seychelles",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Soudan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Su%C3%A8de",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Singapour",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Slov%C3%A9nie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Slovaquie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Saint-Marin",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Somalie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Suriname",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Soudan+du+Sud",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Sao+Tom%C3%A9-et-Principe",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Salvador",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Syrie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Eswatini",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Tha%C3%AFlande",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Tadjikistan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Timor-Oriental",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Turkm%C3%A9nistan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Tonga",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=T%C3%BCrkiye",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Trinit%C3%A9-et-Tobago",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Tuvalu",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Tanzanie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Ukraine",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Ouganda",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=%C3%89tats-Unis",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Uruguay",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Ouzb%C3%A9kistan",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Vatican",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Venezuela",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Vietnam",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Vanuatu",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Samoa",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Y%C3%A9men",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Afrique+du+Sud",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Zambie",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Zimbabwe",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Burkina%20Faso",
+        "https://diplomatiemdc.gouv.ml/vitrine/get_consulat.php?pays=Moldavie",
+        "https://www.ambamali-jp.org/formalites-dentree-au-mali/",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/365?travelPermit=0",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-238-18c67-02-1.html"
+      ]
+    },
+    {
+      "destination": "BA",
+      "resolvedOrigins": [
+        "AF",
+        "DZ",
+        "AO",
+        "AM",
+        "BD",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BW",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "KM",
+        "CG",
+        "CD",
+        "CI",
+        "CU",
+        "DJ",
+        "DO",
+        "EC",
+        "EG",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GH",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KG",
+        "LA",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MG",
+        "MW",
+        "MV",
+        "ML",
+        "MR",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NE",
+        "NG",
+        "KP",
+        "PK",
+        "PG",
+        "PH",
+        "RW",
+        "ST",
+        "SN",
+        "SL",
+        "SO",
+        "ZA",
+        "SS",
+        "LK",
+        "SD",
+        "SR",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TG",
+        "TN",
+        "TM",
+        "UG",
+        "UZ",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "Recovered published official Gazette47/17 PDF through its public download link: act654, pp3–4 adds only the Saudi supporting-document exception to Article17. Prior HTML issue-page warnings were hidden; public PDF was available without authentication.",
+        "Reconciled full Decision3/15 amendment chain:73/17 replaces Article17 and adds18 nationality exemptions;40/20 suspension powers;50/23,7/24,34/25,37/26 summer treatment. Current Washington default and Foreigners Service continued law link support93 ordinary visa-required additions. Known China/Moldova waivers already supported and excluded from this residual set.",
+        "PS remains a specific ordinary-document case; general statutory default is not used to invent recognized Palestinian document handling. No expired summer waiver is applied."
+      ],
+      "attemptedUrls": [
+        "https://www.sluzbenilist.ba/page/akt/qkh2uhuYBvU=",
+        "https://www.sluzbenilist.ba/page/akt/Wi2t0dd7Lq4=",
+        "https://www.sluzbenilist.ba/page/akt/gztz5k76kjn45h8nCgruXu94=",
+        "https://www.sluzbenilist.ba/page/PdfDownload?BrojIzdanja=47&NivoIzdavanja_FK=1&GodinaIzdanja=2017",
+        "https://www.sluzbenilist.ba/page/akt/ysp02SFC2es=",
+        "https://www.sluzbenilist.ba/page/akt/Y8iMAohz4nh78h77Zy6vE=",
+        "https://www.sluzbenilist.ba/page/akt/Mk1PXXuNd54=",
+        "https://ambasadabih.ca/consular-services/visa/",
+        "https://sps.gov.ba/dokumenti/32/ba-odluke/1277/odluka-o-vizama",
+        "https://www.eoisarajevo.gov.in/page/visa-and-consular-services/",
+        "https://www.bhembassyin.com/",
+        "https://www.bihambasada.com/",
+        "https://sps.gov.ba/dokumenti/predzakonski-akti/",
+        "https://www.bhembassy.org/visainfo.html"
+      ]
+    },
+    {
+      "destination": "AG",
+      "resolvedOrigins": [
+        "MD",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "BO",
+        "EC",
+        "HK",
+        "HR",
+        "IS",
+        "KR",
+        "MC",
+        "MG",
+        "MH",
+        "MK",
+        "MX",
+        "NO",
+        "PA",
+        "PE",
+        "PS",
+        "SM",
+        "SR",
+        "VA",
+        "XK"
+      ],
+      "findings": [
+        "MD ordinary exemption from current Moldova MFA table and TW tourism30 exemption from BOCA. ArriveAntigua declaration is optional, not ETA.",
+        "Other19 origin gaps compared against prior tourism default, known omitted/later waivers and new current mission FAQ. FAQ gives visitor stay but no nationality exemption schedule. EEAS text is outbound Caribbean-to-EU and is not reversed. EUR-Lex returned empty202; Mexico challenge and Croatia homepage redirect do not supply route evidence.",
+        "BO commencement remains unproved; other claimed later exemptions and HK/PS/XK document/method cases require actual current nationality-specific evidence."
+      ],
+      "attemptedUrls": [
+        "https://www.eeas.europa.eu/barbados/travel-study_en?s=132",
+        "https://www.eeas.europa.eu/antigua-and-barbuda/travel-study_en?s=132",
+        "https://op.europa.eu/en/publication-detail/-/publication/0f6c415d-4b67-4c7b-bd9d-0423fbb75f1d/language-en",
+        "https://www.info.gov.hk/gia/general/200907/23/P200907230169.htm",
+        "https://mvep.gov.hr/consular-information-130483/visas-130484/visa-requirements-overview-130485/130485?country=6",
+        "https://antigua-barbuda.com/faqs/",
+        "https://antigua-barbuda.com/visas",
+        "https://portales.sre.gob.mx/guiadelviajero/103-ficha-de-paises/246-antigua-y-barbuda",
+        "https://mfa.gov.mk/en-GB/kontakt/1372/vizen-rezhim-za-drzhavjani-na-rsm",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22009A0630(01)",
+        "https://www.mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-216-16335-02-1.html"
+      ]
+    },
+    {
+      "destination": "CM",
+      "resolvedOrigins": [
+        "MO",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "CF",
+        "CG",
+        "GA",
+        "GQ",
+        "HK",
+        "ML",
+        "NG",
+        "PS",
+        "TD",
+        "XK"
+      ],
+      "findings": [
+        "MO DSI eVisa record and TW BOCA short-tourist eVisa instructions resolve document-specific eligibility, combined with existing signed statutory requirement and electronic workflow.",
+        "Authentic Japan mission current page lists Mali and Equatorial Guinea in a diplomatic/service exemption section; this is not evidence of ordinary exemptions or their cancellation. CEMAC CF/CG/GA/GQ/TD document implementation, ML/NG bilateral ordinary exceptions, HK/PS/XK document handling remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://cameroonemb-jp.org/fr/visa/",
+        "https://www.cameroonembassyusa.org/mainFolder/consular-services.html",
+        "https://www.dsi.gov.mo/api/v1/web/entry/country/452?travelPermit=0",
+        "https://www.dsi.gov.mo/api/v1/web/entry/searchCountry?travelPermit=0",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-206-196e3-02-1.html"
+      ]
+    },
+    {
+      "destination": "BD",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "HK",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "TW BOCA explicitly confirms ongoing Taiwan-national arrival issuance under conditional2026 MoHA guidance. Added only visa obligation plus actual no-mission/necessity branch, with no assumed business qualification or stay.",
+        "HK/MO/PS/XK ordinary-document acceptance/eligibility remains unproved. Hong Kong Bangladesh MFA host failed TLS; no bypass. Known compromised former embassy domains were not used."
+      ],
+      "attemptedUrls": [
+        "https://hongkong.mofa.gov.bd/",
+        "https://hongkong.mofa.gov.bd/en/site/view/visa",
+        "https://hongkong.mofa.gov.bd/en/site/page/Visa-Requirements",
+        "https://hongkong.mofa.gov.bd/en/site/page/Visa",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-122-07ecd-02-1.html"
+      ]
+    },
+    {
+      "destination": "LK",
+      "resolvedOrigins": [
+        "CD",
+        "CG",
+        "KP"
+      ],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "Current central DI&E prior-permission default and diplomatic/official exception page support CD/CG/KP requirement-only additions; special issuance channels and stay remain expressly unconfirmed, not ordinary ETA entitlement.",
+        "PS remains unproved for ordinary-document/sponsor handling. Former Pretoria domain returned gambling/Samsung-clone content and is rejected, not a mission source. Beijing/London alternate retrievals failed."
+      ],
+      "attemptedUrls": [
+        "https://www.srilankaembassy.cn/visa/",
+        "https://www.eta.gov.lk/slvisa/visainfo/diplo.jsp?locale=en_US",
+        "https://eta.gov.lk/slvisa/visainfo/faq.jsp?locale=en_US",
+        "https://eta.gov.lk/slvisa/visainfo/center.jsp?locale=en_US",
+        "https://srilankahc.uk/visas/",
+        "https://www.srilanka.co.za/"
+      ]
+    },
+    {
+      "destination": "BB",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "MV",
+        "PS",
+        "TL"
+      ],
+      "findings": [
+        "Current Immigration FAQ contains passport-service questions, no missing nationality rules. Retrieved official court-hosted Immigration Act Cap190 section9(2): Minister may specify visa-required passports and exceptions by order; statute itself is not a worldwide visa default.",
+        "MV/TL inbound cells in prior current official schedule are blank; PS absent. Maldives MFA access403. Need applicable ministerial orders or explicit current origin-nationality evidence for each; blanks are not visa decisions."
+      ],
+      "attemptedUrls": [
+        "https://immigration.gov.bb/pages/faq.aspx",
+        "https://www.barbadoslawcourts.gov.bb/assets/content/pdfs/statutes/ImmigrationCAP190.pdf",
+        "https://www.foreign.gov.mv/index.php/en/consular/for-maldivians-travelling-abroad/visa"
+      ]
+    },
+    {
+      "destination": "MD",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "TW"
+      ],
+      "findings": [
+        "Taiwan BOCA actual instructions reread: obtaining Moldova visas is difficult; requires a passport recognized by Moldova and an immigration invitation. It does not clearly establish accepted ordinary Taiwan-document handling.",
+        "TW/XK retained unresolved rather than calling the generic process tourist eligibility or assuming state recognition determines passport treatment. No routine eVisa or ban inferred."
+      ],
+      "attemptedUrls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-147-ba17a-02-1.html"
+      ]
+    },
+    {
+      "destination": "LC",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SS",
+        "VA"
+      ],
+      "findings": [
+        "Current consolidated Immigration(Visa)Order section3 was retrieved and read: visa requirement is tied to Schedule1, arrival/prior branches to Schedules2/3; not an explicit all-foreign-national default.",
+        "SS/VA absent from prior inspected schedules; new mission locator failed DNS. Need a current schedule/amendment or origin-specific rule. No omission-based exemption/requirement."
+      ],
+      "attemptedUrls": [
+        "https://www.embassyofsaintlucia.org/visas",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/section-3-06"
+      ]
+    },
+    {
+      "destination": "DK",
+      "resolvedOrigins": [
+        "SO"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Fresh Danish nationality list explicitly requires a visa for Somalia. Current13 April2026 travel-document framework and2 October2026 Commission ordinary-passport record inspected.",
+        "Added visa obligation only under pass4 recognition guidance. Ordinary Somali passport acceptance, substitute/LTV tourist pathway and transit route remain unresolved; label and note explicitly prevent routine issuance/admission interpretation."
+      ],
+      "attemptedUrls": [
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visum/Countries-with-a-visa-requirement-and-visa-free-countries",
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visum/Passport-and-travel-document-requirements",
+        "https://www.nyidanmark.dk/en-GB/Words-and-concepts/US/Visum/Overview-of-Travel-Documents,-Visa-Conditions-and-Border-Crossing-Points/",
+        "https://www.nyidanmark.dk/-/media/Files/US/Visum/Diverse-filer/Overview-of-travel-documents-visa-requirements-and-border-crossing-points130426.pdf",
+        "https://www.nyidanmark.dk/en-GB/You-want-to-apply/Short-stay-visa/Private-visits-and-tourist-visits",
+        "https://home-affairs.ec.europa.eu/document/download/8f366904-d3f7-4c5c-bfc4-3021efb65652_en?filename=part_i_travel_documents_issued_by_third_countries_and_territorial_entities_en.xlsx",
+        "https://home-affairs.ec.europa.eu/policies/schengen/travel-and-residence-documents_en"
+      ]
+    },
+    {
+      "destination": "CH",
+      "resolvedOrigins": [
+        "SO"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Fresh controlling SEM HTML Somalia row and3 April2026 print list require a visa; recognized travel document remains separate. Current Commission record extracted with cell styles retained.",
+        "Added visa obligation only, preserving unconfirmed acceptable/substitute document, territorial permission, routing and practical tourist issuance. No inferred nationality ban or ordinary90-day permission."
+      ],
+      "attemptedUrls": [
+        "https://www.sem.admin.ch/sem/en/home/publiservice/weisungen-kreisschreiben/visa.html",
+        "https://www.sem.admin.ch/dam/sem/en/data/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste1-e.pdf.download.pdf/bfm-anh01-liste1-e.pdf",
+        "https://www.sem.admin.ch/dam/sem/en/data/rechtsgrundlagen/weisungen/visa/bfm/bfm-anh01-liste2-e.pdf.download.pdf/sem-anh01-liste2-e.pdf",
+        "https://www.sem.admin.ch/sem/en/home/publiservice/weisungen-kreisschreiben/visa/liste1_staatsangehoerigkeit.html",
+        "https://www.sem.admin.ch/sem/en/home/publiservice/weisungen-kreisschreiben/visa/liste1_staatsangehoerigkeit/s.html",
+        "https://home-affairs.ec.europa.eu/document/download/8f366904-d3f7-4c5c-bfc4-3021efb65652_en?filename=part_i_travel_documents_issued_by_third_countries_and_territorial_entities_en.xlsx",
+        "https://home-affairs.ec.europa.eu/policies/schengen/travel-and-residence-documents_en"
+      ]
+    },
+    {
+      "destination": "CL",
+      "resolvedOrigins": [
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Exact current Kosovo record says visa SI with note12 state nonrecognition. Added requirement only with unresolved document/issuance wording;0 fee is not waiver,90-day product maximum not promised.",
+        "Nonrecognition of statehood does not establish rejection of every travel document. Accepted original/substitute document and competent issuance path still need specific authority."
+      ],
+      "attemptedUrls": [
+        "https://www.consulado.gob.cl/consulados/stat/info_visas/info_visas.json",
+        "https://serviciosconsulares.cl/tramites/autorizacion-previa-o-visa",
+        "https://www.consulado.gob.cl/consulados/site/edic/base/port/notas_visas.json",
+        "https://www.consulado.gob.cl/consulados/stat/info_visas/notas.json"
+      ]
+    },
+    {
+      "destination": "SC",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Current Immigration visiting-Seychelles page requires a valid government-recognized passport/document and advance immigration procedures. New native MFA Kosova search did not establish a current Kosovo ordinary-document decision.",
+        "XK remains unresolved: generic visitor-permit/ETA wording does not settle the former special recognition treatment. No nationality ban inferred."
+      ],
+      "attemptedUrls": [
+        "https://ics.gov.sc/visa-and-travel/visiting-seychelles",
+        "https://mfa.gov.sc/?s=Kosova"
+      ]
+    }
+  ],
+  "corrections": []
+}

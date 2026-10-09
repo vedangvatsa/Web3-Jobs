@@ -16,7 +16,7 @@ const route = (from: string, to: string, date?: string) => compile(from, date).d
 
 test('complete official audit partitions all 39,402 routes and preserves the original 199 snapshots', () => {
   validateFactchecks(audit, countries.map(country => country.iso!));
-  assert.deepEqual(factcheckCounts(audit), { destinations: 199, routes: 39402, checked: 29761, historical: 346, unresolved: 9295, withdrawals: 113 });
+  assert.deepEqual(factcheckCounts(audit), { destinations: 199, routes: 39402, checked: 33620, historical: 983, unresolved: 4799, withdrawals: 188 });
   assert.equal(createHash('sha256').update(fs.readFileSync('content/nomads/passport-index.json')).digest('hex'), 'cfbba9ffc469e7f80b9140aa36a1371aabdb2260499b3108771c4684afbb3f6e');
   assert.equal(reference.version, 1);
   let retainedLegacy = 0, retainedReference = 0;
@@ -30,13 +30,18 @@ test('complete official audit partitions all 39,402 routes and preserves the ori
       if (rule) assert.deepEqual(item.rule, rule, `Lossless policy expansion ${passport.iso}/${item.iso}`);
       else {
         assert.equal(item.review, 'unresolved');
-        const old = legacy.policies.find(policy => policy.passports.includes(passport.iso!) && policy.destinations.includes(item.iso!));
+         const withdrawal = audit.withdrawals.find(record => record.passport === passport.iso && record.destination === item.iso);
+         if (withdrawal) {
+           assert.equal(item.rule.t, 'unknown'); assert.deepEqual(item.rule.evidence, withdrawal.sources); assert.equal(item.rule.n, withdrawal.reason);
+           continue;
+         }
+         const old = legacy.policies.find(policy => policy.passports.includes(passport.iso!) && policy.destinations.includes(item.iso!));
         if (old) { const { passports, destinations, ...expected } = old; assert.deepEqual(item.rule, expected); retainedLegacy++; }
         else { assert.deepEqual(item.rule, { ...reference.passports[passport.iso!].rules[item.iso!], s: 'passport-index' }); retainedReference++; }
       }
     }
   }
-  assert.equal(retainedLegacy, 25); assert.equal(retainedReference, 9270);
+  assert.equal(retainedLegacy, 3); assert.equal(retainedReference, 4791);
 });
 
 test('explicit withdrawals without replacements block both old government rules and references, retaining all evidence', () => {
@@ -60,7 +65,9 @@ test('dated archives retain exact source dates, titles and capture URLs instead 
   assert.ok(source.urls.includes('https://web.archive.org/web/20260910181755/https://indianvisaonline.gov.in/evisa/tvoa.html'));
   assert.equal(route('US', 'PK').review, 'historical');
   assert.equal(compile('US').sources[route('US', 'PK').rule.s!].checkedAt, '2026-08-06');
-  assert.ok(Object.values(audit.sources).filter(source => source.historical).every(source => source.urls.some(url => url.includes('web.archive.org/web/'))));
+  assert.ok(Object.values(audit.sources).filter(source => source.urls.some(url => url.includes('web.archive.org/web/'))).every(source => source.historical));
+  assert.equal(route('CF', 'CG').review, 'historical', 'Historical signed document reproductions need not be hosted on Wayback');
+  assert.equal(route('TW', 'SY').review, 'historical', 'A live page can explicitly describe historical-only evidence');
   const mislabelledArchive = structuredClone(data);
   mislabelledArchive.destinations.find(destination => destination.iso === 'IN')!.review = 'checked';
   assert.equal(validPassportRules(mislabelledArchive), false, 'Historical evidence cannot be labelled a current check');
@@ -110,6 +117,8 @@ test('import validation rejects gaps, overlaps, invalid sources, dates, stays an
     file => { file.policies[0].until = '2026-02-30'; },
     file => { file.sources.official.checkedAt = '2026-02-30'; },
     file => { file.sources.official.urls = ['https://user:secret@example.gov/']; },
+    file => { file.sources.unused = { ...file.sources.official, historical: 'yes' as unknown as boolean }; },
+    file => { file.policies[0].evidence = ['missing-evidence']; },
     file => { file.policies[0].a = ['ev']; },
     file => { file.withdrawals = [{ passport: 'IN', destination: 'MY', reason: 'Contradicted claim', sources: [] }]; },
   ];

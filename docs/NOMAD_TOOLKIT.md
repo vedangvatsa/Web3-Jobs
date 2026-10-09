@@ -22,10 +22,18 @@ Passport shards use schema version 4. Reviewed rules in
 `content/nomads/entry-factchecks.json` precede legacy government policies in
 `entry-policies.json` and the unchanged version-1 `passport-index.json` snapshots.
 Explicit withdrawals block older claims; expired exemptions become unknown.
-All 39,402 routes have review status: 29,761 checked government-backed baselines,
-346 historical official-evidence routes, and 9,295 unresolved official reviews.
-Unresolved routes retain 25 legacy government answers and 9,270 attributed
-Passport Index answers. Historical sources expose archive URLs and actual dates.
+All 39,402 routes have review status: 33,620 checked government-backed baselines,
+983 historical official-evidence routes, and 4,799 unresolved official reviews.
+Unresolved routes retain 3 legacy government answers and 4,791 attributed
+Passport Index answers; five contradicted baselines are unknown with withdrawal evidence.
+Historical sources expose capture/document URLs and actual dates, including
+historical reproductions outside web.archive.org. The versioned pass manifest
+replays all 24 third-/fourth-pass patches from curated baseline/assignment/patch
+JSON, plus 13 explicit Nauru method qualifications and a targeted AIP pass.
+The AIP pass adds 172 explicitly air-entry-only rules and withdraws four Niger
+conflicts to unresolved, preserving both sides' sources and blocking fallback.
+Raw research notes and excerpt ledgers stay in ignored caches and are not exported
+or required for replay.
 Missing durations stay unspecified; variable methods and periods retain their
 conditions. Only the selected passport shard is fetched (`?v=4`).
 Government-backed baselines do not verify every traveller's eligibility; see
