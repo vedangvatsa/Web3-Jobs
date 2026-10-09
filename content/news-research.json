@@ -13519,20 +13519,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "9f85525ff3fef5b2cbb9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T21:00:00.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "duplicate",
-      "note": "Same Uranium Finance hacker conviction drafted as uranium-verdict in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:25.864Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto Uranium-hacker page returned HTTP 403 to round 3; pairs with the Decrypt conviction piece that stayed reachable. Next: full-read Decrypt plus a second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/crypto-hacker-pokemon-cards-convicted/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:12:04.791Z",
       "retrySearches": [
-        "Jonathan Spalletta sentencing date Uranium Finance restitution"
+        "Uranium Finance hacker conviction second outlet draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "uranium-verdict"
+      "duplicateOf": "uranium-verdict",
+      "nextReviewDate": "2026-10-10"
     },
     "7fd40f5fea63e1a31461": {
       "source": "Decrypt",
@@ -34271,6 +34277,21 @@
           "reviewedAt": "2026-10-09T14:12:02.477Z",
           "retrySearches": [
             "Cointelegraph buyer traffic second outlet draft"
+          ]
+        },
+        "9f85525ff3fef5b2cbb9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto Uranium-hacker page returned HTTP 403 to round 3; pairs with the Decrypt conviction piece that stayed reachable. Next: full-read Decrypt plus a second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/crypto-hacker-pokemon-cards-convicted/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:12:04.791Z",
+          "retrySearches": [
+            "Uranium Finance hacker conviction second outlet draft"
           ]
         }
       },
