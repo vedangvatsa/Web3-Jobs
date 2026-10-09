@@ -22732,28 +22732,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "f669a9dcee8b304958e7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T16:22:45.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "verified-event",
-      "note": "Verified Blockchain.com Oct 9 CFTC DCM plus FCM applications across CNBC company disclosure, Cointelegraph and FinanceMagnates with Smith quote, Polymarket-Hyperliquid international base, Aug 25 NFA pending status and IPO terms.",
+      "note": "Blockchain.com Oct 9 CFTC DCM and FCM applications verified in CNBC disclosure and Cointelegraph reads with Polymarket Hyperliquid background and IPO terms. Draft 619 words, audits clean.",
       "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
-          "outcome": "read"
-        },
         {
           "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
           "outcome": "read"
         },
         {
-          "url": "https://www.financemagnates.com/fintech/from-reseller-to-exchange-blockchaincom-moves-to-bring-us-derivatives-in-house/",
+          "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T17:55:04.458Z",
+      "reviewedAt": "2026-10-09T23:39:06.219Z",
       "articleSlug": "blockchain-cftc",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -38006,6 +38002,23 @@
           ],
           "reviewedAt": "2026-10-09T23:39:04.482Z",
           "articleSlug": "nfl-kalshi"
+        },
+        "f669a9dcee8b304958e7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Blockchain.com Oct 9 CFTC DCM and FCM applications verified in CNBC disclosure and Cointelegraph reads with Polymarket Hyperliquid background and IPO terms. Draft 619 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:39:06.219Z",
+          "articleSlug": "blockchain-cftc"
         }
       },
       "baselineSlugs": [
