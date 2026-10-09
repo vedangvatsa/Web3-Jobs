@@ -10632,20 +10632,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "abfda675cf9bb2ba7634",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T21:59:32.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 verified Kalshi US500 perpetual launch Oct 6 across Kalshi certification docs and FinanceMagnates; distinct from kalshi-gold, draft not yet written.",
+      "reason": "verified-event",
+      "note": "Kalshi US500 perpetual launch Oct 6 verified across FinanceMagnates launch and background pieces plus MarketsMedia; contract specs and debut figures confirmed.",
       "sourceChecks": [
         {
-          "url": "https://kalshi-public-docs.s3.amazonaws.com/regulatory/product-certifications/US500.pdf",
+          "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
           "outcome": "read"
         },
         {
-          "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
+          "url": "https://www.financemagnates.com/fintech/kalshi-wants-a-never-expiring-sp-500-style-contract-cme-says-it-has-no-future/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.marketsmedia.com/kalshi-launches-first-equity-perpetual-future-in-u-s/",
           "outcome": "read"
         },
         {
@@ -10653,12 +10657,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:19:02.591Z",
+      "reviewedAt": "2026-10-09T04:10:14.789Z",
       "retrySearches": [
         "Kalshi US500 perpetual volume trading debut week"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "articleSlug": "kalshi-us500"
     },
     "824d47be55685a7a0430": {
       "source": "Bitcoin Magazine",
@@ -29983,6 +29987,31 @@
           ],
           "reviewedAt": "2026-10-09T04:10:12.750Z",
           "articleSlug": "bitcoin-de"
+        },
+        "abfda675cf9bb2ba7634": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Kalshi US500 perpetual launch Oct 6 verified across FinanceMagnates launch and background pieces plus MarketsMedia; contract specs and debut figures confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.financemagnates.com/fintech/kalshi-wants-a-never-expiring-sp-500-style-contract-cme-says-it-has-no-future/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.marketsmedia.com/kalshi-launches-first-equity-perpetual-future-in-u-s/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:14.789Z",
+          "articleSlug": "kalshi-us500"
         }
       },
       "baselineSlugs": [
