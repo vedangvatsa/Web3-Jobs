@@ -17344,13 +17344,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d71a9d867c5924200b7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "verified-event",
-      "note": "Securitize Oct 8 tokenized stocks launch verified in Decrypt and CoinDesk: 12 names 1-for-1 backed, PropAMM with Jump liquidity, NYSE and OKX-ICE venues planned.",
+      "note": "Securitize Oct 8 tokenized stocks launch verified in Decrypt, CoinDesk and PRNewswire release: 12 names 1-for-1 backed, PropAMM, NYSE plans. Draft 878 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
@@ -17359,9 +17359,13 @@
         {
           "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:36.324Z",
+      "reviewedAt": "2026-10-09T11:43:03.394Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "securitize-stocks",
@@ -33563,6 +33567,27 @@
           ],
           "reviewedAt": "2026-10-09T11:43:01.413Z",
           "articleSlug": "cardano-standard"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Securitize Oct 8 tokenized stocks launch verified in Decrypt, CoinDesk and PRNewswire release: 12 names 1-for-1 backed, PropAMM, NYSE plans. Draft 878 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:43:03.394Z",
+          "articleSlug": "securitize-stocks"
         }
       },
       "baselineSlugs": [
