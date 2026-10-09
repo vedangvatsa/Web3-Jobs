@@ -20980,28 +20980,20 @@
         "The Block"
       ],
       "id": "2a7c81f07dc6e3b3eb0f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T09:06:00.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified Meanwhile 37.5M Bain Capital Crypto-led round with Altman backing and Bermuda insurance business across CoinDesk, the Business Wire company release via Morningstar, and crypto.news.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Meanwhile-raise headline with the 37.5M figure; single outlet so far. Next: find a Meanwhile or Bain Crypto announcement and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.morningstar.com/news/business-wire/20261008514088/sam-altman-backed-meanwhile-raises-375m-as-families-across-asia-europe-and-the-middle-east-turn-to-bitcoin-life-insurance",
-          "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/meanwhile-raises-37-5m-for-bitcoin-insurance/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:12:12.121Z",
+      "reviewedAt": "2026-10-09T14:16:32.367Z",
       "articleSlug": "meanwhile-raise",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -21010,7 +21002,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Meanwhile 37.5M Bain announcement draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "9f11ca9ae896380c93c0": {
       "source": "CryptoSlate",
@@ -34944,6 +34940,21 @@
           "reviewedAt": "2026-10-09T14:16:30.263Z",
           "retrySearches": [
             "MARA Galaxy 81M transfer confirmation draft"
+          ]
+        },
+        "2a7c81f07dc6e3b3eb0f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Meanwhile-raise headline with the 37.5M figure; single outlet so far. Next: find a Meanwhile or Bain Crypto announcement and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:32.367Z",
+          "retrySearches": [
+            "Meanwhile 37.5M Bain announcement draft"
           ]
         }
       },
