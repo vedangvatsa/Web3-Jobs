@@ -11112,9 +11112,7 @@
       "articleSlug": "samsung-usdc",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "greece-tax.md: under 600 words",
-        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ]
     },
     "7c05eec0aa4cd9623abd": {
@@ -16772,9 +16770,7 @@
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "greece-tax.md: under 600 words",
-        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ]
     },
     "bbda3002c00d1edb824d": {
@@ -16843,9 +16839,7 @@
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "greece-tax.md: under 600 words",
-        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ]
     },
     "793e33cc45c8a11bda37": {
@@ -21042,11 +21036,7 @@
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ],
       "duplicateOf": "thailand-etfs"
     },
@@ -22789,7 +22779,10 @@
       ],
       "reviewedAt": "2026-10-09T17:55:04.458Z",
       "articleSlug": "blockchain-cftc",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+      ]
     },
     "86f3a145bde0d3311251": {
       "source": "Decrypt",
@@ -22925,7 +22918,10 @@
       ],
       "reviewedAt": "2026-10-09T17:37:53.536Z",
       "articleSlug": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+      ]
     },
     "f3458e62d04228c30699": {
       "source": "The Defiant",
@@ -23629,7 +23625,10 @@
       ],
       "reviewedAt": "2026-10-09T17:55:13.195Z",
       "articleSlug": "dwf-bitgo",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+      ]
     },
     "f81abcaa78c20b29893e": {
       "source": "The Defiant",
@@ -23812,7 +23811,10 @@
       ],
       "reviewedAt": "2026-10-09T17:37:48.277Z",
       "articleSlug": "ledger-drain",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+      ]
     },
     "f2ce0a54f4786cb8271f": {
       "source": "The Block",
@@ -38078,7 +38080,10 @@
         ],
         "total": 135,
         "checkedAt": "2026-10-09T17:31:35.887Z"
-      }
+      },
+      "validationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+      ]
     }
   }
 }
