@@ -997,5 +997,36 @@
     "slotKey": "2026-10-08:evening",
     "messageId": 155698,
     "sentAt": "2026-10-08T20:18:40.665Z"
+  },
+  "d11f2b73-27f1-43b8-9cc1-135e51ff69dc": {
+    "status": "reserved",
+    "reservedAt": "2026-10-09T19:53:48.314Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Fairshake Pledges Funding for 32 House Incumbents",
+        "summary": "The political action committee is funding 19 Republicans and 13 Democrats, including six who backed the Clarity Act.",
+        "link": "https://hashtagweb3.com/fairshake-house?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fairshake Backs 32 House Incumbents With at Least $6 Million for Six Races"
+      },
+      {
+        "index": -1,
+        "headline": "FinCEN Withdraws Proposed Crypto Wallet and Mixer Rules",
+        "summary": "The agency canceled its 2020 and 2023 draft regulations after reviewing public feedback.",
+        "link": "https://hashtagweb3.com/fincen-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "FinCEN Withdraws Unhosted Wallet and Mixer Reporting Proposals"
+      },
+      {
+        "index": -1,
+        "headline": "Greenfield Capital Files Complaint Against Safe Foundation Board",
+        "summary": "The firm requested a Swiss regulatory review of the foundation's governance following unsuccessful private negotiations.",
+        "link": "https://hashtagweb3.com/safe-complaint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Greenfield Asks Swiss Watchdog to Review Safe Foundation Governance"
+      }
+    ],
+    "slotKey": "2026-10-09:evening"
   }
 }
