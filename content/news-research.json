@@ -18057,13 +18057,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbfbc980f72f30b4800c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T14:24:24.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "Cardano Foundation Oct 8 Veridian spinoff as Swiss firm with 1M shares tokenized under CIP-0113 and 2027 investor plan. CoinDesk, crypto.news and CMC Academy read; all gates pass.",
+      "note": "Cardano Foundation Oct 8 Veridian spinoff with 1M tokenized shares verified in CoinDesk, crypto.news and CMC Academy; unread foundation page links removed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
@@ -18078,12 +18078,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T20:06:56.088Z",
+      "reviewedAt": "2026-10-09T04:11:53.408Z",
       "articleSlug": "veridian-equity",
       "retrySearches": [
         "Veridian Cardano Foundation spinout tokenized shares CIP-0113 primary announcement mirror"
       ],
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30690,6 +30690,27 @@
           ],
           "reviewedAt": "2026-10-09T04:11:51.420Z",
           "articleSlug": "esma-stablecoins"
+        },
+        "bbfbc980f72f30b4800c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cardano Foundation Oct 8 Veridian spinoff with 1M tokenized shares verified in CoinDesk, crypto.news and CMC Academy; unread foundation page links removed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/cardano-foundation-spin-digital-identity-firm-veridian/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/cardano-foundation-veridian-spin-out-tokenized-shares",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:11:53.408Z",
+          "articleSlug": "veridian-equity"
         }
       },
       "baselineSlugs": [
