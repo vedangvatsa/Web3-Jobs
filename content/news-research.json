@@ -12488,13 +12488,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "d557a2418f1625e8f9f2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T12:39:09.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Rhyne 32-month Sept 28 sentence for Nov 2023 20 BTC plot verified in Decrypt and Bitcoin.com; docket page opened and live as supporting link.",
+      "note": "Rhyne 32-month Sept 28 sentence for Nov 2023 20 BTC plot verified in Decrypt, Bitcoin.com and live docket. Draft 845 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
@@ -12509,7 +12509,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:35.614Z",
+      "reviewedAt": "2026-10-09T12:07:18.795Z",
       "articleSlug": "rhyne-extortion",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -34006,6 +34006,27 @@
           "reviewedAt": "2026-10-09T12:01:53.837Z",
           "duplicateOf": "circle-sap",
           "mergedInto": "7932aabf918494530ac0"
+        },
+        "d557a2418f1625e8f9f2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rhyne 32-month Sept 28 sentence for Nov 2023 20 BTC plot verified in Decrypt, Bitcoin.com and live docket. Draft 845 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/regulation-and-legal/engineer-sabotaged-employer-bitcoin-ransom-prison-time/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T12:07:18.795Z",
+          "articleSlug": "rhyne-extortion"
         }
       },
       "baselineSlugs": [
