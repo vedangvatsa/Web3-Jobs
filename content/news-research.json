@@ -22674,11 +22674,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "690c54273bc80bb1d518",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T17:11:16.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin ETF two-day outflow piece is flow price action with no filing, launch, vote or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:44:58.304Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "51caa7b8a45ffaf919fd": {
       "source": "CryptoSlate",
@@ -35869,6 +35874,13 @@
           "note": "XRP ETF underwater/inflows piece is price performance and flow analysis with no concrete event, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:44:56.457Z"
+        },
+        "690c54273bc80bb1d518": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin ETF two-day outflow piece is flow price action with no filing, launch, vote or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:44:58.304Z"
         }
       },
       "baselineSlugs": [
