@@ -20055,17 +20055,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f6f7be9c8cb584fca73",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T00:46:27.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Blumenthal Cantor Fitzgerald Tether inquiry already drafted as cantor-probe in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:34.291Z",
+      "reason": "source-blocked",
+      "note": "Cointelegraph Cantor-Tether probe page failed to fetch in round 3 triage; CoinDesk and Unchained versions stayed reachable. Next: full-read those two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:16:16.719Z",
       "duplicateOf": "cantor-probe",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Cantor Tether CoinDesk Unchained corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "99dff87f954749a3c3aa": {
       "source": "CoinDesk",
@@ -34802,6 +34811,21 @@
           "reviewedAt": "2026-10-09T14:14:47.308Z",
           "retrySearches": [
             "Kyrgyzstan USDKG wind-down notice draft"
+          ]
+        },
+        "4f6f7be9c8cb584fca73": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Cointelegraph Cantor-Tether probe page failed to fetch in round 3 triage; CoinDesk and Unchained versions stayed reachable. Next: full-read those two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:16.719Z",
+          "retrySearches": [
+            "Cantor Tether CoinDesk Unchained corroboration draft"
           ]
         }
       },
