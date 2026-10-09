@@ -17866,28 +17866,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "0bd3fb37178624c073b0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T15:46:05.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Standard Chartered Oct 8 Singapore custody plans verified in bank release, Bitcoin Magazine and CoinDesk; asset scope and institutional focus confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Bitcoin Magazine StanChart headline; pairs with CoinDesk and Cointelegraph versions. Next: full-read two and draft.",
       "sourceChecks": [
-        {
-          "url": "https://www.sc.com/en/press-release/standard-chartered-advances-into-digital-asset-custody-offering-in-singapore/",
-          "outcome": "read"
-        },
         {
           "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:46.643Z",
+      "reviewedAt": "2026-10-09T14:14:05.964Z",
       "articleSlug": "stanchart-custody",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -17901,7 +17893,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Standard Chartered custody Bitcoin Magazine draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "4771b52b3d346e08e888": {
       "source": "The Defiant",
@@ -34650,6 +34646,21 @@
           "reviewedAt": "2026-10-09T14:14:03.750Z",
           "retrySearches": [
             "Bitcoin.de MiCA overhaul CryptoSlate Cointelegraph draft"
+          ]
+        },
+        "0bd3fb37178624c073b0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Bitcoin Magazine StanChart headline; pairs with CoinDesk and Cointelegraph versions. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:05.964Z",
+          "retrySearches": [
+            "Standard Chartered custody Bitcoin Magazine draft"
           ]
         }
       },
