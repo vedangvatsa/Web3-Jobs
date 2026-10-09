@@ -19317,11 +19317,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f19567ccdc1636cca1c4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:46:03.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "out-of-scope",
+      "note": "Manus AI startup funding story has no Web3 product, filing, or onchain nexus in the headline.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T00:00:23.130Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "f77b67e53e367f0f0d37": {
       "source": "The Defiant",
@@ -29142,6 +29147,13 @@
           "note": "Trump equity purchases story covers US stock holdings with no crypto event or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T00:00:21.148Z"
+        },
+        "f19567ccdc1636cca1c4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Manus AI startup funding story has no Web3 product, filing, or onchain nexus in the headline.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:23.130Z"
         }
       },
       "baselineSlugs": [
