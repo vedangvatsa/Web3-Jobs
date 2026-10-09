@@ -14953,17 +14953,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b7aacd3692ceca68a190",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T05:58:25.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same seized BTC and BNB flows covered as context in bitfinex-move in this run.",
+      "note": "Same Oct 7 100M-plus BTC and BNB move covered as context in bitfinex-move in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:27.218Z",
+      "reviewedAt": "2026-10-09T11:12:51.202Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "6a1c86818b7c64cbbed6": {
       "source": "CoinDesk",
@@ -32859,6 +32860,15 @@
           "note": "Same Oct 7 103M BTC-plus-BNB Coinbase move covered as context in bitfinex-move in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:12:49.126Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "b7aacd3692ceca68a190": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 7 100M-plus BTC and BNB move covered as context in bitfinex-move in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:12:51.202Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
