@@ -24800,11 +24800,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5936ea8f20383c5c23f9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T20:10:14.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "duplicate",
+      "note": "Same Bessent Oct 9 planned 1B Iran-linked crypto seizure covered by iran-seizure.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:40:49.409Z",
+      "duplicateOf": "iran-seizure",
+      "mergedInto": "2f33d3c76777e7ef334e",
+      "lastReviewedDay": "2026-10-09"
     },
     "f41e7abd8920b9ee59a0": {
       "source": "Decrypt",
@@ -38577,6 +38584,15 @@
           "reviewedAt": "2026-10-09T23:40:47.585Z",
           "duplicateOf": "cftc-swaps",
           "mergedInto": "32a6fb4025d29d3c1e2f"
+        },
+        "5936ea8f20383c5c23f9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Bessent Oct 9 planned 1B Iran-linked crypto seizure covered by iran-seizure.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:49.409Z",
+          "duplicateOf": "iran-seizure",
+          "mergedInto": "2f33d3c76777e7ef334e"
         }
       },
       "baselineSlugs": [
