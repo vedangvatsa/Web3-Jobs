@@ -22314,17 +22314,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e6c54727c05c87b7baf",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T11:57:47.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "BeInCrypto cryptographer-angle version of the same AI wallet-math warning drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:33.076Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto wallet-math warning page returned HTTP 403 to round 3; same AI-cryptography debate readable in Decrypt and Unchained versions. Next: re-open two readable outlets and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:57:59.221Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "AI wallet math warning cryptographer two readable outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "c95c0d7bc053ee036771": {
       "source": "Decrypt",
@@ -36477,6 +36486,21 @@
           "reviewedAt": "2026-10-09T17:57:57.255Z",
           "retrySearches": [
             "Buterin hasty migration warning two readable outlets draft bunker-mode"
+          ]
+        },
+        "3e6c54727c05c87b7baf": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto wallet-math warning page returned HTTP 403 to round 3; same AI-cryptography debate readable in Decrypt and Unchained versions. Next: re-open two readable outlets and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:57:59.221Z",
+          "retrySearches": [
+            "AI wallet math warning cryptographer two readable outlets draft"
           ]
         }
       },
