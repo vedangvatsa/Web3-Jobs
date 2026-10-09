@@ -17491,17 +17491,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b96b3a80a7d4b84f0ae",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T14:54:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Securitize Oct 8 tokenized stocks launch on Solana already drafted as securitize-stocks in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:24:12.537Z",
+      "reason": "needs-corroboration",
+      "note": "Unchained Securitize rollout page fetched HTTP 200 but round 3 did not complete a full re-read; Decrypt and CoinDesk accounts re-read with matching 1:1 structure. Next: full-read this plus PRNewswire and draft securitize-stocks.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:01:07.215Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Unchained Securitize 1:1 tokens full read draft securitize-stocks"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "9c99bbb806b4fba25563": {
       "source": "The Block",
@@ -37517,6 +37530,25 @@
           "reviewedAt": "2026-10-09T18:01:00.701Z",
           "retrySearches": [
             "Securitize Stocks PRNewswire 12 tickers draft securitize-stocks"
+          ]
+        },
+        "1b96b3a80a7d4b84f0ae": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Unchained Securitize rollout page fetched HTTP 200 but round 3 did not complete a full re-read; Decrypt and CoinDesk accounts re-read with matching 1:1 structure. Next: full-read this plus PRNewswire and draft securitize-stocks.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:07.215Z",
+          "retrySearches": [
+            "Unchained Securitize 1:1 tokens full read draft securitize-stocks"
           ]
         }
       },
