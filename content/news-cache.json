@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-08T23:51:18.383Z",
+  "generatedAt": "2026-10-09T03:37:37.131Z",
   "items": [
+    {
+      "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+      "pubDate": "Fri, 09 Oct 2026 03:27:38 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on “bunker mode” fears.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+      "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 09 Oct 2026 03:08:51 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties  ",
+      "link": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 09 Oct 2026 00:46:27 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
       "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8,14 +32,6 @@
       "creator": "Andrew Fenton",
       "contentSnippet": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "link": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-      "pubDate": "Thu, 08 Oct 2026 21:22:58 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "As Democrats steadily rise in their potential to take back a Senate majority, Senator Richard Blumenthal is digging into Tether's U.S. financial partn...",
-      "source": "Coindesk"
     },
     {
       "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
@@ -152,14 +168,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cush...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes ",
-      "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 15:55:55 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
@@ -514,28 +522,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 15:36:11 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
       "link": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
       "pubDate": "Wed, 07 Oct 2026 15:34:31 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 15:06:14 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
