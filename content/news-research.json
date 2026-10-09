@@ -23288,11 +23288,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "dc53e2f33c5fbeaf3082",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T16:23:22.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "source-blocked",
+      "note": "Defiant Telegram Money Wallet page returned HTTP 403 to round 3; single source with no readable second outlet. Next: find Telegram announcement plus second outlet on Gram transfers wallet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:38.604Z",
+      "retrySearches": [
+        "Telegram Money Wallet Gram transfers announcement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "b466ec3f61a6e8d0b33a": {
       "source": "Unchained",
@@ -36804,6 +36818,21 @@
           "reviewedAt": "2026-10-09T17:58:36.768Z",
           "retrySearches": [
             "Tether THORChain vaults 1.45M blacklist unfreeze second outlet"
+          ]
+        },
+        "dc53e2f33c5fbeaf3082": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Telegram Money Wallet page returned HTTP 403 to round 3; single source with no readable second outlet. Next: find Telegram announcement plus second outlet on Gram transfers wallet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:38.604Z",
+          "retrySearches": [
+            "Telegram Money Wallet Gram transfers announcement second outlet"
           ]
         }
       },
