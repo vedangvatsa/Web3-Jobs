@@ -15498,23 +15498,23 @@
       "id": "6a5d0ab664417117a5a2",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T09:51:23.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "source-blocked",
-      "note": "BeInCrypto Bitget custody piece returned 403; cannot verify whether standalone event or sponsored promo.",
+      "note": "Bitget off-exchange settlement story seen only in blocked origin; needs Bitget release or second outlet with mechanics.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/bitget-off-exchange-settlement-institutional-custody/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:29:23.130Z",
+      "reviewedAt": "2026-10-09T04:17:29.173Z",
       "retrySearches": [
-        "Bitget off-exchange settlement institutional custody October 2026 independent coverage"
+        "Bitget off-exchange settlement institutional custody launch"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "860da2d41ccdf27f0d30": {
       "source": "Cointelegraph",
@@ -32187,6 +32187,21 @@
           "reviewedAt": "2026-10-09T04:17:27.365Z",
           "retrySearches": [
             "Sepolia Glamsterdam epoch 353024 gas limit testnet"
+          ]
+        },
+        "6a5d0ab664417117a5a2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Bitget off-exchange settlement story seen only in blocked origin; needs Bitget release or second outlet with mechanics.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitget-off-exchange-settlement-institutional-custody/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:29.173Z",
+          "retrySearches": [
+            "Bitget off-exchange settlement institutional custody launch"
           ]
         }
       },
