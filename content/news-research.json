@@ -17436,17 +17436,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b96b3a80a7d4b84f0ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T14:54:49.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
+      "note": "Securitize tokenized stocks covered by securitize-stocks.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:57.817Z",
+      "reviewedAt": "2026-10-09T11:43:39.095Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "9c99bbb806b4fba25563": {
       "source": "The Block",
@@ -33723,6 +33724,15 @@
           "note": "Securitize tokenized stocks covered by securitize-stocks.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:43:36.976Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "1b96b3a80a7d4b84f0ae": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Securitize tokenized stocks covered by securitize-stocks.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:39.095Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
         }
