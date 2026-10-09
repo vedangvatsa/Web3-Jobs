@@ -8252,20 +8252,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "d307a4a80069a028f244",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-09T17:00:37.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "duplicate",
-      "note": "Same Storm venue filing and Bitcoin Fog ruling already drafted as storm-venue in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:22.980Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the CryptoSlate page and confirmed the Storm venue plus Treasury mixer-plan headline; full read and a second outlet on the filing still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:10:44.247Z",
       "retrySearches": [
-        "Roman Storm venue filing Bitcoin Fog appeal October 2026 second outlet"
+        "Roman Storm venue filing Bitcoin Fog ruling second outlet October 2026"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "storm-venue"
+      "duplicateOf": "storm-venue",
+      "nextReviewDate": "2026-10-10"
     },
     "d1c0c41c21a98aa3f029": {
       "source": "CoinDesk",
@@ -33862,6 +33868,21 @@
           "reviewedAt": "2026-10-09T14:04:00.739Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "d307a4a80069a028f244": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the CryptoSlate page and confirmed the Storm venue plus Treasury mixer-plan headline; full read and a second outlet on the filing still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:10:44.247Z",
+          "retrySearches": [
+            "Roman Storm venue filing Bitcoin Fog ruling second outlet October 2026"
+          ]
         }
       },
       "baselineSlugs": [
