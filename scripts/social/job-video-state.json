@@ -100,6 +100,10 @@
     "2026-10-09:afternoon": [
       "sls97",
       "an53"
+    ],
+    "2026-10-09:evening": [
+      "an52",
+      "dmlr2"
     ]
   },
   "jobs": {
@@ -1846,6 +1850,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7694630116973923616"
         }
       }
+    },
+    "an52": {
+      "slot": "2026-10-09:evening",
+      "selectedAt": "2026-10-09T19:30:49.427Z",
+      "verifiedAt": "2026-10-09T19:30:49.427Z",
+      "captions": {
+        "instagram": "Senior Data Analyst at Solflare\n\nNovi Sad, Vojvodina, Serbia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Senior Data Analyst at Solflare. Novi Sad, Vojvodina, Serbia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Novi Sad, Vojvodina, Serbia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior Data Analyst at Solflare"
+      },
+      "receipts": {}
+    },
+    "dmlr2": {
+      "slot": "2026-10-09:evening",
+      "selectedAt": "2026-10-09T19:30:49.428Z",
+      "verifiedAt": "2026-10-09T19:30:49.428Z",
+      "captions": {
+        "instagram": "Deputy Money Laundering Reporting Officer, Eurasia at OKX\n\nKazakhstan (Remote)\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring #RemoteJobs",
+        "tiktok": "Deputy Money Laundering Reporting Officer, Eurasia at OKX. Kazakhstan (Remote).\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtube": "Kazakhstan (Remote)\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
+        "youtubeTitle": "Deputy Money Laundering Reporting Officer, Eurasia at OKX · Kazakhstan (Remote)"
+      },
+      "receipts": {}
     }
   }
 }
