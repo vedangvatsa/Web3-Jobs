@@ -8011,23 +8011,23 @@
       "id": "5e0ec86b57cca6b89df7",
       "status": "deferred",
       "firstSeenAt": "2026-10-06T17:21:54.065Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-09T15:09:41.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "DeFi Development CHAD preferred buyback seen only in blocked Block origin; needs filing or second outlet.",
+      "note": "DeFi Development CHAD buyback seen only in blocked Block origin; GlobeNewswire primary and CryptoBriefing second needed for figures.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:18:30.755Z",
+      "reviewedAt": "2026-10-09T04:16:49.139Z",
       "retrySearches": [
-        "DeFi Development CHAD preferred repurchase 8-K filing"
+        "DeFi Development CHAD repurchase GlobeNewswire October 6 2026"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "b0c9f331ca250c99cdd7": {
       "source": "CryptoSlate",
@@ -31975,6 +31975,21 @@
             }
           ],
           "reviewedAt": "2026-10-09T04:16:46.828Z"
+        },
+        "5e0ec86b57cca6b89df7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "DeFi Development CHAD buyback seen only in blocked Block origin; GlobeNewswire primary and CryptoBriefing second needed for figures.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:16:49.139Z",
+          "retrySearches": [
+            "DeFi Development CHAD repurchase GlobeNewswire October 6 2026"
+          ]
         }
       },
       "baselineSlugs": [
