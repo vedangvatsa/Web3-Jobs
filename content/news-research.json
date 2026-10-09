@@ -16942,17 +16942,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e33a650c55f3e7ab383a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T16:44:20.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 US 12,267 BTC Bitfinex-hack transfer as covered by bitfinex-move in this run.",
+      "note": "Same 1B Bitfinex-seizure move covered in bitfinex-move in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:58:39.423Z",
+      "reviewedAt": "2026-10-09T04:13:46.833Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "0acef52c24bebf178d60": {
       "source": "BeInCrypto",
@@ -31352,6 +31353,15 @@
           "note": "Same 1B Bitfinex-seizure move covered in bitfinex-move in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:13:44.740Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "e33a650c55f3e7ab383a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same 1B Bitfinex-seizure move covered in bitfinex-move in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:13:46.833Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
