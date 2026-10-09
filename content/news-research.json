@@ -23456,11 +23456,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c77ae768dd4e69dd1b66",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T17:21:07.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "missing-primary-source",
+      "note": "Round 3 read Cointelegraph on HSBC Ant Digital AI-agent micropayment technical verification; PRNewswire company release not yet opened. Next: open PRNewswire release plus second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:01:35.705Z",
+      "retrySearches": [
+        "HSBC Ant Digital AI agent micropayment PRNewswire release draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "c75de1b0ee258c6aa12c": {
       "source": "Cointelegraph",
@@ -37760,6 +37774,21 @@
           "reviewedAt": "2026-10-09T18:01:30.786Z",
           "retrySearches": [
             "ICANN 2026 round applications 1615 .agent .bitcoin draft"
+          ]
+        },
+        "c77ae768dd4e69dd1b66": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Round 3 read Cointelegraph on HSBC Ant Digital AI-agent micropayment technical verification; PRNewswire company release not yet opened. Next: open PRNewswire release plus second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:35.705Z",
+          "retrySearches": [
+            "HSBC Ant Digital AI agent micropayment PRNewswire release draft"
           ]
         }
       },
