@@ -20810,11 +20810,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6eb78273ce6d69ab8f6b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T09:50:01.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "Speculators moving 55K BTC to exchanges amid liquidations is exchange-flow price chatter with no single verifiable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:54.034Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "21458613a4184395da55": {
       "source": "BeInCrypto",
@@ -32436,6 +32441,13 @@
           "note": "Bitcoin steadying near 82,500 on Trump Iran remarks is intraday price movement on political news, not a crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:48.082Z"
+        },
+        "6eb78273ce6d69ab8f6b": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Speculators moving 55K BTC to exchanges amid liquidations is exchange-flow price chatter with no single verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:54.034Z"
         }
       },
       "baselineSlugs": [
