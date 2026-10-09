@@ -22050,11 +22050,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "26b6d0643da1b0aa72ca",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T12:36:56.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto Gate-Visa page returned HTTP 403 to round 3 with no second outlet in queue. Next: find a Gate or Visa announcement and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/gate-partners-with-visa-crypto-card/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:18.445Z",
+      "retrySearches": [
+        "Gate Visa crypto card announcement draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "f46b0c4a638dbaf5f575": {
       "source": "CoinDesk",
@@ -35150,6 +35164,21 @@
           "reviewedAt": "2026-10-09T14:17:16.134Z",
           "retrySearches": [
             "Anthropic frontier AI scanner announcement draft"
+          ]
+        },
+        "26b6d0643da1b0aa72ca": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto Gate-Visa page returned HTTP 403 to round 3 with no second outlet in queue. Next: find a Gate or Visa announcement and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/gate-partners-with-visa-crypto-card/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:18.445Z",
+          "retrySearches": [
+            "Gate Visa crypto card announcement draft"
           ]
         }
       },
