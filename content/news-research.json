@@ -19884,17 +19884,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b003cd0a478350d3fc78",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T19:47:40.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same NFL prediction-markets audible as covered by nfl-kalshi in this run.",
+      "note": "Same NFL prediction-market story drafted as nfl-kalshi in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:40.130Z",
+      "reviewedAt": "2026-10-09T04:15:10.956Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "4f6f7be9c8cb584fca73": {
       "source": "Cointelegraph",
@@ -31650,6 +31651,15 @@
           "reviewedAt": "2026-10-09T04:15:06.137Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "b003cd0a478350d3fc78": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL prediction-market story drafted as nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:10.956Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
