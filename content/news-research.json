@@ -21919,11 +21919,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "159599c6478a5d390360",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T11:09:04.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "price-chatter",
+      "note": "Trump Iran pledge crypto gains piece is intraday price movement on political remarks with liquidation chatter, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:27:44.921Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "102dcab27748c8d6b243": {
       "source": "BeInCrypto",
@@ -33310,6 +33315,13 @@
           "note": "Morning Minute AI encryption roundup is editorial commentary on researcher warnings, not a new event itself.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:27:42.817Z"
+        },
+        "159599c6478a5d390360": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Trump Iran pledge crypto gains piece is intraday price movement on political remarks with liquidation chatter, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:27:44.921Z"
         }
       },
       "baselineSlugs": [
