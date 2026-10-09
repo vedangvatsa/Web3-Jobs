@@ -9711,29 +9711,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "e2d3ba46f21b880f569a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T22:57:55.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 verified Solana DvP atomic settlement program across PRNewswire release and solana.com; draft not yet written.",
-      "sourceChecks": [
-        {
-          "url": "https://www.prnewswire.com/news-releases/solana-foundation-launches-solana-dvp-an-atomic-settlement-program-built-for-financial-institutions-302898811.html",
-          "outcome": "read"
-        },
-        {
-          "url": "https://solana.com/news/solana-foundation-launches-solana-dv-p-an-atomic-settlement-program-built-for-financial-institutions",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T04:18:49.955Z",
+      "reason": "duplicate",
+      "note": "Same Oct 5 Solana DvP atomic settlement program already covered by the existing solana-dvp article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:15.169Z",
       "retrySearches": [
         "Solana DvP design partners bank pilot settlement"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "duplicateOf": "solana-dvp"
     },
     "f14768f9c1b71016227a": {
       "source": "Decrypt",
@@ -31670,6 +31661,14 @@
           "reviewedAt": "2026-10-09T04:15:12.955Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "e2d3ba46f21b880f569a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 5 Solana DvP atomic settlement program already covered by the existing solana-dvp article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:15.169Z",
+          "duplicateOf": "solana-dvp"
         }
       },
       "baselineSlugs": [
