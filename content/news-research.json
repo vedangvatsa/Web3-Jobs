@@ -18567,17 +18567,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "87edf17a86289e0f2c9b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T12:00:54.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "duplicate",
-      "note": "BeInCrypto version of the same ESMA non-MiCA stablecoin deadline drafted as esma-stablecoins.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:00:33.346Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto ESMA stablecoin page returned HTTP 403 to round 3; same Oct 8 opinion re-read in CoinDesk this round. Next: re-open Cointelegraph plus ESMA PDF primary and draft esma-stablecoins.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/eu-exchanges-drop-unauthorized-stablecoins-usdt/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:25.551Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "ESMA stablecoin January 2027 deadline opinion second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "c01aa070c06b9b158f6e": {
       "source": "BeInCrypto",
@@ -36669,6 +36678,21 @@
           "reviewedAt": "2026-10-09T17:58:20.167Z",
           "retrySearches": [
             "Securitize Stocks Solana PropAMM Jump second outlet draft"
+          ]
+        },
+        "87edf17a86289e0f2c9b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto ESMA stablecoin page returned HTTP 403 to round 3; same Oct 8 opinion re-read in CoinDesk this round. Next: re-open Cointelegraph plus ESMA PDF primary and draft esma-stablecoins.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/eu-exchanges-drop-unauthorized-stablecoins-usdt/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:25.551Z",
+          "retrySearches": [
+            "ESMA stablecoin January 2027 deadline opinion second outlet draft"
           ]
         }
       },
