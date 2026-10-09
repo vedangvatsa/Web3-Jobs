@@ -21396,11 +21396,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "44b077d2232c6c0b8a2b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T09:40:38.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "not-a-concrete-event",
+      "note": "Strategy STRC hidden-dependency piece is balance-sheet analysis of buyback mechanics with no new filing or vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:58:03.678Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "a43ee895666e6bedd5e0": {
       "source": "BeInCrypto",
@@ -32496,6 +32501,13 @@
           "note": "Live-update ETF flow piece on XRP versus BTC ETH ZEC funds is an intraday fund-flow blog, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:58:01.707Z"
+        },
+        "44b077d2232c6c0b8a2b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Strategy STRC hidden-dependency piece is balance-sheet analysis of buyback mechanics with no new filing or vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:58:03.678Z"
         }
       },
       "baselineSlugs": [
