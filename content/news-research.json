@@ -9343,20 +9343,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "baa9316ece00bf2fbe7f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-09T22:39:09.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "duplicate",
-      "note": "Hyperliquid Singapore base and MAS no-license story covered by hyperliquid-base.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:36:38.499Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto Hyperliquid MAS story returned HTTP 403 to round 3; pairs with dc93 which stayed reachable. Next: open a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/hyperliquid-singapore-mas-license/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:10:50.776Z",
       "retrySearches": [
-        "Hyperliquid Singapore MAS license October 2026"
+        "Hyperliquid Singapore MAS license second outlet October 2026"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "hyperliquid-base"
+      "duplicateOf": "hyperliquid-base",
+      "nextReviewDate": "2026-10-10"
     },
     "8f552e99d3474b953c57": {
       "source": "Cointelegraph",
@@ -33906,6 +33912,21 @@
           "reviewedAt": "2026-10-09T14:10:48.600Z",
           "retrySearches": [
             "SEC one-member quorum Federal Register October 2026 draft"
+          ]
+        },
+        "baa9316ece00bf2fbe7f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto Hyperliquid MAS story returned HTTP 403 to round 3; pairs with dc93 which stayed reachable. Next: open a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/hyperliquid-singapore-mas-license/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:10:50.776Z",
+          "retrySearches": [
+            "Hyperliquid Singapore MAS license second outlet October 2026"
           ]
         }
       },
