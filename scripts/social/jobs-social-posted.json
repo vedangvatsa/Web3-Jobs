@@ -1,5 +1,5 @@
 {
-  "lastIndex": 369,
+  "lastIndex": 371,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -168,7 +168,9 @@
     "mkt81",
     "mssp",
     "pm211",
-    "eng381"
+    "eng381",
+    "sls215",
+    "an68"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5407,498 +5409,6 @@
       "verification": "verified"
     },
     {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x1f55e9fe90425559c8f7585dfd34fde4b0783640",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x191c5ddbb5f657252f1f771492ed1d89c78e2b13",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x0043c1af7b6d6ab493a7d5da9c419a028d28a7d3",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0x624b30632c07b6d825b8583df9fdb5bd762c73e0",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "0xed95d6fdad9c3d31435076a12c050a2ab79e5d43",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "6ac38abf32f9ebfdb1ce4c4c",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "6ac38acaece98e64bc12b77c",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "urn:li:share:7512837146224001024",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "tcs",
-      "company": "OKX",
-      "title": "Team Lead, Customer Service",
-      "platform": "facebook",
-      "postedAt": "2026-10-05T11:31:57.665Z",
-      "postId": "691827047618629_1107105848563316",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "x",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "6ac38ae01cf337b59da45407",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Blockworks is hiring Business Development Representative\n\nhttps://hashtagweb3.com/sls186/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107071504240246883"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "threads",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "18134402518728330",
-      "verification": "verified",
-      "expectedText": "Blockworks is hiring Business Development Representative: https://hashtagweb3.com/sls186/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeHHDZbm621",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "bluesky",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx4szdvc2p2u",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x512366dc08a1041f7527abd79a8873a8ed8809bf",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xea255b8400f1a126cd6866a9072bcf8d62e479d3",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xd5f209856bb1688bcfea420525d8f8020a7cf7be",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x4a4464410617ae1acb5d071fa31be0d2bd0801d1",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x834aa6244d112aca44aee6f2099873adf7535959",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x0bacba31acfeca35de330f7f18d7df0374b7a089",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x820e1808625c90e9b8f8734b1d1df178b56ae0c4",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x926308927067b9c29c854b00e7fe4fc9c678fc9b",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xb21d4ae6c56b242287429abd79e4e02c068481fc",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x24f863912d2a1bf4eff65acfd54fa05a2bc88504",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xa1d86ac5e7fe6aa89b256f39c02f8e714e86aec6",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x6c043051ec02858d2ddaaefaf3342481914407c7",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xf6e4cf1bf11449a8d3251b45c7c7e9e671f6e179",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0x27b6cf3a478c3e55f396e11b92d47549b7352a03",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xa846c7af31a9c11575811f67a2d9ab4f1b454375",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xbeb17f9b2324d7d3edbd2b26c9e345e99701ee87",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "farcaster",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "0xee7011daeffdd743f56aa09db86b4e4f2208ef2e",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "6ac38af153279f4f19be9d77",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "6ac38afc32f9ebfdb1ce5607",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "linkedin",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "urn:li:share:7512837355855159296",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls186",
-      "company": "Blockworks",
-      "title": "Business Development Representative",
-      "platform": "facebook",
-      "postedAt": "2026-10-05T11:32:48.296Z",
-      "postId": "691827047618629_1107106361896598",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "x",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "6ac471f1acc08dcd5ea0dd76",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Incident Response Manager\n\nhttps://hashtagweb3.com/mgr106/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107319611624456471"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "18448589785133825",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Incident Response Manager: https://hashtagweb3.com/mgr106/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeI34UdkTeU",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx6k4bzygk2u",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0xc72a3522ed8ffe08a0edea012244d6b241efa264",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0xf2e27804e6468230b33442bfb749708a66af2835",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x35207095b4a0d6def202e4da8d0d7502779e5b83",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0xaf1e32fd875f5c5469247c374aa9dd428dc6abfc",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x7c0a34a12c46f1a5f715de7f3413c845009c0928",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x130bf2023d7ce13edda4f3064d00cc5cb0b485e5",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x0f5b6c39b1164a29750bff5c32288af66b246d1c",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0xbf7762df883342c49b612bf6984b19d6352fa49a",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x3323756cb7627458474b02259c8bbf15bfcf36ea",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x95c4dc6ca76ab31fe67419e37071fe00c70161fd",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x6948033f63ecc0a944f3c4f1ea1868b7ef995c00",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0xc7ae4d9bb6a73e36277acb31fc852c1e48789e5c",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "mgr106",
       "company": "Stripe",
       "title": "Incident Response Manager",
@@ -10170,6 +9680,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-08T20:18:12.750Z",
       "postId": "691827047618629_1110119011595333",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "x",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "6ac8fa25cb5a8140da1bbc60",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Bybit is hiring Regional Sales Lead, Mandarin Speaking Region\n\nhttps://hashtagweb3.com/sls215/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108565367291343222"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "threads",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "17989820226098818",
+      "verification": "verified",
+      "expectedText": "Bybit is hiring Regional Sales Lead, Mandarin Speaking Region: https://hashtagweb3.com/sls215/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeRuYkvG1LS",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "bluesky",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxh6pxgmzp2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x1071398b4aae0a6837b395ae7f2acf740b3c152d",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x04e9854f4d934956d296c285307d09a31489f309",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0xa863c9086d741cc657fb7302d2946431b3b6429a",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x5dcc208a416ce90ca65f27463a969eefb0fafeee",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0xcbf8215193fe5a59ea27449d679798f4701c5f31",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x7b60a6c1f0b1aaa8c1a849b81415079c8e1cd270",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0xb3105eca7841247cdfb8c26c60348ca233ea1941",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x6b9dd8073f7aafe73e3abcfed0a04d5056092ad8",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0xdc7609860855f1756d9f16ca9aaf59d7e570512e",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x2ffe3b53e2667e747f486566352c778c6657fc3f",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x02e227bf8399eb7a7cf074c44cdea025be9f5ab2",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x48d23f385763b893c5ff715b0b7e094ecf8c028e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x47ce39dbaa679c5c0e07b5093564664efb0ed769",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x52d1c75d89a5af70f2d834fb5a1758f0829b17ad",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0xe6d2a646da9589dbef3506778ad69cfd961bebe8",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x9ef6d9660b9ad4a9e240a6511ed297240f4bd493",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "0x76e11c2924fb1e247628c9084d263a1e7e25361d",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "6ac8fa37a5e49fef9bb62df4",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "6ac8fa42cb5a8140da1bbfc3",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "urn:li:share:7514331228058152960",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "sls215",
+      "company": "Bybit",
+      "title": "Regional Sales Lead, Mandarin Speaking Region",
+      "platform": "facebook",
+      "postedAt": "2026-10-09T14:28:52.863Z",
+      "postId": "691827047618629_1110764588197442",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "x",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "6ac8fa5aa5e49fef9bb6339b",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Ramp is hiring Senior Analyst, Employee Lifecycle Data (Workday)\n\nhttps://hashtagweb3.com/an68/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108565589027398102"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "threads",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "17964936704983328",
+      "verification": "verified",
+      "expectedText": "Ramp is hiring Senior Analyst, Employee Lifecycle Data (Workday): https://hashtagweb3.com/an68/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeRue-gG4se",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "bluesky",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxh6rjv2kt22",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xa503c08001d64b47e8cbe3eca73863eea82c82da",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xe7ee949f0afa88990ae6c392c0d7e6e6fabd1f46",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x9a48f7aefdad8d0f9baf57cb1bcee05b90f9fba7",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x3f3d1e9fabf6f73796b9f7ca6050e805c3868ebe",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x5150a3f8f33c38d89ba333dce3100f6ccf4c8b80",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x391bb72f1f0313469dbcbba6c17b70109ae4f9d2",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xe9ad8bea82235d420c53e72b0fa15ce08f4530ec",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x09d451f196b47aa9f965baeb766e21d33a213d9f",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x53b87387bdeb7eb70e3eb9308a99beadaa359e26",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xfea8fa376c6272a10b18a7754e2b1044f4cc23e1",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xf04c7fcf9c7c63bb1a104f720b3370966f2f6c8b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xcfec1aa09fe8cd01463d4c37367e4a8003eb5dac",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x9541623fb548f2016e165b9e025c11bfad0ab67e",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xee812434298b5e63ee4b0c19538c960066311762",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0xe45c81346376486cab498e747f8f30665a3590bb",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x558b813a62f75dc418691e707d3f6458027f4dea",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "0x8d58b25b3e8d11bc0e060c87715e8846e64bf627",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "6ac8fa6e810582311ae434fd",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "6ac8fa7857c4b87d9cf5cc65",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "urn:li:share:7514331452994486272",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "an68",
+      "company": "Ramp",
+      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
+      "platform": "facebook",
+      "postedAt": "2026-10-09T14:29:45.876Z",
+      "postId": "691827047618629_1110765074864060",
       "verification": "verified"
     }
   ]
