@@ -15571,29 +15571,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9e5ae4047dd36ca736e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T09:32:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Read CoinDesk Oct 8 StanChart Singapore custody plan; announcement names no assets or start date and TheBlock version returned 403.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-08T11:28:51.019Z",
+      "reason": "duplicate",
+      "note": "Same Standard Chartered Singapore custody plan drafted as stanchart-custody in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:46.773Z",
       "retrySearches": [
         "Standard Chartered Singapore crypto custody supported assets launch date MAS"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "duplicateOf": "stanchart-custody",
+      "mergedInto": "0bd3fb37178624c073b0"
     },
     "a58ed5f4524012c5b9b0": {
       "source": "CoinDesk",
@@ -31770,6 +31762,15 @@
           "reviewedAt": "2026-10-09T04:15:44.752Z",
           "duplicateOf": "esma-stablecoins",
           "mergedInto": "624dea8769fe6ccc1f7b"
+        },
+        "d9e5ae4047dd36ca736e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Standard Chartered Singapore custody plan drafted as stanchart-custody in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:46.773Z",
+          "duplicateOf": "stanchart-custody",
+          "mergedInto": "0bd3fb37178624c073b0"
         }
       },
       "baselineSlugs": [
