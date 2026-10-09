@@ -21162,11 +21162,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "910cbdc22ebf840f561a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T06:30:02.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CryptoSlate Coinbase-leverage headline; single outlet so far. Next: find a Coinbase notice or second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:16:36.643Z",
+      "retrySearches": [
+        "Coinbase 10x spot leverage notice draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "0fbcbb3af0a65dee6c5f": {
       "source": "CryptoSlate",
@@ -34984,6 +34998,21 @@
           "reviewedAt": "2026-10-09T14:16:34.482Z",
           "retrySearches": [
             "bitcoin lending 500M debut announcement draft"
+          ]
+        },
+        "910cbdc22ebf840f561a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CryptoSlate Coinbase-leverage headline; single outlet so far. Next: find a Coinbase notice or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:36.643Z",
+          "retrySearches": [
+            "Coinbase 10x spot leverage notice draft"
           ]
         }
       },
