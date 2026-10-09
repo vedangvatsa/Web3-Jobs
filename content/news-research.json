@@ -21655,11 +21655,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d5427606298ee2c92134",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T05:17:35.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "Why-is-the-market-up piece is intraday price roundup with no filing, launch, vote or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:46.211Z",
+      "lastReviewedDay": "2026-10-09"
     }
   },
   "runs": {
@@ -32412,6 +32417,13 @@
           "note": "Dogecoin 11-percent weekly dip on whale balances is price movement chatter with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:44.176Z"
+        },
+        "d5427606298ee2c92134": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Why-is-the-market-up piece is intraday price roundup with no filing, launch, vote or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:46.211Z"
         }
       },
       "baselineSlugs": [
