@@ -19312,28 +19312,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c7573a4e5dbe80c2c0a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T21:22:58.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified Blumenthal records request to Cantor Fitzgerald on Tether stake and custody across CoinDesk, Cointelegraph, Unchained and the Senate primary; inquiry hedged as sought, not a finding.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Cantor-Tether probe headline; Unchained carries the Blumenthal-records angle. Next: full-read both and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
           "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:22:44.460Z",
+      "reviewedAt": "2026-10-09T14:14:38.270Z",
       "articleSlug": "cantor-probe",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -19342,7 +19334,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Cantor Tether Blumenthal records draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "90d78758432a6842a6c0": {
       "source": "Decrypt",
@@ -34746,6 +34742,21 @@
           "reviewedAt": "2026-10-09T14:14:35.916Z",
           "retrySearches": [
             "Orca Loopscale Formation release draft"
+          ]
+        },
+        "3c7573a4e5dbe80c2c0a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Cantor-Tether probe headline; Unchained carries the Blumenthal-records angle. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:38.270Z",
+          "retrySearches": [
+            "Cantor Tether Blumenthal records draft"
           ]
         }
       },
