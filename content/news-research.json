@@ -22398,11 +22398,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d35dc079e9465772ed59",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T14:50:04.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "price-chatter",
+      "note": "XRP ETF underwater/inflows piece is price performance and flow analysis with no concrete event, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:44:56.457Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f669a9dcee8b304958e7": {
       "source": "Cointelegraph",
@@ -35857,6 +35862,13 @@
           "reviewedAt": "2026-10-09T17:44:50.660Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "d35dc079e9465772ed59": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XRP ETF underwater/inflows piece is price performance and flow analysis with no concrete event, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:44:56.457Z"
         }
       },
       "baselineSlugs": [
