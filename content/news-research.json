@@ -13845,17 +13845,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "a9116bc759b65e01b382",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T16:42:59.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "BitMine 5 percent cap covered by bitmine-cap.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:24.591Z",
+      "reason": "source-blocked",
+      "note": "Defiant BitMine 5-percent origin returned HTTP 403 to round 3; Decrypt, CoinDesk, Cointelegraph and CryptoSlate versions stayed reachable. Next: full-read two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitmine-will-stop-buying-eth-at-5-of-supply-tom-lee-says",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:15.321Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "BitMine 5 percent ETH Tom Lee two outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "5ce17ac3ad0afbb39a2b": {
       "source": "The Block",
@@ -34309,6 +34318,21 @@
           "reviewedAt": "2026-10-09T14:12:11.218Z",
           "retrySearches": [
             "GSR Hare vault 100M second outlet draft"
+          ]
+        },
+        "a9116bc759b65e01b382": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant BitMine 5-percent origin returned HTTP 403 to round 3; Decrypt, CoinDesk, Cointelegraph and CryptoSlate versions stayed reachable. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitmine-will-stop-buying-eth-at-5-of-supply-tom-lee-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:15.321Z",
+          "retrySearches": [
+            "BitMine 5 percent ETH Tom Lee two outlets draft"
           ]
         }
       },
