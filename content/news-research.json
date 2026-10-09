@@ -11934,17 +11934,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "eca318284bdbbe071a87",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T17:23:02.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "The Block version of the same Drake bunker-mode call drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:12.456Z",
+      "reason": "source-blocked",
+      "note": "The Block Drake bunker-mode page returned HTTP 403 to round 3; same event readable in Decrypt and CoinDesk versions. Next: re-open two readable outlets and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:57:49.235Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Drake bunker mode private key recovery two readable outlets draft bunker-mode"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "123b0a703647ad531e85": {
       "source": "Decrypt",
@@ -36405,6 +36414,21 @@
           "reviewedAt": "2026-10-09T17:57:47.279Z",
           "retrySearches": [
             "Drake bunker mode Buterin lattice reply two readable outlets draft bunker-mode"
+          ]
+        },
+        "eca318284bdbbe071a87": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Block Drake bunker-mode page returned HTTP 403 to round 3; same event readable in Decrypt and CoinDesk versions. Next: re-open two readable outlets and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:57:49.235Z",
+          "retrySearches": [
+            "Drake bunker mode private key recovery two readable outlets draft bunker-mode"
           ]
         }
       },
