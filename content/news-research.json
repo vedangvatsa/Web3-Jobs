@@ -18859,31 +18859,23 @@
       "id": "5abe8fbb60d51631f6dd",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T19:26:12.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Defiant Oct 8 claims the December PT listed, but its page returns HTTP 403 and the Sept 25 governance proposal plus Oct 6 TokenPost both describe the listing as pending approval. No second outlet confirms execution.",
+      "note": "Aave December AUSD PT listing on Monad seen only in single outlet; needs governance listing plus second outlet.",
       "sourceChecks": [
-        {
-          "url": "https://governance.aave.com/t/direct-to-aip-onboard-pt-ausd-17dec2026-to-aave-v3-monad-instance/25701/1",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.tokenpost.com/news/technology/27025",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T20:08:26.742Z",
+      "reviewedAt": "2026-10-09T04:18:56.765Z",
       "retrySearches": [
-        "Aave V3 Monad PT-AUSD-17DEC2026 listing executed October 8 AIP execution second outlet"
+        "Aave AUSD PT Monad borrowing limit listing"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "4de505ce74bf43d697e4": {
       "source": "Cointelegraph",
@@ -32412,6 +32404,21 @@
           "reviewedAt": "2026-10-09T04:18:50.766Z",
           "retrySearches": [
             "NUVA residential mortgage credit offshore investors launch"
+          ]
+        },
+        "5abe8fbb60d51631f6dd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Aave December AUSD PT listing on Monad seen only in single outlet; needs governance listing plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:18:56.765Z",
+          "retrySearches": [
+            "Aave AUSD PT Monad borrowing limit listing"
           ]
         }
       },
