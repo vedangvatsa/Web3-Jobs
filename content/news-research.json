@@ -17686,29 +17686,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "54e70e74dd24c8a9a2ef",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T16:20:21.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 verified BaFin Oct 6 Futurum Bank MiCA refusal and partner-model rebuild across CryptoSlate and Cointelegraph; draft not yet written.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T18:16:13.383Z",
+      "reason": "duplicate",
+      "note": "Same BaFin futurum MiCA refusal drafted as bitcoin-de in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:39.514Z",
       "retrySearches": [
         "Bitcoin.de regulated partner relaunch trading restart date"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "duplicateOf": "bitcoin-de",
+      "mergedInto": "628e95ee29428ffa8565"
     },
     "8f6ae7eb5f29e368d620": {
       "source": "BeInCrypto",
@@ -31754,6 +31746,15 @@
           "reviewedAt": "2026-10-09T04:15:37.116Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "54e70e74dd24c8a9a2ef": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same BaFin futurum MiCA refusal drafted as bitcoin-de in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:39.514Z",
+          "duplicateOf": "bitcoin-de",
+          "mergedInto": "628e95ee29428ffa8565"
         }
       },
       "baselineSlugs": [
