@@ -21429,11 +21429,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6ff235b2f73f2ee5ee35",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T08:47:45.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "opinion",
+      "note": "Hoskinson accusing Buterin of protecting a quantum bet is a personality-spat opinion piece with no vote or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:36.560Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "98473011bab5622f909e": {
       "source": "CoinJournal",
@@ -32352,6 +32357,13 @@
           "note": "Solana founder Netflix FTX-trailer reaction is a media-quote opinion piece with no protocol event or decision.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:34.506Z"
+        },
+        "6ff235b2f73f2ee5ee35": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Hoskinson accusing Buterin of protecting a quantum bet is a personality-spat opinion piece with no vote or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:36.560Z"
         }
       },
       "baselineSlugs": [
