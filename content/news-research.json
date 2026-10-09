@@ -11053,11 +11053,11 @@
       "id": "2a5f0f76edb1ecb37ab3",
       "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T02:50:01.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "verified-event",
-      "note": "Samsung Oct 7 USDC Wallet announcement verified: late-October start, 82M devices, Solana plus Sui rails, Bastion and Coinbase Prime Vault custody. Read Decrypt, Unchained and Solana PRNewswire; Samsung newsroom blocked.",
+      "note": "Samsung Oct 7 USDC Wallet announcement verified: late-October start, 82M devices, Solana plus Sui rails, Bastion and Coinbase Prime custody.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
@@ -11076,9 +11076,9 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T23:57:46.181Z",
+      "reviewedAt": "2026-10-09T04:10:27.851Z",
       "articleSlug": "samsung-usdc",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30063,6 +30063,31 @@
           ],
           "reviewedAt": "2026-10-09T04:10:23.660Z",
           "articleSlug": "circle-sap"
+        },
+        "2a5f0f76edb1ecb37ab3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Samsung Oct 7 USDC Wallet announcement verified: late-October start, 82M devices, Solana plus Sui rails, Bastion and Coinbase Prime custody.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/samsung-partners-with-solana-to-natively-deliver-stablecoins-in-samsung-wallet-to-82-million-us-galaxy-devices-302901200.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:27.851Z",
+          "articleSlug": "samsung-usdc"
         }
       },
       "baselineSlugs": [
