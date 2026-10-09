@@ -11778,24 +11778,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "7932aabf918494530ac0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T20:48:34.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Circle-Tereina USDC EURC SAP integration verified in Circle investor release and Securities.io; SAP Pay mechanics and proof-of-value plans confirmed.",
+      "note": "Circle-Tereina USDC EURC SAP integration verified in Circle investor release, Securities.io and CryptoBriefing. Draft 871 words, audits clean.",
       "sourceChecks": [
-        {
-          "url": "https://investor.circle.com/news/news-details/2026/Tereina-an-SAP-Backed-Company-and-Circle-Bring-USDC-and-EURC-into-Enterprise-Workflows-Starting-with-the-SAP-Ecosystem-Behind-84-of-Global-Commerce/default.aspx",
-          "outcome": "read"
-        },
         {
           "url": "https://www.securities.io/circle-partners-with-sap-backed-tereina-to-embed-stablecoin-payments-in-erp/",
           "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/circle-tereina-usdc-eurc-sap-pay/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:23.660Z",
+      "reviewedAt": "2026-10-09T12:01:43.324Z",
       "retrySearches": [
         "Tereina SAP Pay USDC proof-of-value enterprise rollout"
       ],
@@ -33947,6 +33947,23 @@
           ],
           "reviewedAt": "2026-10-09T12:01:41.470Z",
           "articleSlug": "kalshi-gold"
+        },
+        "7932aabf918494530ac0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Circle-Tereina USDC EURC SAP integration verified in Circle investor release, Securities.io and CryptoBriefing. Draft 871 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.securities.io/circle-partners-with-sap-backed-tereina-to-embed-stablecoin-payments-in-erp/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/circle-tereina-usdc-eurc-sap-pay/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T12:01:43.324Z",
+          "articleSlug": "circle-sap"
         }
       },
       "baselineSlugs": [
