@@ -22395,11 +22395,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f04ef492bcb4db52cac2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T11:39:05.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Zcash-quantum headline; pairs with the Unchained version opened this run. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:25.367Z",
+      "retrySearches": [
+        "Zcash quantum January Unchained corroboration draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "666c58700460247b690e": {
       "source": "Cointelegraph",
@@ -35237,6 +35251,21 @@
           "reviewedAt": "2026-10-09T14:17:23.034Z",
           "retrySearches": [
             "Zcash January post-quantum CoinDesk corroboration draft"
+          ]
+        },
+        "f04ef492bcb4db52cac2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Zcash-quantum headline; pairs with the Unchained version opened this run. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:25.367Z",
+          "retrySearches": [
+            "Zcash quantum January Unchained corroboration draft"
           ]
         }
       },
