@@ -14501,17 +14501,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "43692630e3e532c8981a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T10:05:11.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Cardano standard covered by cardano-standard.",
+      "note": "Unchained CIP-0113 standard launch covered as the enabling event inside veridian-spin.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:32.902Z",
-      "duplicateOf": "cardano-standard",
-      "lastReviewedDay": "2026-10-09"
+      "reviewedAt": "2026-10-09T14:00:47.515Z",
+      "duplicateOf": "veridian-spin",
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "bbfbc980f72f30b4800c"
     },
     "256cca266632a898b8b3": {
       "source": "Unchained",
@@ -33624,6 +33625,15 @@
           "note": "Defiant CIP-0113 standard launch covered as the enabling event inside veridian-spin.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:00:45.203Z",
+          "duplicateOf": "veridian-spin",
+          "mergedInto": "bbfbc980f72f30b4800c"
+        },
+        "43692630e3e532c8981a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Unchained CIP-0113 standard launch covered as the enabling event inside veridian-spin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:00:47.515Z",
           "duplicateOf": "veridian-spin",
           "mergedInto": "bbfbc980f72f30b4800c"
         }
