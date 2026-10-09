@@ -21387,11 +21387,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a43ee895666e6bedd5e0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T09:00:00.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "promotional",
+      "note": "XT Exchange anniversary piece is exchange self-promotion about service standards with no reportable development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:40.227Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "c4d91bb9350aafd0d59f": {
       "source": "Decrypt",
@@ -32376,6 +32381,13 @@
           "note": "Saylor calling a SpaceX claim bullish is commentator opinion on equities with no crypto filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:38.409Z"
+        },
+        "a43ee895666e6bedd5e0": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "XT Exchange anniversary piece is exchange self-promotion about service standards with no reportable development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:40.227Z"
         }
       },
       "baselineSlugs": [
