@@ -17773,20 +17773,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "54e70e74dd24c8a9a2ef",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T16:20:21.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "duplicate",
-      "note": "Same MiCA rejection bitcoin.de halt covered by bitcoin-de.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T12:01:49.681Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CryptoSlate MiCA-overhaul headline; pairs with the Cointelegraph BaFin refusal piece. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:14:03.750Z",
       "retrySearches": [
-        "Bitcoin.de regulated partner relaunch trading restart date"
+        "Bitcoin.de MiCA overhaul CryptoSlate Cointelegraph draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bitcoin-de"
+      "duplicateOf": "bitcoin-de",
+      "nextReviewDate": "2026-10-10"
     },
     "8f6ae7eb5f29e368d620": {
       "source": "BeInCrypto",
@@ -34629,6 +34635,21 @@
           "reviewedAt": "2026-10-09T14:14:01.371Z",
           "retrySearches": [
             "Sui Hashi 500M commitments announcement draft"
+          ]
+        },
+        "54e70e74dd24c8a9a2ef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CryptoSlate MiCA-overhaul headline; pairs with the Cointelegraph BaFin refusal piece. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:03.750Z",
+          "retrySearches": [
+            "Bitcoin.de MiCA overhaul CryptoSlate Cointelegraph draft"
           ]
         }
       },
