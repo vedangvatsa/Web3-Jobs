@@ -23631,11 +23631,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9d9bbfe5d6fe8069395",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T14:23:01.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "source-blocked",
+      "note": "Defiant Franklin Templeton NUVA page returned HTTP 403 to round 3; single source on broader asset lineup plan. Next: find Franklin or Animoca notice plus second outlet on NUVA assets.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:47.708Z",
+      "retrySearches": [
+        "Franklin Templeton Animoca NUVA asset lineup notice"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "55f30187f50a87d90550": {
       "source": "The Block",
@@ -36891,6 +36905,21 @@
           "reviewedAt": "2026-10-09T17:58:45.882Z",
           "retrySearches": [
             "US 1B Iran-linked crypto seizure Bessent second outlet"
+          ]
+        },
+        "d9d9bbfe5d6fe8069395": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Franklin Templeton NUVA page returned HTTP 403 to round 3; single source on broader asset lineup plan. Next: find Franklin or Animoca notice plus second outlet on NUVA assets.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:47.708Z",
+          "retrySearches": [
+            "Franklin Templeton Animoca NUVA asset lineup notice"
           ]
         }
       },
