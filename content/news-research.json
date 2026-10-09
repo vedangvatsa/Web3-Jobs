@@ -22252,11 +22252,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "84e69493871641eeb738",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T12:18:45.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Unchained Zcash page and confirmed the January target headline; pairs with the CoinDesk version. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/zcash-node-team-targets-january-for-post-quantum-signatures-on-transparent-addresses/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:23.034Z",
+      "retrySearches": [
+        "Zcash January post-quantum CoinDesk corroboration draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "e66ee88be162ecda829e": {
       "source": "BeInCrypto",
@@ -35208,6 +35222,21 @@
           "reviewedAt": "2026-10-09T14:17:20.734Z",
           "retrySearches": [
             "BitGo 141M suit filing response draft"
+          ]
+        },
+        "84e69493871641eeb738": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Unchained Zcash page and confirmed the January target headline; pairs with the CoinDesk version. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/zcash-node-team-targets-january-for-post-quantum-signatures-on-transparent-addresses/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:23.034Z",
+          "retrySearches": [
+            "Zcash January post-quantum CoinDesk corroboration draft"
           ]
         }
       },
