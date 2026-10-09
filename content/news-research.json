@@ -17390,15 +17390,32 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4cab21a62516fd28dba",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T13:06:24.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "duplicate",
-      "note": "Securitize CoinDesk version of same launch covered by securitize-stocks.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:41.022Z",
+      "reason": "verified-event",
+      "note": "Verified Securitize Oct 8 Securitize Stocks launch with 12 tickers and 1:1 entitlement structure across PRNewswire release, CoinDesk, Decrypt and Unchained.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T13:22:04.198Z",
       "articleSlug": "securitize-stocks",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -32902,6 +32919,31 @@
           ],
           "reviewedAt": "2026-10-09T13:21:57.475Z",
           "articleSlug": "samsung-usdc"
+        },
+        "b4cab21a62516fd28dba": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Securitize Oct 8 Securitize Stocks launch with 12 tickers and 1:1 entitlement structure across PRNewswire release, CoinDesk, Decrypt and Unchained.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T13:22:04.198Z",
+          "articleSlug": "securitize-stocks"
         }
       },
       "baselineSlugs": [
