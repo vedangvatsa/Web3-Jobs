@@ -22430,11 +22430,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "666c58700460247b690e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:49:24.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph tokenized-collateral headline; single outlet so far. Next: find the ESMA call-for-evidence text or second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:27.582Z",
+      "retrySearches": [
+        "ESMA tokenized collateral call for evidence draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     }
   },
   "runs": {
@@ -35266,6 +35280,21 @@
           "reviewedAt": "2026-10-09T14:17:25.367Z",
           "retrySearches": [
             "Zcash quantum January Unchained corroboration draft"
+          ]
+        },
+        "666c58700460247b690e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph tokenized-collateral headline; single outlet so far. Next: find the ESMA call-for-evidence text or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:27.582Z",
+          "retrySearches": [
+            "ESMA tokenized collateral call for evidence draft"
           ]
         }
       },
