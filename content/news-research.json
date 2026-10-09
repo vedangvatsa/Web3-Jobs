@@ -21676,17 +21676,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "7cb42063f34593cf0cc4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T06:34:11.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Thailand crypto ETF rules with foreign-product ban drafted as thailand-etfs; BeInCrypto angle matches identical SEC framework.",
+      "note": "Same Thailand SEC Oct 8 bitcoin ether ETF rules effective Oct 16 already drafted as thailand-etfs in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T10:55:20.783Z",
+      "reviewedAt": "2026-10-09T13:24:33.762Z",
       "duplicateOf": "thailand-etfs",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "69d2ddb419c22b7ada74": {
       "source": "Cointelegraph",
@@ -33179,6 +33180,15 @@
           "note": "Same Thailand SEC Oct 8 bitcoin ether ETF rules effective Oct 16 already drafted as thailand-etfs in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:24:31.633Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "7cb42063f34593cf0cc4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thailand SEC Oct 8 bitcoin ether ETF rules effective Oct 16 already drafted as thailand-etfs in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:24:33.762Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
         }
