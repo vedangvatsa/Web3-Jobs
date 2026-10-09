@@ -16471,11 +16471,11 @@
       "id": "634e1516faeb608c8daa",
       "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "NFL Oct 8 amicus brief backing New Jersey SCOTUS review verified: Third versus Sixth and Ninth Circuit split, gambling-not-swaps argument, Gensler and Dodd briefs, Kalshi and CFTC responses. Read Decrypt and CoinDesk.",
+      "note": "NFL Oct 8 amicus backing NJ SCOTUS review verified in Decrypt and CoinDesk; circuit split, gambling-not-swaps argument, Gensler and Dodd briefs confirmed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
@@ -16486,9 +16486,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T23:58:10.542Z",
+      "reviewedAt": "2026-10-09T04:10:31.781Z",
       "articleSlug": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30105,6 +30105,23 @@
           ],
           "reviewedAt": "2026-10-09T04:10:29.924Z",
           "articleSlug": "bitfinex-move"
+        },
+        "634e1516faeb608c8daa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "NFL Oct 8 amicus backing NJ SCOTUS review verified in Decrypt and CoinDesk; circuit split, gambling-not-swaps argument, Gensler and Dodd briefs confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:31.781Z",
+          "articleSlug": "nfl-kalshi"
         }
       },
       "baselineSlugs": [
