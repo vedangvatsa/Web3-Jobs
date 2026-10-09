@@ -10910,13 +10910,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "82cff8bbba1d2449bb5f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-09T18:19:35.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "verified-event",
-      "note": "220K digital rouble accounts vs 60K forecast verified in Reuters wire and CryptoBriefing; new first-month figure, distinct from wages pilot article.",
+      "note": "220K digital rouble accounts vs 60K forecast verified in Reuters wire and CryptoBriefing; distinct from wages pilot. Draft 754 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://live.euronext.com/en/financial-news/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-bank",
@@ -10927,7 +10927,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:19.766Z",
+      "reviewedAt": "2026-10-09T11:54:54.573Z",
       "retrySearches": [
         "digital ruble rollout wave banks universal license 2027"
       ],
@@ -33858,6 +33858,23 @@
           ],
           "reviewedAt": "2026-10-09T11:54:52.709Z",
           "articleSlug": "kalshi-us500"
+        },
+        "82cff8bbba1d2449bb5f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "220K digital rouble accounts vs 60K forecast verified in Reuters wire and CryptoBriefing; distinct from wages pilot. Draft 754 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://live.euronext.com/en/financial-news/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-bank",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/digital-ruble-accounts-top-220000-first-month/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:54:54.573Z",
+          "articleSlug": "ruble-accounts"
         }
       },
       "baselineSlugs": [
