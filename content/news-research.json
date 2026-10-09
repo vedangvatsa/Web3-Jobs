@@ -9684,13 +9684,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "628e95ee29428ffa8565",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T01:48:53.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "verified-event",
-      "note": "BaFin refusal of futurum MiCA application verified in EQS ad-hoc notice and Cointelegraph; halt since June 12 and partner fallback plan confirmed.",
+      "note": "BaFin refusal of futurum MiCA application verified in EQS ad-hoc and Cointelegraph; halt since June 12 confirmed. Draft 666 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://www.eqs-news.com/news/ad-hoc/bitcoin-group-se-bafin-refuses-micar-authorisation-applied-for-by-futurum-bank-ag/3326ef73-71ab-4d5b-aba5-58c5e92a8f75_en",
@@ -9701,7 +9701,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:12.750Z",
+      "reviewedAt": "2026-10-09T12:01:37.458Z",
       "retrySearches": [
         "futurum BaFin objection MiCA trading partner resume weeks"
       ],
@@ -33892,6 +33892,23 @@
           ],
           "reviewedAt": "2026-10-09T11:54:56.483Z",
           "articleSlug": "sec-quorum"
+        },
+        "628e95ee29428ffa8565": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "BaFin refusal of futurum MiCA application verified in EQS ad-hoc and Cointelegraph; halt since June 12 confirmed. Draft 666 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.eqs-news.com/news/ad-hoc/bitcoin-group-se-bafin-refuses-micar-authorisation-applied-for-by-futurum-bank-ag/3326ef73-71ab-4d5b-aba5-58c5e92a8f75_en",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T12:01:37.458Z",
+          "articleSlug": "bitcoin-de"
         }
       },
       "baselineSlugs": [
