@@ -22582,11 +22582,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "977a4f0f886635e738ca",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T14:13:16.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "out-of-scope",
+      "note": "Best-performing ETF 5000 percent piece tracks Hormuz tanker rates with no crypto event, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:47:40.813Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "0e1ee8d7a2e04ebe6b95": {
       "source": "CryptoSlate",
@@ -36177,6 +36182,13 @@
           "reviewedAt": "2026-10-09T17:47:27.717Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "62cd6c1ea3c742f4cf88"
+        },
+        "977a4f0f886635e738ca": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Best-performing ETF 5000 percent piece tracks Hormuz tanker rates with no crypto event, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:47:40.813Z"
         }
       },
       "baselineSlugs": [
