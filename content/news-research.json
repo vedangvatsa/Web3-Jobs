@@ -24439,11 +24439,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "32a6fb4025d29d3c1e2f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T21:21:54.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "verified-event",
+      "note": "CFTC Oct 9 event-contract swap NPRM plus casino exclusion interim rule verified in CFTC release, CoinDesk and CryptoBriefing reads. Draft 617 words, audits clean.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/cftc-event-contracts-swaps-exclusion/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:39:12.825Z",
+      "articleSlug": "cftc-swaps",
+      "lastReviewedDay": "2026-10-09"
     },
     "94b717cda7c41ca127f6": {
       "source": "CryptoSlate",
@@ -38036,6 +38055,27 @@
           ],
           "reviewedAt": "2026-10-09T23:39:11.072Z",
           "articleSlug": "dwf-bitgo"
+        },
+        "32a6fb4025d29d3c1e2f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "CFTC Oct 9 event-contract swap NPRM plus casino exclusion interim rule verified in CFTC release, CoinDesk and CryptoBriefing reads. Draft 617 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cftc-event-contracts-swaps-exclusion/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:39:12.825Z",
+          "articleSlug": "cftc-swaps"
         }
       },
       "baselineSlugs": [
