@@ -17405,24 +17405,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4cab21a62516fd28dba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T13:06:24.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Securitize Apple Nvidia Tesla on Solana with NYSE plans as covered by securitize-stocks in this run.",
+      "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:14.552Z",
+      "reviewedAt": "2026-10-09T04:13:59.645Z",
       "articleSlug": "securitize-stocks",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "europol-quantum.md: template phrasing: unlock(?:ing)?",
         "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26",
         "Source link HTTP 403: https://www.cftc.gov/csl/26-29/download"
       ],
-      "duplicateOf": "securitize-stocks"
+      "duplicateOf": "securitize-stocks",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "5efcd88f74b3e3ca8122": {
       "source": "Bitcoin Magazine",
@@ -31402,6 +31403,15 @@
           "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:13:57.817Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "b4cab21a62516fd28dba": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:13:59.645Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
         }
