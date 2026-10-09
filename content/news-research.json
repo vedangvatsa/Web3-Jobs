@@ -9395,23 +9395,23 @@
       "id": "5c3e3543ffeb133deebc",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T20:30:24.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "SEC Leech final-judgment release returned 403 to fetches; needs openable copy or independent outlet on the motion.",
+      "note": "SEC Leech final-judgment release 403 to fetches; consent judgment not yet entered so any draft must hedge as sought.",
       "sourceChecks": [
         {
           "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:18:42.539Z",
+      "reviewedAt": "2026-10-09T04:16:56.402Z",
       "retrySearches": [
-        "Ken Leech cherry picking final judgment order October 2026"
+        "SEC seeks final judgment Leech cherry-picking October 6 2026"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "63e6bcc5958cd253a0d4": {
       "source": "The Defiant",
@@ -32012,6 +32012,21 @@
           "reviewedAt": "2026-10-09T04:16:50.975Z",
           "retrySearches": [
             "Bloomberg Terminal Hyperliquid perpetuals pricing data launch October 2026"
+          ]
+        },
+        "5c3e3543ffeb133deebc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SEC Leech final-judgment release 403 to fetches; consent judgment not yet entered so any draft must hedge as sought.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:16:56.402Z",
+          "retrySearches": [
+            "SEC seeks final judgment Leech cherry-picking October 6 2026"
           ]
         }
       },
