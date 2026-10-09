@@ -15857,23 +15857,23 @@
       "id": "7820fa9063ea1c03de98",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T08:00:00.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Read CoinDesk Oct 8 Deus X wind-down with Jan 2027 unwind; second outlet confirming shutdown not yet opened.",
+      "reason": "needs-corroboration",
+      "note": "Deus X shutdown seen only in blocked CoinDesk origin; needs company statement or second outlet on wind-down terms.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:29:15.061Z",
+      "reviewedAt": "2026-10-09T04:17:40.816Z",
       "retrySearches": [
-        "Deus X Capital wind down TensorX second report"
+        "Deus X Capital shuts down backers separate strategies"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "26d8a39bd0abb78005cb": {
       "source": "BeInCrypto",
@@ -32202,6 +32202,21 @@
           "reviewedAt": "2026-10-09T04:17:29.173Z",
           "retrySearches": [
             "Bitget off-exchange settlement institutional custody launch"
+          ]
+        },
+        "7820fa9063ea1c03de98": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Deus X shutdown seen only in blocked CoinDesk origin; needs company statement or second outlet on wind-down terms.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:40.816Z",
+          "retrySearches": [
+            "Deus X Capital shuts down backers separate strategies"
           ]
         }
       },
