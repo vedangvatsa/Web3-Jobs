@@ -20045,11 +20045,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d4ab447b7748101e22e8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T00:00:53.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "not-a-concrete-event",
+      "note": "Solana geographic-speed piece analyzes open SIMD proposals with no vote or decision; unverifiable validator-location premise, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/solanas-geographic-speed-plan-trusts-validator-locations-the-network-cannot-verify/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:16:23.878Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "c017756be88aff1ef225": {
       "source": "BeInCrypto",
@@ -31859,6 +31869,18 @@
             }
           ],
           "reviewedAt": "2026-10-09T04:16:18.468Z"
+        },
+        "d4ab447b7748101e22e8": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Solana geographic-speed piece analyzes open SIMD proposals with no vote or decision; unverifiable validator-location premise, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/solanas-geographic-speed-plan-trusts-validator-locations-the-network-cannot-verify/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:16:23.878Z"
         }
       },
       "baselineSlugs": [
