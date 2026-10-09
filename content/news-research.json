@@ -19453,11 +19453,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f60147e856eff36f6ea7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T19:46:15.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "opinion",
+      "note": "Analyst claim that tokenization has bigger winners than bitcoin is prediction and opinion, not an event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T00:00:02.494Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "9341dbaf7b2e2dacd92b": {
       "source": "CryptoSlate",
@@ -29106,6 +29111,13 @@
           "note": "Google Gemini coworker email feature is a mainstream AI product story with no Web3 nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T00:00:00.421Z"
+        },
+        "f60147e856eff36f6ea7": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Analyst claim that tokenization has bigger winners than bitcoin is prediction and opinion, not an event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:02.494Z"
         }
       },
       "baselineSlugs": [
