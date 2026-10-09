@@ -20750,17 +20750,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "b22ff44197a4ebb9636a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:23:45.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Blumenthal records request on Cantor Tether stake already drafted as cantor-probe in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:36.214Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Unchained Blumenthal page and confirmed the records-request headline; pairs with the CoinDesk probe piece. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:16:27.948Z",
       "duplicateOf": "cantor-probe",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Blumenthal Cantor records CoinDesk corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "4c8e5464d8009c02f491": {
       "source": "Unchained",
@@ -34905,6 +34914,21 @@
           "reviewedAt": "2026-10-09T14:16:25.778Z",
           "retrySearches": [
             "XRP Ledger delegation CoinDesk corroboration draft"
+          ]
+        },
+        "b22ff44197a4ebb9636a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Unchained Blumenthal page and confirmed the records-request headline; pairs with the CoinDesk probe piece. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:27.948Z",
+          "retrySearches": [
+            "Blumenthal Cantor records CoinDesk corroboration draft"
           ]
         }
       },
