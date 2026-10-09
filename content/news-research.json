@@ -24408,11 +24408,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c1696a893d3fe91f3f2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T19:00:27.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "opinion",
+      "note": "Hoskinson versus Buterin AI warning piece is founder commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:41:35.564Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f7c32fc1b40e2faf124e": {
       "source": "BeInCrypto",
@@ -38881,6 +38886,13 @@
           "note": "Trump Putin diesel shipment piece covers energy politics with no crypto event or nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:41:27.535Z"
+        },
+        "8c1696a893d3fe91f3f2": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Hoskinson versus Buterin AI warning piece is founder commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:41:35.564Z"
         }
       },
       "baselineSlugs": [
