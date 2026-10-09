@@ -9274,26 +9274,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "28d44778853a7225286f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T02:20:47.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "verified-event",
-      "note": "SEC one-member quorum amendment verified in Federal Register 34-106537 and CryptoSlate; two-commissioner roster confirmed. Draft 729 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CryptoSlate SEC quorum headline; rounds 1-2 list Federal Register 34-106537 plus CryptoSlate reads. Next: re-open both and draft.",
       "sourceChecks": [
-        {
-          "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20262/commission-quorum-requirement",
-          "outcome": "read"
-        },
         {
           "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:54:56.483Z",
+      "reviewedAt": "2026-10-09T14:10:48.600Z",
       "retrySearches": [
-        "SEC quorum one commissioner recusal crypto enforcement October 2026"
+        "SEC one-member quorum Federal Register October 2026 draft"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "sec-quorum",
@@ -9303,7 +9299,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "79021417e15a0215ac3d": {
       "source": "BeInCrypto",
@@ -33894,6 +33891,21 @@
           "reviewedAt": "2026-10-09T14:10:46.421Z",
           "retrySearches": [
             "Anvil ANVL 5M Founders Fund Pantera GlobeNewswire draft figures"
+          ]
+        },
+        "28d44778853a7225286f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CryptoSlate SEC quorum headline; rounds 1-2 list Federal Register 34-106537 plus CryptoSlate reads. Next: re-open both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:10:48.600Z",
+          "retrySearches": [
+            "SEC one-member quorum Federal Register October 2026 draft"
           ]
         }
       },
