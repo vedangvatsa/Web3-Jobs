@@ -9294,13 +9294,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "28d44778853a7225286f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T02:20:47.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "verified-event",
-      "note": "SEC one-member quorum amendment verified in Federal Register Release 34-106537 and CryptoSlate; two-commissioner roster and crypto agenda items confirmed.",
+      "note": "SEC one-member quorum amendment verified in Federal Register 34-106537 and CryptoSlate; two-commissioner roster confirmed. Draft 729 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20262/commission-quorum-requirement",
@@ -9311,7 +9311,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:10.801Z",
+      "reviewedAt": "2026-10-09T11:54:56.483Z",
       "retrySearches": [
         "SEC quorum one commissioner recusal crypto enforcement October 2026"
       ],
@@ -33875,6 +33875,23 @@
           ],
           "reviewedAt": "2026-10-09T11:54:54.573Z",
           "articleSlug": "ruble-accounts"
+        },
+        "28d44778853a7225286f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "SEC one-member quorum amendment verified in Federal Register 34-106537 and CryptoSlate; two-commissioner roster confirmed. Draft 729 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20262/commission-quorum-requirement",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:54:56.483Z",
+          "articleSlug": "sec-quorum"
         }
       },
       "baselineSlugs": [
