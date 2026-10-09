@@ -23019,11 +23019,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b466ec3f61a6e8d0b33a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T16:15:25.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "duplicate",
+      "note": "Same Mashinsky permanent bar already drafted as mashinsky-ban.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:44:30.386Z",
+      "duplicateOf": "mashinsky-ban",
+      "mergedInto": "3e5484a682e6ed261c67",
+      "lastReviewedDay": "2026-10-09"
     },
     "496643e7a159131009a6": {
       "source": "Decrypt",
@@ -35695,6 +35702,15 @@
           "note": "Same Mashinsky lifetime ban and conditional payments already drafted as mashinsky-ban.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:44:28.478Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "3e5484a682e6ed261c67"
+        },
+        "b466ec3f61a6e8d0b33a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Mashinsky permanent bar already drafted as mashinsky-ban.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:44:30.386Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "3e5484a682e6ed261c67"
         }
