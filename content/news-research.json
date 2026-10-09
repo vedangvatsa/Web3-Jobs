@@ -20722,11 +20722,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfb84dbee91c6c9c59e0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:27:35.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "duplicate",
+      "note": "Same XRP Ledger delegation and controls package already drafted as xrpl-controls in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T11:12:32.261Z",
+      "duplicateOf": "xrpl-controls",
+      "mergedInto": "27f81ea86adb75b79871",
+      "lastReviewedDay": "2026-10-09"
     },
     "b22ff44197a4ebb9636a": {
       "source": "Unchained",
@@ -32769,6 +32776,15 @@
           "reviewedAt": "2026-10-09T11:12:30.337Z",
           "duplicateOf": "slot-times",
           "mergedInto": "f7cc92328214d5e25bb3"
+        },
+        "cfb84dbee91c6c9c59e0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same XRP Ledger delegation and controls package already drafted as xrpl-controls in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:12:32.261Z",
+          "duplicateOf": "xrpl-controls",
+          "mergedInto": "27f81ea86adb75b79871"
         }
       },
       "baselineSlugs": [
