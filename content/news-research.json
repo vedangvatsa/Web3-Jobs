@@ -23169,11 +23169,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "496643e7a159131009a6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T16:08:23.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "verified-event",
+      "note": "Verified DWF Maas and Falcon Digital Oct 9 London High Court 141M claim over early FF and ESPORTS sales across Decrypt and Unchained reads with lock-up terms, April-May outreach, price figures and WLFI links.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:55:13.195Z",
+      "articleSlug": "dwf-bitgo",
+      "lastReviewedDay": "2026-10-09"
     },
     "f81abcaa78c20b29893e": {
       "source": "The Defiant",
@@ -36324,6 +36339,23 @@
           "reviewedAt": "2026-10-09T17:55:08.897Z",
           "duplicateOf": "blockchain-cftc",
           "mergedInto": "f669a9dcee8b304958e7"
+        },
+        "496643e7a159131009a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified DWF Maas and Falcon Digital Oct 9 London High Court 141M claim over early FF and ESPORTS sales across Decrypt and Unchained reads with lock-up terms, April-May outreach, price figures and WLFI links.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:55:13.195Z",
+          "articleSlug": "dwf-bitgo"
         }
       },
       "baselineSlugs": [
