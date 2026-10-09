@@ -16731,13 +16731,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "634e1516faeb608c8daa",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "Verified NFL Oct 8 amicus brief backing New Jersey SCOTUS review across Decrypt and CoinDesk reads with circuit split and gambling versus swaps arguments.",
+      "note": "NFL Oct 8 amicus backing NJ SCOTUS review verified in Decrypt and CoinDesk reads with circuit split and gambling-versus-swaps arguments. Draft 749 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
@@ -16748,7 +16748,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T17:49:36.881Z",
+      "reviewedAt": "2026-10-09T23:39:04.482Z",
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -37989,6 +37989,23 @@
           ],
           "reviewedAt": "2026-10-09T23:39:02.731Z",
           "articleSlug": "samsung-usdc"
+        },
+        "634e1516faeb608c8daa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "NFL Oct 8 amicus backing NJ SCOTUS review verified in Decrypt and CoinDesk reads with circuit split and gambling-versus-swaps arguments. Draft 749 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:39:04.482Z",
+          "articleSlug": "nfl-kalshi"
         }
       },
       "baselineSlugs": [
