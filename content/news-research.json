@@ -11589,28 +11589,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "b52931b86de777cd1461",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T22:01:02.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "verified-event",
-      "note": "Orca-Loopscale merger into Formation verified in PRNewswire release, CryptoBriefing and Decrypt; Truitt CEO, 550B volume and frontier plan confirmed. Draft 856 words, audits clean.",
+      "reason": "source-blocked",
+      "note": "The Block Orca-Loopscale origin returned HTTP 403 to round 3; rounds 1-2 list PRNewswire, CryptoBriefing and Decrypt reads. Next: re-open the release plus one outlet and draft.",
       "sourceChecks": [
         {
-          "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/orca-loopscale-merge-formation-ai-defense/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
-          "outcome": "read"
+          "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T11:35:22.717Z",
+      "reviewedAt": "2026-10-09T14:11:22.021Z",
       "articleSlug": "orca-merger",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -11619,7 +11611,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Orca Loopscale Formation PRNewswire draft merger terms"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "85911409ad9cf3216a4e": {
       "source": "Decrypt",
@@ -34010,6 +34006,21 @@
           "reviewedAt": "2026-10-09T14:11:19.872Z",
           "retrySearches": [
             "Kalshi 15-minute gold ether fees draft September"
+          ]
+        },
+        "b52931b86de777cd1461": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Block Orca-Loopscale origin returned HTTP 403 to round 3; rounds 1-2 list PRNewswire, CryptoBriefing and Decrypt reads. Next: re-open the release plus one outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:22.021Z",
+          "retrySearches": [
+            "Orca Loopscale Formation PRNewswire draft merger terms"
           ]
         }
       },
