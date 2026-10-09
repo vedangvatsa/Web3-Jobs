@@ -15620,15 +15620,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "a58ed5f4524012c5b9b0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T09:17:18.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Greece crypto tax draft covered in greece-tax in this run.",
+      "note": "Same Greece Oct 8 draft 10 percent crypto tax plan already drafted as greece-tax in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:31.009Z",
+      "reviewedAt": "2026-10-09T13:24:19.424Z",
       "articleSlug": "greece-tax",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -15637,7 +15637,8 @@
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26",
         "Source link HTTP 403: https://www.cftc.gov/csl/26-29/download"
       ],
-      "duplicateOf": "greece-tax"
+      "duplicateOf": "greece-tax",
+      "mergedInto": "e519c79d92e069c437fa"
     },
     "beaa28a9473ad8ef4c1f": {
       "source": "CoinJournal",
@@ -33145,6 +33146,15 @@
           "note": "Same Greece Oct 8 draft 10 percent crypto tax plan already drafted as greece-tax in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:24:17.077Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "e519c79d92e069c437fa"
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece Oct 8 draft 10 percent crypto tax plan already drafted as greece-tax in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:24:19.424Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "e519c79d92e069c437fa"
         }
