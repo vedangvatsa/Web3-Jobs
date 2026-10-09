@@ -22726,11 +22726,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "32bf700a38b0d9260487",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T16:36:03.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "price-chatter",
+      "note": "Starknet 20 percent jump on L1-shift talk is price movement on floated consideration with no vote or decision.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:02.731Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "e5af931a9920c0e1eb6b": {
       "source": "BeInCrypto",
@@ -35893,6 +35898,13 @@
           "note": "Ethereum open interest ETH vs dollar value piece is derivatives positioning metrics with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:00.154Z"
+        },
+        "32bf700a38b0d9260487": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Starknet 20 percent jump on L1-shift talk is price movement on floated consideration with no vote or decision.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:02.731Z"
         }
       },
       "baselineSlugs": [
