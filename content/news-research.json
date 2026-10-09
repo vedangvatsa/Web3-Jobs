@@ -13633,26 +13633,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "47cf80c8527a6cb00bc3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T18:59:32.000Z",
       "lastSeenAt": "2026-10-08T17:58:12.592Z",
-      "reason": "verified-event",
-      "note": "Wells Fargo Payward liquidity talks verified in CoinDesk and crypto.news; hedged as talks, may-not-close. Draft 827 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Wells Fargo-Kraken talks headline; talks stories need two outlets. Next: find a Kraken, Payward or bank-side confirmation and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
           "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/wells-fargo-talks-with-kraken-parent-about-crypto-trading/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T12:07:22.555Z",
+      "reviewedAt": "2026-10-09T14:12:06.864Z",
       "retrySearches": [
-        "Wells Fargo Payward Kraken crypto trading confirmation"
+        "Wells Fargo Kraken Payward talks confirmation draft"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "wells-kraken",
@@ -13662,7 +13658,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "54f3eed624c0da1f9f8b": {
       "source": "Decrypt",
@@ -34292,6 +34289,21 @@
           "reviewedAt": "2026-10-09T14:12:04.791Z",
           "retrySearches": [
             "Uranium Finance hacker conviction second outlet draft"
+          ]
+        },
+        "47cf80c8527a6cb00bc3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Wells Fargo-Kraken talks headline; talks stories need two outlets. Next: find a Kraken, Payward or bank-side confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:12:06.864Z",
+          "retrySearches": [
+            "Wells Fargo Kraken Payward talks confirmation draft"
           ]
         }
       },
