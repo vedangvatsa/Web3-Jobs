@@ -21232,17 +21232,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "11a30808d0c23996da58",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T04:52:51.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Solana final 200-millisecond slot cut at epoch 1053 already drafted as slot-times in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:12:30.337Z",
+      "reason": "source-blocked",
+      "note": "Defiant Solana 200ms scheduling piece returned HTTP 403 to round 3; pairs with the CoinDesk upgrade piece that stayed reachable. Next: full-read CoinDesk plus an Anza confirmation and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:07.268Z",
       "duplicateOf": "slot-times",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Solana 200ms CoinDesk Anza corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "27f81ea86adb75b79871": {
       "source": "CoinDesk",
@@ -35042,6 +35051,21 @@
           "reviewedAt": "2026-10-09T14:17:04.843Z",
           "retrySearches": [
             "Core Lightning patch release notes draft"
+          ]
+        },
+        "11a30808d0c23996da58": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Solana 200ms scheduling piece returned HTTP 403 to round 3; pairs with the CoinDesk upgrade piece that stayed reachable. Next: full-read CoinDesk plus an Anza confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:07.268Z",
+          "retrySearches": [
+            "Solana 200ms CoinDesk Anza corroboration draft"
           ]
         }
       },
