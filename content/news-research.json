@@ -23556,11 +23556,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "086f433689c7a72fd7a9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:12:57.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "opinion",
+      "note": "Pollak tokenization supercycle quote is forward-looking opinion with no launch, filing or schedule.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:28.576Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f4f3fa2c147696870d96": {
       "source": "BeInCrypto",
@@ -36025,6 +36030,13 @@
           "note": "Dragonfly partner bunker-mode reply is commentary on researcher warnings, not a new event itself.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:26.729Z"
+        },
+        "086f433689c7a72fd7a9": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Pollak tokenization supercycle quote is forward-looking opinion with no launch, filing or schedule.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:28.576Z"
         }
       },
       "baselineSlugs": [
