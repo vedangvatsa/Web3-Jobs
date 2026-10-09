@@ -999,7 +999,7 @@
     "sentAt": "2026-10-08T20:18:40.665Z"
   },
   "d11f2b73-27f1-43b8-9cc1-135e51ff69dc": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-09T19:53:48.314Z",
     "stories": [
       {
@@ -1027,6 +1027,8 @@
         "originalTitle": "Greenfield Asks Swiss Watchdog to Review Safe Foundation Governance"
       }
     ],
-    "slotKey": "2026-10-09:evening"
+    "slotKey": "2026-10-09:evening",
+    "messageId": 155704,
+    "sentAt": "2026-10-09T19:53:51.328Z"
   }
 }

@@ -698,6 +698,9 @@
   "https://hashtagweb3.com/hashsmash?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/etherfi-stablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/eez-atomic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fairshake-house?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fincen-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/safe-complaint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2002,6 +2005,12 @@
   "Ether.fi Plans Dollar Stablecoin With Ethena Running Reserves",
   "Ethereum Mainnet Tests First Atomic L1-to-L2 Transaction",
   "Ethereum Economic Zone Tests First Atomic L1 to L2 Transaction",
+  "Fairshake Pledges Funding for 32 House Incumbents",
+  "Fairshake Backs 32 House Incumbents With at Least $6 Million for Six Races",
+  "FinCEN Withdraws Proposed Crypto Wallet and Mixer Rules",
+  "FinCEN Withdraws Unhosted Wallet and Mixer Reporting Proposals",
+  "Greenfield Capital Files Complaint Against Safe Foundation Board",
+  "Greenfield Asks Swiss Watchdog to Review Safe Foundation Governance",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2250,5 +2259,8 @@
   "fp:000|bett|bill|candidat|contract|davis|don|election|federal|fin",
   "fp:challeng|contest|cryptographic|eigen|event|four|function|hash|hashsmash|lab",
   "fp:complianc|dollar|ethena|ether|manag|mint|plan|reserv|runn|stablecoin",
-  "fp:all|atomic|blockchain|demonstration|economic|layer|link|main|mainnet|noth"
+  "fp:all|atomic|blockchain|demonstration|economic|layer|link|main|mainnet|noth",
+  "fp:act|action|and13|back|backs32|clarity|committe|democrat|fairshak|for32",
+  "fp:agency|and2023|cancel|draft|feedback|fincen|its2020|mixer|propos|proposal",
+  "fp:against|ask|board|capital|complaint|fil|firm|follow|foundation|governanc"
 ]
