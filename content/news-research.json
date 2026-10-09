@@ -12190,17 +12190,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f473ee7a875080f630f5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T16:25:38.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Tether NBK-Alatau MoU story drafted as tether-kazakhstan in this run.",
+      "note": "Tether NBK-Alatau MoU covered by tether-kazakhstan.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:12:41.562Z",
+      "reviewedAt": "2026-10-09T11:36:44.634Z",
       "duplicateOf": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "5e818d6c7c2ca5d7595e"
     },
     "8c65ec88a9d5f318eeff": {
       "source": "Bitcoin Magazine",
@@ -33410,6 +33411,15 @@
           "reviewedAt": "2026-10-09T11:36:42.851Z",
           "duplicateOf": "coinbase-pro",
           "mergedInto": "697bdf91d6c6d3bd5f3f"
+        },
+        "f473ee7a875080f630f5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Tether NBK-Alatau MoU covered by tether-kazakhstan.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:36:44.634Z",
+          "duplicateOf": "tether-kazakhstan",
+          "mergedInto": "5e818d6c7c2ca5d7595e"
         }
       },
       "baselineSlugs": [
