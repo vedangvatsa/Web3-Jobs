@@ -17627,23 +17627,23 @@
       "id": "6f421eab942d61e269b4",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T16:25:06.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 read Cointelegraph Oct 8 IMF tokenized-markets analysis with 65B figure; needs IMF post and second outlet.",
+      "note": "IMF tokenized-markets warning seen only in single outlet; needs IMF report page plus second outlet.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T18:17:22.203Z",
+      "reviewedAt": "2026-10-09T04:18:28.578Z",
       "retrySearches": [
-        "IMF tokenized markets October 2026 analysis second outlet"
+        "IMF tokenized markets financial risks October 2026"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "54e70e74dd24c8a9a2ef": {
       "source": "CryptoSlate",
@@ -32352,6 +32352,21 @@
           "reviewedAt": "2026-10-09T04:18:18.020Z",
           "retrySearches": [
             "Decrypt Money Accounts Solana Information Exchange"
+          ]
+        },
+        "6f421eab942d61e269b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "IMF tokenized-markets warning seen only in single outlet; needs IMF report page plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:18:28.578Z",
+          "retrySearches": [
+            "IMF tokenized markets financial risks October 2026"
           ]
         }
       },
