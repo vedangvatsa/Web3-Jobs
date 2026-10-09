@@ -14204,17 +14204,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a3f0498b0937836134a4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T13:13:05.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Moody's B3 Sky rating covered by sky-rating in this run.",
+      "note": "Same Moody's B3 Sky rating drafted as sky-rating in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T20:08:05.478Z",
+      "reviewedAt": "2026-10-09T04:14:06.628Z",
       "duplicateOf": "sky-rating",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "e1016b5ea433bb06db24"
     },
     "9dad087f927922704e2a": {
       "source": "CoinDesk",
@@ -31424,6 +31425,15 @@
           "reviewedAt": "2026-10-09T04:14:04.637Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "a3f0498b0937836134a4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Moody's B3 Sky rating drafted as sky-rating in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:06.628Z",
+          "duplicateOf": "sky-rating",
+          "mergedInto": "e1016b5ea433bb06db24"
         }
       },
       "baselineSlugs": [
