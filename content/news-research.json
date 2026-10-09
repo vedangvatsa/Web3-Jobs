@@ -21690,11 +21690,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4d91bb9350aafd0d59f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T08:59:31.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Decrypt SIM-swap page and confirmed the jailing headline; single outlet so far. Next: find the DOJ release or second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:14.044Z",
+      "retrySearches": [
+        "SIM-swap fraudster sentencing DOJ release draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "6ff235b2f73f2ee5ee35": {
       "source": "BeInCrypto",
@@ -35092,6 +35106,21 @@
           "reviewedAt": "2026-10-09T14:17:11.803Z",
           "retrySearches": [
             "Pyth DAO 100 percent rule vote record draft"
+          ]
+        },
+        "c4d91bb9350aafd0d59f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Decrypt SIM-swap page and confirmed the jailing headline; single outlet so far. Next: find the DOJ release or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:14.044Z",
+          "retrySearches": [
+            "SIM-swap fraudster sentencing DOJ release draft"
           ]
         }
       },
