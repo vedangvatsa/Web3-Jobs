@@ -21708,11 +21708,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f83d48c4539685aa5b4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T07:20:02.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "duplicate",
+      "note": "Same ESMA 90-day non-compliant stablecoin deadline already drafted as esma-deadline in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T11:23:32.502Z",
+      "duplicateOf": "esma-deadline",
+      "mergedInto": "624dea8769fe6ccc1f7b",
+      "lastReviewedDay": "2026-10-09"
     },
     "208b88e90d866e0e3f32": {
       "source": "BeInCrypto",
@@ -33217,6 +33224,15 @@
           "note": "Same ESMA 3-month unauthorized-stablecoin deadline already drafted as esma-deadline in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:23:30.723Z",
+          "duplicateOf": "esma-deadline",
+          "mergedInto": "624dea8769fe6ccc1f7b"
+        },
+        "1f83d48c4539685aa5b4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ESMA 90-day non-compliant stablecoin deadline already drafted as esma-deadline in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:32.502Z",
           "duplicateOf": "esma-deadline",
           "mergedInto": "624dea8769fe6ccc1f7b"
         }
