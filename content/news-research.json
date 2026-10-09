@@ -11083,13 +11083,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a5f0f76edb1ecb37ab3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T02:50:01.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "verified-event",
-      "note": "Verified Samsung Oct 7 USDC late-October launch for 82M devices across PRNewswire release, Decrypt and Unchained with custody and network details.",
+      "note": "Verified Samsung Oct 7 USDC late-October launch for 82M devices across Solana Foundation release, Decrypt, Unchained and Sui Foundation partner post with custody and network details.",
       "sourceChecks": [
         {
           "url": "https://www.prnewswire.com/news-releases/samsung-partners-with-solana-to-natively-deliver-stablecoins-in-samsung-wallet-to-82-million-us-galaxy-devices-302901200.html",
@@ -11102,9 +11102,13 @@
         {
           "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.sui.io/blog/samsung-collaborates-with-sui-to-bring-usdc-to-samsung-wallet-on-82-million-u-s-galaxy-devices",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T13:21:57.475Z",
+      "reviewedAt": "2026-10-09T17:43:50.399Z",
       "articleSlug": "samsung-usdc",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -35576,6 +35580,31 @@
           ],
           "reviewedAt": "2026-10-09T17:37:55.353Z",
           "articleSlug": "thailand-etfs"
+        },
+        "2a5f0f76edb1ecb37ab3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Samsung Oct 7 USDC late-October launch for 82M devices across Solana Foundation release, Decrypt, Unchained and Sui Foundation partner post with custody and network details.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/samsung-partners-with-solana-to-natively-deliver-stablecoins-in-samsung-wallet-to-82-million-us-galaxy-devices-302901200.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sui.io/blog/samsung-collaborates-with-sui-to-bring-usdc-to-samsung-wallet-on-82-million-u-s-galaxy-devices",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:43:50.399Z",
+          "articleSlug": "samsung-usdc"
         }
       },
       "baselineSlugs": [
