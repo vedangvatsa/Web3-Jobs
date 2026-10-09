@@ -17855,17 +17855,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e9948d74caa61550c47",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T17:46:44.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "duplicate",
-      "note": "Same NFL Oct 8 SCOTUS amicus backing New Jersey review already drafted as nfl-kalshi.",
+      "note": "Same NFL Oct 8 SCOTUS amicus backing NJ review covered by nfl-kalshi.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T17:49:39.107Z",
+      "reviewedAt": "2026-10-09T23:39:45.343Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "817d26b99c3d48e348ee": {
       "source": "The Block",
@@ -38272,6 +38273,15 @@
           "reviewedAt": "2026-10-09T23:39:43.680Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "6e9948d74caa61550c47": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL Oct 8 SCOTUS amicus backing NJ review covered by nfl-kalshi.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:39:45.343Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
