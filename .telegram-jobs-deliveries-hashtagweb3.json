@@ -1150,7 +1150,7 @@
     "sentAt": "2026-10-08T20:17:32.303Z"
   },
   "8fb498c2-8c19-4489-89bb-0daaa63c39b0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-09T19:52:38.169Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1191,6 +1191,8 @@
       }
     ],
     "message": "• Trust Wallet is hiring <a href=\"https://hashtagweb3.com/eng380?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Lead AI Engineer</a>\n• Ethena Labs is hiring <a href=\"https://hashtagweb3.com/eng377?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior/Staff Software Engineer</a>\n• Solana Foundation is hiring <a href=\"https://hashtagweb3.com/int15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">VP, International Communications</a>\n• Pantera Capital is hiring <a href=\"https://hashtagweb3.com/an43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Investment Analyst</a>\n• Keyrock is hiring <a href=\"https://hashtagweb3.com/marketing177?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Head of Marketing</a>",
-    "slotKey": "2026-10-09:evening"
+    "slotKey": "2026-10-09:evening",
+    "messageId": 155702,
+    "sentAt": "2026-10-09T19:52:40.684Z"
   }
 }
