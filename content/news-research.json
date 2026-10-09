@@ -16633,13 +16633,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "Verified US Oct 8 move of 12,267 Bitfinex-seized bitcoin worth about 1 billion to unlabeled wallets with no sale indicated across CoinDesk, Decrypt, Unchained and CryptoSlate.",
+      "note": "Verified US Oct 8 move of 12,267 Bitfinex-seized bitcoin worth about 1B to unlabeled wallets with no sale indicated across CoinDesk, Decrypt and Unchained reads.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
@@ -16652,13 +16652,9 @@
         {
           "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
           "outcome": "read"
-        },
-        {
-          "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T13:23:43.615Z",
+      "reviewedAt": "2026-10-09T17:46:56.841Z",
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -36049,6 +36045,27 @@
           "note": "OpenAI Anthropic disaster-rehearsal piece is AI safety analysis with no crypto event, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:30.529Z"
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified US Oct 8 move of 12,267 Bitfinex-seized bitcoin worth about 1B to unlabeled wallets with no sale indicated across CoinDesk, Decrypt and Unchained reads.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:46:56.841Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
