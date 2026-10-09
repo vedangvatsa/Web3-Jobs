@@ -12790,13 +12790,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "4954b8be94596f23a77e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T09:58:06.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Oct 5 SDNY letter citing Sept 25 Bitcoin Fog venue ruling verified in Decrypt, Cointelegraph and CryptoSlate; Ahmed mapping and FinCEN withdrawal confirmed.",
+      "note": "Verified prosecutors citing Bitcoin Fog ruling against Storm venue challenge across Decrypt and Cointelegraph with the SDNY filing and circuit opinion; motion undecided.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
@@ -12805,13 +12805,9 @@
         {
           "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid",
           "outcome": "read"
-        },
-        {
-          "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:53.620Z",
+      "reviewedAt": "2026-10-09T11:22:48.088Z",
       "articleSlug": "storm-venue",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -33036,6 +33032,23 @@
           ],
           "reviewedAt": "2026-10-09T11:22:46.259Z",
           "articleSlug": "bunker-mode"
+        },
+        "4954b8be94596f23a77e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified prosecutors citing Bitcoin Fog ruling against Storm venue challenge across Decrypt and Cointelegraph with the SDNY filing and circuit opinion; motion undecided.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:22:48.088Z",
+          "articleSlug": "storm-venue"
         }
       },
       "baselineSlugs": [
