@@ -17617,17 +17617,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e9948d74caa61550c47",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T17:46:44.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "NFL prediction-markets fight covered by nfl-kalshi.",
+      "note": "Bankless version of the same NFL amicus brief backing SCOTUS review drafted as nfl-kalshi.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:45.109Z",
+      "reviewedAt": "2026-10-09T14:00:01.766Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "817d26b99c3d48e348ee": {
       "source": "The Block",
@@ -33522,6 +33523,15 @@
           "reviewedAt": "2026-10-09T13:59:59.559Z",
           "duplicateOf": "empire-market",
           "mergedInto": "35543151e27a95014f9d"
+        },
+        "6e9948d74caa61550c47": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Bankless version of the same NFL amicus brief backing SCOTUS review drafted as nfl-kalshi.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:00:01.766Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
