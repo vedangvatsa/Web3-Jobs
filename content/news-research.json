@@ -18692,17 +18692,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "823e99f6e2c7e227d089",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T18:06:41.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same NFL prediction-markets Supreme Court pushback as covered by nfl-kalshi in this run.",
+      "note": "Same NFL prediction-market pushback drafted as nfl-kalshi in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:35.948Z",
+      "reviewedAt": "2026-10-09T04:14:41.805Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "dd25110442b0f822a9d6": {
       "source": "CryptoSlate",
@@ -31552,6 +31553,15 @@
           "note": "Same NFL Kalshi SCOTUS fight drafted as nfl-kalshi in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:14:39.887Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "823e99f6e2c7e227d089": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL prediction-market pushback drafted as nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:41.805Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
