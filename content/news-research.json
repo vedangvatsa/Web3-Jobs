@@ -19763,11 +19763,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "75f378f115dd86028600",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T20:30:00.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "out-of-scope",
+      "note": "Samsung quarterly profit preview and stock reaction is equity earnings coverage with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T00:00:19.094Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "e5a89946e52fe0dc8688": {
       "source": "BeInCrypto",
@@ -29118,6 +29123,13 @@
           "note": "Analyst claim that tokenization has bigger winners than bitcoin is prediction and opinion, not an event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T00:00:02.494Z"
+        },
+        "75f378f115dd86028600": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Samsung quarterly profit preview and stock reaction is equity earnings coverage with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:19.094Z"
         }
       },
       "baselineSlugs": [
