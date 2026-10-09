@@ -24198,11 +24198,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a391370519699e67f1d6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T19:03:12.000Z",
-      "lastSeenAt": "2026-10-09T19:31:17.507Z"
+      "lastSeenAt": "2026-10-09T19:31:17.507Z",
+      "reason": "source-blocked",
+      "note": "Papertrade launch weekend seen only in single Bankless origin; needs product announcement or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/papertrade-s-launch-weekend",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:41:07.767Z",
+      "retrySearches": [
+        "Papertrade launch paper trading product announcement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "014eb017fb61184b85b3": {
       "source": "Bankless",
@@ -38687,6 +38701,21 @@
           "reviewedAt": "2026-10-09T23:41:03.151Z",
           "retrySearches": [
             "Coinbase Gennius ONED stablecoin Latin America banks announcement"
+          ]
+        },
+        "a391370519699e67f1d6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Papertrade launch weekend seen only in single Bankless origin; needs product announcement or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/papertrade-s-launch-weekend",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:41:07.767Z",
+          "retrySearches": [
+            "Papertrade launch paper trading product announcement second outlet"
           ]
         }
       },
