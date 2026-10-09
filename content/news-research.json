@@ -21497,11 +21497,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "208b88e90d866e0e3f32",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T07:08:59.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "opinion",
+      "note": "Saylor calling a SpaceX claim bullish is commentator opinion on equities with no crypto filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:38.409Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "cc8a0c0f11610fe8f80b": {
       "source": "BeInCrypto",
@@ -32364,6 +32369,13 @@
           "note": "Hoskinson accusing Buterin of protecting a quantum bet is a personality-spat opinion piece with no vote or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:36.560Z"
+        },
+        "208b88e90d866e0e3f32": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Saylor calling a SpaceX claim bullish is commentator opinion on equities with no crypto filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:38.409Z"
         }
       },
       "baselineSlugs": [
