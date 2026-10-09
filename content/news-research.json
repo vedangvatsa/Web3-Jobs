@@ -12831,28 +12831,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d334a722b2c2115415a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T09:01:03.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "verified-event",
-      "note": "Ledger Oct 7 Crypto Loan via Morpho and Yield.xyz verified in Ledger blog, Decrypt and provider blog. Draft 865 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Decrypt Ledger page and confirmed the bitcoin-loans headline; pairs with the blocked Defiant Morpho angle. Next: find a second openable outlet and draft.",
       "sourceChecks": [
-        {
-          "url": "https://www.ledger.com/blog-morpho-direct-access-ledger-wallet",
-          "outcome": "read"
-        },
         {
           "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
           "outcome": "read"
-        },
-        {
-          "url": "https://stakekit.ghost.io/ledger-adds-crypto-loan-borrow-against-bitcoin-with-yield-xyz-powered-by-morpho/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T12:01:45.099Z",
+      "reviewedAt": "2026-10-09T14:11:58.223Z",
       "articleSlug": "ledger-loans",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -12861,7 +12853,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Ledger bitcoin loans Morpho second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "0dedfbfff13ea6532054": {
       "source": "CoinDesk",
@@ -34225,6 +34221,21 @@
           "reviewedAt": "2026-10-09T14:11:56.179Z",
           "retrySearches": [
             "Roman Storm Bitcoin Fog venue Cointelegraph draft"
+          ]
+        },
+        "7d334a722b2c2115415a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Decrypt Ledger page and confirmed the bitcoin-loans headline; pairs with the blocked Defiant Morpho angle. Next: find a second openable outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:58.223Z",
+          "retrySearches": [
+            "Ledger bitcoin loans Morpho second outlet draft"
           ]
         }
       },
