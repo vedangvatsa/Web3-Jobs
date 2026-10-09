@@ -11672,13 +11672,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "b52931b86de777cd1461",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T22:01:02.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Orca-Loopscale merger into Formation verified in PRNewswire release, CryptoBriefing and Decrypt; Truitt CEO, 550B volume and frontier financing plan confirmed.",
+      "note": "Orca-Loopscale merger into Formation verified in PRNewswire release, CryptoBriefing and Decrypt; Truitt CEO, 550B volume and frontier plan confirmed. Draft 856 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
@@ -11693,7 +11693,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:45.995Z",
+      "reviewedAt": "2026-10-09T11:35:22.717Z",
       "articleSlug": "orca-merger",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -33359,6 +33359,27 @@
           ],
           "reviewedAt": "2026-10-09T11:35:20.836Z",
           "articleSlug": "tether-kazakhstan"
+        },
+        "b52931b86de777cd1461": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Orca-Loopscale merger into Formation verified in PRNewswire release, CryptoBriefing and Decrypt; Truitt CEO, 550B volume and frontier plan confirmed. Draft 856 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/orca-loopscale-merge-formation-ai-defense/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:35:22.717Z",
+          "articleSlug": "orca-merger"
         }
       },
       "baselineSlugs": [
