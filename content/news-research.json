@@ -16003,20 +16003,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "35b5090ce24657a84aec",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T07:55:14.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Standard Chartered Singapore custody expansion drafted as stanchart-custody in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:50.984Z",
+      "reason": "source-blocked",
+      "note": "The Block StanChart origin returned HTTP 403 to round 3; CoinDesk, Cointelegraph and Bitcoin Magazine versions stayed reachable. Next: full-read two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:56.862Z",
       "retrySearches": [
-        "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+        "Standard Chartered custody two reachable outlets draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "stanchart-custody"
+      "duplicateOf": "stanchart-custody",
+      "nextReviewDate": "2026-10-10"
     },
     "bb706419d66dbccbac9d": {
       "source": "BeInCrypto",
@@ -34576,6 +34582,21 @@
           "reviewedAt": "2026-10-09T14:13:54.593Z",
           "retrySearches": [
             "Standard Chartered custody CoinDesk corroboration draft"
+          ]
+        },
+        "35b5090ce24657a84aec": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Block StanChart origin returned HTTP 403 to round 3; CoinDesk, Cointelegraph and Bitcoin Magazine versions stayed reachable. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:56.862Z",
+          "retrySearches": [
+            "Standard Chartered custody two reachable outlets draft"
           ]
         }
       },
