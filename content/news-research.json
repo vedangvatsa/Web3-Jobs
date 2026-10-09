@@ -6325,25 +6325,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b8e7f5855b0bac51d08",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-06T10:35:17.133Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-09T07:01:00.000Z",
       "lastSeenAt": "2026-10-06T17:21:54.065Z",
-      "reason": "source-blocked",
-      "note": "Bringin euro-accounts launch traces to company release with blocked origin; needs independent newsroom coverage.",
+      "reason": "verified-event",
+      "note": "Bringin Oct 6 euro business accounts beta verified in Bitcoin Magazine, PRNewswire release and The Paypers; vIBAN, SEPA and 30-country scope confirmed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
-          "outcome": "blocked"
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/bringin-introduces-euro-business-accounts-for-companies-adopting-bitcoin-without-taking-custody-of-their-bitcoin-302897660.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/bringin-opens-beta-for-bitcoin-and-stablecoin-business-accounts",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:18:26.664Z",
+      "reviewedAt": "2026-10-09T04:11:55.368Z",
       "retrySearches": [
         "Bringin euro business accounts bitcoin companies launch"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "articleSlug": "bringin-accounts"
     },
     "8d2163e404efe8af41ac": {
       "source": "BeInCrypto",
@@ -30711,6 +30719,27 @@
           ],
           "reviewedAt": "2026-10-09T04:11:53.408Z",
           "articleSlug": "veridian-equity"
+        },
+        "3b8e7f5855b0bac51d08": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bringin Oct 6 euro business accounts beta verified in Bitcoin Magazine, PRNewswire release and The Paypers; vIBAN, SEPA and 30-country scope confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/bringin-introduces-euro-business-accounts-for-companies-adopting-bitcoin-without-taking-custody-of-their-bitcoin-302897660.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thepaypers.com/crypto-web3-and-cbdc/news/bringin-opens-beta-for-bitcoin-and-stablecoin-business-accounts",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:11:55.368Z",
+          "articleSlug": "bringin-accounts"
         }
       },
       "baselineSlugs": [
