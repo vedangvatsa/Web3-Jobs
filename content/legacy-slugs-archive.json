@@ -136103,5 +136103,73 @@
     "company": "Open Standard",
     "title": "Founding Product Engineer",
     "newSlug": "pm262"
+  },
+  "architect34": {
+    "id": "31fe43de-f087-4d94-8c87-9f31a813c5aa",
+    "link": "https://jobs.ashbyhq.com/Blockdaemon/31fe43de-f087-4d94-8c87-9f31a813c5aa",
+    "company": "Blockdaemon",
+    "title": "Solutions Architect - US"
+  },
+  "int43": {
+    "id": "8260920",
+    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
+    "company": "Flow Traders",
+    "title": "Summer Trading Internship"
+  },
+  "eng339": {
+    "id": "81cc6986-9330-441a-8611-0edd84cea5b1",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/81cc6986-9330-441a-8611-0edd84cea5b1",
+    "company": "Chainalysis",
+    "title": "Platform Engineer II, Foundation"
+  },
+  "qa62": {
+    "id": "4976010101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4976010101",
+    "company": "Bybit",
+    "title": "Senior AML Specialist, QA"
+  },
+  "marketing256": {
+    "id": "19D8AD74B2",
+    "link": "https://apply.workable.com/j/19D8AD74B2",
+    "company": "Ajaib Crypto",
+    "title": "Business Growth Intern"
+  },
+  "sec38": {
+    "id": "5b76e758464301",
+    "link": "https://transak-inc.breezy.hr/p/5b76e758464301-information-security-officer",
+    "company": "Transak",
+    "title": "Information Security Officer"
+  },
+  "tr96": {
+    "id": "7957241",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/7957241",
+    "company": "DRW",
+    "title": "Quantitative Trading Analyst"
+  },
+  "scsp": {
+    "id": "8099216",
+    "link": "https://stripe.com/jobs/search?gh_jid=8099216",
+    "company": "Stripe",
+    "title": "Services Consultant - Scaled Professional Services (SEA/GCN)"
+  },
+  "dev14": {
+    "id": "7981754",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/7981754",
+    "company": "DRW",
+    "title": "Software Developer Intern (Python)"
+  },
+  "pm262": {
+    "id": "ec23ed27-2650-43ed-bb2f-c50e1e4143eb",
+    "link": "https://jobs.ashbyhq.com/openstandard/ec23ed27-2650-43ed-bb2f-c50e1e4143eb",
+    "company": "Open Standard",
+    "title": "Founding Product Engineer",
+    "newSlug": "pm268"
+  },
+  "mkt95": {
+    "id": "b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "link": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "company": "Open Standard",
+    "title": "Communications and Marketing Lead",
+    "newSlug": "mkt98"
   }
 }
