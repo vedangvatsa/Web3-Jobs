@@ -23188,11 +23188,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b2233385e5e3c157a448",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T15:51:53.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "opinion",
+      "note": "Crypto Biz wealthy-investors column is analysis and adviser sentiment with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:22.903Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "5121c942544f1e8779d1": {
       "source": "Decrypt",
@@ -35989,6 +35994,13 @@
           "note": "Bitcoin 1M by 2030 CEO prediction is price forecast with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:20.802Z"
+        },
+        "b2233385e5e3c157a448": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Crypto Biz wealthy-investors column is analysis and adviser sentiment with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:22.903Z"
         }
       },
       "baselineSlugs": [
