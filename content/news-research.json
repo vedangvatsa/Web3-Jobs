@@ -23411,11 +23411,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e5cc52093ddb5a650630",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:49:22.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "opinion",
+      "note": "Dragonfly partner bunker-mode reply is commentary on researcher warnings, not a new event itself.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:26.729Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "c286bf006d9137b60702": {
       "source": "The Defiant",
@@ -36013,6 +36018,13 @@
           "note": "SpaceX lockup watch covers equity shares with no crypto event or nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:24.816Z"
+        },
+        "e5cc52093ddb5a650630": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Dragonfly partner bunker-mode reply is commentary on researcher warnings, not a new event itself.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:26.729Z"
         }
       },
       "baselineSlugs": [
