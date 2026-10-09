@@ -20103,15 +20103,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "b003cd0a478350d3fc78",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T19:47:40.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "duplicate",
-      "note": "Same NFL prediction-market story drafted as nfl-kalshi in this run.",
+      "reason": "opinion",
+      "note": "NFL Audibles newsletter on prediction markets is opinion commentary, not the underlying amicus filing event.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:10.956Z",
+      "reviewedAt": "2026-10-09T11:13:20.309Z",
       "duplicateOf": "nfl-kalshi",
       "lastReviewedDay": "2026-10-09"
     },
@@ -32878,6 +32878,13 @@
           "note": "Securitize stock jumping 10 percent on tokenized-stock launch is equity price movement chatter, not the launch event itself.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:13:18.213Z"
+        },
+        "b003cd0a478350d3fc78": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "NFL Audibles newsletter on prediction markets is opinion commentary, not the underlying amicus filing event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:13:20.309Z"
         }
       },
       "baselineSlugs": [
