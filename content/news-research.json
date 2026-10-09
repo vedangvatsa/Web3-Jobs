@@ -15012,17 +15012,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "479c54f47ccca88972b4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T08:40:15.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "CryptoSlate version of the same Buterin calm reply to AI fears drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:19.154Z",
+      "reason": "needs-corroboration",
+      "note": "CryptoSlate Buterin-calm page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:59:13.423Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Buterin calm AI fears CryptoSlate full read draft bunker-mode"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "c7afc2887d7fc29547c0": {
       "source": "CoinDesk",
@@ -37012,6 +37021,21 @@
           "reviewedAt": "2026-10-09T17:59:11.422Z",
           "retrySearches": [
             "Buterin bunker mode Cointelegraph Decrypt full read draft"
+          ]
+        },
+        "479c54f47ccca88972b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CryptoSlate Buterin-calm page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:13.423Z",
+          "retrySearches": [
+            "Buterin calm AI fears CryptoSlate full read draft bunker-mode"
           ]
         }
       },
