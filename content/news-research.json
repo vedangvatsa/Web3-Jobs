@@ -16724,13 +16724,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "verified-event",
-      "note": "Oct 8 US 12,267 BTC 1B Bitfinex-seizure move verified via Arkham data in CoinDesk and Decrypt; Oct 7 Coinbase flows and reserve policy confirmed.",
+      "note": "Verified Oct 8 move of 12,267 BTC (about 1.01B) from Bitfinex-hack wallet to unlabeled addresses with no exchange deposit across CoinDesk, Decrypt, Unchained and Cointelegraph; 770M prior batch and Oct 7 100M batch covered as context.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
@@ -16739,9 +16739,13 @@
         {
           "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
           "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:29.924Z",
+      "reviewedAt": "2026-10-09T11:11:50.152Z",
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -32544,6 +32548,27 @@
           "note": "Coinbase Singapore trading-cup stream is exchange event marketing crowning a contest champion, not a news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:58:09.482Z"
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 move of 12,267 BTC (about 1.01B) from Bitfinex-hack wallet to unlabeled addresses with no exchange deposit across CoinDesk, Decrypt, Unchained and Cointelegraph; 770M prior batch and Oct 7 100M batch covered as context.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:11:50.152Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
