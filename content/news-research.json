@@ -18028,17 +18028,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "fa40fab3841719355019",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T15:10:30.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Veridian spinoff drafted as veridian-equity in this run.",
+      "note": "Defiant version of the same Veridian spinout and tokenized shares drafted as veridian-spin.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:01.611Z",
-      "duplicateOf": "veridian-equity",
-      "lastReviewedDay": "2026-10-09"
+      "reviewedAt": "2026-10-09T14:00:40.560Z",
+      "duplicateOf": "veridian-spin",
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "bbfbc980f72f30b4800c"
     },
     "fe10153decb3c5a33060": {
       "source": "BeInCrypto",
@@ -33608,6 +33609,15 @@
           "reviewedAt": "2026-10-09T14:00:37.858Z",
           "duplicateOf": "esma-stablecoins",
           "mergedInto": "624dea8769fe6ccc1f7b"
+        },
+        "fa40fab3841719355019": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Defiant version of the same Veridian spinout and tokenized shares drafted as veridian-spin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:00:40.560Z",
+          "duplicateOf": "veridian-spin",
+          "mergedInto": "bbfbc980f72f30b4800c"
         }
       },
       "baselineSlugs": [
