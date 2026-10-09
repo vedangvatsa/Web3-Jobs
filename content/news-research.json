@@ -22039,11 +22039,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e66ee88be162ecda829e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T12:05:13.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "out-of-scope",
+      "note": "Money market funds 166B piece covers traditional fund flows with no crypto event, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:27:49.519Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "d7c128ec9ef50a3db526": {
       "source": "Decrypt",
@@ -33334,6 +33339,13 @@
           "note": "Is XRP Decentralized founder fraud claim is single-founder opinion with no filing, ruling, launch or vote.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:27:47.192Z"
+        },
+        "e66ee88be162ecda829e": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Money market funds 166B piece covers traditional fund flows with no crypto event, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:27:49.519Z"
         }
       },
       "baselineSlugs": [
