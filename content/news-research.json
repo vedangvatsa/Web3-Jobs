@@ -22895,11 +22895,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "200433963795de02b421",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:38:38.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "opinion",
+      "note": "Bitcoin Core developer AI and quantum response is commentary without a new code decision, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:17.110Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "850824ff4bdc609e801f": {
       "source": "Bitcoin Magazine",
@@ -35953,6 +35958,13 @@
           "note": "UTXO bond-market interview is analyst opinion on Bitcoin frontier with no concrete event, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:15.216Z"
+        },
+        "200433963795de02b421": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Bitcoin Core developer AI and quantum response is commentary without a new code decision, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:17.110Z"
         }
       },
       "baselineSlugs": [
