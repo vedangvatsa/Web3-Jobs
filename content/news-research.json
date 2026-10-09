@@ -21809,11 +21809,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e2da0c1795d40545cdf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:35:06.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin ETF breakeven and 729M exit piece is intraday price and flow chatter with no filing, launch, vote or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:27:36.391Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "4a4a74c55c8550e829ee": {
       "source": "CryptoSlate",
@@ -33267,6 +33272,13 @@
           "reviewedAt": "2026-10-09T13:24:49.626Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "1e2da0c1795d40545cdf": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin ETF breakeven and 729M exit piece is intraday price and flow chatter with no filing, launch, vote or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:27:36.391Z"
         }
       },
       "baselineSlugs": [
