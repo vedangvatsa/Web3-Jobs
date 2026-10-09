@@ -12863,17 +12863,18 @@
         "CryptoSlate"
       ],
       "id": "0dedfbfff13ea6532054",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T08:53:27.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "duplicate",
-      "note": "Robinhood 25M BTC story covered by robinhood-bitcoin.",
+      "note": "CoinDesk version of the same Robinhood 25M dollar BTC buy drafted as robinhood-bitcoin.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:18.045Z",
+      "reviewedAt": "2026-10-09T14:03:48.770Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "e04537f91ce4996c0500"
     },
     "d2758d9ea1f508acaf9a": {
       "source": "CoinJournal",
@@ -33800,6 +33801,15 @@
           "note": "Bitcoin Magazine version of the same Robinhood balance-sheet buy drafted as robinhood-bitcoin.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:03:46.421Z",
+          "duplicateOf": "robinhood-bitcoin",
+          "mergedInto": "e04537f91ce4996c0500"
+        },
+        "0dedfbfff13ea6532054": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "CoinDesk version of the same Robinhood 25M dollar BTC buy drafted as robinhood-bitcoin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:48.770Z",
           "duplicateOf": "robinhood-bitcoin",
           "mergedInto": "e04537f91ce4996c0500"
         }
