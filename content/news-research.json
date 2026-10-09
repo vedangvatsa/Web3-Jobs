@@ -23740,17 +23740,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "353e717b11eba794963f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T14:52:55.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "duplicate",
-      "note": "Same Ledger Oct 9 CryptoBilis reseller drain investigation already drafted as ledger-drain.",
+      "note": "Same Ledger Oct 9 CryptoBilis reseller drain investigation covered by ledger-drain.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T17:44:47.037Z",
+      "reviewedAt": "2026-10-09T23:40:36.965Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "11f65ef62dae6e42495b": {
       "source": "CoinDesk",
@@ -38508,6 +38509,15 @@
           "note": "Same Ledger Oct 9 CryptoBilis reseller drain investigation covered by ledger-drain.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:40:35.183Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "353e717b11eba794963f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger Oct 9 CryptoBilis reseller drain investigation covered by ledger-drain.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:36.965Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
         }
