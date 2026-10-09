@@ -9903,23 +9903,23 @@
       "id": "7fe030c38c9a4fc74bae",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T21:07:36.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "source-blocked",
-      "note": "Coinbase 15-minute and hourly price markets seen only in blocked Defiant origin; needs company post or second outlet.",
+      "note": "Coinbase 15-minute and hourly markets seen only in blocked Defiant origin; CryptoBriefing plus product page opens needed.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:18:51.690Z",
+      "reviewedAt": "2026-10-09T04:16:58.446Z",
       "retrySearches": [
-        "Coinbase 15-minute hourly crypto price markets launch"
+        "Coinbase Kalshi 15-minute prediction markets October 6 2026"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "8b0ca374854723bfa6f6": {
       "source": "Bitcoin Magazine",
@@ -32027,6 +32027,21 @@
           "reviewedAt": "2026-10-09T04:16:56.402Z",
           "retrySearches": [
             "SEC seeks final judgment Leech cherry-picking October 6 2026"
+          ]
+        },
+        "7fe030c38c9a4fc74bae": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Coinbase 15-minute and hourly markets seen only in blocked Defiant origin; CryptoBriefing plus product page opens needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:16:58.446Z",
+          "retrySearches": [
+            "Coinbase Kalshi 15-minute prediction markets October 6 2026"
           ]
         }
       },
