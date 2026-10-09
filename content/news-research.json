@@ -18658,17 +18658,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c31ee8280e95318f8bf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T19:31:03.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "NFL Kalshi SCOTUS story covered by nfl-kalshi.",
+      "note": "Decrypt account of the same NFL brief and circuit split drafted as nfl-kalshi.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:47.170Z",
+      "reviewedAt": "2026-10-09T14:00:04.243Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "823e99f6e2c7e227d089": {
       "source": "CoinDesk",
@@ -33530,6 +33531,15 @@
           "note": "Bankless version of the same NFL amicus brief backing SCOTUS review drafted as nfl-kalshi.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:00:01.766Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "0c31ee8280e95318f8bf": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Decrypt account of the same NFL brief and circuit split drafted as nfl-kalshi.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:00:04.243Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
