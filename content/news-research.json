@@ -19712,11 +19712,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "3048cd20982d3d5bb2cf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:02:07.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "duplicate",
+      "note": "Same Abstract Dec 15 shutdown and withdrawal mechanics already covered by the existing abstract-shutdown article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:17.054Z",
+      "duplicateOf": "abstract-shutdown",
+      "lastReviewedDay": "2026-10-09"
     },
     "1d543faed605b223ba11": {
       "source": "The Defiant",
@@ -31669,6 +31675,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:15:15.169Z",
           "duplicateOf": "solana-dvp"
+        },
+        "3048cd20982d3d5bb2cf": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Abstract Dec 15 shutdown and withdrawal mechanics already covered by the existing abstract-shutdown article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:17.054Z",
+          "duplicateOf": "abstract-shutdown"
         }
       },
       "baselineSlugs": [
