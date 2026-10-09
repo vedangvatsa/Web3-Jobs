@@ -24223,11 +24223,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "43ef4ee5656da6877132",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T19:04:03.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "verified-event",
+      "note": "Tether Oct 9 three-hour 1.45M USDT THORChain vault freeze and reversal verified in Cointelegraph and CryptoBriefing reads. Draft 612 words, audits clean.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/tether-freezes-usdt-thorchain-vaults-tron/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:39:20.812Z",
+      "articleSlug": "thorchain-freeze",
+      "lastReviewedDay": "2026-10-09"
     },
     "08c574ea80326a658ab0": {
       "source": "The Defiant",
@@ -38140,6 +38155,23 @@
           ],
           "reviewedAt": "2026-10-09T23:39:19.072Z",
           "articleSlug": "iran-seizure"
+        },
+        "43ef4ee5656da6877132": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Tether Oct 9 three-hour 1.45M USDT THORChain vault freeze and reversal verified in Cointelegraph and CryptoBriefing reads. Draft 612 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/tether-freezes-usdt-thorchain-vaults-tron/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:39:20.812Z",
+          "articleSlug": "thorchain-freeze"
         }
       },
       "baselineSlugs": [
