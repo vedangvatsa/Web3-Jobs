@@ -18710,17 +18710,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "823e99f6e2c7e227d089",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T18:06:41.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "duplicate",
-      "note": "CoinDesk account of the same NFL filing with Gensler and Dodd briefs drafted as nfl-kalshi.",
+      "note": "Same NFL Oct 8 SCOTUS amicus backing New Jersey review already drafted as nfl-kalshi.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:00:06.458Z",
+      "reviewedAt": "2026-10-09T17:49:43.423Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "dd25110442b0f822a9d6": {
       "source": "CryptoSlate",
@@ -36236,6 +36237,15 @@
           "note": "Same NFL Oct 8 SCOTUS amicus backing New Jersey review already drafted as nfl-kalshi.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:49:41.436Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "823e99f6e2c7e227d089": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL Oct 8 SCOTUS amicus backing New Jersey review already drafted as nfl-kalshi.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:49:43.423Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
