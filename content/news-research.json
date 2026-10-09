@@ -20964,11 +20964,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f169ee81669d4835c737",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T07:28:29.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "opinion",
+      "note": "Solana founder Netflix FTX-trailer reaction is a media-quote opinion piece with no protocol event or decision.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:34.506Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "7d3d7abbdfc2e006fba0": {
       "source": "CoinDesk",
@@ -32340,6 +32345,13 @@
           "note": "Citrini fundamentals-trade piece is analyst opinion on tokenized assets and AI agents with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:27.498Z"
+        },
+        "f169ee81669d4835c737": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Solana founder Netflix FTX-trailer reaction is a media-quote opinion piece with no protocol event or decision.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:34.506Z"
         }
       },
       "baselineSlugs": [
