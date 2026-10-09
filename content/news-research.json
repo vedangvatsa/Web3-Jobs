@@ -24521,11 +24521,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b7b5ac6b711f38c000f8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T18:08:45.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "opinion",
+      "note": "Justin Sun TOKEN2049 AI vision speech is conference opinion with no reportable development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:41:41.009Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "4c4395c92de68874e196": {
       "source": "Decrypt",
@@ -38917,6 +38922,13 @@
           "note": "Ex-FTX COO Netflix trailer reaction is commentary with no crypto event, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:41:39.152Z"
+        },
+        "b7b5ac6b711f38c000f8": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Justin Sun TOKEN2049 AI vision speech is conference opinion with no reportable development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:41:41.009Z"
         }
       },
       "baselineSlugs": [
