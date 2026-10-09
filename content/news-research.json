@@ -16855,20 +16855,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "14054f6a0bf4d8eb43b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T17:07:48.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Buterin bunker-mode response already drafted as bunker-mode in this run.",
+      "note": "Decrypt version of the same Buterin bunker-mode assessment drafted as bunker-mode.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:11.898Z",
+      "reviewedAt": "2026-10-09T14:03:24.399Z",
       "retrySearches": [
         "Buterin AI lattice cryptography warning October 2026 second outlet"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bunker-mode"
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "3c52e57d52067e8770d9": {
       "source": "Bitcoin Magazine",
@@ -33714,6 +33715,15 @@
           "note": "Unchained version of the same bunker-mode debate drafted as bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:03:22.180Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "14054f6a0bf4d8eb43b9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Decrypt version of the same Buterin bunker-mode assessment drafted as bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:24.399Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
