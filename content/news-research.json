@@ -20151,17 +20151,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f6f7be9c8cb584fca73",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T00:46:27.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Blumenthal Cantor-Tether probe drafted as cantor-probe in this run.",
+      "note": "Same Blumenthal Cantor Fitzgerald Tether inquiry already drafted as cantor-probe in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:59.772Z",
+      "reviewedAt": "2026-10-09T11:23:34.291Z",
       "duplicateOf": "cantor-probe",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "3c7573a4e5dbe80c2c0a"
     },
     "99dff87f954749a3c3aa": {
       "source": "CoinDesk",
@@ -33235,6 +33236,15 @@
           "reviewedAt": "2026-10-09T11:23:32.502Z",
           "duplicateOf": "esma-deadline",
           "mergedInto": "624dea8769fe6ccc1f7b"
+        },
+        "4f6f7be9c8cb584fca73": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blumenthal Cantor Fitzgerald Tether inquiry already drafted as cantor-probe in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:34.291Z",
+          "duplicateOf": "cantor-probe",
+          "mergedInto": "3c7573a4e5dbe80c2c0a"
         }
       },
       "baselineSlugs": [
