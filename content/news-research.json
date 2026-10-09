@@ -18146,31 +18146,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "624dea8769fe6ccc1f7b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T15:23:26.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "ESMA Oct 8 opinion with Jan 8 2027 wind-down deadline verified in CoinDesk and Cointelegraph; ART/EMT scope, exit-only services and Coinbase Oct 30 cutoff confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read CoinDesk on ESMA Oct 8 opinion with Jan 8 2027 deadline, ART EMT scope and USDT status; draft not yet written. Next: re-open Cointelegraph plus ESMA PDF primary and draft esma-stablecoins.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
           "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T13:59:36.575Z",
+      "reviewedAt": "2026-10-09T18:00:51.210Z",
       "articleSlug": "esma-stablecoins",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "ESMA Jan 2027 deadline ART EMT draft esma-stablecoins"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "060c73a9205c8ae971c8": {
       "source": "Bitcoin Magazine",
@@ -37422,6 +37422,21 @@
           "reviewedAt": "2026-10-09T18:00:49.184Z",
           "retrySearches": [
             "ESMA opinion stablecoin wind-down Cointelegraph ESMA PDF draft"
+          ]
+        },
+        "624dea8769fe6ccc1f7b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read CoinDesk on ESMA Oct 8 opinion with Jan 8 2027 deadline, ART EMT scope and USDT status; draft not yet written. Next: re-open Cointelegraph plus ESMA PDF primary and draft esma-stablecoins.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:00:51.210Z",
+          "retrySearches": [
+            "ESMA Jan 2027 deadline ART EMT draft esma-stablecoins"
           ]
         }
       },
