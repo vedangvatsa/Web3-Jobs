@@ -10686,13 +10686,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "abfda675cf9bb2ba7634",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-09T21:59:32.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "verified-event",
-      "note": "Kalshi US500 perpetual launch Oct 6 verified across FinanceMagnates launch and background pieces plus MarketsMedia; contract specs and debut figures confirmed.",
+      "note": "Kalshi US500 perpetual launch Oct 6 verified in FinanceMagnates and MarketsMedia; specs and debut figures confirmed. Draft 736 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
@@ -10711,7 +10711,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:14.789Z",
+      "reviewedAt": "2026-10-09T11:54:52.709Z",
       "retrySearches": [
         "Kalshi US500 perpetual volume trading debut week"
       ],
@@ -33833,6 +33833,31 @@
           ],
           "reviewedAt": "2026-10-09T11:54:50.375Z",
           "articleSlug": "fortitude-zcash"
+        },
+        "abfda675cf9bb2ba7634": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Kalshi US500 perpetual launch Oct 6 verified in FinanceMagnates and MarketsMedia; specs and debut figures confirmed. Draft 736 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.financemagnates.com/fintech/kalshi-wants-a-never-expiring-sp-500-style-contract-cme-says-it-has-no-future/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.marketsmedia.com/kalshi-launches-first-equity-perpetual-future-in-u-s/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:54:52.709Z",
+          "articleSlug": "kalshi-us500"
         }
       },
       "baselineSlugs": [
