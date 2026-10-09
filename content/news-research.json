@@ -19819,11 +19819,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T03:08:51.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "verified-event",
+      "note": "Thailand SEC Oct 9 spot BTC ETH ETF rules verified in Cointelegraph, Money and Banking and Cryptonomist; SET-only listing and Oct 16 effect confirmed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://en.moneyandbanking.co.th/2026/276642/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://en.moneyandbanking.co.th/2026/276881/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13411",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:12:01.051Z",
+      "articleSlug": "thailand-etfs",
+      "lastReviewedDay": "2026-10-09"
     },
     "51bfcd3d9bb745d73ab9": {
       "source": "CryptoSlate",
@@ -30772,6 +30795,31 @@
           ],
           "reviewedAt": "2026-10-09T04:11:59.019Z",
           "articleSlug": "cantor-probe"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Thailand SEC Oct 9 spot BTC ETH ETF rules verified in Cointelegraph, Money and Banking and Cryptonomist; SET-only listing and Oct 16 effect confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.moneyandbanking.co.th/2026/276642/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://en.moneyandbanking.co.th/2026/276881/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13411",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:12:01.051Z",
+          "articleSlug": "thailand-etfs"
         }
       },
       "baselineSlugs": [
