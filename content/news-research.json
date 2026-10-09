@@ -15888,17 +15888,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6dfcb9105a9c9fcd521a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T08:24:24.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Samsung Wallet USDC story drafted as samsung-usdc in this run.",
+      "note": "Samsung Wallet USDC story covered by samsung-usdc.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:33.987Z",
+      "reviewedAt": "2026-10-09T11:36:56.321Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "2a5f0f76edb1ecb37ab3"
     },
     "7686b683757996b39984": {
       "source": "Cointelegraph",
@@ -33468,6 +33469,15 @@
           "note": "Samsung remittance USDC story covered by samsung-usdc.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:36:53.960Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "6dfcb9105a9c9fcd521a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Samsung Wallet USDC story covered by samsung-usdc.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:36:56.321Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
