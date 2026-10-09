@@ -9604,20 +9604,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "1367eb14b95c67f35f43",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T03:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "duplicate",
-      "note": "Coinbase Deribit integration and Pro return covered by coinbase-pro.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:36:40.917Z",
+      "reason": "source-blocked",
+      "note": "The Block Coinbase Pro and Deribit story returned HTTP 403 to round 3; Unchained and Cointelegraph versions stayed reachable. Next: open one and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:10:52.981Z",
       "retrySearches": [
-        "Coinbase Pro return Deribit integration global exchange October 2026"
+        "Coinbase Pro Deribit global exchange second outlet draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "coinbase-pro"
+      "duplicateOf": "coinbase-pro",
+      "nextReviewDate": "2026-10-10"
     },
     "a2e229654bb11a6cff23": {
       "source": "BeInCrypto",
@@ -33927,6 +33933,21 @@
           "reviewedAt": "2026-10-09T14:10:50.776Z",
           "retrySearches": [
             "Hyperliquid Singapore MAS license second outlet October 2026"
+          ]
+        },
+        "1367eb14b95c67f35f43": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Block Coinbase Pro and Deribit story returned HTTP 403 to round 3; Unchained and Cointelegraph versions stayed reachable. Next: open one and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:10:52.981Z",
+          "retrySearches": [
+            "Coinbase Pro Deribit global exchange second outlet draft"
           ]
         }
       },
