@@ -14236,17 +14236,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "9dad087f927922704e2a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T12:40:31.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "BitMine ETH buying halt covered by bitmine-cap.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:26.757Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk BitMine-buyer headline; pairs with Decrypt, Cointelegraph and CryptoSlate versions. Next: full-read two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:27.117Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "BitMine ETH buyer CoinDesk Decrypt draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "2de409dcf0f9eb524c55": {
       "source": "CoinDesk",
@@ -34390,6 +34399,21 @@
           "reviewedAt": "2026-10-09T14:13:24.863Z",
           "retrySearches": [
             "Moody's Sky B3 capital buffer second outlet draft"
+          ]
+        },
+        "9dad087f927922704e2a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk BitMine-buyer headline; pairs with Decrypt, Cointelegraph and CryptoSlate versions. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:27.117Z",
+          "retrySearches": [
+            "BitMine ETH buyer CoinDesk Decrypt draft"
           ]
         }
       },
