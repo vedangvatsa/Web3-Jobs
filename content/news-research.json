@@ -19623,11 +19623,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "0398136c795f44bd34ed",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:05:44.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "verified-event",
+      "note": "Referendum 1944 executed with dotUSD Phase 1 mint verified in Subsquare tally, Crypto Times and crypto.news; pool funding and Phase 2 plans confirmed.",
+      "sourceChecks": [
+        {
+          "url": "https://polkadot.subsquare.io/referenda/1944",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cryptotimes.io/2026/10/09/polkadot-launches-native-dotusd-stablecoin-through-opengov/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/dot-price-tests-support-polkadot-dotusd-stablecoin/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:12:10.898Z",
+      "articleSlug": "polkadot-dotusd",
+      "lastReviewedDay": "2026-10-09"
     },
     "3048cd20982d3d5bb2cf": {
       "source": "The Defiant",
@@ -30918,6 +30941,31 @@
           ],
           "reviewedAt": "2026-10-09T04:12:09.030Z",
           "articleSlug": "ondo-note"
+        },
+        "0398136c795f44bd34ed": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Referendum 1944 executed with dotUSD Phase 1 mint verified in Subsquare tally, Crypto Times and crypto.news; pool funding and Phase 2 plans confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://polkadot.subsquare.io/referenda/1944",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptotimes.io/2026/10/09/polkadot-launches-native-dotusd-stablecoin-through-opengov/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/dot-price-tests-support-polkadot-dotusd-stablecoin/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:12:10.898Z",
+          "articleSlug": "polkadot-dotusd"
         }
       },
       "baselineSlugs": [
