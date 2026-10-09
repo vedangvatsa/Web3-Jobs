@@ -21945,11 +21945,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "102dcab27748c8d6b243",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:54:39.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "opinion",
+      "note": "Is XRP Decentralized founder fraud claim is single-founder opinion with no filing, ruling, launch or vote.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:27:47.192Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "19f8e1932bea56234b7b": {
       "source": "BeInCrypto",
@@ -33322,6 +33327,13 @@
           "note": "Trump Iran pledge crypto gains piece is intraday price movement on political remarks with liquidation chatter, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:27:44.921Z"
+        },
+        "102dcab27748c8d6b243": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Is XRP Decentralized founder fraud claim is single-founder opinion with no filing, ruling, launch or vote.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:27:47.192Z"
         }
       },
       "baselineSlugs": [
