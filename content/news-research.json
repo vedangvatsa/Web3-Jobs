@@ -19500,17 +19500,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f6fedff0fdf0cda068db",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T19:31:38.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Securitize Solana equities launch with market reaction as covered by securitize-stocks in this run.",
+      "note": "Same Securitize tokenized equities launch drafted as securitize-stocks in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:18.682Z",
+      "reviewedAt": "2026-10-09T04:15:06.137Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "3b1404bce9913baf99ba": {
       "source": "Cointelegraph",
@@ -31640,6 +31641,15 @@
           "reviewedAt": "2026-10-09T04:15:04.149Z",
           "duplicateOf": "esma-stablecoins",
           "mergedInto": "624dea8769fe6ccc1f7b"
+        },
+        "f6fedff0fdf0cda068db": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Securitize tokenized equities launch drafted as securitize-stocks in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:06.137Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
         }
       },
       "baselineSlugs": [
