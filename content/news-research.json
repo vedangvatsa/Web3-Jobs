@@ -17003,20 +17003,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "14054f6a0bf4d8eb43b9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T17:07:48.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Decrypt version of the same Buterin bunker-mode assessment drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:24.399Z",
+      "reason": "needs-corroboration",
+      "note": "Decrypt Buterin bunker-mode assessment fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Block version returned 403. Next: full-read this plus CoinDesk and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:59:21.718Z",
       "retrySearches": [
-        "Buterin AI lattice cryptography warning October 2026 second outlet"
+        "Decrypt Buterin bunker mode assessment full read draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bunker-mode"
+      "duplicateOf": "bunker-mode",
+      "nextReviewDate": "2026-10-10"
     },
     "3c52e57d52067e8770d9": {
       "source": "Bitcoin Magazine",
@@ -37060,6 +37066,21 @@
           "reviewedAt": "2026-10-09T17:59:15.293Z",
           "retrySearches": [
             "Unchained bunker mode debate full read draft bunker-mode"
+          ]
+        },
+        "14054f6a0bf4d8eb43b9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt Buterin bunker-mode assessment fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Block version returned 403. Next: full-read this plus CoinDesk and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:21.718Z",
+          "retrySearches": [
+            "Decrypt Buterin bunker mode assessment full read draft"
           ]
         }
       },
