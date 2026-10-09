@@ -21330,11 +21330,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f07cd561327e9fd102d7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T09:58:07.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "opinion",
+      "note": "Dalio stocks-cushion warning is macro market opinion on equities and yields with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:25.632Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "44b077d2232c6c0b8a2b": {
       "source": "CryptoSlate",
@@ -32316,6 +32321,13 @@
           "note": "S and P 500 four-year bull-market anniversary covers US equities history with no crypto event or nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:23.710Z"
+        },
+        "f07cd561327e9fd102d7": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Dalio stocks-cushion warning is macro market opinion on equities and yields with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:25.632Z"
         }
       },
       "baselineSlugs": [
