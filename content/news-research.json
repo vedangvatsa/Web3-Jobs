@@ -11270,13 +11270,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "dc93e29a726604392489",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T16:42:19.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Hyperliquid Singapore HQ confirmation with MAS no-jurisdiction stance verified in crypto.news, Blockhead and TokenPost; June IAL history confirmed.",
+      "note": "Hyperliquid Singapore HQ with MAS no-jurisdiction stance verified in crypto.news, Blockhead and TokenPost; June IAL history confirmed. Draft 667 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://crypto.news/hyperliquid-confirms-singapore-base-as-mas-says/",
@@ -11291,7 +11291,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:00.465Z",
+      "reviewedAt": "2026-10-09T11:35:16.804Z",
       "articleSlug": "hyperliquid-base",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -33296,6 +33296,27 @@
           ],
           "reviewedAt": "2026-10-09T11:35:14.791Z",
           "articleSlug": "samsung-usdc"
+        },
+        "dc93e29a726604392489": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Hyperliquid Singapore HQ with MAS no-jurisdiction stance verified in crypto.news, Blockhead and TokenPost; June IAL history confirmed. Draft 667 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://crypto.news/hyperliquid-confirms-singapore-base-as-mas-says/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.blockhead.co/2026/10/07/hyperliquid-confirms-singapore-registration-as-mas-says-exchange-falls-outside-its-jurisdiction/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/27545",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:35:16.804Z",
+          "articleSlug": "hyperliquid-base"
         }
       },
       "baselineSlugs": [
