@@ -17407,15 +17407,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d71a9d867c5924200b7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Securitize Oct 8 tokenized stocks launch on Solana already drafted as securitize-stocks in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:24:07.773Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read Decrypt and CoinDesk on Securitize Oct 8 Stocks launch with 12 tickers, 1:1 entitlement, PropAMM and NYSE plans; draft not yet written. Next: re-open PRNewswire release and draft securitize-stocks.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:01:00.701Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "securitize-stocks",
@@ -17425,7 +17434,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Securitize Stocks PRNewswire 12 tickers draft securitize-stocks"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "3b110ea0056b771ffe65": {
       "source": "The Defiant",
@@ -37485,6 +37498,25 @@
           "reviewedAt": "2026-10-09T18:00:58.805Z",
           "retrySearches": [
             "CryptoSlate ESMA 90-day deadline full read draft"
+          ]
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read Decrypt and CoinDesk on Securitize Oct 8 Stocks launch with 12 tickers, 1:1 entitlement, PropAMM and NYSE plans; draft not yet written. Next: re-open PRNewswire release and draft securitize-stocks.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:00.701Z",
+          "retrySearches": [
+            "Securitize Stocks PRNewswire 12 tickers draft securitize-stocks"
           ]
         }
       },
