@@ -17509,25 +17509,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f17adecb451c144469c3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T11:48:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 read Decrypt Oct 8 Morning Minute newsletter recap of Drake bunker-mode call; opinion-labeled roundup pairing with reported pieces, draft not yet written.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T18:17:44.097Z",
+      "reason": "duplicate",
+      "note": "Same Drake bunker-mode warning drafted as bunker-mode in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:35.055Z",
       "retrySearches": [
         "Drake bunker mode newsletter recap draft follow-up"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "1a9b8a63c6b803e825da": {
       "source": "CoinDesk",
@@ -31742,6 +31738,15 @@
           "note": "Same bunker-mode call drafted as bunker-mode in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:15:33.013Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "f17adecb451c144469c3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Drake bunker-mode warning drafted as bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:35.055Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
