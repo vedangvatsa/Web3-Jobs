@@ -21126,11 +21126,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6fa8e2bd1170b0fe28bc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T04:10:41.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "not-a-concrete-event",
+      "note": "Bitcoin-miner daily-revenue surge is an aggregate metrics observation with no launch, ruling, filing or upgrade.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:57.602Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "7d2fab52ab6cb52bcc7b": {
       "source": "CoinDesk",
@@ -32460,6 +32465,13 @@
           "note": "Ether bets wiped out at six times bitcoin rate in the 1B flush is liquidation price chatter, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:55.897Z"
+        },
+        "6fa8e2bd1170b0fe28bc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Bitcoin-miner daily-revenue surge is an aggregate metrics observation with no launch, ruling, filing or upgrade.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:57.602Z"
         }
       },
       "baselineSlugs": [
