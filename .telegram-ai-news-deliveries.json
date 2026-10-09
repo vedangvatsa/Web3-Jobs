@@ -958,7 +958,7 @@
     "sentAt": "2026-10-08T20:18:07.114Z"
   },
   "27d8d941-3a07-4328-bd30-ea85907a921e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-09T04:24:51.805Z",
     "stories": [
       {
@@ -990,6 +990,8 @@
         "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
       }
     ],
-    "slotKey": "2026-10-09:morning"
+    "slotKey": "2026-10-09:morning",
+    "messageId": 193328,
+    "sentAt": "2026-10-09T04:24:54.361Z"
   }
 }

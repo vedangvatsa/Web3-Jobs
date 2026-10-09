@@ -695,6 +695,9 @@
   "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
   "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
   "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+  "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+  "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+  "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1868,6 +1871,12 @@
   "Ben Affleck is an AI nerd, and the internet is impressed",
   "OpenAI revenue reportedly $20 billion below previous projections.",
   "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+  "Google adds enterprise autonomous agent features to Gemini",
+  "Google brings agentic AI to Gemini, starting with businesses",
+  "Anthropic updates policy to prohibit election interference",
+  "Anthropic changes usage policy to ban model abuse and election interference",
+  "Stanford Student Uses AI to Design Viral Blueprints",
+  "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2080,5 +2089,8 @@
   "fp:agent|arriv|assistant|availability|debut|four|increas|ipad|meta|mobil",
   "fp:200m|31b|alignment|arena|benchmark|capital|doubl|evaluation|expand|in10",
   "fp:actor|affleck|ben|discuss|filmmak|goe|impress|internet|nerd|netflix",
-  "fp:20b|annualiz|below|dollar|estimat|less|lower|much|openai|previous"
+  "fp:20b|annualiz|below|dollar|estimat|less|lower|much|openai|previous",
+  "fp:add|address|agent|agentic|application|autonomous|business|can|complex|corporat",
+  "fp:abus|anthropic|automat|ban|campaign|chang|deceptiv|development|election|interferenc",
+  "fp:approach|blueprint|conversation|creator|design|generativ|genetic|lif|microscopic|possibility"
 ]
