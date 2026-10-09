@@ -17720,20 +17720,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "1a9b8a63c6b803e825da",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T11:47:16.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "duplicate",
-      "note": "CoinDesk version of the same bunker-mode warning drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:26.596Z",
+      "reason": "needs-corroboration",
+      "note": "CoinDesk bunker-mode holders page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:59:24.018Z",
       "retrySearches": [
-        "Drake bunker mode fresh addresses draft follow-up"
+        "CoinDesk bunker mode holders full read draft bunker-mode"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bunker-mode"
+      "duplicateOf": "bunker-mode",
+      "nextReviewDate": "2026-10-10"
     },
     "91ed1a5d0f1b5fd4782e": {
       "source": "CoinDesk",
@@ -37081,6 +37087,21 @@
           "reviewedAt": "2026-10-09T17:59:21.718Z",
           "retrySearches": [
             "Decrypt Buterin bunker mode assessment full read draft"
+          ]
+        },
+        "1a9b8a63c6b803e825da": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CoinDesk bunker-mode holders page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:24.018Z",
+          "retrySearches": [
+            "CoinDesk bunker mode holders full read draft bunker-mode"
           ]
         }
       },
