@@ -13228,17 +13228,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "febbaaae7d96d4c83e87",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T02:30:16.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same Samsung Wallet USDC story drafted as samsung-usdc in this run.",
+      "note": "Samsung Wallet USDC story covered by samsung-usdc.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:10.657Z",
+      "reviewedAt": "2026-10-09T11:36:48.335Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "2a5f0f76edb1ecb37ab3"
     },
     "b5cfc3e7d261d8e4319d": {
       "source": "The Defiant",
@@ -33430,6 +33431,15 @@
           "reviewedAt": "2026-10-09T11:36:46.487Z",
           "duplicateOf": "tether-kazakhstan",
           "mergedInto": "5e818d6c7c2ca5d7595e"
+        },
+        "febbaaae7d96d4c83e87": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Samsung Wallet USDC story covered by samsung-usdc.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:36:48.335Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
       },
       "baselineSlugs": [
