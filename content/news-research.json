@@ -21337,11 +21337,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "35543151e27a95014f9d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:11:51.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "verified-event",
+      "note": "Verified Empire Market co-creator 40-year sentence with 1,230 BTC forfeiture across Decrypt and CoinDesk plus TRM Labs case review and the DOJ release page; same case confirmed in both outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T11:11:56.121Z",
+      "articleSlug": "empire-sentence",
+      "lastReviewedDay": "2026-10-09"
     },
     "032bb637cf94a2610025": {
       "source": "Unchained",
@@ -32569,6 +32584,23 @@
           ],
           "reviewedAt": "2026-10-09T11:11:50.152Z",
           "articleSlug": "bitfinex-move"
+        },
+        "35543151e27a95014f9d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Empire Market co-creator 40-year sentence with 1,230 BTC forfeiture across Decrypt and CoinDesk plus TRM Labs case review and the DOJ release page; same case confirmed in both outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:11:56.121Z",
+          "articleSlug": "empire-sentence"
         }
       },
       "baselineSlugs": [
