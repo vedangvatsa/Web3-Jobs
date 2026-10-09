@@ -21117,17 +21117,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "33d2532cea35902b8372",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T09:20:16.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "CoinDesk account of the same Hamilton sentencing and forfeiture already drafted as empire-market.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:59:59.559Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read CoinDesk and Decrypt on Hamilton 40-year sentence with 1,230 BTC forfeiture and Pavey 1,584 BTC; draft not yet written. Next: re-open NDIL release and draft empire-market.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:01:21.081Z",
       "duplicateOf": "empire-market",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Hamilton Empire Market sentencing NDIL release draft empire-market"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "724035b8cd9bafa2f945": {
       "source": "CoinDesk",
@@ -37647,6 +37660,25 @@
           "reviewedAt": "2026-10-09T18:01:19.080Z",
           "retrySearches": [
             "Decrypt UK sanctions Cryptomus TokenSpot FCDO draft"
+          ]
+        },
+        "33d2532cea35902b8372": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read CoinDesk and Decrypt on Hamilton 40-year sentence with 1,230 BTC forfeiture and Pavey 1,584 BTC; draft not yet written. Next: re-open NDIL release and draft empire-market.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:21.081Z",
+          "retrySearches": [
+            "Hamilton Empire Market sentencing NDIL release draft empire-market"
           ]
         }
       },
