@@ -15248,11 +15248,11 @@
       "id": "b4c5102f5a98f48f2121",
       "status": "ready",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T10:46:25.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "Greece 10 percent crypto gains tax draft verified: 500-euro exemption, November parliament submission, down from 15 percent floated in June, plus EU rate context and DAC8. Read Decrypt and CoinDesk, both citing the Reuters draft-bill report.",
+      "note": "Greece 10 percent crypto gains tax draft verified in Decrypt and CoinDesk: 500-euro exemption, November parliament submission, down from 15 percent floated in June.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
@@ -15263,9 +15263,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T23:58:03.245Z",
+      "reviewedAt": "2026-10-09T04:10:38.257Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "articleSlug": "greece-tax",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
@@ -30139,6 +30139,23 @@
           ],
           "reviewedAt": "2026-10-09T04:10:36.324Z",
           "articleSlug": "securitize-stocks"
+        },
+        "b4c5102f5a98f48f2121": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Greece 10 percent crypto gains tax draft verified in Decrypt and CoinDesk: 500-euro exemption, November parliament submission, down from 15 percent floated in June.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:38.257Z",
+          "articleSlug": "greece-tax"
         }
       },
       "baselineSlugs": [
