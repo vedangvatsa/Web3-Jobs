@@ -21012,30 +21012,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "verified-event",
-      "note": "Verified Thailand SEC Oct 8 rules effective Oct 16 for BTC and ETH ETFs on SET with 80 percent single-coin exposure, local custody and foreign-product limits across CoinDesk and Cointelegraph reads.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T17:37:55.353Z",
+      "reason": "duplicate",
+      "note": "Same Thailand SEC Oct 8 ETF rules effective Oct 16 covered by thailand-etfs.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:40:05.728Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ],
-      "duplicateOf": "thailand-etfs"
+      "duplicateOf": "thailand-etfs",
+      "mergedInto": "6521f65a66822c1c1481"
     },
     "6eb78273ce6d69ab8f6b": {
       "source": "Cointelegraph",
@@ -38370,6 +38362,15 @@
           "note": "Same Thailand SEC Oct 8 ETF rules effective Oct 16 covered by thailand-etfs.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:40:03.780Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "6521f65a66822c1c1481"
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thailand SEC Oct 8 ETF rules effective Oct 16 covered by thailand-etfs.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:05.728Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "6521f65a66822c1c1481"
         }
