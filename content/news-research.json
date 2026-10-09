@@ -19668,15 +19668,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "f6fedff0fdf0cda068db",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T19:31:38.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "duplicate",
-      "note": "Same Securitize tokenized equities launch drafted as securitize-stocks in this run.",
+      "reason": "price-chatter",
+      "note": "Securitize stock jumping 10 percent on tokenized-stock launch is equity price movement chatter, not the launch event itself.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:06.137Z",
+      "reviewedAt": "2026-10-09T11:13:18.213Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-09"
     },
@@ -32871,6 +32871,13 @@
           "reviewedAt": "2026-10-09T11:12:51.202Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "f6fedff0fdf0cda068db": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Securitize stock jumping 10 percent on tokenized-stock launch is equity price movement chatter, not the launch event itself.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:13:18.213Z"
         }
       },
       "baselineSlugs": [
