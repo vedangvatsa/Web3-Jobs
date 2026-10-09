@@ -14152,28 +14152,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "9947fd6054fa80daa4d4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T13:20:54.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Europol Oct 7 twin quantum reports verified in CoinDesk, Decrypt and Yahoo; wallet exposure, BTC figures and phased PQC migration confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Europol headline; Decrypt, Unchained and CryptoSlate carry companion angles. Next: full-read two and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
           "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
-          "outcome": "read"
-        },
-        {
-          "url": "https://tech.yahoo.com/cybersecurity/articles/europol-urges-crypto-wallet-providers-104641660.html",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:21.084Z",
+      "reviewedAt": "2026-10-09T14:13:22.483Z",
       "articleSlug": "europol-quantum",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -14187,7 +14179,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Europol quantum wallets two outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "a3f0498b0937836134a4": {
       "source": "The Defiant",
@@ -34355,6 +34351,21 @@
           "reviewedAt": "2026-10-09T14:13:19.954Z",
           "retrySearches": [
             "Moody's Sky B3 rating release second outlet draft"
+          ]
+        },
+        "9947fd6054fa80daa4d4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Europol headline; Decrypt, Unchained and CryptoSlate carry companion angles. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:22.483Z",
+          "retrySearches": [
+            "Europol quantum wallets two outlets draft"
           ]
         }
       },
