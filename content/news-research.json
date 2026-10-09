@@ -19056,17 +19056,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "082e493221b37a47877c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T18:16:05.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Orca-Loopscale Formation merger drafted as orca-merger in this run.",
+      "note": "Orca Loopscale Formation merger covered by orca-merger.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:48.947Z",
+      "reviewedAt": "2026-10-09T11:37:00.241Z",
       "duplicateOf": "orca-merger",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "b52931b86de777cd1461"
     },
     "5abe8fbb60d51631f6dd": {
       "source": "The Defiant",
@@ -33490,6 +33491,15 @@
           "reviewedAt": "2026-10-09T11:36:58.176Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "082e493221b37a47877c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Orca Loopscale Formation merger covered by orca-merger.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:37:00.241Z",
+          "duplicateOf": "orca-merger",
+          "mergedInto": "b52931b86de777cd1461"
         }
       },
       "baselineSlugs": [
