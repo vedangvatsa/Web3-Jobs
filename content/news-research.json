@@ -14260,17 +14260,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "2de409dcf0f9eb524c55",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T12:34:13.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same GSR 100M Hare vault business covered by gsr-hare in this run.",
+      "note": "Same GSR 100M Hare vault story drafted as gsr-hare in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T20:08:11.873Z",
+      "reviewedAt": "2026-10-09T04:14:10.566Z",
       "duplicateOf": "gsr-hare",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "1b3b9cc46940d7e87b52"
     },
     "870ad4e3cea216f2ec6a": {
       "source": "Cointelegraph",
@@ -31444,6 +31445,15 @@
           "reviewedAt": "2026-10-09T04:14:08.621Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
+        },
+        "2de409dcf0f9eb524c55": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same GSR 100M Hare vault story drafted as gsr-hare in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:10.566Z",
+          "duplicateOf": "gsr-hare",
+          "mergedInto": "1b3b9cc46940d7e87b52"
         }
       },
       "baselineSlugs": [
