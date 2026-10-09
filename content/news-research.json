@@ -14200,17 +14200,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "a3f0498b0937836134a4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T13:13:05.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Same Moody's B3 Sky rating drafted as sky-rating in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:06.628Z",
+      "reason": "source-blocked",
+      "note": "Defiant Sky B3 version returned HTTP 403 to round 3; pairs with the blocked Block version. Next: open Moody's release or a second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/moody-s-rates-sky-b3-flagging-thin-capital-buffer",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:24.863Z",
       "duplicateOf": "sky-rating",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Moody's Sky B3 capital buffer second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "9dad087f927922704e2a": {
       "source": "CoinDesk",
@@ -34366,6 +34375,21 @@
           "reviewedAt": "2026-10-09T14:13:22.483Z",
           "retrySearches": [
             "Europol quantum wallets two outlets draft"
+          ]
+        },
+        "a3f0498b0937836134a4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Sky B3 version returned HTTP 403 to round 3; pairs with the blocked Block version. Next: open Moody's release or a second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/moody-s-rates-sky-b3-flagging-thin-capital-buffer",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:24.863Z",
+          "retrySearches": [
+            "Moody's Sky B3 capital buffer second outlet draft"
           ]
         }
       },
