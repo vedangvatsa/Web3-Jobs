@@ -11650,31 +11650,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "85911409ad9cf3216a4e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T21:16:03.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "verified-event",
-      "note": "Drake Oct 7 bunker-mode warning with months worst case and Buterin lattice reply verified in Decrypt and CoinDesk; OpenAI manuscripts trigger and no demonstrated attack confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Decrypt bunker-mode page fetched HTTP 200 but round 3 did not complete a full re-read; rounds 1-2 list Decrypt plus CoinDesk reads. Next: full-read both and draft bunker-mode.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-          "outcome": "read"
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T13:59:47.209Z",
+      "reviewedAt": "2026-10-09T17:58:56.703Z",
       "articleSlug": "bunker-mode",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "Drake bunker mode Decrypt CoinDesk full read draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "7932aabf918494530ac0": {
       "source": "Cointelegraph",
@@ -36973,6 +36973,21 @@
           "reviewedAt": "2026-10-09T17:58:54.621Z",
           "retrySearches": [
             "Drake bunker mode OpenAI math full read two outlets draft"
+          ]
+        },
+        "85911409ad9cf3216a4e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt bunker-mode page fetched HTTP 200 but round 3 did not complete a full re-read; rounds 1-2 list Decrypt plus CoinDesk reads. Next: full-read both and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:56.703Z",
+          "retrySearches": [
+            "Drake bunker mode Decrypt CoinDesk full read draft"
           ]
         }
       },
