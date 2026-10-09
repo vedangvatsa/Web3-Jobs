@@ -12566,28 +12566,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "697bdf91d6c6d3bd5f3f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T10:05:37.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "verified-event",
-      "note": "Coinbase Deribit integration complete as Global Exchange with Pro return by year-end verified in Unchained and Cointelegraph; May 2025 2.9B deal terms confirmed. Draft 630 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Unchained Coinbase piece and confirmed the Global Exchange headline; rounds 1-2 list Unchained, Cointelegraph and acquisition-term reads. Next: re-open two and draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
           "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/coinbase-acquired-deribit-for-2-9-billion-heres-why-it-matters/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:35:18.727Z",
+      "reviewedAt": "2026-10-09T14:11:54.106Z",
       "articleSlug": "coinbase-pro",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -12596,7 +12588,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Coinbase Deribit Pro year-end Unchained Cointelegraph draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "e9fd034440ac8ecd0769": {
       "source": "Unchained",
@@ -34199,6 +34195,21 @@
           "reviewedAt": "2026-10-09T14:11:51.951Z",
           "retrySearches": [
             "Rhyne 32-month extortion docket Bitcoin.com draft"
+          ]
+        },
+        "697bdf91d6c6d3bd5f3f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Unchained Coinbase piece and confirmed the Global Exchange headline; rounds 1-2 list Unchained, Cointelegraph and acquisition-term reads. Next: re-open two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:54.106Z",
+          "retrySearches": [
+            "Coinbase Deribit Pro year-end Unchained Cointelegraph draft"
           ]
         }
       },
