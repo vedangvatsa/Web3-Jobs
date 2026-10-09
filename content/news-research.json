@@ -14929,23 +14929,23 @@
       "id": "c7afc2887d7fc29547c0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T04:23:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Read CoinDesk Oct 8 Glamsterdam Sepolia 200M gas test; second independent report on the milestone not yet opened.",
+      "reason": "needs-corroboration",
+      "note": "Glamsterdam 200M gas Sepolia test verified only in Decrypt read; needs Ethereum blog or commit corroboration before drafting.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T11:29:06.674Z",
+      "reviewedAt": "2026-10-09T04:17:24.977Z",
       "retrySearches": [
-        "Glamsterdam Sepolia 200 million gas Hoodi October 27 second report"
+        "Sepolia Glamsterdam 200 million gas limit October 6 2026"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "b486ca816b176c708e46": {
       "source": "Unchained",
@@ -32143,6 +32143,21 @@
           "reviewedAt": "2026-10-09T04:17:19.451Z",
           "retrySearches": [
             "Muneeb Ali IP transfer Stacks endowment CEO plan"
+          ]
+        },
+        "c7afc2887d7fc29547c0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Glamsterdam 200M gas Sepolia test verified only in Decrypt read; needs Ethereum blog or commit corroboration before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:24.977Z",
+          "retrySearches": [
+            "Sepolia Glamsterdam 200 million gas limit October 6 2026"
           ]
         }
       },
