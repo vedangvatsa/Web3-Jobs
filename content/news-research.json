@@ -9938,23 +9938,23 @@
       "id": "8b0ca374854723bfa6f6",
       "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-09T21:07:23.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "source-blocked",
-      "note": "Taaki Singapore deportation seen only in blocked origin; needs second outlet with reason and confirmation.",
+      "reason": "needs-corroboration",
+      "note": "Taaki deportation rests on single outlet plus his own X post; needs independent confirmation before any draft.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
-          "outcome": "blocked"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:19:00.878Z",
+      "reviewedAt": "2026-10-09T04:17:00.479Z",
       "retrySearches": [
-        "Amir Taaki Singapore deportation reason confirmation"
+        "Amir Taaki deported Singapore October 2026 DarkFi confirmation"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "65dd137a595f7f56af89": {
       "source": "Cointelegraph",
@@ -32042,6 +32042,21 @@
           "reviewedAt": "2026-10-09T04:16:58.446Z",
           "retrySearches": [
             "Coinbase Kalshi 15-minute prediction markets October 6 2026"
+          ]
+        },
+        "8b0ca374854723bfa6f6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Taaki deportation rests on single outlet plus his own X post; needs independent confirmation before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:00.479Z",
+          "retrySearches": [
+            "Amir Taaki deported Singapore October 2026 DarkFi confirmation"
           ]
         }
       },
