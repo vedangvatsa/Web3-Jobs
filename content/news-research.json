@@ -17327,17 +17327,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b110ea0056b771ffe65",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T15:10:15.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Securitize Oct 8 tokenized stocks launch on Solana already drafted as securitize-stocks in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:24:10.388Z",
+      "reason": "source-blocked",
+      "note": "Defiant Securitize tokenized-stocks page returned HTTP 403 to round 3; same Oct 8 launch re-read in CoinDesk and Decrypt this round. Next: re-open PRNewswire release plus one outlet and draft securitize-stocks.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:15.565Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Securitize Stocks PRNewswire release 12 tickers draft securitize-stocks"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "1b96b3a80a7d4b84f0ae": {
       "source": "Unchained",
@@ -36597,6 +36606,21 @@
           "reviewedAt": "2026-10-09T17:58:10.445Z",
           "retrySearches": [
             "Cardano programmable token standard issuer controls second outlet draft"
+          ]
+        },
+        "3b110ea0056b771ffe65": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Securitize tokenized-stocks page returned HTTP 403 to round 3; same Oct 8 launch re-read in CoinDesk and Decrypt this round. Next: re-open PRNewswire release plus one outlet and draft securitize-stocks.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:15.565Z",
+          "retrySearches": [
+            "Securitize Stocks PRNewswire release 12 tickers draft securitize-stocks"
           ]
         }
       },
