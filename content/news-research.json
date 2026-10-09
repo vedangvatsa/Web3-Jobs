@@ -19796,32 +19796,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "0398136c795f44bd34ed",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T21:05:44.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Referendum 1944 executed with dotUSD Phase 1 mint verified in Subsquare tally, Crypto Times and crypto.news; pool funding and Phase 2 plans confirmed.",
+      "reason": "source-blocked",
+      "note": "Defiant Polkadot dotUSD origin returned HTTP 403 to round 3 with no second outlet in queue. Next: find a Polkadot OpenGov record or outlet and draft.",
       "sourceChecks": [
-        {
-          "url": "https://polkadot.subsquare.io/referenda/1944",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.cryptotimes.io/2026/10/09/polkadot-launches-native-dotusd-stablecoin-through-opengov/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/dot-price-tests-support-polkadot-dotusd-stablecoin/",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:12:10.898Z",
+      "reviewedAt": "2026-10-09T14:14:45.001Z",
       "articleSlug": "polkadot-dotusd",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -19835,7 +19823,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Polkadot dotUSD OpenGov record draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "3048cd20982d3d5bb2cf": {
       "source": "The Defiant",
@@ -34788,6 +34780,21 @@
           "reviewedAt": "2026-10-09T14:14:42.776Z",
           "retrySearches": [
             "Ondo OpenAI private-market note outlet draft"
+          ]
+        },
+        "0398136c795f44bd34ed": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Polkadot dotUSD origin returned HTTP 403 to round 3 with no second outlet in queue. Next: find a Polkadot OpenGov record or outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/polkadot-launches-usdt-backed-dotusd-under-opengov",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:45.001Z",
+          "retrySearches": [
+            "Polkadot dotUSD OpenGov record draft"
           ]
         }
       },
