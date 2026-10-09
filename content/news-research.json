@@ -14630,17 +14630,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "43692630e3e532c8981a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T10:05:11.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "duplicate",
-      "note": "Unchained CIP-0113 standard launch covered as the enabling event inside veridian-spin.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:00:47.515Z",
+      "reason": "needs-corroboration",
+      "note": "Unchained CIP-0113 page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto and Defiant versions returned 403. Next: full-read this plus CoinDesk and draft veridian-spin.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/cardano-cip-0113-token-compliance-standard/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:00:01.008Z",
       "duplicateOf": "veridian-spin",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Unchained CIP-0113 KYC freeze full read draft veridian-spin"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "256cca266632a898b8b3": {
       "source": "Unchained",
@@ -37206,6 +37215,21 @@
           "reviewedAt": "2026-10-09T17:59:59.064Z",
           "retrySearches": [
             "CoinDesk Robinhood 25M buy full read draft robinhood-bitcoin"
+          ]
+        },
+        "43692630e3e532c8981a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Unchained CIP-0113 page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto and Defiant versions returned 403. Next: full-read this plus CoinDesk and draft veridian-spin.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/cardano-cip-0113-token-compliance-standard/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:00:01.008Z",
+          "retrySearches": [
+            "Unchained CIP-0113 KYC freeze full read draft veridian-spin"
           ]
         }
       },
