@@ -14272,17 +14272,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "2de409dcf0f9eb524c55",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T12:34:13.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Same GSR Hare 100M vault story covered by gsr-hare.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T12:07:28.305Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk GSR vault headline with the 100M figure; pairs with the blocked Defiant version. Next: find a GSR or Hare confirmation and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:29.387Z",
       "duplicateOf": "gsr-hare",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "GSR Hare vault confirmation second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "870ad4e3cea216f2ec6a": {
       "source": "Cointelegraph",
@@ -34414,6 +34423,21 @@
           "reviewedAt": "2026-10-09T14:13:27.117Z",
           "retrySearches": [
             "BitMine ETH buyer CoinDesk Decrypt draft"
+          ]
+        },
+        "2de409dcf0f9eb524c55": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk GSR vault headline with the 100M figure; pairs with the blocked Defiant version. Next: find a GSR or Hare confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:29.387Z",
+          "retrySearches": [
+            "GSR Hare vault confirmation second outlet draft"
           ]
         }
       },
