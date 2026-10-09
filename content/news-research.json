@@ -18617,28 +18617,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "e85710a4d0d8f74f72c1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T11:37:17.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "verified-event",
-      "note": "Spalletta Oct 7 conviction over two April 2021 Uranium hacks verified in Decrypt and BleepingComputer; DOJ page empty so no sentencing date claimed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Decrypt Uranium page and confirmed the 50M conviction headline; rounds 1-2 list Decrypt plus BeInCrypto reads with the BeInCrypto page now 403. Next: find a second openable outlet and draft.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.justice.gov/usao-sdny/pr/jonathan-spalletta-convicted-defrauding-crypto-exchange-over-50-million-hacks-0",
-          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:37.569Z",
+      "reviewedAt": "2026-10-09T14:14:23.819Z",
       "articleSlug": "uranium-verdict",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -18652,7 +18644,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Uranium Finance hacker conviction second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "49e46f3fdd2e63839617": {
       "source": "CoinDesk",
@@ -34661,6 +34657,21 @@
           "reviewedAt": "2026-10-09T14:14:05.964Z",
           "retrySearches": [
             "Standard Chartered custody Bitcoin Magazine draft"
+          ]
+        },
+        "e85710a4d0d8f74f72c1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Decrypt Uranium page and confirmed the 50M conviction headline; rounds 1-2 list Decrypt plus BeInCrypto reads with the BeInCrypto page now 403. Next: find a second openable outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:23.819Z",
+          "retrySearches": [
+            "Uranium Finance hacker conviction second outlet draft"
           ]
         }
       },
