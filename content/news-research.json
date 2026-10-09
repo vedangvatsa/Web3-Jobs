@@ -22099,11 +22099,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c95c0d7bc053ee036771",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T11:41:15.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "opinion",
+      "note": "Morning Minute Uptober roundup is editorial market commentary, not a concrete launch, vote, filing or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:27:40.763Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f04ef492bcb4db52cac2": {
       "source": "CoinDesk",
@@ -33291,6 +33296,13 @@
           "note": "Three reasons selloff piece is market price action with predictions on what to expect next, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:27:38.519Z"
+        },
+        "c95c0d7bc053ee036771": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Morning Minute Uptober roundup is editorial market commentary, not a concrete launch, vote, filing or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:27:40.763Z"
         }
       },
       "baselineSlugs": [
