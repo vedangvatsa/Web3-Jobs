@@ -20930,24 +20930,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "724035b8cd9bafa2f945",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T09:08:09.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified MARA 81.1M BTC transfer to Galaxy Digital with AI and HPC pivot context across CoinDesk and crypto.news; movement confirmed, no sale claimed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk MARA-Galaxy headline with the 81.1M figure; single outlet so far. Next: find a MARA statement or onchain confirmation and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
           "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/mara-holdings-moves-81m-in-btc-is-bitcoin-price-at-risk/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:12:18.791Z",
+      "reviewedAt": "2026-10-09T14:16:30.263Z",
       "articleSlug": "mara-move",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -20956,7 +20952,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "MARA Galaxy 81M transfer confirmation draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "2a7c81f07dc6e3b3eb0f": {
       "source": "CoinDesk",
@@ -34929,6 +34929,21 @@
           "reviewedAt": "2026-10-09T14:16:27.948Z",
           "retrySearches": [
             "Blumenthal Cantor records CoinDesk corroboration draft"
+          ]
+        },
+        "724035b8cd9bafa2f945": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk MARA-Galaxy headline with the 81.1M figure; single outlet so far. Next: find a MARA statement or onchain confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:30.263Z",
+          "retrySearches": [
+            "MARA Galaxy 81M transfer confirmation draft"
           ]
         }
       },
