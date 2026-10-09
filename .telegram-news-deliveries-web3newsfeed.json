@@ -1030,5 +1030,36 @@
     "slotKey": "2026-10-08:evening",
     "messageId": 65738,
     "sentAt": "2026-10-08T20:18:18.576Z"
+  },
+  "7bf07d18-eab9-4c64-a567-4104c25cd752": {
+    "status": "reserved",
+    "reservedAt": "2026-10-09T19:53:32.929Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Fairshake Pledges Millions to 32 House Incumbents",
+        "summary": "The crypto PAC will fund 19 Republicans and 13 Democrats, allocating one million dollars each to six incumbents.",
+        "link": "https://hashtagweb3.com/fairshake-house?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fairshake Backs 32 House Incumbents With at Least $6 Million for Six Races"
+      },
+      {
+        "index": -1,
+        "headline": "FinCEN Withdraws Unhosted Wallet and Mixer Reporting Proposals",
+        "summary": "The agency canceled the 2020 and 2023 regulatory drafts after reviewing public feedback.",
+        "link": "https://hashtagweb3.com/fincen-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "FinCEN Withdraws Unhosted Wallet and Mixer Reporting Proposals"
+      },
+      {
+        "index": -1,
+        "headline": "Greenfield asks Swiss regulator to review Safe Foundation governance",
+        "summary": "Greenfield Capital filed a complaint against the ecosystem's board following months of unsuccessful discussions.",
+        "link": "https://hashtagweb3.com/safe-complaint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Greenfield Asks Swiss Watchdog to Review Safe Foundation Governance"
+      }
+    ],
+    "slotKey": "2026-10-09:evening"
   }
 }
