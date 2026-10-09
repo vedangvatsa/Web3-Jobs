@@ -12072,17 +12072,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f473ee7a875080f630f5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T16:25:38.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Tether Kazakhstan MoU on tenge pilot and tokenization covered by tether-kazakhstan in this run.",
+      "note": "Same Tether NBK-Alatau MoU story drafted as tether-kazakhstan in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T20:07:22.608Z",
+      "reviewedAt": "2026-10-09T04:12:41.562Z",
       "duplicateOf": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "5e818d6c7c2ca5d7595e"
     },
     "8c65ec88a9d5f318eeff": {
       "source": "Bitcoin Magazine",
@@ -31104,6 +31105,15 @@
           "reviewedAt": "2026-10-09T04:12:39.349Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "f473ee7a875080f630f5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Tether NBK-Alatau MoU story drafted as tether-kazakhstan in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:12:41.562Z",
+          "duplicateOf": "tether-kazakhstan",
+          "mergedInto": "5e818d6c7c2ca5d7595e"
         }
       },
       "baselineSlugs": [
