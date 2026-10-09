@@ -19181,11 +19181,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c7573a4e5dbe80c2c0a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:22:58.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "verified-event",
+      "note": "Blumenthal Oct 8 Cantor-Tether letter verified in CoinDesk and Cointelegraph; records asks, Oct 23 deadline, custody stake and Iran-report context confirmed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:11:59.019Z",
+      "articleSlug": "cantor-probe",
+      "lastReviewedDay": "2026-10-09"
     },
     "90d78758432a6842a6c0": {
       "source": "Decrypt",
@@ -30740,6 +30755,23 @@
           ],
           "reviewedAt": "2026-10-09T04:11:55.368Z",
           "articleSlug": "bringin-accounts"
+        },
+        "3c7573a4e5dbe80c2c0a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Blumenthal Oct 8 Cantor-Tether letter verified in CoinDesk and Cointelegraph; records asks, Oct 23 deadline, custody stake and Iran-report context confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:11:59.019Z",
+          "articleSlug": "cantor-probe"
         }
       },
       "baselineSlugs": [
