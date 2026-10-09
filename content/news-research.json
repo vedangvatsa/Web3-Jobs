@@ -14686,28 +14686,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "2c1699713477803bf1b1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T08:50:02.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "verified-event",
-      "note": "BitMine 5 percent hard cap with 6.02M ETH verified in Cointelegraph, Decrypt and CoinDesk; TOKEN2049 timeline confirmed. Draft 897 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph BitMine hard-cap headline; pairs with Decrypt, CoinDesk and CryptoSlate versions. Next: full-read two and draft.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+          "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:42:59.232Z",
+      "reviewedAt": "2026-10-09T14:13:45.663Z",
       "articleSlug": "bitmine-cap",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -14716,7 +14708,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "BitMine 5 percent hard cap two outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "6432dc3868c75a80c0ef": {
       "source": "The Block",
@@ -34488,6 +34484,21 @@
           "reviewedAt": "2026-10-09T14:13:35.683Z",
           "retrySearches": [
             "Securitize LG CNS tokenized funds notice draft"
+          ]
+        },
+        "2c1699713477803bf1b1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph BitMine hard-cap headline; pairs with Decrypt, CoinDesk and CryptoSlate versions. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:45.663Z",
+          "retrySearches": [
+            "BitMine 5 percent hard cap two outlets draft"
           ]
         }
       },
