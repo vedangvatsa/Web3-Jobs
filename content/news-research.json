@@ -20708,32 +20708,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8 SEC rules, Oct 16 effect, BTC ETH only, SET-only listing, 80 percent NAV, SEC-regulated custody, margin ban, risk confirmation, foreign-product bar across CoinDesk, Cointelegraph and CryptoBriefing.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/thailand-sec-finalizes-bitcoin-ether-etf-rules/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13411",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T10:55:05.844Z",
+      "reason": "duplicate",
+      "note": "Same Thailand SEC Oct 8 bitcoin ether ETF rules effective Oct 16 already drafted as thailand-etfs in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:24:31.633Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -20742,7 +20725,9 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "duplicateOf": "thailand-etfs",
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "6eb78273ce6d69ab8f6b": {
       "source": "Cointelegraph",
@@ -33185,6 +33170,15 @@
           "note": "Same Thailand SEC Oct 8 bitcoin ether ETF rules effective Oct 16 already drafted as thailand-etfs in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:24:29.305Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thailand SEC Oct 8 bitcoin ether ETF rules effective Oct 16 already drafted as thailand-etfs in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:24:31.633Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
         }
