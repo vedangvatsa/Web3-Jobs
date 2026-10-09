@@ -16231,23 +16231,23 @@
       "id": "ac1dee72e3538b3b129d",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T03:38:56.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Defiant HYPE wallet-distribution page returned 403; onchain claim needs a readable second source.",
+      "reason": "needs-corroboration",
+      "note": "Hyperliquid 330M HYPE distribution seen only in blocked origin; needs onchain data plus second outlet before drafting.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:29:17.091Z",
+      "reviewedAt": "2026-10-09T04:17:50.768Z",
       "retrySearches": [
-        "Hyperliquid Labs wallet 330 million HYPE distribution Arkham"
+        "Hyperliquid Labs wallet distributes 330 million HYPE"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "ce6a97a6514922530586": {
       "id": "ce6a97a6514922530586",
@@ -32247,6 +32247,21 @@
           "reviewedAt": "2026-10-09T04:17:44.968Z",
           "retrySearches": [
             "Ripple financing leveraged stock bets prime brokerage"
+          ]
+        },
+        "ac1dee72e3538b3b129d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Hyperliquid 330M HYPE distribution seen only in blocked origin; needs onchain data plus second outlet before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:50.768Z",
+          "retrySearches": [
+            "Hyperliquid Labs wallet distributes 330 million HYPE"
           ]
         }
       },
