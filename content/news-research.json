@@ -15516,15 +15516,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "316cb572de6b08407ac4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T10:20:00.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "duplicate",
-      "note": "Same Drake Oct 7 bunker-mode warning and Buterin response covered by bunker-mode in this run.",
+      "reason": "opinion",
+      "note": "Industry-split debate roundup over the Drake AI warning collects reactions with no new verifiable event.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:42:38.685Z",
+      "reviewedAt": "2026-10-09T00:00:34.638Z",
       "duplicateOf": "bunker-mode",
       "lastReviewedDay": "2026-10-08"
     },
@@ -29178,6 +29178,13 @@
           "note": "Single-cryptographer FUD characterization of the Drake warning is commentary with no new verifiable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T00:00:30.097Z"
+        },
+        "316cb572de6b08407ac4": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Industry-split debate roundup over the Drake AI warning collects reactions with no new verifiable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:34.638Z"
         }
       },
       "baselineSlugs": [
