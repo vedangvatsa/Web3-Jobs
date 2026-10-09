@@ -11213,28 +11213,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "dc93e29a726604392489",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T16:42:19.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Hyperliquid Singapore HQ with MAS no-jurisdiction stance verified in crypto.news, Blockhead and TokenPost; June IAL history confirmed. Draft 667 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Defiant Hyperliquid page and confirmed the Singapore-base headline; rounds 1-2 list crypto.news, Blockhead and TokenPost reads. Next: re-open two and draft.",
       "sourceChecks": [
         {
-          "url": "https://crypto.news/hyperliquid-confirms-singapore-base-as-mas-says/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.blockhead.co/2026/10/07/hyperliquid-confirms-singapore-registration-as-mas-says-exchange-falls-outside-its-jurisdiction/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.tokenpost.com/news/regulation/27545",
+          "url": "https://thedefiant.io/news/regulation/hyperliquid-confirms-singapore-base-but-says-it-has-no-mas-license",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:35:16.804Z",
+      "reviewedAt": "2026-10-09T14:11:01.633Z",
       "articleSlug": "hyperliquid-base",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -11243,7 +11235,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Hyperliquid Singapore MAS crypto.news Blockhead draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "a88523447b99942ca281": {
       "source": "Cointelegraph",
@@ -33976,6 +33972,21 @@
           "reviewedAt": "2026-10-09T14:10:59.559Z",
           "retrySearches": [
             "digital ruble 220000 accounts Reuters CryptoBriefing draft"
+          ]
+        },
+        "dc93e29a726604392489": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Defiant Hyperliquid page and confirmed the Singapore-base headline; rounds 1-2 list crypto.news, Blockhead and TokenPost reads. Next: re-open two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/hyperliquid-confirms-singapore-base-but-says-it-has-no-mas-license",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:01.633Z",
+          "retrySearches": [
+            "Hyperliquid Singapore MAS crypto.news Blockhead draft"
           ]
         }
       },
