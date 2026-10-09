@@ -22559,17 +22559,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "Same UK Oct 8 sanctions on three crypto exchanges over Russia links already drafted as uk-sanctions in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:24:38.419Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read Decrypt and CoinDesk on UK Oct 8 sanctions over Cryptomus TokenSpot and A7 links; draft not yet written. Next: re-open FCDO notice and draft uk-sanctions.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:01:19.080Z",
       "duplicateOf": "uk-sanctions",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Decrypt UK sanctions Cryptomus TokenSpot FCDO draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -37615,6 +37628,25 @@
           "reviewedAt": "2026-10-09T18:01:16.736Z",
           "retrySearches": [
             "UK Russia sanctions FCDO Xeltox A7 draft uk-sanctions"
+          ]
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read Decrypt and CoinDesk on UK Oct 8 sanctions over Cryptomus TokenSpot and A7 links; draft not yet written. Next: re-open FCDO notice and draft uk-sanctions.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:19.080Z",
+          "retrySearches": [
+            "Decrypt UK sanctions Cryptomus TokenSpot FCDO draft"
           ]
         }
       },
