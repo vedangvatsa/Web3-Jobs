@@ -15676,17 +15676,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "45186be758e1123e3a5a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T08:39:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Samsung USDC remittance rollout for 82M Galaxy users as covered by samsung-usdc in this run.",
+      "note": "Same Samsung Wallet USDC story drafted as samsung-usdc in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:58:28.845Z",
+      "reviewedAt": "2026-10-09T04:13:32.145Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "2a5f0f76edb1ecb37ab3"
     },
     "11996eb39c769fbb3797": {
       "source": "BeInCrypto",
@@ -31294,6 +31295,15 @@
           "reviewedAt": "2026-10-09T04:13:27.232Z",
           "duplicateOf": "europol-quantum",
           "mergedInto": "9947fd6054fa80daa4d4"
+        },
+        "45186be758e1123e3a5a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC story drafted as samsung-usdc in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:13:32.145Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "2a5f0f76edb1ecb37ab3"
         }
       },
       "baselineSlugs": [
