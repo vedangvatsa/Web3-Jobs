@@ -19538,11 +19538,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b1404bce9913baf99ba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T22:35:00.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "not-a-concrete-event",
+      "note": "Asia Express weekly roundup recycles the China P2P wallets story already covered by china-p2p with no standalone event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T00:00:25.159Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "eb1101206c25f4465b27": {
       "source": "CryptoSlate",
@@ -29154,6 +29159,13 @@
           "note": "Manus AI startup funding story has no Web3 product, filing, or onchain nexus in the headline.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T00:00:23.130Z"
+        },
+        "3b1404bce9913baf99ba": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Asia Express weekly roundup recycles the China P2P wallets story already covered by china-p2p with no standalone event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:25.159Z"
         }
       },
       "baselineSlugs": [
