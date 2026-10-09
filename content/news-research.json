@@ -22654,11 +22654,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f8ec77c66ea84cb60667",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T14:59:00.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "source-blocked",
+      "note": "SEC cross-trading proposal release returned HTTP 403 to automated fetch; single source in queue with no crypto-specific second outlet. Next: find SEC release mirror plus crypto-trade outlet and assess scope.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:29.483Z",
+      "retrySearches": [
+        "SEC cross trading registered funds proposal October 2026 mirror"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "3e5484a682e6ed261c67": {
       "source": "CoinDesk",
@@ -36717,6 +36731,21 @@
           "reviewedAt": "2026-10-09T17:58:27.560Z",
           "retrySearches": [
             "Hamilton 40-year Empire Market DOJ release draft empire-market"
+          ]
+        },
+        "f8ec77c66ea84cb60667": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SEC cross-trading proposal release returned HTTP 403 to automated fetch; single source in queue with no crypto-specific second outlet. Next: find SEC release mirror plus crypto-trade outlet and assess scope.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:29.483Z",
+          "retrySearches": [
+            "SEC cross trading registered funds proposal October 2026 mirror"
           ]
         }
       },
