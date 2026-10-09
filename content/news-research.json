@@ -21417,28 +21417,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a453769f3b6db70f125",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:22:47.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified Pyth DAO approval of OP-PIP-136 100-percent buyback rule with treasury mechanics across Unchained, the passed governance proposal, the Pyth announcement and Crypto Briefing.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Unchained Pyth page and confirmed the 100-percent-rule headline; single outlet so far. Next: find the DAO vote record or second outlet and draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
           "outcome": "read"
-        },
-        {
-          "url": "https://forum.pyth.network/t/passed-op-pip-136-pyth-strategic-reserve-v2/2711",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/pyth-dao-approves-100-revenue-pyth-buybacks/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:22:37.111Z",
+      "reviewedAt": "2026-10-09T14:17:11.803Z",
       "articleSlug": "pyth-vote",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -21447,7 +21439,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Pyth DAO 100 percent rule vote record draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "c76300860e9b16ab3fc5": {
       "source": "Unchained",
@@ -35081,6 +35077,21 @@
           "reviewedAt": "2026-10-09T14:17:09.408Z",
           "retrySearches": [
             "XRP Ledger controls Unchained corroboration draft"
+          ]
+        },
+        "6a453769f3b6db70f125": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Unchained Pyth page and confirmed the 100-percent-rule headline; single outlet so far. Next: find the DAO vote record or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:11.803Z",
+          "retrySearches": [
+            "Pyth DAO 100 percent rule vote record draft"
           ]
         }
       },
