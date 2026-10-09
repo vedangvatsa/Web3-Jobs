@@ -16707,30 +16707,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "793e33cc45c8a11bda37",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T12:03:28.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "verified-event",
-      "note": "Sui Hashi phased mainnet with 500M-plus commitments verified in Sui blog, Cointelegraph and crypto.news; 20-plus coalition and Anchorage role confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph Sui Hashi headline with the 500M figure; single outlet so far. Next: find a Sui or Hashi announcement and draft.",
       "sourceChecks": [
         {
-          "url": "https://www.sui.io/blog/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments",
-          "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/sui-hashi-launches-with-500m-for-bitcoin-finance/",
+          "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:12:07.173Z",
+      "reviewedAt": "2026-10-09T14:14:01.371Z",
       "retrySearches": [
-        "Sui Hashi hBTC mainnet launch second outlet Anchorage"
+        "Sui Hashi 500M commitments announcement draft"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "sui-hashi",
@@ -16745,7 +16737,8 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "49796226371352e18cd0": {
       "source": "CoinJournal",
@@ -34621,6 +34614,21 @@
           "reviewedAt": "2026-10-09T14:13:59.139Z",
           "retrySearches": [
             "BitMine buying spree two outlets draft"
+          ]
+        },
+        "793e33cc45c8a11bda37": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph Sui Hashi headline with the 500M figure; single outlet so far. Next: find a Sui or Hashi announcement and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:01.371Z",
+          "retrySearches": [
+            "Sui Hashi 500M commitments announcement draft"
           ]
         }
       },
