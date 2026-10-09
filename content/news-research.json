@@ -14474,28 +14474,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "0babe217af4738d51336",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T10:26:55.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "verified-event",
-      "note": "WLFI USD1 Mesh Web2 rollout this quarter at TOKEN2049 verified in Cointelegraph, CryptoBriefing and CMC Academy; trust charter and AgentPay included as verified.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph WLFI-USD1 headline; single outlet so far. Next: find a WLFI, Mesh or merchant-side confirmation and draft.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/world-liberty-financial-payments-web2-firms/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://coinmarketcap.com/academy/article/wlfi-usd1-mesh-merchant-network",
+          "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:24.638Z",
+      "reviewedAt": "2026-10-09T14:13:33.517Z",
       "articleSlug": "wlfi-payments",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -14509,7 +14501,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "WLFI USD1 Mesh payments confirmation draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "2fdc8b32451fba85bb96": {
       "source": "Cointelegraph",
@@ -34462,6 +34458,21 @@
           "reviewedAt": "2026-10-09T14:13:31.410Z",
           "retrySearches": [
             "Europol wallets primary risk two outlets draft"
+          ]
+        },
+        "0babe217af4738d51336": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph WLFI-USD1 headline; single outlet so far. Next: find a WLFI, Mesh or merchant-side confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:33.517Z",
+          "retrySearches": [
+            "WLFI USD1 Mesh payments confirmation draft"
           ]
         }
       },
