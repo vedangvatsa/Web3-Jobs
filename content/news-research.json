@@ -20259,11 +20259,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f540bafdf1cad447d622",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T00:55:08.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI versus Anthropic stock winners piece covers equities with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:16:39.712Z",
+      "lastReviewedDay": "2026-10-09"
     }
   },
   "runs": {
@@ -31941,6 +31946,13 @@
           "note": "Trump AI-enemy piece covers political rhetoric with no crypto event, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:16:37.207Z"
+        },
+        "f540bafdf1cad447d622": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI versus Anthropic stock winners piece covers equities with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:16:39.712Z"
         }
       },
       "baselineSlugs": [
