@@ -23167,11 +23167,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "644146b3930fc40b8976",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T15:58:15.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "out-of-scope",
+      "note": "SpaceX lockup watch covers equity shares with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:24.816Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "b2233385e5e3c157a448": {
       "source": "Cointelegraph",
@@ -36001,6 +36006,13 @@
           "note": "Crypto Biz wealthy-investors column is analysis and adviser sentiment with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:22.903Z"
+        },
+        "644146b3930fc40b8976": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "SpaceX lockup watch covers equity shares with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:24.816Z"
         }
       },
       "baselineSlugs": [
