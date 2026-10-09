@@ -1789,9 +1789,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Territory Account Executive - London at Block\n\nLondon, United Kingdom\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #SalesJobs #Hiring",
-          "startedAt": "2026-10-09T11:30:50.879Z"
+          "startedAt": "2026-10-09T11:30:50.879Z",
+          "containerId": "17916897153461009"
         }
       }
     },
