@@ -20728,17 +20728,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c8e5464d8009c02f491",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:21:00.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "duplicate",
-      "note": "Same US Oct 8 1 billion dollar Bitfinex seized bitcoin move already drafted as bitfinex-move in this run.",
+      "note": "Same US Oct 8 Bitfinex-seized bitcoin move already drafted as bitfinex-move; related weekly flows covered as context.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:24:49.626Z",
+      "reviewedAt": "2026-10-09T17:47:15.027Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "62cd6c1ea3c742f4cf88": {
       "source": "CoinDesk",
@@ -36144,6 +36145,15 @@
           "note": "Same US Oct 8 Bitfinex-seized bitcoin move already drafted as bitfinex-move; related weekly flows covered as context.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:47:13.221Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "4c8e5464d8009c02f491": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US Oct 8 Bitfinex-seized bitcoin move already drafted as bitfinex-move; related weekly flows covered as context.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:47:15.027Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
