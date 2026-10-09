@@ -21159,11 +21159,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7eedcb04b022f754db",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:34:37.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "duplicate",
+      "note": "Same UK Oct 8 crypto-exchange sanctions package drafted as uk-sanctions from the CoinDesk candidate; Cointelegraph confirms identical designations and A7 claim.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:55:27.312Z",
+      "duplicateOf": "uk-sanctions",
+      "mergedInto": "00846212524fc336a196",
+      "lastReviewedDay": "2026-10-09"
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -32252,6 +32259,15 @@
           ],
           "reviewedAt": "2026-10-09T10:55:25.372Z",
           "articleSlug": "uk-sanctions"
+        },
+        "4f7eedcb04b022f754db": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same UK Oct 8 crypto-exchange sanctions package drafted as uk-sanctions from the CoinDesk candidate; Cointelegraph confirms identical designations and A7 claim.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:55:27.312Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "00846212524fc336a196"
         }
       },
       "baselineSlugs": [
