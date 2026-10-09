@@ -14104,28 +14104,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1016b5ea433bb06db24",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T14:20:01.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Moodys B3 Sky rating verified in CryptoBriefing, Sky primary and CMC Academy; 90M buffer vs 10B assets and 150M target confirmed.",
+      "reason": "source-blocked",
+      "note": "The Block Sky B3 origin returned HTTP 403 to round 3; pairs with the blocked Defiant version. Next: open Moody's release or a second outlet and draft.",
       "sourceChecks": [
         {
-          "url": "https://cryptobriefing.com/moodys-b3-rating-sky-protocol/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://insights.skyeco.com/insights/moodys-ratings-assigns-rating-to-sky-protocol",
-          "outcome": "read"
-        },
-        {
-          "url": "https://coinmarketcap.com/academy/article/moodys-sky-protocol-b3-rating-stablecoin",
-          "outcome": "read"
+          "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:19.147Z",
+      "reviewedAt": "2026-10-09T14:13:19.954Z",
       "articleSlug": "sky-rating",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -14139,7 +14131,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Moody's Sky B3 rating release second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "9947fd6054fa80daa4d4": {
       "source": "CoinDesk",
@@ -34344,6 +34340,21 @@
           "reviewedAt": "2026-10-09T14:13:17.596Z",
           "retrySearches": [
             "Polygon TRON 94B banking rails confirmation draft"
+          ]
+        },
+        "e1016b5ea433bb06db24": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Block Sky B3 origin returned HTTP 403 to round 3; pairs with the blocked Defiant version. Next: open Moody's release or a second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:19.954Z",
+          "retrySearches": [
+            "Moody's Sky B3 rating release second outlet draft"
           ]
         }
       },
