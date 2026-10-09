@@ -22869,11 +22869,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ee15793b442eee359409",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:44:49.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "opinion",
+      "note": "UTXO bond-market interview is analyst opinion on Bitcoin frontier with no concrete event, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:15.216Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "200433963795de02b421": {
       "source": "Bitcoin Magazine",
@@ -35941,6 +35946,13 @@
           "note": "Bitcoin Bleeds in Uptober experts piece is price analysis and predictions with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:09.693Z"
+        },
+        "ee15793b442eee359409": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "UTXO bond-market interview is analyst opinion on Bitcoin frontier with no concrete event, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:15.216Z"
         }
       },
       "baselineSlugs": [
