@@ -10660,34 +10660,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "abfda675cf9bb2ba7634",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-09T21:59:32.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
-      "reason": "verified-event",
-      "note": "Kalshi US500 perpetual launch Oct 6 verified in FinanceMagnates and MarketsMedia; specs and debut figures confirmed. Draft 736 words, audits clean.",
+      "reason": "source-blocked",
+      "note": "Defiant Kalshi US500 origin returned HTTP 403 to round 3; rounds 1-2 list FinanceMagnates plus MarketsMedia reads. Next: re-open those two and draft.",
       "sourceChecks": [
-        {
-          "url": "https://www.financemagnates.com/fintech/kalshi-takes-perpetual-futures-into-us-equities-after-cftc-approval/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.financemagnates.com/fintech/kalshi-wants-a-never-expiring-sp-500-style-contract-cme-says-it-has-no-future/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.marketsmedia.com/kalshi-launches-first-equity-perpetual-future-in-u-s/",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T11:54:52.709Z",
+      "reviewedAt": "2026-10-09T14:10:57.412Z",
       "retrySearches": [
-        "Kalshi US500 perpetual volume trading debut week"
+        "Kalshi US500 perpetual FinanceMagnates MarketsMedia draft"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "kalshi-us500",
@@ -10697,7 +10685,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "824d47be55685a7a0430": {
       "source": "Bitcoin Magazine",
@@ -33960,6 +33949,21 @@
           "reviewedAt": "2026-10-09T14:10:55.309Z",
           "retrySearches": [
             "futurum BaFin MiCA refusal EQS trading halt draft"
+          ]
+        },
+        "abfda675cf9bb2ba7634": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Kalshi US500 origin returned HTTP 403 to round 3; rounds 1-2 list FinanceMagnates plus MarketsMedia reads. Next: re-open those two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:10:57.412Z",
+          "retrySearches": [
+            "Kalshi US500 perpetual FinanceMagnates MarketsMedia draft"
           ]
         }
       },
