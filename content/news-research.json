@@ -18288,17 +18288,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "a004e01e7f72c40546e6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T14:04:39.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Securitize Oct 8 tokenized stocks launch on Solana already drafted as securitize-stocks in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:24:14.965Z",
+      "reason": "source-blocked",
+      "note": "The Block Securitize tokenized-stocks page returned HTTP 403 to round 3; same Oct 8 launch re-read in CoinDesk and Decrypt this round. Next: re-open PRNewswire release plus one outlet and draft securitize-stocks.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:20.167Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Securitize Stocks Solana PropAMM Jump second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "468524abbb1ccf6bfb49": {
       "source": "Cointelegraph",
@@ -36645,6 +36654,21 @@
           "reviewedAt": "2026-10-09T17:58:18.026Z",
           "retrySearches": [
             "Veridian Cardano Foundation spinout tokenized shares notice draft"
+          ]
+        },
+        "a004e01e7f72c40546e6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Block Securitize tokenized-stocks page returned HTTP 403 to round 3; same Oct 8 launch re-read in CoinDesk and Decrypt this round. Next: re-open PRNewswire release plus one outlet and draft securitize-stocks.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:20.167Z",
+          "retrySearches": [
+            "Securitize Stocks Solana PropAMM Jump second outlet draft"
           ]
         }
       },
