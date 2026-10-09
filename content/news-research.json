@@ -21972,17 +21972,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f83d48c4539685aa5b4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T07:20:02.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "CryptoSlate version of the same ESMA 90-day deadline drafted as esma-stablecoins.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:00:37.858Z",
+      "reason": "needs-corroboration",
+      "note": "CryptoSlate ESMA 90-day page fetched HTTP 200 but round 3 did not complete a full re-read; CoinDesk opinion account re-read with matching deadline. Next: full-read this plus ESMA PDF and draft esma-stablecoins.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:00:58.805Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "CryptoSlate ESMA 90-day deadline full read draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "208b88e90d866e0e3f32": {
       "source": "BeInCrypto",
@@ -37461,6 +37470,21 @@
           "reviewedAt": "2026-10-09T18:00:56.601Z",
           "retrySearches": [
             "Unchained ESMA MiCA wind-down full read draft esma-stablecoins"
+          ]
+        },
+        "1f83d48c4539685aa5b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CryptoSlate ESMA 90-day page fetched HTTP 200 but round 3 did not complete a full re-read; CoinDesk opinion account re-read with matching deadline. Next: full-read this plus ESMA PDF and draft esma-stablecoins.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:00:58.805Z",
+          "retrySearches": [
+            "CryptoSlate ESMA 90-day deadline full read draft"
           ]
         }
       },
