@@ -17661,18 +17661,14 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4cab21a62516fd28dba",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T13:06:24.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "verified-event",
-      "note": "Verified Securitize Oct 8 Securitize Stocks launch with 12 tickers and 1:1 entitlement structure across PRNewswire release, CoinDesk, Decrypt and Unchained.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read CoinDesk and Decrypt on Securitize Oct 8 Stocks launch with 12 tickers, Jump liquidity, USDC settlement and NYSE plans; draft not yet written. Next: re-open PRNewswire release and draft securitize-stocks.",
       "sourceChecks": [
-        {
-          "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
-          "outcome": "read"
-        },
         {
           "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
           "outcome": "read"
@@ -17680,13 +17676,9 @@
         {
           "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
           "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T13:22:04.198Z",
+      "reviewedAt": "2026-10-09T18:01:09.163Z",
       "articleSlug": "securitize-stocks",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -17694,7 +17686,11 @@
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "duplicateOf": "securitize-stocks"
+      "duplicateOf": "securitize-stocks",
+      "retrySearches": [
+        "Securitize Stocks launch PRNewswire draft securitize-stocks"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "5efcd88f74b3e3ca8122": {
       "source": "Bitcoin Magazine",
@@ -37549,6 +37545,25 @@
           "reviewedAt": "2026-10-09T18:01:07.215Z",
           "retrySearches": [
             "Unchained Securitize 1:1 tokens full read draft securitize-stocks"
+          ]
+        },
+        "b4cab21a62516fd28dba": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read CoinDesk and Decrypt on Securitize Oct 8 Stocks launch with 12 tickers, Jump liquidity, USDC settlement and NYSE plans; draft not yet written. Next: re-open PRNewswire release and draft securitize-stocks.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:09.163Z",
+          "retrySearches": [
+            "Securitize Stocks launch PRNewswire draft securitize-stocks"
           ]
         }
       },
