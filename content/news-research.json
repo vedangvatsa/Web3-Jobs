@@ -18233,20 +18233,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "d95fa2d052471948ef8d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T14:39:48.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same bunker-mode theme drafted as bunker-mode in this run.",
+      "note": "Same institutional bunker-mode analysis already drafted as bunker-mode in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:37.116Z",
+      "reviewedAt": "2026-10-09T11:23:17.516Z",
       "retrySearches": [
         "Project Eleven Quantus institutional custody Q1 2027 second outlet"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bunker-mode"
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "bbfbc980f72f30b4800c": {
       "source": "CoinDesk",
@@ -33157,6 +33158,15 @@
           "note": "Same bunker-mode holder warning already drafted as bunker-mode in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:23:15.704Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "d95fa2d052471948ef8d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same institutional bunker-mode analysis already drafted as bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:17.516Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
