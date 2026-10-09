@@ -22133,11 +22133,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e6c54727c05c87b7baf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T11:57:47.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "duplicate",
+      "note": "BeInCrypto cryptographer-angle version of the same AI wallet-math warning drafted as bunker-mode.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T14:03:33.076Z",
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e",
+      "lastReviewedDay": "2026-10-09"
     },
     "c95c0d7bc053ee036771": {
       "source": "Decrypt",
@@ -33754,6 +33761,15 @@
           "note": "Bankless version of the same Buterin no-rush warning drafted as bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:03:30.850Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "3e6c54727c05c87b7baf": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "BeInCrypto cryptographer-angle version of the same AI wallet-math warning drafted as bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:33.076Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
