@@ -9627,20 +9627,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1367eb14b95c67f35f43",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-07T03:31:41.749Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T03:00:00.000Z",
       "lastSeenAt": "2026-10-07T03:31:41.749Z",
       "reason": "duplicate",
-      "note": "Same Coinbase Deribit integration and Pro return drafted as coinbase-pro in this run.",
+      "note": "Coinbase Deribit integration and Pro return covered by coinbase-pro.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:12:23.242Z",
+      "reviewedAt": "2026-10-09T11:36:40.917Z",
       "retrySearches": [
         "Coinbase Pro return Deribit integration global exchange October 2026"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "coinbase-pro"
+      "duplicateOf": "coinbase-pro",
+      "mergedInto": "697bdf91d6c6d3bd5f3f"
     },
     "a2e229654bb11a6cff23": {
       "source": "BeInCrypto",
@@ -33390,6 +33391,15 @@
           "reviewedAt": "2026-10-09T11:36:38.499Z",
           "duplicateOf": "hyperliquid-base",
           "mergedInto": "dc93e29a726604392489"
+        },
+        "1367eb14b95c67f35f43": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Coinbase Deribit integration and Pro return covered by coinbase-pro.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:36:40.917Z",
+          "duplicateOf": "coinbase-pro",
+          "mergedInto": "697bdf91d6c6d3bd5f3f"
         }
       },
       "baselineSlugs": [
