@@ -12915,17 +12915,26 @@
         "CryptoSlate"
       ],
       "id": "0dedfbfff13ea6532054",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T08:53:27.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
-      "reason": "duplicate",
-      "note": "CoinDesk version of the same Robinhood 25M dollar BTC buy drafted as robinhood-bitcoin.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:48.770Z",
+      "reason": "needs-corroboration",
+      "note": "CoinDesk Robinhood 25M buy page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Unchained and draft robinhood-bitcoin.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/robinhood-buys-bitcoin-balance-sheet/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:59:59.064Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "CoinDesk Robinhood 25M buy full read draft robinhood-bitcoin"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "d2758d9ea1f508acaf9a": {
       "source": "CoinJournal",
@@ -37182,6 +37191,21 @@
           "reviewedAt": "2026-10-09T17:59:37.727Z",
           "retrySearches": [
             "Robinhood 25M Kerbrat Unchained CoinDesk full read draft"
+          ]
+        },
+        "0dedfbfff13ea6532054": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CoinDesk Robinhood 25M buy page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Unchained and draft robinhood-bitcoin.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/robinhood-buys-bitcoin-balance-sheet/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:59.064Z",
+          "retrySearches": [
+            "CoinDesk Robinhood 25M buy full read draft robinhood-bitcoin"
           ]
         }
       },
