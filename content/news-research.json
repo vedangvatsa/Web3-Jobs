@@ -14678,17 +14678,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "43692630e3e532c8981a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T10:05:11.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same Cardano programmable-token launch drafted as cardano-standard in this run.",
+      "note": "Cardano standard covered by cardano-standard.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:18.662Z",
+      "reviewedAt": "2026-10-09T11:43:32.902Z",
       "duplicateOf": "cardano-standard",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "47785a59bf9afa150ab7"
     },
     "256cca266632a898b8b3": {
       "source": "Unchained",
@@ -33693,6 +33694,15 @@
           "note": "Cardano token standard covered by cardano-standard.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:43:30.675Z",
+          "duplicateOf": "cardano-standard",
+          "mergedInto": "47785a59bf9afa150ab7"
+        },
+        "43692630e3e532c8981a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cardano standard covered by cardano-standard.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:32.902Z",
           "duplicateOf": "cardano-standard",
           "mergedInto": "47785a59bf9afa150ab7"
         }
