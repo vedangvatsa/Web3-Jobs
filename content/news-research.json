@@ -14840,23 +14840,23 @@
       "id": "bbb488f6b4d099639f78",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T03:40:39.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "source-blocked",
-      "note": "Muneeb Ali Stacks IP-transfer CEO plan seen only in blocked Defiant origin; needs proposal post or second outlet.",
+      "note": "Muneeb IP transfer pledge seen only in blocked origin; needs Stacks forum post or second outlet with plan details.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:19:42.941Z",
+      "reviewedAt": "2026-10-09T04:17:19.451Z",
       "retrySearches": [
-        "Muneeb Ali Stacks CEO endowment IP transfer vote"
+        "Muneeb Ali IP transfer Stacks endowment CEO plan"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "519cd5b2882740ee6baf": {
       "source": "CoinJournal",
@@ -32128,6 +32128,21 @@
           "reviewedAt": "2026-10-09T04:17:17.523Z",
           "retrySearches": [
             "Jito JTX mobile app perps integration winter"
+          ]
+        },
+        "bbb488f6b4d099639f78": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Muneeb IP transfer pledge seen only in blocked origin; needs Stacks forum post or second outlet with plan details.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:19.451Z",
+          "retrySearches": [
+            "Muneeb Ali IP transfer Stacks endowment CEO plan"
           ]
         }
       },
