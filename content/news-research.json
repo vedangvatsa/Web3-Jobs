@@ -18844,24 +18844,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "647681ddbdfa617274b4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T19:10:07.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "WhiteBIT Oct 8 Lightning integration via Voltage verified in Bitcoin Magazine and FinanceWire release; deposit and withdrawal fees confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Bitcoin Magazine WhiteBIT Lightning headline; single outlet so far. Next: find a WhiteBIT notice or second outlet and draft.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
           "outcome": "read"
-        },
-        {
-          "url": "https://financewire.com/2026/10/08/whitebit-launches-bitcoin-lightning-network-support-powered-by-voltage/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:41.615Z",
+      "reviewedAt": "2026-10-09T14:14:30.100Z",
       "articleSlug": "whitebit-lightning",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -18875,7 +18871,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "WhiteBIT Lightning integration notice draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "1988b3076bc270e455d3": {
       "source": "Decrypt",
@@ -34696,6 +34696,21 @@
           "reviewedAt": "2026-10-09T14:14:27.089Z",
           "retrySearches": [
             "Europol migration years two outlets draft"
+          ]
+        },
+        "647681ddbdfa617274b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Bitcoin Magazine WhiteBIT Lightning headline; single outlet so far. Next: find a WhiteBIT notice or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:30.100Z",
+          "retrySearches": [
+            "WhiteBIT Lightning integration notice draft"
           ]
         }
       },
