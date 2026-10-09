@@ -22947,11 +22947,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b064faa363109980128f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:28:10.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin 1M by 2030 CEO prediction is price forecast with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:20.802Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "b52bf7e4b9b1afb988e9": {
       "source": "Decrypt",
@@ -35977,6 +35982,13 @@
           "note": "Berkshire Hathaway of Bitcoin CEO video is interview opinion with no reportable development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:18.937Z"
+        },
+        "b064faa363109980128f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin 1M by 2030 CEO prediction is price forecast with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:20.802Z"
         }
       },
       "baselineSlugs": [
