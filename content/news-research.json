@@ -13802,28 +13802,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b3b9cc46940d7e87b52",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T16:55:22.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "GSR 100M Hare vault business verified in CoinDesk, DeFiPrime and CryptoBriefing. Draft 759 words, audits clean.",
+      "reason": "source-blocked",
+      "note": "Defiant GSR-Hare origin returned HTTP 403 to round 3; pairs with the CoinDesk vault piece that stayed reachable. Next: full-read CoinDesk plus a second outlet and draft.",
       "sourceChecks": [
         {
-          "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
-          "outcome": "read"
-        },
-        {
-          "url": "https://defiprime.com/gsr-launches-hare-onchain-vault-curation",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/gsr-commits-100m-hare-onchain-vault/",
-          "outcome": "read"
+          "url": "https://thedefiant.io/news/defi/gsr-commits-100-million-to-hare-vault-business",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T12:07:26.477Z",
+      "reviewedAt": "2026-10-09T14:12:11.218Z",
       "articleSlug": "gsr-hare",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -13832,7 +13824,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "GSR Hare vault 100M second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "a9116bc759b65e01b382": {
       "source": "The Defiant",
@@ -34299,6 +34295,21 @@
           "note": "Single-outlet vendor stress-test claim of 40.6M TPS on Sui offchain tunnels with no independent measurement or launch event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:12:08.991Z"
+        },
+        "1b3b9cc46940d7e87b52": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant GSR-Hare origin returned HTTP 403 to round 3; pairs with the CoinDesk vault piece that stayed reachable. Next: full-read CoinDesk plus a second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/gsr-commits-100-million-to-hare-vault-business",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:12:11.218Z",
+          "retrySearches": [
+            "GSR Hare vault 100M second outlet draft"
+          ]
         }
       },
       "baselineSlugs": [
