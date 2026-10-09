@@ -24070,11 +24070,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "bf34f2622a6f3f3d5bbb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:30:00.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "not-a-concrete-event",
+      "note": "Cointelegraph magazine feature aggregates Interior Ministry 90-case stats with Chainalysis and Gart.io analysis; trend piece with no launch, ruling, filing or hack event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:01:37.957Z",
+      "retrySearches": [
+        "France wrench attacks second outlet draft"
+      ],
+      "lastReviewedDay": "2026-10-09"
     },
     "625750d26ecc321a617e": {
       "source": "Unchained",
@@ -37789,6 +37802,21 @@
           "reviewedAt": "2026-10-09T18:01:35.705Z",
           "retrySearches": [
             "HSBC Ant Digital AI agent micropayment PRNewswire release draft"
+          ]
+        },
+        "bf34f2622a6f3f3d5bbb": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Cointelegraph magazine feature aggregates Interior Ministry 90-case stats with Chainalysis and Gart.io analysis; trend piece with no launch, ruling, filing or hack event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:37.957Z",
+          "retrySearches": [
+            "France wrench attacks second outlet draft"
           ]
         }
       },
