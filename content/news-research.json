@@ -13931,13 +13931,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b3b9cc46940d7e87b52",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T16:55:22.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "GSR 100M Hare vault business verified in CoinDesk, DeFiPrime and CryptoBriefing; Turtle roles and Aave plus gold vault plans confirmed.",
+      "note": "GSR 100M Hare vault business verified in CoinDesk, DeFiPrime and CryptoBriefing. Draft 759 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
@@ -13952,7 +13952,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:10.808Z",
+      "reviewedAt": "2026-10-09T12:07:26.477Z",
       "articleSlug": "gsr-hare",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -34086,6 +34086,27 @@
           ],
           "reviewedAt": "2026-10-09T12:07:24.579Z",
           "articleSlug": "sui-tunnels"
+        },
+        "1b3b9cc46940d7e87b52": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "GSR 100M Hare vault business verified in CoinDesk, DeFiPrime and CryptoBriefing. Draft 759 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defiprime.com/gsr-launches-hare-onchain-vault-curation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/gsr-commits-100m-hare-onchain-vault/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T12:07:26.477Z",
+          "articleSlug": "gsr-hare"
         }
       },
       "baselineSlugs": [
