@@ -21383,13 +21383,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "35543151e27a95014f9d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:11:51.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "Verified Empire Market co-creator 40-year sentence with 1,230 BTC forfeiture across Decrypt and CoinDesk plus TRM Labs case review and the DOJ release page; same case confirmed in both outlets.",
+      "note": "Hamilton 40-year sentence, 1,230 BTC forfeiture and Pavey 1,584 BTC verified across Decrypt, CoinDesk and TRM Labs background; DOJ release bot-blocked to automated fetch.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
@@ -21398,10 +21398,18 @@
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.trmlabs.com/post/two-charged-with-operating-430-million-darknet-market-empire-in-investigation-led-by-hsi-new-york",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.justice.gov/usao-ndil/pr/co-creator-dark-web-marketplace-sentenced-40-years-federal-prison",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T11:11:56.121Z",
-      "articleSlug": "empire-sentence",
+      "reviewedAt": "2026-10-09T13:59:28.282Z",
+      "articleSlug": "empire-market",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
@@ -33370,6 +33378,31 @@
           "note": "MEXC Payward TOKEN2049 collaboration piece is conference promotion with no reportable launch, deal terms or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:27:54.772Z"
+        },
+        "35543151e27a95014f9d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Hamilton 40-year sentence, 1,230 BTC forfeiture and Pavey 1,584 BTC verified across Decrypt, CoinDesk and TRM Labs background; DOJ release bot-blocked to automated fetch.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.trmlabs.com/post/two-charged-with-operating-430-million-darknet-market-empire-in-investigation-led-by-hsi-new-york",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.justice.gov/usao-ndil/pr/co-creator-dark-web-marketplace-sentenced-40-years-federal-prison",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T13:59:28.282Z",
+          "articleSlug": "empire-market"
         }
       },
       "baselineSlugs": [
