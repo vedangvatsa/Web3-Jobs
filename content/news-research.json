@@ -18871,17 +18871,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "823e99f6e2c7e227d089",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T18:06:41.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same NFL prediction-market pushback drafted as nfl-kalshi in this run.",
+      "note": "NFL prediction-markets story covered by nfl-kalshi.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:41.805Z",
+      "reviewedAt": "2026-10-09T11:43:49.276Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "dd25110442b0f822a9d6": {
       "source": "CryptoSlate",
@@ -33773,6 +33774,15 @@
           "note": "NFL Kalshi SCOTUS story covered by nfl-kalshi.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:43:47.170Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
+        },
+        "823e99f6e2c7e227d089": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "NFL prediction-markets story covered by nfl-kalshi.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:49.276Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
         }
