@@ -11740,17 +11740,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7d69f046dbb94aa723d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T20:46:56.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Robinhood 25M BTC buy covered by robinhood-bitcoin.",
+      "note": "BeInCrypto version of the same Robinhood 25M dollar BTC buy drafted as robinhood-bitcoin.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:43:12.035Z",
+      "reviewedAt": "2026-10-09T14:03:44.081Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "e04537f91ce4996c0500"
     },
     "5e3509b7c11a0d8b4664": {
       "source": "The Defiant",
@@ -33782,6 +33783,15 @@
           "reviewedAt": "2026-10-09T14:03:35.184Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "f7d69f046dbb94aa723d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "BeInCrypto version of the same Robinhood 25M dollar BTC buy drafted as robinhood-bitcoin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:44.081Z",
+          "duplicateOf": "robinhood-bitcoin",
+          "mergedInto": "e04537f91ce4996c0500"
         }
       },
       "baselineSlugs": [
