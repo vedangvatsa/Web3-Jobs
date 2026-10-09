@@ -16270,21 +16270,21 @@
       "firstSeenAt": "2026-10-08T11:28:39.109Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "expiresAt": "2026-10-11T00:00:00.000Z",
-      "attempts": 1,
-      "reason": "source-blocked",
-      "note": "Read Bitcoin Foundation Oct 8 report of 9261 BTC to Coinbase Prime per Galaxy Research; Cointelegraph version seen in sidebar but not yet opened for corroboration.",
+      "attempts": 2,
+      "reason": "needs-corroboration",
+      "note": "770M BTC to Coinbase Prime figure differs from drafted 1B move; needs Arkham data plus second outlet to confirm distinct transfer.",
       "sourceChecks": [
         {
           "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:28:44.520Z",
+      "reviewedAt": "2026-10-09T04:17:52.664Z",
       "retrySearches": [
-        "Cointelegraph US government 770M Bitcoin Coinbase Prime Galaxy Research October 2026"
+        "US government moves 770M bitcoin Coinbase Prime October 2026"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "392872e824f8556b402f": {
       "source": "CoinDesk",
@@ -32262,6 +32262,21 @@
           "reviewedAt": "2026-10-09T04:17:50.768Z",
           "retrySearches": [
             "Hyperliquid Labs wallet distributes 330 million HYPE"
+          ]
+        },
+        "ce6a97a6514922530586": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "770M BTC to Coinbase Prime figure differs from drafted 1B move; needs Arkham data plus second outlet to confirm distinct transfer.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:52.664Z",
+          "retrySearches": [
+            "US government moves 770M bitcoin Coinbase Prime October 2026"
           ]
         }
       },
