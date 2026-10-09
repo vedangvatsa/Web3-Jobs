@@ -1797,10 +1797,11 @@
           "url": "https://www.instagram.com/reel/DeRaAzhjZeP/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "London, United Kingdom\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-09T11:31:27.865Z",
-          "postId": "6ac8d0915e9e68eeb1dca0fa"
+          "postId": "6ac8d0915e9e68eeb1dca0fa",
+          "url": "https://www.youtube.com/watch?v=XYQbC9vtfnw"
         }
       }
     },
