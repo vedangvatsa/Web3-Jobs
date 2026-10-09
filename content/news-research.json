@@ -12492,17 +12492,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "6fdc2a0451102e6067f0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T12:16:58.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Bitcoin Magazine version of the same Robinhood balance-sheet buy drafted as robinhood-bitcoin.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:46.421Z",
+      "reason": "needs-corroboration",
+      "note": "Bitcoin Magazine Robinhood buy page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto and Block versions returned 403. Next: full-read this plus Unchained and draft robinhood-bitcoin.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/robinhood-buys-bitcoin-balance-sheet/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:59:35.836Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Robinhood bitcoin balance sheet Bitcoin Magazine full read draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "5ff173456b73cda92633": {
       "source": "CoinDesk",
@@ -37147,6 +37156,21 @@
           "reviewedAt": "2026-10-09T17:59:33.868Z",
           "retrySearches": [
             "Bankless Buterin no-rush warning full read draft bunker-mode"
+          ]
+        },
+        "6fdc2a0451102e6067f0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Bitcoin Magazine Robinhood buy page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto and Block versions returned 403. Next: full-read this plus Unchained and draft robinhood-bitcoin.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/robinhood-buys-bitcoin-balance-sheet/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:35.836Z",
+          "retrySearches": [
+            "Robinhood bitcoin balance sheet Bitcoin Magazine full read draft"
           ]
         }
       },
