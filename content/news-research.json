@@ -22085,11 +22085,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f46b0c4a638dbaf5f575",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T12:23:54.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk BitGo-suit headline now naming WLFI-linked firms and the 141M figure; single outlet so far. Next: find the filing or a BitGo response and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:20.734Z",
+      "retrySearches": [
+        "BitGo 141M suit filing response draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "322bfa081991e4298e14": {
       "source": "BeInCrypto",
@@ -35179,6 +35193,21 @@
           "reviewedAt": "2026-10-09T14:17:18.445Z",
           "retrySearches": [
             "Gate Visa crypto card announcement draft"
+          ]
+        },
+        "f46b0c4a638dbaf5f575": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk BitGo-suit headline now naming WLFI-linked firms and the 141M figure; single outlet so far. Next: find the filing or a BitGo response and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:20.734Z",
+          "retrySearches": [
+            "BitGo 141M suit filing response draft"
           ]
         }
       },
