@@ -21158,11 +21158,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "27f81ea86adb75b79871",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T04:21:36.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "verified-event",
+      "note": "Verified XRPL bank and stablecoin controls with PermissionDelegation live and token-minting fix pending votes across CoinDesk, Unchained and the XRPL amendments page.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T11:12:20.657Z",
+      "articleSlug": "xrpl-controls",
+      "lastReviewedDay": "2026-10-09"
     },
     "6fa8e2bd1170b0fe28bc": {
       "source": "CryptoSlate",
@@ -32673,6 +32688,23 @@
           ],
           "reviewedAt": "2026-10-09T11:12:18.791Z",
           "articleSlug": "mara-move"
+        },
+        "27f81ea86adb75b79871": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified XRPL bank and stablecoin controls with PermissionDelegation live and token-minting fix pending votes across CoinDesk, Unchained and the XRPL amendments page.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:12:20.657Z",
+          "articleSlug": "xrpl-controls"
         }
       },
       "baselineSlugs": [
