@@ -24356,11 +24356,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "03dc3f4f17430804d40c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T17:36:26.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin rebound piece is price action plus trader downside predictions; no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:41:25.675Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "351397f78573a7a81270": {
       "source": "BeInCrypto",
@@ -38857,6 +38862,13 @@
           "note": "NEAR 83 percent four-week gain piece is price performance with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:41:23.900Z"
+        },
+        "03dc3f4f17430804d40c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin rebound piece is price action plus trader downside predictions; no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:41:25.675Z"
         }
       },
       "baselineSlugs": [
