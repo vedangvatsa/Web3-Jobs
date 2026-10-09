@@ -13736,13 +13736,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "47cf80c8527a6cb00bc3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T18:59:32.000Z",
       "lastSeenAt": "2026-10-08T17:58:12.592Z",
       "reason": "verified-event",
-      "note": "Wells Fargo Payward liquidity talks verified in CoinDesk and crypto.news; Wyoming entity, may-not-close status and Nasdaq context confirmed.",
+      "note": "Wells Fargo Payward liquidity talks verified in CoinDesk and crypto.news; hedged as talks, may-not-close. Draft 827 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
@@ -13753,7 +13753,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:12:03.001Z",
+      "reviewedAt": "2026-10-09T12:07:22.555Z",
       "retrySearches": [
         "Wells Fargo Payward Kraken crypto trading confirmation"
       ],
@@ -34048,6 +34048,23 @@
           ],
           "reviewedAt": "2026-10-09T12:07:20.789Z",
           "articleSlug": "mercury-sale"
+        },
+        "47cf80c8527a6cb00bc3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Wells Fargo Payward liquidity talks verified in CoinDesk and crypto.news; hedged as talks, may-not-close. Draft 827 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/wells-fargo-talks-with-kraken-parent-about-crypto-trading/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T12:07:22.555Z",
+          "articleSlug": "wells-kraken"
         }
       },
       "baselineSlugs": [
