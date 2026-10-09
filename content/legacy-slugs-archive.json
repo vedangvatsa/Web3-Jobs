@@ -136431,5 +136431,102 @@
     "company": "Open Standard",
     "title": "Founding Product Engineer",
     "newSlug": "pm274"
+  },
+  "eng506": {
+    "id": "8267736",
+    "link": "https://stripe.com/jobs/search?gh_jid=8267736",
+    "company": "Stripe",
+    "title": "Software Engineer"
+  },
+  "mkt97": {
+    "id": "8014747003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8014747003",
+    "company": "OKX",
+    "title": "Head of Marketing Compliance"
+  },
+  "sls224": {
+    "id": "5445011008",
+    "link": "http://block.xyz/careers/jobs/5445011008?gh_jid=5445011008",
+    "company": "Block",
+    "title": "Senior Sales Account Executive"
+  },
+  "mgr139": {
+    "id": "8241677",
+    "link": "https://ripple.com/careers/all-jobs/job/8241677?gh_jid=8241677",
+    "company": "Ripple",
+    "title": "Customer Success Senior Manager"
+  },
+  "sls254": {
+    "id": "8238743",
+    "link": "https://stripe.com/jobs/search?gh_jid=8238743",
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower"
+  },
+  "mgr61": {
+    "id": "8816349002",
+    "link": "https://complyadvantage.com/careers/jobs/8816349002?gh_jid=8816349002",
+    "company": "ComplyAdvantage",
+    "title": "Senior Customer Success Manager, Enterprise"
+  },
+  "sec99": {
+    "id": "8810604002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8810604002?gh_jid=8810604002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer"
+  },
+  "eng493": {
+    "id": "4971542101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971542101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "eng497": {
+    "id": "8782247002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "associate86": {
+    "id": "7982026003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7982026003",
+    "company": "a16z crypto",
+    "title": "Partner 6, Executive Assistant, Crypto"
+  },
+  "eng496": {
+    "id": "8759009002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8759009002?gh_jid=8759009002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "sls256": {
+    "id": "4698041006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698041006",
+    "company": "Fireblocks",
+    "title": "Sales Director"
+  },
+  "pm267": {
+    "id": "4928053101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4928053101",
+    "company": "Bybit",
+    "title": "Senior Growth Product Manager - User Activation"
+  },
+  "eng485": {
+    "id": "8021647",
+    "link": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
+    "company": "Coinbase",
+    "title": "Senior Software Engineer"
+  },
+  "mgr168": {
+    "id": "6016480004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6016480004",
+    "company": "Galaxy Digital",
+    "title": "Technical Program Manager"
+  },
+  "pm274": {
+    "id": "4971231101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971231101",
+    "company": "Bybit",
+    "title": "Senior Growth Product Manager - User Activation",
+    "newSlug": "pm278"
   }
 }
