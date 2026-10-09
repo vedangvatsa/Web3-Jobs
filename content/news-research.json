@@ -11725,17 +11725,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7d69f046dbb94aa723d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T20:46:56.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "duplicate",
-      "note": "BeInCrypto version of the same Robinhood 25M dollar BTC buy drafted as robinhood-bitcoin.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:44.081Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto Robinhood BTC buy page returned HTTP 403 to round 3; same 25M dollar buy readable in Unchained, CoinDesk and Bitcoin Magazine versions. Next: re-open two readable outlets and draft robinhood-bitcoin.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/robinhood-buys-bitcoin-balance-sheet/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:01.201Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Robinhood 25M bitcoin Kerbrat DAS Asia two readable outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "5e3509b7c11a0d8b4664": {
       "source": "The Defiant",
@@ -36501,6 +36510,21 @@
           "reviewedAt": "2026-10-09T17:57:59.221Z",
           "retrySearches": [
             "AI wallet math warning cryptographer two readable outlets draft"
+          ]
+        },
+        "f7d69f046dbb94aa723d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto Robinhood BTC buy page returned HTTP 403 to round 3; same 25M dollar buy readable in Unchained, CoinDesk and Bitcoin Magazine versions. Next: re-open two readable outlets and draft robinhood-bitcoin.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/robinhood-buys-bitcoin-balance-sheet/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:01.201Z",
+          "retrySearches": [
+            "Robinhood 25M bitcoin Kerbrat DAS Asia two readable outlets draft"
           ]
         }
       },
