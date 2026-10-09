@@ -18301,23 +18301,23 @@
       "id": "32b36bec7d323b2e8fa7",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T12:54:21.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 read Cointelegraph Oct 8 EU Parliament nonbinding anti-corruption resolution naming crypto; needs Parliament release or second outlet.",
+      "note": "EU lawmakers anti-corruption crypto push seen only in single outlet; needs parliament record plus second outlet.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T18:17:24.446Z",
+      "reviewedAt": "2026-10-09T04:18:44.647Z",
       "retrySearches": [
-        "EU Parliament anti-corruption crypto resolution second outlet"
+        "EU lawmakers crypto anti-corruption agenda parliament"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "a9f2bc15fdd302863c79": {
       "source": "BeInCrypto",
@@ -32382,6 +32382,21 @@
           "reviewedAt": "2026-10-09T04:18:38.636Z",
           "retrySearches": [
             "Astroport ends tokenholder governance Neutron Terra"
+          ]
+        },
+        "32b36bec7d323b2e8fa7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "EU lawmakers anti-corruption crypto push seen only in single outlet; needs parliament record plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:18:44.647Z",
+          "retrySearches": [
+            "EU lawmakers crypto anti-corruption agenda parliament"
           ]
         }
       },
