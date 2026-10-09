@@ -19743,11 +19743,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "daed728f3277e7307bc1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T21:01:42.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "not-a-concrete-event",
+      "note": "Starknet L1 shift is only floated consideration at TOKEN2049 with no governance vote, decision or schedule; proposal chatter, not an event.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/starknet-weighs-layer-1-shift-to-pursue-quantum-security-by-2027",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:16:12.430Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f5851954e1037664b42a": {
       "source": "BeInCrypto",
@@ -31771,6 +31781,18 @@
           "reviewedAt": "2026-10-09T04:15:50.984Z",
           "duplicateOf": "stanchart-custody",
           "mergedInto": "0bd3fb37178624c073b0"
+        },
+        "daed728f3277e7307bc1": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Starknet L1 shift is only floated consideration at TOKEN2049 with no governance vote, decision or schedule; proposal chatter, not an event.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/starknet-weighs-layer-1-shift-to-pursue-quantum-security-by-2027",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:16:12.430Z"
         }
       },
       "baselineSlugs": [
