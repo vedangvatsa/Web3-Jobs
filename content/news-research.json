@@ -19366,13 +19366,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "3c7573a4e5dbe80c2c0a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T21:22:58.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "verified-event",
-      "note": "Blumenthal Oct 8 Cantor-Tether letter verified in CoinDesk and Cointelegraph; records asks, Oct 23 deadline, custody stake and Iran-report context confirmed.",
+      "note": "Verified Blumenthal records request to Cantor Fitzgerald on Tether stake and custody across CoinDesk, Cointelegraph, Unchained and the Senate primary; inquiry hedged as sought, not a finding.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
@@ -19381,9 +19381,13 @@
         {
           "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
           "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:59.019Z",
+      "reviewedAt": "2026-10-09T11:22:44.460Z",
       "articleSlug": "cantor-probe",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -32990,6 +32994,27 @@
           ],
           "reviewedAt": "2026-10-09T11:22:39.351Z",
           "articleSlug": "esma-deadline"
+        },
+        "3c7573a4e5dbe80c2c0a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Blumenthal records request to Cantor Fitzgerald on Tether stake and custody across CoinDesk, Cointelegraph, Unchained and the Senate primary; inquiry hedged as sought, not a finding.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:22:44.460Z",
+          "articleSlug": "cantor-probe"
         }
       },
       "baselineSlugs": [
