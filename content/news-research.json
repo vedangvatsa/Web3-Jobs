@@ -24628,11 +24628,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7ef426982303d62000e0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T21:37:43.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "source-blocked",
+      "note": "Aero Oct 21 merger terms seen only in blocked Defiant origin; Sept 26 merger announcement is stale.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:41:01.211Z",
+      "retrySearches": [
+        "Aero merger October 21 token conversion Coinbase migration second outlet"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "af458fb1bbabce80a040": {
       "source": "The Defiant",
@@ -38629,6 +38643,21 @@
           "reviewedAt": "2026-10-09T23:40:59.407Z",
           "retrySearches": [
             "Tether freeze stolen USDT Ledger CryptoBilis theft MistTrack confirmation"
+          ]
+        },
+        "7ef426982303d62000e0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Aero Oct 21 merger terms seen only in blocked Defiant origin; Sept 26 merger announcement is stale.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:41:01.211Z",
+          "retrySearches": [
+            "Aero merger October 21 token conversion Coinbase migration second outlet"
           ]
         }
       },
