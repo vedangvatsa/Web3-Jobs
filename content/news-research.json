@@ -11104,7 +11104,8 @@
       "articleSlug": "samsung-usdc",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ]
     },
     "7c05eec0aa4cd9623abd": {
@@ -16762,7 +16763,8 @@
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ]
     },
     "bbda3002c00d1edb824d": {
@@ -16827,7 +16829,8 @@
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ]
     },
     "793e33cc45c8a11bda37": {
@@ -20696,7 +20699,11 @@
       "reviewedAt": "2026-10-09T23:38:54.442Z",
       "duplicateOf": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
-      "articleSlug": "thailand-etfs"
+      "articleSlug": "thailand-etfs",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+      ]
     },
     "111c40e3f46ad4991183": {
       "source": "CoinJournal",
@@ -22766,7 +22773,8 @@
       "articleSlug": "blockchain-cftc",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ]
     },
     "86f3a145bde0d3311251": {
@@ -22900,7 +22908,8 @@
       "articleSlug": "mashinsky-ban",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ]
     },
     "f3458e62d04228c30699": {
@@ -23607,7 +23616,8 @@
       "articleSlug": "dwf-bitgo",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ]
     },
     "f81abcaa78c20b29893e": {
@@ -23789,7 +23799,8 @@
       "articleSlug": "ledger-drain",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ]
     },
     "f2ce0a54f4786cb8271f": {
@@ -24181,7 +24192,11 @@
       ],
       "reviewedAt": "2026-10-09T23:39:14.710Z",
       "articleSlug": "cantor-tether",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+      ]
     },
     "a391370519699e67f1d6": {
       "source": "Bankless",
@@ -24287,7 +24302,11 @@
       ],
       "reviewedAt": "2026-10-09T23:39:20.812Z",
       "articleSlug": "thorchain-freeze",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+      ]
     },
     "08c574ea80326a658ab0": {
       "source": "The Defiant",
@@ -24598,7 +24617,11 @@
       ],
       "reviewedAt": "2026-10-09T23:39:12.825Z",
       "articleSlug": "cftc-swaps",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+      ]
     },
     "94b717cda7c41ca127f6": {
       "source": "CryptoSlate",
@@ -24921,7 +24944,11 @@
       ],
       "reviewedAt": "2026-10-09T23:39:19.072Z",
       "articleSlug": "iran-seizure",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+      ]
     },
     "504c54edc7c703968bcd": {
       "source": "Cointelegraph",
@@ -39226,7 +39253,11 @@
         ],
         "total": 119,
         "checkedAt": "2026-10-09T23:24:36.621Z"
-      }
+      },
+      "validationErrors": [
+        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+      ]
     }
   }
 }
