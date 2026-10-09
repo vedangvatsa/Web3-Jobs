@@ -21197,11 +21197,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0fbcbb3af0a65dee6c5f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T05:20:19.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CryptoSlate Core Lightning patch headline; single outlet so far. Next: find the release notes or second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:04.843Z",
+      "retrySearches": [
+        "Core Lightning patch release notes draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "11a30808d0c23996da58": {
       "source": "The Defiant",
@@ -35013,6 +35027,21 @@
           "reviewedAt": "2026-10-09T14:16:36.643Z",
           "retrySearches": [
             "Coinbase 10x spot leverage notice draft"
+          ]
+        },
+        "0fbcbb3af0a65dee6c5f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CryptoSlate Core Lightning patch headline; single outlet so far. Next: find the release notes or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:04.843Z",
+          "retrySearches": [
+            "Core Lightning patch release notes draft"
           ]
         }
       },
