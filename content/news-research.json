@@ -20798,11 +20798,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b22ff44197a4ebb9636a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:23:45.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "duplicate",
+      "note": "Same Blumenthal records request on Cantor Tether stake already drafted as cantor-probe in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T11:23:36.214Z",
+      "duplicateOf": "cantor-probe",
+      "mergedInto": "3c7573a4e5dbe80c2c0a",
+      "lastReviewedDay": "2026-10-09"
     },
     "4c8e5464d8009c02f491": {
       "source": "Unchained",
@@ -33243,6 +33250,15 @@
           "note": "Same Blumenthal Cantor Fitzgerald Tether inquiry already drafted as cantor-probe in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:23:34.291Z",
+          "duplicateOf": "cantor-probe",
+          "mergedInto": "3c7573a4e5dbe80c2c0a"
+        },
+        "b22ff44197a4ebb9636a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blumenthal records request on Cantor Tether stake already drafted as cantor-probe in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:36.214Z",
           "duplicateOf": "cantor-probe",
           "mergedInto": "3c7573a4e5dbe80c2c0a"
         }
