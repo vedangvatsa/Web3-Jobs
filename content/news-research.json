@@ -19375,17 +19375,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "c69fbe223cd6bc09e10f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T18:11:29.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "Bankless version of the same Buterin no-rush warning drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:30.850Z",
+      "reason": "needs-corroboration",
+      "note": "Bankless Buterin warning page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Block version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:59:33.868Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Bankless Buterin no-rush warning full read draft bunker-mode"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "7b9a11ab88206c8c738a": {
       "source": "BeInCrypto",
@@ -37123,6 +37132,21 @@
           "reviewedAt": "2026-10-09T17:59:25.872Z",
           "retrySearches": [
             "CoinDesk institutional bunker mode full read draft"
+          ]
+        },
+        "c69fbe223cd6bc09e10f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Bankless Buterin warning page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Block version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:33.868Z",
+          "retrySearches": [
+            "Bankless Buterin no-rush warning full read draft bunker-mode"
           ]
         }
       },
