@@ -19983,11 +19983,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "51bfcd3d9bb745d73ab9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T03:00:33.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "opinion",
+      "note": "AI macro headwind piece is analysis and opinion built on Fed minutes and market theses; no concrete crypto event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ai-may-be-keeping-bitcoins-biggest-macro-headwind-alive-after-the-fed-stops-hiking/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:16:16.553Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f886a0387692eb2fc150": {
       "source": "CryptoSlate",
@@ -31815,6 +31825,18 @@
             }
           ],
           "reviewedAt": "2026-10-09T04:16:14.535Z"
+        },
+        "51bfcd3d9bb745d73ab9": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "AI macro headwind piece is analysis and opinion built on Fed minutes and market theses; no concrete crypto event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ai-may-be-keeping-bitcoins-biggest-macro-headwind-alive-after-the-fed-stops-hiking/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:16:16.553Z"
         }
       },
       "baselineSlugs": [
