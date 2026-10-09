@@ -11260,13 +11260,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "97826309e5398265914f",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T15:56:49.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 verified Lido Lend Morpho-fork proposal targeting Q4 across Lido forum and CryptoBriefing; draft not yet written, frame as proposal not launch.",
+      "reason": "verified-event",
+      "note": "Lido Lend Morpho-fork proposal targeting Q4 verified in Lido governance forum and CryptoBriefing; draft frames it strictly as a proposal.",
       "sourceChecks": [
         {
           "url": "https://research.lido.fi/t/unveiling-lido-lend-security-first-lending/11987",
@@ -11277,12 +11277,12 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T04:19:16.751Z",
+      "reviewedAt": "2026-10-09T04:10:21.809Z",
       "retrySearches": [
         "Lido Lend governance vote parameters audits"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "articleSlug": "lido-lend"
     },
     "0955147a83933017387f": {
       "source": "Decrypt",
@@ -30029,6 +30029,23 @@
           ],
           "reviewedAt": "2026-10-09T04:10:19.766Z",
           "articleSlug": "ruble-accounts"
+        },
+        "97826309e5398265914f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Lido Lend Morpho-fork proposal targeting Q4 verified in Lido governance forum and CryptoBriefing; draft frames it strictly as a proposal.",
+          "sourceChecks": [
+            {
+              "url": "https://research.lido.fi/t/unveiling-lido-lend-security-first-lending/11987",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/lido-lend-morpho-blue-fork-q4/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:21.809Z",
+          "articleSlug": "lido-lend"
         }
       },
       "baselineSlugs": [
