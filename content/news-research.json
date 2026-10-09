@@ -19748,32 +19748,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "7407ca7e3e0f94a9efa3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T21:05:54.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Ondo Private Markets live with OpenAI note verified in Ondo blog, product page and CryptoTicker; exposure-only terms and eligibility confirmed.",
+      "reason": "source-blocked",
+      "note": "Defiant Ondo OpenAI-note origin returned HTTP 403 to round 3 with no second outlet in queue. Next: find an Ondo notice or openable outlet and draft.",
       "sourceChecks": [
-        {
-          "url": "https://ondo.finance/blog/introducing-ondo-private-markets",
-          "outcome": "read"
-        },
-        {
-          "url": "https://ondo.finance/private-markets",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptoticker.io/en/ondo-private-markets-launch",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:12:09.030Z",
+      "reviewedAt": "2026-10-09T14:14:42.776Z",
       "articleSlug": "ondo-note",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -19787,7 +19775,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Ondo OpenAI private-market note outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "0398136c795f44bd34ed": {
       "source": "The Defiant",
@@ -34781,6 +34773,21 @@
           "reviewedAt": "2026-10-09T14:14:40.600Z",
           "retrySearches": [
             "SAP USDC Circle Mint corroboration draft"
+          ]
+        },
+        "7407ca7e3e0f94a9efa3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Ondo OpenAI-note origin returned HTTP 403 to round 3 with no second outlet in queue. Next: find an Ondo notice or openable outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:42.776Z",
+          "retrySearches": [
+            "Ondo OpenAI private-market note outlet draft"
           ]
         }
       },
