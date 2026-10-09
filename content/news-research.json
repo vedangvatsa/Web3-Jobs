@@ -12767,13 +12767,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d334a722b2c2115415a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T09:01:03.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Ledger Oct 7 Crypto Loan via Morpho and Yield.xyz plus direct Morpho access and Spurs device. Ledger blog plus Decrypt and crypto.news read; all gates pass.",
+      "note": "Ledger Oct 7 Crypto Loan via Morpho and Yield.xyz verified in Ledger blog, Decrypt and provider blog; direct Morpho access and Spurs device confirmed.",
       "sourceChecks": [
         {
           "url": "https://www.ledger.com/blog-morpho-direct-access-ledger-wallet",
@@ -12784,13 +12784,17 @@
           "outcome": "read"
         },
         {
-          "url": "https://crypto.news/ledger-adds-bitcoin-backed-loans-through-morpho/",
+          "url": "https://stakekit.ghost.io/ledger-adds-crypto-loan-borrow-against-bitcoin-with-yield-xyz-powered-by-morpho/",
           "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T20:06:19.006Z",
+      "reviewedAt": "2026-10-09T04:10:56.075Z",
       "articleSlug": "ledger-loans",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30282,6 +30286,31 @@
           ],
           "reviewedAt": "2026-10-09T04:10:53.620Z",
           "articleSlug": "storm-venue"
+        },
+        "7d334a722b2c2115415a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Ledger Oct 7 Crypto Loan via Morpho and Yield.xyz verified in Ledger blog, Decrypt and provider blog; direct Morpho access and Spurs device confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.ledger.com/blog-morpho-direct-access-ledger-wallet",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+              "outcome": "read"
+            },
+            {
+              "url": "https://stakekit.ghost.io/ledger-adds-crypto-loan-borrow-against-bitcoin-with-yield-xyz-powered-by-morpho/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:56.075Z",
+          "articleSlug": "ledger-loans"
         }
       },
       "baselineSlugs": [
