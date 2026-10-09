@@ -11957,17 +11957,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "123b0a703647ad531e85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T16:56:56.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same-week US seized-crypto Coinbase flows with Oct 7 03M BTC-plus-BNB detail covered as context by bitfinex-move.",
+      "note": "Same-week seized-crypto Coinbase flows with Oct 7 BTC-plus-BNB detail covered as context in bitfinex-move.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:58:48.327Z",
+      "reviewedAt": "2026-10-09T04:12:39.349Z",
       "articleSlug": "seized-crypto",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -11976,7 +11976,8 @@
         "stanchart-custody.md: under 600 words",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
       ],
-      "duplicateOf": "bitfinex-move"
+      "duplicateOf": "bitfinex-move",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "315f594c1f4585bf6ecf": {
       "source": "Bitcoin Magazine",
@@ -31094,6 +31095,15 @@
           "reviewedAt": "2026-10-09T04:12:35.104Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "123b0a703647ad531e85": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same-week seized-crypto Coinbase flows with Oct 7 BTC-plus-BNB detail covered as context in bitfinex-move.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:12:39.349Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
