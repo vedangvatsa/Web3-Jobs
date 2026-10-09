@@ -16396,23 +16396,23 @@
       "id": "4f06a77b658d51c113c0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T11:32:02.994Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T11:07:51.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "source-blocked",
-      "note": "CrowdStrike Korean bank hacker asking Claude story seen only in blocked BeInCrypto origin; no second openable source.",
+      "note": "Korean bank hacker Claude story seen only in blocked origin; needs CrowdStrike report or second outlet.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/korean-bank-breaches-hacker-asked-ai/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T12:17:01.560Z",
+      "reviewedAt": "2026-10-09T04:17:54.755Z",
       "retrySearches": [
-        "CrowdStrike Korean bank hacker asked Claude where to sell stolen data October 2026"
+        "Korean bank hacker Claude CrowdStrike stolen data"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "f1de3b4ef4e25d03b93c": {
       "source": "Unchained",
@@ -32277,6 +32277,21 @@
           "reviewedAt": "2026-10-09T04:17:52.664Z",
           "retrySearches": [
             "US government moves 770M bitcoin Coinbase Prime October 2026"
+          ]
+        },
+        "4f06a77b658d51c113c0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Korean bank hacker Claude story seen only in blocked origin; needs CrowdStrike report or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/korean-bank-breaches-hacker-asked-ai/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:54.755Z",
+          "retrySearches": [
+            "Korean bank hacker Claude CrowdStrike stolen data"
           ]
         }
       },
