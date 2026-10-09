@@ -20102,11 +20102,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b6a0a0242211b358ae61",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T02:40:37.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "out-of-scope",
+      "note": "SpaceX versus mobile carriers piece covers telecom stocks with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:16:27.973Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f60440751b5ec5c29e75": {
       "source": "BeInCrypto",
@@ -31893,6 +31898,13 @@
           "note": "Nvidia stock warning piece covers US equity AI-trade price action with no crypto event, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:16:26.038Z"
+        },
+        "b6a0a0242211b358ae61": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "SpaceX versus mobile carriers piece covers telecom stocks with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:16:27.973Z"
         }
       },
       "baselineSlugs": [
