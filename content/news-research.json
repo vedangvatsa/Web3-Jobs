@@ -20619,24 +20619,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7cc92328214d5e25bb3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T05:00:52.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified Solana final 250ms to 200ms slot cut scheduled at epoch 1053 with SIMD-0525 mechanics across CoinDesk, Solana Compass and the primary upgrade tracker.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Solana 200ms headline; pairs with the blocked Defiant scheduling piece. Next: find an Anza or Solana confirmation and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
           "outcome": "read"
-        },
-        {
-          "url": "https://solanacompass.com/news/solanas-200ms-slot-time-is-pending-on-mainnet-scheduled-to-go-live-at-epoch-1053-on-october-9",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:12:22.845Z",
+      "reviewedAt": "2026-10-09T14:16:23.463Z",
       "articleSlug": "slot-times",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -20645,7 +20641,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Solana 200ms final upgrade Anza confirmation draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "c995bfad22d44039fe80": {
       "source": "BeInCrypto",
@@ -34866,6 +34866,21 @@
           "reviewedAt": "2026-10-09T14:16:21.166Z",
           "retrySearches": [
             "France stablecoin swap tax budget bill draft"
+          ]
+        },
+        "f7cc92328214d5e25bb3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Solana 200ms headline; pairs with the blocked Defiant scheduling piece. Next: find an Anza or Solana confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:23.463Z",
+          "retrySearches": [
+            "Solana 200ms final upgrade Anza confirmation draft"
           ]
         }
       },
