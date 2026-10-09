@@ -17594,15 +17594,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4cab21a62516fd28dba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T13:06:24.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Securitize tokenized stocks launch drafted as securitize-stocks in this run.",
+      "note": "Securitize CoinDesk version of same launch covered by securitize-stocks.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:59.645Z",
+      "reviewedAt": "2026-10-09T11:43:41.022Z",
       "articleSlug": "securitize-stocks",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -17611,7 +17611,8 @@
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26",
         "Source link HTTP 403: https://www.cftc.gov/csl/26-29/download"
       ],
-      "duplicateOf": "securitize-stocks"
+      "duplicateOf": "securitize-stocks",
+      "mergedInto": "4d71a9d867c5924200b7"
     },
     "5efcd88f74b3e3ca8122": {
       "source": "Bitcoin Magazine",
@@ -33733,6 +33734,15 @@
           "note": "Securitize tokenized stocks covered by securitize-stocks.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:43:39.095Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "4d71a9d867c5924200b7"
+        },
+        "b4cab21a62516fd28dba": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Securitize CoinDesk version of same launch covered by securitize-stocks.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:41.022Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "4d71a9d867c5924200b7"
         }
