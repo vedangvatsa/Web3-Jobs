@@ -20326,15 +20326,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "duplicate",
-      "note": "Same Thailand Oct 8 BTC and ETH ETF rules effective Oct 16 already drafted as thailand-etfs.",
+      "note": "Same Thailand SEC Oct 8 ETF rules effective Oct 16 covered by thailand-etfs.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T17:47:23.784Z",
+      "reviewedAt": "2026-10-09T23:40:03.780Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -20342,7 +20342,8 @@
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "duplicateOf": "thailand-etfs"
+      "duplicateOf": "thailand-etfs",
+      "mergedInto": "6521f65a66822c1c1481"
     },
     "51bfcd3d9bb745d73ab9": {
       "source": "CryptoSlate",
@@ -38362,6 +38363,15 @@
           "reviewedAt": "2026-10-09T23:40:01.685Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thailand SEC Oct 8 ETF rules effective Oct 16 covered by thailand-etfs.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:03.780Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "6521f65a66822c1c1481"
         }
       },
       "baselineSlugs": [
