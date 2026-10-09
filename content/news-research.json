@@ -13920,7 +13920,7 @@
       "expiresAt": "2026-10-10T16:32:48.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Cardano CIP-0113 mainnet with issuer freeze controls verified in Unchained, CoinDesk and cardano.org; distinct from Oct 8 Veridian spinoff.",
+      "note": "Cardano CIP-0113 mainnet with issuer freeze controls verified in Unchained, CoinDesk and cardano.org; TOKEN2049 announcement venue added; distinct from Veridian spinoff.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/cardanos-programmable-token-standard-goes-live-with-built-in-kyc-and-freeze-controls/",
@@ -13935,7 +13935,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:13.064Z",
+      "reviewedAt": "2026-10-09T04:20:06.862Z",
       "articleSlug": "cardano-standard",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -30673,7 +30673,7 @@
         "47785a59bf9afa150ab7": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Cardano CIP-0113 mainnet with issuer freeze controls verified in Unchained, CoinDesk and cardano.org; distinct from Oct 8 Veridian spinoff.",
+          "note": "Cardano CIP-0113 mainnet with issuer freeze controls verified in Unchained, CoinDesk and cardano.org; TOKEN2049 announcement venue added; distinct from Veridian spinoff.",
           "sourceChecks": [
             {
               "url": "https://unchainedcrypto.com/cardanos-programmable-token-standard-goes-live-with-built-in-kyc-and-freeze-controls/",
@@ -30688,7 +30688,7 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-09T04:11:13.064Z",
+          "reviewedAt": "2026-10-09T04:20:06.862Z",
           "articleSlug": "cardano-standard"
         },
         "063f2939659560bacb86": {
