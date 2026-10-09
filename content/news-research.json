@@ -21982,11 +21982,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d6857fb0ee749321a636",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T12:24:29.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "price-chatter",
+      "note": "Three reasons selloff piece is market price action with predictions on what to expect next, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:27:38.519Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "84e69493871641eeb738": {
       "source": "Unchained",
@@ -33279,6 +33284,13 @@
           "note": "Bitcoin ETF breakeven and 729M exit piece is intraday price and flow chatter with no filing, launch, vote or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T13:27:36.391Z"
+        },
+        "d6857fb0ee749321a636": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Three reasons selloff piece is market price action with predictions on what to expect next, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:27:38.519Z"
         }
       },
       "baselineSlugs": [
