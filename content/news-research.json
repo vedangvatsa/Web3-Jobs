@@ -21318,11 +21318,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c76300860e9b16ab3fc5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:20:22.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "duplicate",
+      "note": "Unchained version of the same ESMA wind-down opinion drafted as esma-stablecoins.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T14:00:35.563Z",
+      "duplicateOf": "esma-stablecoins",
+      "mergedInto": "624dea8769fe6ccc1f7b",
+      "lastReviewedDay": "2026-10-09"
     },
     "00846212524fc336a196": {
       "source": "CoinDesk",
@@ -33580,6 +33587,15 @@
           "note": "BeInCrypto version of the same ESMA non-MiCA stablecoin deadline drafted as esma-stablecoins.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:00:33.346Z",
+          "duplicateOf": "esma-stablecoins",
+          "mergedInto": "624dea8769fe6ccc1f7b"
+        },
+        "c76300860e9b16ab3fc5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Unchained version of the same ESMA wind-down opinion drafted as esma-stablecoins.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:00:35.563Z",
           "duplicateOf": "esma-stablecoins",
           "mergedInto": "624dea8769fe6ccc1f7b"
         }
