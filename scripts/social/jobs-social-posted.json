@@ -1,5 +1,5 @@
 {
-  "lastIndex": 371,
+  "lastIndex": 373,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -170,7 +170,9 @@
     "pm211",
     "eng381",
     "sls215",
-    "an68"
+    "an68",
+    "ops89",
+    "mgr78"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5409,498 +5411,6 @@
       "verification": "verified"
     },
     {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0xe7059dacbc5ecf7f6e788ec9037bc2ba92e5d235",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x60ca7d919bec9466c1579b1eaf0fc37f313685fd",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x5a76e5dd5ea099419de4e2dcc4144647f1a6680b",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x61b4aa424f0bc98277720412bcdc80339270da60",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "0x45438ffb4706ac6a6d0c2f292e6c8470764da20e",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "6ac47202b0e0485fb46a5384",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "6ac4720c032d0529987a0034",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "urn:li:share:7513085459183501312",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr106",
-      "company": "Stripe",
-      "title": "Incident Response Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-06T03:58:41.681Z",
-      "postId": "691827047618629_1107720941835140",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "x",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "6ac4721fb0e0485fb46a57f1",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "eToro is hiring Senior Dealer\n\nhttps://hashtagweb3.com/dea/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107319803690045841"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "threads",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "18127605853856030",
-      "verification": "verified",
-      "expectedText": "eToro is hiring Senior Dealer: https://hashtagweb3.com/dea/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeI3934kYrr",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "bluesky",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx6k5optcs2u",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xa3e2404a9006f1bef58599a827db196f221b1e31",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x69147218c7f7dc4974ef24aea0d83c00b29abb32",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x68ed70a2c090cf98a315483ce43b2783835a06a0",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x9e01e067d2e8adeb543023d522832a3e81db605c",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xdf06a8d7d5d69464496886e57fdda22cc1a8712c",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xe18bc3e568c4c571b833a0d9fbfa5a1fed5b055a",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x9cafdd3c5f66be2bfd9355d2314523894c15e4dc",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x0314124efb36705553818095273ff8fb2fcadc4d",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xc87f2d2210bfa348a53e1578438e781a88c70a92",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xe4f7ba6e7dd29a458db1ab014d4f8c3d8e5ce4ef",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x6017d0fede3d8f29e03fb6c0f9f67d5ac8b628ad",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x25ee80ef1378ceb6e234e4d5e77f585b6c27b09f",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xfb6a4671f7f4c9487bea0b8db780aba35f2b4a5f",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x7ee6bac39171ec4e6dbb3c2ce6d5aeac3681c490",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0x2c793ed2acc5c1555af5dd52f0e154622663070a",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xcf06df016e449efb5c34a80595d92fc64cc8193f",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "0xb21df9a11dc368cd6502d28519cabbcb8f8a3d06",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "6ac47230032d0529987a052d",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "6ac4723bb0e0485fb46a596a",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "urn:li:share:7513085661059510272",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "dea",
-      "company": "eToro",
-      "title": "Senior Dealer",
-      "platform": "facebook",
-      "postedAt": "2026-10-06T03:59:27.619Z",
-      "postId": "691827047618629_1107721338501767",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "x",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "6ac4e318fd3e7cb4c2195504",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Legal/ Corporate Compliance Operations Associate\n\nhttps://hashtagweb3.com/cmp72/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107441105968976254"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "threads",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "18235103599319331",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Legal/ Corporate Compliance Operations Associate: https://hashtagweb3.com/cmp72/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeJvIROG-67",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "bluesky",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx7f3kq36r2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0xd2c6e78220a423fdfbfb8cada00ff1656fa80672",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0xd377d6a6f6df5940fe12b60c7398f7b32832b5f4",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x52c01dee3f5321eafbe1b873db67fdc920601a61",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x838308cb345fd2019e45aa0f225854c6af073444",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x4d18968bf79f873e4c10cdb66de5eac79a09176f",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x6b85ff680b1e04b8cd7579b2062192f8acf3755d",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x70777418178f83e7e599ba7ac79f43839c2edd3c",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0xa6473cf9e68d3f90ba67910ac2aa62bff4c114c7",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x0293fd096cd6a008683ce2cd8075ec5347fc1ae5",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x0a94f580cbac38cf2dc754423d51645dab97724e",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x00c0630cdd6cdb4760a7f46880d9aefbe03df9dd",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x41fe8d66439506ef94b01a7d862a5a38f712da91",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "cmp72",
       "company": "Stripe",
       "title": "Legal/ Corporate Compliance Operations Associate",
@@ -10172,6 +9682,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-09T14:29:45.876Z",
       "postId": "691827047618629_1110765074864060",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "x",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "6ac945fef91f772d456e9c5a",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Galaxy Digital is hiring Data Center Business Operations Manager\n\nhttps://hashtagweb3.com/ops89/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108646810717765878"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "17935007610400649",
+      "verification": "verified",
+      "expectedText": "Galaxy Digital is hiring Data Center Business Operations Manager: https://hashtagweb3.com/ops89/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeSTa4bGSiq",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxhqsnh7g62h",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xa8d8d3d0747b60320df84f4a8da0a96183c55e4e",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x40b726242427a75e3e752e6dd731ad3ddc7a6230",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x2b253f696c8fa414267dcb0160912af85e0c61a4",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x6deafcea7e4e2d9b5f29399b4dc34a469ee63a17",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x26fd5a80bb37fcd425ffa71b05a2738fef8ef183",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xb7ca63fe45f5947d25c609ff49798e0d6786f81d",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xd47e261d28b03e6c94144beaed7fb3965c593078",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xd0a97b9967d7369f0d66311f2b671d3cb6145e36",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x808f428d0def6e50dc9634040e296b1e002e9c7d",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x81121f11e1877cb9070c544e672840e3a7b6dd79",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xc52e844da521bdefb9a970e67910787057b508e4",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x681bb32e88de6cc4b479daf6c293f4d9703eee3e",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xc31ed03ec181d7992ec09e8ede674d11ed36e465",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xe84322df86c6a280399d1c270b546effc8222f7e",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x0ac93840b602039f8851664693f75ae637c644e8",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0xd083d7e77d2994af98c703185437c20ff0fe5547",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "0x6eb218452f265fa5631b0319ae69394ae8716142",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "6ac94611ed92ed8fa5a77371",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "6ac9461bb07d37ac974d4201",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "urn:li:share:7514412670003941377",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops89",
+      "company": "Galaxy Digital",
+      "title": "Data Center Business Operations Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-09T19:52:30.466Z",
+      "postId": "691827047618629_1110990724841495",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "x",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "6ac94631f91f772d456ea411",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Chainalysis is hiring Channel Partner Manager, AMER\n\nhttps://hashtagweb3.com/mgr78/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108647021515026826"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "threads",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "17865422331678634",
+      "verification": "verified",
+      "expectedText": "Chainalysis is hiring Channel Partner Manager, AMER: https://hashtagweb3.com/mgr78/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeSThFHGcMe",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "bluesky",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxhqu5vfzy2a",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x18ab2af335142a8123a1579d72bf9919fb9daaa4",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x5b6f6e3d326de94781bad519aaf9ec49bebe994a",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x0262c3c17c38f5ae8ae07b638ff61ff833136706",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x1e003c4c31bb91e5157a4a1b32a76d25471a7d27",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0xe295b5dd95dedaa3da9da2afbce6442848a646b7",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x7fcfcf8cf63e43a74ea2414bbe31d1e7483a0fec",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x493f20fb283afea1faa1b8678f3a82103d5ea032",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x4fb08537b1be9a0b1400c1e9119c0f90caf363b9",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x148b18227c0700940aebbabc7ba3e56ecd6c779d",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0xc50d9f306689d5815693d46c5f6e624e3c3ba534",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x4702a503ada3a75e9cbeea42ca434d338db52a56",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x6e3ff95496066abb438ac948e94528cb5e24cb78",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0xeec300a8b90ed71c88dad1ba4aa2ed301cf705df",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x7946a2cb3038b575d8f1b2b0ae138e1df49e7281",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x5ceb5134285d3d7be3848402c68214044498825e",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x4bc7645863eeb3388a877ad6c8892d55bd28deac",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "farcaster",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "0x692fe88c01a81668a1c683ac0a2c65a8a84890e9",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "6ac94644b07d37ac974d4749",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "6ac9464eb07d37ac974d48c3",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "linkedin",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "urn:li:share:7514412879383527425",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr78",
+      "company": "Chainalysis",
+      "title": "Channel Partner Manager, AMER",
+      "platform": "facebook",
+      "postedAt": "2026-10-09T19:53:20.917Z",
+      "postId": "691827047618629_1110991241508110",
       "verification": "verified"
     }
   ]
