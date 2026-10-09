@@ -11675,26 +11675,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "7932aabf918494530ac0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T20:48:34.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "verified-event",
-      "note": "Circle-Tereina USDC EURC SAP integration verified in Circle investor release, Securities.io and CryptoBriefing. Draft 871 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph Circle-SAP headline; rounds 1-2 list Securities.io plus CryptoBriefing reads. Next: re-open both and draft circle-sap.",
       "sourceChecks": [
         {
-          "url": "https://www.securities.io/circle-partners-with-sap-backed-tereina-to-embed-stablecoin-payments-in-erp/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/circle-tereina-usdc-eurc-sap-pay/",
+          "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T12:01:43.324Z",
+      "reviewedAt": "2026-10-09T14:11:24.238Z",
       "retrySearches": [
-        "Tereina SAP Pay USDC proof-of-value enterprise rollout"
+        "Circle Tereina USDC EURC SAP Securities.io draft"
       ],
       "lastReviewedDay": "2026-10-09",
       "articleSlug": "circle-sap",
@@ -11704,7 +11700,8 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "f7d69f046dbb94aa723d": {
       "source": "BeInCrypto",
@@ -34021,6 +34018,21 @@
           "reviewedAt": "2026-10-09T14:11:22.021Z",
           "retrySearches": [
             "Orca Loopscale Formation PRNewswire draft merger terms"
+          ]
+        },
+        "7932aabf918494530ac0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph Circle-SAP headline; rounds 1-2 list Securities.io plus CryptoBriefing reads. Next: re-open both and draft circle-sap.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:24.238Z",
+          "retrySearches": [
+            "Circle Tereina USDC EURC SAP Securities.io draft"
           ]
         }
       },
