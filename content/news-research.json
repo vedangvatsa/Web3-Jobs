@@ -14412,17 +14412,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f515f2d002b9fe1d6f3d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T10:49:16.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
-      "reason": "duplicate",
-      "note": "Same Europol quantum warning drafted as europol-quantum in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:16.666Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Decrypt Europol page and confirmed the primary-risk headline; pairs with CoinDesk, Unchained and CryptoSlate versions. Next: full-read two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:31.410Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Europol wallets primary risk two outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "553b03e2edf69ed0e67a": {
       "source": "CoinDesk",
@@ -34438,6 +34447,21 @@
           "reviewedAt": "2026-10-09T14:13:29.387Z",
           "retrySearches": [
             "GSR Hare vault confirmation second outlet draft"
+          ]
+        },
+        "f515f2d002b9fe1d6f3d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Decrypt Europol page and confirmed the primary-risk headline; pairs with CoinDesk, Unchained and CryptoSlate versions. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:31.410Z",
+          "retrySearches": [
+            "Europol wallets primary risk two outlets draft"
           ]
         }
       },
