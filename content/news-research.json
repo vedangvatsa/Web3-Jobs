@@ -17798,23 +17798,23 @@
       "id": "4771b52b3d346e08e888",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T15:38:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "source-blocked",
-      "note": "Astroport governance-exit story seen only in Defiant origin which returned HTTP 403; needs proposal page or second outlet.",
+      "note": "Astroport governance exit seen only in blocked origin; needs governance post or second outlet with vote details.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T18:17:28.926Z",
+      "reviewedAt": "2026-10-09T04:18:38.636Z",
       "retrySearches": [
-        "Astroport ends tokenholder governance Neutron Terra vote"
+        "Astroport ends tokenholder governance Neutron Terra"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "1314591f25f6d81bbe78": {
       "source": "The Defiant",
@@ -32367,6 +32367,21 @@
           "reviewedAt": "2026-10-09T04:18:28.578Z",
           "retrySearches": [
             "IMF tokenized markets financial risks October 2026"
+          ]
+        },
+        "4771b52b3d346e08e888": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Astroport governance exit seen only in blocked origin; needs governance post or second outlet with vote details.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:18:38.636Z",
+          "retrySearches": [
+            "Astroport ends tokenholder governance Neutron Terra"
           ]
         }
       },
