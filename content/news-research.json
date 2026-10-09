@@ -24457,11 +24457,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c4395c92de68874e196",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T18:06:03.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "duplicate",
+      "note": "Same Blockchain.com Oct 9 CFTC DCM and FCM application covered by blockchain-cftc.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:40:14.087Z",
+      "duplicateOf": "blockchain-cftc",
+      "mergedInto": "f669a9dcee8b304958e7",
+      "lastReviewedDay": "2026-10-09"
     },
     "32a6fb4025d29d3c1e2f": {
       "source": "CoinDesk",
@@ -38386,6 +38393,15 @@
           "note": "Same Blockchain.com Oct 9 CFTC DCM and FCM application covered by blockchain-cftc.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:40:12.216Z",
+          "duplicateOf": "blockchain-cftc",
+          "mergedInto": "f669a9dcee8b304958e7"
+        },
+        "4c4395c92de68874e196": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blockchain.com Oct 9 CFTC DCM and FCM application covered by blockchain-cftc.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:14.087Z",
           "duplicateOf": "blockchain-cftc",
           "mergedInto": "f669a9dcee8b304958e7"
         }
