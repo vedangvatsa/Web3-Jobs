@@ -15000,17 +15000,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a1c86818b7c64cbbed6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T04:11:33.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same Cardano issuer-control story drafted as cardano-standard in this run.",
+      "note": "Cardano issuer-controls story covered by cardano-standard.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:20.576Z",
+      "reviewedAt": "2026-10-09T11:43:34.915Z",
       "duplicateOf": "cardano-standard",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "47785a59bf9afa150ab7"
     },
     "bbb488f6b4d099639f78": {
       "source": "The Defiant",
@@ -33703,6 +33704,15 @@
           "note": "Cardano standard covered by cardano-standard.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:43:32.902Z",
+          "duplicateOf": "cardano-standard",
+          "mergedInto": "47785a59bf9afa150ab7"
+        },
+        "6a1c86818b7c64cbbed6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cardano issuer-controls story covered by cardano-standard.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:34.915Z",
           "duplicateOf": "cardano-standard",
           "mergedInto": "47785a59bf9afa150ab7"
         }
