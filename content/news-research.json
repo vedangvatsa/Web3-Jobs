@@ -15704,20 +15704,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "860da2d41ccdf27f0d30",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T09:42:04.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same ESMA non-compliant stablecoin exit drafted as esma-stablecoins in this run; origin was blocked in earlier rounds.",
+      "note": "Same ESMA 3-month non-MiCA stablecoin wind-down already drafted as esma-deadline in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:56.352Z",
+      "reviewedAt": "2026-10-09T11:23:28.911Z",
       "retrySearches": [
         "ESMA stablecoin January 2027 deadline statement second outlet"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "esma-stablecoins"
+      "duplicateOf": "esma-deadline",
+      "mergedInto": "624dea8769fe6ccc1f7b"
     },
     "d9e5ae4047dd36ca736e": {
       "source": "CoinDesk",
@@ -33199,6 +33200,15 @@
           "reviewedAt": "2026-10-09T11:23:22.980Z",
           "duplicateOf": "storm-venue",
           "mergedInto": "4954b8be94596f23a77e"
+        },
+        "860da2d41ccdf27f0d30": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ESMA 3-month non-MiCA stablecoin wind-down already drafted as esma-deadline in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:28.911Z",
+          "duplicateOf": "esma-deadline",
+          "mergedInto": "624dea8769fe6ccc1f7b"
         }
       },
       "baselineSlugs": [
