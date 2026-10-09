@@ -24533,11 +24533,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "94b717cda7c41ca127f6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T21:10:39.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "source-blocked",
+      "note": "Ledger 90M Tether-freeze angle not yet read; ledger-drain covers the reseller probe but not the freeze claim.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:40:59.407Z",
+      "retrySearches": [
+        "Tether freeze stolen USDT Ledger CryptoBilis theft MistTrack confirmation"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "a1d08de2435b7aa593b5": {
       "source": "The Defiant",
@@ -38593,6 +38611,25 @@
           "reviewedAt": "2026-10-09T23:40:49.409Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "94b717cda7c41ca127f6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ledger 90M Tether-freeze angle not yet read; ledger-drain covers the reseller probe but not the freeze claim.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:40:59.407Z",
+          "retrySearches": [
+            "Tether freeze stolen USDT Ledger CryptoBilis theft MistTrack confirmation"
+          ]
         }
       },
       "baselineSlugs": [
