@@ -24554,11 +24554,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a1d08de2435b7aa593b5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T20:25:14.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "duplicate",
+      "note": "Same CFTC Oct 9 event-contract swap proposal and casino exclusion covered by cftc-swaps.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:40:45.877Z",
+      "duplicateOf": "cftc-swaps",
+      "mergedInto": "32a6fb4025d29d3c1e2f",
+      "lastReviewedDay": "2026-10-09"
     },
     "994ba24ff2eca1c3c082": {
       "source": "The Defiant",
@@ -38545,6 +38552,15 @@
           "reviewedAt": "2026-10-09T23:40:42.402Z",
           "duplicateOf": "dwf-bitgo",
           "mergedInto": "496643e7a159131009a6"
+        },
+        "a1d08de2435b7aa593b5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CFTC Oct 9 event-contract swap proposal and casino exclusion covered by cftc-swaps.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:45.877Z",
+          "duplicateOf": "cftc-swaps",
+          "mergedInto": "32a6fb4025d29d3c1e2f"
         }
       },
       "baselineSlugs": [
