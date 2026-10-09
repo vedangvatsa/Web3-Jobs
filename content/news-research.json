@@ -23195,11 +23195,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "688de4a780985d424532",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T16:00:55.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "missing-primary-source",
+      "note": "Round 3 read CryptoSlate on ICANN 1,615 applications with .agent .bitcoin .wallet contention; ICANN Oct 7 reveal page not yet opened. Next: open ICANN announcement plus second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/openai-google-and-meta-battle-for-ai-internet-domains-as-crypto-firms-target-bitcoin-and-wallet/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T18:01:30.786Z",
+      "retrySearches": [
+        "ICANN 2026 round applications 1615 .agent .bitcoin draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "fe698f27fac724e48c17": {
       "source": "The Defiant",
@@ -37731,6 +37745,21 @@
           "reviewedAt": "2026-10-09T18:01:28.675Z",
           "retrySearches": [
             "79AU drain vault-drain draft hero image"
+          ]
+        },
+        "688de4a780985d424532": {
+          "status": "deferred",
+          "reason": "missing-primary-source",
+          "note": "Round 3 read CryptoSlate on ICANN 1,615 applications with .agent .bitcoin .wallet contention; ICANN Oct 7 reveal page not yet opened. Next: open ICANN announcement plus second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/openai-google-and-meta-battle-for-ai-internet-domains-as-crypto-firms-target-bitcoin-and-wallet/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:30.786Z",
+          "retrySearches": [
+            "ICANN 2026 round applications 1615 .agent .bitcoin draft"
           ]
         }
       },
