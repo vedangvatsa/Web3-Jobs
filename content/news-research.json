@@ -18892,22 +18892,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "082e493221b37a47877c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T18:16:05.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Orca-Loopscale Formation merger covered by orca-merger in this run; Decrypt Oct 8 piece opened and read.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T20:08:20.920Z",
+      "note": "Same Orca-Loopscale Formation merger drafted as orca-merger in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:14:48.947Z",
       "duplicateOf": "orca-merger",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "b52931b86de777cd1461"
     },
     "5abe8fbb60d51631f6dd": {
       "source": "The Defiant",
@@ -31569,6 +31565,15 @@
           "reviewedAt": "2026-10-09T04:14:43.784Z",
           "duplicateOf": "europol-quantum",
           "mergedInto": "9947fd6054fa80daa4d4"
+        },
+        "082e493221b37a47877c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Orca-Loopscale Formation merger drafted as orca-merger in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:48.947Z",
+          "duplicateOf": "orca-merger",
+          "mergedInto": "b52931b86de777cd1461"
         }
       },
       "baselineSlugs": [
