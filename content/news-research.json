@@ -12748,13 +12748,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "e04537f91ce4996c0500",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T10:04:35.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Robinhood 25M BTC balance-sheet buy via Kerbrat at DAS Asia verified in Unchained, CoinDesk and CryptoSlate; perps and Chain context confirmed.",
+      "note": "Robinhood 25M BTC balance-sheet buy via Kerbrat at DAS Asia verified in Unchained, CoinDesk and CryptoSlate. Draft 823 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/robinhood-puts-25-million-of-bitcoin-on-its-balance-sheet-executive-says/",
@@ -12769,7 +12769,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:51.674Z",
+      "reviewedAt": "2026-10-09T11:42:53.187Z",
       "articleSlug": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -33500,6 +33500,27 @@
           "reviewedAt": "2026-10-09T11:37:00.241Z",
           "duplicateOf": "orca-merger",
           "mergedInto": "b52931b86de777cd1461"
+        },
+        "e04537f91ce4996c0500": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Robinhood 25M BTC balance-sheet buy via Kerbrat at DAS Asia verified in Unchained, CoinDesk and CryptoSlate. Draft 823 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/robinhood-puts-25-million-of-bitcoin-on-its-balance-sheet-executive-says/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:42:53.187Z",
+          "articleSlug": "robinhood-bitcoin"
         }
       },
       "baselineSlugs": [
