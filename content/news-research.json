@@ -21568,11 +21568,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "70657af4217816dbce56",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T05:32:00.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "out-of-scope",
+      "note": "S and P 500 four-year bull-market anniversary covers US equities history with no crypto event or nexus.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:23.710Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "91eb678ea04331f1b685": {
       "source": "Cointelegraph",
@@ -32304,6 +32309,13 @@
           "note": "US interest-costs and bond-yield piece covers federal fiscal data with no crypto event, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:21.840Z"
+        },
+        "70657af4217816dbce56": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "S and P 500 four-year bull-market anniversary covers US equities history with no crypto event or nexus.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:23.710Z"
         }
       },
       "baselineSlugs": [
