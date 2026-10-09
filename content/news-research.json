@@ -18708,13 +18708,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "647681ddbdfa617274b4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T19:10:07.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "WhiteBIT Oct 8 Lightning integration via Voltage for BTC deposits and withdrawals with 0.25 and 0.15 percent fees. Bitcoin Magazine plus FinanceWire release read; all gates pass.",
+      "note": "WhiteBIT Oct 8 Lightning integration via Voltage verified in Bitcoin Magazine and FinanceWire release; deposit and withdrawal fees confirmed.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
@@ -18725,9 +18725,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T20:07:02.474Z",
+      "reviewedAt": "2026-10-09T04:11:41.615Z",
       "articleSlug": "whitebit-lightning",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30622,6 +30622,23 @@
           ],
           "reviewedAt": "2026-10-09T04:11:37.569Z",
           "articleSlug": "uranium-verdict"
+        },
+        "647681ddbdfa617274b4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "WhiteBIT Oct 8 Lightning integration via Voltage verified in Bitcoin Magazine and FinanceWire release; deposit and withdrawal fees confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
+              "outcome": "read"
+            },
+            {
+              "url": "https://financewire.com/2026/10/08/whitebit-launches-bitcoin-lightning-network-support-powered-by-voltage/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:11:41.615Z",
+          "articleSlug": "whitebit-lightning"
         }
       },
       "baselineSlugs": [
