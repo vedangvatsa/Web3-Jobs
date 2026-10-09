@@ -1394,5 +1394,53 @@
     "slotKey": "2026-10-08:evening",
     "messageId": 155696,
     "sentAt": "2026-10-08T20:17:30.391Z"
+  },
+  "57b035ad-c245-4107-8ee0-26ae82a5882c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-09T19:52:43.183Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evt5Kquymowmz16z",
+        "slug": "4cdi9o80",
+        "name": "Avalanche Team1 Dublin Connect x Dublin AI Week",
+        "startDate": "2026-10-09T20:00:00.000Z",
+        "keys": [
+          "luma-batch-evt5kquymowmz16z",
+          "page:4cdi9o80:2026-10-09",
+          "luma:evt-5kquymowmz16z7t",
+          "luma-url:/4cdi9o80",
+          "event:avalancheteam1dublinconnectxdublinaiweek:2026-10-09:dublin"
+        ]
+      },
+      {
+        "id": "w3v-f1-sg-x-crypto-vc-qualifying-day",
+        "slug": "fsxcvqd",
+        "name": "F1 SG x Crypto VC - Qualifying Day",
+        "startDate": "2026-10-10T07:00:00.000Z",
+        "keys": [
+          "w3v-f1-sg-x-crypto-vc-qualifying-day",
+          "page:fsxcvqd:2026-10-10",
+          "luma:evt-suuef0i8o8mavbm",
+          "luma-url:/48ko0wni",
+          "event:f1sgxcryptovcqualifyingday:2026-10-10:singapore"
+        ]
+      },
+      {
+        "id": "token2049-evt-cX1lalPzxi5SsdF",
+        "slug": "ethene-labs",
+        "name": "Ethene Labs Presents: Live F1 Singapore Grand Prix Party",
+        "startDate": "2026-10-10T08:00:00.000Z",
+        "keys": [
+          "token2049-evt-cx1lalpzxi5ssdf",
+          "page:ethene-labs:2026-10-10",
+          "luma:evt-cx1lalpzxi5ssdf",
+          "luma-url:/20ybvogw",
+          "event:ethenelabspresentslivef1singaporegrandprixparty:2026-10-10:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-09:evening"
   }
 }
