@@ -19047,17 +19047,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4fabdda2459903e8146b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T18:39:39.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Greece crypto capital gains tax report as covered by greece-tax in this run.",
+      "note": "Same Greece crypto tax draft covered in greece-tax in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:04.899Z",
+      "reviewedAt": "2026-10-09T04:14:32.917Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "b4c5102f5a98f48f2121"
     },
     "78edccd870113509675c": {
       "source": "The Defiant",
@@ -31522,6 +31523,15 @@
           "note": "Same Greece crypto tax draft covered in greece-tax in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:14:31.009Z",
+          "duplicateOf": "greece-tax",
+          "mergedInto": "b4c5102f5a98f48f2121"
+        },
+        "4fabdda2459903e8146b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Greece crypto tax draft covered in greece-tax in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:32.917Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "b4c5102f5a98f48f2121"
         }
