@@ -12169,17 +12169,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd6f0fa3b3457591b9c7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T15:55:20.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Same Ledger Morpho loan launch covered by ledger-loans.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T12:01:51.971Z",
+      "reason": "source-blocked",
+      "note": "Defiant Ledger-Morpho origin returned HTTP 403 to round 3; pairs with the Decrypt Ledger loans piece that stayed reachable. Next: full-read Decrypt plus a second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:11:32.774Z",
       "duplicateOf": "ledger-loans",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Ledger Morpho bitcoin loans second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "858583e197c522a902a7": {
       "source": "Bankless",
@@ -34092,6 +34101,21 @@
           "reviewedAt": "2026-10-09T14:11:30.663Z",
           "retrySearches": [
             "Sberbank custody Bank of Russia register draft"
+          ]
+        },
+        "bd6f0fa3b3457591b9c7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Ledger-Morpho origin returned HTTP 403 to round 3; pairs with the Decrypt Ledger loans piece that stayed reachable. Next: full-read Decrypt plus a second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:32.774Z",
+          "retrySearches": [
+            "Ledger Morpho bitcoin loans second outlet draft"
           ]
         }
       },
