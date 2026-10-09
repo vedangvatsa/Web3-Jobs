@@ -19789,11 +19789,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e5a89946e52fe0dc8688",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-11T20:04:19.000Z",
-      "lastSeenAt": "2026-10-08T23:51:14.834Z"
+      "lastSeenAt": "2026-10-08T23:51:14.834Z",
+      "reason": "out-of-scope",
+      "note": "Trump equity purchases story covers US stock holdings with no crypto event or filing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T00:00:21.148Z",
+      "lastReviewedDay": "2026-10-08"
     },
     "b003cd0a478350d3fc78": {
       "source": "Bankless",
@@ -29130,6 +29135,13 @@
           "note": "Samsung quarterly profit preview and stock reaction is equity earnings coverage with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T00:00:19.094Z"
+        },
+        "e5a89946e52fe0dc8688": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Trump equity purchases story covers US stock holdings with no crypto event or filing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T00:00:21.148Z"
         }
       },
       "baselineSlugs": [
