@@ -20634,11 +20634,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7cc92328214d5e25bb3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T05:00:52.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "verified-event",
+      "note": "Verified Solana final 250ms to 200ms slot cut scheduled at epoch 1053 with SIMD-0525 mechanics across CoinDesk, Solana Compass and the primary upgrade tracker.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+          "outcome": "read"
+        },
+        {
+          "url": "https://solanacompass.com/news/solanas-200ms-slot-time-is-pending-on-mainnet-scheduled-to-go-live-at-epoch-1053-on-october-9",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T11:12:22.845Z",
+      "articleSlug": "slot-times",
+      "lastReviewedDay": "2026-10-09"
     },
     "c995bfad22d44039fe80": {
       "source": "BeInCrypto",
@@ -32705,6 +32720,23 @@
           ],
           "reviewedAt": "2026-10-09T11:12:20.657Z",
           "articleSlug": "xrpl-controls"
+        },
+        "f7cc92328214d5e25bb3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Solana final 250ms to 200ms slot cut scheduled at epoch 1053 with SIMD-0525 mechanics across CoinDesk, Solana Compass and the primary upgrade tracker.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+              "outcome": "read"
+            },
+            {
+              "url": "https://solanacompass.com/news/solanas-200ms-slot-time-is-pending-on-mainnet-scheduled-to-go-live-at-epoch-1053-on-october-9",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:12:22.845Z",
+          "articleSlug": "slot-times"
         }
       },
       "baselineSlugs": [
