@@ -12417,28 +12417,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "d557a2418f1625e8f9f2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T12:39:09.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "verified-event",
-      "note": "Rhyne 32-month Sept 28 sentence for Nov 2023 20 BTC plot verified in Decrypt, Bitcoin.com and live docket. Draft 845 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Decrypt Rhyne page and confirmed the 32-month headline; rounds 1-2 list Decrypt, Bitcoin.com and the live docket reads. Next: re-open two and draft.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
           "outcome": "read"
-        },
-        {
-          "url": "https://news.bitcoin.com/regulation-and-legal/engineer-sabotaged-employer-bitcoin-ransom-prison-time/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T12:07:18.795Z",
+      "reviewedAt": "2026-10-09T14:11:51.951Z",
       "articleSlug": "rhyne-extortion",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -12447,7 +12439,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Rhyne 32-month extortion docket Bitcoin.com draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "6fdc2a0451102e6067f0": {
       "source": "Bitcoin Magazine",
@@ -34188,6 +34184,21 @@
           "reviewedAt": "2026-10-09T14:11:39.642Z",
           "retrySearches": [
             "Tether Kazakhstan CoinDesk Decrypt corroboration draft"
+          ]
+        },
+        "d557a2418f1625e8f9f2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Decrypt Rhyne page and confirmed the 32-month headline; rounds 1-2 list Decrypt, Bitcoin.com and the live docket reads. Next: re-open two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:51.951Z",
+          "retrySearches": [
+            "Rhyne 32-month extortion docket Bitcoin.com draft"
           ]
         }
       },
