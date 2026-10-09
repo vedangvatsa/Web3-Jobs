@@ -96,6 +96,10 @@
     "2026-10-08:evening": [
       "sls109",
       "qa46"
+    ],
+    "2026-10-09:afternoon": [
+      "sls97",
+      "an53"
     ]
   },
   "jobs": {
@@ -1772,6 +1776,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7694382786374831392"
         }
       }
+    },
+    "sls97": {
+      "slot": "2026-10-09:afternoon",
+      "selectedAt": "2026-10-09T11:30:49.552Z",
+      "verifiedAt": "2026-10-09T11:30:49.552Z",
+      "captions": {
+        "instagram": "Territory Account Executive - London at Block\n\nLondon, United Kingdom\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #SalesJobs #Hiring",
+        "tiktok": "Territory Account Executive - London at Block. London, United Kingdom.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "London, United Kingdom\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Territory Account Executive - London at Block"
+      },
+      "receipts": {}
+    },
+    "an53": {
+      "slot": "2026-10-09:afternoon",
+      "selectedAt": "2026-10-09T11:30:49.553Z",
+      "verifiedAt": "2026-10-09T11:30:49.553Z",
+      "captions": {
+        "instagram": "Senior Data Analyst at Solflare\n\nBelgrade, Serbia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Senior Data Analyst at Solflare. Belgrade, Serbia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Belgrade, Serbia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior Data Analyst at Solflare"
+      },
+      "receipts": {}
     }
   }
 }
