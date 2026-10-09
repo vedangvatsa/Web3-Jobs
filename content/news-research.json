@@ -21369,11 +21369,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a453769f3b6db70f125",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:22:47.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "verified-event",
+      "note": "Verified Pyth DAO approval of OP-PIP-136 100-percent buyback rule with treasury mechanics across Unchained, the passed governance proposal, the Pyth announcement and Crypto Briefing.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://forum.pyth.network/t/passed-op-pip-136-pyth-strategic-reserve-v2/2711",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/pyth-dao-approves-100-revenue-pyth-buybacks/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T11:22:37.111Z",
+      "articleSlug": "pyth-vote",
+      "lastReviewedDay": "2026-10-09"
     },
     "c76300860e9b16ab3fc5": {
       "source": "Unchained",
@@ -32925,6 +32944,27 @@
           ],
           "reviewedAt": "2026-10-09T11:22:35.221Z",
           "articleSlug": "france-tax"
+        },
+        "6a453769f3b6db70f125": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Pyth DAO approval of OP-PIP-136 100-percent buyback rule with treasury mechanics across Unchained, the passed governance proposal, the Pyth announcement and Crypto Briefing.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://forum.pyth.network/t/passed-op-pip-136-pyth-strategic-reserve-v2/2711",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/pyth-dao-approves-100-revenue-pyth-buybacks/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:22:37.111Z",
+          "articleSlug": "pyth-vote"
         }
       },
       "baselineSlugs": [
