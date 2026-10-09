@@ -21460,11 +21460,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "98473011bab5622f909e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T07:38:09.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "Dogecoin 11-percent weekly dip on whale balances is price movement chatter with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:44.176Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "1f83d48c4539685aa5b4": {
       "source": "CryptoSlate",
@@ -32400,6 +32405,13 @@
           "note": "LBank anniversary USDT campaign is exchange promotion built around liquidity marketing, not a news event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:42.147Z"
+        },
+        "98473011bab5622f909e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Dogecoin 11-percent weekly dip on whale balances is price movement chatter with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:44.176Z"
         }
       },
       "baselineSlugs": [
