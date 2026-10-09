@@ -18322,42 +18322,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbfbc980f72f30b4800c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T14:24:24.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Veridian spinout with CIP-0113 tokenized shares verified in CoinDesk, The Paypers and crypto.news; Mayfield CEO, Gregaard chair, Utah SEDI mapping confirmed. Defiant page blocked.",
+      "reason": "needs-corroboration",
+      "note": "CoinDesk Veridian spinout page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Paypers and draft veridian-spin.",
       "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-          "outcome": "read"
-        },
-        {
-          "url": "https://thepaypers.com/fraud-and-fincrime/news/cardano-foundation-spins-out-digital-identity-company-veridian",
-          "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/cardano-foundation-spin-digital-identity-firm-veridian/",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T13:59:45.138Z",
+      "reviewedAt": "2026-10-09T18:00:24.029Z",
       "articleSlug": "veridian-spin",
       "retrySearches": [
-        "Veridian Cardano Foundation spinout tokenized shares CIP-0113 primary announcement mirror"
+        "CoinDesk Veridian spinout CIP-0113 full read draft"
       ],
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "a004e01e7f72c40546e6": {
       "source": "The Block",
@@ -37254,6 +37243,21 @@
           "reviewedAt": "2026-10-09T18:00:03.185Z",
           "retrySearches": [
             "CoinDesk CIP-0113 freeze seize full read draft veridian-spin"
+          ]
+        },
+        "bbfbc980f72f30b4800c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CoinDesk Veridian spinout page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Paypers and draft veridian-spin.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:00:24.029Z",
+          "retrySearches": [
+            "CoinDesk Veridian spinout CIP-0113 full read draft"
           ]
         }
       },
