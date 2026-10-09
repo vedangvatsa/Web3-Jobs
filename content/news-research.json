@@ -17674,20 +17674,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f17adecb451c144469c3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T11:48:13.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Drake bunker-mode warning drafted as bunker-mode in this run.",
+      "note": "Same AI-versus-quantum bunker-mode debate already drafted as bunker-mode in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:35.055Z",
+      "reviewedAt": "2026-10-09T11:23:13.696Z",
       "retrySearches": [
         "Drake bunker mode newsletter recap draft follow-up"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bunker-mode"
+      "duplicateOf": "bunker-mode",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "1a9b8a63c6b803e825da": {
       "source": "CoinDesk",
@@ -33137,6 +33138,15 @@
           "note": "Same Buterin bunker-mode response already drafted as bunker-mode in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:23:11.898Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "f17adecb451c144469c3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same AI-versus-quantum bunker-mode debate already drafted as bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:13.696Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
