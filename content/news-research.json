@@ -15458,17 +15458,35 @@
       ],
       "alsoCoveredBy": [],
       "id": "e519c79d92e069c437fa",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T10:32:52.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Greece 10 percent crypto tax draft covered in greece-tax in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:37.913Z",
+      "reason": "verified-event",
+      "note": "Verified Greece Oct 8 draft 10 percent crypto gains tax with 500 euro exemption and Oct 22 consultation close across Decrypt, Unchained, CoinDesk and Cointelegraph.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T13:22:06.425Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "articleSlug": "greece-tax"
     },
     "316cb572de6b08407ac4": {
       "source": "The Block",
@@ -32944,6 +32962,31 @@
           ],
           "reviewedAt": "2026-10-09T13:22:04.198Z",
           "articleSlug": "securitize-stocks"
+        },
+        "e519c79d92e069c437fa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Greece Oct 8 draft 10 percent crypto gains tax with 500 euro exemption and Oct 22 consultation close across Decrypt, Unchained, CoinDesk and Cointelegraph.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T13:22:06.425Z",
+          "articleSlug": "greece-tax"
         }
       },
       "baselineSlugs": [
