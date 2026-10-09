@@ -18966,17 +18966,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "082e493221b37a47877c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T18:16:05.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Orca Loopscale Formation merger covered by orca-merger.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:37:00.241Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Decrypt Formation page and confirmed the merger headline; rounds 1-2 list PRNewswire, CryptoBriefing and Decrypt reads. Next: re-open release plus one outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:14:35.916Z",
       "duplicateOf": "orca-merger",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Orca Loopscale Formation release draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "5abe8fbb60d51631f6dd": {
       "source": "The Defiant",
@@ -34722,6 +34731,21 @@
           "reviewedAt": "2026-10-09T14:14:32.947Z",
           "retrySearches": [
             "Derive V3 Ethereum custody announcement draft"
+          ]
+        },
+        "082e493221b37a47877c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Decrypt Formation page and confirmed the merger headline; rounds 1-2 list PRNewswire, CryptoBriefing and Decrypt reads. Next: re-open release plus one outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:14:35.916Z",
+          "retrySearches": [
+            "Orca Loopscale Formation release draft"
           ]
         }
       },
