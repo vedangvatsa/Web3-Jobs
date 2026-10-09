@@ -13061,17 +13061,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "39a72fc1ef8eff10e953",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T07:10:59.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same Storm venue challenge and Bitcoin Fog ruling drafted as storm-venue in this run.",
+      "note": "Same Storm venue filing and Bitcoin Fog ruling already drafted as storm-venue in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:04.108Z",
+      "reviewedAt": "2026-10-09T11:23:21.141Z",
       "duplicateOf": "storm-venue",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "4954b8be94596f23a77e"
     },
     "78e886ce7b303d7c7c1f": {
       "source": "The Block",
@@ -33179,6 +33180,15 @@
           "reviewedAt": "2026-10-09T11:23:19.255Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "39a72fc1ef8eff10e953": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Storm venue filing and Bitcoin Fog ruling already drafted as storm-venue in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:21.141Z",
+          "duplicateOf": "storm-venue",
+          "mergedInto": "4954b8be94596f23a77e"
         }
       },
       "baselineSlugs": [
