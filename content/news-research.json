@@ -20562,11 +20562,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "111c40e3f46ad4991183",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T07:16:01.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "XRP 1.32 support and ETF-demand framing is intraday price action with no filing, launch, vote or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:17.757Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "d33835776086f95c6798": {
       "source": "Unchained",
@@ -32268,6 +32273,13 @@
           "reviewedAt": "2026-10-09T10:55:27.312Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "00846212524fc336a196"
+        },
+        "111c40e3f46ad4991183": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "XRP 1.32 support and ETF-demand framing is intraday price action with no filing, launch, vote or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:17.757Z"
         }
       },
       "baselineSlugs": [
