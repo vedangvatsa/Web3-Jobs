@@ -21127,11 +21127,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "444c2aa0acf1240fe52e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T06:40:54.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk bitcoin-lending headline with the 500M figure; single outlet so far. Next: find the debut announcement or second outlet and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:16:34.482Z",
+      "retrySearches": [
+        "bitcoin lending 500M debut announcement draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "910cbdc22ebf840f561a": {
       "source": "CryptoSlate",
@@ -34955,6 +34969,21 @@
           "reviewedAt": "2026-10-09T14:16:32.367Z",
           "retrySearches": [
             "Meanwhile 37.5M Bain announcement draft"
+          ]
+        },
+        "444c2aa0acf1240fe52e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk bitcoin-lending headline with the 500M figure; single outlet so far. Next: find the debut announcement or second outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:16:34.482Z",
+          "retrySearches": [
+            "bitcoin lending 500M debut announcement draft"
           ]
         }
       },
