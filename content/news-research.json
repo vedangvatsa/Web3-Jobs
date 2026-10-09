@@ -14576,24 +14576,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "256cca266632a898b8b3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T10:04:45.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "verified-event",
-      "note": "Securitize LG CNS Oct 6 MOU verified in PRNewswire release and Unchained; tokenized funds and stablecoin rails with FSC backdrop confirmed.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Unchained Securitize-LG piece and confirmed the explore headline; single outlet so far. Next: find a Securitize or LG CNS notice and draft.",
       "sourceChecks": [
-        {
-          "url": "https://www.prnewswire.com/news-releases/securitize-and-lg-cns-partner-to-advance-tokenized-assets-in-south-korea-302899254.html",
-          "outcome": "read"
-        },
         {
           "url": "https://unchainedcrypto.com/securitize-teams-with-koreas-lg-cns-to-explore-tokenized-funds-and-stablecoins/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:11:26.720Z",
+      "reviewedAt": "2026-10-09T14:13:35.683Z",
       "articleSlug": "securitize-korea",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -14607,7 +14603,11 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "retrySearches": [
+        "Securitize LG CNS tokenized funds notice draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "21f0c3a44c024692a6be": {
       "source": "The Block",
@@ -34473,6 +34473,21 @@
           "reviewedAt": "2026-10-09T14:13:33.517Z",
           "retrySearches": [
             "WLFI USD1 Mesh payments confirmation draft"
+          ]
+        },
+        "256cca266632a898b8b3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Unchained Securitize-LG piece and confirmed the explore headline; single outlet so far. Next: find a Securitize or LG CNS notice and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/securitize-teams-with-koreas-lg-cns-to-explore-tokenized-funds-and-stablecoins/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:35.683Z",
+          "retrySearches": [
+            "Securitize LG CNS tokenized funds notice draft"
           ]
         }
       },
