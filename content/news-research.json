@@ -21722,18 +21722,14 @@
       ],
       "alsoCoveredBy": [],
       "id": "00846212524fc336a196",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:14:59.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "verified-event",
-      "note": "Verified UK Oct 8 sanctions on Cryptomus, Heleket and TokenSpot over Russia links across FCDO notice, CoinDesk, Decrypt and Cointelegraph.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read CoinDesk and Decrypt on UK Oct 8 sanctions with Xeltox, A7 network and 38 designations; draft not yet written. Next: re-open FCDO notice and draft uk-sanctions.",
       "sourceChecks": [
-        {
-          "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
-          "outcome": "read"
-        },
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
           "outcome": "read"
@@ -21743,14 +21739,18 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T13:23:40.667Z",
+      "reviewedAt": "2026-10-09T18:01:16.736Z",
       "articleSlug": "uk-sanctions",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "UK Russia sanctions FCDO Xeltox A7 draft uk-sanctions"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "35543151e27a95014f9d": {
       "source": "Decrypt",
@@ -37596,6 +37596,25 @@
           "reviewedAt": "2026-10-09T18:01:11.174Z",
           "retrySearches": [
             "UK sanctions Cryptomus TokenSpot FCDO notice draft uk-sanctions"
+          ]
+        },
+        "00846212524fc336a196": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read CoinDesk and Decrypt on UK Oct 8 sanctions with Xeltox, A7 network and 38 designations; draft not yet written. Next: re-open FCDO notice and draft uk-sanctions.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:16.736Z",
+          "retrySearches": [
+            "UK Russia sanctions FCDO Xeltox A7 draft uk-sanctions"
           ]
         }
       },
