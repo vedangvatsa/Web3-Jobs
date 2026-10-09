@@ -15541,14 +15541,9 @@
       "expiresAt": "2026-10-11T09:42:04.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same ESMA non-compliant stablecoin exit drafted as esma-stablecoins in this run.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/markets/2026-10-08-esma-stablecoins-417819",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T04:15:44.752Z",
+      "note": "Same ESMA non-compliant stablecoin exit drafted as esma-stablecoins in this run; origin was blocked in earlier rounds.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:56.352Z",
       "retrySearches": [
         "ESMA stablecoin January 2027 deadline statement second outlet"
       ],
@@ -31744,14 +31739,9 @@
         "860da2d41ccdf27f0d30": {
           "status": "rejected",
           "reason": "duplicate",
-          "note": "Same ESMA non-compliant stablecoin exit drafted as esma-stablecoins in this run.",
-          "sourceChecks": [
-            {
-              "url": "https://www.theblock.co/news/markets/2026-10-08-esma-stablecoins-417819",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-10-09T04:15:44.752Z",
+          "note": "Same ESMA non-compliant stablecoin exit drafted as esma-stablecoins in this run; origin was blocked in earlier rounds.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:56.352Z",
           "duplicateOf": "esma-stablecoins",
           "mergedInto": "624dea8769fe6ccc1f7b"
         },
