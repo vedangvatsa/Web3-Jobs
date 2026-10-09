@@ -22921,11 +22921,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "850824ff4bdc609e801f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T13:33:09.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "opinion",
+      "note": "Berkshire Hathaway of Bitcoin CEO video is interview opinion with no reportable development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:18.937Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "b064faa363109980128f": {
       "source": "Bitcoin Magazine",
@@ -35965,6 +35970,13 @@
           "note": "Bitcoin Core developer AI and quantum response is commentary without a new code decision, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:17.110Z"
+        },
+        "850824ff4bdc609e801f": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Berkshire Hathaway of Bitcoin CEO video is interview opinion with no reportable development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:18.937Z"
         }
       },
       "baselineSlugs": [
