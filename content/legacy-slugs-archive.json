@@ -136268,5 +136268,168 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt100"
+  },
+  "eng474": {
+    "id": "8263356",
+    "link": "https://stripe.com/jobs/search?gh_jid=8263356",
+    "company": "Stripe",
+    "title": "Software Engineer, Internal Identity"
+  },
+  "sls249": {
+    "id": "5442638008",
+    "link": "http://block.xyz/careers/jobs/5442638008?gh_jid=5442638008",
+    "company": "Block",
+    "title": "Bilingual Mandarin Business Development Rep"
+  },
+  "eng382": {
+    "id": "8249901",
+    "link": "https://stripe.com/jobs/search?gh_jid=8249901",
+    "company": "Stripe",
+    "title": "Software Engineer"
+  },
+  "kng": {
+    "id": "5eea653a-e906-45dc-8dc2-a086362b49fd",
+    "link": "https://jobs.ashbyhq.com/kraken.com/5eea653a-e906-45dc-8dc2-a086362b49fd",
+    "company": "Kraken",
+    "title": "KOL Lead, Netherlands & Germany"
+  },
+  "cst": {
+    "id": "7996976003",
+    "link": "https://job-boards.greenhouse.io/xapo61/jobs/7996976003",
+    "company": "Xapo Bank",
+    "title": "Customer Success Team Lead (Remote - EMEA)"
+  },
+  "fe12": {
+    "id": "2757121",
+    "link": "https://careers.tether.io/o/frontend-software-engineer-100-remote-19",
+    "company": "Tether",
+    "title": "Frontend Software Engineer (100% Remote)"
+  },
+  "cmp32": {
+    "id": "8188326",
+    "link": "https://stripe.com/jobs/search?gh_jid=8188326",
+    "company": "Stripe",
+    "title": "Crypto Controls and Compliance Lead"
+  },
+  "sec44": {
+    "id": "76d50fd117be01",
+    "link": "https://transak-inc.breezy.hr/p/76d50fd117be01-application-security-engineer",
+    "company": "Transak",
+    "title": "Application Security Engineer"
+  },
+  "eng494": {
+    "id": "8211486",
+    "link": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
+    "company": "Coinbase",
+    "title": "Staff Machine Learning Engineer(Platform - Identity)"
+  },
+  "an5": {
+    "id": "4975177101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4975177101",
+    "company": "Bybit",
+    "title": "Senior Data Analyst (Spot)"
+  },
+  "manager757": {
+    "id": "8162169",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8162169?t=gh_src=&gh_jid=8162169",
+    "company": "Robinhood",
+    "title": "Customer Experience Manager, Robinhood Concierge"
+  },
+  "e2": {
+    "id": "8781414002",
+    "link": "https://complyadvantage.com/careers/jobs/8781414002?gh_jid=8781414002",
+    "company": "ComplyAdvantage",
+    "title": "E-Commerce Support Specialist"
+  },
+  "sales336": {
+    "id": "8121421",
+    "link": "https://stripe.com/jobs/search?gh_jid=8121421",
+    "company": "Stripe",
+    "title": "Account Executive, Funded Startups - Israel"
+  },
+  "sls243": {
+    "id": "8129958",
+    "link": "https://stripe.com/jobs/search?gh_jid=8129958",
+    "company": "Stripe",
+    "title": "Account Executive, SMB Hunter (Central Eastern Europe)"
+  },
+  "sales306": {
+    "id": "8114458",
+    "link": "https://stripe.com/jobs/search?gh_jid=8114458",
+    "company": "Stripe",
+    "title": "Account Executive, Enterprise Grower (Israel)"
+  },
+  "eng492": {
+    "id": "8700980002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "eng456": {
+    "id": "8626146002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
+    "company": "Jane Street",
+    "title": "Linux Engineer"
+  },
+  "tr100": {
+    "id": "8474416002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "eng490": {
+    "id": "8589868002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "ops51": {
+    "id": "5374102008",
+    "link": "https://panteracapital.com/careers/?gh_jid=5374102008",
+    "company": "Pantera Capital",
+    "title": "Investor Relations Operations Associate"
+  },
+  "eng489": {
+    "id": "8648512002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8648512002?gh_jid=8648512002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "eng164": {
+    "id": "8631973002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002",
+    "company": "Jane Street",
+    "title": "Data Engineer"
+  },
+  "eng487": {
+    "id": "8624440002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002",
+    "company": "Jane Street",
+    "title": "Hardware Engineer (FPGA/ASIC)"
+  },
+  "mlr16": {
+    "id": "8384490002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "tr97": {
+    "id": "8573726002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8573726002?gh_jid=8573726002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "mlr15": {
+    "id": "7246309002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/7246309002?gh_jid=7246309002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "pm268": {
+    "id": "ec23ed27-2650-43ed-bb2f-c50e1e4143eb",
+    "link": "https://jobs.ashbyhq.com/openstandard/ec23ed27-2650-43ed-bb2f-c50e1e4143eb",
+    "company": "Open Standard",
+    "title": "Founding Product Engineer",
+    "newSlug": "pm274"
   }
 }
