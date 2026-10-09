@@ -13167,17 +13167,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "b5cfc3e7d261d8e4319d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T02:22:39.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "duplicate",
-      "note": "Defiant version of the same Drake fresh-address migration call drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:16.849Z",
+      "reason": "source-blocked",
+      "note": "Defiant Drake fresh-address migration page returned HTTP 403 to round 3; same bunker-mode event readable in Decrypt and Unchained versions. Next: re-open two readable outlets and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:57:51.335Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Drake bunker mode fresh addresses migration two readable outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "70033f0ef71a5c26d294": {
       "source": "BeInCrypto",
@@ -36429,6 +36438,21 @@
           "reviewedAt": "2026-10-09T17:57:49.235Z",
           "retrySearches": [
             "Drake bunker mode private key recovery two readable outlets draft bunker-mode"
+          ]
+        },
+        "b5cfc3e7d261d8e4319d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Drake fresh-address migration page returned HTTP 403 to round 3; same bunker-mode event readable in Decrypt and Unchained versions. Next: re-open two readable outlets and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:57:51.335Z",
+          "retrySearches": [
+            "Drake bunker mode fresh addresses migration two readable outlets draft"
           ]
         }
       },
