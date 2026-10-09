@@ -23301,11 +23301,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5deb2a6b2604410a90c7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T14:34:33.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "price-chatter",
+      "note": "3 Altcoins weekend ATH piece is price prediction with no filing, launch or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:45:07.788Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "d9d9bbfe5d6fe8069395": {
       "source": "The Defiant",
@@ -35917,6 +35922,13 @@
           "note": "Bitcoin consolidates near 82.5K piece is intraday price action on Ledger theft reports with no new crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:45:05.756Z"
+        },
+        "5deb2a6b2604410a90c7": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "3 Altcoins weekend ATH piece is price prediction with no filing, launch or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:45:07.788Z"
         }
       },
       "baselineSlugs": [
