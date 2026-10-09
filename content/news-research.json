@@ -20620,11 +20620,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "19357b6f78dfafe2a59e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:16:48.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "verified-event",
+      "note": "Verified French finance-committee adoption of stablecoin swap-tax amendment I-CF1826 with loss relief and exit-tax details across Cointelegraph, TokenPost, crypto.news and the Assembly record; staged as committee vote, not enacted law.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/28646",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/france-advances-stablecoin-tax-plan-and-10-year-crypto-loss-relief/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T11:22:35.221Z",
+      "articleSlug": "france-tax",
+      "lastReviewedDay": "2026-10-09"
     },
     "f7cc92328214d5e25bb3": {
       "source": "CoinDesk",
@@ -32885,6 +32904,27 @@
           "note": "NFL Audibles newsletter on prediction markets is opinion commentary, not the underlying amicus filing event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:13:20.309Z"
+        },
+        "19357b6f78dfafe2a59e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified French finance-committee adoption of stablecoin swap-tax amendment I-CF1826 with loss relief and exit-tax details across Cointelegraph, TokenPost, crypto.news and the Assembly record; staged as committee vote, not enacted law.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/28646",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/france-advances-stablecoin-tax-plan-and-10-year-crypto-loss-relief/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:22:35.221Z",
+          "articleSlug": "france-tax"
         }
       },
       "baselineSlugs": [
