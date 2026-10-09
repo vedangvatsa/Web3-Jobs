@@ -17880,20 +17880,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "54e70e74dd24c8a9a2ef",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T16:20:21.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same BaFin futurum MiCA refusal drafted as bitcoin-de in this run.",
+      "note": "Same MiCA rejection bitcoin.de halt covered by bitcoin-de.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:39.514Z",
+      "reviewedAt": "2026-10-09T12:01:49.681Z",
       "retrySearches": [
         "Bitcoin.de regulated partner relaunch trading restart date"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bitcoin-de"
+      "duplicateOf": "bitcoin-de",
+      "mergedInto": "628e95ee29428ffa8565"
     },
     "8f6ae7eb5f29e368d620": {
       "source": "BeInCrypto",
@@ -33981,6 +33982,15 @@
           ],
           "reviewedAt": "2026-10-09T12:01:45.099Z",
           "articleSlug": "ledger-loans"
+        },
+        "54e70e74dd24c8a9a2ef": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same MiCA rejection bitcoin.de halt covered by bitcoin-de.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T12:01:49.681Z",
+          "duplicateOf": "bitcoin-de",
+          "mergedInto": "628e95ee29428ffa8565"
         }
       },
       "baselineSlugs": [
