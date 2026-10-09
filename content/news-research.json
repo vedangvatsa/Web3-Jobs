@@ -13713,27 +13713,23 @@
       "id": "1202764b0e462f7b31dc",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-10T16:57:34.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 verified Frogman 4M drain with on-chain trace across CryptoBriefing and Trenchbook; draft not yet written, cause still unknown.",
+      "note": "Frogman 4M TOKEN2049 drain seen only in blocked origin; needs openable second outlet or onchain confirmation.",
       "sourceChecks": [
         {
-          "url": "https://cryptobriefing.com/frogman-hacked-4-million-token2049/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://trenchbook.app/dispatch/frogman-drain",
-          "outcome": "read"
+          "url": "https://thedefiant.io/news/hacks/trader-frogman-drained-of-4-million-on-the-first-morning-of-token2049",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T04:19:38.054Z",
+      "reviewedAt": "2026-10-09T04:17:10.063Z",
       "retrySearches": [
-        "frogman hack cause key theft investigation update"
+        "Frogman 4 million TOKEN2049 drain address"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "828bc64f9ce3e7732d93": {
       "source": "The Defiant",
@@ -32095,6 +32091,21 @@
           "reviewedAt": "2026-10-09T04:17:08.071Z",
           "retrySearches": [
             "Binance adds 4 bStocks tokenized securities collateral October 7 2026"
+          ]
+        },
+        "1202764b0e462f7b31dc": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Frogman 4M TOKEN2049 drain seen only in blocked origin; needs openable second outlet or onchain confirmation.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/trader-frogman-drained-of-4-million-on-the-first-morning-of-token2049",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:10.063Z",
+          "retrySearches": [
+            "Frogman 4 million TOKEN2049 drain address"
           ]
         }
       },
