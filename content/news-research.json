@@ -15869,20 +15869,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "05e2be220e67b4d8f1e9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T08:08:03.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Standard Chartered Singapore custody plan drafted as stanchart-custody in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:48.906Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph StanChart custody headline; pairs with CoinDesk and Bitcoin Magazine versions. Next: full-read two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:54.593Z",
       "retrySearches": [
-        "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+        "Standard Chartered custody CoinDesk corroboration draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "stanchart-custody"
+      "duplicateOf": "stanchart-custody",
+      "nextReviewDate": "2026-10-10"
     },
     "82a8a22ee00a5925034e": {
       "source": "Cointelegraph",
@@ -34555,6 +34561,21 @@
           "reviewedAt": "2026-10-09T14:13:52.382Z",
           "retrySearches": [
             "Standard Chartered Singapore custody two outlets draft"
+          ]
+        },
+        "05e2be220e67b4d8f1e9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph StanChart custody headline; pairs with CoinDesk and Bitcoin Magazine versions. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:54.593Z",
+          "retrySearches": [
+            "Standard Chartered custody CoinDesk corroboration draft"
           ]
         }
       },
