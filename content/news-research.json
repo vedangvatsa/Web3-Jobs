@@ -16603,25 +16603,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "793e33cc45c8a11bda37",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T12:03:28.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 read Cointelegraph Oct 8 Hashi phased rollout with 500M commitments and 20-company coalition; needs Sui Foundation announcement or second outlet.",
+      "reason": "verified-event",
+      "note": "Sui Hashi phased mainnet with 500M-plus commitments verified in Sui blog, Cointelegraph and crypto.news; 20-plus coalition and Anchorage role confirmed.",
       "sourceChecks": [
+        {
+          "url": "https://www.sui.io/blog/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition",
+          "outcome": "read"
+        },
         {
           "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments",
           "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/sui-hashi-launches-with-500m-for-bitcoin-finance/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T18:17:06.742Z",
+      "reviewedAt": "2026-10-09T04:12:07.173Z",
       "retrySearches": [
         "Sui Hashi hBTC mainnet launch second outlet Anchorage"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "articleSlug": "sui-hashi"
     },
     "49796226371352e18cd0": {
       "source": "CoinJournal",
@@ -30841,6 +30849,27 @@
           ],
           "reviewedAt": "2026-10-09T04:12:03.001Z",
           "articleSlug": "wells-kraken"
+        },
+        "793e33cc45c8a11bda37": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Sui Hashi phased mainnet with 500M-plus commitments verified in Sui blog, Cointelegraph and crypto.news; 20-plus coalition and Anchorage role confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sui.io/blog/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/sui-hashi-launches-with-500m-for-bitcoin-finance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:12:07.173Z",
+          "articleSlug": "sui-hashi"
         }
       },
       "baselineSlugs": [
