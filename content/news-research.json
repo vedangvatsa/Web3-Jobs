@@ -16217,17 +16217,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1958aab734084fafaa5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T05:00:28.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "The Block version of the same Buterin hasty-migration warning drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:35.184Z",
+      "reason": "source-blocked",
+      "note": "The Block Buterin no-rush warning page returned HTTP 403 to round 3; same bunker-mode debate readable in Decrypt and Bankless versions. Next: re-open two readable outlets and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:57:57.255Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Buterin hasty migration warning two readable outlets draft bunker-mode"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "f7b1fec09118711577e0": {
       "source": "BeInCrypto",
@@ -36453,6 +36462,21 @@
           "reviewedAt": "2026-10-09T17:57:51.335Z",
           "retrySearches": [
             "Drake bunker mode fresh addresses migration two readable outlets draft"
+          ]
+        },
+        "f1958aab734084fafaa5": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The Block Buterin no-rush warning page returned HTTP 403 to round 3; same bunker-mode debate readable in Decrypt and Bankless versions. Next: re-open two readable outlets and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:57:57.255Z",
+          "retrySearches": [
+            "Buterin hasty migration warning two readable outlets draft bunker-mode"
           ]
         }
       },
