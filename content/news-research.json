@@ -24683,11 +24683,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f33d3c76777e7ef334e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T20:39:17.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "verified-event",
+      "note": "Bessent Oct 9 planned 1B Iran-linked crypto seizure verified in Cointelegraph and Bitcoin Magazine reads. New statement event distinct from Sept 61M forfeiture case. Draft 621 words, audits clean.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:39:19.072Z",
+      "articleSlug": "iran-seizure",
+      "lastReviewedDay": "2026-10-09"
     },
     "504c54edc7c703968bcd": {
       "source": "Cointelegraph",
@@ -38108,6 +38123,23 @@
           ],
           "reviewedAt": "2026-10-09T23:39:14.710Z",
           "articleSlug": "cantor-tether"
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Bessent Oct 9 planned 1B Iran-linked crypto seizure verified in Cointelegraph and Bitcoin Magazine reads. New statement event distinct from Sept 61M forfeiture case. Draft 621 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:39:19.072Z",
+          "articleSlug": "iran-seizure"
         }
       },
       "baselineSlugs": [
