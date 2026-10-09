@@ -13292,28 +13292,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "54d775eafeae3a222fce",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T00:35:24.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "verified-event",
-      "note": "Cointelegraph buyer-search claim and Oct 8 denial verified in CoinDesk, CryptoBriefing and CoinCentral; framed as disputed. Draft 679 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk Cointelegraph-buyer headline with the Google-penalty detail; single outlet so far. Next: find a second outlet or company comment and draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
           "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/cointelegraph-seeks-buyer-traffic-collapse/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://coincentral.com/cointelegraph-denies-report-it-is-seeking-a-buyer-after-traffic-collapse",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T12:07:20.789Z",
+      "reviewedAt": "2026-10-09T14:12:02.477Z",
       "articleSlug": "mercury-sale",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -13322,7 +13314,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Cointelegraph buyer traffic second outlet draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "f7c27eb21fe1a04b0304": {
       "source": "BeInCrypto",
@@ -34260,6 +34256,21 @@
           "reviewedAt": "2026-10-09T14:12:00.388Z",
           "retrySearches": [
             "Roman Storm acquittal Bitcoin Fog Decrypt corroboration draft"
+          ]
+        },
+        "54d775eafeae3a222fce": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk Cointelegraph-buyer headline with the Google-penalty detail; single outlet so far. Next: find a second outlet or company comment and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:12:02.477Z",
+          "retrySearches": [
+            "Cointelegraph buyer traffic second outlet draft"
           ]
         }
       },
