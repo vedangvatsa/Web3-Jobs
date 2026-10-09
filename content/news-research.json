@@ -22784,17 +22784,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "86f3a145bde0d3311251",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T16:07:07.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "duplicate",
-      "note": "Same NYAG Oct 9 Mashinsky lifetime ban and conditional payments already drafted as mashinsky-ban.",
+      "note": "Same NYAG Oct 9 Mashinsky lifetime ban and conditional payments covered by mashinsky-ban.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T17:44:26.515Z",
+      "reviewedAt": "2026-10-09T23:40:16.122Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "3e5484a682e6ed261c67"
     },
     "731895351e1367b3c7e8": {
       "source": "The Block",
@@ -38404,6 +38405,15 @@
           "reviewedAt": "2026-10-09T23:40:14.087Z",
           "duplicateOf": "blockchain-cftc",
           "mergedInto": "f669a9dcee8b304958e7"
+        },
+        "86f3a145bde0d3311251": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NYAG Oct 9 Mashinsky lifetime ban and conditional payments covered by mashinsky-ban.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:40:16.122Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "3e5484a682e6ed261c67"
         }
       },
       "baselineSlugs": [
