@@ -24663,11 +24663,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "af458fb1bbabce80a040",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T22:03:36.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "source-blocked",
+      "note": "Coinbase Gennius ONED stablecoin plan seen only in single Defiant origin.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:41:03.151Z",
+      "retrySearches": [
+        "Coinbase Gennius ONED stablecoin Latin America banks announcement"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "77cc1648dfd4b90a3add": {
       "source": "Bitcoin Magazine",
@@ -38658,6 +38672,21 @@
           "reviewedAt": "2026-10-09T23:41:01.211Z",
           "retrySearches": [
             "Aero merger October 21 token conversion Coinbase migration second outlet"
+          ]
+        },
+        "af458fb1bbabce80a040": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Coinbase Gennius ONED stablecoin plan seen only in single Defiant origin.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:41:03.151Z",
+          "retrySearches": [
+            "Coinbase Gennius ONED stablecoin Latin America banks announcement"
           ]
         }
       },
