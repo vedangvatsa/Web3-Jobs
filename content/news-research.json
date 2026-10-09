@@ -12529,7 +12529,7 @@
       "expiresAt": "2026-10-10T10:05:37.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Coinbase Deribit integration complete as Global Exchange with Pro return by year end verified in Unchained and Cointelegraph; unread blog link removed from draft.",
+      "note": "Coinbase Deribit integration complete as Global Exchange with Pro return by year end verified in Unchained and Cointelegraph; May 2025 deal terms confirmed in Unchained archive.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
@@ -12538,9 +12538,13 @@
         {
           "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
           "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/coinbase-acquired-deribit-for-2-9-billion-heres-why-it-matters/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:10:47.815Z",
+      "reviewedAt": "2026-10-09T04:20:13.268Z",
       "articleSlug": "coinbase-pro",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -30484,7 +30488,7 @@
         "697bdf91d6c6d3bd5f3f": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Coinbase Deribit integration complete as Global Exchange with Pro return by year end verified in Unchained and Cointelegraph; unread blog link removed from draft.",
+          "note": "Coinbase Deribit integration complete as Global Exchange with Pro return by year end verified in Unchained and Cointelegraph; May 2025 deal terms confirmed in Unchained archive.",
           "sourceChecks": [
             {
               "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
@@ -30493,9 +30497,13 @@
             {
               "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
               "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/coinbase-acquired-deribit-for-2-9-billion-heres-why-it-matters/",
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-09T04:10:47.815Z",
+          "reviewedAt": "2026-10-09T04:20:13.268Z",
           "articleSlug": "coinbase-pro"
         },
         "e04537f91ce4996c0500": {
