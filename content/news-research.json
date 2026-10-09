@@ -17909,13 +17909,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "624dea8769fe6ccc1f7b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T15:23:26.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "Verified ESMA 3-month wind-down opinion for non-MiCA stablecoins to Jan 8 2027 across CoinDesk, Cointelegraph and Unchained; no tokens named, USDT only as reported example.",
+      "note": "ESMA Oct 8 opinion with Jan 8 2027 wind-down deadline verified in CoinDesk and Cointelegraph; ART/EMT scope, exit-only services and Coinbase Oct 30 cutoff confirmed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
@@ -17924,14 +17924,10 @@
         {
           "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
           "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/eu-securities-regulator-wants-crypto-platforms-to-wind-down-non-mica-stablecoin-services/",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:22:39.351Z",
-      "articleSlug": "esma-deadline",
+      "reviewedAt": "2026-10-09T13:59:36.575Z",
+      "articleSlug": "esma-stablecoins",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
@@ -33420,6 +33416,23 @@
           ],
           "reviewedAt": "2026-10-09T13:59:34.480Z",
           "articleSlug": "nfl-kalshi"
+        },
+        "624dea8769fe6ccc1f7b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "ESMA Oct 8 opinion with Jan 8 2027 wind-down deadline verified in CoinDesk and Cointelegraph; ART/EMT scope, exit-only services and Coinbase Oct 30 cutoff confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T13:59:36.575Z",
+          "articleSlug": "esma-stablecoins"
         }
       },
       "baselineSlugs": [
