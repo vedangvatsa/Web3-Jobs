@@ -17052,23 +17052,23 @@
       "id": "a9eb98459b549dbf0199",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T15:42:16.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 read Decrypt Oct 8 Money Accounts Solana launch; outlet covering its own product with partners unnamed, needs independent coverage.",
+      "note": "Decrypt Money Accounts on Solana seen only in single outlet; needs Decrypt or Solana confirmation plus second outlet.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T18:17:13.362Z",
+      "reviewedAt": "2026-10-09T04:18:18.020Z",
       "retrySearches": [
-        "Decrypt Money Accounts Solana Information Exchange independent coverage"
+        "Decrypt Money Accounts Solana Information Exchange"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "2207f988a382d5c483da": {
       "source": "CryptoSlate",
@@ -32337,6 +32337,21 @@
           "reviewedAt": "2026-10-09T04:18:12.013Z",
           "retrySearches": [
             "Gnosis bridges fast confirmation Ethereum deposits"
+          ]
+        },
+        "a9eb98459b549dbf0199": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt Money Accounts on Solana seen only in single outlet; needs Decrypt or Solana confirmation plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:18:18.020Z",
+          "retrySearches": [
+            "Decrypt Money Accounts Solana Information Exchange"
           ]
         }
       },
