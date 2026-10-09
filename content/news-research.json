@@ -13838,17 +13838,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a9116bc759b65e01b382",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T16:42:59.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Bitmine 5 percent cap and weekly-buy story covered by bitmine-cap in this run.",
+      "note": "Same BitMine 5 percent cap story drafted as bitmine-cap in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T20:07:52.204Z",
+      "reviewedAt": "2026-10-09T04:14:54.767Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "5ce17ac3ad0afbb39a2b": {
       "source": "The Block",
@@ -31594,6 +31595,15 @@
           "reviewedAt": "2026-10-09T04:14:52.834Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "a9116bc759b65e01b382": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same BitMine 5 percent cap story drafted as bitmine-cap in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:54.767Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
         }
       },
       "baselineSlugs": [
