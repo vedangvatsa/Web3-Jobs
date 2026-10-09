@@ -13127,17 +13127,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b5cfc3e7d261d8e4319d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T02:22:39.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same Drake Oct 7 bunker-mode warning and Buterin response already drafted as bunker-mode in this run.",
+      "note": "Defiant version of the same Drake fresh-address migration call drafted as bunker-mode.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:22:59.316Z",
+      "reviewedAt": "2026-10-09T14:03:16.849Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "70033f0ef71a5c26d294": {
       "source": "BeInCrypto",
@@ -33684,6 +33685,15 @@
           "note": "Cointelegraph version of the same Drake warning and Buterin backing drafted as bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:03:14.650Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "b5cfc3e7d261d8e4319d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Defiant version of the same Drake fresh-address migration call drafted as bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:16.849Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
