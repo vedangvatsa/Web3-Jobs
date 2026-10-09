@@ -15935,25 +15935,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "35b5090ce24657a84aec",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T07:55:14.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "TheBlock StanChart custody page returned 403; CoinDesk and Cointelegraph versions read under sibling candidates.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-08T11:28:58.590Z",
+      "reason": "duplicate",
+      "note": "Same Standard Chartered Singapore custody expansion drafted as stanchart-custody in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:15:50.984Z",
       "retrySearches": [
         "Standard Chartered Singapore crypto custody supported assets launch date MAS"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "duplicateOf": "stanchart-custody",
+      "mergedInto": "0bd3fb37178624c073b0"
     },
     "bb706419d66dbccbac9d": {
       "source": "BeInCrypto",
@@ -31774,6 +31770,15 @@
           "note": "Same Standard Chartered Singapore custody plan drafted as stanchart-custody in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:15:48.906Z",
+          "duplicateOf": "stanchart-custody",
+          "mergedInto": "0bd3fb37178624c073b0"
+        },
+        "35b5090ce24657a84aec": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Standard Chartered Singapore custody expansion drafted as stanchart-custody in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:15:50.984Z",
           "duplicateOf": "stanchart-custody",
           "mergedInto": "0bd3fb37178624c073b0"
         }
