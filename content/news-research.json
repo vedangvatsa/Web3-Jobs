@@ -11649,13 +11649,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "85911409ad9cf3216a4e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T21:16:03.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Verified Drake Oct 7 bunker-mode warning with months timeline and Buterin calm reply across Decrypt, CoinDesk and Cointelegraph; framed strictly as warning plus responses.",
+      "note": "Drake Oct 7 bunker-mode warning with months worst case and Buterin lattice reply verified in Decrypt and CoinDesk; OpenAI manuscripts trigger and no demonstrated attack confirmed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
@@ -11664,13 +11664,9 @@
         {
           "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
           "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:22:46.259Z",
+      "reviewedAt": "2026-10-09T13:59:47.209Z",
       "articleSlug": "bunker-mode",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -33462,6 +33458,23 @@
           ],
           "reviewedAt": "2026-10-09T13:59:45.138Z",
           "articleSlug": "veridian-spin"
+        },
+        "85911409ad9cf3216a4e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Drake Oct 7 bunker-mode warning with months worst case and Buterin lattice reply verified in Decrypt and CoinDesk; OpenAI manuscripts trigger and no demonstrated attack confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T13:59:47.209Z",
+          "articleSlug": "bunker-mode"
         }
       },
       "baselineSlugs": [
