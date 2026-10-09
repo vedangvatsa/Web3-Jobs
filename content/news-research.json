@@ -16965,23 +16965,23 @@
       "id": "f30de830c73c7f6e15eb",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T16:20:53.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "source-blocked",
-      "note": "Gnosis bridges fast-confirmation story seen only in Defiant origin which returned HTTP 403; needs team post or second outlet.",
+      "note": "Gnosis fast-confirmation bridges seen only in blocked origin; needs Gnosis post or second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T18:17:26.663Z",
+      "reviewedAt": "2026-10-09T04:18:12.013Z",
       "retrySearches": [
-        "Gnosis bridges fast confirmation Ethereum deposits team announcement"
+        "Gnosis bridges fast confirmation Ethereum deposits"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "c0cdd9d68ce4ce6ba774": {
       "source": "Decrypt",
@@ -32322,6 +32322,21 @@
           "reviewedAt": "2026-10-09T04:18:10.112Z",
           "retrySearches": [
             "EDX VerifiedX verified bitcoin institutional markets"
+          ]
+        },
+        "f30de830c73c7f6e15eb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Gnosis fast-confirmation bridges seen only in blocked origin; needs Gnosis post or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:18:12.013Z",
+          "retrySearches": [
+            "Gnosis bridges fast confirmation Ethereum deposits"
           ]
         }
       },
