@@ -1906,10 +1906,11 @@
           "url": "https://www.instagram.com/reel/DeSRV2eABFU/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Kazakhstan (Remote)\n\nFind the role on hashtagweb3.com\n\n#Hiring #RemoteJobs #TechJobs",
           "startedAt": "2026-10-09T19:35:08.094Z",
-          "postId": "6ac941edbba9419ccbdbd322"
+          "postId": "6ac941edbba9419ccbdbd322",
+          "url": "https://www.youtube.com/watch?v=8vlif1TekQY"
         }
       }
     }
