@@ -11108,11 +11108,9 @@
       "articleSlug": "samsung-usdc",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "7c05eec0aa4cd9623abd": {
@@ -11653,11 +11651,9 @@
       "articleSlug": "bunker-mode",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "7932aabf918494530ac0": {
@@ -12688,11 +12684,9 @@
       "articleSlug": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "4954b8be94596f23a77e": {
@@ -15520,7 +15514,12 @@
       "reviewedAt": "2026-10-09T13:22:06.425Z",
       "duplicateOf": "greece-tax",
       "lastReviewedDay": "2026-10-09",
-      "articleSlug": "greece-tax"
+      "articleSlug": "greece-tax",
+      "lastValidationErrors": [
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "316cb572de6b08407ac4": {
       "source": "The Block",
@@ -16608,11 +16607,9 @@
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "bbda3002c00d1edb824d": {
@@ -16685,11 +16682,9 @@
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "793e33cc45c8a11bda37": {
@@ -17497,10 +17492,9 @@
       "articleSlug": "securitize-stocks",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "europol-quantum.md: template phrasing: unlock(?:ing)?",
-        "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26",
-        "Source link HTTP 403: https://www.cftc.gov/csl/26-29/download"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "duplicateOf": "securitize-stocks"
     },
@@ -17996,11 +17990,9 @@
       "articleSlug": "esma-stablecoins",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "060c73a9205c8ae971c8": {
@@ -18213,16 +18205,9 @@
       ],
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "esma-stablecoins.md: under 600 words",
-        "sberbank-register.md: under 600 words",
-        "stanchart-custody.md: under 600 words",
-        "sui-hashi.md: template phrasing: paradigm",
-        "veridian-equity.md: under 600 words",
-        "whitebit-lightning.md: under 600 words",
-        "Source link HTTP 403: https://investor.circle.com/news/news-details/2026/Tereina-an-SAP-Backed-Company-and-Circle-Bring-USDC-and-EURC-into-Enterprise-Workflows-Starting-with-the-SAP-Ecosystem-Behind-84-of-Global-Commerce/default.aspx",
-        "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
-        "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
-        "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "a004e01e7f72c40546e6": {
@@ -20143,16 +20128,9 @@
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "esma-stablecoins.md: under 600 words",
-        "sberbank-register.md: under 600 words",
-        "stanchart-custody.md: under 600 words",
-        "sui-hashi.md: template phrasing: paradigm",
-        "veridian-equity.md: under 600 words",
-        "whitebit-lightning.md: under 600 words",
-        "Source link HTTP 403: https://investor.circle.com/news/news-details/2026/Tereina-an-SAP-Backed-Company-and-Circle-Bring-USDC-and-EURC-into-Enterprise-Workflows-Starting-with-the-SAP-Ecosystem-Behind-84-of-Global-Commerce/default.aspx",
-        "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
-        "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
-        "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "duplicateOf": "thailand-etfs"
     },
@@ -21513,11 +21491,9 @@
       "articleSlug": "uk-sanctions",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "35543151e27a95014f9d": {
@@ -21564,11 +21540,9 @@
       "articleSlug": "empire-market",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
-        "Draft has no ready review outcome: content/articles/europol-quantum.md",
-        "Draft has no ready review outcome: content/articles/polygon-tron.md",
-        "Draft has no ready review outcome: content/articles/securitize-korea.md",
-        "Draft has no ready review outcome: content/articles/sky-rating.md",
-        "Draft has no ready review outcome: content/articles/wlfi-payments.md"
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "032bb637cf94a2610025": {
@@ -35556,7 +35530,12 @@
         ],
         "total": 134,
         "checkedAt": "2026-10-09T13:02:54.990Z"
-      }
+      },
+      "validationErrors": [
+        "greece-tax.md: under 600 words",
+        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     }
   }
 }
