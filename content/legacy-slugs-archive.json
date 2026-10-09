@@ -136171,5 +136171,102 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt98"
+  },
+  "fs21": {
+    "id": "8214618",
+    "link": "https://stripe.com/jobs/search?gh_jid=8214618",
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Enterprise Engineering"
+  },
+  "an79": {
+    "id": "8147699",
+    "link": "https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699",
+    "company": "Coinbase",
+    "title": "Risk & Monitoring Analyst III"
+  },
+  "eng472": {
+    "id": "4971516101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971516101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "eng471": {
+    "id": "8782247002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "ai12": {
+    "id": "8172487",
+    "link": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "company": "Stripe",
+    "title": "Abuse Investigator"
+  },
+  "eng470": {
+    "id": "8759009002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8759009002?gh_jid=8759009002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "eng469": {
+    "id": "8646746002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8646746002?gh_jid=8646746002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "eng468": {
+    "id": "8755768002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002",
+    "company": "Jane Street",
+    "title": "Windows Engineer"
+  },
+  "eng467": {
+    "id": "8647260002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8647260002?gh_jid=8647260002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "eng466": {
+    "id": "8651274002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651274002?gh_jid=8651274002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "tr99": {
+    "id": "8576270002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "tr98": {
+    "id": "8617344002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8617344002?gh_jid=8617344002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "be66": {
+    "id": "4908935101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "cs12": {
+    "id": "7994498",
+    "link": "https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498",
+    "company": "Coinbase",
+    "title": "Concierge Specialist IV"
+  },
+  "mlr14": {
+    "id": "8576934002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8576934002?gh_jid=8576934002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
+  },
+  "mkt98": {
+    "id": "b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "link": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "company": "Open Standard",
+    "title": "Communications and Marketing Lead",
+    "newSlug": "mkt100"
   }
 }
