@@ -24780,11 +24780,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "77cc1648dfd4b90a3add",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T20:02:39.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "not-a-concrete-event",
+      "note": "Bitcoin privacy how-to is an explainer guide, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:41:46.992Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "368c99d2c809c3ce18b9": {
       "source": "CryptoSlate",
@@ -38941,6 +38946,13 @@
           "note": "ETH fee-burn 2 percent metric piece is onchain analysis with no launch, vote, filing or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:41:45.321Z"
+        },
+        "77cc1648dfd4b90a3add": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Bitcoin privacy how-to is an explainer guide, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:41:46.992Z"
         }
       },
       "baselineSlugs": [
