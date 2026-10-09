@@ -725,6 +725,9 @@
   "https://hashtagweb3.com/ripple-prime?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sepolia-fork?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/eez-atomic?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fairshake-house?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/fincen-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/safe-complaint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2078,6 +2081,11 @@
   "Ethereum Activates Glamsterdam Upgrade on Sepolia Testnet",
   "Ethereum Completes First Atomic L1 to L2 Mainnet Transaction",
   "Ethereum Economic Zone Tests First Atomic L1 to L2 Transaction",
+  "Fairshake Pledges Millions to 32 House Incumbents",
+  "Fairshake Backs 32 House Incumbents With at Least $6 Million for Six Races",
+  "FinCEN Withdraws Unhosted Wallet and Mixer Reporting Proposals",
+  "Greenfield asks Swiss regulator to review Safe Foundation governance",
+  "Greenfield Asks Swiss Watchdog to Review Safe Foundation Governance",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2332,5 +2340,8 @@
   "fp:announc|complianc|dollar|ethena|ether|handl|manag|mint|october6|plan",
   "fp:asset|brevan|brokerag|clear|digital|financ|howard|manager|market|platform",
   "fp:200m|activat|block|glamsterdam|limit|october6|rul|sepolia|test|testnet",
-  "fp:all|and6|atomic|complet|demonstration|economic|layer1|layer2|link|mainnet"
+  "fp:all|and6|atomic|complet|demonstration|economic|layer1|layer2|link|mainnet",
+  "fp:allocat|and13|backs32|democrat|dollar|each|fairshak|fund19|hous|incumbent",
+  "fp:agency|and2023|cancel|draft|feedback|fincen|mixer|proposal|public|regulatory",
+  "fp:against|ask|board|capital|complaint|discussion|ecosystem|fil|follow|foundation"
 ]
