@@ -14387,17 +14387,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "9dad087f927922704e2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T12:40:31.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same BitMine accumulation halt story drafted as bitmine-cap in this run.",
+      "note": "BitMine ETH buying halt covered by bitmine-cap.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:14:08.621Z",
+      "reviewedAt": "2026-10-09T11:43:26.757Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "2c1699713477803bf1b1"
     },
     "2de409dcf0f9eb524c55": {
       "source": "CoinDesk",
@@ -33663,6 +33664,15 @@
           "note": "BitMine 5 percent cap covered by bitmine-cap.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:43:24.591Z",
+          "duplicateOf": "bitmine-cap",
+          "mergedInto": "2c1699713477803bf1b1"
+        },
+        "9dad087f927922704e2a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "BitMine ETH buying halt covered by bitmine-cap.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:43:26.757Z",
           "duplicateOf": "bitmine-cap",
           "mergedInto": "2c1699713477803bf1b1"
         }
