@@ -11952,15 +11952,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "123b0a703647ad531e85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-10T16:56:56.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same-week Oct 7 seized BTC-plus-BNB Coinbase move covered as context in bitfinex-move.",
+      "note": "Same US Oct 8 Bitfinex-seized bitcoin move already drafted as bitfinex-move; related weekly flows covered as context.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:53.659Z",
+      "reviewedAt": "2026-10-09T17:47:01.025Z",
       "articleSlug": "seized-crypto",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -11971,7 +11971,8 @@
         "stanchart-custody.md: under 600 words",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
       ],
-      "duplicateOf": "bitfinex-move"
+      "duplicateOf": "bitfinex-move",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "315f594c1f4585bf6ecf": {
       "source": "Bitcoin Magazine",
@@ -36074,6 +36075,15 @@
           "note": "Same US Oct 8 Bitfinex-seized bitcoin move already drafted as bitfinex-move; related weekly flows covered as context.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T17:46:58.976Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "123b0a703647ad531e85": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US Oct 8 Bitfinex-seized bitcoin move already drafted as bitfinex-move; related weekly flows covered as context.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:47:01.025Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
