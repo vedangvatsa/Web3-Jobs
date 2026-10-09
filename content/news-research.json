@@ -20651,11 +20651,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c995bfad22d44039fe80",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T03:26:43.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "out-of-scope",
+      "note": "US interest-costs and bond-yield piece covers federal fiscal data with no crypto event, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:21.840Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "55e5b088109341dbdee5": {
       "source": "CoinDesk",
@@ -32292,6 +32297,13 @@
           "note": "Hidden-uptrend-signal piece is technical-analysis price commentary with a 96-percent caveat, not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:19.796Z"
+        },
+        "c995bfad22d44039fe80": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US interest-costs and bond-yield piece covers federal fiscal data with no crypto event, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:21.840Z"
         }
       },
       "baselineSlugs": [
