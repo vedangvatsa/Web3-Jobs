@@ -14974,17 +14974,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b486ca816b176c708e46",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T10:45:09.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Drake Oct 7 bunker-mode warning and Buterin response already drafted as bunker-mode in this run.",
+      "note": "Unchained version of the same bunker-mode debate drafted as bunker-mode.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:04.617Z",
+      "reviewedAt": "2026-10-09T14:03:22.180Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "64113d8e816512d7bbf0": {
       "source": "CoinDesk",
@@ -33704,6 +33705,15 @@
           "note": "CryptoSlate version of the same Buterin calm reply to AI fears drafted as bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:03:19.154Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "b486ca816b176c708e46": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Unchained version of the same bunker-mode debate drafted as bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:22.180Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
