@@ -21188,11 +21188,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "85e225c955abc653af52",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T10:40:44.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "not-a-concrete-event",
+      "note": "AI-agents shopping chargeback piece is a scenario explainer on merchant disputes with no launch, filing or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:58:05.549Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "4f7eedcb04b022f754db": {
       "source": "Cointelegraph",
@@ -32508,6 +32513,13 @@
           "note": "Strategy STRC hidden-dependency piece is balance-sheet analysis of buyback mechanics with no new filing or vote.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:58:03.678Z"
+        },
+        "85e225c955abc653af52": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "AI-agents shopping chargeback piece is a scenario explainer on merchant disputes with no launch, filing or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:58:05.549Z"
         }
       },
       "baselineSlugs": [
