@@ -1863,9 +1863,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Senior Data Analyst at Solflare\n\nNovi Sad, Vojvodina, Serbia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
-          "startedAt": "2026-10-09T19:30:52.385Z"
+          "startedAt": "2026-10-09T19:30:52.385Z",
+          "containerId": "17916952182461009"
         }
       }
     },
