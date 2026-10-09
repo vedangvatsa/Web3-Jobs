@@ -21907,11 +21907,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "322bfa081991e4298e14",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T12:50:19.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "duplicate",
+      "note": "BeInCrypto version of the same Hamilton 40-year sentence and 1,230 BTC forfeiture drafted as empire-market.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T13:59:57.529Z",
+      "duplicateOf": "empire-market",
+      "mergedInto": "35543151e27a95014f9d",
+      "lastReviewedDay": "2026-10-09"
     },
     "159599c6478a5d390360": {
       "source": "CoinDesk",
@@ -33496,6 +33503,15 @@
           ],
           "reviewedAt": "2026-10-09T13:59:49.404Z",
           "articleSlug": "robinhood-bitcoin"
+        },
+        "322bfa081991e4298e14": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "BeInCrypto version of the same Hamilton 40-year sentence and 1,230 BTC forfeiture drafted as empire-market.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T13:59:57.529Z",
+          "duplicateOf": "empire-market",
+          "mergedInto": "35543151e27a95014f9d"
         }
       },
       "baselineSlugs": [
