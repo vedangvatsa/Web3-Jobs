@@ -15301,17 +15301,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "6db4d7756b0c78596b24",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T10:46:41.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Europol quantum reports drafted as europol-quantum in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:27.232Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Unchained Europol page and confirmed the post-quantum headline; pairs with CoinDesk, Decrypt and CryptoSlate versions. Next: full-read two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/europol-urges-crypto-wallet-providers-to-start-testing-post-quantum-upgrades-now/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:50.146Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Europol post-quantum wallets two outlets draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "b4c5102f5a98f48f2121": {
       "source": "Unchained",
@@ -34510,6 +34519,21 @@
           "reviewedAt": "2026-10-09T14:13:47.902Z",
           "retrySearches": [
             "Russia first crypto register Sberbank draft"
+          ]
+        },
+        "6db4d7756b0c78596b24": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Unchained Europol page and confirmed the post-quantum headline; pairs with CoinDesk, Decrypt and CryptoSlate versions. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/europol-urges-crypto-wallet-providers-to-start-testing-post-quantum-upgrades-now/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:50.146Z",
+          "retrySearches": [
+            "Europol post-quantum wallets two outlets draft"
           ]
         }
       },
