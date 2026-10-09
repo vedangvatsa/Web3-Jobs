@@ -11929,17 +11929,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "eca318284bdbbe071a87",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T17:23:02.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Drake Oct 7 bunker-mode warning and Buterin response covered by bunker-mode in this run.",
+      "note": "Same Drake Oct 7 bunker-mode warning and Buterin response drafted as bunker-mode in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T19:42:28.314Z",
+      "reviewedAt": "2026-10-09T04:12:35.104Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "123b0a703647ad531e85": {
       "source": "Decrypt",
@@ -31084,6 +31085,15 @@
           "reviewedAt": "2026-10-09T04:12:33.189Z",
           "duplicateOf": "robinhood-bitcoin",
           "mergedInto": "e04537f91ce4996c0500"
+        },
+        "eca318284bdbbe071a87": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Drake Oct 7 bunker-mode warning and Buterin response drafted as bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:12:35.104Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
         }
       },
       "baselineSlugs": [
