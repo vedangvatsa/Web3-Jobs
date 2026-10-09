@@ -20164,11 +20164,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a107631a948ec7966b21",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T02:17:51.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "needs-corroboration",
+      "note": "DTC faster share-registration story seen only in blocked origin; needs DTCC release or FAQ plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T04:19:15.340Z",
+      "retrySearches": [
+        "DTCC Tokenization Service launch October 2026 DTC"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "d3c7df7b211472a7b053": {
       "source": "CryptoSlate",
@@ -32459,6 +32473,21 @@
           "reviewedAt": "2026-10-09T04:19:09.063Z",
           "retrySearches": [
             "Bitcoin Core private broadcast discouragement fix PR 36312"
+          ]
+        },
+        "a107631a948ec7966b21": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "DTC faster share-registration story seen only in blocked origin; needs DTCC release or FAQ plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:19:15.340Z",
+          "retrySearches": [
+            "DTCC Tokenization Service launch October 2026 DTC"
           ]
         }
       },
