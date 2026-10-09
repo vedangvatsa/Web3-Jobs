@@ -24460,11 +24460,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "0cbb4f004c6e17d31d5a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T18:51:45.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "opinion",
+      "note": "Ex-FTX COO Netflix trailer reaction is commentary with no crypto event, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T23:41:39.152Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "347f9632aca3b7cd1864": {
       "source": "CoinDesk",
@@ -38905,6 +38910,13 @@
           "note": "Musk Ambani Starlink rival piece covers telecom with no crypto event or nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T23:41:37.338Z"
+        },
+        "0cbb4f004c6e17d31d5a": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Ex-FTX COO Netflix trailer reaction is commentary with no crypto event, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T23:41:39.152Z"
         }
       },
       "baselineSlugs": [
