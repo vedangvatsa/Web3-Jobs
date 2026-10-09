@@ -995,7 +995,7 @@
     "sentAt": "2026-10-09T04:24:54.361Z"
   },
   "4e1000f3-b69c-4c15-8216-8cfc5b52c412": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-09T19:53:49.498Z",
     "stories": [
       {
@@ -1025,6 +1025,8 @@
         "originalTitle": "AI disqualification yields new Nikon Small World in Motion winner"
       }
     ],
-    "slotKey": "2026-10-09:evening"
+    "slotKey": "2026-10-09:evening",
+    "messageId": 193329,
+    "sentAt": "2026-10-09T19:53:53.081Z"
   }
 }

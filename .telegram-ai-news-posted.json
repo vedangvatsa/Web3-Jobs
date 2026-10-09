@@ -698,6 +698,9 @@
   "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
   "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
   "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+  "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+  "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1877,6 +1880,12 @@
   "Anthropic changes usage policy to ban model abuse and election interference",
   "Stanford Student Uses AI to Design Viral Blueprints",
   "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+  "Anthropic AI model sends false homicide tip to police",
+  "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+  "AI coding tools do not increase overall software output",
+  "AI coding agents generate more code, but not more software",
+  "Nikon contest names new winner following AI disqualification",
+  "AI disqualification yields new Nikon Small World in Motion winner",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2092,5 +2101,8 @@
   "fp:20b|annualiz|below|dollar|estimat|less|lower|much|openai|previous",
   "fp:add|address|agent|agentic|application|autonomous|business|can|complex|corporat",
   "fp:abus|anthropic|automat|ban|campaign|chang|deceptiv|development|election|interferenc",
-  "fp:approach|blueprint|conversation|creator|design|generativ|genetic|lif|microscopic|possibility"
+  "fp:approach|blueprint|conversation|creator|design|generativ|genetic|lif|microscopic|possibility",
+  "fp:anthropic|automat|developer|erroneous|fals|homicid|month|philadelphia|polic|send",
+  "fp:absorb|agent|bottleneck|cod|efficiency|found|gain|generat|human|increas",
+  "fp:cell|contest|dileptus|disqualification|follow|his|motion|nam|nguyen|nhat"
 ]
