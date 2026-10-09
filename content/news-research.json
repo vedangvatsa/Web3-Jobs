@@ -14068,13 +14068,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "47785a59bf9afa150ab7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-10T16:32:48.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Cardano CIP-0113 mainnet with issuer freeze controls verified in Unchained, CoinDesk and cardano.org; TOKEN2049 announcement venue added; distinct from Veridian spinoff.",
+      "note": "Cardano CIP-0113 mainnet with issuer freeze controls verified in Unchained, CoinDesk and cardano.org; distinct from Veridian spinoff. Draft 856 words, audits clean.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/cardanos-programmable-token-standard-goes-live-with-built-in-kyc-and-freeze-controls/",
@@ -14089,7 +14089,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T04:20:06.862Z",
+      "reviewedAt": "2026-10-09T11:43:01.413Z",
       "articleSlug": "cardano-standard",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -33542,6 +33542,27 @@
           ],
           "reviewedAt": "2026-10-09T11:42:59.232Z",
           "articleSlug": "bitmine-cap"
+        },
+        "47785a59bf9afa150ab7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cardano CIP-0113 mainnet with issuer freeze controls verified in Unchained, CoinDesk and cardano.org; distinct from Veridian spinoff. Draft 856 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/cardanos-programmable-token-standard-goes-live-with-built-in-kyc-and-freeze-controls/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cardano.org/news/2026-10-07-programmable-tokens-cardano-mainnet/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T11:43:01.413Z",
+          "articleSlug": "cardano-standard"
         }
       },
       "baselineSlugs": [
