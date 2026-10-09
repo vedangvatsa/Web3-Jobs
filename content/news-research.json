@@ -22167,17 +22167,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "322bfa081991e4298e14",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T12:50:19.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "BeInCrypto version of the same Hamilton 40-year sentence and 1,230 BTC forfeiture drafted as empire-market.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:59:57.529Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto Hamilton forfeiture page returned HTTP 403 to round 3; same 40-year sentence re-read in Decrypt and CoinDesk this round. Next: re-open DOJ release plus one outlet and draft empire-market.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/dark-web-founder-forfeits-1230-bitcoin/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:58:27.560Z",
       "duplicateOf": "empire-market",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Hamilton 40-year Empire Market DOJ release draft empire-market"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "159599c6478a5d390360": {
       "source": "CoinDesk",
@@ -36693,6 +36702,21 @@
           "reviewedAt": "2026-10-09T17:58:25.551Z",
           "retrySearches": [
             "ESMA stablecoin January 2027 deadline opinion second outlet draft"
+          ]
+        },
+        "322bfa081991e4298e14": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto Hamilton forfeiture page returned HTTP 403 to round 3; same 40-year sentence re-read in Decrypt and CoinDesk this round. Next: re-open DOJ release plus one outlet and draft empire-market.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/dark-web-founder-forfeits-1230-bitcoin/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:58:27.560Z",
+          "retrySearches": [
+            "Hamilton 40-year Empire Market DOJ release draft empire-market"
           ]
         }
       },
