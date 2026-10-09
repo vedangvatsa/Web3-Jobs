@@ -20953,11 +20953,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b2ed96e90474797d905e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T07:34:44.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "October ETF-outflow tally toward 1B is a running fund-flow price-calendar update with no single dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:59.856Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "f169ee81669d4835c737": {
       "source": "BeInCrypto",
@@ -32472,6 +32477,13 @@
           "note": "Bitcoin-miner daily-revenue surge is an aggregate metrics observation with no launch, ruling, filing or upgrade.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:57.602Z"
+        },
+        "b2ed96e90474797d905e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "October ETF-outflow tally toward 1B is a running fund-flow price-calendar update with no single dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:59.856Z"
         }
       },
       "baselineSlugs": [
