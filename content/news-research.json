@@ -21005,11 +21005,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d3d7abbdfc2e006fba0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T06:51:32.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "price-chatter",
+      "note": "Live-update ETF flow piece on XRP versus BTC ETH ZEC funds is an intraday fund-flow blog, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:58:01.707Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "444c2aa0acf1240fe52e": {
       "source": "CoinDesk",
@@ -32484,6 +32489,13 @@
           "note": "October ETF-outflow tally toward 1B is a running fund-flow price-calendar update with no single dated event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:59.856Z"
+        },
+        "7d3d7abbdfc2e006fba0": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Live-update ETF flow piece on XRP versus BTC ETH ZEC funds is an intraday fund-flow blog, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:58:01.707Z"
         }
       },
       "baselineSlugs": [
