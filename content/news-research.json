@@ -21528,11 +21528,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc8a0c0f11610fe8f80b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T07:00:00.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "promotional",
+      "note": "LBank anniversary USDT campaign is exchange promotion built around liquidity marketing, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:57:42.147Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "7cb42063f34593cf0cc4": {
       "source": "BeInCrypto",
@@ -32388,6 +32393,13 @@
           "note": "XT Exchange anniversary piece is exchange self-promotion about service standards with no reportable development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:57:40.227Z"
+        },
+        "cc8a0c0f11610fe8f80b": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "LBank anniversary USDT campaign is exchange promotion built around liquidity marketing, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:57:42.147Z"
         }
       },
       "baselineSlugs": [
