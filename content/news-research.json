@@ -21885,11 +21885,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "69d2ddb419c22b7ada74",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T05:34:33.000Z",
-      "lastSeenAt": "2026-10-09T13:02:54.990Z"
+      "lastSeenAt": "2026-10-09T13:02:54.990Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph Anthropic-scanner headline; single outlet so far. Next: find an Anthropic announcement or applicant confirmation and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:17:16.134Z",
+      "retrySearches": [
+        "Anthropic frontier AI scanner announcement draft"
+      ],
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "70657af4217816dbce56": {
       "source": "BeInCrypto",
@@ -35121,6 +35135,21 @@
           "reviewedAt": "2026-10-09T14:17:14.044Z",
           "retrySearches": [
             "SIM-swap fraudster sentencing DOJ release draft"
+          ]
+        },
+        "69d2ddb419c22b7ada74": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph Anthropic-scanner headline; single outlet so far. Next: find an Anthropic announcement or applicant confirmation and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:17:16.134Z",
+          "retrySearches": [
+            "Anthropic frontier AI scanner announcement draft"
           ]
         }
       },
