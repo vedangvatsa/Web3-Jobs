@@ -20741,15 +20741,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "Same Thailand SEC Oct 8 bitcoin ether ETF rules effective Oct 16 already drafted as thailand-etfs in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T13:24:31.633Z",
+      "reason": "verified-event",
+      "note": "Verified Thailand SEC Oct 8 rules effective Oct 16 for BTC and ETH ETFs on SET with 80 percent single-coin exposure, local custody and foreign-product limits across CoinDesk and Cointelegraph reads.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:37:55.353Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -35550,6 +35559,23 @@
           ],
           "reviewedAt": "2026-10-09T17:37:53.536Z",
           "articleSlug": "mashinsky-ban"
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Thailand SEC Oct 8 rules effective Oct 16 for BTC and ETH ETFs on SET with 80 percent single-coin exposure, local custody and foreign-product limits across CoinDesk and Cointelegraph reads.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:37:55.353Z",
+          "articleSlug": "thailand-etfs"
         }
       },
       "baselineSlugs": [
