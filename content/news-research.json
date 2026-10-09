@@ -12071,17 +12071,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f473ee7a875080f630f5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T16:25:38.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Tether NBK-Alatau MoU covered by tether-kazakhstan.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:36:44.634Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph tenge-stablecoin headline; pairs with the Decrypt version opened this run. Next: full-read both and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:11:28.497Z",
       "duplicateOf": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "retrySearches": [
+        "Tether Kazakhstan tenge stablecoin Decrypt corroboration draft"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "8c65ec88a9d5f318eeff": {
       "source": "Bitcoin Magazine",
@@ -34044,6 +34053,21 @@
           "reviewedAt": "2026-10-09T14:11:26.380Z",
           "retrySearches": [
             "Tether Kazakhstan NBK MoU release draft tenge"
+          ]
+        },
+        "f473ee7a875080f630f5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph tenge-stablecoin headline; pairs with the Decrypt version opened this run. Next: full-read both and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:28.497Z",
+          "retrySearches": [
+            "Tether Kazakhstan tenge stablecoin Decrypt corroboration draft"
           ]
         }
       },
