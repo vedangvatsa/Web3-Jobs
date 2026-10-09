@@ -11462,28 +11462,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "a4ce1e4837064cf2b528",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T04:57:54.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "verified-event",
-      "note": "Kalshi August 15-min gold passing ether in Sept fees verified in Cointelegraph, CoinMarketCap Academy and InGame. Draft 898 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the Cointelegraph Kalshi gold headline; rounds 1-2 list Cointelegraph, CoinMarketCap Academy and InGame reads. Next: re-open two and draft.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch",
-          "outcome": "read"
-        },
-        {
-          "url": "https://coinmarketcap.com/academy/article/kalshi-gold-15-minute-markets-overtake-ether",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.ingame.com/kalshi-non-sports-15-minute-crypto/",
+          "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T12:01:41.470Z",
+      "reviewedAt": "2026-10-09T14:11:19.872Z",
       "articleSlug": "kalshi-gold",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -11492,7 +11484,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Kalshi 15-minute gold ether fees draft September"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "23007533bd70cfbd0d1e": {
       "source": "BeInCrypto",
@@ -33999,6 +33995,21 @@
           "reviewedAt": "2026-10-09T14:11:03.822Z",
           "retrySearches": [
             "Lido Lend governance forum CryptoBriefing draft proposal"
+          ]
+        },
+        "a4ce1e4837064cf2b528": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the Cointelegraph Kalshi gold headline; rounds 1-2 list Cointelegraph, CoinMarketCap Academy and InGame reads. Next: re-open two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:19.872Z",
+          "retrySearches": [
+            "Kalshi 15-minute gold ether fees draft September"
           ]
         }
       },
