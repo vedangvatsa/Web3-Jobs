@@ -16364,25 +16364,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4e446ed970ba30a8c6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T11:32:02.994Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T10:24:29.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "Santiment Solana network-growth take seen only in blocked BeInCrypto origin; could not verify whether it is a concrete event or metric analysis.",
+      "reason": "opinion",
+      "note": "Santiment bullish-case piece is analyst opinion on network growth with no concrete event, filing or launch.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/solana-network-growth-etf-outflows/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T12:16:59.750Z",
+      "reviewedAt": "2026-10-09T04:16:46.828Z",
       "retrySearches": [
         "Santiment Solana 124 percent network growth October 2026 second outlet"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09"
     },
     "4f06a77b658d51c113c0": {
       "source": "BeInCrypto",
@@ -31964,6 +31963,18 @@
             }
           ],
           "reviewedAt": "2026-10-09T04:16:41.494Z"
+        },
+        "be4e446ed970ba30a8c6": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Santiment bullish-case piece is analyst opinion on network growth with no concrete event, filing or launch.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/solana-network-growth-etf-outflows/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:16:46.828Z"
         }
       },
       "baselineSlugs": [
