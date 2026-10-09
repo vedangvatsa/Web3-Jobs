@@ -18720,22 +18720,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "dd25110442b0f822a9d6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T18:40:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Europol Oct 7 twin quantum reports and wallet-migration warning covered by europol-quantum in this run; CryptoSlate piece opened and read.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/europol-urges-crypto-to-prepare-wallet-upgrades-now-warning-migration-could-take-years/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-08T20:08:19.098Z",
+      "note": "Same Europol quantum upgrade warning drafted as europol-quantum in this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:14:43.784Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "9947fd6054fa80daa4d4"
     },
     "f0783b73ca3eb4e55ba2": {
       "source": "Bitcoin Magazine",
@@ -31564,6 +31560,15 @@
           "reviewedAt": "2026-10-09T04:14:41.805Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "dd25110442b0f822a9d6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Europol quantum upgrade warning drafted as europol-quantum in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:43.784Z",
+          "duplicateOf": "europol-quantum",
+          "mergedInto": "9947fd6054fa80daa4d4"
         }
       },
       "baselineSlugs": [
