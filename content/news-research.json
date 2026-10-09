@@ -21780,13 +21780,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "35543151e27a95014f9d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:11:51.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "verified-event",
-      "note": "Hamilton 40-year sentence, 1,230 BTC forfeiture and Pavey 1,584 BTC verified across Decrypt, CoinDesk and TRM Labs background; DOJ release bot-blocked to automated fetch.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 re-read Decrypt and CoinDesk on Hamilton 40-year sentence, 430M market and Pavey October sentencing; draft not yet written. Next: re-open NDIL release and draft empire-market.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
@@ -21795,24 +21795,20 @@
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.trmlabs.com/post/two-charged-with-operating-430-million-darknet-market-empire-in-investigation-led-by-hsi-new-york",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.justice.gov/usao-ndil/pr/co-creator-dark-web-marketplace-sentenced-40-years-federal-prison",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T13:59:28.282Z",
+      "reviewedAt": "2026-10-09T18:01:26.621Z",
       "articleSlug": "empire-market",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "Empire Market Hamilton 40-year NDIL draft empire-market"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "032bb637cf94a2610025": {
       "source": "Unchained",
@@ -37679,6 +37675,25 @@
           "reviewedAt": "2026-10-09T18:01:21.081Z",
           "retrySearches": [
             "Hamilton Empire Market sentencing NDIL release draft empire-market"
+          ]
+        },
+        "35543151e27a95014f9d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 re-read Decrypt and CoinDesk on Hamilton 40-year sentence, 430M market and Pavey October sentencing; draft not yet written. Next: re-open NDIL release and draft empire-market.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T18:01:26.621Z",
+          "retrySearches": [
+            "Empire Market Hamilton 40-year NDIL draft empire-market"
           ]
         }
       },
