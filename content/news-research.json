@@ -20932,11 +20932,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9f11ca9ae896380c93c0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T08:30:11.000Z",
-      "lastSeenAt": "2026-10-09T10:46:28.146Z"
+      "lastSeenAt": "2026-10-09T10:46:28.146Z",
+      "reason": "promotional",
+      "note": "Coinbase Singapore trading-cup stream is exchange event marketing crowning a contest champion, not a news event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:58:09.482Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "b2ed96e90474797d905e": {
       "source": "Cointelegraph",
@@ -32532,6 +32537,13 @@
           "note": "Trump administration 6B science push on quantum and AI is federal research policy with no crypto event or nexus.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T10:58:07.512Z"
+        },
+        "9f11ca9ae896380c93c0": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Coinbase Singapore trading-cup stream is exchange event marketing crowning a contest champion, not a news event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:58:09.482Z"
         }
       },
       "baselineSlugs": [
