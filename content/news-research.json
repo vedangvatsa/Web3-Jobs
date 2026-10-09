@@ -15892,23 +15892,23 @@
       "id": "26d8a39bd0abb78005cb",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T07:56:32.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "source-blocked",
-      "note": "BeInCrypto ASICID miners page returned 403; cannot verify whether product news or vendor PR.",
+      "note": "ASICID miner release seen only in blocked origin and reads as vendor PR; needs independent outlet with specs.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/new-generation-crypto-miners-asicid/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-08T11:29:25.361Z",
+      "reviewedAt": "2026-10-09T04:17:43.014Z",
       "retrySearches": [
-        "ASICID new crypto miners release October 2026 independent coverage"
+        "ASICID new crypto miners specs release"
       ],
-      "lastReviewedDay": "2026-10-08",
-      "nextReviewDate": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "nextReviewDate": "2026-10-10"
     },
     "35b5090ce24657a84aec": {
       "source": "The Block",
@@ -32217,6 +32217,21 @@
           "reviewedAt": "2026-10-09T04:17:40.816Z",
           "retrySearches": [
             "Deus X Capital shuts down backers separate strategies"
+          ]
+        },
+        "26d8a39bd0abb78005cb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "ASICID miner release seen only in blocked origin and reads as vendor PR; needs independent outlet with specs.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/new-generation-crypto-miners-asicid/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:17:43.014Z",
+          "retrySearches": [
+            "ASICID new crypto miners specs release"
           ]
         }
       },
