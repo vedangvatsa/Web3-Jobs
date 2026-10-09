@@ -22440,11 +22440,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "86f3a145bde0d3311251",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T16:07:07.000Z",
-      "lastSeenAt": "2026-10-09T17:31:35.887Z"
+      "lastSeenAt": "2026-10-09T17:31:35.887Z",
+      "reason": "duplicate",
+      "note": "Same NYAG Oct 9 Mashinsky lifetime ban and conditional payments already drafted as mashinsky-ban.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T17:44:26.515Z",
+      "duplicateOf": "mashinsky-ban",
+      "mergedInto": "3e5484a682e6ed261c67",
+      "lastReviewedDay": "2026-10-09"
     },
     "731895351e1367b3c7e8": {
       "source": "The Block",
@@ -35665,6 +35672,15 @@
           "reviewedAt": "2026-10-09T17:44:07.092Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "2a5f0f76edb1ecb37ab3"
+        },
+        "86f3a145bde0d3311251": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NYAG Oct 9 Mashinsky lifetime ban and conditional payments already drafted as mashinsky-ban.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T17:44:26.515Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "3e5484a682e6ed261c67"
         }
       },
       "baselineSlugs": [
