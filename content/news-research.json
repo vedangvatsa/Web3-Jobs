@@ -24145,11 +24145,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "b66ae32556259e005f14",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T18:46:03.000Z",
-      "lastSeenAt": "2026-10-09T23:24:36.621Z"
+      "lastSeenAt": "2026-10-09T23:24:36.621Z",
+      "reason": "verified-event",
+      "note": "Blumenthal Oct 8 Cantor Tether records request with Oct 23 deadline verified in Decrypt and CoinDesk reads plus Senate letter. Draft 758 words, audits clean.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T23:39:14.710Z",
+      "articleSlug": "cantor-tether",
+      "lastReviewedDay": "2026-10-09"
     },
     "a391370519699e67f1d6": {
       "source": "Bankless",
@@ -38076,6 +38091,23 @@
           ],
           "reviewedAt": "2026-10-09T23:39:12.825Z",
           "articleSlug": "cftc-swaps"
+        },
+        "b66ae32556259e005f14": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Blumenthal Oct 8 Cantor Tether records request with Oct 23 deadline verified in Decrypt and CoinDesk reads plus Senate letter. Draft 758 words, audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T23:39:14.710Z",
+          "articleSlug": "cantor-tether"
         }
       },
       "baselineSlugs": [
