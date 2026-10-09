@@ -13632,13 +13632,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "a69bf44691793495fd4a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T17:46:59.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "verified-event",
-      "note": "Sui 40.6M TPS tunnel test at Basecamp Singapore with CertiK verification pending. Sui primary plus Cointelegraph and CryptoBriefing read; all gates pass.",
+      "note": "Sui 40.6M TPS tunnel test at Basecamp Singapore verified in Sui blog, Cointelegraph and CryptoBriefing; test framing with CertiK pending kept.",
       "sourceChecks": [
         {
           "url": "https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain",
@@ -13653,9 +13653,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T20:06:22.639Z",
+      "reviewedAt": "2026-10-09T04:11:08.866Z",
       "articleSlug": "sui-tunnels",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30374,6 +30374,27 @@
           ],
           "reviewedAt": "2026-10-09T04:11:04.696Z",
           "articleSlug": "mercury-sale"
+        },
+        "a69bf44691793495fd4a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Sui 40.6M TPS tunnel test at Basecamp Singapore verified in Sui blog, Cointelegraph and CryptoBriefing; test framing with CertiK pending kept.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sui.io/blog/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/sui-40-million-tps-basecamp-record/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:11:08.866Z",
+          "articleSlug": "sui-tunnels"
         }
       },
       "baselineSlugs": [
