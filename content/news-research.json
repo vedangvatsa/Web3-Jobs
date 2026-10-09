@@ -11758,13 +11758,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "5e818d6c7c2ca5d7595e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T19:46:04.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "verified-event",
-      "note": "Tether NBK-Alatau MoU for tenge pilot concept and Hadron tokenization, exploratory with no issuer or date. Tether primary plus Decrypt and CoinDesk read; all gates pass.",
+      "note": "Tether NBK-Alatau MoU for tenge pilot concept and Hadron tokenization verified in Tether release, Decrypt and CoinDesk; exploratory with no issuer or date.",
       "sourceChecks": [
         {
           "url": "https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/",
@@ -11779,9 +11779,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T20:06:01.900Z",
+      "reviewedAt": "2026-10-09T04:10:40.177Z",
       "articleSlug": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -30156,6 +30156,27 @@
           ],
           "reviewedAt": "2026-10-09T04:10:38.257Z",
           "articleSlug": "greece-tax"
+        },
+        "5e818d6c7c2ca5d7595e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Tether NBK-Alatau MoU for tenge pilot concept and Hadron tokenization verified in Tether release, Decrypt and CoinDesk; exploratory with no issuer or date.",
+          "sourceChecks": [
+            {
+              "url": "https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:40.177Z",
+          "articleSlug": "tether-kazakhstan"
         }
       },
       "baselineSlugs": [
