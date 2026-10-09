@@ -18254,20 +18254,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "d95fa2d052471948ef8d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T14:39:48.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "CoinDesk institutional-angle version of the same bunker-mode story drafted as bunker-mode.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T14:03:28.808Z",
+      "reason": "needs-corroboration",
+      "note": "CoinDesk institutional bunker-mode page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-09T17:59:25.872Z",
       "retrySearches": [
-        "Project Eleven Quantus institutional custody Q1 2027 second outlet"
+        "CoinDesk institutional bunker mode full read draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "bunker-mode"
+      "duplicateOf": "bunker-mode",
+      "nextReviewDate": "2026-10-10"
     },
     "bbfbc980f72f30b4800c": {
       "source": "CoinDesk",
@@ -37102,6 +37108,21 @@
           "reviewedAt": "2026-10-09T17:59:24.018Z",
           "retrySearches": [
             "CoinDesk bunker mode holders full read draft bunker-mode"
+          ]
+        },
+        "d95fa2d052471948ef8d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CoinDesk institutional bunker-mode page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-09T17:59:25.872Z",
+          "retrySearches": [
+            "CoinDesk institutional bunker mode full read draft"
           ]
         }
       },
