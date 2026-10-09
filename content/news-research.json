@@ -19181,17 +19181,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c69fbe223cd6bc09e10f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T18:11:29.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Buterin AI-risk reply already drafted as bunker-mode in this run.",
+      "note": "Bankless version of the same Buterin no-rush warning drafted as bunker-mode.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:19.255Z",
+      "reviewedAt": "2026-10-09T14:03:30.850Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "7b9a11ab88206c8c738a": {
       "source": "BeInCrypto",
@@ -33744,6 +33745,15 @@
           "note": "CoinDesk institutional-angle version of the same bunker-mode story drafted as bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:03:28.808Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "c69fbe223cd6bc09e10f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Bankless version of the same Buterin no-rush warning drafted as bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:30.850Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
