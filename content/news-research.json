@@ -20076,11 +20076,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c017756be88aff1ef225",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T03:04:00.000Z",
-      "lastSeenAt": "2026-10-09T03:37:35.186Z"
+      "lastSeenAt": "2026-10-09T03:37:35.186Z",
+      "reason": "out-of-scope",
+      "note": "Nvidia stock warning piece covers US equity AI-trade price action with no crypto event, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T04:16:26.038Z",
+      "lastReviewedDay": "2026-10-09"
     },
     "b6a0a0242211b358ae61": {
       "source": "BeInCrypto",
@@ -31881,6 +31886,13 @@
             }
           ],
           "reviewedAt": "2026-10-09T04:16:23.878Z"
+        },
+        "c017756be88aff1ef225": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Nvidia stock warning piece covers US equity AI-trade price action with no crypto event, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:16:26.038Z"
         }
       },
       "baselineSlugs": [
