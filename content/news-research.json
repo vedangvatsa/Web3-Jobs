@@ -17111,11 +17111,11 @@
       "id": "4d71a9d867c5924200b7",
       "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "Securitize Oct 8 tokenized stocks launch verified: 12 names 1-for-1 backed with UCC entitlement, Solana PropAMM with Jump liquidity and USDC settlement, NYSE and OKX-ICE venues planned. Read Decrypt and CoinDesk.",
+      "note": "Securitize Oct 8 tokenized stocks launch verified in Decrypt and CoinDesk: 12 names 1-for-1 backed, PropAMM with Jump liquidity, NYSE and OKX-ICE venues planned.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
@@ -17126,9 +17126,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-08T23:58:08.082Z",
+      "reviewedAt": "2026-10-09T04:10:36.324Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-08",
+      "lastReviewedDay": "2026-10-09",
       "articleSlug": "securitize-stocks",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
@@ -30122,6 +30122,23 @@
           ],
           "reviewedAt": "2026-10-09T04:10:31.781Z",
           "articleSlug": "nfl-kalshi"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Securitize Oct 8 tokenized stocks launch verified in Decrypt and CoinDesk: 12 names 1-for-1 backed, PropAMM with Jump liquidity, NYSE and OKX-ICE venues planned.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T04:10:36.324Z",
+          "articleSlug": "securitize-stocks"
         }
       },
       "baselineSlugs": [
