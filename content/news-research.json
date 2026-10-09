@@ -17146,17 +17146,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a24ff3e84b27f6e7fec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T15:24:16.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 US B seized bitcoin transfer as covered by bitfinex-move in this run.",
+      "note": "Same seized-Bitcoin transfers covered as context in bitfinex-move in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:58:43.409Z",
+      "reviewedAt": "2026-10-09T04:13:53.690Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "4d71a9d867c5924200b7": {
       "source": "Decrypt",
@@ -31372,6 +31373,15 @@
           "note": "Same 1B bitcoin move question answered by bitfinex-move in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T04:13:48.698Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "3a24ff3e84b27f6e7fec": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same seized-Bitcoin transfers covered as context in bitfinex-move in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:13:53.690Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
