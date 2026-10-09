@@ -15556,20 +15556,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "860da2d41ccdf27f0d30",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T09:42:04.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same ESMA 3-month non-MiCA stablecoin wind-down already drafted as esma-deadline in this run.",
+      "note": "Cointelegraph version of the same ESMA three-month wind-down opinion drafted as esma-stablecoins.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:23:28.911Z",
+      "reviewedAt": "2026-10-09T14:00:30.963Z",
       "retrySearches": [
         "ESMA stablecoin January 2027 deadline statement second outlet"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "esma-deadline"
+      "duplicateOf": "esma-stablecoins",
+      "mergedInto": "624dea8769fe6ccc1f7b"
     },
     "d9e5ae4047dd36ca736e": {
       "source": "CoinDesk",
@@ -33562,6 +33563,15 @@
           "reviewedAt": "2026-10-09T14:00:08.614Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "860da2d41ccdf27f0d30": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Cointelegraph version of the same ESMA three-month wind-down opinion drafted as esma-stablecoins.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:00:30.963Z",
+          "duplicateOf": "esma-stablecoins",
+          "mergedInto": "624dea8769fe6ccc1f7b"
         }
       },
       "baselineSlugs": [
