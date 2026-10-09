@@ -18664,17 +18664,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c31ee8280e95318f8bf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T19:31:03.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same NFL amicus brief against Kalshi in Supreme Court fight as covered by nfl-kalshi in this run.",
+      "note": "Same NFL Kalshi SCOTUS fight drafted as nfl-kalshi in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T23:59:31.816Z",
+      "reviewedAt": "2026-10-09T04:14:39.887Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "823e99f6e2c7e227d089": {
       "source": "CoinDesk",
@@ -31544,6 +31545,15 @@
           "reviewedAt": "2026-10-09T04:14:37.913Z",
           "duplicateOf": "greece-tax",
           "mergedInto": "b4c5102f5a98f48f2121"
+        },
+        "0c31ee8280e95318f8bf": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL Kalshi SCOTUS fight drafted as nfl-kalshi in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:39.887Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
