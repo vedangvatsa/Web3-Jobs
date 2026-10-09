@@ -11781,28 +11781,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "5e818d6c7c2ca5d7595e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T19:46:04.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "verified-event",
-      "note": "Tether NBK-Alatau MoU exploratory tenge concept and Hadron tokenization verified in Tether release, Decrypt and CoinDesk; no issuer or date. Draft 681 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage opened the Decrypt Tether-Kazakhstan page and confirmed the MoU headline; rounds 1-2 list the Tether release, Decrypt and CoinDesk reads. Next: re-open release plus one outlet and draft.",
       "sourceChecks": [
-        {
-          "url": "https://tether.io/news/tether-signs-mou-with-the-national-bank-of-kazakhstan-and-the-alatau-city-authority-to-explore-stablecoin-use-cases-and-asset-tokenization/",
-          "outcome": "read"
-        },
         {
           "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T11:35:20.836Z",
+      "reviewedAt": "2026-10-09T14:11:26.380Z",
       "articleSlug": "tether-kazakhstan",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -11811,7 +11803,11 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ]
+      ],
+      "retrySearches": [
+        "Tether Kazakhstan NBK MoU release draft tenge"
+      ],
+      "nextReviewDate": "2026-10-10"
     },
     "9a6e149de49b4c1f5756": {
       "source": "CryptoSlate",
@@ -34033,6 +34029,21 @@
           "reviewedAt": "2026-10-09T14:11:24.238Z",
           "retrySearches": [
             "Circle Tereina USDC EURC SAP Securities.io draft"
+          ]
+        },
+        "5e818d6c7c2ca5d7595e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage opened the Decrypt Tether-Kazakhstan page and confirmed the MoU headline; rounds 1-2 list the Tether release, Decrypt and CoinDesk reads. Next: re-open release plus one outlet and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:11:26.380Z",
+          "retrySearches": [
+            "Tether Kazakhstan NBK MoU release draft tenge"
           ]
         }
       },
