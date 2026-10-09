@@ -20177,32 +20177,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "verified-event",
-      "note": "Thailand SEC Oct 9 spot BTC ETH ETF rules verified in Cointelegraph, Money and Banking and Cryptonomist; SET-only listing and Oct 16 effect confirmed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
-          "outcome": "read"
-        },
-        {
-          "url": "https://en.moneyandbanking.co.th/2026/276642/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://en.moneyandbanking.co.th/2026/276881/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.sec.or.th/EN/Pages/News_Detail.aspx?SECID=13411",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T04:12:01.051Z",
+      "reason": "duplicate",
+      "note": "Same Thailand SEC Oct 8 ETF rules event drafted as thailand-etfs from the CoinDesk candidate; Cointelegraph confirms identical rules and Oct 16 date.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-09T10:55:16.936Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -20216,7 +20199,9 @@
         "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
-      ]
+      ],
+      "duplicateOf": "thailand-etfs",
+      "mergedInto": "62cd6c1ea3c742f4cf88"
     },
     "51bfcd3d9bb745d73ab9": {
       "source": "CryptoSlate",
@@ -32178,6 +32163,15 @@
           ],
           "reviewedAt": "2026-10-09T10:55:05.844Z",
           "articleSlug": "thailand-etfs"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thailand SEC Oct 8 ETF rules event drafted as thailand-etfs from the CoinDesk candidate; Cointelegraph confirms identical rules and Oct 16 date.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T10:55:16.936Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "62cd6c1ea3c742f4cf88"
         }
       },
       "baselineSlugs": [
