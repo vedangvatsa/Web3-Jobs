@@ -20049,15 +20049,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Thailand SEC Oct 8 ETF rules event drafted as thailand-etfs from the CoinDesk candidate; Cointelegraph confirms identical rules and Oct 16 date.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T10:55:16.936Z",
+      "reason": "verified-event",
+      "note": "Verified Thailand SEC Oct 8 crypto ETF framework for bitcoin and ether with Oct 16 effect and SET-only listing across Cointelegraph and CoinDesk.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T13:23:38.276Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-09",
       "lastValidationErrors": [
@@ -32987,6 +32996,23 @@
           ],
           "reviewedAt": "2026-10-09T13:22:06.425Z",
           "articleSlug": "greece-tax"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Thailand SEC Oct 8 crypto ETF framework for bitcoin and ether with Oct 16 effect and SET-only listing across Cointelegraph and CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T13:23:38.276Z",
+          "articleSlug": "thailand-etfs"
         }
       },
       "baselineSlugs": [
