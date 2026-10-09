@@ -16285,17 +16285,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1958aab734084fafaa5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T05:00:28.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Buterin wallet-migration warning drafted as bunker-mode in this run.",
+      "note": "Same Buterin do-not-rush reply to the bunker-mode debate already drafted as bunker-mode in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:13:37.791Z",
+      "reviewedAt": "2026-10-09T11:23:09.878Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "f7b1fec09118711577e0": {
       "source": "BeInCrypto",
@@ -33117,6 +33118,15 @@
           "note": "Same Drake Oct 7 bunker-mode warning and Buterin response already drafted as bunker-mode in this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T11:23:04.617Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "f1958aab734084fafaa5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Buterin do-not-rush reply to the bunker-mode debate already drafted as bunker-mode in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T11:23:09.878Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
