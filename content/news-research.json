@@ -14392,17 +14392,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f515f2d002b9fe1d6f3d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-10T10:49:16.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
       "reason": "duplicate",
-      "note": "Same Europol Oct 7 quantum wallet warning covered by europol-quantum in this run.",
+      "note": "Same Europol quantum warning drafted as europol-quantum in this run.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-08T20:08:13.766Z",
+      "reviewedAt": "2026-10-09T04:14:16.666Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-08"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "9947fd6054fa80daa4d4"
     },
     "553b03e2edf69ed0e67a": {
       "source": "CoinDesk",
@@ -31454,6 +31455,15 @@
           "reviewedAt": "2026-10-09T04:14:10.566Z",
           "duplicateOf": "gsr-hare",
           "mergedInto": "1b3b9cc46940d7e87b52"
+        },
+        "f515f2d002b9fe1d6f3d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Europol quantum warning drafted as europol-quantum in this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T04:14:16.666Z",
+          "duplicateOf": "europol-quantum",
+          "mergedInto": "9947fd6054fa80daa4d4"
         }
       },
       "baselineSlugs": [
