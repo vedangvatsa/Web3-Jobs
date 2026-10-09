@@ -15630,20 +15630,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9e5ae4047dd36ca736e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T09:32:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Standard Chartered Singapore custody plan drafted as stanchart-custody in this run.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T04:15:46.773Z",
+      "reason": "needs-corroboration",
+      "note": "Round 3 triage confirmed the CoinDesk StanChart Singapore headline; Cointelegraph and Bitcoin Magazine carry companion versions. Next: full-read two and draft.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-09T14:13:52.382Z",
       "retrySearches": [
-        "Standard Chartered Singapore crypto custody supported assets launch date MAS"
+        "Standard Chartered Singapore custody two outlets draft"
       ],
       "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "stanchart-custody"
+      "duplicateOf": "stanchart-custody",
+      "nextReviewDate": "2026-10-10"
     },
     "a58ed5f4524012c5b9b0": {
       "source": "CoinDesk",
@@ -34534,6 +34540,21 @@
           "reviewedAt": "2026-10-09T14:13:50.146Z",
           "retrySearches": [
             "Europol post-quantum wallets two outlets draft"
+          ]
+        },
+        "d9e5ae4047dd36ca736e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 3 triage confirmed the CoinDesk StanChart Singapore headline; Cointelegraph and Bitcoin Magazine carry companion versions. Next: full-read two and draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-09T14:13:52.382Z",
+          "retrySearches": [
+            "Standard Chartered Singapore custody two outlets draft"
           ]
         }
       },
