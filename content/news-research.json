@@ -11576,17 +11576,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "a745ae9b5abcb4207f2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T22:24:45.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Drake Oct 7 bunker-mode warning and Buterin response already drafted as bunker-mode in this run.",
+      "note": "CryptoSlate version of the same Drake bunker-mode alarm drafted as bunker-mode.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T11:22:55.445Z",
+      "reviewedAt": "2026-10-09T14:03:10.148Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-09",
+      "mergedInto": "85911409ad9cf3216a4e"
     },
     "b52931b86de777cd1461": {
       "source": "The Block",
@@ -33654,6 +33655,15 @@
           "note": "BeInCrypto version of the same Drake bunker-mode warning and Buterin reply drafted as bunker-mode.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-09T14:03:07.830Z",
+          "duplicateOf": "bunker-mode",
+          "mergedInto": "85911409ad9cf3216a4e"
+        },
+        "a745ae9b5abcb4207f2a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "CryptoSlate version of the same Drake bunker-mode alarm drafted as bunker-mode.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-09T14:03:10.148Z",
           "duplicateOf": "bunker-mode",
           "mergedInto": "85911409ad9cf3216a4e"
         }
