@@ -25035,11 +25035,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "6445e691f0625b1e13c9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T09:44:06.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "source-blocked",
+      "note": "Read Bankless Oct 9 launch preview in full; the Defiant launch piece carrying the 85M deposit figure returned HTTP 403, so trading start and deposit total stay unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/what-to-know-about-papertrade-s-launch",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T10:30:00.699Z",
+      "retrySearches": [
+        "Papertrade October 10 launch confirmation and pre-deposit total from a readable outlet or official announcement"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "5a91a10fdfbba2ed8051": {
       "source": "The Defiant",
@@ -42831,6 +42849,25 @@
           "reviewedAt": "2026-10-10T10:29:52.338Z",
           "duplicateOf": "xrpl-overflow",
           "mergedInto": "1a5192e7fa4323c2dc45"
+        },
+        "6445e691f0625b1e13c9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Bankless Oct 9 launch preview in full; the Defiant launch piece carrying the 85M deposit figure returned HTTP 403, so trading start and deposit total stay unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/what-to-know-about-papertrade-s-launch",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:30:00.699Z",
+          "retrySearches": [
+            "Papertrade October 10 launch confirmation and pre-deposit total from a readable outlet or official announcement"
+          ]
         }
       },
       "baselineSlugs": [
