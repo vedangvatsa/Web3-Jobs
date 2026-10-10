@@ -23516,24 +23516,24 @@
       "id": "496643e7a159131009a6",
       "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T16:08:23.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "verified-event",
-      "note": "DWF Maas and Falcon Digital Oct 9 London 141M claim over early FF and ESPORTS sales verified in Decrypt and Unchained reads. Draft 635 words, audits clean.",
+      "note": "Verified the $141M London High Court claim in full Unchained and Decrypt reads: FF/ESPORTS lock-up-breach allegations, April-May dispute timeline, price impact, WLFI custody ties.",
       "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-          "outcome": "read"
-        },
         {
           "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
           "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T23:39:11.072Z",
+      "reviewedAt": "2026-10-10T03:46:34.700Z",
       "articleSlug": "dwf-bitgo",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
@@ -39809,6 +39809,23 @@
           ],
           "reviewedAt": "2026-10-10T03:46:33.066Z",
           "articleSlug": "iran-seizure"
+        },
+        "496643e7a159131009a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the $141M London High Court claim in full Unchained and Decrypt reads: FF/ESPORTS lock-up-breach allegations, April-May dispute timeline, price impact, WLFI custody ties.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:34.700Z",
+          "articleSlug": "dwf-bitgo"
         }
       },
       "baselineSlugs": [
