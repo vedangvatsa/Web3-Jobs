@@ -25833,32 +25833,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "b17f7b0daf20c68618e4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T14:19:57.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 9 State Council blockchain-network opinion in full Xinhua primary text plus crypto.news and Cryptovka reads; drafted 650+ words with self-hosted hero, all links 200.",
-      "sourceChecks": [
-        {
-          "url": "https://crypto.news/china-plans-national-blockchain-network-digital-push/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptovka.com/news/china-unveils-strategic-plan-for-national-blockchain-and-computing-networks",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.xinhuanet.com/20261009/f55b6a82c5bf414389036cbf662200ab/c.html",
-          "outcome": "read"
-        },
-        {
-          "url": "https://beincrypto.com/china-national-blockchain-network-bitcoin/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T16:46:09.110Z",
+      "reason": "opinion",
+      "note": "Question headline asking if Bitcoin benefits from China network is prediction/framing, not a concrete dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T22:53:55.086Z",
       "articleSlug": "china-network",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -43890,6 +43873,13 @@
           "reviewedAt": "2026-10-10T22:53:43.623Z",
           "duplicateOf": "xrp-bug",
           "mergedInto": "1a5192e7fa4323c2dc45"
+        },
+        "b17f7b0daf20c68618e4": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Question headline asking if Bitcoin benefits from China network is prediction/framing, not a concrete dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T22:53:55.086Z"
         }
       },
       "baselineSlugs": [
