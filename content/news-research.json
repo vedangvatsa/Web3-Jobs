@@ -14949,17 +14949,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "97cd7b6349290032f276",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-11T09:05:50.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Samsung Oct 7 USDC late-October launch for 82M devices covered by samsung-usdc.",
+      "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:39:27.118Z",
+      "reviewedAt": "2026-10-10T03:48:29.532Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "4d0c341e251b419b5c56"
     },
     "67de49f7da8711f3fc2f": {
       "source": "Cointelegraph",
@@ -40288,6 +40289,15 @@
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
+        },
+        "97cd7b6349290032f276": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:29.532Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "4d0c341e251b419b5c56"
         }
       },
       "baselineSlugs": [
