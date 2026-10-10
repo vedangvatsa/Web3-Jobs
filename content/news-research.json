@@ -25442,11 +25442,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7ecdfd994ce12296e566",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T11:44:28.715Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T10:55:20.000Z",
-      "lastSeenAt": "2026-10-10T11:44:28.715Z"
+      "lastSeenAt": "2026-10-10T11:44:28.715Z",
+      "reason": "source-blocked",
+      "note": "BeInCrypto origin returned HTTP 403; sealed-wallet spy-chip claim needs a second readable outlet before any draft.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/ledger-wallet-spy-chip-reseller/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T11:45:33.940Z",
+      "retrySearches": [
+        "Ledger sealed wallet spy chip reseller independent reporting with Ledger response"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     }
   },
   "runs": {
@@ -42340,6 +42354,21 @@
           "reviewedAt": "2026-10-10T11:45:31.873Z",
           "retrySearches": [
             "CryptoBilis 464 ETH Tornado Cash independent reporting with traced addresses and amounts"
+          ]
+        },
+        "7ecdfd994ce12296e566": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "BeInCrypto origin returned HTTP 403; sealed-wallet spy-chip claim needs a second readable outlet before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/ledger-wallet-spy-chip-reseller/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T11:45:33.940Z",
+          "retrySearches": [
+            "Ledger sealed wallet spy chip reseller independent reporting with Ledger response"
           ]
         }
       },
