@@ -21046,23 +21046,23 @@
       "id": "444c2aa0acf1240fe52e",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T06:40:54.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk bitcoin-lending headline with the 500M figure; single outlet so far. Next: find the debut announcement or second outlet and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:34.482Z",
+      "reviewedAt": "2026-10-10T03:50:44.054Z",
       "retrySearches": [
-        "bitcoin lending 500M debut announcement draft"
+        "Bitcoin lending 500M commitments debut participants and whether Sui Hashi related"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "910cbdc22ebf840f561a": {
       "source": "CryptoSlate",
@@ -41368,6 +41368,21 @@
           "reviewedAt": "2026-10-10T03:50:42.346Z",
           "retrySearches": [
             "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round terms and valuation"
+          ]
+        },
+        "444c2aa0acf1240fe52e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:44.054Z",
+          "retrySearches": [
+            "Bitcoin lending 500M commitments debut participants and whether Sui Hashi related"
           ]
         }
       },
