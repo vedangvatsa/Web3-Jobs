@@ -24501,23 +24501,23 @@
       "id": "368c99d2c809c3ce18b9",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T20:00:29.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "XRP Ledger account-duties feature seen only in single CryptoSlate origin; needs Ripple or second outlet.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T23:41:17.477Z",
+      "reviewedAt": "2026-10-10T03:52:23.671Z",
       "retrySearches": [
-        "XRP Ledger account delegation institutions keys feature announcement"
+        "XRP Ledger institutional account controls amendment second source and status"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "cf7f677d465ab1ca9d58": {
       "source": "CryptoSlate",
@@ -42085,6 +42085,21 @@
           "reviewedAt": "2026-10-10T03:52:21.915Z",
           "retrySearches": [
             "Coinbase Gennius ONED stablecoin Latin America banks plan details"
+          ]
+        },
+        "368c99d2c809c3ce18b9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:23.671Z",
+          "retrySearches": [
+            "XRP Ledger institutional account controls amendment second source and status"
           ]
         }
       },
