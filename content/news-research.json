@@ -22165,23 +22165,23 @@
       "id": "84e69493871641eeb738",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T12:18:45.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained Zcash page and confirmed the January target headline; pairs with the CoinDesk version. Next: full-read both and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/zcash-node-team-targets-january-for-post-quantum-signatures-on-transparent-addresses/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:23.034Z",
+      "reviewedAt": "2026-10-10T03:51:12.826Z",
       "retrySearches": [
-        "Zcash January post-quantum CoinDesk corroboration draft"
+        "Zcash post-quantum transparent address signatures January plan developer confirmation"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "e66ee88be162ecda829e": {
       "source": "BeInCrypto",
@@ -41555,6 +41555,21 @@
           "reviewedAt": "2026-10-10T03:51:11.105Z",
           "duplicateOf": "empire-market",
           "mergedInto": "33d2532cea35902b8372"
+        },
+        "84e69493871641eeb738": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/zcash-node-team-targets-january-for-post-quantum-signatures-on-transparent-addresses/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:12.826Z",
+          "retrySearches": [
+            "Zcash post-quantum transparent address signatures January plan developer confirmation"
+          ]
         }
       },
       "baselineSlugs": [
