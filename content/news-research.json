@@ -21151,24 +21151,24 @@
       "id": "11a30808d0c23996da58",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T04:52:51.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "Defiant Solana 200ms scheduling piece returned HTTP 403 to round 3; pairs with the CoinDesk upgrade piece that stayed reachable. Next: full-read CoinDesk plus an Anza confirmation and draft.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:07.268Z",
+      "reviewedAt": "2026-10-10T03:50:48.891Z",
       "duplicateOf": "slot-times",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Solana 200ms CoinDesk Anza corroboration draft"
+        "Solana 200-millisecond slots final upgrade activation date and validator vote status"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "27f81ea86adb75b79871": {
       "source": "CoinDesk",
@@ -41413,6 +41413,21 @@
           "reviewedAt": "2026-10-10T03:50:47.279Z",
           "retrySearches": [
             "Core Lightning critical security flaws patch release notes and severity"
+          ]
+        },
+        "11a30808d0c23996da58": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:48.891Z",
+          "retrySearches": [
+            "Solana 200-millisecond slots final upgrade activation date and validator vote status"
           ]
         }
       },
