@@ -14412,22 +14412,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "256cca266632a898b8b3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T10:04:45.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained Securitize-LG piece and confirmed the explore headline; single outlet so far. Next: find a Securitize or LG CNS notice and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/securitize-teams-with-koreas-lg-cns-to-explore-tokenized-funds-and-stablecoins/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:35.683Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:12.498Z",
       "articleSlug": "securitize-korea",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -14442,8 +14437,7 @@
       ],
       "retrySearches": [
         "Securitize LG CNS tokenized funds notice draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "21f0c3a44c024692a6be": {
       "source": "The Block",
@@ -40207,6 +40201,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:10.785Z"
+        },
+        "256cca266632a898b8b3": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:12.498Z"
         }
       },
       "baselineSlugs": [
