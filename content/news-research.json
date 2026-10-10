@@ -17106,24 +17106,20 @@
       "id": "4d71a9d867c5924200b7",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 re-read Decrypt and CoinDesk on Securitize Oct 8 Stocks launch with 12 tickers, 1:1 entitlement, PropAMM and NYSE plans; draft not yet written. Next: re-open PRNewswire release and draft securitize-stocks.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:01:00.701Z",
+      "reviewedAt": "2026-10-10T03:49:22.153Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "articleSlug": "securitize-stocks",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
@@ -17133,9 +17129,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Securitize Stocks PRNewswire 12 tickers draft securitize-stocks"
+        "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "3b110ea0056b771ffe65": {
       "source": "The Defiant",
@@ -40678,6 +40674,21 @@
           "reviewedAt": "2026-10-10T03:49:20.507Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:22.153Z",
+          "retrySearches": [
+            "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
+          ]
         }
       },
       "baselineSlugs": [
