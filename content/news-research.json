@@ -12846,26 +12846,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "78e886ce7b303d7c7c1f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-10T07:08:36.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "source-blocked",
-      "note": "The Block Robinhood BTC buy page returned HTTP 403 to round 3; same balance-sheet buy readable in Unchained and CoinDesk versions. Next: re-open two readable outlets and draft robinhood-bitcoin.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T17:58:06.314Z",
+      "reason": "duplicate",
+      "note": "Same Robinhood $25M bitcoin buy already drafted as robinhood-bitcoin this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:35.114Z",
       "duplicateOf": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Robinhood bitcoin balance sheet second readable outlet draft"
       ],
-      "nextReviewDate": "2026-10-10"
+      "mergedInto": "e04537f91ce4996c0500"
     },
     "8e04d51579a11af2f2df": {
       "source": "CoinDesk",
@@ -40037,6 +40032,15 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:33.451Z"
+        },
+        "78e886ce7b303d7c7c1f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Robinhood $25M bitcoin buy already drafted as robinhood-bitcoin this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:35.114Z",
+          "duplicateOf": "robinhood-bitcoin",
+          "mergedInto": "e04537f91ce4996c0500"
         }
       },
       "baselineSlugs": [
