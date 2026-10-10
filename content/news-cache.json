@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-10T16:20:04.646Z",
+  "generatedAt": "2026-10-10T22:48:41.804Z",
   "items": [
+    {
+      "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
+      "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "pubDate": "Sat, 10 Oct 2026 18:35:25 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
+      "source": "The Block"
+    },
+    {
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "pubDate": "Sat, 10 Oct 2026 17:01:03 +0000",
+      "creator": "Guillermo Jimenez",
+      "contentSnippet": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule e...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "NY AG Secures $35,000,000 and Lifetime Crypto Ban From Ex-Celsius CEO for Investor Fraud",
+      "link": "https://dailyhodl.com/2026/10/10/ny-ag-secures-35000000-and-lifetime-crypto-ban-from-ex-celsius-ceo-for-investor-fraud/",
+      "pubDate": "Sat, 10 Oct 2026 16:55:44 +0000",
+      "creator": "Agent",
+      "contentSnippet": "New York Attorney General Letitia James reached a settlement with a former cryptocurrency lending platform executive that includes up to $35 million i...",
+      "source": "Daily Hodl"
+    },
     {
       "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
       "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
@@ -450,14 +474,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Former Engineer Gets 32 Months Prison for Hacking Employer and Demanding Bitcoin (BTC) Ransom",
-      "link": "https://dailyhodl.com/2026/10/08/former-engineer-gets-32-months-prison-for-hacking-employer-and-demanding-bitcoin-btc-ransom/",
-      "pubDate": "Thu, 08 Oct 2026 16:55:56 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A disgruntled former core infrastructure engineer at a New Jersey industrial company hacked the firm's network in November 2023 by scheduling damaging...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
       "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
       "pubDate": "Thu, 08 Oct 2026 16:44:20 +0000",
@@ -560,14 +576,6 @@
       "creator": "Timmy Shen",
       "contentSnippet": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
       "source": "The Block"
-    },
-    {
-      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
-      "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
-      "pubDate": "Wed, 07 Oct 2026 20:16:04 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" ...",
-      "source": "Decrypt"
     }
   ]
 }
