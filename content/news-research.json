@@ -11687,22 +11687,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "5e818d6c7c2ca5d7595e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T19:46:04.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Decrypt Tether-Kazakhstan page and confirmed the MoU headline; rounds 1-2 list the Tether release, Decrypt and CoinDesk reads. Next: re-open release plus one outlet and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:26.380Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:06.673Z",
       "articleSlug": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -11712,8 +11707,7 @@
       ],
       "retrySearches": [
         "Tether Kazakhstan NBK MoU release draft tenge"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "9a6e149de49b4c1f5756": {
       "source": "CryptoSlate",
@@ -39976,6 +39970,13 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:47:05.021Z"
+        },
+        "5e818d6c7c2ca5d7595e": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:06.673Z"
         }
       },
       "baselineSlugs": [
