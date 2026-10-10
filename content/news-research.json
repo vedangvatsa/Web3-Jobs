@@ -25082,11 +25082,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "76b8464225483b76a3b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T06:33:43.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "duplicate",
+      "note": "Same XRPL overflow disclosure already drafted as xrpl-overflow this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T10:29:52.338Z",
+      "duplicateOf": "xrpl-overflow",
+      "mergedInto": "1a5192e7fa4323c2dc45",
+      "lastReviewedDay": "2026-10-10"
     },
     "880338fce6d286827ad4": {
       "source": "CoinDesk",
@@ -42815,6 +42822,15 @@
           "reviewedAt": "2026-10-10T10:29:50.350Z",
           "duplicateOf": "dwf-bitgo",
           "mergedInto": "496643e7a159131009a6"
+        },
+        "76b8464225483b76a3b9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same XRPL overflow disclosure already drafted as xrpl-overflow this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:52.338Z",
+          "duplicateOf": "xrpl-overflow",
+          "mergedInto": "1a5192e7fa4323c2dc45"
         }
       },
       "baselineSlugs": [
