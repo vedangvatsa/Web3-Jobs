@@ -24730,17 +24730,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "da7ea4741cb5cd813e4a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T01:50:00.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
       "note": "Same NY AG settlement event already drafted as mashinsky-ban this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:52:30.604Z",
+      "reviewedAt": "2026-10-10T10:29:15.485Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "3e5484a682e6ed261c67"
     },
     "6cbacd263bba4dccfcf3": {
       "source": "Bitcoin Magazine",
@@ -42663,6 +42664,15 @@
           "note": "Same NY AG settlement event already drafted as mashinsky-ban this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:29:13.437Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "3e5484a682e6ed261c67"
+        },
+        "da7ea4741cb5cd813e4a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NY AG settlement event already drafted as mashinsky-ban this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:15.485Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "3e5484a682e6ed261c67"
         }
