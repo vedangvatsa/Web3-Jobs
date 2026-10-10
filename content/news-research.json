@@ -15696,17 +15696,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "6dfcb9105a9c9fcd521a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 14,
+      "attempts": 15,
       "expiresAt": "2026-10-11T08:24:24.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Samsung Wallet late-October USDC launch already covered in samsung-usdc this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:02.266Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:54:58.862Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "7686b683757996b39984": {
       "source": "Cointelegraph",
@@ -44036,6 +44045,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:54:57.153Z",
+          "retrySearches": [
+            "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+          ]
+        },
+        "6dfcb9105a9c9fcd521a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:54:58.862Z",
           "retrySearches": [
             "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
           ]
