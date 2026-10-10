@@ -25080,11 +25080,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4636e3d0ae5557b64899",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T09:00:00.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "promotional",
+      "note": "XT Exchange eighth-anniversary essay on user experience argues the next billion users come from UX; brand anniversary marketing with no dated event or figures.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T10:03:03.329Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "8a5acbd3f853f1c58fc3": {
       "source": "Cointelegraph",
@@ -41978,6 +41983,13 @@
           "note": "CoinDesk volatility analysis compares realized volatility and tail moves across years; market-structure commentary with no dated concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:03:01.355Z"
+        },
+        "4636e3d0ae5557b64899": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "XT Exchange eighth-anniversary essay on user experience argues the next billion users come from UX; brand anniversary marketing with no dated event or figures.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:03:03.329Z"
         }
       },
       "baselineSlugs": [
