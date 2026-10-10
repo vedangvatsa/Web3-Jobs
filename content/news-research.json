@@ -22857,17 +22857,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e5af931a9920c0e1eb6b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T16:29:56.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
       "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T10:29:25.624Z",
+      "reviewedAt": "2026-10-10T12:05:28.017Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "688de4a780985d424532": {
       "source": "CryptoSlate",
@@ -42923,6 +42924,15 @@
           "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T12:05:25.914Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "e5af931a9920c0e1eb6b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T12:05:28.017Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
         }
