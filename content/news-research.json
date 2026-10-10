@@ -21041,13 +21041,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "33d2532cea35902b8372",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T09:20:16.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 re-read CoinDesk and Decrypt on Hamilton 40-year sentence with 1,230 BTC forfeiture and Pavey 1,584 BTC; draft not yet written. Next: re-open NDIL release and draft empire-market.",
+      "reason": "verified-event",
+      "note": "Verified the 40-year sentence and 1,230 BTC forfeiture in full CoinDesk and Decrypt reads: $430M market, drug quantities, Pavey 1,584 BTC pending sentencing this month.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
@@ -21058,13 +21058,13 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T18:01:21.081Z",
+      "reviewedAt": "2026-10-10T03:46:39.893Z",
       "duplicateOf": "empire-market",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Hamilton Empire Market sentencing NDIL release draft empire-market"
       ],
-      "nextReviewDate": "2026-10-10"
+      "articleSlug": "empire-market"
     },
     "724035b8cd9bafa2f945": {
       "source": "CoinDesk",
@@ -39870,6 +39870,23 @@
           ],
           "reviewedAt": "2026-10-10T03:46:38.139Z",
           "articleSlug": "nfl-kalshi"
+        },
+        "33d2532cea35902b8372": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the 40-year sentence and 1,230 BTC forfeiture in full CoinDesk and Decrypt reads: $430M market, drug quantities, Pavey 1,584 BTC pending sentencing this month.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:39.893Z",
+          "articleSlug": "empire-market"
         }
       },
       "baselineSlugs": [
