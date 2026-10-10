@@ -25850,11 +25850,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "9c567295b2e6ca362468",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T11:52:14.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "verified-event",
+      "note": "Verified Sun testnet post-quantum claim and AmericanFortress paper in Cointelegraph and KuCoin reads; hedged as founder claim, hero self-hosted, gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.kucoin.com/news/flash/tron-post-quantum-crypto-live-on-testnet-americanfortress-proposes-quantum-resistant-wallets",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T16:50:32.620Z",
+      "articleSlug": "tron-quantum",
+      "lastReviewedDay": "2026-10-10"
     },
     "df8a1456b3ab8dd0bda1": {
       "source": "BeInCrypto",
@@ -43149,6 +43164,23 @@
           ],
           "reviewedAt": "2026-10-10T16:50:30.691Z",
           "articleSlug": "papertrade"
+        },
+        "9c567295b2e6ca362468": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Sun testnet post-quantum claim and AmericanFortress paper in Cointelegraph and KuCoin reads; hedged as founder claim, hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.kucoin.com/news/flash/tron-post-quantum-crypto-live-on-testnet-americanfortress-proposes-quantum-resistant-wallets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:50:32.620Z",
+          "articleSlug": "tron-quantum"
         }
       },
       "baselineSlugs": [
