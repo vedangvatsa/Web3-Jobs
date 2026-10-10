@@ -12816,26 +12816,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "39a72fc1ef8eff10e953",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T07:10:59.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph Storm acquittal-bid headline; pairs with the Decrypt venue piece opened this run. Next: full-read both and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:12:00.388Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:33.451Z",
       "duplicateOf": "storm-venue",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Roman Storm acquittal Bitcoin Fog Decrypt corroboration draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "78e886ce7b303d7c7c1f": {
       "source": "The Block",
@@ -40036,6 +40030,13 @@
           "reviewedAt": "2026-10-10T03:47:31.814Z",
           "duplicateOf": "robinhood-bitcoin",
           "mergedInto": "e04537f91ce4996c0500"
+        },
+        "39a72fc1ef8eff10e953": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:33.451Z"
         }
       },
       "baselineSlugs": [
