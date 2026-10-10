@@ -25978,11 +25978,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "df8a1456b3ab8dd0bda1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T11:31:15.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "out-of-scope",
+      "note": "AI assistant police-tip incident with no crypto event or Web3 angle.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:53:12.561Z",
+      "lastReviewedDay": "2026-10-10"
     }
   },
   "runs": {
@@ -43743,6 +43748,13 @@
           "note": "Tokenized-commodities feature republished from Oct 5; market overview, not a fresh concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:53:10.375Z"
+        },
+        "df8a1456b3ab8dd0bda1": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI assistant police-tip incident with no crypto event or Web3 angle.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:53:12.561Z"
         }
       },
       "baselineSlugs": [
