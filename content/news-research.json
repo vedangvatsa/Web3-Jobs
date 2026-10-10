@@ -21964,23 +21964,23 @@
       "id": "26b6d0643da1b0aa72ca",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T12:36:56.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "source-blocked",
-      "note": "BeInCrypto Gate-Visa page returned HTTP 403 to round 3 with no second outlet in queue. Next: find a Gate or Visa announcement and draft.",
+      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/gate-partners-with-visa-crypto-card/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:18.445Z",
+      "reviewedAt": "2026-10-10T03:51:07.561Z",
       "retrySearches": [
-        "Gate Visa crypto card announcement draft"
+        "Gate Visa crypto card 40 countries launch terms and availability"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "f46b0c4a638dbaf5f575": {
       "source": "CoinDesk",
@@ -41530,6 +41530,21 @@
           "reviewedAt": "2026-10-10T03:51:05.791Z",
           "retrySearches": [
             "Anthropic frontier AI security scanner crypto applicants and program terms"
+          ]
+        },
+        "26b6d0643da1b0aa72ca": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/gate-partners-with-visa-crypto-card/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:07.561Z",
+          "retrySearches": [
+            "Gate Visa crypto card 40 countries launch terms and availability"
           ]
         }
       },
