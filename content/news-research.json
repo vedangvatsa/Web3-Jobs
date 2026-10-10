@@ -11620,20 +11620,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7d69f046dbb94aa723d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-10T20:46:56.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "duplicate",
-      "note": "Same Robinhood 25M bitcoin buy already drafted as robinhood-bitcoin this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:03:28.077Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 7 Robinhood 25M first proprietary BTC holding and Kerbrat DAS Asia remarks in CoinDesk and Unchained reads; hero self-hosted, gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+          "outcome": "read"
+        },
+        {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-puts-25-million-bitcoin-100435206.html",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T16:50:21.524Z",
       "duplicateOf": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Robinhood 25M bitcoin Kerbrat DAS Asia two readable outlets draft"
-      ]
+      ],
+      "articleSlug": "robinhood-bitcoin"
     },
     "5e3509b7c11a0d8b4664": {
       "source": "The Defiant",
@@ -43058,6 +43068,23 @@
           ],
           "reviewedAt": "2026-10-10T16:50:19.658Z",
           "articleSlug": "xrpl-overflow"
+        },
+        "f7d69f046dbb94aa723d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 7 Robinhood 25M first proprietary BTC holding and Kerbrat DAS Asia remarks in CoinDesk and Unchained reads; hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+              "outcome": "read"
+            },
+            {
+              "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-puts-25-million-bitcoin-100435206.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:50:21.524Z",
+          "articleSlug": "robinhood-bitcoin"
         }
       },
       "baselineSlugs": [
