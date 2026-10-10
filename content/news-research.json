@@ -25448,11 +25448,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b93af2d98359dff14dd",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T16:00:40.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 9 CFTC swap-proposal plus interim casino-wager rule in full CryptoSlate and CoinDesk reads; expanded past 600 words, hero self-hosted, all links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T16:45:52.096Z",
+      "articleSlug": "cftc-wagers",
+      "lastReviewedDay": "2026-10-10"
     },
     "f1f95bcf6b60ca241a35": {
       "source": "Decrypt",
@@ -42719,6 +42734,23 @@
           ],
           "reviewedAt": "2026-10-10T16:45:42.883Z",
           "articleSlug": "bitfinex-move"
+        },
+        "8b93af2d98359dff14dd": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 CFTC swap-proposal plus interim casino-wager rule in full CryptoSlate and CoinDesk reads; expanded past 600 words, hero self-hosted, all links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:45:52.096Z",
+          "articleSlug": "cftc-wagers"
         }
       },
       "baselineSlugs": [
