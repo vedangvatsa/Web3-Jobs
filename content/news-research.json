@@ -17618,23 +17618,23 @@
       "id": "6f421eab942d61e269b4",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T16:25:06.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "IMF tokenized-markets warning seen only in single outlet; needs IMF report page plus second outlet.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:18:28.578Z",
+      "reviewedAt": "2026-10-10T03:49:32.263Z",
       "retrySearches": [
-        "IMF tokenized markets financial risks October 2026"
+        "IMF tokenized markets financial risk warning report text and recommendations"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "54e70e74dd24c8a9a2ef": {
       "source": "CryptoSlate",
@@ -40751,6 +40751,21 @@
           "reviewedAt": "2026-10-10T03:49:30.592Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "6f421eab942d61e269b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:32.263Z",
+          "retrySearches": [
+            "IMF tokenized markets financial risk warning report text and recommendations"
+          ]
         }
       },
       "baselineSlugs": [
