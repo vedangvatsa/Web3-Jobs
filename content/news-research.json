@@ -16603,24 +16603,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8 12,267 BTC unlabeled transfer plus Wednesday Coinbase Prime flows in full Decrypt and CoinDesk reads; expanded past 600 words, hero self-hosted, all links 200.",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-          "outcome": "read"
-        },
-        {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T16:45:42.883Z",
+      "reviewedAt": "2026-10-10T22:55:02.805Z",
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -16637,7 +16633,11 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "793e33cc45c8a11bda37": {
       "source": "Cointelegraph",
@@ -44086,6 +44086,21 @@
           "reviewedAt": "2026-10-10T22:55:00.979Z",
           "retrySearches": [
             "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+          ]
+        },
+        "be4753c98af4393ba28f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:02.805Z",
+          "retrySearches": [
+            "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
           ]
         }
       },
