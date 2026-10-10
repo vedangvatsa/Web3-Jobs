@@ -24815,11 +24815,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d2d7a1b55b78c7f15a05",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T02:06:06.000Z",
-      "lastSeenAt": "2026-10-10T03:31:28.127Z"
+      "lastSeenAt": "2026-10-10T03:31:28.127Z",
+      "reason": "source-blocked",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T03:52:35.715Z",
+      "retrySearches": [
+        "Ledger theft funds USDD shift claims with onchain evidence and Tether response"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "cf91cc0e021c7179aa15": {
       "source": "BeInCrypto",
@@ -42209,6 +42223,21 @@
           "reviewedAt": "2026-10-10T03:52:33.992Z",
           "retrySearches": [
             "Solana 200ms block speed Alpenglow upgrade activation evidence beyond speed claim"
+          ]
+        },
+        "d2d7a1b55b78c7f15a05": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:35.715Z",
+          "retrySearches": [
+            "Ledger theft funds USDD shift claims with onchain evidence and Tether response"
           ]
         }
       },
