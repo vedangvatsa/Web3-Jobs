@@ -19159,24 +19159,24 @@
       "id": "c69fbe223cd6bc09e10f",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T18:11:29.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Bankless Buterin warning page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Block version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.bankless.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-          "outcome": "blocked"
+          "url": "https://www.bankless.com/read/news/vitalik-flags-ai-risk-to-crypto-warns-against-rushed-wallet-moves",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:33.868Z",
+      "reviewedAt": "2026-10-10T03:50:10.350Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Bankless Buterin no-rush warning full read draft bunker-mode"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "7b9a11ab88206c8c738a": {
       "source": "BeInCrypto",
@@ -41084,6 +41084,21 @@
           "reviewedAt": "2026-10-10T03:50:08.690Z",
           "retrySearches": [
             "Aptos 210M APT lock insider unlock schedule with foundation statement"
+          ]
+        },
+        "c69fbe223cd6bc09e10f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.bankless.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/vitalik-flags-ai-risk-to-crypto-warns-against-rushed-wallet-moves",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:10.350Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
         }
       },
