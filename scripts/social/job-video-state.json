@@ -1952,10 +1952,11 @@
           "url": "https://www.youtube.com/watch?v=v523qo9gPpc"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Senior Data Analyst at Solflare. Zagreb, Croatia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-10T03:31:59.800Z",
-          "postId": "6ac9b1b1ed92ed8fa5b6a8b2"
+          "postId": "6ac9b1b1ed92ed8fa5b6a8b2",
+          "url": "https://tiktok.com/@hashtagweb3/video/7694876763016482080"
         }
       }
     },
