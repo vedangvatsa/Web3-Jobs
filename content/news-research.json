@@ -16811,23 +16811,23 @@
       "id": "3c52e57d52067e8770d9",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T16:53:52.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "EDX VerifiedX vBTC partnership seen only in single outlet; needs EDX or VerifiedX notice plus second outlet.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:18:10.112Z",
+      "reviewedAt": "2026-10-10T03:49:10.429Z",
       "retrySearches": [
-        "EDX VerifiedX verified bitcoin institutional markets"
+        "EDX VerifiedX verified bitcoin vBTC institutional launch mechanics and availability"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "ae47f8ab88a2c7848349": {
       "source": "CryptoSlate",
@@ -40592,6 +40592,21 @@
           "reviewedAt": "2026-10-10T03:49:08.684Z",
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
+        },
+        "3c52e57d52067e8770d9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:10.429Z",
+          "retrySearches": [
+            "EDX VerifiedX verified bitcoin vBTC institutional launch mechanics and availability"
           ]
         }
       },
