@@ -14766,24 +14766,24 @@
       "id": "479c54f47ccca88972b4",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T08:40:15.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "needs-corroboration",
-      "note": "CryptoSlate Buterin-calm page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
-          "outcome": "blocked"
+          "url": "https://cryptoslate.com/vitalik-buterin-urges-calm-as-ai-raises-new-fears-over-bitcoin-and-ethereum-cryptography-security/",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:13.423Z",
+      "reviewedAt": "2026-10-10T03:48:24.332Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Buterin calm AI fears CryptoSlate full read draft bunker-mode"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "c7afc2887d7fc29547c0": {
       "source": "CoinDesk",
@@ -40243,6 +40243,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:48:22.663Z"
+        },
+        "479c54f47ccca88972b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/vitalik-buterin-urges-calm-as-ai-raises-new-fears-over-bitcoin-and-ethereum-cryptography-security/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:24.332Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
         }
       },
       "baselineSlugs": [
