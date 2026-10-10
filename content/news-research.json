@@ -26275,11 +26275,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "cb66c757ae4ae748b70b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T17:01:03.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "duplicate",
+      "note": "Same CFTC Oct 9 event-contracts vs gambling measures drafted as cftc-events; verified in CFTC releases plus Decrypt and CryptoSlate reads.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:53:26.904Z",
+      "duplicateOf": "cftc-events",
+      "mergedInto": "8b93af2d98359dff14dd",
+      "lastReviewedDay": "2026-10-10"
     },
     "7b823141592953e24684": {
       "source": "The Defiant",
@@ -43627,6 +43643,24 @@
           ],
           "reviewedAt": "2026-10-10T22:53:25.264Z",
           "articleSlug": "cftc-events"
+        },
+        "cb66c757ae4ae748b70b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CFTC Oct 9 event-contracts vs gambling measures drafted as cftc-events; verified in CFTC releases plus Decrypt and CryptoSlate reads.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:53:26.904Z",
+          "duplicateOf": "cftc-events",
+          "mergedInto": "8b93af2d98359dff14dd"
         }
       },
       "baselineSlugs": [
