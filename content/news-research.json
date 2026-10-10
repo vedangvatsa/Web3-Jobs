@@ -16680,24 +16680,24 @@
       "id": "634e1516faeb608c8daa",
       "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "NFL Oct 8 amicus backing NJ SCOTUS review verified in Decrypt and CoinDesk reads with circuit split and gambling-versus-swaps arguments. Draft 749 words, audits clean.",
+      "note": "Verified the Oct 8 NFL amicus brief in full Unchained and Decrypt reads via the SCOTUS filing: gambling-not-swaps argument, circuit split, safeguards dispute, Nov 9 Kalshi response due.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+          "url": "https://unchainedcrypto.com/nfl-tells-supreme-court-prediction-market-sports-contracts-are-gambling-not-swaps/",
           "outcome": "read"
         },
         {
-          "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+          "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T23:39:04.482Z",
+      "reviewedAt": "2026-10-10T03:46:38.139Z",
       "articleSlug": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
@@ -39853,6 +39853,23 @@
           ],
           "reviewedAt": "2026-10-10T03:46:36.386Z",
           "articleSlug": "samsung-usdc"
+        },
+        "634e1516faeb608c8daa": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 8 NFL amicus brief in full Unchained and Decrypt reads via the SCOTUS filing: gambling-not-swaps argument, circuit split, safeguards dispute, Nov 9 Kalshi response due.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/nfl-tells-supreme-court-prediction-market-sports-contracts-are-gambling-not-swaps/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:38.139Z",
+          "articleSlug": "nfl-kalshi"
         }
       },
       "baselineSlugs": [
