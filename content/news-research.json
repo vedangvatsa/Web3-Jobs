@@ -15099,24 +15099,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d0c341e251b419b5c56",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 13,
+      "attempts": 14,
       "expiresAt": "2026-10-11T10:47:21.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "Verified Oct 7 Samsung announcement in Unchained and Samsung pressroom reads: late-October USDC on 82M devices, Bastion and Coinbase custody, Solana and Sui rails, 60-country bank payouts.",
+      "note": "Verified Oct 7 Samsung late-October USDC launch on 82M devices, Bastion/Coinbase custody, Solana and Sui rails in Unchained and CoinDesk reads; hero self-hosted, gates pass.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
           "outcome": "read"
         },
         {
-          "url": "https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
+          "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T12:02:09.508Z",
+      "reviewedAt": "2026-10-10T16:49:48.519Z",
       "duplicateOf": "samsung-usdc",
       "lastReviewedDay": "2026-10-10",
       "articleSlug": "samsung-usdc",
@@ -42896,6 +42896,23 @@
           ],
           "reviewedAt": "2026-10-10T16:46:09.110Z",
           "articleSlug": "china-network"
+        },
+        "4d0c341e251b419b5c56": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 7 Samsung late-October USDC launch on 82M devices, Bastion/Coinbase custody, Solana and Sui rails in Unchained and CoinDesk reads; hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:49:48.519Z",
+          "articleSlug": "samsung-usdc"
         }
       },
       "baselineSlugs": [
