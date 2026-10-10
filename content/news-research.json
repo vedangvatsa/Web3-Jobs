@@ -23883,25 +23883,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "a391370519699e67f1d6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T19:03:12.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "Papertrade launch weekend seen only in single Bankless origin; needs product announcement or second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://www.bankless.com/read/papertrade-s-launch-weekend",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T23:41:07.767Z",
+      "reason": "promotional",
+      "note": "Bankless Papertrade launch-weekend item is product promotion without an independent newsworthy event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:52:04.683Z",
       "retrySearches": [
         "Papertrade launch paper trading product announcement second outlet"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10"
     },
     "014eb017fb61184b85b3": {
       "source": "Bankless",
@@ -41940,6 +41934,13 @@
           "retrySearches": [
             "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
           ]
+        },
+        "a391370519699e67f1d6": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Bankless Papertrade launch-weekend item is product promotion without an independent newsworthy event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:52:04.683Z"
         }
       },
       "baselineSlugs": [
