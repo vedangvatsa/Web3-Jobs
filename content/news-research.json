@@ -21799,23 +21799,23 @@
       "id": "69d2ddb419c22b7ada74",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T05:34:33.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph Anthropic-scanner headline; single outlet so far. Next: find an Anthropic announcement or applicant confirmation and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:16.134Z",
+      "reviewedAt": "2026-10-10T03:51:05.791Z",
       "retrySearches": [
-        "Anthropic frontier AI scanner announcement draft"
+        "Anthropic frontier AI security scanner crypto applicants and program terms"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "70657af4217816dbce56": {
       "source": "BeInCrypto",
@@ -41516,6 +41516,21 @@
           "reviewedAt": "2026-10-10T03:51:03.948Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "69d2ddb419c22b7ada74": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:05.791Z",
+          "retrySearches": [
+            "Anthropic frontier AI security scanner crypto applicants and program terms"
+          ]
         }
       },
       "baselineSlugs": [
