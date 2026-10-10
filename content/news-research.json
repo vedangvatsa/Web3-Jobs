@@ -24613,7 +24613,7 @@
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "verified-event",
-      "note": "Verified Bessent Oct 9 $1B seizure claim in full Cointelegraph and Bitcoin Magazine reads: Newsmax summit quotes, OFAC August action, prior $500M/$550M figures, asset ambiguity preserved.",
+      "note": "Verified Bessent Oct 9 B claim in full Cointelegraph, Bitcoin Magazine and Newsmax reads: summit quotes, isolation-campaign specifics, OFAC action, prior figures, asset ambiguity preserved.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
@@ -24622,9 +24622,13 @@
         {
           "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.yahoo.com/news/politics/articles/bessent-us-moves-absolute-isolation-112910598.html",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T03:46:33.066Z",
+      "reviewedAt": "2026-10-10T04:09:06.398Z",
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -39653,7 +39657,7 @@
         "2f33d3c76777e7ef334e": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Verified Bessent Oct 9 $1B seizure claim in full Cointelegraph and Bitcoin Magazine reads: Newsmax summit quotes, OFAC August action, prior $500M/$550M figures, asset ambiguity preserved.",
+          "note": "Verified Bessent Oct 9 B claim in full Cointelegraph, Bitcoin Magazine and Newsmax reads: summit quotes, isolation-campaign specifics, OFAC action, prior figures, asset ambiguity preserved.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
@@ -39662,9 +39666,13 @@
             {
               "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
               "outcome": "read"
+            },
+            {
+              "url": "https://www.yahoo.com/news/politics/articles/bessent-us-moves-absolute-isolation-112910598.html",
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-10T03:46:33.066Z",
+          "reviewedAt": "2026-10-10T04:09:06.398Z",
           "articleSlug": "iran-seizure"
         },
         "496643e7a159131009a6": {
