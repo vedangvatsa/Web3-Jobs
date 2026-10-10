@@ -17194,17 +17194,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a24ff3e84b27f6e7fec",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-11T15:24:16.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same US government seized-crypto movement already covered in bitfinex-move this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:19.732Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:10.711Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "4d71a9d867c5924200b7": {
       "source": "Decrypt",
@@ -44171,6 +44180,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:08.955Z",
+          "retrySearches": [
+            "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+          ]
+        },
+        "3a24ff3e84b27f6e7fec": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:10.711Z",
           "retrySearches": [
             "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
           ]
