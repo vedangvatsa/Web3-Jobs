@@ -18117,24 +18117,24 @@
       "id": "a004e01e7f72c40546e6",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T14:04:39.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "The Block Securitize tokenized-stocks page returned HTTP 403 to round 3; same Oct 8 launch re-read in CoinDesk and Decrypt this round. Next: re-open PRNewswire release plus one outlet and draft securitize-stocks.",
+      "note": "Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:20.167Z",
+      "reviewedAt": "2026-10-10T03:49:45.651Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Securitize Stocks Solana PropAMM Jump second outlet draft"
+        "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "468524abbb1ccf6bfb49": {
       "source": "Cointelegraph",
@@ -40878,6 +40878,21 @@
           "reviewedAt": "2026-10-10T03:49:43.995Z",
           "retrySearches": [
             "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
+          ]
+        },
+        "a004e01e7f72c40546e6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:45.651Z",
+          "retrySearches": [
+            "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
           ]
         }
       },
