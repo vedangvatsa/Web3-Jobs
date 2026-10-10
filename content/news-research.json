@@ -24850,11 +24850,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf91cc0e021c7179aa15",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T00:09:51.000Z",
-      "lastSeenAt": "2026-10-10T03:31:28.127Z"
+      "lastSeenAt": "2026-10-10T03:31:28.127Z",
+      "reason": "source-blocked",
+      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/doj-binance-investigation-compliance-settlement/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T03:52:37.416Z",
+      "retrySearches": [
+        "DOJ Binance investigation follow-up claims with official statements beyond speculation"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "74519b6c7c74b6d87aef": {
       "source": "CryptoSlate",
@@ -42238,6 +42252,21 @@
           "reviewedAt": "2026-10-10T03:52:35.715Z",
           "retrySearches": [
             "Ledger theft funds USDD shift claims with onchain evidence and Tether response"
+          ]
+        },
+        "cf91cc0e021c7179aa15": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/doj-binance-investigation-compliance-settlement/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:37.416Z",
+          "retrySearches": [
+            "DOJ Binance investigation follow-up claims with official statements beyond speculation"
           ]
         }
       },
