@@ -15113,7 +15113,7 @@
       "expiresAt": "2026-10-11T10:47:21.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "verified-event",
-      "note": "Verified the Oct 7 Samsung announcement in full Unchained and Cointelegraph reads: late-October USDC on 82M devices, Bastion/Coinbase custody, Solana/Sui networks, 60-country bank payouts.",
+      "note": "Verified the Oct 7 Samsung announcement in full Unchained, Cointelegraph and Decrypt reads: late-October USDC on 82M devices, Bastion/Coinbase custody, Solana/Sui networks, history and open questions.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
@@ -15122,9 +15122,13 @@
         {
           "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T03:46:36.386Z",
+      "reviewedAt": "2026-10-10T04:08:30.533Z",
       "duplicateOf": "samsung-usdc",
       "lastReviewedDay": "2026-10-10",
       "articleSlug": "samsung-usdc"
@@ -39683,7 +39687,7 @@
         "4d0c341e251b419b5c56": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Verified the Oct 7 Samsung announcement in full Unchained and Cointelegraph reads: late-October USDC on 82M devices, Bastion/Coinbase custody, Solana/Sui networks, 60-country bank payouts.",
+          "note": "Verified the Oct 7 Samsung announcement in full Unchained, Cointelegraph and Decrypt reads: late-October USDC on 82M devices, Bastion/Coinbase custody, Solana/Sui networks, history and open questions.",
           "sourceChecks": [
             {
               "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
@@ -39692,9 +39696,13 @@
             {
               "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
               "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-10T03:46:36.386Z",
+          "reviewedAt": "2026-10-10T04:08:30.533Z",
           "articleSlug": "samsung-usdc"
         },
         "634e1516faeb608c8daa": {
