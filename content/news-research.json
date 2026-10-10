@@ -23912,25 +23912,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "014eb017fb61184b85b3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T18:26:05.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "Papertrade launch explainer seen only in single Bankless origin; pairs with launch-weekend piece.",
-      "sourceChecks": [
-        {
-          "url": "https://www.bankless.com/read/what-to-know-about-papertrade-s-launch",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T23:41:09.545Z",
+      "reason": "promotional",
+      "note": "Bankless Papertrade explainer is product promotion without an independent newsworthy event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:52:06.374Z",
       "retrySearches": [
         "Papertrade launch what to know second outlet product details"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10"
     },
     "43ef4ee5656da6877132": {
       "source": "Cointelegraph",
@@ -41941,6 +41935,13 @@
           "note": "Bankless Papertrade launch-weekend item is product promotion without an independent newsworthy event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:52:04.683Z"
+        },
+        "014eb017fb61184b85b3": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Bankless Papertrade explainer is product promotion without an independent newsworthy event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:52:06.374Z"
         }
       },
       "baselineSlugs": [
