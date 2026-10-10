@@ -22481,30 +22481,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 re-read Decrypt and CoinDesk on UK Oct 8 sanctions over Cryptomus TokenSpot and A7 links; draft not yet written. Next: re-open FCDO notice and draft uk-sanctions.",
+      "reason": "verified-event",
+      "note": "Verified the Oct 8 FCDO package in full Decrypt and Cointelegraph reads: Cryptomus, TokenSpot and others designated with Chainalysis flow data and the 38-target oil and tanker context.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
           "outcome": "read"
         },
         {
-          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+          "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T18:01:19.080Z",
+      "reviewedAt": "2026-10-10T03:46:31.386Z",
       "duplicateOf": "uk-sanctions",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Decrypt UK sanctions Cryptomus TokenSpot FCDO draft"
       ],
-      "nextReviewDate": "2026-10-10"
+      "articleSlug": "uk-sanctions"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -39775,6 +39775,23 @@
           ],
           "reviewedAt": "2026-10-10T03:46:29.779Z",
           "articleSlug": "thailand-etfs"
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 8 FCDO package in full Decrypt and Cointelegraph reads: Cryptomus, TokenSpot and others designated with Chainalysis flow data and the 38-target oil and tanker context.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:31.386Z",
+          "articleSlug": "uk-sanctions"
         }
       },
       "baselineSlugs": [
