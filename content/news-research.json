@@ -19221,20 +19221,20 @@
       "id": "3c7573a4e5dbe80c2c0a",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T21:22:58.000Z",
       "lastSeenAt": "2026-10-09T19:31:17.507Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Cantor-Tether probe headline; Unchained carries the Blumenthal-records angle. Next: full-read both and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:38.270Z",
+      "reviewedAt": "2026-10-10T03:50:12.003Z",
       "articleSlug": "cantor-probe",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -19243,9 +19243,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Cantor Tether Blumenthal records draft"
+        "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "90d78758432a6842a6c0": {
       "source": "Decrypt",
@@ -41099,6 +41099,21 @@
           "reviewedAt": "2026-10-10T03:50:10.350Z",
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
+        },
+        "3c7573a4e5dbe80c2c0a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:12.003Z",
+          "retrySearches": [
+            "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
           ]
         }
       },
