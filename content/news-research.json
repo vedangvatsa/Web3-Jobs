@@ -16844,17 +16844,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "ae47f8ab88a2c7848349",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T16:50:59.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same US Oct 8 Bitfinex-seized bitcoin move covered by bitfinex-move.",
+      "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:39:54.445Z",
+      "reviewedAt": "2026-10-10T03:49:12.057Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "e33a650c55f3e7ab383a": {
       "source": "Decrypt",
@@ -40608,6 +40609,15 @@
           "retrySearches": [
             "EDX VerifiedX verified bitcoin vBTC institutional launch mechanics and availability"
           ]
+        },
+        "ae47f8ab88a2c7848349": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:49:12.057Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
