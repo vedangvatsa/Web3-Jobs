@@ -25568,11 +25568,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "658278bca35cfdef3797",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T14:00:52.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 2 Guillaume dismissal and Texas demand rule in full CryptoSlate and FBFK law-firm reads plus court order; expanded past 600 words, hero self-hosted, all links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.fbfk.law/commercial-litigation-developments-texas-california",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T16:45:54.102Z",
+      "articleSlug": "coinbase-suit",
+      "lastReviewedDay": "2026-10-10"
     },
     "bab1ea32ded10e69dd54": {
       "source": "CoinDesk",
@@ -42751,6 +42766,23 @@
           ],
           "reviewedAt": "2026-10-10T16:45:52.096Z",
           "articleSlug": "cftc-wagers"
+        },
+        "658278bca35cfdef3797": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 2 Guillaume dismissal and Texas demand rule in full CryptoSlate and FBFK law-firm reads plus court order; expanded past 600 words, hero self-hosted, all links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.fbfk.law/commercial-litigation-developments-texas-california",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:45:54.102Z",
+          "articleSlug": "coinbase-suit"
         }
       },
       "baselineSlugs": [
