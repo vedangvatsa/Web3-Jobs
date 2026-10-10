@@ -25784,11 +25784,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "09b72cc528a51c6e8237",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T13:25:06.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "out-of-scope",
+      "note": "Traditional hedge-fund stock losses on AI bets; no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:53:03.888Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "8969a0358ed8f4ff831c": {
       "source": "Decrypt",
@@ -43707,6 +43712,13 @@
           "note": "AI chatbot behavior research with no crypto event or Web3 angle.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:53:01.885Z"
+        },
+        "09b72cc528a51c6e8237": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Traditional hedge-fund stock losses on AI bets; no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:53:03.888Z"
         }
       },
       "baselineSlugs": [
