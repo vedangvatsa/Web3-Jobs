@@ -21596,23 +21596,23 @@
       "id": "c4d91bb9350aafd0d59f",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T08:59:31.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Decrypt SIM-swap page and confirmed the jailing headline; single outlet so far. Next: find the DOJ release or second outlet and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:14.044Z",
+      "reviewedAt": "2026-10-10T03:51:00.651Z",
       "retrySearches": [
-        "SIM-swap fraudster sentencing DOJ release draft"
+        "SIM-swap fraudster sentencing gold grills Dubai case court records and sentence length"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "6ff235b2f73f2ee5ee35": {
       "source": "BeInCrypto",
@@ -41476,6 +41476,21 @@
           "reviewedAt": "2026-10-10T03:50:58.990Z",
           "duplicateOf": "empire-market",
           "mergedInto": "33d2532cea35902b8372"
+        },
+        "c4d91bb9350aafd0d59f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:00.651Z",
+          "retrySearches": [
+            "SIM-swap fraudster sentencing gold grills Dubai case court records and sentence length"
+          ]
         }
       },
       "baselineSlugs": [
