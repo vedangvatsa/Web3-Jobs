@@ -23435,28 +23435,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "11f65ef62dae6e42495b",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T14:47:27.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "verified-event",
-      "note": "Verified Oct 9 CryptoBilis probe in full Unchained, CoinDesk and Cointelegraph reads: 86M and 72M tallies unconfirmed, sales paused, 90-day setup warning, CZ flagged 270k trail.",
+      "note": "Verified Oct 9 Ledger probe in CoinDesk and Cointelegraph reads: CryptoBilis pause, 86M and 72M researcher tallies, 90-day setup warning, infrastructure-not-compromised line.",
       "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
-          "outcome": "read"
-        },
         {
           "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
           "outcome": "read"
         },
         {
-          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T10:27:54.361Z",
+      "reviewedAt": "2026-10-10T12:02:33.533Z",
       "articleSlug": "ledger-drain",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42502,6 +42498,23 @@
           ],
           "reviewedAt": "2026-10-10T12:02:31.396Z",
           "articleSlug": "dwf-bitgo"
+        },
+        "11f65ef62dae6e42495b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 Ledger probe in CoinDesk and Cointelegraph reads: CryptoBilis pause, 86M and 72M researcher tallies, 90-day setup warning, infrastructure-not-compromised line.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T12:02:33.533Z",
+          "articleSlug": "ledger-drain"
         }
       },
       "baselineSlugs": [
