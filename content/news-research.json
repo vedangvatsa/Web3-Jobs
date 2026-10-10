@@ -23941,30 +23941,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "43ef4ee5656da6877132",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T19:04:03.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "verified-event",
-      "note": "Tether Oct 9 three-hour 1.45M USDT THORChain vault freeze and reversal verified in Cointelegraph and CryptoBriefing reads. Draft 612 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/tether-freezes-usdt-thorchain-vaults-tron/",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T23:39:20.812Z",
+      "reviewedAt": "2026-10-10T03:52:08.147Z",
       "articleSlug": "thorchain-freeze",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
-      ]
+      ],
+      "retrySearches": [
+        "THORChain Tether 1.45M USDT freeze and unfreeze timeline with both parties statements"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "08c574ea80326a658ab0": {
       "source": "The Defiant",
@@ -41942,6 +41942,21 @@
           "note": "Bankless Papertrade explainer is product promotion without an independent newsworthy event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:52:06.374Z"
+        },
+        "43ef4ee5656da6877132": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:08.147Z",
+          "retrySearches": [
+            "THORChain Tether 1.45M USDT freeze and unfreeze timeline with both parties statements"
+          ]
         }
       },
       "baselineSlugs": [
