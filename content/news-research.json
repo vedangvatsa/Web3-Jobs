@@ -24300,29 +24300,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "94b717cda7c41ca127f6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T21:10:39.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "Ledger 90M Tether-freeze angle not yet read; ledger-drain covers the reseller probe but not the freeze claim.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T23:40:59.407Z",
+      "reason": "duplicate",
+      "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:52:15.272Z",
       "retrySearches": [
         "Tether freeze stolen USDT Ledger CryptoBilis theft MistTrack confirmation"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "duplicateOf": "ledger-drain",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "a1d08de2435b7aa593b5": {
       "source": "The Defiant",
@@ -42007,6 +41999,15 @@
           "retrySearches": [
             "CFTC event contracts swaps rulemaking proposal text and comment period dates"
           ]
+        },
+        "94b717cda7c41ca127f6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:52:15.272Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
         }
       },
       "baselineSlugs": [
