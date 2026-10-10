@@ -26358,24 +26358,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "8969a0358ed8f4ff831c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T13:01:03.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "verified-event",
-      "note": "Verified Finance Committee stablecoin-swap and exit-tax amendments plus 31-3 budget rejection in Decrypt and Cointelegraph reads; hero self-hosted, gates pass.",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T16:50:23.670Z",
+      "reviewedAt": "2026-10-10T22:56:10.876Z",
       "articleSlug": "france-taxes",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -26392,7 +26388,11 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "France stablecoin swap tax 2027 budget bill text vote schedule second outlet full read"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "201c9130ddb5ba609ce4": {
       "source": "The Defiant",
@@ -44949,6 +44949,21 @@
           "reviewedAt": "2026-10-10T22:56:09.208Z",
           "retrySearches": [
             "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
+          ]
+        },
+        "8969a0358ed8f4ff831c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:10.876Z",
+          "retrySearches": [
+            "France stablecoin swap tax 2027 budget bill text vote schedule second outlet full read"
           ]
         }
       },
