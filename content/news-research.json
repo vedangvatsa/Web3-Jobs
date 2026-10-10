@@ -23755,17 +23755,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "625750d26ecc321a617e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T13:24:12.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same DWF-BitGo 141M lawsuit already drafted as dwf-bitgo this run; no separate development.",
+      "note": "Same DWF-BitGo 141M lawsuit already covered in dwf-bitgo this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:04:04.286Z",
+      "reviewedAt": "2026-10-10T16:51:56.871Z",
       "duplicateOf": "dwf-bitgo",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "496643e7a159131009a6"
     },
     "086f433689c7a72fd7a9": {
       "source": "The Block",
@@ -43429,6 +43430,15 @@
           "note": "Same DWF-BitGo 141M lawsuit already covered in dwf-bitgo this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:51:54.955Z",
+          "duplicateOf": "dwf-bitgo",
+          "mergedInto": "496643e7a159131009a6"
+        },
+        "625750d26ecc321a617e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same DWF-BitGo 141M lawsuit already covered in dwf-bitgo this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:51:56.871Z",
           "duplicateOf": "dwf-bitgo",
           "mergedInto": "496643e7a159131009a6"
         }
