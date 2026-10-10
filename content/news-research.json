@@ -21322,20 +21322,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7eedcb04b022f754db",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:34:37.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
       "note": "Same UK Russia-sanctions package already drafted as uk-sanctions this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:50:52.230Z",
+      "reviewedAt": "2026-10-10T10:29:01.141Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "UK sanctions Cryptomus TokenSpot FCDO notice draft uk-sanctions"
-      ]
+      ],
+      "mergedInto": "d7c128ec9ef50a3db526"
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -42595,6 +42596,15 @@
           "reviewedAt": "2026-10-10T10:28:58.991Z",
           "duplicateOf": "empire-market",
           "mergedInto": "33d2532cea35902b8372"
+        },
+        "4f7eedcb04b022f754db": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same UK Russia-sanctions package already drafted as uk-sanctions this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:01.141Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "d7c128ec9ef50a3db526"
         }
       },
       "baselineSlugs": [
