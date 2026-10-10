@@ -26420,11 +26420,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6f6c7d47bf83d49d4713",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T18:12:52.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "price-chatter",
+      "note": "ETF-outflows plus shorts positioning piece is market chatter without a dated concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T22:53:58.469Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "75458f3f069585bcec46": {
       "source": "CryptoSlate",
@@ -43892,6 +43897,13 @@
           "note": "Leveraged-ETF piece explains price exposure mechanics, not a dated concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T22:53:56.768Z"
+        },
+        "6f6c7d47bf83d49d4713": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "ETF-outflows plus shorts positioning piece is market chatter without a dated concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T22:53:58.469Z"
         }
       },
       "baselineSlugs": [
