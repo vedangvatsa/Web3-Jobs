@@ -17569,17 +17569,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "6e9948d74caa61550c47",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-11T17:46:44.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "duplicate",
-      "note": "Same NFL amicus-brief event already drafted as nfl-kalshi this run; no separate development.",
+      "note": "Same NFL amicus-brief event already covered in nfl-kalshi this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:03:35.982Z",
+      "reviewedAt": "2026-10-10T16:51:27.988Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "817d26b99c3d48e348ee": {
       "source": "The Block",
@@ -43311,6 +43312,15 @@
           "reviewedAt": "2026-10-10T16:51:21.809Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "6e9948d74caa61550c47": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL amicus-brief event already covered in nfl-kalshi this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:51:27.988Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
