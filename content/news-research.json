@@ -20448,23 +20448,23 @@
       "id": "d33835776086f95c6798",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:23:14.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained T. Rowe piece and confirmed the stock-token headline; single outlet so far. Next: find a Robinhood or T. Rowe Price confirmation and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/robinhood-explores-stock-token-tied-to-t-rowe-price-actively-managed-etf/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:19.018Z",
+      "reviewedAt": "2026-10-10T03:50:29.260Z",
       "retrySearches": [
-        "Robinhood T. Rowe Price stock token confirmation draft"
+        "Robinhood T Rowe Price stock token exploration terms and timeline"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "19357b6f78dfafe2a59e": {
       "source": "Cointelegraph",
@@ -41236,6 +41236,21 @@
           "reviewedAt": "2026-10-10T03:50:27.579Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "d33835776086f95c6798": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/robinhood-explores-stock-token-tied-to-t-rowe-price-actively-managed-etf/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:29.260Z",
+          "retrySearches": [
+            "Robinhood T Rowe Price stock token exploration terms and timeline"
+          ]
         }
       },
       "baselineSlugs": [
