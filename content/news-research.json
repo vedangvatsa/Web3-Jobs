@@ -15515,24 +15515,20 @@
       "id": "a58ed5f4524012c5b9b0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T09:17:18.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 re-read CoinDesk and Decrypt on Greece Oct 8 draft 10 percent tax with 500 euro exemption; draft not yet written. Next: re-open Reuters draft-bill report and draft greece-tax.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:00:36.267Z",
+      "reviewedAt": "2026-10-10T03:48:41.032Z",
       "articleSlug": "greece-tax",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "europol-quantum.md: template phrasing: unlock(?:ing)?",
         "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
@@ -15541,9 +15537,9 @@
       ],
       "duplicateOf": "greece-tax",
       "retrySearches": [
-        "Greece 10 percent tax CoinDesk Decrypt Reuters draft"
+        "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "beaa28a9473ad8ef4c1f": {
       "source": "CoinJournal",
@@ -40365,6 +40361,21 @@
           "reviewedAt": "2026-10-10T03:48:39.411Z",
           "retrySearches": [
             "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
+          ]
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:41.032Z",
+          "retrySearches": [
+            "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
           ]
         }
       },
