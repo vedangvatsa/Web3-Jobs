@@ -15950,25 +15950,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "951a3273d39a1cd34d50",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T06:17:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Ripple financing leveraged stock bets seen only in blocked origin; needs Ripple disclosure or second outlet on the business.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T04:17:44.968Z",
+      "reason": "not-a-concrete-event",
+      "note": "CoinDesk feature on Ripple financing leveraged stock bets describes an ongoing business line, not a dated concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:55.541Z",
       "retrySearches": [
         "Ripple financing leveraged stock bets prime brokerage"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10"
     },
     "2abe9d6cedb8bf1b7f04": {
       "source": "BeInCrypto",
@@ -40464,6 +40458,13 @@
           "reviewedAt": "2026-10-10T03:48:53.907Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "4d0c341e251b419b5c56"
+        },
+        "951a3273d39a1cd34d50": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "CoinDesk feature on Ripple financing leveraged stock bets describes an ongoing business line, not a dated concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:55.541Z"
         }
       },
       "baselineSlugs": [
