@@ -24562,23 +24562,23 @@
       "id": "d2a36ff801c6db70c716",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T21:57:10.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "Kalshi WSJ press-secretary probe seen only in single Defiant origin citing WSJ; needs WSJ or second outlet.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T23:41:15.720Z",
+      "reviewedAt": "2026-10-10T03:52:25.497Z",
       "retrySearches": [
-        "Kalshi probes bets Trump press secretary pick WSJ insider trading"
+        "Kalshi Trump press secretary bets probe WSJ reporting with Kalshi response"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "2f33d3c76777e7ef334e": {
       "source": "Cointelegraph",
@@ -42100,6 +42100,21 @@
           "reviewedAt": "2026-10-10T03:52:23.671Z",
           "retrySearches": [
             "XRP Ledger institutional account controls amendment second source and status"
+          ]
+        },
+        "d2a36ff801c6db70c716": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:25.497Z",
+          "retrySearches": [
+            "Kalshi Trump press secretary bets probe WSJ reporting with Kalshi response"
           ]
         }
       },
