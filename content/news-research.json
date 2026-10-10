@@ -26783,11 +26783,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "75458f3f069585bcec46",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T18:00:18.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:27.546Z",
+      "retrySearches": [
+        "Coinbase AI payment fraud benchmark method results second outlet full reads"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "30e1156d81e25df9d489": {
       "source": "BeInCrypto",
@@ -45161,6 +45175,21 @@
           "reviewedAt": "2026-10-10T22:56:25.899Z",
           "retrySearches": [
             "StarkWare Starknet L1 shift plan timeline second outlet full reads"
+          ]
+        },
+        "75458f3f069585bcec46": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:27.546Z",
+          "retrySearches": [
+            "Coinbase AI payment fraud benchmark method results second outlet full reads"
           ]
         }
       },
