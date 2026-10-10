@@ -24331,17 +24331,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "a1d08de2435b7aa593b5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T20:25:14.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "duplicate",
-      "note": "Same CFTC Oct 9 event-contract swap proposal and casino exclusion covered by cftc-swaps.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:40:45.877Z",
+      "reason": "source-blocked",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T03:52:17.035Z",
       "duplicateOf": "cftc-swaps",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "CFTC event contracts swaps rulemaking proposal text and comment period dates"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "994ba24ff2eca1c3c082": {
       "source": "The Defiant",
@@ -42008,6 +42017,21 @@
           "reviewedAt": "2026-10-10T03:52:15.272Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "a1d08de2435b7aa593b5": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:17.035Z",
+          "retrySearches": [
+            "CFTC event contracts swaps rulemaking proposal text and comment period dates"
+          ]
         }
       },
       "baselineSlugs": [
