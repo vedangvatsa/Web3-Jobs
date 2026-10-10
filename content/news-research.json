@@ -25236,17 +25236,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "76b8464225483b76a3b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T06:33:43.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
       "reason": "duplicate",
-      "note": "Same XRP Ledger overflow bug already covered in xrpl-overflow this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:04.733Z",
-      "duplicateOf": "xrpl-overflow",
-      "lastReviewedDay": "2026-10-10"
+      "note": "Same XRP Ledger overflow disclosure drafted as xrp-bug; BeInCrypto page returned HTTP 403, event verified in xrpl.org, CoinDesk and Bitcoin.com reads.",
+      "sourceChecks": [
+        {
+          "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/xrp-ledger-bug-create-xrp-fixed/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:53:43.623Z",
+      "duplicateOf": "xrp-bug",
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "1a5192e7fa4323c2dc45"
     },
     "880338fce6d286827ad4": {
       "source": "CoinDesk",
@@ -43854,6 +43868,28 @@
           "reviewedAt": "2026-10-10T22:53:41.825Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "3e5484a682e6ed261c67"
+        },
+        "76b8464225483b76a3b9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same XRP Ledger overflow disclosure drafted as xrp-bug; BeInCrypto page returned HTTP 403, event verified in xrpl.org, CoinDesk and Bitcoin.com reads.",
+          "sourceChecks": [
+            {
+              "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/xrp-ledger-bug-create-xrp-fixed/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:53:43.623Z",
+          "duplicateOf": "xrp-bug",
+          "mergedInto": "1a5192e7fa4323c2dc45"
         }
       },
       "baselineSlugs": [
