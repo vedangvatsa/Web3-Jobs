@@ -14704,25 +14704,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "bbb488f6b4d099639f78",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T03:40:39.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "source-blocked",
-      "note": "Muneeb IP transfer pledge seen only in blocked origin; needs Stacks forum post or second outlet with plan details.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: thedefiant.io.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:17:19.451Z",
+      "reviewedAt": "2026-10-10T03:48:22.663Z",
       "retrySearches": [
         "Muneeb Ali IP transfer Stacks endowment CEO plan"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10"
     },
     "519cd5b2882740ee6baf": {
       "source": "CoinJournal",
@@ -40232,6 +40231,18 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:20.986Z"
+        },
+        "bbb488f6b4d099639f78": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: thedefiant.io.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:22.663Z"
         }
       },
       "baselineSlugs": [
