@@ -18895,23 +18895,23 @@
       "id": "5abe8fbb60d51631f6dd",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T19:26:12.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "needs-corroboration",
-      "note": "Aave December AUSD PT listing on Monad seen only in single outlet; needs governance listing plus second outlet.",
+      "reason": "source-blocked",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:18:56.765Z",
+      "reviewedAt": "2026-10-10T03:50:03.796Z",
       "retrySearches": [
-        "Aave AUSD PT Monad borrowing limit listing"
+        "Aave December AUSD PT Monad listing terms with governance proposal"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "4de505ce74bf43d697e4": {
       "source": "Cointelegraph",
@@ -41033,6 +41033,21 @@
           "reviewedAt": "2026-10-10T03:50:02.124Z",
           "retrySearches": [
             "Orca Loopscale Formation merger terms with primary announcement and deal structure"
+          ]
+        },
+        "5abe8fbb60d51631f6dd": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:03.796Z",
+          "retrySearches": [
+            "Aave December AUSD PT Monad listing terms with governance proposal"
           ]
         }
       },
