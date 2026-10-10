@@ -12064,26 +12064,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd6f0fa3b3457591b9c7",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T15:55:20.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "Defiant Ledger-Morpho origin returned HTTP 403 to round 3; pairs with the Decrypt Ledger loans piece that stayed reachable. Next: full-read Decrypt plus a second outlet and draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: thedefiant.io.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:11:32.774Z",
+      "reviewedAt": "2026-10-10T03:47:15.148Z",
       "duplicateOf": "ledger-loans",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Ledger Morpho bitcoin loans second outlet draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "858583e197c522a902a7": {
       "source": "Bankless",
@@ -40000,6 +39999,18 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: bitcoinmagazine.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:13.451Z"
+        },
+        "bd6f0fa3b3457591b9c7": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: thedefiant.io.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:15.148Z"
         }
       },
       "baselineSlugs": [
