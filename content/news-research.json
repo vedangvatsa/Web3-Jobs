@@ -20895,20 +20895,24 @@
       "id": "2a7c81f07dc6e3b3eb0f",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T09:06:00.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Meanwhile-raise headline with the 37.5M figure; single outlet so far. Next: find a Meanwhile or Bain Crypto announcement and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com, www.theblock.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-          "outcome": "read"
+          "outcome": "unavailable"
+        },
+        {
+          "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:32.367Z",
+      "reviewedAt": "2026-10-10T03:50:42.346Z",
       "articleSlug": "meanwhile-raise",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -20917,9 +20921,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Meanwhile 37.5M Bain announcement draft"
+        "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round terms and valuation"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "9f11ca9ae896380c93c0": {
       "source": "CryptoSlate",
@@ -41345,6 +41349,25 @@
           "reviewedAt": "2026-10-10T03:50:40.641Z",
           "retrySearches": [
             "MARA 81.1M bitcoin transfer to Galaxy Digital purpose and AI pivot details"
+          ]
+        },
+        "2a7c81f07dc6e3b3eb0f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com, www.theblock.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+              "outcome": "unavailable"
+            },
+            {
+              "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:42.346Z",
+          "retrySearches": [
+            "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round terms and valuation"
           ]
         }
       },
