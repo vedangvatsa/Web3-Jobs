@@ -22922,23 +22922,23 @@
       "id": "d6ebc8a19d31822069ab",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T15:27:48.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "Defiant Tether THORChain vaults page returned HTTP 403 to round 3; pairs with the Ledger-freeze lead as the same enforcement thread. Next: find onchain record plus second outlet on 1.45M unfreeze.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/tether-blacklists-four-thorchain-vaults-holding-1-45-million-usdt",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:36.768Z",
+      "reviewedAt": "2026-10-10T03:51:36.390Z",
       "retrySearches": [
-        "Tether THORChain vaults 1.45M blacklist unfreeze second outlet"
+        "THORChain Tether vault blacklist timeline with primary statements from both teams"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "b55e715b81b3ef155332": {
       "source": "Cointelegraph",
@@ -41740,6 +41740,21 @@
           "reviewedAt": "2026-10-10T03:51:34.673Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "d6ebc8a19d31822069ab": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/tether-blacklists-four-thorchain-vaults-holding-1-45-million-usdt",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:36.390Z",
+          "retrySearches": [
+            "THORChain Tether vault blacklist timeline with primary statements from both teams"
+          ]
         }
       },
       "baselineSlugs": [
