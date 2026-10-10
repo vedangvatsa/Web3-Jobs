@@ -20621,24 +20621,24 @@
       "id": "cfb84dbee91c6c9c59e0",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:27:35.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained XRPL page and confirmed the delegation headline; pairs with the CoinDesk controls piece. Next: full-read both and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:25.778Z",
+      "reviewedAt": "2026-10-10T03:50:34.106Z",
       "duplicateOf": "xrpl-controls",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "XRP Ledger delegation CoinDesk corroboration draft"
+        "XRP Ledger account delegation amendment activation status and validator votes"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "b22ff44197a4ebb9636a": {
       "source": "Unchained",
@@ -41280,6 +41280,21 @@
           "reviewedAt": "2026-10-10T03:50:32.499Z",
           "retrySearches": [
             "Solana 200-millisecond slots final upgrade activation date and validator vote status"
+          ]
+        },
+        "cfb84dbee91c6c9c59e0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:34.106Z",
+          "retrySearches": [
+            "XRP Ledger account delegation amendment activation status and validator votes"
           ]
         }
       },
