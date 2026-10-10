@@ -15831,25 +15831,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "26d8a39bd0abb78005cb",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T07:56:32.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "ASICID miner release seen only in blocked origin and reads as vendor PR; needs independent outlet with specs.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/new-generation-crypto-miners-asicid/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T04:17:43.014Z",
+      "reason": "promotional",
+      "note": "Single blocked BeInCrypto item on ASICID miner release reads as vendor product promotion with no independent corroboration.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:50.675Z",
       "retrySearches": [
         "ASICID new crypto miners specs release"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10"
     },
     "35b5090ce24657a84aec": {
       "source": "The Block",
@@ -40438,6 +40432,13 @@
           "retrySearches": [
             "Deus X Capital shutdown backer statements and asset wind-down plan"
           ]
+        },
+        "26d8a39bd0abb78005cb": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single blocked BeInCrypto item on ASICID miner release reads as vendor product promotion with no independent corroboration.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:50.675Z"
         }
       },
       "baselineSlugs": [
