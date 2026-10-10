@@ -12689,22 +12689,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "7d334a722b2c2115415a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T09:01:03.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Decrypt Ledger page and confirmed the bitcoin-loans headline; pairs with the blocked Defiant Morpho angle. Next: find a second openable outlet and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:58.223Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:30.193Z",
       "articleSlug": "ledger-loans",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -12714,8 +12709,7 @@
       ],
       "retrySearches": [
         "Ledger bitcoin loans Morpho second outlet draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "0dedfbfff13ea6532054": {
       "source": "CoinDesk",
@@ -40031,6 +40025,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:28.495Z"
+        },
+        "7d334a722b2c2115415a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:30.193Z"
         }
       },
       "baselineSlugs": [
