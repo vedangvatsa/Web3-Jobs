@@ -22555,13 +22555,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e5484a682e6ed261c67",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T14:55:23.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "verified-event",
-      "note": "Verified the Oct 9 NY AG settlement in the primary AG release plus full Unchained and Cointelegraph reads: permanent industry ban, conditional $25M+$10M payments, 12-year sentence, $3.4B repaid.",
+      "note": "Verified Oct 9 NY AG settlement in primary AG release plus full Unchained and Cointelegraph reads: permanent industry bar, conditional 25M plus 10M payments, 12-year sentence, 3.4B repaid.",
       "sourceChecks": [
         {
           "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
@@ -22576,7 +22576,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T03:46:26.405Z",
+      "reviewedAt": "2026-10-10T10:27:52.303Z",
       "articleSlug": "mashinsky-ban",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42261,6 +42261,27 @@
           ],
           "reviewedAt": "2026-10-10T10:27:45.544Z",
           "articleSlug": "uk-sanctions"
+        },
+        "3e5484a682e6ed261c67": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 NY AG settlement in primary AG release plus full Unchained and Cointelegraph reads: permanent industry bar, conditional 25M plus 10M payments, 12-year sentence, 3.4B repaid.",
+          "sourceChecks": [
+            {
+              "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/new-york-permanently-bars-ex-celsius-ceo-mashinsky-from-crypto-and-securities-industries/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:27:52.303Z",
+          "articleSlug": "mashinsky-ban"
         }
       },
       "baselineSlugs": [
