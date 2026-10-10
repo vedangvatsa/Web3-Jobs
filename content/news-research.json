@@ -21683,24 +21683,24 @@
       "id": "1f83d48c4539685aa5b4",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T07:20:02.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "CryptoSlate ESMA 90-day page fetched HTTP 200 but round 3 did not complete a full re-read; CoinDesk opinion account re-read with matching deadline. Next: full-read this plus ESMA PDF and draft esma-stablecoins.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-          "outcome": "read"
+          "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:00:58.805Z",
+      "reviewedAt": "2026-10-10T03:51:02.265Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "CryptoSlate ESMA 90-day deadline full read draft"
+        "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "208b88e90d866e0e3f32": {
       "source": "BeInCrypto",
@@ -41490,6 +41490,21 @@
           "reviewedAt": "2026-10-10T03:51:00.651Z",
           "retrySearches": [
             "SIM-swap fraudster sentencing gold grills Dubai case court records and sentence length"
+          ]
+        },
+        "1f83d48c4539685aa5b4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:02.265Z",
+          "retrySearches": [
+            "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
           ]
         }
       },
