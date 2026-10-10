@@ -16535,24 +16535,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "634e1516faeb608c8daa",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8 NFL amicus brief, gambling-not-swaps argument and SCOTUS docket in Unchained and Decrypt reads; hero self-hosted, gates pass.",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
         {
-          "url": "https://unchainedcrypto.com/nfl-tells-supreme-court-prediction-market-sports-contracts-are-gambling-not-swaps/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
-          "outcome": "read"
+          "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T16:49:50.536Z",
+      "reviewedAt": "2026-10-10T22:55:15.677Z",
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -16569,7 +16565,11 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "bbda3002c00d1edb824d": {
       "source": "The Block",
@@ -44245,6 +44245,21 @@
           "reviewedAt": "2026-10-10T22:55:14.076Z",
           "retrySearches": [
             "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+          ]
+        },
+        "634e1516faeb608c8daa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:15.677Z",
+          "retrySearches": [
+            "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
           ]
         }
       },
