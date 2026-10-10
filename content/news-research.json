@@ -25474,11 +25474,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2882a6aecd7a3bf0818c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T13:00:34.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "price-chatter",
+      "note": "Weekend price-level and ETF-outflow framing with an 80,400 test; market commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:52:50.219Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "8b93af2d98359dff14dd": {
       "source": "CryptoSlate",
@@ -43647,6 +43652,13 @@
           "reviewedAt": "2026-10-10T16:52:44.704Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "2882a6aecd7a3bf0818c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Weekend price-level and ETF-outflow framing with an 80,400 test; market commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:50.219Z"
         }
       },
       "baselineSlugs": [
