@@ -15146,24 +15146,24 @@
       "id": "6db4d7756b0c78596b24",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T10:46:41.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained Europol page and confirmed the post-quantum headline; pairs with CoinDesk, Decrypt and CryptoSlate versions. Next: full-read two and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/europol-urges-crypto-wallet-providers-to-start-testing-post-quantum-upgrades-now/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:13:50.146Z",
+      "reviewedAt": "2026-10-10T03:48:31.249Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Europol post-quantum wallets two outlets draft"
+        "Europol quantum crypto wallets report recommendations and timelines for providers"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "b4c5102f5a98f48f2121": {
       "source": "Unchained",
@@ -40298,6 +40298,21 @@
           "reviewedAt": "2026-10-10T03:48:29.532Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "4d0c341e251b419b5c56"
+        },
+        "6db4d7756b0c78596b24": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/europol-urges-crypto-wallet-providers-to-start-testing-post-quantum-upgrades-now/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:31.249Z",
+          "retrySearches": [
+            "Europol quantum crypto wallets report recommendations and timelines for providers"
+          ]
         }
       },
       "baselineSlugs": [
