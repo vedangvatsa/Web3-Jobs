@@ -16930,23 +16930,23 @@
       "id": "f30de830c73c7f6e15eb",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T16:20:53.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Gnosis fast-confirmation bridges seen only in blocked origin; needs Gnosis post or second outlet.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:18:12.013Z",
+      "reviewedAt": "2026-10-10T03:49:17.141Z",
       "retrySearches": [
-        "Gnosis bridges fast confirmation Ethereum deposits"
+        "Gnosis bridges fast confirmation Ethereum deposits technical details"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "c0cdd9d68ce4ce6ba774": {
       "source": "Decrypt",
@@ -40638,6 +40638,21 @@
           "reviewedAt": "2026-10-10T03:49:15.436Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "f30de830c73c7f6e15eb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:17.141Z",
+          "retrySearches": [
+            "Gnosis bridges fast confirmation Ethereum deposits technical details"
+          ]
         }
       },
       "baselineSlugs": [
