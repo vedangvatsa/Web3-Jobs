@@ -26623,11 +26623,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4e90b66aacb92b43cd3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T17:38:07.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/papertrade-traders-lose-18-2-million-as-staking-rewards-reach-12-6-million",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:15.848Z",
+      "retrySearches": [
+        "Papertrade $18.2M losses staking rewards independent second outlet full reads"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "cb66c757ae4ae748b70b": {
       "source": "Decrypt",
@@ -44994,6 +45008,21 @@
           "reviewedAt": "2026-10-10T22:56:14.257Z",
           "retrySearches": [
             "Papertrade $3B positions first hour independent second outlet full reads"
+          ]
+        },
+        "c4e90b66aacb92b43cd3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/papertrade-traders-lose-18-2-million-as-staking-rewards-reach-12-6-million",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:15.848Z",
+          "retrySearches": [
+            "Papertrade $18.2M losses staking rewards independent second outlet full reads"
           ]
         }
       },
