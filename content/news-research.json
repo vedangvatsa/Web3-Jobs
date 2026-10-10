@@ -25564,11 +25564,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "316e2f0efb03221bf96b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T15:10:37.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "price-chatter",
+      "note": "Nine-day ETF outflow streak and fund-flow roundup; market data with no launch, ruling, filing, or other concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:52:52.242Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "86b2c36ed9f9bfb90b74": {
       "source": "CryptoSlate",
@@ -43659,6 +43664,13 @@
           "note": "Weekend price-level and ETF-outflow framing with an 80,400 test; market commentary without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:52:50.219Z"
+        },
+        "316e2f0efb03221bf96b": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Nine-day ETF outflow streak and fund-flow roundup; market data with no launch, ruling, filing, or other concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:52.242Z"
         }
       },
       "baselineSlugs": [
