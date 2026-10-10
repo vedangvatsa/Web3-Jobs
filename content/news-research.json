@@ -24717,11 +24717,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "da7ea4741cb5cd813e4a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T01:50:00.000Z",
-      "lastSeenAt": "2026-10-10T03:31:28.127Z"
+      "lastSeenAt": "2026-10-10T03:31:28.127Z",
+      "reason": "duplicate",
+      "note": "Same NY AG settlement event already drafted as mashinsky-ban this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:52:30.604Z",
+      "duplicateOf": "mashinsky-ban",
+      "mergedInto": "3e5484a682e6ed261c67",
+      "lastReviewedDay": "2026-10-10"
     },
     "6cbacd263bba4dccfcf3": {
       "source": "Bitcoin Magazine",
@@ -42136,6 +42143,15 @@
           "reviewedAt": "2026-10-10T03:52:28.891Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "da7ea4741cb5cd813e4a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NY AG settlement event already drafted as mashinsky-ban this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:52:30.604Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "3e5484a682e6ed261c67"
         }
       },
       "baselineSlugs": [
