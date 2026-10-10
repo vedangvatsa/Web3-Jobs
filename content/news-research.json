@@ -14454,25 +14454,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "21f0c3a44c024692a6be",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-10T09:51:29.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "source-blocked",
-      "note": "Jito JTX mobile app and perps plan seen only in blocked origin; needs Jito announcement or second outlet.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:17:17.523Z",
+      "reviewedAt": "2026-10-10T03:48:14.181Z",
       "retrySearches": [
         "Jito JTX mobile app perps integration winter"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10"
     },
     "925d4f99930e103b24e6": {
       "source": "CoinDesk",
@@ -40208,6 +40207,18 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:12.498Z"
+        },
+        "21f0c3a44c024692a6be": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:14.181Z"
         }
       },
       "baselineSlugs": [
