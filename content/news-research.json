@@ -24575,13 +24575,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f33d3c76777e7ef334e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "verified-event",
-      "note": "Verified Bessent Oct 9 B claim in full Cointelegraph, Bitcoin Magazine and Newsmax reads: summit quotes, isolation-campaign specifics, OFAC action, prior figures, asset ambiguity preserved.",
+      "note": "Verified Bessent Oct 8 summit remarks in full Cointelegraph, Bitcoin Magazine and Newsmax reads: probable 1B seizure this week, isolation campaign specifics, OFAC context, asset ambiguity preserved.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
@@ -24596,7 +24596,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T04:09:06.398Z",
+      "reviewedAt": "2026-10-10T10:27:56.403Z",
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42303,6 +42303,27 @@
           ],
           "reviewedAt": "2026-10-10T10:27:54.361Z",
           "articleSlug": "ledger-drain"
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Bessent Oct 8 summit remarks in full Cointelegraph, Bitcoin Magazine and Newsmax reads: probable 1B seizure this week, isolation campaign specifics, OFAC context, asset ambiguity preserved.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.yahoo.com/news/politics/articles/bessent-us-moves-absolute-isolation-112910598.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:27:56.403Z",
+          "articleSlug": "iran-seizure"
         }
       },
       "baselineSlugs": [
