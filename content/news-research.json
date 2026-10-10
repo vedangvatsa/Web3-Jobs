@@ -26879,11 +26879,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "00eb14ee17d1377a2352",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T20:06:47.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:29.141Z",
+      "retrySearches": [
+        "Pump.fun callout rewards followers profits mechanics second outlet full reads"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "5aaad0e1e40020a64695": {
       "source": "CryptoSlate",
@@ -45190,6 +45204,21 @@
           "reviewedAt": "2026-10-10T22:56:27.546Z",
           "retrySearches": [
             "Coinbase AI payment fraud benchmark method results second outlet full reads"
+          ]
+        },
+        "00eb14ee17d1377a2352": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:29.141Z",
+          "retrySearches": [
+            "Pump.fun callout rewards followers profits mechanics second outlet full reads"
           ]
         }
       },
