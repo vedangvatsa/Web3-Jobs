@@ -1063,5 +1063,36 @@
     "slotKey": "2026-10-09:evening",
     "messageId": 65739,
     "sentAt": "2026-10-09T19:53:35.671Z"
+  },
+  "303a5f67-42a3-467a-984c-50fab1cea971": {
+    "status": "reserved",
+    "reservedAt": "2026-10-10T04:21:25.590Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "OKX Launches Money App for Stablecoin Savings and Spending",
+        "summary": "The standalone application enables select users to earn interest on USDG stablecoins and pay via card.",
+        "link": "https://hashtagweb3.com/okx-money?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKX launches Money app with 10 percent USDG yield and stablecoin spending"
+      },
+      {
+        "index": -1,
+        "headline": "OKX raises capital from Circle and Ripple at $25B valuation",
+        "summary": "SC Ventures and QRT joined the funding round as the firm expands beyond its core exchange business.",
+        "link": "https://hashtagweb3.com/okx-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OKX raises fresh capital at $25B valuation from Circle, Ripple, SC Ventures and QRT"
+      },
+      {
+        "index": -1,
+        "headline": "Polymarket Updates Core Infrastructure to Protocol V2",
+        "summary": "This update introduces a single ERC-1155 positions contract and begins migrating new markets on November 2.",
+        "link": "https://hashtagweb3.com/polymarket-v2?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polymarket Rebuilds Core Contracts With Protocol V2"
+      }
+    ],
+    "slotKey": "2026-10-10:morning"
   }
 }
