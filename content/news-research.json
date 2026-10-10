@@ -19780,20 +19780,20 @@
       "id": "1d543faed605b223ba11",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T21:01:55.000Z",
       "lastSeenAt": "2026-10-09T19:31:17.507Z",
       "reason": "source-blocked",
-      "note": "Defiant Kyrgyzstan USDKG origin returned HTTP 403 to round 3 with no second outlet in queue. Next: find a wind-down notice or outlet and draft.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:47.308Z",
+      "reviewedAt": "2026-10-10T03:50:22.786Z",
       "articleSlug": "kyrgyz-usdkg",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -19807,9 +19807,9 @@
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
       "retrySearches": [
-        "Kyrgyzstan USDKG wind-down notice draft"
+        "Kyrgyzstan USDKG wind-down UK sanctions link official statements"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "daed728f3277e7307bc1": {
       "source": "The Defiant",
@@ -41189,6 +41189,21 @@
           "reviewedAt": "2026-10-10T03:50:21.106Z",
           "retrySearches": [
             "Polkadot dotUSD USDT-backed OpenGov proposal status and parameters"
+          ]
+        },
+        "1d543faed605b223ba11": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:22.786Z",
+          "retrySearches": [
+            "Kyrgyzstan USDKG wind-down UK sanctions link official statements"
           ]
         }
       },
