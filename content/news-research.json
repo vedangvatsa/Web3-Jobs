@@ -13395,26 +13395,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9f85525ff3fef5b2cbb9",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-10T21:00:00.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "source-blocked",
-      "note": "BeInCrypto Uranium-hacker page returned HTTP 403 to round 3; pairs with the Decrypt conviction piece that stayed reachable. Next: full-read Decrypt plus a second outlet and draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: beincrypto.com.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/crypto-hacker-pokemon-cards-convicted/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:12:04.791Z",
+      "reviewedAt": "2026-10-10T03:47:45.164Z",
       "retrySearches": [
         "Uranium Finance hacker conviction second outlet draft"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "duplicateOf": "uranium-verdict",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "duplicateOf": "uranium-verdict"
     },
     "7fd40f5fea63e1a31461": {
       "source": "Decrypt",
@@ -40111,6 +40110,18 @@
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
+        },
+        "9f85525ff3fef5b2cbb9": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: beincrypto.com.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/crypto-hacker-pokemon-cards-convicted/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:45.164Z"
         }
       },
       "baselineSlugs": [
