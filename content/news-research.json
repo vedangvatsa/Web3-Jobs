@@ -24550,24 +24550,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f33d3c76777e7ef334e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 Bessent remarks in Cointelegraph and Bitcoin Magazine reads: probable 1B seizure this week, Newsmax summit quotes, isolation campaign, Feb 2025 memo, April 500M and Tether 550M context.",
+      "note": "Verified Oct 8 Bessent possible-1B-seizure remarks and Newsmax summit quotes in Cointelegraph and crypto.news reads; hedged as possible, hero self-hosted, gates pass.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
           "outcome": "read"
         },
         {
-          "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+          "url": "https://crypto.news/us-eyes-1-billion-dollars-iran-linked-crypto-seizure",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T12:02:45.344Z",
+      "reviewedAt": "2026-10-10T16:50:11.120Z",
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -43007,6 +43007,23 @@
           ],
           "reviewedAt": "2026-10-10T16:50:09.018Z",
           "articleSlug": "ledger-drain"
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Bessent possible-1B-seizure remarks and Newsmax summit quotes in Cointelegraph and crypto.news reads; hedged as possible, hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/us-eyes-1-billion-dollars-iran-linked-crypto-seizure",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:50:11.120Z",
+          "articleSlug": "iran-seizure"
         }
       },
       "baselineSlugs": [
