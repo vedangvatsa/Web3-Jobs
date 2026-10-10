@@ -24165,23 +24165,23 @@
       "id": "347f9632aca3b7cd1864",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T18:11:00.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "Robinhood Chain priority-tech story is a consideration, not a decided launch; single CoinDesk outlet.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T23:41:11.400Z",
+      "reviewedAt": "2026-10-10T03:52:09.816Z",
       "retrySearches": [
-        "Robinhood Chain paying traders priority technology confirmation decision"
+        "Robinhood Chain paying-trader priority technology proposal details and status"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "b7b5ac6b711f38c000f8": {
       "source": "BeInCrypto",
@@ -41956,6 +41956,21 @@
           "reviewedAt": "2026-10-10T03:52:08.147Z",
           "retrySearches": [
             "THORChain Tether 1.45M USDT freeze and unfreeze timeline with both parties statements"
+          ]
+        },
+        "347f9632aca3b7cd1864": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:09.816Z",
+          "retrySearches": [
+            "Robinhood Chain paying-trader priority technology proposal details and status"
           ]
         }
       },
