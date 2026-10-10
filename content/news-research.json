@@ -25067,17 +25067,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "76b8464225483b76a3b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T06:33:43.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same XRP Ledger overflow bug already drafted as xrpl-overflow this run; no separate development.",
+      "note": "Same XRP Ledger overflow bug already covered in xrpl-overflow this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:05:51.501Z",
+      "reviewedAt": "2026-10-10T16:52:04.733Z",
       "duplicateOf": "xrpl-overflow",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "1a5192e7fa4323c2dc45"
     },
     "880338fce6d286827ad4": {
       "source": "CoinDesk",
@@ -43477,6 +43478,15 @@
           "reviewedAt": "2026-10-10T16:52:02.794Z",
           "duplicateOf": "meanwhile",
           "mergedInto": "aa622e9da8bf6f47f49d"
+        },
+        "76b8464225483b76a3b9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same XRP Ledger overflow bug already covered in xrpl-overflow this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:04.733Z",
+          "duplicateOf": "xrpl-overflow",
+          "mergedInto": "1a5192e7fa4323c2dc45"
         }
       },
       "baselineSlugs": [
