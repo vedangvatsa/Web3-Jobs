@@ -16775,24 +16775,24 @@
       "id": "14054f6a0bf4d8eb43b9",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T17:07:48.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Decrypt Buterin bunker-mode assessment fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Block version returned 403. Next: full-read this plus CoinDesk and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-          "outcome": "blocked"
+          "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:21.718Z",
+      "reviewedAt": "2026-10-10T03:49:08.684Z",
       "retrySearches": [
-        "Decrypt Buterin bunker mode assessment full read draft"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "duplicateOf": "bunker-mode",
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "3c52e57d52067e8770d9": {
       "source": "Bitcoin Magazine",
@@ -40577,6 +40577,21 @@
           "reviewedAt": "2026-10-10T03:49:07.034Z",
           "retrySearches": [
             "NextBlock 3M Soda Labs blockchain privacy investment terms"
+          ]
+        },
+        "14054f6a0bf4d8eb43b9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:08.684Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
         }
       },
