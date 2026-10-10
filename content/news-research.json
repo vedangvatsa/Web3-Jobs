@@ -23307,23 +23307,23 @@
       "id": "f81abcaa78c20b29893e",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T16:00:00.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "Defiant Ostium equity-stakes page returned HTTP 403 to round 3; single source on post-hack LP compensation proposal. Next: find Ostium governance post plus second outlet with proposal terms.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/ostium-proposes-equity-stakes-for-hacked-liquidity-providers",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:43.887Z",
+      "reviewedAt": "2026-10-10T03:51:46.243Z",
       "retrySearches": [
-        "Ostium equity stakes hacked liquidity providers proposal terms"
+        "Ostium hacked liquidity provider equity stakes proposal terms"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "644146b3930fc40b8976": {
       "source": "BeInCrypto",
@@ -41815,6 +41815,21 @@
           "reviewedAt": "2026-10-10T03:51:44.661Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "3e5484a682e6ed261c67"
+        },
+        "f81abcaa78c20b29893e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ostium-proposes-equity-stakes-for-hacked-liquidity-providers",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:46.243Z",
+          "retrySearches": [
+            "Ostium hacked liquidity provider equity stakes proposal terms"
+          ]
         }
       },
       "baselineSlugs": [
