@@ -23192,20 +23192,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe698f27fac724e48c17",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T15:29:41.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:30.115Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:49.197Z",
       "retrySearches": [
-        "Tether freeze Ledger user thefts MistTrack second outlet"
+        "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
       "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "ledger-drain"
+      "duplicateOf": "ledger-drain",
+      "nextReviewDate": "2026-10-11"
     },
     "d6ebc8a19d31822069ab": {
       "source": "The Defiant",
@@ -44657,6 +44663,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:47.440Z",
+          "retrySearches": [
+            "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+          ]
+        },
+        "fe698f27fac724e48c17": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:49.197Z",
           "retrySearches": [
             "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
           ]
