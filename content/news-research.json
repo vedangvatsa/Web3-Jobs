@@ -14674,26 +14674,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a1c86818b7c64cbbed6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-10T04:11:33.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "CoinDesk CIP-0113 freeze-seize page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Unchained and draft veridian-spin.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T18:00:03.185Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:20.986Z",
       "duplicateOf": "veridian-spin",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "CoinDesk CIP-0113 freeze seize full read draft veridian-spin"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "bbb488f6b4d099639f78": {
       "source": "The Defiant",
@@ -40231,6 +40225,13 @@
           "reviewedAt": "2026-10-10T03:48:19.252Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "6a1c86818b7c64cbbed6": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:20.986Z"
         }
       },
       "baselineSlugs": [
