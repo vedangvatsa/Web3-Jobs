@@ -11585,24 +11585,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "7932aabf918494530ac0",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T20:48:34.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph Circle-SAP headline; rounds 1-2 list Securities.io plus CryptoBriefing reads. Next: re-open both and draft circle-sap.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:24.238Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:01.695Z",
       "retrySearches": [
         "Circle Tereina USDC EURC SAP Securities.io draft"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "articleSlug": "circle-sap",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
@@ -11610,8 +11605,7 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "f7d69f046dbb94aa723d": {
       "source": "BeInCrypto",
@@ -39960,6 +39954,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:00.026Z"
+        },
+        "7932aabf918494530ac0": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:01.695Z"
         }
       },
       "baselineSlugs": [
