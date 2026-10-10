@@ -26556,11 +26556,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "549d2aebf1ee6c60b319",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T18:37:35.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "price-chatter",
+      "note": "Gold-price warning is trader prediction, not a dated concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T22:54:01.987Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "82174278e88b61c6fbd7": {
       "source": "The Block",
@@ -43916,6 +43921,13 @@
           "note": "Moderna vaccine stock story is equities, not crypto, with no dated crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T22:54:00.230Z"
+        },
+        "549d2aebf1ee6c60b319": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Gold-price warning is trader prediction, not a dated concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T22:54:01.987Z"
         }
       },
       "baselineSlugs": [
