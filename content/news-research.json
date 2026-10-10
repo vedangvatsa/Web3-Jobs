@@ -11478,26 +11478,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "a745ae9b5abcb4207f2a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-10T22:24:45.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "CryptoSlate bunker-mode alarm page fetched HTTP 200 but round 3 did not complete a full read; corroborating BeInCrypto and Block versions returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T17:58:54.621Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cryptoslate.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:46:56.518Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Drake bunker mode OpenAI math full read two outlets draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "b52931b86de777cd1461": {
       "source": "The Block",
@@ -39947,6 +39941,13 @@
           "reviewedAt": "2026-10-10T03:46:54.846Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "a745ae9b5abcb4207f2a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cryptoslate.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:46:56.518Z"
         }
       },
       "baselineSlugs": [
