@@ -11458,17 +11458,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d1b5e461acc4fc87814",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 15,
+      "attempts": 16,
       "expiresAt": "2026-10-11T00:00:12.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Same US government seized-crypto movement already covered in bitfinex-move this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:09.645Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:14.076Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "a745ae9b5abcb4207f2a": {
       "source": "CryptoSlate",
@@ -44219,6 +44228,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:12.482Z",
+          "retrySearches": [
+            "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+          ]
+        },
+        "1d1b5e461acc4fc87814": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:14.076Z",
           "retrySearches": [
             "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
           ]
