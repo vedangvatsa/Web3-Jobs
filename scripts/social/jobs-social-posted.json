@@ -1,5 +1,5 @@
 {
-  "lastIndex": 376,
+  "lastIndex": 378,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -174,7 +174,9 @@
     "ops89",
     "mgr78",
     "psc",
-    "int42"
+    "int42",
+    "ops91",
+    "mgr145"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5413,498 +5415,6 @@
       "verification": "verified"
     },
     {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x5467a27d5bae63219ddcc913626b1a7759f83e20",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0xd627ed6a8e369b6f0fceb573777633171905c8aa",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0xb8f3d3a284cc79ae6018c63112cfcd7ca5778c6f",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x86a986bbdc9140612bdafb2209aeada3353948a3",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x41da21936d43f04765f51165486fadf67a27629d",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "6ac54cb8535ade2f59d1056b",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "6ac54cc3544ff8353df84266",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "urn:li:share:7513320301972283392",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "facebook",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "691827047618629_1108330958440805",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "x",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "6ac54cd53f882bac50133f33",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "TRM Labs is hiring Senior / Staff Threat Intelligence Analyst, Hacks\n\nhttps://hashtagweb3.com/an58/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107554643538497747"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "threads",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "18155878909531946",
-      "verification": "verified",
-      "expectedText": "TRM Labs is hiring Senior / Staff Threat Intelligence Analyst, Hacks: https://hashtagweb3.com/an58/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeKiwlLGVen",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "bluesky",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxa6cbd5m42r",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x8f3194d09e6db8688a5de472d0241b7c56b0c25f",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x19dd1157aecb67dd3e2cd2023f81290aae8e689a",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x37bef23cb9ed07d783254dc08409764b9583d224",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x1d1903f80ba7a30ae2e98e9cffb42460faf1fa4d",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0xf81e98ffe0e1d6354f6a22bbe190207373c86ee4",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0xd212458a8bdb06ce153d237bf5b07cfbad9bc114",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x35f9a98802ed8818770be09ae79f0e94e95797fc",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x41e4e2dd2650c90f9241a44df4637a270ca5dc61",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x81f70622574fbca4ca7c8e63945d34bd9e809154",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x6dd9143992e1f480b8ef9fa21c420de52455dddb",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0xef220c995ba33fce7dc9995706ba0757e10851e2",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x45b69f47bdfd80c0490f27ac42335b8d1c2fc0b6",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0xb5124ba4e3ad061706c8e227b637c4bd3a0abee4",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x8a6fd1952768826ea2f915f5dcc9c90197281777",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0xf60a0bd3dc2d1cc2081084e03f013722b3ddbaa3",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0x1c7bba92804c24ac9eaf49abf9b6e0101f4f3299",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "0xaf9d42450130d350543a6a756c1046c07da9aec1",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "6ac54ce6e0e7ba24e079ef4f",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "6ac54cf038b9e9d5545d4ca9",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "urn:li:share:7513320493492408320",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "an58",
-      "company": "TRM Labs",
-      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
-      "platform": "facebook",
-      "postedAt": "2026-10-06T19:32:37.643Z",
-      "postId": "691827047618629_1108331405107427",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "x",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "6ac5c55ac22c37a573b68318",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Zero Hash is hiring SVP, Global Head of Operations\n\nhttps://hashtagweb3.com/ops70/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107684048227143851"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "threads",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "17924946924199493",
-      "verification": "verified",
-      "expectedText": "Zero Hash is hiring SVP, Global Head of Operations: https://hashtagweb3.com/ops70/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeLdm1Jm0-T",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "bluesky",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxb2zslepa2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x193cb6caa489240d12ab015a53a47f4e84f94941",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x662371f162a480c3fc48a9b5cfaed9b264667676",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x2be2dd0a694144cefc2005f8e7b7d44f13a75977",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x669ea2a6427c7f597fc948f05738dbac864184b2",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x08cf2879563afd6dbd8e2889b7bfb5fb6c706f8d",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xbea81ad8d7342e93134f82966722ca8bd75e7b27",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xf555615b6df525590940b5945d9f5bfe15056c8d",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xcd383e332271a226dff460e5faf2220125782469",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xd719467d6b58f8dffc2a035e048c57bd2334e378",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x1a9f7b7a64ef7b7ebf20d6aaef9197298e6cbba4",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xf0612efae067379d4f331b24839719cf039c22c1",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x091d415342ca6938dc62833c75441facaba77d28",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "ops70",
       "company": "Zero Hash",
       "title": "SVP, Global Head of Operations",
@@ -10176,6 +9686,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-10T04:20:28.120Z",
       "postId": "691827047618629_1111273001479934",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "x",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "6aca313ef91f772d4592bc13",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Block is hiring Global Operations Excellence & Business Operations Lead\n\nhttps://hashtagweb3.com/ops91/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108899408225948135"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "threads",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "18114163472007246",
+      "verification": "verified",
+      "expectedText": "Block is hiring Global Operations Excellence & Business Operations Lead: https://hashtagweb3.com/ops91/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeUGSc8oEqC",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "bluesky",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxjivhugxi26",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0xc834c46860911ebd926268acf3e5dab349359733",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0xe6623dc8a34d21d7ca81a489dc22178fef7509fc",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x5a087936ee28eb11dbbbc3f2e4a7391b59bca9d5",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x6994a77c3e768df901dca203a6b2d24ef4a7fe7f",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x954e799a9076b811d3c6bd869a2eca8b9cc7f986",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x8487bb75378a10c742910b1b2b4e2601713122e1",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x835cf42fa7f3259070a74872dea23120dec1efe2",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x8894d7a95f9aafef2a7c87f7eb8125d78f998655",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0xd2e721edcde50394953b23026b8e30524258d638",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0xcee4c2d3666583eb5d9584041eef99fe3fc43ecd",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x1529ccf0ae3586cb7c00226d9887af77e5f1694c",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0xd4f35f3cb169ec0badb3e3cad861641175ef9b05",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x764b95ca31b3e25e5219b57e380cac8c5df698c1",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x4538b170acb720762cc9700a43a2e22e0372d878",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x0b70e111205ce0a84c177b0772b9d5e1f3f63afb",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0xc1f18ce265dbd772d9e0e134da4c049fc9b27c3f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "0x9c3147f036d8c77a31b635ef9ec0e1406a4abb51",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "6aca3151d9cab260a7c3fd2e",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "6aca315bf91f772d4592c03e",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "urn:li:share:7514665269479292928",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ops91",
+      "company": "Block",
+      "title": "Global Operations Excellence & Business Operations Lead",
+      "platform": "facebook",
+      "postedAt": "2026-10-10T12:36:14.396Z",
+      "postId": "691827047618629_1111573521449882",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "x",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "6aca3171b07d37ac97719ea5",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Robinhood is hiring Senior Sourcing Manager\n\nhttps://hashtagweb3.com/mgr145/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108899619186868682"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "18353912272223998",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Senior Sourcing Manager: https://hashtagweb3.com/mgr145/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeUGYi4IDVk",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxjiwvobit2c",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x15f8582bdea0849d9e2a6592d7a1f508ce104ae8",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x1f90cc17b888f919893b8ea9839afdd0944b08e2",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xc3c4500b626b5df206b4e01707e24ee29bbf5222",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xdb3573fe630415983496423a640892bdd068d463",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x966f588519fbf3dde0480d3e8422a3055e6566c2",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x3d90fb78b606c04b5ed4488fd4524c61d9ae151e",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x3bfb4c8ac62329471d856d09794b04d9fa6fb5f8",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x75b4f6786a58513a9d06be62746ea5f6c55f5c03",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xd22809df83fa7ed89da8fcb52e47a38043115312",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xd3dab257fbd83f55816e83f9b9a202d5579cdc4f",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xef97180de0fee06e479c4cf3cb9b90480f66def9",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xab504bade54fec0277caabc635b8e6cdf37629d7",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x901c7463c745a59cd16a872518e3bc1c4bef6f37",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xc5cc7be5291b78ac0bbb4c34b86e3c0d25b2ef3b",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x98123518cdf897e3fa9652d1c51d6a423b3f8c5a",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0x0adf510760de32a91afa40e5870256b9409b3a5e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "0xd31c97be5e559d1120dc966f4329634ace96261b",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "6aca3181bba9419ccb00ca50",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "6aca318bf91f772d4592c727",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "urn:li:share:7514665466917969920",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr145",
+      "company": "Robinhood",
+      "title": "Senior Sourcing Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-10T12:37:04.798Z",
+      "postId": "691827047618629_1111574124783155",
       "verification": "verified"
     }
   ]
