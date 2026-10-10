@@ -16212,21 +16212,25 @@
       "firstSeenAt": "2026-10-08T11:28:39.109Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "expiresAt": "2026-10-11T00:00:00.000Z",
-      "attempts": 2,
+      "attempts": 3,
       "reason": "needs-corroboration",
-      "note": "770M BTC to Coinbase Prime figure differs from drafted 1B move; needs Arkham data plus second outlet to confirm distinct transfer.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinfoundation.org, cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
-          "outcome": "blocked"
+          "outcome": "unavailable"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:17:52.664Z",
+      "reviewedAt": "2026-10-10T03:49:00.419Z",
       "retrySearches": [
-        "US government moves 770M bitcoin Coinbase Prime October 2026"
+        "US government 770M bitcoin Coinbase Prime transfer Arkham trail and sale status"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "392872e824f8556b402f": {
       "source": "CoinDesk",
@@ -40494,6 +40498,25 @@
           "reviewedAt": "2026-10-10T03:48:58.886Z",
           "retrySearches": [
             "Hyperliquid 330M HYPE distribution labeled wallet evidence with second outlet"
+          ]
+        },
+        "ce6a97a6514922530586": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinfoundation.org, cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
+              "outcome": "unavailable"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:00.419Z",
+          "retrySearches": [
+            "US government 770M bitcoin Coinbase Prime transfer Arkham trail and sale status"
           ]
         }
       },
