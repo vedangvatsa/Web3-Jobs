@@ -22422,30 +22422,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "f669a9dcee8b304958e7",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T16:22:45.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "verified-event",
-      "note": "Blockchain.com Oct 9 CFTC DCM and FCM applications verified in CNBC disclosure and Cointelegraph reads with Polymarket Hyperliquid background and IPO terms. Draft 619 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T23:39:06.219Z",
+      "reviewedAt": "2026-10-10T03:51:19.722Z",
       "articleSlug": "blockchain-cftc",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
-      ]
+      ],
+      "retrySearches": [
+        "Blockchain.com CFTC prediction markets derivatives approval CNBC report details and filing status"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "86f3a145bde0d3311251": {
       "source": "Decrypt",
@@ -41614,6 +41614,21 @@
           "reviewedAt": "2026-10-10T03:51:18.024Z",
           "retrySearches": [
             "ESMA tokenized collateral crisis cash-out evidence call deadline and respondents"
+          ]
+        },
+        "f669a9dcee8b304958e7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:19.722Z",
+          "retrySearches": [
+            "Blockchain.com CFTC prediction markets derivatives approval CNBC report details and filing status"
           ]
         }
       },
