@@ -25654,17 +25654,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1f95bcf6b60ca241a35",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T16:01:04.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
       "reason": "duplicate",
-      "note": "Same Meanwhile 37.5M raise already covered in meanwhile this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:02.794Z",
+      "note": "Same Meanwhile 7.5M event drafted as meanwhile in this run; verified in meanwhile.bm primary plus Decrypt and Cointelegraph reads.",
+      "sourceChecks": [
+        {
+          "url": "https://meanwhile.bm/press/releases/2026_10_08_funding/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:53:21.043Z",
       "duplicateOf": "meanwhile",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "aa622e9da8bf6f47f49d"
     },
     "316e2f0efb03221bf96b": {
       "source": "The Block",
@@ -43558,6 +43572,28 @@
           ],
           "reviewedAt": "2026-10-10T22:53:16.862Z",
           "articleSlug": "xrp-bug"
+        },
+        "f1f95bcf6b60ca241a35": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Meanwhile 7.5M event drafted as meanwhile in this run; verified in meanwhile.bm primary plus Decrypt and Cointelegraph reads.",
+          "sourceChecks": [
+            {
+              "url": "https://meanwhile.bm/press/releases/2026_10_08_funding/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:53:21.043Z",
+          "duplicateOf": "meanwhile",
+          "mergedInto": "aa622e9da8bf6f47f49d"
         }
       },
       "baselineSlugs": [
