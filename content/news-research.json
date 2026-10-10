@@ -17352,24 +17352,20 @@
       "id": "b4cab21a62516fd28dba",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T13:06:24.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 re-read CoinDesk and Decrypt on Securitize Oct 8 Stocks launch with 12 tickers, Jump liquidity, USDC settlement and NYSE plans; draft not yet written. Next: re-open PRNewswire release and draft securitize-stocks.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:01:09.163Z",
+      "reviewedAt": "2026-10-10T03:49:27.219Z",
       "articleSlug": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
@@ -17377,9 +17373,9 @@
       ],
       "duplicateOf": "securitize-stocks",
       "retrySearches": [
-        "Securitize Stocks launch PRNewswire draft securitize-stocks"
+        "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "5efcd88f74b3e3ca8122": {
       "source": "Bitcoin Magazine",
@@ -40712,6 +40708,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:49:25.568Z",
+          "retrySearches": [
+            "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
+          ]
+        },
+        "b4cab21a62516fd28dba": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:27.219Z",
           "retrySearches": [
             "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
           ]
