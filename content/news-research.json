@@ -24013,17 +24013,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "c286bf006d9137b60702",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T13:43:35.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:40.655Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:59.350Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "74b8157eef0883dae91f": {
       "source": "Unchained",
@@ -44789,6 +44798,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:57.693Z",
+          "retrySearches": [
+            "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+          ]
+        },
+        "c286bf006d9137b60702": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:59.350Z",
           "retrySearches": [
             "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
           ]
