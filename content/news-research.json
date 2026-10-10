@@ -23113,23 +23113,23 @@
       "id": "c77ae768dd4e69dd1b66",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T17:21:07.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "missing-primary-source",
-      "note": "Round 3 read Cointelegraph on HSBC Ant Digital AI-agent micropayment technical verification; PRNewswire company release not yet opened. Next: open PRNewswire release plus second outlet and draft.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:01:35.705Z",
+      "reviewedAt": "2026-10-10T03:51:38.032Z",
       "retrySearches": [
-        "HSBC Ant Digital AI agent micropayment PRNewswire release draft"
+        "HSBC Ant Digital AI-agent tokenized deposit payments pilot scope and results"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "c75de1b0ee258c6aa12c": {
       "source": "Cointelegraph",
@@ -41754,6 +41754,21 @@
           "reviewedAt": "2026-10-10T03:51:36.390Z",
           "retrySearches": [
             "THORChain Tether vault blacklist timeline with primary statements from both teams"
+          ]
+        },
+        "c77ae768dd4e69dd1b66": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:38.032Z",
+          "retrySearches": [
+            "HSBC Ant Digital AI-agent tokenized deposit payments pilot scope and results"
           ]
         }
       },
