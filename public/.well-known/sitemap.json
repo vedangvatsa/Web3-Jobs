@@ -2,7 +2,7 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-10T16:27:01.221Z",
+  "generatedAt": "2026-10-10T22:54:33.111Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
@@ -33820,14 +33820,14 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/qa82",
-      "lastmod": "2026-09-25",
+      "url": "https://hashtagweb3.com/qa83",
+      "lastmod": "2026-10-09",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/qa83",
-      "lastmod": "2026-10-09",
+      "url": "https://hashtagweb3.com/qa84",
+      "lastmod": "2026-09-25",
       "changefreq": "daily",
       "priority": 0.8
     },
