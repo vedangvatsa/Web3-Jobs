@@ -16562,22 +16562,22 @@
       "id": "793e33cc45c8a11bda37",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T12:03:28.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph Sui Hashi headline with the 500M figure; single outlet so far. Next: find a Sui or Hashi announcement and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:01.371Z",
+      "reviewedAt": "2026-10-10T03:49:05.330Z",
       "retrySearches": [
-        "Sui Hashi 500M commitments announcement draft"
+        "Sui Hashi bitcoin finance 500M commitments launch participants and terms"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "articleSlug": "sui-hashi",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
@@ -16591,7 +16591,7 @@
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "49796226371352e18cd0": {
       "source": "CoinJournal",
@@ -40547,6 +40547,21 @@
           "reviewedAt": "2026-10-10T03:49:03.616Z",
           "retrySearches": [
             "Korean bank hacker Claude data sale CrowdStrike report findings"
+          ]
+        },
+        "793e33cc45c8a11bda37": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:05.330Z",
+          "retrySearches": [
+            "Sui Hashi bitcoin finance 500M commitments launch participants and terms"
           ]
         }
       },
