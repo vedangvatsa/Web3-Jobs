@@ -14059,26 +14059,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a3f0498b0937836134a4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T13:13:05.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "Defiant Sky B3 version returned HTTP 403 to round 3; pairs with the blocked Block version. Next: open Moody's release or a second outlet and draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: thedefiant.io.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/moody-s-rates-sky-b3-flagging-thin-capital-buffer",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:13:24.863Z",
+      "reviewedAt": "2026-10-10T03:48:02.022Z",
       "duplicateOf": "sky-rating",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Moody's Sky B3 capital buffer second outlet draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "9dad087f927922704e2a": {
       "source": "CoinDesk",
@@ -40191,6 +40190,18 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:59.998Z"
+        },
+        "a3f0498b0937836134a4": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: thedefiant.io.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/moody-s-rates-sky-b3-flagging-thin-capital-buffer",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:02.022Z"
         }
       },
       "baselineSlugs": [
