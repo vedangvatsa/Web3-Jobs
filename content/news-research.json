@@ -11019,22 +11019,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a5f0f76edb1ecb37ab3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-11T02:50:01.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
       "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:46:46.176Z",
+      "reviewedAt": "2026-10-10T10:28:06.552Z",
       "articleSlug": "samsung-usdc",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ],
-      "duplicateOf": "samsung-usdc"
+      "duplicateOf": "samsung-usdc",
+      "mergedInto": "4d0c341e251b419b5c56"
     },
     "7c05eec0aa4cd9623abd": {
       "source": "Bitcoin Magazine",
@@ -42345,6 +42346,15 @@
           ],
           "reviewedAt": "2026-10-10T10:27:58.482Z",
           "articleSlug": "dwf-bitgo"
+        },
+        "2a5f0f76edb1ecb37ab3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:28:06.552Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "4d0c341e251b419b5c56"
         }
       },
       "baselineSlugs": [
