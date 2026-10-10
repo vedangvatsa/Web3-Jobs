@@ -13012,24 +13012,24 @@
       "id": "b5cfc3e7d261d8e4319d",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T02:22:39.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "source-blocked",
-      "note": "Defiant Drake fresh-address migration page returned HTTP 403 to round 3; same bunker-mode event readable in Decrypt and Unchained versions. Next: re-open two readable outlets and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:57:51.335Z",
+      "reviewedAt": "2026-10-10T03:47:38.551Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Drake bunker mode fresh addresses migration two readable outlets draft"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "70033f0ef71a5c26d294": {
       "source": "BeInCrypto",
@@ -40051,6 +40051,21 @@
           "reviewedAt": "2026-10-10T03:47:36.934Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "4d0c341e251b419b5c56"
+        },
+        "b5cfc3e7d261d8e4319d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:38.551Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
         }
       },
       "baselineSlugs": [
