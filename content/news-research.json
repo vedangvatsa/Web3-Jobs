@@ -14837,24 +14837,24 @@
       "id": "b486ca816b176c708e46",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T10:45:09.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Unchained bunker-mode debate page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
-          "outcome": "blocked"
+          "url": "https://unchainedcrypto.com/ethereum-researchers-bunker-mode-call-sparks-debate-over-whether-ai-math-threatens-crypto-keys/",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:15.293Z",
+      "reviewedAt": "2026-10-10T03:48:27.828Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Unchained bunker mode debate full read draft bunker-mode"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "64113d8e816512d7bbf0": {
       "source": "CoinDesk",
@@ -40272,6 +40272,21 @@
           "reviewedAt": "2026-10-10T03:48:26.067Z",
           "retrySearches": [
             "Ethereum Glamsterdam test 200M gas per block results and next steps"
+          ]
+        },
+        "b486ca816b176c708e46": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ethereum-researchers-bunker-mode-call-sparks-debate-over-whether-ai-math-threatens-crypto-keys/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:27.828Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
         }
       },
