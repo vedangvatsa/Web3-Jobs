@@ -2482,5 +2482,49 @@
     "slotKey": "2026-10-10:morning",
     "messageId": 16524,
     "sentAt": "2026-10-10T04:19:37.090Z"
+  },
+  "cd1b45ae-7398-466d-942d-028c48a1dbac": {
+    "status": "reserved",
+    "reservedAt": "2026-10-10T04:19:38.893Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "4870316101",
+        "slug": "compliance38",
+        "url": "https://hashtagweb3.com/compliance38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Senior Legal Counsel"
+      },
+      {
+        "key": "2745600",
+        "slug": "aso44",
+        "url": "https://hashtagweb3.com/aso44?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tether",
+        "title": "USAT Institutional Associate"
+      },
+      {
+        "key": "0b157aaa-27a4-4ffd-b978-ac8c8565f0fe",
+        "slug": "brand5",
+        "url": "https://hashtagweb3.com/brand5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0G Labs",
+        "title": "Brand Design Lead"
+      },
+      {
+        "key": "5895430",
+        "slug": "ds10",
+        "url": "https://hashtagweb3.com/ds10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Data Scientist"
+      },
+      {
+        "key": "4401466009",
+        "slug": "engineer1038",
+        "url": "https://hashtagweb3.com/engineer1038?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ondo Finance",
+        "title": "Blockchain Engineer"
+      }
+    ],
+    "message": "• BVNK is hiring <a href=\"https://hashtagweb3.com/compliance38?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Legal Counsel</a>\n• Tether is hiring <a href=\"https://hashtagweb3.com/aso44?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">USAT Institutional Associate</a>\n• 0G Labs is hiring <a href=\"https://hashtagweb3.com/brand5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Brand Design Lead</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/ds10?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Data Scientist</a>\n• Ondo Finance is hiring <a href=\"https://hashtagweb3.com/engineer1038?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Blockchain Engineer</a>",
+    "slotKey": "2026-10-10:morning"
   }
 }
