@@ -22694,17 +22694,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c7af042fdbff4991543",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T13:51:00.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "duplicate",
-      "note": "Same Ledger Oct 9 CryptoBilis reseller drain investigation covered by ledger-drain.",
+      "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:40:27.797Z",
+      "reviewedAt": "2026-10-10T03:51:29.652Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "1d4609ee58a5f22e603a": {
       "source": "CryptoSlate",
@@ -41700,6 +41701,15 @@
           "retrySearches": [
             "14M crypto pool drain incident details attacker method and affected protocol"
           ]
+        },
+        "0c7af042fdbff4991543": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:51:29.652Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
         }
       },
       "baselineSlugs": [
