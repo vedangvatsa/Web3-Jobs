@@ -11019,30 +11019,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a5f0f76edb1ecb37ab3",
-      "status": "ready",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-11T02:50:01.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "verified-event",
-      "note": "Samsung Oct 7 USDC late-October launch for 82M devices verified in Decrypt and Unchained reads with Bastion Coinbase custody and Solana Sui networks. Draft 672 words, audits clean.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/samsung-wallet-brings-usdc-transfers-to-82-million-us-galaxy-devices-in-late-october/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T23:39:02.731Z",
+      "reason": "duplicate",
+      "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:46:46.176Z",
       "articleSlug": "samsung-usdc",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
-      ]
+      ],
+      "duplicateOf": "samsung-usdc",
+      "mergedInto": "4d0c341e251b419b5c56"
     },
     "7c05eec0aa4cd9623abd": {
       "source": "Bitcoin Magazine",
@@ -39907,6 +39900,15 @@
           ],
           "reviewedAt": "2026-10-10T03:46:41.620Z",
           "articleSlug": "robinhood-bitcoin"
+        },
+        "2a5f0f76edb1ecb37ab3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:46:46.176Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "4d0c341e251b419b5c56"
         }
       },
       "baselineSlugs": [
