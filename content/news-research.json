@@ -20691,17 +20691,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c8e5464d8009c02f491",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:21:00.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "duplicate",
-      "note": "Same US Oct 8 Bitfinex-seized bitcoin move covered by bitfinex-move.",
+      "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:40:01.685Z",
+      "reviewedAt": "2026-10-10T03:50:37.345Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "62cd6c1ea3c742f4cf88": {
       "source": "CoinDesk",
@@ -41311,6 +41312,15 @@
           "retrySearches": [
             "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
           ]
+        },
+        "4c8e5464d8009c02f491": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:50:37.345Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
