@@ -21187,20 +21187,20 @@
       "id": "27f81ea86adb75b79871",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T04:21:36.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk XRPL controls headline; pairs with the Unchained delegation piece opened this run. Next: full-read both and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:09.408Z",
+      "reviewedAt": "2026-10-10T03:50:50.679Z",
       "articleSlug": "xrpl-controls",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -21209,9 +21209,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "XRP Ledger controls Unchained corroboration draft"
+        "XRP Ledger account delegation amendment activation status and validator votes"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "6fa8e2bd1170b0fe28bc": {
       "source": "CryptoSlate",
@@ -41428,6 +41428,21 @@
           "reviewedAt": "2026-10-10T03:50:48.891Z",
           "retrySearches": [
             "Solana 200-millisecond slots final upgrade activation date and validator vote status"
+          ]
+        },
+        "27f81ea86adb75b79871": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:50.679Z",
+          "retrySearches": [
+            "XRP Ledger account delegation amendment activation status and validator votes"
           ]
         }
       },
