@@ -15798,23 +15798,23 @@
       "id": "7820fa9063ea1c03de98",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T08:00:00.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Deus X shutdown seen only in blocked CoinDesk origin; needs company statement or second outlet on wind-down terms.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:17:40.816Z",
+      "reviewedAt": "2026-10-10T03:48:49.059Z",
       "retrySearches": [
-        "Deus X Capital shuts down backers separate strategies"
+        "Deus X Capital shutdown backer statements and asset wind-down plan"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "26d8a39bd0abb78005cb": {
       "source": "BeInCrypto",
@@ -40422,6 +40422,21 @@
           "reviewedAt": "2026-10-10T03:48:47.439Z",
           "retrySearches": [
             "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
+          ]
+        },
+        "7820fa9063ea1c03de98": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:49.059Z",
+          "retrySearches": [
+            "Deus X Capital shutdown backer statements and asset wind-down plan"
           ]
         }
       },
