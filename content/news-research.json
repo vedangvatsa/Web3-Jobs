@@ -22476,17 +22476,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "86f3a145bde0d3311251",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T16:07:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same NY AG Mashinsky settlement already drafted as mashinsky-ban this run; no separate development.",
+      "note": "Same NY AG Mashinsky settlement already covered in mashinsky-ban this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:04:08.392Z",
+      "reviewedAt": "2026-10-10T16:52:10.566Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "3e5484a682e6ed261c67"
     },
     "731895351e1367b3c7e8": {
       "source": "The Block",
@@ -43487,6 +43488,15 @@
           "reviewedAt": "2026-10-10T16:52:04.733Z",
           "duplicateOf": "xrpl-overflow",
           "mergedInto": "1a5192e7fa4323c2dc45"
+        },
+        "86f3a145bde0d3311251": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NY AG Mashinsky settlement already covered in mashinsky-ban this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:10.566Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "3e5484a682e6ed261c67"
         }
       },
       "baselineSlugs": [
