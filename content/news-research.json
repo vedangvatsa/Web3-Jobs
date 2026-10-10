@@ -25709,11 +25709,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "201c9130ddb5ba609ce4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T12:21:43.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 8-9 Starknet L1 consideration and 2027 quantum target in Starknet X posts plus full KuCoin and Phemex reads; drafted 650+ words with self-hosted hero, all links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.kucoin.com/news/flash/starknet-considers-breaking-away-from-ethereum-to-become-quantum-resistant-l1-by-2027",
+          "outcome": "read"
+        },
+        {
+          "url": "https://phemex.com/news/article/starkware-proposes-starknet-transition-to-independent-layer1-network-99417",
+          "outcome": "read"
+        },
+        {
+          "url": "https://x.com/Starknet/status/2108113391525204034",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T16:46:07.158Z",
+      "articleSlug": "starknet",
+      "lastReviewedDay": "2026-10-10"
     },
     "1e3baa68bfd62409bba8": {
       "source": "CryptoSlate",
@@ -42800,6 +42823,31 @@
           ],
           "reviewedAt": "2026-10-10T16:46:05.123Z",
           "articleSlug": "dwf-bitgo"
+        },
+        "201c9130ddb5ba609ce4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8-9 Starknet L1 consideration and 2027 quantum target in Starknet X posts plus full KuCoin and Phemex reads; drafted 650+ words with self-hosted hero, all links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.kucoin.com/news/flash/starknet-considers-breaking-away-from-ethereum-to-become-quantum-resistant-l1-by-2027",
+              "outcome": "read"
+            },
+            {
+              "url": "https://phemex.com/news/article/starkware-proposes-starknet-transition-to-independent-layer1-network-99417",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/Starknet/status/2108113391525204034",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:46:07.158Z",
+          "articleSlug": "starknet"
         }
       },
       "baselineSlugs": [
