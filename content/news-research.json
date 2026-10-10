@@ -25514,11 +25514,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1f95bcf6b60ca241a35",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T16:01:04.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "duplicate",
+      "note": "Same Meanwhile 37.5M raise already covered in meanwhile this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:52:02.794Z",
+      "duplicateOf": "meanwhile",
+      "mergedInto": "aa622e9da8bf6f47f49d",
+      "lastReviewedDay": "2026-10-10"
     },
     "316e2f0efb03221bf96b": {
       "source": "The Block",
@@ -43461,6 +43468,15 @@
           "reviewedAt": "2026-10-10T16:52:00.851Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "f1f95bcf6b60ca241a35": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Meanwhile 37.5M raise already covered in meanwhile this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:02.794Z",
+          "duplicateOf": "meanwhile",
+          "mergedInto": "aa622e9da8bf6f47f49d"
         }
       },
       "baselineSlugs": [
