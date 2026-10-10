@@ -12627,22 +12627,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "e04537f91ce4996c0500",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-10T10:04:35.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Unchained Robinhood 25M buy page fetched HTTP 200 but round 3 did not complete a full re-read; rounds 1-2 list Unchained plus CoinDesk plus Bitcoin Magazine reads. Next: full-read two and draft robinhood-bitcoin.",
+      "reason": "verified-event",
+      "note": "Verified the Oct 7 $25M balance-sheet buy in full CoinDesk and Unchained reads of the Kerbrat DAS Asia remarks: alignment rationale, $100B scale caveat, Chain and perps context.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
-          "outcome": "blocked"
+          "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/robinhood-puts-25-million-of-bitcoin-on-its-balance-sheet-executive-says/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:37.727Z",
+      "reviewedAt": "2026-10-10T03:46:41.620Z",
       "articleSlug": "robinhood-bitcoin",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
@@ -12650,8 +12654,7 @@
       ],
       "retrySearches": [
         "Robinhood 25M Kerbrat Unchained CoinDesk full read draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "4954b8be94596f23a77e": {
       "source": "Decrypt",
@@ -39887,6 +39890,23 @@
           ],
           "reviewedAt": "2026-10-10T03:46:39.893Z",
           "articleSlug": "empire-market"
+        },
+        "e04537f91ce4996c0500": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 7 $25M balance-sheet buy in full CoinDesk and Unchained reads of the Kerbrat DAS Asia remarks: alignment rationale, $100B scale caveat, Chain and perps context.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/robinhood-puts-25-million-of-bitcoin-on-its-balance-sheet-executive-says/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:41.620Z",
+          "articleSlug": "robinhood-bitcoin"
         }
       },
       "baselineSlugs": [
