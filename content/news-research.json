@@ -25132,11 +25132,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5be04fe760f210c3ecbe",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T07:51:56.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "price-chatter",
+      "note": "10/10 anniversary deleveraging piece asks whether traders reduced leverage before the date; backward-looking positioning analysis, not a dated concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T10:03:07.332Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "d83201f7757dec4625fc": {
       "source": "CryptoSlate",
@@ -42002,6 +42007,13 @@
           "note": "EU tech-chief remarks on fending off rogue AI risk concern general AI safety policy, not a web3 launch, filing, ruling, raise or upgrade.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:03:05.338Z"
+        },
+        "5be04fe760f210c3ecbe": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "10/10 anniversary deleveraging piece asks whether traders reduced leverage before the date; backward-looking positioning analysis, not a dated concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:03:07.332Z"
         }
       },
       "baselineSlugs": [
