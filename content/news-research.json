@@ -11828,26 +11828,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "eca318284bdbbe071a87",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-10T17:23:02.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "The Block Drake bunker-mode page returned HTTP 403 to round 3; same event readable in Decrypt and CoinDesk versions. Next: re-open two readable outlets and draft bunker-mode.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:57:49.235Z",
+      "reviewedAt": "2026-10-10T03:47:08.303Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Drake bunker mode private key recovery two readable outlets draft bunker-mode"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "123b0a703647ad531e85": {
       "source": "Decrypt",
@@ -39977,6 +39976,18 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:06.673Z"
+        },
+        "eca318284bdbbe071a87": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:08.303Z"
         }
       },
       "baselineSlugs": [
