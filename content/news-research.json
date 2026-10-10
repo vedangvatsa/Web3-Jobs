@@ -24986,11 +24986,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5a91a10fdfbba2ed8051",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T09:33:08.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "price-chatter",
+      "note": "AERO 48 percent four-week rally vs BTC/ETH is token-price movement with no dated launch, vote, filing, ruling or raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T10:02:59.277Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "76b8464225483b76a3b9": {
       "source": "BeInCrypto",
@@ -41954,6 +41959,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:01:42.244Z",
           "automatic": true
+        },
+        "5a91a10fdfbba2ed8051": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "AERO 48 percent four-week rally vs BTC/ETH is token-price movement with no dated launch, vote, filing, ruling or raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:02:59.277Z"
         }
       },
       "baselineSlugs": [
