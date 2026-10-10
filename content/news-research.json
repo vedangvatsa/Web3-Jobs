@@ -17010,17 +17010,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0acef52c24bebf178d60",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-11T16:35:55.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same US government seized-crypto movement already covered in bitfinex-move this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:17.799Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/did-us-government-sell-bitcoin/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:08.955Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "f30de830c73c7f6e15eb": {
       "source": "The Defiant",
@@ -44147,6 +44156,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:06.290Z",
+          "retrySearches": [
+            "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
+          ]
+        },
+        "0acef52c24bebf178d60": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/did-us-government-sell-bitcoin/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:08.955Z",
           "retrySearches": [
             "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
           ]
