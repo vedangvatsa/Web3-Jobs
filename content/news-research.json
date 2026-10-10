@@ -21432,15 +21432,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "00846212524fc336a196",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:14:59.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
       "note": "Same UK Russia-sanctions package already drafted as uk-sanctions this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:50:57.258Z",
+      "reviewedAt": "2026-10-10T10:29:03.149Z",
       "articleSlug": "uk-sanctions",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -21451,7 +21451,8 @@
       "retrySearches": [
         "UK Russia sanctions FCDO Xeltox A7 draft uk-sanctions"
       ],
-      "duplicateOf": "uk-sanctions"
+      "duplicateOf": "uk-sanctions",
+      "mergedInto": "d7c128ec9ef50a3db526"
     },
     "35543151e27a95014f9d": {
       "source": "Decrypt",
@@ -42603,6 +42604,15 @@
           "note": "Same UK Russia-sanctions package already drafted as uk-sanctions this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:29:01.141Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "d7c128ec9ef50a3db526"
+        },
+        "00846212524fc336a196": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same UK Russia-sanctions package already drafted as uk-sanctions this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:03.149Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "d7c128ec9ef50a3db526"
         }
