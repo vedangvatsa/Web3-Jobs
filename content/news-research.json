@@ -24950,16 +24950,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa622e9da8bf6f47f49d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T07:10:43.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 37.5M raise led by Bain Capital Crypto in full Cointelegraph and crypto.news reads: 180M total, Townsend quote, 1-Pay product, 15 brokers, BMA license.",
+      "note": "Verified Oct 8 Meanwhile raise in Cointelegraph and crypto.news reads: 37.5M led by Bain Capital Crypto, 180M total, Townsend quote, 15 brokers, BTC 1-Pay and 10-Pay terms.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
           "outcome": "read"
         },
         {
@@ -24967,7 +24967,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T10:27:21.063Z",
+      "reviewedAt": "2026-10-10T12:02:47.405Z",
       "articleSlug": "meanwhile",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42528,6 +42528,23 @@
           ],
           "reviewedAt": "2026-10-10T12:02:45.344Z",
           "articleSlug": "iran-seizure"
+        },
+        "aa622e9da8bf6f47f49d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Meanwhile raise in Cointelegraph and crypto.news reads: 37.5M led by Bain Capital Crypto, 180M total, Townsend quote, 15 brokers, BTC 1-Pay and 10-Pay terms.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/meanwhile-raises-37-5m-for-bitcoin-insurance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T12:02:47.405Z",
+          "articleSlug": "meanwhile"
         }
       },
       "baselineSlugs": [
