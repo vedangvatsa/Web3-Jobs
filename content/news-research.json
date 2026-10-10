@@ -25184,11 +25184,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6ca39423c5e3821bc0a8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T05:19:16.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "promotional",
+      "note": "Gate WCTC S9 trading-competition announcement invites worldwide traders to a multi-asset contest; exchange marketing with no verifiable market or protocol event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T10:03:11.202Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "29cd84dfb8e2a804859a": {
       "source": "CoinDesk",
@@ -42026,6 +42031,13 @@
           "note": "CryptoSlate Fed piece debates what could stop future rate moves around the 2 percent target; macro forecasting and opinion, not a dated web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:03:09.318Z"
+        },
+        "6ca39423c5e3821bc0a8": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Gate WCTC S9 trading-competition announcement invites worldwide traders to a multi-asset contest; exchange marketing with no verifiable market or protocol event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:03:11.202Z"
         }
       },
       "baselineSlugs": [
