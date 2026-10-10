@@ -21769,17 +21769,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "7cb42063f34593cf0cc4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T06:34:11.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "duplicate",
-      "note": "Same Thailand SEC Oct 8 ETF rules effective Oct 16 covered by thailand-etfs.",
+      "note": "Same Thai SEC ETF-rules event already drafted as thailand-etfs this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:40:07.645Z",
+      "reviewedAt": "2026-10-10T03:51:03.948Z",
       "duplicateOf": "thailand-etfs",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "69d2ddb419c22b7ada74": {
       "source": "Cointelegraph",
@@ -41506,6 +41507,15 @@
           "retrySearches": [
             "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
           ]
+        },
+        "7cb42063f34593cf0cc4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thai SEC ETF-rules event already drafted as thailand-etfs this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:51:03.948Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
         }
       },
       "baselineSlugs": [
