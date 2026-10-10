@@ -12555,9 +12555,7 @@
       "articleSlug": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "greece-tax.md: under 600 words",
-        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ],
       "retrySearches": [
         "Robinhood 25M Kerbrat Unchained CoinDesk full read draft"
@@ -15135,7 +15133,10 @@
       "reviewedAt": "2026-10-10T04:08:30.533Z",
       "duplicateOf": "samsung-usdc",
       "lastReviewedDay": "2026-10-10",
-      "articleSlug": "samsung-usdc"
+      "articleSlug": "samsung-usdc",
+      "lastValidationErrors": [
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
+      ]
     },
     "6db4d7756b0c78596b24": {
       "source": "Unchained",
@@ -16479,8 +16480,7 @@
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ]
     },
     "bbda3002c00d1edb824d": {
@@ -16549,8 +16549,7 @@
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ]
     },
     "793e33cc45c8a11bda37": {
@@ -20058,9 +20057,7 @@
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "greece-tax.md: under 600 words",
-        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ],
       "duplicateOf": "thailand-etfs"
     },
@@ -20838,7 +20835,10 @@
       "retrySearches": [
         "Hamilton Empire Market sentencing NDIL release draft empire-market"
       ],
-      "articleSlug": "empire-market"
+      "articleSlug": "empire-market",
+      "lastValidationErrors": [
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
+      ]
     },
     "724035b8cd9bafa2f945": {
       "source": "CoinDesk",
@@ -22259,7 +22259,10 @@
       "retrySearches": [
         "Decrypt UK sanctions Cryptomus TokenSpot FCDO draft"
       ],
-      "articleSlug": "uk-sanctions"
+      "articleSlug": "uk-sanctions",
+      "lastValidationErrors": [
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
+      ]
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -22598,8 +22601,7 @@
       "articleSlug": "mashinsky-ban",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ]
     },
     "f3458e62d04228c30699": {
@@ -23302,8 +23304,7 @@
       "articleSlug": "dwf-bitgo",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ]
     },
     "f81abcaa78c20b29893e": {
@@ -23489,8 +23490,7 @@
       "articleSlug": "ledger-drain",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ]
     },
     "f2ce0a54f4786cb8271f": {
@@ -24636,8 +24636,7 @@
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
       ]
     },
     "504c54edc7c703968bcd": {
@@ -39207,7 +39206,7 @@
     "2026-10-10": {
       "day": "2026-10-10",
       "startedAt": "2026-10-10T03:31:28.127Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "5e0ec86b57cca6b89df7",
         "d307a4a80069a028f244",
@@ -42621,7 +42620,10 @@
         ],
         "total": 120,
         "checkedAt": "2026-10-10T03:31:28.127Z"
-      }
+      },
+      "validationErrors": [
+        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/"
+      ]
     }
   }
 }
