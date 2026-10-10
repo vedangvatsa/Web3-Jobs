@@ -14314,22 +14314,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "0babe217af4738d51336",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T10:26:55.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph WLFI-USD1 headline; single outlet so far. Next: find a WLFI, Mesh or merchant-side confirmation and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:33.517Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:09.098Z",
       "articleSlug": "wlfi-payments",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -14344,8 +14339,7 @@
       ],
       "retrySearches": [
         "WLFI USD1 Mesh payments confirmation draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "2fdc8b32451fba85bb96": {
       "source": "Cointelegraph",
@@ -40205,6 +40199,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:07.297Z"
+        },
+        "0babe217af4738d51336": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:09.098Z"
         }
       },
       "baselineSlugs": [
