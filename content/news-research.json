@@ -23843,30 +23843,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "b66ae32556259e005f14",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T18:46:03.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "verified-event",
-      "note": "Blumenthal Oct 8 Cantor Tether records request with Oct 23 deadline verified in Decrypt and CoinDesk reads plus Senate letter. Draft 758 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T23:39:14.710Z",
+      "reviewedAt": "2026-10-10T03:52:03.031Z",
       "articleSlug": "cantor-tether",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
-      ]
+      ],
+      "retrySearches": [
+        "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "a391370519699e67f1d6": {
       "source": "Bankless",
@@ -41925,6 +41925,21 @@
           "reviewedAt": "2026-10-10T03:52:01.323Z",
           "duplicateOf": "dwf-bitgo",
           "mergedInto": "496643e7a159131009a6"
+        },
+        "b66ae32556259e005f14": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:03.031Z",
+          "retrySearches": [
+            "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
+          ]
         }
       },
       "baselineSlugs": [
