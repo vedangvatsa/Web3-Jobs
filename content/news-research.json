@@ -25407,11 +25407,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "2b09eeac3b32962b2bf0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T11:44:28.715Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T11:09:33.000Z",
-      "lastSeenAt": "2026-10-10T11:44:28.715Z"
+      "lastSeenAt": "2026-10-10T11:44:28.715Z",
+      "reason": "source-blocked",
+      "note": "Defiant origin returned HTTP 403; single-source 464 ETH Tornado Cash movement needs a second readable outlet before any draft.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T11:45:31.873Z",
+      "retrySearches": [
+        "CryptoBilis 464 ETH Tornado Cash independent reporting with traced addresses and amounts"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "7ecdfd994ce12296e566": {
       "source": "BeInCrypto",
@@ -42312,6 +42326,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T11:45:29.632Z"
+        },
+        "2b09eeac3b32962b2bf0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant origin returned HTTP 403; single-source 464 ETH Tornado Cash movement needs a second readable outlet before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T11:45:31.873Z",
+          "retrySearches": [
+            "CryptoBilis 464 ETH Tornado Cash independent reporting with traced addresses and amounts"
+          ]
         }
       },
       "baselineSlugs": [
