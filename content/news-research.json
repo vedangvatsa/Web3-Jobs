@@ -23251,13 +23251,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "496643e7a159131009a6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T16:08:23.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "verified-event",
-      "note": "Verified the 41M London High Court claim in full Unchained, Decrypt and CoinDesk reads: FF/ESPORTS lock-up-breach allegations, 14M damages basis, April-May timeline, Grachev-Huobi context.",
+      "note": "Verified 141M London High Court claim in full Unchained, Decrypt and CoinDesk reads: FF and ESPORTS lock-up allegations, 114M damages basis, April-May timeline, no-comment responses.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
@@ -23272,7 +23272,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T04:08:19.556Z",
+      "reviewedAt": "2026-10-10T10:27:58.482Z",
       "articleSlug": "dwf-bitgo",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42324,6 +42324,27 @@
           ],
           "reviewedAt": "2026-10-10T10:27:56.403Z",
           "articleSlug": "iran-seizure"
+        },
+        "496643e7a159131009a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 141M London High Court claim in full Unchained, Decrypt and CoinDesk reads: FF and ESPORTS lock-up allegations, 114M damages basis, April-May timeline, no-comment responses.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:27:58.482Z",
+          "articleSlug": "dwf-bitgo"
         }
       },
       "baselineSlugs": [
