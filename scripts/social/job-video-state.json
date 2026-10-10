@@ -1945,10 +1945,11 @@
           "url": "https://www.instagram.com/reel/DeTH5duCUNz/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Zagreb, Croatia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-10T03:31:51.753Z",
-          "postId": "6ac9b1a9bba9419ccbebabc8"
+          "postId": "6ac9b1a9bba9419ccbebabc8",
+          "url": "https://www.youtube.com/watch?v=v523qo9gPpc"
         }
       }
     },
