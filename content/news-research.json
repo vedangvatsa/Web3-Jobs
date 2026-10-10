@@ -22233,20 +22233,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f46b0c4a638dbaf5f575",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T12:23:54.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same DWF-BitGo 141M lawsuit already covered in dwf-bitgo this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:54.955Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:40.816Z",
       "retrySearches": [
-        "BitGo 141M suit filing response draft"
+        "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
       ],
       "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "dwf-bitgo"
+      "duplicateOf": "dwf-bitgo",
+      "nextReviewDate": "2026-10-11"
     },
     "322bfa081991e4298e14": {
       "source": "BeInCrypto",
@@ -44551,6 +44557,21 @@
           "reviewedAt": "2026-10-10T22:55:39.151Z",
           "retrySearches": [
             "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
+          ]
+        },
+        "f46b0c4a638dbaf5f575": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:40.816Z",
+          "retrySearches": [
+            "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
           ]
         }
       },
