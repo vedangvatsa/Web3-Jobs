@@ -1444,5 +1444,53 @@
     "slotKey": "2026-10-09:evening",
     "messageId": 155703,
     "sentAt": "2026-10-09T19:52:46.162Z"
+  },
+  "44aa2d60-34db-4036-9a1e-49c77d9379a0": {
+    "status": "reserved",
+    "reservedAt": "2026-10-10T04:19:27.320Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-crypto-syndicate-party",
+        "slug": "csp",
+        "name": "Crypto Syndicate Party",
+        "startDate": "2026-10-10T11:00:00.000Z",
+        "keys": [
+          "w3v-crypto-syndicate-party",
+          "page:csp:2026-10-10",
+          "luma:evt-k84ppybr7emkrbg",
+          "luma-url:/pohccu99",
+          "event:cryptosyndicateparty:2026-10-10:singapore"
+        ]
+      },
+      {
+        "id": "w3v-f1-sg-x-crypto-vc--race-day",
+        "slug": "fsxcvrd",
+        "name": "F1 SG x Crypto VC - Race Day",
+        "startDate": "2026-10-11T07:00:00.000Z",
+        "keys": [
+          "w3v-f1-sg-x-crypto-vc--race-day",
+          "page:fsxcvrd:2026-10-11",
+          "luma:evt-szed0pdhbfgxwgc",
+          "luma-url:/ngmqvk2i",
+          "event:f1sgxcryptovcraceday:2026-10-11:singapore"
+        ]
+      },
+      {
+        "id": "token2049-evt-XYkkHo9ggZROsdv",
+        "slug": "crypto-expo",
+        "name": "Crypto Expo SG x F1 Singapore GP",
+        "startDate": "2026-10-11T07:30:00.000Z",
+        "keys": [
+          "token2049-evt-xykkho9ggzrosdv",
+          "page:crypto-expo:2026-10-11",
+          "luma:evt-xykkho9ggzrosdv",
+          "luma-url:/wewl4yec",
+          "event:cryptoexposgxf1singaporegp:2026-10-11:singapore"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-10:morning"
   }
 }
