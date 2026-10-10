@@ -24260,34 +24260,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "32a6fb4025d29d3c1e2f",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T21:21:54.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "verified-event",
-      "note": "CFTC Oct 9 event-contract swap NPRM plus casino exclusion interim rule verified in CFTC release, CoinDesk and CryptoBriefing reads. Draft 617 words, audits clean.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
-          "outcome": "read"
-        },
-        {
           "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptobriefing.com/cftc-event-contracts-swaps-exclusion/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T23:39:12.825Z",
+      "reviewedAt": "2026-10-10T03:52:13.518Z",
       "articleSlug": "cftc-swaps",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
-      ]
+      ],
+      "retrySearches": [
+        "CFTC event contracts swaps rulemaking proposal text and comment period dates"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "94b717cda7c41ca127f6": {
       "source": "CryptoSlate",
@@ -41995,6 +41991,21 @@
           "reviewedAt": "2026-10-10T03:52:11.501Z",
           "retrySearches": [
             "Blockchain.com CFTC prediction markets derivatives approval CNBC report details and filing status"
+          ]
+        },
+        "32a6fb4025d29d3c1e2f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:13.518Z",
+          "retrySearches": [
+            "CFTC event contracts swaps rulemaking proposal text and comment period dates"
           ]
         }
       },
