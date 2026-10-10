@@ -22715,17 +22715,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c7af042fdbff4991543",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T13:51:00.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "duplicate",
-      "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+      "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:51:29.652Z",
+      "reviewedAt": "2026-10-10T10:29:23.561Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "1d4609ee58a5f22e603a": {
       "source": "CryptoSlate",
@@ -42675,6 +42676,15 @@
           "reviewedAt": "2026-10-10T10:29:15.485Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "3e5484a682e6ed261c67"
+        },
+        "0c7af042fdbff4991543": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:23.561Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
         }
       },
       "baselineSlugs": [
