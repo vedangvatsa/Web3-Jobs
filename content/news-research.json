@@ -21982,17 +21982,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "7cb42063f34593cf0cc4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T06:34:11.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "duplicate",
-      "note": "Same Thai SEC ETF-rules event already covered in thailand-etfs this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:40.084Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:29.304Z",
       "duplicateOf": "thailand-etfs",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "69d2ddb419c22b7ada74": {
       "source": "Cointelegraph",
@@ -44417,6 +44426,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:27.748Z",
+          "retrySearches": [
+            "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
+          ]
+        },
+        "7cb42063f34593cf0cc4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:29.304Z",
           "retrySearches": [
             "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
           ]
