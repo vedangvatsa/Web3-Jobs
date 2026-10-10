@@ -22212,13 +22212,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "verified-event",
-      "note": "Verified the Oct 8 FCDO package in full Decrypt and Cointelegraph reads: Cryptomus, TokenSpot and others designated with Chainalysis flow data and the 38-target oil and tanker context.",
+      "note": "Verified Oct 8 FCDO package in full Decrypt, Cointelegraph and gov.uk reads: Cryptomus, TokenSpot and others designated, A7 network claims, 38-target oil and tanker context, notice mechanics.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
@@ -22227,9 +22227,13 @@
         {
           "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T03:46:31.386Z",
+      "reviewedAt": "2026-10-10T10:27:45.544Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
@@ -42236,6 +42240,27 @@
           ],
           "reviewedAt": "2026-10-10T10:27:43.424Z",
           "articleSlug": "empire-market"
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 FCDO package in full Decrypt, Cointelegraph and gov.uk reads: Cryptomus, TokenSpot and others designated, A7 network claims, 38-target oil and tanker context, notice mechanics.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:27:45.544Z",
+          "articleSlug": "uk-sanctions"
         }
       },
       "baselineSlugs": [
