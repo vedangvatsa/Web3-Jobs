@@ -25074,11 +25074,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "1a5192e7fa4323c2dc45",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T04:20:07.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 9 disclosure in full CoinDesk, XRPL report and CryptoTicker reads: 2015 overflow, Sept 22 bounty report, 3.4.1 fix without amendment, no exploitation.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+          "outcome": "read"
+        },
+        {
+          "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoticker.io/en/xrpl-payment-engine-overflow-patch/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T10:27:23.886Z",
+      "articleSlug": "xrpl-overflow",
+      "lastReviewedDay": "2026-10-10"
     },
     "4636e3d0ae5557b64899": {
       "source": "BeInCrypto",
@@ -42070,6 +42089,27 @@
           ],
           "reviewedAt": "2026-10-10T10:27:21.063Z",
           "articleSlug": "meanwhile"
+        },
+        "1a5192e7fa4323c2dc45": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 disclosure in full CoinDesk, XRPL report and CryptoTicker reads: 2015 overflow, Sept 22 bounty report, 3.4.1 fix without amendment, no exploitation.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoticker.io/en/xrpl-payment-engine-overflow-patch/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:27:23.886Z",
+          "articleSlug": "xrpl-overflow"
         }
       },
       "baselineSlugs": [
