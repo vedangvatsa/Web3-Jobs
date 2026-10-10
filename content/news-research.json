@@ -23763,17 +23763,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "625750d26ecc321a617e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T13:24:12.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "duplicate",
-      "note": "Same DWF affiliates 141M BitGo suit covered by dwf-bitgo.",
+      "note": "Same DWF-BitGo $141M lawsuit already drafted as dwf-bitgo this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:40:42.402Z",
+      "reviewedAt": "2026-10-10T03:52:01.323Z",
       "duplicateOf": "dwf-bitgo",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "496643e7a159131009a6"
     },
     "086f433689c7a72fd7a9": {
       "source": "The Block",
@@ -41915,6 +41916,15 @@
           "retrySearches": [
             "LiquidAcre Uphold digital asset infrastructure deal terms"
           ]
+        },
+        "625750d26ecc321a617e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same DWF-BitGo $141M lawsuit already drafted as dwf-bitgo this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:52:01.323Z",
+          "duplicateOf": "dwf-bitgo",
+          "mergedInto": "496643e7a159131009a6"
         }
       },
       "baselineSlugs": [
