@@ -25722,11 +25722,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a9cf05f7f2dc46a2ad6e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T15:01:03.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "out-of-scope",
+      "note": "AI chatbot behavior research with no crypto event or Web3 angle.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:53:01.885Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "99fc7332526634ed7501": {
       "source": "The Defiant",
@@ -43695,6 +43700,13 @@
           "note": "One-year anniversary retrospective on flash-crash liquidity; analysis of past events, not fresh news.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:52:59.719Z"
+        },
+        "a9cf05f7f2dc46a2ad6e": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI chatbot behavior research with no crypto event or Web3 angle.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:53:01.885Z"
         }
       },
       "baselineSlugs": [
