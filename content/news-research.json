@@ -20018,28 +20018,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 SEC rules in full Cointelegraph and CoinDesk reads plus official release text: Oct 16 effect, SET-only listing, BTC and ETH only, 80 percent exposure, custody and margin terms.",
+      "note": "Verified Oct 8 Thai SEC rules in Cointelegraph and CoinDesk reads: Oct 16 effect, SET-only listing, BTC and ETH only, 80 percent exposure, custody and no-margin terms, Nirun comment.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
           "outcome": "read"
         },
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.pubt.io/view/97F806AE0C70A0D5C3DE243398D3DEB111DAFCD2",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T10:27:41.362Z",
+      "reviewedAt": "2026-10-10T12:02:18.757Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42429,6 +42425,23 @@
           ],
           "reviewedAt": "2026-10-10T12:02:11.632Z",
           "articleSlug": "nfl-kalshi"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Thai SEC rules in Cointelegraph and CoinDesk reads: Oct 16 effect, SET-only listing, BTC and ETH only, 80 percent exposure, custody and no-margin terms, Nirun comment.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T12:02:18.757Z",
+          "articleSlug": "thailand-etfs"
         }
       },
       "baselineSlugs": [
