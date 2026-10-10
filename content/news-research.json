@@ -22363,23 +22363,23 @@
       "id": "666c58700460247b690e",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T10:49:24.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph tokenized-collateral headline; single outlet so far. Next: find the ESMA call-for-evidence text or second outlet and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:27.582Z",
+      "reviewedAt": "2026-10-10T03:51:18.024Z",
       "retrySearches": [
-        "ESMA tokenized collateral call for evidence draft"
+        "ESMA tokenized collateral crisis cash-out evidence call deadline and respondents"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "d35dc079e9465772ed59": {
       "source": "BeInCrypto",
@@ -41599,6 +41599,21 @@
           "reviewedAt": "2026-10-10T03:51:16.340Z",
           "retrySearches": [
             "Zcash January quantum-resistant payments target developer statements and scope"
+          ]
+        },
+        "666c58700460247b690e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:18.024Z",
+          "retrySearches": [
+            "ESMA tokenized collateral crisis cash-out evidence call deadline and respondents"
           ]
         }
       },
