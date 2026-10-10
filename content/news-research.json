@@ -24688,17 +24688,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5936ea8f20383c5c23f9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T20:10:14.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same Bessent $1B Iran-seizure claim already drafted as iran-seizure this run; no separate development.",
+      "note": "Same Bessent 1B Iran-seizure claim already drafted as iran-seizure this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:52:28.891Z",
+      "reviewedAt": "2026-10-10T10:29:46.008Z",
       "duplicateOf": "iran-seizure",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "2f33d3c76777e7ef334e"
     },
     "f41e7abd8920b9ee59a0": {
       "source": "Decrypt",
@@ -42783,6 +42784,15 @@
           "note": "Same Bessent 1B Iran-seizure claim already drafted as iran-seizure this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:29:43.845Z",
+          "duplicateOf": "iran-seizure",
+          "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "5936ea8f20383c5c23f9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Bessent 1B Iran-seizure claim already drafted as iran-seizure this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:46.008Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
         }
