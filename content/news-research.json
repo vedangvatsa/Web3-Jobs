@@ -26730,11 +26730,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "da70ccbdbd68e037a25f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T22:29:51.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/xrp-ledger-security-flaws-ai-threat/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:19.069Z",
+      "retrySearches": [
+        "Avalanche founder XRP ledger AI flaw warning technical basis second outlet full reads"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "6f6c7d47bf83d49d4713": {
       "source": "BeInCrypto",
@@ -45052,6 +45066,21 @@
           "reviewedAt": "2026-10-10T22:56:17.422Z",
           "retrySearches": [
             "Papertrade $10.3M staker rewards independent second outlet full reads"
+          ]
+        },
+        "da70ccbdbd68e037a25f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/xrp-ledger-security-flaws-ai-threat/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:19.069Z",
+          "retrySearches": [
+            "Avalanche founder XRP ledger AI flaw warning technical basis second outlet full reads"
           ]
         }
       },
