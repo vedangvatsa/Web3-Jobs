@@ -13970,22 +13970,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "e1016b5ea433bb06db24",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T14:20:01.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "The Block Sky B3 origin returned HTTP 403 to round 3; pairs with the blocked Defiant version. Next: open Moody's release or a second outlet and draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:13:19.954Z",
+      "reviewedAt": "2026-10-10T03:47:58.295Z",
       "articleSlug": "sky-rating",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -14000,8 +14000,7 @@
       ],
       "retrySearches": [
         "Moody's Sky B3 rating release second outlet draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "9947fd6054fa80daa4d4": {
       "source": "CoinDesk",
@@ -40179,6 +40178,18 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:56.631Z"
+        },
+        "e1016b5ea433bb06db24": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:58.295Z"
         }
       },
       "baselineSlugs": [
