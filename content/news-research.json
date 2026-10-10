@@ -17150,24 +17150,24 @@
       "id": "3b110ea0056b771ffe65",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T15:10:15.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Defiant Securitize tokenized-stocks page returned HTTP 403 to round 3; same Oct 8 launch re-read in CoinDesk and Decrypt this round. Next: re-open PRNewswire release plus one outlet and draft securitize-stocks.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:15.565Z",
+      "reviewedAt": "2026-10-10T03:49:23.706Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Securitize Stocks PRNewswire release 12 tickers draft securitize-stocks"
+        "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "1b96b3a80a7d4b84f0ae": {
       "source": "Unchained",
@@ -40686,6 +40686,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:49:22.153Z",
+          "retrySearches": [
+            "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
+          ]
+        },
+        "3b110ea0056b771ffe65": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:23.706Z",
           "retrySearches": [
             "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
           ]
