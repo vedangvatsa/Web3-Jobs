@@ -20657,24 +20657,24 @@
       "id": "b22ff44197a4ebb9636a",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:23:45.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained Blumenthal page and confirmed the records-request headline; pairs with the CoinDesk probe piece. Next: full-read both and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:27.948Z",
+      "reviewedAt": "2026-10-10T03:50:35.729Z",
       "duplicateOf": "cantor-probe",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Blumenthal Cantor records CoinDesk corroboration draft"
+        "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "4c8e5464d8009c02f491": {
       "source": "Unchained",
@@ -41295,6 +41295,21 @@
           "reviewedAt": "2026-10-10T03:50:34.106Z",
           "retrySearches": [
             "XRP Ledger account delegation amendment activation status and validator votes"
+          ]
+        },
+        "b22ff44197a4ebb9636a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:35.729Z",
+          "retrySearches": [
+            "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
           ]
         }
       },
