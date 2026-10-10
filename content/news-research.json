@@ -17186,28 +17186,24 @@
       "id": "1b96b3a80a7d4b84f0ae",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T14:54:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Unchained Securitize rollout page fetched HTTP 200 but round 3 did not complete a full re-read; Decrypt and CoinDesk accounts re-read with matching 1:1 structure. Next: full-read this plus PRNewswire and draft securitize-stocks.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-          "outcome": "read"
+          "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:01:07.215Z",
+      "reviewedAt": "2026-10-10T03:49:25.568Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Unchained Securitize 1:1 tokens full read draft securitize-stocks"
+        "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "9c99bbb806b4fba25563": {
       "source": "The Block",
@@ -40701,6 +40697,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:49:23.706Z",
+          "retrySearches": [
+            "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
+          ]
+        },
+        "1b96b3a80a7d4b84f0ae": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:25.568Z",
           "retrySearches": [
             "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
           ]
