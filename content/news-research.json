@@ -16280,24 +16280,24 @@
       "id": "12cd8e1ece2bf4f73473",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T11:32:02.994Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T10:50:37.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CryptoSlate BitMine six-weeks headline; pairs with Decrypt, CoinDesk and Cointelegraph versions. Next: full-read two and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:13:59.139Z",
+      "reviewedAt": "2026-10-10T03:49:02.016Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "BitMine buying spree two outlets draft"
+        "BitMine Ethereum buying six-week timeline figures and Tom Lee statement context"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "be4e446ed970ba30a8c6": {
       "source": "BeInCrypto",
@@ -40517,6 +40517,21 @@
           "reviewedAt": "2026-10-10T03:49:00.419Z",
           "retrySearches": [
             "US government 770M bitcoin Coinbase Prime transfer Arkham trail and sale status"
+          ]
+        },
+        "12cd8e1ece2bf4f73473": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:02.016Z",
+          "retrySearches": [
+            "BitMine Ethereum buying six-week timeline figures and Tom Lee statement context"
           ]
         }
       },
