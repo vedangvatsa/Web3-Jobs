@@ -20393,22 +20393,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "6521f65a66822c1c1481",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T10:40:59.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same Thai SEC ETF-rules event already drafted as thailand-etfs this run; no separate development.",
+      "note": "Same Thai SEC ETF-rules event already covered in thailand-etfs this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:03:44.654Z",
+      "reviewedAt": "2026-10-10T16:51:35.880Z",
       "duplicateOf": "thailand-etfs",
       "lastReviewedDay": "2026-10-10",
       "articleSlug": "thailand-etfs",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
-      ]
+      ],
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "111c40e3f46ad4991183": {
       "source": "CoinJournal",
@@ -43351,6 +43352,15 @@
           "reviewedAt": "2026-10-10T16:51:33.892Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "6521f65a66822c1c1481": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thai SEC ETF-rules event already covered in thailand-etfs this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:51:35.880Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
         }
       },
       "baselineSlugs": [
