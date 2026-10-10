@@ -24049,17 +24049,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "74b8157eef0883dae91f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T13:41:21.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:42.643Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:00.968Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "c1d0d154bba53b41bc48": {
       "source": "The Defiant",
@@ -44813,6 +44822,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:59.350Z",
+          "retrySearches": [
+            "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+          ]
+        },
+        "74b8157eef0883dae91f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:00.968Z",
           "retrySearches": [
             "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
           ]
