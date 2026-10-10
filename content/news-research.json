@@ -25890,11 +25890,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1e3baa68bfd62409bba8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T12:00:37.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "not-a-concrete-event",
+      "note": "Explainer on laundering stolen crypto into spendable money; general analysis, not a dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:53:08.459Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "21dc6da49f558d596ee5": {
       "source": "CoinDesk",
@@ -43719,6 +43724,13 @@
           "note": "Traditional hedge-fund stock losses on AI bets; no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:53:03.888Z"
+        },
+        "1e3baa68bfd62409bba8": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Explainer on laundering stolen crypto into spendable money; general analysis, not a dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:53:08.459Z"
         }
       },
       "baselineSlugs": [
