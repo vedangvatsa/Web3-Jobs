@@ -26695,11 +26695,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7b823141592953e24684",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T16:43:44.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:17.422Z",
+      "retrySearches": [
+        "Papertrade $10.3M staker rewards independent second outlet full reads"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "da70ccbdbd68e037a25f": {
       "source": "BeInCrypto",
@@ -45023,6 +45037,21 @@
           "reviewedAt": "2026-10-10T22:56:15.848Z",
           "retrySearches": [
             "Papertrade $18.2M losses staking rewards independent second outlet full reads"
+          ]
+        },
+        "7b823141592953e24684": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:17.422Z",
+          "retrySearches": [
+            "Papertrade $10.3M staker rewards independent second outlet full reads"
           ]
         }
       },
