@@ -14946,17 +14946,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "97cd7b6349290032f276",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-11T09:05:50.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
       "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:48:29.532Z",
+      "reviewedAt": "2026-10-10T10:28:10.745Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "4d0c341e251b419b5c56"
     },
     "67de49f7da8711f3fc2f": {
       "source": "Cointelegraph",
@@ -42363,6 +42364,15 @@
           "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:28:08.623Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "4d0c341e251b419b5c56"
+        },
+        "97cd7b6349290032f276": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:28:10.745Z",
           "duplicateOf": "samsung-usdc",
           "mergedInto": "4d0c341e251b419b5c56"
         }
