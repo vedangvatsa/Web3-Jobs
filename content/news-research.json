@@ -25106,11 +25106,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a5acbd3f853f1c58fc3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T08:41:06.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "out-of-scope",
+      "note": "EU tech-chief remarks on fending off rogue AI risk concern general AI safety policy, not a web3 launch, filing, ruling, raise or upgrade.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T10:03:05.338Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "5be04fe760f210c3ecbe": {
       "source": "BeInCrypto",
@@ -41990,6 +41995,13 @@
           "note": "XT Exchange eighth-anniversary essay on user experience argues the next billion users come from UX; brand anniversary marketing with no dated event or figures.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:03:03.329Z"
+        },
+        "8a5acbd3f853f1c58fc3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "EU tech-chief remarks on fending off rogue AI risk concern general AI safety policy, not a web3 launch, filing, ruling, raise or upgrade.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:03:05.338Z"
         }
       },
       "baselineSlugs": [
