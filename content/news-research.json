@@ -16513,28 +16513,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 transfer of 12,267 BTC to unlabeled wallets plus Oct 7 833.6 BTC and 40,285 BNB flows in CoinDesk and two Decrypt reads; expanded draft past 600 words, images and links pass.",
+      "note": "Verified Oct 8 12,267 BTC unlabeled transfer plus Wednesday Coinbase Prime flows in full Decrypt and CoinDesk reads; expanded past 600 words, hero self-hosted, all links 200.",
       "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-          "outcome": "read"
-        },
         {
           "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
           "outcome": "read"
         },
         {
-          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+          "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T12:02:01.511Z",
+      "reviewedAt": "2026-10-10T16:45:42.883Z",
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42706,6 +42702,23 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:20:04.785Z",
           "automatic": true
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 12,267 BTC unlabeled transfer plus Wednesday Coinbase Prime flows in full Decrypt and CoinDesk reads; expanded past 600 words, hero self-hosted, all links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:45:42.883Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
