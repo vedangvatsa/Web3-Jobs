@@ -21116,23 +21116,23 @@
       "id": "0fbcbb3af0a65dee6c5f",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T05:20:19.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CryptoSlate Core Lightning patch headline; single outlet so far. Next: find the release notes or second outlet and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:04.843Z",
+      "reviewedAt": "2026-10-10T03:50:47.279Z",
       "retrySearches": [
-        "Core Lightning patch release notes draft"
+        "Core Lightning critical security flaws patch release notes and severity"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "11a30808d0c23996da58": {
       "source": "The Defiant",
@@ -41398,6 +41398,21 @@
           "reviewedAt": "2026-10-10T03:50:45.621Z",
           "retrySearches": [
             "Coinbase 10x spot leverage rollout eligible regions and US retail exclusion"
+          ]
+        },
+        "0fbcbb3af0a65dee6c5f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:47.279Z",
+          "retrySearches": [
+            "Core Lightning critical security flaws patch release notes and severity"
           ]
         }
       },
