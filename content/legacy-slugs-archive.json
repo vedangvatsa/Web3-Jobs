@@ -136757,5 +136757,29 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt102"
+  },
+  "qa82": {
+    "id": "744000151850939",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850939-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "eng534": {
+    "id": "4971516101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971516101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "pm284": {
+    "id": "4971231101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971231101",
+    "company": "Bybit",
+    "title": "Senior Growth Product Manager - User Activation"
+  },
+  "be72": {
+    "id": "4908935101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
   }
 }
