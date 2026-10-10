@@ -24944,11 +24944,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa622e9da8bf6f47f49d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T07:10:43.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 8 37.5M raise led by Bain Capital Crypto in full Cointelegraph and crypto.news reads: 180M total, Townsend quote, 1-Pay product, 15 brokers, BMA license.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/meanwhile-raises-37-5m-for-bitcoin-insurance/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T10:27:21.063Z",
+      "articleSlug": "meanwhile",
+      "lastReviewedDay": "2026-10-10"
     },
     "6445e691f0625b1e13c9": {
       "source": "The Defiant",
@@ -42038,6 +42053,23 @@
           "note": "Gate WCTC S9 trading-competition announcement invites worldwide traders to a multi-asset contest; exchange marketing with no verifiable market or protocol event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:03:11.202Z"
+        },
+        "aa622e9da8bf6f47f49d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 37.5M raise led by Bain Capital Crypto in full Cointelegraph and crypto.news reads: 180M total, Townsend quote, 1-Pay product, 15 brokers, BMA license.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/meanwhile-raises-37-5m-for-bitcoin-insurance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:27:21.063Z",
+          "articleSlug": "meanwhile"
         }
       },
       "baselineSlugs": [
