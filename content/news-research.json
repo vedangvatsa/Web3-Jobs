@@ -20244,23 +20244,23 @@
       "id": "a107631a948ec7966b21",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T02:17:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "needs-corroboration",
-      "note": "DTC faster share-registration story seen only in blocked origin; needs DTCC release or FAQ plus second outlet.",
+      "reason": "source-blocked",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:19:15.340Z",
+      "reviewedAt": "2026-10-10T03:50:25.925Z",
       "retrySearches": [
-        "DTCC Tokenization Service launch October 2026 DTC"
+        "DTC share-registration minutes proposal filing text and comment period"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "d3c7df7b211472a7b053": {
       "source": "CryptoSlate",
@@ -41219,6 +41219,21 @@
           "reviewedAt": "2026-10-10T03:50:24.357Z",
           "retrySearches": [
             "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
+          ]
+        },
+        "a107631a948ec7966b21": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:25.925Z",
+          "retrySearches": [
+            "DTC share-registration minutes proposal filing text and comment period"
           ]
         }
       },
