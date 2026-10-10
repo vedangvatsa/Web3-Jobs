@@ -18760,17 +18760,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "0c31ee8280e95318f8bf",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-11T19:31:03.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "Same NFL amicus-brief event already covered in nfl-kalshi this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:30.045Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:19.034Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "823e99f6e2c7e227d089": {
       "source": "CoinDesk",
@@ -44282,6 +44291,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:17.325Z",
+          "retrySearches": [
+            "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+          ]
+        },
+        "0c31ee8280e95318f8bf": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:19.034Z",
           "retrySearches": [
             "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
           ]
