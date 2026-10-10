@@ -16511,13 +16511,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 12,267 BTC move to unlabeled wallets in full CoinDesk and Decrypt reads plus Oct 7 103M flows: no sale indicated, Arkham attribution, reserve context.",
+      "note": "Verified Oct 8 transfer of 12,267 BTC to unlabeled wallets plus Oct 7 833.6 BTC and 40,285 BNB flows in CoinDesk and two Decrypt reads; expanded draft past 600 words, images and links pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
@@ -16532,7 +16532,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T10:27:31.584Z",
+      "reviewedAt": "2026-10-10T12:02:01.511Z",
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42370,6 +42370,27 @@
           "retrySearches": [
             "Ledger sealed wallet spy chip reseller independent reporting with Ledger response"
           ]
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 transfer of 12,267 BTC to unlabeled wallets plus Oct 7 833.6 BTC and 40,285 BNB flows in CoinDesk and two Decrypt reads; expanded draft past 600 words, images and links pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T12:02:01.511Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
