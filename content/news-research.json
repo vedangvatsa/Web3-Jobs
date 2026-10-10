@@ -12439,22 +12439,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "697bdf91d6c6d3bd5f3f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T10:05:37.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained Coinbase piece and confirmed the Global Exchange headline; rounds 1-2 list Unchained, Cointelegraph and acquisition-term reads. Next: re-open two and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/coinbase-completes-deribit-integration-and-says-coinbase-pro-returns-by-year-end/",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:54.106Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:25.237Z",
       "articleSlug": "coinbase-pro",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -12464,8 +12459,7 @@
       ],
       "retrySearches": [
         "Coinbase Deribit Pro year-end Unchained Cointelegraph draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "e9fd034440ac8ecd0769": {
       "source": "Unchained",
@@ -40019,6 +40013,13 @@
           "reviewedAt": "2026-10-10T03:47:23.536Z",
           "duplicateOf": "robinhood-bitcoin",
           "mergedInto": "e04537f91ce4996c0500"
+        },
+        "697bdf91d6c6d3bd5f3f": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:25.237Z"
         }
       },
       "baselineSlugs": [
