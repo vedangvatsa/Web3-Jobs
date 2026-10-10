@@ -15634,17 +15634,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "45186be758e1123e3a5a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 14,
+      "attempts": 15,
       "expiresAt": "2026-10-11T08:39:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Samsung Wallet late-October USDC launch already covered in samsung-usdc this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:00.152Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:54:57.153Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "11996eb39c769fbb3797": {
       "source": "BeInCrypto",
@@ -44012,6 +44021,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:54:55.397Z",
+          "retrySearches": [
+            "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+          ]
+        },
+        "45186be758e1123e3a5a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:54:57.153Z",
           "retrySearches": [
             "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
           ]
