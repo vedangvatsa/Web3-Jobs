@@ -12233,26 +12233,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "ef70587c25b3a339f650",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T14:55:32.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Decrypt BitMine page and confirmed the 5-percent-cap headline; four companion pieces name CoinDesk, CryptoSlate and Cointelegraph angles. Next: full-read two and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:37.057Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:18.457Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "BitMine 5 percent ETH cap Tom Lee draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "975d9f51a02a30183717": {
       "source": "CoinDesk",
@@ -40012,6 +40006,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:16.792Z"
+        },
+        "ef70587c25b3a339f650": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:18.457Z"
         }
       },
       "baselineSlugs": [
