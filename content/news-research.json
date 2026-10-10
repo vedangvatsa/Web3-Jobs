@@ -21467,15 +21467,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "35543151e27a95014f9d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:11:51.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
       "note": "Same Empire Market sentencing already drafted as empire-market this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:50:58.990Z",
+      "reviewedAt": "2026-10-10T10:28:57.008Z",
       "articleSlug": "empire-market",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -21486,7 +21486,8 @@
       "retrySearches": [
         "Empire Market Hamilton 40-year NDIL draft empire-market"
       ],
-      "duplicateOf": "empire-market"
+      "duplicateOf": "empire-market",
+      "mergedInto": "33d2532cea35902b8372"
     },
     "032bb637cf94a2610025": {
       "source": "Unchained",
@@ -42575,6 +42576,15 @@
           "reviewedAt": "2026-10-10T10:28:54.987Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "35543151e27a95014f9d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Empire Market sentencing already drafted as empire-market this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:28:57.008Z",
+          "duplicateOf": "empire-market",
+          "mergedInto": "33d2532cea35902b8372"
         }
       },
       "baselineSlugs": [
