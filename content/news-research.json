@@ -18040,24 +18040,24 @@
       "id": "d95fa2d052471948ef8d",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T14:39:48.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "CoinDesk institutional bunker-mode page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
-          "outcome": "blocked"
+          "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:25.872Z",
+      "reviewedAt": "2026-10-10T03:49:42.370Z",
       "retrySearches": [
-        "CoinDesk institutional bunker mode full read draft"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "duplicateOf": "bunker-mode",
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "bbfbc980f72f30b4800c": {
       "source": "CoinDesk",
@@ -40848,6 +40848,21 @@
           "reviewedAt": "2026-10-10T03:49:40.701Z",
           "retrySearches": [
             "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
+          ]
+        },
+        "d95fa2d052471948ef8d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:42.370Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
         }
       },
