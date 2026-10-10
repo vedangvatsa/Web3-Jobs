@@ -14802,23 +14802,23 @@
       "id": "c7afc2887d7fc29547c0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T04:23:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Same Sepolia 200M gas test as paired candidate; Decrypt account read in-run for the same event, needs Ethereum blog or commit corroboration.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-          "outcome": "read"
+          "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:17:34.869Z",
+      "reviewedAt": "2026-10-10T03:48:26.067Z",
       "retrySearches": [
-        "Sepolia Glamsterdam 200 million gas limit October 6 2026"
+        "Ethereum Glamsterdam test 200M gas per block results and next steps"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "b486ca816b176c708e46": {
       "source": "Unchained",
@@ -40257,6 +40257,21 @@
           "reviewedAt": "2026-10-10T03:48:24.332Z",
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
+        },
+        "c7afc2887d7fc29547c0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:26.067Z",
+          "retrySearches": [
+            "Ethereum Glamsterdam test 200M gas per block results and next steps"
           ]
         }
       },
