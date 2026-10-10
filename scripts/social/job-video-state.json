@@ -2061,10 +2061,11 @@
           "url": "https://www.youtube.com/watch?v=e8JVKZwLx6Y"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Software Engineer, Mobile(iOS) at OKX. Singapore.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-10T11:47:35.618Z",
-          "postId": "6aca25d9b07d37ac976f74ed"
+          "postId": "6aca25d9b07d37ac976f74ed",
+          "url": "https://tiktok.com/@hashtagweb3/video/7695004597152173344"
         }
       }
     }
