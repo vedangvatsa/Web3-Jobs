@@ -1,5 +1,5 @@
 {
-  "lastIndex": 373,
+  "lastIndex": 376,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -172,7 +172,9 @@
     "sls215",
     "an68",
     "ops89",
-    "mgr78"
+    "mgr78",
+    "psc",
+    "int42"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5411,498 +5413,6 @@
       "verification": "verified"
     },
     {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x5b73f73f3c8749514905732536563e83a6d446da",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x0f5493b1ade8782e4ca16e2ce5975d31f83ddcd8",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x089d73e68aabb440225cc436efb309f54a4577c5",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0x999d81d93bac251cf29ab5df4f04f7480666e342",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "0xbb9e03c84e5a698f8a3aee3de5f1393f50a4de00",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "6ac4e32a6425d398cacd8357",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "6ac4e334fd3e7cb4c2195e24",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "urn:li:share:7513206959614042112",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "cmp72",
-      "company": "Stripe",
-      "title": "Legal/ Corporate Compliance Operations Associate",
-      "platform": "facebook",
-      "postedAt": "2026-10-06T12:01:28.035Z",
-      "postId": "691827047618629_1108008498473051",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "x",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "6ac4e347fd3e7cb4c21962f4",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Bybit is hiring P2P Product Manager\n\nhttps://hashtagweb3.com/pm39/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107441303160082678"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "18105935591350932",
-      "verification": "verified",
-      "expectedText": "Bybit is hiring P2P Product Manager: https://hashtagweb3.com/pm39/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeJvN-YG_PL",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mx7f4weybg2h",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0xad867826e0191ae58d0776d6a26fba27642b2c58",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0xa192994eb0428c7e258316d5097caf133f85cb69",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0xfc66b01bc9261a360029b0131c7083f6b5a591dc",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x75a1477bd104530909b537872a05233f120a4263",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x4569953984ecb158f368fc40e95b8c8ae6a20282",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x74f9c30234bdd0de078ed4854c447ac675e739f1",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x2253494cccdec663e3e50853fd6e17308d9ca130",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x8acd5192655b035b6dd5303f70f40e3015dc38d7",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0xfb92f4ccf6e64272d15bc2c55e025b309052ac48",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x2397f3b395970e7290e005384a6d1b620ac1c1a5",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x1d704f0d47c010d0b0baae709dca5f030d249ca0",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x93f1e659d16593e3086a5d52103dd60c31811dcf",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x3e02038c7a3bd7fe9f5dd87e55630822d6e6841d",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0xfd57be41469ad4f2c3620e46443fb91b24ad8582",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x3d7119ab3690020b68d6d858d90b9d6b3b463312",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x638d58ed1a153ffc131e7b9868b1923aabb34bc6",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "0x91028a3494d948791ad400cee82969e3f0ef0cde",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "6ac4e357fd3e7cb4c21965da",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "6ac4e3626425d398cacd9356",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "urn:li:share:7513207152040161281",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm39",
-      "company": "Bybit",
-      "title": "P2P Product Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-06T12:02:15.071Z",
-      "postId": "691827047618629_1108009191806315",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "x",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "6ac54ca5e0e7ba24e079e54f",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Hut 8 is hiring Electrical Systems Expert\n\nhttps://hashtagweb3.com/ese/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107554440936821054"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "threads",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "18092866286418515",
-      "verification": "verified",
-      "expectedText": "Hut 8 is hiring Electrical Systems Expert: https://hashtagweb3.com/ese/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeKiqyImflC",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "bluesky",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxa6avjpha2t",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x3c5472a99722c12878b54f5e3a1f2b26e8b5c0ea",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x9b133ed4f72e447f536e983c5fd62ab0bf01b277",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x171ccf74297074c3457fcfc721cde02dd9a4ef82",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x175842ca29ca67652d589f93d2ecd88e2507eef3",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0xd007c262760e7c6a3f28ccab9bcc32ad01d90081",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0xd8f70795010a8dc7198055a45ab4fc4d765c61b9",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x862016e0992b2fd1cff9b8988891340f130c5dc4",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x05e50512dc4fa49babae66cd8a5c8961d2fd2264",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0xf561666af0ee5c2e768a386fe3bd5aa774a6eab2",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x1eeedd0ace23a737f67b8f46ea752051bdeb42b8",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x2ae4011f3e49755959f185bf6092562b6f063a5b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ese",
-      "company": "Hut 8",
-      "title": "Electrical Systems Expert",
-      "platform": "farcaster",
-      "postedAt": "2026-10-06T19:31:48.985Z",
-      "postId": "0x443baa87943198825ecad650e87300e53765d607",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "ese",
       "company": "Hut 8",
       "title": "Electrical Systems Expert",
@@ -10174,6 +9684,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-09T19:53:20.917Z",
       "postId": "691827047618629_1110991241508110",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "x",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "6ac9bcdbc4de2d2b1215a9a3",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Ripple is hiring Senior Professional Services Consultant\n\nhttps://hashtagweb3.com/psc/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108774435922522225"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "threads",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "18452490079131628",
+      "verification": "verified",
+      "expectedText": "Ripple is hiring Senior Professional Services Consultant: https://hashtagweb3.com/psc/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeTNdRnjgFc",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "bluesky",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxin5i65ak2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xa71fb63589435276241ff17c74bc056f814621bf",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x205b3291c4f3e051db1d20380dec8042ae968b9c",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xcfdfdd519878cfa4f08fced216125c28a46b136c",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x07645a2eb2bc1dbf87520d7de376d7a87f1fe725",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xb6ecfc20894666f3d8cfe8cde7ab663b9ab7d87b",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xc7b9a6637bc5281a8901abb8368492aceedb5dcc",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xfc7bb14d06afc4b2c0150497c353228a13bc69be",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x20b6dd0dbba836deacf69e4ba877270560ab16c3",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x54f177f0e77e5c5535f82ad2e054fc9d6edf8db9",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xc57a42efbe2edfb84d2a02e9db8317b22c7b8ed4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xa1cb72afbd809dadd26f594834f32504c4eb1a3b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x939b93b6973763ae5f77103ff6956982be3e9edb",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x4390d28e3d2fa9bb934c691f80258e80919a086a",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x3c3a5fd58b9cb2064fe6c92fdf2c3614177c9ee6",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x4d78e176a06be596b17ed780668aaf3cb386ef7c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0x03ba9872c6cf139c9e3bc2c55deb1bd24141bc8b",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "0xc22eee3784f2d7c77702be2df93a624e2151bd1a",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "6ac9bcedb07d37ac975e7dc3",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "6ac9bcf7bba9419ccbed3f33",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "urn:li:share:7514540292289662977",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "psc",
+      "company": "Ripple",
+      "title": "Senior Professional Services Consultant",
+      "platform": "facebook",
+      "postedAt": "2026-10-10T04:19:38.605Z",
+      "postId": "691827047618629_1111272581479976",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "x",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "6ac9bd0cbba9419ccbed40be",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Crypto Finance is hiring Strategy & Projects - Intern\n\nhttps://hashtagweb3.com/int42/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2108774642278105336"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "threads",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "17935850850394308",
+      "verification": "verified",
+      "expectedText": "Crypto Finance is hiring Strategy & Projects - Intern: https://hashtagweb3.com/int42/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeTNjQKjhnF",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "bluesky",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxin6w2jzf2u",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0xe34a9921c8508c5115ec646b70a69db9b685dc6b",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x6d0f2d13a2c8fb22013dd31032d5dfb0af8f5804",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x0396a001438c931638315c0858d2dab2a32f4402",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x22100f09954c09ea3f156a79444494e1a284d5e7",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x0c9dbd02d3df10c1bc04a1f9820c0d4718580ba1",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x1a2b858f1d46a4a8e49118af701bd3bd28152a85",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x3b0ae360a0a6d52a76a0c8b93e44ad390c234261",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x6da1a506b1ede8f18713bba8c99a4c8bc6788188",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x13feeeaca6d548e7de340d09e6eb9aba61b3d090",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x0896450a32d600d04d160dd93dc4867dde11198d",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0xd39bc7a57d8d24c0d6419312b6a94bffac2b3b53",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x236b6240137543b09f53dd2cc95b377cb9e3019c",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x6d1828eeabb89d1e13eb9e9ed236d3f156ae477d",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0xcde9a97e1c9cfa598228524aee725017bf1371d4",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0x21a4722c63c02dc0ead36af9c1a114bfd8586282",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0xe3c37bf33974d7b1c7fd65c32ed4a2b2fa5cb545",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "0xef39d8eb1a882a0d993ce01216f375be2c108e6a",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "6ac9bd1dc4de2d2b1215b60c",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "6ac9bd27c4de2d2b1215b6ee",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "linkedin",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "urn:li:share:7514540493783904256",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "int42",
+      "company": "Crypto Finance",
+      "title": "Strategy & Projects - Intern",
+      "platform": "facebook",
+      "postedAt": "2026-10-10T04:20:28.120Z",
+      "postId": "691827047618629_1111273001479934",
       "verification": "verified"
     }
   ]
