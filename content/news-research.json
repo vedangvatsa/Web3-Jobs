@@ -20845,20 +20845,20 @@
       "id": "724035b8cd9bafa2f945",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T09:08:09.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk MARA-Galaxy headline with the 81.1M figure; single outlet so far. Next: find a MARA statement or onchain confirmation and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:30.263Z",
+      "reviewedAt": "2026-10-10T03:50:40.641Z",
       "articleSlug": "mara-move",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -20867,9 +20867,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "MARA Galaxy 81M transfer confirmation draft"
+        "MARA 81.1M bitcoin transfer to Galaxy Digital purpose and AI pivot details"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "2a7c81f07dc6e3b3eb0f": {
       "source": "CoinDesk",
@@ -41331,6 +41331,21 @@
           "reviewedAt": "2026-10-10T03:50:39.033Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "724035b8cd9bafa2f945": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:40.641Z",
+          "retrySearches": [
+            "MARA 81.1M bitcoin transfer to Galaxy Digital purpose and AI pivot details"
+          ]
         }
       },
       "baselineSlugs": [
