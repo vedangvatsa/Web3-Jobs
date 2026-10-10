@@ -24699,20 +24699,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "94b717cda7c41ca127f6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T21:10:39.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:44.704Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:02.626Z",
       "retrySearches": [
-        "Tether freeze stolen USDT Ledger CryptoBilis theft MistTrack confirmation"
+        "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
       "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "ledger-drain"
+      "duplicateOf": "ledger-drain",
+      "nextReviewDate": "2026-10-11"
     },
     "a1d08de2435b7aa593b5": {
       "source": "The Defiant",
@@ -44837,6 +44843,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:56:00.968Z",
+          "retrySearches": [
+            "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+          ]
+        },
+        "94b717cda7c41ca127f6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:02.626Z",
           "retrySearches": [
             "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
           ]
