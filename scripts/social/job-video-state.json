@@ -2046,11 +2046,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Software Engineer, Mobile(iOS) at OKX\n\nSingapore\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
           "startedAt": "2026-10-10T11:46:37.471Z",
           "containerId": "17917038360461009",
-          "postId": "18129860783497505"
+          "postId": "18129860783497505",
+          "url": "https://www.instagram.com/reel/DeUAoBWjqYY/"
         }
       }
     }
