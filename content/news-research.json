@@ -16610,23 +16610,23 @@
       "id": "49796226371352e18cd0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T13:00:19.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "needs-corroboration",
-      "note": "NextBlock 3M Soda Labs round seen only in single trade outlet; needs company announcement or second outlet with terms.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: coinjournal.net. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://coinjournal.net/news/nextblock-invests-3m-in-soda-labs-to-expand-blockchain-privacy/",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:18:08.151Z",
+      "reviewedAt": "2026-10-10T03:49:07.034Z",
       "retrySearches": [
-        "NextBlock Soda Labs 3M blockchain privacy round"
+        "NextBlock 3M Soda Labs blockchain privacy investment terms"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "b527cd2ccd70547325ed": {
       "source": "CryptoSlate",
@@ -40562,6 +40562,21 @@
           "reviewedAt": "2026-10-10T03:49:05.330Z",
           "retrySearches": [
             "Sui Hashi bitcoin finance 500M commitments launch participants and terms"
+          ]
+        },
+        "49796226371352e18cd0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: coinjournal.net. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/nextblock-invests-3m-in-soda-labs-to-expand-blockchain-privacy/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:07.034Z",
+          "retrySearches": [
+            "NextBlock 3M Soda Labs blockchain privacy investment terms"
           ]
         }
       },
