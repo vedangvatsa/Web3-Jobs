@@ -19964,24 +19964,24 @@
       "id": "4f6f7be9c8cb584fca73",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T00:46:27.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "source-blocked",
-      "note": "Cointelegraph Cantor-Tether probe page failed to fetch in round 3 triage; CoinDesk and Unchained versions stayed reachable. Next: full-read those two and draft.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:16.719Z",
+      "reviewedAt": "2026-10-10T03:50:24.357Z",
       "duplicateOf": "cantor-probe",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Cantor Tether CoinDesk Unchained corroboration draft"
+        "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "99dff87f954749a3c3aa": {
       "source": "CoinDesk",
@@ -41204,6 +41204,21 @@
           "reviewedAt": "2026-10-10T03:50:22.786Z",
           "retrySearches": [
             "Kyrgyzstan USDKG wind-down UK sanctions link official statements"
+          ]
+        },
+        "4f6f7be9c8cb584fca73": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:24.357Z",
+          "retrySearches": [
+            "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
           ]
         }
       },
