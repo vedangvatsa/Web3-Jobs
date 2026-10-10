@@ -17502,24 +17502,24 @@
       "id": "1a9b8a63c6b803e825da",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T11:47:16.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "needs-corroboration",
-      "note": "CoinDesk bunker-mode holders page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto version returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
-          "outcome": "blocked"
+          "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:24.018Z",
+      "reviewedAt": "2026-10-10T03:49:28.887Z",
       "retrySearches": [
-        "CoinDesk bunker mode holders full read draft bunker-mode"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "duplicateOf": "bunker-mode",
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "91ed1a5d0f1b5fd4782e": {
       "source": "CoinDesk",
@@ -40725,6 +40725,21 @@
           "reviewedAt": "2026-10-10T03:49:27.219Z",
           "retrySearches": [
             "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
+          ]
+        },
+        "1a9b8a63c6b803e825da": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:28.887Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
         }
       },
