@@ -22910,20 +22910,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe698f27fac724e48c17",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T15:29:41.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+      "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:51:34.673Z",
+      "reviewedAt": "2026-10-10T10:29:27.622Z",
       "retrySearches": [
         "Tether freeze Ledger user thefts MistTrack second outlet"
       ],
       "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "ledger-drain"
+      "duplicateOf": "ledger-drain",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "d6ebc8a19d31822069ab": {
       "source": "The Defiant",
@@ -42693,6 +42694,15 @@
           "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:29:25.624Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "fe698f27fac724e48c17": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:27.622Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
         }
