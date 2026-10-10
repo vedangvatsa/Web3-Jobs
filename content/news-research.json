@@ -14124,26 +14124,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "2de409dcf0f9eb524c55",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T12:34:13.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk GSR vault headline with the 100M figure; pairs with the blocked Defiant version. Next: find a GSR or Hare confirmation and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:29.387Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:05.539Z",
       "duplicateOf": "gsr-hare",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "GSR Hare vault confirmation second outlet draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "870ad4e3cea216f2ec6a": {
       "source": "Cointelegraph",
@@ -40203,6 +40197,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:03.826Z"
+        },
+        "2de409dcf0f9eb524c55": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:05.539Z"
         }
       },
       "baselineSlugs": [
