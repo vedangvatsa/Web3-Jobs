@@ -16350,23 +16350,23 @@
       "id": "4f06a77b658d51c113c0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T11:32:02.994Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T11:07:51.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "source-blocked",
-      "note": "Korean bank hacker Claude story seen only in blocked origin; needs CrowdStrike report or second outlet.",
+      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/korean-bank-breaches-hacker-asked-ai/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:17:54.755Z",
+      "reviewedAt": "2026-10-10T03:49:03.616Z",
       "retrySearches": [
-        "Korean bank hacker Claude CrowdStrike stolen data"
+        "Korean bank hacker Claude data sale CrowdStrike report findings"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "f1de3b4ef4e25d03b93c": {
       "source": "Unchained",
@@ -40532,6 +40532,21 @@
           "reviewedAt": "2026-10-10T03:49:02.016Z",
           "retrySearches": [
             "BitMine Ethereum buying six-week timeline figures and Tom Lee statement context"
+          ]
+        },
+        "4f06a77b658d51c113c0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/korean-bank-breaches-hacker-asked-ai/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:03.616Z",
+          "retrySearches": [
+            "Korean bank hacker Claude data sale CrowdStrike report findings"
           ]
         }
       },
