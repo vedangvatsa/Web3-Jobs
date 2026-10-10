@@ -21382,24 +21382,24 @@
       "id": "c76300860e9b16ab3fc5",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:20:22.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Unchained ESMA wind-down page fetched HTTP 200 but round 3 did not complete a full re-read; CoinDesk opinion account re-read with Jan 8 2027 deadline. Next: full-read this plus ESMA PDF and draft esma-stablecoins.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-          "outcome": "read"
+          "url": "https://unchainedcrypto.com/eu-securities-regulator-wants-crypto-platforms-to-wind-down-non-mica-stablecoin-services/",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:00:56.601Z",
+      "reviewedAt": "2026-10-10T03:50:55.560Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Unchained ESMA MiCA wind-down full read draft esma-stablecoins"
+        "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "00846212524fc336a196": {
       "source": "CoinDesk",
@@ -41458,6 +41458,21 @@
           "reviewedAt": "2026-10-10T03:50:53.804Z",
           "retrySearches": [
             "Pyth DAO Approves ‘100% Rule’ Directing Its Share of Product Revenue to PYTH Buy second independent outlet confirmation"
+          ]
+        },
+        "c76300860e9b16ab3fc5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/eu-securities-regulator-wants-crypto-platforms-to-wind-down-non-mica-stablecoin-services/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:55.560Z",
+          "retrySearches": [
+            "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
           ]
         }
       },
