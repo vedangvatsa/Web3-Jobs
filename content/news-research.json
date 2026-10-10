@@ -15479,24 +15479,24 @@
       "id": "d9e5ae4047dd36ca736e",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T09:32:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk StanChart Singapore headline; Cointelegraph and Bitcoin Magazine carry companion versions. Next: full-read two and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:13:52.382Z",
+      "reviewedAt": "2026-10-10T03:48:39.411Z",
       "retrySearches": [
-        "Standard Chartered Singapore custody two outlets draft"
+        "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "duplicateOf": "stanchart-custody",
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "a58ed5f4524012c5b9b0": {
       "source": "CoinDesk",
@@ -40350,6 +40350,21 @@
           "reviewedAt": "2026-10-10T03:48:37.852Z",
           "retrySearches": [
             "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
+          ]
+        },
+        "d9e5ae4047dd36ca736e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:39.411Z",
+          "retrySearches": [
+            "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
           ]
         }
       },
