@@ -22028,26 +22028,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "322bfa081991e4298e14",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T12:50:19.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "BeInCrypto Hamilton forfeiture page returned HTTP 403 to round 3; same 40-year sentence re-read in Decrypt and CoinDesk this round. Next: re-open DOJ release plus one outlet and draft empire-market.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/dark-web-founder-forfeits-1230-bitcoin/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T17:58:27.560Z",
+      "reason": "duplicate",
+      "note": "Same Empire Market sentencing already drafted as empire-market this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:51:11.105Z",
       "duplicateOf": "empire-market",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Hamilton 40-year Empire Market DOJ release draft empire-market"
       ],
-      "nextReviewDate": "2026-10-10"
+      "mergedInto": "33d2532cea35902b8372"
     },
     "159599c6478a5d390360": {
       "source": "CoinDesk",
@@ -41551,6 +41546,15 @@
           "reviewedAt": "2026-10-10T03:51:09.351Z",
           "duplicateOf": "dwf-bitgo",
           "mergedInto": "496643e7a159131009a6"
+        },
+        "322bfa081991e4298e14": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Empire Market sentencing already drafted as empire-market this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:51:11.105Z",
+          "duplicateOf": "empire-market",
+          "mergedInto": "33d2532cea35902b8372"
         }
       },
       "baselineSlugs": [
