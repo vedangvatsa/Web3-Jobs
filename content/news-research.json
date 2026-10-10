@@ -14515,22 +14515,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "2c1699713477803bf1b1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T08:50:02.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph BitMine hard-cap headline; pairs with Decrypt, CoinDesk and CryptoSlate versions. Next: full-read two and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:45.663Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:15.885Z",
       "articleSlug": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -14540,8 +14535,7 @@
       ],
       "retrySearches": [
         "BitMine 5 percent hard cap two outlets draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "6432dc3868c75a80c0ef": {
       "source": "The Block",
@@ -40219,6 +40213,13 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:48:14.181Z"
+        },
+        "2c1699713477803bf1b1": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:15.885Z"
         }
       },
       "baselineSlugs": [
