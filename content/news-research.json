@@ -21453,26 +21453,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "35543151e27a95014f9d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T10:11:51.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 re-read Decrypt and CoinDesk on Hamilton 40-year sentence, 430M market and Pavey October sentencing; draft not yet written. Next: re-open NDIL release and draft empire-market.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T18:01:26.621Z",
+      "reason": "duplicate",
+      "note": "Same Empire Market sentencing already drafted as empire-market this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:50:58.990Z",
       "articleSlug": "empire-market",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
@@ -21481,7 +21472,8 @@
       "retrySearches": [
         "Empire Market Hamilton 40-year NDIL draft empire-market"
       ],
-      "nextReviewDate": "2026-10-10"
+      "duplicateOf": "empire-market",
+      "mergedInto": "33d2532cea35902b8372"
     },
     "032bb637cf94a2610025": {
       "source": "Unchained",
@@ -41475,6 +41467,15 @@
           "reviewedAt": "2026-10-10T03:50:57.258Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "d7c128ec9ef50a3db526"
+        },
+        "35543151e27a95014f9d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Empire Market sentencing already drafted as empire-market this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:50:58.990Z",
+          "duplicateOf": "empire-market",
+          "mergedInto": "33d2532cea35902b8372"
         }
       },
       "baselineSlugs": [
