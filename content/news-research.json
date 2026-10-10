@@ -19351,23 +19351,23 @@
       "id": "2251163d99d43fca70b6",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-11T23:00:07.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Bitcoin Core v32 privacy fix verified only in CryptoSlate read; needs GitHub PR page open as primary plus wider coverage.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:19:09.063Z",
+      "reviewedAt": "2026-10-10T03:50:15.740Z",
       "retrySearches": [
-        "Bitcoin Core private broadcast discouragement fix PR 36312"
+        "Bitcoin Core v32 privacy fix code status and v31 patch state"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "4a009b12285216504b8c": {
       "source": "The Defiant",
@@ -41129,6 +41129,21 @@
           "reviewedAt": "2026-10-10T03:50:14.109Z",
           "retrySearches": [
             "Ethereum test network block limit raise capacity figures and upgrade schedule"
+          ]
+        },
+        "2251163d99d43fca70b6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:15.740Z",
+          "retrySearches": [
+            "Bitcoin Core v32 privacy fix code status and v31 patch state"
           ]
         }
       },
