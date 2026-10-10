@@ -22853,19 +22853,9 @@
       "articleSlug": "mashinsky-ban",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
         "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
       ]
     },
     "f3458e62d04228c30699": {
@@ -25444,19 +25434,9 @@
       "articleSlug": "meanwhile",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
         "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
       ]
     },
     "6445e691f0625b1e13c9": {
@@ -25631,19 +25611,9 @@
       "articleSlug": "xrp-bug",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
         "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
       ]
     },
     "4636e3d0ae5557b64899": {
@@ -26013,19 +25983,9 @@
       "articleSlug": "cftc-events",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
         "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
       ]
     },
     "f1f95bcf6b60ca241a35": {
@@ -45509,7 +45469,12 @@
         ],
         "total": 52,
         "checkedAt": "2026-10-10T22:48:20.650Z"
-      }
+      },
+      "validationErrors": [
+        "mashinsky-ban.md: under 600 words",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
+      ]
     }
   }
 }
