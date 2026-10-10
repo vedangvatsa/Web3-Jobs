@@ -18859,24 +18859,24 @@
       "id": "082e493221b37a47877c",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T18:16:05.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Decrypt Formation page and confirmed the merger headline; rounds 1-2 list PRNewswire, CryptoBriefing and Decrypt reads. Next: re-open release plus one outlet and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:35.916Z",
+      "reviewedAt": "2026-10-10T03:50:02.124Z",
       "duplicateOf": "orca-merger",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Orca Loopscale Formation release draft"
+        "Orca Loopscale Formation merger terms with primary announcement and deal structure"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "5abe8fbb60d51631f6dd": {
       "source": "The Defiant",
@@ -41018,6 +41018,21 @@
           "reviewedAt": "2026-10-10T03:50:00.466Z",
           "retrySearches": [
             "Derive V3 onchain options Ethereum custody launch details and migration terms"
+          ]
+        },
+        "082e493221b37a47877c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:02.124Z",
+          "retrySearches": [
+            "Orca Loopscale Formation merger terms with primary announcement and deal structure"
           ]
         }
       },
