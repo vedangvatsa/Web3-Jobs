@@ -14382,26 +14382,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "43692630e3e532c8981a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-10T10:05:11.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Unchained CIP-0113 page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating BeInCrypto and Defiant versions returned 403. Next: full-read this plus CoinDesk and draft veridian-spin.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/cardano-cip-0113-token-compliance-standard/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T18:00:01.008Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:10.785Z",
       "duplicateOf": "veridian-spin",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Unchained CIP-0113 KYC freeze full read draft veridian-spin"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "256cca266632a898b8b3": {
       "source": "Unchained",
@@ -40206,6 +40200,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:09.098Z"
+        },
+        "43692630e3e532c8981a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: unchainedcrypto.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:10.785Z"
         }
       },
       "baselineSlugs": [
