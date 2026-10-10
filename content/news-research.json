@@ -20010,13 +20010,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 Thai SEC rules in Cointelegraph and CoinDesk reads: Oct 16 effect, SET-only listing, BTC and ETH only, 80 percent exposure, custody and no-margin terms, Nirun comment.",
+      "note": "Verified Oct 8 Thai SEC ETF rules, Oct 16 effect, BTC and ETH only, SET-only listing in Cointelegraph and CoinDesk reads; hero self-hosted, gates pass.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
@@ -20027,7 +20027,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T12:02:18.757Z",
+      "reviewedAt": "2026-10-10T16:49:52.602Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42926,6 +42926,23 @@
           ],
           "reviewedAt": "2026-10-10T16:49:50.536Z",
           "articleSlug": "nfl-kalshi"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Thai SEC ETF rules, Oct 16 effect, BTC and ETH only, SET-only listing in Cointelegraph and CoinDesk reads; hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:49:52.602Z",
+          "articleSlug": "thailand-etfs"
         }
       },
       "baselineSlugs": [
