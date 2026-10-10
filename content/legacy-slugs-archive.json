@@ -136690,5 +136690,72 @@
     "link": "https://www.janestreet.com/join-jane-street/apply/7246339002?gh_jid=7246339002",
     "company": "Jane Street",
     "title": "Machine Learning Researcher"
+  },
+  "eng521": {
+    "id": "8267736",
+    "link": "https://stripe.com/jobs/search?gh_jid=8267736",
+    "company": "Stripe",
+    "title": "Software Engineer"
+  },
+  "aso52": {
+    "id": "8873056002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8873056002",
+    "company": "Figure",
+    "title": "Financial Crimes Associate"
+  },
+  "sls262": {
+    "id": "8257746",
+    "link": "https://ripple.com/careers/all-jobs/job/8257746?gh_jid=8257746",
+    "company": "Ripple",
+    "title": "Senior Sales Manager"
+  },
+  "sls257": {
+    "id": "5442639008",
+    "link": "http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008",
+    "company": "Block",
+    "title": "Bilingual Mandarin Business Development Rep"
+  },
+  "sec101": {
+    "id": "8842136002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8842136002?gh_jid=8842136002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer"
+  },
+  "eng520": {
+    "id": "8211486",
+    "link": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
+    "company": "Coinbase",
+    "title": "Staff Machine Learning Engineer(Platform - Identity)"
+  },
+  "sls79": {
+    "id": "yzilabs-1972ca13-10b8-49f0-9835-ed67c2f5c730",
+    "link": "https://talent.yzilabs.com/jobs/1972ca13-10b8-49f0-9835-ed67c2f5c730",
+    "company": "Cournot",
+    "title": "Business Development Manager"
+  },
+  "eng130": {
+    "id": "yzilabs-6e739086-6844-408c-b74d-4e9361ff981f",
+    "link": "https://talent.yzilabs.com/jobs/6e739086-6844-408c-b74d-4e9361ff981f",
+    "company": "Cournot",
+    "title": "Senior Protocol Engineer"
+  },
+  "eng519": {
+    "id": "4971554101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971554101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "mgr171": {
+    "id": "6016480004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6016480004",
+    "company": "Galaxy Digital",
+    "title": "Technical Program Manager"
+  },
+  "mkt100": {
+    "id": "b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "link": "https://jobs.ashbyhq.com/openstandard/b879013b-3b96-46ff-be7b-27e9e2de71a8",
+    "company": "Open Standard",
+    "title": "Communications and Marketing Lead",
+    "newSlug": "mkt102"
   }
 }
