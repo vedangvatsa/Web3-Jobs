@@ -13850,22 +13850,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "063f2939659560bacb86",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T16:30:00.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Polygon-TRON headline with the 94B figure; single outlet so far. Next: find a Polygon, TRON or bank-rail confirmation and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:17.596Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:56.631Z",
       "articleSlug": "polygon-tron",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -13880,8 +13875,7 @@
       ],
       "retrySearches": [
         "Polygon TRON 94B banking rails confirmation draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "40fe1ba3ce7ff9326b39": {
       "source": "The Defiant",
@@ -40178,6 +40172,13 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:47:54.997Z"
+        },
+        "063f2939659560bacb86": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:56.631Z"
         }
       },
       "baselineSlugs": [
