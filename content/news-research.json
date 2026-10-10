@@ -13048,24 +13048,24 @@
       "id": "70033f0ef71a5c26d294",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T02:00:00.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "source-blocked",
-      "note": "BeInCrypto CIP-0113 token standard page returned HTTP 403 to round 3; same standard launch readable in CoinDesk and Unchained versions. Next: re-open two readable outlets and draft veridian-spin.",
+      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/cardano-cip-0113-token-compliance-standard/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:08.214Z",
+      "reviewedAt": "2026-10-10T03:47:40.231Z",
       "duplicateOf": "veridian-spin",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Cardano CIP-0113 freeze seize standard two readable outlets draft"
+        "Cardano token freeze seize standard issuer controls with second outlet confirmation"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "50c25c5479e00100eded": {
       "source": "BeInCrypto",
@@ -40065,6 +40065,21 @@
           "reviewedAt": "2026-10-10T03:47:38.551Z",
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
+        },
+        "70033f0ef71a5c26d294": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/cardano-cip-0113-token-compliance-standard/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:40.231Z",
+          "retrySearches": [
+            "Cardano token freeze seize standard issuer controls with second outlet confirmation"
           ]
         }
       },
