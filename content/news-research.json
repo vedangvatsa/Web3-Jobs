@@ -26941,11 +26941,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "82174278e88b61c6fbd7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T18:35:25.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:22.535Z",
+      "retrySearches": [
+        "Kalshi press secretary bets WSJ investigation scope second outlet full read"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "14622e749bf8034cb861": {
       "source": "The Defiant",
@@ -45110,6 +45124,21 @@
           "reviewedAt": "2026-10-10T22:56:20.887Z",
           "retrySearches": [
             "Kalshi press secretary bets investigation scope second outlet full reads"
+          ]
+        },
+        "82174278e88b61c6fbd7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:22.535Z",
+          "retrySearches": [
+            "Kalshi press secretary bets WSJ investigation scope second outlet full read"
           ]
         }
       },
