@@ -1028,5 +1028,40 @@
     "slotKey": "2026-10-09:evening",
     "messageId": 193329,
     "sentAt": "2026-10-09T19:53:53.081Z"
+  },
+  "ead53e28-3785-482c-ac1c-79eb23b7cc27": {
+    "status": "reserved",
+    "reservedAt": "2026-10-10T04:21:09.584Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "headline": "TypeSafe valued at $7.5 billion for non-text AI model",
+        "summary": "Startup TypeSafe reached a $7.5 billion valuation for its Jev model, which claims higher efficiency than large language models.",
+        "event_rationale": "This covers a multi-billion dollar valuation for a new AI architecture distinct from existing large language model funding rounds.",
+        "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "source": "TechCrunch",
+        "originalTitle": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+      },
+      {
+        "index": 7,
+        "original_title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+        "headline": "Nvidia launches safety stack for humanoid robots and robotaxis",
+        "summary": "The new full-stack safety solution targets developers building autonomous vehicles and humanoid robots using physical artificial intelligence.",
+        "event_rationale": "This covers a new infrastructure release for robotics safety, distinct from general hardware or consumer product news.",
+        "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+        "source": "Ars Technica",
+        "originalTitle": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots"
+      },
+      {
+        "index": 2,
+        "headline": "Danu Robotics Works to Improve Automated Waste Recycling Sorting",
+        "summary": "Founder Amy Ma has spent six years developing technology to sort recyclable materials more effectively.",
+        "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+        "source": "TechCrunch",
+        "originalTitle": "Danu Robotics’ fight to build a better recycling robot"
+      }
+    ],
+    "slotKey": "2026-10-10:morning"
   }
 }
