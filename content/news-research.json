@@ -21004,28 +21004,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "33d2532cea35902b8372",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T09:20:16.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "verified-event",
-      "note": "Verified 40-year Hamilton sentence and 1,230 BTC forfeiture in CoinDesk and Decrypt reads; fixed one unsourced tracing line, hero self-hosted, gates pass.",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T16:49:59.334Z",
+      "reviewedAt": "2026-10-10T22:55:30.968Z",
       "duplicateOf": "empire-market",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Hamilton Empire Market sentencing NDIL release draft empire-market"
+        "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
       ],
       "articleSlug": "empire-market",
       "lastValidationErrors": [
@@ -21042,7 +21038,8 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "724035b8cd9bafa2f945": {
       "source": "CoinDesk",
@@ -44443,6 +44440,21 @@
           "reviewedAt": "2026-10-10T22:55:29.304Z",
           "retrySearches": [
             "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
+          ]
+        },
+        "33d2532cea35902b8372": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:30.968Z",
+          "retrySearches": [
+            "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
           ]
         }
       },
