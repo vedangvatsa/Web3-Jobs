@@ -21519,20 +21519,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7eedcb04b022f754db",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T10:34:37.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "duplicate",
-      "note": "Same UK Russia-sanctions package already covered in uk-sanctions this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:46.498Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:35.910Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "UK sanctions Cryptomus TokenSpot FCDO notice draft uk-sanctions"
-      ]
+        "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -44497,6 +44503,21 @@
           "reviewedAt": "2026-10-10T22:55:34.311Z",
           "retrySearches": [
             "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
+          ]
+        },
+        "4f7eedcb04b022f754db": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:35.910Z",
+          "retrySearches": [
+            "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
           ]
         }
       },
