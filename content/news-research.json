@@ -20483,20 +20483,20 @@
       "id": "19357b6f78dfafe2a59e",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:16:48.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "Cointelegraph France stablecoin-tax page failed to fetch in round 3 triage with no second outlet in queue. Next: find the budget-bill text or a second outlet and draft.",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:21.166Z",
+      "reviewedAt": "2026-10-10T03:50:30.858Z",
       "articleSlug": "france-tax",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -20505,9 +20505,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "France stablecoin swap tax budget bill draft"
+        "France stablecoin swap tax 2027 budget bill text and vote schedule"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "f7cc92328214d5e25bb3": {
       "source": "CoinDesk",
@@ -41250,6 +41250,21 @@
           "reviewedAt": "2026-10-10T03:50:29.260Z",
           "retrySearches": [
             "Robinhood T Rowe Price stock token exploration terms and timeline"
+          ]
+        },
+        "19357b6f78dfafe2a59e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:30.858Z",
+          "retrySearches": [
+            "France stablecoin swap tax 2027 budget bill text and vote schedule"
           ]
         }
       },
