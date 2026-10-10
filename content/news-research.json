@@ -20196,24 +20196,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8 Thai SEC ETF rules, Oct 16 effect, BTC and ETH only, SET-only listing in Cointelegraph and CoinDesk reads; hero self-hosted, gates pass.",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T16:49:52.602Z",
+      "reviewedAt": "2026-10-10T22:55:24.311Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -20231,7 +20227,11 @@
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "duplicateOf": "thailand-etfs"
+      "duplicateOf": "thailand-etfs",
+      "retrySearches": [
+        "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "51bfcd3d9bb745d73ab9": {
       "source": "CryptoSlate",
@@ -44356,6 +44356,21 @@
           "reviewedAt": "2026-10-10T22:55:22.432Z",
           "retrySearches": [
             "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+          ]
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:24.311Z",
+          "retrySearches": [
+            "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
           ]
         }
       },
