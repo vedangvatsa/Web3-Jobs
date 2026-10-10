@@ -2019,10 +2019,11 @@
           "error": "Error: Video ledger PUT failed — HTTP 409"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Vienna, Austria\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-10T11:44:34.137Z",
-          "postId": "6aca2523b07d37ac976f58ae"
+          "postId": "6aca2523b07d37ac976f58ae",
+          "url": "https://www.youtube.com/watch?v=K0Us3H0Rzb4"
         }
       }
     },
