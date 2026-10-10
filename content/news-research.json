@@ -11645,7 +11645,22 @@
       "retrySearches": [
         "Robinhood 25M bitcoin Kerbrat DAS Asia two readable outlets draft"
       ],
-      "articleSlug": "robinhood-bitcoin"
+      "articleSlug": "robinhood-bitcoin",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "5e3509b7c11a0d8b4664": {
       "source": "The Defiant",
@@ -15136,8 +15151,19 @@
       "lastReviewedDay": "2026-10-10",
       "articleSlug": "samsung-usdc",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "6db4d7756b0c78596b24": {
@@ -16482,8 +16508,19 @@
       "articleSlug": "nfl-kalshi",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "bbda3002c00d1edb824d": {
@@ -16548,8 +16585,19 @@
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "793e33cc45c8a11bda37": {
@@ -20057,8 +20105,19 @@
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "duplicateOf": "thailand-etfs"
     },
@@ -20834,8 +20893,19 @@
       ],
       "articleSlug": "empire-market",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "724035b8cd9bafa2f945": {
@@ -22259,8 +22329,19 @@
       ],
       "articleSlug": "uk-sanctions",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "3e6c54727c05c87b7baf": {
@@ -22596,8 +22677,19 @@
       "articleSlug": "mashinsky-ban",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "f3458e62d04228c30699": {
@@ -23296,8 +23388,19 @@
       "articleSlug": "dwf-bitgo",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "f81abcaa78c20b29893e": {
@@ -23479,8 +23582,19 @@
       "articleSlug": "ledger-drain",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "f2ce0a54f4786cb8271f": {
@@ -24622,8 +24736,19 @@
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "504c54edc7c703968bcd": {
@@ -24999,8 +25124,19 @@
       "articleSlug": "meanwhile",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "6445e691f0625b1e13c9": {
@@ -25158,8 +25294,19 @@
       "articleSlug": "xrpl-overflow",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-bring-stablecoin-access-eligible-galaxy-users-us/",
-        "Source link unavailable: https://news.samsung.com/us/samsung-wallet-now-supported-on-coinbase-crypto-platform/"
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "4636e3d0ae5557b64899": {
@@ -25519,7 +25666,22 @@
       ],
       "reviewedAt": "2026-10-10T16:45:52.096Z",
       "articleSlug": "cftc-wagers",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "f1f95bcf6b60ca241a35": {
       "source": "Decrypt",
@@ -25643,7 +25805,22 @@
       ],
       "reviewedAt": "2026-10-10T16:46:09.110Z",
       "articleSlug": "china-network",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "658278bca35cfdef3797": {
       "source": "CryptoSlate",
@@ -25679,7 +25856,22 @@
       ],
       "reviewedAt": "2026-10-10T16:45:54.102Z",
       "articleSlug": "coinbase-suit",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "bab1ea32ded10e69dd54": {
       "source": "CoinDesk",
@@ -25767,7 +25959,22 @@
       ],
       "reviewedAt": "2026-10-10T16:50:30.691Z",
       "articleSlug": "papertrade",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "09b72cc528a51c6e8237": {
       "source": "BeInCrypto",
@@ -25829,7 +26036,22 @@
       ],
       "reviewedAt": "2026-10-10T16:50:23.670Z",
       "articleSlug": "france-taxes",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "201c9130ddb5ba609ce4": {
       "source": "The Defiant",
@@ -25873,7 +26095,22 @@
       ],
       "reviewedAt": "2026-10-10T16:46:07.158Z",
       "articleSlug": "starknet",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "1e3baa68bfd62409bba8": {
       "source": "CryptoSlate",
@@ -25961,7 +26198,22 @@
       ],
       "reviewedAt": "2026-10-10T16:50:32.620Z",
       "articleSlug": "tron-quantum",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "lastValidationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "df8a1456b3ab8dd0bda1": {
       "source": "BeInCrypto",
@@ -44016,7 +44268,22 @@
         ],
         "total": 73,
         "checkedAt": "2026-10-10T16:20:04.785Z"
-      }
+      },
+      "validationErrors": [
+        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
+        "empire-market.md: under 600 words",
+        "france-taxes.md: under 600 words",
+        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
+        "ledger-drain.md: under 600 words",
+        "mashinsky-ban.md: under 600 words",
+        "nfl-kalshi.md: under 600 words",
+        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "samsung-usdc.md: under 600 words",
+        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
+        "tron-quantum.md: under 600 words",
+        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     }
   }
 }
