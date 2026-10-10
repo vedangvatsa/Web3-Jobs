@@ -24924,24 +24924,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa622e9da8bf6f47f49d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T07:10:43.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 Meanwhile raise in Cointelegraph and crypto.news reads: 37.5M led by Bain Capital Crypto, 180M total, Townsend quote, 15 brokers, BTC 1-Pay and 10-Pay terms.",
+      "note": "Verified Oct 8 Meanwhile 37.5M raise led by Bain Crypto and 180M total in Cointelegraph and Decrypt reads; fixed one date error, hero self-hosted, gates pass.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
           "outcome": "read"
         },
         {
-          "url": "https://crypto.news/meanwhile-raises-37-5m-for-bitcoin-insurance/",
+          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T12:02:47.405Z",
+      "reviewedAt": "2026-10-10T16:50:13.084Z",
       "articleSlug": "meanwhile",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -43024,6 +43024,23 @@
           ],
           "reviewedAt": "2026-10-10T16:50:11.120Z",
           "articleSlug": "iran-seizure"
+        },
+        "aa622e9da8bf6f47f49d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Meanwhile 37.5M raise led by Bain Crypto and 180M total in Cointelegraph and Decrypt reads; fixed one date error, hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:50:13.084Z",
+          "articleSlug": "meanwhile"
         }
       },
       "baselineSlugs": [
