@@ -19657,20 +19657,20 @@
       "id": "7407ca7e3e0f94a9efa3",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T21:05:54.000Z",
       "lastSeenAt": "2026-10-09T19:31:17.507Z",
       "reason": "source-blocked",
-      "note": "Defiant Ondo OpenAI-note origin returned HTTP 403 to round 3 with no second outlet in queue. Next: find an Ondo notice or openable outlet and draft.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:42.776Z",
+      "reviewedAt": "2026-10-10T03:50:19.380Z",
       "articleSlug": "ondo-note",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -19684,9 +19684,9 @@
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
       "retrySearches": [
-        "Ondo OpenAI private-market note outlet draft"
+        "Ondo OpenAI-linked private-market note trading terms and availability"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "0398136c795f44bd34ed": {
       "source": "The Defiant",
@@ -41159,6 +41159,21 @@
           "reviewedAt": "2026-10-10T03:50:17.385Z",
           "retrySearches": [
             "SAP Pay USDC Circle Mint access requirement rollout scope and launch date"
+          ]
+        },
+        "7407ca7e3e0f94a9efa3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:19.380Z",
+          "retrySearches": [
+            "Ondo OpenAI-linked private-market note trading terms and availability"
           ]
         }
       },
