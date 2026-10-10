@@ -14646,17 +14646,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b7aacd3692ceca68a190",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-10T05:58:25.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same-week US government seized-crypto flows covered as context in bitfinex-move.",
+      "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:39:43.680Z",
+      "reviewedAt": "2026-10-10T03:48:19.252Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "6a1c86818b7c64cbbed6": {
       "source": "CoinDesk",
@@ -40221,6 +40222,15 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:17.571Z"
+        },
+        "b7aacd3692ceca68a190": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:19.252Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
