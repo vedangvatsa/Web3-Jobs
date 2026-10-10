@@ -24762,17 +24762,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "504c54edc7c703968bcd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T20:14:02.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same NY AG Mashinsky settlement already covered in mashinsky-ban this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:18.545Z",
+      "note": "Same Oct 9 NY AG Mashinsky lifetime-ban settlement drafted as mashinsky-ban; verified in AG release plus CoinDesk and Decrypt reads.",
+      "sourceChecks": [
+        {
+          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:53:40.253Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "3e5484a682e6ed261c67"
     },
     "5936ea8f20383c5c23f9": {
       "source": "Bitcoin Magazine",
@@ -43796,6 +43806,24 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:53:38.496Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "3e5484a682e6ed261c67"
+        },
+        "504c54edc7c703968bcd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 NY AG Mashinsky lifetime-ban settlement drafted as mashinsky-ban; verified in AG release plus CoinDesk and Decrypt reads.",
+          "sourceChecks": [
+            {
+              "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:53:40.253Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "3e5484a682e6ed261c67"
         }
