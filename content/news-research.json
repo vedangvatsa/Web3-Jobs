@@ -11416,24 +11416,24 @@
       "id": "23007533bd70cfbd0d1e",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T01:19:18.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "source-blocked",
-      "note": "BeInCrypto Buterin AI warning page returned HTTP 403 to round 3; same Drake bunker-mode event verified in readable Decrypt and CoinDesk accounts. Next: re-open two readable outlets and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:57:47.279Z",
+      "reviewedAt": "2026-10-10T03:46:53.117Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Drake bunker mode Buterin lattice reply two readable outlets draft bunker-mode"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "1d1b5e461acc4fc87814": {
       "source": "CryptoSlate",
@@ -39922,6 +39922,21 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:46:51.394Z"
+        },
+        "23007533bd70cfbd0d1e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:53.117Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
         }
       },
       "baselineSlugs": [
