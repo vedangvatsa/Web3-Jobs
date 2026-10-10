@@ -22037,20 +22037,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "322bfa081991e4298e14",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T12:50:19.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "duplicate",
-      "note": "Same Empire Market sentencing already drafted as empire-market this run; no separate development.",
+      "note": "Same Empire Market sentencing already covered in empire-market this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:03:56.188Z",
+      "reviewedAt": "2026-10-10T16:51:52.878Z",
       "duplicateOf": "empire-market",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Hamilton 40-year Empire Market DOJ release draft empire-market"
-      ]
+      ],
+      "mergedInto": "33d2532cea35902b8372"
     },
     "159599c6478a5d390360": {
       "source": "CoinDesk",
@@ -43409,6 +43410,15 @@
           "note": "Same Empire Market sentencing already covered in empire-market this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:51:50.864Z",
+          "duplicateOf": "empire-market",
+          "mergedInto": "33d2532cea35902b8372"
+        },
+        "322bfa081991e4298e14": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Empire Market sentencing already covered in empire-market this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:51:52.878Z",
           "duplicateOf": "empire-market",
           "mergedInto": "33d2532cea35902b8372"
         }
