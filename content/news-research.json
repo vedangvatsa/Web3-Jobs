@@ -25324,11 +25324,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "29cd84dfb8e2a804859a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T04:44:35.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "not-a-concrete-event",
+      "note": "Single-source CoinDesk analytics of a Robinhood Chain activity decline, down 42 percent in transactions; an on-chain slowdown read, not a launch, ruling, filing or other concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T10:30:05.095Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "560991e288df5e15cdac": {
       "source": "The Defiant",
@@ -42897,6 +42907,18 @@
           "retrySearches": [
             "Phalcon 3.55M unclaimed cross-chain funds EIP-7702 Tornado Cash address independent coverage beyond aggregators"
           ]
+        },
+        "29cd84dfb8e2a804859a": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Single-source CoinDesk analytics of a Robinhood Chain activity decline, down 42 percent in transactions; an on-chain slowdown read, not a launch, ruling, filing or other concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:30:05.095Z"
         }
       },
       "baselineSlugs": [
