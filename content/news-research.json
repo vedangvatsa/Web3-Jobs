@@ -20817,7 +20817,7 @@
       "expiresAt": "2026-10-12T09:20:16.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "verified-event",
-      "note": "Verified the 40-year sentence and 1,230 BTC forfeiture in full CoinDesk and Decrypt reads: $430M market, drug quantities, Pavey 1,584 BTC pending sentencing this month.",
+      "note": "Verified the 40-year sentence and 1,230 BTC forfeiture in full CoinDesk, Decrypt and BeInCrypto reads: 30M market, drug quantities, Pavey pending, 2,814 BTC reserve destination.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
@@ -20826,9 +20826,13 @@
         {
           "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
           "outcome": "read"
+        },
+        {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/dark-founder-loses-100-million-125019550.html",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T03:46:39.893Z",
+      "reviewedAt": "2026-10-10T04:09:08.014Z",
       "duplicateOf": "empire-market",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
@@ -39737,7 +39741,7 @@
         "33d2532cea35902b8372": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Verified the 40-year sentence and 1,230 BTC forfeiture in full CoinDesk and Decrypt reads: $430M market, drug quantities, Pavey 1,584 BTC pending sentencing this month.",
+          "note": "Verified the 40-year sentence and 1,230 BTC forfeiture in full CoinDesk, Decrypt and BeInCrypto reads: 30M market, drug quantities, Pavey pending, 2,814 BTC reserve destination.",
           "sourceChecks": [
             {
               "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
@@ -39746,9 +39750,13 @@
             {
               "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
               "outcome": "read"
+            },
+            {
+              "url": "https://finance.yahoo.com/markets/crypto/articles/dark-founder-loses-100-million-125019550.html",
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-10-10T03:46:39.893Z",
+          "reviewedAt": "2026-10-10T04:09:08.014Z",
           "articleSlug": "empire-market"
         },
         "e04537f91ce4996c0500": {
