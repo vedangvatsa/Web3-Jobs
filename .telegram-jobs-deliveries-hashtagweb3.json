@@ -1196,7 +1196,7 @@
     "sentAt": "2026-10-09T19:52:40.684Z"
   },
   "a308030b-802c-4467-8cd2-a8cdea064af7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-10T04:19:45.478Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1237,6 +1237,8 @@
       }
     ],
     "message": "• Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/trader48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">OTC Trader</a>\n• Braiins is hiring <a href=\"https://hashtagweb3.com/fs9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Fullstack Engineer / AI Engineer for BRAIINS MANAGER</a>\n• OP Labs is hiring <a href=\"https://hashtagweb3.com/product627?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Marketing Lead</a>\n• Etherscan is hiring <a href=\"https://hashtagweb3.com/content?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Content Strategist</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/ops88?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Commercial Operations Associate</a>",
-    "slotKey": "2026-10-10:morning"
+    "slotKey": "2026-10-10:morning",
+    "messageId": 155706,
+    "sentAt": "2026-10-10T04:19:48.103Z"
   }
 }
