@@ -22528,23 +22528,23 @@
       "id": "f8ec77c66ea84cb60667",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T14:59:00.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "SEC cross-trading proposal release returned HTTP 403 to automated fetch; single source in queue with no crypto-specific second outlet. Next: find SEC release mirror plus crypto-trade outlet and assess scope.",
+      "note": "Round 1 review: HTTP 403 on: www.sec.gov. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:29.483Z",
+      "reviewedAt": "2026-10-10T03:51:24.723Z",
       "retrySearches": [
-        "SEC cross trading registered funds proposal October 2026 mirror"
+        "SEC cross trading expanded securities proposal release text and comment deadline"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "3e5484a682e6ed261c67": {
       "source": "CoinDesk",
@@ -41663,6 +41663,21 @@
           "reviewedAt": "2026-10-10T03:51:23.073Z",
           "retrySearches": [
             "Blockchain.com CFTC prediction markets derivatives approval CNBC report details and filing status"
+          ]
+        },
+        "f8ec77c66ea84cb60667": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: www.sec.gov. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:24.723Z",
+          "retrySearches": [
+            "SEC cross trading expanded securities proposal release text and comment deadline"
           ]
         }
       },
