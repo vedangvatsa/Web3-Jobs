@@ -25093,17 +25093,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "5936ea8f20383c5c23f9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T20:10:14.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "duplicate",
-      "note": "Same Bessent Iran-seizure remarks already covered in iran-seizure this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:00.851Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:09.208Z",
       "duplicateOf": "iran-seizure",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "f41e7abd8920b9ee59a0": {
       "source": "Decrypt",
@@ -44923,6 +44932,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:56:07.499Z",
+          "retrySearches": [
+            "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
+          ]
+        },
+        "5936ea8f20383c5c23f9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:09.208Z",
           "retrySearches": [
             "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
           ]
