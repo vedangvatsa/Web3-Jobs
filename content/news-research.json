@@ -17076,17 +17076,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a24ff3e84b27f6e7fec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T15:24:16.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same US Oct 8 Bitfinex-seized bitcoin move covered by bitfinex-move.",
+      "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:39:59.785Z",
+      "reviewedAt": "2026-10-10T03:49:20.507Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "4d71a9d867c5924200b7": {
       "source": "Decrypt",
@@ -40668,6 +40669,15 @@
           "retrySearches": [
             "Decrypt Money Accounts Solana Information Exchange partnership terms"
           ]
+        },
+        "3a24ff3e84b27f6e7fec": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:49:20.507Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
