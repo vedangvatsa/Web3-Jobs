@@ -25713,11 +25713,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "8969a0358ed8f4ff831c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T13:01:03.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "verified-event",
+      "note": "Verified Finance Committee stablecoin-swap and exit-tax amendments plus 31-3 budget rejection in Decrypt and Cointelegraph reads; hero self-hosted, gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T16:50:23.670Z",
+      "articleSlug": "france-taxes",
+      "lastReviewedDay": "2026-10-10"
     },
     "201c9130ddb5ba609ce4": {
       "source": "The Defiant",
@@ -43085,6 +43100,23 @@
           ],
           "reviewedAt": "2026-10-10T16:50:21.524Z",
           "articleSlug": "robinhood-bitcoin"
+        },
+        "8969a0358ed8f4ff831c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Finance Committee stablecoin-swap and exit-tax amendments plus 31-3 budget rejection in Decrypt and Cointelegraph reads; hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:50:23.670Z",
+          "articleSlug": "france-taxes"
         }
       },
       "baselineSlugs": [
