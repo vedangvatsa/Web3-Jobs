@@ -14978,17 +14978,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "97cd7b6349290032f276",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 14,
+      "attempts": 15,
       "expiresAt": "2026-10-11T09:05:50.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "duplicate",
-      "note": "Same Samsung Wallet late-October USDC launch already covered in samsung-usdc this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:50:58.187Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:54:53.628Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "67de49f7da8711f3fc2f": {
       "source": "Cointelegraph",
@@ -43973,6 +43982,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:54:51.861Z",
+          "retrySearches": [
+            "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+          ]
+        },
+        "97cd7b6349290032f276": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:54:53.628Z",
           "retrySearches": [
             "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
           ]
