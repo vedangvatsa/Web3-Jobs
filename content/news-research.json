@@ -21306,30 +21306,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7eedcb04b022f754db",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T10:34:37.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 re-read CoinDesk and Decrypt on UK Oct 8 sanctions over Cryptomus Heleket TokenSpot and A7 links; draft not yet written. Next: re-open FCDO notice and draft uk-sanctions.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T18:01:11.174Z",
+      "reason": "duplicate",
+      "note": "Same UK Russia-sanctions package already drafted as uk-sanctions this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:50:52.230Z",
       "duplicateOf": "uk-sanctions",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "UK sanctions Cryptomus TokenSpot FCDO notice draft uk-sanctions"
       ],
-      "nextReviewDate": "2026-10-10"
+      "mergedInto": "d7c128ec9ef50a3db526"
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -41444,6 +41435,15 @@
           "retrySearches": [
             "XRP Ledger account delegation amendment activation status and validator votes"
           ]
+        },
+        "4f7eedcb04b022f754db": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same UK Russia-sanctions package already drafted as uk-sanctions this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:50:52.230Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "d7c128ec9ef50a3db526"
         }
       },
       "baselineSlugs": [
