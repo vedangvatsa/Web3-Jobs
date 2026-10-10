@@ -14017,22 +14017,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "9947fd6054fa80daa4d4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T13:20:54.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Europol headline; Decrypt, Unchained and CryptoSlate carry companion angles. Next: full-read two and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:22.483Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:59.998Z",
       "articleSlug": "europol-quantum",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -14047,8 +14042,7 @@
       ],
       "retrySearches": [
         "Europol quantum wallets two outlets draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "a3f0498b0937836134a4": {
       "source": "The Defiant",
@@ -40190,6 +40184,13 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:47:58.295Z"
+        },
+        "9947fd6054fa80daa4d4": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:59.998Z"
         }
       },
       "baselineSlugs": [
