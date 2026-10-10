@@ -21339,20 +21339,20 @@
       "id": "6a453769f3b6db70f125",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:22:47.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Unchained Pyth page and confirmed the 100-percent-rule headline; single outlet so far. Next: find the DAO vote record or second outlet and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:17:11.803Z",
+      "reviewedAt": "2026-10-10T03:50:53.804Z",
       "articleSlug": "pyth-vote",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -21361,9 +21361,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Pyth DAO 100 percent rule vote record draft"
+        "Pyth DAO Approves ‘100% Rule’ Directing Its Share of Product Revenue to PYTH Buy second independent outlet confirmation"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "c76300860e9b16ab3fc5": {
       "source": "Unchained",
@@ -41444,6 +41444,21 @@
           "reviewedAt": "2026-10-10T03:50:52.230Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "d7c128ec9ef50a3db526"
+        },
+        "6a453769f3b6db70f125": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:53.804Z",
+          "retrySearches": [
+            "Pyth DAO Approves ‘100% Rule’ Directing Its Share of Product Revenue to PYTH Buy second independent outlet confirmation"
+          ]
         }
       },
       "baselineSlugs": [
