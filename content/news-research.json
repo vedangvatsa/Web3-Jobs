@@ -14094,26 +14094,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "9dad087f927922704e2a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T12:40:31.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk BitMine-buyer headline; pairs with Decrypt, Cointelegraph and CryptoSlate versions. Next: full-read two and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:27.117Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:03.826Z",
       "duplicateOf": "bitmine-cap",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "BitMine ETH buyer CoinDesk Decrypt draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "2de409dcf0f9eb524c55": {
       "source": "CoinDesk",
@@ -40202,6 +40196,13 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:48:02.022Z"
+        },
+        "9dad087f927922704e2a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:03.826Z"
         }
       },
       "baselineSlugs": [
