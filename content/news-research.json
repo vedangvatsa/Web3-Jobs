@@ -11019,22 +11019,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a5f0f76edb1ecb37ab3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 15,
+      "attempts": 16,
       "expiresAt": "2026-10-11T02:50:01.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "duplicate",
-      "note": "Same Samsung Wallet late-October USDC launch already covered in samsung-usdc this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:50:54.272Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:54:49.745Z",
       "articleSlug": "samsung-usdc",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ],
-      "duplicateOf": "samsung-usdc"
+      "duplicateOf": "samsung-usdc",
+      "retrySearches": [
+        "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "7c05eec0aa4cd9623abd": {
       "source": "Bitcoin Magazine",
@@ -43928,6 +43937,21 @@
           "note": "Gold-price warning is trader prediction, not a dated concrete crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T22:54:01.987Z"
+        },
+        "2a5f0f76edb1ecb37ab3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:54:49.745Z",
+          "retrySearches": [
+            "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
+          ]
         }
       },
       "baselineSlugs": [
