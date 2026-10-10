@@ -24654,17 +24654,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5936ea8f20383c5c23f9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T20:10:14.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same Bessent Iran-seizure remarks already drafted as iran-seizure this run; no separate development.",
+      "note": "Same Bessent Iran-seizure remarks already covered in iran-seizure this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:05:49.408Z",
+      "reviewedAt": "2026-10-10T16:52:00.851Z",
       "duplicateOf": "iran-seizure",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "2f33d3c76777e7ef334e"
     },
     "f41e7abd8920b9ee59a0": {
       "source": "Decrypt",
@@ -43449,6 +43450,15 @@
           "note": "Same Bessent Iran-seizure remarks already covered in iran-seizure this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:51:58.868Z",
+          "duplicateOf": "iran-seizure",
+          "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "5936ea8f20383c5c23f9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Bessent Iran-seizure remarks already covered in iran-seizure this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:00.851Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
         }
