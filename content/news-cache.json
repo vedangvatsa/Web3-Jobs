@@ -1,21 +1,37 @@
 {
-  "generatedAt": "2026-10-10T11:44:25.691Z",
+  "generatedAt": "2026-10-10T16:20:04.646Z",
   "items": [
     {
-      "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
-      "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "pubDate": "Sat, 10 Oct 2026 11:00:00 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "One year after a flash crash wiped out billions in leveraged crypto bets, traders have better tools to spot risks. But the forces behind the selloff r...",
-      "source": "Coindesk"
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "pubDate": "Sat, 10 Oct 2026 16:01:04 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year drive...",
+      "source": "Decrypt"
     },
     {
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 10 Oct 2026 07:10:43 +0000",
-      "creator": "Michael Millard",
-      "contentSnippet": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
-      "source": "Cointelegraph"
+      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+      "pubDate": "Sat, 10 Oct 2026 15:10:37 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+      "source": "The Block"
+    },
+    {
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "pubDate": "Sat, 10 Oct 2026 13:01:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October ...",
+      "source": "Coindesk"
     },
     {
       "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
@@ -258,14 +274,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 10:16:48 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "France’s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abro...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
       "link": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
       "pubDate": "Fri, 09 Oct 2026 10:11:51 +0000",
@@ -296,14 +304,6 @@
       "creator": "Agent",
       "contentSnippet": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 07:34:44 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
@@ -504,22 +504,6 @@
       "creator": "James Hunt",
       "contentSnippet": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000.",
       "source": "The Block"
-    },
-    {
-      "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity ",
-      "link": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 13:42:27 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digita...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows",
-      "link": "https://dailyhodl.com/2026/10/08/stablecoins-are-quietly-becoming-business-infrastructure-nowpayments-data-shows/",
-      "pubDate": "Thu, 08 Oct 2026 12:05:54 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Tallinn, Estonia, 8th October 2026, Chainwire\nThe post Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows appeared first...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
