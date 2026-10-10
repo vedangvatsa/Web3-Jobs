@@ -26838,11 +26838,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f703d0dec2b6aa838362",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T21:33:18.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/kalshi-probes-trump-press-secretary-bets/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:20.887Z",
+      "retrySearches": [
+        "Kalshi press secretary bets investigation scope second outlet full reads"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "00eb14ee17d1377a2352": {
       "source": "The Defiant",
@@ -45081,6 +45095,21 @@
           "reviewedAt": "2026-10-10T22:56:19.069Z",
           "retrySearches": [
             "Avalanche founder XRP ledger AI flaw warning technical basis second outlet full reads"
+          ]
+        },
+        "f703d0dec2b6aa838362": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/kalshi-probes-trump-press-secretary-bets/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:20.887Z",
+          "retrySearches": [
+            "Kalshi press secretary bets investigation scope second outlet full reads"
           ]
         }
       },
