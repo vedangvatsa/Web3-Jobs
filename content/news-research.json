@@ -16173,23 +16173,23 @@
       "id": "ac1dee72e3538b3b129d",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T03:38:56.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Hyperliquid 330M HYPE distribution seen only in blocked origin; needs onchain data plus second outlet before drafting.",
+      "reason": "source-blocked",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:17:50.768Z",
+      "reviewedAt": "2026-10-10T03:48:58.886Z",
       "retrySearches": [
-        "Hyperliquid Labs wallet distributes 330 million HYPE"
+        "Hyperliquid 330M HYPE distribution labeled wallet evidence with second outlet"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "ce6a97a6514922530586": {
       "id": "ce6a97a6514922530586",
@@ -40479,6 +40479,21 @@
           "reviewedAt": "2026-10-10T03:48:57.204Z",
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
+        },
+        "ac1dee72e3538b3b129d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:58.886Z",
+          "retrySearches": [
+            "Hyperliquid 330M HYPE distribution labeled wallet evidence with second outlet"
           ]
         }
       },
