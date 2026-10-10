@@ -24440,23 +24440,23 @@
       "id": "af458fb1bbabce80a040",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T22:03:36.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "Coinbase Gennius ONED stablecoin plan seen only in single Defiant origin.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T23:41:03.151Z",
+      "reviewedAt": "2026-10-10T03:52:21.915Z",
       "retrySearches": [
-        "Coinbase Gennius ONED stablecoin Latin America banks announcement"
+        "Coinbase Gennius ONED stablecoin Latin America banks plan details"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "77cc1648dfd4b90a3add": {
       "source": "Bitcoin Magazine",
@@ -42070,6 +42070,21 @@
           "reviewedAt": "2026-10-10T03:52:20.254Z",
           "retrySearches": [
             "Aero Oct 21 merger token conversion terms primary announcement"
+          ]
+        },
+        "af458fb1bbabce80a040": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:21.915Z",
+          "retrySearches": [
+            "Coinbase Gennius ONED stablecoin Latin America banks plan details"
           ]
         }
       },
