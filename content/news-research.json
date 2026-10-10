@@ -24405,23 +24405,23 @@
       "id": "7ef426982303d62000e0",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T21:37:43.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "Aero Oct 21 merger terms seen only in blocked Defiant origin; Sept 26 merger announcement is stale.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T23:41:01.211Z",
+      "reviewedAt": "2026-10-10T03:52:20.254Z",
       "retrySearches": [
-        "Aero merger October 21 token conversion Coinbase migration second outlet"
+        "Aero Oct 21 merger token conversion terms primary announcement"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "af458fb1bbabce80a040": {
       "source": "The Defiant",
@@ -42055,6 +42055,21 @@
           "reviewedAt": "2026-10-10T03:52:18.679Z",
           "retrySearches": [
             "CFTC event contracts swaps rulemaking proposal text and comment period dates"
+          ]
+        },
+        "7ef426982303d62000e0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:20.254Z",
+          "retrySearches": [
+            "Aero Oct 21 merger token conversion terms primary announcement"
           ]
         }
       },
