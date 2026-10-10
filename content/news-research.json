@@ -23156,17 +23156,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c75de1b0ee258c6aa12c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T17:02:47.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
+      "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:05:32.280Z",
+      "reviewedAt": "2026-10-10T16:52:32.184Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "4a6fbb06563317d68be1": {
       "source": "Bitcoin Magazine",
@@ -43575,6 +43576,15 @@
           "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:52:30.115Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "c75de1b0ee258c6aa12c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:32.184Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
         }
