@@ -23684,24 +23684,28 @@
       "id": "11f65ef62dae6e42495b",
       "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T14:47:27.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "verified-event",
-      "note": "Ledger Oct 9 CryptoBilis reseller probe, 90-day setup halt, unconfirmed 86M Specter tally verified in CoinDesk and Decrypt reads. Draft 622 words, audits clean.",
+      "note": "Verified the Oct 9 CryptoBilis probe in full reads of Unchained, CoinDesk and Cointelegraph: $86M/$72M tallies unconfirmed, sales paused, 90-day setup warning, CZ flagged a $270k Binance trail.",
       "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
           "outcome": "read"
         },
         {
-          "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T23:38:56.234Z",
+      "reviewedAt": "2026-10-10T03:46:23.180Z",
       "articleSlug": "ledger-drain",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
@@ -39678,6 +39682,27 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:31:28.127Z",
           "automatic": true
+        },
+        "11f65ef62dae6e42495b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Oct 9 CryptoBilis probe in full reads of Unchained, CoinDesk and Cointelegraph: $86M/$72M tallies unconfirmed, sales paused, 90-day setup warning, CZ flagged a $270k Binance trail.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:23.180Z",
+          "articleSlug": "ledger-drain"
         }
       },
       "baselineSlugs": [
