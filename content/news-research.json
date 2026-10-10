@@ -15182,24 +15182,20 @@
       "id": "b4c5102f5a98f48f2121",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T10:46:25.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 re-read Unchained and CoinDesk on Greece Oct 8 draft 10 percent tax with 500 euro exemption and November submission; draft not yet written. Next: re-open Reuters draft-bill report and draft greece-tax.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:00:26.116Z",
+      "reviewedAt": "2026-10-10T03:48:33.005Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "articleSlug": "greece-tax",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
@@ -15214,9 +15210,9 @@
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
       "retrySearches": [
-        "Greece 10 percent crypto tax Reuters draft bill draft greece-tax"
+        "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "7c88defa6c907e3cd190": {
       "source": "Decrypt",
@@ -40312,6 +40308,21 @@
           "reviewedAt": "2026-10-10T03:48:31.249Z",
           "retrySearches": [
             "Europol quantum crypto wallets report recommendations and timelines for providers"
+          ]
+        },
+        "b4c5102f5a98f48f2121": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:33.005Z",
+          "retrySearches": [
+            "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
           ]
         }
       },
