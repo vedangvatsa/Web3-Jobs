@@ -17653,24 +17653,24 @@
       "id": "54e70e74dd24c8a9a2ef",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T16:20:21.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CryptoSlate MiCA-overhaul headline; pairs with the Cointelegraph BaFin refusal piece. Next: full-read both and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:03.750Z",
+      "reviewedAt": "2026-10-10T03:49:33.936Z",
       "retrySearches": [
-        "Bitcoin.de MiCA overhaul CryptoSlate Cointelegraph draft"
+        "Bitcoin.de MiCA rejection BaFin decision details and trading halt status"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "duplicateOf": "bitcoin-de",
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "8f6ae7eb5f29e368d620": {
       "source": "BeInCrypto",
@@ -40765,6 +40765,21 @@
           "reviewedAt": "2026-10-10T03:49:32.263Z",
           "retrySearches": [
             "IMF tokenized markets financial risk warning report text and recommendations"
+          ]
+        },
+        "54e70e74dd24c8a9a2ef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:33.936Z",
+          "retrySearches": [
+            "Bitcoin.de MiCA rejection BaFin decision details and trading halt status"
           ]
         }
       },
