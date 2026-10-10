@@ -24946,11 +24946,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "dbe7dba830b1dbc9d348",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T00:43:30.000Z",
-      "lastSeenAt": "2026-10-10T03:31:28.127Z"
+      "lastSeenAt": "2026-10-10T03:31:28.127Z",
+      "reason": "price-chatter",
+      "note": "STRK 30% price jump plus Starknet layer-1 musings is token-price movement, not a confirmed launch, vote, filing or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:52:42.594Z",
+      "lastReviewedDay": "2026-10-10"
     }
   },
   "runs": {
@@ -42309,6 +42314,13 @@
           "note": "Visa survey projecting 2031 APAC stablecoin openness is a forecast poll, not a concrete dated event with actors and outcomes.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:52:40.885Z"
+        },
+        "dbe7dba830b1dbc9d348": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "STRK 30% price jump plus Starknet layer-1 musings is token-price movement, not a confirmed launch, vote, filing or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:52:42.594Z"
         }
       },
       "baselineSlugs": [
