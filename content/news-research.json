@@ -15862,24 +15862,24 @@
       "id": "35b5090ce24657a84aec",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T07:55:14.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "source-blocked",
-      "note": "The Block StanChart origin returned HTTP 403 to round 3; CoinDesk, Cointelegraph and Bitcoin Magazine versions stayed reachable. Next: full-read two and draft.",
+      "note": "Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:13:56.862Z",
+      "reviewedAt": "2026-10-10T03:48:52.307Z",
       "retrySearches": [
-        "Standard Chartered custody two reachable outlets draft"
+        "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "duplicateOf": "stanchart-custody",
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "bb706419d66dbccbac9d": {
       "source": "BeInCrypto",
@@ -40439,6 +40439,21 @@
           "note": "Single blocked BeInCrypto item on ASICID miner release reads as vendor product promotion with no independent corroboration.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:50.675Z"
+        },
+        "35b5090ce24657a84aec": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:48:52.307Z",
+          "retrySearches": [
+            "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
+          ]
         }
       },
       "baselineSlugs": [
