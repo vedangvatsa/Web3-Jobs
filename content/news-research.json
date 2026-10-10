@@ -14578,22 +14578,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4f3f560217dd042e479",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T08:06:35.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph first-register headline naming Sberbank; pairs with the Bitcoin Magazine custody piece. Next: full-read both and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:47.902Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:17.571Z",
       "articleSlug": "sberbank-register",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -14608,8 +14603,7 @@
       ],
       "retrySearches": [
         "Russia first crypto register Sberbank draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "78e87e0f1da84a3a6ba2": {
       "source": "CoinJournal",
@@ -40220,6 +40214,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:15.885Z"
+        },
+        "c4f3f560217dd042e479": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:17.571Z"
         }
       },
       "baselineSlugs": [
