@@ -1987,9 +1987,10 @@
           "url": "https://www.youtube.com/watch?v=GnIhNvGeQJk"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Manager, Growth Analytics at Bitpanda. București, Bucharest, Romania.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
-          "startedAt": "2026-10-10T03:34:53.938Z"
+          "startedAt": "2026-10-10T03:34:53.938Z",
+          "postId": "6ac9b25ff91f772d457e1687"
         }
       }
     }
