@@ -20526,20 +20526,20 @@
       "id": "f7cc92328214d5e25bb3",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T05:00:52.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Solana 200ms headline; pairs with the blocked Defiant scheduling piece. Next: find an Anza or Solana confirmation and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:16:23.463Z",
+      "reviewedAt": "2026-10-10T03:50:32.499Z",
       "articleSlug": "slot-times",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -20548,9 +20548,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Solana 200ms final upgrade Anza confirmation draft"
+        "Solana 200-millisecond slots final upgrade activation date and validator vote status"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "c995bfad22d44039fe80": {
       "source": "BeInCrypto",
@@ -41265,6 +41265,21 @@
           "reviewedAt": "2026-10-10T03:50:30.858Z",
           "retrySearches": [
             "France stablecoin swap tax 2027 budget bill text and vote schedule"
+          ]
+        },
+        "f7cc92328214d5e25bb3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:32.499Z",
+          "retrySearches": [
+            "Solana 200-millisecond slots final upgrade activation date and validator vote status"
           ]
         }
       },
