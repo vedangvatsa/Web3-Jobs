@@ -108,6 +108,10 @@
     "2026-10-10:morning": [
       "an51",
       "mkt54"
+    ],
+    "2026-10-10:afternoon": [
+      "mkt53",
+      "eng333"
     ]
   },
   "jobs": {
@@ -1994,6 +1998,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7694877483736239392"
         }
       }
+    },
+    "mkt53": {
+      "slot": "2026-10-10:afternoon",
+      "selectedAt": "2026-10-10T11:44:02.963Z",
+      "verifiedAt": "2026-10-10T11:44:02.963Z",
+      "captions": {
+        "instagram": "Manager, Growth Analytics at Bitpanda\n\nVienna, Austria\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "Manager, Growth Analytics at Bitpanda. Vienna, Austria.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Vienna, Austria\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Manager, Growth Analytics at Bitpanda"
+      },
+      "receipts": {}
+    },
+    "eng333": {
+      "slot": "2026-10-10:afternoon",
+      "selectedAt": "2026-10-10T11:44:02.964Z",
+      "verifiedAt": "2026-10-10T11:44:02.964Z",
+      "captions": {
+        "instagram": "Software Engineer, Mobile(iOS) at OKX\n\nSingapore\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
+        "tiktok": "Software Engineer, Mobile(iOS) at OKX. Singapore.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Singapore\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Software Engineer, Mobile(iOS) at OKX"
+      },
+      "receipts": {}
     }
   }
 }
