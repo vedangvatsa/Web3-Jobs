@@ -701,6 +701,9 @@
   "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
   "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
   "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+  "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+  "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+  "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1886,6 +1889,12 @@
   "AI coding agents generate more code, but not more software",
   "Nikon contest names new winner following AI disqualification",
   "AI disqualification yields new Nikon Small World in Motion winner",
+  "TypeSafe valued at $7.5 billion for non-text AI model",
+  "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+  "Nvidia launches safety stack for humanoid robots and robotaxis",
+  "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+  "Danu Robotics Works to Improve Automated Waste Recycling Sorting",
+  "Danu Robotics’ fight to build a better recycling robot",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2104,5 +2113,8 @@
   "fp:approach|blueprint|conversation|creator|design|generativ|genetic|lif|microscopic|possibility",
   "fp:anthropic|automat|developer|erroneous|fals|homicid|month|philadelphia|polic|send",
   "fp:absorb|agent|bottleneck|cod|efficiency|found|gain|generat|human|increas",
-  "fp:cell|contest|dileptus|disqualification|follow|his|motion|nam|nguyen|nhat"
+  "fp:cell|contest|dileptus|disqualification|follow|his|motion|nam|nguyen|nhat",
+  "fp:75b|claim|efficiency|higher|jev|languag|larg|non|reach|text",
+  "fp:aim|autonomous|bet|big|build|developer|full|humanoid|nvidia|physical",
+  "fp:amy|automat|better|build|danu|develop|effectively|fight|founder|improv"
 ]

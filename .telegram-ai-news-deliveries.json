@@ -1030,7 +1030,7 @@
     "sentAt": "2026-10-09T19:53:53.081Z"
   },
   "ead53e28-3785-482c-ac1c-79eb23b7cc27": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-10T04:21:09.584Z",
     "stories": [
       {
@@ -1062,6 +1062,8 @@
         "originalTitle": "Danu Robotics’ fight to build a better recycling robot"
       }
     ],
-    "slotKey": "2026-10-10:morning"
+    "slotKey": "2026-10-10:morning",
+    "messageId": 193330,
+    "sentAt": "2026-10-10T04:21:13.047Z"
   }
 }
