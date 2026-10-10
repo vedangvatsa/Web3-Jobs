@@ -18811,20 +18811,20 @@
       "id": "b94981880c3d659e2dd8",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T18:30:35.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Bankless Derive V3 headline; single outlet so far. Next: find a Derive announcement or second outlet and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.bankless.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.bankless.com/read/news/derive-v3-goes-live-moving-onchain-options-custody-to-ethereum",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:32.947Z",
+      "reviewedAt": "2026-10-10T03:50:00.466Z",
       "articleSlug": "derive-v3",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -18838,9 +18838,9 @@
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
       "retrySearches": [
-        "Derive V3 Ethereum custody announcement draft"
+        "Derive V3 onchain options Ethereum custody launch details and migration terms"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "082e493221b37a47877c": {
       "source": "Decrypt",
@@ -41003,6 +41003,21 @@
           "reviewedAt": "2026-10-10T03:49:58.829Z",
           "retrySearches": [
             "WhiteBIT Lightning Network integration launch details and fee schedule"
+          ]
+        },
+        "b94981880c3d659e2dd8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.bankless.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/derive-v3-goes-live-moving-onchain-options-custody-to-ethereum",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:00.466Z",
+          "retrySearches": [
+            "Derive V3 onchain options Ethereum custody launch details and migration terms"
           ]
         }
       },
