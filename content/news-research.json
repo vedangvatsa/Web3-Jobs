@@ -22199,20 +22199,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 FCDO package in Decrypt, Cointelegraph and gov.uk reads: Xeltox, TokenSpot, Tsunami, VexPay designations, A7 network, 38-target oil and tanker context.",
+      "note": "Verified Oct 8 FCDO sanctions package, Cryptomus TokenSpot designations and A7 network in Decrypt and gov.uk reads; hero self-hosted, gates pass.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
           "outcome": "read"
         },
         {
@@ -22220,7 +22216,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T12:02:23.517Z",
+      "reviewedAt": "2026-10-10T16:50:01.460Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
@@ -42960,6 +42956,23 @@
           ],
           "reviewedAt": "2026-10-10T16:49:59.334Z",
           "articleSlug": "empire-market"
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 FCDO sanctions package, Cryptomus TokenSpot designations and A7 network in Decrypt and gov.uk reads; hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:50:01.460Z",
+          "articleSlug": "uk-sanctions"
         }
       },
       "baselineSlugs": [
