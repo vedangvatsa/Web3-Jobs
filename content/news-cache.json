@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-10T03:31:29.254Z",
+  "generatedAt": "2026-10-10T10:01:48.183Z",
   "items": [
+    {
+      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+      "link": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 10 Oct 2026 07:10:43 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "pubDate": "Sat, 10 Oct 2026 05:43:00 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional c...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "pubDate": "Sat, 10 Oct 2026 04:20:07 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+      "source": "Coindesk"
+    },
     {
       "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
       "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
@@ -226,14 +250,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-      "link": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-      "pubDate": "Fri, 09 Oct 2026 10:33:46 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million.",
-      "source": "The Block"
-    },
-    {
       "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
       "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 09 Oct 2026 10:16:48 +0000",
@@ -402,14 +418,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto crumbles as anniversary of flash crash nears",
-      "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-      "pubDate": "Thu, 08 Oct 2026 18:14:39 +0000",
-      "creator": "Stephen Alpher",
-      "contentSnippet": "It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
       "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
       "pubDate": "Thu, 08 Oct 2026 17:46:05 +0000",
@@ -506,35 +514,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Crypto lending rises again… but have they solved the risks?",
-      "link": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 13:30:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protoco...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "EU lawmakers push crypto onto anti-corruption agenda",
-      "link": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 12:54:21 +0000",
-      "creator": "Yohan Yun",
-      "contentSnippet": "MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows",
       "link": "https://dailyhodl.com/2026/10/08/stablecoins-are-quietly-becoming-business-infrastructure-nowpayments-data-shows/",
       "pubDate": "Thu, 08 Oct 2026 12:05:54 +0000",
       "creator": "Chainwire",
       "contentSnippet": "Tallinn, Estonia, 8th October 2026, Chainwire\nThe post Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows appeared first...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "Travala Launches Native AI Travel Agent with BNB Chain & Binance Pay",
-      "link": "https://dailyhodl.com/2026/10/08/travala-launches-native-ai-travel-agent-with-bnb-chain-binance-pay/",
-      "pubDate": "Thu, 08 Oct 2026 12:00:21 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Singapore, Singapore, 8th October 2026, Chainwire\nThe post Travala Launches Native AI Travel Agent with BNB Chain & Binance Pay appeared first on The ...",
       "source": "Daily Hodl"
     },
     {
@@ -578,14 +562,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "SEC to Host Virtual Compliance Seminar for Investment Firms in November 2026",
-      "link": "https://Blockchain.News/news/sec-virtual-compliance-seminar-2026",
-      "pubDate": "Thu, 08 Oct 2026 09:03:49 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The SEC announced a virtual compliance seminar for investment companies and advisers on November 19, 2026, focusing on compliance practices and regula...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "Standard Chartered to expand crypto custody services in Singapore",
       "link": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
       "pubDate": "Thu, 08 Oct 2026 07:55:14 +0000",
@@ -607,6 +583,142 @@
       "pubDate": "Wed, 07 Oct 2026 20:16:04 +0000",
       "creator": "Staff",
       "contentSnippet": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC! ",
+      "link": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
+      "pubDate": "Fri, 23 Jan 2026 16:40:55 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are red while Gold nears $5,000 and Silver closes in on $100; BTC -1% at $89,100; ETH -2% at $2,925, SOL -2% at $127; XRP -2% to $1.90. ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto rebounds after Trump TACO’s on Tariffs! BitGo $2.1B IPO! Solana’s SKR token soars 250% FDV!  ",
+      "link": "https://decrypt.co/videos/interviews/MqZOhomP/crypto-rebounds-after-trump-tacos-on-tariffs-bitgo-21b-ipo-solanas-skr-token-soars-250-fdv",
+      "pubDate": "Thu, 22 Jan 2026 16:14:50 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are green and rebounding after Trump pivoted on EU tariffs; BTC +2% at $89,900; ETH +2% at $2,995, SOL +2% at $130; XRP +3% to $1.94. CC...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
+      "link": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
+      "pubDate": "Wed, 21 Jan 2026 16:17:26 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are very red following a red Tuesday across markets; BTC -3% at $88,200; ETH -6% at $2,905, SOL -2% at $127; XRP -2% to $1.88. MYX (+11%...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta! ",
+      "link": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
+      "pubDate": "Tue, 20 Jan 2026 18:12:06 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%)...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto sells off amidst Trump Tariff Turmoil! $Trove falls 90% in awful TGE! Pump Fund announced! ",
+      "link": "https://decrypt.co/videos/interviews/lokwS0bc/crypto-sells-off-amidst-trump-tariff-turmoil-trove-falls-90-in-awful-tge-pump-fund-announced",
+      "pubDate": "Tue, 20 Jan 2026 16:07:15 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are red following Trump’s tariff turmoil; BTC -2% at $91,100; ETH -4% at $3,105, SOL -3% at $129; XRP -2% to $1.93. CC (+12%), MYX (+5%)...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Massive Coinbase News! Bitcoin Rips to $96,750! Football.Fun TGE Interview with Founder!",
+      "link": "https://decrypt.co/videos/interviews/9g4stfJX/massive-coinbase-news-bitcoin-rips-to-96-750-footballfun-tge-interview-with-founder",
+      "pubDate": "Thu, 15 Jan 2026 16:49:34 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are very green with Bitcoin making a new another 2-month high; BTC +2% at $96,7500; ETH +2% at $3,360, SOL even at $145; XRP -1% to $2.1...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Are we back? Crypto is Green! Solana Intern goes rogue! Pump up 13%! Monero hits another ATH!",
+      "link": "https://decrypt.co/videos/interviews/Iv1NIhI4/are-we-back-crypto-is-green-solana-intern-goes-rogue-pump-up-13-monero-hits-another-ath",
+      "pubDate": "Wed, 14 Jan 2026 16:38:32 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "BTC: 95k (+3%) | BTC.D: 59.2% (-0.1%). ETH: 3313 (+6%) | BNB: 936 (+3%) | SOL: 145 (+2%). Top Gainers: IP, ICP, PUMP, PEPE, ENA. BTC ETFs: +$754m | ET...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Pump & Memes HEATING up! XMR vs ZEC! How important are these rate cuts? - Under Exposed",
+      "link": "https://decrypt.co/videos/interviews/IuLdmgP6/pump-memes-heating-up-xmr-vs-zec-how-important-are-these-rate-cuts-under-exposed",
+      "pubDate": "Wed, 14 Jan 2026 16:01:53 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are green; BTC +1.5% at $92,000; ETH +1% at $3,130, SOL +2% at $142; XRP +1% to $2.06. DASH (+60%), IP (+30%) and XMR (+13%) led top mov...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "A16z raise $15B! Jerome Powell vs Trump! Crypto remains flat! Special Guest: Dudas! ",
+      "link": "https://decrypt.co/videos/interviews/0y90noNs/a16z-raise-15b-jerome-powell-vs-trump-crypto-remains-flat-special-guest-dudas",
+      "pubDate": "Mon, 12 Jan 2026 17:15:46 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are mostly flat headed into Monday open; btc even at $90,600; eth +1% at $3,110, sol +2% at $140; xrp -2% to $2.04. Ip (+20%) and xmr (+...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "ZEC Rebounds 11%! Trump says he won’t pardon Sam Bankman-Fried! Florida revisits it’s Strategic Bitcoin Reserve!",
+      "link": "https://decrypt.co/videos/interviews/72tPnqPX/zec-rebounds-11-trump-says-he-wont-pardon-sam-bankman-fried-florida-revisits-its-strategic-bitcoin-reserve",
+      "pubDate": "Fri, 09 Jan 2026 17:17:12 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors are mostly flat ahead of today’s supreme court opinion on the trump tariffs; btc +1% at $90,300; eth 13% at $3,090, sol +3% at $138; xrp...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "The ZCash situation explained! Interview with ZEC bull Mert! BTC below $90K! ZEC falls 19%! ",
+      "link": "https://decrypt.co/videos/interviews/wmsgKRFW/the-zcash-situation-explained-interview-with-zec-bull-mert-btc-below-90k-zec-falls-19",
+      "pubDate": "Thu, 08 Jan 2026 17:04:56 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors fell again yesterday as btc lost $90k; btc -2% at $89,900; eth -3% at $3,100, sol -3% at $134; xrp -7% to $2.08. Lit (+3%), wlfi (+3%) a...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "First 2026 Dip! BTC at 92K! Morgan Stanley file for BTC, ETH & SOL ETFs! Hyperliquid Airdrop Speculation! ",
+      "link": "https://decrypt.co/videos/interviews/GVQVX2ND/first-2026-dip-btc-at-92k-morgan-stanley-file-for-btc-eth-sol-etfs-hyperliquid-airdrop-speculation",
+      "pubDate": "Wed, 07 Jan 2026 16:14:54 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Crypto majors fall for first time in 2026; BTC at $92k. Morgan Stanley files for BTC, ETH and SOL ETFs. US Senate schedules key vote for crypto market...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto starts 2026 STRONG! Venezuela Impacts on the market! Lighter TGE reactions!",
+      "link": "https://decrypt.co/videos/interviews/XjhRjGIk/crypto-starts-2026-strong-venezuela-impacts-on-the-market-lighter-tge-reactions",
+      "pubDate": "Tue, 06 Jan 2026 18:16:42 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP l...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Global Crypto MCap up to $3.22 Trillion! XRP up 12%! Japan Endorse Crypto! Fear & Greed back to Neutral! ",
+      "link": "https://decrypt.co/videos/interviews/OS1PGiAq/global-crypto-mcap-up-to-322-trillion-xrp-up-12-japan-endorse-crypto-fear-greed-back-to-neutral",
+      "pubDate": "Tue, 06 Jan 2026 16:13:32 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "The global crypto market cap pushed another 2% to $3.22T as majors continue to grind up; BTC +1% at $93,780; ETH +2% at $3,240, SOL +3% at $139; XRP l...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto is Green! Up 6-9%! Memes outperform! Pepe up 67%! Infinex Founder Interview!",
+      "link": "https://decrypt.co/videos/interviews/EmmJkWJn/crypto-is-green-up-6-9-memes-outperform-pepe-up-67-infinex-founder-interview",
+      "pubDate": "Mon, 05 Jan 2026 16:28:36 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "The global crypto market cap hit $3.16t (+1.5%) with majors trading higher; btc +2% at $93,000; eth +1% at $3,175, bnb +2.5% at $906, sol +1% at $135...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto Wallets Can ‘Directly Compete With Neobanks'",
+      "link": "https://decrypt.co/videos/interviews/WsvLVFlp/crypto-wallets-can-directly-compete-with-neobanks",
+      "pubDate": "Mon, 05 Jan 2026 13:44:47 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Bitget Wallet CMO Jamie Elkaleh tells Decrypt how the platform is evolving from a crypto wallet to a everyday finance app that seamlessly integrates c...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "2026 Crypto Predictions! Tom Lee still buying ETH! Rekt tease WorldStar collab! ",
+      "link": "https://decrypt.co/videos/interviews/dBDZqp65/2026-crypto-predictions-tom-lee-still-buying-eth-rekt-tease-worldstar-collab",
+      "pubDate": "Tue, 30 Dec 2025 16:29:12 +0000",
+      "creator": "Decrypt",
+      "contentSnippet": "Btc: 87k (0%) | btc.D: 59.0% (0%). Eth: 2975 (1%) | bnb: 855 (+1%) | sol: 124 (0%). Tom Lee bought another $130M in ETH for Christmas, and still holds...",
       "source": "Decrypt"
     }
   ]
