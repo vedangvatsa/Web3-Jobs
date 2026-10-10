@@ -22013,20 +22013,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f46b0c4a638dbaf5f575",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T12:23:54.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same DWF-BitGo $141M lawsuit already drafted as dwf-bitgo this run; no separate development.",
+      "note": "Same DWF-BitGo 141M lawsuit already drafted as dwf-bitgo this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:51:09.351Z",
+      "reviewedAt": "2026-10-10T10:29:48.207Z",
       "retrySearches": [
         "BitGo 141M suit filing response draft"
       ],
       "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "dwf-bitgo"
+      "duplicateOf": "dwf-bitgo",
+      "mergedInto": "496643e7a159131009a6"
     },
     "322bfa081991e4298e14": {
       "source": "BeInCrypto",
@@ -42795,6 +42796,15 @@
           "reviewedAt": "2026-10-10T10:29:46.008Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "f46b0c4a638dbaf5f575": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same DWF-BitGo 141M lawsuit already drafted as dwf-bitgo this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:48.207Z",
+          "duplicateOf": "dwf-bitgo",
+          "mergedInto": "496643e7a159131009a6"
         }
       },
       "baselineSlugs": [
