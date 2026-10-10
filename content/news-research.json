@@ -18396,24 +18396,24 @@
       "id": "87edf17a86289e0f2c9b",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T12:00:54.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "source-blocked",
-      "note": "BeInCrypto ESMA stablecoin page returned HTTP 403 to round 3; same Oct 8 opinion re-read in CoinDesk this round. Next: re-open Cointelegraph plus ESMA PDF primary and draft esma-stablecoins.",
+      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/eu-exchanges-drop-unauthorized-stablecoins-usdt/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:25.551Z",
+      "reviewedAt": "2026-10-10T03:49:48.981Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "ESMA stablecoin January 2027 deadline opinion second outlet draft"
+        "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "c01aa070c06b9b158f6e": {
       "source": "BeInCrypto",
@@ -40908,6 +40908,21 @@
           "reviewedAt": "2026-10-10T03:49:47.370Z",
           "retrySearches": [
             "EU lawmakers crypto anti-corruption agenda proposal text and vote"
+          ]
+        },
+        "87edf17a86289e0f2c9b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/eu-exchanges-drop-unauthorized-stablecoins-usdt/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:48.981Z",
+          "retrySearches": [
+            "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
           ]
         }
       },
