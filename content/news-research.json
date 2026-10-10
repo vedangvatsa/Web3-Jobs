@@ -18076,29 +18076,29 @@
       "id": "bbfbc980f72f30b4800c",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T14:24:24.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "CoinDesk Veridian spinout page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Defiant version returned 403. Next: full-read this plus Paypers and draft veridian-spin.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
-          "outcome": "blocked"
+          "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:00:24.029Z",
+      "reviewedAt": "2026-10-10T03:49:43.995Z",
       "articleSlug": "veridian-spin",
       "retrySearches": [
-        "CoinDesk Veridian spinout CIP-0113 full read draft"
+        "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "a004e01e7f72c40546e6": {
       "source": "The Block",
@@ -40863,6 +40863,21 @@
           "reviewedAt": "2026-10-10T03:49:42.370Z",
           "retrySearches": [
             "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+          ]
+        },
+        "bbfbc980f72f30b4800c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:43.995Z",
+          "retrySearches": [
+            "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
           ]
         }
       },
