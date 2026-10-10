@@ -24321,20 +24321,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "94b717cda7c41ca127f6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T21:10:39.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+      "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:52:15.272Z",
+      "reviewedAt": "2026-10-10T10:29:41.730Z",
       "retrySearches": [
         "Tether freeze stolen USDT Ledger CryptoBilis theft MistTrack confirmation"
       ],
       "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "ledger-drain"
+      "duplicateOf": "ledger-drain",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "a1d08de2435b7aa593b5": {
       "source": "The Defiant",
@@ -42763,6 +42764,15 @@
           "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:29:39.717Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "94b717cda7c41ca127f6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:41.730Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
         }
