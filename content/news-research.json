@@ -23696,23 +23696,23 @@
       "id": "c1d0d154bba53b41bc48",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T13:38:38.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "source-blocked",
-      "note": "Defiant LiquidAcre-Uphold page returned HTTP 403 to round 3; single trade-outlet source on infrastructure partnership. Next: find LiquidAcre or Uphold announcement plus second outlet.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:52.776Z",
+      "reviewedAt": "2026-10-10T03:51:59.689Z",
       "retrySearches": [
-        "LiquidAcre Uphold digital asset infrastructure announcement"
+        "LiquidAcre Uphold digital asset infrastructure deal terms"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "bf34f2622a6f3f3d5bbb": {
       "source": "Cointelegraph",
@@ -41900,6 +41900,21 @@
           "reviewedAt": "2026-10-10T03:51:57.860Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "c1d0d154bba53b41bc48": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:59.689Z",
+          "retrySearches": [
+            "LiquidAcre Uphold digital asset infrastructure deal terms"
+          ]
         }
       },
       "baselineSlugs": [
