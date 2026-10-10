@@ -12125,26 +12125,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "c44addcd0ee193c5ca8c",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T15:36:11.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Cointelegraph Deribit-to-US headline; pairs with the Unchained integration piece opened this run. Next: full-read both and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:34.982Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:16.792Z",
       "duplicateOf": "coinbase-pro",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Coinbase Deribit US options Unchained corroboration draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "36c61b06f6a67f1e56db": {
       "source": "Decrypt",
@@ -40011,6 +40005,13 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:47:15.148Z"
+        },
+        "c44addcd0ee193c5ca8c": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:16.792Z"
         }
       },
       "baselineSlugs": [
