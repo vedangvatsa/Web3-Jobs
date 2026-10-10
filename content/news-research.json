@@ -25590,11 +25590,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "86b2c36ed9f9bfb90b74",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T15:00:54.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "not-a-concrete-event",
+      "note": "Explainer on Luxor mining-yield mechanics and miner credit risk; product analysis, not a dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:52:54.113Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "b17f7b0daf20c68618e4": {
       "source": "BeInCrypto",
@@ -43671,6 +43676,13 @@
           "note": "Nine-day ETF outflow streak and fund-flow roundup; market data with no launch, ruling, filing, or other concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:52:52.242Z"
+        },
+        "86b2c36ed9f9bfb90b74": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Explainer on Luxor mining-yield mechanics and miner credit risk; product analysis, not a dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:54.113Z"
         }
       },
       "baselineSlugs": [
