@@ -24841,11 +24841,11 @@
       "id": "2f33d3c76777e7ef334e",
       "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "verified-event",
-      "note": "Bessent Oct 9 planned 1B Iran-linked crypto seizure verified in Cointelegraph and Bitcoin Magazine reads. New statement event distinct from Sept 61M forfeiture case. Draft 621 words, audits clean.",
+      "note": "Verified Bessent Oct 9 $1B seizure claim in full Cointelegraph and Bitcoin Magazine reads: Newsmax summit quotes, OFAC August action, prior $500M/$550M figures, asset ambiguity preserved.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
@@ -24856,9 +24856,9 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-09T23:39:19.072Z",
+      "reviewedAt": "2026-10-10T03:46:33.066Z",
       "articleSlug": "iran-seizure",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
@@ -39792,6 +39792,23 @@
           ],
           "reviewedAt": "2026-10-10T03:46:31.386Z",
           "articleSlug": "uk-sanctions"
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Bessent Oct 9 $1B seizure claim in full Cointelegraph and Bitcoin Magazine reads: Newsmax summit quotes, OFAC August action, prior $500M/$550M figures, asset ambiguity preserved.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:33.066Z",
+          "articleSlug": "iran-seizure"
         }
       },
       "baselineSlugs": [
