@@ -15412,25 +15412,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a5d0ab664417117a5a2",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T09:51:23.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "Bitget off-exchange settlement story seen only in blocked origin; needs Bitget release or second outlet with mechanics.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/bitget-off-exchange-settlement-institutional-custody/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T04:17:29.173Z",
+      "reason": "promotional",
+      "note": "Single blocked BeInCrypto item reading as Bitget institutional-marketing copy with no verifiable event or figures.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:36.241Z",
       "retrySearches": [
         "Bitget off-exchange settlement institutional custody launch"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10"
     },
     "860da2d41ccdf27f0d30": {
       "source": "Cointelegraph",
@@ -40335,6 +40329,13 @@
           "retrySearches": [
             "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
           ]
+        },
+        "6a5d0ab664417117a5a2": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Single blocked BeInCrypto item reading as Bitget institutional-marketing copy with no verifiable event or figures.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:36.241Z"
         }
       },
       "baselineSlugs": [
