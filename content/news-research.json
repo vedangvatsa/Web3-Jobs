@@ -11863,17 +11863,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "123b0a703647ad531e85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-10T16:56:56.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same-week US government seized-crypto flows covered as context in bitfinex-move.",
+      "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:39:39.847Z",
+      "reviewedAt": "2026-10-10T03:47:09.942Z",
       "articleSlug": "seized-crypto",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "hyperliquid-base.md: under 600 words",
@@ -11882,7 +11882,8 @@
         "stanchart-custody.md: under 600 words",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9308-26"
       ],
-      "duplicateOf": "bitfinex-move"
+      "duplicateOf": "bitfinex-move",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "315f594c1f4585bf6ecf": {
       "source": "Bitcoin Magazine",
@@ -39988,6 +39989,15 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:47:08.303Z"
+        },
+        "123b0a703647ad531e85": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:09.942Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
