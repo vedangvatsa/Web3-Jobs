@@ -23454,17 +23454,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "c75de1b0ee258c6aa12c",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T17:02:47.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "duplicate",
-      "note": "Same Ledger reseller-drain probe already covered in ledger-drain this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:52:32.184Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:50.849Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "4a6fbb06563317d68be1": {
       "source": "Bitcoin Magazine",
@@ -44678,6 +44687,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:49.197Z",
+          "retrySearches": [
+            "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+          ]
+        },
+        "c75de1b0ee258c6aa12c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:50.849Z",
           "retrySearches": [
             "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
           ]
