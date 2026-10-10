@@ -104,6 +104,10 @@
     "2026-10-09:evening": [
       "an52",
       "dmlr2"
+    ],
+    "2026-10-10:morning": [
+      "an51",
+      "mkt54"
     ]
   },
   "jobs": {
@@ -1920,6 +1924,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7694754034888002849"
         }
       }
+    },
+    "an51": {
+      "slot": "2026-10-10:morning",
+      "selectedAt": "2026-10-10T03:30:58.549Z",
+      "verifiedAt": "2026-10-10T03:30:58.549Z",
+      "captions": {
+        "instagram": "Senior Data Analyst at Solflare\n\nZagreb, Croatia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Senior Data Analyst at Solflare. Zagreb, Croatia.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Zagreb, Croatia\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior Data Analyst at Solflare"
+      },
+      "receipts": {}
+    },
+    "mkt54": {
+      "slot": "2026-10-10:morning",
+      "selectedAt": "2026-10-10T03:30:58.550Z",
+      "verifiedAt": "2026-10-10T03:30:58.550Z",
+      "captions": {
+        "instagram": "Manager, Growth Analytics at Bitpanda\n\nBucurești, Bucharest, Romania\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "Manager, Growth Analytics at Bitpanda. București, Bucharest, Romania.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "București, Bucharest, Romania\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Manager, Growth Analytics at Bitpanda"
+      },
+      "receipts": {}
     }
   }
 }
