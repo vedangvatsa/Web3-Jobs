@@ -12574,22 +12574,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "4954b8be94596f23a77e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T09:58:06.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Decrypt Storm page and confirmed the Bitcoin Fog venue headline; Cointelegraph carries the companion acquittal-bid angle. Next: full-read both and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:56.179Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:28.495Z",
       "articleSlug": "storm-venue",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -12599,8 +12594,7 @@
       ],
       "retrySearches": [
         "Roman Storm Bitcoin Fog venue Cointelegraph draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "66d3e46c168fc07dc068": {
       "source": "Cointelegraph",
@@ -40030,6 +40024,13 @@
           "reviewedAt": "2026-10-10T03:47:26.877Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "4954b8be94596f23a77e": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:28.495Z"
         }
       },
       "baselineSlugs": [
