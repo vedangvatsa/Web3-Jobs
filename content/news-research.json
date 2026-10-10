@@ -22266,24 +22266,24 @@
       "id": "3e6c54727c05c87b7baf",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T11:57:47.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "BeInCrypto wallet-math warning page returned HTTP 403 to round 3; same AI-cryptography debate readable in Decrypt and Unchained versions. Next: re-open two readable outlets and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:57:59.221Z",
+      "reviewedAt": "2026-10-10T03:51:14.541Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "AI wallet math warning cryptographer two readable outlets draft"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "c95c0d7bc053ee036771": {
       "source": "Decrypt",
@@ -41569,6 +41569,21 @@
           "reviewedAt": "2026-10-10T03:51:12.826Z",
           "retrySearches": [
             "Zcash post-quantum transparent address signatures January plan developer confirmation"
+          ]
+        },
+        "3e6c54727c05c87b7baf": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:14.541Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
         }
       },
