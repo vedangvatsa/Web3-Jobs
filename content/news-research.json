@@ -22464,28 +22464,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8 FCDO sanctions package, Cryptomus TokenSpot designations and A7 network in Decrypt and gov.uk reads; hero self-hosted, gates pass.",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T16:50:01.460Z",
+      "reviewedAt": "2026-10-10T22:55:39.151Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Decrypt UK sanctions Cryptomus TokenSpot FCDO draft"
+        "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
       ],
       "articleSlug": "uk-sanctions",
       "lastValidationErrors": [
@@ -22502,7 +22498,8 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -44537,6 +44534,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:37.520Z",
+          "retrySearches": [
+            "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
+          ]
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:39.151Z",
           "retrySearches": [
             "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
           ]
