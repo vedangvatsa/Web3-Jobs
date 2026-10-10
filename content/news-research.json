@@ -24780,11 +24780,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f83e5b1709ca0afd2d9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T00:40:59.000Z",
-      "lastSeenAt": "2026-10-10T03:31:28.127Z"
+      "lastSeenAt": "2026-10-10T03:31:28.127Z",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T03:52:33.992Z",
+      "retrySearches": [
+        "Solana 200ms block speed Alpenglow upgrade activation evidence beyond speed claim"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "d2d7a1b55b78c7f15a05": {
       "source": "The Defiant",
@@ -42180,6 +42194,21 @@
           "reviewedAt": "2026-10-10T03:52:32.226Z",
           "retrySearches": [
             "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round terms and valuation"
+          ]
+        },
+        "4f83e5b1709ca0afd2d9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:33.992Z",
+          "retrySearches": [
+            "Solana 200ms block speed Alpenglow upgrade activation evidence beyond speed claim"
           ]
         }
       },
