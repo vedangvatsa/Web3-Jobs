@@ -18675,24 +18675,24 @@
       "id": "dd25110442b0f822a9d6",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T18:40:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CryptoSlate Europol migration-years headline; pairs with CoinDesk, Decrypt and Unchained versions. Next: full-read two and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/europol-urges-crypto-to-prepare-wallet-upgrades-now-warning-migration-could-take-years/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:27.089Z",
+      "reviewedAt": "2026-10-10T03:49:57.205Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Europol migration years two outlets draft"
+        "Europol quantum crypto wallets report recommendations and timelines for providers"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "f0783b73ca3eb4e55ba2": {
       "source": "Bitcoin Magazine",
@@ -40974,6 +40974,21 @@
           "reviewedAt": "2026-10-10T03:49:55.508Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "dd25110442b0f822a9d6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/europol-urges-crypto-to-prepare-wallet-upgrades-now-warning-migration-could-take-years/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:57.205Z",
+          "retrySearches": [
+            "Europol quantum crypto wallets report recommendations and timelines for providers"
+          ]
         }
       },
       "baselineSlugs": [
