@@ -13508,24 +13508,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "47cf80c8527a6cb00bc3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-10T18:59:32.000Z",
       "lastSeenAt": "2026-10-08T17:58:12.592Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Wells Fargo-Kraken talks headline; talks stories need two outlets. Next: find a Kraken, Payward or bank-side confirmation and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:12:06.864Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:46.726Z",
       "retrySearches": [
         "Wells Fargo Kraken Payward talks confirmation draft"
       ],
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "articleSlug": "wells-kraken",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
@@ -13533,8 +13528,7 @@
         "Draft has no ready review outcome: content/articles/securitize-korea.md",
         "Draft has no ready review outcome: content/articles/sky-rating.md",
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "54f3eed624c0da1f9f8b": {
       "source": "Decrypt",
@@ -40122,6 +40116,13 @@
             }
           ],
           "reviewedAt": "2026-10-10T03:47:45.164Z"
+        },
+        "47cf80c8527a6cb00bc3": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:46.726Z"
         }
       },
       "baselineSlugs": [
