@@ -25671,11 +25671,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "99fc7332526634ed7501",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T14:57:16.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 10 Papertrade 1000x launch and 85.3M predeposits in TokenPost and crypto.news reads; fixed two precision issues, hero self-hosted, gates pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.tokenpost.com/news/technology/29471",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/papertrade-plans-1000x-leverage-launch-85-3m-deposits/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T16:50:30.691Z",
+      "articleSlug": "papertrade",
+      "lastReviewedDay": "2026-10-10"
     },
     "09b72cc528a51c6e8237": {
       "source": "BeInCrypto",
@@ -43117,6 +43132,23 @@
           ],
           "reviewedAt": "2026-10-10T16:50:23.670Z",
           "articleSlug": "france-taxes"
+        },
+        "99fc7332526634ed7501": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 10 Papertrade 1000x launch and 85.3M predeposits in TokenPost and crypto.news reads; fixed two precision issues, hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.tokenpost.com/news/technology/29471",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/papertrade-plans-1000x-leverage-launch-85-3m-deposits/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:50:30.691Z",
+          "articleSlug": "papertrade"
         }
       },
       "baselineSlugs": [
