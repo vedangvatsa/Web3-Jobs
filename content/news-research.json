@@ -25345,11 +25345,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "560991e288df5e15cdac",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T03:50:48.000Z",
-      "lastSeenAt": "2026-10-10T10:01:42.244Z"
+      "lastSeenAt": "2026-10-10T10:01:42.244Z",
+      "reason": "needs-corroboration",
+      "note": "Defiant security piece on the 3.55M bridge-fund move via EIP-7702 returned HTTP 403; only a Gate aggregator flash of the Phalcon alert is visible, so the theft-or-claim reading lacks a second source.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T10:30:02.727Z",
+      "retrySearches": [
+        "Phalcon 3.55M unclaimed cross-chain funds EIP-7702 Tornado Cash address independent coverage beyond aggregators"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     }
   },
   "runs": {
@@ -42867,6 +42881,21 @@
           "reviewedAt": "2026-10-10T10:30:00.699Z",
           "retrySearches": [
             "Papertrade October 10 launch confirmation and pre-deposit total from a readable outlet or official announcement"
+          ]
+        },
+        "560991e288df5e15cdac": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Defiant security piece on the 3.55M bridge-fund move via EIP-7702 returned HTTP 403; only a Gate aggregator flash of the Phalcon alert is visible, so the theft-or-claim reading lacks a second source.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:30:02.727Z",
+          "retrySearches": [
+            "Phalcon 3.55M unclaimed cross-chain funds EIP-7702 Tornado Cash address independent coverage beyond aggregators"
           ]
         }
       },
