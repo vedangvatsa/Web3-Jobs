@@ -26409,32 +26409,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "201c9130ddb5ba609ce4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T12:21:43.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8-9 Starknet L1 consideration and 2027 quantum target in Starknet X posts plus full KuCoin and Phemex reads; drafted 650+ words with self-hosted hero, all links 200.",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
-        {
-          "url": "https://www.kucoin.com/news/flash/starknet-considers-breaking-away-from-ethereum-to-become-quantum-resistant-l1-by-2027",
-          "outcome": "read"
-        },
-        {
-          "url": "https://phemex.com/news/article/starkware-proposes-starknet-transition-to-independent-layer1-network-99417",
-          "outcome": "read"
-        },
-        {
-          "url": "https://x.com/Starknet/status/2108113391525204034",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T16:46:07.158Z",
+      "reviewedAt": "2026-10-10T22:56:25.899Z",
       "articleSlug": "starknet",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -26451,7 +26439,11 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "StarkWare Starknet L1 shift plan timeline second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "1e3baa68bfd62409bba8": {
       "source": "CryptoSlate",
@@ -45154,6 +45146,21 @@
           "reviewedAt": "2026-10-10T22:56:24.247Z",
           "retrySearches": [
             "Coinbase Texas shareholder suit dismissal ruling second outlet full reads"
+          ]
+        },
+        "201c9130ddb5ba609ce4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:25.899Z",
+          "retrySearches": [
+            "StarkWare Starknet L1 shift plan timeline second outlet full reads"
           ]
         }
       },
