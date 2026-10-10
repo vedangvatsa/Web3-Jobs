@@ -22661,27 +22661,23 @@
       "id": "0e1ee8d7a2e04ebe6b95",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T14:40:46.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 re-read CryptoSlate and Bitquery on 79AU Oct 7 drain with 14.35M figure, burned receipts bypass and residual pull rights; draft not yet written. Next: draft vault-drain with hero image.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://bitquery.io/investigations/79au-hack-pancakeswap-pool-drain",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:01:28.675Z",
+      "reviewedAt": "2026-10-10T03:51:28.062Z",
       "retrySearches": [
-        "79AU drain vault-drain draft hero image"
+        "14M crypto pool drain incident details attacker method and affected protocol"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "0c7af042fdbff4991543": {
       "source": "BeInCrypto",
@@ -41689,6 +41685,21 @@
           "reviewedAt": "2026-10-10T03:51:26.365Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "3e5484a682e6ed261c67"
+        },
+        "0e1ee8d7a2e04ebe6b95": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:51:28.062Z",
+          "retrySearches": [
+            "14M crypto pool drain incident details attacker method and affected protocol"
+          ]
         }
       },
       "baselineSlugs": [
