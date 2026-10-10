@@ -26891,11 +26891,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "14622e749bf8034cb861",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T17:15:58.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z"
+      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "reason": "source-blocked",
+      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:56:04.260Z",
+      "retrySearches": [
+        "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     }
   },
   "runs": {
@@ -44858,6 +44872,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:56:02.626Z",
+          "retrySearches": [
+            "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
+          ]
+        },
+        "14622e749bf8034cb861": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:56:04.260Z",
           "retrySearches": [
             "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
           ]
