@@ -23660,17 +23660,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c286bf006d9137b60702",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T13:43:35.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+      "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:51:56.287Z",
+      "reviewedAt": "2026-10-10T10:29:37.673Z",
       "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "74b8157eef0883dae91f": {
       "source": "Unchained",
@@ -42743,6 +42744,15 @@
           "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:29:35.609Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "c286bf006d9137b60702": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Ledger reseller-drain probe already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:29:37.673Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
         }
