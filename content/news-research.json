@@ -11508,22 +11508,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "b52931b86de777cd1461",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T22:01:02.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "source-blocked",
-      "note": "The Block Orca-Loopscale origin returned HTTP 403 to round 3; rounds 1-2 list PRNewswire, CryptoBriefing and Decrypt reads. Next: re-open the release plus one outlet and draft.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T14:11:22.021Z",
+      "reviewedAt": "2026-10-10T03:46:58.315Z",
       "articleSlug": "orca-merger",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -11533,8 +11533,7 @@
       ],
       "retrySearches": [
         "Orca Loopscale Formation PRNewswire draft merger terms"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "85911409ad9cf3216a4e": {
       "source": "Decrypt",
@@ -39948,6 +39947,18 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cryptoslate.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:46:56.518Z"
+        },
+        "b52931b86de777cd1461": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: only source(s) returned HTTP 403: www.theblock.co.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:46:58.315Z"
         }
       },
       "baselineSlugs": [
