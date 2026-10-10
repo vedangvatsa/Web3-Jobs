@@ -23556,24 +23556,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "496643e7a159131009a6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T16:08:23.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "verified-event",
-      "note": "Verified 141M High Court claim, FF and ESPORTS lock-ups, April-May talks in full Decrypt and CoinDesk reads; replaced blocked FT link, hero self-hosted, all links 200.",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T16:46:05.123Z",
+      "reviewedAt": "2026-10-10T22:55:42.389Z",
       "articleSlug": "dwf-bitgo",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -23590,7 +23586,11 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "f81abcaa78c20b29893e": {
       "source": "The Defiant",
@@ -44570,6 +44570,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:40.816Z",
+          "retrySearches": [
+            "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
+          ]
+        },
+        "496643e7a159131009a6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:42.389Z",
           "retrySearches": [
             "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
           ]
