@@ -13162,20 +13162,20 @@
       "id": "54d775eafeae3a222fce",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T00:35:24.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Cointelegraph-buyer headline with the Google-penalty detail; single outlet so far. Next: find a second outlet or company comment and draft.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:12:02.477Z",
+      "reviewedAt": "2026-10-10T03:47:41.862Z",
       "articleSlug": "mercury-sale",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -13184,9 +13184,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Cointelegraph buyer traffic second outlet draft"
+        "Cointelegraph sale process buyer search corroboration beyond single CoinDesk report"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "f7c27eb21fe1a04b0304": {
       "source": "BeInCrypto",
@@ -40080,6 +40080,21 @@
           "reviewedAt": "2026-10-10T03:47:40.231Z",
           "retrySearches": [
             "Cardano token freeze seize standard issuer controls with second outlet confirmation"
+          ]
+        },
+        "54d775eafeae3a222fce": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:41.862Z",
+          "retrySearches": [
+            "Cointelegraph sale process buyer search corroboration beyond single CoinDesk report"
           ]
         }
       },
