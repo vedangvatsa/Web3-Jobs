@@ -12263,26 +12263,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "975d9f51a02a30183717",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-10T14:27:37.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the CoinDesk Tether-Kazakhstan headline; pairs with the Decrypt version opened this run. Next: full-read both and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:39.642Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:20.109Z",
       "duplicateOf": "tether-kazakhstan",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Tether Kazakhstan CoinDesk Decrypt corroboration draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "d557a2418f1625e8f9f2": {
       "source": "Decrypt",
@@ -40013,6 +40007,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:18.457Z"
+        },
+        "975d9f51a02a30183717": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:20.109Z"
         }
       },
       "baselineSlugs": [
