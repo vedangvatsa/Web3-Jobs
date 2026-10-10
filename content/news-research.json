@@ -14258,26 +14258,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "f515f2d002b9fe1d6f3d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T10:49:16.000Z",
       "lastSeenAt": "2026-10-08T10:47:57.980Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage opened the Decrypt Europol page and confirmed the primary-risk headline; pairs with CoinDesk, Unchained and CryptoSlate versions. Next: full-read two and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:13:31.410Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:48:07.297Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Europol wallets primary risk two outlets draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "553b03e2edf69ed0e67a": {
       "source": "CoinDesk",
@@ -40204,6 +40198,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: www.coindesk.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:48:05.539Z"
+        },
+        "f515f2d002b9fe1d6f3d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: decrypt.co.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:07.297Z"
         }
       },
       "baselineSlugs": [
