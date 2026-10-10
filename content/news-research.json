@@ -17978,24 +17978,24 @@
       "id": "fa40fab3841719355019",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T15:10:30.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Defiant Veridian spinout page returned HTTP 403 to round 3; same spinout readable in CoinDesk version. Next: find a Cardano Foundation notice plus second outlet and draft veridian-spin.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T17:58:18.026Z",
+      "reviewedAt": "2026-10-10T03:49:40.701Z",
       "duplicateOf": "veridian-spin",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Veridian Cardano Foundation spinout tokenized shares notice draft"
+        "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "fe10153decb3c5a33060": {
       "source": "BeInCrypto",
@@ -40833,6 +40833,21 @@
           "reviewedAt": "2026-10-10T03:49:39.072Z",
           "retrySearches": [
             "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
+          ]
+        },
+        "fa40fab3841719355019": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:40.701Z",
+          "retrySearches": [
+            "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
           ]
         }
       },
