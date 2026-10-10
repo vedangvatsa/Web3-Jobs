@@ -23492,25 +23492,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f2ce0a54f4786cb8271f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T14:41:09.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "The Block Iran-linked seizure page returned HTTP 403 to round 3; existing iran-forfeiture may cover adjacent action. Next: find Bessent statement plus second outlet on 1B seizure target.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T17:58:45.882Z",
+      "reason": "duplicate",
+      "note": "Same Bessent $1B Iran-seizure claim already drafted as iran-seizure this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:51:51.258Z",
       "retrySearches": [
         "US 1B Iran-linked crypto seizure Bessent second outlet"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "duplicateOf": "iran-seizure",
+      "mergedInto": "2f33d3c76777e7ef334e"
     },
     "5deb2a6b2604410a90c7": {
       "source": "BeInCrypto",
@@ -41850,6 +41846,15 @@
           "reviewedAt": "2026-10-10T03:51:49.548Z",
           "duplicateOf": "ledger-drain",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "f2ce0a54f4786cb8271f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Bessent $1B Iran-seizure claim already drafted as iran-seizure this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:51:51.258Z",
+          "duplicateOf": "iran-seizure",
+          "mergedInto": "2f33d3c76777e7ef334e"
         }
       },
       "baselineSlugs": [
