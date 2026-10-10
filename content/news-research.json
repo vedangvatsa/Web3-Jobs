@@ -22889,25 +22889,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe698f27fac724e48c17",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T15:29:41.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "Defiant Tether Ledger-theft freeze page returned HTTP 403 to round 3; existing tether-freeze covers a different Conduit lawsuit freeze. Next: find MistTrack report plus second outlet on Ledger-linked freeze.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-09T17:58:34.717Z",
+      "reason": "duplicate",
+      "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:51:34.673Z",
       "retrySearches": [
         "Tether freeze Ledger user thefts MistTrack second outlet"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "duplicateOf": "ledger-drain",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "d6ebc8a19d31822069ab": {
       "source": "The Defiant",
@@ -41735,6 +41731,15 @@
           "retrySearches": [
             "AI internet domains crypto firms dot-bitcoin dot-wallet contest details"
           ]
+        },
+        "fe698f27fac724e48c17": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CryptoBilis wallet-drain event already drafted as ledger-drain this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:51:34.673Z",
+          "duplicateOf": "ledger-drain",
+          "mergedInto": "11f65ef62dae6e42495b"
         }
       },
       "baselineSlugs": [
