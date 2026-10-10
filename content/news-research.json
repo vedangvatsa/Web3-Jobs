@@ -21664,15 +21664,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "35543151e27a95014f9d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T10:11:51.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "duplicate",
-      "note": "Same Empire Market sentencing already covered in empire-market this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:50.864Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:32.652Z",
       "articleSlug": "empire-market",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -21681,9 +21686,10 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "Empire Market Hamilton 40-year NDIL draft empire-market"
+        "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
       ],
-      "duplicateOf": "empire-market"
+      "duplicateOf": "empire-market",
+      "nextReviewDate": "2026-10-11"
     },
     "032bb637cf94a2610025": {
       "source": "Unchained",
@@ -44453,6 +44459,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:30.968Z",
+          "retrySearches": [
+            "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
+          ]
+        },
+        "35543151e27a95014f9d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:32.652Z",
           "retrySearches": [
             "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
           ]
