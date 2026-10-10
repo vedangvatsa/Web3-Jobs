@@ -1032,7 +1032,7 @@
     "sentAt": "2026-10-09T19:53:51.328Z"
   },
   "e2846bb9-f3ed-406f-a340-fa4eb4075062": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-10T04:20:28.767Z",
     "stories": [
       {
@@ -1060,6 +1060,8 @@
         "originalTitle": "OKX raises fresh capital at $25B valuation from Circle, Ripple, SC Ventures and QRT"
       }
     ],
-    "slotKey": "2026-10-10:morning"
+    "slotKey": "2026-10-10:morning",
+    "messageId": 155707,
+    "sentAt": "2026-10-10T04:20:31.184Z"
   }
 }

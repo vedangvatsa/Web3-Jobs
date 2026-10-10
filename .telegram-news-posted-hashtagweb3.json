@@ -701,6 +701,9 @@
   "https://hashtagweb3.com/fairshake-house?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/fincen-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/safe-complaint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hong-kong?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okx-money?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okx-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2011,6 +2014,12 @@
   "FinCEN Withdraws Unhosted Wallet and Mixer Reporting Proposals",
   "Greenfield Capital Files Complaint Against Safe Foundation Board",
   "Greenfield Asks Swiss Watchdog to Review Safe Foundation Governance",
+  "Hong Kong Plans Licensing Bill for Crypto Services",
+  "Hong Kong Plans 2026 Bill for Four Virtual Asset Licenses",
+  "OKX launches Money app for stablecoin savings and card spending",
+  "OKX launches Money app with 10 percent USDG yield and stablecoin spending",
+  "OKX raises funding from Circle and Ripple at $25B valuation",
+  "OKX raises fresh capital at $25B valuation from Circle, Ripple, SC Ventures and QRT",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2262,5 +2271,8 @@
   "fp:all|atomic|blockchain|demonstration|economic|layer|link|main|mainnet|noth",
   "fp:act|action|and13|back|backs32|clarity|committe|democrat|fairshak|for32",
   "fp:agency|and2023|cancel|draft|feedback|fincen|its2020|mixer|propos|proposal",
-  "fp:against|ask|board|capital|complaint|fil|firm|follow|foundation|governanc"
+  "fp:against|ask|board|capital|complaint|fil|firm|follow|foundation|governanc",
+  "fp:advisory|asset|bill|cover|custody|four|hong|kong|legislation|licens",
+  "fp:app|application|card|debit|dedicat|money|offers10|okx|payment|percent",
+  "fp:25b|also|beyond|capital|circl|cor|exchang|expand|firm|fresh"
 ]
