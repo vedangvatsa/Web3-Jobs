@@ -20780,13 +20780,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "33d2532cea35902b8372",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T09:20:16.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "verified-event",
-      "note": "Verified 40-year Hamilton sentence and 1,230 BTC forfeiture in CoinDesk and Decrypt reads: 430M market, drug weights, Pavey 1,584 BTC pending sentence.",
+      "note": "Verified 40-year Hamilton sentence and 1,230 BTC forfeiture in CoinDesk and Decrypt reads; fixed one unsourced tracing line, hero self-hosted, gates pass.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
@@ -20797,7 +20797,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T12:02:21.405Z",
+      "reviewedAt": "2026-10-10T16:49:59.334Z",
       "duplicateOf": "empire-market",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
@@ -42943,6 +42943,23 @@
           ],
           "reviewedAt": "2026-10-10T16:49:52.602Z",
           "articleSlug": "thailand-etfs"
+        },
+        "33d2532cea35902b8372": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified 40-year Hamilton sentence and 1,230 BTC forfeiture in CoinDesk and Decrypt reads; fixed one unsourced tracing line, hero self-hosted, gates pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T16:49:59.334Z",
+          "articleSlug": "empire-market"
         }
       },
       "baselineSlugs": [
