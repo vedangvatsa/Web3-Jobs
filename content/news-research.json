@@ -18558,23 +18558,23 @@
       "id": "49e46f3fdd2e63839617",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T11:36:25.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "needs-corroboration",
-      "note": "NUVA mortgage credit launch seen only in single outlet; needs company release plus second outlet with terms.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T04:18:50.766Z",
+      "reviewedAt": "2026-10-10T03:49:52.294Z",
       "retrySearches": [
-        "NUVA residential mortgage credit offshore investors launch"
+        "NUVA residential mortgage credit offshore offering structure and launch date"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "c8a36242c9ff08804857": {
       "source": "BeInCrypto",
@@ -40938,6 +40938,21 @@
           "reviewedAt": "2026-10-10T03:49:50.629Z",
           "retrySearches": [
             "Uranium Finance hacker conviction details court records and stolen amount accounting"
+          ]
+        },
+        "49e46f3fdd2e63839617": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:52.294Z",
+          "retrySearches": [
+            "NUVA residential mortgage credit offshore offering structure and launch date"
           ]
         }
       },
