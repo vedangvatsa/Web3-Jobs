@@ -16849,17 +16849,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "ae47f8ab88a2c7848349",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T16:50:59.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
       "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:49:12.057Z",
+      "reviewedAt": "2026-10-10T10:28:24.958Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "e33a650c55f3e7ab383a": {
       "source": "Decrypt",
@@ -42433,6 +42434,15 @@
           "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T10:28:22.976Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "ae47f8ab88a2c7848349": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same US government seized-crypto movement covered in bitfinex-move this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:28:24.958Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
