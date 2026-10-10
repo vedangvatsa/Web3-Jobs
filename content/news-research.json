@@ -20725,21 +20725,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same Thai SEC ETF-rules event already drafted as thailand-etfs this run; no separate development.",
+      "note": "Same Thai SEC ETF-rules event already covered in thailand-etfs this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T12:03:46.798Z",
+      "reviewedAt": "2026-10-10T16:51:37.780Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ],
-      "duplicateOf": "thailand-etfs"
+      "duplicateOf": "thailand-etfs",
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "6eb78273ce6d69ab8f6b": {
       "source": "Cointelegraph",
@@ -43359,6 +43360,15 @@
           "note": "Same Thai SEC ETF-rules event already covered in thailand-etfs this run; no separate development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:51:35.880Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thai SEC ETF-rules event already covered in thailand-etfs this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:51:37.780Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
         }
