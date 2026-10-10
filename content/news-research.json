@@ -24885,11 +24885,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "74519b6c7c74b6d87aef",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-12T23:30:53.000Z",
-      "lastSeenAt": "2026-10-10T03:31:28.127Z"
+      "lastSeenAt": "2026-10-10T03:31:28.127Z",
+      "reason": "needs-corroboration",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T03:52:39.141Z",
+      "retrySearches": [
+        "THORChain Tether 1.4M TRON vault freeze claims with THORChain and Tether responses"
+      ],
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "0721db32299c4fabf108": {
       "source": "CoinDesk",
@@ -42267,6 +42281,21 @@
           "reviewedAt": "2026-10-10T03:52:37.416Z",
           "retrySearches": [
             "DOJ Binance investigation follow-up claims with official statements beyond speculation"
+          ]
+        },
+        "74519b6c7c74b6d87aef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:52:39.141Z",
+          "retrySearches": [
+            "THORChain Tether 1.4M TRON vault freeze claims with THORChain and Tether responses"
           ]
         }
       },
