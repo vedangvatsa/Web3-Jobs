@@ -19010,28 +19010,24 @@
       "id": "4fabdda2459903e8146b",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T18:39:39.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Bitcoin Magazine Greece tax page fetched HTTP 200 but round 3 did not complete a full re-read; Decrypt and CoinDesk accounts re-read with matching figures. Next: full-read this plus Reuters and draft greece-tax.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-          "outcome": "read"
+          "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T18:00:40.340Z",
+      "reviewedAt": "2026-10-10T03:50:07.061Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Bitcoin Magazine Greece tax full read Reuters draft"
+        "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "78edccd870113509675c": {
       "source": "The Defiant",
@@ -41059,6 +41055,21 @@
           "reviewedAt": "2026-10-10T03:50:05.433Z",
           "duplicateOf": "nfl-kalshi",
           "mergedInto": "634e1516faeb608c8daa"
+        },
+        "4fabdda2459903e8146b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:50:07.061Z",
+          "retrySearches": [
+            "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
+          ]
         }
       },
       "baselineSlugs": [
