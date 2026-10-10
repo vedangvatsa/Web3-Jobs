@@ -12524,13 +12524,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "e04537f91ce4996c0500",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-10T10:04:35.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "verified-event",
-      "note": "Verified the Oct 7 5M buy in full CoinDesk, Unchained and Bitcoin Magazine reads: Kerbrat remarks, 294 BTC math, first proprietary holding, customer-custody contrast, Chain and perps context.",
+      "note": "Verified Oct 7 25M buy in full CoinDesk, Unchained and Bitcoin Magazine reads: Kerbrat DAS Asia remarks, 294 BTC estimate, first proprietary holding, custody contrast, Chain and perps context.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
@@ -12545,7 +12545,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T04:08:32.221Z",
+      "reviewedAt": "2026-10-10T10:27:33.634Z",
       "articleSlug": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
@@ -42152,6 +42152,27 @@
           ],
           "reviewedAt": "2026-10-10T10:27:31.584Z",
           "articleSlug": "bitfinex-move"
+        },
+        "e04537f91ce4996c0500": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 7 25M buy in full CoinDesk, Unchained and Bitcoin Magazine reads: Kerbrat DAS Asia remarks, 294 BTC estimate, first proprietary holding, custody contrast, Chain and perps context.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/robinhood-puts-25-million-of-bitcoin-on-its-balance-sheet-executive-says/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T10:27:33.634Z",
+          "articleSlug": "robinhood-bitcoin"
         }
       },
       "baselineSlugs": [
