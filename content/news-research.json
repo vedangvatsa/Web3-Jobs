@@ -18928,17 +18928,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4de505ce74bf43d697e4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T19:17:18.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "duplicate",
-      "note": "Same NFL Oct 8 SCOTUS amicus backing NJ review covered by nfl-kalshi.",
+      "note": "Same NFL amicus-brief event already drafted as nfl-kalshi this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:39:50.424Z",
+      "reviewedAt": "2026-10-10T03:50:05.433Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "634e1516faeb608c8daa"
     },
     "d416de44a67384b9ce55": {
       "source": "The Block",
@@ -41049,6 +41050,15 @@
           "retrySearches": [
             "Aave December AUSD PT Monad listing terms with governance proposal"
           ]
+        },
+        "4de505ce74bf43d697e4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NFL amicus-brief event already drafted as nfl-kalshi this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:50:05.433Z",
+          "duplicateOf": "nfl-kalshi",
+          "mergedInto": "634e1516faeb608c8daa"
         }
       },
       "baselineSlugs": [
