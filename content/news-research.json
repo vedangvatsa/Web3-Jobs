@@ -13257,24 +13257,24 @@
       "id": "47e63912212162135693",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T00:04:32.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "needs-corroboration",
-      "note": "Cointelegraph bunker-mode page fetched HTTP 200 but round 3 did not complete a full re-read; corroborating Block and Defiant versions returned 403. Next: full-read this plus Decrypt and draft bunker-mode.",
+      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-          "outcome": "blocked"
+          "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T17:59:11.422Z",
+      "reviewedAt": "2026-10-10T03:47:43.507Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
-        "Buterin bunker mode Cointelegraph Decrypt full read draft"
+        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "ab8cef483299638b534a": {
       "source": "BeInCrypto",
@@ -40095,6 +40095,21 @@
           "reviewedAt": "2026-10-10T03:47:41.862Z",
           "retrySearches": [
             "Cointelegraph sale process buyer search corroboration beyond single CoinDesk report"
+          ]
+        },
+        "47e63912212162135693": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:47:43.507Z",
+          "retrySearches": [
+            "Drake bunker mode Buterin response full statements with dates and exact recommendations"
           ]
         }
       },
