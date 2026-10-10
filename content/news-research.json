@@ -15896,17 +15896,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "bb706419d66dbccbac9d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-11T07:24:03.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "duplicate",
-      "note": "Same Samsung Oct 7 USDC late-October launch for 82M devices covered by samsung-usdc.",
+      "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-09T23:39:34.098Z",
+      "reviewedAt": "2026-10-10T03:48:53.907Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-09"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "4d0c341e251b419b5c56"
     },
     "abf560930f1f7e557115": {
       "source": "BeInCrypto",
@@ -40454,6 +40455,15 @@
           "retrySearches": [
             "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
           ]
+        },
+        "bb706419d66dbccbac9d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Samsung Wallet USDC launch already drafted as samsung-usdc this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:48:53.907Z",
+          "duplicateOf": "samsung-usdc",
+          "mergedInto": "4d0c341e251b419b5c56"
         }
       },
       "baselineSlugs": [
