@@ -1937,11 +1937,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Senior Data Analyst at Solflare\n\nZagreb, Croatia\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
           "startedAt": "2026-10-10T03:31:00.833Z",
           "containerId": "17916990540461009",
-          "postId": "18342276310258944"
+          "postId": "18342276310258944",
+          "url": "https://www.instagram.com/reel/DeTH5duCUNz/"
         }
       }
     },
