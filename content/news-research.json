@@ -11622,20 +11622,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7d69f046dbb94aa723d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-10T20:46:56.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
       "reason": "duplicate",
-      "note": "Same Robinhood $25M bitcoin buy already drafted as robinhood-bitcoin this run; no separate development.",
+      "note": "Same Robinhood 25M bitcoin buy already drafted as robinhood-bitcoin this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T03:47:03.391Z",
+      "reviewedAt": "2026-10-10T10:28:35.299Z",
       "duplicateOf": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Robinhood 25M bitcoin Kerbrat DAS Asia two readable outlets draft"
-      ]
+      ],
+      "mergedInto": "e04537f91ce4996c0500"
     },
     "5e3509b7c11a0d8b4664": {
       "source": "The Defiant",
@@ -42485,6 +42486,15 @@
           "reviewedAt": "2026-10-10T10:28:33.317Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "f7d69f046dbb94aa723d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Robinhood 25M bitcoin buy already drafted as robinhood-bitcoin this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T10:28:35.299Z",
+          "duplicateOf": "robinhood-bitcoin",
+          "mergedInto": "e04537f91ce4996c0500"
         }
       },
       "baselineSlugs": [
