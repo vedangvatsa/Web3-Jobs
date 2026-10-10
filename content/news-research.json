@@ -12008,26 +12008,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c65ec88a9d5f318eeff",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-10T16:14:51.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Bitcoin Magazine Sberbank custody headline; pairs with the Cointelegraph first-register piece. Next: full-read both and draft.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-09T14:11:30.663Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: bitcoinmagazine.com.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T03:47:13.451Z",
       "duplicateOf": "sberbank-register",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Sberbank custody Bank of Russia register draft"
-      ],
-      "nextReviewDate": "2026-10-10"
+      ]
     },
     "ba0c708aa9eb48adefba": {
       "source": "Bitcoin Magazine",
@@ -39999,6 +39993,13 @@
           "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: cointelegraph.com.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T03:47:11.571Z"
+        },
+        "8c65ec88a9d5f318eeff": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: openable outlet(s) never fully read: bitcoinmagazine.com.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T03:47:13.451Z"
         }
       },
       "baselineSlugs": [
