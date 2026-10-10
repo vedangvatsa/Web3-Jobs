@@ -25376,11 +25376,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "bfdcf2a124d974d86bcf",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T11:44:28.715Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T11:00:00.000Z",
-      "lastSeenAt": "2026-10-10T11:44:28.715Z"
+      "lastSeenAt": "2026-10-10T11:44:28.715Z",
+      "reason": "opinion",
+      "note": "Read the full CoinDesk piece: anniversary analysis of the Oct 10 2025 crash with analyst commentary, no new concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T11:45:29.632Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "2b09eeac3b32962b2bf0": {
       "source": "The Defiant",
@@ -42290,6 +42300,18 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T11:44:28.715Z",
           "automatic": true
+        },
+        "bfdcf2a124d974d86bcf": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read the full CoinDesk piece: anniversary analysis of the Oct 10 2025 crash with analyst commentary, no new concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T11:45:29.632Z"
         }
       },
       "baselineSlugs": [
