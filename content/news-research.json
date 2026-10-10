@@ -17746,20 +17746,24 @@
       "id": "0bd3fb37178624c073b0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T15:46:05.000Z",
       "lastSeenAt": "2026-10-09T19:31:17.507Z",
       "reason": "needs-corroboration",
-      "note": "Round 3 triage confirmed the Bitcoin Magazine StanChart headline; pairs with CoinDesk and Cointelegraph versions. Next: full-read two and draft.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io; HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-plans-digital-asset-custody-in-singapore",
+          "outcome": "blocked"
+        },
+        {
           "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-09T14:14:05.964Z",
+      "reviewedAt": "2026-10-10T03:49:35.551Z",
       "articleSlug": "stanchart-custody",
-      "lastReviewedDay": "2026-10-09",
+      "lastReviewedDay": "2026-10-10",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -17773,9 +17777,9 @@
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
       "retrySearches": [
-        "Standard Chartered custody Bitcoin Magazine draft"
+        "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
       ],
-      "nextReviewDate": "2026-10-10"
+      "nextReviewDate": "2026-10-11"
     },
     "4771b52b3d346e08e888": {
       "source": "The Defiant",
@@ -40780,6 +40784,25 @@
           "reviewedAt": "2026-10-10T03:49:33.936Z",
           "retrySearches": [
             "Bitcoin.de MiCA rejection BaFin decision details and trading halt status"
+          ]
+        },
+        "0bd3fb37178624c073b0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io; HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-plans-digital-asset-custody-in-singapore",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:35.551Z",
+          "retrySearches": [
+            "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
           ]
         }
       },
