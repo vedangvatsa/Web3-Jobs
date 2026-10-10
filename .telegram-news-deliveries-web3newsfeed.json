@@ -1065,7 +1065,7 @@
     "sentAt": "2026-10-09T19:53:35.671Z"
   },
   "303a5f67-42a3-467a-984c-50fab1cea971": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-10T04:21:25.590Z",
     "stories": [
       {
@@ -1093,6 +1093,8 @@
         "originalTitle": "Polymarket Rebuilds Core Contracts With Protocol V2"
       }
     ],
-    "slotKey": "2026-10-10:morning"
+    "slotKey": "2026-10-10:morning",
+    "messageId": 65740,
+    "sentAt": "2026-10-10T04:21:28.589Z"
   }
 }

@@ -728,6 +728,9 @@
   "https://hashtagweb3.com/fairshake-house?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/fincen-withdrawal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/safe-complaint?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okx-money?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okx-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/polymarket-v2?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2086,6 +2089,12 @@
   "FinCEN Withdraws Unhosted Wallet and Mixer Reporting Proposals",
   "Greenfield asks Swiss regulator to review Safe Foundation governance",
   "Greenfield Asks Swiss Watchdog to Review Safe Foundation Governance",
+  "OKX Launches Money App for Stablecoin Savings and Spending",
+  "OKX launches Money app with 10 percent USDG yield and stablecoin spending",
+  "OKX raises capital from Circle and Ripple at $25B valuation",
+  "OKX raises fresh capital at $25B valuation from Circle, Ripple, SC Ventures and QRT",
+  "Polymarket Updates Core Infrastructure to Protocol V2",
+  "Polymarket Rebuilds Core Contracts With Protocol V2",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2343,5 +2352,8 @@
   "fp:all|and6|atomic|complet|demonstration|economic|layer1|layer2|link|mainnet",
   "fp:allocat|and13|backs32|democrat|dollar|each|fairshak|fund19|hous|incumbent",
   "fp:agency|and2023|cancel|draft|feedback|fincen|mixer|proposal|public|regulatory",
-  "fp:against|ask|board|capital|complaint|discussion|ecosystem|fil|follow|foundation"
+  "fp:against|ask|board|capital|complaint|discussion|ecosystem|fil|follow|foundation",
+  "fp:app|application|card|earn|enabl|interest|money|okx|pay|percent",
+  "fp:25b|beyond|business|capital|circl|cor|exchang|expand|firm|fresh",
+  "fp:begin|contract|cor|erc1155|infrastructur|introduc|market|migrat|november2|polymarket"
 ]
