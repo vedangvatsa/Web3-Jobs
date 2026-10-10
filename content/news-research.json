@@ -25112,17 +25112,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "76b8464225483b76a3b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T06:33:43.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same XRPL overflow disclosure already drafted as xrpl-overflow this run; no separate development.",
+      "note": "Same XRP Ledger overflow bug already drafted as xrpl-overflow this run; no separate development.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-10T10:29:52.338Z",
+      "reviewedAt": "2026-10-10T12:05:51.501Z",
       "duplicateOf": "xrpl-overflow",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "mergedInto": "1a5192e7fa4323c2dc45"
     },
     "880338fce6d286827ad4": {
       "source": "CoinDesk",
@@ -43035,6 +43036,15 @@
           "reviewedAt": "2026-10-10T12:05:49.408Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "76b8464225483b76a3b9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same XRP Ledger overflow bug already drafted as xrpl-overflow this run; no separate development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T12:05:51.501Z",
+          "duplicateOf": "xrpl-overflow",
+          "mergedInto": "1a5192e7fa4323c2dc45"
         }
       },
       "baselineSlugs": [
