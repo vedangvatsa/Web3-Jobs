@@ -12326,20 +12326,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "6fdc2a0451102e6067f0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-10T12:16:58.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "duplicate",
-      "note": "Same Robinhood 25M bitcoin buy already drafted as robinhood-bitcoin this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T10:28:37.345Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 7 Kerbrat disclosure in Bitcoin Magazine and CoinDesk reads: 25M first proprietary BTC holding, DAS Asia Starting Block interview, 100B scale quote, custody and treasury context.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-10T12:02:51.386Z",
       "duplicateOf": "robinhood-bitcoin",
       "lastReviewedDay": "2026-10-10",
       "retrySearches": [
         "Robinhood bitcoin balance sheet Bitcoin Magazine full read draft"
-      ]
+      ],
+      "articleSlug": "robinhood-bitcoin"
     },
     "5ff173456b73cda92633": {
       "source": "CoinDesk",
@@ -42558,6 +42568,23 @@
           ],
           "reviewedAt": "2026-10-10T12:02:49.406Z",
           "articleSlug": "xrpl-overflow"
+        },
+        "6fdc2a0451102e6067f0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 7 Kerbrat disclosure in Bitcoin Magazine and CoinDesk reads: 25M first proprietary BTC holding, DAS Asia Starting Block interview, 100B scale quote, custody and treasury context.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-10T12:02:51.386Z",
+          "articleSlug": "robinhood-bitcoin"
         }
       },
       "baselineSlugs": [
