@@ -17798,23 +17798,23 @@
       "id": "4771b52b3d346e08e888",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T15:38:13.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Astroport governance exit seen only in blocked origin; needs governance post or second outlet with vote details.",
+      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-09T04:18:38.636Z",
+      "reviewedAt": "2026-10-10T03:49:37.305Z",
       "retrySearches": [
-        "Astroport ends tokenholder governance Neutron Terra"
+        "Astroport Neutron Terra governance shutdown proposal text and migration plan"
       ],
-      "lastReviewedDay": "2026-10-09",
-      "nextReviewDate": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "nextReviewDate": "2026-10-11"
     },
     "1314591f25f6d81bbe78": {
       "source": "The Defiant",
@@ -40803,6 +40803,21 @@
           "reviewedAt": "2026-10-10T03:49:35.551Z",
           "retrySearches": [
             "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
+          ]
+        },
+        "4771b52b3d346e08e888": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-10T03:49:37.305Z",
+          "retrySearches": [
+            "Astroport Neutron Terra governance shutdown proposal text and migration plan"
           ]
         }
       },
