@@ -19087,17 +19087,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "4de505ce74bf43d697e4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-11T19:17:18.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "duplicate",
-      "note": "Same NFL amicus-brief event already covered in nfl-kalshi this run; no separate development.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-10T16:51:33.892Z",
+      "reason": "needs-corroboration",
+      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-10T22:55:22.432Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-10",
+      "retrySearches": [
+        "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+      ],
+      "nextReviewDate": "2026-10-11"
     },
     "d416de44a67384b9ce55": {
       "source": "The Block",
@@ -44330,6 +44339,21 @@
             }
           ],
           "reviewedAt": "2026-10-10T22:55:20.710Z",
+          "retrySearches": [
+            "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+          ]
+        },
+        "4de505ce74bf43d697e4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-10T22:55:22.432Z",
           "retrySearches": [
             "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
           ]
