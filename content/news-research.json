@@ -25696,11 +25696,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "bab1ea32ded10e69dd54",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T12:00:00.000Z",
-      "lastSeenAt": "2026-10-10T16:20:04.785Z"
+      "lastSeenAt": "2026-10-10T16:20:04.785Z",
+      "reason": "not-a-concrete-event",
+      "note": "One-year anniversary retrospective on flash-crash liquidity; analysis of past events, not fresh news.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-10T16:52:59.719Z",
+      "lastReviewedDay": "2026-10-10"
     },
     "a9cf05f7f2dc46a2ad6e": {
       "source": "Decrypt",
@@ -43683,6 +43688,13 @@
           "note": "Explainer on Luxor mining-yield mechanics and miner credit risk; product analysis, not a dated event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-10T16:52:54.113Z"
+        },
+        "bab1ea32ded10e69dd54": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "One-year anniversary retrospective on flash-crash liquidity; analysis of past events, not fresh news.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-10T16:52:59.719Z"
         }
       },
       "baselineSlugs": [
