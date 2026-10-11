@@ -26886,29 +26886,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c04e420dce52fc1475ed",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T10:22:44.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "verified-event",
-      "note": "Verified Oct 11 Coldcard phishing link on official X account, deleted post, platform-level probe requested; read Cointelegraph, crypto.news and CryptoDaily in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "Coldcard Oct 11 X-account phishing probe verified across Cointelegraph and CryptoBriefing full reads. Drafted 600+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
           "outcome": "read"
         },
         {
-          "url": "https://crypto.news/coldcard-warns-bitcoin-users-about-phishing-scam-on-x/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptodaily.co.uk/2026/10/coldcard-x-account-phishing-link",
+          "url": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T11:58:05.410Z",
-      "articleSlug": "coldcard-phishing",
+      "reviewedAt": "2026-10-11T18:16:11.307Z",
+      "articleSlug": "coldcard-phish",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
@@ -48969,6 +48965,23 @@
           ],
           "reviewedAt": "2026-10-11T18:16:09.193Z",
           "articleSlug": "xrpl-overflow"
+        },
+        "c04e420dce52fc1475ed": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Coldcard Oct 11 X-account phishing probe verified across Cointelegraph and CryptoBriefing full reads. Drafted 600+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:11.307Z",
+          "articleSlug": "coldcard-phish"
         }
       },
       "baselineSlugs": [
