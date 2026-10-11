@@ -26999,11 +26999,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e80feea411621e342fab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T10:48:08.000Z",
-      "lastSeenAt": "2026-10-11T11:31:24.998Z"
+      "lastSeenAt": "2026-10-11T11:31:24.998Z",
+      "reason": "opinion",
+      "note": "Who-owns-bitcoin synthesis of Bitbo/River dashboards with no vote, filing, launch or ruling in 72h. Explainer and analysis, not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:25.849Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "072632a0aec350c61b59": {
       "source": "CryptoSlate",
@@ -47767,6 +47772,13 @@
           "note": "Oct 7 SDNY Uranium Finance conviction coverage published Oct 8; 72-hour window closed Oct 11 11:37 UTC before round 1 could draft. Event is NFL (no fresh development today); do not present as current.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:38:24.178Z"
+        },
+        "e80feea411621e342fab": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Who-owns-bitcoin synthesis of Bitbo/River dashboards with no vote, filing, launch or ruling in 72h. Explainer and analysis, not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:25.849Z"
         }
       },
       "baselineSlugs": [
