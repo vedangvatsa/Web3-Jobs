@@ -18019,24 +18019,24 @@
       "id": "fa40fab3841719355019",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T15:10:30.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "note": "Veridian spinout story sole listed source blocked HTTP 403; Cardano Foundation primary outstanding.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:40.701Z",
+      "reviewedAt": "2026-10-11T10:26:38.963Z",
       "duplicateOf": "veridian-spin",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
+        "Cardano Foundation Veridian spinout tokenized equity announcement"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "fe10153decb3c5a33060": {
       "source": "BeInCrypto",
@@ -47189,6 +47189,21 @@
           "reviewedAt": "2026-10-11T10:26:37.380Z",
           "retrySearches": [
             "ESMA unauthorized stablecoins three months remove statement October 2026"
+          ]
+        },
+        "fa40fab3841719355019": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Veridian spinout story sole listed source blocked HTTP 403; Cardano Foundation primary outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:38.963Z",
+          "retrySearches": [
+            "Cardano Foundation Veridian spinout tokenized equity announcement"
           ]
         }
       },
