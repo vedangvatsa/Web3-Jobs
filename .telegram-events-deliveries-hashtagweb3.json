@@ -1542,5 +1542,49 @@
     "slotKey": "2026-10-11:afternoon",
     "messageId": 155715,
     "sentAt": "2026-10-11T12:00:19.768Z"
+  },
+  "444c2eb8-dd81-428c-a178-0ad334ea22ec": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T19:47:12.247Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtycWrx5n01IFcf",
+        "slug": "2nrn1c75",
+        "name": "Bitcoin & Brews Port Moody",
+        "startDate": "2026-10-14T02:00:00.000Z",
+        "keys": [
+          "luma-batch-evtycwrx5n01ifcf",
+          "page:2nrn1c75:2026-10-13",
+          "luma:evt-ycwrx5n01ifcfsp",
+          "luma-url:/2nrn1c75",
+          "event:bitcoinbrewsportmoody:2026-10-13:port moody"
+        ]
+      },
+      {
+        "id": "premier-coinalts-2026",
+        "slug": "coinalts",
+        "name": "CoinAlts 2026",
+        "startDate": "2026-10-14T09:00:00-07:00",
+        "keys": [
+          "premier-coinalts-2026",
+          "page:coinalts:2026-10-14",
+          "event:coinalts2026:2026-10-14:san francisco"
+        ]
+      },
+      {
+        "id": "premier-africabcfest",
+        "slug": "africa",
+        "name": "Africa Blockchain Festival 2026",
+        "startDate": "2026-10-15",
+        "keys": [
+          "premier-africabcfest",
+          "page:africa:2026-10-15",
+          "event:africablockchainfestival2026:2026-10-15:nairobi"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-11:evening"
   }
 }
