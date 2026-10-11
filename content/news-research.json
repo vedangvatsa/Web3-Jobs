@@ -27366,11 +27366,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "46d351197e9ec0b295ff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T13:00:03.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "not-a-concrete-event",
+      "note": "Zcash quantum-key plans explainer; roadmap discussion with no vote, launch or filing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:16.507Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "86517e92f3334ea522ea": {
       "source": "CoinDesk",
@@ -49655,6 +49660,13 @@
           "note": "After-hours stock pricing explainer; question headline with no dated event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:14.419Z"
+        },
+        "46d351197e9ec0b295ff": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Zcash quantum-key plans explainer; roadmap discussion with no vote, launch or filing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:16.507Z"
         }
       },
       "baselineSlugs": [
