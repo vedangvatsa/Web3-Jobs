@@ -23180,25 +23180,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c75de1b0ee258c6aa12c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T17:02:47.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger CryptoBilis probe as the ready draft; Cointelegraph version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:25:07.655Z",
+      "note": "Same Oct 9 Ledger CryptoBilis probe as cryptobilis-drains; Cointelegraph version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:57:22.560Z",
       "duplicateOf": "cryptobilis-drains",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "4a6fbb06563317d68be1": {
       "source": "Bitcoin Magazine",
@@ -48090,6 +48086,15 @@
             }
           ],
           "reviewedAt": "2026-10-11T11:57:18.553Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "c75de1b0ee258c6aa12c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger CryptoBilis probe as cryptobilis-drains; Cointelegraph version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:57:22.560Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
