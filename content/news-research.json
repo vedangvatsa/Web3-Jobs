@@ -25380,30 +25380,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "76b8464225483b76a3b9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-13T06:33:43.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "duplicate",
-      "note": "Same XRP Ledger overflow disclosure drafted as xrp-bug; BeInCrypto page returned HTTP 403, event verified in xrpl.org, CoinDesk and Bitcoin.com reads.",
+      "reason": "source-blocked",
+      "note": "XRP decade-bug story origin blocked; same overflow event as the companion lead, draft once if pursued.",
       "sourceChecks": [
-        {
-          "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-          "outcome": "read"
-        },
         {
           "url": "https://beincrypto.com/xrp-ledger-bug-create-xrp-fixed/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:53:43.623Z",
+      "reviewedAt": "2026-10-11T10:28:31.782Z",
       "duplicateOf": "xrp-bug",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-11",
+      "retrySearches": [
+        "xrpl.org vulnerability disclosure 3.4.1 overflow September 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "880338fce6d286827ad4": {
       "source": "CoinDesk",
@@ -48183,6 +48179,21 @@
           "reviewedAt": "2026-10-11T10:28:30.110Z",
           "retrySearches": [
             "Papertrade HyperEVM launch October 10 1000x leverage deposits Bankless"
+          ]
+        },
+        "76b8464225483b76a3b9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "XRP decade-bug story origin blocked; same overflow event as the companion lead, draft once if pursued.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/xrp-ledger-bug-create-xrp-fixed/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:31.782Z",
+          "retrySearches": [
+            "xrpl.org vulnerability disclosure 3.4.1 overflow September 2026"
           ]
         }
       },
