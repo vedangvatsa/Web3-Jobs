@@ -17607,24 +17607,24 @@
       "id": "6e9948d74caa61550c47",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 13,
+      "attempts": 14,
       "expiresAt": "2026-10-11T17:46:44.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "note": "Bankless NFL prediction-markets piece read (amicus brief filed, circuit split); SCOTUS docket primary not pulled.",
       "sourceChecks": [
         {
           "url": "https://www.bankless.com/read/nfl-joins-states-in-fight-against-prediction-markets",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:17.325Z",
+      "reviewedAt": "2026-10-11T10:26:30.622Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+        "Supreme Court Kalshi New Jersey amicus NFL docket cert petition"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "817d26b99c3d48e348ee": {
       "source": "The Block",
@@ -47118,6 +47118,21 @@
           "reviewedAt": "2026-10-11T10:26:28.898Z",
           "retrySearches": [
             "Decrypt Money Accounts Solana Information Exchange independent coverage"
+          ]
+        },
+        "6e9948d74caa61550c47": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Bankless NFL prediction-markets piece read (amicus brief filed, circuit split); SCOTUS docket primary not pulled.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/nfl-joins-states-in-fight-against-prediction-markets",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:30.622Z",
+          "retrySearches": [
+            "Supreme Court Kalshi New Jersey amicus NFL docket cert petition"
           ]
         }
       },
