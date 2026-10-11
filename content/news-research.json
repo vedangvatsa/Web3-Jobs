@@ -26976,11 +26976,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "17887deb701ff8c9fa76",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T09:22:47.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "opinion",
+      "note": "Macro prediction asking whether another SVB-style bank crisis is coming; not a crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:26:02.380Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "bd4403fca10c615fa959": {
       "source": "Cointelegraph",
@@ -46903,6 +46908,13 @@
           "note": "SUI four-week price outperformance story; token price coverage is excluded.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:26:00.724Z"
+        },
+        "17887deb701ff8c9fa76": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Macro prediction asking whether another SVB-style bank crisis is coming; not a crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:26:02.380Z"
         }
       },
       "baselineSlugs": [
