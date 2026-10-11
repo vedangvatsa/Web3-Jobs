@@ -26997,11 +26997,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "a7b57bc4b5b3bee0940b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T15:59:08.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Liquid reserve-gap status covered by liquid-ransom; no new development, no reopening date.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:49.083Z",
+      "duplicateOf": "liquid-ransom",
+      "lastReviewedDay": "2026-10-11"
     },
     "6a2bd439ba44587f75c0": {
       "source": "Decrypt",
@@ -49243,6 +49249,14 @@
           "note": "Oct 8 Orca-Loopscale merger; 72-hour window closed Oct 11 18:16 UTC with no draft in checkout. Stale now; never present as current.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:46.937Z"
+        },
+        "a7b57bc4b5b3bee0940b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Liquid reserve-gap status covered by liquid-ransom; no new development, no reopening date.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:49.083Z",
+          "duplicateOf": "liquid-ransom"
         }
       },
       "baselineSlugs": [
