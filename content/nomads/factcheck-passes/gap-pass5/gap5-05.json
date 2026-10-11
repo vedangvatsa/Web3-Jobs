@@ -1,0 +1,902 @@
+{
+  "version": 1,
+  "batch": "gap5-05",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-05-gq-cz": {
+      "title": "Czech MFA: Czech passport visa requirement for Equatorial Guinea",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/rovnikova_guinea/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "f6e1b887c321bb07795d6cade7e69208cb0335f1548344d823d48a90deff771d"
+    },
+    "gap5-05-gq-kr": {
+      "title": "Korean MFA September 2026 ordinary-passport visa table: Equatorial Guinea",
+      "urls": [
+        "https://www.0404.go.kr/bbs/contsPst/MST0000000000113/13/detail"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "eef1b1e0b16c4e7827cd73f2fbe933e00dac4561ec07f11a5dd9b87300617b51"
+    },
+    "gap5-05-st-tw": {
+      "title": "Taiwan BOCA: advance visa for Sao Tome and Principe",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-251-8c594-02-1.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "5785f8885eb17d895e49e6bf43cfbac4ee7f1a022c6d1f8da4bedebd546bacf7"
+    },
+    "gap5-05-gy-tw": {
+      "title": "Taiwan BOCA: Guyana advance visa requirement",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-261-69055-02-1.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "a5cae5e99ef2d678fc4c862a6cdad2734758a32baa848e7761483e540357535e"
+    },
+    "gap5-05-iq-tw": {
+      "title": "Taiwan BOCA: Iraqi visas and Kurdistan territorial distinction",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-247-7d3d1-02-1.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "82e303c0e7833271601dc2769ece2d45756acc62a707683240a5d94312d3142c"
+    },
+    "gap5-05-iq-my": {
+      "title": "Iraqi Kuala Lumpur mission: Malaysian visit visas at air and land entry points",
+      "urls": [
+        "https://mofa.gov.iq/kualalumpur/2025/01/21/iraq-grants-entry-visa-to-malaysian-citizen-at-points-of-entry/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "8216670bdcc6419a7a541969c82f52d199f0694714a69143d8b78ab2ba00b860"
+    },
+    "gap5-05-kr-checker": {
+      "title": "Korea Visa Navigator: actual Palestine and Kosovo tourist queries, reconciled entry and waiver rules",
+      "urls": [
+        "https://www.visa.go.kr/openPage.do?MENU_ID=10101&LANG_TYPE=EN",
+        "https://www.visa.go.kr/biz/vg/vw/selectVisaWizardList.do",
+        "https://www.visa.go.kr/biz/vg/vw/selectPossVisaProcess.do",
+        "https://www.visa.go.kr/biz/vg/vw/detailSojQual.do",
+        "https://www.hikorea.go.kr/info/InfoDatail.pt?CAT_SEQ=160&PARENT_ID=135",
+        "https://www.hikorea.go.kr/info/InfoDatail.pt?CAT_SEQ=161&PARENT_ID=135",
+        "https://www.0404.go.kr/bbs/contsPst/MST0000000000113/13/detail"
+      ],
+      "checkedAt": "2026-10-09"
+    },
+    "gap5-05-bz-law": {
+      "title": "Belize official Immigration Regulations: visitor visa default and conditional exemptions",
+      "urls": [
+        "https://www.agm.gov.bz/uploads/laws/68a7629377086_CAP_156s_Immigration_Act.pdf",
+        "https://www.agm.gov.bz/uploads/laws/63976edf23cfe_Cap_156_Immigration_Act.pdf",
+        "https://immigration.gov.bz/visa/visa-who-qualify/",
+        "https://www.agm.gov.bz/laws/law_subsidiary",
+        "https://www.agm.gov.bz/laws/si"
+      ],
+      "checkedAt": "2026-10-09"
+    },
+    "gap5-05-lt-restrictions": {
+      "title": "Lithuanian Seimas: Russian-national visa restrictions and external-border screening, April 2026",
+      "urls": [
+        "https://www.lrs.lt/sip/portal.show?p_r=35403&p_k=2&p_t=294677"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "c29c5605930be5ed7ace67e4fae28c4fd743f901e72550ffa853b11382e4b5fa"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "GQ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-gq-cz",
+      "label": "Visa required; method and stay unconfirmed",
+      "n": "Czech MFA expressly requires a valid visa for Czech nationals and describes consular application. The permitted stay and current electronic or arrival eligibility are not established here; no routine issuance or admission is implied."
+    },
+    {
+      "passports": [
+        "KR"
+      ],
+      "destinations": [
+        "GQ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-gq-kr",
+      "label": "Visa required; ordinary passport",
+      "n": "Korean MFA explicitly marks ordinary Korean passports X for visa exemption in its September 2026 table; diplomatic and official exemptions are separate. Stay and the practical issuance channel are unconfirmed."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "ST"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-st-tw",
+      "label": "Advance visa; conditional exemptions",
+      "n": "BOCA requires Taiwanese travellers to obtain a visa before entry through a Sao Tome mission. Tourist passports should remain valid at least six months beyond the intended stay. The visa stay is unspecified. The general US/Schengen-visa waiver and documented Sao Tome family exemption are conditional; neither is assumed. Where the residence/no-mission advance-authorisation procedure applies, approval precedes border visa affixing; it is not an unconditional arrival entitlement.",
+      "evidence": [
+        "west-central-africa-st-eu-us",
+        "gap4-04-st-mo"
+      ]
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "GY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-gy-tw",
+      "label": "Advance visa required; stay unconfirmed",
+      "n": "BOCA expressly requires Taiwanese passport holders to apply for a Guyana visa in advance. Its mission/postal directions do not establish an unrestricted electronic or walk-up arrival entitlement. Current practical processing and permitted stay remain unconfirmed."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "IQ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-iq-tw",
+      "label": "Federal visa required; KRI separate",
+      "n": "A federal Iraqi visa is required; BOCA directs Taiwanese travellers to Iraqi missions. Federal Law 76/2017 preserves applicable personal/treaty exceptions, including Iraqis and their children holding foreign passports; none is assumed. Electronic/arrival eligibility, stay and routine tourist issuance are not confirmed. A Kurdistan-only visa does not authorise federal territory; regional permission must be assessed separately.",
+      "evidence": [
+        "gap4-04-iq-federal-law"
+      ]
+    },
+    {
+      "passports": [
+        "MY"
+      ],
+      "destinations": [
+        "IQ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-iq-my",
+      "label": "Visa required; arrival/eVisa channel qualified",
+      "n": "Visa duty is established. The Kuala Lumpur mission notice of 21 January 2025 permits Malaysian Visit visas at airport and land entry points from 11 September 2024; it does not announce visa freedom or specify a stay. Later/current general mission instructions direct foreign-passport applicants to the federal eVisa portal, so this record does not promise operational walk-up issuance or universal electronic eligibility. Confirm the applicable channel before travel. Kurdistan permission is separate.",
+      "evidence": [
+        "gap4-04-iq-federal-law"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "KR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-kr-checker",
+      "label": "Tourist visa required; mission assessment",
+      "n": "The public nationality-specific navigator returns C-3-9 Ordinary Tourist with an overseas-mission process for holiday/leisure travel. A valid acceptable passport and visa are required. Single-entry and double-entry stays differ; issuance remains subject to document and consular assessment. HiKorea expressly excludes these nationalities from the direct-Jeju and specified transit visa waivers. The navigator’s older Palestine transit text is not used as current permission. An electronic application form is not an eVisa.",
+      "stay": "C-3-9: up to 90 days for a single-entry visa; 30 days for a double-entry visa"
+    },
+    {
+      "passports": [
+        "SS",
+        "TL"
+      ],
+      "destinations": [
+        "BZ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-bz-law",
+      "label": "Visa required; conditional exemptions",
+      "n": "The official Immigration Regulations impose a visitor visa requirement outside specified exemptions. Neither South Sudan nor Timor-Leste has a nationality exemption in the reviewed regulations, later immigration instruments or current schedule. No third-country document, same-vessel cruise visit or qualifying transit is assumed. Qualifying US/Canadian visa or permanent-resident documents and Schengen documents can change the requirement; the current page and older Schengen instruments differ on scope/stay. Standard visa guidance states a maximum 30-day initial visit, but conditional branches and the actual grant must be checked."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "LT"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-05-lt-restrictions",
+      "label": "Visa and document restrictions; tourism unconfirmed",
+      "n": "Visa required, with restricted processing: Lithuania suspends Russian-national Schengen visa applications except where mediated by its Foreign Ministry. The EU recognition matrix records non-recognition of Russian non-biometric ordinary passports; territorial issuance restrictions also apply. Russian nationals crossing the external EU border into Lithuania face additional individual screening. This is a qualified duty/document-restriction record: it does not establish a routine tourist issuance route, eligibility for an exception, or permission to enter via either an external or internal Schengen route. Stay is unconfirmed.",
+      "evidence": [
+        "europe-schengen-common"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "GQ",
+      "resolvedOrigins": [
+        "CZ",
+        "KR"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "DE",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "IT",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "CZ and KR added from explicit own-passport visa requirements; no method/stay invented. Compromised or parked Equatorial Guinea mission domains were excluded.",
+        "Fresh government/legislative and CEMAC search did not recover a current reconciled default/exemption instrument. CEMAC passport implementation, BB/TN waivers and SAR/PS/XK documents remain material blockers."
+      ],
+      "attemptedUrls": [
+        "https://www.eoimalabo.gov.in/page/travel-advisory/",
+        "https://www.smartraveller.gov.au/destinations/africa/equatorial-guinea",
+        "https://www.0404.go.kr/ntnSafetyInfo/281/detail",
+        "https://www.guineaecuatorialpress.com/",
+        "https://www.eoimalabo.gov.in/",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/EquatorialGuinea.html",
+        "https://dirco.gov.za/equatorial-guinea/",
+        "https://www.eoimalabo.gov.in/page/general-information/",
+        "https://cemac.int/?s=Guin%C3%A9e+%C3%A9quatoriale+circulation",
+        "https://www.guineaecuatorialpress.com/buscador?search=extranjeros",
+        "https://www.auswaertiges-amt.de/de/reiseundsicherheit/aequatorialguineasicherheit-226774",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/rovnikova_guinea/cestovani/visa.html",
+        "https://www.0404.go.kr/bbs/contsPst/MST0000000000113/13/detail",
+        "https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/aequatorialguinea/reisehinweise-fueraequatorialguinea.html"
+      ]
+    },
+    {
+      "destination": "ST",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AR",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "DJ",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GT",
+        "GY",
+        "HK",
+        "HN",
+        "HT",
+        "ID",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LK",
+        "LR",
+        "LS",
+        "LY",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MR",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PS",
+        "PW",
+        "PY",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SG",
+        "SL",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "UY",
+        "UZ",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "TW advance duty established by BOCA. Recovered 2015 and 2018 parliamentary amendment documents, including the complete republished Law 5/2008 text attached to a final bill; these are not silently treated as promulgated current law.",
+        "Article 23 default and Article 25 exceptions are valuable legal leads, but operative decree/treaty exemptions, 2018 promulgation and current TG/RW/KN implementation remain unreconciled. Other 138 gaps remain."
+      ],
+      "attemptedUrls": [
+        "https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/x-legislatura/ii-serie/2.a-sessao-legislativa/DAN21-IIS.pdf",
+        "https://www2.camara.leg.br/saotomeeprincipe/search?SearchableText=estrangeiros&sort_on=Date&sort_order=reverse",
+        "https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/x-legislatura/ii-serie/8.a-sessao/DAN38-IIS.pdf",
+        "https://www2.camara.leg.br/saotomeeprincipe/search?SearchableText=5%2F2008",
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-1.html",
+        "https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/x-legislatura/ii-serie/8.a-sessao/DAN35-IIS.pdf",
+        "https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/x-legislatura/i-serie/8.a-sessao-legislativa/DAN11-IS.pdf",
+        "https://www2.camara.leg.br/saotomeeprincipe/legislacao/leis/2008",
+        "https://mnec.gov.st/index.php/cooperacao/acordos",
+        "https://dirco.gov.za/sao-tome-and-principe/",
+        "https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/xii-legislatura-8-11-22-a-8-11-26/i-serie/2.a-sessao/DAN05-IS.pdf",
+        "https://www.minaffet.gov.rw/visa-exemption",
+        "https://www.foreign.gov.kn/visa-free-and-visa-on-arrival-countries/",
+        "https://www.eoisaotome.gov.in/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-251-8c594-02-1.html",
+        "https://www2.camara.leg.br/saotomeeprincipe/legislacao",
+        "https://www.eoisaotome.gov.in/docs/1723182602WEBSITE%20FAQ.pdf"
+      ]
+    },
+    {
+      "destination": "GY",
+      "resolvedOrigins": [
+        "TW"
+      ],
+      "remainingOrigins": [
+        "BD",
+        "BG",
+        "BN",
+        "CM",
+        "CY",
+        "CZ",
+        "EE",
+        "FJ",
+        "GA",
+        "GM",
+        "HR",
+        "HU",
+        "ID",
+        "IN",
+        "KE",
+        "KI",
+        "KW",
+        "LK",
+        "LT",
+        "LV",
+        "MT",
+        "MU",
+        "MW",
+        "MZ",
+        "NA",
+        "NG",
+        "NR",
+        "PG",
+        "PK",
+        "PL",
+        "PS",
+        "RO",
+        "RW",
+        "SB",
+        "SC",
+        "SI",
+        "SK",
+        "SL",
+        "TG",
+        "TO",
+        "TV",
+        "TZ",
+        "UG",
+        "UY",
+        "VU",
+        "WS",
+        "XK",
+        "ZM"
+      ],
+      "findings": [
+        "Correct Taiwan BOCA country record 261 establishes advance visa duty; prior attempted record 91 was not this destination.",
+        "Commonwealth reciprocal applicability, 13 EU-origin official conflicts, ID/UY/KW waiver scope, and PS/XK documentary treatment remain unresolved. India worker advice is employment-only and does not settle tourist duty."
+      ],
+      "attemptedUrls": [
+        "https://www.hcigeorgetown.gov.in/pages/Nzk3",
+        "https://www.eeas.europa.eu/guyana_en?s=141",
+        "https://www.hcigeorgetown.gov.in/page/visa-requirements-for-indian-nationals/",
+        "https://www.hcigeorgetown.gov.in/",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-261-69055-02-1.html",
+        "https://www.minfor.gov.gy/consular-services/visa-entry-requirements-countries",
+        "https://newdelhihc.mission.gov.gy/consular-services"
+      ]
+    },
+    {
+      "destination": "IQ",
+      "resolvedOrigins": [
+        "MY",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "BD",
+        "HK",
+        "IR",
+        "IL",
+        "XK",
+        "LB",
+        "PS"
+      ],
+      "findings": [
+        "TW duty and federal/KRI distinction confirmed by BOCA. Malaysian mission notice grants Visit visas at air/land points, not visa freedom; duty is recorded with operational channel uncertainty.",
+        "Lebanese embassy 7 March 2022 notice expressly rejects an all-Lebanese six-month concession: it covers businesspeople/investors only. IR/LB present exemptions, BD restrictions and HK/IL/PS/XK accepted tourist documents remain unresolved. Kuala Lumpur generic visa page still cites repealed 1987 law and is rejected as current product authority."
+      ],
+      "attemptedUrls": [
+        "https://mofa.gov.iq/kualalumpur/page/2/?s=visa",
+        "https://mofa.gov.iq/kualalumpur/en/visa/",
+        "https://mofa.gov.iq/kualalumpur/page/3/?s=visa",
+        "https://mofa.gov.iq/beirut/?p=3630",
+        "https://www.kln.gov.my/web/irq_baghdad/requirement_malaysians",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-247-7d3d1-02-1.html",
+        "https://mofa.gov.iq/kualalumpur/?s=visa",
+        "https://mofa.gov.iq/kualalumpur/2025/01/21/iraq-grants-entry-visa-to-malaysian-citizen-at-points-of-entry/",
+        "https://mofa.gov.iq/beirut/?s=%D8%A7%D8%B9%D9%81%D8%A7%D8%A1",
+        "https://mofa.gov.iq/beirut/?s=%D8%B3%D9%85%D8%A9",
+        "https://mofa.gov.iq/tehran/?s=%D9%88%D9%8A%D8%B2%D8%A7",
+        "https://mofa.gov.iq/beirut/en/category/consular-services/"
+      ]
+    },
+    {
+      "destination": "KR",
+      "resolvedOrigins": [
+        "PS",
+        "XK"
+      ],
+      "remainingOrigins": [
+        "CN",
+        "ID",
+        "KP"
+      ],
+      "findings": [
+        "Eight actual nationality/process/detail queries establish C-3-9 tourist eligibility for PS/XK, coupled with current official duty and explicit Jeju/transit exclusions. Product stays are separated from validity.",
+        "CN/ID actual queries also performed; stale 2020 transit text and current group-pilot reconciliation prevent clearing their full conditional rules. KP inter-Korean authorisation remains separate."
+      ],
+      "attemptedUrls": [
+        "https://www.visa.go.kr/biz/vg/vw/detailSojQual.do",
+        "https://www.immigration.go.kr/bbs/immigration_eng/229/artclList.do?srchColumn=artclTitle&srchWrd=Chinese",
+        "https://www.visa.go.kr/js/common.js",
+        "https://www.visa.go.kr/biz/vg/vw/selectVisaWizardList.do",
+        "https://www.visa.go.kr/openPage.do?MENU_ID=10101&LANG_TYPE=EN",
+        "https://www.hikorea.go.kr/info/InfoDatail.pt?CAT_SEQ=161&PARENT_ID=135",
+        "https://www.hikorea.go.kr/info/InfoDatail.pt?CAT_SEQ=160&PARENT_ID=135",
+        "https://www.visa.go.kr/biz/vg/vw/selectPossVisaProcess.do",
+        "https://elaw.klri.re.kr/eng_service/lawView.do?hseq=61625&lang=ENG",
+        "https://www.immigration.go.kr/immigration_eng/1832/subview.do"
+      ]
+    },
+    {
+      "destination": "HN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "MO",
+        "SA",
+        "SS"
+      ],
+      "findings": [
+        "All four held: HK/MO accepted SAR travel documents, SA later-waiver/category-B conflict and SS omitted nationality remain unresolved. Fresh Chinese-mission root, Saudi redirect and attempted Honduran legal document supplied no determining instrument."
+      ],
+      "attemptedUrls": [
+        "https://www.sreci.gob.hn/Documentos/REQUISITOS%20DE%20INGRESO%20A%20HONDURAS.pdf",
+        "https://hn.china-embassy.gov.cn/lsfw/",
+        "https://embassies.mofa.gov.sa/sites/Honduras/AR/CitizensAndResidence/Pages/Visa.aspx"
+      ]
+    },
+    {
+      "destination": "BZ",
+      "resolvedOrigins": [
+        "SS",
+        "TL"
+      ],
+      "remainingOrigins": [
+        "NR"
+      ],
+      "findings": [
+        "SS/TL added from recovered official 2020 regulations plus present schedule and 2021–2026 amendment review; absence alone was not the default. Foreign-document and itinerary exemptions are explicitly conditional.",
+        "NR remains unresolved: positive Commonwealth exemption in regulation 14(1)(a) versus named operational YES - NO ambiguity needs a current nationality determination. The July 2026 Pakistan/Haiti waivers are for official passport classes and cause no ordinary-passport corrections."
+      ],
+      "attemptedUrls": [
+        "https://www.agm.gov.bz/uploads/laws/63976edf23cfe_Cap_156_Immigration_Act.pdf",
+        "https://www.agm.gov.bz/api-laws/",
+        "https://www.agm.gov.bz/uploads/laws/643ed0a724c8b_SI_No._38_of_2023_Immigration__Visa_Exemption___The_Republic_of_Suriname__Regulations__2023.pdf",
+        "https://www.agm.gov.bz/uploads/laws/64ed1fc6eb4e3_SI_No._68_of_2022_Immigration__Visa_Exemption___San_Marino__Regulations__2022.pdf",
+        "https://www.agm.gov.bz/uploads/laws/63effcefc6488_SI_No._05_of_2021_Immigration__Permits_and_Fees___Revised___Amendment__Regulations__2021.pdf",
+        "https://www.agm.gov.bz/uploads/laws/63f0015b3511b_SI_No._97_of_2021_Immigration__Communicable_Disease_and_Prohibited_Immigrants___Revocation__Regulations__2021.pdf",
+        "https://www.agm.gov.bz/uploads/laws/63f0015b3bd3d_SI_No._83_of_2021_Immigration__Visa_Exemption___Haiti_and_The_Republic_of_Suriname__Regulations__2021.pdf",
+        "https://www.agm.gov.bz/uploads/laws/6a67c5cb0a2cd_SI_NO._67_of_2026_IMMIGRATION__VISA_EXEMPTION___ISLAMIC_REPUBLIC_OF_PAKISTAN__REGULATIONS__2026.pdf",
+        "https://www.agm.gov.bz/uploads/laws/65ea2b7ee1a3e_SI_No._20_of_2024_Immigration__Visa_Exemption___The_Government_of_the_Russian_Federation__Regulations__2023.pdf",
+        "https://www.agm.gov.bz/laws-of-belize/chapter-156/",
+        "https://immigration.gov.bz/visa/visa-who-qualify/",
+        "https://www.agm.gov.bz/laws/law_substantive",
+        "https://www.agm.gov.bz/uploads/laws/6a67c5f7b66b9_SI_NO._70_of_2026_IMMIGRATION__VISA_EXEMPTION___THE_REPUBLIC_OF_HAITI__REGULATIONS__2026.pdf",
+        "https://www.agm.gov.bz/uploads/laws/64ed1fc6eda6c_SI_No._82_of_2022_Immigration__Visa_Relaxation___Bolivia__Dominican_Republic__Ecuador__Morocco__Paraguay__Peru_and_Venezula__Regulations__2022.pdf",
+        "https://www.agm.gov.bz/uploads/laws/6604780369793_SI_No._37_of_2024_Immigration_Visa_Exemption___The_United_Arab_Emirates__Regulations__2024.pdf",
+        "https://www.agm.gov.bz/uploads/laws/63f0015b39cb7_SI_No._81_of_2021_Immigration__Visa_Exemption___Haiti_and_The_Republic_of_Suriname__Regulations__2021.pdf",
+        "https://www.agm.gov.bz/uploads/laws/643ed0a724b6c_SI_No._37_of_2023_Immigration_visa_Exemption___Haiti_and_the_Republic_of_Suriname___Repeal__Regulations__2023.pdf",
+        "https://belizehighcommission.co.uk/consular-services/",
+        "https://www.agm.gov.bz/resources/js/doc.js?ver=1.1.6",
+        "https://www.nationalassembly.gov.bz/wp-content/uploads/2017/04/Immigration-Act.pdf",
+        "https://www.agm.gov.bz/",
+        "https://www.agm.gov.bz/uploads/laws/68a7629377086_CAP_156s_Immigration_Act.pdf",
+        "https://www.agm.gov.bz/laws/si",
+        "https://www.agm.gov.bz/uploads/laws/63effcefc6bab_SI_No._12_of_2021_Immigration__Appointment_of_Visa_Vetting_Committee__Order__2021.pdf",
+        "https://www.agm.gov.bz/uploads/laws/63effd553a5a5_SI_No._63_of_2021_Immigration__Communicable_Disease_and_Prohibited_Immigrants__Regulations__2021.pdf",
+        "https://www.agm.gov.bz/laws/law_subsidiary",
+        "https://www.agm.gov.bz/uploads/laws/6467ca4441c4e_SI_No._47_of_2023_immigration___Permits_and_Fees___Revised___Amendment__Regulations__2023.pdf"
+      ]
+    },
+    {
+      "destination": "RU",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "UA"
+      ],
+      "findings": [
+        "Both held: new legal-publication request timed out and mission alternatives returned no operative rule. UA current third-country port/age/routing implementation and XK accepted ordinary documents are not established."
+      ],
+      "attemptedUrls": [
+        "https://publication.pravo.gov.ru/document/0001202309290001",
+        "https://london.mid.ru/en/consular-services/visas/",
+        "https://latvia.mid.ru/ru/consular-services/consulate/visa/",
+        "https://government.ru/docs/49758/"
+      ]
+    },
+    {
+      "destination": "MM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "Both held: eVisa FAQ returned an application shell, national legal portal timed out and Palestinian MFA failed hostname validation. No actual PS/XK tourist-document/requirement determination was retrieved."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ps/",
+        "https://evisa.moip.gov.mm/Home/FAQ",
+        "https://www.mlis.gov.mm/"
+      ]
+    },
+    {
+      "destination": "LT",
+      "resolvedOrigins": [
+        "RU"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "RU added only as a visa duty with evidenced application and document restrictions. Seimas April 2026 notice supplies current restrictions and external-border screening; EU matrix LT column N, ordinary row 2127, C20 rejects non-biometric ordinary passports.",
+        "Tourist admission, exception eligibility and internal-border permission are expressly uncertified. Earlier EU source date 2026-10-07 is retained."
+      ],
+      "attemptedUrls": [
+        "https://vsat.lrv.lt/en/news/",
+        "https://www.lrs.lt/sip/portal.show?p_r=35403&p_k=2&p_a=search&p_query=Russian",
+        "https://www.migracija.lt/en/russian-citizens",
+        "https://e-seimas.lrs.lt/portal/legalActSearch/lt?documentNumber=XVP-1171",
+        "https://www.lrs.lt/sip/portal.show?p_r=35403&p_k=2&p_t=294677",
+        "https://keliauk.urm.lt/en/entry-to-lithuania/visas",
+        "https://ru.mfa.lt/ru/",
+        "https://www.lrs.lt/sip/portal.show?p_r=35403&p_k=2&p1=Russian",
+        "https://urm.lt/en/travel-and-residence/visas/entry-of-russian-citizens/3805",
+        "https://www.lrs.lt/sip/portal.show?p_r=35403&p_k=2"
+      ]
+    },
+    {
+      "destination": "GD",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "Recovered official Chapter 145 with an express 1958 visa default and named exceptions, and inspected initial 2011–2026 SRO index pages. Those index pages are paginated; they are not a complete amendment audit.",
+        "PS remains unresolved pending modern exception/document reconciliation. The statute establishes an important duty lead, but an omitted nationality plus a partially reviewed subsequent register is not certified as a current ordinary-passport outcome."
+      ],
+      "attemptedUrls": [
+        "https://laws.gov.gd/index.php/s-r-o",
+        "https://laws.gov.gd/index.php/s-r-o/1367-2018",
+        "https://laws.gov.gd/index.php/s-r-o/1364-2015",
+        "https://laws.gov.gd/index.php/s-r-o/1369-2020",
+        "https://laws.gov.gd/index.php/s-r-o/1377-2026",
+        "https://laws.gov.gd/index.php/s-r-o/1362-2013",
+        "https://laws.gov.gd/index.php/s-r-o/1368-2019",
+        "https://laws.gov.gd/index.php/chapters/i-144-155",
+        "https://laws.gov.gd/index.php/s-r-o/1363-2014",
+        "https://laws.gov.gd/index.php/s-r-o/1370-2021",
+        "https://laws.gov.gd/index.php/s-r-o/1361-2012",
+        "https://laws.gov.gd/",
+        "https://laws.gov.gd/index.php/chapters/i-144-155/421-chapter-145-immigration-act",
+        "https://laws.gov.gd/index.php/s-r-o/1371-2022",
+        "https://laws.gov.gd/index.php/s-r-o/1366-2017",
+        "https://laws.gov.gd/index.php/s-r-o/1360-2011",
+        "https://laws.gov.gd/index.php/s-r-o/1373-2024",
+        "https://laws.gov.gd/index.php/s-r-o/1372-2023",
+        "https://laws.gov.gd/index.php/s-r-o/1365-2016",
+        "https://laws.gov.gd/index.php/chapters/i-144-155/1236-cap145-immigration-act/download",
+        "https://laws.gov.gd/index.php/s-r-o/1375-2025"
+      ]
+    },
+    {
+      "destination": "SA",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL"
+      ],
+      "findings": [
+        "IL held: new Saudi visa terms denied access, mission hostname invalid and Israeli permission locator denied access. No accepted Israeli ordinary-tourist-document rule obtained; outbound permission is distinct from Saudi admission."
+      ],
+      "attemptedUrls": [
+        "https://visa.visitsaudi.com/Home/TermsConditions",
+        "https://www.gov.il/en/departments/policies/saudi_arabia_visits",
+        "https://www.saudiembassy.net/visa-types"
+      ]
+    }
+  ],
+  "corrections": []
+}

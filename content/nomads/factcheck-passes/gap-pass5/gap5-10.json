@@ -1,0 +1,1024 @@
+{
+  "version": 1,
+  "batch": "gap5-10",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-10-kh-ee": {
+      "title": "Estonia MFA: Cambodia entry requirements for Estonian citizens",
+      "urls": [
+        "https://reisitargalt.vm.ee/sihtkoht/kambodza/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "250692af05bb3dfb5f074178cfb9be1097907cb71b8365fbb0cc8621fbd354d4"
+    },
+    "gap5-10-kh-cz": {
+      "title": "Czech MFA: Cambodia tourist visas and electronic arrival formalities",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/asie/kambodza/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "37b9df05710607f6c7c4dc99e6b09618472cab8b7d53052fcf6ee15b2a026eb8"
+    },
+    "gap5-10-kh-at": {
+      "title": "Austria MFA: Cambodia visa duty, method-specific stay and border conditions",
+      "urls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/kambodscha"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "9595b107c645f3539d4e2b5f9d27af232e9cab2e5b2cc2ae886a7bded25e4455"
+    },
+    "gap5-10-kh-hu": {
+      "title": "Hungary Consular Service: Cambodia ordinary tourist visas and port restrictions",
+      "urls": [
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/kambodzsa"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "60e4b97e2f829335a7495984298d62d137fcc3e982474633b0e6718b3656a82c"
+    },
+    "gap5-10-kh-si": {
+      "title": "Slovenia government: Cambodia visa requirement for Slovenian citizens",
+      "urls": [
+        "https://www.gov.si/drzave/kambodza/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "4e8fbbafa70bc130e3af791826bc7c02cb93b8cec1bea221f4f8171d7bca02dc"
+    },
+    "gap5-10-kh-dk2": {
+      "title": "Denmark MFA: Cambodia passport and visa requirements",
+      "urls": [
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/cambodja"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "fe49853e913220e178458c6207f25085989d57ce48beac2039d8c6b2dd9af127"
+    },
+    "gap5-10-sy-it": {
+      "title": "Italy MFA: Syria entry visas at specified airports and land borders",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/SYR.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "878a6827781f4f0742dacb0dadbfa2ebe690b166d517f522b9b82f6e42c88d3a"
+    },
+    "gap5-10-sy-es": {
+      "title": "Spain MFA: Syria visa requirement and entry-document restrictions",
+      "urls": [
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Siria"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "1a42e8ea7936425b35f0d52932a7cd8bd964af6239c816f05ea1fb1048dc7eb2"
+    },
+    "gap5-10-sy-si": {
+      "title": "Slovenia government: Syria visa duty for Slovenian citizens",
+      "urls": [
+        "https://www.gov.si/drzave/sirija/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "1915c91e0051c7075d4382f035bb58fb639963d61d60113fcc4dd5ab3b7a94e9"
+    },
+    "gap5-10-sy-dk": {
+      "title": "Denmark MFA: Syria visa duty and unconfirmed operational conditions",
+      "urls": [
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/syrien"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "f3856289b4e6672f4233b6d2afa1d9a23865345626aaeec1e0ab99dcfad504fb"
+    },
+    "gap5-10-bo-do-notice": {
+      "title": "Bolivia MFA: Dominican ordinary-passport tourist waiver effective 2 September 2024",
+      "urls": [
+        "https://cancilleria.gob.bo/mre/2024/08/30/17256/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "5a01cfc2c6f0852bdd75828c00ec314934033b68ae83dbf22f31c608cb6065f5"
+    },
+    "gap5-10-bo-do-implementation": {
+      "title": "Bolivia MFA: Dominican waiver implementation communicated to Immigration",
+      "urls": [
+        "https://cancilleria.gob.bo/mre/2024/08/30/17267/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "f96d4f9ef53a03f33632b96dc140922d9ac414fccb7d178468b89558b09ba9de"
+    },
+    "gap5-10-bo-hn-notice": {
+      "title": "Bolivia MFA: Honduran tourist/visit visa waiver effective 17 March 2024",
+      "urls": [
+        "https://cancilleria.gob.bo/mre/2024/03/16/14347/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "bf65ff54810beae0e4f0ae8aca8040d66d0a3643a7f5992fd40d7c4e742a5ef5"
+    },
+    "gap5-10-bo-sv-notice": {
+      "title": "Bolivia MFA: completed implementation of ordinary-passport Bolivia–El Salvador waiver",
+      "urls": [
+        "https://cancilleria.gob.bo/mre/2024/06/18/15822/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "4e370139f1a616bdecc587239ad30250ebcaf1cc335457286d38bb79fd29b186"
+    },
+    "gap5-10-bo-vc-notice": {
+      "title": "Bolivia MFA: Saint Vincent tourist/visit visa waiver implementation",
+      "urls": [
+        "https://cancilleria.gob.bo/mre/2021/11/11/6299/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "d7ac771262eac7c8e5b451cdf7b3850e64c0de1f85659abd0c1207ebbebd66a5"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "EE"
+      ],
+      "destinations": [
+        "KH"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-10-kh-ee",
+      "a": [
+        "ev",
+        "voa"
+      ],
+      "label": "Tourist visa: electronic or arrival",
+      "n": "Estonian citizens require a visa; Estonia names eVisa and border-issued visa alternatives. Stay is unspecified. Separate Cambodia e-Arrival formalities apply. Thailand–Cambodia land crossings are reported closed; do not assume an electronic visa is accepted at every land port.",
+      "evidence": [
+        "gap5-10-kh-hu"
+      ]
+    },
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "KH"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap5-10-kh-cz",
+      "a": [
+        "ev",
+        "voa",
+        "vr"
+      ],
+      "label": "Tourist visa: electronic, arrival or consular",
+      "n": "Czech ordinary tourists require a visa. The MFA states a 30-day tourist visa through electronic, arrival or mission channels. Passport must have at least six months remaining validity. Air and sea arrivals require separate e-Arrival formalities. Electronic visas are port-specific; the older Czech Thai-land-port examples do not override the newer reported closure of all Thailand–Cambodia land crossings.",
+      "evidence": [
+        "gap5-10-kh-hu"
+      ]
+    },
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "KH"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-10-kh-at",
+      "a": [
+        "ev",
+        "voa",
+        "vr"
+      ],
+      "stay": "eVisa: up to 30 days; arrival/consular stay unspecified",
+      "label": "Tourist visa: electronic, airport arrival or consular",
+      "n": "Austria expressly states a visa duty. Its 30-day maximum applies to single-entry eVisa; no same stay is assigned to arrival or consular visas. Arrival issuance is named at the Phnom Penh, Siem Reap and Sihanoukville international airports. Passport needs six months remaining validity. Air arrivals require e-Arrival registration within seven days before entry. Electronic approval and acceptance at the intended port must be checked; Thailand land crossings are reported closed."
+    },
+    {
+      "passports": [
+        "HU"
+      ],
+      "destinations": [
+        "KH"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-10-kh-hu",
+      "a": [
+        "ev",
+        "voa",
+        "vr"
+      ],
+      "label": "Tourist visa with port-specific electronic/arrival options",
+      "n": "Hungarian ordinary-passport tourists require a visa, available electronically, at the accredited mission, or on arrival at airports and major land/sea crossings. The source describes a 30-day visa validity, not a separately established admitted-stay maximum, so d=0. eVisa entry is restricted to its approved/designated port. Separate arrival formalities apply. Thailand land crossings are reported closed; Laos/Vietnam crossings must be checked individually."
+    },
+    {
+      "passports": [
+        "SI"
+      ],
+      "destinations": [
+        "KH"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-10-kh-si",
+      "label": "Tourist visa; electronic application available",
+      "n": "Slovenian citizens require a visa and may obtain it through the official eVisa application. The source describes one-month visa validity, which is not converted to an admitted stay. Passport requires six months remaining validity. Electronic entry is port-specific, and separate air-arrival formalities apply; Thailand land crossings are reported closed.",
+      "evidence": [
+        "gap5-10-kh-hu"
+      ]
+    },
+    {
+      "passports": [
+        "DK"
+      ],
+      "destinations": [
+        "KH"
+      ],
+      "t": "voa",
+      "d": 30,
+      "s": "gap5-10-kh-dk2",
+      "a": [
+        "voa",
+        "vr"
+      ],
+      "label": "Tourist visa: arrival or consular",
+      "n": "Denmark expressly states a visa duty with a maximum 30-day stay and tourist issuance on arrival, with mission application also available. Separate e-Arrival formalities apply. Passport must remain valid six months beyond the stay and have a blank page. The visa does not establish that every crossing is open: Thailand land crossings are reported closed. Electronic-port information is not treated as a global eligibility rule.",
+      "evidence": [
+        "gap5-10-kh-hu"
+      ]
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "voa",
+      "d": 0,
+      "s": "gap5-10-sy-it",
+      "stay": "Usually 15 days; the issued period controls",
+      "label": "Arrival visa at specified Syrian entry points",
+      "n": "Italian MFA guidance updated in August 2026 requires a visa and describes issuance at Damascus/Aleppo airports and land entry from Jordan/Lebanon while awaiting restoration of the electronic platform. It says visas are usually single-entry for 15 days, with type/duration variable; d=0 preserves that qualification. Passport requires six months remaining validity. This is confined to those government-controlled entry points, not other territories, crossings or nationalities."
+    },
+    {
+      "passports": [
+        "ES"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-10-sy-es",
+      "label": "Visa required; issuance channel needs confirmation",
+      "n": "Spanish MFA expressly requires a valid Syrian visa. It lists electronic and mission processing, but the electronic platform’s current availability and issued stay are unconfirmed. Passport must not contain Israeli visas/stamps or the specified Jordan/Egypt–Israel border stamps. Its registration requirement for stays exceeding 15 days is not a 15-day tourist allowance. Border/territorial access remains separate.",
+      "evidence": [
+        "gap5-10-sy-it"
+      ]
+    },
+    {
+      "passports": [
+        "SI"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-10-sy-si",
+      "label": "Visa required; electronic availability unconfirmed",
+      "n": "Slovenia explicitly requires its citizens to hold a Syrian visa. Its April 2026 page describes electronic applications; later Italian guidance reports awaiting restoration of that platform. Record visa duty only, with method availability and admitted stay unconfirmed. No general right of entry at every border or into every territory is established.",
+      "evidence": [
+        "gap5-10-sy-it"
+      ]
+    },
+    {
+      "passports": [
+        "DK"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-10-sy-dk",
+      "label": "Visa required; entry arrangements unconfirmed",
+      "n": "Denmark’s September 2026 guidance expressly states visa duty for Danish citizens, while noting that Syrian authorities have not supplied detailed entry/exit rules. Method, passport-validity requirement and admitted stay are unestablished. This requirement-only rule does not certify routine tourist issuance or border access."
+    },
+    {
+      "passports": [
+        "DO"
+      ],
+      "destinations": [
+        "BO"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-10-bo-do-notice",
+      "label": "Ordinary-passport tourist/visit visa waiver",
+      "n": "Bolivia’s implementation notice exempts Dominican ordinary passports from tourist/visit visas from 2 September 2024; the companion notice confirms notification to Immigration. Admitted stay is not specified.",
+      "evidence": [
+        "gap5-10-bo-do-implementation"
+      ]
+    },
+    {
+      "passports": [
+        "HN"
+      ],
+      "destinations": [
+        "BO"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-10-bo-hn-notice",
+      "label": "Ordinary-passport tourist/visit visa waiver",
+      "n": "Bolivia expressly implemented the bilateral tourist/visit visa waiver for Hondurans from 17 March 2024. The agreement includes ordinary passports as well as diplomatic/official passports. Admitted stay is not specified."
+    },
+    {
+      "passports": [
+        "SV"
+      ],
+      "destinations": [
+        "BO"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-10-bo-sv-notice",
+      "label": "Ordinary-passport tourist/visit visa waiver",
+      "n": "Bolivia’s June 2024 implementation notice explicitly says visa suppression has been made effective for citizens of both Bolivia and El Salvador and identifies the tourist/visit agreement for ordinary passports. Its separate dated paragraph describes Bolivians entering El Salvador; no reciprocal duration or additional date is inferred for this inbound route. Admitted stay is not specified."
+    },
+    {
+      "passports": [
+        "VC"
+      ],
+      "destinations": [
+        "BO"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-10-bo-vc-notice",
+      "label": "Tourist/visit visa waiver",
+      "n": "Bolivia’s 11 November 2021 notice explicitly completes the previously pending bilateral implementation and permits Bolivian and Saint Vincent citizens to travel between both countries without tourist/visit visas from that date. Admitted stay is not specified."
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "SY",
+      "resolvedOrigins": [
+        "DK",
+        "IT",
+        "SI",
+        "ES"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AT",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BG",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CU",
+        "CY",
+        "CZ",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "ID",
+        "IQ",
+        "IE",
+        "JM",
+        "JP",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MC",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "RS",
+        "SC",
+        "SL",
+        "SG",
+        "SK",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Four nationality-scoped additions: IT arrival issuance at specified airports/Jordan–Lebanon land entry; ES/SI/DK visa duty only with operational limits. Italy gives a usual 15-day period, not a guaranteed maximum. No global duty is inferred from the March 2026 AIP unless-exempt clause.",
+        "SANA exemption/entry searches returned diplomatic/outbound or border-operation news, not a complete current waiver schedule. AT/HU provide warnings rather than a visa determination; other fresh origin leads were unavailable. The remaining 177 origins still need ordinary-passport waiver reconciliation, including Arab/Lebanese, document and territorial/port branches."
+      ],
+      "attemptedUrls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/SYR.pdf",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Siria",
+        "https://www.mzv.sk/syria",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/syrien",
+        "https://sana.sy/en/?s=visa+exempt",
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/sziria",
+        "https://www.gov.si/drzave/sirija/",
+        "https://keliauk.urm.lt/location/sirija",
+        "https://www.mfa.gov.lv/lv/celojumu-bridinajumi/sirija",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_syria/id2415594/",
+        "https://mfa.gov.jo/",
+        "https://sana.sy/en/?s=entry+visa",
+        "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/syrien/reseinformation/ambassadens-reseinformation/in--och-utresebest%C3%A4mmelser/",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/syrien",
+        "https://travel.state.gov/en/international-travel/travel-advisories/syria.html",
+        "https://sana.sy/en/?s=Lebanese+entry"
+      ]
+    },
+    {
+      "destination": "KH",
+      "resolvedOrigins": [
+        "AT",
+        "CZ",
+        "DK",
+        "EE",
+        "HU",
+        "SI"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BE",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BG",
+        "BF",
+        "BI",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CU",
+        "CY",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "IS",
+        "IN",
+        "IR",
+        "IQ",
+        "IE",
+        "IL",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MG",
+        "MW",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MC",
+        "ME",
+        "MA",
+        "MZ",
+        "NA",
+        "NR",
+        "NP",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PL",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "SL",
+        "SK",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "AE",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Six explicit origin-government additions: EE/CZ/AT/HU/SI/DK. Visa duty is separately established; electronic availability is not used as a global default. Czech 30-day tourist stay and Danish maximum 30 days are explicit; Austrian 30 days applies only to eVisa. Hungarian/Slovenian visa validity is not converted into stay.",
+        "New arrival portal is a JS shell; eVisa FAQ loops, MFA returns Request Rejected, and Bangkok mission DNS fails. Other fresh origin pages are inaccessible, generic or lack a visa determination. The 163 residual origins lack reconciled ordinary rules: preserve ASEAN exemptions, China/SAR pilot, TH waiver-duration dispute, and PS/XK document questions. New rules retain designated-port restrictions and reported Thailand land closure."
+      ],
+      "attemptedUrls": [
+        "https://reisitargalt.vm.ee/sihtkoht/kambodza/",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/asie/kambodza/cestovani/visa.html",
+        "https://www.mfa.gov.lv/lv/kambodza-celojumu-bridinajumi",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/kambodscha",
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/kambodzsa",
+        "https://www.gov.si/drzave/kambodza/",
+        "https://recbangkok.mfaic.gov.kh/",
+        "https://keliauk.urm.lt/location/kambodza",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_kambodsja/id2415505/",
+        "https://www.mfa.gov.lv/lv/celojumu-bridinajumi/kambodza",
+        "https://diplomatie.belgium.be/nl/landen/cambodja/reizen-naar-cambodja-reisadvies/praktische-informatie-voor-cambodja",
+        "https://www.embindpp.gov.in/page/travel-advisory/",
+        "https://www.mofa.gov.ae/en/travel-updates/cambodia",
+        "https://portales.sre.gob.mx/guiadelviajero/103-ficha-de-paises/288-camboya",
+        "https://www.mfa.bg/en/embassyinfo/cambodia",
+        "https://www.mae.ro/travel-conditions/3680",
+        "https://www.evisa.gov.kh/faq",
+        "https://www.arrival.gov.kh/",
+        "https://www.mfaic.gov.kh/Information/VisaInformation",
+        "https://www.gov.pl/web/tajlandia/kambodza-idp",
+        "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/kambodja/reseinformation/ambassadens-reseinformation/in--och-utresebest%C3%A4mmelser/",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/kambodja",
+        "https://www.embindpp.gov.in/",
+        "https://um.fi/matkustustiedote/-/c/KH",
+        "https://thailand.mfa.gov.ua/konsulski-pitannya/poradi-podorozhuyuchim/kambodzha",
+        "https://www.embindpp.gov.in/pages?id=vbmOe&subid=dNk6e",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/cambodja"
+      ]
+    },
+    {
+      "destination": "BO",
+      "resolvedOrigins": [
+        "DO",
+        "HN",
+        "SV",
+        "VC"
+      ],
+      "remainingOrigins": [
+        "AE",
+        "AG",
+        "BG",
+        "CG",
+        "IL",
+        "KR",
+        "MO",
+        "MT",
+        "RO",
+        "SD",
+        "SS",
+        "US",
+        "XK",
+        "ZA"
+      ],
+      "findings": [
+        "Four current additions from newly recovered destination implementation notices: DO/HN/SV/VC tourist/visit waivers, all d0 because no admitted stay is stated. Specific implemented waivers reconcile older mission group tables; no signature-only agreement or reverse-direction assumption is used.",
+        "The eight December 2025 additions AE/BG/IL/KR/MT/RO/US/ZA still lack clear operative implementation beyond the progressive announcement. AG needs treaty commencement; CG/MO/SD/SS/XK need positive ordinary-document/nationality treatment. Further official searches and origin/mission/gazette alternatives did not resolve these 14."
+      ],
+      "attemptedUrls": [
+        "https://bo.usembassy.gov/visas/",
+        "https://www.mofa.gov.ae/en/Missions/La-Paz/The-Embassy/About-the-Embassy",
+        "https://dirco.gov.za/foreign-travel-advice/",
+        "https://www.mofa.gov.ae/en/travel-updates/bolivia",
+        "https://lapaz.mae.ro/node/177",
+        "https://overseas.mofa.go.kr/bo-ko/brd/m_6047/list.do",
+        "https://www.mfa.bg/embassies/argentina",
+        "https://embassies.gov.il/bolivia/en",
+        "https://travel.state.gov/en/international-travel/travel-advisories/bolivia.html",
+        "https://www.gacetaoficialdebolivia.gob.bo/normas/buscar/5509",
+        "https://cancilleria.gob.bo/mre/?s=exenci%C3%B3n+visas",
+        "https://cancilleria.gob.bo/mre/2024/08/30/17256/",
+        "https://cancilleria.gob.bo/mre/2024/08/30/17267/",
+        "https://cancilleria.gob.bo/mre/?s=supresi%C3%B3n+visas",
+        "https://cancilleria.gob.bo/mre/?s=visas+ocho+pa%C3%ADses",
+        "https://cancilleria.gob.bo/mre/?s=Antigua+visa",
+        "https://cancilleria.gob.bo/mre/?s=Salvador+visa",
+        "https://cancilleria.gob.bo/mre/2024/06/18/15822/",
+        "https://rree.gob.sv/?s=Bolivia+visa",
+        "https://cancilleria.gob.bo/mre/?s=Honduras+visa",
+        "https://cancilleria.gob.bo/mre/?s=Granadinas+visa",
+        "https://cancilleria.gob.bo/mre/?s=Barbuda",
+        "https://cancilleria.gob.bo/mre/2024/03/16/14347/",
+        "https://cancilleria.gob.bo/mre/2021/11/11/6299/"
+      ]
+    },
+    {
+      "destination": "SO",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BI",
+        "CD",
+        "HK",
+        "IL",
+        "KE",
+        "XK",
+        "MO",
+        "PS",
+        "RW",
+        "SS",
+        "TZ",
+        "UG"
+      ],
+      "findings": [
+        "All 12 remain. Uganda’s March 2026 mission report confirms a new immigration MoU but supplies no operative ordinary-passport visa waiver; regional cooperation/free-movement aspirations are not national implementation. BI/CD/KE/RW/SS/TZ/UG need EAC reconciliation against the federal electronic regime.",
+        "HK/IL/MO/PS/XK lack a positive accepted-document/ordinary-tourist determination. Fresh mission/consular/regional alternatives yielded no specific rule. Federal Somalia and Somaliland remain distinct."
+      ],
+      "attemptedUrls": [
+        "https://mogadishu.mofa.go.ug/",
+        "https://mogadishu.mfa.go.ke/",
+        "https://www.eac.int/press-releases/immigration-and-labour",
+        "https://mogadishu.mofa.go.ug/article/uganda-somalia-bilateral-relations",
+        "https://mogadishu.mofa.go.ug/article/uganda-somalia-sign-cooperation-deals-boost-trade-regional-stability",
+        "https://www.eac.int/press-releases",
+        "https://web.mfa.gov.so/consular-services/",
+        "https://www.eac.int/component/search/?searchword=Somalia%20visa&searchphrase=all&Itemid=101"
+      ]
+    },
+    {
+      "destination": "TZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CM",
+        "FJ",
+        "GA",
+        "MV",
+        "NG",
+        "LK",
+        "TG"
+      ],
+      "findings": [
+        "All seven CM/FJ/GA/MV/NG/LK/TG remain: the central September guidelines’ Commonwealth exemption conflicts with the separately named visa-eligible list. A newly located Sri Lanka consular site repeats visa methods but does not reconcile the central conflict; its authenticity was not independently established, so it is not accepted policy evidence.",
+        "Fiji’s fresh Immigration list is inbound to Fiji, not outbound Tanzania proof; Maldives pages give no Tanzanian decision. Sri Lanka origin, new ministry/legal navigation and Togo diplomatic-directory alternatives supplied no operative amendment or specific reconciliation."
+      ],
+      "attemptedUrls": [
+        "https://www.tanzaniaconsul.com/visa/",
+        "https://www.immigration.gov.fj/visa-exempted-countries/",
+        "https://www.immigration.gov.mv/visa-free-countries/",
+        "https://www.immigration.gov.mv/",
+        "https://www.immigration.go.tz/websiteportal/pages/legal-framework",
+        "https://www.immigration.go.tz/",
+        "https://mfa.gov.lk/en/tanzania/",
+        "https://diplomatie.gouv.tg/ministere/missions-diplomatiques"
+      ]
+    },
+    {
+      "destination": "LB",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL",
+        "XK",
+        "SY",
+        "TR"
+      ],
+      "findings": [
+        "All four IL/XK/SY/TR remain. New Arabic/French Syrian-navigation and Ankara mission attempts fail; Turkish Beirut material concerns entry to Türkiye rather than a new Lebanon rule. SY needs current tourist-specific entry branches; IL/XK need document/admission treatment.",
+        "TR remains a genuine visa-free versus fee-free arrival-visa conflict. No fee waiver is reclassified as a visa waiver, nor absence/nonrecognition turned into an entry ban."
+      ],
+      "attemptedUrls": [
+        "https://beirut-emb.mfa.gov.tr/Mission/ShowInfoNote/121179",
+        "https://www.general-security.gov.lb/ar/posts/47",
+        "https://www.general-security.gov.lb/fr/posts/33",
+        "https://www.mfa.gov.lb/english/embassies/lebanese-embassies",
+        "https://www.general-security.gov.lb/ar/posts/32",
+        "https://ankara.mfa.gov.lb/turkey/english/consular-services/visas"
+      ]
+    },
+    {
+      "destination": "ZM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "ME",
+        "RS"
+      ],
+      "findings": [
+        "All three XK/ME/RS remain. Newly retrieved Berlin mission directs readers to central nationality lists but only expressly confirms its accredited European exemptions; it does not modernise the combined Serbia/Montenegro row. Paris and SI78 alternative access failed.",
+        "Serbian MFA internal required/arrival versus no-visa conflict remains; ME cannot inherit the obsolete combined row, and XK still needs accepted-document evidence."
+      ],
+      "attemptedUrls": [
+        "https://www.zambiaembassy.de/visa/",
+        "https://www.zambialii.org/akn/zm/act/si/2024/78/eng@2024-12-13",
+        "https://www.zambiaembassy.de/consular/visa-immigration/",
+        "https://www.zambianembassyparis.fr/en/consular/visa"
+      ]
+    },
+    {
+      "destination": "LC",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SS",
+        "VA"
+      ],
+      "findings": [
+        "Both SS/VA remain. Newly navigated London High Commission links a 2024-uploaded visa PDF whose actual inbound rows omit South Sudan and Vatican; Sudan is not substituted and the upload year is not treated as an amendment date.",
+        "The 2023 statutory Schedule 1 and prior exception schedules do not name these cases. Generic tourist-visa availability and list omission do not establish a complete current exemption/default for them."
+      ],
+      "attemptedUrls": [
+        "https://www.govt.lc/search?q=visa%20south%20sudan",
+        "https://www.stluciahcuk.org/visas.html",
+        "https://attorneygeneralchambers.com/laws-of-saint-lucia/immigration-act/schedule-1-01",
+        "https://www.stluciahcuk.org/",
+        "https://stluciahcuk.org/non-immigrant-visas/",
+        "https://stluciahcuk.org/wp-content/uploads/2024/07/Saint-Lucia-Visa-Requirements.pdf"
+      ]
+    },
+    {
+      "destination": "MU",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ME",
+        "XK"
+      ],
+      "findings": [
+        "ME/XK remain. Recovered Immigration Act 2022 section20 gives admission/entry-permit powers; its Passports Act amendment reserves prior-visa requirements to regulations and does not specify either nationality.",
+        "The law therefore does not reconcile the obsolete Serbia–Montenegro table row or Kosovo ordinary-document treatment. New mission/origin/legislation navigation provides no modern named determination."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.me/clanak/vizni-rezim-za-crnogorske-drzavljane",
+        "https://passport.govmu.org/passport/?page_id=82",
+        "https://www.gov.me/mvp/konzularne-informacije",
+        "https://passport.govmu.org/",
+        "https://foreign.govmu.org/Pages/Consular-and-Visa.aspx",
+        "https://passport.govmu.org/passport/",
+        "https://passport.govmu.org/passport/?page_id=425",
+        "https://passport.govmu.org/passport/wp-content/uploads/2022/08/Immigration-Act-2022.pdf"
+      ]
+    },
+    {
+      "destination": "MK",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "PS remains. Newly retrieved Interior Ministry foreigner procedures and bylaw navigation discuss the 2019 foreigners law and administration, but no Palestinian ordinary-document recognition/visitor rule was recovered. Previous current checker omission cannot be converted into a decision."
+      ],
+      "attemptedUrls": [
+        "https://mfa.gov.mk/en-GB/konzularni-uslugi/patni-ispravi",
+        "https://mvr.gov.mk/en-GB/zakoni",
+        "https://mvr.gov.mk/",
+        "https://mvr.gov.mk/mk-MK/uslugi/upatstvo-i-postapka-za-oddelni-prava-baranja-na-strancite",
+        "https://mvr.gov.mk/mk-MK/legislativa/podzakonski-akti"
+      ]
+    },
+    {
+      "destination": "IN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains. Recovered the actual Belgrade mission Visa Services page through its current encoded link, replacing the failed guessed path. It describes Serbian applicants and generic other-national procedures but no Kosovo ordinary-passport or substitute-document tourist determination. The April 2026 fee table is not recognition evidence."
+      ],
+      "attemptedUrls": [
+        "https://www.mha.gov.in/en/acts-rules/immigration-and-foreigners",
+        "https://www.eoibelgrade.gov.in/",
+        "https://eoibelgrade.gov.in/eoibl_pages/NTUx"
+      ]
+    },
+    {
+      "destination": "TG",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains. Newly accessible Togo foreign-ministry documentation/FAQ/diplomatic navigation contains no operative Kosovo document decision. Existing generic duty, electronic process and June 2026 AIP formalities remain insufficient for ordinary Kosovo acceptance."
+      ],
+      "attemptedUrls": [
+        "https://diplomatie.gouv.tg/?s=kosovo",
+        "https://ambassade-togo.fr/",
+        "https://diplomatie.gouv.tg/ministere/documentation",
+        "https://diplomatie.gouv.tg/faq"
+      ]
+    }
+  ],
+  "corrections": []
+}

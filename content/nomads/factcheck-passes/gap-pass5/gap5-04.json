@@ -1,0 +1,842 @@
+{
+  "version": 1,
+  "batch": "gap5-04",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-04-cg-be": {
+      "title": "Belgian Foreign Affairs: Congo-Brazzaville travel documents",
+      "urls": [
+        "https://diplomatie.belgium.be/fr/pays/congo-brazzaville/voyager-au-congo-brazzaville-conseils-aux-voyageurs/informations-pratiques-pour-le-congo-brazzaville"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "cdb0b993f38230baf2d78805979713af12ce59f05c9c4227d226f65be69dd93c"
+    },
+    "gap5-04-cg-es": {
+      "title": "Spanish Foreign Affairs: Republic of Congo entry visa requirement",
+      "urls": [
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Rep%C3%BAblica+del+Congo"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "013e5dfbb655f16551660e90fc92a05d7e58b6c1b9cd812d2af01e76682041a8"
+    },
+    "gap5-04-cg-it": {
+      "title": "Italian Foreign Affairs / Viaggiare Sicuri: Congo entry requirements",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/COG.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "ff31652d4d79900ee5d25045581757961b767a9f01921ce85235112144a8c9eb"
+    },
+    "gap5-04-cg-pt": {
+      "title": "Portuguese Foreign Affairs: Republic of Congo entry conditions",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/vai-viajar/conselhos-aos-viajantes/africa/republica-do-congo"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "cc4208bee24c5ce5bde6524a61eb5379c7dc5bc15b728f3b9835ddeb60976b55"
+    },
+    "gap5-04-cg-ru": {
+      "title": "Russian MFA Consular Department: Republic of Congo visa and border formalities",
+      "urls": [
+        "https://www.kdmid.ru/docs/congo/information-about-the-country/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "4862b304825145adf61817faf89f4e1fc333fc8f5019d411e4799027390e6cbd"
+    },
+    "gap5-04-ye-ru": {
+      "title": "Russian MFA Consular Department: Yemen visa requirement",
+      "urls": [
+        "https://www.kdmid.ru/docs/yemen/information-about-the-country/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "bd0df6a1f4375a18d491bc044f123b8b4cb3470ebabda40e2227ba8bf5a56058"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "BE"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-04-cg-be",
+      "n": "Belgian passport: a visa must be requested before departure at the Republic of Congo embassy in Brussels. This establishes the visa requirement for Belgian visitors; no tourist stay or independent electronic-issuance entitlement is established.",
+      "label": "Visa required; stay unspecified"
+    },
+    {
+      "passports": [
+        "ES"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-04-cg-es",
+      "n": "Spanish passport: obtaining a visa before travel is mandatory. Spanish Foreign Affairs directs applications to the Republic of Congo embassy in Paris. Tourist stay and electronic-issuance eligibility are not specified. This is the Republic of Congo rule, not the separate Democratic Republic of Congo requirement.",
+      "label": "Visa required; stay unspecified"
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-04-cg-it",
+      "n": "Italian passport: entry visa required, requested from the Republic of Congo consular office in Rome. Passport must remain valid for at least six months at departure; carry return/onward travel, validated host accommodation evidence or a hotel reservation, and yellow-fever vaccination certificate. Tourist stay and independent electronic issuance are not established.",
+      "label": "Visa required; stay unspecified"
+    },
+    {
+      "passports": [
+        "PT"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-04-cg-pt",
+      "n": "Portuguese passport: obtain a visa in advance from a Republic of Congo embassy or consulate. Portuguese guidance says it cannot be obtained on entry; this is origin-specific guidance, not a worldwide denial of arrival mechanisms. Passport must be valid for at least six months from arrival. Tourist stay and independent electronic issuance are not established.",
+      "label": "Visa required; stay unspecified"
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "CG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-04-cg-ru",
+      "n": "Russian ordinary passport: a valid visa is required at the border. Russian MFA describes a passport sticker obtained from the Republic of Congo embassy and requires return travel, means for return and invitation or hotel evidence. Its 90-day exemption concerns diplomatic/service passports only. No ordinary tourist stay or independent electronic-issuance entitlement is established.",
+      "label": "Visa required; stay unspecified"
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "YE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-04-ye-ru",
+      "n": "Russian ordinary passport: visa required before entry. The Russian MFA page establishes the requirement, but its embassy-only channel description is not used to exclude the later Aden IPNA agency-mediated tourist approval workflow. Current Russian-passport eligibility for that workflow, issuance channel and tourist stay remain unverified. No routine tourist issuance or permission throughout mainland Yemen or Socotra is assured; competent authority, entry port and territorial permissions require confirmation.",
+      "label": "Visa required; issuance and territorial access unconfirmed",
+      "evidence": [
+        "gap-08-ye-workflow"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "CG",
+      "resolvedOrigins": [
+        "BE",
+        "ES",
+        "IT",
+        "PT",
+        "RU"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CH",
+        "CI",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NL",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Five origin-specific requirements added: BE, ES, IT, PT and RU. Spanish evidence recovered from the Republic of Congo link on the Kinshasa embassy page, rather than the unsuccessful generic Congo locator. Live guidance publication dates are preserved separately from retrieval dates.",
+        "The other 179 origins remain without a reconciled current ordinary-passport exemption/requirement schedule. Chinese mission notices supply no additional tourist determination. HK/MO/PS/TW/XK additionally require particular document handling. Previously reviewed AIP classifications and treaty-reserved Law29-2017 are not expanded or re-fetched."
+      ],
+      "attemptedUrls": [
+        "https://cg.china-embassy.gov.cn/lsfw/",
+        "https://www.mfa.gr/missionsabroad/en/democratic-republic-of-the-congo-en/other-services/visas.html",
+        "https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Detalle-recomendaciones-de-viaje.aspx?trc=Rep%C3%BAblica+del+Congo",
+        "https://cg.china-embassy.gov.cn/zjgg/",
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/kongo-koztarsasag",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/congo/",
+        "https://cg.china-embassy.gov.cn/lsqw/zytz/",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/kongo/cestovani/visa.html",
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/fz_648564/",
+        "https://portaldascomunidades.mne.gov.pt/pt/vai-viajar/conselhos-aos-viajantes/africa/republica-do-congo",
+        "https://www.kdmid.ru/docs/congo/information-about-the-country/",
+        "https://www.nederlandwereldwijd.nl/reisadvies/congo-brazzaville-republiek-congo",
+        "https://diplomatie.belgium.be/fr/pays/congo-brazzaville/voyager-au-congo-brazzaville-conseils-aux-voyageurs/informations-pratiques-pour-le-congo-brazzaville",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/COG.pdf",
+        "https://www.nederlandwereldwijd.nl/reisadvies/republiek-congo",
+        "https://cg.china-embassy.gov.cn/lsqw/lsbhyxz/",
+        "https://www.nederlandwereldwijd.nl/reisadvies",
+        "https://www.nederlandwereldwijd.nl/reisadvies/congo-republiek",
+        "https://www.gov.pl/web/dyplomacja/kongo",
+        "https://www.nederlandwereldwijd.nl/reisadvies/congo-brazzaville",
+        "https://www.gov.pl/web/angola/kongo-informacje-dla-podrozujacych",
+        "https://www.exteriores.gob.es/Embajadas/kinshasa/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx",
+        "https://www.dfa.ie/travel/travel-advice/a-z-list-of-countries/republic-of-congo/",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/republic-of-congo/",
+        "https://www.nederlandwereldwijd.nl/reisadvies/congo",
+        "https://www.exteriores.gob.es/Embajadas/kinshasa/es/Embajada/Paginas/Tambien-somos-tu-embajada-en.aspx",
+        "https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/kongo-brazzaville/reisehinweise-fuerkongobrazzaville.html",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare",
+        "https://www.mofa.pna.ps/ar-jo/"
+      ]
+    },
+    {
+      "destination": "YE",
+      "resolvedOrigins": [
+        "RU"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AZ",
+        "BS",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "CU",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IL",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KG",
+        "LA",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "ST",
+        "SN",
+        "SL",
+        "SB",
+        "SO",
+        "ZA",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "UY",
+        "UZ",
+        "VU",
+        "VE",
+        "VN",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "RU added at requirement level only from Russian MFA border formalities. Its embassy-only channel wording is qualified against the already-cached later Aden IPNA workflow; no stay, routine issuance, airport alternative or universal territorial permission is claimed.",
+        "The remaining 142 origins lack reconciled current ministerial/treaty exemptions and accepted-document/territorial scope. HK retains conflicting exemption-versus-advance-visa evidence; IL/XK/PS/MO lack specific document treatment. New origin/mission alternatives failed or provided no new nationality schedule. No Egyptian or other age/route/territory exemption branch was established."
+      ],
+      "attemptedUrls": [
+        "https://yemenembassy.or.ke/",
+        "https://www.eoisanAA.gov.in/page/travel-advisory/",
+        "https://www.eoisanaa.gov.in/",
+        "https://www.kln.gov.my/web/yem_sana/requirement_malaysians",
+        "https://mfa.gov.az/en/category/visa/visa-free-countries",
+        "https://www.gov.br/mre/pt-br/portal-consular/avisos/noticias/republica-do-iemen",
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-travel/visa-and-visa-free-regime/",
+        "https://yemenembassy-cairo.com/",
+        "https://www.kdmid.ru/docs/yemen/information-about-the-country/",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare",
+        "https://www.mofa.pna.ps/ar-jo/"
+      ]
+    },
+    {
+      "destination": "CI",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AF",
+        "AG",
+        "AL",
+        "AO",
+        "BD",
+        "BO",
+        "CL",
+        "CN",
+        "CO",
+        "CU",
+        "DM",
+        "DO",
+        "EG",
+        "FM",
+        "GQ",
+        "GY",
+        "HK",
+        "ID",
+        "IQ",
+        "IR",
+        "IS",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KP",
+        "LA",
+        "LB",
+        "LK",
+        "LY",
+        "MC",
+        "MH",
+        "MM",
+        "NI",
+        "PG",
+        "PK",
+        "PS",
+        "PW",
+        "RW",
+        "SD",
+        "SS",
+        "SY",
+        "TH",
+        "TL",
+        "VN",
+        "WS",
+        "YE"
+      ],
+      "findings": [
+        "All48 residual origins remain. The Canadian embassy current ordinary-passport sticker procedure describes applications, not an exhaustive nationality duty schedule; Chinese mission notices do not supply the missing inbound rule. Current Rwanda immigration navigation concerns entry into Rwanda and is not reversed.",
+        "Rwanda waiver commencement, remaining ordinary exemptions, and HK/PS document rules still need affirmative current evidence. Failed new schedule and mission locators yield no rule. The existing 2017 archive and old AIP are not advanced to current."
+      ],
+      "attemptedUrls": [
+        "https://ambaci.ca/delivrance-visa-sticker/",
+        "https://www.migration.gov.rw/visa",
+        "https://www.kdmid.ru/docs/cote-d-ivoire/information-about-the-country/",
+        "https://www.ambaci.jp/en/visa.html",
+        "https://www.eoiabidjan.gov.in/page/travel-advisory/",
+        "https://ci.china-embassy.gov.cn/lsfw_0/lstx/",
+        "https://ci.china-embassy.gov.cn/lsfw/",
+        "https://www.consulatcotedivoirelyon.fr/visa/",
+        "https://www.diplomatie.gouv.ci/userfiles/file/LISTE%20DES%20PAYS%20AVEC%20OU%20SANS%20VISA.pdf",
+        "https://ci.china-embassy.gov.cn/lsfw_0/lsbhyxz/",
+        "https://www.minaffet.gov.rw/updates/news-details/rwanda-and-cote-divoire-sign-nine-cooperation-agreements",
+        "https://www.migration.gov.rw/",
+        "https://abidjan.mfa.go.ke/",
+        "https://www.ambaci.ca/visa",
+        "https://www.migration.gov.rw/our-services/visa-issued-to-rwandans",
+        "https://www.ambacibj.org/visa/",
+        "https://www.mofa.pna.ps/ar-jo/"
+      ]
+    },
+    {
+      "destination": "TN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BJ",
+        "ID",
+        "IR",
+        "IQ",
+        "IL",
+        "XK",
+        "KW",
+        "PS",
+        "UA"
+      ],
+      "findings": [
+        "Recovered Indonesian embassy articles dated4 July and30 October2023 through the public frontend content API. They describe visa-free Indonesian tourism, but July also says a visa on arrival at Tunis-Carthage. They do not reconcile current visa-free versus arrival processing or substantiate the remaining practical conditions; ID is held rather than assigned a fabricated category or alternatives.",
+        "UA embassy treaty register, published1 July2026, lists a2014 diplomatic/service/special-passport waiver only; it does not establish an ordinary-tourist rule. Travel-guidance link returned403. BJ/IR/IQ/KW ordinary exceptions and IL/XK/PS documents remain unproved. No age, group, route or territorial branch is invented for any of the nine residuals."
+      ],
+      "attemptedUrls": [
+        "https://backpanel.kemlu.go.id/public-content-service/api/content/publication?type=menu&slug=jamu-para-wisatawan-indonesia%2C-dubes-ri-jelaskan-hubungan-indonesia-tunisia-hingga-informasi-bebas-visa&portal=tunis",
+        "https://diplomatie.gouv.bj/voyager-sans-visa/",
+        "https://tunis.mfa.gov.ua/spivrobitnictvo/560-dogovirno-pravova-baza-mizh-ukrajinoju-ta-tunisom",
+        "https://backpanel.kemlu.go.id/public-content-service/api/content/publication?type=menu&slug=bebas-visa-tunisia-bagi-warga-negara-indonesia&portal=tunis",
+        "https://kemlu.go.id/tunis/informasi-penting",
+        "https://backpanel.kemlu.go.id/public-content-service/api/portal",
+        "https://tunis.mfa.gov.ir/",
+        "https://backpanel.kemlu.go.id/public-content-service/api/content/publication?type=menu&slug=berita-tentang-bebas-visa-ke-tunisia-untuk-wni-dimuat-di-harian-al-shabah&portal=tunis",
+        "https://backpanel.kemlu.go.id/public-content-service/api/contentMenu?type=menu&slug%5B%5D=tunis&slug%5B%5D=berita&portal=tunis&page=1&limit=8&tag=&order_dir=desc&order_by=publish_date&lang=id&quick_search=visa",
+        "https://tunis.mfa.gov.ua/konsulski-pitannya/poradi-podorozhuyuchim",
+        "https://kemlu.go.id/assets/ApiService-nvq5E6yC.js",
+        "https://tunis.mfa.gov.ua/konsulski-pitannya/4379-pitannya-jaki-najbilyshe-cikavlyaty-zajavnikiv-faq",
+        "https://backpanel.kemlu.go.id/public-content-service/api/content/publication?type=publication&slug=bebas-visa-tunisia-bagi-warga-negara-indonesia&portal=tunis",
+        "https://kemlu.go.id/assets/index-CU0h2sle.js",
+        "https://backpanel.kemlu.go.id/public-content-service/api/contentMenu?type=menu&slug%5B%5D=tunis&slug%5B%5D=berita&portal=tunis&page=1&limit=8&tag=&order_dir=desc&order_by=publish_date&lang=id",
+        "https://www.mofa.gov.kw/ar/kuwait-missions-abroad/",
+        "https://tunisia.mfa.gov.ua/konsulski-pitannya/poradi-podorozhuyuchim",
+        "https://tunis.mfa.gov.ua/konsulski-pitannya/2298-trips",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare",
+        "https://www.mofa.pna.ps/ar-jo/"
+      ]
+    },
+    {
+      "destination": "LY",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL",
+        "XK",
+        "SS",
+        "TW",
+        "TR"
+      ],
+      "findings": [
+        "All5 residuals retained. The newly navigated Turkish Tripoli mission age-waiver announcement is explicitly for Libyan citizens entering Turkey, not Turkish citizens entering Libya; it cannot repair the destination checker PARTIAL flag.",
+        "TR exact age/gender boundaries remain unreconciled. IL/SS/TW/XK still lack affirmative accepted-document/ordinary entry rules; online absence or disabled status remains distinct from a nationality-wide ban."
+      ],
+      "attemptedUrls": [
+        "https://trablus-be.mfa.gov.tr/Mission/ShowAnnouncement/352122",
+        "https://trablus-be.mfa.gov.tr/Mission/InfoNotes",
+        "https://trablus-be.mfa.gov.tr/Mission/Announcements",
+        "https://www.mfa.gov.tr/libya-seyahat-edecek-turk-vatandaslarinin-dikkatine.tr.mfa",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare"
+      ]
+    },
+    {
+      "destination": "BI",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CD",
+        "XK",
+        "PS",
+        "SO"
+      ],
+      "findings": [
+        "All4 retained. Current CGM Services describes free EAC entry visas with1–6-month validity and CEPGL entry visas with1–3-month validity. These are not visa-free tourist-stay declarations and do not settle current CD/SO implementation. No membership-only or validity-as-stay conversion.",
+        "New CD mission locator failed. XK/PS ordinary-document treatment remains unproved; the general application procedure cannot establish acceptance."
+      ],
+      "attemptedUrls": [
+        "https://migration.gov.bi/Services",
+        "https://ambaburundi-rdc.org/",
+        "https://www.migration.gov.bi/",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare",
+        "https://www.mofa.pna.ps/ar-jo/"
+      ]
+    },
+    {
+      "destination": "GE",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "BothXK/PS retained. Inspected current live Matsne publication of the law on aliens: entry requires a valid travel document and permission, and exceptional undocumented entry depends on MIA authorisation. No retrieved nationality-specific ordinary-document decision establishes a tourist path for these passports. Origin consular search/directory material adds none."
+      ],
+      "attemptedUrls": [
+        "https://www.mfa.gov.ge/en/visa-information",
+        "https://www.mofa.pna.ps/ar-jo/",
+        "https://matsne.gov.ge/en/document/view/2278806",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare"
+      ]
+    },
+    {
+      "destination": "AR",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "BothPS/XK retained. New representation/consulate locators returned the Palestine representation homepage, a reset, or404 rather than affirmative ordinary tourist document treatment. Kosovo consular/agreements material supplies no Argentina-specific passport determination. Existing general visa duty is not promoted into routine acceptance."
+      ],
+      "attemptedUrls": [
+        "https://repal.cancilleria.gob.ar/es/visas",
+        "https://repal.cancilleria.gob.ar/en/consular-section",
+        "https://cmiam.cancilleria.gob.ar/en/visa-regime-tourists",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare",
+        "https://www.mofa.pna.ps/ar-jo/"
+      ]
+    },
+    {
+      "destination": "AO",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "BothPS/XK retained. The former UK mission address now routes to the official MIREX-hosted mission, but the attempted visa/service paths are soft404 pages. Origin-government consular material supplies no particular ordinary-document determination. Existing statutory requirement does not establish the missing document acceptance or usable issuance channel."
+      ],
+      "attemptedUrls": [
+        "https://reinounido.mirex.gov.ao/servicos/visa",
+        "https://www.angola.org.uk/visas/",
+        "https://www.embassyofangola.org/visa",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare",
+        "https://www.mofa.pna.ps/ar-jo/"
+      ]
+    },
+    {
+      "destination": "RS",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK retained. New Kosovo MFA consular department, international-agreement page and public search did not establish ordinary-passport treatment in Serbia; Serbian office locator404. ID-card arrangements remain distinct from acceptance of an ordinary Kosovo passport, and diplomatic recognition is not used as an entry rule."
+      ],
+      "attemptedUrls": [
+        "https://www.kim.gov.rs/eng/pregovaracki-proces.php",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare"
+      ]
+    },
+    {
+      "destination": "NP",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK retained. New Nepal MFA bilateral navigation and Berlin mission alternative add no affirmative ordinary Kosovo-passport requirement/acceptance determination. Generic visa availability and diplomatic-relations lists cannot resolve this document-specific case."
+      ],
+      "attemptedUrls": [
+        "https://de.nepalembassy.gov.np/tourist-visa/",
+        "https://mofa.gov.np/pages/bilateral-relations-1/",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/?s=Serbi+pasaport",
+        "https://mfa-ks.net/en/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/legjislacioni/marreveshjet-nderkombetare"
+      ]
+    },
+    {
+      "destination": "ZW",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ZM"
+      ],
+      "findings": [
+        "ZM retained. Newly followed Immigration Act PDF section29(1)(b) expressly reserves arrangements dispensing with visas; it contains no Zambia-specific waiver decision. New mission alternatives failed DNS/TLS or supplied no schedule. The published Zambia omission cannot be repaired with a blanket statutory default, SADC membership or assumed reciprocity."
+      ],
+      "attemptedUrls": [
+        "https://www.zimbabwe-embassy.jp/visa/",
+        "https://www.zimbabwetourism.net/visa-regime/",
+        "https://www.zimparis.gov.zw/visa-information/",
+        "https://www.zimlusa.gov.zm/",
+        "https://www.zimimmigration.gov.zw/wp-content/uploads/2020/07/immigration-act.pdf",
+        "https://www.zimpretoria.gov.zw/visa-information/",
+        "https://www.zimimmigration.gov.zw/",
+        "https://www.zimbeijing.gov.zw/visa-information/",
+        "https://www.google.com/search?q=site.gov.zw+Zambia+%22visa%22+%22Category+A%22",
+        "https://www.bing.com/search?q=site.gov.zw+Zambia+visa&format=rss",
+        "https://html.duckduckgo.com/html/?q=Zimbabwe+visa+Zambia+site%3Agov.zw"
+      ]
+    }
+  ],
+  "corrections": []
+}

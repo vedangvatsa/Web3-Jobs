@@ -1,0 +1,1030 @@
+{
+  "version": 1,
+  "batch": "gap5-02",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-02-cd-it": {
+      "title": "Italy MFA: DR Congo entry requirements, May 2026 publication",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/COD.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "13aa3a05d563703e5a5735af4008e3af2acb5c64789fa60299b3dd3d12b57411"
+    },
+    "gap5-02-cd-cz": {
+      "title": "Czech MFA: visa duty for Czech nationals visiting DR Congo",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/kongo_kinshasa/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "3e4baac3441e1cd8678fce410ef42851c5773602421f2d83a7faaec466ba6713"
+    },
+    "gap5-02-cd-hr": {
+      "title": "Croatia MFA country checker: DR Congo, Croatian ordinary passport",
+      "urls": [
+        "https://mvep.gov.hr/konzularne-informacije-116818/putovanja-u-inozemstvo-116819/pregled-viznog-sustava/22853?country=193"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "2cba78da8a60b7bd3a15f90d974fb0b7e71b7eb7b89c7ff2d0a05c3dd536b9cb"
+    },
+    "gap5-02-cd-ae": {
+      "title": "UAE MFA passport-specific DR Congo entry result",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=COD"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "adf7da9e3872b2cd0359599e44dc9c7f73f643e0b21e3ac9469be86cc2866f96"
+    },
+    "gap5-02-ec-nl": {
+      "title": "Netherlands MFA: Dutch tourist exemption and first-entry-year counting",
+      "urls": [
+        "https://www.nederlandwereldwijd.nl/reisadvies/ecuador"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "4128cfb77cd0a878c0713409fd2a474d8bee3032b23757f33d95eaf3e0d151c2"
+    },
+    "gap5-02-ec-cz": {
+      "title": "Czech MFA: Ecuador tourist exemption for Czech citizens",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/jizni_amerika/ekvador/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "c1003f4fab5328bf0a6df44a31ed1fc264a9b8764deec37b3800f35fc71b9a3b"
+    },
+    "gap5-02-ec-ae": {
+      "title": "UAE MFA: Ecuador normal-passport visa exemption",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=ECU"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "958df459cbc2d9529084e2de224dc98da99f8b5ce9bb7cdf27ccb1f5b1663cd5"
+    },
+    "gap5-02-ec-am": {
+      "title": "Armenia MFA outbound checker: Ecuador, ordinary Armenian passport",
+      "urls": [
+        "https://www.mfa.am/en/visa/",
+        "https://www.mfa.am/en/check-visa-out-needing"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "b52e7b8fcbde36128bf82527cb9f79f295c6091f120f33d63db403f960846693"
+    },
+    "gap5-02-ec-hr": {
+      "title": "Croatia MFA country checker: Ecuador, Croatian ordinary passport",
+      "urls": [
+        "https://mvep.gov.hr/konzularne-informacije-116818/putovanja-u-inozemstvo-116819/pregled-viznog-sustava/22853?country=30"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "d4560b1fabbd34574a8749f14463934c7567b9c0bea2c0ad882edfd903606d97"
+    },
+    "gap5-02-ec-dk": {
+      "title": "Denmark MFA: Ecuador entry advice, updated 18 May 2026",
+      "urls": [
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/ecuador"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "f010121f78178a0be85da9afeb9b3131bb16654393a7ca297de099a21b63b90b"
+    },
+    "gap5-02-ec-hu": {
+      "title": "Hungary MFA: Ecuador ordinary-passport tourism and annual allowance",
+      "urls": [
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/ecuador"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "226ba389aeaa834e5f60261a812623da4d26e51e5c0a9eaf7ae4d4f75a60c76c"
+    },
+    "gap5-02-ec-si": {
+      "title": "Slovenia government: Ecuador entry for Slovenian citizens",
+      "urls": [
+        "https://www.gov.si/drzave/ekvador/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "4454b183affe2f1a644d5fb1c559794345f5eb6cadb40210750198e47f222d4e"
+    },
+    "gap5-02-ec-ru": {
+      "title": "Russia MFA current ordinary-passport table and Ecuador treaty Article 1",
+      "urls": [
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+        "https://www.kdmid.ru/regulatory-frameworks/agreements/AG_EC_24.09.2010.php"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "9202e4927c2cba1c93fa8d9cca93b28f90b71bc87f993b39e1a634bb5db320b7"
+    },
+    "gap5-02-cv-ru": {
+      "title": "Russia MFA current table and Cabo Verde treaty; consular EASE requirements",
+      "urls": [
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+        "https://www.kdmid.ru/regulatory-frameworks/agreements/AG_CV_30.04.2019%20.php",
+        "https://portalconsular.mnec.gov.cv/en/vistos"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "9202e4927c2cba1c93fa8d9cca93b28f90b71bc87f993b39e1a634bb5db320b7"
+    },
+    "gap5-02-cv-jp": {
+      "title": "Japan MOFA Cabo Verde advice, 13 March 2026; destination consular rules",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_275.html",
+        "https://portalconsular.mnec.gov.cv/en/vistos"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "daff59556492c872b88176ddb1a3243b9a49090a1e02fa5686e4ce74b854f477"
+    },
+    "gap5-02-cv-ae": {
+      "title": "UAE MFA normal-passport result and Cabo Verde residence-dependent issuance rules",
+      "urls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=CPV",
+        "https://portalconsular.mnec.gov.cv/en/vistos"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "d691842a7a640554641b976c6b8d042dd4b19ce35643ee5b063325a64c1f98b3"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-02-cd-it",
+      "n": "Italian ordinary passport: a visa is required before travel. Italian guidance directs applicants to the DRC embassy; the DGM separately describes electronic pre-approval followed by border issuance. Current electronic eligibility and the applicable issuance channel for this nationality are not established here; no consular-only claim or fixed stay is made. Passport must be valid at least six months on entry with two free pages.",
+      "label": "Visa required; method unconfirmed",
+      "evidence": [
+        "west-central-africa-p2-cd-dgm-faq"
+      ]
+    },
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-02-cd-cz",
+      "n": "Czech ordinary passport: obtain a visa before travel. The live Czech page directs Czech applicants to Prague, but its older procedural and pandemic content does not establish present exclusive issuance arrangements. Electronic eligibility and permitted stay remain unconfirmed; this is a requirement-only record.",
+      "label": "Visa required; method unconfirmed",
+      "evidence": [
+        "west-central-africa-p2-cd-dgm-faq"
+      ]
+    },
+    {
+      "passports": [
+        "HR"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-02-cd-hr",
+      "n": "Croatia MFA explicitly marks a visa required for Croatian ordinary passports and refers enquiries to the DRC mission in Prague. The source does not establish the issuance channel, electronic eligibility or permitted stay.",
+      "label": "Visa required; method unconfirmed",
+      "evidence": [
+        "west-central-africa-p2-cd-dgm-faq"
+      ]
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "CD"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-02-cd-ae",
+      "n": "UAE MFA identifies a visa-on-arrival rule for normal passports and reports 30 days. The DGM separately describes advance electronic approval before border issuance; the applicable pre-approval, port and issuance conditions for UAE tourists are not reconciled. Only the visa requirement is established here. Do not assume walk-up issuance, a usable electronic channel or a confirmed stay.",
+      "label": "Visa required; arrival conditions unconfirmed",
+      "evidence": [
+        "west-central-africa-p2-cd-dgm-faq"
+      ]
+    },
+    {
+      "passports": [
+        "NL"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-02-ec-nl",
+      "n": "Dutch passport: up to 90 tourist days in the 365-day year beginning on first tourist entry, not a fresh allowance on each visit. Passport must have six months validity on arrival. Adults entering across land or river borders from Peru or Colombia need the criminal-record documentation described by the source, or the immigration-system check where available. Galapagos entry has separate controls."
+    },
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-02-ec-cz",
+      "n": "Czech ordinary passport: tourist visits up to 90 days are visa-exempt. The live MFA guidance describes the exemption introduced in June 2008; this is not a new 2026 enactment. No per-visit reset or additional annual allowance is established by this source."
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-02-ec-ae",
+      "n": "UAE normal passport: tourist visa exemption up to 90 days. Passport must have at least six months validity. The checker does not establish a rolling-period reset or a fresh allowance on repeated visits."
+    },
+    {
+      "passports": [
+        "AM"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-02-ec-am",
+      "n": "Armenia MFA outbound checker explicitly reports visa not required for Ecuador with ordinary passport selected (docutype=1). No stay duration or aggregate limit is established by this result."
+    },
+    {
+      "passports": [
+        "HR"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-02-ec-hr",
+      "n": "Croatia MFA explicitly marks no visa required for Croatian ordinary passports entering Ecuador. No duration is given for this outbound rule; the page’s separate Schengen 90/180 text concerns entry into Croatia and is not applied to Ecuador."
+    },
+    {
+      "passports": [
+        "DK"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-02-ec-dk",
+      "n": "Danish passport: visa-exempt tourist stay up to 90 days; no repeated-entry reset is established. Passport must have six months validity and be undamaged. Obtain an entry stamp. The Danish page additionally instructs purchase of a tourist card on entry; Galapagos travel requires its separate transit-control card, return ticket and insurance, and the source states a 60-day Galapagos tourist limit."
+    },
+    {
+      "passports": [
+        "HU"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-02-ec-hu",
+      "n": "Hungarian ordinary passport: tourism is visa-exempt for a maximum of 90 days annually, counted from first entry. Passport must remain valid for six months after entry. Galapagos travel has separate pre-registration and entry charges."
+    },
+    {
+      "passports": [
+        "SI"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-02-ec-si",
+      "n": "Slovenian citizens do not need a visa to enter Ecuador. This source establishes the exemption but supplies no tourist stay duration; other entry conditions remain applicable."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "EC"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-02-ec-ru",
+      "n": "Russian ordinary passport: treaty exemption for up to 90 days in each 180-day period from first entry. Employment or commercial activity requires a visa. Enter through a checkpoint open to international passenger traffic. This specific bilateral period is supported by treaty Article 1 and the current MFA table, rather than inferred from the general Ecuador tourist allowance."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "CV"
+      ],
+      "t": "vf",
+      "d": 60,
+      "s": "gap5-02-cv-ru",
+      "n": "Russian ordinary passport: up to 60 days per visit under treaty Article 2, excluding work, study and residence. Any aggregate limit remains subject to national rules and is not inferred here. Use international passenger checkpoints. EASE pre-registration and the airport security charge apply unless separately exempt; they are not a visa."
+    },
+    {
+      "passports": [
+        "JP"
+      ],
+      "destinations": [
+        "CV"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-02-cv-jp",
+      "n": "Japanese ordinary passport: visa required. Japanese advice mentions consular and airport issuance but calls EASE a visa site; Cabo Verde identifies EASE as pre-registration and makes border-visa applications conditional on residence in a country without its diplomatic representation. This record does not assume that condition, establish an electronic visa or guarantee airport issuance. Applicable channel and stay remain unconfirmed; pre-registration and TSA are separate.",
+      "label": "Visa required; issuance conditions apply"
+    },
+    {
+      "passports": [
+        "AE"
+      ],
+      "destinations": [
+        "CV"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-02-cv-ae",
+      "n": "UAE normal passport: a visa is required. UAE MFA describes arrival issuance, while Cabo Verde conditions border applications on residence in a country without diplomatic representation. Residence and eligibility are not assumed. The applicable issuance channel and stay are not confirmed by this record; no unconditional arrival or electronic method is claimed. EASE pre-registration and TSA remain separate requirements.",
+      "label": "Visa required; issuance conditions apply"
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "CD",
+      "resolvedOrigins": [
+        "AE",
+        "CZ",
+        "HR",
+        "IT"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MN",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RS",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Four origin-specific visa requirements added (AE/CZ/HR/IT), all with d=0 and explicit method/stay limitations. UAE arrival wording is not converted to unconditional walk-up permission; Croatian checker result is the outbound ordinary-passport column.",
+        "New Berlin mission, linked consular instructions and legal locators do not provide a reconciled ordinary-passport default/exemption schedule. Armenian outbound checker actually returns No data found for DR Congo. EAC/CEPGL, Chad, Zimbabwe and special-document cases remain unresolved; eVisa application availability supplies no blanket duty."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=COD",
+        "https://www.mfa.am/en/check-visa-out-needing",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/kongo-dem-rep",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/kongo-demokratische-republik",
+        "https://www.ambardc.de/konsulat",
+        "https://www.ambardc.de/",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/kongo_kinshasa/cestovani/visa.html",
+        "https://dgm.cd/legislation",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/dr-congo",
+        "https://evisa.gouv.cd/helps/terms",
+        "https://mvep.gov.hr/konzularne-informacije-116818/putovanja-u-inozemstvo-116819/pregled-viznog-sustava/22853?country=193",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/COD.pdf",
+        "https://dirco.gov.za/foreign-representation-in-south-africa/",
+        "https://odyseusz.gov.pl/CD",
+        "https://www.mfa.gov.tr/kongo-demokratik-cumhuriyeti-seyahat-edecek-turk-vatandaslarinin-dikkatine.tr.mfa",
+        "https://www.drcembassy.org.za/consular-services/"
+      ]
+    },
+    {
+      "destination": "EC",
+      "resolvedOrigins": [
+        "AE",
+        "AM",
+        "CZ",
+        "DK",
+        "HR",
+        "HU",
+        "NL",
+        "RU",
+        "SI"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AG",
+        "AR",
+        "AZ",
+        "BA",
+        "BB",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CF",
+        "CH",
+        "CL",
+        "CR",
+        "CV",
+        "CY",
+        "DJ",
+        "DM",
+        "DO",
+        "DZ",
+        "EE",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HN",
+        "ID",
+        "IE",
+        "IL",
+        "IS",
+        "JM",
+        "JO",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "MN",
+        "MO",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NO",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PG",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SE",
+        "SK",
+        "SM",
+        "SR",
+        "ST",
+        "SV",
+        "SZ",
+        "TG",
+        "TH",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "VA",
+        "VC",
+        "VU",
+        "WS",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Nine named origin exemptions added: AE/AM/CZ/DK/HR/HU/NL/RU/SI. Armenia uses an actual ordinary-passport outbound checker response; Croatia uses the correct outbound column, not Schengen text. Russia treaty Article 1 supports its specific 90-day/180-day period. Other source periods are preserved or left unspecified.",
+        "Fresh native exemption searches, Chile mission search, the 2021 five-country order announcement and recovered Belarus treaty do not establish a current universal exemption/default for the remaining origins. Belarus treaty has notification-dependent commencement, not proven by its signature article. No requirement-list complement, diplomatic-only waiver or application availability is treated as proof."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=ECU",
+        "https://www.mfa.am/en/check-visa-out-needing",
+        "https://diplomatie.belgium.be/fr/pays/equateur/voyager-en-equateur-conseils-aux-voyageurs/informations-pratiques-pour-lequateur",
+        "https://www.mfa.bg/bg/embassyinfo/ecuador",
+        "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/para-viajar-ao-exterior",
+        "https://www.cancilleria.gob.ec/wp-content/uploads/2014/06/acuerdo_exenci+%C2%A6n_visas-espa+%C2%A6ol.pdf",
+        "https://www.cancilleria.gob.ec/2014/06/20/ecuador-y-belarus-acuerdan-exencion-de-visas/",
+        "https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/ecuador/reisehinweise-fuerecuador.html",
+        "https://www.cancilleria.gob.ec/chile/wp-json/wp/v2/search?search=visa&per_page=30",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/jizni_amerika/ekvador/cestovani/visa.html",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/ecuador",
+        "https://www.cancilleria.gob.ec/wp-json/wp/v2/search?search=exenci%C3%B3n&per_page=30",
+        "https://www.cancilleria.gob.ec/2021/05/15/ecuador-exigira-visa-a-nacionales-de-otros-cinco-paises/",
+        "https://um.fi/matkustustiedote/-/c/EC",
+        "https://www.mfa.gr/missionsabroad/en/ecuador-en/other-services/visas.html",
+        "https://mvep.gov.hr/konzularne-informacije-116818/putovanja-u-inozemstvo-116819/pregled-viznog-sustava/22853?country=30",
+        "https://mvep.gov.hr/konzularne-informacije-116818/putovanja-u-inozemstvo-116819/pregled-viznog-sustava/22853?country=25",
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/ecuador",
+        "https://www.cancilleria.gob.ec/indonesia/visas/",
+        "https://www.cancilleria.gob.ec/austria/visas/",
+        "https://www.cancilleria.gob.ec/chile/visas/",
+        "https://www.nederlandwereldwijd.nl/reisadvies/ecuador",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_ecuador/id2416052/",
+        "https://www.safetravel.govt.nz/destinations/ecuador",
+        "https://www.gov.pl/web/peru/ekwador-idp",
+        "https://odyseusz.gov.pl/",
+        "https://www.gov.pl/web/ekwador/idp",
+        "https://www.mae.ro/travel-conditions/3691",
+        "https://www.kdmid.ru/regulatory-frameworks/agreements/AG_EC_24.09.2010.php",
+        "https://www.dirco.gov.za/foreign/sa_abroad/sam.htm",
+        "https://www.gov.si/drzave/ekvador/",
+        "https://www.mzv.sk/ecuador",
+        "https://ecuador.mfa.gov.ua/konsulski-pitannya/poradi-podorozhuyuchim"
+      ]
+    },
+    {
+      "destination": "CV",
+      "resolvedOrigins": [
+        "AE",
+        "JP",
+        "RU"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AG",
+        "AL",
+        "AR",
+        "AU",
+        "BA",
+        "BB",
+        "BS",
+        "BZ",
+        "CM",
+        "CN",
+        "CU",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GQ",
+        "IL",
+        "IN",
+        "KE",
+        "KN",
+        "KR",
+        "KW",
+        "LC",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MH",
+        "MK",
+        "MU",
+        "MV",
+        "MY",
+        "NZ",
+        "QA",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SM",
+        "ST",
+        "TH",
+        "TL",
+        "UA",
+        "UY",
+        "VA",
+        "VC",
+        "XK"
+      ],
+      "findings": [
+        "RU ordinary-passport exemption of 60 days per visit is corroborated by the current Russian MFA column and full 2019 treaty; the separate diplomatic/service 90 days is not used. JP/AE resolve only visa duty with residence-dependent border issuance, EASE and stay limitations.",
+        "New ST agreement signature announcement and 2017 legal-amendment announcement do not establish operative ordinary-tourist scope/commencement for all residual nationalities. Current portal still reserves legal/treaty exemptions. No nationality-wide visa default is asserted from an unreconciled old exemption PDF."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.ae/en/travel-updates?code=CPV",
+        "https://www.smartraveller.gov.au/destinations/africa/cabo-verde",
+        "https://portalconsular.mnec.gov.cv/en/vistos",
+        "https://boe.incv.cv/",
+        "https://www.eoipraia.gov.in/page/consular-services/",
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_275.html",
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_290.html",
+        "https://www.governo.cv/diploma-sobre-regime-juridico-de-entrada-permanencia-saida-e-a-expulsao-de-estrangeiros-do-territorio-cabo-verdiano-aprovado-no-parlamento/",
+        "https://www.governo.cv/?s=vistos+estrangeiros",
+        "https://www.kdmid.ru/regulatory-frameworks/agreements/AG_CV_30.04.2019%20.php",
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+        "https://www.governo.cv/cabo-verde-e-sao-tome-e-principe-assinam-acordo-que-isenta-vistos-de-entrada-e-reconhecimento-mutuo-de-cartas-de-conducao-entre-os-dois-paises/"
+      ]
+    },
+    {
+      "destination": "PK",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AM",
+        "BH",
+        "HK",
+        "IL",
+        "IN",
+        "KW",
+        "OM",
+        "QA",
+        "SA"
+      ],
+      "findings": [
+        "Armenia MFA actual ordinary-passport outbound checker returns No data found for Pakistan. Oman mission simultaneously says 90-day tourist/business visa-free and, below, visa required from a Pakistani embassy; the conflict is retained.",
+        "BH/KW/QA/SA mission/MFA attempts yielded access, transport or irrelevant-page failures. New Delhi still provides application-category instructions rather than an operative ordinary-tourist duty/availability decision. HK-specific locator failed. AM/IL/HK document eligibility and IN current restrictions remain unproved; no GCC-wide extrapolation."
+      ],
+      "attemptedUrls": [
+        "https://www.mfa.am/en/check-visa-out-needing",
+        "https://www.mfa.am/en/visa/",
+        "https://mofa.gov.pk/manama-consular-affairs",
+        "https://www.mofa.gov.bh/en/visa-information",
+        "https://www.phclondon.org/visas",
+        "https://mofa.gov.pk/press-releases/visa-free-entry-for-gcc-citizens",
+        "https://www.pakistan.hk/visa-information/",
+        "https://www.mea.gov.in/press-releases.htm?dtl/39457/Decision_regarding_Visas_of_Pakistani_Nationals",
+        "https://pakhcnewdelhi.org.pk/",
+        "https://pakhcnewdelhi.org.pk/visa-services/",
+        "https://www.mofa.gov.kw/en/consular-affairs/visa-information/",
+        "https://www.fm.gov.om/islamabad/",
+        "https://www.fm.gov.om/visitors/entry-visas/",
+        "https://islamabad.embassy.qa/en/the-republic-of-pakistan/travel-information",
+        "https://islamabad.embassy.qa/en/services/qatar-citizens",
+        "https://embassies.mofa.gov.sa/sites/Pakistan/AR/Pages/default.aspx"
+      ]
+    },
+    {
+      "destination": "UA",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "KM",
+        "IQ",
+        "XK",
+        "MU",
+        "TG",
+        "TO"
+      ],
+      "findings": [
+        "New source-language Iraq mission pages retrieved successfully, but the 2019 generic visa-unless-exempt paragraph and 2018 visa-centre application process do not supply the six remaining nationality decisions. Old airport/eVisa procedures are not current wartime permission.",
+        "Mauritius legal locator timed out; PIO source concerns entry into Mauritius, not Mauritian entry into Ukraine. MU treaty commencement remains unverified. KM/IQ/TG/TO need current ordinary-nationality determinations; XK needs actual accepted-document treatment."
+      ],
+      "attemptedUrls": [
+        "https://iraq.mfa.gov.ua/",
+        "https://iraq.mfa.gov.ua/konsulski-pitannya/oformlennya-viz/pravila-vyizdu-ta-perebuvannya-v-ukrayini-dlya-gromadyan-inozemnih-derzhav",
+        "https://iraq.mfa.gov.ua/konsulski-pitannya/oformlennya-viz/oformlennya-viz-dlya-vyizdu-v-ukrayinu",
+        "https://zakon.rada.gov.ua/laws/show/480_001-23#Text",
+        "https://cabinet.govmu.org/Pages/Cabinet-Decisions.aspx",
+        "https://foreign.govmu.org/Pages/Passport%20and%20Visa/Passport-and-Visa.aspx",
+        "https://passport.govmu.org/passport/?page_id=605",
+        "https://foreign.govmu.org/Pages/Passport%20and%20Visa/visa-free-countries.aspx",
+        "https://south-africa.mfa.gov.ua/en/consular-issues/visa"
+      ]
+    },
+    {
+      "destination": "BS",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BA",
+        "GH",
+        "SS",
+        "AE"
+      ],
+      "findings": [
+        "Ghana ministry native Bahamas search yields an investment-summit article, not waiver commencement. New law locator was denied; Bosnian origin ministry TLS failed. No source reconciles BA/GH/AE contradictory destination schedules or supplies the omitted SS rule."
+      ],
+      "attemptedUrls": [
+        "https://www.mvp.gov.ba/konzularne_informacije/vize/bahami/?id=4580",
+        "https://mfa.gov.gh/",
+        "https://mfa.gov.gh/?s=Bahamas",
+        "https://mfa.gov.gh/index.php/visa-waiver-agreements/",
+        "https://laws.bahamas.gov.bs/",
+        "https://laws.bahamas.gov.bs/cms/en/legislation/laws/by-title.html",
+        "https://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1967/1967-0025/ImmigrationAct_1.pdf"
+      ]
+    },
+    {
+      "destination": "BB",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "MV",
+        "PS",
+        "TL"
+      ],
+      "findings": [
+        "Native Maldives/Timor/Palestine searches yield no operative missing nationality rule; Palestine results concern diplomacy, not document acceptance. Origin Maldives access denied, Timor locator failed, Palestinian ministry TLS failed. Existing blank MV/TL inbound cells and absent PS remain unresolved; governing Act delegates visa-required passports to ministerial orders."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.bb/Departments/printing",
+        "https://www.barbadoslawcourts.gov.bb/laws-of-barbados",
+        "https://foreign.gov.mv/",
+        "https://immigration.gov.mv/travel/visa-free-travel",
+        "https://www.foreign.gov.bb/?s=Maldives",
+        "https://www.foreign.gov.bb/?s=Palestine",
+        "https://www.mofa.pna.ps/en-us/consularservices",
+        "https://www.foreign.gov.bb/?s=Timor",
+        "https://mne.gov.tl/en/"
+      ]
+    },
+    {
+      "destination": "GT",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "MO",
+        "SS"
+      ],
+      "findings": [
+        "Recovered current-linked 2025 Visa Regulations, Articles 5 and 9: a visa is required where applicable, with A/B/C classifications. This is not an all-unlisted-nationalities default and gives no MO/SS assignment. Migration Code likewise delegates nationality determinations. The separately linked tariff compilation does not resolve nationality and was excluded.",
+        "MO is not mainland China or Hong Kong; SS is not Sudan. Both remain pending a specific classification/amendment or origin-nationality rule."
+      ],
+      "attemptedUrls": [
+        "https://igm.gob.gt/files/IGM029-2023AMN05-2023AMN012-2025IGM039-2025.pdf",
+        "https://igm.gob.gt/images/attachtments/01.-CODIGO-DE-MIGRACION-44-2016.pdf",
+        "https://igm.gob.gt/",
+        "https://igm.gob.gt/marco-legal/",
+        "https://igm.gob.gt/leyes-y-reglamentos/",
+        "https://igm.gob.gt/index.php/nosotros/legislacion-igm",
+        "https://igm.gob.gt/files/REGLAMENTO-VISAS-GUATEMALTECAS-AMN-04-2025.pdf"
+      ]
+    },
+    {
+      "destination": "QA",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL",
+        "XK"
+      ],
+      "findings": [
+        "Israel origin-government request denied; new Kosovo/Qatar mission locator failed and Qatar service locator returned 404. Kosovo consular department page has administrative responsibilities, not outbound visa decisions. Existing all-country Hayya wording/selector omissions remain insufficient for IL/XK ordinary-document treatment."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.il/he/departments/dynamiccollectors/foreign-countries?skip=0&country=Qatar",
+        "https://pristina.embassy.qa/en/services/visas",
+        "https://mofa.gov.qa/en/consular-services/consular-services/travel-advice",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/en/consular-services/"
+      ]
+    },
+    {
+      "destination": "BY",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Belgrade mission request and MFA material failed transport. New Kosovo consular department supplies no actual Belarus ordinary-document or substitute-document decision. Neither diplomatic non-recognition nor a generic visa procedure establishes a ban or routine tourist issuance."
+      ],
+      "attemptedUrls": [
+        "https://serbia.mfa.gov.by/en/consular_issues/visas/",
+        "https://mfa.gov.by/en/visa/info/",
+        "https://mfa.gov.by/en/visa/",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/en/consular-services/"
+      ]
+    },
+    {
+      "destination": "CN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Belgrade mission path redirected to the general mission homepage; visa-centre locator was a page-not-found response. Kosovo consular department supplies no China ordinary-document or substitute-document rule. Statutory duty alone is not converted into proven usable tourist processing."
+      ],
+      "attemptedUrls": [
+        "https://rs.china-embassy.gov.cn/eng/lsyw/qz/",
+        "https://www.visaforchina.cn/BEG3_EN/qianzhengyewu",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/en/consular-services/"
+      ]
+    },
+    {
+      "destination": "SC",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Immigration native Kosovo search returned zero results; legislative/nationality locators failed. New Kosovo consular department has no public outbound entry decision. Current recognized-document/ETA condition and former special treatment remain unresolved; no nationality ban is inferred."
+      ],
+      "attemptedUrls": [
+        "https://www.ics.gov.sc/downloads/legislation",
+        "https://www.ics.gov.sc/component/search/?searchword=Kosovo&searchphrase=all",
+        "https://ics.gov.sc/visa-and-travel/list-of-countries",
+        "https://mfa-ks.net/departamentet/ceshtje-konsullore/",
+        "https://mfa-ks.net/",
+        "https://mfa-ks.net/en/consular-services/"
+      ]
+    }
+  ],
+  "corrections": []
+}

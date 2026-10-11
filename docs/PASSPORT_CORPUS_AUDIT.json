@@ -2,22 +2,22 @@
   "audit": {
     "destinations": 199,
     "routes": 39402,
-    "checked": 33620,
+    "checked": 33877,
     "historical": 983,
-    "unresolved": 4799,
+    "unresolved": 4542,
     "withdrawals": 188
   },
   "rendered": {
-    "checked": 33620,
+    "checked": 33877,
     "historical": 983,
-    "unresolved": 4799,
-    "government": 34606,
-    "reference": 4791,
+    "unresolved": 4542,
+    "government": 34861,
+    "reference": 4536,
     "unknown": 5,
-    "changedCategory": 6366,
-    "changedDays": 10269,
-    "changedStayOrMethods": 7523,
-    "retainedLegacyUnresolved": 3,
+    "changedCategory": 6469,
+    "changedDays": 10387,
+    "changedStayOrMethods": 7566,
+    "retainedLegacyUnresolved": 1,
     "withdrawalWithoutReplacement": 5
   },
   "reference": {
@@ -25,16 +25,26 @@
     "passports": 199,
     "sha256": "cfbba9ffc469e7f80b9140aa36a1371aabdb2260499b3108771c4684afbb3f6e"
   },
-  "policies": 3669,
-  "sources": 2335,
+  "policies": 3816,
+  "sources": 2524,
   "payload": {
-    "totalBytes": 33476127,
-    "totalGzipBytes": 8568366,
+    "totalBytes": 33803313,
+    "totalGzipBytes": 8660766,
     "largest": [
       {
         "passport": "SO",
-        "bytes": 182953,
-        "gzipBytes": 48296
+        "bytes": 187642,
+        "gzipBytes": 49442
+      },
+      {
+        "passport": "CN",
+        "bytes": 179733,
+        "gzipBytes": 46874
+      },
+      {
+        "passport": "JO",
+        "bytes": 183142,
+        "gzipBytes": 46674
       },
       {
         "passport": "VN",
@@ -45,47 +55,37 @@
         "passport": "MR",
         "bytes": 181065,
         "gzipBytes": 46546
-      },
-      {
-        "passport": "TJ",
-        "bytes": 180925,
-        "gzipBytes": 46381
-      },
-      {
-        "passport": "TM",
-        "bytes": 182091,
-        "gzipBytes": 46305
       }
     ],
     "largestRaw": [
       {
         "passport": "SO",
-        "bytes": 182953,
-        "gzipBytes": 48296
-      },
-      {
-        "passport": "VN",
-        "bytes": 182705,
-        "gzipBytes": 46568
-      },
-      {
-        "passport": "TM",
-        "bytes": 182091,
-        "gzipBytes": 46305
-      },
-      {
-        "passport": "NP",
-        "bytes": 181954,
-        "gzipBytes": 46104
+        "bytes": 187642,
+        "gzipBytes": 49442
       },
       {
         "passport": "SY",
-        "bytes": 181719,
-        "gzipBytes": 45519
+        "bytes": 184170,
+        "gzipBytes": 46199
+      },
+      {
+        "passport": "YE",
+        "bytes": 183986,
+        "gzipBytes": 45958
+      },
+      {
+        "passport": "RU",
+        "bytes": 183293,
+        "gzipBytes": 45050
+      },
+      {
+        "passport": "LY",
+        "bytes": 183282,
+        "gzipBytes": 46235
       }
     ],
     "budget": {
-      "bytes": 185000,
+      "bytes": 190000,
       "gzipBytes": 50000
     }
   },
@@ -99,6 +99,21 @@
         "d": 0,
         "s": "europe-schengen-common",
         "n": "An advance short-stay visa is required. Authorised stay is set by the visa, subject to the Schengen-wide 90/180-day maximum. Apply through the competent mission/visa centre; online form submission does not by itself establish an eVisa. Short tourism only. The Schengen limit is 90 days in any rolling 180-day period across the whole area, not 90 days per country. Passport issued within the previous 10 years and valid at least three months after intended departure; accommodation, funds and return/onward travel may be checked. ETIAS is not operational at this check; EES border registration is not an advance travel authorisation. Covers metropolitan/Schengen France; French overseas territories have separate rules. Passport recognition: Non-machine-readable ORDINARY passport not recognised"
+      }
+    },
+    "AF/LA": {
+      "name": "Laos",
+      "iso": "LA",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap5-06-la-current-law",
+        "label": "Visa required; issuance conditions apply",
+        "n": "Ordinary tourist entry requires a visa under Article11 of the Entry-Exit Law, read with Immigration’s published ordinary/unilateral exemption schedule and known later exceptions. Diplomatic/service exemptions do not cover ordinary passports. This is requirement-only: arrival eligibility, electronic eligibility, any advance clearance and the admitted stay are unconfirmed. The law’s generic power to issue visas at checkpoints is not an entitlement for this nationality. An accepted travel document and any applicable special authorisation are still necessary; no routine issuance or admission is promised.",
+        "evidence": [
+          "southeast-asia-la-waivers"
+        ]
       }
     },
     "AU/BF": {
@@ -121,6 +136,33 @@
         "n": "Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed. Visa required under the express entry default, after excluding the full ordinary-passport AIP exemption schedule, independently supported UAE waiver and unresolved newer-agreement/document/restriction cases. Apply through Visa Burkina before travel; obtain electronic approval before boarding. Source supports electronic issuance but not guaranteed approval or a uniform authorized stay. Air-entry scope only. Review: Rwanda is also excluded because its immigration authority publishes an explicit ordinary-passport exemption that conflicts with this residual rule. The retained 156 cases are scoped default proposals after known exclusions, not certification of a universally complete live exemption register. The governing pages are dated 2 October 2025 (AMDT 10/25) and individually retained in the full AMDT 10/26 register effective 1 October 2026; the January 2026 HTML title is not a visa enactment date."
       }
     },
+    "AT/NG": {
+      "name": "Nigeria",
+      "iso": "NG",
+      "review": "checked",
+      "rule": {
+        "t": "ev",
+        "d": 0,
+        "s": "gap5-11-ng-at",
+        "evidence": [
+          "gap-05-ng-tourism-2026"
+        ],
+        "label": "Tourist eVisa required",
+        "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment. The border-authorised period controls; the Austrian warning is not converted into a fixed day allowance.",
+        "stay": "F5A product: up to 30 days; Austrian advice warns that actual admission may be limited to four weeks."
+      }
+    },
+    "AZ/MA": {
+      "name": "Morocco",
+      "iso": "MA",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 90,
+        "s": "gap5-01-ma-azerbaijan-commencement",
+        "n": "The bilateral ordinary-passport exemption entered into force on 28 August 2024. The embassy announcement expressly extends the same visa-free stay privileges of up to 90 days to Azerbaijani nationals visiting Morocco. Additional passport-validity and admission conditions must be checked separately."
+      }
+    },
     "BH/AZ": {
       "name": "Azerbaijan",
       "iso": "AZ",
@@ -132,6 +174,36 @@
         "n": "Historical official ASAN capture of 2026-07-23: up to three visa-free entries during 2026-02-15 through 2027-02-15, with up to 30 days per entry; fourth and subsequent entries require a valid visa. The same table positively lists electronic-visa eligibility. No unlimited-entry waiver or unrestricted land-entry permission is asserted.",
         "until": "2027-02-15",
         "label": "Limited-entry visa waiver (historical evidence)"
+      }
+    },
+    "BD/IQ": {
+      "name": "Iraq",
+      "iso": "IQ",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-iq-duty",
+        "label": "Federal Iraq only: Visa required; document and issuance unconfirmed",
+        "n": "Federal Iraq ordinary-tourism baseline: a valid entry visa is required in addition to an acceptable travel document. A Kurdistan-only permission does not authorise federal Iraq. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred. Bangladeshi issuance/admission restrictions and Israeli/document-sensitive processing have not been established; this record does not assert a usable tourist pathway.",
+        "evidence": [
+          "pass6-consistency-iq-duty-capture-1",
+          "pass6-consistency-iq-duty-capture-2"
+        ]
+      }
+    },
+    "BR/MY": {
+      "name": "Malaysia",
+      "iso": "MY",
+      "review": "checked",
+      "rule": {
+        "t": "vf",
+        "d": 90,
+        "s": "gap5-01-my-brasilia",
+        "evidence": [
+          "gap5-01-my-mdac"
+        ],
+        "n": "Brazilian national-passport holders may visit for tourism/social or business purposes without a visa for up to 90 days. Longer stays or other purposes require a visa. Submit MDAC within three days before arrival unless a published exemption applies; MDAC is an arrival declaration."
       }
     },
     "BF/NE": {
@@ -227,6 +299,37 @@
         "n": "Czech ordinary passport: visa-free for a stay not exceeding 15 days without gainful activity. Longer stays or paid activity require the appropriate visa."
       }
     },
+    "CZ/SY": {
+      "name": "Syria",
+      "iso": "SY",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-sy-duty-cz",
+        "label": "Visa required; current tourist processing unconfirmed",
+        "n": "Visa duty for CZ ordinary short visitors only. Current mission, electronic or border issuance, competent entry point, local territorial permissions and stay are unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-sy-duty-cz-capture-1"
+        ]
+      }
+    },
+    "ET/ER": {
+      "name": "Eritrea",
+      "iso": "ER",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-er-duty",
+        "label": "Visa required; document and issuance unconfirmed",
+        "n": "Ordinary non-Eritrean short-tourism baseline: a visa is required. An original Eritrean national-ID exception requires separately established status. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-er-duty-capture-1",
+          "pass6-consistency-er-duty-capture-2"
+        ]
+      }
+    },
     "FJ/NR": {
       "name": "Nauru",
       "iso": "NR",
@@ -257,6 +360,18 @@
           "vr"
         ],
         "stay": "30-day eVisa option; longer-validity tourist visas have issued conditions and a 180-day annual aggregate"
+      }
+    },
+    "HK/LR": {
+      "name": "Liberia",
+      "iso": "LR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "conditional-adjudication-lr-duty",
+        "label": "Visa required; document handling and issuance unconfirmed",
+        "n": "The Liberian Embassy expressly requires visas from all foreign nationals, with an exception for ECOWAS citizens carrying an ECOWAS passport. This records visa duty for an ordinary Hong Kong SAR, Macao SAR, Palestinian or Kosovo passport; it does not establish acceptance of the particular document. A competent authority must confirm the accepted original or substitute document, applicable residence/mission channel and stay. The separate ROB airport process requires advance approval and is not a walk-up visa entitlement. No eVisa availability, routine tourist issuance or admission ban is inferred."
       }
     },
     "HK/LK": {
@@ -309,6 +424,160 @@
         "n": "Ordinary independent visits outside the Jeju concession require a Korean visa; electronic eligibility depends on the visa category and is not established here. Conditional exception: direct international arrival at Jeju airport or seaport for tourism/transit, staying only in Jeju, is visa-exempt for up to 30 days. Mainland transfer is not covered. Separate document-and-itinerary-dependent transit concessions exist (qualifying foreign visas/residence or a recognised escorted Incheon transit tour); none is assumed. Regular visa stay varies.",
         "label": "Visa required / Jeju-only 30-day exemption",
         "stay": "Jeju-only exemption: up to 30 days; regular visa stay not established"
+      }
+    },
+    "IL/NE": {
+      "name": "Niger",
+      "iso": "NE",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-ne-duty",
+        "label": "Air entry only: Visa required; document and issuance unconfirmed",
+        "n": "Air-entry short-tourism baseline only: a visa is required in addition to an acceptable travel document. Land and sea rules are unestablished. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-ne-duty-capture-1",
+          "pass6-consistency-ne-duty-capture-2"
+        ]
+      }
+    },
+    "XK/AR": {
+      "name": "Argentina",
+      "iso": "AR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "conditional-adjudication-ar-duty",
+        "label": "Visa or AVE required; document and issuance channel unconfirmed",
+        "n": "Argentina's consulate expressly requires an AVE or a visa for tourists outside its passport-only and specified US-document exemption groups. An ordinary Palestinian or Kosovo passport is outside both enumerated groups. This records that requirement without treating AVE as a visa or proving AVE eligibility. Acceptance of the particular original/substitute document, the usable AVE or consular route, mission competence and granted stay remain unconfirmed. No foreign status, routine tourist issuance, document recognition or nationality-wide prohibition is assumed."
+      }
+    },
+    "XK/CN": {
+      "name": "China",
+      "iso": "CN",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "conditional-adjudication-cn-duty",
+        "label": "Visa required for independent tourism; Kosovo document handling unconfirmed",
+        "n": "For ordinary independent tourism, the retained official Article 15 evidence requires an advance visa after the existing unilateral, bilateral and regional exemption reconciliation. This establishes a visa obligation only; it does not establish recognition of a Kosovo passport or an accepted substitute-document procedure. Organised cruise, agency-group, transit and urgent-port concessions are separate conditional regimes; none is assumed and their applicability to this document is not certified. The actual accepted document, special authorization, usable issuance channel and granted stay remain unconfirmed. No routine tourist issuance, visa-free cruise eligibility or admission ban is asserted."
+      }
+    },
+    "XK/ET": {
+      "name": "Ethiopia",
+      "iso": "ET",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-et-duty",
+        "label": "Visa required; document and issuance unconfirmed",
+        "n": "Ordinary short-tourism visa duty only. The known general electronic/arrival procedures are not a positive document-specific result for this passport. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-et-duty-capture-1",
+          "pass6-consistency-et-duty-capture-2",
+          "pass6-consistency-et-duty-capture-3"
+        ]
+      }
+    },
+    "XK/MM": {
+      "name": "Myanmar",
+      "iso": "MM",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-mm-duty",
+        "label": "Visa required; document and issuance unconfirmed",
+        "n": "Ordinary short-tourism baseline: a visa is required. The general 28-day tourist product is not certified for these documents and no particular port or method is promised. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-mm-duty-capture-1",
+          "pass6-consistency-mm-duty-capture-2",
+          "pass6-consistency-mm-duty-capture-3"
+        ]
+      }
+    },
+    "XK/NP": {
+      "name": "Nepal",
+      "iso": "NP",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-np-duty",
+        "label": "Visa required; document and issuance unconfirmed",
+        "n": "A tourist visa is required for the ordinary Kosovo baseline. No stay option or mission/arrival channel is confirmed for the actual document. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-np-duty-capture-1"
+        ]
+      }
+    },
+    "XK/ZA": {
+      "name": "South Africa",
+      "iso": "ZA",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-za-duty",
+        "label": "Visa required; document and issuance unconfirmed",
+        "n": "A South African visitor visa is required for the ordinary tourist baseline. The service page's general validity wording is not a granted stay for this document. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-za-duty-capture-1",
+          "pass6-consistency-za-duty-capture-2"
+        ]
+      }
+    },
+    "XK/KR": {
+      "name": "South Korea",
+      "iso": "KR",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap5-05-kr-checker",
+        "label": "Tourist visa required; mission assessment",
+        "n": "The public nationality-specific navigator returns C-3-9 Ordinary Tourist with an overseas-mission process for holiday/leisure travel. A valid acceptable passport and visa are required. Single-entry and double-entry stays differ; issuance remains subject to document and consular assessment. HiKorea expressly excludes these nationalities from the direct-Jeju and specified transit visa waivers. The navigator’s older Palestine transit text is not used as current permission. An electronic application form is not an eVisa.",
+        "stay": "C-3-9: up to 90 days for a single-entry visa; 30 days for a double-entry visa"
+      }
+    },
+    "MO/KW": {
+      "name": "Kuwait",
+      "iso": "KW",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-kw-duty",
+        "label": "Prior visa required; document and sponsorship unconfirmed",
+        "n": "For the saved ordinary-tourist branch without qualifying foreign status, a prior Kuwaiti visa through local sponsorship is required. Acceptance of the passport, a sponsor or a particular tourist application is unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-kw-duty-capture-1",
+          "pass6-consistency-kw-duty-capture-2",
+          "pass6-consistency-kw-duty-capture-3",
+          "pass6-consistency-kw-duty-capture-4"
+        ]
+      }
+    },
+    "MO/VE": {
+      "name": "Venezuela",
+      "iso": "VE",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-ve-duty",
+        "label": "Air entry only: Visa required; document and issuance unconfirmed",
+        "n": "Air arrival for ordinary tourism: a tourist visa is required. The saved evidence does not establish land or sea entry. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-ve-duty-capture-1",
+          "pass6-consistency-ve-duty-capture-2",
+          "pass6-consistency-ve-duty-capture-3",
+          "pass6-consistency-ve-duty-capture-4"
+        ]
       }
     },
     "ML/NE": {
@@ -394,6 +663,100 @@
         "label": "Advance visa or written pre-clearance"
       }
     },
+    "PS/AO": {
+      "name": "Angola",
+      "iso": "AO",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "conditional-adjudication-ao-duty",
+        "label": "Visa required for overnight tourism; document handling unconfirmed",
+        "n": "Angola Law 13/19 Article 14 separately requires an accepted travel document and an appropriate visa. For overnight ordinary tourism, the visa duty is supported after the prior reconciliation of Decree 189/23 and SME's additional bilateral exemptions. No ordinary Palestinian or Kosovo exemption is established by those instruments. The statute separately excepts qualifying cruise passengers/day visitors and resident/treaty beneficiaries; none is assumed. Whether the particular original or substitute document is accepted, any exceptional authorization, electronic-preapproval versus consular completion and permitted stay remain unconfirmed. A visa alone does not make an unaccepted document valid, and this record promises no routine tourist issuance."
+      }
+    },
+    "PS/BI": {
+      "name": "Burundi",
+      "iso": "BI",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-bi-duty",
+        "label": "Airport entry only: Visa required; document and issuance unconfirmed",
+        "n": "Airport-entry tourist baseline without Burundi residence or another evidenced exemption: advance visa approval is required. No automatic preapproval or border issuance is promised. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-bi-duty-capture-1",
+          "pass6-consistency-bi-duty-capture-2",
+          "pass6-consistency-bi-duty-capture-3"
+        ]
+      }
+    },
+    "PS/KE": {
+      "name": "Kenya",
+      "iso": "KE",
+      "review": "checked",
+      "rule": {
+        "t": "eta",
+        "d": 0,
+        "s": "pass6-consistency-ke-duty",
+        "label": "eTA required; document and issuance unconfirmed",
+        "n": "Approved Kenyan eTA is required before travel for the ordinary tourist baseline without another evidenced exemption. This states the obligation only, not acceptance of this passport or eligibility for successful electronic issuance. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-ke-duty-capture-1",
+          "pass6-consistency-ke-duty-capture-2"
+        ]
+      }
+    },
+    "PS/LK": {
+      "name": "Sri Lanka",
+      "iso": "LK",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-lk-duty",
+        "label": "Prior entry permission required; channel unconfirmed",
+        "n": "Prior Sri Lankan entry permission is required for the ordinary Palestinian tourist baseline; the usable visa/ETA or special-authorisation channel is unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-lk-duty-capture-1",
+          "pass6-consistency-lk-duty-capture-2",
+          "pass6-consistency-lk-duty-capture-3"
+        ]
+      }
+    },
+    "PS/TH": {
+      "name": "Thailand",
+      "iso": "TH",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "gap5-01-th-statutory-default",
+        "evidence": [
+          "gap5-01-th-current-exemptions",
+          "gap5-01-th-palestinian-document"
+        ],
+        "label": "Visa required; mission conditions apply",
+        "n": "A visa and valid travel document are required under the statutory default and current ordinary-passport exemption schedule. Amman publishes Palestinian-specific tourist-document requirements for residents of Gaza and the West Bank, including a passport valid for at least six months from arrival and supporting identity, employment, funds, ticket and accommodation evidence. Its multiple-entry branch additionally requires Jordanian residence. Current electronic versus paper processing, competent mission for other residence profiles and actual stay must be established separately; routine issuance is not assured."
+      }
+    },
+    "PS/UG": {
+      "name": "Uganda",
+      "iso": "UG",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-ug-duty",
+        "label": "Visa required; document and issuance unconfirmed",
+        "n": "Ordinary tourist visa duty only. The public online instructions do not establish acceptance of PS/XK documents or a successful electronic application for them. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-ug-duty-capture-1",
+          "pass6-consistency-ug-duty-capture-2"
+        ]
+      }
+    },
     "PA/TJ": {
       "name": "Tajikistan",
       "iso": "TJ",
@@ -409,6 +772,21 @@
           "vf"
         ],
         "stay": "eVisa: up to 60 calendar days; qualifying older travellers: waiver up to 14 days"
+      }
+    },
+    "PT/SY": {
+      "name": "Syria",
+      "iso": "SY",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-sy-duty-pt",
+        "label": "Visa required; current tourist processing unconfirmed",
+        "n": "Visa duty for PT ordinary short visitors only. Current mission, electronic or border issuance, competent entry point, local territorial permissions and stay are unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+        "evidence": [
+          "pass6-consistency-sy-duty-pt-capture-1"
+        ]
       }
     },
     "RU/NO": {
@@ -464,6 +842,22 @@
         "n": "Air-entry evidence conflict for RW ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Rwanda Immigration corroborates an ordinary-passport exemption, but the Paris mission still publishes a conflicting requirement. Source agreement and first appearance in the compared 2026 AIP do not establish legal priority or commencement. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim."
       }
     },
+    "SO/CY": {
+      "name": "Cyprus",
+      "iso": "CY",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-cy-duty",
+        "label": "Visa required; document and issuance unconfirmed",
+        "n": "Somali ordinary-passport baseline: a Cypriot visa is required. This is a national Cypriot requirement, not a Schengen admission right. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred. A separately qualifying foreign visa/residence exemption is not assumed; the actual Somali document and exceptional authorisation pathway remain unproved.",
+        "evidence": [
+          "pass6-consistency-cy-duty-capture-1",
+          "pass6-consistency-cy-duty-capture-2"
+        ]
+      }
+    },
     "SO/ES": {
       "name": "Spain",
       "iso": "ES",
@@ -508,6 +902,24 @@
         "label": "Prior visitor visa; no Taiwan Schedule 3 fee exemption"
       }
     },
+    "TL/VN": {
+      "name": "Vietnam",
+      "iso": "VN",
+      "review": "checked",
+      "rule": {
+        "t": "ev",
+        "d": 0,
+        "s": "gap5-09-vn-government-electronic",
+        "evidence": [
+          "gap5-09-vn-tl-bill",
+          "gap5-09-vn-tl-treaty",
+          "gap5-09-vn-government-ports",
+          "gap5-09-vn-schedule"
+        ],
+        "label": "eVisa; Phu Quoc exception",
+        "n": "For ordinary tourism beyond the separate Phu Quoc island-only exemption, obtain a visa; the government makes eVisas available to citizens of all countries and territories. Use approved eVisa border gates and comply with the period actually granted; the source’s up-to-90-day visa validity is not a guaranteed stay. The June 2026 bilateral ordinary-passport waiver is not operative by 9 October 2026: it was submitted for parliamentary approval on 24 September, entered the parliamentary initial stage on 5 October, and Article 10 requires 30 days after the last notification of completed domestic procedures. The existing diplomatic/official exemption does not cover ordinary tourism. The separately documented Phu Quoc island-only concession is up to 30 days; it does not permit mainland tourism, and the qualifying island itinerary must be satisfied."
+      }
+    },
     "GB/PS": {
       "name": "Palestine",
       "iso": "PS",
@@ -518,6 +930,22 @@
         "s": "gap-01-ps-gb",
         "n": "Territory-dependent permission, not a Palestinian visa requirement. For a full British citizen passport, access via Israel ordinarily requires ETA-IL and Israeli admission; crossing Israel/Palestine requires passport and Israeli immigration slip. Follow any Palestinian-Authority-only/Judea-and-Samaria-only stamp or express advance-COGAT-authorisation restriction. Gaza requires the relevant entry/exit permission; Erez is reported closed and Rafah may close, so this is not a confirmed open tourist route. British nationals on the Palestinian Population Register or with a Palestinian ID need a Palestinian passport/travel document to leave the West Bank/Gaza; resident dual nationals have Allenby/Rafah exit-and-same-route-return restrictions. Israel-associated and specified other dual nationalities have separate document/preapproval rules. No country-wide stay is established.",
         "label": "Territory- and route-dependent entry permission"
+      }
+    },
+    "US/BF": {
+      "name": "Burkina Faso",
+      "iso": "BF",
+      "review": "checked",
+      "rule": {
+        "t": "vr",
+        "d": 0,
+        "s": "pass6-consistency-bf-duty",
+        "label": "Air entry only: Visa required; document and issuance unconfirmed",
+        "n": "Air-entry short-tourism baseline only: a visa is required. Land and sea entry are outside this evidence. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred. In particular, present US tourist issuance/admission restriction scope is unconfirmed; the statutory condition does not assert tourism is available.",
+        "evidence": [
+          "pass6-consistency-bf-duty-capture-1",
+          "pass6-consistency-bf-duty-capture-2"
+        ]
       }
     },
     "US/GE": {

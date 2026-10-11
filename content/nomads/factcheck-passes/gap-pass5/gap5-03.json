@@ -1,0 +1,771 @@
+{
+  "version": 1,
+  "batch": "gap5-03",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-03-ss-portugal": {
+      "title": "Portugal Foreign Ministry: South Sudan entry-visa requirement expressly covering EU citizens",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/vai-viajar/conselhos-aos-viajantes/africa/sudao-do-sul"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "26b709c2952302ec6a97b9eb03aa3668209bd0e061d1a8f57de86c4bc4dffd0d"
+    },
+    "gap5-03-ss-belgium": {
+      "title": "Belgian Foreign Affairs: South Sudan visa requirement and online/embassy channels",
+      "urls": [
+        "https://diplomatie.belgium.be/fr/pays/soudan-du-sud/voyager-au-soudan-du-sud-conseils-aux-voyageurs/informations-pratiques-pour-le-soudan-du-sud"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "1cef28c529e6c64e59a88a1a52768f9979b355378fd8952a9d35ed9e473cb70c"
+    },
+    "gap5-03-ss-sweden": {
+      "title": "Sweden Abroad: Swedish citizens need a South Sudan visa before entry",
+      "urls": [
+        "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/sydsudan/reseinformation/ambassadens-reseinformation/in--och-utresebest%C3%A4mmelser/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "bc233e5b1a2e8bb92626bc6b475ff9482d737fc156f271691b6c3380745d02bd"
+    },
+    "gap5-03-ss-russia": {
+      "title": "Russian MFA Consular Department: South Sudan ordinary-passport visa requirement",
+      "urls": [
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "9202e4927c2cba1c93fa8d9cca93b28f90b71bc87f993b39e1a634bb5db320b7"
+    },
+    "gap5-03-ss-portal": {
+      "title": "South Sudan Interior Ministry eVisa portal: electronic PDF issuance procedure",
+      "urls": [
+        "https://www.evisa.gov.ss/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "b6164d9643d0ae23679faf4f6f851a2dbcb63961d8fbbb923a898046aa2e6f0e"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "AT",
+        "BG",
+        "CY",
+        "DK",
+        "EE",
+        "ES",
+        "FI",
+        "GR",
+        "HR",
+        "HU",
+        "IE",
+        "IT",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "PL",
+        "PT",
+        "RO",
+        "SI",
+        "SK"
+      ],
+      "destinations": [
+        "SS"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-03-ss-portugal",
+      "label": "Visa required; stay unconfirmed",
+      "n": "EU citizens need a visa before entry. Portuguese official guidance directs applications to South Sudan diplomatic missions. This establishes visa duty; electronic eligibility and permitted tourist stay are not established by this source."
+    },
+    {
+      "passports": [
+        "BE"
+      ],
+      "destinations": [
+        "SS"
+      ],
+      "t": "ev",
+      "d": 0,
+      "a": [
+        "ev",
+        "vr"
+      ],
+      "s": "gap5-03-ss-belgium",
+      "evidence": [
+        "gap5-03-ss-portugal",
+        "gap5-03-ss-portal"
+      ],
+      "n": "Belgian official advice requires a valid visa and permits online or embassy applications; the official portal issues an eVisa PDF to present on arrival. Passport must remain valid for six months on arrival. Tourist stay is unspecified; approval and admission are not automatic."
+    },
+    {
+      "passports": [
+        "SE"
+      ],
+      "destinations": [
+        "SS"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-03-ss-sweden",
+      "evidence": [
+        "gap5-03-ss-portugal"
+      ],
+      "label": "Visa required before entry",
+      "n": "Swedish citizens need a visa before entry; official advice directs applications to the South Sudan embassy in Oslo. Yellow-fever vaccination proof and a passport valid six months beyond planned departure are required. Stay and electronic eligibility are unconfirmed."
+    },
+    {
+      "passports": [
+        "RU"
+      ],
+      "destinations": [
+        "SS"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-03-ss-russia",
+      "label": "Visa required; method unconfirmed",
+      "n": "Russia’s official ordinary-passport table expressly requires a visa for South Sudan. Issuance channel and permitted tourist stay are not established; this is a visa-duty record, not assurance of routine tourist issuance or admission."
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "SS",
+      "resolvedOrigins": [
+        "AT",
+        "BE",
+        "BG",
+        "HR",
+        "CY",
+        "DK",
+        "EE",
+        "FI",
+        "GR",
+        "HU",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MT",
+        "PL",
+        "PT",
+        "RO",
+        "RU",
+        "SK",
+        "SI",
+        "ES",
+        "SE"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AU",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CN",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "CU",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "IS",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IL",
+        "JM",
+        "JP",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MC",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "QA",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "SC",
+        "SL",
+        "SG",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "CH",
+        "SY",
+        "TW",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Portugal's current official South Sudan advice, updated 5 June 2026, expressly says EU citizens need entry visas. This supports 23 assigned EU origins, rather than extrapolating a Portuguese-only statement. Belgium independently documents online and embassy channels; Sweden independently requires a prior visa. Russia's ordinary-passport table expressly requires a visa. Unestablished stays use d=0; no exclusive consular method or admission assurance is inferred.",
+        "The remaining 162 origins lack a current nationality-specific rule or a complete exemption/default reconciliation. New Oslo mission pages provide application procedure, not a universal visa duty. Chinese mission advice covers diplomatic/service/public-affairs passports; Taiwanese advice offers an eVisa link but states an express prior-visa duty only for transit. Neither is promoted into an ordinary-tourist requirement.",
+        "EAC implementation remains unproved for BI/CD/KE/RW/SO/TZ/UG. HK/PS/TW/XK require ordinary-document/nationality treatment. The previously inspected passenger AIP is dated 17 June 2021 despite its 2026 checklist, and supplies no reconciliation of later exemptions."
+      ],
+      "attemptedUrls": [
+        "https://diplomatie.belgium.be/fr/pays/soudan-du-sud/voyager-au-soudan-du-sud-conseils-aux-voyageurs/informations-pratiques-pour-le-soudan-du-sud",
+        "https://juba.mfa.go.ke/visa-services/",
+        "https://portaldascomunidades.mne.gov.pt/pt/vai-viajar/conselhos-aos-viajantes/africa/sudao-do-sul",
+        "https://ss.china-embassy.gov.cn/lsfw/lsbhyzxfw/201108/t20110823_7649045.htm",
+        "https://ss.usembassy.gov/u-s-citizen-services/local-resources-of-u-s-citizens/travel-to-south-sudan/",
+        "https://um.fi/matkustustiedote/-/c/SS",
+        "https://www.anzen.mofa.go.jp/m/mbimmigration_301.html",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-193-a60d1-02-1.html",
+        "https://www.eac.int/component/finder/search?q=South+Sudanese",
+        "https://www.eda.admin.ch/eda/en/fdfa/representations-and-travel-advice/south-sudan/travel-advice-south-sudan.html",
+        "https://www.embrss-norway.org/visa-passports/",
+        "https://www.embrss-norway.org/visa-rules-and-regulations/",
+        "https://www.eoijuba.gov.in/page/visa-services/",
+        "https://www.eoijuba.gov.in/visa-services.php",
+        "https://www.evisa.gov.ss/",
+        "https://www.gov.pl/web/kenia/sudan-poludniowy-idp",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/south-sudan/",
+        "https://www.kdmid.ru/info-for-traveling-abroad/reference-information-for-traveling-abroad/list-of-countries-with-simplified-entry/",
+        "https://www.safetravel.govt.nz/destinations/south-sudan",
+        "https://www.southsudanembassyjapan.com/",
+        "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/sydsudan/reseinformation/ambassadens-reseinformation/in--och-utresebest%C3%A4mmelser/",
+        "https://www.viaggiaresicuri.it/find-country/country/SSD"
+      ]
+    },
+    {
+      "destination": "AZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "AO",
+        "AG",
+        "AM",
+        "BD",
+        "BZ",
+        "BJ",
+        "BT",
+        "BW",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "KM",
+        "CG",
+        "CD",
+        "CI",
+        "DM",
+        "DO",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GH",
+        "GD",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "IQ",
+        "KE",
+        "KI",
+        "XK",
+        "LA",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MG",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "MR",
+        "FM",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "PW",
+        "PS",
+        "PG",
+        "PH",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "ST",
+        "SN",
+        "SL",
+        "SB",
+        "SO",
+        "SS",
+        "VC",
+        "SD",
+        "SR",
+        "SY",
+        "TZ",
+        "TL",
+        "TG",
+        "TO",
+        "TN",
+        "TV",
+        "UG",
+        "UY",
+        "VU",
+        "VE",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "All 94 current gaps retained. New Nairobi/Islamabad and central ordinary-visa pages failed certificate verification; ASAN's public service page returned500. Cabinet decisions and public search supplied no operative comprehensive ordinary-passport schedule. Origin-government alternatives for AL/EG/MA/PH failed or supplied empty/interstitial content.",
+        "Migration Code15.2/15.3 and the outdated 2022 Migration Service table remain insufficient to reconcile all current exceptions. Previously archived ASAN nationality evidence retains its historical status. No archive is promoted to current and no application omission becomes a visa obligation.",
+        "AM requires nationality-specific permission/restriction evidence; PS/XK require ordinary-document scope. Other 91 origins still require positive current eligibility, duty or a fully reconciled exemption schedule."
+      ],
+      "attemptedUrls": [
+        "https://ankarape.dfa.gov.ph/consular-services/visa/visa-to-azerbaijan",
+        "https://asan.gov.az/en/service/asan-viza/asan-viza",
+        "https://bakupe.dfa.gov.ph/consular-services/visa",
+        "https://islamabad.mfa.gov.az/en/category/visa",
+        "https://nairobi.mfa.gov.az/en/category/visa",
+        "https://nk.gov.az/en/documents/decisions",
+        "https://nk.gov.az/en/search?query=visa",
+        "https://punetejashtme.gov.al/regjimi-i-vizave-per-shtetasit-e-huaj/",
+        "https://www.consulat.ma/fr/pays-sans-visa",
+        "https://www.mfa.gov.az/en/category/visa/ordinary-visa",
+        "https://www.mfa.gov.eg/Arabic/ConsularServices/Pages/Visas.aspx"
+      ]
+    },
+    {
+      "destination": "OM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AF",
+        "AO",
+        "AG",
+        "BS",
+        "BD",
+        "BB",
+        "BZ",
+        "BJ",
+        "BW",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "KM",
+        "CG",
+        "CD",
+        "CI",
+        "DJ",
+        "DM",
+        "DO",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "GA",
+        "GM",
+        "GH",
+        "GD",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "IQ",
+        "IL",
+        "JM",
+        "KE",
+        "KI",
+        "XK",
+        "LS",
+        "LR",
+        "LY",
+        "MG",
+        "MW",
+        "ML",
+        "MH",
+        "FM",
+        "ME",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NE",
+        "NG",
+        "KP",
+        "PK",
+        "PW",
+        "PS",
+        "PG",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "ST",
+        "SN",
+        "SL",
+        "SB",
+        "SO",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SY",
+        "TZ",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TV",
+        "UG",
+        "VU",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "The public ROP wizard was queried for all 87 selectable assigned nationalities with GCC residence No; Micronesia has no selectable option and was not synthetically submitted. Exact matched results and non-decisions are preserved separately. The wizard supplies some family-dependent tourist products, not a universal ordinary-tourist requirement.",
+        "Full 26E/26F/26G/26H/36F conditions were retrieved through the wizard's public detail form. They establish accompanying-spouse/child branches, principal-visa/nationality requirements and distinct stay periods. The 26E/26F/36F conditions expressly say dependent age at least18; no under18 eligibility is invented. Detail pages say one month for26F/G/H and one month per visit for36F, while result cards say30days; this difference is retained.",
+        "All 88 gaps remain because independent-traveller duty and the full applicable exemption/issuance branches are still unestablished. Notes propose branch-level evidence with an unknown residual branch; no conditional label is used to hide that gap. AF/IL empty results, MH/PK non-tourist-only results, service errors and missing FM are not entry bans or requirements."
+      ],
+      "attemptedUrls": [
+        "https://evisa.rop.gov.om/visa-eligibility?p_p_id=visawizard_WAR_visaeligibilitywizardportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_visawizard_WAR_visaeligibilitywizardportlet_myaction=Page2",
+        "https://evisa.rop.gov.om/visa-eligibility?p_p_id=visawizard_WAR_visaeligibilitywizardportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_visawizard_WAR_visaeligibilitywizardportlet_myaction=recheck",
+        "https://evisa.rop.gov.om/visa-eligibility?p_p_id=visawizard_WAR_visaeligibilitywizardportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_visawizard_WAR_visaeligibilitywizardportlet_myaction=selectedVisa",
+        "https://mofa.gov.pk/muscat-consular-affairs",
+        "https://www.fm.gov.om/visitors/entry-visas/",
+        "https://www.gov.me/en/diplomatic-missions/foreign-missions-to-montenegro/oman"
+      ]
+    },
+    {
+      "destination": "SZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AO",
+        "AZ",
+        "BF",
+        "CN",
+        "XK",
+        "KW",
+        "LV",
+        "MG",
+        "MV",
+        "ME",
+        "QA",
+        "TR",
+        "IS"
+      ],
+      "findings": [
+        "All13 conflicts/document gaps retained. Iceland remains genuinely contradictory: ministry scan and London say visa required; Brussels and Kuala Lumpur say exempt. London's internal modification is31 January2018 despite its2025 URL; scan creation1 October2025 is not legal commencement. No controlling exemption/revocation or dated amendment was retrieved.",
+        "New judiciary index identifies Immigration Act17/1982 and RegulationsLN7/1987, but substantive texts return403. Public searches supplied shells, not operative amendments. Iceland's government-linked treaty index is explicitly updated1 July2024 and has no retrieved Eswatini/Swaziland entry; absence there cannot prove a current visa duty or disprove a unilateral waiver.",
+        "AO/AZ/BF/CN retain schedule contradictions; KW/LV/MG/MV/QA exemptions conflict with Kuala Lumpur's default; TR waiver versus arrival-visa wording, ME obsolete combined-state naming, and XK ordinary-document acceptance remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://eswatinilii.org/akn/sz/act/ln/1987/7/eng@1987-01-30",
+        "https://eswatinilii.org/gazettes/",
+        "https://eswatinilii.org/legislation/?q=immigration",
+        "https://eswatinilii.org/legislation/?title=immigration",
+        "https://eswatinilii.org/legislation/subsidiary?q=immigration",
+        "https://eswatinilii.org/legislation/subsidiary?title=immigration",
+        "https://eswatinilii.org/search/?q=Iceland+visa",
+        "https://eswatinilii.org/search/?q=immigration+exemption&nature=Government+Gazette",
+        "https://www.gov.sz/index.php/documents-sp-319616872",
+        "https://www.government.is/topics/foreign-affairs/international-agreements/",
+        "https://www.mfa.gov.lv/en/countries-which-latvian-citizens-may-enter-without-visa",
+        "https://www.stjornarradid.is/",
+        "https://www.stjornarradid.is/library/?itemid=081a7932-3925-11ef-b886-005056bcde1f",
+        "https://www.stjornarradid.is/verkefni/utanrikismal/adstod-erlendis/",
+        "https://www.stjornarradid.is/verkefni/utanrikismal/adstod-vid-islendinga-erlendis/ferdalog-erlendis/",
+        "https://www.stjornarradid.is/verkefni/utanrikismal/lagamal/",
+        "https://www.stjornarradid.is/verkefni/utanrikismal/lagamal/althjodasamningar/"
+      ]
+    },
+    {
+      "destination": "SR",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "HT",
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ],
+      "findings": [
+        "All6 retained: HK combined waiver/arrival method remains ambiguous; MO destination/origin evidence conflicts; TW entry-fee procedure does not expressly establish an ordinary-tourist waiver; PS/XK lack accepted-document treatment; HT has restricted admission/attestation context.",
+        "New ministry-linked Guide for Immigrants distinguishes visa/entry-fee/attestation on p16, including special-circumstance Haitian attestations. Page17 preserves agreement exceptions and gives general short-stay administration, not a nationality-specific tourist determination. Its2025 upload path contains text discussing December2025 and is not treated as a commencement date. No automatic Haitian tourist ban, fee-as-visa, or new30-day blanket policy is added."
+      ],
+      "attemptedUrls": [
+        "https://embassies.gov.sr",
+        "https://gov.sr/?s=Ha%C3%AFti+visum",
+        "https://gov.sr/ministeries/ministerie-van-buitenlandse-zaken-internationale-handel-samenwerking/immigratiegids/",
+        "https://gov.sr/wp-content/uploads/2025/06/Guide-For-Immigrants.pdf",
+        "https://netherlands.consulate.gov.sr/"
+      ]
+    },
+    {
+      "destination": "JM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CG",
+        "PS",
+        "TL",
+        "VA"
+      ],
+      "findings": [
+        "All4 CG/PS/TL/VA retained. Newly recovered MFA National Visa Policy describes the statutory non-Commonwealth default under Aliens Act6(h), but also about110 waiver arrangements with inconsistent conditions; it does not reconcile the four absent PICA nationalities. Annexes contain no replacement nationality schedule.",
+        "Current MFA visa guidance only directs visa-subject travellers to consular posts and notes some arrival visas. That procedure does not decide these nationalities. CG is not DRC; PS ordinary documents and TL/VA treatment are not inferred from omission."
+      ],
+      "attemptedUrls": [
+        "https://jhcuk.org/",
+        "https://laws.moj.gov.jm/library/subsidiary-legislation?search=visa",
+        "https://mfaft.gov.jm/",
+        "https://mfaft.gov.jm/pdf/National-Visa-Policy.pdf",
+        "https://mfaft.gov.jm/site/visas/",
+        "https://moj.gov.jm/laws",
+        "https://www.congenjamaica-ny.org/visas/"
+      ]
+    },
+    {
+      "destination": "VE",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL",
+        "MO",
+        "XK"
+      ],
+      "findings": [
+        "All3 IL/MO/XK retained. Newly recovered government-hosted Beijing mission tourist page applies to foreigners from countries without visa suppression, but gives no explicit Macao, Israeli or Kosovo document treatment. The Macao search returns no relevant determination; Israeli government locator403.",
+        "The existing air-arrival waiver/default evidence is not expanded to unspecified documents or land/sea entry; no mainland-China substitution for Macao, routine tourist issuance, or nationality-wide ban is asserted."
+      ],
+      "attemptedUrls": [
+        "https://china.embajada.gob.ve/?s=Macao",
+        "https://china.embajada.gob.ve/visa-de-turista-t/",
+        "https://china.embajada.gob.ve/visas/",
+        "https://www.gov.il/en/pages/venezuela"
+      ]
+    },
+    {
+      "destination": "SV",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "SS"
+      ],
+      "findings": [
+        "HK/SS remain. New Chinese-mission consular/protection indexes and destination nationality search supplied no operative HKSAR/South-Sudan A/B/C classification. The search URL returned a generic homepage, not a negative nationality decision.",
+        "PEI availability for established B/C nationals does not show that these omitted origins are B/C. Mainland China and Sudan are not substituted."
+      ],
+      "attemptedUrls": [
+        "https://sv.china-embassy.gov.cn/lsfw/lsbhyxz/",
+        "https://sv.china-embassy.gov.cn/lsfw/lszj/",
+        "https://www.migracion.gob.sv/?s=nacionalidades"
+      ]
+    },
+    {
+      "destination": "SB",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ME",
+        "MO"
+      ],
+      "findings": [
+        "ME/MO remain. Newly recovered Attorney-General authorised Immigration Act2012 reprint is expressly as in force5 February2024. Section10 imposes a non-exempt visa duty, but section11(1)(d/e) preserves prescribed/Gazette exemptions and section6 requires an accepted passport/travel document. The missing current nationality/exemption/document branches are not settled by that default alone.",
+        "The earlier2025/2026 electronic-processing and reciprocal policies were reviewed against this law. They do not supply an exhaustive ordinary exemption roster or the missing checker decisions for modern Montenegro/Macao. No Serbia/China substitution or blanket eVisa eligibility is added."
+      ],
+      "attemptedUrls": [
+        "https://attorneygenerals.gov.sb/?s=immigration",
+        "https://attorneygenerals.gov.sb/Download/immigration-act-2012-no-3-of-2012v2_as-at-050224/",
+        "https://attorneygenerals.gov.sb/legislation/legislation-portal/",
+        "https://solomonlaws.gov.sb/legislation/current/by-title.html",
+        "https://www.attorneygenerals.gov.sb/",
+        "https://www.attorneygenerals.gov.sb/legislation/current-acts.html"
+      ]
+    },
+    {
+      "destination": "BA",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "PS remains unresolved. New official Gazette searches for Palestine and recognition of travel documents did not retrieve a relevant ordinary-document determination. Results concerned humanitarian assistance/local administration. Existing fully traced visa-decision amendments establish a general default but do not settle this Palestinian document case."
+      ],
+      "attemptedUrls": [
+        "https://sps.gov.ba/?s=Palestine",
+        "https://www.sluzbenilist.ba/search/searchresult?naziv=Palestin",
+        "https://www.sluzbenilist.ba/search/searchresult?naziv=priznavanju+putnih"
+      ]
+    },
+    {
+      "destination": "HK",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains unresolved. New Hong Kong public-government and Immigration-filtered searches did not retrieve a Kosovo ordinary-passport acceptance decision; general search hits were sanctions materials. The e-legislation locator returned a client-configuration page, not substantive law. No seven-day residual waiver or entry ban is inferred."
+      ],
+      "attemptedUrls": [
+        "https://www.elegislation.gov.hk/hk/cap115A",
+        "https://www.search.gov.hk/result?query=Kosovo&ui_lang=en&ui_charset=utf-8&site=default_collection&tpl_id=stdsearch&gp0=immd_home",
+        "https://www.search.gov.hk/result?query=Kosovo+passport&ui_lang=en&ui_charset=utf-8&site=default_collection"
+      ]
+    },
+    {
+      "destination": "GH",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains unresolved. New GIS Kosovo search expressly returned no results, Berlin mission served a shell, and Kosovo's Ghana locator404. No current ordinary-passport tourist rule was recovered. The previously identified generic eVisa API fallback is not a nationality decision or passport-recognition proof."
+      ],
+      "attemptedUrls": [
+        "https://ambasadat.net/gana/",
+        "https://berlin.mfa.gov.gh/visa-application/",
+        "https://gis.gov.gh/?s=Kosovo"
+      ]
+    }
+  ],
+  "corrections": []
+}

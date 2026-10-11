@@ -1,65 +1,59 @@
 # Passport fact-check coverage and gaps
 
-Audit evidence through 2026-10-08. All 39,402 routes are accounted for: 33,620 government-backed baselines, 983 historical official records and 4,799 unresolved official reviews.
+Audit evidence through 2026-10-11. All 39,402 routes are accounted for: 33,877 government-backed baselines, 983 historical official records and 4,542 unresolved official reviews.
 
 Government-backed baseline does not mean that every application method, stay allowance or individual eligibility condition has been established. Missing fields remain unspecified and qualifications remain in the route notes. Archives are dated historical evidence. This report does not certify every route as currently correct.
 
-Current evidence remains missing for 5,782 routes: the unresolved and historical groups together. Historical document reproductions may be hosted outside web.archive.org.
+Current evidence remains missing for 5,525 routes: the unresolved and historical groups together. Historical document reproductions may be hosted outside web.archive.org.
 
 Each destination has 198 foreign passport origins. Counts are disjoint. Destinations with the largest evidence gaps appear first.
 
 | Destination | ISO | Government-backed | Historical | Unresolved |
 | --- | --- | ---: | ---: | ---: |
 | Palestine | PS | 3 | 0 | 195 |
-| DR Congo | CD | 12 | 0 | 186 |
-| South Sudan | SS | 12 | 0 | 186 |
-| Congo | CG | 9 | 5 | 184 |
-| Equatorial Guinea | GQ | 14 | 0 | 184 |
-| Guinea-Bissau | GW | 15 | 0 | 183 |
-| North Korea | KP | 15 | 0 | 183 |
-| Sudan | SD | 15 | 0 | 183 |
-| Central African Republic | CF | 16 | 0 | 182 |
-| Syria | SY | 16 | 1 | 181 |
-| Nigeria | NG | 22 | 0 | 176 |
-| Mauritania | MR | 24 | 0 | 174 |
-| Algeria | DZ | 25 | 0 | 173 |
-| Cuba | CU | 28 | 0 | 170 |
-| Cambodia | KH | 29 | 0 | 169 |
+| DR Congo | CD | 16 | 0 | 182 |
+| Equatorial Guinea | GQ | 16 | 0 | 182 |
+| North Korea | KP | 18 | 0 | 180 |
+| Congo | CG | 14 | 5 | 179 |
+| Guinea-Bissau | GW | 19 | 0 | 179 |
+| Sudan | SD | 20 | 0 | 178 |
+| Central African Republic | CF | 23 | 0 | 175 |
+| Syria | SY | 22 | 1 | 175 |
+| Algeria | DZ | 29 | 0 | 169 |
+| Cuba | CU | 30 | 0 | 168 |
+| Mauritania | MR | 31 | 0 | 167 |
+| Nigeria | NG | 31 | 0 | 167 |
+| Cambodia | KH | 35 | 0 | 163 |
+| South Sudan | SS | 36 | 0 | 162 |
 | Gabon | GA | 37 | 0 | 161 |
-| Iran | IR | 19 | 25 | 154 |
-| Trinidad and Tobago | TT | 53 | 0 | 145 |
-| Saint Vincent and the Grenadines | VC | 55 | 0 | 143 |
-| Yemen | YE | 55 | 0 | 143 |
-| Sao Tome and Principe | ST | 34 | 25 | 139 |
-| Ecuador | EC | 63 | 0 | 135 |
+| Iran | IR | 23 | 25 | 150 |
+| Yemen | YE | 56 | 0 | 142 |
+| Saint Vincent and the Grenadines | VC | 58 | 0 | 140 |
+| Sao Tome and Principe | ST | 35 | 25 | 138 |
+| Ecuador | EC | 72 | 0 | 126 |
+| Trinidad and Tobago | TT | 79 | 0 | 119 |
 | Azerbaijan | AZ | 23 | 81 | 94 |
-| Saint Kitts and Nevis | KN | 105 | 0 | 93 |
+| Saint Kitts and Nevis | KN | 106 | 0 | 92 |
 | Oman | OM | 110 | 0 | 88 |
-| Malaysia | MY | 141 | 0 | 57 |
-| Cape Verde | CV | 147 | 0 | 51 |
-| Guyana | GY | 149 | 0 | 49 |
+| Malaysia | MY | 143 | 0 | 55 |
+| Cape Verde | CV | 150 | 0 | 48 |
+| Guyana | GY | 150 | 0 | 48 |
 | Ivory Coast | CI | 25 | 125 | 48 |
-| United Arab Emirates | AE | 150 | 0 | 48 |
-| Mali | ML | 157 | 0 | 41 |
+| United Arab Emirates | AE | 154 | 0 | 44 |
+| Mali | ML | 158 | 0 | 40 |
 | Egypt | EG | 161 | 0 | 37 |
-| Laos | LA | 161 | 0 | 37 |
-| Kuwait | KW | 178 | 0 | 20 |
-| Antigua and Barbuda | AG | 179 | 0 | 19 |
-| Bolivia | BO | 180 | 0 | 18 |
 | Afghanistan | AF | 181 | 0 | 17 |
+| Antigua and Barbuda | AG | 181 | 0 | 17 |
 | Gambia | GM | 181 | 0 | 17 |
+| Kuwait | KW | 182 | 0 | 16 |
+| Bolivia | BO | 184 | 0 | 14 |
 | Jordan | JO | 185 | 0 | 13 |
 | Swaziland | SZ | 185 | 0 | 13 |
 | Somalia | SO | 186 | 0 | 12 |
 | Cameroon | CM | 188 | 0 | 10 |
-| Eritrea | ER | 189 | 0 | 9 |
-| Iraq | IQ | 189 | 0 | 9 |
 | Pakistan | PK | 5 | 184 | 9 |
 | Tunisia | TN | 9 | 180 | 9 |
 | Vanuatu | VU | 189 | 0 | 9 |
-| Burkina Faso | BF | 190 | 0 | 8 |
-| Niger | NE | 190 | 0 | 8 |
-| Paraguay | PY | 190 | 0 | 8 |
 | Lesotho | LS | 191 | 0 | 7 |
 | Tanzania | TZ | 191 | 0 | 7 |
 | Suriname | SR | 192 | 0 | 6 |
@@ -67,46 +61,42 @@ Each destination has 198 foreign passport origins. Counts are disjoint. Destinat
 | Chad | TD | 193 | 0 | 5 |
 | Djibouti | DJ | 193 | 0 | 5 |
 | Libya | LY | 193 | 0 | 5 |
+| Paraguay | PY | 193 | 0 | 5 |
 | Senegal | SN | 193 | 0 | 5 |
-| South Korea | KR | 193 | 0 | 5 |
 | Timor-Leste | TL | 193 | 0 | 5 |
 | Bahamas | BS | 194 | 0 | 4 |
 | Bangladesh | BD | 194 | 0 | 4 |
-| Benin | BJ | 194 | 0 | 4 |
-| Burundi | BI | 194 | 0 | 4 |
+| Burkina Faso | BF | 194 | 0 | 4 |
 | Guinea | GN | 194 | 0 | 4 |
 | Honduras | HN | 194 | 0 | 4 |
 | Jamaica | JM | 194 | 0 | 4 |
 | Lebanon | LB | 194 | 0 | 4 |
-| Liberia | LR | 194 | 0 | 4 |
-| Panama | PA | 194 | 0 | 4 |
+| Niger | NE | 194 | 0 | 4 |
 | Turkmenistan | TM | 194 | 0 | 4 |
 | Tuvalu | TV | 194 | 0 | 4 |
 | Barbados | BB | 195 | 0 | 3 |
-| Belize | BZ | 195 | 0 | 3 |
 | Botswana | BW | 195 | 0 | 3 |
-| Cyprus | CY | 195 | 0 | 3 |
-| Kenya | KE | 195 | 0 | 3 |
 | Macao | MO | 195 | 0 | 3 |
-| Morocco | MA | 195 | 0 | 3 |
 | Nicaragua | NI | 195 | 0 | 3 |
-| Uganda | UG | 195 | 0 | 3 |
-| Venezuela | VE | 195 | 0 | 3 |
+| Panama | PA | 195 | 0 | 3 |
+| South Korea | KR | 195 | 0 | 3 |
 | Zambia | ZM | 195 | 0 | 3 |
-| Angola | AO | 196 | 0 | 2 |
-| Argentina | AR | 196 | 0 | 2 |
+| Benin | BJ | 196 | 0 | 2 |
+| Burundi | BI | 196 | 0 | 2 |
 | Colombia | CO | 196 | 0 | 2 |
 | Comoros | KM | 196 | 0 | 2 |
+| Cyprus | CY | 196 | 0 | 2 |
 | Dominica | DM | 192 | 4 | 2 |
 | El Salvador | SV | 196 | 0 | 2 |
-| Ethiopia | ET | 196 | 0 | 2 |
+| Eritrea | ER | 196 | 0 | 2 |
 | Georgia | GE | 196 | 0 | 2 |
 | Guatemala | GT | 196 | 0 | 2 |
+| Iraq | IQ | 196 | 0 | 2 |
 | Kazakhstan | KZ | 191 | 5 | 2 |
 | Mauritius | MU | 196 | 0 | 2 |
 | Moldova | MD | 196 | 0 | 2 |
 | Mongolia | MN | 196 | 0 | 2 |
-| Myanmar | MM | 196 | 0 | 2 |
+| Morocco | MA | 196 | 0 | 2 |
 | Namibia | NA | 196 | 0 | 2 |
 | Philippines | PH | 196 | 0 | 2 |
 | Qatar | QA | 196 | 0 | 2 |
@@ -114,56 +104,57 @@ Each destination has 198 foreign passport origins. Counts are disjoint. Destinat
 | Rwanda | RW | 196 | 0 | 2 |
 | Saint Lucia | LC | 196 | 0 | 2 |
 | Solomon Islands | SB | 196 | 0 | 2 |
-| South Africa | ZA | 196 | 0 | 2 |
 | Taiwan | TW | 196 | 0 | 2 |
-| Thailand | TH | 196 | 0 | 2 |
-| Vietnam | VN | 196 | 0 | 2 |
 | Andorra | AD | 197 | 0 | 1 |
-| Bahrain | BH | 197 | 0 | 1 |
 | Belarus | BY | 197 | 0 | 1 |
-| Bosnia and Herzegovina | BA | 197 | 0 | 1 |
+| Belize | BZ | 197 | 0 | 1 |
 | Brunei | BN | 197 | 0 | 1 |
-| China | CN | 197 | 0 | 1 |
 | Czech Republic | CZ | 197 | 0 | 1 |
 | Dominican Republic | DO | 197 | 0 | 1 |
 | Ghana | GH | 197 | 0 | 1 |
 | Grenada | GD | 197 | 0 | 1 |
 | Hong Kong | HK | 197 | 0 | 1 |
-| India | IN | 35 | 162 | 1 |
 | Indonesia | ID | 197 | 0 | 1 |
 | Israel | IL | 197 | 0 | 1 |
 | Japan | JP | 197 | 0 | 1 |
+| Kenya | KE | 197 | 0 | 1 |
 | Kosovo | XK | 197 | 0 | 1 |
 | Kyrgyzstan | KG | 197 | 0 | 1 |
-| Lithuania | LT | 197 | 0 | 1 |
+| Laos | LA | 197 | 0 | 1 |
 | Marshall Islands | MH | 197 | 0 | 1 |
 | Mexico | MX | 197 | 0 | 1 |
-| Nepal | NP | 197 | 0 | 1 |
 | North Macedonia | MK | 197 | 0 | 1 |
 | Saudi Arabia | SA | 197 | 0 | 1 |
 | Serbia | RS | 197 | 0 | 1 |
 | Seychelles | SC | 197 | 0 | 1 |
 | Sierra Leone | SL | 197 | 0 | 1 |
-| Sri Lanka | LK | 197 | 0 | 1 |
 | Tajikistan | TJ | 196 | 1 | 1 |
-| Togo | TG | 197 | 0 | 1 |
+| Thailand | TH | 197 | 0 | 1 |
+| Uganda | UG | 197 | 0 | 1 |
 | Uruguay | UY | 197 | 0 | 1 |
 | Uzbekistan | UZ | 197 | 0 | 1 |
+| Vietnam | VN | 197 | 0 | 1 |
 | Zimbabwe | ZW | 197 | 0 | 1 |
 | Albania | AL | 198 | 0 | 0 |
+| Angola | AO | 198 | 0 | 0 |
+| Argentina | AR | 198 | 0 | 0 |
 | Armenia | AM | 198 | 0 | 0 |
 | Australia | AU | 198 | 0 | 0 |
 | Austria | AT | 198 | 0 | 0 |
+| Bahrain | BH | 198 | 0 | 0 |
 | Belgium | BE | 198 | 0 | 0 |
 | Bhutan | BT | 198 | 0 | 0 |
+| Bosnia and Herzegovina | BA | 198 | 0 | 0 |
 | Brazil | BR | 198 | 0 | 0 |
 | Bulgaria | BG | 198 | 0 | 0 |
 | Canada | CA | 198 | 0 | 0 |
 | Chile | CL | 198 | 0 | 0 |
+| China | CN | 198 | 0 | 0 |
 | Costa Rica | CR | 198 | 0 | 0 |
 | Croatia | HR | 198 | 0 | 0 |
 | Denmark | DK | 198 | 0 | 0 |
 | Estonia | EE | 198 | 0 | 0 |
+| Ethiopia | ET | 198 | 0 | 0 |
 | Fiji | FJ | 198 | 0 | 0 |
 | Finland | FI | 198 | 0 | 0 |
 | France | FR | 198 | 0 | 0 |
@@ -172,11 +163,14 @@ Each destination has 198 foreign passport origins. Counts are disjoint. Destinat
 | Haiti | HT | 198 | 0 | 0 |
 | Hungary | HU | 198 | 0 | 0 |
 | Iceland | IS | 198 | 0 | 0 |
+| India | IN | 36 | 162 | 0 |
 | Ireland | IE | 198 | 0 | 0 |
 | Italy | IT | 198 | 0 | 0 |
 | Kiribati | KI | 198 | 0 | 0 |
 | Latvia | LV | 198 | 0 | 0 |
+| Liberia | LR | 198 | 0 | 0 |
 | Liechtenstein | LI | 198 | 0 | 0 |
+| Lithuania | LT | 198 | 0 | 0 |
 | Luxembourg | LU | 198 | 0 | 0 |
 | Madagascar | MG | 198 | 0 | 0 |
 | Malawi | MW | 198 | 0 | 0 |
@@ -186,7 +180,9 @@ Each destination has 198 foreign passport origins. Counts are disjoint. Destinat
 | Monaco | MC | 198 | 0 | 0 |
 | Montenegro | ME | 198 | 0 | 0 |
 | Mozambique | MZ | 198 | 0 | 0 |
+| Myanmar | MM | 198 | 0 | 0 |
 | Nauru | NR | 198 | 0 | 0 |
+| Nepal | NP | 198 | 0 | 0 |
 | Netherlands | NL | 198 | 0 | 0 |
 | New Zealand | NZ | 198 | 0 | 0 |
 | Norway | NO | 198 | 0 | 0 |
@@ -201,14 +197,18 @@ Each destination has 198 foreign passport origins. Counts are disjoint. Destinat
 | Singapore | SG | 198 | 0 | 0 |
 | Slovakia | SK | 198 | 0 | 0 |
 | Slovenia | SI | 198 | 0 | 0 |
+| South Africa | ZA | 198 | 0 | 0 |
 | Spain | ES | 198 | 0 | 0 |
+| Sri Lanka | LK | 198 | 0 | 0 |
 | Sweden | SE | 198 | 0 | 0 |
 | Switzerland | CH | 198 | 0 | 0 |
+| Togo | TG | 198 | 0 | 0 |
 | Tonga | TO | 198 | 0 | 0 |
 | Turkey | TR | 198 | 0 | 0 |
 | United Kingdom | GB | 198 | 0 | 0 |
 | United States | US | 198 | 0 | 0 |
 | Vatican | VA | 198 | 0 | 0 |
+| Venezuela | VE | 198 | 0 | 0 |
 
 ## Unresolved origins and research findings
 
@@ -228,10 +228,12 @@ Unresolved origins (195): AF, AL, DZ, AD, AO, AG, AR, AM, AU, AT, AZ, BS, BH, BD
 - For all remaining origins, no inspected current nationality-specific West Bank/Gaza permission and population-register branch establishes a reliable tourist rule. COGAT access had failed previously; this pass used different origin-government territorial guidance. ETA-IL, Israeli admission, West Bank restrictions and Gaza permits remain distinct.
 - One German-passport conditional requirement is supported by explicit origin-government statements naming CoGAT and distinguishing West-Bank-only travel, incidental West Bank visits, Gaza and Palestinian population-register documents. No Israeli rule is extrapolated to other passports.
 - The other 195 origins remain unresolved for the applicable nationality/document/territory/route branch. Australian advice adds genuine border and entry-card facts but does not establish its complete permission branches. COGAT direct policy returned 403; IAA redirected to a temporary notice. Gaza closure is not a nationality-wide ban.
+- All 195 origins retained. The current French, Dutch and Turkish publications establish specific route/document facts, but no newly retrieved governing COGAT text reconciles West-Bank-only versus combined itineraries, registered Palestinian documents, Israeli citizens, Gaza and nationality exceptions. French-linked December 2022 COGAT PDF and central policy are access-denied.
+- No UK/German rule is generalized. Dutch local no-visa wording and Turkish Israeli-visa duty are not country-wide Palestine classifications. French September 2026 guidance gives B/2 coverage for short West Bank visits after Israeli entry, restrictive Franco-Palestinian handling and impossible Gaza travel, but does not resolve every distinct entry branch. Exact zero-credit modelling proposal is in research notes.
 
 ### DR Congo (CD)
 
-Unresolved origins (186): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RS, RW, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+Unresolved origins (182): AD, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GW, GY, HK, HN, HT, HU, ID, IE, IL, IN, IQ, IR, IS, JM, JO, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RS, RW, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
 
 - JS-only blocker partly resolved: actual FAQ content was present in public data-page JSON, without authentication. Current DGM homepage explicitly links evisa.gouv.cd. GB/FR now have a sourced advance electronic approval method, distinct from border VAP issuance.
 - Remaining origins: current complete visa-exempt nationality list not obtained; the FAQ’s “all foreigners” application eligibility is not proof that all nationalities need a visa. Raw FAQ content dates are 2020/2021, not newly published in 2026. Canadian consular-only guidance conflicts with unrestricted interpretation; CA retained as generic visa-required with method uncertainty. Paris mission confirms online forms still require passport, photos and Commission approval.
@@ -241,35 +243,12 @@ Unresolved origins (186): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BF
 - Six narrow current additions from Tokyo and Australian/Belgian/Dutch/Spanish/Russian origin-government evidence. No consular validity period became a stay.
 - New Tokyo, Delhi, Brussels, Paris and DGM sources inspected. Tokyo explicitly establishes Japanese duty; Delhi/Paris generic application instructions and DGM eVisa links do not establish all remaining nationalities or an exhaustive current exemption roster.
 - The remaining 186 origins need an operative ordinary-passport exemption/default reconciliation, especially EAC/CEPGL, Chad commencement, Zimbabwe and HK/MO/PS/XK recognition. No default was inferred from eVisa application access.
-
-### South Sudan (SS)
-
-Unresolved origins (186): AF, AL, DZ, AD, AO, AG, AR, AM, AU, AT, AZ, BS, BH, BD, BB, BY, BE, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, KH, CM, CV, CF, TD, CL, CN, CO, KM, CG, CD, CR, CI, HR, CU, CY, DK, DJ, DM, DO, EC, EG, SV, GQ, ER, EE, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, HU, IS, IN, ID, IR, IQ, IE, IL, IT, JM, JP, JO, KZ, KE, KI, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MG, MW, MY, MV, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, PL, PT, QA, RO, RU, RW, KN, LC, WS, SM, ST, SA, SN, SC, SL, SG, SK, SI, SB, SO, ZA, KR, ES, LK, VC, SD, SR, SE, CH, SY, TW, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
-
-- Official eVisa site now retrieved, but its eligibility URL returns same landing page and the linked government service redirects to login. No credentials used, no universal eligibility inferred.
-- FR and TR origin-government requirements added to GB. Remaining origins still need destination nationality/exception evidence, especially EAC exemptions; generic eVisa marketing is insufficient.
-- Several purported mission domains failed or were repurposed into gambling sites and were rejected. Regional EAC summaries alone do not establish current South Sudan national implementation.
-- Fresh current origin-government sources add CA, AE and RS only. Serbian page contains an unrelated Cambodia eVisa paragraph; only its explicit South Sudan requirement is used.
-- Current South Sudan eVisa landing page links account creation/sign-in without a public nationality schedule. Three archive-availability queries returned no captures. Additional mission domains failed DNS; Kenya mission timed out. EAC search and actual implementation article concern DRC/Uganda and fee/visa language; neither establishes all present South Sudan inbound exemptions.
-- Six narrow ordinary-passport additions (CZ, DE, MD, MN, MO, NL); origin advice is not generalised to other passports. The Macao result is a passport-specific policy record with explicit no-waiver/no-arrival fields, not an application dropdown.
-- Remaining 186 origins: no current comprehensive South Sudan exemption/default schedule recovered. EAC KE/TZ/UG implementation and BI/RW treatment require current national evidence; overseas-origin and special documents require exact scope. Ministry/justice TLS failures and mission closures/rejections persist. Austrian advice contains security information but no entry determination.
-
-### Congo (CG)
-
-Unresolved origins (184): AD, AE, AF, AG, AL, AM, AO, AR, AU, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CH, CI, CL, CN, CO, CR, CU, CV, CY, CZ, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FM, GD, GE, GH, GM, GN, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RU, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TW, TZ, UA, UG, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
-
-- Second pass inspected current Congo MFA, Paris and Berlin missions plus the Berlin linked six-page form. MFA says “most travelers” need a visa, not all. Paris online payment/submission still requires a physical passport and is classified vr for French nationals.
-- Remaining origins: current mission pages and linked documents did not yield exhaustive exemptions. Generic consular intake cannot prove a nationality requires a visa or lacks an eVisa. Historical UDEAC text cannot settle present CEMAC conditions. The attempted Belgium mission hostname failed DNS.
-- Recovered and read Law 29-2017 (official gazette 38/2017), replacing/completing the 1996 law. Article15 has a visa default but expressly reserves particular immigration agreements; the database is not an exhaustive current exemption schedule.
-- Rwanda ordinary-passport fee-free arrival visa is expressly established by the 2021 agreement, provisionally effective on signature and published/ratified in 2023; visa validity is not converted into stay.
-- DE/RS resolved using nationality-specific origin-ministry statements. Signed 2017 biometric CEMAC circular supports five HISTORICAL additions only; third-party facsimile does not count as current operational confirmation.
-- Current MFA/AfDB guidance still says most travellers, not all. Paris form/payment with passport submission is not standalone eVisa. Other origins lack a complete present exemption/arrival/recognition schedule; no blanket is manufactured. A secondary 2027 African waiver announcement is not current policy.
-- Recovered the migrated Washington consular visa page from its live homepage. It describes US/non-US products and mission residence requirements but no exhaustive exemption schedule; its no-border-visa statement conflicts with the already-evidenced Rwanda treaty. No universal default expansion from that procedure page.
-- AT and TR are resolved solely by their own governments. Taiwan BOCA gives Tokyo mission contact and passport/visa-copy advice but no explicit ordinary-tourist requirement determination. All other origins still need a reconciled current bilateral/arrival/ordinary-passport schedule; PS/XK/HK/MO/TW additionally need document-specific treatment. Prior Law29-2017 reserves immigration agreements.
+- Four origin-specific visa requirements added (AE/CZ/HR/IT), all with d=0 and explicit method/stay limitations. UAE arrival wording is not converted to unconditional walk-up permission; Croatian checker result is the outbound ordinary-passport column.
+- New Berlin mission, linked consular instructions and legal locators do not provide a reconciled ordinary-passport default/exemption schedule. Armenian outbound checker actually returns No data found for DR Congo. EAC/CEPGL, Chad, Zimbabwe and special-document cases remain unresolved; eVisa application availability supplies no blanket duty.
 
 ### Equatorial Guinea (GQ)
 
-Unresolved origins (184): AD, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, ME, MG, MH, MK, ML, MM, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RW, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+Unresolved origins (182): AD, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, KE, KG, KH, KI, KM, KN, KP, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, ME, MG, MH, MK, ML, MM, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RW, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
 
 - Public translation asset (en-US.json, loaded by official portal) resolves method and Malabo-only port conditions; ES and CA requirements independently confirmed. Generic en.json was an HTML fallback and rejected.
 - Remaining origins: “all nationalities can apply” does not establish visa obligation for exempt countries or recognition of each special travel document. No complete current exemption schedule retrieved. Former Paris mission site now serves gambling content; ministry TLS invalid; no CEMAC default inferred. Template mixes 15/30-day stay strings with other validity text, so d remains 0.
@@ -279,10 +258,41 @@ Unresolved origins (184): AD, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD, BE
 - Four origin-specific requirements added: TR/RU/JP visa-required with method/stay uncertainty; AE normal-passport arrival visa with 90-day validity not converted to stay. No origin-specific government advice is generalized.
 - New legal/ministry/mission locators did not produce an operative exhaustive ordinary-passport exemption schedule. Government press root returned an empty body; legislative/ministry and London/US mission leads failed or lacked content. Belgian advice defers travel-document requirements and does not itself impose a visa on every traveller. Japanese country ID103 was DRC and rejected; correct ID276 was obtained through the public names/ID scripts.
 - Remaining ordinary states require an explicit current default reconciled with all bilateral exemptions. CEMAC CM/CF/CG/GA/TD need current passport-variant/implementation scope; BB/TN bilateral waivers and HK/MO/PS/XK document treatment remain unproved. Electronic application availability alone is not visa obligation.
+- CZ and KR added from explicit own-passport visa requirements; no method/stay invented. Compromised or parked Equatorial Guinea mission domains were excluded.
+- Fresh government/legislative and CEMAC search did not recover a current reconciled default/exemption instrument. CEMAC passport implementation, BB/TN waivers and SAR/PS/XK documents remain material blockers.
+
+### North Korea (KP)
+
+Unresolved origins (180): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, JM, JO, JP, KE, KG, KH, KI, KM, KN, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, ME, MG, MH, MK, ML, MM, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RW, SA, SB, SC, SD, SE, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+
+- AU/CA origin-government evidence adds two narrowly scoped visa-required routes; GB retained. Current border and tour restrictions remain explicit.
+- Destination MFA unavailable. Public archive recovered only tourism SPA shell and bundle, without a verified current nationality/issuance table. Other195 routes unresolved; no US-issued passport restriction recast as DPRK nationality ban.
+- Five narrowly sourced origins resolved (FR SG RS TR RU); each source applies only to its own citizens. DPRK Ministry law endpoint failed TLS validation and China mission paths returned the home page, not a nationality schedule. No worldwide requirement or ban inferred; all 195 baseline gaps were reviewed against the unavailable global schedule and available origin advice. US passport-use restrictions and inter-Korean entry permits are not recast as DPRK nationality bans.
+- Seven new requirement-only origins: CZ ES IT MD MN NL PT. Each origin-government rule is confined to that origin; no declaration that tourism is open or routinely issuable. Diplomatic/official exemptions are excluded.
+- Untried Naenara law navigation and public consumer JavaScript inspected; its law-view GET timed out and supplied no governing default. China mission/MFA lead redirected to an error page. Several other origin sources failed or were generic homepages.
+- Taiwan BOCA offers a consular application route but does not expressly establish the visa obligation; JP advice says refrain from travel, not an entry classification. US State sources denied access; no US passport-use restriction is globalised. KR inter-Korean permission is not treated as an ordinary worldwide visa rule. All other gaps lack scoped official requirement/exemption evidence.
+- Three origin-specific visa-duty additions: BE DE SI; no tourism-opening, guaranteed-issuance or numerical-stay claim. Belgium’s actual live decision uses PRK; its2023 record date is preserved.
+- Untried ROK Ministry of Justice unification-law database and public title/content searches did not retrieve the needed current DPRK foreign-entry statute or exception schedule. New Chinese embassy consular navigation provided China-bound notices, not a DPRK nationality rule. Previously failed DPRK law/tourism HTTP/HTTPS endpoints were not retried.
+- Other180 origins retain missing scoped visa-duty/exemption proof. Chinese border-tour exceptions, Korean inter-Korean permissions, Malaysian historical waiver/passport restrictions and US passport-use restrictions require distinct treatment; HK/MO/PS/TW/XK documents are not inferred from other nationalities.
+
+### Congo (CG)
+
+Unresolved origins (179): AD, AE, AF, AG, AL, AM, AO, AR, AU, AZ, BA, BB, BD, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CH, CI, CL, CN, CO, CR, CU, CV, CY, CZ, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GD, GE, GH, GM, GN, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TW, TZ, UA, UG, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+
+- Second pass inspected current Congo MFA, Paris and Berlin missions plus the Berlin linked six-page form. MFA says “most travelers” need a visa, not all. Paris online payment/submission still requires a physical passport and is classified vr for French nationals.
+- Remaining origins: current mission pages and linked documents did not yield exhaustive exemptions. Generic consular intake cannot prove a nationality requires a visa or lacks an eVisa. Historical UDEAC text cannot settle present CEMAC conditions. The attempted Belgium mission hostname failed DNS.
+- Recovered and read Law 29-2017 (official gazette 38/2017), replacing/completing the 1996 law. Article15 has a visa default but expressly reserves particular immigration agreements; the database is not an exhaustive current exemption schedule.
+- Rwanda ordinary-passport fee-free arrival visa is expressly established by the 2021 agreement, provisionally effective on signature and published/ratified in 2023; visa validity is not converted into stay.
+- DE/RS resolved using nationality-specific origin-ministry statements. Signed 2017 biometric CEMAC circular supports five HISTORICAL additions only; third-party facsimile does not count as current operational confirmation.
+- Current MFA/AfDB guidance still says most travellers, not all. Paris form/payment with passport submission is not standalone eVisa. Other origins lack a complete present exemption/arrival/recognition schedule; no blanket is manufactured. A secondary 2027 African waiver announcement is not current policy.
+- Recovered the migrated Washington consular visa page from its live homepage. It describes US/non-US products and mission residence requirements but no exhaustive exemption schedule; its no-border-visa statement conflicts with the already-evidenced Rwanda treaty. No universal default expansion from that procedure page.
+- AT and TR are resolved solely by their own governments. Taiwan BOCA gives Tokyo mission contact and passport/visa-copy advice but no explicit ordinary-tourist requirement determination. All other origins still need a reconciled current bilateral/arrival/ordinary-passport schedule; PS/XK/HK/MO/TW additionally need document-specific treatment. Prior Law29-2017 reserves immigration agreements.
+- Five origin-specific requirements added: BE, ES, IT, PT and RU. Spanish evidence recovered from the Republic of Congo link on the Kinshasa embassy page, rather than the unsuccessful generic Congo locator. Live guidance publication dates are preserved separately from retrieval dates.
+- The other 179 origins remain without a reconciled current ordinary-passport exemption/requirement schedule. Chinese mission notices supply no additional tourist determination. HK/MO/PS/TW/XK additionally require particular document handling. Previously reviewed AIP classifications and treaty-reserved Law29-2017 are not expanded or re-fetched.
 
 ### Guinea-Bissau (GW)
 
-Unresolved origins (183): AD, AE, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GY, HK, HN, HR, HT, HU, ID, IE, IL, IQ, IR, IS, IT, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, ME, MG, MH, MK, ML, MM, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RU, RW, SA, SB, SC, SD, SE, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+Unresolved origins (179): AD, AE, AF, AG, AL, AM, AO, AR, AU, AZ, BA, BB, BD, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GY, HK, HN, HR, HT, HU, ID, IE, IL, IQ, IR, IS, JM, JO, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, ME, MG, MH, MK, ML, MM, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RU, RW, SA, SB, SC, SD, SE, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
 
 - Current Portuguese advice explicitly requires authorization for ordinary Portuguese passports; Canadian tourist visa requirement added. Lisbon mission and linked consular procedures inspected, but no ordinary-nationality exemption schedule found.
 - Remaining origins: rgb-visa.com contains extensive gambling/casino injections and was rejected as authoritative current evidence despite legacy visa text. Government and attempted new mission hostnames fail DNS. No ECOWAS/AES, universal VOA or eVisa expansion; first-pass FR airport-authorization conditions preserved.
@@ -293,21 +303,13 @@ Unresolved origins (183): AD, AE, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD
 - Eight narrow origin-government additions; MO arrival visa is90 days at Osvaldo Vieira International Airport only. Singapore independently reports90-day arrival visas; India describes90-day validity rather than a definite stay, so IN d=0.
 - Current ministry/mission research from the preceding pass remains without an authentic exhaustive ordinary exemption/default schedule. No universal arrival visa, ECOWAS/AES/CPLP implementation or ordinary-document rule inferred. Old rgb-visa.com remains rejected as compromised; it was not revisited. Czech guidance only says a visa may be requested, so CZ is not added.
 - Other origins still need a current nationality/default schedule, regional valid-document implementation or individual origin-MFA evidence. No source for another nationality is generalized.
-
-### North Korea (KP)
-
-Unresolved origins (183): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, JM, JO, JP, KE, KG, KH, KI, KM, KN, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, ME, MG, MH, MK, ML, MM, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RW, SA, SB, SC, SD, SE, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
-
-- AU/CA origin-government evidence adds two narrowly scoped visa-required routes; GB retained. Current border and tour restrictions remain explicit.
-- Destination MFA unavailable. Public archive recovered only tourism SPA shell and bundle, without a verified current nationality/issuance table. Other195 routes unresolved; no US-issued passport restriction recast as DPRK nationality ban.
-- Five narrowly sourced origins resolved (FR SG RS TR RU); each source applies only to its own citizens. DPRK Ministry law endpoint failed TLS validation and China mission paths returned the home page, not a nationality schedule. No worldwide requirement or ban inferred; all 195 baseline gaps were reviewed against the unavailable global schedule and available origin advice. US passport-use restrictions and inter-Korean entry permits are not recast as DPRK nationality bans.
-- Seven new requirement-only origins: CZ ES IT MD MN NL PT. Each origin-government rule is confined to that origin; no declaration that tourism is open or routinely issuable. Diplomatic/official exemptions are excluded.
-- Untried Naenara law navigation and public consumer JavaScript inspected; its law-view GET timed out and supplied no governing default. China mission/MFA lead redirected to an error page. Several other origin sources failed or were generic homepages.
-- Taiwan BOCA offers a consular application route but does not expressly establish the visa obligation; JP advice says refrain from travel, not an entry classification. US State sources denied access; no US passport-use restriction is globalised. KR inter-Korean permission is not treated as an ordinary worldwide visa rule. All other gaps lack scoped official requirement/exemption evidence.
+- Four origin-specific visa-duty additions only: AT, IT, JP and SI. No nationality-wide arrival/eVisa default or ECOWAS/AES/CPLP extrapolation.
+- Authentic Slovenia-linked consulate supplies application procedures, not an exhaustive nationality schedule. Guinea-Bissau MFA visa page remains “Em atualização”.
+- UAE GNB card is withheld: its heading is Guinea-Bissau but its application note names Equatorial Guinea. Remaining origins need an authentic current schedule or affirmative nationality/document evidence.
 
 ### Sudan (SD)
 
-Unresolved origins (183): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB, BY, BE, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, KH, CM, CV, CF, TD, CL, CN, CO, KM, CG, CD, CR, CI, HR, CU, CY, CZ, DK, DJ, DM, DO, EC, EG, SV, GQ, ER, EE, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, HU, IS, IN, ID, IR, IQ, IE, IL, IT, JM, JP, JO, KZ, KE, KI, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MO, MG, MW, MY, MV, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, PL, PT, QA, RO, RW, LC, WS, SM, ST, SA, SN, SC, SL, SG, SK, SI, SB, SO, ZA, KR, SS, LK, VC, SR, SE, CH, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
+Unresolved origins (178): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB, BY, BE, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, KH, CM, CV, CF, TD, CL, CN, CO, KM, CG, CD, CR, CI, HR, CU, CY, CZ, DK, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, HU, IS, IN, ID, IR, IQ, IE, IL, JM, JP, JO, KZ, KE, KI, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MO, MG, MW, MY, MV, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, PL, QA, RO, RW, LC, WS, SM, ST, SA, SN, SC, SL, SG, SK, SB, SO, ZA, SS, LK, VC, SR, SE, CH, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
 
 - Added explicit SKN ordinary-passport 90-day waiver, Turkish arrival-visa rule and French prior-visa rule. Each origin-government source is used only for that origin.
 - Washington mission restricts described services to specified purposes and US residents; no universal tourist default inferred. Saudi/German/South African mission attempts failed, US travel advice blocked.
@@ -317,10 +319,13 @@ Unresolved origins (183): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB
 - All remaining assigned origins: current exemption orders and ordinary-nationality/age/sex/routing schedules still unproved. EG/KW/AE/YE and CN/ER/KE/MY/QA need their claimed special regimes; IL needs current admission evidence; HK/MO/PS/TW/XK need document handling. No country-list dropdown is proof.
 - Current additions are passport-specific outbound evidence; the 1994 act’s exemption powers are not an implemented worldwide schedule. UAE ordinary-passport exemption and arrival permit are explicitly documented, rather than assumed from the law.
 - Fresh Ministry of Justice public legal index and 2026 gazette index were inspected. The 15 September 2026 supplement index concerns bank liquidation/company names, not implemented visa-exemption orders. Washington mission entry page supplies business/official procedures, not a worldwide tourist nationality rule. Remaining origins need actual current exemptions, age/sex/routing qualifications and passport recognition.
+- Added only EE/IT/KR/PT/SI passport-specific visa requirements. Initial stays and unproved issuance channels remain unspecified.
+- Fresh Interior law list contains wildlife/hunting regulations, not a nationality exemption schedule. Current Justice/document and origin-government research does not reconcile the 1994 default with actual nationality, age/sex, residence or routing exemptions; no old AIP/default expansion.
+- CZ guidance describes applications and discourages travel without visas but was not promoted to an explicit duty. Belgian practical guidance, Polish shell, access failures and wrongly located Japanese Tunisia page supply no additions.
 
 ### Central African Republic (CF)
 
-Unresolved origins (182): AD, AE, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CH, CL, CN, CO, CR, CU, CV, CY, CZ, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IE, IN, IQ, IR, IS, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NL, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RU, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SO, SR, SS, ST, SV, SY, SZ, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TW, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+Unresolved origins (175): AD, AE, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CH, CL, CN, CO, CR, CU, CV, CY, DJ, DK, DM, DO, DZ, EC, EG, ER, ES, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GR, GT, GW, GY, HK, HN, HR, HT, HU, ID, IN, IQ, IR, IS, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LS, LT, LU, LV, LY, MA, MC, ME, MG, MH, MK, ML, MM, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RU, SA, SB, SC, SD, SE, SG, SI, SK, SL, SM, SO, SR, SS, ST, SV, SY, SZ, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
 
 - Canadian ordinary tourist requirement added. Paris embassy still requires printed application and physical passport; an online form is not itself an eVisa.
 - Remaining passports: MFA alternative failed hostname TLS validation, Interior/Security Ministry portal states that it is under construction, and US embassy alert returned 403. CEMAC’s archived 1972 scan is not current evidence for modern biometric/document eligibility; no regional defaults or unsupported US restriction added.
@@ -335,10 +340,12 @@ Unresolved origins (182): AD, AE, AF, AG, AL, AM, AO, AR, AT, AU, AZ, BA, BB, BD
 - AIC 17/A/22FC is dated 25 March 2022 and remains listed PERM in the current October 2026 AIC index. Its continuing specific entry provisions, not the old generic GEN page or package date alone, support this scoped record.
 - 9 new air-entry-scoped rules; 182 original gaps remain. Do not expand 2022 AIC default to all remaining passports: omitted Gabon/CEMAC case, AE conflict, special documents, possible later waivers and US restriction question remain. US appears in 2022 exemption annex but is expressly withheld.
 - No residual CAR default or unrestricted Bangui visa-on-arrival entitlement is added. The exceptional less-than-one-month procedure requires prior MFA validation; that period is not the stay of a visa-exempt visitor.
+- Seven new nationality-specific visa duties: CZ, EE, IE, MD, MN, NL and TW. Stay/method uncertainty retained; Taiwan explicitly requires prior visa. No residual AIC default expansion.
+- GA/CEMAC ordinary-document implementation, AE waiver/arrival conflict, US later-restriction question, BF bilateral leads and HK/MO/PS/XK accepted-document questions remain held. Other residual origins lack reconciled current nationality duty/exemptions.
 
 ### Syria (SY)
 
-Unresolved origins (181): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB, BY, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, KH, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, HR, CU, CY, CZ, DK, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, HU, IS, ID, IQ, IE, IT, JM, JP, JO, KZ, KE, KI, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MO, MG, MW, MY, MV, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, PL, PT, QA, RO, RU, RW, KN, LC, WS, SM, ST, SA, SN, RS, SC, SL, SG, SK, SI, SB, SO, ZA, KR, SS, ES, LK, VC, SD, SR, SE, CH, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
+Unresolved origins (175): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB, BY, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, KH, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, HR, CU, CY, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, HU, IS, ID, IQ, IE, JM, JP, JO, KZ, KE, KI, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MO, MG, MW, MY, MV, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, PL, QA, RO, RU, RW, KN, LC, WS, SM, ST, SA, SN, RS, SC, SL, SG, SK, SB, SO, ZA, KR, SS, LK, VC, SD, SR, SE, CH, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
 
 - AU and IN electronic routes and Turkish visa-exempt-with-border-fee rule added only for those nationals. Existing express Iranian/Israeli citizenship prohibition retained; no inference that a travel warning is an entry ban.
 - Current Syrian MFA website and services were retrieved; services did not supply a foreign-tourist nationality schedule. Sydney honorary consulate links a visa application form only. Malaysian/Romanian former mission paths returned 404.
@@ -350,36 +357,14 @@ Unresolved origins (181): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB
 - Current origin-MFA evidence establishes NL, BE, EE, MD and MN visa requirements; UAE MFA expressly describes airport arrival issuance for normal UAE passports, with a three-month tourist stay. No universal eVisa requirement is inferred.
 - Japanese 2024 source describes the pre-transition government and is not promoted to current evidence. Czech/Portuguese pages retain old operational language; not used for additional current rules. Syrian central electronic portal remains TLS-inaccessible and the Romanian mission path is a soft404.
 - Every other assigned origin remains without a current ordinary-passport exemption/requirement and territorial/port schedule. Arab and Lebanese exceptions, nationality-specific clearances, and HK/MO/PS/XK documents cannot be resolved by a generic application service.
-
-### Nigeria (NG)
-
-Unresolved origins (176): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CL, CM, CN, CO, CR, CU, CY, CZ, DJ, DK, DM, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FM, GA, GD, GE, GQ, GR, GT, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, KE, KG, KH, KI, KM, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MN, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RU, RW, SA, SB, SC, SD, SE, SG, SI, SK, SM, SO, SR, SS, ST, SV, SY, SZ, TD, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
-
-- NIS F5A detail page is more precise than generic FAQ: confirms 30-day tourist stays and electronic/embassy alternatives. Added current ECOWAS-member exemption and KN bilateral waiver effective 2025-08-04; CA tourist eVisa corroborated.
-- Remaining origins: F5A explicitly reserves bilateral visa-abolition agreements without listing all of them; no blanket eVisa requirement assigned solely from eligibility. Publicly referenced country-config lookup returned HTTP 403; no authentication or header bypass attempted. BF/ML/NE post-withdrawal status and special-document recognition still unverified. Landing card is not itself the entry visa.
-- Retrieved and extracted all 93 pages of the NIS revised APRIL 2026 Service Level Agreement. F5A explicitly gives 30-day non-extendable stay, 90-day validity and emailed electronic certificate. Origin-specific FR/DE/TR requirements remove exemption uncertainty for those additions; TW has separately documented consular issuance.
-- Searched current public NIS post/media indexes for policy, visa, exemption and waiver; pursued NIS 2025 implementation workshop, Interior, NCAA circulars, Foreign Affairs, London and New York missions. The actual complete document titled Nigeria Visa Policy 2025 was not retrieved. Workshop publicity and the 2026 SLA are not relabelled as that missing policy.
-- Ordinary waivers for CM/TD/SC, remaining bilateral agreements and special documents remain unverified. London and F5A reserve unnamed exemptions. January 29 2025 ECOWAS statement was retrieved in full: continues AES citizens’ rights and recognition of ECOWAS-logo passports until further notice; Nigeria-specific current implementation/new AES document treatment still needs confirmation. No fee waiver or application list used as exemption.
-- Recovered the actual 52-page embassy-hosted NIS PDF titled Nigeria Visa Policy 2025 and its live homepage link. It is a training/sensitization presentation, not the missing complete exemption enactment: page 13 counts four exemption classes but does not enumerate them.
-- Brussels tourist page explicitly says all non-ECOWAS tourists require visas, but omits the documented KN bilateral waiver; the April 2026 SLA reserves additional bilateral waivers. Therefore this incomplete default is not expanded to every remaining origin. CM/TD/SC exemptions, BF/ML/NE current legacy/AES passport treatment, and HK/MO/PS/XK document treatment remain specifically unsettled.
-- Four origin-government requirements added with NIS electronic method. The 2025 deck page 45 says F5A stay90; April2026 SLA pages23–24 explicitly says30. Later product-specific SLA controls; no baseline correction is claimed.
-
-### Mauritania (MR)
-
-Unresolved origins (174): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DJ, DK, DM, DO, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GN, GQ, GR, GT, GY, HK, HN, HR, HT, HU, ID, IE, IL, IN, IQ, IR, IS, IT, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, MA, MC, MD, ME, MG, MH, MK, MM, MN, MT, MU, MV, MW, MX, MY, MZ, NA, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RU, RW, SA, SB, SC, SD, SE, SI, SK, SL, SM, SO, SR, SS, ST, SV, SY, SZ, TG, TH, TJ, TL, TM, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
-
-- Tokyo and Brussels missions corroborate the electronic regime effective 2025-01-05. CA and RS now positively resolved as eVisa; original Arabic and French MFA agreement schedules also inspected.
-- Remaining origins: ANRPTS public page/request paths reset or terminate TLS; no per-nationality checker retrieved. The Arabic list combines reciprocal agreements with destinations exempting Mauritanians, so it cannot be treated as an exhaustive inbound default. Diplomatic-only waivers remain outside ordinary-passport scope. No 30/90-day fee band assumed as universal stay.
-- Added FR/DE/BE/ES advance eVisa requirements using explicit nationality-specific official advice. Signed Ministry Circular 66 of 3 January 2025 visually inspected: it directs visa requests to ANRPTS, without an exhaustive nationality rule.
-- Reviewed the prior French/Arabic agreement lists and fresh Ministry Conventions page. The latter is a human-rights/governance/terrorism treaty index, not an inbound visa schedule. Diplomatic-only waivers, outbound Mauritanian concessions and fee bands do not settle other ordinary passports.
-- ANRPTS French entry point fails TLS EOF. Remaining origins need a current exhaustive inbound exemption/default or actual nationality decision; no blanket eVisa mandate from an application form.
-- Reviewed the current MFA process and bilateral-agreement schedule against every assigned origin. The page gives procedure and mixed ordinary/diplomatic/outbound concessions, not an exhaustive nationality obligation; no complement default inferred.
-- Six origin-specific additions preserve advance approval versus border formalities. Singapore arrival wording is reconciled with the destination’s mandatory boarding approval, not treated as an independent walk-up channel. ANRPTS still fails TLS; no bypass.
-- Other ordinary nationalities need a current exhaustive exception/default or their own positive government requirement. IL/XK/PS also need exact accepted-document treatment.
+- Four nationality-scoped additions: IT arrival issuance at specified airports/Jordan–Lebanon land entry; ES/SI/DK visa duty only with operational limits. Italy gives a usual 15-day period, not a guaranteed maximum. No global duty is inferred from the March 2026 AIP unless-exempt clause.
+- SANA exemption/entry searches returned diplomatic/outbound or border-operation news, not a complete current waiver schedule. AT/HU provide warnings rather than a visa determination; other fresh origin leads were unavailable. The remaining 177 origins still need ordinary-passport waiver reconciliation, including Arab/Lebanese, document and territorial/port branches.
+- Pass-six consistency adjudication: The saved Czech short-traveller instruction and Portuguese entry rule both expressly impose a visa duty. Their outdated operational directions are not evidence of a usable present channel. Duty-only records retain that limitation and use d0. No default is extended to other nationalities.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
 
 ### Algeria (DZ)
 
-Unresolved origins (173): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, DJ, DK, DM, DO, EC, EE, EG, ER, ES, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GW, GY, HN, HR, HT, HU, ID, IL, IN, IQ, IR, IS, IT, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, MA, MC, ME, MG, MH, MK, MM, MO, MT, MU, MW, MX, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RW, SA, SB, SD, SE, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+Unresolved origins (169): AD, AE, AF, AG, AL, AM, AO, AR, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CI, CL, CM, CO, CR, CU, CV, CY, DJ, DK, DM, DO, EC, EE, EG, ER, ES, ET, FI, FJ, FM, GA, GD, GE, GH, GM, GN, GQ, GR, GT, GW, GY, HN, HT, HU, ID, IL, IN, IQ, IR, IS, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, MA, MC, ME, MG, MH, MK, MM, MO, MT, MU, MW, MX, MZ, NA, NE, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RW, SA, SB, SD, SE, SI, SK, SL, SM, SN, SO, SR, SS, ST, SV, SY, SZ, TD, TG, TH, TJ, TL, TM, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
 
 - Helsinki exemption list still includes Morocco and omits the separately verified HKSAR waiver. The later Morocco notice URL returned a human-verification challenge; MFA alternative was a soft 404. MA unresolved, not visa-free by inheritance.
 - All other unresolved passports: current exhaustive ordinary-passport exemptions and recognition exceptions were not established. The generic MFA rule explicitly reserves exemptions. Southern-tourism arrival processing is conditional on an approved agency and port.
@@ -391,10 +376,13 @@ Unresolved origins (173): AD, AE, AF, AG, AL, AM, AO, AR, AT, AZ, BA, BB, BD, BE
 - Fresh origin-government evidence adds only the explicitly scoped passports. Taiwan guidance establishes a tourism-agency/Japan mission procedure; Australian guidance preserves the cruise arrival exception. Moldova, Mongolia, Russia, Korea, Portugal, Czechia and Netherlands statements are not generalised.
 - Fresh French MFA default still reserves exemptions without enumerating them. Tokyo supplies the same general procedure; Brussels/Stockholm/Canberra/Swiss mission paths are generic pages, navigation shells, or access failures. Prior Law 08-11 reserves bilateral waivers. No complete current ordinary-passport schedule/amendment chain was recovered.
 - All residual ordinary origins need explicit nationality evidence or a reconciled exhaustive default/exemption schedule. MA needs the Moroccan visa reinstatement instrument; IL/XK/PS/MO need document-specific treatment. Existing southern-tour preauthorisation is not universal walk-up VOA.
+- AT/CN/HR/IT have newly inspected own-passport visa obligations. IT preserves approved-agency Saharan-tour arrival conditions at Algiers/Djanet, with no guessed stay.
+- Current legislation/exemptions remain unreconciled for the other ordinary origins. Fresh ministry announcement index and Morocco-notice/origin-consular attempts did not produce a usable reinstatement instrument; old Morocco-exempt tables are not adopted.
+- AIP visa validity is not stay. Existing 2026 diaspora AIC applies only to qualifying Algerian citizens resident abroad with specified documents, including the child branch; no nationality-wide gap credit. IL/XK/PS/MO document cases remain held.
 
 ### Cuba (CU)
 
-Unresolved origins (170): AF, AL, DZ, AD, AO, AG, AR, AM, AU, AZ, BS, BH, BD, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, KH, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, HR, CY, DK, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, IS, IN, ID, IR, IQ, IE, IL, JM, JO, KZ, KE, KI, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MO, MG, MW, MV, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, PL, QA, RO, RW, KN, LC, WS, SM, ST, SA, SN, SC, SL, SB, SO, ZA, KR, SS, LK, VC, SD, SR, CH, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, AE, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
+Unresolved origins (168): AF, AL, DZ, AD, AO, AG, AR, AM, AZ, BS, BH, BD, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, KH, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, HR, CY, DK, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, IS, IN, ID, IR, IQ, IE, IL, JM, JO, KZ, KE, KI, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MO, MG, MW, MV, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, PL, QA, RO, RW, KN, LC, WS, SM, ST, SA, SN, SC, SL, SB, SO, ZA, SS, LK, VC, SD, SR, CH, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, AE, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
 
 - Second pass: inspected Cuban Spanish-language tourism rules, attempted the linked 2018 PDF/2019 DOC bilateral tables and MININT/mission/eVisa sites; these central nationality sources remain unreachable. No universal rule assigned from incomplete exceptions.
 - New narrow primary proofs: SG 30-day, BY 30-day, BB 28-day, RU aggregate 90/180 visa exemptions; RS/DE/SI/TW tourist eVisas. Taiwan refusal cases are disclosed without inventing a categorical ban.
@@ -409,10 +397,46 @@ Unresolved origins (170): AF, AL, DZ, AD, AO, AG, AR, AM, AU, AZ, BS, BH, BD, BZ
 - Examined Cuban mission consular pages, English/Spanish native waiver searches, and central waiver-table access. Old tourist-card and six-year Cuban-passport boilerplate is not a current exhaustive schedule. Diplomatic/service agreements are not ordinary waivers. Prior Kenya gazette proves commencement but lacks substantive passport-class terms.
 - UAE Cuba card has a Visa Free normal-passport row but its duration and fee paragraphs expressly concern Haiti. AE remains unresolved pending an independently corroborated Cuba-specific operative provision; no Haitian90 copied. SAR origin concession lists do not establish a Cuba visa duty by omission.
 - All remaining origins need a current ordinary waiver/default schedule or nationality-specific origin evidence. Known waiver leads AG/DM/GD/KN/LC/VC/BY/BA/KE/ME/MK/NA and student/on-duty exceptions cannot be replaced by eVisa availability. No speculative correction to existing MN evidence based on an application option.
+- Two narrow requirement-only additions: Korea’s September2026 explicit ordinary-passport non-exemption and current Australian DFAT visa duty. Both use d0 and leave the current channel/stay unconfirmed; the Australian tourist-card procedure is not adopted.
+- The2024 GEN1.3 passenger text is not promoted. Its30-day/card-era material and21 nationality leads remain unreconciled with current immigration rules and treaty exceptions. The central legal-framework request failed certificate validation; no bypass was attempted.
+- New Kenyan public treaty-registry search for Cuba returned zero results; the observed visa search returned other treaties and does not prove Cuba has no treaty. Mongolia’s actual public legal searches returned trade/investment material, not a controlling reciprocal visa treaty. These do not resolve Kenyan passport scope or Cuban ordinary-passport entry into Mongolia.
+- Danish MFA page updated23September2026 explicitly says no entry/visa information is available. Polish pages redirect, Bulgarian/Mexican sources return browser challenges, and other mission/advice attempts fail; none supplies a rule. Known waiver and special-document cases remain open.
+
+### Mauritania (MR)
+
+Unresolved origins (167): AD, AE, AF, AG, AL, AM, AO, AR, AZ, BA, BB, BD, BG, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CL, CM, CO, CR, CU, CV, CY, CZ, DJ, DK, DM, DO, EC, EE, EG, ER, ET, FI, FJ, FM, GA, GD, GE, GH, GN, GQ, GR, GT, GY, HK, HN, HT, HU, ID, IE, IL, IN, IQ, IR, IS, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KW, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, MA, MC, ME, MG, MH, MK, MM, MT, MU, MV, MW, MX, MY, MZ, NA, NG, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PT, PW, PY, QA, RO, RU, RW, SA, SB, SC, SD, SE, SI, SK, SL, SM, SO, SR, SS, ST, SV, SY, SZ, TG, TH, TJ, TL, TM, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+
+- Tokyo and Brussels missions corroborate the electronic regime effective 2025-01-05. CA and RS now positively resolved as eVisa; original Arabic and French MFA agreement schedules also inspected.
+- Remaining origins: ANRPTS public page/request paths reset or terminate TLS; no per-nationality checker retrieved. The Arabic list combines reciprocal agreements with destinations exempting Mauritanians, so it cannot be treated as an exhaustive inbound default. Diplomatic-only waivers remain outside ordinary-passport scope. No 30/90-day fee band assumed as universal stay.
+- Added FR/DE/BE/ES advance eVisa requirements using explicit nationality-specific official advice. Signed Ministry Circular 66 of 3 January 2025 visually inspected: it directs visa requests to ANRPTS, without an exhaustive nationality rule.
+- Reviewed the prior French/Arabic agreement lists and fresh Ministry Conventions page. The latter is a human-rights/governance/terrorism treaty index, not an inbound visa schedule. Diplomatic-only waivers, outbound Mauritanian concessions and fee bands do not settle other ordinary passports.
+- ANRPTS French entry point fails TLS EOF. Remaining origins need a current exhaustive inbound exemption/default or actual nationality decision; no blanket eVisa mandate from an application form.
+- Reviewed the current MFA process and bilateral-agreement schedule against every assigned origin. The page gives procedure and mixed ordinary/diplomatic/outbound concessions, not an exhaustive nationality obligation; no complement default inferred.
+- Six origin-specific additions preserve advance approval versus border formalities. Singapore arrival wording is reconciled with the destination’s mandatory boarding approval, not treated as an independent walk-up channel. ANRPTS still fails TLS; no bypass.
+- Other ordinary nationalities need a current exhaustive exception/default or their own positive government requirement. IL/XK/PS also need exact accepted-document treatment.
+- Seven origin-specific additions: AT/CN/HR/IT/MD electronic approval; KR/MN requirement only. Air boarding approval remains distinct from later border formalities; no generic stay inferred.
+- New government legal-register searches for visa, foreigners and circulation recovered diplomatic/service instruments and Law75-244 authorising ratification of the 28 April1975 Togo circulation agreement. Ratification authorisation alone does not establish treaty terms, commencement or current implementation. TG remains held.
+- The 1964 AIP default and mixed MFA treaty page still do not reconcile current ordinary exemptions for other origins. Passport-specific IL/XK/PS/HK treatment remains unestablished.
+
+### Nigeria (NG)
+
+Unresolved origins (167): AD, AE, AF, AG, AL, AM, AO, AR, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BN, BO, BR, BS, BT, BW, BY, BZ, CD, CF, CG, CH, CL, CM, CN, CO, CR, CU, CY, DJ, DM, DO, DZ, EC, EG, ER, ES, ET, FI, FJ, FM, GA, GD, GE, GQ, GR, GT, GY, HK, HN, HR, HT, ID, IE, IL, IN, IQ, IR, IS, JM, JO, KE, KG, KH, KI, KM, KP, KW, KZ, LA, LB, LC, LI, LK, LS, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, MK, ML, MM, MO, MR, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PL, PS, PW, PY, QA, RO, RU, RW, SA, SB, SC, SD, SE, SG, SI, SK, SM, SO, SR, SS, ST, SV, SY, SZ, TD, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+
+- NIS F5A detail page is more precise than generic FAQ: confirms 30-day tourist stays and electronic/embassy alternatives. Added current ECOWAS-member exemption and KN bilateral waiver effective 2025-08-04; CA tourist eVisa corroborated.
+- Remaining origins: F5A explicitly reserves bilateral visa-abolition agreements without listing all of them; no blanket eVisa requirement assigned solely from eligibility. Publicly referenced country-config lookup returned HTTP 403; no authentication or header bypass attempted. BF/ML/NE post-withdrawal status and special-document recognition still unverified. Landing card is not itself the entry visa.
+- Retrieved and extracted all 93 pages of the NIS revised APRIL 2026 Service Level Agreement. F5A explicitly gives 30-day non-extendable stay, 90-day validity and emailed electronic certificate. Origin-specific FR/DE/TR requirements remove exemption uncertainty for those additions; TW has separately documented consular issuance.
+- Searched current public NIS post/media indexes for policy, visa, exemption and waiver; pursued NIS 2025 implementation workshop, Interior, NCAA circulars, Foreign Affairs, London and New York missions. The actual complete document titled Nigeria Visa Policy 2025 was not retrieved. Workshop publicity and the 2026 SLA are not relabelled as that missing policy.
+- Ordinary waivers for CM/TD/SC, remaining bilateral agreements and special documents remain unverified. London and F5A reserve unnamed exemptions. January 29 2025 ECOWAS statement was retrieved in full: continues AES citizens’ rights and recognition of ECOWAS-logo passports until further notice; Nigeria-specific current implementation/new AES document treatment still needs confirmation. No fee waiver or application list used as exemption.
+- Recovered the actual 52-page embassy-hosted NIS PDF titled Nigeria Visa Policy 2025 and its live homepage link. It is a training/sensitization presentation, not the missing complete exemption enactment: page 13 counts four exemption classes but does not enumerate them.
+- Brussels tourist page explicitly says all non-ECOWAS tourists require visas, but omits the documented KN bilateral waiver; the April 2026 SLA reserves additional bilateral waivers. Therefore this incomplete default is not expanded to every remaining origin. CM/TD/SC exemptions, BF/ML/NE current legacy/AES passport treatment, and HK/MO/PS/XK document treatment remain specifically unsettled.
+- Four origin-government requirements added with NIS electronic method. The 2025 deck page 45 says F5A stay90; April2026 SLA pages23–24 explicitly says30. Later product-specific SLA controls; no baseline correction is claimed.
+- Nine origin-scoped duties are supported by Czech, Austrian, Italian, Portuguese, Hungarian, Estonian and Danish advice plus the previously captured Korean explicit negative table and Mongolian outbound default. April2026 NIS F5A supplies the electronic tourist method; its30-day stay is distinct from90-day validity. Austria retains a four-week actual-admission warning.
+- Recovered the currently NIS-linked Immigration Act2015 gazette and inspected entry/exemption sections18–22 and29; section22 authorises exemption orders and section29 concerns visa abolition. This is enabling legislation, not the current exemption roster. The2025 training deck still only counts four exemption classes. No blanket duty follows while bilateral exceptions remain unreconciled.
+- Unresolved origins retain their individual baseline blockers, especially CM/TD/SC bilateral claims, BF/ML/NE legacy/AES document treatment and HK/MO/PS/XK accepted documents. New legal-search and ministry/mission attempts produced no operative complete exemption instrument.
 
 ### Cambodia (KH)
 
-Unresolved origins (169): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB, BY, BE, BZ, BJ, BT, BO, BA, BW, BR, BG, BF, BI, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, HR, CU, CY, CZ, DK, DJ, DM, DO, EC, EG, SV, GQ, ER, EE, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HU, IS, IN, IR, IQ, IE, IL, JM, JO, KZ, KE, KI, XK, KW, KG, LV, LB, LS, LR, LY, LI, LT, LU, MG, MW, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PL, QA, RO, RU, RW, KN, LC, WS, SM, ST, SA, SN, SL, SK, SI, SB, SO, ZA, KR, SS, LK, VC, SD, SR, SE, CH, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, AE, UY, UZ, VU, VA, VE, YE, ZM, ZW.
+Unresolved origins (163): AF, AL, DZ, AD, AO, AG, AR, AM, AZ, BS, BH, BD, BB, BY, BE, BZ, BJ, BT, BO, BA, BW, BR, BG, BF, BI, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, HR, CU, CY, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, IS, IN, IR, IQ, IE, IL, JM, JO, KZ, KE, KI, XK, KW, KG, LV, LB, LS, LR, LY, LI, LT, LU, MG, MW, ML, MT, MH, MR, MU, MX, FM, MC, ME, MA, MZ, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PL, QA, RO, RU, RW, KN, LC, WS, SM, ST, SA, SN, SL, SK, SB, SO, ZA, KR, SS, LK, VC, SD, SR, SE, CH, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, AE, UY, UZ, VU, VA, VE, YE, ZM, ZW.
 
 - Second pass resolves CN/MO/HK pilot as source-reported vf14 through2026-10-15 using explicit Macao government wording and Hong Kong Immigration’s quotation of Cambodia’s consulate. China’s own embassy corroborates the ordinary-passport dates. These are government notices, not travel-agency descriptions. Ordinary VOA/eVisa duration is not assigned14 days. AU tourist VOA/eVisa30 and FR methods separately evidenced.
 - Broader nationality eligibility remains unresolved: official Singapore mission verified in MFA directory, but its general visa-types PDF and tourist article contain no exhaustive VOA/eVisa nationality list. London/Washington general application pages likewise do not establish every passport’s eligibility. Cambodia eVisa remains access-blocked; Tourism’s cited pilot article now serves a JS shell and its public news endpoint returned401, with no protected access attempted.
@@ -425,6 +449,23 @@ Unresolved origins (169): AF, AL, DZ, AD, AO, AG, AR, AM, AT, AZ, BS, BH, BD, BB
 - Five new origin-scoped records: PT TR IT ES JP. Tourist Type T, Type E, visa validity, admitted stay and e-Arrival remain distinct. Unknown stays use d0; only IT/JP have source-backed 30-day tourist stays in these additions.
 - New London eVisa navigation and exemption-image locator, Paris/Canberra/Berlin missions, and origin MFAs examined. The eVisa information/type URLs loop on redirect; London supplies an application link, not a worldwide obligation/eligibility schedule. Berlin returns a rejection body.
 - Remaining TH still needs an operative reconciliation of its prior 14-day exemption with the border-crisis change; PS/XK need document scope. The other remaining origins lack an explicit complete contemporary default/exemption reconciliation. No application availability, old exemption image or absent nationality is promoted into an invented visa default.
+- Six explicit origin-government additions: EE/CZ/AT/HU/SI/DK. Visa duty is separately established; electronic availability is not used as a global default. Czech 30-day tourist stay and Danish maximum 30 days are explicit; Austrian 30 days applies only to eVisa. Hungarian/Slovenian visa validity is not converted into stay.
+- New arrival portal is a JS shell; eVisa FAQ loops, MFA returns Request Rejected, and Bangkok mission DNS fails. Other fresh origin pages are inaccessible, generic or lack a visa determination. The 163 residual origins lack reconciled ordinary rules: preserve ASEAN exemptions, China/SAR pilot, TH waiver-duration dispute, and PS/XK document questions. New rules retain designated-port restrictions and reported Thailand land closure.
+
+### South Sudan (SS)
+
+Unresolved origins (162): AF, AL, DZ, AD, AO, AG, AR, AM, AU, AZ, BS, BH, BD, BB, BY, BZ, BJ, BT, BO, BA, BW, BR, BN, BF, BI, KH, CM, CV, CF, TD, CL, CN, CO, KM, CG, CD, CR, CI, CU, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, GA, GM, GE, GH, GD, GT, GN, GW, GY, HT, HN, HK, IS, IN, ID, IR, IQ, IL, JM, JP, JO, KZ, KE, KI, XK, KW, KG, LA, LB, LS, LR, LY, LI, MG, MW, MY, MV, ML, MH, MR, MU, MX, FM, MC, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PE, PH, QA, RW, KN, LC, WS, SM, ST, SA, SN, SC, SL, SG, SB, SO, ZA, KR, LK, VC, SD, SR, CH, SY, TW, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.
+
+- Official eVisa site now retrieved, but its eligibility URL returns same landing page and the linked government service redirects to login. No credentials used, no universal eligibility inferred.
+- FR and TR origin-government requirements added to GB. Remaining origins still need destination nationality/exception evidence, especially EAC exemptions; generic eVisa marketing is insufficient.
+- Several purported mission domains failed or were repurposed into gambling sites and were rejected. Regional EAC summaries alone do not establish current South Sudan national implementation.
+- Fresh current origin-government sources add CA, AE and RS only. Serbian page contains an unrelated Cambodia eVisa paragraph; only its explicit South Sudan requirement is used.
+- Current South Sudan eVisa landing page links account creation/sign-in without a public nationality schedule. Three archive-availability queries returned no captures. Additional mission domains failed DNS; Kenya mission timed out. EAC search and actual implementation article concern DRC/Uganda and fee/visa language; neither establishes all present South Sudan inbound exemptions.
+- Six narrow ordinary-passport additions (CZ, DE, MD, MN, MO, NL); origin advice is not generalised to other passports. The Macao result is a passport-specific policy record with explicit no-waiver/no-arrival fields, not an application dropdown.
+- Remaining 186 origins: no current comprehensive South Sudan exemption/default schedule recovered. EAC KE/TZ/UG implementation and BI/RW treatment require current national evidence; overseas-origin and special documents require exact scope. Ministry/justice TLS failures and mission closures/rejections persist. Austrian advice contains security information but no entry determination.
+- Portugal's current official South Sudan advice, updated 5 June 2026, expressly says EU citizens need entry visas. This supports 23 assigned EU origins, rather than extrapolating a Portuguese-only statement. Belgium independently documents online and embassy channels; Sweden independently requires a prior visa. Russia's ordinary-passport table expressly requires a visa. Unestablished stays use d=0; no exclusive consular method or admission assurance is inferred.
+- The remaining 162 origins lack a current nationality-specific rule or a complete exemption/default reconciliation. New Oslo mission pages provide application procedure, not a universal visa duty. Chinese mission advice covers diplomatic/service/public-affairs passports; Taiwanese advice offers an eVisa link but states an express prior-visa duty only for transit. Neither is promoted into an ordinary-tourist requirement.
+- EAC implementation remains unproved for BI/CD/KE/RW/SO/TZ/UG. HK/PS/TW/XK require ordinary-document/nationality treatment. The previously inspected passenger AIP is dated 17 June 2021 despite its 2026 checklist, and supplies no reconciliation of later exemptions.
 
 ### Gabon (GA)
 
@@ -437,10 +478,12 @@ Unresolved origins (161): AD, AF, AG, AL, AM, AO, AR, AU, AZ, BA, BB, BD, BF, BH
 - CEMAC 2024 Gabon operational brigade and 2025 presidential statements describe facilitation/integration, not a current biometric-passport admission schedule. Archived DGDI entry page captured 2024-06-21 says eVisa is still being installed despite its known operation; rejected as stale for bulk policies. Archived portal scripts/list payloads were unavailable.
 - Added MD electronic visas, AE arrival visas, and RU/TR/MN visa requirements from their own governments. Durations were not invented.
 - Fresh Canadian Gabon mission page supplies procedure and prior authorization, not an exhaustive nationality default. DGDI, official gazette and central diplomatic site remain transport-blocked. The entire residual set lacks reconciled ordinary exemptions/defaults, including CEMAC implementation and special travel documents. Singapore advice retrieved without a visa determination; Canadian advice concerns an already-supported origin.
+- New authenticated UK High Commission site points its exemption page to DGDI, which fails certificate validation. Tourist application instructions and three-month validity are not an exhaustive nationality duty or a stay grant.
+- New Chinese mission legal index identifies Law5/86 and Decree1000/PR, but official-gazette links time out. The 2015 interpretation and 2025 legal-reference notice do not reconcile current exemptions, CEMAC implementation, US restrictions or special documents. All161 assigned origins remain held.
 
 ### Iran (IR)
 
-Unresolved origins (154): AF, AL, DZ, AD, AO, AG, AR, AT, AZ, BS, BD, BB, BZ, BJ, BT, BO, BW, BG, BF, BI, CM, CV, CF, TD, CL, CN, CO, KM, CG, CD, CR, CI, CY, CZ, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, HU, IS, IQ, IE, IL, IT, JM, JO, KZ, KE, KI, XK, LA, LV, LB, LS, LR, LY, LI, LT, LU, MG, MW, MV, ML, MT, MH, FM, MD, MC, MN, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PH, PL, PT, RO, RW, KN, LC, WS, SM, ST, SN, SL, SK, SB, SO, ZA, KR, SS, ES, LK, VC, SD, SR, SE, CH, SY, TJ, TH, TL, TG, TO, TT, TM, TV, UG, UA, US, UY, VU, VA, VE, YE, ZM.
+Unresolved origins (150): AF, AL, DZ, AD, AO, AG, AR, AT, AZ, BS, BD, BB, BZ, BJ, BT, BO, BW, BG, BF, BI, CM, CV, CF, TD, CL, CN, CO, KM, CG, CD, CR, CI, CY, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, FI, GA, GM, GE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HK, HU, IS, IQ, IE, IL, JM, JO, KZ, KE, KI, XK, LA, LV, LB, LS, LR, LY, LI, LT, LU, MG, MW, MV, ML, MT, MH, FM, MD, MC, MN, ME, MA, MZ, MM, NA, NR, NP, NZ, NI, NE, NG, KP, MK, NO, OM, PK, PW, PS, PA, PG, PY, PH, PL, RO, RW, KN, LC, WS, SM, ST, SN, SL, SK, SB, SO, ZA, KR, SS, LK, VC, SD, SR, SE, CH, SY, TJ, TH, TL, TG, TO, TT, TM, TV, UG, UA, US, UY, VU, VA, VE, YE, ZM.
 
 - Indian waiver suspension was re-fetched at the exact MEA notice and current status index on 8 October UTC. Effective date remains 22 November 2025; publication date 17 November 2025. It is not one of the separately withdrawn security advisories.
 - IN is now unresolved at visa-method level: the earlier isolated vr candidate could be misread as a correction from eVisa to consular-only. Suspension proves NOT visa-free, but does not prove absence of eVisa/VOA. The current MEA visa-facilities table omits Iran, which is not an exhaustive negative method rule. No consular-only downgrade or 15-day stay is certified.
@@ -454,25 +497,32 @@ Unresolved origins (154): AF, AL, DZ, AD, AO, AG, AR, AT, AZ, BS, BD, BB, BZ, BJ
 - BOCA agency rule expressly applies to foreign visa applicants. It is not extended to persons already exempt. Embassy/airport/online steps are not assumed interchangeable. Russian organised treaty group and agency-arranged individual itinerary are distinct.
 - Current Iranian eVisa-traveller, tourism helpdesk, Vienna, Singapore and Hong Kong mission endpoints redirect-loop. Other origin advice retrieved; Austria/NZ offered no operative visitor visa rule, Poland redirected to Odyseusz, Italy returned a shell, Irish/Swedish/Norwegian sources blocked.
 - HKSAR table confirms21 days under a combined visa-free/arrival heading but does not independently disambiguate the method here. Remaining origins lack a verified current waiver/default and nationality/channel branch; no global electronic or airport entitlement is assigned.
+- Four requirement-only additions: CZ ES IT PT. Online filing, preapproval, physical/airport issuance and final electronic visa are distinct. No stay is derived from visa validity. BOCA’s general agency condition is preserved with its original8October check date.
+- The existing13November2025 Hong Kong consular archive remains historical. India’s17November2025 notice withdrawing the waiver from22November2025 remains separate from security-advisory withdrawals and from issuance-channel questions; no existing Indian or archived rule is replaced.
+- Remaining150 origins lack an established current nationality/waiver or special-document decision. Hong Kong’s21-day combined visa-free/arrival table still does not disambiguate the method. New Czech navigation succeeded; other fresh mission/origin sources returned404, shells,403 or CAPTCHA and were not bypassed.
 
-### Trinidad and Tobago (TT)
+### Yemen (YE)
 
-Unresolved origins (145): AD, AE, AF, AL, AM, AO, AR, AZ, BA, BE, BF, BG, BH, BI, BJ, BO, BR, BT, BY, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, CY, CZ, DE, DJ, DK, DO, DZ, EC, EE, EG, ER, ES, ET, FI, FJ, FM, GA, GE, GN, GQ, GR, GT, GW, HN, HR, HT, HU, ID, IE, IL, IQ, IR, IS, JO, KG, KH, KM, KR, KW, KZ, LA, LB, LI, LK, LR, LT, LU, LV, LY, MA, MC, MD, ME, MG, MH, ML, MM, MN, MO, MR, MT, MX, MZ, NE, NG, NI, NL, NO, NP, NZ, OM, PA, PE, PG, PH, PL, PS, PT, PW, PY, QA, RO, RU, RW, SA, SD, SE, SI, SK, SM, SN, SO, SS, ST, SV, SY, TD, TG, TH, TJ, TL, TM, TN, TW, TZ, UA, UG, US, UY, UZ, VA, XK, YE, ZA.
+Unresolved origins (142): AF, AL, DZ, AO, AG, AR, AM, AZ, BS, BD, BB, BY, BZ, BJ, BT, BO, BA, BW, BR, BF, BI, KH, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, CU, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, GA, GM, GE, GH, GD, GT, GN, GW, GY, HT, HN, HK, IN, ID, IR, IQ, IL, JM, JO, KZ, KE, KI, XK, KG, LA, LB, LS, LR, LY, MO, MG, MW, MY, MV, ML, MH, MR, MU, MX, FM, MD, MN, ME, MA, MZ, MM, NA, NR, NP, NI, NE, NG, KP, MK, PK, PW, PS, PA, PG, PY, PE, PH, RW, KN, LC, WS, ST, SN, SL, SB, SO, ZA, SS, LK, VC, SD, SR, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, UY, UZ, VU, VE, VN, ZM, ZW.
 
-- Ministry eVisa page links a short nationality list omitting several widely expected waivers. Only explicitly named exemptions verified; omitted passports remain unresolved.
-- Official FAQ says visa-required foreign nationals can apply online, but it does not identify the complete visa-required set. The list cannot safely be inverted.
-- Second pass checked New York, London, Ottawa and New Delhi mission resources and linked visa PDFs, both official tourism portals and the government law library. The PDFs concern process, not a full nationality matrix; tourism says MOST countries, not all. travel.gov.tt returned 429 and was not retried. No worldwide exemption inferred.
-- Reviewed every assigned origin against the freshly retrieved ministry exemption PDF. It still omits many known waivers and supplies no explicit complement/default. Added only the individually evidenced IN90, RS30 and FR3-month exemptions.
-- Brussels mission’s short-stay update, EEAS travel page and linked FAQ retrieved. They describe Trinidadians entering Europe; they are not silently reversed to establish all EU passports entering Trinidad. EUR-Lex treaty endpoints returned empty 202 responses; Council returned 403.
-- All remaining assigned origins: actual current incoming ordinary nationality schedule/operative bilateral text not retrieved. Ministry eVisa availability alone is not evidence that every omitted nationality requires a visa. Law-library TLS/404 failures and incomplete tourism/mission material retained.
-- Recovered government-linked 2016 Immigration Act compilation, the current 73-amendment register, all listed 2019–2026 legal notices, and Acts 25/2019, 9/2022 and 14/2025. The 2019 Act concerns enforcement offences; the 2022 Act concerns CARICOM skilled-certificate holders, not a new ordinary-tourist nationality schedule. Regulation 13(5) says where required, not every foreigner; 13(8) preserves Commonwealth and visa-abolition agreements; 13(13) permits further class-specific directions. No missing-name default was manufactured.
-- KP/MK/VN/VE are requirement-only additions under the express compulsory schedule and Venezuelan 2019 commencement, with 2024 special-passport distinction. Current statutory register and later amendments establish continued application; the old compilation is not described as a newly enacted 2026 law.
-- AT/IT/JP/TR waivers and AU eVisa are separately sourced. Japanese MOFA expressly confirms an MFA reply that Japan is exempt despite omission from the destination list. Italian less-than-90 boundary and Turkish 30-day period are retained. The official FAQ establishes electronic processing only for people who require a visa; it is not evidence that all applicants or omitted nationalities require one.
-- All 154 gaps were compared with these clauses and the present incomplete positive list. CU remains unreconciled between the compulsory schedule and separate reported waiver; remaining Commonwealth exceptions and bilateral waivers need explicit operative evidence. EU treaty content could not be recovered from the attempted official repositories; outbound Trinidad-to-EU advice was not inverted. MO/PS/XK/TW document cases remain unresolved.
+- Second pass verified the official launch directly with Yemen MFA, including its exact link to yemenevisa.org. The new electronic portal is real; the first-pass embassy-only description was incomplete.
+- Inspected published active tourism products: group-tourism minimum ten via accredited agencies; urgent tourism final border sticker after prior IPNA approval. Both are agency/authority-mediated; no independent unrestricted eVisa or walk-up VOA is certified.
+- Remaining origins cannot be classified from the hidden generic eligibility table alone: it assigns nearly all products even to Israel/Yemen itself and the FAQ includes UNMISS/DNPI template remnants. No nationality recognition/ban schedule or final stay was obtained.
+- HK moved unresolved because its Immigration Department table reports 30-day visa-free/arrival access while the Yemeni embassy says advance visa; neither clarifies the current Aden tourist approval regime for that passport. TR ordinary-passport requirement added.
+- Mainland, Socotra, official port, controlling authority and local permissions remain explicit. Aden eVisa is not claimed to authorise every territory. Yemen MFA entry-procedures page is password-protected and was not accessed beyond the public password notice.
+- TW/CN advance-visa requirements independently established by origin authorities. Diplomatic fee exemption is not visa exemption.
+- Freshly read Yemen MFA launch and official IPNA tourist products. Approved agencies, advance authority approval and border sticker are sequential steps. Aden credentials do not establish entry to all mainland areas or Socotra.
+- Sanaa tourism-board guidance still mentions EEC/G8 airport visas and a dubious 96-day transit visa; no operational date or territorial scope settles its conflict with current Aden processing. Not used for new policies.
+- Remaining origins: no dependable exhaustive tourist nationality/recognition schedule; generic portal eligibility/template data cannot certify all passports. HK has a prior conflicting origin-table concession.
+- Recovered actual Arabic Law 47/1991 from the NIC legal database via its public search. Article 3 is a visa default, but Articles 4, 7 and 38 expressly preserve ministerial and treaty exemptions; these are not reconciled for the remaining 143 origins. The initially guessed 11712 document was a central-bank law and is rejected.
+- Added only UAE origin-government normal-passport exemption with the separate UAE travel prohibition explicitly retained. No territorial/crossing travel permission is inferred.
+- Current Washington mission tourist non-issuance and US-residence-scoped procedure, London form, Russian mission page and previous Aden agency workflow do not settle all remaining nationalities or Socotra/mainland territorial implementation. HKSAR origin/destination contradiction remains; IL/XK/PS/MO require document-specific handling.
+- RU added at requirement level only from Russian MFA border formalities. Its embassy-only channel wording is qualified against the already-cached later Aden IPNA workflow; no stay, routine issuance, airport alternative or universal territorial permission is claimed.
+- The remaining 142 origins lack reconciled current ministerial/treaty exemptions and accepted-document/territorial scope. HK retains conflicting exemption-versus-advance-visa evidence; IL/XK/PS/MO lack specific document treatment. New origin/mission alternatives failed or provided no new nationality schedule. No Egyptian or other age/route/territory exemption branch was established.
 
 ### Saint Vincent and the Grenadines (VC)
 
-Unresolved origins (143): AD, AL, AM, AO, AR, AU, AZ, BA, BD, BF, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, CD, CF, CG, CH, CI, CL, CO, CR, CU, CV, DJ, DZ, EC, EG, ER, ET, FJ, FM, GA, GE, GH, GM, GN, GQ, GT, GW, GY, HN, ID, IE, IL, IN, IS, JM, JO, KE, KG, KH, KI, KM, KP, KR, KW, KZ, LA, LI, LK, LR, LS, LY, MA, MC, ME, MG, MH, MK, ML, MM, MN, MR, MU, MV, MW, MX, MY, MZ, NA, NE, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PS, PW, PY, QA, RW, SA, SB, SC, SD, SL, SM, SN, SO, SR, SS, ST, SV, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+Unresolved origins (140): AD, AL, AM, AO, AR, AU, AZ, BA, BD, BF, BH, BI, BJ, BN, BO, BR, BS, BT, BW, BY, CD, CF, CG, CH, CI, CL, CO, CR, CU, CV, DJ, DZ, EC, EG, ER, ET, FJ, FM, GA, GE, GH, GM, GN, GQ, GT, GW, GY, HN, ID, IE, IL, IS, JM, JO, KE, KG, KH, KI, KM, KP, KW, KZ, LA, LI, LK, LR, LS, LY, MA, MC, ME, MG, MH, MK, ML, MM, MR, MU, MV, MW, MX, MY, MZ, NA, NE, NI, NO, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PS, PW, PY, QA, RW, SA, SB, SC, SD, SL, SM, SN, SO, SR, SS, ST, SV, SZ, TD, TG, TH, TJ, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, UZ, VA, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
 
 - Ten explicitly visa-required countries verified. Page does not explicitly exempt all other nationalities; omission is not used as evidence.
 - UK-specific six-month visitor period is not generalized to all passports.
@@ -487,27 +537,13 @@ Unresolved origins (143): AD, AL, AM, AO, AR, AU, AZ, BA, BD, BF, BH, BI, BJ, BN
 - Additional origin rules: MD30, RU90/180, JP3 months, Taiwan6 months only with national-ID-number ordinary passport. Turkish MFA explicitly requires visas for ordinary Turkish passports while exempting official classes: no official-class waiver is generalized to ordinary passports.
 - National Security current list, 2010 page and Belfast May2024 criteria consistently name ten prior-visa countries, but do not contain an explicit all-other-nationalities visa-free default. Belfast says most visitors. Visitor-permit ceilings are not standalone visa-waiver proof. Jordan discrepancy with prior tourism list remains; PS/XK document rules remain unresolved. No blanket inference from omission.
 - France MFA initial30-day renewable6-month permit and Dutch under90 wording are kept distinct from the EU90/180 treaty and its national-extension clause. No general six-month initial grant or EFTA/EU conflation.
-
-### Yemen (YE)
-
-Unresolved origins (143): AF, AL, DZ, AO, AG, AR, AM, AZ, BS, BD, BB, BY, BZ, BJ, BT, BO, BA, BW, BR, BF, BI, KH, CM, CV, CF, TD, CL, CO, KM, CG, CD, CR, CI, CU, DJ, DM, DO, EC, EG, SV, GQ, ER, SZ, ET, FJ, GA, GM, GE, GH, GD, GT, GN, GW, GY, HT, HN, HK, IN, ID, IR, IQ, IL, JM, JO, KZ, KE, KI, XK, KG, LA, LB, LS, LR, LY, MO, MG, MW, MY, MV, ML, MH, MR, MU, MX, FM, MD, MN, ME, MA, MZ, MM, NA, NR, NP, NI, NE, NG, KP, MK, PK, PW, PS, PA, PG, PY, PE, PH, RU, RW, KN, LC, WS, ST, SN, SL, SB, SO, ZA, SS, LK, VC, SD, SR, SY, TJ, TZ, TH, TL, TG, TO, TT, TN, TM, TV, UG, UA, UY, UZ, VU, VE, VN, ZM, ZW.
-
-- Second pass verified the official launch directly with Yemen MFA, including its exact link to yemenevisa.org. The new electronic portal is real; the first-pass embassy-only description was incomplete.
-- Inspected published active tourism products: group-tourism minimum ten via accredited agencies; urgent tourism final border sticker after prior IPNA approval. Both are agency/authority-mediated; no independent unrestricted eVisa or walk-up VOA is certified.
-- Remaining origins cannot be classified from the hidden generic eligibility table alone: it assigns nearly all products even to Israel/Yemen itself and the FAQ includes UNMISS/DNPI template remnants. No nationality recognition/ban schedule or final stay was obtained.
-- HK moved unresolved because its Immigration Department table reports 30-day visa-free/arrival access while the Yemeni embassy says advance visa; neither clarifies the current Aden tourist approval regime for that passport. TR ordinary-passport requirement added.
-- Mainland, Socotra, official port, controlling authority and local permissions remain explicit. Aden eVisa is not claimed to authorise every territory. Yemen MFA entry-procedures page is password-protected and was not accessed beyond the public password notice.
-- TW/CN advance-visa requirements independently established by origin authorities. Diplomatic fee exemption is not visa exemption.
-- Freshly read Yemen MFA launch and official IPNA tourist products. Approved agencies, advance authority approval and border sticker are sequential steps. Aden credentials do not establish entry to all mainland areas or Socotra.
-- Sanaa tourism-board guidance still mentions EEC/G8 airport visas and a dubious 96-day transit visa; no operational date or territorial scope settles its conflict with current Aden processing. Not used for new policies.
-- Remaining origins: no dependable exhaustive tourist nationality/recognition schedule; generic portal eligibility/template data cannot certify all passports. HK has a prior conflicting origin-table concession.
-- Recovered actual Arabic Law 47/1991 from the NIC legal database via its public search. Article 3 is a visa default, but Articles 4, 7 and 38 expressly preserve ministerial and treaty exemptions; these are not reconciled for the remaining 143 origins. The initially guessed 11712 document was a central-bank law and is rejected.
-- Added only UAE origin-government normal-passport exemption with the separate UAE travel prohibition explicitly retained. No territorial/crossing travel permission is inferred.
-- Current Washington mission tourist non-issuance and US-residence-scoped procedure, London form, Russian mission page and previous Aden agency workflow do not settle all remaining nationalities or Socotra/mainland territorial implementation. HKSAR origin/destination contradiction remains; IL/XK/PS/MO require document-specific handling.
+- Added Indian and Korean ordinary-passport exemptions plus the Mongolian origin-government explicit residual visa requirement. India month/day wording is preserved without conversion.
+- 2025/2026 official gazette indexes and the two latest 2026 issues were inspected; they supply no new ordinary nationality schedule. EU treaty coverage from the baseline is not extended to Ireland or EFTA, and official-passport exemptions are not generalized.
+- Jordan remains a destination-government conflict. Remaining origins lack an explicit ordinary-tourist rule; PS/XK document scope remains unproved. No all-other-nationalities waiver inferred from the ten-country list.
 
 ### Sao Tome and Principe (ST)
 
-Unresolved origins (139): AF, AG, AL, AM, AR, AU, AZ, BA, BB, BD, BF, BH, BI, BJ, BN, BO, BS, BT, BW, BY, BZ, CD, CF, CG, CI, CL, CM, CO, CR, CU, DJ, DM, DO, DZ, EC, EG, ER, ET, FJ, FM, GD, GE, GH, GM, GN, GT, GY, HK, HN, HT, ID, IL, IN, IQ, IR, JM, JO, KE, KG, KH, KI, KM, KN, KP, KZ, LA, LB, LC, LK, LR, LS, LY, ME, MG, MH, MK, ML, MM, MR, MU, MV, MW, MX, MY, NA, NE, NG, NI, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PS, PW, PY, RW, SA, SB, SC, SD, SG, SL, SN, SO, SR, SS, SV, SY, SZ, TD, TG, TH, TJ, TM, TN, TO, TT, TV, TW, TZ, UA, UG, UY, UZ, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
+Unresolved origins (138): AF, AG, AL, AM, AR, AU, AZ, BA, BB, BD, BF, BH, BI, BJ, BN, BO, BS, BT, BW, BY, BZ, CD, CF, CG, CI, CL, CM, CO, CR, CU, DJ, DM, DO, DZ, EC, EG, ER, ET, FJ, FM, GD, GE, GH, GM, GN, GT, GY, HK, HN, HT, ID, IL, IN, IQ, IR, JM, JO, KE, KG, KH, KI, KM, KN, KP, KZ, LA, LB, LC, LK, LR, LS, LY, ME, MG, MH, MK, ML, MM, MR, MU, MV, MW, MX, MY, NA, NE, NG, NI, NP, NR, NZ, OM, PA, PE, PG, PH, PK, PS, PW, PY, RW, SA, SB, SC, SD, SG, SL, SN, SO, SR, SS, SV, SY, SZ, TD, TG, TH, TJ, TM, TN, TO, TT, TV, TZ, UA, UG, UY, UZ, VC, VE, VN, VU, WS, XK, YE, ZA, ZM, ZW.
 
 - All other origins unresolved: SMF eVisa site provides application steps but no exhaustive nationality/exemption list; MFA exemption notice hostname failed DNS, embassy alternative failed hostname certificate verification and SMF FAQ returned 404.
 - SMF requires approval before travel and payment at border; these are one process, not independent eVisa/VOA alternatives. EU-only Schengen wording excludes non-EU Schengen states, CY and IE from this evidence-backed subset.
@@ -516,10 +552,12 @@ Unresolved origins (139): AF, AG, AL, AM, AR, AU, AZ, BA, BB, BD, BF, BH, BI, BJ
 - Three additions: MD and MO requirement with the actual residence/routing-dependent advance-authorisation branch; MN explicit origin-government visa requirement. CZ supported route corrected separately from generic two-week wording to nationality-specific current 15-day evidence.
 - Recovered the law linked by the live eVisa JavaScript: filename lei52008.pdf misleadingly contains Decree-Law 11/2009, not Law 5/2008. All ten pages were visually inspected. Article 20 establishes procedure, not a comprehensive nationality obligation. Current FAQ retains the family exception and no-mission residence branch.
 - Remaining 139 origins lack a complete current default/exemption reconciliation. TG/RW/KN later-waiver implementation, TW/SAR/special documents and other ordinary exceptions remain unresolved; public legislature and SMF legislation indexes yielded no operative consolidated schedule. No historical positive-list complement is declared current.
+- TW advance duty established by BOCA. Recovered 2015 and 2018 parliamentary amendment documents, including the complete republished Law 5/2008 text attached to a final bill; these are not silently treated as promulgated current law.
+- Article 23 default and Article 25 exceptions are valuable legal leads, but operative decree/treaty exemptions, 2018 promulgation and current TG/RW/KN implementation remain unreconciled. Other 138 gaps remain.
 
 ### Ecuador (EC)
 
-Unresolved origins (135): AD, AE, AG, AM, AR, AZ, BA, BB, BE, BF, BG, BH, BI, BJ, BN, BR, BS, BT, BW, BY, BZ, CF, CH, CL, CR, CV, CY, CZ, DJ, DK, DM, DO, DZ, EE, FI, FJ, FM, GA, GD, GE, GQ, GR, GT, GY, HN, HR, HU, ID, IE, IL, IS, JM, JO, KH, KI, KM, KN, KR, KW, KZ, LA, LB, LC, LI, LR, LS, LT, LU, LV, MA, MC, MD, ME, MG, MH, MK, MN, MO, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NI, NL, NO, NR, NZ, OM, PA, PG, PL, PS, PW, PY, QA, RO, RU, RW, SA, SB, SC, SE, SI, SK, SM, SR, ST, SV, SZ, TG, TH, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, VA, VC, VU, WS, XK, ZA, ZM, ZW.
+Unresolved origins (126): AD, AG, AR, AZ, BA, BB, BE, BF, BG, BH, BI, BJ, BN, BR, BS, BT, BW, BY, BZ, CF, CH, CL, CR, CV, CY, DJ, DM, DO, DZ, EE, FI, FJ, FM, GA, GD, GE, GQ, GR, GT, GY, HN, ID, IE, IL, IS, JM, JO, KH, KI, KM, KN, KR, KW, KZ, LA, LB, LC, LI, LR, LS, LT, LU, LV, MA, MC, MD, ME, MG, MH, MK, MN, MO, MT, MU, MV, MW, MX, MY, MZ, NA, NE, NI, NO, NR, NZ, OM, PA, PG, PL, PS, PW, PY, QA, RO, RW, SA, SB, SC, SE, SK, SM, SR, ST, SV, SZ, TG, TH, TL, TM, TN, TO, TT, TV, TZ, UA, UG, US, UY, VA, VC, VU, WS, XK, ZA, ZM, ZW.
 
 - 45 named visa-required nationalities transcribed, including China, Haiti, Albania and additional African/Central Asian states. Haiti also has an explicit pre-entry tourist-registration note.
 - List does not expressly state how all omitted passport/SAR classes are handled; those are unresolved. British citizen source establishes 90 days in any 12 months, not per visit.
@@ -532,6 +570,27 @@ Unresolved origins (135): AD, AE, AG, AM, AR, AZ, BA, BB, BE, BF, BG, BH, BI, BJ
 - DE/IT explicitly use the year from first entry, not calendar year. Austrian actual stamp may be shorter than the nominal allowance. Turkish 90-in-180 wording is not reconciled with the general Article 56 first-entry-year rule, so TR has d=0 while the exemption remains supported.
 - All 142 assigned gaps were tested against the prior Article 56/66 and regulation analysis, new public ministry index results, present tourism entry pages and available origin guidance. Tourist durations and an eVisa application option are not waiver/default evidence. The new ministry VISAS pages are statistics/download indexes, not nationality schedules.
 - Remaining ordinary nationalities lack an explicit exhaustive exemption/default in the retrieved material; MO/PS/XK additionally need accepted-document and nationality-specific evidence. No inference from the required-list complement or the lack of a Macao DSI concession row.
+- Nine named origin exemptions added: AE/AM/CZ/DK/HR/HU/NL/RU/SI. Armenia uses an actual ordinary-passport outbound checker response; Croatia uses the correct outbound column, not Schengen text. Russia treaty Article 1 supports its specific 90-day/180-day period. Other source periods are preserved or left unspecified.
+- Fresh native exemption searches, Chile mission search, the 2021 five-country order announcement and recovered Belarus treaty do not establish a current universal exemption/default for the remaining origins. Belarus treaty has notification-dependent commencement, not proven by its signature article. No requirement-list complement, diplomatic-only waiver or application availability is treated as proof.
+
+### Trinidad and Tobago (TT)
+
+Unresolved origins (119): AD, AF, AL, AM, AO, AR, AZ, BA, BF, BH, BI, BJ, BO, BR, BT, BY, CD, CF, CG, CH, CI, CL, CM, CN, CO, CR, CU, CV, DJ, DO, DZ, EC, EG, ER, ET, FJ, FM, GA, GE, GN, GQ, GT, GW, HN, HT, ID, IL, IQ, IR, IS, JO, KG, KH, KM, KR, KW, KZ, LA, LB, LI, LK, LR, LY, MA, MC, ME, MG, MH, ML, MM, MN, MO, MR, MX, MZ, NE, NG, NI, NO, NP, NZ, OM, PA, PE, PG, PH, PS, PW, PY, QA, RU, RW, SA, SD, SM, SN, SO, SS, ST, SV, SY, TD, TG, TH, TJ, TL, TM, TN, TW, TZ, UA, UG, US, UY, UZ, VA, XK, YE, ZA.
+
+- Ministry eVisa page links a short nationality list omitting several widely expected waivers. Only explicitly named exemptions verified; omitted passports remain unresolved.
+- Official FAQ says visa-required foreign nationals can apply online, but it does not identify the complete visa-required set. The list cannot safely be inverted.
+- Second pass checked New York, London, Ottawa and New Delhi mission resources and linked visa PDFs, both official tourism portals and the government law library. The PDFs concern process, not a full nationality matrix; tourism says MOST countries, not all. travel.gov.tt returned 429 and was not retried. No worldwide exemption inferred.
+- Reviewed every assigned origin against the freshly retrieved ministry exemption PDF. It still omits many known waivers and supplies no explicit complement/default. Added only the individually evidenced IN90, RS30 and FR3-month exemptions.
+- Brussels mission’s short-stay update, EEAS travel page and linked FAQ retrieved. They describe Trinidadians entering Europe; they are not silently reversed to establish all EU passports entering Trinidad. EUR-Lex treaty endpoints returned empty 202 responses; Council returned 403.
+- All remaining assigned origins: actual current incoming ordinary nationality schedule/operative bilateral text not retrieved. Ministry eVisa availability alone is not evidence that every omitted nationality requires a visa. Law-library TLS/404 failures and incomplete tourism/mission material retained.
+- Recovered government-linked 2016 Immigration Act compilation, the current 73-amendment register, all listed 2019–2026 legal notices, and Acts 25/2019, 9/2022 and 14/2025. The 2019 Act concerns enforcement offences; the 2022 Act concerns CARICOM skilled-certificate holders, not a new ordinary-tourist nationality schedule. Regulation 13(5) says where required, not every foreigner; 13(8) preserves Commonwealth and visa-abolition agreements; 13(13) permits further class-specific directions. No missing-name default was manufactured.
+- KP/MK/VN/VE are requirement-only additions under the express compulsory schedule and Venezuelan 2019 commencement, with 2024 special-passport distinction. Current statutory register and later amendments establish continued application; the old compilation is not described as a newly enacted 2026 law.
+- AT/IT/JP/TR waivers and AU eVisa are separately sourced. Japanese MOFA expressly confirms an MFA reply that Japan is exempt despite omission from the destination list. Italian less-than-90 boundary and Turkish 30-day period are retained. The official FAQ establishes electronic processing only for people who require a visa; it is not evidence that all applicants or omitted nationalities require one.
+- All 154 gaps were compared with these clauses and the present incomplete positive list. CU remains unreconciled between the compulsory schedule and separate reported waiver; remaining Commonwealth exceptions and bilateral waivers need explicit operative evidence. EU treaty content could not be recovered from the attempted official repositories; outbound Trinidad-to-EU advice was not inverted. MO/PS/XK/TW document cases remain unresolved.
+- Twenty-four EU-origin gaps have explicit incoming-tourism exemption evidence: Spain expressly covers EU nationals; Czech and Dutch sources separately give 90-day rules. The strict under-three-month wording is retained for the other passports.
+- Moldova’s ordinary-passport table establishes an eVisa requirement. UAE normal-passport card establishes a visa duty and one-month tourism wording, with issuance channel unconfirmed.
+- No blanket default from Regulation 13(5) “where required”, no inversion of the incomplete exemption PDF, no assumed Commonwealth entitlement, and no extension of EU advice to non-EU Schengen states. Operative treaty text was not recovered.
+- Cuba compulsory-schedule/waiver question, other omitted nationalities, and MO/PS/TW/XK document handling remain unresolved. China mission’s 2005 text predates later special-passport arrangements and is not accepted as current proof.
 
 ### Azerbaijan (AZ)
 
@@ -545,10 +604,13 @@ Unresolved origins (94): AF, AL, AO, AG, AM, BD, BZ, BJ, BT, BW, BF, BI, KH, CM,
 - Recovered government-linked Migration Code and inspected Articles15,20,24 and visa provisions. Article15.2 applies where a visa is required; Article15.3 preserves treaty exemptions. It does not supply an exhaustive present nationality schedule. The Migration Service visa page is dated30 June2022 and demonstrably misses later CN/AE/RS/MO and temporary2026 waivers; its GroupIII is outbound for Azerbaijani citizens, not inbound.
 - Current Tourism Board says most nationalities can eVisa, some need no visa, others use missions, but names no complete exception roster. MFA/mission TLS failures remain; no certificate bypass. Albania/Philippines/Armenia locators supplied no current inbound determination. AM and PS/XK recognition/entry-path cases remain specifically unresolved.
 - Previously archived ASAN July2026 evidence is not upgraded or relabelled current. No historical-only baseline replacement is claimed from a live duration page. Other94 gaps still need current positive nationality/waiver/default evidence.
+- All 94 current gaps retained. New Nairobi/Islamabad and central ordinary-visa pages failed certificate verification; ASAN's public service page returned500. Cabinet decisions and public search supplied no operative comprehensive ordinary-passport schedule. Origin-government alternatives for AL/EG/MA/PH failed or supplied empty/interstitial content.
+- Migration Code15.2/15.3 and the outdated 2022 Migration Service table remain insufficient to reconcile all current exceptions. Previously archived ASAN nationality evidence retains its historical status. No archive is promoted to current and no application omission becomes a visa obligation.
+- AM requires nationality-specific permission/restriction evidence; PS/XK require ordinary-document scope. Other 91 origins still require positive current eligibility, duty or a fully reconciled exemption schedule.
 
 ### Saint Kitts and Nevis (KN)
 
-Unresolved origins (93): AL, AR, AU, BB, BD, BH, BN, BO, BR, BS, BW, BY, BZ, CH, CL, CN, CO, CR, CU, EC, EG, FJ, GE, GH, GM, GT, GY, HK, HN, HR, ID, IE, IL, IN, IS, JM, JO, JP, KE, KI, KW, KZ, LI, LK, LS, MA, MC, ME, MH, MK, MU, MV, MW, MX, MY, NG, NI, NO, NR, NZ, OM, PA, PE, PG, PY, QA, RW, SA, SB, SC, SD, SL, SM, SR, SS, SV, SZ, TG, TO, TT, TV, TZ, UA, UG, US, UY, VA, VE, VU, XK, ZA, ZM, ZW.
+Unresolved origins (92): AL, AR, AU, BB, BD, BH, BN, BO, BR, BS, BW, BY, BZ, CH, CL, CN, CO, CR, CU, EC, EG, FJ, GE, GH, GM, GT, GY, HK, HN, HR, ID, IE, IL, IN, IS, JM, JO, KE, KI, KW, KZ, LI, LK, LS, MA, MC, ME, MH, MK, MU, MV, MW, MX, MY, NG, NI, NO, NR, NZ, OM, PA, PE, PG, PY, QA, RW, SA, SB, SC, SD, SL, SM, SR, SS, SV, SZ, TG, TO, TT, TV, TZ, UA, UG, US, UY, VA, VE, VU, XK, ZA, ZM, ZW.
 
 - All 67 embedded government-list rows inspected. Northern Cyprus uses cy as a flag code but is NOT catalog Cyprus; it is excluded. Western Sahara is outside catalog.
 - Other origins omitted from the required list remain unresolved. British tourist visa exemption and operational pretravel ETA reconciled; candidate is eta, with six-month stay from the British-specific source.
@@ -559,6 +621,8 @@ Unresolved origins (93): AL, AR, AU, BB, BD, BH, BN, BO, BR, BS, BW, BY, BZ, CH,
 - Fresh origin MFA statements resolve AE, MD, RS, TW and KR with the destination mandatory eTA. Taiwan has an initial one-month permission and a 90-day extension ceiling, not an automatic 90-day initial stay.
 - Fresh public eTA embedded FAQ separates 90-day authorisation validity from officer-determined stay and includes eVISA holders. It does not itself waive an underlying visa. Current MFA required list remains a positive 67-country list, not an explicit exempt-complement rule; all 98 assigned origins were checked against this issue.
 - Live Zimbabwe agreement article reports signature, without commencement. KZ/MH/SD/TG/ZW and other bilateral leads need operative commencement/substantive ordinary-passport terms; residual Commonwealth/CARICOM passports are not exempted from membership alone. HK/XK require specific document/class evidence. India MEA lists KN under arrival visas and therefore does not settle the conflicting waiver lead. Tourism homepage is a JS shell; EU treaty request returned empty 202.
+- Added Japan from the correctly identified June 2026 Japanese MFA country page: 30-day short-visit exemption plus compulsory eTA, including minors. eTA validity and officer-determined stay are distinguished.
+- The other 92 origins remain without a reconciled current ordinary-passport duty/exemption. MFA outbound Visa-Free Countries is not an inbound list; treaties page exposes a multilateral index, and 2025 law/SRO indexes supply no additional controlling nationality order. Prior section 9/Sixth Schedule and bilateral commencement gaps persist. Hong Kong/Kosovo need document-specific evidence.
 
 ### Oman (OM)
 
@@ -574,10 +638,13 @@ Unresolved origins (88): AF, AO, AG, BS, BD, BB, BZ, BJ, BW, BF, BI, KH, CM, CV,
 - MN ordinary-passport visa duty proved by Mongolia’s explicit residual clause; its Oman waiver is diplomatic/official-only. TW ordinary-passport 14-day waiver and separate visa options proved by BOCA, without adopting its erroneous 30-month visa-stay text.
 - New ROP current law index links the actual Arabic RD16/1995 foreigners law. Article5 requires an entry visa, but Article3 preserves international agreements and Article4 includes delegated exemptions and organised-tour groups. Current MFA lists tourist concessions and refers others to product-specific ROP assessment. These texts do not complete the missing treaty/delegated-exemption implementation for the other origins.
 - IL/PS/XK still need accepted-document and permission treatment; other residual origins need a scoped actual visa requirement/eligibility determination. Residence, profession and family concessions are not assumed. Qanoon is a locator only; the law proof used for research is the ROP-hosted PDF.
+- The public ROP wizard was queried for all 87 selectable assigned nationalities with GCC residence No; Micronesia has no selectable option and was not synthetically submitted. Exact matched results and non-decisions are preserved separately. The wizard supplies some family-dependent tourist products, not a universal ordinary-tourist requirement.
+- Full 26E/26F/26G/26H/36F conditions were retrieved through the wizard's public detail form. They establish accompanying-spouse/child branches, principal-visa/nationality requirements and distinct stay periods. The 26E/26F/36F conditions expressly say dependent age at least18; no under18 eligibility is invented. Detail pages say one month for26F/G/H and one month per visit for36F, while result cards say30days; this difference is retained.
+- All 88 gaps remain because independent-traveller duty and the full applicable exemption/issuance branches are still unestablished. Notes propose branch-level evidence with an unknown residual branch; no conditional label is used to hide that gap. AF/IL empty results, MH/PK non-tourist-only results, service errors and missing FM are not entry bans or requirements.
 
 ### Malaysia (MY)
 
-Unresolved origins (57): AL, AD, AR, BJ, BA, BR, BG, TD, KM, CD, CR, SV, FI, GA, GR, GT, HN, IQ, IL, KZ, KW, KG, LV, LY, LT, LU, MH, FM, MC, MM, KP, MK, OM, PW, PS, PY, PL, ST, SA, SK, SO, SS, SD, SR, SY, TJ, TL, TG, TN, TM, UA, US, UY, UZ, VA, VE, YE.
+Unresolved origins (55): AL, AD, AR, BJ, BA, BG, TD, KM, CD, CR, SV, FI, GA, GR, GT, HN, IQ, IL, KZ, KW, KG, LV, LY, LT, LU, MH, FM, MC, MM, KP, MK, OM, PW, PS, PY, PL, ST, SA, SK, SO, SS, SD, SY, TJ, TL, TG, TN, TM, UA, US, UY, UZ, VA, VE, YE.
 
 - Existing IN 30-day exemption through 2026-12-31 and GB normal 90-day tourism rule were revalidated. No existing override is demonstrably wrong; withdrawals remain empty. Additional evidence-backed routes are proposed, with no universal exemption inferred from omission.
 - Second pass adds individually named mission/PDF exemptions and exact SAR document rules: HK90, MO30, MA90, MR30, Nordic SE/DK/NO/IS90, DE/IT/HU/DZ90, MG/SN/CV30, and calendar-month rows. Existing CA/ZA/BW/SZ/LS/GM rules gain sourced durations. XK visa obligation is positively named. IN remains vf30 through2026-12-31.
@@ -596,10 +663,12 @@ Unresolved origins (57): AL, AD, AR, BJ, BA, BR, BG, TD, KM, CD, CR, SV, FI, GA,
 - Inspected central Immigration visa requirements, current mission pages across Europe, the Americas, Africa, Asia and Gulf, origin MFAs, and old PDF links. The purported old all-country PDF and Turkmenistan statement now return a generic ministry homepage. EEAS concerns Malaysians visiting Europe, not EU nationals entering Malaysia.
 - CD remains internally contradictory (DR Congo required versus obsolete Zaire exempt). AR/BA/OM/PY/UY retain waiver-versus-VOA wording conflicts. CR/SV/GT/HN have Without Visa table entries contradicted by same-page all-visitors-must-get-visa footnotes. No fees, generic application forms or MDAC lists were used as exemptions.
 - Other residual ordinary origins lack explicit current exemptions or a reliable exhaustive residual rule. IL/KP/PS and SO/SD/SS need specific passport and special-entry treatment. Sabah response contains gambling injection and no target page, so it is rejected.
+- Added Brazil 90 days and Suriname 30 days from explicit national-passport exemptions in the Brasilia mission publication; current MDAC conditions are separate from the visa category.
+- The other 55 origins remain. CD/Zaire conflicts, AR/BA/OM/PY/UY and SO/SD visa-versus-arrival terminology, and CR/SV/GT/HN mandatory-visa footnotes remain unreconciled. IL/KP/PS special entry/documents and MM current short-tourist conditions are not settled by generic applications. Other unlisted nationalities lack a reliable current exemption/default; no fee, yellow-fever list or application eligibility is used as visa duty.
 
 ### Cape Verde (CV)
 
-Unresolved origins (51): AD, AE, AG, AL, AR, AU, BA, BB, BS, BZ, CM, CN, CU, FJ, FM, GD, GE, GQ, IL, IN, JP, KE, KN, KR, KW, LC, MA, MC, MD, ME, MH, MK, MU, MV, MY, NZ, QA, RU, RW, SA, SB, SC, SM, ST, TH, TL, UA, UY, VA, VC, XK.
+Unresolved origins (48): AD, AG, AL, AR, AU, BA, BB, BS, BZ, CM, CN, CU, FJ, FM, GD, GE, GQ, IL, IN, KE, KN, KR, KW, LC, MA, MC, MD, ME, MH, MK, MU, MV, MY, NZ, QA, RW, SA, SB, SC, SM, ST, TH, TL, UA, UY, VA, VC, XK.
 
 - 89 catalog origins require prior visas from 2026-01-01. Their exceptions based on third-country residence, ancestry or official status are out of baseline scope.
 - All remaining unresolved origins: the linked exemption PDF is older and omits later possible waivers (e.g. US/Canada/Brazil); absence was not converted into visa-required. ST ordinary-tourist treatment is unclear because its 180-day footnote is official/business-only. VOA otherwise depends on residence in a country with no Cape Verde mission.
@@ -611,10 +680,12 @@ Unresolved origins (51): AD, AE, AG, AL, AR, AU, BA, BB, BS, BZ, CM, CN, CU, FJ,
 - Exact baseline partition: 3 additions; 55 unresolved. Lists in this review are exhaustive.
 - Read the newly followed live consular legislation index, its Decreto-Lei2/2015 PDF and AAI entry-rule page. The index incorrectly links the same implementing decree under Law66/VIII/2014; it is not treated as the text of that law. Default reserves legal/treaty exemptions; later nationality concessions are still incompletely reconciled.
 - New positive evidence resolves MO90 visa-free and RS/TR/TW visa requirements. Remaining origins need current ordinary-tourist waivers and/or residence-dependent border-issuance implementation; ST’s special official/business footnote is not expanded to tourism. EASE/TSA is separate. Taiwan advice and destination rules differ on how broadly airport issuance is available; only common visa requirement is recorded.
+- RU ordinary-passport exemption of 60 days per visit is corroborated by the current Russian MFA column and full 2019 treaty; the separate diplomatic/service 90 days is not used. JP/AE resolve only visa duty with residence-dependent border issuance, EASE and stay limitations.
+- New ST agreement signature announcement and 2017 legal-amendment announcement do not establish operative ordinary-tourist scope/commencement for all residual nationalities. Current portal still reserves legal/treaty exemptions. No nationality-wide visa default is asserted from an unreconciled old exemption PDF.
 
 ### Guyana (GY)
 
-Unresolved origins (49): BD, BG, BN, CM, CY, CZ, EE, FJ, GA, GM, HR, HU, ID, IN, KE, KI, KW, LK, LT, LV, MT, MU, MW, MZ, NA, NG, NR, PG, PK, PL, PS, RO, RW, SB, SC, SI, SK, SL, TG, TO, TV, TW, TZ, UG, UY, VU, WS, XK, ZM.
+Unresolved origins (48): BD, BG, BN, CM, CY, CZ, EE, FJ, GA, GM, HR, HU, ID, IN, KE, KI, KW, LK, LT, LV, MT, MU, MW, MZ, NA, NG, NR, PG, PK, PL, PS, RO, RW, SB, SC, SI, SK, SL, TG, TO, TV, TZ, UG, UY, VU, WS, XK, ZM.
 
 - MFA list contains diplomatic-only entries interspersed with ordinary-passport exemptions; these were not treated as ordinary exemptions.
 - North Korea is explicitly listed without qualification; South Korea separately has 30 days. Spain is diplomatic-only; Germany is absent. No inference for omitted or special-passport-only rows.
@@ -629,6 +700,8 @@ Unresolved origins (49): BD, BG, BN, CM, CY, CZ, EE, FJ, GA, GM, HR, HU, ID, IN,
 - Czech and Estonian origin authorities positively describe visa duties, but the earlier Spanish MFA source explicitly claims an EU-wide tourist waiver under one month. Re-read that source without redating it; all13 other assigned EU origins are withheld pending reconciliation, rather than silently choosing either the broad waiver or the statutory default.
 - GT/HN/MX preserve the explicit90-day foreign-document exception without assuming foreign status. MO has a documented30-day pre-approved arrival branch; unknown consular stay and residence prevent an unconditional30-day record.
 - The portal explicitly requests an arrival-visa letter; application access is not proof of visa duty or immediate approval. Kuwait residence/no-mission condition, preapproval and border issue remain sequential.
+- Correct Taiwan BOCA country record 261 establishes advance visa duty; prior attempted record 91 was not this destination.
+- Commonwealth reciprocal applicability, 13 EU-origin official conflicts, ID/UY/KW waiver scope, and PS/XK documentary treatment remain unresolved. India worker advice is employment-only and does not settle tourist duty.
 
 ### Ivory Coast (CI)
 
@@ -645,10 +718,12 @@ Unresolved origins (48): AF, AG, AL, AO, BD, BO, CL, CN, CO, CU, DM, DO, EG, FM,
 - Added Czech and Moldovan electronic preapproval routes from their actual nationality-specific MFA requirements, with SNEDAI advance approval and Abidjan biometric-printing sequence. No three-month validity-as-stay conversion.
 - Current Dakar/Paris mission visa paths are navigation-only; attempted Berlin pages loop or return document-unknown, central PDF404, China mission DNS failure. SNEDAI process explicitly warns applications can be refused and contains no nationality-obligation schedule.
 - All other50-origin-assignment residual rows remain unresolved for current ordinary rules. Rwanda waiver implementation, named bilateral exemptions and HK/PS document treatment require positive evidence; old 2017 annex is not advanced to current.
+- All48 residual origins remain. The Canadian embassy current ordinary-passport sticker procedure describes applications, not an exhaustive nationality duty schedule; Chinese mission notices do not supply the missing inbound rule. Current Rwanda immigration navigation concerns entry into Rwanda and is not reversed.
+- Rwanda waiver commencement, remaining ordinary exemptions, and HK/PS document rules still need affirmative current evidence. Failed new schedule and mission locators yield no rule. The existing 2017 archive and old AIP are not advanced to current.
 
 ### United Arab Emirates (AE)
 
-Unresolved origins (48): AL, AD, AR, AM, AZ, BS, BB, BY, BA, BR, BN, CL, CN, CO, CR, CY, EC, SV, FJ, GE, GY, HN, HK, IE, IL, JP, KZ, KI, MY, MV, MU, MX, MC, ME, NR, NZ, PY, PE, RU, SM, SC, SB, KR, VC, UA, UY, UZ, VA.
+Unresolved origins (44): AL, AD, AR, AZ, BS, BB, BY, BA, BR, BN, CL, CN, CO, CR, EC, SV, FJ, GE, GY, HN, HK, IE, IL, JP, KZ, KI, MY, MV, MU, MX, MC, ME, NR, NZ, PY, PE, SM, SC, SB, VC, UA, UY, UZ, VA.
 
 - MOFA nationality cards were inspected across the catalog. Visa-required cards support explicit requirements; an agent/sponsor channel must not be relabelled as an unrestricted personal eVisa.
 - US and GB arrival visas have aggregate 90/180 limits. GDRFA expressly uses a rolling 180-day look-back for Schengen nationals. These distinct formulations are retained.
@@ -660,10 +735,13 @@ Unresolved origins (48): AL, AD, AR, AM, AZ, BS, BB, BY, BA, BR, BN, CL, CN, CO,
 - London recovered visa-information page redirects guidance to now-missing u.ae routes. Canberra/Tokyo/Mexico, GDRFA, tourism-authority, official-airport and origin-government leads were pursued; access failures/challenges and wrong-destination redirects were not treated as evidence.
 - Added AU from actual DFAT arrival-visa language with document qualifications and unspecified duration; MN from the correct outbound all-passport 30-day table, with its 2023 commencement retained.
 - Current MOFA cards and Washington regular-passport green icons were inspected, but generic Visa Free/Visa Not Required terminology does not consistently distinguish prior-visa exemption from an arrival visa (Australian advice explicitly calls it a visa). Japanese current advice describes 30-day arrival stay permission as of January2024 and no advance visa, without explicitly resolving that categorisation conflict. Remaining 48 origins need nationality-specific operative waiver/arrival method and passport qualifications. No outbound Mongolian-to-UAE rule was inferred from the initially fetched inbound-to-Mongolia table.
+- Added AM bilateral all-passport waiver with unstated stay, RU treaty waiver 90/180, KR ordinary waiver 90 days, and CY EU-treaty waiver 90/180.
+- Recovered the actual EU–UAE treaty through the Publications Office catalogue and English manifestation. Article 8 provides provisional application from signature on 6 May 2015; Ireland excluded, and ordinary passports expressly included.
+- Other remaining origins retain nationality-specific waiver versus arrival issuance/document/duration gaps. Hong Kong combined concession page, old Chinese guide, wrong-direction payment guide, generic menus and access failures are not silently reclassified.
 
 ### Mali (ML)
 
-Unresolved origins (41): AE, AG, BB, BH, BN, BS, BY, DM, FM, GD, HN, ID, IL, KI, KN, KP, LC, LI, ME, MH, MK, MM, NR, OM, PG, PW, SB, SI, SM, SV, SY, SZ, TL, TO, TV, US, VC, VU, WS, XK, YE.
+Unresolved origins (40): AE, AG, BB, BH, BN, BS, BY, DM, FM, GD, HN, ID, IL, KI, KN, KP, LC, LI, ME, MH, MK, MM, NR, OM, PG, PW, SB, SM, SV, SY, SZ, TL, TO, TV, US, VC, VU, WS, XK, YE.
 
 - The 14 December 2024 AES confederal declaration now directly supports current ECOWAS nationals into Mali, replacing reliance on an older mission group statement for those routes. It is not used for the opposite direction or as unrestricted residence/work.
 - Other first-pass named bilateral waivers and GB electronic method retained. Remaining passports still need current ordinary-passport exemptions, intra-AES document rules, country-specific eVisa eligibility and any US restrictions; no extrapolation from origin-side concessions.
@@ -673,6 +751,8 @@ Unresolved origins (41): AE, AG, BB, BH, BN, BS, BY, DM, FM, GD, HN, ID, IL, KI,
 - Actual public requirement lookup evaluated exact nationality, ordinary passport and home-country residence; mission routing fetched from the same public UI.133 queries returned explicit visa/exemption alerts. No application redirect followed. Missing nationality or no assigned mission does not create a result.
 - AE is held because actual destination checker requires visa while UAE MFA normal-passport row grants90-day exemption; origin travel prohibition is separate. ID remains held for an unreconciled claimed later exemption. US/SY remain held for reported admission restrictions not reconciled with generic required alerts.
 - BF/NE have affirmative no-visa results accepting identity documents/passports valid in their own country; no unrestricted free movement or stay length inferred. Macao DSI independently supports MO90, and Taiwan BOCA supports prior visas. Palestine is requirement-only with specific document/issuance uncertainty.
+- Slovenian Foreign Ministry explicitly establishes SI visa duty; method and stay remain unspecified.
+- Other missing/no-mission checker cases remain unresolved. AE conflicts with the destination checker; ID waiver scope/commencement and US/SY restrictions remain unreconciled. New origin locators and ministry/presidency searches did not establish them. Reverse-direction Montenegro and Brunei pages were rejected.
 
 ### Egypt (EG)
 
@@ -687,69 +767,8 @@ Unresolved origins (37): AF, DZ, BH, BW, DM, FJ, GD, GY, HK, IL, JO, KI, KW, LB,
 - Inspected Sydney A/C and Berlin’s actual public client-side single-entry tourist conditions, not merely nationality dropdowns. Positive A1/A2 mappings are preserved in eg-positive-branches.json; no form was submitted. Berlin has demonstrable exemption/clearance anomalies (GCC/SAR/Malaysia and KP), so no blanket default or complement inference is made.
 - Only named single-entry results without identified waiver conflicts are added. Sydney supplies BT/KP’s common visa requirement while method differences remain explicit; MO90 comes from its own government and overrides the conflicting generic Berlin branch.
 - AF/DZ/LB/LY/MA/TN/SS/YE remain unresolved: new mission sources do not establish reported age/sex and group/charter/port waiver branches. BH/KW/OM/QA/SA/AE/HK/JO require reconciliation of waiver versus arrival terminology and Jordan passport subtype. Other remaining origins lack a usable single-entry decision; long-stay/multiple-entry mapping and application availability are not substituted. No secondary age threshold is promoted to fact.
-
-### Laos (LA)
-
-Unresolved origins (37): AF, DZ, BD, BY, BI, CM, CG, CI, SZ, GH, GN, GW, IR, IQ, JO, LB, LS, LR, LY, MZ, NR, NE, NG, PK, SN, SL, SO, SS, SD, SR, SY, TO, UG, VA, YE, ZM, ZW.
-
-- Japan30-day waiver confirmed by specific embassy update; outdated15-day schedule not copied. eVisa30-day stay is distinct from60-day approval validity. No 2024 temporary60-day tourist extension carried forward.
-- Second pass resolves HK as positively evidenced tourist VOA30; existing positive eVisa30 alternative retained. The old14-day diplomatic/service row is not an ordinary-passport exemption.
-- Additional Washington/Tokyo mission pages did not supply an exhaustive nationality exception schedule. Washington’s application page specifically prices US/Canadian passports; Tokyo’s generic non-Japanese eVisa wording does not resolve absent fee-selector nationalities. No new blanket eligibility inferred.
-- AF, DZ, BD, BI, CM, CG, CI, SZ, GH, GN, GW, IR, IQ, JO, LB, LS, LR, LY, MZ, NR, NE, NG, PK, SN, SL, SO, SS, SD, SR, SY, TO, UG, VA, YE, ZM, ZW: Not included in positively retrieved eVisa fee selector or ordinary-waiver schedule; no exhaustive current default/VOA exclusion rule established. Absence is not proof that all visas are unavailable.
-- BY, TL: New ordinary-passport waiver developments were located, but not confirmed by an operative official instrument; Immigration still publishes its2022 schedule. Do not apply the old diplomatic-only row as an ordinary waiver.
-- Baseline gaps 38; current-supported additions 1; historical-only additions 0; remaining without policy 37.
-- Timor-Leste Government's 19 January 2026 account of bilateral talks expressly describes visa-exemption regimes for diplomatic, official AND ordinary passports facilitating travel between the two countries. This resolves TL's ordinary exemption beyond the older 2022 Lao list; it supplies no stay duration, so d=0.
-- Retrieved a genuinely archived government services-portal copy of the foreign-entry law (capture 2021-05-17). Articles 11 and 19-22 preserve bilateral exemptions, permit tourist issuance and describe separate paper visas for non-diplomatic-recognition cases; they do not supply the missing current exemption/arrival-exclusion nationality schedule. No historical blanket rule is manufactured from that generic statute.
-- Belarus embassy consular index did not provide outbound Lao commencement evidence. New Lao MFA domain was accessible but yielded no substantive English nationality rules; former services portal failed DNS, www MFA hostname failed TLS, Berlin visa path returned 404 and its root had no content, Bangkok failed transport, and Tourism visa paths returned 404. Washington's generic visa page is still explicitly US/Canadian-priced, not a worldwide requirement. BY and the other 36 origins remain unresolved for current ordinary exemptions and advance/arrival eligibility.
-- All37 reviewed against prior nationality exclusions and new Paris/Canberra mission navigation. Paris current consular page links eVisa but contains no exhaustive ordinary-nationality obligation; its mail FAQ is process-only. Canberra publishes application materials and outdated2020 temporary measures, not a current exclusion/default schedule.
-- Belarus Hanoi mission root is live, but attempted consular paths provide no operative ordinary-passport Lao waiver commencement. BY remains a later-agreement blocker; the other36 still need complete contemporary visa/arrival-exclusion evidence. No old embassy form, fee schedule or eVisa omission supplies a default.
-
-### Kuwait (KW)
-
-Unresolved origins (20): AF, BH, CG, CD, EG, IR, IQ, IL, XK, MO, MV, KP, OM, PK, PS, SA, SB, SS, UG, YE.
-
-- Second pass found direct official conflict for RS: Kuwait static instructions include Serbia; Serbia MFA says neither eVisa nor VOA is available. RS is removed from the verified candidate and explicitly unresolved; no unsupported consular-only replacement.
-- The live public checker uses a runtime allowed-country list and encrypted eligibility POST, with separate nationality, visa product and foreign-status inputs. No authentication or CAPTCHA was bypassed; AF/IL client exclusions are not coded as universal entry bans.
-- For the other 53 already-listed passports, retained single-entry tourist product is entry-valid 30 days/stay up to 90 days; multiple-entry product is separately 30 days per entry. HK origin advice reports three months for VOA; not assumed equal to every eVisa option.
-- Remaining origins need a current nationality-only checker result or operative mission/legislation text. Kuwait MFA rejected access and Washington mission transport failed. GCC citizenship exemption and residence-based exceptions are not inferred from dropdown exclusions.
-- Queried public nationality eligibility with tourist visaTypeId16/categoryType0 (no GCC/US/UK/Schengen status), following actual public frontend RSA payload format. This is read-only eligibility, not an application. French positive control returned all eligibility flags true.
-- RS requirement added; CN supported baseline corrected to requirement-only with method conflict. Both return false for arrival/online/evisa and are absent from runtime arrival list despite static instructions naming them.
-- Other negative checks establish only method ineligibility for this branch, not a visa requirement or admission ban. Missing/excluded nationalities and GCC citizens require their own current primary rule; no unchecked exemption is inferred.
-- kuwaitembassy.org is a US Arab Chamber of Commerce service, not the Kuwaiti mission, and kuwaitembassy-australia.com is repurposed casino content: neither used as evidence.
-- 121 exact preserved no-foreign-status MOI tourist-checker negatives are paired with the newly inspected Kuwait Embassy Tokyo explicit prior-visa requirement for foreign nationals unable to use eVisa/arrival issuance. A negative method response alone is not the requirement evidence. Tokyo explicitly includes hotel sponsorship for tourism; no Japanese residence is assumed from its separate long-term visa section.
-- Added Taiwan requirement with unpublished ordinary-tourism method, UAE normal-passport waiver, and Qatari regular-passport waiver. No inferred universal eVisa unavailability, sponsor approval or stay.
-- AF/IL have exclusion-sensitive cases without conclusive current requirement/document evidence. MO/PS/XK have negative method responses but no sufficiently established ordinary-document requirement/recognition branch. BH/OM/SA exemption not retrieved. CG/CD/EG/IR/IQ/KP/PK/SB/SS/UG/YE lack valid matched negative results in the preserved data; MV timed out. No invalid code or missing lookup is treated as a decision.
-
-### Antigua and Barbuda (AG)
-
-Unresolved origins (19): BO, EC, HK, HR, IS, KR, MC, MG, MH, MK, MX, NO, PA, PE, PS, SM, SR, VA, XK.
-
-- Second pass retrieved the government Tourism Authority nationality list and explicit default: unlisted countries require visa. This is not extrapolation from example nationalities. Named China/Cuba exemptions have 30 days; general stay unspecified.
-- The public list has no visible update date and omits nationalities with later-waiver leads. AE BO EC HK HR IS KR MC MD MG MH MK MO MX NO PA PE RU SM SR TW VA XK PS remain unresolved; Serbia separately verified from its government. No counterexample is classified from secondary reference alone.
-- Government gazette indexes 2019–2026 and the linked 2008 exemption instrument inspected. SI 41/2008 supplies 90 days for CY/CZ/EE/LV/LT/SK. Bolivia treaty ratification found, but Article 9 requires the last diplomatic notification plus 30 days; that commencement not established.
-- London mission establishes online eVisa applications. Immigration/eVisa hosts fail certificate verification; no certificate or challenge bypass. Conditional arrival permission requiring foreign visa/residence is outside the baseline profile.
-- OECS Commission FAQ expressly names AG/DM/GD/KN/LC/VC and confirms enacted free-movement rights for all citizens, valid ordinary passport/accepted ID, indefinite stay, no work permit, no return ticket and no financial-support proof. This supports five foreign-OECS routes per destination; no extension to all CARICOM or associate members.
-- MO30, AE90/180 and RU90/180 confirmed from origin governments. HK concession list remains method-ambiguous (combined visa-free/arrival heading). Croatian guessed locator resolves to unrelated lost-documents page and is rejected. EU treaty endpoints did not return operative text; Norway 403 and Iceland 404. BO commencement and other listed later-waiver/document leads remain unresolved.
-- MD ordinary exemption from current Moldova MFA table and TW tourism30 exemption from BOCA. ArriveAntigua declaration is optional, not ETA.
-- Other19 origin gaps compared against prior tourism default, known omitted/later waivers and new current mission FAQ. FAQ gives visitor stay but no nationality exemption schedule. EEAS text is outbound Caribbean-to-EU and is not reversed. EUR-Lex returned empty202; Mexico challenge and Croatia homepage redirect do not supply route evidence.
-- BO commencement remains unproved; other claimed later exemptions and HK/PS/XK document/method cases require actual current nationality-specific evidence.
-
-### Bolivia (BO)
-
-Unresolved origins (18): AE, AG, BG, CG, DO, HN, IL, KR, MO, MT, RO, SD, SS, SV, US, VC, XK, ZA.
-
-- Group I, II and III named rows inspected. London and Brussels schedules are older than the December 2025 announcement.
-- US, Israel, South Korea, South Africa, Bulgaria, Malta, Romania and UAE were announced as new Group I exemptions, but announcement says implementation gradual. These eight are unresolved pending implementing/current confirmation, rather than publishing stale visa requirements.
-- Russia Group II is potentially superseded by bilateral waiver; kept unresolved. Dominican Republic differs between embassy versions. HK/Macao regional status, omitted Congo/Sudan/South Sudan/Kosovo and method/stay of Group II need further confirmation.
-- British citizens: 90 days aggregate per year, not per visit; source-specific annual note retained.
-- Antigua, Honduras, El Salvador and Saint Vincent also held unresolved: reference indicates waivers while old embassy groups require visas; bilateral amendment chain needs official reconciliation.
-- HK resolved by a specific Hong Kong Immigration remark relaying the Bolivian embassy: 30-day tourist visa on arrival. Consular Group II processing remains a genuine method alternative with unspecified stay, so d=0 and method-specific stay wording are used. AG/BO treaty ratification alone did not establish Article 9 commencement.
-- The official public visa-portal bundle exposed a public, unauthenticated GET country-metadata endpoint, which was retrieved and inspected. It has duplicate/incorrect ISO values (Armenia=AR, Bangladesh=BG, Angola=AN), null group values, and group conflicts with published embassy schedules. Seven announced 2025 additions appear as group 1 while Israel remains group 3. This is corroborating research, not a labelled ordinary-tourist decision or a verified commencement notice; no automatic promotion from raw metadata.
-- Russian MFA ordinary column resolves RU as 90 days within 180. Diplomatic three-month column kept separate.
-- Re-read December 1 2025 ministry announcement: headline says from today, body explicitly says progressive/gradual implementation. Eight new Group I countries remain held pending operative commencement, especially Israel’s contradictory old portal metadata. Germany mission’s current successor website publishes generic documents, no ordinary nationality determination. Washington old host is a hosting placeholder; gazette host DNS failed; public ministry search returned 401, not bypassed.
-- Other bilateral/SAR and omitted-state cases (AG/CG/DO/HN/MO/SD/SS/SV/VC/XK) remain unresolved, not inferred from application group fields.
-- All 18 origins assessed against prior progressive-implementation blocker, newly retrieved London groups, current MFA visa2026 search and migration portal. London retains the old groups and does not resolve the eight December2025 waiver implementations; the migration page is only a JS shell. Gazette DNS failed; US403, Bulgaria CAPTCHA, Romania503, Korea redirect loop and Malta403 were not bypassed.
-- AE/BG/IL/KR/MT/RO/US/ZA need operative commencement/current application of the announced ordinary waiver; AG/CG/DO/HN/MO/SD/SS/SV/VC/XK need positive ordinary nationality/document treatment. No announcement converted into implementation.
+- All37 residuals retained. New mission/origin attempts did not establish the missing age/sex/group/charter/territorial/port branches or clear GCC/SAR/Jordanian-document conflicts. No eligibility conditions are assumed.
+- US-residence-scoped emergency-arrival instructions are not a nationality-wide rule. Airport QR issuance does not become advance eVisa. London Sinai wording names UK/EU/US, not the assigned Israeli passport. The20 small/island origins still lack positive short-tourism determinations.
 
 ### Afghanistan (AF)
 
@@ -762,6 +781,24 @@ Unresolved origins (17): AZ, CN, HK, ID, IL, IN, IR, KG, KZ, MO, MY, OM, QA, SA,
 - Dubai consulate confirms electronic issuance but retains nationality/residence eligibility; do not generalize “apply from anywhere”. Islamabad explicitly names Pakistan. Other mission attempts in Iran/Russia failed 500; New Delhi/Beijing guessed mission hosts failed DNS. Other assigned origins still require nationality-specific consular or permitted-residence electronic branches. HK/MO/IL document acceptance unproved.
 - RU requirement from the actual ordinary-passport column; AE normal-passport visa requirement from current UAE MFA. UAE outbound prohibition is distinguished from Afghan admission rules.
 - Seventeen remaining origins retain ordinary-passport/nationality and mission/residence eligibility uncertainty. Fresh China/India/Malaysia/Iran mission and origin-government locators yielded general notices, soft home pages, DNS/TLS failures or no visa determination. Dubai electronic availability is not generalized across nationality/residence conditions. HK/MO/IL document treatment is not inferred.
+- All 17 origins retained. The newly navigated central MFA tourist-visa page states a three-month validity and one-month stay, but neither nationality duty nor a reconciled exception/mission-residence schedule. It does not resolve the existing Dubai nationality/residence restrictions or HK/MO/IL documents.
+- General availability of an Afghan tourist visa is not proof of a requirement or routine issuance for these origins; one calendar month is not converted to 30 days.
+
+### Antigua and Barbuda (AG)
+
+Unresolved origins (17): BO, EC, HK, IS, MC, MG, MH, MK, MX, NO, PA, PE, PS, SM, SR, VA, XK.
+
+- Second pass retrieved the government Tourism Authority nationality list and explicit default: unlisted countries require visa. This is not extrapolation from example nationalities. Named China/Cuba exemptions have 30 days; general stay unspecified.
+- The public list has no visible update date and omits nationalities with later-waiver leads. AE BO EC HK HR IS KR MC MD MG MH MK MO MX NO PA PE RU SM SR TW VA XK PS remain unresolved; Serbia separately verified from its government. No counterexample is classified from secondary reference alone.
+- Government gazette indexes 2019–2026 and the linked 2008 exemption instrument inspected. SI 41/2008 supplies 90 days for CY/CZ/EE/LV/LT/SK. Bolivia treaty ratification found, but Article 9 requires the last diplomatic notification plus 30 days; that commencement not established.
+- London mission establishes online eVisa applications. Immigration/eVisa hosts fail certificate verification; no certificate or challenge bypass. Conditional arrival permission requiring foreign visa/residence is outside the baseline profile.
+- OECS Commission FAQ expressly names AG/DM/GD/KN/LC/VC and confirms enacted free-movement rights for all citizens, valid ordinary passport/accepted ID, indefinite stay, no work permit, no return ticket and no financial-support proof. This supports five foreign-OECS routes per destination; no extension to all CARICOM or associate members.
+- MO30, AE90/180 and RU90/180 confirmed from origin governments. HK concession list remains method-ambiguous (combined visa-free/arrival heading). Croatian guessed locator resolves to unrelated lost-documents page and is rejected. EU treaty endpoints did not return operative text; Norway 403 and Iceland 404. BO commencement and other listed later-waiver/document leads remain unresolved.
+- MD ordinary exemption from current Moldova MFA table and TW tourism30 exemption from BOCA. ArriveAntigua declaration is optional, not ETA.
+- Other19 origin gaps compared against prior tourism default, known omitted/later waivers and new current mission FAQ. FAQ gives visitor stay but no nationality exemption schedule. EEAS text is outbound Caribbean-to-EU and is not reversed. EUR-Lex returned empty202; Mexico challenge and Croatia homepage redirect do not supply route evidence.
+- BO commencement remains unproved; other claimed later exemptions and HK/PS/XK document/method cases require actual current nationality-specific evidence.
+- Croatian MFA matching ordinary-passport result resolves HR exemption with unknown stay; Korean September2026 table resolves KR90. Reverse-direction Schengen paragraphs are excluded.
+- Bolivia treaty ratification still lacks the prescribed commencement notification. Other later-waiver leads, HK method ambiguity and PS/XK accepted-document cases remain unresolved. New EU endpoint was empty; alternate Iceland/Mexico/North Macedonia sources failed or supplied no result.
 
 ### Gambia (GM)
 
@@ -777,6 +814,47 @@ Unresolved origins (17): DO, EC, HK, HN, ID, MO, PH, PS, SM, SR, SV, TH, TL, TW,
 - Current Russian MFA expressly requires an ordinary-passport visa; Korean MFA September 2026 table expressly marks no ordinary waiver. These supply origin-specific requirement evidence beyond the old 2019 chart and the 2025 destination default. Issuance channel/stay and charter-tour concessions remain qualified.
 - Taiwan BOCA explicitly warns of incomplete/outdated Gambian web guidance and asks travellers to confirm whether the former waiver still applies. It does not establish either exemption or requirement. MO is not in the DSI list; no mainland-China substitution.
 - All residual DO/EC/HN/ID/PH/SM/SR/SV/TH/TL/UY/VE/VN need current explicit nationality treatment to reconcile the 2019 exceptions with the 2025 policy. HK/MO/PS/TW also require passport-specific treatment. No omission-based withdrawal of former waivers.
+- All17 residuals retain unresolved2019-versus2025 exemption treatment or passport-specific document concerns. New Thai Dakar and Indonesian mission pages supplied generic shells, Philippine mission access failed and immigration legal locator failed TLS. None reconciles the earlier nationality exceptions.
+- No general2025 default is used to cancel unexamined earlier waivers; Taiwan’s explicit warning that the exemption needs confirmation remains material. Chartered-tour conditions are not assumed.
+
+### Kuwait (KW)
+
+Unresolved origins (16): AF, BH, CG, CD, EG, IR, IQ, IL, KP, OM, PK, SA, SB, SS, UG, YE.
+
+- Second pass found direct official conflict for RS: Kuwait static instructions include Serbia; Serbia MFA says neither eVisa nor VOA is available. RS is removed from the verified candidate and explicitly unresolved; no unsupported consular-only replacement.
+- The live public checker uses a runtime allowed-country list and encrypted eligibility POST, with separate nationality, visa product and foreign-status inputs. No authentication or CAPTCHA was bypassed; AF/IL client exclusions are not coded as universal entry bans.
+- For the other 53 already-listed passports, retained single-entry tourist product is entry-valid 30 days/stay up to 90 days; multiple-entry product is separately 30 days per entry. HK origin advice reports three months for VOA; not assumed equal to every eVisa option.
+- Remaining origins need a current nationality-only checker result or operative mission/legislation text. Kuwait MFA rejected access and Washington mission transport failed. GCC citizenship exemption and residence-based exceptions are not inferred from dropdown exclusions.
+- Queried public nationality eligibility with tourist visaTypeId16/categoryType0 (no GCC/US/UK/Schengen status), following actual public frontend RSA payload format. This is read-only eligibility, not an application. French positive control returned all eligibility flags true.
+- RS requirement added; CN supported baseline corrected to requirement-only with method conflict. Both return false for arrival/online/evisa and are absent from runtime arrival list despite static instructions naming them.
+- Other negative checks establish only method ineligibility for this branch, not a visa requirement or admission ban. Missing/excluded nationalities and GCC citizens require their own current primary rule; no unchecked exemption is inferred.
+- kuwaitembassy.org is a US Arab Chamber of Commerce service, not the Kuwaiti mission, and kuwaitembassy-australia.com is repurposed casino content: neither used as evidence.
+- 121 exact preserved no-foreign-status MOI tourist-checker negatives are paired with the newly inspected Kuwait Embassy Tokyo explicit prior-visa requirement for foreign nationals unable to use eVisa/arrival issuance. A negative method response alone is not the requirement evidence. Tokyo explicitly includes hotel sponsorship for tourism; no Japanese residence is assumed from its separate long-term visa section.
+- Added Taiwan requirement with unpublished ordinary-tourism method, UAE normal-passport waiver, and Qatari regular-passport waiver. No inferred universal eVisa unavailability, sponsor approval or stay.
+- AF/IL have exclusion-sensitive cases without conclusive current requirement/document evidence. MO/PS/XK have negative method responses but no sufficiently established ordinary-document requirement/recognition branch. BH/OM/SA exemption not retrieved. CG/CD/EG/IR/IQ/KP/PK/SB/SS/UG/YE lack valid matched negative results in the preserved data; MV timed out. No invalid code or missing lookup is treated as a decision.
+- Recovered the previously timed-out MDV tourist-checker result, matched to the actual public country record, and paired it with the already captured Tokyo embassy advance-visa rule. A French positive control succeeded. The negative method result alone is not visa-duty proof.
+- Other unresolved ordinary nationalities lack a valid matched current eligibility result; no guessed country code was submitted. New Riyadh/Muscat mission requests failed, Saudi mission URL redirected to its general directory and the GCC locator was a soft404. BH/OM/SA waivers remain unproved here; AF/IL and MO/PS/XK document/exception cases remain open.
+- Pass-six consistency adjudication: The saved MAC/PSE/RKS tourist queries are genuinely nationality-matched negatives. Combined with Tokyo's express sponsor/advance-visa duty they support three duty-only records without document or sponsorship assurances. The other 16 residuals still lack the required matched result or have unproved citizenship exceptions.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
+
+### Bolivia (BO)
+
+Unresolved origins (14): AE, AG, BG, CG, IL, KR, MO, MT, RO, SD, SS, US, XK, ZA.
+
+- Group I, II and III named rows inspected. London and Brussels schedules are older than the December 2025 announcement.
+- US, Israel, South Korea, South Africa, Bulgaria, Malta, Romania and UAE were announced as new Group I exemptions, but announcement says implementation gradual. These eight are unresolved pending implementing/current confirmation, rather than publishing stale visa requirements.
+- Russia Group II is potentially superseded by bilateral waiver; kept unresolved. Dominican Republic differs between embassy versions. HK/Macao regional status, omitted Congo/Sudan/South Sudan/Kosovo and method/stay of Group II need further confirmation.
+- British citizens: 90 days aggregate per year, not per visit; source-specific annual note retained.
+- Antigua, Honduras, El Salvador and Saint Vincent also held unresolved: reference indicates waivers while old embassy groups require visas; bilateral amendment chain needs official reconciliation.
+- HK resolved by a specific Hong Kong Immigration remark relaying the Bolivian embassy: 30-day tourist visa on arrival. Consular Group II processing remains a genuine method alternative with unspecified stay, so d=0 and method-specific stay wording are used. AG/BO treaty ratification alone did not establish Article 9 commencement.
+- The official public visa-portal bundle exposed a public, unauthenticated GET country-metadata endpoint, which was retrieved and inspected. It has duplicate/incorrect ISO values (Armenia=AR, Bangladesh=BG, Angola=AN), null group values, and group conflicts with published embassy schedules. Seven announced 2025 additions appear as group 1 while Israel remains group 3. This is corroborating research, not a labelled ordinary-tourist decision or a verified commencement notice; no automatic promotion from raw metadata.
+- Russian MFA ordinary column resolves RU as 90 days within 180. Diplomatic three-month column kept separate.
+- Re-read December 1 2025 ministry announcement: headline says from today, body explicitly says progressive/gradual implementation. Eight new Group I countries remain held pending operative commencement, especially Israel’s contradictory old portal metadata. Germany mission’s current successor website publishes generic documents, no ordinary nationality determination. Washington old host is a hosting placeholder; gazette host DNS failed; public ministry search returned 401, not bypassed.
+- Other bilateral/SAR and omitted-state cases (AG/CG/DO/HN/MO/SD/SS/SV/VC/XK) remain unresolved, not inferred from application group fields.
+- All 18 origins assessed against prior progressive-implementation blocker, newly retrieved London groups, current MFA visa2026 search and migration portal. London retains the old groups and does not resolve the eight December2025 waiver implementations; the migration page is only a JS shell. Gazette DNS failed; US403, Bulgaria CAPTCHA, Romania503, Korea redirect loop and Malta403 were not bypassed.
+- AE/BG/IL/KR/MT/RO/US/ZA need operative commencement/current application of the announced ordinary waiver; AG/CG/DO/HN/MO/SD/SS/SV/VC/XK need positive ordinary nationality/document treatment. No announcement converted into implementation.
+- Four current additions from newly recovered destination implementation notices: DO/HN/SV/VC tourist/visit waivers, all d0 because no admitted stay is stated. Specific implemented waivers reconcile older mission group tables; no signature-only agreement or reverse-direction assumption is used.
+- The eight December 2025 additions AE/BG/IL/KR/MT/RO/US/ZA still lack clear operative implementation beyond the progressive announcement. AG needs treaty commencement; CG/MO/SD/SS/XK need positive ordinary-document/nationality treatment. Further official searches and origin/mission/gazette alternatives did not resolve these 14.
 
 ### Jordan (JO)
 
@@ -791,6 +869,8 @@ Unresolved origins (13): AZ, BH, EG, HK, XK, KW, LB, OM, PS, QA, SA, SY, TN.
 - Remaining 13 origins: fresh Doha mission root supplied no ordinary-nationality exemption schedule, source-language MOI path redirected to Error500, legacy tourism path returned 404 and Washington mission alternatives failed transport. Existing restricted/nonrestricted approval lists do not settle GCC/Arab/bilateral fee-versus-visa exemptions or HK/XK/PS document treatment. No free-of-charge visa is recast as visa freedom.
 - All 13 origins remain unresolved. New tourism and purported law URLs redirected to MOI landing content, not governing visa text; the former Berlin mission domain now serves gambling content and was rejected. London/Kuwait hosts failed and Washington timed out.
 - GCC/Arab origins BH/EG/KW/LB/OM/QA/SA/SY/TN still need current ordinary waiver-versus-gratis-visa rules and operational/document conditions. AZ needs bilateral waiver implementation; HK14-day concession still does not separately establish method; PS/XK require issuing-authority/document/routing-specific evidence.
+- All13 retained. New AZ mission agreement/status attempts fail TLS or transport; signature lead still does not prove commencement. New MOI law navigation and actual linked Arabic laws path supplied a landing page or timeout.
+- BH/EG/KW/LB/OM/QA/SA/TN need ordinary waiver-versus-gratis-visa rules; SY requires current special routing/status branches; HK needs method distinction; PS/XK need document-specific decisions. No fees, restricted-list omissions or diplomatic exemptions converted to ordinary waivers.
 
 ### Swaziland (SZ)
 
@@ -806,6 +886,9 @@ Unresolved origins (13): AO, AZ, BF, CN, XK, KW, LV, MG, MV, ME, QA, TR, IS.
 - Actual ministry PDF retrieved, hash-equal to prior inspected four-page scan; all four pages visually re-read. Iceland explicitly Y, while Brussels and Kuala Lumpur expressly exempt Iceland. Newly recovered London DOCX also says Y but its internal dates are 31 January 2018 despite a November 2025 upload path. The PDF creation timestamp is 1 October 2025, not proof of legal commencement. No controlling amendment settles the conflict: IS remains unresolved.
 - Resolved MO from an explicitly named current mission-linked requirement, RS from Serbian national-passport advice, KN from the joint embassies’ explicit 24 December 2020 commencement/90-day terms (later than the 2018 list), and AE from dated August 2026 UAE guidance matching the ministry required row.
 - AO/AZ/BF/CN retain direct schedule contradictions; CN has both China N and Peoples Republic of China Y and is not disambiguated by guessing. KW/LV/MG/MV/QA have positive London/tourism exemptions against the Kuala Lumpur explicit default; no documented supersession. TR waiver-versus-Turkish-government-arrival-visa wording, ME obsolete joint-country naming and XK accepted document remain unresolved. IS is already an assigned baseline gap, so no supported-baseline withdrawal is required.
+- All13 conflicts/document gaps retained. Iceland remains genuinely contradictory: ministry scan and London say visa required; Brussels and Kuala Lumpur say exempt. London's internal modification is31 January2018 despite its2025 URL; scan creation1 October2025 is not legal commencement. No controlling exemption/revocation or dated amendment was retrieved.
+- New judiciary index identifies Immigration Act17/1982 and RegulationsLN7/1987, but substantive texts return403. Public searches supplied shells, not operative amendments. Iceland's government-linked treaty index is explicitly updated1 July2024 and has no retrieved Eswatini/Swaziland entry; absence there cannot prove a current visa duty or disprove a unilateral waiver.
+- AO/AZ/BF/CN retain schedule contradictions; KW/LV/MG/MV/QA exemptions conflict with Kuala Lumpur's default; TR waiver versus arrival-visa wording, ME obsolete combined-state naming, and XK ordinary-document acceptance remain unresolved.
 
 ### Somalia (SO)
 
@@ -817,6 +900,8 @@ Unresolved origins (12): BI, CD, HK, IL, KE, XK, MO, PS, RW, SS, TZ, UG.
 - Taiwan BOCA gives older-style advance mission instructions but does not reconcile current federal electronic/document restrictions; no automatic promotion to electronic eligibility. All 13 gaps remain unresolved: seven EAC origins plus IL/HK/MO/PS/TW/XK. Somaliland is a separate entry regime.
 - TW added only at the independently explicit advance-visa-requirement level from live BOCA guidance. Its older mission workflow does not certify current federal electronic eligibility, passport handling, open tourist issuance, or any Somaliland permission; those practical issues remain unresolved and are stated in the policy.
 - All 13 gaps reviewed: BI/CD/KE/RW/SS/TZ/UG need current national implementation of EAC exemptions after the electronic rollout. HK/IL/MO/PS/XK need actual document-specific permission evidence. New ministry/mission alternatives returned 404/timeout; a general application service or regional accession is not a nationality decision.
+- All 12 remain. Uganda’s March 2026 mission report confirms a new immigration MoU but supplies no operative ordinary-passport visa waiver; regional cooperation/free-movement aspirations are not national implementation. BI/CD/KE/RW/SS/TZ/UG need EAC reconciliation against the federal electronic regime.
+- HK/IL/MO/PS/XK lack a positive accepted-document/ordinary-tourist determination. Fresh mission/consular/regional alternatives yielded no specific rule. Federal Somalia and Somaliland remain distinct.
 
 ### Cameroon (CM)
 
@@ -830,36 +915,8 @@ Unresolved origins (10): CF, CG, GA, GQ, HK, ML, NG, PS, TD, XK.
 - DGSN documentation returned 404/500; public CEMAC search yielded no operative schedule. Official eVisa FAQ still returns an application error. Additional Belgium/Germany/Italy/Ottawa/London mission and Presidency searches are cached.
 - MO DSI eVisa record and TW BOCA short-tourist eVisa instructions resolve document-specific eligibility, combined with existing signed statutory requirement and electronic workflow.
 - Authentic Japan mission current page lists Mali and Equatorial Guinea in a diplomatic/service exemption section; this is not evidence of ordinary exemptions or their cancellation. CEMAC CF/CG/GA/GQ/TD document implementation, ML/NG bilateral ordinary exceptions, HK/PS/XK document handling remain unresolved.
-
-### Eritrea (ER)
-
-Unresolved origins (9): ET, HK, KE, XK, MO, PS, SD, TW, UG.
-
-- Washington embassy page updated April 2025 explicitly states a visa-required default for non-Eritreans, allowing evidence-backed expansion without inferring from a missing exemption list.
-- KE/UG reported waivers and ET/SD reported arrival arrangements still need primary reconciliation, so held out along with XK/PS/TW/HK/MO accepted-document cases. Secondary locator claims not used as policy proof.
-- National ID/heritage exceptions are conditions, not nationality-wide foreign-passport waivers. Application form online plus physical passport submission remains vr, not ev.
-- Kenya Presidency 9 February 2023 announcement of agreed permanent visa abolition recovered. It provides neither an operative commencement date nor implementation instructions, so KE is not certified from announcement alone.
-- Nairobi embassy hostname serves only an empty directory listing; Uganda/other ministry and state-news searches did not resolve ordinary-passport waivers or ET/SD arrival arrangements.
-- ET/KE/SD/UG and HK/MO/PS/TW/XK remain unresolved for their previously identified specific exceptions/document cases. Generic Washington non-national default does not reconcile these.
-- Exact baseline partition: 0 additions; 9 unresolved. Lists in this review are exhaustive.
-- Taiwan BOCA visa section gives only Japanese mission contact details, not a Taiwanese visa rule or document-acceptance decision; Japanese mission TLS failed. Macao/HK concession sources give no positive Eritrea result.
-- Kenya 2023 announcement of agreed abolition still lacks operative ordinary-passport implementation. Uganda immigration describes entry into Uganda and is not reversed to establish UG-to-ER reciprocity. ET/KE/SD/UG exceptions and HK/MO/PS/TW/XK accepted-document/issuance rules remain unproved.
-
-### Iraq (IQ)
-
-Unresolved origins (9): BD, HK, IR, IL, XK, LB, MY, PS, TW.
-
-- Second pass replaces the two-nationality sampling with the express multi-nationality Houston consular notice: 37 mapped ordinary-passport origins require advance federal eVisa. Its US salutation does not limit the body’s explicit list; no advice is generalised beyond that list.
-- German ordinary-passport rule independently confirmed by Berlin. Turkish ordinary passport has age-conditioned 30-day exemption under 15/over 50; ages 15–50 require a visa. Ankara’s investor/business/worker instructions were not applied to tourists.
-- Other origins remain unresolved: Manila has generic eVisa announcement but no nationality entitlement schedule; current central checker returned an empty country list. Federal versus KRI and air versus land entry remain material.
-- Washington visa-types page cites 1987 law and 2009–2013 letters: one-month tourist stay/three-month entry window is a distinct historical product, not proof of the duration of the current eVisa. No 30/60/90-day current eVisa stay is guessed.
-- Added Serbian ordinary federal visa requirement from Serbia MFA. Regional KRI host/guarantor and eVisa material cannot establish country-wide federal entitlement.
-- Re-fetched Houston notice: positive 37-nationality list only; no explicit residual nationality rule. Islamabad/Tehran/Riyadh/MFA alternatives did not provide a current exhaustive ordinary-passport schedule. Old 1987-law/2011 product descriptions are not evidence of the stay for current electronic visas.
-- 159 residual origins still need federal exemption/application evidence; IR air-versus-land agreement scope and IL/XK/SAR/PS/TW document treatment are especially unresolved. KRI public eligibility page alone is region-specific.
-- Exact baseline partition: 1 additions; 159 unresolved. Lists in this review are exhaustive.
-- Recovered official Gazette translation of Law 76/2017 via the Ministry of Justice public read-only translated-law search. Article 3 supplies an express visa default; Article 1 exceptions were inspected. Current London mission operational instructions and the KRI source were reconciled. 147 additions establish only the federal requirement; AE, MD and MO have narrower electronic-method evidence.
-- All 159 assigned origins were checked against the statute, existing 37-country/age policies, current mission material and secondary exception locators. BD, HK, IL, IR, LB, MY, PS, TW and XK are withheld: BD has an unverified admission/issuance restriction lead; IR/LB/MY have waiver leads requiring current scope/commencement; remaining five require accepted-document/recognition evidence.
-- The 2021 translation is of the 2017 law, not a new policy. Native Ministry search includes 2026 labour instructions but no identified replacement tourist nationality schedule. The generic Washington copy still cites old 1987-era rules and is not used. Federal visa and KRI permit are never interchangeable.
+- New September 2025 CEMAC Commission interview explicitly calls visa-free circulation effective, but supplies no passport/document implementation schedule for Cameroon. CF/CG/GA/GQ/TD remain held pending those conditions.
+- ML/NG ordinary bilateral exception scope and HK/PS/XK document treatment remain unestablished; no extension of diplomatic/service exemptions, fee rules or regional membership. New DGSN/Prime Minister searches and mission alternatives supplied no dispositive schedule.
 
 ### Pakistan (PK)
 
@@ -871,6 +928,8 @@ Unresolved origins (9): AM, BH, HK, IL, IN, KW, OM, QA, SA.
 - MO electronic eligibility established by Macao DSI. SO common visa requirement established without pretending paper/online disagreement is resolved. IN paper-form existence and diplomatic-assignment page do not establish current ordinary tourist issuance. GCC exemption versus older VPA/visa instructions, AM/IL recognition, HK/TW document-specific eligibility remain unresolved; mission/central ministry alternate paths failed or supplied no usable schedule.
 - UAE MFA current ordinary tourist90-day exemption adds AE only; no extrapolation to BH/KW/OM/QA/SA. Taiwan BOCA plus actual HK consulate establish prior consular visa and restricted visit/business/media categories, without asserting a routine unrestricted tourism product.
 - GCC-wide current waiver versus old VPA/visa scheme remains unverified for five other nationalities; NADRA returns403. Fresh Riyadh page still points to older191-country eVisa/ETA and Indian paper forms; a form is not current tourist issuance. HK portal direction alone is not nationality eligibility. AM/IL recognized tourist documents remain unproved; IN current restrictions not reconciled.
+- Armenia MFA actual ordinary-passport outbound checker returns No data found for Pakistan. Oman mission simultaneously says 90-day tourist/business visa-free and, below, visa required from a Pakistani embassy; the conflict is retained.
+- BH/KW/QA/SA mission/MFA attempts yielded access, transport or irrelevant-page failures. New Delhi still provides application-category instructions rather than an operative ordinary-tourist duty/availability decision. HK-specific locator failed. AM/IL/HK document eligibility and IN current restrictions remain unproved; no GCC-wide extrapolation.
 
 ### Tunisia (TN)
 
@@ -884,6 +943,8 @@ Unresolved origins (9): BJ, ID, IR, IQ, IL, XK, KW, PS, UA.
 - Remaining BJ/ID/IR/IQ/KW/UA have reported exemption/organised-tour developments not settled by current primary text. XK/PS/MO/IL require document-specific admission evidence; no historical omission-based recognition assumption.
 - MO has a positive DSI group-of-five/30-day exemption; independent travel remains uncertain. Other nine origins were compared with the previous Berlin historical schedule and current fresh alternatives. Indonesian MFA URL returns an application shell; Ukrainian mission home has no usable rule on its retrieved landing page.
 - BJ/ID/IR/IQ/KW/UA still need current exemption/organized-tour terms; IL/XK/PS need document-specific rules. No old snapshot is promoted to a current default.
+- Recovered Indonesian embassy articles dated4 July and30 October2023 through the public frontend content API. They describe visa-free Indonesian tourism, but July also says a visa on arrival at Tunis-Carthage. They do not reconcile current visa-free versus arrival processing or substantiate the remaining practical conditions; ID is held rather than assigned a fabricated category or alternatives.
+- UA embassy treaty register, published1 July2026, lists a2014 diplomatic/service/special-passport waiver only; it does not establish an ordinary-tourist rule. Travel-guidance link returned403. BJ/IR/IQ/KW ordinary exceptions and IL/XK/PS documents remain unproved. No age, group, route or territorial branch is invented for any of the nine residuals.
 
 ### Vanuatu (VU)
 
@@ -897,60 +958,8 @@ Unresolved origins (9): BH, KG, MC, MD, MK, MN, PS, RW, TR.
 - Turkish MFA says Turkish citizens visa-free for 30 days, but does not establish supersession of Vanuatu's conflicting exempt/nonexempt Turkey listings. TR/BH/MC/RW contradictions remain. KG/MD/MK/MN/PS omissions remain. Immigration's newly followed Act link returned 404, Pacific legislative index returned 403 and Tourism's referenced permits page returned 404. The previously identified Utopia/identical-eVisa-catalogue payload is not reused as eligibility proof.
 - All9 gaps re-reviewed against fresh official visit/tourist pages, current home-page law link, legal/gazette alternatives and North Macedonian/Mongolian origin leads.
 - Fresh tourist page confirms120-day tourist product and prior-versus-arrival process, but supplies no controlling country determination for the9 gaps. Law/gazette alternatives404; origin leads give no operative replacement. BH/MC/RW/TR remain conflicting, KG/MD/MK/MN/PS remain omitted or document-unproved. Existing poisoned/identical eVisa catalogue is not reused.
-
-### Burkina Faso (BF)
-
-Unresolved origins (8): BI, CF, MR, PS, RW, TW, US, XK.
-
-- Second pass located the current MFA domain and its mission directory, replacing dead/parked former consulate/embassy sites. The dated AES confederal declaration directly resolves the 12 current ECOWAS nationalities into BF; it does not prove reciprocity or resolve all intra-AES document cases.
-- Canada is confirmed visa-required and electronically eligible; the published short-stay rule supplies a maximum 90-day stay with actual duration determined from the application.
-- Remaining origins: current Brussels/Ottawa pages refer to Visa Burkina but provide no exhaustive exemptions. The application configuration GET returned 401 and was not bypassed. Ministry agreement/decree sections returned headings without operative schedules. US restrictions, other bilateral ordinary-passport exemptions and special-document recognition remain unresolved.
-- FR advance eVisa, RS visa requirement plus destination-wide electronic eligibility, and AE normal-passport 90-day exemption are supported. The UAE outbound prohibition is distinguished from a Burkina admission ban.
-- Security Ministry confirms electronic application for every visa-subject foreigner, not that every foreigner is visa-subject. Current Washington mission provides document intake only. MFA treaty/search, public-service and legal-site attempts did not establish an exhaustive ordinary nationality schedule. CF/MR/MA bilateral exemptions, intra-AES ML/NE implementation and US restrictions remain specifically unverified. No reuse/bypass of the prior protected configuration endpoint.
-- Fresh German/Dutch/Czech/Portuguese/Moldovan origin advice and Macao DSI establish the scoped electronic routes; Russian/Turkish/Korean and Mongolian statements establish requirement only. Portuguese arrival wording conflicts with more restrictive current guidance, so only its advance electronic route is certified.
-- Fresh national MFA law/decree/agreement indexes and migrated Service Public portal searched. The apparent demande-de-visas fiche is press accreditation, not an entry visa. Embassy leads fail TLS/DNS or do not supply a current exhaustive ordinary list. eVisa availability is not used as a universal visa obligation.
-- Fresh MFA declaration dated 14 December 2024 explicitly concerns ECOWAS nationals entering AES territory; it is not a post-withdrawal intra-AES ML/NE implementation rule. ML/NE remain unresolved. CF/MR/MA bilateral exceptions, US restriction scope, and PS/XK/TW accepted-document/ordinary obligation remain unproved.
-- New Burundi agreement report expressly includes ordinary passports but reports signature rather than commencement. BI remains unresolved. The France diplomatic-rupture announcement alone is not a withdrawal of French tourist visa issuance.
-- Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed.
-- The governing pages are dated 2 October 2025 (AMDT 10/25) and individually retained in the full AMDT 10/26 register effective 1 October 2026; the January 2026 HTML title is not a visa enactment date.
-- 161 new air-entry-scoped rules; 8 original gaps remain. BI newer ordinary agreement lacks commencement; CF/MR unreconciled bilateral leads; US restriction scope; PS/TW/XK accepted ordinary documents. RW added: current origin immigration ordinary-passport waiver conflicts with residual requirement; no established precedence.
-
-### Niger (NE)
-
-Unresolved origins (8): IL, MO, PS, XK, SE, MR, MU, RW.
-
-- Dated AES confederal declaration directly resolves the 12 current ECOWAS nationalities into Niger. Added CA and RS prior visa requirements; no claim of reciprocity outward from AES.
-- Remaining origins: Washington embassy lists required documents but no nationality exemption table; visa document validity is not stay. MFA endpoint has a self-signed certificate; government portal did not provide operative nationality rules. Current intra-AES document treatment, non-ECOWAS waivers and US restrictions unverified.
-- Baseline gaps 181; current-supported additions 2; historical-only additions 0; remaining without policy 179.
-- Current UAE MFA normal-passport row explicitly says Visa On Arrival, while its separate alert bans UAE citizens from travelling to Niger. Both statements are retained: the origin-country travel ban is not recast as a Niger entry ban. Australian guidance expressly requires a visa before travel, with method and stay unspecified.
-- Other assigned origins remain unresolved: fresh Brussels/Berlin mission hosts failed DNS; the French mission candidate failed DNS; US country guidance returned 403; the attempted German advice URL redirected to an unrelated Burkina Faso honorary-consulate record and was rejected. No current exhaustive nationality schedule or new intra-AES ordinary-passport implementation evidence was recovered.
-- Recovered the live Paris mission page through Taiwan BOCA’s named consular link. Its explicit obligatory-visa sentence plus named exceptions establishes requirements rather than omission-based classification. Ordinary TN/MA/TD/CU exceptions are separated by a semicolon from DZ/TR/ID diplomatic/service-only exceptions. Actual stay is unspecified; fee periods are not assumed stay.
-- BF/ML remain unresolved for post-ECOWAS-withdrawal implementation. The two ANP reports describe 2024 expert/ministry preparations and imminent document circulation, not a current ordinary-passport entitlement. MO/PS/XK/IL remain unresolved for specific accepted-document/recognition treatment. The mission contains old airline/background information; no 2026 enactment or universal working issuance channel is asserted. Dutch, Turkish and Taiwanese official nationality guidance independently corroborates the narrow corresponding requirements.
-- Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed.
-- The incoming-passenger pages are dated 11 June 2026 (AMDT 06/26) and individually retained in the full October 2026 register; neither the July HTML title nor the October package date establishes a new waiver commencement.
-- 2 new air-entry-scoped rules; 4 original gaps remain. No specific ordinary-document acceptance determination in general/default clauses.
-- Only ML and BF are new air-entry exemptions. Mali retains three months, not 90 days; Burkina duration is unresolved between three months and 60 days. Existing Niger fee, duration and other method records are not changed.
-- Air-entry evidence conflict for SE ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Swedish government entry guidance and the Paris mission still require a visa. The Swedish exemption was already printed in 2024; retention in the 2026 AIP does not establish supersession. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
-- Air-entry evidence conflict for MR ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Mauritania MFA supplies a visa-suppression agreement lead, but no controlling ordinary-passport treaty text or commencement resolves the Paris mission visa-required default. The AIP exemption was already printed in 2024. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
-- Air-entry evidence conflict for MU ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. The currently linked Mauritius MFA outbound table still requires a Niger visa, alongside the Paris mission default. The added 2026 AIP exemption has no established priority or supersession over this counterevidence. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
-- Air-entry evidence conflict for RW ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Rwanda Immigration corroborates an ordinary-passport exemption, but the Paris mission still publishes a conflicting requirement. Source agreement and first appearance in the compared 2026 AIP do not establish legal priority or commencement. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
-
-### Paraguay (PY)
-
-Unresolved origins (8): HK, KN, KP, MO, PS, SA, TT, XK.
-
-- Second pass found a functioning official Tokyo embassy nationality table for common passports, in Spanish and English, and an explicit required-visa default. 66 unambiguous listed exemption origins; MY/PH/SG 30 days, others 90.
-- OM arrival visa allows 90 days; QA/VN/TH/ID allow 30 days. Arrival concession is restricted to Silvio Pettirossi airport, with six-month passport and cash fee. No fixed day value is shared with an unverified consular alternative.
-- AU/CA/US/NZ/TW appear in both the explicit exemption table and a section saying they MAY obtain arrival visas. The latter does not say their exemption is cancelled. Exemption is encoded, not a mandatory paid visa or speculative method alternative. Canadian origin advice independently confirms no tourist visa.
-- GE/KN/MN/TT/SA have newer waiver/agreement leads not reconciled with the table. Korea is unqualified in both language versions, so KR/KP held. HK/MO/PS/XK document/recognition treatment not inferred from the ordinary-state default.
-- Generic Mexico embassy visa instructions and a linked Tokyo residence PDF were examined but not used as tourist nationality evidence. Main MFA schedules remain inaccessible/404; no access bypass.
-- Mongolia MFA outbound table directly establishes MN ordinary/all-passport waiver, 90 days, effective 2024-01-17.
-- Current Paraguay MFA suppression page recovered but its linked August 2024 PDF returns 404. Visa verification page is a paid authentication procedure for an already-issued visa, not an eligibility checker; no form submitted.
-- GE/KN/SA/TT commencement remains unverified. Unqualified Korea in the old mission table does not distinguish KP/KR. HK/MO/PS/XK document treatment remains unverified.
-- Exact baseline partition: 1 additions; 10 unresolved. Lists in this review are exhaustive.
-- Recovered Georgia MFA’s actual 4 February 2023 commencement notice via its public search keyword parameter: ordinary-passport agreement entered force 3 February 2023. Stay not stated. Korean MFA September 2026 ordinary column confirms 30 days; its diplomatic/official 90 days is not copied.
-- Current suppression page denied access and both former schedule PDF paths failed; Georgian guessed legal locator supplied no operative law. Saint Kitts government searches yielded no commencement proof. Saudi ordinary-passport rule not retrieved; diplomatic/special-only signing reports do not establish ordinary exemption.
-- Remaining HK/KN/KP/MO/PS/SA/TT/XK need current ordinary-document/nationality evidence, bilateral commencement or a reconciled schedule; Hong Kong/Macao do not inherit China, and an online visa application is not an eligibility decision.
+- All9 retained. New parliamentary consolidated/subsidiary/Act indexes were recovered, but the consolidation is2006 and links point to PacLII, which returned403; no current controlling exemption amendment recovered.
+- BH MC RW TR remain contradictory between official exemption lists; KG MD MK MN PS remain omitted/document-sensitive. The previously rejected Utopia/identical-eVisa payload is not reused, and the generic120-day tourist product is not a nationality decision.
 
 ### Lesotho (LS)
 
@@ -962,6 +971,8 @@ Unresolved origins (7): DZ, XK, KP, PW, PS, WS, SS.
 - DZ/PW/PS/SS/XK remain absent/unestablished in the usable ordinary schedule. KP has duplicate YES/NO conflict, WS Samoa/Western Samoa conflict. New ministry/mission alternatives yielded 404, DNS failures or unrelated content; no inference from omission.
 - All seven remain: DZ/PW/PS/SS/XK omitted/unestablished; KP has conflicting YES/NO schedule rows, and WS has Samoa/Western Samoa conflict. Current Ministry immigration page expressly identifies the 1966 Act and 1968 regulations, but the retrieved publications/FAQ supply no operative nationality amendments.
 - The ministry-linked 2021 tourist application requirements PDF was retrieved and inspected. It lists passport, accommodation, funds and return travel, not which nationalities require visas; its old COVID instructions are not promoted to current entry policy. LesothoLII law attempt is challenged.
+- Fresh government service charter establishes tourist application/sponsor/documents and Bangladesh/Pakistan transit-document conditions, not an ordinary nationality obligation or exemption schedule.
+- All7 held: KP conflicting yes/no and WS Samoa/Western Samoa entries persist; DZ/PW/SS omitted; PS/XK accepted ordinary documents unestablished. Government document/search results supply no controlling replacement.
 
 ### Tanzania (TZ)
 
@@ -975,6 +986,8 @@ Unresolved origins (7): CM, FJ, GA, MV, NG, LK, TG.
 - NI is still not clearly assigned in the current schedules; TW accepted ordinary-passport procedure is not established. No omission/default or “all Commonwealth” expansion, and no old mission referral list is presented as current central policy.
 - TW arrival visa up to90 from Taiwan BOCA; NI requirement-only from the express central all-tourist requirement after exemption-category review, without assigning an unlisted electronic/arrival method.
 - CM,FJ,GA,MV,NG,LK,TG remain conflicted: section6 broad Commonwealth exemption overlaps section7 visa eligibility. More origin-government alternatives did not settle these conflicts. NI method and TW electronic eligibility are still not certified.
+- All seven CM/FJ/GA/MV/NG/LK/TG remain: the central September guidelines’ Commonwealth exemption conflicts with the separately named visa-eligible list. A newly located Sri Lanka consular site repeats visa methods but does not reconcile the central conflict; its authenticity was not independently established, so it is not accepted policy evidence.
+- Fiji’s fresh Immigration list is inbound to Fiji, not outbound Tanzania proof; Maldives pages give no Tanzanian decision. Sri Lanka origin, new ministry/legal navigation and Togo diplomatic-directory alternatives supplied no operative amendment or specific reconciliation.
 
 ### Suriname (SR)
 
@@ -989,6 +1002,8 @@ Unresolved origins (6): HK, HT, MO, PS, TW, XK.
 - The general Suriname tourist page was re-read; its21-country exception list and90-day maximum do not independently settle the remaining special-document cases. Current XML/JSON entry options and nationality presence are not treated as proof of eligibility. HK, HT, MO, PS, TW and XK all remain unresolved, with their distinct blockers recorded.
 - All six remain. Macao full record still says visaFree=0/evisa=1 and links a UAT vendor host, conflicting with the destination tourist-waiver framework; not used as a requirement. Hong Kong combined waiver/arrival heading, Taiwan entry-fee rather than waiver language, Haiti restricted-family context, and PS/XK accepted documents remain unresolved.
 - Fresh BIBIS Haiti search and alternative mission hosts did not supply a current ordinary-tourist decision. Entry-fee payment is not recast as a visa waiver or ETA.
+- All6 retained: HK combined waiver/arrival method remains ambiguous; MO destination/origin evidence conflicts; TW entry-fee procedure does not expressly establish an ordinary-tourist waiver; PS/XK lack accepted-document treatment; HT has restricted admission/attestation context.
+- New ministry-linked Guide for Immigrants distinguishes visa/entry-fee/attestation on p16, including special-circumstance Haitian attestations. Page17 preserves agreement exceptions and gives general short-stay administration, not a nationality-specific tourist determination. Its2025 upload path contains text discussing December2025 and is not treated as a commencement date. No automatic Haitian tourist ban, fee-as-visa, or new30-day blanket policy is added.
 
 ### Ukraine (UA)
 
@@ -1003,6 +1018,8 @@ Unresolved origins (6): KM, IQ, XK, MU, TG, TO.
 - Exact baseline partition: 187 additions; 8 unresolved. Lists in this review are exhaustive.
 - Macao DSI and Taiwan BOCA establish the named ordinary-passport electronic/consular rules; no archive is promoted to a current source.
 - KM/IQ/TG/TO lack inspected current nationality determinations. Mauritius waiver commencement still needs treaty notification evidence. Kosovo accepted-document treatment remains unproved. Iraqi/Senegal mission visa pages and central eVisa information returned 403; Mauritius pages were wrong-direction or 404.
+- New source-language Iraq mission pages retrieved successfully, but the 2019 generic visa-unless-exempt paragraph and 2018 visa-centre application process do not supply the six remaining nationality decisions. Old airport/eVisa procedures are not current wartime permission.
+- Mauritius legal locator timed out; PIO source concerns entry into Mauritius, not Mauritian entry into Ukraine. MU treaty commencement remains unverified. KM/IQ/TG/TO need current ordinary-nationality determinations; XK needs actual accepted-document treatment.
 
 ### Chad (TD)
 
@@ -1014,6 +1031,8 @@ Unresolved origins (5): CM, HK, MO, PS, XK.
 - Taiwan BOCA explicitly documents mission application, preserving electronic-method uncertainty.
 - CM: fresh CEMAC operational commentary and Paris/Washington mission procedure files do not resolve omission from Chad portal exemptions with current passport conditions. HK/MO/PS/XK document acceptance remains unverified. Paris fee-waived diplomatic visa is not visa exemption.
 - All five remain unresolved. Fresh Cameroon consular path returned404 and Paris Chad visa path returned a short non-substantive response. Current CEMAC implementation for CM remains unreconciled against its omission in the Chad portal; HK/MO/PS/XK lack specific accepted-document evidence. No regional-membership or dropdown inference.
+- New Cameroon consular navigation and Chad-in-Cameroon mission leads yielded no implemented ordinary-passport waiver. Cameroon portal omission versus CEMAC scope remains unreconciled.
+- HK/MO/PS/XK accepted-document treatment remains unproved. Prior Chad AIP passenger section has no substantive nationality classification; silence is not an exemption.
 
 ### Djibouti (DJ)
 
@@ -1026,6 +1045,8 @@ Unresolved origins (5): HK, IL, XK, PS, SG.
 - HK source confirms a 14-day concession but does not distinguish visa-free from visa-on-arrival; official FAQ conflicts on arrival issuance. Kept unresolved rather than inventing the method. SG potential waiver and IL/XK/PS document treatment remain unverified. The Singapore MFA page has no substantive entry details.
 - All five origins remain unresolved. HKSAR schedule still uses combined visa-free/arrival wording without settling its 14-day method; Singapore MFA supplies passport-validity advice but no visa classification. IL/XK/PS ordinary-document rules not established.
 - Additional mission attempts did not supply governing nationality rules. djiboutiembassy.org redirects to private VisaHQ and is explicitly rejected as primary evidence; no private service list or failed press-release URL is used.
+- All five retained. HKSAR combined waiver/arrival wording still does not settle the 14-day method; Singapore MFA still only supplies passport-validity guidance. IL/XK/PS need a substantive ordinary-document rule. No nationality ban or automatic eVisa issuance is inferred.
+- Public presidential legislation navigation did not recover a governing nationality schedule; failed guessed legal locator is rejected, not evidence.
 
 ### Libya (LY)
 
@@ -1040,6 +1061,27 @@ Unresolved origins (5): IL, XK, SS, TW, TR.
 - Exact baseline partition: 1 additions; 5 unresolved. Lists in this review are exhaustive.
 - All5 gaps re-reviewed; current national-rule/landing payloads preserve Turkey PARTIAL, Taiwan disabled and no positively established ordinary tourist branch for the other exceptional origins.
 - Turkish MFA current outbound page calls for eVisa but does not reconcile the destination checker’s child/adolescent/elderly waiver results. Age-group metadata alone is not a full nationality-specific decision table. A new mission note URL was unrelated. IL/SS/TW/XK require affirmative visa/document/issuance rules; disabled/absent electronic entries are not bans.
+- All5 residuals retained. The newly navigated Turkish Tripoli mission age-waiver announcement is explicitly for Libyan citizens entering Turkey, not Turkish citizens entering Libya; it cannot repair the destination checker PARTIAL flag.
+- TR exact age/gender boundaries remain unreconciled. IL/SS/TW/XK still lack affirmative accepted-document/ordinary entry rules; online absence or disabled status remains distinct from a nationality-wide ban.
+
+### Paraguay (PY)
+
+Unresolved origins (5): HK, KP, MO, PS, XK.
+
+- Second pass found a functioning official Tokyo embassy nationality table for common passports, in Spanish and English, and an explicit required-visa default. 66 unambiguous listed exemption origins; MY/PH/SG 30 days, others 90.
+- OM arrival visa allows 90 days; QA/VN/TH/ID allow 30 days. Arrival concession is restricted to Silvio Pettirossi airport, with six-month passport and cash fee. No fixed day value is shared with an unverified consular alternative.
+- AU/CA/US/NZ/TW appear in both the explicit exemption table and a section saying they MAY obtain arrival visas. The latter does not say their exemption is cancelled. Exemption is encoded, not a mandatory paid visa or speculative method alternative. Canadian origin advice independently confirms no tourist visa.
+- GE/KN/MN/TT/SA have newer waiver/agreement leads not reconciled with the table. Korea is unqualified in both language versions, so KR/KP held. HK/MO/PS/XK document/recognition treatment not inferred from the ordinary-state default.
+- Generic Mexico embassy visa instructions and a linked Tokyo residence PDF were examined but not used as tourist nationality evidence. Main MFA schedules remain inaccessible/404; no access bypass.
+- Mongolia MFA outbound table directly establishes MN ordinary/all-passport waiver, 90 days, effective 2024-01-17.
+- Current Paraguay MFA suppression page recovered but its linked August 2024 PDF returns 404. Visa verification page is a paid authentication procedure for an already-issued visa, not an eligibility checker; no form submitted.
+- GE/KN/SA/TT commencement remains unverified. Unqualified Korea in the old mission table does not distinguish KP/KR. HK/MO/PS/XK document treatment remains unverified.
+- Exact baseline partition: 1 additions; 10 unresolved. Lists in this review are exhaustive.
+- Recovered Georgia MFA’s actual 4 February 2023 commencement notice via its public search keyword parameter: ordinary-passport agreement entered force 3 February 2023. Stay not stated. Korean MFA September 2026 ordinary column confirms 30 days; its diplomatic/official 90 days is not copied.
+- Current suppression page denied access and both former schedule PDF paths failed; Georgian guessed legal locator supplied no operative law. Saint Kitts government searches yielded no commencement proof. Saudi ordinary-passport rule not retrieved; diplomatic/special-only signing reports do not establish ordinary exemption.
+- Remaining HK/KN/KP/MO/PS/SA/TT/XK need current ordinary-document/nationality evidence, bilateral commencement or a reconciled schedule; Hong Kong/Macao do not inherit China, and an online visa application is not an eligibility decision.
+- Added KN/TT from the explicit current MFA ordinary-exemption group and SA from its explicit ordinary-passport visa requirement. No duration is invented.
+- HK/MO/PS/XK documents remain unestablished. KP remains: new table names South Korea but no North Korean determination; its residual default is not expanded because known Mongolian exemption evidence remains absent from that table. Law 6984 requires a consular visa only for countries that require one and cannot supply the missing nationality determination. New online application is not an eVisa entitlement.
 
 ### Senegal (SN)
 
@@ -1052,19 +1094,7 @@ Unresolved origins (5): CH, HK, MO, PS, XK.
 - Fresh New York/Brussels missions inspected. London live hostname fails DNS. Wayback 2024 capture is a verification page; 2022-07-03 capture is real and links a 2017 nationality PDF, but the PDF is not archived/retrievable (404). No historical nationality rule is claimed from that link alone.
 - Taiwan BOCA expressly identifies prior mission visa and Senegal Interior approval, resolving TW without treating the 2015 fee abolition as visa freedom.
 - Swiss mission/consulate alternatives failed403/DNS/404; no Swiss-specific waiver or supersession of the Brussels omission obtained. HK/MO concession tables provide no Senegal rule. CH/HK/MO/PS/XK remain unresolved for exemption or document-specific issuance.
-
-### South Korea (KR)
-
-Unresolved origins (5): CN, ID, KP, PS, XK.
-
-- Checked the current K-ETA country/stay table, KTO explicit 22-jurisdiction temporary exemption list and Justice Ministry extension through 2026-12-31 KST.
-- Preserved age exemptions, British classes, SAR documents, three-/six-month stays and Russia/Kazakhstan/Portugal aggregate limits.
-- Other nationalities remain unresolved for exact tourist method: no exhaustive reconciliation of Jeju, approved tour groups, diplomatic nationality issues and visa/eVisa eligibility. KP especially requires a separate inter-Korean entry-permit analysis.
-- Fresh Hi Korea source-language immigration page establishes direct-arrival Jeju-only thirty-day exemption and its explicit 23-country exclusion list. KTO default and current K-ETA roster establish ordinary mainland visa requirement for the newly added origins. No unchecked blanket eVisa-unavailability claim.
-- Conditional regional and transit branches are recorded without assuming direct Jeju arrival, foreign visas/residence, escort/tour participation, or mainland transfer permission. Ordinary visa durations remain unspecified.
-- KP inter-Korean permission remains unresolved. CN and ID need current group-tour rules; Singapore mission’s CN pilot ended 30 June 2026 and is not presented as current. The immigration eVisa page includes older 2016/2018 group information rather than a reconciled 2026 nationality schedule. PS/XK are named Jeju exclusions but accepted-document/ordinary tourist issuance remains unsettled.
-- All five retained. CN/ID still require reconciliation of mainland independent/group-tour, regional Jeju and current post30June2026 group-pilot rules. Fresh China mission protection page gives general legal/consular links, not current tour eligibility; Indonesia/Korean mission sources failed or looped.
-- Fresh HiKorea returned the announced8–9October2026 maintenance page, not policy content; no maintenance page counted as current verification. KP inter-Korean permissions and PS/XK accepted-document/tourist paths remain distinct blockers. Prior Jeju/default evidence is not broadened into an unverified current group entitlement.
+- All five retained. New Swiss French-language advice was inaccessible; Geneva mission and Lyon consular alternatives did not yield a Swiss waiver instrument. The Brussels omission still does not reconcile CH. HK/MO/PS/XK require actual passport-specific evidence; no mainland-China or recognition inference.
 
 ### Timor-Leste (TL)
 
@@ -1079,6 +1109,8 @@ Unresolved origins (5): CV, XK, LA, PS, VN.
 - CV bilateral source search retrieved signing/approval locators but no operative dates or terms. BG EU treaty text could not be retrieved (EUR-Lex202; Bulgaria CAPTCHA) while national list omits BG. XK/PS accepted documents unresolved. No membership-only or signed-treaty waiver assumed.
 - Bulgaria’s origin MFA explicitly exempts regular-passport tourism up to 90 days.
 - Recovered the full 128-page 21 May 2025 official gazette after two incomplete transport attempts. Resolution11/2025 and all four English treaty pages411–414 were inspected: Laos ordinary tourism30, international checkpoints, passport180 days, but Article5 needs the later diplomatic notification; approval/signature alone is not commencement. March2026 ASEAN accession approval likewise lacks accession/deposit implementation evidence; Vietnam’s separate 2026 signature/approval lead remains unproved. Cabo Verde commencement and PS/XK document rules remain unproved.
+- All5 retained. Fresh government searches for Laos, Vietnam and Cabo Verde and the official state-news account of parliamentary Laos approval add no verified diplomatic-notification or operative commencement date.
+- Laos treaty ratification/signature and30-day text remain distinct from Article5 commencement; Vietnam’sJune2026 signature andSeptember draft-resolution approval remain distinct from entry into force. CV effective terms and PS/XK accepted documents remain unproved.
 
 ### Bahamas (BS)
 
@@ -1091,6 +1123,7 @@ Unresolved origins (4): BA, GH, SS, AE.
 - BA/GH/AE remain conflicted. SS remains absent from visa schedules; its presence in the tourism yellow-fever list is a vaccination rule, not visa evidence. No article, dropdown or fee treated as an operative exemption.
 - All four retained. Current linked MFA HTML names Bosnia required, Ghana and UAE exempt; existing conflicting government schedule remains unreconciled. UAE MFA freshly confirms normal-passport3-month waiver, strengthening that side without establishing which destination schedule supersedes the other. Ghana agreement signature is not commencement. SS is still omitted and not inferred from Sudan or a health list.
 - Bosnian origin ministry TLS failure; fresh Ghana waiver locator404; main ministry links inspected. No majority-vote resolution of contradictory official tables.
+- Ghana ministry native Bahamas search yields an investment-summit article, not waiver commencement. New law locator was denied; Bosnian origin ministry TLS failed. No source reconciles BA/GH/AE contradictory destination schedules or supplies the omitted SS rule.
 
 ### Bangladesh (BD)
 
@@ -1109,32 +1142,30 @@ Unresolved origins (4): HK, MO, PS, XK.
 - Exact baseline partition: 129 additions; 5 unresolved. Lists in this review are exhaustive.
 - TW BOCA explicitly confirms ongoing Taiwan-national arrival issuance under conditional2026 MoHA guidance. Added only visa obligation plus actual no-mission/necessity branch, with no assumed business qualification or stay.
 - HK/MO/PS/XK ordinary-document acceptance/eligibility remains unproved. Hong Kong Bangladesh MFA host failed TLS; no bypass. Known compromised former embassy domains were not used.
+- HK/MO/PS/XK still lack affirmative ordinary-document treatment under the applicable exception/conditional-arrival scheme. Hong Kong/Ankara ministry TLS failures were not bypassed; guessed former Hong Kong consular domain redirects to an unrelated commercial country page and is rejected.
+- Hong Kong concession-list omission and generic Bangladesh application access are not evidence of duty or acceptance. No SAR-to-China substitution.
 
-### Benin (BJ)
+### Burkina Faso (BF)
 
-Unresolved origins (4): HT, PS, RO, XK.
+Unresolved origins (4): BI, CF, MR, RW.
 
-- All African catalog passports have the explicit 90-day exemption; SG/HK have independently documented 14-day exemptions.
-- Other non-African passports unresolved: linked MFA reciprocal-exemption list returned 404. The FAQ proves eVisa availability generally but does not establish which additional ordinary-passport bilateral exemptions apply.
-- Second pass: MFA exemption path again returned 404 under a new attempt key; Paris root redirects to the same modern government frontend, not a retrieved nationality schedule. Non-African exemptions remain unresolved instead of converting universal eVisa application availability into obligation.
-- Current Canadian/French/Serbian/Taiwan advice and Macao DSI resolve five eVisa routes. Tokyo and Washington missions independently explain electronic issuance.
-- Remaining origins: current MFA site is under maintenance; exact reciprocal-exemption path is 404; its 2026-06-05 archive is an empty Angular shell. Government secretariat search returned no operative list. Tokyo/Washington process pages do not establish every non-African nationality requirement.
-- Non-African bilateral waiver leads, including China and Caribbean countries, were not flattened into an all-other-nationalities requirement. Outbound Beninese exemption page is the wrong direction and was not inverted.
-- The signed 2025 law and 2026 implementing decree now supply the missing visa obligation independently of omission from a waiver list. Their tourist issuance method and duration are distinct from business-visa validity. African/HKSAR/Singapore baseline exemptions, China’s signed ordinary waiver and UAE’s live normal-passport waiver are excluded from the statutory residual group.
-- All 36 official visa-search document records and relevant exemption/suppression searches were inspected; 78 linked cabinet notices are cached. The Cuban agreement’s annex excludes ordinary Cuban passports. Four cases remain withheld: HT reported waiver implementation; RO ordinary-passport 1977 treaty current status/notification; PS/XK accepted ordinary documents. The MFA reciprocal table still returns 404, so the search record is not claimed to be an exhaustive live treaty register.
-
-### Burundi (BI)
-
-Unresolved origins (4): CD, XK, PS, SO.
-
-- Source-language CGM page establishes free six-month EAC entry visas, with work prohibition; applied to the five established EAC partner origins. FR airport process added from current origin-government advice.
-- CD and SO remain unresolved for implementation/document-specific cases; CEPGL alternative validity and newer accession need reconciliation. Other nationalities not inferred eligible merely from the form dropdown.
-- Brussels mission and linked PDF were inspected but no universal nationality eligibility declaration found. Closed Rwanda land border distinguished from air access.
-- CGM official airport notice supplies explicit all-foreign-national default; MFA ordinary waiver schedule supplies Maldives/Singapore exceptions and expressly suspended Serbian waiver. HKSAR 14-day exemption and Macao preapproved airport visa independently evidenced. General arrival policies require advance validation, not walk-up issuance.
-- CD/SO: national EAC/CEPGL fee-free category texts do not conclusively reconcile newer accessions and passport-specific implementation; kept unresolved. XK/PS/TW: no specific accepted-document evidence retrieved. No fee waiver converted to visa waiver.
-- Fresh MFA directory led to genuine Washington/Berlin/New Delhi missions. Former ambassade-du-burundi.fr explicitly disclaims official status and was rejected. Current mission visa templates mostly give procedure rather than nationality rules.
-- Taiwan BOCA explicitly supplies ordinary tourist airport issuance after online authorization,30 days; no generic all-passports recognition inference.
-- CD/SO: fee-free EAC/CEPGL texts still do not settle current accepted ordinary passport and waiver versus free-visa implementation. XK/PS accepted-document/ordinary issuance still unestablished. New migration alternative returned500.
+- Second pass located the current MFA domain and its mission directory, replacing dead/parked former consulate/embassy sites. The dated AES confederal declaration directly resolves the 12 current ECOWAS nationalities into BF; it does not prove reciprocity or resolve all intra-AES document cases.
+- Canada is confirmed visa-required and electronically eligible; the published short-stay rule supplies a maximum 90-day stay with actual duration determined from the application.
+- Remaining origins: current Brussels/Ottawa pages refer to Visa Burkina but provide no exhaustive exemptions. The application configuration GET returned 401 and was not bypassed. Ministry agreement/decree sections returned headings without operative schedules. US restrictions, other bilateral ordinary-passport exemptions and special-document recognition remain unresolved.
+- FR advance eVisa, RS visa requirement plus destination-wide electronic eligibility, and AE normal-passport 90-day exemption are supported. The UAE outbound prohibition is distinguished from a Burkina admission ban.
+- Security Ministry confirms electronic application for every visa-subject foreigner, not that every foreigner is visa-subject. Current Washington mission provides document intake only. MFA treaty/search, public-service and legal-site attempts did not establish an exhaustive ordinary nationality schedule. CF/MR/MA bilateral exemptions, intra-AES ML/NE implementation and US restrictions remain specifically unverified. No reuse/bypass of the prior protected configuration endpoint.
+- Fresh German/Dutch/Czech/Portuguese/Moldovan origin advice and Macao DSI establish the scoped electronic routes; Russian/Turkish/Korean and Mongolian statements establish requirement only. Portuguese arrival wording conflicts with more restrictive current guidance, so only its advance electronic route is certified.
+- Fresh national MFA law/decree/agreement indexes and migrated Service Public portal searched. The apparent demande-de-visas fiche is press accreditation, not an entry visa. Embassy leads fail TLS/DNS or do not supply a current exhaustive ordinary list. eVisa availability is not used as a universal visa obligation.
+- Fresh MFA declaration dated 14 December 2024 explicitly concerns ECOWAS nationals entering AES territory; it is not a post-withdrawal intra-AES ML/NE implementation rule. ML/NE remain unresolved. CF/MR/MA bilateral exceptions, US restriction scope, and PS/XK/TW accepted-document/ordinary obligation remain unproved.
+- New Burundi agreement report expressly includes ordinary passports but reports signature rather than commencement. BI remains unresolved. The France diplomatic-rupture announcement alone is not a withdrawal of French tourist visa issuance.
+- Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed.
+- The governing pages are dated 2 October 2025 (AMDT 10/25) and individually retained in the full AMDT 10/26 register effective 1 October 2026; the January 2026 HTML title is not a visa enactment date.
+- 161 new air-entry-scoped rules; 8 original gaps remain. BI newer ordinary agreement lacks commencement; CF/MR unreconciled bilateral leads; US restriction scope; PS/TW/XK accepted ordinary documents. RW added: current origin immigration ordinary-passport waiver conflicts with residual requirement; no established precedence.
+- All8 held: BI signature without commencement; CF/MR bilateral exemption leads unresolved; RW ordinary waiver claim still conflicts with the AIP default; US restriction scope; PS/TW/XK accepted ordinary documents.
+- Burundi’s12 August report and Burkina’s15 August diaspora report discuss the signed agreement, not commencement. Taiwan BOCA directs inquiries to missions and mentions eVisa availability without an explicit nationality duty. Authentic Japan mission stopped ordinary paper intake5 December2024; that process notice supplies no missing exemption/recognition rule.
+- Pass-six consistency adjudication: The current-retained passenger paragraph states a visa duty and an ordinary-passport exception schedule. PS/TW/XK and US have document or issuance blockers, not evidenced ordinary-waiver leads. BI/CF/MR/RW retain their concrete waiver/commencement conflicts.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
+- Air-entry pages dated 2 October 2025 remain in the register effective 1 October 2026; neither date proves present tourist issuance.
 
 ### Guinea (GN)
 
@@ -1147,6 +1178,7 @@ Unresolved origins (4): HK, PS, VC, ZM.
 - Fresh CountryHome.xml and portal inspected. HK/PS/VC/ZM remain inactive without a separately verified nationality rule or recognised application route. Neither inactive presence nor absence creates refusal or exemption.
 - All four remain: HK/PS ordinary documents and VC/ZM visa obligation/issuance are not determined by inactive portal records. TREATY=0 on inactive rows is not promoted into a verified current individual rule.
 - Fresh Paris/MFA/UK/Dakar/Canada alternatives and origin VC locator provided shells, DNS failures or404, not an exhaustive operative exemption schedule. Prior portal default is retained as context but incomplete current exceptions are not fabricated.
+- All four retained. New Berlin mission, Zambia origin-government search and Saint Vincent consular alternatives failed TLS, transport or404. No current nationality duty/waiver was established independently of the portal’s inactive records. ACTIVE=0 is neither a refusal nor an exemption; HK/PS document treatment and VC/ZM exceptions remain unsettled.
 
 ### Honduras (HN)
 
@@ -1158,6 +1190,7 @@ Unresolved origins (4): HK, MO, SA, SS.
 - All four gaps remain: fresh consular ministry path and INM root timed out; US embassy locator returned a 114-byte placeholder; Spain locator DNS failed; Saudi mission locator redirected to generic embassy portal. None supplies HK/MO/SS ordinary-document rules or resolves Saudi joint-schedule B footnote versus newer-waiver lead. No CA-4-wide default invented.
 - HKSAR and Macao outbound material did not establish Honduras-specific permission; absence from a concession list is not a visa requirement.
 - Fresh Honduran INM visa endpoint and Saudi MFA locator timed out; the Chinese-mission locator did not establish the SAR rule. HK/MO accepted document handling, Saudi newer-waiver versus category-B footnote conflict, and South Sudan’s omitted nationality remain unresolved.
+- All four held: HK/MO accepted SAR travel documents, SA later-waiver/category-B conflict and SS omitted nationality remain unresolved. Fresh Chinese-mission root, Saudi redirect and attempted Honduran legal document supplied no determining instrument.
 
 ### Jamaica (JM)
 
@@ -1169,6 +1202,8 @@ Unresolved origins (4): CG, PS, TL, VA.
 - Toronto gives any-nationality same-vessel cruise exception and separate Taiwanese affidavit procedure. Those do not establish an ordinary independent-tourism rule for the four missing origins. No nationality default from the application intake form. All four remain unresolved.
 - Re-read current PICA nationality table and tried alternative consular schedules. PICA contains Democratic Republic of Congo, not proof for Republic of Congo. Neither that row nor a generic recognised-authority condition resolves CG, PS, TL or VA.
 - Miami mission returned500 and alternative Washington path404. Four origins remain without explicit current ordinary-passport classification; no omission-based requirement or state-recognition ban asserted.
+- All4 CG/PS/TL/VA retained. Newly recovered MFA National Visa Policy describes the statutory non-Commonwealth default under Aliens Act6(h), but also about110 waiver arrangements with inconsistent conditions; it does not reconcile the four absent PICA nationalities. Annexes contain no replacement nationality schedule.
+- Current MFA visa guidance only directs visa-subject travellers to consular posts and notes some arrival visas. That procedure does not decide these nationalities. CG is not DRC; PS ordinary documents and TL/VA treatment are not inferred from omission.
 
 ### Lebanon (LB)
 
@@ -1185,34 +1220,34 @@ Unresolved origins (4): IL, XK, SY, TR.
 - No nationality-wide ban is created from labour-recruitment restrictions, nor a visa exemption from zero fees. Ghana-specific page confirms residence/work limits but does not independently settle the article 8/10 arrival issue.
 - CD/UG now have restrictive requirement-only records combining the visa default with explicit suspension of new work/visit issuance. Existing permission and exceptions remain unproved; no nationality-wide entry ban. PS records actual Palestinian-passport prior-approval and spouse branches without assuming personal qualifications.
 - IL/XK ordinary-document treatment remains unproved. SY needs its separate current entry/tourism regime; the Syrian/Palestinian residence page supplies navigation, not an ordinary visitor rule. TR still has a real conflict: destination free arrival visa versus Turkish MFA visa exemption. Neither zero fees nor source count resolves it.
+- All four IL/XK/SY/TR remain. New Arabic/French Syrian-navigation and Ankara mission attempts fail; Turkish Beirut material concerns entry to Türkiye rather than a new Lebanon rule. SY needs current tourist-specific entry branches; IL/XK need document/admission treatment.
+- TR remains a genuine visa-free versus fee-free arrival-visa conflict. No fee waiver is reclassified as a visa waiver, nor absence/nonrecognition turned into an entry ban.
 
-### Liberia (LR)
+### Niger (NE)
 
-Unresolved origins (4): HK, MO, PS, XK.
+Unresolved origins (4): SE, MR, MU, RW.
 
-- All remaining origins unresolved: the online-arrival route depends on whether a Liberian embassy exists in “your country”, not nationality alone. The portal does not clarify nationality-country versus residence-country for all cases. No blanket eVisa/VOA assignment made.
-- BF/ML/NE require post-withdrawal and ECOWAS-branded versus AES-passport clarification. Online approval and airport issue are sequential; 3-month approval validity is distinct from officer-selected 30/90-day stay.
-- Second pass retained the conditional approval route exactly: embassy-country criterion is unresolved for nationality-only baselines, prior approval is mandatory and only ROB is eligible. Additional MFA visa path returned 404. No new unconditional VOA/eVisa or post-withdrawal exemption introduced.
-- Explicit current embassy foreign-national visa default supports requirement-only additions. This does not turn every nationality into an unconditional VOA/eVisa entitlement.
-- LIS current portal and 2025 charter inspected. ROB-only collection follows advance QR approval; 3-month entry validity is distinct from officer-selected visit permission. Embassy-country language does not settle nationality versus residence.
-- BF/ML/NE remain unresolved for post-withdrawal ECOWAS/AES document treatment. HK/MO/PS/TW/XK remain unresolved for accepted-document evidence.
-- Exact baseline partition: 178 additions; 8 unresolved. Lists in this review are exhaustive.
-- BF/ML/NE added only for the expressly recognised ECOWAS-logo ordinary-passport branch: the regional post-withdrawal directive maintains visa-free movement into ECOWAS members until further notice. Replacement/AES passport treatment is explicitly unconfirmed, not silently assumed.
-- TW BOCA expressly supplies the visa requirement and both residence-country branches: preapproved Roberts Airport process where the residence country has no Liberian mission, otherwise mission paper visa. No same stay is assigned to both branches.
-- Remaining HK MO PS XK need ordinary-document acceptance and scoped application evidence. DSI’s positive-results list has no Liberia result and HKSAR concession-list omission proves no visa requirement. The BOCA ECOWAS count is not reused as a global exemption roster.
-
-### Panama (PA)
-
-Unresolved origins (4): CN, MO, SS, TL.
-
-- Embassy differentiates three-month general visa-free stay, US/Canada 180 days, and the 30-day substitute-visa entry. CN is withheld because the stamped list says Republic of China while Taiwan is visa-free; Russia appears as malformed South Russia. LV/HK/MO/SS/TL omissions remain unresolved.
-- Second pass: Russian ordinary-passport waiver resolved from the current Russian MFA bilateral table, as 90 days in 180. Other missing rows remain unresolved.
-- Hong Kong Immigration lists Panama for 30 days under a combined visa-free/visa-on-arrival heading without a row-specific method distinction. HK remains unresolved rather than guessing vf versus voa. Macao DSI does not list Panama; no default inferred.
-- Baseline gaps 6; current-supported additions 1; historical-only additions 0; remaining without policy 5.
-- Hong Kong Immigration's actual bilateral announcement expressly says visa-free for 30 days from 10 February 2019; the freshly retrieved current concession list still reports Panama 30 days. This resolves the former visa-free/arrival-method ambiguity for HKSAR passports.
-- CN/HK are not conflated; CN remains unresolved because mainland embassy consular paths returned its homepage, a new Panama mission Chinese-citizens path returned 404 and the attempted migration schedule returned 404. The located gazette PDF returned a blank text/html response, not legal text. LV/MO/SS/TL remain omitted or unestablished; Latvian advice attempts returned 404 and the Macao concessions list has no Panama row.
-- Latvian MFA exact current country page establishes citizen-only tourism up to six months; non-citizens excluded.
-- CN Chinese consular locator resolves to homepage, not a nationality decision; MO is absent from DSI concession index, which is not proof of a requirement. SS/TL remain omitted by usable schedule/default. Four remain unresolved.
+- Dated AES confederal declaration directly resolves the 12 current ECOWAS nationalities into Niger. Added CA and RS prior visa requirements; no claim of reciprocity outward from AES.
+- Remaining origins: Washington embassy lists required documents but no nationality exemption table; visa document validity is not stay. MFA endpoint has a self-signed certificate; government portal did not provide operative nationality rules. Current intra-AES document treatment, non-ECOWAS waivers and US restrictions unverified.
+- Baseline gaps 181; current-supported additions 2; historical-only additions 0; remaining without policy 179.
+- Current UAE MFA normal-passport row explicitly says Visa On Arrival, while its separate alert bans UAE citizens from travelling to Niger. Both statements are retained: the origin-country travel ban is not recast as a Niger entry ban. Australian guidance expressly requires a visa before travel, with method and stay unspecified.
+- Other assigned origins remain unresolved: fresh Brussels/Berlin mission hosts failed DNS; the French mission candidate failed DNS; US country guidance returned 403; the attempted German advice URL redirected to an unrelated Burkina Faso honorary-consulate record and was rejected. No current exhaustive nationality schedule or new intra-AES ordinary-passport implementation evidence was recovered.
+- Recovered the live Paris mission page through Taiwan BOCA’s named consular link. Its explicit obligatory-visa sentence plus named exceptions establishes requirements rather than omission-based classification. Ordinary TN/MA/TD/CU exceptions are separated by a semicolon from DZ/TR/ID diplomatic/service-only exceptions. Actual stay is unspecified; fee periods are not assumed stay.
+- BF/ML remain unresolved for post-ECOWAS-withdrawal implementation. The two ANP reports describe 2024 expert/ministry preparations and imminent document circulation, not a current ordinary-passport entitlement. MO/PS/XK/IL remain unresolved for specific accepted-document/recognition treatment. The mission contains old airline/background information; no 2026 enactment or universal working issuance channel is asserted. Dutch, Turkish and Taiwanese official nationality guidance independently corroborates the narrow corresponding requirements.
+- Incoming air entry only, valid ordinary passports and short tourism. Land and sea entry are not established by this evidence; crew, airside transit, employment and residence are excluded. No third-country visa or residence status is assumed.
+- The incoming-passenger pages are dated 11 June 2026 (AMDT 06/26) and individually retained in the full October 2026 register; neither the July HTML title nor the October package date establishes a new waiver commencement.
+- 2 new air-entry-scoped rules; 4 original gaps remain. No specific ordinary-document acceptance determination in general/default clauses.
+- Only ML and BF are new air-entry exemptions. Mali retains three months, not 90 days; Burkina duration is unresolved between three months and 60 days. Existing Niger fee, duration and other method records are not changed.
+- Air-entry evidence conflict for SE ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Swedish government entry guidance and the Paris mission still require a visa. The Swedish exemption was already printed in 2024; retention in the 2026 AIP does not establish supersession. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
+- Air-entry evidence conflict for MR ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Mauritania MFA supplies a visa-suppression agreement lead, but no controlling ordinary-passport treaty text or commencement resolves the Paris mission visa-required default. The AIP exemption was already printed in 2024. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
+- Air-entry evidence conflict for MU ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. The currently linked Mauritius MFA outbound table still requires a Niger visa, alongside the Paris mission default. The added 2026 AIP exemption has no established priority or supersession over this counterevidence. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
+- Air-entry evidence conflict for RW ordinary passports entering Niger: the actual incoming-passenger AIP expressly exempts this passport, not just fees, exit visas or diplomatic/service travel. Rwanda Immigration corroborates an ordinary-passport exemption, but the Paris mission still publishes a conflicting requirement. Source agreement and first appearance in the compared 2026 AIP do not establish legal priority or commencement. Withdraw the categorical supported visa-required record pending reconciliation; neither visa-free status, a stay allowance nor a practical issuance method is established as the replacement. Do not fall back to an older government or Passport Index claim.
+- Read final AIP candidate and its four conflict decisions before resolution work. SE/MR/MU/RW remain unresolved: no demonstrated legal priority or express supersession of current contrary sources.
+- SE and MR exemptions already appeared in the 2024 AIP; MU and RW additions in June 2026 establish publication changes, not treaty commencement. Swedish/Mauritian requirement evidence and Paris default remain material; Rwanda ordinary-waiver and Mauritania reciprocal-list corroboration do not alone establish priority.
+- New Niger official-press searches and actual cabinet leads did not supply applicable waiver legislation or commencement. IL/MO/PS/XK still need document-specific entry handling. No automatic visa-free or visa-required replacement.
+- Pass-six consistency adjudication: The incoming-passenger residual expressly requires a national passport AND visa. IL/MO/PS/XK fit neither named ordinary exception list. This establishes the visa condition separately from passport acceptance. SE/MR/MU/RW still have affirmative conflicting waiver evidence and gain no credit.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
+- Air-entry pages dated 11 June 2026 remain in the register effective 1 October 2026. SE, MR, MU and RW remain unresolved official conflicts.
 
 ### Turkmenistan (TM)
 
@@ -1224,6 +1259,7 @@ Unresolved origins (4): HK, XK, MO, PS.
 - The Beijing source does not name HK/MO/PS/TW/XK or establish their document acceptance. No inference that mainland Chinese procedures cover SAR/Taiwan documents; no functioning nationality-specific tourist eVisa evidence obtained. All five remain unresolved.
 - Taiwan BOCA explicitly establishes a Taiwanese ordinary tourism visa and authorised-agency invitation, resolving TW with unspecified stay.
 - Current Macao ordinary-passport list has no Turkmenistan classification. Prior Beijing invitation procedure plus generic law does not establish accepted HK/MO/PS/XK ordinary documents. All four remain unresolved; no eVisa availability or acceptance inferred.
+- All4 document cases held. New Beijing mission searches for Hong Kong, Macao, Kosovo and Palestine returned sports, trade or diplomatic news rather than an ordinary-passport visa/document decision. HKSAR omission from concessions is not visa-duty proof; generic invitation law does not establish document acceptance.
 
 ### Tuvalu (TV)
 
@@ -1235,6 +1271,8 @@ Unresolved origins (4): CH, IS, LI, NO.
 - Fresh Swiss and Norwegian government travel/treaty attempts were denied access; Iceland consular landing page supplied no Tuvalu treaty. CH, IS, LI and NO remain unresolved pending separate EFTA bilateral waiver texts and operative durations. They are not inferred from the EU agreement or the standard arrival-permit rule.
 - All four CH IS LI NO remain: new current Tuvalu law index, Fedlex treaty locator, Iceland and Liechtenstein origin-government paths did not retrieve operative bilateral EFTA waiver texts/durations. The Swiss legacy path now redirects to the new FDFA home page.
 - No EU-treaty membership extrapolation and no replacement with the standard arrival permit while the distinct bilateral question remains unproved.
+- All4 CH IS LI NO retained. New Liechtenstein government full-text treaty search returned8 unrelated instruments and no Tuvalu visa-waiver text; Iceland government search returned no matches. Swiss/Norwegian alternatives denied access or returned404.
+- No separate operative EFTA bilateral waiver/duration was established. EU treaty scope, fee exemptions and the standard arrival permit do not resolve these claimed separate agreements.
 
 ### Barbados (BB)
 
@@ -1248,15 +1286,7 @@ Unresolved origins (3): MV, PS, TL.
 - Fresh 9 May 2025 schedule retains blank MV/TL inbound cells and lacks PS; Immigration still links an older 2022 schedule. Maldives MFA returned 403. All three remain unresolved; outbound columns and blanks are not inverted.
 - Current Immigration FAQ contains passport-service questions, no missing nationality rules. Retrieved official court-hosted Immigration Act Cap190 section9(2): Minister may specify visa-required passports and exceptions by order; statute itself is not a worldwide visa default.
 - MV/TL inbound cells in prior current official schedule are blank; PS absent. Maldives MFA access403. Need applicable ministerial orders or explicit current origin-nationality evidence for each; blanks are not visa decisions.
-
-### Belize (BZ)
-
-Unresolved origins (3): NR, SS, TL.
-
-- Slovakia 30 days and Slovenia 1 month verified separately by their foreign ministries. Nauru YES-NO ambiguity and SS/TL omissions persist; the London High Commission links back to the same incomplete table.
-- NR ambiguous YES-NO row and SS/TL omissions remain. New Belize law hosts returned DNS failure or unrelated HTML shells, National Assembly index and MFA visa locator did not supply an operative nationality amendment. No visa requirement inferred from omission.
-- All three remain: NR is literally YES - NO in the government table; SS/TL lack named rows and a usable residual default. The current London mission points back to that nationality table and supplies procedure, not new nationality decisions.
-- New AG/legislation locators returned application shells, unrelated HTML or DNS failures; a purported PDF was actually the AG website HTML. No operative amending nationality schedule was recovered. Foreign-visa/residence exemptions are not assumed.
+- Native Maldives/Timor/Palestine searches yield no operative missing nationality rule; Palestine results concern diplomacy, not document acceptance. Origin Maldives access denied, Timor locator failed, Palestinian ministry TLS failed. Existing blank MV/TL inbound cells and absent PS remain unresolved; governing Act delegates visa-required passports to ministerial orders.
 
 ### Botswana (BW)
 
@@ -1267,33 +1297,8 @@ Unresolved origins (3): XK, MO, VA.
 - Public checker plus explicit required-country JSON resolves MH/TL requirement; Palestine is explicitly in the required list despite free-text not-found. No electronic-method claim is based merely on dropdown presence. MO/XK have no qualifying country result. Holy See says no visa while previous government Vatican entry says required; no documented supersession, so VA remains unresolved.
 - All3 gaps re-reviewed with new Brussels mission/tourism and legal alternatives, plus Macao DSI. Brussels tourism page lacks the required nationality determination; government tourism500, e-laws DNS failure.
 - VA remains Holy See-exempt versus Vatican-required conflict. MO remains absent in concession evidence, and XK lacks positive accepted-document/requirement evidence. No checker-not-found result becomes visa-required.
-
-### Cyprus (CY)
-
-Unresolved origins (3): XK, NR, SO.
-
-- Second pass: current consolidated Annex I/II and authentic OJ Serbia/Vanuatu amendments were retrieved through the EU Publications Office. Amendment recitals expressly include Cyprus; nationality rules are applied as Cypriot national visa rules, not as Schengen visa/territorial admission rights. 155 previously unresolved origins now have qualified rules.
-- XK: Visa-waiver legislation does not itself settle Cypriot recognition of Kosovo ordinary passports; national entry-document/permit practice remains unresolved.
-- SO: Annex I proves a visa requirement, but Cypriot ordinary-passport recognition and substitute authorisation practice remain unresolved.
-- NR: Annex II contains a future-agreement condition. Operative treatment cannot be settled from the Cypriot linked schedule because its PDF remains inaccessible; retain unresolved.
-- Second pass (2026-10-08 UTC): 155 newly resolved; 0 existing candidates qualified/corrected; 0 returned to unresolved.
-- Second-pass recognition check: Visa Code 25(3)/29(2) provides a separate-sheet/LTV mechanism in law, but except for the separately resolved Netherlands case a nationality-specific ordinary tourist issuance/routing path was not substantiated. Recognition refusal is not equated with a universal nationality ban.
-- New Dublin and Stockholm official mission pages were inspected through ordinary webfetch. They establish in-person applications and conditional foreign-document exemptions, but neither settles XK/SO passport recognition or the NR future-agreement condition.
-- The January2026 Annex PDF returned binary data through webfetch but could not be retrieved/decoded into verifiable substantive text by the local read; local access returned403. Browser inspection could not start because Chrome is absent. No uninspected PDF bytes or plausible link is counted as verification. XK, NR and SO remain unresolved.
-- Fresh Belgrade mission instructions retrieved through webfetch; they describe consular applications and third-country-document concessions but give no XK/SO recognition or NR treaty commencement decision.
-- London still links the blocked MFA page and has obsolete ETIAS/Schengen boilerplate; not a new nationality schedule. Council Nauru agreement lookup was denied. NR remains conditional on the actual EU agreement activation; XK/SO need specific recognised-document rules. No inferred Nauru waiver or passport-wide ban.
-
-### Kenya (KE)
-
-Unresolved origins (3): XK, PS, SO.
-
-- 2025 named lists replace broad claims that all visitors need eTA or all Africans are exempt. Libya is not listed as exempt and falls under the explicit default.
-- SO unresolved: not named among EAC exemptions despite broader regional EAC statements. XK/PS/TW/HK/MO require accepted-document/individual checker confirmation; eligibility table returned no country rows.
-- HK resolved from Hong Kong Immigration’s Kenya-specific eTA remark, corroborating the Kenyan portal and expressly identifying HKSAR passports of all ages.
-- SO: current Kenyan eTA page names six EAC partners but not Somalia, while regional wording is broader; implementation remains unresolved. XK/MO/PS/TW: specific document/checker outcome not obtained. General eTA wording and a nationality selector are insufficient.
-- Fresh DSI and BOCA independently identify MO/TW passports and advance eTA; each explicitly gives 90 days.
-- Recovered full Kenya Gazette LN93/2025 (commenced 30 May 2025), regulation 15G/Seventeenth Schedule. Its EAC paragraph names Burundi, DRC, Rwanda, South Sudan, Tanzania and Uganda, omitting Somalia while saying EAC Partner States. It does not reconcile Somali accession with actual Kenyan implementation; SO remains unresolved.
-- XK and PS remain accepted-document/eTA-eligibility gaps. An application country choice or general all-visitors sentence is not a passport-specific result.
+- All3 XK MO VA retained. New mission alternatives failed DNS. A legal-portal locator proved to be a commercial subscription service, so research stopped at its public landing page.
+- Vatican/Holy See required-versus-exempt conflict remains. MO/XK lack positive ordinary-document/classification evidence; not-found responses do not prove a visa duty.
 
 ### Macao (MO)
 
@@ -1306,21 +1311,8 @@ Unresolved origins (3): PS, TW, XK.
 - Taiwan Compatriot Permit acceptance/waiver is explicit, but a Taiwan passport alone is not equivalent to that permit. FAQ references Taiwan travel documents for worker/student automated clearance, which is not an ordinary tourist determination. PS/XK document acceptance remains unestablished. All three retained unresolved.
 - All three PS/TW/XK remain unresolved. Fresh government entry page, new-law overview, PSP menu and prior-authorization service were inspected. They establish accepted-document qualifications and generic procedures, not specific acceptance of these three ordinary passports.
 - Taiwan Compatriot Permit and Taiwan passport are different documents. No permit possession, student/worker status or Mainland document is presumed. Taiwan MAC requests failed TLS validation; the PSP Q&A PDF transfer was interrupted without a complete response, so it is not evidence.
-
-### Morocco (MA)
-
-Unresolved origins (3): AZ, XK, TL.
-
-- Mali/Congo-Brazzaville/Guinea AEVM conditions retained; CN not conflated with SARs, and Hong Kong/Maldives 30 days distinguished.
-- French-language list resolves New Zealand mistranslation and additionally explicitly lists Dominican Republic for 60 days. Other unlisted origins need explicit required/default and nationality-only eVisa eligibility evidence. Accès Maroc returned template expressions without working checker content.
-- Baseline gaps 123; current-supported additions 119; historical-only additions 0; remaining without policy 4.
-- Recovered the official public checker from the currently loaded JavaScript, public runtime configuration, nationality/passport/purpose/residence/supporting-visa references, result template and English translations. Read-only POST is the same unauthenticated eligibility operation invoked on the landing page; no account, CAPTCHA, application, email, payment or personal-document submission was used.
-- 120 assigned nationalities were mapped by explicit country names/codes and checked with POR ordinary passport, OR.1 tourism, residence in the passport country, AUCUN supporting visa, no event, and synthetic adult DOB 1990-01-01. Every payload, response, UTC timestamp and hash is retained. Nationality-dropdown membership alone is never counted as eligibility.
-- 119 supported additions: five checker-confirmed exemptions (AL CV EC GH KZ), ten nationality-only eVisas with 30-day stay (BJ BN KH GT IN IL JO LA TH VN), and 104 explicitly visa-required results with precise issuance channel left uncertain. Source terms distinguish 180-day eVisa validity from 30-day stay and require minors to travel with a parent/legal representative.
-- AZ remains unresolved because the live checker says exonerer while the currently linked undated eVisa conditions still expressly call Azerbaijan visa-required/eVisa eligible. The conflicting sources are not reconciled by majority vote or an assumed update date. XK/TW/TL are absent from the actual selectable nationality records and are not inferred to be admitted, exempt or banned.
-- Other residence/age profiles are not silently asserted from the recorded adult home-residence scenario. Risk flags for IR IQ LB LY PS SY YE are retained in notes without changing them into admission bans. Conditional foreign-residence/visa eVisa pathways remain possible; vr does not mean electronic issuance is unavailable.
-- Taiwan BOCA newly resolves TW with actual separate-paper VCL handling and express tourism/business reopening on21 September2026. Ordinary entry stamp, commonly14/15 days, determines stay; permission is not recast as routine electronic issuance.
-- AZ live-checker exemption versus linked visa-required terms remains unreconciled; fresh Azerbaijani MFA/mission locators404. XK/TL absent from the actual existing portal nationality records; no synthetic substitute codes or omission-based entry bans.
+- PS/TW/XK remain unresolved for actual ordinary-document acceptance and permission type. Taiwan passport is not a Mainland Travel Permit for Taiwan Residents.
+- Current Chinese-language tourism guidance retains recognized-document/default-permit qualifications. Native Taiwan-passport search yielded old criminal-case/COVID inquiry material, not a current tourist rule. No default arrival entitlement inferred.
 
 ### Nicaragua (NI)
 
@@ -1334,31 +1326,38 @@ Unresolved origins (3): XK, MO, SS.
 - XK/MO/SS remain omitted from the actual 2026 schedule. Legislature request timed out; apparent consuladodenicaragua.com content is unrelated/old news and was rejected as current consular evidence. No substitute nationality selected.
 - All3 omissions in signed002-2026 remain: XK/MO/SS. New legislative-digest endpoint403; Japanese mission alternative DNS failure. Macao concession checker has no Nicaragua entry, which does not establish a visa duty.
 - No current nationality-specific amendment or explicit omitted-country fallback obtained; do not map Macao to China or South Sudan to Sudan.
+- All3 omissions in signed002-2026 remain: XK/MO/SS. Fresh gazette portal and free-download index retrieved; older legal digests do not supply a2026 nationality amendment or omitted-country default. Legislature endpoint403.
+- Publication-status lookup is not a tourist checker. No subscription, application, nationality substitution or inference from Macao concession omission.
 
-### Uganda (UG)
+### Panama (PA)
 
-Unresolved origins (3): XK, PS, SO.
+Unresolved origins (3): MO, SS, TL.
 
-- 40 ordinary exemptions distinguished from diplomatic and official exemptions. UAE is explicitly on ordinary list. Duration of exemptions remains unspecified.
-- SO unresolved because of EAC umbrella versus missing national exemption. XK/PS/TW/MO acceptance not individually settled. Yellow fever was removed from the current tourist requirements; older FAQ attachment list not propagated.
-- Taiwan route resolved by BOCA explicit tourist eVisa instructions. MO/PS/XK accepted-document routes remain unresolved; no application dropdown treated as eligibility.
-- Somalia national implementation remains unresolved against missing ordinary exemption and broad EAC wording. New immigration news and Somali MFA routes returned404; Macao official PDF/page paths returned404.
-- Macao DSI expressly supports the ordinary SAR electronic visa, unlike a generic destination application dropdown.
-- The fresh Ugandan waiver page was read; Somalia is still not named in its ordinary schedule. EAC membership alone does not establish national implementation. PS/XK accepted documents remain unproved.
+- Embassy differentiates three-month general visa-free stay, US/Canada 180 days, and the 30-day substitute-visa entry. CN is withheld because the stamped list says Republic of China while Taiwan is visa-free; Russia appears as malformed South Russia. LV/HK/MO/SS/TL omissions remain unresolved.
+- Second pass: Russian ordinary-passport waiver resolved from the current Russian MFA bilateral table, as 90 days in 180. Other missing rows remain unresolved.
+- Hong Kong Immigration lists Panama for 30 days under a combined visa-free/visa-on-arrival heading without a row-specific method distinction. HK remains unresolved rather than guessing vf versus voa. Macao DSI does not list Panama; no default inferred.
+- Baseline gaps 6; current-supported additions 1; historical-only additions 0; remaining without policy 5.
+- Hong Kong Immigration's actual bilateral announcement expressly says visa-free for 30 days from 10 February 2019; the freshly retrieved current concession list still reports Panama 30 days. This resolves the former visa-free/arrival-method ambiguity for HKSAR passports.
+- CN/HK are not conflated; CN remains unresolved because mainland embassy consular paths returned its homepage, a new Panama mission Chinese-citizens path returned 404 and the attempted migration schedule returned 404. The located gazette PDF returned a blank text/html response, not legal text. LV/MO/SS/TL remain omitted or unestablished; Latvian advice attempts returned 404 and the Macao concessions list has no Panama row.
+- Latvian MFA exact current country page establishes citizen-only tourism up to six months; non-citizens excluded.
+- CN Chinese consular locator resolves to homepage, not a nationality decision; MO is absent from DSI concession index, which is not proof of a requirement. SS/TL remain omitted by usable schedule/default. Four remain unresolved.
+- CN duty resolved from April2026 Chinese Embassy entry notice, with the independently stated third-country-document exemption expressly conditional. Primary stay d0; only qualified substitute-document branch has30 days.
+- MO/SS/TL still lack an actual nationality determination; no mainland-China rule is transferred to Macao and no Sudan-to-South-Sudan substitution. New legal path and linked amendment PDF returned404.
 
-### Venezuela (VE)
+### South Korea (KR)
 
-Unresolved origins (3): IL, MO, XK.
+Unresolved origins (3): CN, ID, KP.
 
-- 71-country official list expressly limited to air arrival; not generalized to land/sea or omitted passports. Ordinary visitor duration not supplied by this list.
-- US Embassy electronic-visa update returned access denial; cannot classify all visa-required methods from that lead.
-- HK resolved through the Hong Kong Immigration Department’s explicit Venezuelan Tourist Card waiver statement, 90 days. Other omitted origins still require evidence; air waiver remains mode-limited.
-- Retrieved central MFA air-arrival nationality table plus Madrid’s government-hosted tourism page: Visa de turista (Solo necesaria si tu país no se encuentra en la siguiente lista). Its government-hosted tourist-visa service expressly applies to nationals of countries without visa suppression. Reconciled the default and central table with Serbian treaty commencement and HKSAR baseline evidence. Regular residual passports receive requirement-only air-arrival rules with electronic-method uncertainty; no Spanish residence assumed.
-- Authority cross-check: the MFA public consular directory and its linked public GeoJSON identify madrid.consulado.gob.ve. That host’s actual tourism and tourist-visa pages supply the final evidence. The initially inspected .com site remains locator/corroborating cache only and is not a cited policy source.
-- Gazette research: Imprenta Nacional connection refused, TSJ gazette timed out, National Assembly laws index retrieved but supplied no operative visa amendment. No gazette text fabricated or cited as retrieved policy. The government-hosted default plus ministry table supplies requirement evidence instead.
-- Serbia is visa-free but treaty-specific stay unspecified. The Serbian origin page’s top 90-day table is labelled entry into Serbia, so not reversed. TW official advice says tourist/business visas are generally not issued, which is insufficient for an absolute nationality ban; IL/MO/XK special-document/recognition cases remain unresolved.
-- TW added as a restrictive requirement-only air-arrival rule by combining the explicit consular default, actual central list and BOCA’s ordinary-passport non-issuance warning. No practical tourist issuance channel, stay, blanket ban or routine admission is claimed.
-- IL/MO/XK remain unresolved accepted-document/permission cases. Central schedule and default do not establish their recognition or an actual tourist process. DSI concession-index absence for MO supplies no negative rule.
+- Checked the current K-ETA country/stay table, KTO explicit 22-jurisdiction temporary exemption list and Justice Ministry extension through 2026-12-31 KST.
+- Preserved age exemptions, British classes, SAR documents, three-/six-month stays and Russia/Kazakhstan/Portugal aggregate limits.
+- Other nationalities remain unresolved for exact tourist method: no exhaustive reconciliation of Jeju, approved tour groups, diplomatic nationality issues and visa/eVisa eligibility. KP especially requires a separate inter-Korean entry-permit analysis.
+- Fresh Hi Korea source-language immigration page establishes direct-arrival Jeju-only thirty-day exemption and its explicit 23-country exclusion list. KTO default and current K-ETA roster establish ordinary mainland visa requirement for the newly added origins. No unchecked blanket eVisa-unavailability claim.
+- Conditional regional and transit branches are recorded without assuming direct Jeju arrival, foreign visas/residence, escort/tour participation, or mainland transfer permission. Ordinary visa durations remain unspecified.
+- KP inter-Korean permission remains unresolved. CN and ID need current group-tour rules; Singapore mission’s CN pilot ended 30 June 2026 and is not presented as current. The immigration eVisa page includes older 2016/2018 group information rather than a reconciled 2026 nationality schedule. PS/XK are named Jeju exclusions but accepted-document/ordinary tourist issuance remains unsettled.
+- All five retained. CN/ID still require reconciliation of mainland independent/group-tour, regional Jeju and current post30June2026 group-pilot rules. Fresh China mission protection page gives general legal/consular links, not current tour eligibility; Indonesia/Korean mission sources failed or looped.
+- Fresh HiKorea returned the announced8–9October2026 maintenance page, not policy content; no maintenance page counted as current verification. KP inter-Korean permissions and PS/XK accepted-document/tourist paths remain distinct blockers. Prior Jeju/default evidence is not broadened into an unverified current group entitlement.
+- Eight actual nationality/process/detail queries establish C-3-9 tourist eligibility for PS/XK, coupled with current official duty and explicit Jeju/transit exclusions. Product stays are separated from validity.
+- CN/ID actual queries also performed; stale 2020 transit text and current group-pilot reconciliation prevent clearing their full conditional rules. KP inter-Korean authorisation remains separate.
 
 ### Zambia (ZM)
 
@@ -1371,33 +1370,44 @@ Unresolved origins (3): XK, ME, RS.
 - Serbia MFA is internally contradictory: top ordinary-passport row says visa required/available at border; entry section says visa not required. The old combined Serbia-and-Montenegro destination row does not resolve RS or ME. Montenegro's fresh Zambia country page is about Zambians entering Montenegro and is not reversed. XK recognition remains unestablished; London Zambia mission alternative failed TLS.
 - All three remain: RS origin-MFA top row says required/arrival while its entry paragraph says no visa; ME cannot be inferred from the combined historical Serbia-and-Montenegro row; XK requires accepted-document evidence.
 - Fresh Immigration legislation index and 53-country waiver announcement inspected. Linked SI 129/2011 was retrieved; all thirteen opening scanned pages were rendered and visually inspected, including regulations 17–21 on visiting-visa and visiting-permit applications. They prescribe procedures/forms rather than settle these three nationality identities. The 53-country announcement cites SI 78/2024 and 1 January 2025 commencement but does not itself settle these identities; the attempted SI78 file was 404. Montenegro outbound searches did not yield an operative table and inbound pages were not reversed.
+- All three XK/ME/RS remain. Newly retrieved Berlin mission directs readers to central nationality lists but only expressly confirms its accredited European exemptions; it does not modernise the combined Serbia/Montenegro row. Paris and SI78 alternative access failed.
+- Serbian MFA internal required/arrival versus no-visa conflict remains; ME cannot inherit the obsolete combined row, and XK still needs accepted-document evidence.
 
-### Angola (AO)
+### Benin (BJ)
 
-Unresolved origins (2): PS, XK.
+Unresolved origins (2): HT, RO.
 
-- The 98-entry official annex maps to 96 catalog passports; Niue and Cook Islands are not catalog origins. HKSAR adds a separately sourced route.
-- All remaining passports unresolved: the decree preserves other treaty exemptions, so omission from its tourism annex is not proof of visa requirement. Complete bilateral exemption and SME online-preapproval eligibility/document schedules were not retrieved. Annual 90-day cap is separate from 30 days per entry.
-- Second pass preserves the tourism annex and annual cap. Cached treaty-preservation clause still prevents making a requirement from omission; no new bilateral schedule obtained.
-- Recovered statutory default in Law 13/19 Article 14; visual inspection confirms passport/visa conditions and cruise/day-visitor/treaty/residence exceptions. Decree 189/23 Articles 3, 4 and 6 inspected as actual gazette images.
-- SME explicitly supplies the five missing bilateral short-stay exemptions MZ/NA/ST/ZA/ZM. Default requirement is reconciled against both the decree annex and these exceptions; it is not inferred from annex omission alone. No treaty stay guessed.
-- Online pre-authorisation in decree is real, but old mandatory-consulate disclaimer conflicts with newer email issuance text. Generic requirements retain channel uncertainty. The new complete-list page is only a placeholder. MO has a current DSI eVisa listing plus a possible newer waiver-agreement lead whose commencement is unverified; PS/TW/XK recognition is not settled.
-- Macao DSI and Taiwan BOCA now substantiate the particular travel documents and electronic-visa guidance; combined with Law13/19 and current-linked SME rules this supports requirement-only additions while preserving channel uncertainty. DSI explicitly marks Macao visaFree=0.
-- PS/XK remain unproved for document-specific acceptance. The Macao government Angola+visa search found no waiver commencement, only unrelated events; no signed-agreement lead is promoted to implemented exemption. Existing SME wording conflicts on electronic completion versus consular attendance.
+- All African catalog passports have the explicit 90-day exemption; SG/HK have independently documented 14-day exemptions.
+- Other non-African passports unresolved: linked MFA reciprocal-exemption list returned 404. The FAQ proves eVisa availability generally but does not establish which additional ordinary-passport bilateral exemptions apply.
+- Second pass: MFA exemption path again returned 404 under a new attempt key; Paris root redirects to the same modern government frontend, not a retrieved nationality schedule. Non-African exemptions remain unresolved instead of converting universal eVisa application availability into obligation.
+- Current Canadian/French/Serbian/Taiwan advice and Macao DSI resolve five eVisa routes. Tokyo and Washington missions independently explain electronic issuance.
+- Remaining origins: current MFA site is under maintenance; exact reciprocal-exemption path is 404; its 2026-06-05 archive is an empty Angular shell. Government secretariat search returned no operative list. Tokyo/Washington process pages do not establish every non-African nationality requirement.
+- Non-African bilateral waiver leads, including China and Caribbean countries, were not flattened into an all-other-nationalities requirement. Outbound Beninese exemption page is the wrong direction and was not inverted.
+- The signed 2025 law and 2026 implementing decree now supply the missing visa obligation independently of omission from a waiver list. Their tourist issuance method and duration are distinct from business-visa validity. African/HKSAR/Singapore baseline exemptions, China’s signed ordinary waiver and UAE’s live normal-passport waiver are excluded from the statutory residual group.
+- All 36 official visa-search document records and relevant exemption/suppression searches were inspected; 78 linked cabinet notices are cached. The Cuban agreement’s annex excludes ordinary Cuban passports. Four cases remain withheld: HT reported waiver implementation; RO ordinary-passport 1977 treaty current status/notification; PS/XK accepted ordinary documents. The MFA reciprocal table still returns 404, so the search record is not claimed to be an exhaustive live treaty register.
+- Fresh Haiti search in the official Benin legal register returns ambassador appointments, not an implemented ordinary-passport waiver. Romanian treaty/advice leads remain inaccessible.
+- HT waiver implementation and RO 1977 ordinary-passport treaty present status remain unresolved; PS/XK document handling remains unproved. The 2025/2026 default is not used against these concrete unresolved exceptions.
+- Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.
+- 2 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment.
+- Haiti and Romania exception/commencement questions remain unresolved; the two document-sensitive duty records do not settle them.
 
-### Argentina (AR)
+### Burundi (BI)
 
-Unresolved origins (2): PS, XK.
+Unresolved origins (2): CD, SO.
 
-- Toronto consulate positive list updated May 2024; page says section being updated. No visa-required inference for omitted passports. Unqualified Korea row is held unresolved instead of guessing North/South.
-- Mercosur travel-document concession expressly preserves nationality-based visa requirements and contains Venezuela/Brazil implementation exceptions; it is not unrestricted free movement.
-- Second pass rechecked the official Mercosur document page and attempted the Mercosur institutional site (403). No fm conversion: accepted identity documents and conditional residency routes do not abolish nationality-based visa or visitor-stay limits.
-- Fresh Los Angeles consulate schedule expressly names SOUTH KOREA and SOUTH AFRICA, and says an AVE or visa is mandatory for passports outside its exemption categories. This supplies the explicit default missing in the Toronto positive-only baseline. All ordinary non-special unresolved origins were compared against the full list.
-- Houston's current page (updated 27 February 2026) establishes the qualifying-US-document dependency of AVE and country-specific US-document waivers: IN/DO up to90, CN up to30. These conditional exceptions are retained, never assumed. The general default records known visa obligation without falsely certifying eVisa unavailability.
-- Taiwan BOCA specifically recognizes Taiwan-passport tourist AVE applicants and requires US travel within2 years or eligible US entry permission. Its 90-day AVE validity is separated from the 3-month conditional stay; the baseline visa requirement is recorded without assuming qualification.
-- PS and XK remain unresolved document-recognition/issuance cases; the worldwide residual visa sentence alone cannot prove an accepted ordinary travel document. No changes to supported baseline routes are proposed.
-- The authentic Argentine representation in Palestine and its consular menu were inspected; they concern Argentine identity/consular services and do not establish Palestinian tourist issuance.
-- PS/XK remain accepted-document/issuance cases. The existing general default is not used to claim accepted passports. An alternative consulate locator failed DNS.
+- Source-language CGM page establishes free six-month EAC entry visas, with work prohibition; applied to the five established EAC partner origins. FR airport process added from current origin-government advice.
+- CD and SO remain unresolved for implementation/document-specific cases; CEPGL alternative validity and newer accession need reconciliation. Other nationalities not inferred eligible merely from the form dropdown.
+- Brussels mission and linked PDF were inspected but no universal nationality eligibility declaration found. Closed Rwanda land border distinguished from air access.
+- CGM official airport notice supplies explicit all-foreign-national default; MFA ordinary waiver schedule supplies Maldives/Singapore exceptions and expressly suspended Serbian waiver. HKSAR 14-day exemption and Macao preapproved airport visa independently evidenced. General arrival policies require advance validation, not walk-up issuance.
+- CD/SO: national EAC/CEPGL fee-free category texts do not conclusively reconcile newer accessions and passport-specific implementation; kept unresolved. XK/PS/TW: no specific accepted-document evidence retrieved. No fee waiver converted to visa waiver.
+- Fresh MFA directory led to genuine Washington/Berlin/New Delhi missions. Former ambassade-du-burundi.fr explicitly disclaims official status and was rejected. Current mission visa templates mostly give procedure rather than nationality rules.
+- Taiwan BOCA explicitly supplies ordinary tourist airport issuance after online authorization,30 days; no generic all-passports recognition inference.
+- CD/SO: fee-free EAC/CEPGL texts still do not settle current accepted ordinary passport and waiver versus free-visa implementation. XK/PS accepted-document/ordinary issuance still unestablished. New migration alternative returned500.
+- All4 retained. Current CGM Services describes free EAC entry visas with1–6-month validity and CEPGL entry visas with1–3-month validity. These are not visa-free tourist-stay declarations and do not settle current CD/SO implementation. No membership-only or validity-as-stay conversion.
+- New CD mission locator failed. XK/PS ordinary-document treatment remains unproved; the general application procedure cannot establish acceptance.
+- Pass-six consistency adjudication: CGM's airport notice imposes an advance visa-application duty. Ordinary exemptions and fee-free regional categories are separately preserved. PS/XK have no established exemption under them; CD/SO still require actual regional implementation reconciliation.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
+- The ordinary-passport schedule was published 27 September 2024; fee-free categories and airport preapproval remain distinct.
 
 ### Colombia (CO)
 
@@ -1411,6 +1421,8 @@ Unresolved origins (2): PS, XK.
 - MO/PS/XK remain unresolved for ordinary-document recognition/territorial treatment. A diplomatic Palestinian treaty and an application country label do not independently settle every ordinary travel document. No blanket negative rule assigned to these three.
 - MO resolved using DSI travelPermit=0, countryId468: not visa-free, electronic visa offered for the SAR passport. Combined with already-inspected Ministry statutory default and tourist procedure/duration, retaining their original dates.
 - PS/XK remain: new Palestine mission and foreign-document ministry locators return404. Diplomatic agreements, consular relations and application-country options do not settle ordinary document acceptance.
+- Both PS/XK retained. New ministry searches for passport/visa-specific determinations returned no results; broader Palestine results concern diplomatic relations, personnel families and political affairs.
+- No ordinary-document recognition or nationality-specific tourist decision was obtained. The existing general default and diplomatic treaty are not extended over these unresolved document branches.
 
 ### Comoros (KM)
 
@@ -1423,6 +1435,27 @@ Unresolved origins (2): SC, XK.
 - XK document recognition remains unresolved; neither generic all-nationality wording nor omission is a nationality-specific guarantee.
 - Both gaps re-reviewed with new Seychelles treaty index and international-agreement pages. Those pages expose general multilateral treaties and staff country portfolios, not an operative Comoros visa-waiver text.
 - SC method conflict remains Seychelles1–3-month visa-free table versus destination tourist-arrival/45-day law. XK accepted ordinary document remains unproved. No fee exemption becomes visa freedom.
+- SC remains a method/duration conflict: Seychelles no-visa 1–3-month table versus Comoros arrival/statutory 45-day framework. Newly recovered 2015 cooperation announcement contains no operative visa-waiver clause.
+- XK ordinary-document treatment remains unproved; no diplomatic-relations or generic all-nationality inference.
+
+### Cyprus (CY)
+
+Unresolved origins (2): XK, NR.
+
+- Second pass: current consolidated Annex I/II and authentic OJ Serbia/Vanuatu amendments were retrieved through the EU Publications Office. Amendment recitals expressly include Cyprus; nationality rules are applied as Cypriot national visa rules, not as Schengen visa/territorial admission rights. 155 previously unresolved origins now have qualified rules.
+- XK: Visa-waiver legislation does not itself settle Cypriot recognition of Kosovo ordinary passports; national entry-document/permit practice remains unresolved.
+- SO: Annex I proves a visa requirement, but Cypriot ordinary-passport recognition and substitute authorisation practice remain unresolved.
+- NR: Annex II contains a future-agreement condition. Operative treatment cannot be settled from the Cypriot linked schedule because its PDF remains inaccessible; retain unresolved.
+- Second pass (2026-10-08 UTC): 155 newly resolved; 0 existing candidates qualified/corrected; 0 returned to unresolved.
+- Second-pass recognition check: Visa Code 25(3)/29(2) provides a separate-sheet/LTV mechanism in law, but except for the separately resolved Netherlands case a nationality-specific ordinary tourist issuance/routing path was not substantiated. Recognition refusal is not equated with a universal nationality ban.
+- New Dublin and Stockholm official mission pages were inspected through ordinary webfetch. They establish in-person applications and conditional foreign-document exemptions, but neither settles XK/SO passport recognition or the NR future-agreement condition.
+- The January2026 Annex PDF returned binary data through webfetch but could not be retrieved/decoded into verifiable substantive text by the local read; local access returned403. Browser inspection could not start because Chrome is absent. No uninspected PDF bytes or plausible link is counted as verification. XK, NR and SO remain unresolved.
+- Fresh Belgrade mission instructions retrieved through webfetch; they describe consular applications and third-country-document concessions but give no XK/SO recognition or NR treaty commencement decision.
+- London still links the blocked MFA page and has obsolete ETIAS/Schengen boilerplate; not a new nationality schedule. Council Nauru agreement lookup was denied. NR remains conditional on the actual EU agreement activation; XK/SO need specific recognised-document rules. No inferred Nauru waiver or passport-wide ban.
+- All3 held: NR agreement activation; XK/SO accepted documents and national permission. Paris mission instructions provide no nationality-specific determination.
+- The EU URL with an Annex1_en.pdf query actually returns a9 January2026 Article6 notifications XLSX. Inspected its real sheet/row content; diplomatic exemptions and employed-person exceptions are not the Cypriot ordinary schedule. No filename-based inference.
+- Pass-six consistency adjudication: Somalia has a positive Annex I visa duty. Its document-acceptance gap can be qualified independently. Kosovo's waiver/document scope and Nauru's activation condition remain unproved.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
 
 ### Dominica (DM)
 
@@ -1438,6 +1471,7 @@ Unresolved origins (2): PS, XK.
 - Three archived six-month exemptions (CH/IS/LI) and UY90 are historical-only; other additions have live evidence. MT/SR duration conflict is retained as d=0. Named AE and MO current longer exemptions prevail over the generic 21-day branch.
 - The 21-day branch is a useful conditional route, not a maximum-stay claim across every bilateral agreement. XK/PS document recognition remains unresolved. No foreign visa/residence assumed. A current tourism page has inconsistent two-week wording for US/CA/FR; it is not used to override existing stronger nationality evidence.
 - Followed the new government homepage link to the migrated current visa page. It retains the bona-fide visitor return-ticket/21-day clause. That universal clause does not separately prove PS/XK passport acceptance; both remain unresolved, not prohibited.
+- PS/XK ordinary-document acceptance remains unproved. Generic 21-day bona-fide-visitor waiver is not a document-recognition determination; new consular/mission alternatives did not establish a specific rule.
 
 ### El Salvador (SV)
 
@@ -1450,18 +1484,27 @@ Unresolved origins (2): HK, SS.
 - HK and SS remain unresolved: Ministry visa paths 403; PEI portal is public guidance/login without a nationality result. Chinese mission entries were unrelated payment guidance, not HKSAR visa rules. Legislature index did not retrieve an operative nationality schedule. Generic PEI eligibility for B/C is not proof that these omitted origins are B/C.
 - HK and SS remain after HKSAR outbound data review and new Salvador migration searches for Hong Kong and Sudan. Search bodies yielded no substantive nationality determination. HKSAR is absent from the combined concession list, which does not create a required-visa default.
 - The prior rendered CA-4 schedule does not supply these rows; no mainland-China substitution for HKSAR or Sudan substitution for South Sudan. PEI availability alone is not their nationality classification.
+- HK/SS remain. New Chinese-mission consular/protection indexes and destination nationality search supplied no operative HKSAR/South-Sudan A/B/C classification. The search URL returned a generic homepage, not a negative nationality decision.
+- PEI availability for established B/C nationals does not show that these omitted origins are B/C. Mainland China and Sudan are not substituted.
 
-### Ethiopia (ET)
+### Eritrea (ER)
 
-Unresolved origins (2): XK, PS.
+Unresolved origins (2): KE, UG.
 
-- All-nationality statements obtained from government missions and checked against named Kenya/Djibouti exceptions and Eritrean prior-clearance limitations. Older residency-limited 2017 text is expressly superseded by the dated 2020 expansion plus current London/US instructions.
-- Five special-document origins XK/PS/TW/HK/MO remain unresolved; all-country wording alone is not proof of acceptance of these particular documents. Tourist route is limited to evidenced Bole arrival; no land-port eligibility asserted.
-- The eVisa portal still returned an Akamai/JavaScript shell. ICS site supplied other consular services but no better tourist table. Expired/repurposed embassy/tourism domains were rejected.
-- HKSAR Immigration country ID46 expressly permits VOA at Bole with three-month stay. Taiwan BOCA expressly names tourist VOA eligibility and 30/90-day options; transit-stop and other-border caveats retained.
-- MO/XK/PS remain unverified for document acceptance and nationality-specific issuance. Macao alternative PDF returned 404. No universal eligibility inference from a form or generic all-countries slogan.
-- MO visa requirement now qualified by the actual DSI passport record and its explicit policy-adjustment warning; electronic channel and residual30-day field remain uncertified.
-- XK/PS remain: no accepted ordinary-document/nationality-specific issuance authority. New mission alternatives were unavailable and the live eVisa information response was an empty application shell.
+- Washington embassy page updated April 2025 explicitly states a visa-required default for non-Eritreans, allowing evidence-backed expansion without inferring from a missing exemption list.
+- KE/UG reported waivers and ET/SD reported arrival arrangements still need primary reconciliation, so held out along with XK/PS/TW/HK/MO accepted-document cases. Secondary locator claims not used as policy proof.
+- National ID/heritage exceptions are conditions, not nationality-wide foreign-passport waivers. Application form online plus physical passport submission remains vr, not ev.
+- Kenya Presidency 9 February 2023 announcement of agreed permanent visa abolition recovered. It provides neither an operative commencement date nor implementation instructions, so KE is not certified from announcement alone.
+- Nairobi embassy hostname serves only an empty directory listing; Uganda/other ministry and state-news searches did not resolve ordinary-passport waivers or ET/SD arrival arrangements.
+- ET/KE/SD/UG and HK/MO/PS/TW/XK remain unresolved for their previously identified specific exceptions/document cases. Generic Washington non-national default does not reconcile these.
+- Exact baseline partition: 0 additions; 9 unresolved. Lists in this review are exhaustive.
+- Taiwan BOCA visa section gives only Japanese mission contact details, not a Taiwanese visa rule or document-acceptance decision; Japanese mission TLS failed. Macao/HK concession sources give no positive Eritrea result.
+- Kenya 2023 announcement of agreed abolition still lacks operative ordinary-passport implementation. Uganda immigration describes entry into Uganda and is not reversed to establish UG-to-ER reciprocity. ET/KE/SD/UG exceptions and HK/MO/PS/TW/XK accepted-document/issuance rules remain unproved.
+- Screened all 675 bilateral records across 17 pages of Kenya MFA public treaty register. Record 520 identifies a visa-abolition agreement signed 24 March 1997 and labels it Ratified, but has no treaty file, passport-class terms, entry-into-force date or ratification date.
+- This new lead does not prove the scope or present implementation of the 2023 abolition announcement. ET/SD/UG regimes and HK/MO/PS/TW/XK ordinary documents remain unresolved; state-news searches do not establish them.
+- Pass-six consistency adjudication: Washington's non-Eritrean default is affirmative, with original Eritrean-ID exception. HK/MO/PS/TW/XK can receive duty-only records. ET/SD's reported arrival arrangements concern method, so the common duty can be retained without endorsing those arrangements. KE/UG waiver leads remain held.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
+- The source displays an update of 19 April 2025; the original Eritrean-ID exception is retained and KE/UG waiver leads remain unresolved.
 
 ### Georgia (GE)
 
@@ -1482,6 +1525,7 @@ Unresolved origins (2): XK, PS.
 - XK/PS accepted ordinary documents remain unestablished. Taiwan BOCA describes only exceptional conference/sports invitations and inability to select Taiwan electronically; an ordinary-tourism admission prohibition or permitted tourist pathway is not conclusively established.
 - Fresh Taiwan BOCA supports a qualified entry-permission requirement, while reporting only exceptional conference/sports permission and no routine eVisa nationality option. This does not establish ordinary tourist availability.
 - XK/PS still lack a specific accepted ordinary-document or permission determination; broad Georgian visa law does not independently settle that.
+- BothXK/PS retained. Inspected current live Matsne publication of the law on aliens: entry requires a valid travel document and permission, and exceptional undocumented entry depends on MIA authorisation. No retrieved nationality-specific ordinary-document decision establishes a tourist path for these passports. Origin consular search/directory material adds none.
 
 ### Guatemala (GT)
 
@@ -1494,6 +1538,28 @@ Unresolved origins (2): MO, SS.
 - Macao and South Sudan absent from the charts; no inference from China/Hong Kong or Sudan. Current MINEX remains 403. Charts also differ from the prior CA-4 source for some already-supported methods; absent a dated controlling amendment, no correction is asserted.
 - Fresh statutory/table locators and MINEX request returned404/403. Current Macao origin concessions still provide no Guatemala entry.
 - MO and SS remain absent from the previously inspected A/B/C schedules; mainland China/Hong Kong and Sudan are not valid substitutes. Current ordinary-passport classification requires an explicit amendment/default or nationality-specific evidence.
+- Recovered current-linked 2025 Visa Regulations, Articles 5 and 9: a visa is required where applicable, with A/B/C classifications. This is not an all-unlisted-nationalities default and gives no MO/SS assignment. Migration Code likewise delegates nationality determinations. The separately linked tariff compilation does not resolve nationality and was excluded.
+- MO is not mainland China or Hong Kong; SS is not Sudan. Both remain pending a specific classification/amendment or origin-nationality rule.
+
+### Iraq (IQ)
+
+Unresolved origins (2): IR, LB.
+
+- Second pass replaces the two-nationality sampling with the express multi-nationality Houston consular notice: 37 mapped ordinary-passport origins require advance federal eVisa. Its US salutation does not limit the body’s explicit list; no advice is generalised beyond that list.
+- German ordinary-passport rule independently confirmed by Berlin. Turkish ordinary passport has age-conditioned 30-day exemption under 15/over 50; ages 15–50 require a visa. Ankara’s investor/business/worker instructions were not applied to tourists.
+- Other origins remain unresolved: Manila has generic eVisa announcement but no nationality entitlement schedule; current central checker returned an empty country list. Federal versus KRI and air versus land entry remain material.
+- Washington visa-types page cites 1987 law and 2009–2013 letters: one-month tourist stay/three-month entry window is a distinct historical product, not proof of the duration of the current eVisa. No 30/60/90-day current eVisa stay is guessed.
+- Added Serbian ordinary federal visa requirement from Serbia MFA. Regional KRI host/guarantor and eVisa material cannot establish country-wide federal entitlement.
+- Re-fetched Houston notice: positive 37-nationality list only; no explicit residual nationality rule. Islamabad/Tehran/Riyadh/MFA alternatives did not provide a current exhaustive ordinary-passport schedule. Old 1987-law/2011 product descriptions are not evidence of the stay for current electronic visas.
+- 159 residual origins still need federal exemption/application evidence; IR air-versus-land agreement scope and IL/XK/SAR/PS/TW document treatment are especially unresolved. KRI public eligibility page alone is region-specific.
+- Exact baseline partition: 1 additions; 159 unresolved. Lists in this review are exhaustive.
+- Recovered official Gazette translation of Law 76/2017 via the Ministry of Justice public read-only translated-law search. Article 3 supplies an express visa default; Article 1 exceptions were inspected. Current London mission operational instructions and the KRI source were reconciled. 147 additions establish only the federal requirement; AE, MD and MO have narrower electronic-method evidence.
+- All 159 assigned origins were checked against the statute, existing 37-country/age policies, current mission material and secondary exception locators. BD, HK, IL, IR, LB, MY, PS, TW and XK are withheld: BD has an unverified admission/issuance restriction lead; IR/LB/MY have waiver leads requiring current scope/commencement; remaining five require accepted-document/recognition evidence.
+- The 2021 translation is of the 2017 law, not a new policy. Native Ministry search includes 2026 labour instructions but no identified replacement tourist nationality schedule. The generic Washington copy still cites old 1987-era rules and is not used. Federal visa and KRI permit are never interchangeable.
+- TW duty and federal/KRI distinction confirmed by BOCA. Malaysian mission notice grants Visit visas at air/land points, not visa freedom; duty is recorded with operational channel uncertainty.
+- Lebanese embassy 7 March 2022 notice expressly rejects an all-Lebanese six-month concession: it covers businesspeople/investors only. IR/LB present exemptions, BD restrictions and HK/IL/PS/XK accepted tourist documents remain unresolved. Kuala Lumpur generic visa page still cites repealed 1987 law and is rejected as current product authority.
+- Pass-six consistency adjudication: Law 76/2017 applies to non-Iraqi natural persons and separately requires an accepted document and visa. Continued application is evidenced in the 2026 gazette. BD/HK/IL/PS/XK can receive federal-duty-only records; IR/LB waiver leads remain held. No KRI-only permission is treated as federal access.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
 
 ### Kazakhstan (KZ)
 
@@ -1503,6 +1569,8 @@ Unresolved origins (2): XK, PS.
 - Historical inbound ordinary column recovered for five origins; never relabelled current. Qatar 30 and Dominican Republic 60 tourist-only are recorded exactly as that 2024 snapshot, with no invented rolling limits. Current ministry/API attempts, Adilet and egov failed or supplied only unrelated shells. XK PS TW are omitted and recognition cannot be inferred.
 - Taiwan BOCA explicitly establishes tourist eVisa, ministry-approved invitation number, Almaty/Astana airport scope and 30-day stay. Event-only arrival visas are not general tourism alternatives.
 - PS/XK remain unresolved: no current ordinary-document authority decision obtained; Ramallah ministry path timed out and legacy MFA failed hostname validation. No inference from omitted nationalities or diplomatic recognition.
+- All2 held: PS/XK ordinary-document/visa handling not established. Newly attempted current government mission/article pages are identical JavaScript shells; Palestinian MFA fails TLS and alternate embassy host fails DNS.
+- No missing eVisa option, state recognition or generic invitation procedure is treated as an ordinary-passport visa determination.
 
 ### Mauritius (MU)
 
@@ -1515,6 +1583,8 @@ Unresolved origins (2): ME, XK.
 - Both remain unresolved: obsolete Yugoslavia (Serbia & Montenegro) row does not identify modern ME; Kosovo diplomatic exclusion does not supply ordinary passport eligibility. Alternative mission/origin pages failed or provided no usable inbound rule.
 - Both ME/XK remain: government country schedule still uses obsolete Serbia-and-Montenegro wording and lacks a clear modern ordinary Kosovo decision. Re-fetched Montenegro page is MU-to-ME and cannot be reversed.
 - New Brussels/Paris/Attorney-General alternatives supplied404/DNS failures; generic visa procedure is not passport-specific acceptance.
+- ME/XK remain. Recovered Immigration Act 2022 section20 gives admission/entry-permit powers; its Passports Act amendment reserves prior-visa requirements to regulations and does not specify either nationality.
+- The law therefore does not reconcile the obsolete Serbia–Montenegro table row or Kosovo ordinary-document treatment. New mission/origin/legislation navigation provides no modern named determination.
 
 ### Moldova (MD)
 
@@ -1526,6 +1596,7 @@ Unresolved origins (2): XK, TW.
 - XK remains unresolved: newly located consolidated law returned 403, alternative Border Police path 404, and current ministry nationality schedule has no explicit Kosovo document row. Omission or nonrecognition of statehood is not an entry ban.
 - Taiwan BOCA actual instructions reread: obtaining Moldova visas is difficult; requires a passport recognized by Moldova and an immigration invitation. It does not clearly establish accepted ordinary Taiwan-document handling.
 - TW/XK retained unresolved rather than calling the generic process tourist eligibility or assuming state recognition determines passport treatment. No routine eVisa or ban inferred.
+- TW/XK remain held. Newly recovered Border Police entry rules require a travel document recognized or accepted by Moldova and a visa where applicable, but identify neither residual ordinary document. Legislation endpoint remains403. No general application procedure is converted into document acceptance.
 
 ### Mongolia (MN)
 
@@ -1537,16 +1608,24 @@ Unresolved origins (2): CU, XK.
 - Re-inspected current MFA treaty table: Cuba only in diplomatic/official section, contrary to the eVisa portal waiver listing. Havana mission alternatives 404, Cuban mission TLS failure. CU remains conflicted; XK recognition remains unestablished.
 - CU/XK both retained. Current ministry inbound treaty table continues to place Cuba in diplomatic/official category; general eVisa waiver conflict remains. The new immigration eVisa-list page did not establish a superseding ordinary Cuban waiver. Havana mission404; guessed c/80 was an Australian working-holiday notice and explicitly rejected.
 - XK ordinary-document recognition/tourist issuance remains unsupported by an actual nationality rule. Neither generic online application nor reciprocity is sufficient.
+- Both retained. New Mongolian Legalinfo public title/body searches for Cuba returned trade/investment ratification and unrelated substring matches, not operative visa terms. No treaty text reconciles the ministry diplomatic/official-only table with eVisa-portal waiver wording for ordinary Cuban passports. The reciprocal direction is not inferred from Mongolian outbound travel advice. XK accepted-document treatment remains unproved.
 
-### Myanmar (MM)
+### Morocco (MA)
 
-Unresolved origins (2): XK, PS.
+Unresolved origins (2): XK, TL.
 
-- Current bilateral table adds ordinary MY14 and BY/RU30 beyond the old eVisa waiver notice. Tourist eVisa28 is not90-day stay. JP/KR/MO VOA30 is separately evidenced; CN/IN/HK old temporary VOA notices expired, so eVisa remains the supported candidate method without claiming VOA unavailable.
-- XK, PS: General visa rule does not settle special passport recognition or tourist application procedure; no admission-refused inference.
-- Fresh primary ministry visa pages and region-wise embassy directory read, plus Belgrade tourist requirements. Cairo/Bangkok/Berlin/London channels returned errors or provided only generic process.
-- Neither Kosovo nor Palestinian ordinary document recognition and tourist issuance was specifically established. No entry-ban inference, and no application-country dropdown counted as eligibility.
-- Fresh central ministry page remains an index of mission visa procedures. Prior Cairo/Bangkok/Berlin/London/Belgrade findings reread. No positive ordinary Kosovo/Palestinian document determination or applicable default reconciled with recognition. Both remain unresolved.
+- Mali/Congo-Brazzaville/Guinea AEVM conditions retained; CN not conflated with SARs, and Hong Kong/Maldives 30 days distinguished.
+- French-language list resolves New Zealand mistranslation and additionally explicitly lists Dominican Republic for 60 days. Other unlisted origins need explicit required/default and nationality-only eVisa eligibility evidence. Accès Maroc returned template expressions without working checker content.
+- Baseline gaps 123; current-supported additions 119; historical-only additions 0; remaining without policy 4.
+- Recovered the official public checker from the currently loaded JavaScript, public runtime configuration, nationality/passport/purpose/residence/supporting-visa references, result template and English translations. Read-only POST is the same unauthenticated eligibility operation invoked on the landing page; no account, CAPTCHA, application, email, payment or personal-document submission was used.
+- 120 assigned nationalities were mapped by explicit country names/codes and checked with POR ordinary passport, OR.1 tourism, residence in the passport country, AUCUN supporting visa, no event, and synthetic adult DOB 1990-01-01. Every payload, response, UTC timestamp and hash is retained. Nationality-dropdown membership alone is never counted as eligibility.
+- 119 supported additions: five checker-confirmed exemptions (AL CV EC GH KZ), ten nationality-only eVisas with 30-day stay (BJ BN KH GT IN IL JO LA TH VN), and 104 explicitly visa-required results with precise issuance channel left uncertain. Source terms distinguish 180-day eVisa validity from 30-day stay and require minors to travel with a parent/legal representative.
+- AZ remains unresolved because the live checker says exonerer while the currently linked undated eVisa conditions still expressly call Azerbaijan visa-required/eVisa eligible. The conflicting sources are not reconciled by majority vote or an assumed update date. XK/TW/TL are absent from the actual selectable nationality records and are not inferred to be admitted, exempt or banned.
+- Other residence/age profiles are not silently asserted from the recorded adult home-residence scenario. Risk flags for IR IQ LB LY PS SY YE are retained in notes without changing them into admission bans. Conditional foreign-residence/visa eVisa pathways remain possible; vr does not mean electronic issuance is unavailable.
+- Taiwan BOCA newly resolves TW with actual separate-paper VCL handling and express tourism/business reopening on21 September2026. Ordinary entry stamp, commonly14/15 days, determines stay; permission is not recast as routine electronic issuance.
+- AZ live-checker exemption versus linked visa-required terms remains unreconciled; fresh Azerbaijani MFA/mission locators404. XK/TL absent from the actual existing portal nationality records; no synthetic substitute codes or omission-based entry bans.
+- Resolved AZ conflict using the actual Rabat embassy ordinary-passport commencement announcement: reciprocal 90-day waiver effective 28 August 2024. The 180-day passport-validity sentence is attached to Moroccan travel to Azerbaijan and is not independently generalized to the reverse route. The notice provides the operative temporal evidence missing from the live-checker versus undated eVisa-terms conflict.
+- XK/TL remain absent from the real prior portal records; no recognized ordinary document or governing requirement/exemption obtained. No invented checker values or nationality-wide entry ban.
 
 ### Namibia (NA)
 
@@ -1560,6 +1639,8 @@ Unresolved origins (2): XK, PS.
 - XK/PS/TW remain unresolved: special-document acceptance/recognition and nationality-specific process not established by a generic schedule.
 - Taiwan BOCA expressly confirms online Holiday Visa for its passport holders and officer-final stay, resolving TW without a guessed number of days.
 - Current Berlin mission entry/visa pages supply general processing and named arrival lists but no PS/XK ordinary-document decision. Both remain unresolved; Taiwan evidence is not broadened.
+- Both PS/XK retained. Parliament’s Act index expressly points to LAC for current annotated statutes; the retrieved law defines passports by recognition and authorises ministerial exceptions. It does not establish these two ordinary documents or special-authorisation implementations.
+- The MHAISS source failed normal TLS verification and another mission locator returned a shell. No recognition inferred from diplomatic relations and no new categorical visa record created.
 
 ### Philippines (PH)
 
@@ -1572,6 +1653,8 @@ Unresolved origins (2): ME, SS.
 - ME/SS: no individually named current incoming entry rule obtained. Montenegro page describes Filipinos entering Montenegro, so not reversed; Budapest/Nairobi Philippine mission retrievals returned 403. No inference from missing names on the 157-country chart.
 - Both ME and SS remain unresolved. Recovered Washington embassy’s actual publicly linked Google-sheet checker and inspected its consumer JavaScript: 199 rows, neither Montenegro nor South Sudan present. No matching countries found is not a visa decision; Sudan and Serbia cannot be substituted.
 - The sheet still says Taiwan visa required despite the more specific baseline MECO waiver, further preventing an assumption of a complete current exception schedule. The general visa-default sentence does not cure the missing current national treatment. Montenegro’s page is the opposite direction; Philippine mission/gazette alternatives were access-blocked.
+- BothME/SS remain absent from the inspected substantive New York nationality table and previous Washington157/199-row material. New Budapest/Nairobi paths403; Montenegro result is opposite-direction inbound policy, not outbound permission.
+- No Serbia-to-Montenegro or Sudan-to-South-Sudan substitution. Current nationality or operative exhaustive amendment still required.
 
 ### Qatar (QA)
 
@@ -1585,6 +1668,7 @@ Unresolved origins (2): IL, XK.
 - Hayya retrieval exposes a nationality question and generic GCC text, not a completed result for these seven. Existing Visit Qatar selector omissions are not interpreted as refusal, automatic eVisa entitlement or exemption. All seven remain unresolved.
 - Five expressly named nationalities in the substantive Tourist Visas list support a Hayya electronic tourism route. This is not a nationality-dropdown inference, a universal mandatory-visa claim, or an invented stay. The wizard itself omits all seven assigned origins and supplies no usable result for them.
 - IL/XK are absent from both the useful named tourist list and the wizard. Generic all-countries marketing does not settle their accepted ordinary documents or tourist issuance. Both remain unresolved.
+- Israel origin-government request denied; new Kosovo/Qatar mission locator failed and Qatar service locator returned 404. Kosovo consular department page has administrative responsibilities, not outbound visa decisions. Existing all-country Hayya wording/selector omissions remain insufficient for IL/XK ordinary-document treatment.
 
 ### Russia (RU)
 
@@ -1596,6 +1680,7 @@ Unresolved origins (2): XK, UA.
 - Kosovo is absent from nationality table; non-recognition is not automatically an entry ban. General MFA 90-days/calendar-year notice is not enough to establish an accepted XK ordinary document.
 - The already-inspected Russian nationality table establishes UA waiver, but the newer special routing/age regime still needs usable governing text and implementation. Current public Russian country page is under update.
 - Fresh legal publication and border-authority endpoints timed out; FCDO/Canadian material did not establish the Ukrainian-specific permitted-port/age branches. Kosovo’s accepted ordinary document is unproved. Neither origin is labelled as a nationwide admission ban.
+- Both held: new legal-publication request timed out and mission alternatives returned no operative rule. UA current third-country port/age/routing implementation and XK accepted ordinary documents are not established.
 
 ### Rwanda (RW)
 
@@ -1609,6 +1694,8 @@ Unresolved origins (2): XK, PS.
 - MO/PS/TW/XK remain unresolved: all-country wording alone does not settle these specific accepted-document cases.
 - MO resolved with DSI ordinary-SAR-specific arrival30 at Kigali/all land ports and separate electronic alternative; TW resolved with BOCA electronic/arrival30. Product-specific stay wording retained.
 - PS/XK retained: fresh visitor-visa page gives general process but no passport-specific recognition/issuance determination. Universal all-country wording alone does not settle these documents.
+- Both retained after recovering the live DGIE-linked2018 immigration law and2019 implementing order. Law articles3–4 define recognised travel documents and entry conditions; order articles41–42 cover international-organisation document recognition and sharing national specimens. No inspected provision specifically settles PS/XK documents. General all-country arrival wording is not substituted for that missing proof.
+- The linked file named ministerial_order_11_11_2022_2 is an occupational-demand annex, not a tourist-visa amendment. It is not used to alter entry rules.
 
 ### Saint Lucia (LC)
 
@@ -1622,6 +1709,8 @@ Unresolved origins (2): SS, VA.
 - Schedules 2, 3 and 4 and exemption clause inspected. SS and VA remain absent. No residual visa default was established; one-day cruise exception is not generalized into ordinary tourist visa freedom.
 - Current consolidated Immigration(Visa)Order section3 was retrieved and read: visa requirement is tied to Schedule1, arrival/prior branches to Schedules2/3; not an explicit all-foreign-national default.
 - SS/VA absent from prior inspected schedules; new mission locator failed DNS. Need a current schedule/amendment or origin-specific rule. No omission-based exemption/requirement.
+- Both SS/VA remain. Newly navigated London High Commission links a 2024-uploaded visa PDF whose actual inbound rows omit South Sudan and Vatican; Sudan is not substituted and the upload year is not treated as an amendment date.
+- The 2023 statutory Schedule 1 and prior exception schedules do not name these cases. Generic tourist-visa availability and list omission do not establish a complete current exemption/default for them.
 
 ### Solomon Islands (SB)
 
@@ -1634,17 +1723,8 @@ Unresolved origins (2): ME, MO.
 - Current July 2026 short-term delivery policy reaffirms electronic processing and repeal of concessional arrival visas. It gives universal procedure wording, not an accepted nationality decision for missing ME/MO. Macao DSI has no Solomon Islands row; no mapping to China or Serbia. Montenegro official-origin alternatives returned 404. Both remain unresolved.
 - Both ME/MO remain. Fresh immigration visa page confirms short-term electronic processing, and an operational notice reports service disruption, but neither provides these missing ordinary-nationality decisions. An eVisa application route is not a visa requirement or passport-acceptance proof.
 - Montenegro’s Solomon page concerns Solomon nationals entering Montenegro and cannot be reversed. DSI has no positive Solomon concession row. No mapping to Serbia or mainland China.
-
-### South Africa (ZA)
-
-Unresolved origins (2): XK, PS.
-
-- Only the Ordinary column was used. Annual allowances preserved for Ghana, Kenya, Madagascar, Namibia, Seychelles, Tanzania and Zambia; Angola has an additional 30-day per-visit cap.
-- XK, PS and TW are unresolved document-recognition/channel cases; generic default is not treated as proof of an accepted travel document.
-- Generic visa-required entries establish the requirement, not that eVisa/ETA application channels are unavailable.
-- Taiwan BOCA gives an explicit Taiwan-passport in-person visa application and collection channel at the South African liaison office, resolving TW with unspecified stay. Its current entry section includes a July2026 customs update; the old direct liaison website has a hostname-certificate failure and was not bypassed.
-- New Ramallah DIRCO path redirected to generic consular services; Palestinian MFA attempt failed TLS. Neither supplies a Palestine ordinary-passport issuance rule. XK also remains a recognition/channel case; general visa obligation is not used as proof of accepted documents.
-- PS and XK remain document-scope gaps. New Ramallah mission root, DIRCO representation directory and visa paths returned404 or generic material; none establishes ordinary tourist documents. No recognition inference from diplomatic relations or visa exemption-list omission.
+- ME/MO remain. Newly recovered Attorney-General authorised Immigration Act2012 reprint is expressly as in force5 February2024. Section10 imposes a non-exempt visa duty, but section11(1)(d/e) preserves prescribed/Gazette exemptions and section6 requires an accepted passport/travel document. The missing current nationality/exemption/document branches are not settled by that default alone.
+- The earlier2025/2026 electronic-processing and reciprocal policies were reviewed against this law. They do not supply an exhaustive ordinary exemption roster or the missing checker decisions for modern Montenegro/Macao. No Serbia/China substitution or blanket eVisa eligibility is added.
 
 ### Taiwan (TW)
 
@@ -1661,31 +1741,8 @@ Unresolved origins (2): KP, PS.
 - Current official consolidated cross-strait Act articles 2(4), 3, 10 and 16 establishes the Mainland-Area permission requirement. CN added at requirement-only level with tourist issuance, residence/group branches, channel and stay explicitly unverified; it does not certify tourism access.
 - Fresh NIA English application index is mainly ROC national/residence and SAR guidance; guessed mainland URLs resolve to unrelated ROC residence pages and are rejected. Public overseas-PRC application portal is a shell, not eligibility proof.
 - KP sports-event eVisa exception does not establish ordinary tourism. PS document acceptance remains unproved. Fresh designated-country visitor procedure does not resolve either passport. Both remain unresolved.
-
-### Thailand (TH)
-
-Unresolved origins (2): XK, PS.
-
-- The older 93-nationality/60-day scheme is superseded by the retrieved 15 September 2026 schedule. Preserve 90-day bilateral rules and MM airport restriction. VOA stay is deliberately d=0 rather than copying an old 15-day number.
-- Second-pass corroboration southeast-asia-p2-th-chart: London’s actual MFA-hosted chart independently confirms all current incoming nationality groups and15 September2026 effective date. The reverse-direction yellow columns were excluded; no VOA stay invented.
-- XK, PS: General visa obligation established, but special passport recognition/competent-mission procedure was not conclusively established; not treated as admission refused.
-- Both XK and PS researched through Ankara/Amman/Tel Aviv/Cairo/New Delhi visa-service routes and the public Thai eVisa FAQ. Retrieved pages were generic navigation/service shells, and did not substantiate accepted ordinary documents and a nationality-specific competent-mission tourist pathway.
-- The baseline visa obligation is not converted into a standard eVisa or admission ban without resolving the special-document handling. Both remain unresolved.
-- New Kosovo MFA article dated16 July2024 announces visa-free travel, but the freshly read Thai official ordinary-passport chart effective15 September2026 omits Kosovo from both exemption and arrival lists. The older announcement is not promoted to a current waiver.
-- XK remains a current-policy conflict needing reconciliation; PS remains without accepted ordinary-document and competent-mission issuance evidence. New Hague/Vienna locators are404/soft404; London is generic. Neither country receives a claimed ban or routine eVisa entitlement.
-
-### Vietnam (VN)
-
-Unresolved origins (2): XK, TL.
-
-- Official workbook resolves nationality and passport-column traps: BY30 with calendar-year cap; KZ30 with rolling cap; ID30 ordinary rather than diplomatic14; two distinct 45-day regimes with different expiry dates. Electronic visa is up to90, not visa on arrival.
-- XK: Worldwide eVisa wording retrieved, but Kosovo document recognition/selector acceptance not checked because current portal was inaccessible.
-- TL: September 2025 official workbook excludes ordinary passports; June 2026 ordinary-passport agreement was located secondarily but its entry into force was not established. eVisa is a documented fallback, but primary waiver status remains unresolved.
-- Timor-Leste government directly confirms ordinary-passport waiver signed 9 June 2026; Cabinet on 2 September 2026 approved a draft parliamentary resolution. Neither record establishes commencement by the check date.
-- TL remains unresolved for waiver-versus-eVisa classification; a known electronic fallback does not establish the primary waiver rule. XK document acceptance remains unverified; worldwide eVisa wording alone does not settle it.
-- Exact baseline partition: 0 additions; 2 unresolved. Lists in this review are exhaustive.
-- Fresh Timor-Leste government search and actual bilateral/cabinet articles inspected. Signature on 9 June 2026 and draft parliamentary resolution approval on 2 September 2026 still do not prove entry into force. No newer implementation notice appeared in the returned current search.
-- TL remains unresolved for operative ordinary waiver terms and commencement, not an automatic ASEAN exemption. XK remains unresolved for recognised ordinary documents; new Dili mission procedure path returned 404. No default eVisa eligibility inferred.
+- Recovered governing foreign-passport visa statute: Article 6 visa default, Article 3 recognized/accepted-document definition, and Article 12(7) non-recognition refusal ground. It does not identify acceptance of either residual ordinary document.
+- KP sports-event eVisa scope is not generalized to tourism; PS accepted ordinary passport remains unproved. Earlier guessed law URL is the ROC Passport Act and is explicitly rejected for foreign entry.
 
 ### Andorra (AD)
 
@@ -1700,18 +1757,8 @@ Unresolved origins (1): SO.
 - Exact baseline partition: 0 additions; 1 unresolved. Lists in this review are exhaustive.
 - Andorran local visa exemption does not settle lawful Schengen access/re-entry for a Somali ordinary passport. The fresh foreign-ministry route redirected to general ministry information.
 - SO remains unresolved for the actual accepted document, territorial scope and round-trip Schengen permission. It is not a nationality-wide entry prohibition.
-
-### Bahrain (BH)
-
-Unresolved origins (1): XK.
-
-- Second pass inspected current NPRA processing instructions, old linked conditions pages (404), Tourism Authority page (under development), Bahrain MFA (transport failure), and NPRA visa-service pages (request rejected). CAPTCHA was not bypassed.
-- Six more nationality-specific routes supported: TR advance 30-day eVisa; IN advance eVisa with conditional arrival route excluded; AU arrival/eVisa; CA online tourist visa; RS eVisa/consular option; HK arrival 14 days with eVisa duration separately unknown.
-- For all remaining listed origins, the long NPRA country list is conditional and does not establish a baseline visa product without third-country status. Eligibility result, sponsorship conditions and product-specific duration remain unavailable.
-- GB/HK alternative stays have been separated with d=0 and explicit stay text. Visa validity and multi-entry product length are not converted into continuous stay.
-- Fresh singular /visa-services/ NPRA paths worked and expose actual G212 conditions, unlike earlier failed plural /visas-services/ paths. Named online roster plus these conditions supports 182 additions including the separate Macao method/product result. IR KP XK are absent from the eligibility schedule; the generic requirement is known but nationality-specific issuance/recognition remains unresolved. No CAPTCHA solving or protected eligibility invocation.
-- Fresh national portal explicitly establishes visa duty for IR/KP under its all-nationalities-except-five-GCC clause. Product/issuance uncertainty is retained at requirement-only level; no electronic/arrival entitlement or ban asserted.
-- XK remains unestablished for accepted ordinary document and nationality-specific permission. eVisa FAQ yielded Request Rejected; no challenge bypass or checker submission.
+- SO remains held: newly retrieved Andorran Schengen FAQ describes lawful-status and rolling-period requirements, not a Somali accepted-document/re-entry entitlement.
+- Local no-visa rule, Schengen visa duty, single-entry restriction and ordinary-document recognition must be represented separately. No routine round-trip tourist route, substitute document or nationality-wide ban inferred.
 
 ### Belarus (BY)
 
@@ -1721,19 +1768,18 @@ Unresolved origins (1): XK.
 - BOCA expressly establishes Taiwan document acceptance and two genuine methods. Belarus MFA freshly confirms two-business-day invitation submission, stamped DAF receipt for carrier, and no airport issuance from Russia.
 - Kosovo document recognition/ordinary tourist application route remains unproven; generic foreigner requirements do not prove entry prohibition.
 - XK retained. Fresh general MFA visa page and attempted recognition/legal path do not establish ordinary Kosovo passport acceptance or exceptional tourist issuance. General visa procedures are insufficient; no nationality-wide prohibition inferred.
+- Belgrade mission request and MFA material failed transport. New Kosovo consular department supplies no actual Belarus ordinary-document or substitute-document decision. Neither diplomatic non-recognition nor a generic visa procedure establishes a ban or routine tourist issuance.
 
-### Bosnia and Herzegovina (BA)
+### Belize (BZ)
 
-Unresolved origins (1): PS.
+Unresolved origins (1): NR.
 
-- Base visa decision and publicly visible Gazette amendments through 37/26 inspected without paid access. 73/17 changes the ordinary Article 2 limit to rolling 90/180 and adds 18 countries. BH/OM/SA seasonal waiver ended 30 September 2026. The 47/17 amendment and substantive Moldova agreement were not retrieved; absent routes are not inferred from the older list. China is separately supported by its origin-government agreement table.
-- China MFA current agreement table confirms CN ordinary-passport waiver effective 29 May 2018, without establishing the treaty duration. Moldova Gazette page exposes ratification but not substantive treaty text; no duration/document assumptions made.
-- Moldova MFA's current ordinary-passport schedule explicitly states Bosnia visa-free up to90 days, resolving the previously missing Moldova treaty outcome. Mongolia MFA's express outbound residual rule establishes MN visa requirement only, with method/duration uncertainty.
-- Pursued the official gazette issue index rather than repeating only search URLs. The anonymous year selector leads to the actual issue47/17 (27 June2017), but its public page says language text is missing and exposes unrelated acts rather than the visa amendment. Registration/subscription offers were not used. This does not establish the amendment's content.
-- Fresh Brussels mission schedule has an explicit residual rule but still places China/Singapore and other now-exempt passports in obsolete categories, alongside 2012 rulebooks. Rejected as a current exhaustive schedule. Current Washington mission confirms the general residual rule and US/Schengen/EU-document conditions but delegates the nationality list to the inaccessible MFA. All other baseline gaps remain unresolved pending current list or complete amendment chain.
-- Recovered published official Gazette47/17 PDF through its public download link: act654, pp3–4 adds only the Saudi supporting-document exception to Article17. Prior HTML issue-page warnings were hidden; public PDF was available without authentication.
-- Reconciled full Decision3/15 amendment chain:73/17 replaces Article17 and adds18 nationality exemptions;40/20 suspension powers;50/23,7/24,34/25,37/26 summer treatment. Current Washington default and Foreigners Service continued law link support93 ordinary visa-required additions. Known China/Moldova waivers already supported and excluded from this residual set.
-- PS remains a specific ordinary-document case; general statutory default is not used to invent recognized Palestinian document handling. No expired summer waiver is applied.
+- Slovakia 30 days and Slovenia 1 month verified separately by their foreign ministries. Nauru YES-NO ambiguity and SS/TL omissions persist; the London High Commission links back to the same incomplete table.
+- NR ambiguous YES-NO row and SS/TL omissions remain. New Belize law hosts returned DNS failure or unrelated HTML shells, National Assembly index and MFA visa locator did not supply an operative nationality amendment. No visa requirement inferred from omission.
+- All three remain: NR is literally YES - NO in the government table; SS/TL lack named rows and a usable residual default. The current London mission points back to that nationality table and supplies procedure, not new nationality decisions.
+- New AG/legislation locators returned application shells, unrelated HTML or DNS failures; a purported PDF was actually the AG website HTML. No operative amending nationality schedule was recovered. Foreign-visa/residence exemptions are not assumed.
+- SS/TL added from recovered official 2020 regulations plus present schedule and 2021–2026 amendment review; absence alone was not the default. Foreign-document and itinerary exemptions are explicitly conditional.
+- NR remains unresolved: positive Commonwealth exemption in regulation 14(1)(a) versus named operational YES - NO ambiguity needs a current nationality determination. The July 2026 Pakistan/Haiti waivers are for official passport classes and cause no ordinary-passport corrections.
 
 ### Brunei (BN)
 
@@ -1748,18 +1794,7 @@ Unresolved origins (1): IL.
 - Israel remains unresolved: the revised law's missing exemption row does not itself establish accepted Israeli passport/special-entry permission. The fresh Immigration visa page gives generic application forms but no Israel-specific tourist pathway.
 - IL remains unresolved after new London/Kuala Lumpur mission and Immigration FAQ locators404 and Israeli-government origin endpoint403.
 - Prior current Passports Act exemption order does not establish Israeli document acceptance/special-entry approval. No missing-row entry ban or automatic tourist issuance inferred.
-
-### China (CN)
-
-Unresolved origins (1): XK.
-
-- Added NIA’s inbound treaty-specific duration table: AL/BA/AM90-in180, MU60, SM three months, BY30/90-per-year, and bilateral30/90-in180 groups. Uzbekistan agreement separately verified. First-pass unilateral expiry dates retained.
-- NIA August2026 regional policy lists61 Hainan nationalities, not the older59. Hainan-only30-day and cruise-group15-day alternatives are explicitly scoped; no country-wide waiver inferred.
-- Statutory Article15 default used only after reconciling known exemption groups; independent visa duration remains unspecified. HK/MO permits and Taiwan’s100-port single-entry permit option documented.
-- AZ resolved with the bilateral30/90-in180 notice; CU resolved by March2026 Havana guide: fee exemption, not ordinary-passport visa exemption. Only XK/PS ordinary document recognition remains unresolved.
-- PS resolved through source-language Representative Office instructions plus an explicit Palestinian-passport visa-fee table, combined with the baseline statutory requirement. Online application followed by original-passport submission is vr, not ev.
-- XK remains unresolved: attempted Serbian mission consular route redirects to homepage and supplies no Kosovo ordinary-passport or substitute-document determination. No non-recognition-based blanket ban.
-- XK retained. Fresh China central/Belgrade mission and Kosovo consular ministry research produced generic pages, diplomatic information or no actual Kosovo-document tourist rule. Diplomatic non-recognition is not an entry prohibition; no accepted substitute-document path established.
+- IL retained. The current MFA nationality directory was inspected at HTML level: no named Israel entry, and the orphan passport-category block follows a commented Pakistan heading. It cannot be attributed to Israel. No ordinary Israeli-document acceptance, entry prohibition or special approval is inferred from omission.
 
 ### Czech Republic (CZ)
 
@@ -1777,6 +1812,7 @@ Unresolved origins (1): NR.
 - Russia/Belarus visa-service exceptions do not settle tourist entry through internal versus external Schengen borders. Somali travel-document non-recognition and limited-territorial/separate-sheet legal mechanisms do not establish a currently available ordinary-tourist route. New English Somalia measure and mission restrictions inspected; four remain unresolved.
 - BY/RU visa requirements recorded with proven application/document restrictions, without certifying ordinary tourist issuance or an itinerary. SO recorded as a visa requirement with explicit ordinary-document non-recognition; exceptional tourist document/issuance remains unproved, not a routine pathway.
 - NR remains: current Czech visa-free table conflicts with EU agreement-activation qualification. New EU legal endpoint returned empty202; no commencement evidence recovered.
+- NR remains a genuine conflict: Czech MFA names Nauru visa-free, while prior current EU AnnexII attaches agreement activation. Treaty lookup denied access; the new Article6 workbook concerns special passport/other exceptions, not proof of an ordinary waiver’s commencement.
 
 ### Dominican Republic (DO)
 
@@ -1786,6 +1822,7 @@ Unresolved origins (1): XK.
 - Second pass: public checker mapping re-inspected; Kosovo still has no option. No country-ID substitution attempted.
 - Fresh destination Ministry and Kosovo-origin Ministry searches/consular alternatives did not yield an ordinary-passport entry determination. Existing public MIREX checker has no Kosovo option. Diplomatic relations or a generic third-country visa concession do not independently prove ordinary-document acceptance.
 - XK remains: new Kosovo overseas-portal and Dominican Madrid mission visa locators returned404. Existing checker has no Kosovo option. No invented country ID or default, and diplomatic relations do not certify accepted ordinary passports.
+- XK remains held. New MIREX passport/visa searches and legal-base page yield no ordinary Kosovo passport determination or governing exemption. No omitted-selector default, diplomatic-recognition inference, or assumed third-country-document concession.
 
 ### Ghana (GH)
 
@@ -1799,6 +1836,7 @@ Unresolved origins (1): XK.
 - The prior generic eVisa API fallback is still not passport recognition evidence; nationality selector omission is not a ban. XK remains unresolved with no proposed policy.
 - Fresh Kosovo ministry root/search and Ghana London visa locator were checked; no specific Ghana tourist rule for Kosovo ordinary documents was established.
 - XK remains unresolved; diplomatic recognition, generic portal country options and absent options are not treated as tourist admission evidence.
+- XK remains unresolved. New GIS Kosovo search expressly returned no results, Berlin mission served a shell, and Kosovo's Ghana locator404. No current ordinary-passport tourist rule was recovered. The previously identified generic eVisa API fallback is not a nationality decision or passport-recognition proof.
 
 ### Grenada (GD)
 
@@ -1811,6 +1849,8 @@ Unresolved origins (1): PS.
 - Recovered London mission’s linked actual six-page nationality PDF, updated June2019 (not2024 despite upload path). Palestine still absent; no explicit exhaustive default that settles its document treatment.
 - PS remains unresolved; the older schedule is not a new current Palestinian rule.
 - PS remains unresolved. Fresh government/ministry/mission paths failed or provided only the mission homepage. Prior recovered June2019 nationality PDF has no Palestine row and no exhaustive recognition/default rule. No missing-row inference or fabricated document permission.
+- Recovered official Chapter 145 with an express 1958 visa default and named exceptions, and inspected initial 2011–2026 SRO index pages. Those index pages are paginated; they are not a complete amendment audit.
+- PS remains unresolved pending modern exception/document reconciliation. The statute establishes an important duty lead, but an omitted nationality plus a partially reviewed subsequent register is not certified as a current ordinary-passport outcome.
 
 ### Hong Kong (HK)
 
@@ -1823,18 +1863,7 @@ Unresolved origins (1): XK.
 - Read current Immigration visit guidance and investigated Kosovo-specific recognition leads. Official alternative URLs did not establish ordinary Kosovo document acceptance. Secondary Timatic-derived claim of refusal was located but not promoted to primary proof. XK remains unresolved rather than using the seven-day other-countries default.
 - Current Hong Kong visit guidance and Kosovo MFA native Hong Kong search do not establish acceptance of Kosovo ordinary passports. Search results concern US congressmen, not Hong Kong permissions.
 - The general other-nationalities seven-day concession cannot resolve a known unestablished document-recognition case. XK remains unresolved; secondary Timatic-derived prohibition not used.
-
-### India (IN)
-
-Unresolved origins (1): XK.
-
-- Second pass recovered the official eligibility table via its public 2026-09-10 archive capture; source date is preserved, not represented as a live central-portal recheck. Duplicate Kenya and non-catalog territories removed.
-- Japanese/Korean 60-day VOA and conditional UAE repeat-visitor VOA are separate from eVisa durations. 30-day first-arrival validity, multi-year validity and 180-day annual ceiling are distinguished.
-- Tokyo mission supplies an explicit ordinary-national visa default and Maldivian exemption. Islamabad’s linked current announcement confirms Pakistani tourist-visa suspension, with Hindu LTV exception preserved.
-- AF/BD category-specific tourist issuance, CN/HK/MO category-specific electronic versus ordinary tourist issuance and XK recognition remain unresolved. Generic eVisa listing is not enough for those special cases.
-- Fresh official default establishes five requirements without claiming tourist issuance is open: AF/BD remain explicitly issuance-uncertain, CN/HK/MO have current consular tourism instructions. Fees and visa exemption are separate.
-- Central visa portal timed out; no current universal e-Tourist category schedule recovered. Kosovo ordinary-document recognition remains unverified; Budapest generic services do not resolve it.
-- Fresh MEA media-response index and Belgrade consular alternative did not provide a Kosovo ordinary-passport tourist determination; consular alternative404. Generic Indian visa obligation does not settle this document case. XK remains unresolved.
+- XK remains unresolved. New Hong Kong public-government and Immigration-filtered searches did not retrieve a Kosovo ordinary-passport acceptance decision; general search hits were sanctions materials. The e-legislation locator returned a client-configuration page, not substantive law. No seven-day residual waiver or entry ban is inferred.
 
 ### Indonesia (ID)
 
@@ -1846,6 +1875,8 @@ Unresolved origins (1): XK.
 - Fresh Immigration news search and additional MFA visa pages attempted; news search yielded no Kosovo rule, MFA endpoints only returned a twelve-character JavaScript shell.
 - Baseline ordinary selector omission remains unresolved. No recognition or special tourist approval path established for XK, and no admission ban or eVisa entitlement inferred.
 - XK remains. Fresh Immigration content and Budapest mission route did not yield an ordinary Kosovo passport determination. Kosovo MFA page describes entering Kosovo, including Indonesia diplomatic/official passports, so was rejected as wrong-direction/wrong-document evidence. A calling-visa list or generic application menu is not recognition or eligibility.
+- New immigration searches for Kosovo/passport Kosovo and legal-register attempt did not establish accepted ordinary documents or special tourist authorization. Returned search content is not a nationality decision.
+- Kosovo remains unresolved; generic calling-visa procedures and electronic application choices do not prove recognized-document eligibility.
 
 ### Israel (IL)
 
@@ -1860,6 +1891,7 @@ Unresolved origins (1): PS.
 - IR/IQ/LB/SY require restricted-nationality/sponsor/clearance rules not supplied by ordinary tourist guidance. PS depends on population registration and permit authority, not ordinary ETA. Those five remain unresolved.
 - IR IQ LB SY added as strictly qualified permission-required records, based on explicit ordinary/biometric flags and current ETA-selection exclusion, not routine tourist issuance. No special-clearance, sponsor or accepted-document route is claimed.
 - Berlin’s German-dual-national no-entry statement is not generalised. PS remains unresolved: a zero permit flag combined with passport_country=N and explicit PSE exclusion cannot be called visa-free; population registration, document and permit-authority branches need proof.
+- PS remains held. New COGAT/Palestinian-entry procedure locators returned403. Population registration, issuing authority, territory, route and permit authority are unresolved; ordinary ETA selector exclusion/zero flag does not establish waiver or nationality-wide ban.
 
 ### Japan (JP)
 
@@ -1874,6 +1906,23 @@ Unresolved origins (1): CO.
 - Colombia remains unresolved: MOFA exemption-list omission versus note-10 advice is not converted into a categorical requirement or exemption.
 - Recovered current Bogotá mission homepage and linked instructions/FAQ with webfetch despite scripted 403s. FAQ dated 26 March 2026 still says ordinary Colombians are recommended to obtain a short-stay visa to avoid boarding/immigration problems, effective from 1 February 2004.
 - CO remains unresolved because recommended is not a categorical visa obligation or guaranteed waiver. Gratis visa fees and embassy application availability do not settle that distinction. The 15/30/90-day issued-stay options differ from three-month visa validity.
+- CO remains held under the actual prior March 2026 Bogotá FAQ and MOFA footnote: visa “recommended” does not establish mandatory duty or assured waiver. New Spanish-language origin/treaty locators failed. A recommendation needs a dedicated model rather than a false vr/vf category.
+
+### Kenya (KE)
+
+Unresolved origins (1): SO.
+
+- 2025 named lists replace broad claims that all visitors need eTA or all Africans are exempt. Libya is not listed as exempt and falls under the explicit default.
+- SO unresolved: not named among EAC exemptions despite broader regional EAC statements. XK/PS/TW/HK/MO require accepted-document/individual checker confirmation; eligibility table returned no country rows.
+- HK resolved from Hong Kong Immigration’s Kenya-specific eTA remark, corroborating the Kenyan portal and expressly identifying HKSAR passports of all ages.
+- SO: current Kenyan eTA page names six EAC partners but not Somalia, while regional wording is broader; implementation remains unresolved. XK/MO/PS/TW: specific document/checker outcome not obtained. General eTA wording and a nationality selector are insufficient.
+- Fresh DSI and BOCA independently identify MO/TW passports and advance eTA; each explicitly gives 90 days.
+- Recovered full Kenya Gazette LN93/2025 (commenced 30 May 2025), regulation 15G/Seventeenth Schedule. Its EAC paragraph names Burundi, DRC, Rwanda, South Sudan, Tanzania and Uganda, omitting Somalia while saying EAC Partner States. It does not reconcile Somali accession with actual Kenyan implementation; SO remains unresolved.
+- XK and PS remain accepted-document/eTA-eligibility gaps. An application country choice or general all-visitors sentence is not a passport-specific result.
+- New public treaty-register research and Somalia mission/foreign-ministry leads do not establish Kenyan implementation for ordinary Somali travellers after EAC accession. The LN93/2025 named EAC-list issue remains.
+- PS/XK accepted ordinary documents and eTA eligibility remain unproved; no country selector or generic application availability is treated as a decision.
+- Pass-six consistency adjudication: The public eTA default and LN93/2025 exceptions support PS/XK eTA obligation only. They do not prove document acceptance or successful electronic issuance. Somalia's named-list versus EAC conflict remains a real exception question.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
 
 ### Kosovo (XK)
 
@@ -1885,6 +1934,7 @@ Unresolved origins (1): BA.
 - BA remains unresolved: the newer biometric-ID concession must be reconciled with ordinary-passport travel and any visa duty when not carrying that ID. Do not silently convert an ID-only concession into a passport-only exemption.
 - Bosnia biometric-ID concession does not automatically establish passport-only visa freedom. New Kosovo MFA homepage and native Bosnia search yielded diplomatic news, not operative passport/ID branches; PM host failsDNS.
 - BA remains unresolved for current ordinary-passport duty when no qualifying biometric identity card is presented.
+- BA remains held: current-linked mission default omits Bosnia, but the known newer biometric-ID concession is not reconciled with ordinary-passport-only travel. New government decree locator was inaccessible; no blanket passport waiver or unqualified visa duty added.
 
 ### Kyrgyzstan (KG)
 
@@ -1894,19 +1944,27 @@ Unresolved origins (1): XK.
 - Taiwan BOCA explicitly documents ordinary ROC passport consular visa and invitation requirements.
 - Kosovo remains absent from usable ordinary eligibility data; no recognized-document or specific mission rule found. General consular possibility is not invented from omission.
 - XK remains unresolved. Actual current public eligibility page describes its country-based mechanism but has no Kosovo option; a missing code cannot be queried as a genuine decision. General tourist TS category/validity and generic recognized-passport requirements do not establish Kosovo ordinary-document handling. The London mission alternative returned 502.
+- XK retained. New Kyrgyz ministry/mission alternatives returned502 and the justice-law endpoint supplied a client shell. Kosovo’s functioning embassy visa page concerns foreign visitors entering Kosovo, not Kosovo travellers entering Kyrgyzstan.
+- No invented country ID, reversed-direction reciprocity or inference from the absent eVisa nationality option. Kosovo document/visa-authorisation scope remains unproved.
 
-### Lithuania (LT)
+### Laos (LA)
 
-Unresolved origins (1): RU.
+Unresolved origins (1): BY.
 
-- Reassessed all nationality rules against official common policy and all catalog origins; free-movement origins are EU27 plus IS/LI/NO/CH.
-- Ordinary-passport recognition qualifications were reviewed against the EU 2 October 2026 matrix, including Kosovo, Palestine, SAR documents, Russian biometric restrictions and Somali documents.
-- RU: National Russian-tourist restrictions and/or external-border versus internal-Schengen entry scope need a conclusive route rule; ordinary visa-required wording alone is insufficient. See destination-specific research notes.
-- Second pass: alternative destination missions/government entry pages remained access-challenged; no bypass or nationality-rule inference from a challenge response was used.
-- Lithuanian MFA, migration and border authority current pages remain access-challenged. EU delegation current Russia travel page confirms Schengen visa requirement and no EU-wide ban, but does not settle Lithuania external-border restrictions versus internal-Schengen entry and exceptions.
-- RU remains unresolved; no blanket entry ban or ordinary visa-required-only downgrade asserted.
-- RU remains. Fresh border/MFA alternatives are access-challenged, migration pages are application shells, and the proposed parliamentary identifier returned object not found. No operative national Russian-tourist external-border/internal-Schengen and exception text was recovered.
-- The existing Schengen visa obligation is not restated as ordinary tourist clearance, and no blanket nationality ban is invented. Serbian advice describes Serbian passports and a dated 2025 temporary border closure, not a current RU determination.
+- Japan30-day waiver confirmed by specific embassy update; outdated15-day schedule not copied. eVisa30-day stay is distinct from60-day approval validity. No 2024 temporary60-day tourist extension carried forward.
+- Second pass resolves HK as positively evidenced tourist VOA30; existing positive eVisa30 alternative retained. The old14-day diplomatic/service row is not an ordinary-passport exemption.
+- Additional Washington/Tokyo mission pages did not supply an exhaustive nationality exception schedule. Washington’s application page specifically prices US/Canadian passports; Tokyo’s generic non-Japanese eVisa wording does not resolve absent fee-selector nationalities. No new blanket eligibility inferred.
+- AF, DZ, BD, BI, CM, CG, CI, SZ, GH, GN, GW, IR, IQ, JO, LB, LS, LR, LY, MZ, NR, NE, NG, PK, SN, SL, SO, SS, SD, SR, SY, TO, UG, VA, YE, ZM, ZW: Not included in positively retrieved eVisa fee selector or ordinary-waiver schedule; no exhaustive current default/VOA exclusion rule established. Absence is not proof that all visas are unavailable.
+- BY, TL: New ordinary-passport waiver developments were located, but not confirmed by an operative official instrument; Immigration still publishes its2022 schedule. Do not apply the old diplomatic-only row as an ordinary waiver.
+- Baseline gaps 38; current-supported additions 1; historical-only additions 0; remaining without policy 37.
+- Timor-Leste Government's 19 January 2026 account of bilateral talks expressly describes visa-exemption regimes for diplomatic, official AND ordinary passports facilitating travel between the two countries. This resolves TL's ordinary exemption beyond the older 2022 Lao list; it supplies no stay duration, so d=0.
+- Retrieved a genuinely archived government services-portal copy of the foreign-entry law (capture 2021-05-17). Articles 11 and 19-22 preserve bilateral exemptions, permit tourist issuance and describe separate paper visas for non-diplomatic-recognition cases; they do not supply the missing current exemption/arrival-exclusion nationality schedule. No historical blanket rule is manufactured from that generic statute.
+- Belarus embassy consular index did not provide outbound Lao commencement evidence. New Lao MFA domain was accessible but yielded no substantive English nationality rules; former services portal failed DNS, www MFA hostname failed TLS, Berlin visa path returned 404 and its root had no content, Bangkok failed transport, and Tourism visa paths returned 404. Washington's generic visa page is still explicitly US/Canadian-priced, not a worldwide requirement. BY and the other 36 origins remain unresolved for current ordinary exemptions and advance/arrival eligibility.
+- All37 reviewed against prior nationality exclusions and new Paris/Canberra mission navigation. Paris current consular page links eVisa but contains no exhaustive ordinary-nationality obligation; its mail FAQ is process-only. Canberra publishes application materials and outdated2020 temporary measures, not a current exclusion/default schedule.
+- Belarus Hanoi mission root is live, but attempted consular paths provide no operative ordinary-passport Lao waiver commencement. BY remains a later-agreement blocker; the other36 still need complete contemporary visa/arrival-exclusion evidence. No old embassy form, fee schedule or eVisa omission supplies a default.
+- Thirty-six requirement-only additions from the newly recovered live official-gazette law, explicitly marked current, Article11 default plus passport-class exemptions. All four published Immigration exemption images and the current pointer were inspected; diplomatic/service-only rows do not exempt ordinary visitors.
+- Reconciled known later Japan and Timor-Leste developments without changing their baseline rules. Belarus is excluded from the default: BelTA16January2026 reports ordinary-passport agreement effective15January2026,30 days per visit and90 per calendar year, passport180 days. Direct MFA/mission/legal notice could not be recovered, so that state-news lead is retained without route credit.
+- No nationality eVisa/arrival entitlement, consular-only restriction or30-day stay is inferred. The2021 archived English translation is reading assistance only; the operative-source evidence is the current Lao gazette scan and status listing.
 
 ### Marshall Islands (MH)
 
@@ -1920,6 +1978,8 @@ Unresolved origins (1): GT.
 - Exact baseline partition: 0 additions; 1 unresolved. Lists in this review are exhaustive.
 - GT remains unresolved. Newly followed current Immigration visitor page expressly sends readers to the same voa-202403.pdf nationality schedule, already inspected in pass3; its Guatemala duplicate remains visa-free versus VOA, not just fee/duration wording.
 - The new visitor page combines VOA/waiver, and diplomatic relations do not resolve the method. Its linked 2009 regulations returned404; Guatemala origin-ministry page returned403. No category is selected from conflicting published entries.
+- GT remains held. Parliamentary regulations index recovered the actual41-page Immigration Regulations2009. Visual inspection confirms Section40 promulgation date is blank; attached Cabinet approval of15 December2009, signed16 December, requires the notice procedure before promulgation. Sections5–7 do not reconcile the newer2024 Guatemala dual listing.
+- Section5(1)(g) contains a separate less-than7-day cruise/private-vessel passenger exception; Section6 arrival-visa eligibility references the MFA country list. Neither diplomatic relations nor90-day validity resolves the current Guatemala waiver-versus-arrival conflict. Conditional sea-branch modelling is retained in cache without nationwide gap credit.
 
 ### Mexico (MX)
 
@@ -1931,18 +1991,7 @@ Unresolved origins (1): XK.
 - Kosovo omitted; acceptable-document and application pathway not established. Brazilian electronic-method investigation returned unavailable/challenge/irrelevant pages, so not guessed.
 - XK remains unresolved after new Austria/Germany mission pages returned Radware browser-verification pages and Kosovo MFA origin locator404.
 - No challenge bypass. No accepted Kosovo ordinary passport, substitute document or nationality-specific tourist visa duty established from the incomplete INM schedule.
-
-### Nepal (NP)
-
-Unresolved origins (1): XK.
-
-- Explicit 15/30/90-day choices are represented with d=0 and stay, not a single guessed maximum/default.
-- 12 nationality exceptions agree across sources. Iran appears on NTB list but not current London list; DOI clarification page inaccessible, so IR unresolved. XK document recognition also unresolved.
-- Indian visa exemption is separately sourced; SAARC/Chinese fee concessions are not treated as visa-free. Mission-issued ETA terminology is not enough to infer online-only eVisa issuance.
-- Fresh NTB and London mission establish Iranian visa requirement. Arrival exception disagreement remains, but it no longer blocks preserving the common requirement with explicit method uncertainty. Mission ETA includes physical passport submission and is not labelled online-only eVisa.
-- DOI/TIA failed TLS verification; Doha/Berlin/Islamabad guessed visa paths returned navigation shells without the needed rule. XK recognition was not proved by any retrieved nationality-specific evidence. XK remains unresolved.
-- XK remains unresolved. Discovered newly organized official immigration pages via current root navigation: visa-information, visa-exemption and eta-visa-nepal. They describe current electronic/arrival/mission procedures and diplomatic waivers, but no specific Kosovo ordinary-document decision.
-- New generic eVisa availability is not passport recognition. No application, account or CAPTCHA flow was opened. Old /en/page/tourist-visa is 404; mission alternative 404 and MFA locator failed DNS.
+- XK retained. Current INM schedule still supplies no explicit Kosovo document determination, and the Serbia embassy visa page returns browser verification. No challenge bypass, substitute UNMIK document or inference from diplomatic relations.
 
 ### North Macedonia (MK)
 
@@ -1952,6 +2001,7 @@ Unresolved origins (1): PS.
 - Fresh HKSAR country-matched schedule and Macao DSI ordinary-passport checker resolve HK/MO90, rather than treating either as China. Palestine remains absent/unresolved for specific accepted-document and issuance treatment.
 - Fresh current MFA consular index and real public visa-checker page recovered. Palestine is absent from its named nationality choices; no invented country ID/default response used.
 - PS remains unresolved for ordinary accepted-document and tourist visa treatment. Neither nonrecognition of statehood nor selector absence proves an admission ban.
+- PS remains. Newly retrieved Interior Ministry foreigner procedures and bylaw navigation discuss the 2019 foreigners law and administration, but no Palestinian ordinary-document recognition/visitor rule was recovered. Previous current checker omission cannot be converted into a decision.
 
 ### Saudi Arabia (SA)
 
@@ -1967,6 +2017,7 @@ Unresolved origins (1): IL.
 - Taiwan BOCA expressly describes a tourist visa requirement and eVisa application using the Taiwan-related nationality option, proving a recognized entry-permission route. The existing Saudi nationality checker maps TW noneligible; retain the agreed visa requirement with explicit method conflict, rather than selecting an unsubstantiated unrestricted eVisa or claiming eVisa unavailable.
 - Taiwan's listed VOA branch requires US/UK/Schengen visa/residence documents and is not assumed. Saudi main portal denied access. IL is absent from the destination checker, and the attempted Israeli government page denied access; omission is not a ban. IL remains unresolved.
 - IL remains. Israeli government travel-permit service denied access in both languages; Saudi mission hostname certificate mismatch; existing Saudi eligibility omission is not an admission ban or recognised ordinary tourist issuance. Outbound Israeli permissions and Saudi entry authorisation remain distinct.
+- IL held: new Saudi visa terms denied access, mission hostname invalid and Israeli permission locator denied access. No accepted Israeli ordinary-tourist-document rule obtained; outbound permission is distinct from Saudi admission.
 
 ### Serbia (RS)
 
@@ -1976,6 +2027,7 @@ Unresolved origins (1): XK.
 - Taiwan prior-visa and no EU/US-document substitute established by BOCA.
 - XK remains distinct: Kosovo ID-card travel arrangements do not establish acceptance of an ordinary Kosovo passport for a single country-level passport route. No recognition/entry-ban inference.
 - Fresh Serbian general entry page does not supply ordinary Kosovo-passport acceptance. Government freedom-of-movement URL returned200 with an empty body. Kosovo ID arrangements are not an ordinary-passport determination. XK remains unresolved.
+- XK retained. New Kosovo MFA consular department, international-agreement page and public search did not establish ordinary-passport treatment in Serbia; Serbian office locator404. ID-card arrangements remain distinct from acceptance of an ordinary Kosovo passport, and diplomatic recognition is not used as an entry rule.
 
 ### Seychelles (SC)
 
@@ -1989,6 +2041,7 @@ Unresolved origins (1): XK.
 - XK remains unresolved for current acceptable-document/ETA issuance and former special treatment. Generic universal visitor-permit language or a COVID country list cannot resolve that document case; no entry ban asserted.
 - Current Immigration visiting-Seychelles page requires a valid government-recognized passport/document and advance immigration procedures. New native MFA Kosova search did not establish a current Kosovo ordinary-document decision.
 - XK remains unresolved: generic visitor-permit/ETA wording does not settle the former special recognition treatment. No nationality ban inferred.
+- Immigration native Kosovo search returned zero results; legislative/nationality locators failed. New Kosovo consular department has no public outbound entry decision. Current recognized-document/ETA condition and former special treatment remain unresolved; no nationality ban is inferred.
 
 ### Sierra Leone (SL)
 
@@ -1999,20 +2052,7 @@ Unresolved origins (1): XK.
 - Second pass keeps ordinary XK unresolved: UNMIK resident travel document remains distinct; no waiver inferred from an unrecognized-code empty response.
 - Fresh Immigration/MFA/High Commission pages investigated. London application form includes Kosovo among generic country choices, but this is not eligibility; eVisa prior evidence identifies UNMIK resident document rather than an ordinary Kosovo passport. No fallback empty response or dropdown-based visa claim made.
 - XK retained. Fresh Immigration root and visa/law/mission locators supply no ordinary Kosovo passport determination. Prior generic country dropdown and UNMIK document are not ordinary Kosovo nationality eligibility. Missing pages are not evidence of a ban.
-
-### Sri Lanka (LK)
-
-Unresolved origins (1): PS.
-
-- Root ETA portal Alerts02–04 supply concrete sponsor/Head Office exceptions for AF CM CI GH NG SY TW XK. Replaced eight unqualified onlineETA30 overrides and recorded evidence-backed withdrawals/replacements. Taiwanese origin mission independently confirms the changed sponsor/landing-endorsement procedure.
-- HKSAR government April2026 notification expressly requires onlineETA BEFORE the30-day visa issued on arrival at BIA. Corrected oldVOA-only claim and recorded a withdrawal/replacement; the steps are not alternatives.
-- ETA30 and genuine mission-issued short-visit visa up to3 months are distinct duration options. MaldivianETA90 retained; Seychelles treaty60/90-annual versus currentETA30 remains explicitly conflicted. Fee waiver is not visa waiver.
-- CG CD KP PS remain unresolved for special issuance/document treatment. No withdrawal for those four based merely on absent proof.
-- Current Immigration service/fee pages and alternative missions were pursued. They do not settle CG/CD/KP/PS exceptional tourist issuance/document treatment.
-- Former South Africa mission domain redirects to unrelated bookkeeping/tax content and is rejected; other mission endpoints fail DNS/access or provide no nationality rule. Existing generic ETA rules are not expanded over these four special cases.
-- Exact baseline partition: 0 additions; 4 unresolved. Lists in this review are exhaustive.
-- Current central DI&E prior-permission default and diplomatic/official exception page support CD/CG/KP requirement-only additions; special issuance channels and stay remain expressly unconfirmed, not ordinary ETA entitlement.
-- PS remains unproved for ordinary-document/sponsor handling. Former Pretoria domain returned gambling/Samsung-clone content and is rejected, not a mission source. Beijing/London alternate retrievals failed.
+- XK remains unproved: UNMIK resident travel document is not a Kosovo ordinary passport. New Washington and MFA sources provide general processes or diplomatic services, not nationality-specific acceptance; fee waivers and form choices do not establish exemption.
 
 ### Tajikistan (TJ)
 
@@ -2022,18 +2062,36 @@ Unresolved origins (1): XK.
 - Public checker source data and consumer code inspected: visa.kind=all has discarded the age qualification present in the actual table. Twelve gaps have electronic/waiver records; MG/VU have separately verified Dushanbe airport issuance and qualified waiver, with advance arrangements stated and no guessed airport stay. Panama unqualified baseline is corrected. Exact 55 waiver boundary conflict retained while the independently proven visa route remains available. DM treaty notification is historical only. XK/TW are absent from the real country dataset; no invented checker codes or default response used. Outbound visa-free page was rejected for inbound rules.
 - TW resolved from BOCA: eVisa up to60 days and distinct advance-approved airport branch with immigration permission number/invitation. Airport stay not inferred from eVisa; GBAO additional permit preserved.
 - XK absent from prior real checker dataset; new Berlin mission visa page failed TLS and Kosovo consular page supplies no Tajik ordinary-passport decision. No default or invented checker value used.
+- New central/mission and Kosovo native-source leads did not supply a Kosovo ordinary-passport entry decision; central URL returned a generic home page, Berlin request failed.
+- The existing legitimate checker lacks Kosovo; no invented value, age-conditioned waiver or eVisa entitlement is assigned.
 
-### Togo (TG)
+### Thailand (TH)
 
 Unresolved origins (1): XK.
 
-- Nine unresolved origins (BI ET MG MY SD SG SS TW XK) are not unambiguously identified in the retrieved exemption/eligible/diplomatic-agreement tables. Omission was not treated as refusal or visa-required.
-- Diplomatic/service-only waivers do not cover ordinary passports. HKSAR origin advice still lists VOA, but destination portal lists HK for advance eVisa and says it replaces arrival queuing; no independent VOA alternative is asserted. Portal is migrating to a new frontend, while these official published tables remain available.
-- Second pass retains the nine unambiguously unmapped nationalities unresolved; diplomatic tables are not generalized to ordinary passport waivers.
-- Added Singapore and Taiwan electronic routes using current origin-government text. Fresh FAQ provides the explicit default missing from prior about-table-only review; six other ordinary origins receive requirement-only rules, preserving electronic eligibility uncertainty.
-- XK remains unresolved for accepted travel document and channel. Old COVID, airport-pilot and land-closure text in FAQ is not propagated; Arrivée Express is pretravel processing, not free walk-up admission.
-- New Togo MFA host failedDNS; Kosovo MFA native Togo search and mission locator supplied no nationality-specific travel-document rule.
-- Previously established generic Togo visa default and online process do not settle acceptance and processing of Kosovo ordinary passports. XK remains unresolved, not banned or automatically electronic-eligible.
+- The older 93-nationality/60-day scheme is superseded by the retrieved 15 September 2026 schedule. Preserve 90-day bilateral rules and MM airport restriction. VOA stay is deliberately d=0 rather than copying an old 15-day number.
+- Second-pass corroboration southeast-asia-p2-th-chart: London’s actual MFA-hosted chart independently confirms all current incoming nationality groups and15 September2026 effective date. The reverse-direction yellow columns were excluded; no VOA stay invented.
+- XK, PS: General visa obligation established, but special passport recognition/competent-mission procedure was not conclusively established; not treated as admission refused.
+- Both XK and PS researched through Ankara/Amman/Tel Aviv/Cairo/New Delhi visa-service routes and the public Thai eVisa FAQ. Retrieved pages were generic navigation/service shells, and did not substantiate accepted ordinary documents and a nationality-specific competent-mission tourist pathway.
+- The baseline visa obligation is not converted into a standard eVisa or admission ban without resolving the special-document handling. Both remain unresolved.
+- New Kosovo MFA article dated16 July2024 announces visa-free travel, but the freshly read Thai official ordinary-passport chart effective15 September2026 omits Kosovo from both exemption and arrival lists. The older announcement is not promoted to a current waiver.
+- XK remains a current-policy conflict needing reconciliation; PS remains without accepted ordinary-document and competent-mission issuance evidence. New Hague/Vienna locators are404/soft404; London is generic. Neither country receives a claimed ban or routine eVisa entitlement.
+- Added PS requirement-only by combining the ministry-published statutory default, actual September 2026 ordinary-exemption chart and newly retrieved Amman Palestinian-resident tourist-document instructions. Residency and separate multiple-entry conditions are preserved; old paper workflow and stay are not represented as assured current processing.
+- XK remains unresolved: Kosovo MFA July 2024 waiver announcement conflicts with the effective September 2026 Thai chart. Generic Ankara eVisa instructions do not reconcile that conflict or establish document handling.
+
+### Uganda (UG)
+
+Unresolved origins (1): SO.
+
+- 40 ordinary exemptions distinguished from diplomatic and official exemptions. UAE is explicitly on ordinary list. Duration of exemptions remains unspecified.
+- SO unresolved because of EAC umbrella versus missing national exemption. XK/PS/TW/MO acceptance not individually settled. Yellow fever was removed from the current tourist requirements; older FAQ attachment list not propagated.
+- Taiwan route resolved by BOCA explicit tourist eVisa instructions. MO/PS/XK accepted-document routes remain unresolved; no application dropdown treated as eligibility.
+- Somalia national implementation remains unresolved against missing ordinary exemption and broad EAC wording. New immigration news and Somali MFA routes returned404; Macao official PDF/page paths returned404.
+- Macao DSI expressly supports the ordinary SAR electronic visa, unlike a generic destination application dropdown.
+- The fresh Ugandan waiver page was read; Somalia is still not named in its ordinary schedule. EAC membership alone does not establish national implementation. PS/XK accepted documents remain unproved.
+- All three retained. Somali MFA public search returned an Azerbaijan diplomatic-passport notice held in Kampala, not a Somalia–Uganda ordinary waiver. The Somali Kampala and Ugandan Washington locators failed. Somalia’s national implementation remains unproved despite EAC membership; PS/XK accepted ordinary documents remain unestablished.
+- Pass-six consistency adjudication: A precise public reread confirms an affirmative tourist visa duty. The saved ordinary and official exception schedules do not exempt PS/XK. Electronic issuance and document acceptance remain unknown; SO's EAC implementation gap remains.
+- Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.
 
 ### Uruguay (UY)
 
@@ -2046,6 +2104,8 @@ Unresolved origins (1): XK.
 - XK remains unresolved: the ordinary-state residual visa rule does not by itself establish Kosovo passport acceptance. No non-recognition-only entry ban inferred.
 - Fresh Uruguay foreign-ministry visa/search pages and Kosovo-origin ministry material did not provide an ordinary Kosovo-document determination.
 - XK remains unresolved: a general visa default does not establish accepted travel documents or a routine tourist issuance channel.
+- XK remains held. New government visa/search routes404; Kosovo consular portal supplies consular/inbound-Kosovo material, no Uruguay ordinary-passport determination.
+- An explicit general visa default does not by itself establish acceptance or usable tourist issuance for the Kosovo ordinary passport.
 
 ### Uzbekistan (UZ)
 
@@ -2056,6 +2116,22 @@ Unresolved origins (1): XK.
 - Taiwan ordinary-passport visa recognition and precleared Tashkent process verified by BOCA. Vietnam now explicitly appears in newly retrieved MFA Appendix1, in a disjunctive eVisa/simplified-consular heading; age55 waiver and under16 conditions retained without assuming age.
 - XK remains unresolved accepted-document case. London mission still displays a September2021 electronic issuance suspension; not used as current proof that all eVisas are suspended.
 - XK remains. Fresh central MFA page and London mission path provided no Kosovo ordinary-passport recognition/entry determination. General visa procedures, unlisted-code defaults and another nationality’s travel permission do not establish a Kosovo rule.
+- XK retained. New MFA visa-page URL supplied only a migrated application shell and the Kosovo origin-ministry host failed DNS. No nationality-specific duty plus accepted-document or special-authorisation provision was retrieved; general law and an unverified nationality dropdown remain insufficient.
+
+### Vietnam (VN)
+
+Unresolved origins (1): XK.
+
+- Official workbook resolves nationality and passport-column traps: BY30 with calendar-year cap; KZ30 with rolling cap; ID30 ordinary rather than diplomatic14; two distinct 45-day regimes with different expiry dates. Electronic visa is up to90, not visa on arrival.
+- XK: Worldwide eVisa wording retrieved, but Kosovo document recognition/selector acceptance not checked because current portal was inaccessible.
+- TL: September 2025 official workbook excludes ordinary passports; June 2026 ordinary-passport agreement was located secondarily but its entry into force was not established. eVisa is a documented fallback, but primary waiver status remains unresolved.
+- Timor-Leste government directly confirms ordinary-passport waiver signed 9 June 2026; Cabinet on 2 September 2026 approved a draft parliamentary resolution. Neither record establishes commencement by the check date.
+- TL remains unresolved for waiver-versus-eVisa classification; a known electronic fallback does not establish the primary waiver rule. XK document acceptance remains unverified; worldwide eVisa wording alone does not settle it.
+- Exact baseline partition: 0 additions; 2 unresolved. Lists in this review are exhaustive.
+- Fresh Timor-Leste government search and actual bilateral/cabinet articles inspected. Signature on 9 June 2026 and draft parliamentary resolution approval on 2 September 2026 still do not prove entry into force. No newer implementation notice appeared in the returned current search.
+- TL remains unresolved for operative ordinary waiver terms and commencement, not an automatic ASEAN exemption. XK remains unresolved for recognised ordinary documents; new Dili mission procedure path returned 404. No default eVisa eligibility inferred.
+- TL newly resolved to the established eVisa route with the separate Phu Quoc itinerary exception. The24 September submission for parliamentary approval,5 October initial-stage record, and treaty Article10 thirty-day commencement delay reconcile the June-signature lead as not operative by9 October2026. No30-day bilateral waiver added.
+- XK remains held for ordinary-document acceptance; worldwide electronic wording is not a Kosovo-specific decision. The treaty attachment is a14-page scan with discontinuous intervening pages; actual Article10 was visually verified and the exact commencement fact is preserved.
 
 ### Zimbabwe (ZW)
 
@@ -2067,3 +2143,4 @@ Unresolved origins (1): ZM.
 - ZM remains unresolved rather than guessed exempt from SADC membership or reciprocity.
 - Fresh Zimbabwe MFA, UK/Canberra/Pretoria, Zambia MFA and eVisa regime leads failed or supplied no operative Zambia row. zimbabweembassy.org redirected to commercial VisaHQ content and is rejected as primary evidence.
 - ZM remains unresolved. Prior published nationality omission is not repaired by SADC membership, reciprocal treatment or the KAZA product for other travellers.
+- ZM retained. Newly followed Immigration Act PDF section29(1)(b) expressly reserves arrangements dispensing with visas; it contains no Zambia-specific waiver decision. New mission alternatives failed DNS/TLS or supplied no schedule. The published Zambia omission cannot be repaired with a blanket statutory default, SADC membership or assumed reciprocity.

@@ -1,0 +1,74 @@
+{
+  "baselineSha256": "15dba6e71d3bcec062fb72345d0bc84909b9b4e85a1583c15c6cd2d0ae73c3df",
+  "scope": "targeted",
+  "batches": [
+    {
+      "id": "conditional-adjudication",
+      "routes": 17,
+      "destinations": [
+        {
+          "iso": "CN",
+          "origins": [
+            "XK"
+          ]
+        },
+        {
+          "iso": "LR",
+          "origins": [
+            "HK",
+            "MO",
+            "PS",
+            "XK"
+          ]
+        },
+        {
+          "iso": "BH",
+          "origins": [
+            "XK"
+          ]
+        },
+        {
+          "iso": "BA",
+          "origins": [
+            "PS"
+          ]
+        },
+        {
+          "iso": "TG",
+          "origins": [
+            "XK"
+          ]
+        },
+        {
+          "iso": "IN",
+          "origins": [
+            "XK"
+          ]
+        },
+        {
+          "iso": "AR",
+          "origins": [
+            "PS",
+            "XK"
+          ]
+        },
+        {
+          "iso": "AO",
+          "origins": [
+            "PS",
+            "XK"
+          ]
+        },
+        {
+          "iso": "BJ",
+          "origins": [
+            "HT",
+            "PS",
+            "RO",
+            "XK"
+          ]
+        }
+      ]
+    }
+  ]
+}

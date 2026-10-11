@@ -1,0 +1,844 @@
+{
+  "version": 1,
+  "batch": "gap5-01",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-01-kn-japan": {
+      "title": "Japan MFA: Saint Kitts and Nevis tourist exemption and compulsory eTA",
+      "urls": [
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_291.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "efd7c9da92369128efb46e9012d5d3cdf3b72fb23bf379606eebcccf3df265e5"
+    },
+    "gap5-01-my-brasilia": {
+      "title": "Malaysia Embassy Brasilia: Brazilian and Surinamese national-passport visitor exemptions",
+      "urls": [
+        "https://www.kln.gov.my/web/bra_brasilia/other_information"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "6ba0b0256ef2d7eca0bdb61f250e217dbe6c306153928e9da1dd73a1919f81ec"
+    },
+    "gap5-01-my-mdac": {
+      "title": "Malaysia High Commission Singapore: mandatory MDAC and explicit exemptions",
+      "urls": [
+        "https://www.kln.gov.my/web/sgp_singapore/requirement_foreigner"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "314addd21adb0e7ff2c6a5288747fa4d16f8befdda229c6b1bdf72fa585bca6d"
+    },
+    "gap5-01-py-nationalities": {
+      "title": "Paraguay MFA: current ordinary and special-passport visa classifications",
+      "urls": [
+        "https://www.mre.gov.py/requisitos-de-visa-por-paises/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "b53ca9bd5123c538a24a7687c6e009158d192a46a06491b50bd7cf09acc4cab3"
+    },
+    "gap5-01-ma-azerbaijan-commencement": {
+      "title": "Azerbaijan Embassy Rabat: ordinary-passport waiver commencement on 28 August 2024",
+      "urls": [
+        "https://rabat.mfa.gov.az/az/news/3167/annonce"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "9aa94dd7a928652ca233c16d3a8743cbb3e567574d850deec98a360d696d45da"
+    },
+    "gap5-01-th-statutory-default": {
+      "title": "Thai Consular Affairs: Immigration Act 2522 visa-and-document requirement",
+      "urls": [
+        "https://consular.mfa.go.th/th/content/80298-how-to-apply-for-a-thai-visa",
+        "https://image.mfa.go.th/mfa/0/zE6021nSnu/General_Information.pdf"
+      ],
+      "checkedAt": "2026-10-09"
+    },
+    "gap5-01-th-current-exemptions": {
+      "title": "Thai Embassy Washington: ordinary-passport exemptions and arrival-visa schedule effective 15 September 2026",
+      "urls": [
+        "https://image.mfa.go.th/mfa/0/91fPdh6NtO/Consular-Services/Visa/Final_edited_For_Foreign_Visitor_Travelling_to_Thailand.jpg"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "0a0d28dc25c29f9cd66b696b138b2adefdde4eaf1df815079cbd60f7deb62575"
+    },
+    "gap5-01-th-palestinian-document": {
+      "title": "Thai Embassy Amman: tourist visa instructions for Palestinian nationals resident in Gaza and the West Bank",
+      "urls": [
+        "https://amman.thaiembassy.org/en/publicservice/tourist-visa-single-and-multiple-entry"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "f0683d1eec5b7faf58ae04a34dba940a906bfddd4ec9e5cbf2c41738d7e0df2a"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "JP"
+      ],
+      "destinations": [
+        "KN"
+      ],
+      "t": "eta",
+      "d": 30,
+      "s": "gap5-01-kn-japan",
+      "n": "Japanese ordinary-passport tourists are visa-exempt for visits of up to 30 days but must obtain eTA before travel, including for children and infants. Carry a valid passport, departure ticket, sufficient funds and confirmed accommodation. The immigration officer determines admission and the permitted stay; eTA validity is not a stay allowance."
+    },
+    {
+      "passports": [
+        "BR"
+      ],
+      "destinations": [
+        "MY"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-01-my-brasilia",
+      "evidence": [
+        "gap5-01-my-mdac"
+      ],
+      "n": "Brazilian national-passport holders may visit for tourism/social or business purposes without a visa for up to 90 days. Longer stays or other purposes require a visa. Submit MDAC within three days before arrival unless a published exemption applies; MDAC is an arrival declaration."
+    },
+    {
+      "passports": [
+        "SR"
+      ],
+      "destinations": [
+        "MY"
+      ],
+      "t": "vf",
+      "d": 30,
+      "s": "gap5-01-my-brasilia",
+      "evidence": [
+        "gap5-01-my-mdac"
+      ],
+      "n": "Surinamese national-passport holders may visit for tourism/social or business purposes without a visa for up to 30 days. Longer stays or other purposes require a visa. Submit MDAC within three days before arrival unless a published exemption applies; MDAC is an arrival declaration."
+    },
+    {
+      "passports": [
+        "KN",
+        "TT"
+      ],
+      "destinations": [
+        "PY"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-01-py-nationalities",
+      "n": "The current Paraguayan MFA list expressly includes this nationality among those not requiring a visa, without restricting the entry to diplomatic or official passports. The source does not establish the allowed tourist stay."
+    },
+    {
+      "passports": [
+        "SA"
+      ],
+      "destinations": [
+        "PY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-01-py-nationalities",
+      "label": "Visa required",
+      "n": "The Paraguayan MFA expressly limits the Saudi exemption to diplomatic, official and service passports and states that ordinary passports require a visa. This establishes visa duty; the precise tourist issuance channel and permitted stay are not established."
+    },
+    {
+      "passports": [
+        "AZ"
+      ],
+      "destinations": [
+        "MA"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-01-ma-azerbaijan-commencement",
+      "n": "The bilateral ordinary-passport exemption entered into force on 28 August 2024. The embassy announcement expressly extends the same visa-free stay privileges of up to 90 days to Azerbaijani nationals visiting Morocco. Additional passport-validity and admission conditions must be checked separately."
+    },
+    {
+      "passports": [
+        "PS"
+      ],
+      "destinations": [
+        "TH"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-01-th-statutory-default",
+      "evidence": [
+        "gap5-01-th-current-exemptions",
+        "gap5-01-th-palestinian-document"
+      ],
+      "label": "Visa required; mission conditions apply",
+      "n": "A visa and valid travel document are required under the statutory default and current ordinary-passport exemption schedule. Amman publishes Palestinian-specific tourist-document requirements for residents of Gaza and the West Bank, including a passport valid for at least six months from arrival and supporting identity, employment, funds, ticket and accommodation evidence. Its multiple-entry branch additionally requires Jordanian residence. Current electronic versus paper processing, competent mission for other residence profiles and actual stay must be established separately; routine issuance is not assured."
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "PS",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AU",
+        "AT",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BE",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BG",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CN",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CU",
+        "CY",
+        "CZ",
+        "DK",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "EE",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "FR",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IE",
+        "IL",
+        "IT",
+        "JM",
+        "JP",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MD",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NL",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "RS",
+        "SC",
+        "SL",
+        "SG",
+        "SK",
+        "SI",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "ES",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "SY",
+        "TW",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TR",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "AE",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "All 195 origins retained. The current French, Dutch and Turkish publications establish specific route/document facts, but no newly retrieved governing COGAT text reconciles West-Bank-only versus combined itineraries, registered Palestinian documents, Israeli citizens, Gaza and nationality exceptions. French-linked December 2022 COGAT PDF and central policy are access-denied.",
+        "No UK/German rule is generalized. Dutch local no-visa wording and Turkish Israeli-visa duty are not country-wide Palestine classifications. French September 2026 guidance gives B/2 coverage for short West Bank visits after Israeli entry, restrictive Franco-Palestinian handling and impossible Gaza travel, but does not resolve every distinct entry branch. Exact zero-credit modelling proposal is in research notes."
+      ],
+      "attemptedUrls": [
+        "https://www.cogat.mod.gov.il/en/Pages/default.aspx",
+        "https://www.gov.il/en/departments/coordination-of-government-activities-in-the-territories/govil-landing-page",
+        "https://www.gov.il/BlobFolder/policy/judeaentry2022/en/%D7%A0%D7%95%D7%94%D7%9C%20%D7%9B%D7%A0%D7%99%D7%A1%D7%AA%20%D7%96%D7%A8%D7%99%D7%9D%20%D7%91%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA-%20%D7%AA%D7%A8%D7%92%D7%95%D7%9D%20%D7%9E%D7%A2%D7%95%D7%93%D7%9B%D7%9F%20%D7%93%D7%A6%D7%9E%D7%91%D7%A8%202022%20(2).pdf",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/israel-palestine/dernieres-minutes-et-alertes",
+        "https://www.diplomatie.gouv.fr/fr/information-par-pays/israel-palestine/conseils-aux-voyageurs-entree-sejour",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/",
+        "https://jerusalem.diplomatie.gouv.fr/fr/informations-pratiques",
+        "https://jerusalem.diplomatie.gouv.fr/fr/vivre-venir",
+        "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/israel-palestine/",
+        "https://jerusalem.consulfrance.org/Entree-et-sejour-dans-les-Territoires-palestiniens",
+        "https://www.idf.il/en/mini-sites/coordinator-of-government-activities-in-the-territories/",
+        "https://new.embassies.gov.il/london/en/consular-services",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/israel-and-the-occupied-territories/",
+        "https://www.nederlandwereldwijd.nl/reisadvies/palestijnse-gebieden",
+        "https://www.travelpalestine.ps/en/page/entry-requirements",
+        "https://israel-entry.piba.gov.il/",
+        "https://www.mfa.gov.tr/filistin-seyahat-edecek-turk-vatandaslarinin-dikkatine.tr.mfa",
+        "https://travel.state.gov/en/international-travel/travel-advisories/israel-the-west-bank-and-gaza.html",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/IsraeltheWestBankandGaza.html"
+      ]
+    },
+    {
+      "destination": "KN",
+      "resolvedOrigins": [
+        "JP"
+      ],
+      "remainingOrigins": [
+        "AL",
+        "AR",
+        "AU",
+        "BB",
+        "BD",
+        "BH",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BW",
+        "BY",
+        "BZ",
+        "CH",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "EC",
+        "EG",
+        "FJ",
+        "GE",
+        "GH",
+        "GM",
+        "GT",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "JM",
+        "JO",
+        "KE",
+        "KI",
+        "KW",
+        "KZ",
+        "LI",
+        "LK",
+        "LS",
+        "MA",
+        "MC",
+        "ME",
+        "MH",
+        "MK",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "NG",
+        "NI",
+        "NO",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PY",
+        "QA",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SL",
+        "SM",
+        "SR",
+        "SS",
+        "SV",
+        "SZ",
+        "TG",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "VA",
+        "VE",
+        "VU",
+        "XK",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Added Japan from the correctly identified June 2026 Japanese MFA country page: 30-day short-visit exemption plus compulsory eTA, including minors. eTA validity and officer-determined stay are distinguished.",
+        "The other 92 origins remain without a reconciled current ordinary-passport duty/exemption. MFA outbound Visa-Free Countries is not an inbound list; treaties page exposes a multilateral index, and 2025 law/SRO indexes supply no additional controlling nationality order. Prior section 9/Sixth Schedule and bilateral commencement gaps persist. Hong Kong/Kosovo need document-specific evidence."
+      ],
+      "attemptedUrls": [
+        "https://www.mofa.gov.kn/?s=Electronic+Travel+Authorisation",
+        "https://lawcommission.gov.kn/annual-laws/annual-laws-of-st-kitts-and-nevis/?eeFolder=Annual-Laws/2025&eeFront=1&eeListID=1&ee=1",
+        "https://lawcommission.gov.kn/annual-laws/annual-laws-of-st-kitts-and-nevis/?eeFront=1&ee=1&eeFolder=Annual-Laws%2F2025%2FSROs&eeListID=1",
+        "https://www.smartraveller.gov.au/destinations/americas/saint-kitts-and-nevis",
+        "https://foreign.gov.kn/",
+        "https://mvep.gov.hr/konzularne-informacije-22730/informacije-o-putovanjima/drzave/22802?country=130",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/saint-kitts-and-nevis/",
+        "https://www.immigration.gov.kn/",
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_263.html",
+        "https://www.anzen.mofa.go.jp/info/pcsafetymeasure_291.html",
+        "https://www.anzen.mofa.go.jp/riskmap/index.html",
+        "https://lawcommission.gov.kn/annual-laws/annual-laws-of-st-kitts-and-nevis/",
+        "https://www.mofa.gov.kn/travel/",
+        "https://www.lawcommission.gov.kn/",
+        "https://www.safetravel.govt.nz/destinations/st-kitts-and-nevis",
+        "https://www.knatravelform.kn/en/general-information",
+        "https://lawcommission.gov.kn/revised-acts-of-st-kitts-and-nevis/revised-acts-of-st-kitts-and-nevis/",
+        "https://www.mofa.gov.kn/treaties/",
+        "https://travel.state.gov/en/international-travel/travel-advisories/saint-kitts-and-nevis.html"
+      ]
+    },
+    {
+      "destination": "MY",
+      "resolvedOrigins": [
+        "BR",
+        "SR"
+      ],
+      "remainingOrigins": [
+        "AL",
+        "AD",
+        "AR",
+        "BJ",
+        "BA",
+        "BG",
+        "TD",
+        "KM",
+        "CD",
+        "CR",
+        "SV",
+        "FI",
+        "GA",
+        "GR",
+        "GT",
+        "HN",
+        "IQ",
+        "IL",
+        "KZ",
+        "KW",
+        "KG",
+        "LV",
+        "LY",
+        "LT",
+        "LU",
+        "MH",
+        "FM",
+        "MC",
+        "MM",
+        "KP",
+        "MK",
+        "OM",
+        "PW",
+        "PS",
+        "PY",
+        "PL",
+        "ST",
+        "SA",
+        "SK",
+        "SO",
+        "SS",
+        "SD",
+        "SY",
+        "TJ",
+        "TL",
+        "TG",
+        "TN",
+        "TM",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VE",
+        "YE"
+      ],
+      "findings": [
+        "Added Brazil 90 days and Suriname 30 days from explicit national-passport exemptions in the Brasilia mission publication; current MDAC conditions are separate from the visa category.",
+        "The other 55 origins remain. CD/Zaire conflicts, AR/BA/OM/PY/UY and SO/SD visa-versus-arrival terminology, and CR/SV/GT/HN mandatory-visa footnotes remain unreconciled. IL/KP/PS special entry/documents and MM current short-tourist conditions are not settled by generic applications. Other unlisted nationalities lack a reliable current exemption/default; no fee, yellow-fever list or application eligibility is used as visa duty."
+      ],
+      "attemptedUrls": [
+        "https://punetejashtme.gov.al/en/regjimi-i-vizave-per-shtetasit-shqiptare/",
+        "https://www.kln.gov.my/web/tha_bangkok/requirement_foreigner",
+        "https://www.kln.gov.my/web/bel_brussels/other_information",
+        "https://www.kln.gov.my/web/bel_brussels/requirement_foreigner",
+        "https://www.kln.gov.my/web/bel_brussels/post/visa-information-1",
+        "https://www.mfa.bg/en/embassyinfo/malaysia",
+        "https://www.kln.gov.my/web/rou_bucharest/other_information",
+        "https://www.kln.gov.my/web/bra_brasilia/other_information",
+        "https://www.kln.gov.my/web/guest/requirement-for-foreigner",
+        "https://um.fi/travel-advice/-/c/MY",
+        "https://www.kln.gov.my/web/fin_helsinki/other_information",
+        "https://www.kln.gov.my/web/fin_helsinki/requirement_foreigner",
+        "https://finlandabroad.fi/web/mys/travel-advice",
+        "https://www.kln.gov.my/web/fra_paris/other_information",
+        "https://www.mfa.gr/missionsabroad/en/malaysia-en/about-malaysia/",
+        "https://www.imi.gov.my/index.php/en/main-services/entry-requirement-into-malaysia-en/",
+        "https://www.kln.gov.my/web/sgp_singapore/requirement_foreigner",
+        "https://www.kln.gov.my/web/ita_rome/other_information",
+        "https://www.kln.gov.my/web/ita_rome/requirement_foreigner",
+        "https://www.kln.gov.my/web/kwt_kuwait/other_information",
+        "https://www.kln.gov.my/web/kaz_astana/other_information",
+        "https://www.kln.gov.my/web/kaz_astana/requirement_foreigner",
+        "https://www.mfa.gov.lv/lv/malaizija-celojumu-bridinajumi",
+        "https://www.imi.gov.my/index.php/en/enforcement/",
+        "https://keliauk.urm.lt/location/malaizija",
+        "https://www.kln.gov.my/requirement-for-foreigner",
+        "https://www.kln.gov.my/web/omn_muscat/other_information",
+        "https://www.gov.pl/web/malezja/idp",
+        "https://www.gov.pl/web/malezja/informacje-dla-podrozujacych",
+        "https://www.kln.gov.my/web/pol_warsaw/other_information",
+        "https://www.kln.gov.my/web/pol_warsaw/requirement_foreigner",
+        "https://www.kln.gov.my/web/rou_bucharest/requirement_foreigner",
+        "https://www.kln.gov.my/web/sau_riyadh/other_information",
+        "https://www.kln.gov.my/web/sau_riyadh/requirement_foreigner",
+        "https://www.kln.gov.my/web/sdn_khartoum/other_information",
+        "https://www.mzv.sk/malajzia",
+        "https://www.kln.gov.my/web/aut_vienna/other_information",
+        "https://www.kln.gov.my/web/aut_vienna/requirement_foreigner",
+        "https://www.kln.gov.my/web/syr_damascus/other_information",
+        "https://www.kln.gov.my/web/twn_taipei/requirement_foreigner",
+        "https://www.kln.gov.my/web/tun_tunis/other_information",
+        "https://www.kln.gov.my/web/ukr_kiev/other_information",
+        "https://www.kln.gov.my/web/ukr_kiev/requirement_foreigner",
+        "https://www.kln.gov.my/web/are_abu-dhabi/requirement_foreigner",
+        "https://www.kln.gov.my/web/usa_new-york/requirement_foreigner",
+        "https://www.kln.gov.my/web/usa_washington/other_information",
+        "https://travel.state.gov/en/international-travel/travel-advisories/malaysia.html",
+        "https://my.usembassy.gov/visas/entry-exit-requirements/",
+        "https://www.kln.gov.my/web/uzb_tashkent/other_information",
+        "https://www.kln.gov.my/web/uzb_tashkent/requirement_foreigner",
+        "https://www.kln.gov.my/web/usa_washington/requirement_foreigner"
+      ]
+    },
+    {
+      "destination": "AF",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AZ",
+        "CN",
+        "HK",
+        "ID",
+        "IL",
+        "IN",
+        "IR",
+        "KG",
+        "KZ",
+        "MO",
+        "MY",
+        "OM",
+        "QA",
+        "SA",
+        "TJ",
+        "TM",
+        "UZ"
+      ],
+      "findings": [
+        "All 17 origins retained. The newly navigated central MFA tourist-visa page states a three-month validity and one-month stay, but neither nationality duty nor a reconciled exception/mission-residence schedule. It does not resolve the existing Dubai nationality/residence restrictions or HK/MO/IL documents.",
+        "General availability of an Afghan tourist visa is not proof of a requirement or routine issuance for these origins; one calendar month is not converted to 30 days."
+      ],
+      "attemptedUrls": [
+        "https://www.eoi.gov.in/kabul/?pdf?0913",
+        "https://mfa.gov.af/en/page/3872",
+        "https://mfa.gov.af/en/visa/",
+        "https://mfa.gov.af/en/afghanistans-foreign-mission",
+        "https://mfa.tj/en/main/consular-services/consular-services/visa-free-regime",
+        "https://mfa.gov.af/en/tourist-visa",
+        "https://mfa.gov.af/en/types-of-visa"
+      ]
+    },
+    {
+      "destination": "PY",
+      "resolvedOrigins": [
+        "KN",
+        "SA",
+        "TT"
+      ],
+      "remainingOrigins": [
+        "HK",
+        "KP",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "Added KN/TT from the explicit current MFA ordinary-exemption group and SA from its explicit ordinary-passport visa requirement. No duration is invented.",
+        "HK/MO/PS/XK documents remain unestablished. KP remains: new table names South Korea but no North Korean determination; its residual default is not expanded because known Mongolian exemption evidence remains absent from that table. Law 6984 requires a consular visa only for countries that require one and cannot supply the missing nationality determination. New online application is not an eVisa entitlement."
+      ],
+      "attemptedUrls": [
+        "https://www.mre.gov.py/requisitos-de-visa-por-paises/",
+        "https://www.mofa.gov.kn/?s=Paraguay",
+        "https://www.bacn.gov.py/buscar?texto=pasaportes+Saint",
+        "https://migraciones.gov.py/informacion-sobre-visas/",
+        "https://www.mre.gov.py/visas/",
+        "https://www.bacn.gov.py/leyes-paraguayas/10973/ley-n-6984-de-migraciones"
+      ]
+    },
+    {
+      "destination": "DJ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "IL",
+        "XK",
+        "PS",
+        "SG"
+      ],
+      "findings": [
+        "All five retained. HKSAR combined waiver/arrival wording still does not settle the 14-day method; Singapore MFA still only supplies passport-validity guidance. IL/XK/PS need a substantive ordinary-document rule. No nationality ban or automatic eVisa issuance is inferred.",
+        "Public presidential legislation navigation did not recover a governing nationality schedule; failed guessed legal locator is rejected, not evidence."
+      ],
+      "attemptedUrls": [
+        "https://www.presidence.dj/texte.php?ID=198&ID2=2014&ID3=Loi&ID4=5&ID5=2014-01-23&ID6=n",
+        "https://www.presidence.dj/",
+        "https://www.mfa.gov.sg/Countries-Regions/D/Djibouti/Travel-Page"
+      ]
+    },
+    {
+      "destination": "LR",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "All four retained. London expressly requires visas for foreign nationals except ECOWAS-passport citizens, but no new HK/MO/PS/XK ordinary-document determination was recovered. Immigration root links the already-inspected service charter rather than a recognition schedule.",
+        "The known requirement and conditional ROB advance-approval collection process do not certify document acceptance or eligibility for every residence profile. These distinctions remain in notes; no blanket arrival permission is added."
+      ],
+      "attemptedUrls": [
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://lis.gov.lr/",
+        "https://www.embassyofliberia.co.uk/consular-services/visa-application/",
+        "https://www.mofa.gov.lr/consular/visa-information"
+      ]
+    },
+    {
+      "destination": "MA",
+      "resolvedOrigins": [
+        "AZ"
+      ],
+      "remainingOrigins": [
+        "XK",
+        "TL"
+      ],
+      "findings": [
+        "Resolved AZ conflict using the actual Rabat embassy ordinary-passport commencement announcement: reciprocal 90-day waiver effective 28 August 2024. The 180-day passport-validity sentence is attached to Moroccan travel to Azerbaijan and is not independently generalized to the reverse route. The notice provides the operative temporal evidence missing from the live-checker versus undated eVisa-terms conflict.",
+        "XK/TL remain absent from the real prior portal records; no recognized ordinary document or governing requirement/exemption obtained. No invented checker values or nationality-wide entry ban."
+      ],
+      "attemptedUrls": [
+        "https://rabat.mfa.gov.az/az/news/3165/annonce",
+        "https://rabat.mfa.gov.az/az/news/3166/annonce",
+        "https://rabat.mfa.gov.az/az/news/3167/annonce",
+        "https://rabat.mfa.gov.az/en/content/3/bilateral-relations",
+        "https://rabat.mfa.gov.az/",
+        "https://rabat.mfa.gov.az/en/content/63/visa-free-regime",
+        "https://mfa.gov.az/en/category/visa/visa-free-regime",
+        "https://rabat.mfa.gov.az/en"
+      ]
+    },
+    {
+      "destination": "TH",
+      "resolvedOrigins": [
+        "PS"
+      ],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "Added PS requirement-only by combining the ministry-published statutory default, actual September 2026 ordinary-exemption chart and newly retrieved Amman Palestinian-resident tourist-document instructions. Residency and separate multiple-entry conditions are preserved; old paper workflow and stay are not represented as assured current processing.",
+        "XK remains unresolved: Kosovo MFA July 2024 waiver announcement conflicts with the effective September 2026 Thai chart. Generic Ankara eVisa instructions do not reconcile that conflict or establish document handling."
+      ],
+      "attemptedUrls": [
+        "https://amman.thaiembassy.org/en/page/type-of-visas-and-how-to-apply?menu=5f93e95070d28d494838cba2",
+        "https://ankara.thaiembassy.org/en/publicservice/how-to-apply-for-an-e-visa",
+        "https://image.mfa.go.th/mfa/0/91fPdh6NtO/Consular-Services/Visa/Final_edited_For_Foreign_Visitor_Travelling_to_Thailand.jpg",
+        "https://washingtondc.thaiembassy.org/en/page/visa-information",
+        "https://washingtondc.thaiembassy.org/en/page/visaexempt-voajul2024",
+        "https://image.mfa.go.th/mfa/0/zE6021nSnu/General_Information.pdf",
+        "https://ankara.thaiembassy.org/en/page/visa-information",
+        "https://consular.mfa.go.th/th/content/80298-how-to-apply-for-a-thai-visa",
+        "https://amman.thaiembassy.org/en/publicservice/visa-information",
+        "https://amman.thaiembassy.org/en/publicservice/tourist-visa-single-and-multiple-entry"
+      ]
+    },
+    {
+      "destination": "ET",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "Both PS/XK retained. No new ordinary-document determination; fresh Immigration root is a non-substantive response and old London visa locator now serves a general site page. Prior general visa default/all-country language and Kenya/Djibouti exceptions do not establish these particular documents or channels."
+      ],
+      "attemptedUrls": [
+        "https://ethioembassy.org.uk/visa-services-2/",
+        "https://ics.gov.et/visa-services/",
+        "https://ics.gov.et/",
+        "https://www.mfae.gov.ps/en-us/"
+      ]
+    },
+    {
+      "destination": "MX",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK retained. Current INM schedule still supplies no explicit Kosovo document determination, and the Serbia embassy visa page returns browser verification. No challenge bypass, substitute UNMIK document or inference from diplomatic relations."
+      ],
+      "attemptedUrls": [
+        "https://www.inm.gob.mx/gobmx/word/index.php/paises-requieren-visa-para-mexico/",
+        "https://ambasadat.net/vizat-per-shtetasit-e-kosoves/",
+        "https://embamex.sre.gob.mx/serbia/index.php/consulares/visas"
+      ]
+    },
+    {
+      "destination": "BH",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK retained. The known national-portal visa duty except the five GCC nationalities is not an assurance that a Kosovo ordinary passport is accepted or a particular tourist visa is issued. NPRA service locator supplies no decision and the official legal host fails certificate validation. No fabricated eligibility result."
+      ],
+      "attemptedUrls": [
+        "https://ambasadat.net/",
+        "https://www.legalaffairs.gov.bh/",
+        "https://www.npra.gov.bh/en/services/visa-and-residence-permit/visa-services/"
+      ]
+    }
+  ],
+  "corrections": []
+}

@@ -26,7 +26,7 @@ for (const pass of manifest.passes) for (const artifact of pass.patches) {
   const passCache = `.cache/nomads/${pass.id}`;
   const nestedCache = `${passCache}/${artifact.batch}`;
   const cache = fs.existsSync(nestedCache) ? nestedCache : passCache;
-  if (pass.researchSha256) assert.equal(sha256(fs.readFileSync(`${passCache}/final-candidate.json`)), pass.researchSha256, 'Reviewed research input hash mismatch');
+  if (pass.researchSha256) assert.equal(sha256(fs.readFileSync(`${passCache}/${pass.researchFile || 'final-candidate.json'}`)), pass.researchSha256, 'Reviewed research input hash mismatch');
   const hashes = captureHashes(cache);
   const hashed = Object.entries(patch.sources).filter(([, source]) => source.sha256);
   const missing = hashed.filter(([, source]) => !hashes.has(source.sha256!) && !retainedHashes.has(source.sha256!)).map(([id]) => id);

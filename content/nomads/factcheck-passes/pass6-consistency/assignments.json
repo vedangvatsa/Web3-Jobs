@@ -1,0 +1,344 @@
+{
+  "baselineSha256": "13a3f7f2f5ee25a1eac2a6f1113c9789f1f4197ed5a5ad0746ec2c4e83d20bf3",
+  "scope": "targeted",
+  "batches": [
+    {
+      "id": "pass6-consistency",
+      "routes": 252,
+      "destinations": [
+        {
+          "iso": "BF",
+          "origins": [
+            "BI",
+            "CF",
+            "MR",
+            "PS",
+            "RW",
+            "TW",
+            "US",
+            "XK"
+          ]
+        },
+        {
+          "iso": "BI",
+          "origins": [
+            "CD",
+            "XK",
+            "PS",
+            "SO"
+          ]
+        },
+        {
+          "iso": "CY",
+          "origins": [
+            "XK",
+            "NR",
+            "SO"
+          ]
+        },
+        {
+          "iso": "ER",
+          "origins": [
+            "ET",
+            "HK",
+            "KE",
+            "XK",
+            "MO",
+            "PS",
+            "SD",
+            "TW",
+            "UG"
+          ]
+        },
+        {
+          "iso": "ET",
+          "origins": [
+            "XK",
+            "PS"
+          ]
+        },
+        {
+          "iso": "IQ",
+          "origins": [
+            "BD",
+            "HK",
+            "IR",
+            "IL",
+            "XK",
+            "LB",
+            "PS"
+          ]
+        },
+        {
+          "iso": "KE",
+          "origins": [
+            "XK",
+            "PS",
+            "SO"
+          ]
+        },
+        {
+          "iso": "KW",
+          "origins": [
+            "AF",
+            "BH",
+            "CG",
+            "CD",
+            "EG",
+            "IR",
+            "IQ",
+            "IL",
+            "XK",
+            "MO",
+            "KP",
+            "OM",
+            "PK",
+            "PS",
+            "SA",
+            "SB",
+            "SS",
+            "UG",
+            "YE"
+          ]
+        },
+        {
+          "iso": "LK",
+          "origins": [
+            "PS"
+          ]
+        },
+        {
+          "iso": "MM",
+          "origins": [
+            "XK",
+            "PS"
+          ]
+        },
+        {
+          "iso": "NE",
+          "origins": [
+            "IL",
+            "MO",
+            "PS",
+            "XK",
+            "SE",
+            "MR",
+            "MU",
+            "RW"
+          ]
+        },
+        {
+          "iso": "NP",
+          "origins": [
+            "XK"
+          ]
+        },
+        {
+          "iso": "SY",
+          "origins": [
+            "AF",
+            "AL",
+            "DZ",
+            "AD",
+            "AO",
+            "AG",
+            "AR",
+            "AM",
+            "AT",
+            "AZ",
+            "BS",
+            "BH",
+            "BD",
+            "BB",
+            "BY",
+            "BZ",
+            "BJ",
+            "BT",
+            "BO",
+            "BA",
+            "BW",
+            "BR",
+            "BN",
+            "BG",
+            "BF",
+            "BI",
+            "KH",
+            "CM",
+            "CV",
+            "CF",
+            "TD",
+            "CL",
+            "CO",
+            "KM",
+            "CG",
+            "CD",
+            "CR",
+            "CI",
+            "HR",
+            "CU",
+            "CY",
+            "CZ",
+            "DJ",
+            "DM",
+            "DO",
+            "EC",
+            "EG",
+            "SV",
+            "GQ",
+            "ER",
+            "SZ",
+            "ET",
+            "FJ",
+            "FI",
+            "GA",
+            "GM",
+            "GE",
+            "GH",
+            "GR",
+            "GD",
+            "GT",
+            "GN",
+            "GW",
+            "GY",
+            "HT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "ID",
+            "IQ",
+            "IE",
+            "JM",
+            "JP",
+            "JO",
+            "KZ",
+            "KE",
+            "KI",
+            "XK",
+            "KW",
+            "KG",
+            "LA",
+            "LV",
+            "LB",
+            "LS",
+            "LR",
+            "LY",
+            "LI",
+            "LT",
+            "LU",
+            "MO",
+            "MG",
+            "MW",
+            "MY",
+            "MV",
+            "ML",
+            "MT",
+            "MH",
+            "MR",
+            "MU",
+            "MX",
+            "FM",
+            "MC",
+            "ME",
+            "MA",
+            "MZ",
+            "MM",
+            "NA",
+            "NR",
+            "NP",
+            "NZ",
+            "NI",
+            "NE",
+            "NG",
+            "KP",
+            "MK",
+            "NO",
+            "OM",
+            "PK",
+            "PW",
+            "PS",
+            "PA",
+            "PG",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "QA",
+            "RO",
+            "RU",
+            "RW",
+            "KN",
+            "LC",
+            "WS",
+            "SM",
+            "ST",
+            "SA",
+            "SN",
+            "RS",
+            "SC",
+            "SL",
+            "SG",
+            "SK",
+            "SB",
+            "SO",
+            "ZA",
+            "KR",
+            "SS",
+            "LK",
+            "VC",
+            "SD",
+            "SR",
+            "SE",
+            "CH",
+            "TJ",
+            "TZ",
+            "TH",
+            "TL",
+            "TG",
+            "TO",
+            "TT",
+            "TN",
+            "TM",
+            "TV",
+            "UG",
+            "UA",
+            "US",
+            "UY",
+            "UZ",
+            "VU",
+            "VA",
+            "VE",
+            "VN",
+            "YE",
+            "ZM",
+            "ZW"
+          ]
+        },
+        {
+          "iso": "UG",
+          "origins": [
+            "XK",
+            "PS",
+            "SO"
+          ]
+        },
+        {
+          "iso": "VE",
+          "origins": [
+            "IL",
+            "MO",
+            "XK"
+          ]
+        },
+        {
+          "iso": "ZA",
+          "origins": [
+            "XK",
+            "PS"
+          ]
+        }
+      ]
+    }
+  ]
+}

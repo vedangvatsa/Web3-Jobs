@@ -1,0 +1,1351 @@
+{
+  "version": 1,
+  "batch": "pass6-consistency",
+  "baselineSha256": "13a3f7f2f5ee25a1eac2a6f1113c9789f1f4197ed5a5ad0746ec2c4e83d20bf3",
+  "sources": {
+    "pass6-consistency-cy-duty": {
+      "title": "Cyprus: Somali nationality visa duty under Regulation 2018/1806, document pathway unconfirmed",
+      "urls": [
+        "https://publications.europa.eu/resource/cellar/ece43fab-0ca3-11f1-8870-01aa75ed71a1.0006.02/DOC_1",
+        "https://publications.europa.eu/resource/cellar/40979e70-7944-11ef-bbbe-01aa75ed71a1.0006.03/DOC_1",
+        "https://publications.europa.eu/resource/cellar/58feb4b3-d218-11ef-be2a-01aa75ed71a1.0006.03/DOC_1",
+        "https://www.gov.cy/en/information/visas/",
+        "https://www.gov.cy/information/theoriseis-eisodou/",
+        "https://www.gov.cy/mfa-highcomottawa/en/consular-services/visa-information/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-cy-duty-capture-1": {
+      "title": "Cyprus: Somali nationality visa duty under Regulation 2018/1806, document pathway unconfirmed: source 1 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://publications.europa.eu/resource/cellar/ece43fab-0ca3-11f1-8870-01aa75ed71a1.0006.02/DOC_1"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "d903ae2efaada70c04a70f353a43e5827258d5facf98622627cfeb9e1b87a9ee"
+    },
+    "pass6-consistency-cy-duty-capture-2": {
+      "title": "Cyprus: Somali nationality visa duty under Regulation 2018/1806, document pathway unconfirmed: source 2 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://publications.europa.eu/resource/cellar/ece43fab-0ca3-11f1-8870-01aa75ed71a1.0006.02/DOC_1"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "d903ae2efaada70c04a70f353a43e5827258d5facf98622627cfeb9e1b87a9ee"
+    },
+    "pass6-consistency-bf-duty": {
+      "title": "Burkina Faso: air-entry visa condition, document and tourist issuance unconfirmed",
+      "urls": [
+        "https://aim.asecna.aero/pdf/FR-_02GEN-1.3-01-fr-FR.pdf",
+        "https://aim.asecna.aero/amdt/amdt2610aaa.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-_02GEN-1.3-01-fr-FR.html",
+        "https://aim.asecna.aero/amdt/amdt2510.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-eAICs-fr-FR.html",
+        "https://www.mofa.gov.ae/en/travel-updates?code=BFA",
+        "https://diplomatie.gov.bf/index.php/premiere-commission-mixte-de-cooperation-burkina-faso-republique-du-burundi-14-accords-signes-pour-rapprocher-les-peuples-des-deux-pays/",
+        "https://diplomatie.gov.bf/index.php/cooperation-bilaterale-la-dynamique-au-burkina-faso-suscite-linteret-de-lindonesie-et-des-bahamas-desireux-de-solidifier-leur-partenariat-avec-ouagadougou/",
+        "https://www.migration.gov.rw/1-1/sops-1"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-bf-duty-capture-1": {
+      "title": "Burkina Faso: air-entry visa condition, document and tourist issuance unconfirmed: source 1",
+      "urls": [
+        "https://aim.asecna.aero/pdf/FR-_02GEN-1.3-01-fr-FR.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6e9d8abbdcd566ea7ee45acec5351fb9c3f18ea7280f09c54a57a0ecd5a5b750"
+    },
+    "pass6-consistency-bf-duty-capture-2": {
+      "title": "Burkina Faso: air-entry visa condition, document and tourist issuance unconfirmed: source 2",
+      "urls": [
+        "https://aim.asecna.aero/amdt/amdt2610aaa.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f3510118b4974b32fb83a8bd42948d5ffede0735404a4a2e78e0694f7c4978f6"
+    },
+    "pass6-consistency-ne-duty": {
+      "title": "Niger: air-entry visa condition from the explicit residual passenger rule",
+      "urls": [
+        "https://aim.asecna.aero/pdf/FR-_12GEN-1.3-01-fr-FR.pdf",
+        "https://aim.asecna.aero/amdt/amdt2610aaa.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-_12GEN-1.3-01-fr-FR.html",
+        "https://aim.asecna.aero/amdt/amdt2606.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-eAICs-fr-FR.html",
+        "https://ambassadeniger-fr.org/version-wp-2019/?page_id=53",
+        "https://www.nederlandwereldwijd.nl/reisadvies/niger",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa",
+        "https://www.boca.gov.tw/sp-foof-countrycp-03-237-c449b-02-1.html"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-ne-duty-capture-1": {
+      "title": "Niger: air-entry visa condition from the explicit residual passenger rule: source 1",
+      "urls": [
+        "https://aim.asecna.aero/pdf/FR-_12GEN-1.3-01-fr-FR.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "dab7e678ae84a2d939a56aec48eef4e2a2c75fddde08bf641dcfa98cbadf8a72"
+    },
+    "pass6-consistency-ne-duty-capture-2": {
+      "title": "Niger: air-entry visa condition from the explicit residual passenger rule: source 2",
+      "urls": [
+        "https://aim.asecna.aero/amdt/amdt2610aaa.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "f3510118b4974b32fb83a8bd42948d5ffede0735404a4a2e78e0694f7c4978f6"
+    },
+    "pass6-consistency-ve-duty": {
+      "title": "Venezuela: qualified air-entry tourist visa duty from authenticated default and exception table",
+      "urls": [
+        "https://madrid.consulado.gob.ve/turismo/",
+        "https://www.mppre.gob.ve/index.php/detalle_turismo/2",
+        "https://mppre.gob.ve/index.php/publicacion/4431-0",
+        "https://madrid.consulado.gob.ve/visa-de-turista-t/",
+        "https://travel.gc.ca/destinations/venezuela",
+        "https://mppre.gob.ve/index.php/consulados_venezuela",
+        "https://mppre.gob.ve/index.php/apiconsul",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/venezuela",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://bolivianembassy.co.uk/visas/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-ve-duty-capture-1": {
+      "title": "Venezuela: qualified air-entry tourist visa duty from authenticated default and exception table: source 1",
+      "urls": [
+        "https://madrid.consulado.gob.ve/turismo/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "209aab1cb7823fff6ec04b397b5f3703cd5bcd1f4a982aa5f909c90916161e7d"
+    },
+    "pass6-consistency-ve-duty-capture-2": {
+      "title": "Venezuela: qualified air-entry tourist visa duty from authenticated default and exception table: source 2",
+      "urls": [
+        "https://www.mppre.gob.ve/index.php/detalle_turismo/2"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "efb9b956dcd9326d4fdbe3f3ad57dc8a8becc8c76df8a7a61cbc7046162ee383"
+    },
+    "pass6-consistency-ve-duty-capture-3": {
+      "title": "Venezuela: qualified air-entry tourist visa duty from authenticated default and exception table: source 3",
+      "urls": [
+        "https://mppre.gob.ve/index.php/publicacion/4431-0"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "06eb0fb527d8a08806afffa6eba69c6dcccc9ddc8aa769207bc752b5146898c7"
+    },
+    "pass6-consistency-ve-duty-capture-4": {
+      "title": "Venezuela: qualified air-entry tourist visa duty from authenticated default and exception table: source 4",
+      "urls": [
+        "https://madrid.consulado.gob.ve/visa-de-turista-t/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "257ce8cda5ee361716cd5023dfb91b005975bfbf735303f3e7321e5860449278"
+    },
+    "pass6-consistency-et-duty": {
+      "title": "Ethiopia: affirmative visitor visa duty with named Kenya/Djibouti exceptions",
+      "urls": [
+        "https://ethioembassy.org.uk/visa-services-2/",
+        "https://ethiopianembassy.be/?page_id=20",
+        "https://consular.ethiopianembassy.org/service-details_visa.php",
+        "https://ethiopianembassy.be/?page_id=10346"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-et-duty-capture-1": {
+      "title": "Ethiopia: affirmative visitor visa duty with named Kenya/Djibouti exceptions: source 1 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://ethioembassy.org.uk/visa-services-2/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "2960630a578fb7df44e73860179511a4ad5215254e76185c02a01847619313ca"
+    },
+    "pass6-consistency-et-duty-capture-2": {
+      "title": "Ethiopia: affirmative visitor visa duty with named Kenya/Djibouti exceptions: source 2 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://ethiopianembassy.be/?page_id=20"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "2a85d588d24f0106d3146295406018af0203f355f4f3ca54a4aaf00e053e0987"
+    },
+    "pass6-consistency-et-duty-capture-3": {
+      "title": "Ethiopia: affirmative visitor visa duty with named Kenya/Djibouti exceptions: source 3 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://consular.ethiopianembassy.org/service-details_visa.php"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e8aaa3418472bd13a4f11015eca2203b65d88570576ae6fae7e3dd5718e1d179"
+    },
+    "pass6-consistency-np-duty": {
+      "title": "Nepal: tourist visa duty except Indian nationals, Kosovo document pathway unconfirmed",
+      "urls": [
+        "https://ntb.gov.np/plan-your-trip/before-you-come/tourist-visa",
+        "https://uk.nepalembassy.gov.np/pages/visa/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-np-duty-capture-1": {
+      "title": "Nepal: tourist visa duty except Indian nationals, Kosovo document pathway unconfirmed: source 1",
+      "urls": [
+        "https://ntb.gov.np/plan-your-trip/before-you-come/tourist-visa"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "98ef5259fc653def220990972dbb023f536ea63a91c8e834f162bb4a6d1d35e1"
+    },
+    "pass6-consistency-lk-duty": {
+      "title": "Sri Lanka: prior entry-permission duty, Palestinian document and channel unconfirmed",
+      "urls": [
+        "https://eta.gov.lk/slvisa/visainfo/center.jsp?locale=en_US",
+        "https://www.eta.gov.lk/slvisa/visainfo/diplo.jsp?locale=en_US",
+        "https://eta.gov.lk/slvisa/visainfo/faq.jsp?locale=en_US"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-lk-duty-capture-1": {
+      "title": "Sri Lanka: prior entry-permission duty, Palestinian document and channel unconfirmed: source 1",
+      "urls": [
+        "https://eta.gov.lk/slvisa/visainfo/center.jsp?locale=en_US"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "1ddee26ce974b79aa703eac84e2e0c44d50a2d556ea59960805f311413e30373"
+    },
+    "pass6-consistency-lk-duty-capture-2": {
+      "title": "Sri Lanka: prior entry-permission duty, Palestinian document and channel unconfirmed: source 2",
+      "urls": [
+        "https://www.eta.gov.lk/slvisa/visainfo/diplo.jsp?locale=en_US"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "158a59a71b06e18db4d916bc78f6c01bafd08cf06482ace960aefa15762fac43"
+    },
+    "pass6-consistency-lk-duty-capture-3": {
+      "title": "Sri Lanka: prior entry-permission duty, Palestinian document and channel unconfirmed: source 3",
+      "urls": [
+        "https://eta.gov.lk/slvisa/visainfo/faq.jsp?locale=en_US"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "bcdbf5e38fb59a2f22d09e2fb945f4b429adadd5a463be4e504d99336ca79b09"
+    },
+    "pass6-consistency-bi-duty": {
+      "title": "Burundi CGM: airport visa duty with ordinary and fee-free exceptions distinguished",
+      "urls": [
+        "https://migration.gov.bi/assets/img/cgm_visa_info_fra.jpg",
+        "https://www.mae.gov.bi/2024/09/27/les-pays-signes-avec-le-burundi-les-accords-dexemption-des-visas-2/",
+        "https://www.mae.gov.bi/visa-gratuit/",
+        "https://migration.gov.bi/",
+        "https://www.ambabuwashington.mae.gov.bi/visa/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-bi-duty-capture-1": {
+      "title": "Burundi CGM: airport visa duty with ordinary and fee-free exceptions distinguished: source 1",
+      "urls": [
+        "https://migration.gov.bi/assets/img/cgm_visa_info_fra.jpg"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "fae6d671b7bcb4614aa0163ceb6b7330f64e214c0346ea71c54af6003f95b89f"
+    },
+    "pass6-consistency-bi-duty-capture-2": {
+      "title": "Burundi CGM: airport visa duty with ordinary and fee-free exceptions distinguished: source 2",
+      "urls": [
+        "https://www.mae.gov.bi/2024/09/27/les-pays-signes-avec-le-burundi-les-accords-dexemption-des-visas-2/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "c86f56a535a6110fbf76acb20a8722ec8bb6efb43beeae85a6725034e81cdadf"
+    },
+    "pass6-consistency-bi-duty-capture-3": {
+      "title": "Burundi CGM: airport visa duty with ordinary and fee-free exceptions distinguished: source 3",
+      "urls": [
+        "https://www.mae.gov.bi/visa-gratuit/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "8445530618996a5804cd6f70944945862f6ecbd15c5342afe27545cf31cc0087"
+    },
+    "pass6-consistency-er-duty": {
+      "title": "Eritrea: non-Eritrean visa duty with document and issuance limitations",
+      "urls": [
+        "https://us.embassyeritrea.org/visa/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-er-duty-capture-1": {
+      "title": "Eritrea: non-Eritrean visa duty with document and issuance limitations: source 1 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://us.embassyeritrea.org/visa/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e15dc940e8eec5392f81844265375fa21faab3b1248cca38b71397791c811be9"
+    },
+    "pass6-consistency-er-duty-capture-2": {
+      "title": "Eritrea: non-Eritrean visa duty with document and issuance limitations: source 2 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://us.embassyeritrea.org/visa/"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e15dc940e8eec5392f81844265375fa21faab3b1248cca38b71397791c811be9"
+    },
+    "pass6-consistency-sy-duty-cz": {
+      "title": "Czech MFA: explicit short-traveller visa duty for Syria",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/blizky_vychod/syrie/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-sy-duty-cz-capture-1": {
+      "title": "Czech MFA: explicit short-traveller visa duty for Syria: source 1",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/blizky_vychod/syrie/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6c57506cc7b78e350e6c8357d1a839a9b81dab9e20388e5cba5273c55f219c1a"
+    },
+    "pass6-consistency-sy-duty-pt": {
+      "title": "Portuguese MFA: explicit Syrian visa duty, current channel unconfirmed",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/s/siria"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-sy-duty-pt-capture-1": {
+      "title": "Portuguese MFA: explicit Syrian visa duty, current channel unconfirmed: source 1",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/s/siria"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "e384b0c965fd2814ae8aba76688cdf8a5471e2f8ea4d852095327d4cd4ab276f"
+    },
+    "pass6-consistency-iq-duty": {
+      "title": "Iraq: federal statutory visa condition separate from document acceptance and issuance",
+      "urls": [
+        "https://moj.gov.iq/upload/pdf/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A5%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8.pdf",
+        "https://moj.gov.iq/upload/pdf/2154e6b57c1825d4_%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85%20%D9%88%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%20%D9%88%D8%A7%D8%AC%D8%A7%D8%B2%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D9%86%D8%A8%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%20-%20Copy.pdf",
+        "https://moj.gov.iq/view.6083/",
+        "https://mofa.gov.iq/london/en/visa/",
+        "https://gov.krd/english/information-and-services/visitor/",
+        "https://visit.gov.krd/visa-eligibility-checker",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/iraq"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-iq-duty-capture-1": {
+      "title": "Iraq: federal statutory visa condition separate from document acceptance and issuance: source 1",
+      "urls": [
+        "https://moj.gov.iq/upload/pdf/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A5%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "38e33d2caad52449401c3db4715a5d1b13694fcfc232fa4205f63b5a0effc585"
+    },
+    "pass6-consistency-iq-duty-capture-2": {
+      "title": "Iraq: federal statutory visa condition separate from document acceptance and issuance: source 2",
+      "urls": [
+        "https://moj.gov.iq/upload/pdf/2154e6b57c1825d4_%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85%20%D9%88%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%20%D9%88%D8%A7%D8%AC%D8%A7%D8%B2%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D9%86%D8%A8%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%20-%20Copy.pdf"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "8f939f1b90ea4035ef66f995a9017ad653276e4aad6090565684320c8ca90f92"
+    },
+    "pass6-consistency-ke-duty": {
+      "title": "Kenya: eTA obligation with statutory exceptions, document and issuance unconfirmed",
+      "urls": [
+        "https://etakenya.go.ke/how-to-apply",
+        "https://new.kenyalaw.org/akn/ke/act/ln/2025/93/eng@2025-05-30/source"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-ke-duty-capture-1": {
+      "title": "Kenya: eTA obligation with statutory exceptions, document and issuance unconfirmed: source 1",
+      "urls": [
+        "https://etakenya.go.ke/how-to-apply"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "3ea07e87c1d027f7946e3986c81d7eec92cac87c037938f915842a155a6d7ddb"
+    },
+    "pass6-consistency-ke-duty-capture-2": {
+      "title": "Kenya: eTA obligation with statutory exceptions, document and issuance unconfirmed: source 2",
+      "urls": [
+        "https://new.kenyalaw.org/akn/ke/act/ln/2025/93/eng@2025-05-30/source"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "da7da67d0766a4f8628e5825692ecf553c16819b895f4f68b070bbafc4841495"
+    },
+    "pass6-consistency-ug-duty": {
+      "title": "Uganda: explicit tourist visa duty and ordinary-passport exemption schedule",
+      "urls": [
+        "https://www.immigration.go.ug/node/198",
+        "https://www.immigration.go.ug/services/visa-exempt-countries",
+        "https://www.immigration.go.ug/services/tourist-visa"
+      ],
+      "checkedAt": "2026-10-11"
+    },
+    "pass6-consistency-ug-duty-capture-1": {
+      "title": "Uganda: explicit tourist visa duty and ordinary-passport exemption schedule: source 1",
+      "urls": [
+        "https://www.immigration.go.ug/node/198"
+      ],
+      "checkedAt": "2026-10-11",
+      "sha256": "1d3de7b08af616c7630f1902f66ea196e7fa0c22f802ff61a1bbda44e977b565"
+    },
+    "pass6-consistency-ug-duty-capture-2": {
+      "title": "Uganda: explicit tourist visa duty and ordinary-passport exemption schedule: source 2 (saved body; no separate HTTP receipt)",
+      "urls": [
+        "https://www.immigration.go.ug/services/visa-exempt-countries"
+      ],
+      "checkedAt": "2026-10-07",
+      "sha256": "ae218d041fe16f53750ea588c8dc16961acdb971ef14e62305ded0e246792dfe"
+    },
+    "pass6-consistency-za-duty": {
+      "title": "South Africa: explicit visitor visa duty and DHA ordinary exemption column",
+      "urls": [
+        "https://www.gov.za/services/temporary-residence/visa",
+        "https://www.dha.gov.za/index.php/immigration-services/exempt-countries"
+      ],
+      "checkedAt": "2026-10-11"
+    },
+    "pass6-consistency-za-duty-capture-1": {
+      "title": "South Africa: explicit visitor visa duty and DHA ordinary exemption column: source 1",
+      "urls": [
+        "https://www.gov.za/services/temporary-residence/visa"
+      ],
+      "checkedAt": "2026-10-11",
+      "sha256": "f90cb44e4695031070ba26fde522283569d39b5ddfc7710bcd323f49a57d567b"
+    },
+    "pass6-consistency-za-duty-capture-2": {
+      "title": "South Africa: explicit visitor visa duty and DHA ordinary exemption column: source 2 (saved text only; raw response unavailable)",
+      "urls": [
+        "https://www.dha.gov.za/index.php/immigration-services/exempt-countries"
+      ],
+      "checkedAt": "2026-10-07"
+    },
+    "pass6-consistency-mm-duty": {
+      "title": "Myanmar: express foreigner visa duty and July 2026 passport-class exception schedule",
+      "urls": [
+        "https://www.myanmarcgla.org/index.php/visa/visa-information",
+        "https://www.myanmarcgla.org/images/20260710-01.jpg",
+        "https://www.myanmarcgla.org/images/20260710-02.jpg",
+        "https://evisa.moip.gov.mm/assets/jsondata/notice-to-tourist.json",
+        "https://www.myanmarcgla.org/index.php/visa/visa-exemption"
+      ],
+      "checkedAt": "2026-10-11"
+    },
+    "pass6-consistency-mm-duty-capture-1": {
+      "title": "Myanmar: express foreigner visa duty and July 2026 passport-class exception schedule: source 1",
+      "urls": [
+        "https://www.myanmarcgla.org/index.php/visa/visa-information"
+      ],
+      "checkedAt": "2026-10-11",
+      "sha256": "a6b9b7c76e6a7c534fc955523467725e93dfe2a0c2ab9dc85311ee0dd0f65147"
+    },
+    "pass6-consistency-mm-duty-capture-2": {
+      "title": "Myanmar: express foreigner visa duty and July 2026 passport-class exception schedule: source 2",
+      "urls": [
+        "https://www.myanmarcgla.org/images/20260710-01.jpg"
+      ],
+      "checkedAt": "2026-10-11",
+      "sha256": "86924b0a7391d5c99191918d8918686f2fed4de22ecbdf28dd0f327573084969"
+    },
+    "pass6-consistency-mm-duty-capture-3": {
+      "title": "Myanmar: express foreigner visa duty and July 2026 passport-class exception schedule: source 3",
+      "urls": [
+        "https://www.myanmarcgla.org/images/20260710-02.jpg"
+      ],
+      "checkedAt": "2026-10-11",
+      "sha256": "cfc96612d4cb5686b4fdf91e584a1803d594365c20782ba427f5de7559ff6269"
+    },
+    "pass6-consistency-kw-duty": {
+      "title": "Kuwait: matched tourist-method negatives plus explicit prior-visa requirement",
+      "urls": [
+        "https://www.kuwait-embassy.or.jp/visa_01.html",
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility",
+        "https://www.kuwait-embassy.or.jp/visa_04.html"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "pass6-consistency-kw-duty-capture-1": {
+      "title": "Kuwait: matched tourist-method negatives plus explicit prior-visa requirement: source 1",
+      "urls": [
+        "https://www.kuwait-embassy.or.jp/visa_01.html"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "ea626909bb74a89cdf662cd85be479d3226c300a3e1eb0734099262858f8fa91"
+    },
+    "pass6-consistency-kw-duty-capture-2": {
+      "title": "Kuwait: matched tourist-method negatives plus explicit prior-visa requirement: source 2",
+      "urls": [
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "a2d4d9c7c3f801d23ae32955c4244ea2e50acf015efffd9d928fec181f523f47"
+    },
+    "pass6-consistency-kw-duty-capture-3": {
+      "title": "Kuwait: matched tourist-method negatives plus explicit prior-visa requirement: source 3",
+      "urls": [
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "7f946eb9b9cfcb77d0b27e606acd586f16fffabd552ed3a28c81f6500d6cafe1"
+    },
+    "pass6-consistency-kw-duty-capture-4": {
+      "title": "Kuwait: matched tourist-method negatives plus explicit prior-visa requirement: source 4",
+      "urls": [
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "3031bd295e6c1fd95f0261c8e1782317d22361b793b2e86cfc66bac5dffdeb9b"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "SO"
+      ],
+      "destinations": [
+        "CY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-cy-duty",
+      "label": "Visa required; document and issuance unconfirmed",
+      "n": "Somali ordinary-passport baseline: a Cypriot visa is required. This is a national Cypriot requirement, not a Schengen admission right. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred. A separately qualifying foreign visa/residence exemption is not assumed; the actual Somali document and exceptional authorisation pathway remain unproved.",
+      "evidence": [
+        "pass6-consistency-cy-duty-capture-1",
+        "pass6-consistency-cy-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "TW",
+        "US",
+        "XK"
+      ],
+      "destinations": [
+        "BF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-bf-duty",
+      "label": "Air entry only: Visa required; document and issuance unconfirmed",
+      "n": "Air-entry short-tourism baseline only: a visa is required. Land and sea entry are outside this evidence. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred. In particular, present US tourist issuance/admission restriction scope is unconfirmed; the statutory condition does not assert tourism is available.",
+      "evidence": [
+        "pass6-consistency-bf-duty-capture-1",
+        "pass6-consistency-bf-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "IL",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "NE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-ne-duty",
+      "label": "Air entry only: Visa required; document and issuance unconfirmed",
+      "n": "Air-entry short-tourism baseline only: a visa is required in addition to an acceptable travel document. Land and sea rules are unestablished. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-ne-duty-capture-1",
+        "pass6-consistency-ne-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "IL",
+        "MO",
+        "XK"
+      ],
+      "destinations": [
+        "VE"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-ve-duty",
+      "label": "Air entry only: Visa required; document and issuance unconfirmed",
+      "n": "Air arrival for ordinary tourism: a tourist visa is required. The saved evidence does not establish land or sea entry. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-ve-duty-capture-1",
+        "pass6-consistency-ve-duty-capture-2",
+        "pass6-consistency-ve-duty-capture-3",
+        "pass6-consistency-ve-duty-capture-4"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "ET"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-et-duty",
+      "label": "Visa required; document and issuance unconfirmed",
+      "n": "Ordinary short-tourism visa duty only. The known general electronic/arrival procedures are not a positive document-specific result for this passport. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-et-duty-capture-1",
+        "pass6-consistency-et-duty-capture-2",
+        "pass6-consistency-et-duty-capture-3"
+      ]
+    },
+    {
+      "passports": [
+        "XK"
+      ],
+      "destinations": [
+        "NP"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-np-duty",
+      "label": "Visa required; document and issuance unconfirmed",
+      "n": "A tourist visa is required for the ordinary Kosovo baseline. No stay option or mission/arrival channel is confirmed for the actual document. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-np-duty-capture-1"
+      ]
+    },
+    {
+      "passports": [
+        "PS"
+      ],
+      "destinations": [
+        "LK"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-lk-duty",
+      "label": "Prior entry permission required; channel unconfirmed",
+      "n": "Prior Sri Lankan entry permission is required for the ordinary Palestinian tourist baseline; the usable visa/ETA or special-authorisation channel is unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-lk-duty-capture-1",
+        "pass6-consistency-lk-duty-capture-2",
+        "pass6-consistency-lk-duty-capture-3"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "BI"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-bi-duty",
+      "label": "Airport entry only: Visa required; document and issuance unconfirmed",
+      "n": "Airport-entry tourist baseline without Burundi residence or another evidenced exemption: advance visa approval is required. No automatic preapproval or border issuance is promised. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-bi-duty-capture-1",
+        "pass6-consistency-bi-duty-capture-2",
+        "pass6-consistency-bi-duty-capture-3"
+      ]
+    },
+    {
+      "passports": [
+        "ET",
+        "SD",
+        "HK",
+        "MO",
+        "PS",
+        "TW",
+        "XK"
+      ],
+      "destinations": [
+        "ER"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-er-duty",
+      "label": "Visa required; document and issuance unconfirmed",
+      "n": "Ordinary non-Eritrean short-tourism baseline: a visa is required. An original Eritrean national-ID exception requires separately established status. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-er-duty-capture-1",
+        "pass6-consistency-er-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-sy-duty-cz",
+      "label": "Visa required; current tourist processing unconfirmed",
+      "n": "Visa duty for CZ ordinary short visitors only. Current mission, electronic or border issuance, competent entry point, local territorial permissions and stay are unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-sy-duty-cz-capture-1"
+      ]
+    },
+    {
+      "passports": [
+        "PT"
+      ],
+      "destinations": [
+        "SY"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-sy-duty-pt",
+      "label": "Visa required; current tourist processing unconfirmed",
+      "n": "Visa duty for PT ordinary short visitors only. Current mission, electronic or border issuance, competent entry point, local territorial permissions and stay are unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-sy-duty-pt-capture-1"
+      ]
+    },
+    {
+      "passports": [
+        "BD",
+        "HK",
+        "IL",
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "IQ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-iq-duty",
+      "label": "Federal Iraq only: Visa required; document and issuance unconfirmed",
+      "n": "Federal Iraq ordinary-tourism baseline: a valid entry visa is required in addition to an acceptable travel document. A Kurdistan-only permission does not authorise federal Iraq. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred. Bangladeshi issuance/admission restrictions and Israeli/document-sensitive processing have not been established; this record does not assert a usable tourist pathway.",
+      "evidence": [
+        "pass6-consistency-iq-duty-capture-1",
+        "pass6-consistency-iq-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "KE"
+      ],
+      "t": "eta",
+      "d": 0,
+      "s": "pass6-consistency-ke-duty",
+      "label": "eTA required; document and issuance unconfirmed",
+      "n": "Approved Kenyan eTA is required before travel for the ordinary tourist baseline without another evidenced exemption. This states the obligation only, not acceptance of this passport or eligibility for successful electronic issuance. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-ke-duty-capture-1",
+        "pass6-consistency-ke-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "UG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-ug-duty",
+      "label": "Visa required; document and issuance unconfirmed",
+      "n": "Ordinary tourist visa duty only. The public online instructions do not establish acceptance of PS/XK documents or a successful electronic application for them. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-ug-duty-capture-1",
+        "pass6-consistency-ug-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "ZA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-za-duty",
+      "label": "Visa required; document and issuance unconfirmed",
+      "n": "A South African visitor visa is required for the ordinary tourist baseline. The service page's general validity wording is not a granted stay for this document. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-za-duty-capture-1",
+        "pass6-consistency-za-duty-capture-2"
+      ]
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "MM"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-mm-duty",
+      "label": "Visa required; document and issuance unconfirmed",
+      "n": "Ordinary short-tourism baseline: a visa is required. The general 28-day tourist product is not certified for these documents and no particular port or method is promised. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-mm-duty-capture-1",
+        "pass6-consistency-mm-duty-capture-2",
+        "pass6-consistency-mm-duty-capture-3"
+      ]
+    },
+    {
+      "passports": [
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "KW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "pass6-consistency-kw-duty",
+      "label": "Prior visa required; document and sponsorship unconfirmed",
+      "n": "For the saved ordinary-tourist branch without qualifying foreign status, a prior Kuwaiti visa through local sponsorship is required. Acceptance of the passport, a sponsor or a particular tourist application is unconfirmed. This is a government-backed requirement baseline, not personal clearance. Acceptance of the actual ordinary passport or any substitute, competent processing channel, tourist issuance, stay and admission remain unconfirmed. No eVisa, arrival-visa entitlement or nationality-wide ban is inferred.",
+      "evidence": [
+        "pass6-consistency-kw-duty-capture-1",
+        "pass6-consistency-kw-duty-capture-2",
+        "pass6-consistency-kw-duty-capture-3",
+        "pass6-consistency-kw-duty-capture-4"
+      ]
+    }
+  ],
+  "corrections": [],
+  "reviews": [
+    {
+      "destination": "BF",
+      "resolvedOrigins": [
+        "PS",
+        "TW",
+        "US",
+        "XK"
+      ],
+      "remainingOrigins": [
+        "BI",
+        "CF",
+        "MR",
+        "RW"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: The current-retained passenger paragraph states a visa duty and an ordinary-passport exception schedule. PS/TW/XK and US have document or issuance blockers, not evidenced ordinary-waiver leads. BI/CF/MR/RW retain their concrete waiver/commencement conflicts.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.",
+        "Air-entry pages dated 2 October 2025 remain in the register effective 1 October 2026; neither date proves present tourist issuance."
+      ],
+      "attemptedUrls": [
+        "https://aim.asecna.aero/pdf/FR-_02GEN-1.3-01-fr-FR.pdf",
+        "https://aim.asecna.aero/amdt/amdt2610aaa.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-_02GEN-1.3-01-fr-FR.html",
+        "https://aim.asecna.aero/amdt/amdt2510.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-eAICs-fr-FR.html",
+        "https://www.mofa.gov.ae/en/travel-updates?code=BFA",
+        "https://diplomatie.gov.bf/index.php/premiere-commission-mixte-de-cooperation-burkina-faso-republique-du-burundi-14-accords-signes-pour-rapprocher-les-peuples-des-deux-pays/",
+        "https://diplomatie.gov.bf/index.php/cooperation-bilaterale-la-dynamique-au-burkina-faso-suscite-linteret-de-lindonesie-et-des-bahamas-desireux-de-solidifier-leur-partenariat-avec-ouagadougou/",
+        "https://www.migration.gov.rw/1-1/sops-1"
+      ]
+    },
+    {
+      "destination": "BI",
+      "resolvedOrigins": [
+        "XK",
+        "PS"
+      ],
+      "remainingOrigins": [
+        "CD",
+        "SO"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: CGM's airport notice imposes an advance visa-application duty. Ordinary exemptions and fee-free regional categories are separately preserved. PS/XK have no established exemption under them; CD/SO still require actual regional implementation reconciliation.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.",
+        "The ordinary-passport schedule was published 27 September 2024; fee-free categories and airport preapproval remain distinct."
+      ],
+      "attemptedUrls": [
+        "https://migration.gov.bi/assets/img/cgm_visa_info_fra.jpg",
+        "https://www.mae.gov.bi/2024/09/27/les-pays-signes-avec-le-burundi-les-accords-dexemption-des-visas-2/",
+        "https://www.mae.gov.bi/visa-gratuit/",
+        "https://migration.gov.bi/",
+        "https://www.ambabuwashington.mae.gov.bi/visa/"
+      ]
+    },
+    {
+      "destination": "CY",
+      "resolvedOrigins": [
+        "SO"
+      ],
+      "remainingOrigins": [
+        "XK",
+        "NR"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: Somalia has a positive Annex I visa duty. Its document-acceptance gap can be qualified independently. Kosovo's waiver/document scope and Nauru's activation condition remain unproved.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://publications.europa.eu/resource/cellar/ece43fab-0ca3-11f1-8870-01aa75ed71a1.0006.02/DOC_1",
+        "https://publications.europa.eu/resource/cellar/40979e70-7944-11ef-bbbe-01aa75ed71a1.0006.03/DOC_1",
+        "https://publications.europa.eu/resource/cellar/58feb4b3-d218-11ef-be2a-01aa75ed71a1.0006.03/DOC_1",
+        "https://www.gov.cy/en/information/visas/",
+        "https://www.gov.cy/information/theoriseis-eisodou/",
+        "https://www.gov.cy/mfa-highcomottawa/en/consular-services/visa-information/"
+      ]
+    },
+    {
+      "destination": "ER",
+      "resolvedOrigins": [
+        "ET",
+        "HK",
+        "XK",
+        "MO",
+        "PS",
+        "SD",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "KE",
+        "UG"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: Washington's non-Eritrean default is affirmative, with original Eritrean-ID exception. HK/MO/PS/TW/XK can receive duty-only records. ET/SD's reported arrival arrangements concern method, so the common duty can be retained without endorsing those arrangements. KE/UG waiver leads remain held.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.",
+        "The source displays an update of 19 April 2025; the original Eritrean-ID exception is retained and KE/UG waiver leads remain unresolved."
+      ],
+      "attemptedUrls": [
+        "https://us.embassyeritrea.org/visa/"
+      ]
+    },
+    {
+      "destination": "ET",
+      "resolvedOrigins": [
+        "XK",
+        "PS"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Pass-six consistency adjudication: Saved London and Washington text requires visas, rather than merely offering applications. Brussels supplies the Kenya/Djibouti exceptions and Eritrean prior-clearance distinction. PS/XK can receive duty-only records without inferred eVisa or arrival eligibility.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://ethioembassy.org.uk/visa-services-2/",
+        "https://ethiopianembassy.be/?page_id=20",
+        "https://consular.ethiopianembassy.org/service-details_visa.php",
+        "https://ethiopianembassy.be/?page_id=10346"
+      ]
+    },
+    {
+      "destination": "IQ",
+      "resolvedOrigins": [
+        "BD",
+        "HK",
+        "IL",
+        "XK",
+        "PS"
+      ],
+      "remainingOrigins": [
+        "IR",
+        "LB"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: Law 76/2017 applies to non-Iraqi natural persons and separately requires an accepted document and visa. Continued application is evidenced in the 2026 gazette. BD/HK/IL/PS/XK can receive federal-duty-only records; IR/LB waiver leads remain held. No KRI-only permission is treated as federal access.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://moj.gov.iq/upload/pdf/%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A5%D9%82%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AC%D8%A7%D9%86%D8%A8.pdf",
+        "https://moj.gov.iq/upload/pdf/2154e6b57c1825d4_%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D8%A7%D8%AA%20%D8%A7%D8%B3%D8%AA%D9%82%D8%AF%D8%A7%D9%85%20%D9%88%D8%AA%D8%B4%D8%BA%D9%8A%D9%84%20%D9%88%D8%A7%D8%AC%D8%A7%D8%B2%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D8%AC%D8%A7%D9%86%D8%A8%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%20-%20Copy.pdf",
+        "https://moj.gov.iq/view.6083/",
+        "https://mofa.gov.iq/london/en/visa/",
+        "https://gov.krd/english/information-and-services/visitor/",
+        "https://visit.gov.krd/visa-eligibility-checker",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/iraq"
+      ]
+    },
+    {
+      "destination": "KE",
+      "resolvedOrigins": [
+        "XK",
+        "PS"
+      ],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: The public eTA default and LN93/2025 exceptions support PS/XK eTA obligation only. They do not prove document acceptance or successful electronic issuance. Somalia's named-list versus EAC conflict remains a real exception question.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://etakenya.go.ke/how-to-apply",
+        "https://new.kenyalaw.org/akn/ke/act/ln/2025/93/eng@2025-05-30/source"
+      ]
+    },
+    {
+      "destination": "KW",
+      "resolvedOrigins": [
+        "XK",
+        "MO",
+        "PS"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "BH",
+        "CG",
+        "CD",
+        "EG",
+        "IR",
+        "IQ",
+        "IL",
+        "KP",
+        "OM",
+        "PK",
+        "SA",
+        "SB",
+        "SS",
+        "UG",
+        "YE"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: The saved MAC/PSE/RKS tourist queries are genuinely nationality-matched negatives. Combined with Tokyo's express sponsor/advance-visa duty they support three duty-only records without document or sponsorship assurances. The other 16 residuals still lack the required matched result or have unproved citizenship exceptions.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://www.kuwait-embassy.or.jp/visa_01.html",
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility",
+        "https://www.kuwait-embassy.or.jp/visa_04.html"
+      ]
+    },
+    {
+      "destination": "LK",
+      "resolvedOrigins": [
+        "PS"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Pass-six consistency adjudication: The central current default requires prior permission and distinguishes ordinary tourists from official-passport exceptions. PS can receive the same qualified requirement-only treatment as CD/CG/KP. This does not establish normal self-service ETA or sponsorship eligibility.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://eta.gov.lk/slvisa/visainfo/center.jsp?locale=en_US",
+        "https://www.eta.gov.lk/slvisa/visainfo/diplo.jsp?locale=en_US",
+        "https://eta.gov.lk/slvisa/visainfo/faq.jsp?locale=en_US"
+      ]
+    },
+    {
+      "destination": "MM",
+      "resolvedOrigins": [
+        "XK",
+        "PS"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Pass-six consistency adjudication: A precise public reread confirms a non-immigrant visa duty. The actual July 2026 bilateral schedule distinguishes ordinary passports; PS/XK are outside the ordinary exemptions. Record duty only, not a tourist product, port or recognition decision.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.",
+        "The bilateral passport-class schedule is as of 8 July 2026. Its two images and the default were captured 11 October 2026."
+      ],
+      "attemptedUrls": [
+        "https://www.myanmarcgla.org/index.php/visa/visa-information",
+        "https://www.myanmarcgla.org/images/20260710-01.jpg",
+        "https://www.myanmarcgla.org/images/20260710-02.jpg",
+        "https://evisa.moip.gov.mm/assets/jsondata/notice-to-tourist.json",
+        "https://www.myanmarcgla.org/index.php/visa/visa-exemption"
+      ]
+    },
+    {
+      "destination": "NE",
+      "resolvedOrigins": [
+        "IL",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "remainingOrigins": [
+        "SE",
+        "MR",
+        "MU",
+        "RW"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: The incoming-passenger residual expressly requires a national passport AND visa. IL/MO/PS/XK fit neither named ordinary exception list. This establishes the visa condition separately from passport acceptance. SE/MR/MU/RW still have affirmative conflicting waiver evidence and gain no credit.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.",
+        "Air-entry pages dated 11 June 2026 remain in the register effective 1 October 2026. SE, MR, MU and RW remain unresolved official conflicts."
+      ],
+      "attemptedUrls": [
+        "https://aim.asecna.aero/pdf/FR-_12GEN-1.3-01-fr-FR.pdf",
+        "https://aim.asecna.aero/amdt/amdt2610aaa.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-_12GEN-1.3-01-fr-FR.html",
+        "https://aim.asecna.aero/amdt/amdt2606.pdf",
+        "https://aim.asecna.aero/html/eAIP/FR-eAICs-fr-FR.html",
+        "https://ambassadeniger-fr.org/version-wp-2019/?page_id=53",
+        "https://www.nederlandwereldwijd.nl/reisadvies/niger",
+        "https://www.mfa.gov.tr/turk-vatandaslarinin-tabi-oldugu-vize-uygulamalari.tr.mfa",
+        "https://www.boca.gov.tw/sp-foof-countrycp-03-237-c449b-02-1.html"
+      ]
+    },
+    {
+      "destination": "NP",
+      "resolvedOrigins": [
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Pass-six consistency adjudication: The Tourism Board expressly says all foreign tourists except Indians must obtain a tourist visa. Gratis categories and arrival exclusions change fees or method. They do not erase the Kosovo baseline duty; document and channel remain unknown.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://ntb.gov.np/plan-your-trip/before-you-come/tourist-visa",
+        "https://uk.nepalembassy.gov.np/pages/visa/"
+      ]
+    },
+    {
+      "destination": "SY",
+      "resolvedOrigins": [
+        "CZ",
+        "PT"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AT",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BB",
+        "BY",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BG",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CU",
+        "CY",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "ID",
+        "IQ",
+        "IE",
+        "JM",
+        "JP",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MO",
+        "MG",
+        "MW",
+        "MY",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MC",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "RS",
+        "SC",
+        "SL",
+        "SG",
+        "SK",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: The saved Czech short-traveller instruction and Portuguese entry rule both expressly impose a visa duty. Their outdated operational directions are not evidence of a usable present channel. Duty-only records retain that limitation and use d0. No default is extended to other nationalities.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/blizky_vychod/syrie/cestovani/visa.html",
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/s/siria"
+      ]
+    },
+    {
+      "destination": "UG",
+      "resolvedOrigins": [
+        "XK",
+        "PS"
+      ],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "Pass-six consistency adjudication: A precise public reread confirms an affirmative tourist visa duty. The saved ordinary and official exception schedules do not exempt PS/XK. Electronic issuance and document acceptance remain unknown; SO's EAC implementation gap remains.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://www.immigration.go.ug/node/198",
+        "https://www.immigration.go.ug/services/visa-exempt-countries",
+        "https://www.immigration.go.ug/services/tourist-visa"
+      ]
+    },
+    {
+      "destination": "VE",
+      "resolvedOrigins": [
+        "IL",
+        "MO",
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Pass-six consistency adjudication: The authenticated Madrid tourist default and central air-arrival list, reconciled with Serbian and HKSAR exceptions, establish the air-entry visa duty for IL/MO/XK. Missing recognition and tourist processing remain explicit.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established."
+      ],
+      "attemptedUrls": [
+        "https://madrid.consulado.gob.ve/turismo/",
+        "https://www.mppre.gob.ve/index.php/detalle_turismo/2",
+        "https://mppre.gob.ve/index.php/publicacion/4431-0",
+        "https://madrid.consulado.gob.ve/visa-de-turista-t/",
+        "https://travel.gc.ca/destinations/venezuela",
+        "https://mppre.gob.ve/index.php/consulados_venezuela",
+        "https://mppre.gob.ve/index.php/apiconsul",
+        "https://www.mfa.gov.rs/en/citizens/travel-abroad/visas-and-states-travel-advisory/venezuela",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://bolivianembassy.co.uk/visas/"
+      ]
+    },
+    {
+      "destination": "ZA",
+      "resolvedOrigins": [
+        "XK",
+        "PS"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Pass-six consistency adjudication: A precise public reread confirms the entry-visa obligation, independently of fees. The saved DHA ordinary exemption column does not cover PS/XK. This supports duty only, with original/substitute-document and issuance limitations.",
+        "Requirement-only evidence: document acceptance, routine tourist issuance, stay and admission remain unconfirmed. No complete conditional decision tree is established.",
+        "The saved DHA exemption schedule was issued 9 December 2025 and checked 7 October 2026; the visitor-duty page was captured 11 October 2026."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.za/services/temporary-residence/visa",
+        "https://www.dha.gov.za/index.php/immigration-services/exempt-countries"
+      ]
+    }
+  ]
+}

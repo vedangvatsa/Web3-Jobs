@@ -1,0 +1,32 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import countries from '../content/nomads/countries.json';
+import { capturePassInputs, validatePassManifest, type PassManifest } from './lib/passport-factcheck-artifacts';
+import { replayFactcheckPasses } from './lib/passport-factcheck-passes';
+import { mergeGapPatches, serializeAudit, sha256, type GapAssignments, type GapPatch } from './lib/passport-gap-patches';
+
+const cache = '.cache/nomads/gap-pass5', root = 'content/nomads/factcheck-passes', id = 'gap-pass5';
+const manifest = JSON.parse(fs.readFileSync(`${root}/manifest.json`, 'utf8')) as PassManifest;
+validatePassManifest(manifest);
+assert.ok(!manifest.passes.some(pass => pass.id === id) && !fs.existsSync(`${root}/${id}`), 'Pass five is already captured');
+const baseline = fs.readFileSync(`${cache}/baseline.json`, 'utf8');
+assert.equal(sha256(baseline), '3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b');
+assert.equal(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8'), baseline, 'Canonical baseline changed');
+assert.equal(serializeAudit(replayFactcheckPasses()), baseline, 'Prior manifest does not reproduce pass-five baseline');
+const assignmentRaw = fs.readFileSync(`${cache}/assignments.json`, 'utf8');
+const assignments = JSON.parse(assignmentRaw) as GapAssignments;
+assert.equal(assignments.batches.length, 12);
+const originals = assignments.batches.map(batch => ({ batch: batch.id, raw: fs.readFileSync(`${cache}/${batch.id}.json`, 'utf8') }));
+const patches = originals.map(({ batch, raw }) => {
+  const patch = JSON.parse(raw) as GapPatch;
+  assert.equal(patch.batch, batch);
+  return patch;
+});
+const merged = mergeGapPatches(baseline, assignments, patches, countries.map(country => country.iso!));
+const inputs = capturePassInputs(cache, root, id, assignments.batches.map(batch => batch.id), false);
+assert.equal(inputs.assignments.sha256, sha256(assignmentRaw));
+inputs.patches.forEach((artifact, index) => assert.equal(artifact.sha256, sha256(originals[index].raw), 'Research patch changed during capture'));
+manifest.passes.push({ id, baselineSha256: assignments.baselineSha256, assignments: inputs.assignments, patches: inputs.patches, contradictions: [] });
+validatePassManifest(manifest);
+fs.writeFileSync(`${root}/manifest.json`, serializeAudit(manifest));
+console.log(merged.report);

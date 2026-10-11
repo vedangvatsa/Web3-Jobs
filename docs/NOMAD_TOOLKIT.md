@@ -22,16 +22,26 @@ Passport shards use schema version 4. Reviewed rules in
 `content/nomads/entry-factchecks.json` precede legacy government policies in
 `entry-policies.json` and the unchanged version-1 `passport-index.json` snapshots.
 Explicit withdrawals block older claims; expired exemptions become unknown.
-All 39,402 routes have review status: 33,620 checked government-backed baselines,
-983 historical official-evidence routes, and 4,799 unresolved official reviews.
-Unresolved routes retain 3 legacy government answers and 4,791 attributed
+All 39,402 routes have review status: 33,877 checked government-backed baselines,
+983 historical official-evidence routes, and 4,542 unresolved official reviews.
+Unresolved routes retain 1 legacy government answer and 4,536 attributed
 Passport Index answers; five contradicted baselines are unknown with withdrawal evidence.
 Historical sources expose capture/document URLs and actual dates, including
 historical reproductions outside web.archive.org. The versioned pass manifest
-replays all 24 third-/fourth-pass patches from curated baseline/assignment/patch
+replays all 36 third-/fourth-/fifth-pass patches from curated baseline/assignment/patch
 JSON, plus 13 explicit Nauru method qualifications and a targeted AIP pass.
 The AIP pass adds 172 explicitly air-entry-only rules and withdraws four Niger
 conflicts to unresolved, preserving both sides' sources and blocking fallback.
+Pass five adds 199 current-supported rules with no historical additions or corrections;
+requirements with unproved methods/stays remain explicitly qualified.
+The later targeted adjudication adds 15 requirement-only facts (13 visa duties
+and two visa-or-AVE duties), with no routine-admission or complete-branch claims.
+The pass-six consistency replay adds only 43 further qualified obligations:
+41 visa/prior-permission duties and two Kenyan eTA duties, all with `d=0`.
+Air/airport and federal-Iraq scope is explicit in the applicable labels;
+document acceptance, tourist issuance, stay and admission remain unconfirmed.
+All four Niger conflicts and Iceland–Eswatini remain unresolved.
+Oman 88 and Palestine 195 remain unresolved; their modelling proposals receive no route credit.
 Raw research notes and excerpt ledgers stay in ignored caches and are not exported
 or required for replay.
 Missing durations stay unspecified; variable methods and periods retain their

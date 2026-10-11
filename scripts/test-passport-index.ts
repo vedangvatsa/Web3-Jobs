@@ -57,7 +57,7 @@ test('all 199 passports have 198 accounted destinations, with reviewed governmen
   const allCodes = countries.map(country => country.iso!);
   validatePassportIndexSnapshot(reference, allCodes);
   assert.equal(Object.keys(reference.passports).length, 199);
-  const asOf = '2026-10-08';
+  const asOf = '2026-10-11';
   let routes = 0, checked = 0, historical = 0, unresolved = 0;
   for (const passport of countries) {
     const result = compilePassportRules(passport, countries, policies, asOf, reference, audit);
@@ -72,7 +72,7 @@ test('all 199 passports have 198 accounted destinations, with reviewed governmen
       if (source.kind === 'reference') { assert.equal(destination.review, 'unresolved'); assert.deepEqual(destination.rule, { ...reference.passports[passport.iso!].rules[destination.iso!], s: 'passport-index' }); }
     }
   }
-  assert.equal(routes, 39402); assert.equal(checked, 33620); assert.equal(historical, 983); assert.equal(unresolved, 4799);
+  assert.equal(routes, 39402); assert.equal(checked, 33877); assert.equal(historical, 983); assert.equal(unresolved, 4542);
   assert.equal(reference.passports.DE.rules.AU.t, 'ev', 'Australian eVisitor is not visa on arrival');
   assert.equal(reference.passports.US.rules.BR.t, 'ev');
   assert.equal(reference.passports.US.rules.BR.d, 0, 'No invented Brazilian eVisa stay');

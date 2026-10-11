@@ -32,6 +32,9 @@ test('pass manifests and exported inputs contain only replay data', () => {
   const escaping = structuredClone(manifest);
   escaping.baseline.path = '../baseline.json';
   assert.throws(() => validatePassManifest(escaping), /Invalid data artifact path/);
+  const researchPath = structuredClone(manifest);
+  Object.assign(researchPath.passes.at(-1)!, { researchFile: '../report.md' });
+  assert.throws(() => validatePassManifest(researchPath));
 });
 
 test('capture ignores raw research files and preserves input bytes and cache originals', () => {
@@ -80,8 +83,30 @@ test('offline manifest replay is exact, lossless and separately accounts for his
   assert.equal(aip.baselineSha256, 'fb7593d6d43a6794e69b98750cf7222936cc03fe16c8a9a041616ab239f49da4');
   assert.deepEqual(aip.baseline, fourth.coverage); assert.equal(aip.scope, 'targeted');
   assert.equal(aip.currentAdditions, 172); assert.equal(aip.historicalAdditions, 0); assert.equal(aip.integrationWithdrawals, 4);
-  assert.equal(output.coverage.checked, aip.baseline.checked + aip.currentAdditions - aip.integrationWithdrawals);
-  assert.equal(output.coverage.unresolved, aip.baseline.unresolved - aip.currentAdditions + aip.integrationWithdrawals);
+  assert.equal(aip.coverage.checked, aip.baseline.checked + aip.currentAdditions - aip.integrationWithdrawals);
+  assert.equal(aip.coverage.unresolved, aip.baseline.unresolved - aip.currentAdditions + aip.integrationWithdrawals);
+  const fifth = output.passes[3];
+  assert.equal(fifth.baselineSha256, '3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b');
+  assert.deepEqual(fifth.baseline, aip.coverage);
+  assert.equal(fifth.batches.length, 12); assert.equal(fifth.currentAdditions, 199);
+  assert.equal(fifth.historicalAdditions, 0); assert.equal(fifth.corrections, 0); assert.equal(fifth.integrationWithdrawals, 0);
+  assert.equal(fifth.coverage.checked, fifth.baseline.checked + fifth.currentAdditions);
+  assert.equal(fifth.coverage.unresolved, fifth.baseline.unresolved - fifth.currentAdditions);
+  const adjudication = output.passes[4];
+  assert.equal(adjudication.baselineSha256, '15dba6e71d3bcec062fb72345d0bc84909b9b4e85a1583c15c6cd2d0ae73c3df');
+  assert.deepEqual(adjudication.baseline, fifth.coverage); assert.equal(adjudication.scope, 'targeted');
+  assert.equal(adjudication.currentAdditions, 15); assert.equal(adjudication.historicalAdditions, 0);
+  assert.equal(adjudication.corrections, 0); assert.equal(adjudication.integrationWithdrawals, 0);
+  assert.equal(adjudication.batches[0].gaps, 17); assert.equal(adjudication.batches[0].remaining, 2);
+  assert.equal(adjudication.coverage.checked, adjudication.baseline.checked + 15);
+  assert.equal(adjudication.coverage.unresolved, adjudication.baseline.unresolved - 15);
+  const consistency = output.passes[5];
+  assert.equal(consistency.baselineSha256, '13a3f7f2f5ee25a1eac2a6f1113c9789f1f4197ed5a5ad0746ec2c4e83d20bf3');
+  assert.deepEqual(consistency.baseline, adjudication.coverage); assert.equal(consistency.scope, 'targeted');
+  assert.equal(consistency.currentAdditions, 43); assert.equal(consistency.historicalAdditions, 0);
+  assert.equal(consistency.corrections, 0); assert.equal(consistency.integrationWithdrawals, 0);
+  assert.equal(consistency.batches[0].gaps, 252); assert.equal(consistency.batches[0].remaining, 209);
+  assert.equal(output.coverage.checked, 33877); assert.equal(output.coverage.unresolved, 4542);
   const previous = JSON.parse(fs.readFileSync('content/nomads/factcheck-passes/baseline-pass2.json', 'utf8')) as Factchecks;
   const before = policyRoutes(previous.policies), after = policyRoutes(output.policies);
   const replacements = new Map(output.replacements!.map(record => [`${record.passport}/${record.destination}`, record]));
@@ -306,7 +331,156 @@ test('AIP integration leaves other Niger durations, methods and fees intact', ()
   const routes = policyRoutes(audit.policies);
   for (const [key, rule] of policyRoutes(previous.policies)) if (key.endsWith('/NE') && !['SE/NE', 'MR/NE', 'MU/NE', 'RW/NE'].includes(key)) assert.deepEqual(routes.get(key), rule, key);
   assert.equal(audit.reviews.find(review => review.destination === 'BF')!.unresolvedPassports.includes('RW'), true);
-  assert.equal(audit.reviews.find(review => review.destination === 'BF')!.unresolvedPassports.length, 8);
-  assert.equal(audit.reviews.find(review => review.destination === 'NE')!.unresolvedPassports.length, 8);
-  assert.equal(audit.reviews.find(review => review.destination === 'CF')!.unresolvedPassports.length, 182);
+  assert.equal(audit.reviews.find(review => review.destination === 'BF')!.unresolvedPassports.length, 4);
+  assert.equal(audit.reviews.find(review => review.destination === 'NE')!.unresolvedPassports.length, 4);
+  assert.equal(audit.reviews.find(review => review.destination === 'CF')!.unresolvedPassports.length, 175);
+});
+
+test('fifth-pass public-source additions retain requirements, passport conditions and distinct method stays', () => {
+  const audit = JSON.parse(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8')) as Factchecks;
+  const routes = policyRoutes(audit.policies);
+  assert.equal(routes.get('BR/MY')!.d, 90); assert.match(routes.get('BR/MY')!.n!, /MDAC/);
+  assert.equal(routes.get('SR/MY')!.d, 30);
+  assert.equal(routes.get('AZ/MA')!.t, 'vf'); assert.equal(routes.get('AZ/MA')!.d, 90);
+  assert.match(routes.get('AZ/MA')!.n!, /28 August 2024/);
+  const laos = routes.get('AF/LA')!;
+  assert.equal(laos.t, 'vr'); assert.equal(laos.d, 0); assert.equal(laos.a, undefined);
+  assert.match(laos.n!, /arrival eligibility, electronic eligibility.*unconfirmed/);
+  assert.equal(audit.reviews.find(review => review.destination === 'LA')!.unresolvedPassports.includes('BY'), true);
+  const thai = routes.get('PS/TH')!;
+  assert.equal(thai.t, 'vr'); assert.equal(thai.d, 0);
+  assert.match(thai.n!, /Jordanian residence/); assert.match(thai.n!, /routine issuance is not assured/);
+  for (const origin of ['PS', 'XK']) {
+    const korea = routes.get(`${origin}/KR`)!;
+    assert.equal(korea.t, 'vr'); assert.equal(korea.d, 0);
+    assert.equal(korea.stay, 'C-3-9: up to 90 days for a single-entry visa; 30 days for a double-entry visa');
+    assert.match(korea.n!, /excludes.*Jeju/); assert.match(korea.n!, /not an eVisa/);
+  }
+  const austria = routes.get('AT/NG')!;
+  assert.equal(austria.t, 'ev'); assert.equal(austria.d, 0);
+  assert.match(`${austria.n} ${austria.stay}`, /four weeks/i);
+  assert.equal(routes.get('CZ/NG')!.d, 30);
+  assert.equal(routes.get('TL/VN')!.t, 'ev'); assert.equal(routes.get('TL/VN')!.d, 0);
+  assert.match(routes.get('TL/VN')!.n!, /Phu Quoc/);
+  assert.equal(routes.get('IT/SY')!.t, 'voa'); assert.equal(routes.get('IT/SY')!.d, 0);
+  for (const origin of ['DO', 'HN', 'SV', 'VC']) {
+    assert.equal(routes.get(`${origin}/BO`)!.t, 'vf'); assert.equal(routes.get(`${origin}/BO`)!.d, 0);
+  }
+  const manifest = JSON.parse(fs.readFileSync('content/nomads/factcheck-passes/manifest.json', 'utf8')) as PassManifest;
+  const additions = manifest.passes.find(pass => pass.id === 'gap-pass5')!.patches.flatMap(artifact => (JSON.parse(fs.readFileSync(`content/nomads/factcheck-passes/${artifact.path}`, 'utf8')) as GapPatch).policies);
+  assert.equal(additions.reduce((sum, policy) => sum + policy.passports.length * policy.destinations.length, 0), 199);
+  for (const policy of additions) assert.ok(!audit.sources[policy.s!].historical);
+  assert.equal(audit.replacements!.some(record => record.batch.startsWith('gap5-')), false);
+});
+
+test('adjudication adds exactly 15 independent qualified duties, not document or admission clearance', () => {
+  const root = 'content/nomads/factcheck-passes';
+  const manifest = JSON.parse(fs.readFileSync(`${root}/manifest.json`, 'utf8')) as PassManifest;
+  const pass = manifest.passes.find(item => item.id === 'conditional-adjudication')!;
+  const patch = JSON.parse(fs.readFileSync(`${root}/${pass.patches[0].path}`, 'utf8')) as GapPatch;
+  const audit = JSON.parse(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8')) as Factchecks;
+  const current = policyRoutes(audit.policies), additions = policyRoutes(patch.policies);
+  const pass5 = new Set(manifest.passes.find(item => item.id === 'gap-pass5')!.patches.flatMap(artifact => [...policyRoutes((JSON.parse(fs.readFileSync(`${root}/${artifact.path}`, 'utf8')) as GapPatch).policies).keys()]));
+  assert.equal(pass5.size, 199);
+  assert.deepEqual([...additions.keys()].sort(), ['HK/LR', 'MO/LR', 'PS/LR', 'XK/LR', 'XK/BH', 'XK/TG', 'XK/IN', 'XK/CN', 'PS/BA', 'PS/AR', 'XK/AR', 'PS/AO', 'XK/AO', 'PS/BJ', 'XK/BJ'].sort());
+  for (const [key, rule] of additions) {
+    assert.ok(!pass5.has(key)); assert.deepEqual(current.get(key), rule);
+    assert.equal(rule.t, 'vr'); assert.equal(rule.d, 0);
+    assert.equal(rule.stay, undefined); assert.equal(rule.a, undefined); assert.equal(rule.until, undefined);
+    assert.match(rule.label!, /unconfirmed/);
+    assert.match(rule.n!, /document/); assert.match(rule.n!, /stay/); assert.match(rule.n!, /issuance/);
+    assert.ok(!patch.sources[rule.s!].historical);
+  }
+  for (const origin of ['PS', 'XK']) {
+    const ar = additions.get(`${origin}/AR`)!;
+    assert.match(ar.label!, /^Visa or AVE required/); assert.match(ar.n!, /without treating AVE as a visa or proving AVE eligibility/);
+    const ao = additions.get(`${origin}/AO`)!;
+    assert.match(ao.label!, /overnight tourism/); assert.match(ao.n!, /cruise passengers\/day visitors/);
+  }
+  assert.equal(Object.keys(patch.sources).length, 9);
+  assert.equal(patch.sources['conditional-adjudication-cn-duty'].sha256, undefined);
+  assert.equal(patch.sources['conditional-adjudication-cn-duty'].checkedAt, '2026-10-08');
+  assert.equal(patch.sources['conditional-adjudication-lr-duty'].checkedAt, '2026-10-09');
+  assert.equal(pass.researchBaselineSha256, manifest.passes.find(item => item.id === 'gap-pass5')!.baselineSha256);
+  assert.equal(pass.researchSha256, 'bbff3212eaaa83b55f91a0e27c6db1289e0479e16beddfa946770d88c00bff9c');
+  assert.equal(pass.researchFile, 'candidate.json');
+  assert.ok(!patch.reviews.some(review => ['OM', 'PS'].includes(review.destination)));
+  assert.ok(!Object.keys(patch.sources).some(id => /^conditional-adjudication-(om|ps)-/.test(id)));
+  assert.equal(audit.reviews.find(review => review.destination === 'OM')!.unresolvedPassports.length, 88);
+  assert.equal(audit.reviews.find(review => review.destination === 'PS')!.unresolvedPassports.length, 195);
+  assert.deepEqual(audit.reviews.find(review => review.destination === 'BJ')!.unresolvedPassports.sort(), ['HT', 'RO']);
+});
+
+test('pass-six changes exactly 43 obligations and preserves every other compiled route and prior snapshot', () => {
+  const root = 'content/nomads/factcheck-passes';
+  const manifest = JSON.parse(fs.readFileSync(`${root}/manifest.json`, 'utf8')) as PassManifest;
+  const output = replayFactcheckPasses(), codes = countries.map(country => country.iso!);
+  const initial = JSON.parse(fs.readFileSync(`${root}/${manifest.baseline.path}`, 'utf8'));
+  let raw = serializeAudit(initial);
+  for (const [index, pass] of manifest.passes.slice(0, -1).entries()) {
+    assert.equal(sha256(raw), pass.baselineSha256);
+    const assignments = JSON.parse(fs.readFileSync(`${root}/${pass.assignments.path}`, 'utf8')) as GapAssignments;
+    const patches = pass.patches.map(artifact => JSON.parse(fs.readFileSync(`${root}/${artifact.path}`, 'utf8')) as GapPatch);
+    let data = withdrawContradictions(mergeGapPatches(raw, assignments, patches, codes).data, pass.contradictions, codes, `${pass.id}-integration`);
+    if (pass.qualifications) data = qualifyPolicies(data, JSON.parse(fs.readFileSync(`${root}/${pass.qualifications.path}`, 'utf8')), codes, pass.id);
+    raw = serializeAudit({ ...data, coverage: factcheckCounts(data), inputs: initial.inputs,
+      manifestSha256: sha256(serializeAudit({ ...manifest, passes: manifest.passes.slice(0, index + 1) })), passes: output.passes.slice(0, index + 1) });
+  }
+  assert.equal(sha256(raw), '13a3f7f2f5ee25a1eac2a6f1113c9789f1f4197ed5a5ad0746ec2c4e83d20bf3');
+  const before = JSON.parse(raw) as Factchecks;
+  const pass = manifest.passes.at(-1)!;
+  assert.equal(pass.id, 'pass6-consistency'); assert.equal(pass.researchFile, 'candidate.json');
+  assert.equal(pass.researchSha256, '9bc0b0845f2d62bcd117a35d1e5e8765676fa03d7b31845995c2531ba8d60ae8');
+  const patch = JSON.parse(fs.readFileSync(`${root}/${pass.patches[0].path}`, 'utf8')) as GapPatch;
+  const expectedByDestination: Record<string, string[]> = {
+    BF: ['PS', 'TW', 'US', 'XK'], BI: ['PS', 'XK'], CY: ['SO'], ER: ['ET', 'SD', 'HK', 'MO', 'PS', 'TW', 'XK'],
+    ET: ['PS', 'XK'], IQ: ['BD', 'HK', 'IL', 'PS', 'XK'], KE: ['PS', 'XK'], KW: ['MO', 'PS', 'XK'], LK: ['PS'],
+    MM: ['PS', 'XK'], NE: ['IL', 'MO', 'PS', 'XK'], NP: ['XK'], SY: ['CZ', 'PT'], UG: ['PS', 'XK'], VE: ['IL', 'MO', 'XK'], ZA: ['PS', 'XK'],
+  };
+  const additions = policyRoutes(patch.policies), previous = policyRoutes(before.policies), current = policyRoutes(output.policies);
+  assert.deepEqual([...additions.keys()].sort(), Object.entries(expectedByDestination).flatMap(([to, origins]) => origins.map(from => `${from}/${to}`)).sort());
+  assert.equal(additions.size, 43);
+  for (const [key, rule] of previous) assert.deepEqual(current.get(key), rule, key);
+  for (const [id, source] of Object.entries(before.sources)) assert.deepEqual(output.sources[id], source);
+  assert.deepEqual(output.withdrawals, before.withdrawals); assert.deepEqual(output.replacements, before.replacements);
+  for (const [key, rule] of additions) {
+    const to = key.split('/')[1];
+    assert.ok(!previous.has(key)); assert.deepEqual(current.get(key), rule);
+    assert.equal(rule.t, to === 'KE' ? 'eta' : 'vr'); assert.equal(rule.d, 0);
+    assert.equal(rule.stay, undefined); assert.equal(rule.a, undefined); assert.equal(rule.until, undefined);
+    assert.match(rule.label!, /unconfirmed/); assert.match(rule.n!, /stay and admission remain unconfirmed/);
+    assert.match(rule.n!, /not personal clearance/);
+    if (['BF', 'NE', 'VE'].includes(to)) assert.match(rule.label!, /^Air entry only:/);
+    if (to === 'BI') assert.match(rule.label!, /^Airport entry only:/);
+    if (to === 'IQ') { assert.match(rule.label!, /^Federal Iraq only:/); assert.match(rule.n!, /Kurdistan-only permission does not authorise federal Iraq/); }
+    assert.ok(rule.evidence!.length && rule.evidence!.every(id => patch.sources[id]));
+  }
+  assert.match(additions.get('PS/LK')!.label!, /^Prior entry permission required/);
+  assert.match(additions.get('PS/KE')!.n!, /not acceptance of this passport or eligibility for successful electronic issuance/);
+  assert.match(additions.get('MO/KW')!.n!, /without qualifying foreign status.*local sponsorship/);
+  assert.match(additions.get('ET/ER')!.n!, /original Eritrean national-ID exception/);
+  assert.match(additions.get('US/BF')!.n!, /does not assert tourism is available/);
+  assert.match(additions.get('SO/CY')!.n!, /not a Schengen admission right/);
+  assert.equal(Object.values(patch.sources).filter(source => source.sha256).length, 38);
+  assert.equal(patch.sources['pass6-consistency-ug-duty-capture-2'].checkedAt, '2026-10-07');
+  assert.equal(patch.sources['pass6-consistency-mm-duty-capture-1'].checkedAt, '2026-10-11');
+  assert.equal(patch.sources['pass6-consistency-za-duty-capture-2'].sha256, undefined);
+  const referenceRaw = fs.readFileSync('content/nomads/passport-index.json', 'utf8');
+  assert.equal(sha256(referenceRaw), 'cfbba9ffc469e7f80b9140aa36a1371aabdb2260499b3108771c4684afbb3f6e');
+  const reference = JSON.parse(referenceRaw) as PassportIndexSnapshot;
+  let untouched = 0;
+  for (const country of countries) {
+    const prior = compilePassportRules(country, countries, legacy, '2026-10-11', reference, before);
+    const next = compilePassportRules(country, countries, legacy, '2026-10-11', reference, output);
+    for (const route of prior.destinations) {
+      const updated = next.destinations.find(item => item.iso === route.iso)!;
+      if (!additions.has(`${country.iso}/${route.iso}`)) { assert.deepEqual(updated, route); untouched++; }
+      else { assert.equal(updated.review, 'checked'); assert.deepEqual(updated.rule, additions.get(`${country.iso}/${route.iso}`)); }
+    }
+  }
+  assert.equal(untouched, 39359);
+  for (const to of ['OM', 'PS', 'SZ', 'CU', 'BD', 'CO', 'TW', 'NA', 'RW']) assert.deepEqual(output.reviews.find(review => review.destination === to), before.reviews.find(review => review.destination === to));
+  assert.deepEqual(output.reviews.find(review => review.destination === 'NE')!.unresolvedPassports.slice().sort(), ['MR', 'MU', 'RW', 'SE']);
+  assert.equal(output.reviews.find(review => review.destination === 'OM')!.unresolvedPassports.length, 88);
+  assert.equal(output.reviews.find(review => review.destination === 'PS')!.unresolvedPassports.length, 195);
 });

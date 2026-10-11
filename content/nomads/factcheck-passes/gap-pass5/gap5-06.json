@@ -1,0 +1,882 @@
+{
+  "version": 1,
+  "batch": "gap5-06",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-06-kp-german-duty": {
+      "title": "German Foreign Office: DPRK visa duty and organised-travel conditions",
+      "urls": [
+        "https://www.auswaertiges-amt.de/de/service/laender/koreademokratischevolksrepublik-node/koreademokratischevolksrepubliksicherheit-216104"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "4c0d936441e8eb8e66ceb74b576700b652a21e60dfd69df477dcf24c1054803c"
+    },
+    "gap5-06-kp-slovenian-duty": {
+      "title": "Slovenian MFA: DPRK visa duty for Slovenian citizens",
+      "urls": [
+        "https://www.gov.si/drzave/severna-koreja/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "d7d83b4057e860e394021794a95adff8fa3f78d434a9dde80a61161eac5ccf09"
+    },
+    "gap5-06-kp-belgian-duty": {
+      "title": "Belgian MFA public travel-document checker: DPRK visa via recognised organiser or invitation",
+      "urls": [
+        "https://publicapps.diplomatie.be/api/travelDocuments/getByCountryIso?language=FR&countryIso=PRK",
+        "https://diplomatie.belgium.be/fr/documents-de-voyage",
+        "https://publicapps.diplomatie.be/api/geography/country/traveldocuments?language=1"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "946e6616411c6bbda2b0e0f0846c3dfc5c836ab695478699c515200b6c24b6b3"
+    },
+    "gap5-06-ir-portuguese-duty": {
+      "title": "Portuguese MFA: Iran entry visa requirement and suspended airport process",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/i/irao"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "6c9801dbaa535579a0cca88a90fc553a243083d23a4362ae2ce0860d9422cf6d"
+    },
+    "gap5-06-ir-spanish-duty": {
+      "title": "Spanish Embassy Tehran: Spanish visa duty and airport-channel uncertainty",
+      "urls": [
+        "https://www.exteriores.gob.es/Embajadas/teheran/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "b6fa49c64d72dec298dedcb03550e9cf6d65be28dd01b7b1a8c6f2eb1f4d048a"
+    },
+    "gap5-06-ir-italian-duty": {
+      "title": "Italian MFA live Iran country PDF: mandatory visa and sequential processing",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/IRN.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "ebb555c572fc0667e41f828efd73cc7a9d256cd706b759913846e2218ef6c9f6"
+    },
+    "gap5-06-ir-czech-duty": {
+      "title": "Czech MFA: Iran tourist visa, organised-tour condition and visa sheet at the border",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/blizky_vychod/iran/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "ba6c5a7c22bb7807ee83640614a334073f2149115fcd59c2f3c72ccde3b6adb3"
+    },
+    "gap5-06-la-current-law": {
+      "title": "Lao Ministry of Justice: current Entry-Exit Law Article11 and Immigration exemption publication",
+      "urls": [
+        "https://www.laoofficialgazette.gov.la/kcfinder/upload/files/%E0%BA%81%E0%BA%BB%E0%BA%94%E0%BB%9D%E0%BA%B2%E0%BA%8D%E0%BA%A7%E0%BB%88%E0%BA%B2%E0%BA%94%E0%BB%89%E0%BA%A7%E0%BA%8D%20%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%82%E0%BA%BB%E0%BB%89%E0%BA%B2-%E0%BA%AD%E0%BA%AD%E0%BA%81%20%E0%BB%81%E0%BA%A5%E0%BA%B0%20%E0%BA%84%E0%BA%B8%E0%BB%89%E0%BA%A1%E0%BA%84%E0%BA%AD%E0%BA%87%E0%BA%84%E0%BA%BB%E0%BA%99%E0%BA%95%E0%BB%88%E0%BA%B2%E0%BA%87%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%20%E0%BA%A2%E0%BA%B9%E0%BB%88%20%E0%BA%AA%E0%BA%9B%E0%BA%9B%20%E0%BA%A5%E0%BA%B2%E0%BA%A7...pdf",
+        "https://www.laoofficialgazette.gov.la/index.php?r=site/display&id=819",
+        "https://www.laoofficialgazette.gov.la/index.php?r=site/searchtip&s=%E0%BA%84%E0%BA%BB%E0%BA%99%E0%BA%95%E0%BB%88%E0%BA%B2%E0%BA%87%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94",
+        "https://api.immigration.gov.la/visa-category/clients?lang=en&limit=4&offset=0&category="
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "84c0f7b7461cdd63b173691befc8cc8c5d31ebdebb3a8689fdbf5b382673c77f"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "DE"
+      ],
+      "destinations": [
+        "KP"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-kp-german-duty",
+      "label": "Visa required; issuance conditions apply",
+      "n": "German nationals require a DPRK visa and a Korean invitation; for tourism the travel organiser arranges the invitation. The Foreign Office describes organised travel with accompanying personnel and foreign-ministry approval. This establishes visa duty, not that tourism is open, a visa will be issued, or admission is assured. Stay and currently available issuance arrangements are unconfirmed."
+    },
+    {
+      "passports": [
+        "SI"
+      ],
+      "destinations": [
+        "KP"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-kp-slovenian-duty",
+      "label": "Visa required; issuance conditions apply",
+      "n": "Slovenian citizens require a DPRK visa. The MFA describes state-agency organised tourism and accompanied travel; independent travel requires special permission and is normally limited to business. Visa duty does not establish that tourism is open or that a visa or entry will be granted. No fixed tourist stay or presently available issuance channel is established."
+    },
+    {
+      "passports": [
+        "BE"
+      ],
+      "destinations": [
+        "KP"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-kp-belgian-duty",
+      "label": "Visa required; issuance conditions apply",
+      "n": "Belgian ordinary travellers require a visa obtained through the embassy/consulate via a travel organisation recognised by DPRK or on a DPRK invitation. The live government checker retains a20 October2023 record; it establishes visa duty, not current tourism opening or routine issuance. No admitted stay is specified. The checker’s90-day search scope is not a90-day entry permission."
+    },
+    {
+      "passports": [
+        "PT"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-ir-portuguese-duty",
+      "label": "Visa required; issuance conditions apply",
+      "n": "Portuguese travellers require an Iranian visa. Portuguese MFA says airport issuance remains suspended and recommends obtaining the visa before travel. Final electronic-versus-consular issuance and admitted stay remain unconfirmed; its one-month visa-validity wording is not a stay grant. BOCA’s expressly foreign-applicant-wide rule requires a legally registered Iranian travel agency to file the visa application and arrange the itinerary. That applicant rule does not revoke independently established exemptions.",
+      "evidence": [
+        "gap-12-ir-taiwan"
+      ]
+    },
+    {
+      "passports": [
+        "ES"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-ir-spanish-duty",
+      "label": "Visa required; issuance conditions apply",
+      "n": "Spanish nationals require an Iranian visa throughout their stay. The embassy says airport issuance was suspended and no official resumption has been communicated; online preapplication is not proof of a final eVisa. Stay and final issuance method remain unconfirmed. Passport must be valid more than six months; the embassy warns that an Israeli visa or stamp in a travel document prevents entry. BOCA’s expressly foreign-applicant-wide rule requires a legally registered Iranian travel agency to file the visa application and arrange the itinerary. That applicant rule does not revoke independently established exemptions.",
+      "evidence": [
+        "gap-12-ir-taiwan"
+      ]
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-ir-italian-duty",
+      "label": "Visa required; issuance conditions apply",
+      "n": "Italian travellers require an Iranian visa. The live MFA country PDF calls for obtaining it before departure; its detailed online-registration, consular-presentation and conditional-airport passages do not prove interchangeable operational methods. Keep final method and admitted stay unconfirmed. A valid visa does not guarantee entry; the source also excludes passports bearing an Israeli visa or entry stamp. BOCA’s expressly foreign-applicant-wide rule requires a legally registered Iranian travel agency to file the visa application and arrange the itinerary. That applicant rule does not revoke independently established exemptions.",
+      "evidence": [
+        "gap-12-ir-taiwan"
+      ]
+    },
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "IR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-ir-czech-duty",
+      "label": "Visa required; issuance conditions apply",
+      "n": "Czech tourist guidance requires presentation of the issued Iranian visa sheet with the passport at entry and retention of it for exit. It reports anAugust2025 rule allowing tourist applications only for Iranian-agency-organised tours and rejection of independent tourist applications. Applications are filed electronically, but final issuance method and stay are unconfirmed. Passport must remain valid at least six months after visa expiry. BOCA’s expressly foreign-applicant-wide rule requires a legally registered Iranian travel agency to file the visa application and arrange the itinerary. That applicant rule does not revoke independently established exemptions.",
+      "evidence": [
+        "gap-12-ir-taiwan"
+      ]
+    },
+    {
+      "passports": [
+        "AF",
+        "DZ",
+        "BD",
+        "BI",
+        "CM",
+        "CG",
+        "CI",
+        "SZ",
+        "GH",
+        "GN",
+        "GW",
+        "IR",
+        "IQ",
+        "JO",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MZ",
+        "NR",
+        "NE",
+        "NG",
+        "PK",
+        "SN",
+        "SL",
+        "SO",
+        "SS",
+        "SD",
+        "SR",
+        "SY",
+        "TO",
+        "UG",
+        "VA",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "destinations": [
+        "LA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-06-la-current-law",
+      "label": "Visa required; issuance conditions apply",
+      "n": "Ordinary tourist entry requires a visa under Article11 of the Entry-Exit Law, read with Immigration’s published ordinary/unilateral exemption schedule and known later exceptions. Diplomatic/service exemptions do not cover ordinary passports. This is requirement-only: arrival eligibility, electronic eligibility, any advance clearance and the admitted stay are unconfirmed. The law’s generic power to issue visas at checkpoints is not an entitlement for this nationality. An accepted travel document and any applicable special authorisation are still necessary; no routine issuance or admission is promised.",
+      "evidence": [
+        "southeast-asia-la-waivers"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "KP",
+      "resolvedOrigins": [
+        "BE",
+        "DE",
+        "SI"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TW",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Three origin-specific visa-duty additions: BE DE SI; no tourism-opening, guaranteed-issuance or numerical-stay claim. Belgium’s actual live decision uses PRK; its2023 record date is preserved.",
+        "Untried ROK Ministry of Justice unification-law database and public title/content searches did not retrieve the needed current DPRK foreign-entry statute or exception schedule. New Chinese embassy consular navigation provided China-bound notices, not a DPRK nationality rule. Previously failed DPRK law/tourism HTTP/HTTPS endpoints were not retried.",
+        "Other180 origins retain missing scoped visa-duty/exemption proof. Chinese border-tour exceptions, Korean inter-Korean permissions, Malaysian historical waiver/passport restrictions and US passport-use restrictions require distinct treatment; HK/MO/PS/TW/XK documents are not inferred from other nationalities."
+      ],
+      "attemptedUrls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/korea-demokratische-volksrepublik",
+        "https://publicapps.diplomatie.be/traveldocuments?language=FR&showtopnav=false",
+        "https://publicapps.diplomatie.be/main.d161343d6bb44651.js",
+        "https://publicapps.diplomatie.be/api/geography/country/traveldocuments?language=1",
+        "https://publicapps.diplomatie.be/api/travelDocuments/getByCountryIso?language=FR&countryIso=KP",
+        "https://diplomatie.belgium.be/fr/documents-de-voyage",
+        "https://diplomatie.belgium.be/fr/pays/coree-du-nord/voyager-en-coree-du-nord-conseils-aux-voyageurs",
+        "https://diplomatie.belgium.be/fr/pays/coree-du-nord/voyager-en-coree-du-nord-conseils-aux-voyageurs/informations-pratiques-pour-la-coree-du-nord",
+        "https://publicapps.diplomatie.be/api/travelDocuments/getByCountryIso?language=FR&countryIso=PRK",
+        "https://www.mfa.bg/en/embassyinfo/north%2Bkorea",
+        "https://www.gov.br/mre/pt-br/assuntos/portal-consular/recomendacoes-de-viagem/republica-popular-democratica-da-coreia",
+        "https://kp.china-embassy.gov.cn/lsyw/",
+        "https://kp.china-embassy.gov.cn/zjcx/",
+        "https://kp.china-embassy.gov.cn/chn/lsfw/",
+        "https://kp.china-embassy.gov.cn/lsyw/lstzhtx/",
+        "https://www.auswaertiges-amt.de/de/service/laender/koreademokratischevolksrepublik-node/koreademokratischevolksrepubliksicherheit-216104",
+        "https://www.auswaertiges-amt.de/de/service/laender/koreademokratischevolksrepublik-node",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/nordkorea",
+        "https://reisitargalt.vm.ee/sihtkoht/pohja-korea/",
+        "https://um.fi/matkustustiedote/-/c/KP",
+        "https://www.mfa.gov.lv/lv/korejas-tautas-demokratiska-republika-ziemelkoreja",
+        "https://www.gov.si/drzave/severna-koreja/",
+        "https://www.mzv.sk/korejska-ludovodemokraticka-republika",
+        "https://www.unilaw.go.kr/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000021&tgtMenuNo=3010000&tgtUpperMenuId=3000000&searchCnd=0&searchWrd=%EC%B6%9C%EC%9E%85&pageIndex=1",
+        "https://www.unilaw.go.kr/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000021&tgtMenuNo=3010000&tgtUpperMenuId=3000000&searchCnd=0&searchWrd=%EC%99%B8%EA%B5%AD%EC%9D%B8&pageIndex=1",
+        "https://www.unilaw.go.kr/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000021&tgtMenuNo=3010000&tgtUpperMenuId=3000000&searchCnd=1&searchWrd=%EC%82%AC%EC%A6%9D&pageIndex=1",
+        "https://www.unilaw.go.kr/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000021&tgtMenuNo=3010000&tgtUpperMenuId=3000000",
+        "https://www.unilaw.go.kr/mainIndex.do",
+        "https://www.unilaw.go.kr/search/totalsearch.do?query=%EC%99%B8%EA%B5%AD%EC%9D%B8%EC%B6%9C%EC%9E%85%EA%B5%AD%EB%B2%95&grad=3&tgtMenuNo=1010000&tgtUpperMenuId=1000000",
+        "https://www.unilaw.go.kr/"
+      ]
+    },
+    {
+      "destination": "IR",
+      "resolvedOrigins": [
+        "CZ",
+        "IT",
+        "PT",
+        "ES"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AT",
+        "AZ",
+        "BS",
+        "BD",
+        "BB",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BW",
+        "BG",
+        "BF",
+        "BI",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CN",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "CY",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IQ",
+        "IE",
+        "IL",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MG",
+        "MW",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "FM",
+        "MD",
+        "MC",
+        "MN",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PH",
+        "PL",
+        "RO",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SL",
+        "SK",
+        "SB",
+        "SO",
+        "ZA",
+        "KR",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "SE",
+        "CH",
+        "SY",
+        "TJ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "US",
+        "UY",
+        "VU",
+        "VA",
+        "VE",
+        "YE",
+        "ZM"
+      ],
+      "findings": [
+        "Four requirement-only additions: CZ ES IT PT. Online filing, preapproval, physical/airport issuance and final electronic visa are distinct. No stay is derived from visa validity. BOCA’s general agency condition is preserved with its original8October check date.",
+        "The existing13November2025 Hong Kong consular archive remains historical. India’s17November2025 notice withdrawing the waiver from22November2025 remains separate from security-advisory withdrawals and from issuance-channel questions; no existing Indian or archived rule is replaced.",
+        "Remaining150 origins lack an established current nationality/waiver or special-document decision. Hong Kong’s21-day combined visa-free/arrival table still does not disambiguate the method. New Czech navigation succeeded; other fresh mission/origin sources returned404, shells,403 or CAPTCHA and were not bypassed."
+      ],
+      "attemptedUrls": [
+        "https://www.mfa.bg/en/embassyinfo/iran",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/blizky_vychod/iran/cestovani/index.html",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/blizky_vychod/iran/cestovani/visa.html",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/asie/index.html",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/asie/iran/cestovani/index.html",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/blizky_vychod/index.html",
+        "https://mzv.gov.cz/teheran/cz/konzularni_informace/index.html",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/asie/iran/cestovani/visa.html",
+        "https://www.exteriores.gob.es/Embajadas/teheran/es/ViajarA/Paginas/Recomendaciones-de-viaje.aspx",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://www.info.gov.hk/gia/general/201906/24/P2019062400419.htm",
+        "https://www.immd.gov.hk/eng/press/press-releases.html",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/IRN.pdf",
+        "https://www.gov.kz/memleket/entities/mfa/press/article/details/6764?lang=en",
+        "https://keliauk.urm.lt/location/iranas",
+        "https://www.mfa.gov.lv/lv/irana",
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/i/irao",
+        "https://www.mzv.sk/iran"
+      ]
+    },
+    {
+      "destination": "LA",
+      "resolvedOrigins": [
+        "AF",
+        "DZ",
+        "BD",
+        "BI",
+        "CM",
+        "CG",
+        "CI",
+        "SZ",
+        "GH",
+        "GN",
+        "GW",
+        "IR",
+        "IQ",
+        "JO",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "MZ",
+        "NR",
+        "NE",
+        "NG",
+        "PK",
+        "SN",
+        "SL",
+        "SO",
+        "SS",
+        "SD",
+        "SR",
+        "SY",
+        "TO",
+        "UG",
+        "VA",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "remainingOrigins": [
+        "BY"
+      ],
+      "findings": [
+        "Thirty-six requirement-only additions from the newly recovered live official-gazette law, explicitly marked current, Article11 default plus passport-class exemptions. All four published Immigration exemption images and the current pointer were inspected; diplomatic/service-only rows do not exempt ordinary visitors.",
+        "Reconciled known later Japan and Timor-Leste developments without changing their baseline rules. Belarus is excluded from the default: BelTA16January2026 reports ordinary-passport agreement effective15January2026,30 days per visit and90 per calendar year, passport180 days. Direct MFA/mission/legal notice could not be recovered, so that state-news lead is retained without route credit.",
+        "No nationality eVisa/arrival entitlement, consular-only restriction or30-day stay is inferred. The2021 archived English translation is reading assistance only; the operative-source evidence is the current Lao gazette scan and status listing."
+      ],
+      "attemptedUrls": [
+        "https://belta.by/society/view/vstupilo-v-silu-soglashenie-mezhdu-belarusjju-i-laosom-ob-otmene-viz-dlja-vladeltsev-obychnyh-pasportov-759439-2026/",
+        "https://mfa.gov.by/visa/freemove/exit/",
+        "https://vietnam.mfa.gov.by/ru/consular_issues/",
+        "https://vietnam.mfa.gov.by/ru/embassy/news/",
+        "https://vietnam.mfa.gov.by/ru/consular_issues/visafree_countries/",
+        "https://pravo.by/search/?q=%D0%9B%D0%B0%D0%BE%D1%81",
+        "https://api.immigration.gov.la/visa-category/clients?lang=en&limit=4&offset=0&category=",
+        "https://laoembassy.com/consular-services/",
+        "https://www.laoofficialgazette.gov.la/index.php?r=site/searchtip&s=%E0%BA%84%E0%BA%BB%E0%BA%99%E0%BA%95%E0%BB%88%E0%BA%B2%E0%BA%87%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94",
+        "https://laoofficialgazette.gov.la/index.php?r=site/index",
+        "https://investlaos.gov.la/doing-business/starting-a-business/visa-and-stay-permit/",
+        "https://www.laoofficialgazette.gov.la/index.php?r=site/display&id=819",
+        "https://www.laoofficialgazette.gov.la/kcfinder/upload/files/%E0%BA%81%E0%BA%BB%E0%BA%94%E0%BB%9D%E0%BA%B2%E0%BA%8D%E0%BA%A7%E0%BB%88%E0%BA%B2%E0%BA%94%E0%BB%89%E0%BA%A7%E0%BA%8D%20%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%82%E0%BA%BB%E0%BB%89%E0%BA%B2-%E0%BA%AD%E0%BA%AD%E0%BA%81%20%E0%BB%81%E0%BA%A5%E0%BA%B0%20%E0%BA%84%E0%BA%B8%E0%BB%89%E0%BA%A1%E0%BA%84%E0%BA%AD%E0%BA%87%E0%BA%84%E0%BA%BB%E0%BA%99%E0%BA%95%E0%BB%88%E0%BA%B2%E0%BA%87%E0%BA%9B%E0%BA%B0%E0%BB%80%E0%BA%97%E0%BA%94%20%E0%BA%A2%E0%BA%B9%E0%BB%88%20%E0%BA%AA%E0%BA%9B%E0%BA%9B%20%E0%BA%A5%E0%BA%B2%E0%BA%A7...pdf",
+        "https://www.laoofficialgazette.gov.la/",
+        "https://mofa.gov.la/en/consular-affairs",
+        "https://www.laoembassy.se/visa/",
+        "https://www.laotradeportal.gov.la/en-gb/search-procedure",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Laos"
+      ]
+    },
+    {
+      "destination": "VU",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BH",
+        "KG",
+        "MC",
+        "MD",
+        "MK",
+        "MN",
+        "PS",
+        "RW",
+        "TR"
+      ],
+      "findings": [
+        "All9 retained. New parliamentary consolidated/subsidiary/Act indexes were recovered, but the consolidation is2006 and links point to PacLII, which returned403; no current controlling exemption amendment recovered.",
+        "BH MC RW TR remain contradictory between official exemption lists; KG MD MK MN PS remain omitted/document-sensitive. The previously rejected Utopia/identical-eVisa payload is not reused, and the generic120-day tourist product is not a nationality decision."
+      ],
+      "attemptedUrls": [
+        "https://parliament.gov.vu/index.php/parliamentary-business/acts-of-parliament/acts",
+        "https://parliament.gov.vu/index.php/parliamentary-business/acts-of-parliament/vanuatu-consolidated-legislation",
+        "https://slo.gov.vu/",
+        "https://parliament.gov.vu/",
+        "https://www.paclii.org/vu/indices/legis/",
+        "https://parliament.gov.vu/index.php/acts",
+        "https://parliament.gov.vu/index.php/parliamentary-business/acts-of-parliament/vanuatu-subsidiary-legislation"
+      ]
+    },
+    {
+      "destination": "TL",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CV",
+        "XK",
+        "LA",
+        "PS",
+        "VN"
+      ],
+      "findings": [
+        "All5 retained. Fresh government searches for Laos, Vietnam and Cabo Verde and the official state-news account of parliamentary Laos approval add no verified diplomatic-notification or operative commencement date.",
+        "Laos treaty ratification/signature and30-day text remain distinct from Article5 commencement; Vietnam’sJune2026 signature andSeptember draft-resolution approval remain distinct from entry into force. CV effective terms and PS/XK accepted documents remain unproved."
+      ],
+      "attemptedUrls": [
+        "https://timor-leste.gov.tl/?s=Cabo%2BVerde%2Bvisa&lang=en",
+        "https://en.tatoli.tl/2025/05/13/parliament-approves-visa-waiver-agreements-between-tl-and-lao-dpr/13/",
+        "https://timor-leste.gov.tl/?s=visa%2BLaos&lang=en",
+        "https://timor-leste.gov.tl/?s=Vietnam%2Bvisa&lang=en"
+      ]
+    },
+    {
+      "destination": "TV",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CH",
+        "IS",
+        "LI",
+        "NO"
+      ],
+      "findings": [
+        "All4 CH IS LI NO retained. New Liechtenstein government full-text treaty search returned8 unrelated instruments and no Tuvalu visa-waiver text; Iceland government search returned no matches. Swiss/Norwegian alternatives denied access or returned404.",
+        "No separate operative EFTA bilateral waiver/duration was established. EU treaty scope, fee exemptions and the standard arrival permit do not resolve these claimed separate agreements."
+      ],
+      "attemptedUrls": [
+        "https://www.eda.admin.ch/en/search?query=Tuvalu%20visa",
+        "https://www.eda.admin.ch/en/tuvalu-travel-advice",
+        "https://www.government.is/search/?SearchQuery=Tuvalu%20visa",
+        "https://www.gesetze.li/konso/suche?search_text=Tuvalu",
+        "https://www.gesetze.li/konso/suche?search_text=Tuvalu&search_loc=text&lrnr=&lgblid_von=&observe_date=09.10.2026",
+        "https://www.norway.no/en/australia/for-nordmenn/reiseinformasjon/tuvalu/",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_tuvalu/id2415433/"
+      ]
+    },
+    {
+      "destination": "BW",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "MO",
+        "VA"
+      ],
+      "findings": [
+        "All3 XK MO VA retained. New mission alternatives failed DNS. A legal-portal locator proved to be a commercial subscription service, so research stopped at its public landing page.",
+        "Vatican/Holy See required-versus-exempt conflict remains. MO/XK lack positive ordinary-document/classification evidence; not-found responses do not prove a visa duty."
+      ],
+      "attemptedUrls": [
+        "https://botswanalaws.com/consolidated-statutes/principal-legislation/immigration",
+        "https://www.botswanalaws.com/",
+        "https://www.botswanaembassy.it/visa/",
+        "https://www.botswanahighcommission.org.uk/"
+      ]
+    },
+    {
+      "destination": "CO",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "Both PS/XK retained. New ministry searches for passport/visa-specific determinations returned no results; broader Palestine results concern diplomatic relations, personnel families and political affairs.",
+        "No ordinary-document recognition or nationality-specific tourist decision was obtained. The existing general default and diplomatic treaty are not extended over these unresolved document branches."
+      ],
+      "attemptedUrls": [
+        "https://www.cancilleria.gov.co/search/node?keys=pasaporte%20palestina",
+        "https://www.cancilleria.gov.co/search/node?keys=Kosovo%20visa",
+        "https://www.cancilleria.gov.co/search/node?keys=Palestina"
+      ]
+    },
+    {
+      "destination": "NA",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "Both PS/XK retained. Parliament’s Act index expressly points to LAC for current annotated statutes; the retrieved law defines passports by recognition and authorises ministerial exceptions. It does not establish these two ordinary documents or special-authorisation implementations.",
+        "The MHAISS source failed normal TLS verification and another mission locator returned a shell. No recognition inferred from diplomatic relations and no new categorical visa record created."
+      ],
+      "attemptedUrls": [
+        "https://www.parliament.na/acts-of-parliament/",
+        "https://www.lac.org.na/laws/annoSTAT/Immigration%20Control%20Act%207%20of%201993.pdf",
+        "https://mhaiss.gov.na/",
+        "https://www.lac.org.na/laws/immigration.php",
+        "https://www.namibia.org.za/visa-information/"
+      ]
+    },
+    {
+      "destination": "KG",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK retained. New Kyrgyz ministry/mission alternatives returned502 and the justice-law endpoint supplied a client shell. Kosovo’s functioning embassy visa page concerns foreign visitors entering Kosovo, not Kosovo travellers entering Kyrgyzstan.",
+        "No invented country ID, reversed-direction reciprocity or inference from the absent eVisa nationality option. Kosovo document/visa-authorisation scope remains unproved."
+      ],
+      "attemptedUrls": [
+        "https://mfa.gov.kg/en/dm/posolstvo-kyrgyzskoy-respubliki-v-federativnoy-respublike-germaniya",
+        "https://mfa.gov.kg/en/search?query=Kosovo",
+        "https://ambasadat.net/vizat/",
+        "https://cbd.minjust.gov.kg/act/view/ru-ru/95194"
+      ]
+    },
+    {
+      "destination": "LK",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "PS retained. The newly navigated central MFA directory authenticates the Ramallah mission website as slmissionps.org; that exact linked hostname failed DNS.",
+        "A mission listing proves representation, not ordinary Palestinian-passport acceptance or sponsor/Head Office/ETA eligibility. The central prior-permission default is not turned into a guessed Palestinian issuance branch; the compromised former Pretoria domain was not revisited."
+      ],
+      "attemptedUrls": [
+        "https://www.mfa.gov.lk/diplomatic-missions",
+        "https://www.mfa.gov.lk/en/",
+        "https://mfa.gov.lk/",
+        "https://mfa.gov.lk/en/sri-lanka-missions-overseas/",
+        "https://www.mfa.gov.lk/en/diplomatic-missions/sri-lanka-diplomatic-abroad/middle-east",
+        "https://www.mfa.gov.lk/diplomatic-missions/sri-lanka-diplomatic-abroad",
+        "https://slmissionps.org/",
+        "https://www.slembassyps.org/"
+      ]
+    }
+  ],
+  "corrections": []
+}

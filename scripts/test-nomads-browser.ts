@@ -14,6 +14,7 @@ import type { PassportRules } from '../src/lib/nomads/types';
 import { factcheckCounts, type Factchecks } from './lib/passport-factchecks';
 import countries from '../content/nomads/countries.json';
 import { validPassportRules } from '../src/lib/nomads/entry-rules';
+import type { GapPatch } from './lib/passport-gap-patches';
 
 const origin = 'http://127.0.0.1:3184';
 const humanHeaders = { 'User-Agent': 'Mozilla/5.0', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Dest': 'document' };
@@ -363,6 +364,13 @@ async function main() {
       ['burkina-faso', 'Niger', 'Air entry only: visa-free', ''],
       ['cameroon', 'Central African Republic', 'Air entry only: visa-free', ''],
       ['australia', 'Burkina Faso', 'Air entry only: prior eVisa', ''],
+      ['brazil', 'Malaysia', 'Visa-free', 'Up to 90 days'],
+      ['azerbaijan', 'Morocco', 'Visa-free', 'Up to 90 days'],
+      ['afghanistan', 'Laos', 'Visa required; issuance conditions apply', ''],
+      ['kosovo', 'South Korea', 'Tourist visa required; mission assessment', '30 days for a double-entry visa'],
+      ['kosovo', 'Argentina', 'Visa or AVE required; document and issuance channel unconfirmed', ''],
+      ['palestine', 'Angola', 'Visa required for overnight tourism; document handling unconfirmed', ''],
+      ['hong-kong', 'Liberia', 'Visa required; document handling and issuance unconfirmed', ''],
     ]) {
       await go(`/visas?tab=checker&passport=${passport}`);
       await page.getByRole('searchbox', { name: 'Search destinations' }).fill(destination);
@@ -387,17 +395,60 @@ async function main() {
         await expect(resultRow).toContainText('three months'); await expect(resultRow).toContainText('60 days');
         await expect(resultRow).not.toContainText('Up to 60 days'); await expect(resultRow).not.toContainText('Up to 90 days');
       }
+      if (passport === 'brazil' && destination === 'Malaysia') await expect(resultRow).toContainText('MDAC');
+      if (passport === 'afghanistan' && destination === 'Laos') await expect(resultRow).toContainText('arrival eligibility, electronic eligibility');
+      if (passport === 'kosovo' && destination === 'South Korea') {
+        await expect(resultRow).toContainText('90 days for a single-entry visa');
+        await expect(resultRow).toContainText('not an eVisa');
+      }
+      if (passport === 'kosovo' && destination === 'Argentina') {
+        await expect(resultRow).toContainText('without treating AVE as a visa or proving AVE eligibility');
+        await expect(resultRow).not.toContainText('Up to 90 days');
+      }
+      if (passport === 'palestine' && destination === 'Angola') await expect(resultRow).toContainText('cruise passengers/day visitors');
+      if (passport === 'hong-kong' && destination === 'Liberia') await expect(resultRow).toContainText('does not establish acceptance of the particular document');
       assert.ok((await resultRow.locator('a').first().innerText()).length > 20, 'Useful source titles are visible');
     }
 
-    await go('/visas?tab=checker&passport=sweden&destination=Niger');
-    const nigerRow = entryRow.filter({ has: page.getByRole('rowheader', { name: 'Niger', exact: true }) });
-    await expect(nigerRow).toHaveCount(1); await expect(nigerRow).toContainText('Not yet verified');
-    await nigerRow.locator('summary').click();
-    await expect(nigerRow).toContainText('Air-entry evidence conflict');
-    await expect(nigerRow).toContainText('Unresolved official review');
-    assert.ok(await nigerRow.locator('a[href*="aim.asecna.aero/pdf/FR-_12GEN"]').count() > 0);
-    assert.ok(await nigerRow.locator('a[href*="ambassadeniger-fr.org"]').count() > 0);
+    const consistency = JSON.parse(fs.readFileSync('content/nomads/factcheck-passes/pass6-consistency/pass6-consistency.json', 'utf8')) as GapPatch;
+    let consistencyRoutes = 0;
+    await page.setViewportSize({ width: 320, height: 1000 });
+    for (const policy of consistency.policies) for (const passport of policy.passports) {
+      const country = countries.find(item => item.iso === passport)!;
+      const destination = countries.find(item => item.iso === policy.destinations[0])!;
+      const start = requests.length;
+      await go(`/visas?tab=checker&passport=${country.id}&destination=${encodeURIComponent(destination.name)}`);
+      const resultRow = entryRow.filter({ has: page.getByRole('rowheader', { name: destination.name, exact: true }) });
+      await expect(resultRow).toHaveCount(1);
+      await expect(resultRow.getByText(policy.label!, { exact: true })).toBeVisible();
+      await resultRow.locator('summary').click();
+      await expect(resultRow).toContainText('Checked · government-backed baseline');
+      await expect(resultRow).toContainText(policy.n!);
+      await expect(resultRow).not.toContainText(/Up to \d+ days/);
+      await noOverflow();
+      assert.ok(requests.slice(start).filter(url => /\/passports\/.*\.json/.test(url)).every(url => url.includes(`/passports/${country.id}.json?v=4`)));
+      consistencyRoutes++;
+    }
+    assert.equal(consistencyRoutes, 43);
+    await page.setViewportSize({ width: 1440, height: 1000 });
+    for (const passport of ['sweden', 'mauritania', 'mauritius', 'rwanda']) {
+      await go(`/visas?tab=checker&passport=${passport}&destination=Niger`);
+      const nigerRow = entryRow.filter({ has: page.getByRole('rowheader', { name: 'Niger', exact: true }) });
+      await expect(nigerRow).toHaveCount(1); await expect(nigerRow).toContainText('Not yet verified');
+      await nigerRow.locator('summary').click();
+      await expect(nigerRow).toContainText('Air-entry evidence conflict');
+      await expect(nigerRow).toContainText('Unresolved official review');
+      assert.ok(await nigerRow.locator('a[href*="aim.asecna.aero/pdf/FR-_12GEN"]').count() > 0);
+      assert.ok(await nigerRow.locator('a[href*="ambassadeniger-fr.org"]').count() > 0);
+    }
+    for (const destination of ['Oman', 'Palestine']) {
+      await go(`/visas?tab=checker&passport=kosovo&destination=${destination}`);
+      const heldRow = entryRow.filter({ has: page.getByRole('rowheader', { name: destination, exact: true }) });
+      await expect(heldRow).toHaveCount(1); await heldRow.locator('summary').click();
+      await expect(heldRow).toContainText('Unresolved official review');
+      await expect(heldRow).not.toContainText('Checked · government-backed baseline');
+    }
+    console.log('Pass-six browser: all 43 qualified labels/notes at 320px, selected-shard loading and retained Niger/OM/PS holds passed.');
 
     await go('/visas?tab=checker&passport=bahrain&destination=Azerbaijan');
     await expect(entryRow).toHaveCount(1);

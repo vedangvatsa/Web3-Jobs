@@ -1,0 +1,364 @@
+{
+  "version": 1,
+  "batch": "conditional-adjudication",
+  "baselineSha256": "15dba6e71d3bcec062fb72345d0bc84909b9b4e85a1583c15c6cd2d0ae73c3df",
+  "sources": {
+    "conditional-adjudication-cn-duty": {
+      "title": "China: retained Article 15 visa duty and reconciled unilateral, bilateral and regional exceptions",
+      "urls": [
+        "https://cs.mfa.gov.cn/wgrlh/lhqz/lhqzjjs/201401/t20140121_961580.shtml",
+        "https://en.nia.gov.cn/n147418/n147463/c180637/content.html",
+        "https://en.nia.gov.cn/n147418/n147463/c183390/content.html",
+        "https://en.nia.gov.cn/n147418/n147463/c181470/content.html"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "conditional-adjudication-lr-duty": {
+      "title": "Liberian Embassy London: express foreign-national visa duty and ECOWAS-passport exception",
+      "urls": [
+        "https://www.embassyofliberia.co.uk/consular-services/visa-application/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "9e426d293c1baa4f0c36ad52c362638c4349cfb3dc9143ca10f69184d34c264f"
+    },
+    "conditional-adjudication-bh-duty": {
+      "title": "Bahrain national portal: entry visa required except five named GCC nationalities",
+      "urls": [
+        "https://www.bahrain.bh/wps/portal/en/BNP/HereInBahrain/NationalIdentificationAndVisas?1dmy&page=YLB.Content.Details.Page.16&urile=wcm%3apath%3a%2Fbnp_en%2Fyour%2Blife%2Bin%2Bbahrain%2Fnational%2Bidentification%2Band%2Bvisas%2Frelated%2Btopics%2Fvisas"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "2a680e1441125115f064aeff0915597f8b6870fd7509070bcceb96bca3402cd4"
+    },
+    "conditional-adjudication-ba-duty": {
+      "title": "Bosnia mission visa default and traced Decision 3/15 amendment chain",
+      "urls": [
+        "https://www.bhembassy.org/visainfo.html",
+        "https://sps.gov.ba/dokumenti/32/ba-odluke/1277/odluka-o-vizama",
+        "https://www.sluzbenilist.ba/page/akt/Mk1PXXuNd54=",
+        "https://www.sluzbenilist.ba/page/akt/Wi2t0dd7Lq4="
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "conditional-adjudication-tg-duty": {
+      "title": "Togo Voyage: express visa default and ordinary/official exception separation",
+      "urls": [
+        "https://voyage.gouv.tg/faq",
+        "https://voyage.gouv.tg/about"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "conditional-adjudication-in-duty": {
+      "title": "Indian Embassy Tokyo tourist FAQ: explicit ordinary-foreign-national visa duty",
+      "urls": [
+        "https://www.indembassy-tokyo.gov.in/eoityo_pages/Nzk,"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "22f594b2a78654ed2a735e9fe465dd2d81fb02d7f86f5fc993432a684567050d"
+    },
+    "conditional-adjudication-ar-duty": {
+      "title": "Argentina Los Angeles consulate: express AVE-or-visa residual tourist requirement",
+      "urls": [
+        "https://clang.cancilleria.gob.ar/en/traveling-argentina-tourist"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "341c338274324e9b78b366a4e1f09eb0c4fb80cd9af543e456d1c0adcabff88b"
+    },
+    "conditional-adjudication-ao-duty": {
+      "title": "Angola Law 13/19 visa duty, Decree 189/23 and reconciled SME exceptions",
+      "urls": [
+        "https://www.sme.gov.ao/fotos/frontend_1/gov_documentos/nova-lei-sobre-o-regime-juridico-dos-cidadaos-estrangeiros-na-republica-de-angola-2019-1_3410837316791309bc6619.pdf",
+        "https://plataformacipra.gov.ao/public/ficheiros/arquivos/Gov_AngolaDecreto%20Presidencial880210230334451696257285.pdf",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/evisa-english-version/",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/vistos/"
+      ],
+      "checkedAt": "2026-10-08"
+    },
+    "conditional-adjudication-bj-duty": {
+      "title": "Benin Decree 2026-049 Article 2 visa duty with previously examined exceptions",
+      "urls": [
+        "https://sgg.gouv.bj/doc/decret-2026-049/download",
+        "https://sgg.gouv.bj/doc/loi-2025-15/download",
+        "https://evisa.bj/faqs"
+      ],
+      "checkedAt": "2026-10-08"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "XK"
+      ],
+      "destinations": [
+        "CN"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-cn-duty",
+      "label": "Visa required for independent tourism; Kosovo document handling unconfirmed",
+      "n": "For ordinary independent tourism, the retained official Article 15 evidence requires an advance visa after the existing unilateral, bilateral and regional exemption reconciliation. This establishes a visa obligation only; it does not establish recognition of a Kosovo passport or an accepted substitute-document procedure. Organised cruise, agency-group, transit and urgent-port concessions are separate conditional regimes; none is assumed and their applicability to this document is not certified. The actual accepted document, special authorization, usable issuance channel and granted stay remain unconfirmed. No routine tourist issuance, visa-free cruise eligibility or admission ban is asserted."
+    },
+    {
+      "passports": [
+        "HK",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "LR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-lr-duty",
+      "label": "Visa required; document handling and issuance unconfirmed",
+      "n": "The Liberian Embassy expressly requires visas from all foreign nationals, with an exception for ECOWAS citizens carrying an ECOWAS passport. This records visa duty for an ordinary Hong Kong SAR, Macao SAR, Palestinian or Kosovo passport; it does not establish acceptance of the particular document. A competent authority must confirm the accepted original or substitute document, applicable residence/mission channel and stay. The separate ROB airport process requires advance approval and is not a walk-up visa entitlement. No eVisa availability, routine tourist issuance or admission ban is inferred."
+    },
+    {
+      "passports": [
+        "XK"
+      ],
+      "destinations": [
+        "BH"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-bh-duty",
+      "label": "Visa required; Kosovo document and tourist issuance unconfirmed",
+      "n": "Bahrain's national portal expressly requires an entry visa from every nationality except Kuwait, Oman, the United Arab Emirates, Saudi Arabia and Qatar. That establishes visa duty for the ordinary Kosovo nationality baseline. Acceptance of a Kosovo ordinary passport or a substitute document, sponsorship/referral, electronic or arrival eligibility and stay are unconfirmed. This is not a positive eVisa decision, a promise of routine tourist issuance or an entry prohibition."
+    },
+    {
+      "passports": [
+        "PS"
+      ],
+      "destinations": [
+        "BA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-ba-duty",
+      "label": "Visa required; Palestinian document handling unconfirmed",
+      "n": "For ordinary tourism without a qualifying supporting document, the mission's express residual visa duty, read with Decision 3/15 and its traced amendments, requires a visa. This does not establish acceptance of a Palestinian ordinary passport or any particular issuing-authority variant. Article 17 provides a separate conditional waiver with a valid multiple-entry visa or residence permit issued by a Schengen state, an EU member state or the United States: at most 30 uninterrupted days within 90 in any 180 days and within supporting-document validity. No such document or entitlement to use that waiver with an unconfirmed passport is assumed. Accepted original/substitute document, competent issuance channel and actual stay remain unconfirmed; no routine tourist admission is certified."
+    },
+    {
+      "passports": [
+        "XK"
+      ],
+      "destinations": [
+        "TG"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-tg-duty",
+      "label": "Visa required; Kosovo document and electronic eligibility unconfirmed",
+      "n": "Togo Voyage expressly requires visas from foreign visitors unless exempt, identifies nationality by the issuer of the travel document, and publishes its ordinary nationality exceptions separately from official-passport arrangements. On the ordinary Kosovo-passport baseline without Togolese residence or diplomatic status, a visa is required. Kosovo's omission from the electronic eligibility enumeration does not establish electronic access or ineligibility. Acceptance of the original or substitute document, the usable issuance channel and stay remain unconfirmed; routine tourist issuance and admission are not certified."
+    },
+    {
+      "passports": [
+        "XK"
+      ],
+      "destinations": [
+        "IN"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-in-duty",
+      "label": "Visa required; Kosovo document authorization unconfirmed",
+      "n": "The Indian Embassy's tourist FAQ expressly says ordinary foreign nationals need a visa, except nationals of Nepal, Bhutan and Maldives. It establishes a visa duty for the Kosovo-only ordinary baseline, not acceptance of a Kosovo passport. The competent authority must establish the accepted original or substitute document and any special authorization. No e-Tourist eligibility, usable mission channel, routine issuance or stay is established by this record. A generic application form or fee schedule is not used as a positive Kosovo eligibility decision."
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "AR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-ar-duty",
+      "label": "Visa or AVE required; document and issuance channel unconfirmed",
+      "n": "Argentina's consulate expressly requires an AVE or a visa for tourists outside its passport-only and specified US-document exemption groups. An ordinary Palestinian or Kosovo passport is outside both enumerated groups. This records that requirement without treating AVE as a visa or proving AVE eligibility. Acceptance of the particular original/substitute document, the usable AVE or consular route, mission competence and granted stay remain unconfirmed. No foreign status, routine tourist issuance, document recognition or nationality-wide prohibition is assumed."
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "AO"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-ao-duty",
+      "label": "Visa required for overnight tourism; document handling unconfirmed",
+      "n": "Angola Law 13/19 Article 14 separately requires an accepted travel document and an appropriate visa. For overnight ordinary tourism, the visa duty is supported after the prior reconciliation of Decree 189/23 and SME's additional bilateral exemptions. No ordinary Palestinian or Kosovo exemption is established by those instruments. The statute separately excepts qualifying cruise passengers/day visitors and resident/treaty beneficiaries; none is assumed. Whether the particular original or substitute document is accepted, any exceptional authorization, electronic-preapproval versus consular completion and permitted stay remain unconfirmed. A visa alone does not make an unaccepted document valid, and this record promises no routine tourist issuance."
+    },
+    {
+      "passports": [
+        "PS",
+        "XK"
+      ],
+      "destinations": [
+        "BJ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "conditional-adjudication-bj-duty",
+      "label": "Visa required; document acceptance and issuance unconfirmed",
+      "n": "Benin Decree 2026-049 Article 2 affirmatively requires an entry visa unless a legal or administrative exemption applies. The previously examined exemption instruments and African-nationality facility establish no ordinary Palestinian or Kosovo exemption. This records visa duty only. Article 7 describes electronic tourist-visa issuance generally, but no particular Palestinian/Kosovo ordinary-document eligibility or accepted substitute-document pathway is established. Method for the actual document, tourist issuance and granted stay remain unconfirmed; the statutory 90-day ceiling is not an individual stay entitlement."
+    }
+  ],
+  "corrections": [],
+  "reviews": [
+    {
+      "destination": "CN",
+      "resolvedOrigins": [
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "1 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment."
+      ],
+      "attemptedUrls": [
+        "https://cs.mfa.gov.cn/wgrlh/lhqz/lhqzjjs/201401/t20140121_961580.shtml",
+        "https://en.nia.gov.cn/n147418/n147463/c180637/content.html",
+        "https://en.nia.gov.cn/n147418/n147463/c183390/content.html",
+        "https://en.nia.gov.cn/n147418/n147463/c181470/content.html"
+      ]
+    },
+    {
+      "destination": "LR",
+      "resolvedOrigins": [
+        "HK",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "4 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment."
+      ],
+      "attemptedUrls": [
+        "https://www.embassyofliberia.co.uk/consular-services/visa-application/"
+      ]
+    },
+    {
+      "destination": "BH",
+      "resolvedOrigins": [
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "1 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment."
+      ],
+      "attemptedUrls": [
+        "https://www.bahrain.bh/wps/portal/en/BNP/HereInBahrain/NationalIdentificationAndVisas?1dmy&page=YLB.Content.Details.Page.16&urile=wcm%3apath%3a%2Fbnp_en%2Fyour%2Blife%2Bin%2Bbahrain%2Fnational%2Bidentification%2Band%2Bvisas%2Frelated%2Btopics%2Fvisas"
+      ]
+    },
+    {
+      "destination": "BA",
+      "resolvedOrigins": [
+        "PS"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "1 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment."
+      ],
+      "attemptedUrls": [
+        "https://www.bhembassy.org/visainfo.html",
+        "https://sps.gov.ba/dokumenti/32/ba-odluke/1277/odluka-o-vizama",
+        "https://www.sluzbenilist.ba/page/akt/Mk1PXXuNd54=",
+        "https://www.sluzbenilist.ba/page/akt/Wi2t0dd7Lq4="
+      ]
+    },
+    {
+      "destination": "TG",
+      "resolvedOrigins": [
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "1 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment."
+      ],
+      "attemptedUrls": [
+        "https://voyage.gouv.tg/faq",
+        "https://voyage.gouv.tg/about"
+      ]
+    },
+    {
+      "destination": "IN",
+      "resolvedOrigins": [
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "1 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment."
+      ],
+      "attemptedUrls": [
+        "https://www.indembassy-tokyo.gov.in/eoityo_pages/Nzk,"
+      ]
+    },
+    {
+      "destination": "AR",
+      "resolvedOrigins": [
+        "PS",
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "2 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment.",
+        "The obligation is visa or AVE, with neither issuance channel established. The custom label and note must remain visible; no alternative-method array advertises AVE eligibility."
+      ],
+      "attemptedUrls": [
+        "https://clang.cancilleria.gob.ar/en/traveling-argentina-tourist"
+      ]
+    },
+    {
+      "destination": "AO",
+      "resolvedOrigins": [
+        "PS",
+        "XK"
+      ],
+      "remainingOrigins": [],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "2 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment.",
+        "The established duty concerns overnight ordinary tourism; qualifying cruise/day visitors and other legal exceptions remain separate and are not presumed."
+      ],
+      "attemptedUrls": [
+        "https://www.sme.gov.ao/fotos/frontend_1/gov_documentos/nova-lei-sobre-o-regime-juridico-dos-cidadaos-estrangeiros-na-republica-de-angola-2019-1_3410837316791309bc6619.pdf",
+        "https://plataformacipra.gov.ao/public/ficheiros/arquivos/Gov_AngolaDecreto%20Presidencial880210230334451696257285.pdf",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/evisa-english-version/",
+        "https://www.sme.gov.ao/ao/perguntas-frequentes/vistos/"
+      ]
+    },
+    {
+      "destination": "BJ",
+      "resolvedOrigins": [
+        "PS",
+        "XK"
+      ],
+      "remainingOrigins": [
+        "HT",
+        "RO"
+      ],
+      "findings": [
+        "Saved public-source adjudication resolves only the stated requirement, not passport recognition, an accepted substitute document, routine tourist issuance, granted stay or admission. No full conditional decision tree is established and no traveller status is assumed.",
+        "2 requirement-only additions, independently checked against the post-pass-five baseline and disjoint from its 199 additions. Original source dates are retained; this is evidence re-adjudication, not new retrieval or enactment.",
+        "Haiti and Romania exception/commencement questions remain unresolved; the two document-sensitive duty records do not settle them."
+      ],
+      "attemptedUrls": [
+        "https://sgg.gouv.bj/doc/decret-2026-049/download",
+        "https://sgg.gouv.bj/doc/loi-2025-15/download",
+        "https://evisa.bj/faqs"
+      ]
+    }
+  ]
+}

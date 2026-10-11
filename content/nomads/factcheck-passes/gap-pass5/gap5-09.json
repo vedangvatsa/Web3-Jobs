@@ -1,0 +1,846 @@
+{
+  "version": 1,
+  "batch": "gap5-09",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-09-cf-cz": {
+      "title": "Czech MFA: Central African Republic — visa requirement",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/stredoafricka_republika/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "51bdc493ddb595ca95435aba6ad4dea441f3f6ecb0cfba76fa08dd1d2441c91a"
+    },
+    "gap5-09-cf-nl": {
+      "title": "Netherlands MFA: Central African Republic — Dutch passport visa duty",
+      "urls": [
+        "https://www.nederlandwereldwijd.nl/reisadvies/centraal-afrikaanse-republiek"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "d2e86fec3de88a8371792f42bc6c4da595c09adf50313c8a736d004c451991ff"
+    },
+    "gap5-09-cf-md": {
+      "title": "Moldova MFA: ordinary-passport outbound visa schedule",
+      "urls": [
+        "https://mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "c65ce9863fd4ccc18d5bd93ebbef277ef169fb4c52d4fad41b5cf41eebe21b19"
+    },
+    "gap5-09-cf-mn": {
+      "title": "Mongolia Consular Department: outbound exemptions and express visa default",
+      "urls": [
+        "https://consul.mn/visa/c/24"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "ba6282b4ebcbb8abedc81e45f0cc486058e01a0d826e61b558033046957bc08c"
+    },
+    "gap5-09-cf-ee": {
+      "title": "Estonia MFA: Central African Republic — Estonian citizen visa duty",
+      "urls": [
+        "https://reisitargalt.vm.ee/sihtkoht/kesk-aafrika-vabariik/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "7571846bfec0eb74f2afcfc3d53b98a235b4b29938614d19f481cb3420cf0014"
+    },
+    "gap5-09-cf-taiwan": {
+      "title": "Taiwan BOCA: Central African Republic — prior visa required",
+      "urls": [
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-233-7998a-02-1.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "95fe6195f197338665fdfa18ae3fb0d4049fb6f7a1dc3d177097ca8f64090a3c"
+    },
+    "gap5-09-cf-ie": {
+      "title": "Irish DFA: Central African Republic — Irish citizens require a visa",
+      "urls": [
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/central-african-republic/"
+      ],
+      "checkedAt": "2026-10-09"
+    },
+    "gap5-09-vn-tl-bill": {
+      "title": "Timor-Leste Parliament: PPR 55/VI(4.ª), Vietnam ordinary-passport agreement — initial stage",
+      "urls": [
+        "https://www.parlamento.tl/sgplp/424"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "f4333a4ded02cd03be5ee11cdd75090a11ffa63c4f64ee23f63469052c3601ab"
+    },
+    "gap5-09-vn-tl-treaty": {
+      "title": "Timor-Leste Parliament: proposed approval and attached Vietnam agreement, Article 10",
+      "urls": [
+        "https://www.parlamento.tl/storage/iniciativas/iniciativa-424-ppr-55-1791179427.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "8da943205ce84a7396651a0c4cb6acd97e825781a72af8b44a9c01d41b94f7f0"
+    },
+    "gap5-09-vn-government-electronic": {
+      "title": "Vietnam Government News: electronic visas for citizens of all countries and territories",
+      "urls": [
+        "https://en.baochinhphu.vn/understanding-viet-nams-e-visa-111250218154519057.htm"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "15da9ae09aa25a9eb7b4a9de141e5688c0f1c81e9023e7df38c8587c87f8f108"
+    },
+    "gap5-09-vn-government-ports": {
+      "title": "Vietnam Government News: Resolution 389/NQ-CP, expanded eVisa ports",
+      "urls": [
+        "https://en.baochinhphu.vn/viet-nam-expands-list-of-ports-for-e-visa-111251203153134777.htm"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "0ff62c54adac0a9321617be8fc9f235f97cb8e63d1fde9f0e1429d6cafea7c6f"
+    },
+    "gap5-09-vn-schedule": {
+      "title": "Vietnam Consular Department: passport-class exemption workbook (prior capture retained)",
+      "urls": [
+        "https://drive.google.com/uc?export=download&id=1qwC9B38bKKcd73NokycS9RfGdVuDuzMI"
+      ],
+      "checkedAt": "2026-10-07",
+      "sha256": "477b90b6bd67a8eda033059a737c7a2028b2c7bda42d52ad952d928895c40c3a"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-09-cf-cz",
+      "label": "Visa required; stay unconfirmed",
+      "n": "Ordinary Czech Republic passport: a visa is required for a short tourist visit. This establishes visa duty, not routine issuance or admission. The permitted stay and electronic or exceptional arrival eligibility are not established by this nationality-specific evidence."
+    },
+    {
+      "passports": [
+        "NL"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-09-cf-nl",
+      "label": "Visa required; stay unconfirmed",
+      "n": "Ordinary Netherlands passport: a visa is required for a short tourist visit. This establishes visa duty, not routine issuance or admission. The permitted stay and electronic or exceptional arrival eligibility are not established by this nationality-specific evidence."
+    },
+    {
+      "passports": [
+        "MD"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-09-cf-md",
+      "label": "Visa required; stay unconfirmed",
+      "n": "Ordinary Moldova passport: a visa is required for a short tourist visit. This establishes visa duty, not routine issuance or admission. The permitted stay and electronic or exceptional arrival eligibility are not established by this nationality-specific evidence."
+    },
+    {
+      "passports": [
+        "MN"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-09-cf-mn",
+      "label": "Visa required; stay unconfirmed",
+      "n": "Ordinary Mongolia passport: a visa is required for a short tourist visit. This establishes visa duty, not routine issuance or admission. The permitted stay and electronic or exceptional arrival eligibility are not established by this nationality-specific evidence."
+    },
+    {
+      "passports": [
+        "EE"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-09-cf-ee",
+      "label": "Visa required; stay unconfirmed",
+      "n": "Ordinary Estonia passport: a visa is required for a short tourist visit. This establishes visa duty, not routine issuance or admission. The permitted stay and electronic or exceptional arrival eligibility are not established by this nationality-specific evidence."
+    },
+    {
+      "passports": [
+        "TW"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-09-cf-taiwan",
+      "label": "Visa required; stay unconfirmed",
+      "n": "Ordinary Taiwan passport: a visa is required for a short tourist visit. This establishes visa duty, not routine issuance or admission. The permitted stay and electronic or exceptional arrival eligibility are not established by this nationality-specific evidence. BOCA expressly requires obtaining the visa before entry; transit permissions must be checked separately."
+    },
+    {
+      "passports": [
+        "IE"
+      ],
+      "destinations": [
+        "CF"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-09-cf-ie",
+      "label": "Visa required; stay unconfirmed",
+      "n": "Irish citizens require a visa. Use an Irish passport, not a passport card; DFA specifies six months validity beyond intended departure. The permitted stay and electronic or exceptional arrival eligibility are unconfirmed. Visa duty does not guarantee issuance or admission."
+    },
+    {
+      "passports": [
+        "TL"
+      ],
+      "destinations": [
+        "VN"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-09-vn-government-electronic",
+      "evidence": [
+        "gap5-09-vn-tl-bill",
+        "gap5-09-vn-tl-treaty",
+        "gap5-09-vn-government-ports",
+        "gap5-09-vn-schedule"
+      ],
+      "label": "eVisa; Phu Quoc exception",
+      "n": "For ordinary tourism beyond the separate Phu Quoc island-only exemption, obtain a visa; the government makes eVisas available to citizens of all countries and territories. Use approved eVisa border gates and comply with the period actually granted; the source’s up-to-90-day visa validity is not a guaranteed stay. The June 2026 bilateral ordinary-passport waiver is not operative by 9 October 2026: it was submitted for parliamentary approval on 24 September, entered the parliamentary initial stage on 5 October, and Article 10 requires 30 days after the last notification of completed domestic procedures. The existing diplomatic/official exemption does not cover ordinary tourism. The separately documented Phu Quoc island-only concession is up to 30 days; it does not permit mainland tourism, and the qualifying island itinerary must be satisfied."
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "CF",
+      "resolvedOrigins": [
+        "CZ",
+        "EE",
+        "IE",
+        "MD",
+        "MN",
+        "NL",
+        "TW"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AT",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CH",
+        "CL",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "HU",
+        "ID",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Seven new nationality-specific visa duties: CZ, EE, IE, MD, MN, NL and TW. Stay/method uncertainty retained; Taiwan explicitly requires prior visa. No residual AIC default expansion.",
+        "GA/CEMAC ordinary-document implementation, AE waiver/arrival conflict, US later-restriction question, BF bilateral leads and HK/MO/PS/XK accepted-document questions remain held. Other residual origins lack reconciled current nationality duty/exemptions."
+      ],
+      "attemptedUrls": [
+        "https://cf.china-embassy.gov.cn/lsfw/lsbh/",
+        "https://cf.china-embassy.gov.cn/lsfw/LSBHYXZ/",
+        "https://cf.china-embassy.gov.cn/lsfw/",
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/stredoafricka_republika/cestovani/visa.html",
+        "https://reisitargalt.vm.ee/sihtkoht/kesk-aafrika-vabariik/",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/central-african-republic/",
+        "https://mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova",
+        "https://consul.mn/visa/c/24",
+        "https://www.nederlandwereldwijd.nl/reisadvies/centraal-afrikaanse-republiek",
+        "https://www.gov.pl/web/dyplomacja/republika-srodkowoafrykanska",
+        "https://www.mzv.sk/staty/podmienky-vstupu-a-pobytu/-/asset_publisher/PP0otVoGVFdy/content/stredoafricka-republika?displayMode=1",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-233-7998a-02-1.html",
+        "https://cf.usembassy.gov/u-s-citizen-services/local-resources-of-u-s-citizens/"
+      ]
+    },
+    {
+      "destination": "GA",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AD",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AU",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BF",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "DJ",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ET",
+        "FJ",
+        "FM",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GT",
+        "GW",
+        "GY",
+        "HK",
+        "HN",
+        "HT",
+        "ID",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KR",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LY",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MR",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SG",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "New authenticated UK High Commission site points its exemption page to DGDI, which fails certificate validation. Tourist application instructions and three-month validity are not an exhaustive nationality duty or a stay grant.",
+        "New Chinese mission legal index identifies Law5/86 and Decree1000/PR, but official-gazette links time out. The 2015 interpretation and 2025 legal-reference notice do not reconcile current exemptions, CEMAC implementation, US restrictions or special documents. All161 assigned origins remain held."
+      ],
+      "attemptedUrls": [
+        "https://journal-officiel.ga/9658-1000-pr/",
+        "https://journal-officiel.ga/10812-5-86/",
+        "https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/gabun/reisehinweise-fuergabun.html",
+        "https://ga.china-embassy.gov.cn/lsfw/zcfg/",
+        "https://ga.china-embassy.gov.cn/lsfw/zcfg1/202507/t20250711_11669124.htm",
+        "https://ga.china-embassy.gov.cn/lsfw/zcfg1/",
+        "https://ga.china-embassy.gov.cn/lsfw/zcfg1/201504/t20150428_6873260.htm",
+        "https://ga.china-embassy.gov.cn/lsfw/",
+        "https://cs.mfa.gov.cn/zggmcg/ljmdd/fz_648564/jp_650485/rjjl_650495/",
+        "https://evisa.dgdi.ga/#/exemptions",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/gabon/",
+        "https://www.hcilibreville.gov.in/section/public-advisories/",
+        "https://www.hcilibreville.gov.in/page/bilateral-relations/",
+        "https://www.hcilibreville.gov.in/",
+        "https://journal-officiel.ga/",
+        "https://www.ga.emb-japan.go.jp/itpr_ja/visa.html",
+        "https://diplomatie.gouv.ga/?s=visa",
+        "https://www.gov.pl/web/dyplomacja/gabon",
+        "https://gabonhighcommission.org.uk/tourist-e-visa/",
+        "https://gabonhighcommission.org.uk/countries-exempted-from-visas/",
+        "https://gabonhighcommission.org.uk/tourist-visa/"
+      ]
+    },
+    {
+      "destination": "EG",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AF",
+        "DZ",
+        "BH",
+        "BW",
+        "DM",
+        "FJ",
+        "GD",
+        "GY",
+        "HK",
+        "IL",
+        "JO",
+        "KI",
+        "KW",
+        "LB",
+        "LY",
+        "MH",
+        "FM",
+        "MA",
+        "NR",
+        "OM",
+        "PW",
+        "PG",
+        "QA",
+        "WS",
+        "ST",
+        "SA",
+        "SC",
+        "SB",
+        "SS",
+        "SR",
+        "TL",
+        "TO",
+        "TN",
+        "TV",
+        "AE",
+        "VU",
+        "YE"
+      ],
+      "findings": [
+        "All37 residuals retained. New mission/origin attempts did not establish the missing age/sex/group/charter/territorial/port branches or clear GCC/SAR/Jordanian-document conflicts. No eligibility conditions are assumed.",
+        "US-residence-scoped emergency-arrival instructions are not a nationality-wide rule. Airport QR issuance does not become advance eVisa. London Sinai wording names UK/EU/US, not the assigned Israeli passport. The20 small/island origins still lack positive short-tourism determinations."
+      ],
+      "attemptedUrls": [
+        "https://cairo.mfa.gov.af/visa-information/",
+        "https://egyptian-embassy.de/index.php/konsulat/visa-informationen",
+        "https://www.mofa.gov.bh/en/travel-information",
+        "https://www.egypt.org.au/consular-services/visas",
+        "https://www.egyptinchicago.org/visas",
+        "https://www.egyptconsulate.org.hk/",
+        "https://www.consulateofegypthouston.com/en/consular-services/",
+        "https://mfa.gov.jo/Service/Index/149",
+        "https://www.mofa.gov.kw/en/consular-services/travel-advisory/",
+        "https://www.egyconsulatela.com/visas",
+        "https://www.mfa.gov.lb/arabic/consular-affairs/travel-advice",
+        "https://foreign.gov.ly/?s=%D9%85%D8%B5%D8%B1+%D8%AA%D8%A3%D8%B4%D9%8A%D8%B1%D8%A9",
+        "https://www.fm.gov.om/visitors/omani-citizens/travel-advice/",
+        "https://www.consulat-egypte-paris.com/visas/",
+        "https://mofa.gov.qa/en/mission/cairo/important-information",
+        "https://cairo.embassy.qa/en/egypt/important-information",
+        "https://embassies.mofa.gov.sa/sites/Egypt/AR/AboutHostingCountry/Pages/default.aspx",
+        "https://egyptembassy.net/consular-services/visas-travel/visa-requirements/",
+        "https://www.egyptconsulate.co.uk/visas/"
+      ]
+    },
+    {
+      "destination": "BF",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "BI",
+        "CF",
+        "MR",
+        "PS",
+        "RW",
+        "TW",
+        "US",
+        "XK"
+      ],
+      "findings": [
+        "All8 held: BI signature without commencement; CF/MR bilateral exemption leads unresolved; RW ordinary waiver claim still conflicts with the AIP default; US restriction scope; PS/TW/XK accepted ordinary documents.",
+        "Burundi’s12 August report and Burkina’s15 August diaspora report discuss the signed agreement, not commencement. Taiwan BOCA directs inquiries to missions and mentions eVisa availability without an explicit nationality duty. Authentic Japan mission stopped ordinary paper intake5 December2024; that process notice supplies no missing exemption/recognition rule."
+      ],
+      "attemptedUrls": [
+        "https://www.mae.gov.bi/?s=Burkina+visa",
+        "https://www.mae.gov.bi/renforcement-de-la-cooperation-diplomatique-entre-le-burundi-et-le-burkina-faso/",
+        "https://sites.google.com/site/burkinafasoambassy/consular-service/visa-information",
+        "https://sites.google.com/site/burkinafasoambassy/",
+        "https://diplomatie.gov.bf/?s=centrafricaine+visa",
+        "https://diplomatie.gov.bf/?s=Mauritanie+visa",
+        "https://diplomatie.gov.bf/?s=Rwanda+visa",
+        "https://diplomatie.gov.bf/index.php/diaspora-de-la-juridiction-diplomatique-de-nairobi-le-ministre-karamoko-jean-marie-traore-donne-des-nouvelles-rassurantes-du-pays-a-ses-compatriotes/",
+        "https://www.migration.gov.rw/1-1/sops-1",
+        "https://www.boca.gov.tw/sp-foof-countrycp-01-39-b3061-02-1.html",
+        "https://www.minijust.gov.rw/services/international-agreements",
+        "https://www.boca.gov.tw/sp-foof-countrylp-01-1.html",
+        "https://bf.usembassy.gov/visas/"
+      ]
+    },
+    {
+      "destination": "TM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "XK",
+        "MO",
+        "PS"
+      ],
+      "findings": [
+        "All4 document cases held. New Beijing mission searches for Hong Kong, Macao, Kosovo and Palestine returned sports, trade or diplomatic news rather than an ordinary-passport visa/document decision. HKSAR omission from concessions is not visa-duty proof; generic invitation law does not establish document acceptance."
+      ],
+      "attemptedUrls": [
+        "https://china.tmembassy.gov.tm/en/search?query=Hong%20Kong",
+        "https://www.immd.gov.hk/eng/service/travel_document/visa_free_access.html",
+        "https://china.tmembassy.gov.tm/en/search?query=Kosovo",
+        "https://china.tmembassy.gov.tm/en/search?query=Macao",
+        "https://china.tmembassy.gov.tm/en/search?query=Palestine",
+        "https://turkmenistan.gov.tm/en/search?query=Palestine+visa"
+      ]
+    },
+    {
+      "destination": "CY",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "NR",
+        "SO"
+      ],
+      "findings": [
+        "All3 held: NR agreement activation; XK/SO accepted documents and national permission. Paris mission instructions provide no nationality-specific determination.",
+        "The EU URL with an Annex1_en.pdf query actually returns a9 January2026 Article6 notifications XLSX. Inspected its real sheet/row content; diplomatic exemptions and employed-person exceptions are not the Cypriot ordinary schedule. No filename-based inference."
+      ],
+      "attemptedUrls": [
+        "https://home-affairs.ec.europa.eu/document/download/ebd6113d-4d14-4ac2-ac9b-47f2e7976515_en?filename=Annex%201_en.pdf",
+        "https://www.gov.cy/mfa-highcomnairobi/en/consular-services/visa-information/",
+        "https://www.gov.cy/mfa-embassyparis/en/consular-services/visa-information/",
+        "https://www.consilium.europa.eu/en/documents-publications/treaties-agreements/?Title=Nauru",
+        "https://www.eeas.europa.eu/nauru/european-union-and-nauru_en?s=147"
+      ]
+    },
+    {
+      "destination": "MD",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "TW"
+      ],
+      "findings": [
+        "TW/XK remain held. Newly recovered Border Police entry rules require a travel document recognized or accepted by Moldova and a visa where applicable, but identify neither residual ordinary document. Legislation endpoint remains403. No general application procedure is converted into document acceptance."
+      ],
+      "attemptedUrls": [
+        "https://border.gov.md/",
+        "https://border.gov.md/traversarea-frontierei-de-catre-cetatenii-straini",
+        "https://www.legis.md/cautare/getResults?doc_id=151197&lang=ro",
+        "https://border.gov.md/conditiile-de-calatorie-ale-cetatenilor-straini"
+      ]
+    },
+    {
+      "destination": "VN",
+      "resolvedOrigins": [
+        "TL"
+      ],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "TL newly resolved to the established eVisa route with the separate Phu Quoc itinerary exception. The24 September submission for parliamentary approval,5 October initial-stage record, and treaty Article10 thirty-day commencement delay reconcile the June-signature lead as not operative by9 October2026. No30-day bilateral waiver added.",
+        "XK remains held for ordinary-document acceptance; worldwide electronic wording is not a Kosovo-specific decision. The treaty attachment is a14-page scan with discontinuous intervening pages; actual Article10 was visually verified and the exact commencement fact is preserved."
+      ],
+      "attemptedUrls": [
+        "https://en.baochinhphu.vn/understanding-viet-nams-e-visa-111250218154519057.htm",
+        "https://en.baochinhphu.vn/viet-nam-expands-list-of-ports-for-e-visa-111251203153134777.htm",
+        "https://vnembassy-budapest.mofa.gov.vn/en-us/Consular%20Services/Pages/default.aspx",
+        "https://www.parlamento.tl/sgplp/424",
+        "https://www.mj.gov.tl/jornal/",
+        "https://www.parlamento.tl/",
+        "https://www.mj.gov.tl/jornal/?q=node/19",
+        "https://www.parlamento.tl/storage/iniciativas/iniciativa-424-ppr-55-1791179427.pdf"
+      ]
+    },
+    {
+      "destination": "CZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "NR"
+      ],
+      "findings": [
+        "NR remains a genuine conflict: Czech MFA names Nauru visa-free, while prior current EU AnnexII attaches agreement activation. Treaty lookup denied access; the new Article6 workbook concerns special passport/other exceptions, not proof of an ordinary waiver’s commencement."
+      ],
+      "attemptedUrls": [
+        "https://www.consilium.europa.eu/en/documents-publications/treaties-agreements/?Title=Nauru",
+        "https://www.eeas.europa.eu/nauru/european-union-and-nauru_en?s=147",
+        "https://mzv.gov.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are_exempt/index.html"
+      ]
+    },
+    {
+      "destination": "DO",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains held. New MIREX passport/visa searches and legal-base page yield no ordinary Kosovo passport determination or governing exemption. No omitted-selector default, diplomatic-recognition inference, or assumed third-country-document concession."
+      ],
+      "attemptedUrls": [
+        "https://mirex.gob.do/?s=Kosovo+pasaporte",
+        "https://mirex.gob.do/transparencia/base-legal/",
+        "https://mirex.gob.do/?s=Kosovo+visa"
+      ]
+    },
+    {
+      "destination": "IL",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "PS"
+      ],
+      "findings": [
+        "PS remains held. New COGAT/Palestinian-entry procedure locators returned403. Population registration, issuing authority, territory, route and permit authority are unresolved; ordinary ETA selector exclusion/zero flag does not establish waiver or nationality-wide ban."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.il/en/departments/units/coordination-and-liaison-administration",
+        "https://www.gov.il/en/service/entry-permit-for-palestinians",
+        "https://www.gov.il/en/departments/topics/palestinians-entry-to-israel/govil-landing-page"
+      ]
+    }
+  ],
+  "corrections": []
+}

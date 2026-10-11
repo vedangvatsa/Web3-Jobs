@@ -1,0 +1,980 @@
+{
+  "version": 1,
+  "batch": "gap5-12",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-12-mr-procedure": {
+      "title": "Mauritania MFA: advance boarding approval followed by border biometrics; reused 8 October capture",
+      "urls": [
+        "https://www.diplomatie.gov.mr/fr/node/50"
+      ],
+      "checkedAt": "2026-10-08",
+      "sha256": "6619b907fc9cc0cc552fe47330b4bf7cd70e329398beff540eb9e4e9cc5ff571"
+    },
+    "gap5-12-mr-at": {
+      "title": "Austrian MFA: Mauritania visa duty and electronic channel for Austrian passports",
+      "urls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/mauretanien"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "6ddbc8afe9c6fc9281c3461a7f0623230be937c8f3ba2f6fb1707f97f697571a"
+    },
+    "gap5-12-mr-cn": {
+      "title": "Chinese Embassy Nouakchott: private passports require advance electronic visa; 2026 invitation and approval instructions",
+      "urls": [
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202505/t20250513_11621778.htm",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202607/t20260717_11985414.htm",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202603/t20260312_11873196.htm",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202602/t20260209_11854662.htm"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "b973123c4138b882de3425a47a8a295b7263a8d5808e2ffdbf9134d8e6c6935f"
+    },
+    "gap5-12-mr-it": {
+      "title": "Italian MFA Mauritania country sheet: mandatory online request and approval before travel",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/MRT.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "37d8952fc79a7b83757578465112baf749d77314b5492fdd0766e8f068903085"
+    },
+    "gap5-12-mr-md": {
+      "title": "Moldovan MFA outbound table: Mauritania ordinary passport visa required, eVisa",
+      "urls": [
+        "https://mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "c65ce9863fd4ccc18d5bd93ebbef277ef169fb4c52d4fad41b5cf41eebe21b19"
+    },
+    "gap5-12-mr-hr": {
+      "title": "Croatian MFA actual Mauritania result: ordinary passport visa required and electronic approval",
+      "urls": [
+        "https://mvep.gov.hr/konzularne-informacije-244593/konzularne-informacije-22730/vize-22733/pregled-viznog-sustava/22853?country=88"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "8966279c748f354450058ece3f233fd26ce3c5d09557d49690a5e62d95cd4502"
+    },
+    "gap5-12-kr-outbound": {
+      "title": "Korean MFA September 2026 passport-class table: Antigua waiver and Mauritania non-exemption",
+      "urls": [
+        "https://www.0404.go.kr/bbs/contsPst/MST0000000000113/13/detail"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "c01a0442dd9cdea77ff133f28735fb84540eff9222bc9eafd93d9c467eea26d4"
+    },
+    "gap5-12-mn-outbound": {
+      "title": "Mongolian MFA outbound ordinary-passport schedule and explicit other-countries visa default",
+      "urls": [
+        "https://www.consul.mn/visa/c/24"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "169dd3a92cbc0d50309ca4e2739e5dbb1f20c14ff822790498c3355ec57649eb"
+    },
+    "gap5-12-dz-at": {
+      "title": "Austrian MFA: Algeria visa requirement for Austrian passports",
+      "urls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/algerien"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "a990cfada0212f8fcf3fc8f125cd48f467c7488c1c6b4a0f20284f4dad4dc6a4"
+    },
+    "gap5-12-dz-cn": {
+      "title": "Chinese Embassy Algiers: advance purpose-appropriate visa and separate validity/stay fields",
+      "urls": [
+        "https://dz.china-embassy.gov.cn/lsyw/lshtong/202310/t20231025_11168022.htm"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "fbb0a3aa709a7d9e3028f698982dcf69331a53fa649e6eec364275ff05412509"
+    },
+    "gap5-12-dz-it": {
+      "title": "Italian MFA Algeria country sheet: ordinary-passport duty and approved southern-tour arrival branch",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/DZA.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "1eb20c09be45f993a060ac39b822047038f8684794cf98bebeb790e48fa6d744"
+    },
+    "gap5-12-dz-hr": {
+      "title": "Croatian MFA actual Algeria result: Croatian ordinary passports require visas",
+      "urls": [
+        "https://mvep.gov.hr/konzularne-informacije-244593/konzularne-informacije-22730/vize-22733/pregled-viznog-sustava/22853?country=5"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "642db0d6d934518523cb675a96ff5c3a1812b1bc3b4ea77279c2111d66d62782"
+    },
+    "gap5-12-ag-hr": {
+      "title": "Croatian MFA actual Antigua and Barbuda result: ordinary-passport exemption",
+      "urls": [
+        "https://mvep.gov.hr/konzularne-informacije-244593/konzularne-informacije-22730/vize-22733/pregled-viznog-sustava/22853?country=157"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "1ad7cc8802126aeb7974a4ff35f5099b454aadff66abba45a13abf690460a759"
+    },
+    "gap5-12-pa-cn": {
+      "title": "Chinese Embassy Panama April 2026 entry notice: valid visa or qualifying local status required",
+      "urls": [
+        "https://pa.china-embassy.gov.cn/lsfw_0/zytz_140363/202604/t20260422_11897129.htm"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "e4dad1b1e0c9bf6837126b7c50a7a8e8825b04cfe9d99ca312504234e8e5989e"
+    },
+    "gap5-12-pa-third-country": {
+      "title": "Panama Embassy: Decree 521 as amended by Decree 196, qualifying third-country document branch",
+      "urls": [
+        "https://www.embassyofpanama.org/visas-1"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "56c6231c8ec631dd88cdf4e2f46901c8f5686f0c6df0270e9f6f66b6389a99e3"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "MR"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-12-mr-at",
+      "label": "Advance electronic approval; border formalities follow",
+      "n": "Scope: this origin government’s ordinary passports. Obtain ANRPTS electronic approval before departure and carry the approval for air boarding. Border biometric and entry-finalisation formalities follow approval; the advance boarding document is distinct from final border processing and is not a separate walk-up arrival-visa alternative. The boarding statement is air-scoped and does not independently establish land/sea procedures. No single tourist stay is established; follow the permission granted.",
+      "evidence": [
+        "gap5-12-mr-procedure"
+      ]
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "MR"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-12-mr-cn",
+      "label": "Advance electronic approval; border formalities follow",
+      "n": "Scope: this origin government’s ordinary passports. Obtain ANRPTS electronic approval before departure and carry the approval for air boarding. Border biometric and entry-finalisation formalities follow approval; the advance boarding document is distinct from final border processing and is not a separate walk-up arrival-visa alternative. The boarding statement is air-scoped and does not independently establish land/sea procedures. No single tourist stay is established; follow the permission granted. Chinese private passports expressly require advance electronic visas from 5 January 2025. The July 2026 guide requires an invitation letter and links February/March company-invitation requirements: a legally operating Mauritanian company, tax/registration and business details, invitee details, purpose and itinerary. Do not assume employment or a qualifying invitation; individual tourist invitation eligibility must be confirmed.",
+      "evidence": [
+        "gap5-12-mr-procedure"
+      ]
+    },
+    {
+      "passports": [
+        "HR"
+      ],
+      "destinations": [
+        "MR"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-12-mr-hr",
+      "label": "Advance electronic approval; border formalities follow",
+      "n": "Scope: this origin government’s ordinary passports. Obtain ANRPTS electronic approval before departure and carry the approval for air boarding. Border biometric and entry-finalisation formalities follow approval; the advance boarding document is distinct from final border processing and is not a separate walk-up arrival-visa alternative. The boarding statement is air-scoped and does not independently establish land/sea procedures. No single tourist stay is established; follow the permission granted.",
+      "evidence": [
+        "gap5-12-mr-procedure"
+      ]
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "MR"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-12-mr-it",
+      "label": "Advance electronic approval; border formalities follow",
+      "n": "Scope: this origin government’s ordinary passports. Obtain ANRPTS electronic approval before departure and carry the approval for air boarding. Border biometric and entry-finalisation formalities follow approval; the advance boarding document is distinct from final border processing and is not a separate walk-up arrival-visa alternative. The boarding statement is air-scoped and does not independently establish land/sea procedures. No single tourist stay is established; follow the permission granted.",
+      "evidence": [
+        "gap5-12-mr-procedure"
+      ]
+    },
+    {
+      "passports": [
+        "MD"
+      ],
+      "destinations": [
+        "MR"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-12-mr-md",
+      "label": "Advance electronic approval; border formalities follow",
+      "n": "Scope: this origin government’s ordinary passports. Obtain ANRPTS electronic approval before departure and carry the approval for air boarding. Border biometric and entry-finalisation formalities follow approval; the advance boarding document is distinct from final border processing and is not a separate walk-up arrival-visa alternative. The boarding statement is air-scoped and does not independently establish land/sea procedures. No single tourist stay is established; follow the permission granted.",
+      "evidence": [
+        "gap5-12-mr-procedure"
+      ]
+    },
+    {
+      "passports": [
+        "KR"
+      ],
+      "destinations": [
+        "MR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-12-kr-outbound",
+      "label": "Visa required; method and stay unconfirmed",
+      "n": "Visa duty established for this origin’s ordinary passports. The source does not establish a passport-specific tourist issuance channel or permitted stay; electronic eligibility and individual issuance remain unconfirmed. No fee-band duration or routine arrival issuance is inferred."
+    },
+    {
+      "passports": [
+        "MN"
+      ],
+      "destinations": [
+        "MR"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-12-mn-outbound",
+      "label": "Visa required; method and stay unconfirmed",
+      "n": "Visa duty established for this origin’s ordinary passports. The source does not establish a passport-specific tourist issuance channel or permitted stay; electronic eligibility and individual issuance remain unconfirmed. No fee-band duration or routine arrival issuance is inferred."
+    },
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "DZ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-12-dz-at",
+      "label": "Visa required; tourist stay unconfirmed",
+      "n": "Visa required for this origin’s ordinary passport. The evidence supports the obligation, not universal tourist issuance or electronic ineligibility. Permitted stay is unestablished; visa validity, possible extensions and AIP three-month validity are not treated as an admitted stay. Special approved-tour or dual-national documentation branches require their own qualifying facts."
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "DZ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-12-dz-cn",
+      "label": "Visa required; tourist stay unconfirmed",
+      "n": "Visa required for this origin’s ordinary passport. The evidence supports the obligation, not universal tourist issuance or electronic ineligibility. Permitted stay is unestablished; visa validity, possible extensions and AIP three-month validity are not treated as an admitted stay. Special approved-tour or dual-national documentation branches require their own qualifying facts."
+    },
+    {
+      "passports": [
+        "HR"
+      ],
+      "destinations": [
+        "DZ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-12-dz-hr",
+      "label": "Visa required; tourist stay unconfirmed",
+      "n": "Visa required for this origin’s ordinary passport. The evidence supports the obligation, not universal tourist issuance or electronic ineligibility. Permitted stay is unestablished; visa validity, possible extensions and AIP three-month validity are not treated as an admitted stay. Special approved-tour or dual-national documentation branches require their own qualifying facts."
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "DZ"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-12-dz-it",
+      "label": "Visa required; approved southern-tour arrival branch",
+      "n": "Italian ordinary passports require a visa; consular issue is described. A conditional arrival branch exists for an authorized organized journey through a recognized Algerian agency including at least one Saharan tourist site. The agency must preregister travel-document details; the stated airports are Algiers and, currently among southern airports, Djanet. This is not unrestricted walk-up issuance. No permitted stay is established; visa expiry and authorized duration both apply."
+    },
+    {
+      "passports": [
+        "HR"
+      ],
+      "destinations": [
+        "AG"
+      ],
+      "t": "vf",
+      "d": 0,
+      "s": "gap5-12-ag-hr",
+      "label": "Ordinary-passport visa exemption; stay unspecified",
+      "n": "Croatian MFA explicitly exempts Croatian ordinary passports. The result does not specify the permitted Antigua and Barbuda stay; the page’s Schengen 90/180-day paragraph concerns the opposite direction and is not applied."
+    },
+    {
+      "passports": [
+        "KR"
+      ],
+      "destinations": [
+        "AG"
+      ],
+      "t": "vf",
+      "d": 90,
+      "s": "gap5-12-kr-outbound",
+      "label": "Ordinary-passport tourism exemption",
+      "n": "Korean MFA’s September 2026 outbound table explicitly gives ordinary Korean passports a 90-day visa exemption for tourism/visits. Diplomatic and official entries are separate."
+    },
+    {
+      "passports": [
+        "CN"
+      ],
+      "destinations": [
+        "PA"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-12-pa-cn",
+      "label": "Visa required unless qualifying document exemption",
+      "n": "A visa is required for ordinary Chinese-passport visitors without a qualifying exemption; the Chinese Embassy’s April 2026 notice addresses actual Chinese-passport arrivals. Method and visa-based stay remain unestablished. A separate conditional 30-day exemption is described for a valid visa from Canada, USA, Australia, Republic of Korea, Japan, UK, Singapore or an EU member. Decree Article1 also covers qualifying residence from these jurisdictions; the mission’s practical checklist expressly confirms US permanent-resident cards. The October 2024 amendment replaces the older prior-use/six-month-validity clause. Passport validity of at least three months, return ticket and at least USD500 solvency are required for that branch. No third-country visa/residence or Panamanian local status is assumed.",
+      "evidence": [
+        "gap5-12-pa-third-country"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "MR",
+      "resolvedOrigins": [
+        "AT",
+        "CN",
+        "HR",
+        "IT",
+        "KR",
+        "MD",
+        "MN"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "CZ",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HK",
+        "HN",
+        "HT",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "MM",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PT",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Seven origin-specific additions: AT/CN/HR/IT/MD electronic approval; KR/MN requirement only. Air boarding approval remains distinct from later border formalities; no generic stay inferred.",
+        "New government legal-register searches for visa, foreigners and circulation recovered diplomatic/service instruments and Law75-244 authorising ratification of the 28 April1975 Togo circulation agreement. Ratification authorisation alone does not establish treaty terms, commencement or current implementation. TG remains held.",
+        "The 1964 AIP default and mixed MFA treaty page still do not reconcile current ordinary exemptions for other origins. Passport-specific IL/XK/PS/HK treatment remains unestablished."
+      ],
+      "attemptedUrls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/mauretanien",
+        "https://mr.china-embassy.gov.cn/lsfw/",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202602/t20260209_11854662.htm",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202505/t20250513_11621778.htm",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202607/t20260717_11985414.htm",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/202603/t20260312_11873196.htm",
+        "https://mr.china-embassy.gov.cn/lsfw/zytz/",
+        "https://msgg.gov.mr/fr/droit-mauritanien/les-codes-consolides.html",
+        "https://mvep.gov.hr/konzularne-informacije-244593/konzularne-informacije-22730/vize-22733/pregled-viznog-sustava/22853?country=88",
+        "https://mvep.gov.hr/konzularne-informacije-22730/informacije-o-putovanjima/pregled-viznog-sustava/22853",
+        "https://www.eoinouakchott.gov.in/",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/MRT.pdf",
+        "https://www.viaggiaresicuri.it/find-country/country/MRT",
+        "https://www.droit-afrique.com/pays/mauritanie/",
+        "https://mfa.gov.md/ro/content/regimul-de-vize-pentru-cetatenii-republicii-moldova",
+        "https://www.consul.mn/visa/c/24",
+        "https://msgg.gov.mr/fr/droit-mauritanien/recherche.html?field_titre=circulation&action=Rechercher",
+        "https://msgg.gov.mr/fr/droit-mauritanien/recherche.html?field_titre=%C3%A9trangers&action=Rechercher",
+        "https://msgg.gov.mr/fr/droit-mauritanien/recherche.html?field_titre=visa&action=Rechercher",
+        "https://msgg.gov.mr/fr/droit-mauritanien/recherche.html",
+        "https://www.msgg.gov.mr/",
+        "https://msgg.gov.mr/JO/1975/mauritanie-jo-1975-406-407.pdf",
+        "https://www.0404.go.kr/bbs/contsPst/MST0000000000113/13/detail"
+      ]
+    },
+    {
+      "destination": "DZ",
+      "resolvedOrigins": [
+        "AT",
+        "CN",
+        "HR",
+        "IT"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BJ",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CI",
+        "CL",
+        "CM",
+        "CO",
+        "CR",
+        "CU",
+        "CV",
+        "CY",
+        "DJ",
+        "DK",
+        "DM",
+        "DO",
+        "EC",
+        "EE",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GH",
+        "GM",
+        "GN",
+        "GQ",
+        "GR",
+        "GT",
+        "GW",
+        "GY",
+        "HN",
+        "HT",
+        "HU",
+        "ID",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "JP",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KN",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LR",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "MM",
+        "MO",
+        "MT",
+        "MU",
+        "MW",
+        "MX",
+        "MZ",
+        "NA",
+        "NE",
+        "NG",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RW",
+        "SA",
+        "SB",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SL",
+        "SM",
+        "SN",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TG",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "AT/CN/HR/IT have newly inspected own-passport visa obligations. IT preserves approved-agency Saharan-tour arrival conditions at Algiers/Djanet, with no guessed stay.",
+        "Current legislation/exemptions remain unreconciled for the other ordinary origins. Fresh ministry announcement index and Morocco-notice/origin-consular attempts did not produce a usable reinstatement instrument; old Morocco-exempt tables are not adopted.",
+        "AIP visa validity is not stay. Existing 2026 diaspora AIC applies only to qualifying Algerian citizens resident abroad with specified documents, including the child branch; no nationality-wide gap credit. IL/XK/PS/MO document cases remain held."
+      ],
+      "attemptedUrls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/algerien",
+        "https://www.eda.admin.ch/eda/de/home/vertretungen-und-reisehinweise/algerien/reisehinweise-fueralgerien.html",
+        "https://dz.china-embassy.gov.cn/lsyw/lshtong/",
+        "https://dz.china-embassy.gov.cn/lsyw/",
+        "https://dz.china-embassy.gov.cn/agk/",
+        "https://dz.china-embassy.gov.cn/lsfw/",
+        "https://dz.china-embassy.gov.cn/lsyw/tz/",
+        "https://dz.china-embassy.gov.cn/lsyw/lshtong/202310/t20231025_11168022.htm",
+        "https://www.mfa.gr/missionsabroad/en/algeria-en/about-algeria/visa.html",
+        "https://mvep.gov.hr/konzularne-informacije-244593/konzularne-informacije-22730/vize-22733/pregled-viznog-sustava/22853?country=5",
+        "https://mvep.gov.hr/konzularne-informacije-22730/informacije-o-putovanjima/pregled-viznog-sustava/22853",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/DZA.pdf",
+        "https://www.viaggiaresicuri.it/find-country/country/DZA",
+        "https://www.droit-afrique.com/pays/algerie/",
+        "https://www.mfa.gov.dz/fr/announcements",
+        "https://www.mfa.gov.dz/fr/announcements/statement-by-the-ministry-of-foreign-affairs-26092024",
+        "https://www.consulat.ma/fr/algerie",
+        "https://algeria.mfa.gov.ua/konsulski-pitannya/rekomendaciyi-mzs-ukrayini-gromadyanam-ukrayini-yaki-planuyut-poyizdku-do-alzhiru"
+      ]
+    },
+    {
+      "destination": "AG",
+      "resolvedOrigins": [
+        "HR",
+        "KR"
+      ],
+      "remainingOrigins": [
+        "BO",
+        "EC",
+        "HK",
+        "IS",
+        "MC",
+        "MG",
+        "MH",
+        "MK",
+        "MX",
+        "NO",
+        "PA",
+        "PE",
+        "PS",
+        "SM",
+        "SR",
+        "VA",
+        "XK"
+      ],
+      "findings": [
+        "Croatian MFA matching ordinary-passport result resolves HR exemption with unknown stay; Korean September2026 table resolves KR90. Reverse-direction Schengen paragraphs are excluded.",
+        "Bolivia treaty ratification still lacks the prescribed commencement notification. Other later-waiver leads, HK method ambiguity and PS/XK accepted-document cases remain unresolved. New EU endpoint was empty; alternate Iceland/Mexico/North Macedonia sources failed or supplied no result."
+      ],
+      "attemptedUrls": [
+        "https://www.info.gov.hk/gia/general/201402/18/P201402180444.htm",
+        "https://mvep.gov.hr/konzularne-informacije-22730/informacije-o-putovanjima/pregled-viznog-sustava/22853",
+        "https://mvep.gov.hr/konzularne-informacije-244593/konzularne-informacije-22730/vize-22733/pregled-viznog-sustava/22853?country=157",
+        "https://www.government.is/diplomatic-missions/embassy-of-iceland-in-washington-d.c./consular-services/",
+        "https://www.0404.go.kr/bbs/contsPst/MST0000000000113/13/detail",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Antigua_and_Barbuda",
+        "https://mfa.gov.mk/en-GB/konzularni-uslugi/informacii-za-patuvanje-vo-stranstvo/vizen-rezim",
+        "https://embamex.sre.gob.mx/santalucia/index.php/antigua-y-barbuda",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_antigua/id2414703/",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A22009A0630%2801%29"
+      ]
+    },
+    {
+      "destination": "JO",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "AZ",
+        "BH",
+        "EG",
+        "HK",
+        "XK",
+        "KW",
+        "LB",
+        "OM",
+        "PS",
+        "QA",
+        "SA",
+        "SY",
+        "TN"
+      ],
+      "findings": [
+        "All13 retained. New AZ mission agreement/status attempts fail TLS or transport; signature lead still does not prove commencement. New MOI law navigation and actual linked Arabic laws path supplied a landing page or timeout.",
+        "BH/EG/KW/LB/OM/QA/SA/TN need ordinary waiver-versus-gratis-visa rules; SY requires current special routing/status branches; HK needs method distinction; PS/XK need document-specific decisions. No fees, restricted-list omissions or diplomatic exemptions converted to ordinary waivers."
+      ],
+      "attemptedUrls": [
+        "https://amman.mfa.gov.az/en/news/azerbaycan-ve-iordaniya-arasinda-vizasiz-rejim-elan-olunub-yeni-sazisler-imzalanib",
+        "https://amman.mfa.gov.az/en/category/visa",
+        "https://www.moi.gov.jo/Ar/List/2%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%862",
+        "https://www.moi.gov.jo/EN/List/Laws_and_Regulations",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Jordan",
+        "https://mfa.gov.jo/EN/Pages/Visa_Information",
+        "https://amman.embassy.qa/en/services",
+        "https://www.jordanembassy.jp/visa/"
+      ]
+    },
+    {
+      "destination": "LS",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "DZ",
+        "XK",
+        "KP",
+        "PW",
+        "PS",
+        "WS",
+        "SS"
+      ],
+      "findings": [
+        "Fresh government service charter establishes tourist application/sponsor/documents and Bangladesh/Pakistan transit-document conditions, not an ordinary nationality obligation or exemption schedule.",
+        "All7 held: KP conflicting yes/no and WS Samoa/Western Samoa entries persist; DZ/PW/SS omitted; PS/XK accepted ordinary documents unestablished. Government document/search results supply no controlling replacement."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.ls/eservice/format-for-non-citizens-service-delivery-charter/",
+        "https://www.gov.ls/eservice/issuance-of-entry-visa/",
+        "https://www.gov.ls/documents/",
+        "https://www.gov.ls/?s=aliens",
+        "https://www.gov.ls/?s=visa"
+      ]
+    },
+    {
+      "destination": "PA",
+      "resolvedOrigins": [
+        "CN"
+      ],
+      "remainingOrigins": [
+        "MO",
+        "SS",
+        "TL"
+      ],
+      "findings": [
+        "CN duty resolved from April2026 Chinese Embassy entry notice, with the independently stated third-country-document exemption expressly conditional. Primary stay d0; only qualified substitute-document branch has30 days.",
+        "MO/SS/TL still lack an actual nationality determination; no mainland-China rule is transferred to Macao and no Sudan-to-South-Sudan substitution. New legal path and linked amendment PDF returned404."
+      ],
+      "attemptedUrls": [
+        "https://pa.china-embassy.gov.cn/lsfw_0/zytz_140363/202604/t20260422_11897129.htm",
+        "https://pa.china-embassy.gov.cn/lsfw/",
+        "https://pa.china-embassy.gov.cn/lsfw_0/zytz_140363/",
+        "https://pa.china-embassy.gov.cn/lsfw_0/lsbhyxz/",
+        "https://pa.china-embassy.gov.cn/zjbnm/",
+        "https://www.migracion.gob.pa/wp-content/uploads/DECRETO-EJECUTIVO-196-DE-28-DE-OCTUBRE-DE-2024-QUE-MODIFICA-EL-ARTICULO-2-DEL-DECRETO-EJECUTIVO-521-DE-06-DE-AGOSTO-DE-2018.pdf",
+        "https://www.migracion.gob.pa/leyes-migratorias/",
+        "https://www.embassyofpanama.org/visas-1"
+      ]
+    },
+    {
+      "destination": "NI",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "MO",
+        "SS"
+      ],
+      "findings": [
+        "All3 omissions in signed002-2026 remain: XK/MO/SS. Fresh gazette portal and free-download index retrieved; older legal digests do not supply a2026 nationality amendment or omitted-country default. Legislature endpoint403.",
+        "Publication-status lookup is not a tourist checker. No subscription, application, nationality substitution or inference from Macao concession omission."
+      ],
+      "attemptedUrls": [
+        "https://www.lagaceta.gob.ni/descargables",
+        "https://www.lagaceta.gob.ni/",
+        "https://digesto.asamblea.gob.ni/",
+        "https://www.lagaceta.gob.ni/consultas"
+      ]
+    },
+    {
+      "destination": "KZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "All2 held: PS/XK ordinary-document/visa handling not established. Newly attempted current government mission/article pages are identical JavaScript shells; Palestinian MFA fails TLS and alternate embassy host fails DNS.",
+        "No missing eVisa option, state recognition or generic invitation procedure is treated as an ordinary-passport visa determination."
+      ],
+      "attemptedUrls": [
+        "https://www.gov.kz/memleket/entities/mfa/press/article/details/6764?lang=en",
+        "https://www.mofa.pna.ps/ar-jo/",
+        "https://palestineembassy.kz/",
+        "https://www.gov.kz/memleket/entities/mfa-ramallah?lang=en"
+      ]
+    },
+    {
+      "destination": "PH",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "ME",
+        "SS"
+      ],
+      "findings": [
+        "BothME/SS remain absent from the inspected substantive New York nationality table and previous Washington157/199-row material. New Budapest/Nairobi paths403; Montenegro result is opposite-direction inbound policy, not outbound permission.",
+        "No Serbia-to-Montenegro or Sudan-to-South-Sudan substitution. Current nationality or operative exhaustive amendment still required."
+      ],
+      "attemptedUrls": [
+        "https://budapestpe.dfa.gov.ph/consular-services/visa",
+        "https://www.gov.me/pretraga?q=Filipini%20viza",
+        "https://nairobipe.dfa.gov.ph/consular-services/visa",
+        "https://newyorkpcg.org/pcgny/consular-services/visa/"
+      ]
+    },
+    {
+      "destination": "AD",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "SO"
+      ],
+      "findings": [
+        "SO remains held: newly retrieved Andorran Schengen FAQ describes lawful-status and rolling-period requirements, not a Somali accepted-document/re-entry entitlement.",
+        "Local no-visa rule, Schengen visa duty, single-entry restriction and ordinary-document recognition must be represented separately. No routine round-trip tourist route, substitute document or nationality-wide ban inferred."
+      ],
+      "attemptedUrls": [
+        "https://www.govern.ad/ca/tematiques/immigracio",
+        "https://www.govern.ad/documents/d/guest/preguntes_relatives_espai_schengen"
+      ]
+    },
+    {
+      "destination": "UY",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK remains held. New government visa/search routes404; Kosovo consular portal supplies consular/inbound-Kosovo material, no Uruguay ordinary-passport determination.",
+        "An explicit general visa default does not by itself establish acceptance or usable tourist issuance for the Kosovo ordinary passport."
+      ],
+      "attemptedUrls": [
+        "https://www.gub.uy/ministerio-relaciones-exteriores/tramites-y-servicios/servicios/visas",
+        "https://www.gub.uy/busqueda?search_api_fulltext=Kosovo%20visa",
+        "https://ambasadat.net/",
+        "https://www.gub.uy/ministerio-relaciones-exteriores/busqueda?search_api_fulltext=Kosovo"
+      ]
+    },
+    {
+      "destination": "MH",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "GT"
+      ],
+      "findings": [
+        "GT remains held. Parliamentary regulations index recovered the actual41-page Immigration Regulations2009. Visual inspection confirms Section40 promulgation date is blank; attached Cabinet approval of15 December2009, signed16 December, requires the notice procedure before promulgation. Sections5–7 do not reconcile the newer2024 Guatemala dual listing.",
+        "Section5(1)(g) contains a separate less-than7-day cruise/private-vessel passenger exception; Section6 arrival-visa eligibility references the MFA country list. Neither diplomatic relations nor90-day validity resolves the current Guatemala waiver-versus-arrival conflict. Conditional sea-branch modelling is retained in cache without nationwide gap credit."
+      ],
+      "attemptedUrls": [
+        "https://rmiparliament.org/cms/library/rmi-regulations/65-rmi-regulations/68-ministry-of-foreign-affairs-and-trade.html",
+        "https://rmiparliament.org/cms/library/rmi-regulations/65-rmi-regulations/71-ministry-of-justice,-immigration-and-labor.html",
+        "https://rmiparliament.org/cms/legislation.html",
+        "https://rmiparliament.org/cms/library/rmi-regulations/65-rmi-regulations/71-ministry-of-justice,-immigration-and-labor.html?download=980:immigration-regulations-of-2009",
+        "https://rmiparliament.org/cms/library/rmi-regulations.html"
+      ]
+    }
+  ],
+  "corrections": []
+}

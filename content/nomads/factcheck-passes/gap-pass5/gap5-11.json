@@ -1,0 +1,909 @@
+{
+  "version": 1,
+  "batch": "gap5-11",
+  "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+  "sources": {
+    "gap5-11-ng-cz": {
+      "title": "Czech MFA: Czech-passport Nigeria visa duty and landing-card requirement",
+      "urls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/nigerie/cestovani/visa.html"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "191d0f99acfdeaef0f51260c1368e5fa2140ac1f4d8d062efa8f7bf17c87ec7f"
+    },
+    "gap5-11-ng-at": {
+      "title": "Austrian MFA: Austrian-passport Nigeria visa duty and electronic tourist procedure",
+      "urls": [
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/nigeria"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "a5db844a33db4b8e5729d78328a9deb949641594dbe972649b093256a622df83"
+    },
+    "gap5-11-ng-it": {
+      "title": "Italian MFA Viaggiare Sicuri: Nigeria entry-visa requirement",
+      "urls": [
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/NGA.pdf"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "7bb380a4d2b8a42236879265de122afee4f5770a4fb3b8898667147cf4023118"
+    },
+    "gap5-11-ng-pt": {
+      "title": "Portuguese MFA: Nigeria visa required for Portuguese passport holders",
+      "urls": [
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/n/nigeria"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "d0f3af0119a9ee3bc979bc0b9fad38d3a127593cccd32e535f4881ed506ab396"
+    },
+    "gap5-11-ng-hu": {
+      "title": "Hungarian MFA: Hungarian tourist visa requirement for Nigeria",
+      "urls": [
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/nigeria"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "2729d5aa6fe70337d608a2940fca31d4d09bfcb69d2f7bab6ff6a80175626da4"
+    },
+    "gap5-11-ng-ee": {
+      "title": "Estonian MFA: Nigerian visa required for Estonian citizens",
+      "urls": [
+        "https://reisitargalt.vm.ee/sihtkoht/nigeeria/"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "e0562eba7c4489f7e48d4af112101c9aa6cf019d4283e5459db0a8ef6ff66957"
+    },
+    "gap5-11-ng-dk-entry": {
+      "title": "Danish MFA: Nigerian visa duty for Danish citizens, updated 5 June 2026",
+      "urls": [
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/nigeria"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "32a17d481e140c84644727917781a9ccbfb0d358a3ffc4beaf51c3db0c68dfed"
+    },
+    "gap5-11-cu-au-duty": {
+      "title": "Australian DFAT current Cuba advice: visa duty only; tourist-card method wording not adopted",
+      "urls": [
+        "https://www.smartraveller.gov.au/destinations/americas/cuba"
+      ],
+      "checkedAt": "2026-10-09"
+    },
+    "gap5-11-kw-check-MDV": {
+      "title": "Kuwait MOI: Maldives ordinary-tourist no-foreign-status eligibility result",
+      "urls": [
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility"
+      ],
+      "checkedAt": "2026-10-09",
+      "sha256": "4a53bd91c5fdc0ead7645cde71fda711bce91c2400aa0b0db09c697e42c13560"
+    }
+  },
+  "policies": [
+    {
+      "passports": [
+        "CZ"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap5-11-ng-cz",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "AT"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 0,
+      "s": "gap5-11-ng-at",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment. The border-authorised period controls; the Austrian warning is not converted into a fixed day allowance.",
+      "stay": "F5A product: up to 30 days; Austrian advice warns that actual admission may be limited to four weeks."
+    },
+    {
+      "passports": [
+        "IT"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap5-11-ng-it",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "PT"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap5-11-ng-pt",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "HU"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap5-11-ng-hu",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "EE"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap5-11-ng-ee",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "DK"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap5-11-ng-dk-entry",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "MN"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap4-09-mn-outbound",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "KR"
+      ],
+      "destinations": [
+        "NG"
+      ],
+      "t": "ev",
+      "d": 30,
+      "s": "gap4-11-kr-outbound",
+      "evidence": [
+        "gap-05-ng-tourism-2026"
+      ],
+      "label": "Tourist eVisa required",
+      "n": "The origin government establishes the visa requirement for this passport. Nigeria’s April 2026 F5A tourist product supplies advance electronic issuance: single entry, 30-day non-extendable stay within 90-day issuance validity. Obtain approval before travel and complete the separate landing/exit-card formalities. Passport validity of at least six months, return ticket, accommodation and sufficient funds are required; minors require additional consent documents. No employment."
+    },
+    {
+      "passports": [
+        "KR"
+      ],
+      "destinations": [
+        "CU"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap4-11-kr-outbound",
+      "label": "Visa required; method and stay unconfirmed",
+      "n": "The Korean MFA’s September 2026 outbound table explicitly marks Cuba as not exempt for ordinary Korean passports, alongside its visa-default explanation. This establishes visa duty only. Current electronic or consular issuance, air/sea conditions and permitted stay are not established by that table; electronic issuance is not ruled out."
+    },
+    {
+      "passports": [
+        "AU"
+      ],
+      "destinations": [
+        "CU"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-11-cu-au-duty",
+      "label": "Visa required; method and stay unconfirmed",
+      "n": "Current Australian DFAT advice expressly requires a visa for Australian visitors to Cuba. Only that duty is verified here: its tourist-card wording is not used to establish a current issuance channel or stay. Electronic issuance is not ruled out. Complete the separate DViajeros declaration and carry comprehensive travel insurance; Cuban dual-national requirements are separate."
+    },
+    {
+      "passports": [
+        "MV"
+      ],
+      "destinations": [
+        "KW"
+      ],
+      "t": "vr",
+      "d": 0,
+      "s": "gap5-11-kw-check-MDV",
+      "evidence": [
+        "gap4-01-kw-advance"
+      ],
+      "label": "Advance visa required; issuance availability unconfirmed",
+      "n": "Kuwait’s public tourist checker returned no arrival, online or eVisa eligibility for the matched Maldives nationality and no assumed foreign visa or residence status. The embassy separately requires affected foreign nationals to obtain a visa before travel through a local sponsor, expressly including a hotel for tourism. Visa duty is established, but sponsor acceptance, practical issuance and stay remain unconfirmed. Other electronic products are not ruled out; this is not an entry ban."
+    }
+  ],
+  "reviews": [
+    {
+      "destination": "NG",
+      "resolvedOrigins": [
+        "AT",
+        "CZ",
+        "DK",
+        "EE",
+        "HU",
+        "IT",
+        "KR",
+        "MN",
+        "PT"
+      ],
+      "remainingOrigins": [
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "AL",
+        "AM",
+        "AO",
+        "AR",
+        "AZ",
+        "BA",
+        "BB",
+        "BD",
+        "BE",
+        "BF",
+        "BG",
+        "BH",
+        "BI",
+        "BN",
+        "BO",
+        "BR",
+        "BS",
+        "BT",
+        "BW",
+        "BY",
+        "BZ",
+        "CD",
+        "CF",
+        "CG",
+        "CH",
+        "CL",
+        "CM",
+        "CN",
+        "CO",
+        "CR",
+        "CU",
+        "CY",
+        "DJ",
+        "DM",
+        "DO",
+        "DZ",
+        "EC",
+        "EG",
+        "ER",
+        "ES",
+        "ET",
+        "FI",
+        "FJ",
+        "FM",
+        "GA",
+        "GD",
+        "GE",
+        "GQ",
+        "GR",
+        "GT",
+        "GY",
+        "HK",
+        "HN",
+        "HR",
+        "HT",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IQ",
+        "IR",
+        "IS",
+        "JM",
+        "JO",
+        "KE",
+        "KG",
+        "KH",
+        "KI",
+        "KM",
+        "KP",
+        "KW",
+        "KZ",
+        "LA",
+        "LB",
+        "LC",
+        "LI",
+        "LK",
+        "LS",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "MA",
+        "MC",
+        "MD",
+        "ME",
+        "MG",
+        "MH",
+        "MK",
+        "ML",
+        "MM",
+        "MO",
+        "MR",
+        "MT",
+        "MU",
+        "MV",
+        "MW",
+        "MX",
+        "MY",
+        "MZ",
+        "NA",
+        "NE",
+        "NI",
+        "NO",
+        "NP",
+        "NR",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PG",
+        "PH",
+        "PK",
+        "PL",
+        "PS",
+        "PW",
+        "PY",
+        "QA",
+        "RO",
+        "RU",
+        "RW",
+        "SA",
+        "SB",
+        "SC",
+        "SD",
+        "SE",
+        "SG",
+        "SI",
+        "SK",
+        "SM",
+        "SO",
+        "SR",
+        "SS",
+        "ST",
+        "SV",
+        "SY",
+        "SZ",
+        "TD",
+        "TH",
+        "TJ",
+        "TL",
+        "TM",
+        "TN",
+        "TO",
+        "TT",
+        "TV",
+        "TZ",
+        "UA",
+        "UG",
+        "US",
+        "UY",
+        "UZ",
+        "VA",
+        "VC",
+        "VE",
+        "VN",
+        "VU",
+        "WS",
+        "XK",
+        "YE",
+        "ZA",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Nine origin-scoped duties are supported by Czech, Austrian, Italian, Portuguese, Hungarian, Estonian and Danish advice plus the previously captured Korean explicit negative table and Mongolian outbound default. April2026 NIS F5A supplies the electronic tourist method; its30-day stay is distinct from90-day validity. Austria retains a four-week actual-admission warning.",
+        "Recovered the currently NIS-linked Immigration Act2015 gazette and inspected entry/exemption sections18–22 and29; section22 authorises exemption orders and section29 concerns visa abolition. This is enabling legislation, not the current exemption roster. The2025 training deck still only counts four exemption classes. No blanket duty follows while bilateral exceptions remain unreconciled.",
+        "Unresolved origins retain their individual baseline blockers, especially CM/TD/SC bilateral claims, BF/ML/NE legacy/AES document treatment and HK/MO/PS/XK accepted documents. New legal-search and ministry/mission attempts produced no operative complete exemption instrument."
+      ],
+      "attemptedUrls": [
+        "https://mzv.gov.cz/jnp/cz/encyklopedie_statu/afrika/nigerie/cestovani/visa.html",
+        "https://travel.state.gov/en/international-travel/travel-advisories/nigeria.html",
+        "https://keliauk.urm.lt/countries/view/nigerija",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/nigeria/",
+        "https://canberra.foreignaffairs.gov.ng/visa",
+        "https://www.gov.br/mre/pt-br/assuntos/portal-consular/vistos/quadro-geral-de-regime-de-vistos-para-entrada-de-brasileiros-no-exterior",
+        "https://konzinfo.mfa.gov.hu/utazasi-tanacsok-orszagonkent/nigeria",
+        "https://www.mfa.bg/en/embassyinfo/nigeria",
+        "https://www.mzv.sk/nigeria",
+        "https://reisitargalt.vm.ee/sihtkoht/nigeeria/",
+        "https://www.viaggiaresicuri.it/schede_paese/pdf/NGA.pdf",
+        "https://immigration.gov.ng/wp-content/uploads/2026/03/Immigration-act-2015.pdf",
+        "https://immigration.gov.ng/wp-json/wp/v2/search?search=exempt&per_page=20",
+        "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/nigeria/reseinformation/ambassadens-reseinformation/in--och-utresebest%C3%A4mmelser/",
+        "https://interior.gov.ng/documents/",
+        "https://www.bmeia.gv.at/reise-services/reiseinformation/land/nigeria",
+        "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nigeria.html",
+        "https://www.mfa.gr/missionsabroad/en/nigeria-en/about-nigeria/general-information.html",
+        "https://immigration.gov.ng/nigerian-visa/",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/nigeria",
+        "https://portaldascomunidades.mne.gov.pt/pt/conselhos-aos-viajantes/n/nigeria",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/nigeria-pas-og-visum",
+        "https://www.gov.pl/web/nigeria/informacje-dla-podrozujacych",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/",
+        "https://www.consul.mn/visa/c/24",
+        "https://www.0404.go.kr/bbs/contsPst/MST0000000000113/13/detail",
+        "https://immigration.gov.ng/wp-content/uploads/2026/04/SERVICE-LEVEL-AGREEMENT-2026_.pdf"
+      ]
+    },
+    {
+      "destination": "CU",
+      "resolvedOrigins": [
+        "AU",
+        "KR"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "AL",
+        "DZ",
+        "AD",
+        "AO",
+        "AG",
+        "AR",
+        "AM",
+        "AZ",
+        "BS",
+        "BH",
+        "BD",
+        "BZ",
+        "BJ",
+        "BT",
+        "BO",
+        "BA",
+        "BW",
+        "BR",
+        "BN",
+        "BG",
+        "BF",
+        "BI",
+        "KH",
+        "CM",
+        "CV",
+        "CF",
+        "TD",
+        "CL",
+        "CO",
+        "KM",
+        "CG",
+        "CD",
+        "CR",
+        "CI",
+        "HR",
+        "CY",
+        "DK",
+        "DJ",
+        "DM",
+        "DO",
+        "EC",
+        "EG",
+        "SV",
+        "GQ",
+        "ER",
+        "SZ",
+        "ET",
+        "FJ",
+        "FI",
+        "GA",
+        "GM",
+        "GE",
+        "GH",
+        "GR",
+        "GD",
+        "GT",
+        "GN",
+        "GW",
+        "GY",
+        "HT",
+        "HN",
+        "HK",
+        "IS",
+        "IN",
+        "ID",
+        "IR",
+        "IQ",
+        "IE",
+        "IL",
+        "JM",
+        "JO",
+        "KZ",
+        "KE",
+        "KI",
+        "XK",
+        "KW",
+        "KG",
+        "LA",
+        "LV",
+        "LB",
+        "LS",
+        "LR",
+        "LY",
+        "LI",
+        "LT",
+        "LU",
+        "MO",
+        "MG",
+        "MW",
+        "MV",
+        "ML",
+        "MT",
+        "MH",
+        "MR",
+        "MU",
+        "MX",
+        "FM",
+        "MC",
+        "ME",
+        "MA",
+        "MZ",
+        "MM",
+        "NA",
+        "NR",
+        "NP",
+        "NZ",
+        "NI",
+        "NE",
+        "NG",
+        "KP",
+        "MK",
+        "NO",
+        "OM",
+        "PK",
+        "PW",
+        "PS",
+        "PA",
+        "PG",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "QA",
+        "RO",
+        "RW",
+        "KN",
+        "LC",
+        "WS",
+        "SM",
+        "ST",
+        "SA",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "SO",
+        "ZA",
+        "SS",
+        "LK",
+        "VC",
+        "SD",
+        "SR",
+        "CH",
+        "SY",
+        "TJ",
+        "TZ",
+        "TH",
+        "TL",
+        "TG",
+        "TO",
+        "TT",
+        "TN",
+        "TM",
+        "TV",
+        "UG",
+        "UA",
+        "AE",
+        "US",
+        "UY",
+        "UZ",
+        "VU",
+        "VA",
+        "VE",
+        "VN",
+        "YE",
+        "ZM",
+        "ZW"
+      ],
+      "findings": [
+        "Two narrow requirement-only additions: Korea’s September2026 explicit ordinary-passport non-exemption and current Australian DFAT visa duty. Both use d0 and leave the current channel/stay unconfirmed; the Australian tourist-card procedure is not adopted.",
+        "The2024 GEN1.3 passenger text is not promoted. Its30-day/card-era material and21 nationality leads remain unreconciled with current immigration rules and treaty exceptions. The central legal-framework request failed certificate validation; no bypass was attempted.",
+        "New Kenyan public treaty-registry search for Cuba returned zero results; the observed visa search returned other treaties and does not prove Cuba has no treaty. Mongolia’s actual public legal searches returned trade/investment material, not a controlling reciprocal visa treaty. These do not resolve Kenyan passport scope or Cuban ordinary-passport entry into Mongolia.",
+        "Danish MFA page updated23September2026 explicitly says no entry/visa information is available. Polish pages redirect, Bulgarian/Mexican sources return browser challenges, and other mission/advice attempts fail; none supplies a rule. Known waiver and special-document cases remain open."
+      ],
+      "attemptedUrls": [
+        "https://misiones.cubaminrex.cu/en/australia",
+        "https://www.mfa.gov.lv/lv/kuba",
+        "https://treaties.mfa.go.ke/api/treatiessearch/visa",
+        "https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_cuba/id2416467/",
+        "https://www.ireland.ie/en/dfa/overseas-travel/advice/cuba/",
+        "https://www.mvp.gov.ba/konzularne_informacije/vize/Default.aspx",
+        "https://en.wikipedia.org/wiki/Visa_policy_of_Cuba",
+        "https://mvep.gov.hr/informacije-za-gradjane-244593/konzularne-informacije-22730/preporuke-za-putovanja-22854/upozorenja/245045?country=64",
+        "https://treaties.mfa.go.ke/_nuxt/22d5eb5.js",
+        "https://treaties.mfa.go.ke/_nuxt/0ed08e9.js",
+        "https://travel.state.gov/en/international-travel/travel-advisories/cuba.html",
+        "https://www.mfa.bg/en/embassyinfo/cuba",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/rejsevejledninger/cuba",
+        "https://treaties.mfa.go.ke/_nuxt/f2fbb1d.js",
+        "https://portales.sre.gob.mx/guiadelviajero/103-ficha-de-paises/270-cuba",
+        "https://keliauk.urm.lt/countries/view/kuba",
+        "https://treaties.mfa.go.ke/api/treatiessearch/Cuba",
+        "https://treaties.mfa.go.ke/",
+        "https://treaties.mfa.go.ke/_nuxt/0e9716b.js",
+        "https://www.chile.gob.cl/la-habana/sobre-el-consulado/preguntas-frecuentes",
+        "https://www.gov.pl/web/kuba/informacje-dla-podrozujacych",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/cuba-pas-og-visum",
+        "https://www.smartraveller.gov.au/destinations/americas/cuba",
+        "https://finlandabroad.fi/web/cub/matkustaminen",
+        "https://um.dk/rejse-og-ophold/rejse-til-udlandet/pas-og-visum/cuba",
+        "https://cubaminrex.cu/es/marco-normativo",
+        "https://www.rree.go.cr/?sec=servicios&cat=visas&cont=838",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/"
+      ]
+    },
+    {
+      "destination": "KW",
+      "resolvedOrigins": [
+        "MV"
+      ],
+      "remainingOrigins": [
+        "AF",
+        "BH",
+        "CG",
+        "CD",
+        "EG",
+        "IR",
+        "IQ",
+        "IL",
+        "XK",
+        "MO",
+        "KP",
+        "OM",
+        "PK",
+        "PS",
+        "SA",
+        "SB",
+        "SS",
+        "UG",
+        "YE"
+      ],
+      "findings": [
+        "Recovered the previously timed-out MDV tourist-checker result, matched to the actual public country record, and paired it with the already captured Tokyo embassy advance-visa rule. A French positive control succeeded. The negative method result alone is not visa-duty proof.",
+        "Other unresolved ordinary nationalities lack a valid matched current eligibility result; no guessed country code was submitted. New Riyadh/Muscat mission requests failed, Saudi mission URL redirected to its general directory and the GCC locator was a soft404. BH/OM/SA waivers remain unproved here; AF/IL and MO/PS/XK document/exception cases remain open."
+      ],
+      "attemptedUrls": [
+        "https://embassies.mofa.gov.sa/sites/Kuwait/AR/AboutHostingCountry/Pages/default.aspx",
+        "https://muscat.mofa.gov.kw/en/",
+        "https://kuwaitvisa.moi.gov.kw/kuwaitVisa/portal/checkCountryEligibility",
+        "https://riyadh.mofa.gov.kw/en/",
+        "https://www.gcc-sg.org/en-us/CooperationAndAchievements/Achievements/EconomicCooperation/TheGCCCommonMarket/Pages/Citizensmobilityandresidence.aspx",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/"
+      ]
+    },
+    {
+      "destination": "GM",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "DO",
+        "EC",
+        "HK",
+        "HN",
+        "ID",
+        "MO",
+        "PH",
+        "PS",
+        "SM",
+        "SR",
+        "SV",
+        "TH",
+        "TL",
+        "TW",
+        "UY",
+        "VE",
+        "VN"
+      ],
+      "findings": [
+        "All17 residuals retain unresolved2019-versus2025 exemption treatment or passport-specific document concerns. New Thai Dakar and Indonesian mission pages supplied generic shells, Philippine mission access failed and immigration legal locator failed TLS. None reconciles the earlier nationality exceptions.",
+        "No general2025 default is used to cancel unexamined earlier waivers; Taiwan’s explicit warning that the exemption needs confirmation remains material. Chartered-tour conditions are not assumed."
+      ],
+      "attemptedUrls": [
+        "https://safetravel.kemlu.go.id/info/detail/92",
+        "https://abujape.dfa.gov.ph/consular-services/visa",
+        "https://www.gid.gov.gm/visa/",
+        "https://kemlu.go.id/dakar",
+        "https://dakar.thaiembassy.org/en/page/visa-information-for-thai-nationals"
+      ]
+    },
+    {
+      "destination": "SN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CH",
+        "HK",
+        "MO",
+        "PS",
+        "XK"
+      ],
+      "findings": [
+        "All five retained. New Swiss French-language advice was inaccessible; Geneva mission and Lyon consular alternatives did not yield a Swiss waiver instrument. The Brussels omission still does not reconcile CH. HK/MO/PS/XK require actual passport-specific evidence; no mainland-China or recognition inference."
+      ],
+      "attemptedUrls": [
+        "https://www.consulsen-lyon.org/visas",
+        "https://www.mission-senegal.ch/",
+        "https://www.eda.admin.ch/eda/fr/dfae/representations-et-conseils-aux-voyageurs/senegal/conseils-voyageurs-senegal.html",
+        "https://www.ambasenegeneve.ch/",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/"
+      ]
+    },
+    {
+      "destination": "GN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "HK",
+        "PS",
+        "VC",
+        "ZM"
+      ],
+      "findings": [
+        "All four retained. New Berlin mission, Zambia origin-government search and Saint Vincent consular alternatives failed TLS, transport or404. No current nationality duty/waiver was established independently of the portal’s inactive records. ACTIVE=0 is neither a refusal nor an exemption; HK/PS document treatment and VC/ZM exceptions remain unsettled."
+      ],
+      "attemptedUrls": [
+        "https://ambaguinee.de/",
+        "https://www.amba-guinee.de/",
+        "https://foreign.gov.vc/foreign/index.php/consular-services",
+        "https://www.mofa.gov.zm/?s=Guinea+visa"
+      ]
+    },
+    {
+      "destination": "UG",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS",
+        "SO"
+      ],
+      "findings": [
+        "All three retained. Somali MFA public search returned an Azerbaijan diplomatic-passport notice held in Kampala, not a Somalia–Uganda ordinary waiver. The Somali Kampala and Ugandan Washington locators failed. Somalia’s national implementation remains unproved despite EAC membership; PS/XK accepted ordinary documents remain unestablished."
+      ],
+      "attemptedUrls": [
+        "https://kampala.mfa.gov.so/",
+        "https://mfa.gov.so/?s=Uganda+visa",
+        "https://washington.mofa.go.ug/consular-services/visas",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/"
+      ]
+    },
+    {
+      "destination": "MN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "CU",
+        "XK"
+      ],
+      "findings": [
+        "Both retained. New Mongolian Legalinfo public title/body searches for Cuba returned trade/investment ratification and unrelated substring matches, not operative visa terms. No treaty text reconciles the ministry diplomatic/official-only table with eVisa-portal waiver wording for ordinary Cuban passports. The reciprocal direction is not inferred from Mongolian outbound travel advice. XK accepted-document treatment remains unproved."
+      ],
+      "attemptedUrls": [
+        "https://legalinfo.mn/assets/custom/legal/js/pages/advsearch.js",
+        "https://havana.consul.mn/",
+        "https://legalinfo.mn/en/advsearchList",
+        "https://legalinfo.mn/en/advsearch",
+        "https://legalinfo.mn/en",
+        "https://legalinfo.mn/en/advsearchList/5",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/"
+      ]
+    },
+    {
+      "destination": "RW",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK",
+        "PS"
+      ],
+      "findings": [
+        "Both retained after recovering the live DGIE-linked2018 immigration law and2019 implementing order. Law articles3–4 define recognised travel documents and entry conditions; order articles41–42 cover international-organisation document recognition and sharing national specimens. No inspected provision specifically settles PS/XK documents. General all-country arrival wording is not substituted for that missing proof.",
+        "The linked file named ministerial_order_11_11_2022_2 is an occupational-demand annex, not a tourist-visa amendment. It is not used to alter entry rules."
+      ],
+      "attemptedUrls": [
+        "https://www.migration.gov.rw/fileadmin/user_upload/pdf_files/ministerial_order_11_11_2022_2.pdf",
+        "https://www.migration.gov.rw/laws",
+        "https://www.migration.gov.rw/our-services/visas",
+        "https://www.migration.gov.rw/fileadmin/user_upload/pdf_files/law_immigration_and_emigration.pdf",
+        "https://www.migration.gov.rw/laws-and-regulations",
+        "https://www.migration.gov.rw/fileadmin/user_upload/pdf_files/ministerial_order_relating_to_immigration.pdf",
+        "https://www.migration.gov.rw/",
+        "https://www.migration.gov.rw/legal-framework",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/"
+      ]
+    },
+    {
+      "destination": "UZ",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "XK"
+      ],
+      "findings": [
+        "XK retained. New MFA visa-page URL supplied only a migrated application shell and the Kosovo origin-ministry host failed DNS. No nationality-specific duty plus accepted-document or special-authorisation provision was retrieved; general law and an unverified nationality dropdown remain insufficient."
+      ],
+      "attemptedUrls": [
+        "https://mfa.uz/en/pages/visa-republic-uzb",
+        "https://mpjd.rks-gov.net/",
+        "https://www.mofa.pna.ps/"
+      ]
+    },
+    {
+      "destination": "BN",
+      "resolvedOrigins": [],
+      "remainingOrigins": [
+        "IL"
+      ],
+      "findings": [
+        "IL retained. The current MFA nationality directory was inspected at HTML level: no named Israel entry, and the orphan passport-category block follows a commented Pakistan heading. It cannot be attributed to Israel. No ordinary Israeli-document acceptance, entry prohibition or special approval is inferred from omission."
+      ],
+      "attemptedUrls": [
+        "https://www.mfa.gov.bn/Pages/Visa-Information.aspx"
+      ]
+    }
+  ],
+  "corrections": []
+}

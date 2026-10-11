@@ -231,6 +231,115 @@
         }
       ],
       "researchSha256": "14f734144ac48ca6dee8eca8db88ede562bcf446bd1d2e371dc458426ca32abf"
+    },
+    {
+      "id": "gap-pass5",
+      "baselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b",
+      "assignments": {
+        "path": "gap-pass5/assignments.json",
+        "sha256": "57b8802f3fe284d5cfb5fb59e8412eaac95a9bad7c4f68fbb5ae5fda89c9bf28"
+      },
+      "patches": [
+        {
+          "batch": "gap5-01",
+          "path": "gap-pass5/gap5-01.json",
+          "sha256": "fc87284b15bb0a07dd0e3fe3a51766af33143e296c5df56385d796dd3534766f"
+        },
+        {
+          "batch": "gap5-02",
+          "path": "gap-pass5/gap5-02.json",
+          "sha256": "5c3bb9f6e4fd19e9652e46a793841888de98ca02322800bc93ea1d0f9a6c95d3"
+        },
+        {
+          "batch": "gap5-03",
+          "path": "gap-pass5/gap5-03.json",
+          "sha256": "26246119ba7765e1b1bddb9fdfba1594411833505710cb6c1b7cdbe9b980a089"
+        },
+        {
+          "batch": "gap5-04",
+          "path": "gap-pass5/gap5-04.json",
+          "sha256": "dcd5fb52c1d5401feebad58efb6fefe289329c2c3a91d82acc3bb68a412c0125"
+        },
+        {
+          "batch": "gap5-05",
+          "path": "gap-pass5/gap5-05.json",
+          "sha256": "8c9740b557a69c18fb91b1fde286f7d79fa93c9e855cf174af7c264bfba02168"
+        },
+        {
+          "batch": "gap5-06",
+          "path": "gap-pass5/gap5-06.json",
+          "sha256": "cd06cf7d3607c9be383682b5a0b062d50742d053738cda1b7a53e3dbde8becca"
+        },
+        {
+          "batch": "gap5-07",
+          "path": "gap-pass5/gap5-07.json",
+          "sha256": "fff1a81c1a6418f1b2e58e624b3de750a29ffcc3ca70ddfbb9d3c8e1a4c683e2"
+        },
+        {
+          "batch": "gap5-08",
+          "path": "gap-pass5/gap5-08.json",
+          "sha256": "6fe20fabd57aec1e60963abf5310fb4d9ed14db36b6d5376e9ea458a4b025028"
+        },
+        {
+          "batch": "gap5-09",
+          "path": "gap-pass5/gap5-09.json",
+          "sha256": "b930f243ba2fdf21a9e8a21e130f96bd915bcb76c7c5e3c515cf64768649f013"
+        },
+        {
+          "batch": "gap5-10",
+          "path": "gap-pass5/gap5-10.json",
+          "sha256": "5cf9f7d1beadf32bd7f50079fd4b1319892be03f4adc5f3a3c58d56e7dceca89"
+        },
+        {
+          "batch": "gap5-11",
+          "path": "gap-pass5/gap5-11.json",
+          "sha256": "26739de2e84a2eb9bac474fc02273d6994ef8d2a1142bf9431a669e2b5f94f58"
+        },
+        {
+          "batch": "gap5-12",
+          "path": "gap-pass5/gap5-12.json",
+          "sha256": "9e3f2ffc2f77009e8e41174cdafb1542fe2bb8cd68a09acf7b58a837cd36aa2c"
+        }
+      ],
+      "contradictions": []
+    },
+    {
+      "id": "conditional-adjudication",
+      "baselineSha256": "15dba6e71d3bcec062fb72345d0bc84909b9b4e85a1583c15c6cd2d0ae73c3df",
+      "assignments": {
+        "path": "conditional-adjudication/assignments.json",
+        "sha256": "02b0cd832d7e6f538e7d84431b1e5fb4671c2fa258e3aacd49987eb44b69e5c3"
+      },
+      "patches": [
+        {
+          "batch": "conditional-adjudication",
+          "path": "conditional-adjudication/conditional-adjudication.json",
+          "sha256": "33c3921237f8613a816552af45948639594e4606cf4716bde0fc8dc7b435421f"
+        }
+      ],
+      "contradictions": [],
+      "researchSha256": "bbff3212eaaa83b55f91a0e27c6db1289e0479e16beddfa946770d88c00bff9c",
+      "researchFile": "candidate.json",
+      "researchBaselineSha256": "3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b"
+    },
+    {
+      "id": "pass6-consistency",
+      "baselineSha256": "13a3f7f2f5ee25a1eac2a6f1113c9789f1f4197ed5a5ad0746ec2c4e83d20bf3",
+      "assignments": {
+        "path": "pass6-consistency/assignments.json",
+        "sha256": "01fc107064894431f5a20bad289ae54fcc4680979f66522a2f893b544336d68c"
+      },
+      "patches": [
+        {
+          "batch": "pass6-consistency",
+          "path": "pass6-consistency/pass6-consistency.json",
+          "sha256": "9a137e053fcc846a9c579f09adc89cb088fe67a97d7db74d2f2fa816922f1155"
+        }
+      ],
+      "contradictions": [],
+      "researchSha256": "9bc0b0845f2d62bcd117a35d1e5e8765676fa03d7b31845995c2531ba8d60ae8",
+      "researchFile": "candidate.json",
+      "researchBaselineSha256": "13a3f7f2f5ee25a1eac2a6f1113c9789f1f4197ed5a5ad0746ec2c4e83d20bf3"
     }
   ]
 }

@@ -10,6 +10,8 @@ export type PassManifest = { version: 1; baseline: Artifact; passes: {
   patches: (Artifact & { batch: string })[]; contradictions: Withdrawal[];
   qualifications?: Artifact;
   researchSha256?: string;
+  researchFile?: 'candidate.json';
+  researchBaselineSha256?: string;
 }[] };
 
 const identifier = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
@@ -25,9 +27,11 @@ export function validatePassManifest(manifest: PassManifest): void {
   keys(manifest.baseline, ['path', 'sha256']); artifact(manifest.baseline);
   assert.ok(manifest.passes.length && new Set(manifest.passes.map(pass => pass.id)).size === manifest.passes.length, 'Missing or duplicate passes');
   for (const pass of manifest.passes) {
-    keys(pass, ['id', 'baselineSha256', 'assignments', 'patches', 'contradictions', ...(pass.qualifications ? ['qualifications'] : []), ...(pass.researchSha256 ? ['researchSha256'] : [])]);
+    keys(pass, ['id', 'baselineSha256', 'assignments', 'patches', 'contradictions', ...(pass.qualifications ? ['qualifications'] : []), ...(pass.researchSha256 ? ['researchSha256'] : []), ...(pass.researchFile ? ['researchFile'] : []), ...(pass.researchBaselineSha256 ? ['researchBaselineSha256'] : [])]);
     assert.match(pass.id, identifier); assert.match(pass.baselineSha256, /^[a-f0-9]{64}$/);
     if (pass.researchSha256) assert.match(pass.researchSha256, /^[a-f0-9]{64}$/);
+    if (pass.researchFile) { assert.equal(pass.researchFile, 'candidate.json'); assert.ok(pass.researchSha256, 'Research filename needs a pinned hash'); }
+    if (pass.researchBaselineSha256) { assert.match(pass.researchBaselineSha256, /^[a-f0-9]{64}$/); assert.ok(pass.researchSha256, 'Research baseline needs a pinned artifact'); }
     keys(pass.assignments, ['path', 'sha256']); artifact(pass.assignments, `${pass.id}/assignments.json`);
     if (pass.qualifications) {
       keys(pass.qualifications, ['path', 'sha256']); artifact(pass.qualifications, `${pass.id}/qualifications.json`);

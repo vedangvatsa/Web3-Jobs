@@ -1,29 +1,29 @@
 # Passport entry data audit
 
-## Status on 2026-10-08
+## Status on 2026-10-11
 
-The reviewed AIP follow-up accounts for all 199 destinations and each destination's
+The public-source passes and qualified-requirement adjudication account for all 199 destinations and each destination's
 198 non-self origins: **39,402 routes**, partitioned without gaps or overlaps.
 
 | Official review status | Routes |
 | --- | ---: |
-| Checked government-backed baseline | 33,620 |
+| Checked government-backed baseline | 33,877 |
 | Historical official evidence | 983 |
-| Unresolved official review | 4,799 |
+| Unresolved official review | 4,542 |
 
-The 34,603 source-backed routes include dated archives and historical document
-reproductions. They are not 34,603 fresh live government checks. Source titles,
+The 34,860 source-backed routes include dated archives and historical document
+reproductions. They are not 34,860 fresh live government checks. Source titles,
 capture URLs, `checkedAt` dates and `historical: true` remain in the catalog and
 checker. Historical status follows the evidence, not its hosting domain: the
 signed Congo circular reproduction and explicitly pre-transition Syria guidance
 are historical even though their citations are outside web.archive.org.
-Current evidence remains missing for **5,782 routes** (historical plus unresolved).
+Current evidence remains missing for **5,525 routes** (historical plus unresolved).
 Some supported rules establish only air-entry scope or a requirement with uncertain
 issuance; these qualifications remain visible and do not certify all-mode travel.
 
 All 199 original Passport Index snapshots (39,402 answers, retrieved 2026-10-07)
-remain intact as version 1. Unresolved routes currently retain 3 legacy
-government answers and 4,791 Passport Index references, plus five unknown
+remain intact as version 1. Unresolved routes currently retain 1 legacy
+government answer and 4,536 Passport Index references, plus five unknown
 withdrawn claims. The legacy answers are **not** counted as newly checked.
 Of 188 withdrawal records, 183 have reviewed replacements. These include
 superseded method wording as well as changed categories or durations.
@@ -32,7 +32,7 @@ unknown with its reason and evidence, never to an older answer.
 
 The complete structured destination audit is
 [`content/nomads/entry-factchecks.json`](../content/nomads/entry-factchecks.json):
-3,669 losslessly grouped policies, 2,335 source records, all 199 reviews with
+3,816 losslessly grouped policies, 2,524 source records, all 199 reviews with
 findings/attempted URLs and explicit unresolved passport lists, plus withdrawals
 and candidate checksums. Findings are destination-level research notes; a
 passport-specific blocker in those notes is not assigned to every origin.
@@ -220,6 +220,188 @@ v1 patch. It exports authored policy/source summaries and URL/date/hash provenan
 only; original notes, quotations, evidence ledgers, receipts and PDFs stay unchanged
 in the ignored cache. All prior pass-three/pass-four artifacts and hashes remain intact.
 
+## Fifth public-source pass
+
+The user selected public sources only after being told complete verification
+cannot be guaranteed. This pass adds substantiated rules and retains specific
+unresolved blockers; completion of the research pass is not resolution of every route.
+No conditional-modelling proposal receives coverage credit without a supported rule.
+
+Pass five pins the preceding canonical output at
+`3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b`.
+The preceding manifest replay reproduces those exact bytes. All 12 original
+patch JSON files and assignments are captured byte-for-byte, with checksums;
+no research notes, quotations, ledgers or machine-local paths are exported.
+
+| Batch | Baseline gaps | Current additions | Historical additions | Corrections | Remaining gaps |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| gap5-01 | 388 | 8 | 0 | 0 | 380 |
+| gap5-02 | 401 | 16 | 0 | 0 | 385 |
+| gap5-03 | 401 | 24 | 0 | 0 | 377 |
+| gap5-04 | 402 | 6 | 0 | 0 | 396 |
+| gap5-05 | 400 | 11 | 0 | 0 | 389 |
+| gap5-06 | 401 | 43 | 0 | 0 | 358 |
+| gap5-07 | 401 | 31 | 0 | 0 | 370 |
+| gap5-08 | 401 | 12 | 0 | 0 | 389 |
+| gap5-09 | 402 | 8 | 0 | 0 | 394 |
+| gap5-10 | 401 | 14 | 0 | 0 | 387 |
+| gap5-11 | 401 | 12 | 0 | 0 | 389 |
+| gap5-12 | 400 | 14 | 0 | 0 | 386 |
+| **Total** | **4,799** | **199** | **0** | **0** | **4,600** |
+
+No existing supported policy or condition is replaced. The four Niger conflicts
+and Iceland→Eswatini remain unknown/unresolved with their withdrawal evidence.
+The 983 historical routes, including the six ASAN downgrades, retain their status.
+Counts are computed by the merger: **33,620 + 199 = 33,819 checked**;
+**4,799 − 199 = 4,600 unresolved**; **983 historical**, unchanged.
+
+Examples of new evidence and retained limits:
+
+- Laos: 36 visa-duty additions from a status-identified current statute and
+  reconciled exemption schedule. Arrival/electronic eligibility, clearance and
+  stay remain unspecified. Belarus's later-waiver commencement lead stays unresolved.
+- South Sudan: 24 additions, using Portugal's expressly EU-scoped requirement
+  and other origin-specific evidence. Routine issuance and unknown stays are not assumed.
+- Trinidad and Tobago: 26 additions, including 24 EU origins under expressly
+  incoming EU-wide guidance. Strict less-than-three-month periods remain calendar
+  wording; specific Czech/Dutch periods and separate eVisa/visa-duty records are retained.
+- Azerbaijan→Morocco: the actual ordinary-passport agreement commencement
+  resolves the prior conflict, with a 90-day waiver. Brazil/Suriname→Malaysia
+  retain distinct 90-/30-day allowances and MDAC conditions.
+- PS/XK→South Korea: mission-assessed C-3-9 tourist visa requirements, with
+  single-entry up to 90 days versus double-entry 30 days. Jeju/transit exclusions
+  and document assessment remain explicit; an electronic form is not an eVisa.
+- Austria→Nigeria: `d=0` preserves specific F5A 30-day versus possible four-week
+  admission wording. Eight other new Nigeria records retain the sourced 30-day
+  F5A stay separately from 90-day issuance validity.
+- Timor-Leste→Vietnam: electronic route, with no assumed new bilateral waiver
+  and a separate Phu Quoc-only exception. Palestinian→Thailand retains mission,
+  residence and document conditions and unconfirmed processing/stay. Neither is
+  an unrestricted admission guarantee.
+
+All original research files remain unchanged in `.cache/nomads/gap-pass5/`.
+The current v4 schema and selected-passport loading remain in use; separate
+conditional-model research is not incorporated into this pass.
+
+## Qualified-requirement adjudication after pass five
+
+This targeted pass adds **15 requirement-only records**, not 15 verified document
+or tourist-admission pathways. Thirteen establish visa duties; the two Argentina
+records establish an express **visa-or-AVE** duty. All retain `d=0`, qualified
+labels and explicit original/substitute-document, issuance-channel and stay uncertainty.
+There are **zero** new complete conditional decision trees, **zero** established
+routine-admission paths, no historical additions and no corrections or withdrawals.
+
+| Destination | Added origins | Added requirements |
+| --- | --- | ---: |
+| Liberia | HK, MO, PS, XK | 4 |
+| Bahrain | XK | 1 |
+| Togo | XK | 1 |
+| India | XK | 1 |
+| China | XK | 1 |
+| Bosnia and Herzegovina | PS | 1 |
+| Argentina | PS, XK | 2 visa-or-AVE duties |
+| Angola | PS, XK | 2 overnight-tourism visa duties |
+| Benin | PS, XK | 2 |
+| **Total** | | **15** |
+
+The research artifact was based on the pre-pass-five hash
+`3d6a5b7e4780bad19ef72a7e1524d5d546471540b5faa8da65ead82db5937b6b`.
+Integration explicitly rebases its selected policies onto the actual post-pass-five
+canonical SHA-256
+`15dba6e71d3bcec062fb72345d0bc84909b9b4e85a1583c15c6cd2d0ae73c3df`.
+All 15 were individually checked as still unresolved and disjoint from the
+independent 199 pass-five additions. The nine targeted destinations contain 17
+baseline gaps; the remaining two are the Haiti/Romania exceptions into Benin.
+No previous supported policy, source date, expiry or withdrawal was replaced.
+
+The actual research input hash is
+`bbff3212eaaa83b55f91a0e27c6db1289e0479e16beddfa946770d88c00bff9c`.
+The manifest records that fingerprint and its original baseline alongside the
+current integration baseline. Only nine selected policy objects, nine required
+source records, and freshly partitioned targeted reviews are exported. The original
+candidate's held-case arrays, quotations, receipts, Oman products and Palestine
+modelling proposals remain cache-only. No new source retrieval is claimed.
+
+Important retained distinctions:
+
+- **Argentina:** the custom label says **Visa or AVE required**. The note does
+  not treat AVE as a visa or establish either issuance route. No alternatives
+  array advertises `eta` or AVE eligibility.
+- **Angola:** the duty is for **overnight ordinary tourism**. Cruise/day-visitor,
+  residence, treaty and exceptional-authorisation provisions remain separate;
+  no passenger is assumed to qualify.
+- **Bosnia:** the general supporting-document waiver is described without
+  certifying that a particular Palestinian document may use it.
+- **China:** the record reuses the original 8 October primary-reading record.
+  It has no raw-response hash or precise retrieval timestamp; neither is fabricated.
+- **All 15:** a proven requirement does not establish passport recognition,
+  accepted substitute documents, a functioning channel, a granted stay or admission.
+
+**Oman 88 and Palestine 195 remain unresolved, unchanged.** The 78 Oman family-product
+associations receive no route credit; neither do the Palestine modelling proposals.
+An unknown independent-traveller or territorial branch is not made complete by a
+conditional label. The five earlier withdrawn conflicts also remain unresolved.
+
+Post-adjudication arithmetic: **33,819 + 15 = 33,834 checked**;
+**983 historical**, unchanged; **4,600 − 15 = 4,585 unresolved**.
+
+## Pass-six consistency integration
+
+This targeted replay adds **43 requirement-only records**: **41 `vr`** visa/prior-permission
+duties and **two Kenyan `eta`** duties. All use `d=0`, with no stay or alternative-method
+claim. There are **zero corrections, historical additions, complete conditional trees
+or established routine tourist-issuance/admission pathways**.
+
+| Destination | Added origins | Count |
+| --- | --- | ---: |
+| Burkina Faso | PS, TW, US, XK | 4 |
+| Burundi | PS, XK | 2 |
+| Cyprus | SO | 1 |
+| Eritrea | ET, SD, HK, MO, PS, TW, XK | 7 |
+| Ethiopia | PS, XK | 2 |
+| Iraq | BD, HK, IL, PS, XK | 5 |
+| Kenya | PS, XK | 2 |
+| Kuwait | MO, PS, XK | 3 |
+| Sri Lanka | PS | 1 |
+| Myanmar | PS, XK | 2 |
+| Niger | IL, MO, PS, XK | 4 |
+| Nepal | XK | 1 |
+| Syria | CZ, PT | 2 |
+| Uganda | PS, XK | 2 |
+| Venezuela | IL, MO, XK | 3 |
+| South Africa | PS, XK | 2 |
+| **Total** | | **43** |
+
+The baseline SHA-256 is
+`13a3f7f2f5ee25a1eac2a6f1113c9789f1f4197ed5a5ad0746ec2c4e83d20bf3`;
+the research candidate SHA-256 is
+`9bc0b0845f2d62bcd117a35d1e5e8765676fa03d7b31845995c2531ba8d60ae8`.
+The 16 selected destinations partition 252 baseline gaps into 43 additions and
+209 retained gaps. Other destination reviews are unchanged. All **39,359 unaffected
+compiled route objects**, including the prior 34,817 supported policies, are preserved.
+Earlier manifest-prefix fingerprints and the original Passport Index snapshots remain exact.
+
+The curated export contains 17 policy objects and 56 source records: 17 original
+composite citations plus 39 component citations, of which 38 retain verified raw-body
+hashes. Component dates retain the actual 7/8/11 October captures. The South African
+exemption-table component has saved text only and no fabricated raw-response hash;
+eight component body checks lack separate HTTP receipts. Cyprus's separate OJ
+responses remain unavailable; its saved consolidated regulation is hashed.
+Raw bodies, excerpts, receipts, accounting and model proposals remain in the research cache.
+
+**Air entry only** is prominent for Burkina Faso, Niger and Venezuela; Burundi is
+**airport entry only**, and Iraq is **federal Iraq only**. Labels retain document and
+issuance uncertainty. Sri Lanka states prior entry permission without promising a
+usable visa/ETA channel. Kenya states an eTA obligation without successful issuance
+or document acceptance. Kuwait retains the matched tourist-branch and sponsorship
+qualification; negative electronic/arrival eligibility alone is not treated as duty proof.
+
+**SE/MR/MU/RW → Niger, IS → SZ, all PS195 and OM88 remain unresolved.** No waiver
+conflict is resolved by setting `d=0`, and no conditional model receives coverage credit.
+Final arithmetic: **33,834 + 43 = 33,877 checked**, **983 historical** unchanged,
+and **4,585 − 43 = 4,542 unresolved**.
+
 All 7,523 electronic-visa/authorization entries and 6,053 visa-on-arrival entries
 in the imported matrix had the same 30-day duration. Those figures were not
 supported by per-route evidence. The cited upstream repository is archived,
@@ -278,8 +460,9 @@ entry claims without evidence.
 
 Use Node 24. The default importer reads the versioned pass manifest at
 `content/nomads/factcheck-passes/manifest.json`: a byte-pinned pass-two baseline,
-then ordered, hash-pinned assignments, all 24 original third-/fourth-pass patches
-and the curated targeted AIP patch.
+then ordered, hash-pinned assignments, all 36 original third-/fourth-/fifth-pass
+patches, the curated targeted AIP patch, qualified-requirement adjudication and
+pass-six consistency patch.
 Replay verifies only these data-artifact fingerprints. No raw research notes,
 evidence ledgers, cache or network are required. The manifest explicitly lists
 integration withdrawals and the data-only Nauru qualification artifact;
@@ -294,6 +477,16 @@ validates all candidates, then captures only assignments/patches and authored
 qualification data. It refuses to append a duplicate pass or overwrite artifacts.
 `scripts/capture-passport-aip-review.ts` similarly performs the one-time reviewed
 AIP conversion, with no network requests or writes to original research files.
+`scripts/capture-passport-gap-pass5.ts` verifies the pinned baseline, validates
+all twelve candidates, and appends only their unchanged JSON and assignments.
+`scripts/capture-passport-conditional-adjudication.ts` verifies both the older
+research fingerprint and the current canonical baseline, proves disjointness from
+pass five, and exports only the 15 selected requirements and their used sources.
+Its nine-destination partition is rebuilt against current unresolved origins.
+`scripts/capture-passport-pass6-consistency.ts` verifies the exact candidate,
+accounting, evidence and canonical fingerprints, checks original captures read-only,
+and exports only the 43 selected obligations with their source citations and scoped labels.
+It validates all unaffected compiled routes before appending the data-only pass.
 Targeted assignments must explicitly declare `scope: targeted`; default passes
 still require coverage of every baseline gap destination. Both modes require
 exact assigned-origin partitions and preserve every unassigned destination.
@@ -396,29 +589,34 @@ recent commits. An older complete snapshot was inspected but not adopted.
   source tables and verified each HTML checksum. The snapshot preserves 20,098
   unstated durations and 2,676 routes with alternative entry options.
 - The corpus audit measures all generated shards and compares each route with
-  the unchanged source snapshots: 6,366 category changes, 10,269 day-count
-  changes and 7,523 stay/alternative-method changes (overlapping counts).
+  the unchanged source snapshots: 6,469 category changes, 10,387 day-count
+  changes and 7,566 stay/alternative-method changes (overlapping counts).
   The reproducible machine report is [PASSPORT_CORPUS_AUDIT.json](PASSPORT_CORPUS_AUDIT.json).
 - Regression checks cover lossless expansion of every reviewed policy,
   retention of unresolved provenance, withdrawal without replacement, expiry,
   archives, generic method uncertainty, variable methods/stays and worldwide
   corrections. Existing program-preservation checks still cover all programs.
-- Full shards total 33,476,127 bytes raw / 8,568,366 bytes gzip. The largest
-  shard is Somalia at 182,953 bytes raw / 48,296 bytes gzip, exceeding both
-  preceding limits. The measured budget is now 185,000 raw / 50,000 gzip per shard.
+- Full shards total 33,803,313 bytes raw / 8,660,766 bytes gzip. The largest
+  shard is Somalia at 187,642 bytes raw / 49,442 bytes gzip. The existing
+  budget remains 190,000 raw / 50,000 gzip. No conditions are removed to meet it.
   The additional bytes carry per-route conditions, sources and review status.
   Policies are grouped in the canonical audit; public JSON is minified, unused
   source records are removed, and repeated conditions compress during transfer.
   The checker still lazy-loads **only the selected passport**, not all 199.
 - The original reference file SHA-256 is
   `cfbba9ffc469e7f80b9140aa36a1371aabdb2260499b3108771c4684afbb3f6e`.
-- Node 24.21.0: offline and legacy-input importer checks, precompute, all 48
+- Node 24.21.0: offline manifest replay, precompute, all 51
   Nomad/data tests and TypeScript checks passed. Tests cover malformed patch
   partitions/corrections, exact-pair subtraction, overlapping withdrawal deduplication,
   historical downgrades, supplemental source registration, manifest replay and
   data-only capture/export with byte-preserved inputs and untouched research files,
   pass-four corrections, coverage-preserving Nauru qualifications, targeted-pass
-  isolation, AIP air scope/dates and all four Niger fallback-blocking withdrawals.
+  isolation, AIP air scope/dates, all four Niger fallback-blocking withdrawals,
+  fifth-pass passport conditions and method-specific stays, and adjudication
+  independence, preserved source dates, visa-or-AVE wording and zero OM/PS credit.
+  Pass-six regressions verify the exact 43 routes, all 39,359 unaffected compiled
+  routes, prior manifest-prefix fingerprints, source dates and retained holds. The validator's
+  registry-once/relevant-sources-per-rule performance optimization is preserved.
 - Pass four adds 233 source records: all 192 declared hashes match preserved
   captures, including two reused earlier captures. The 41 composite/excerpt
   sources without a single declared hash retain their URLs/dates and original
@@ -427,20 +625,43 @@ recent commits. An older complete snapshot was inspected but not adopted.
   The AIP follow-up adds 15 hashed source records; all match preserved captures.
   Its capture also verified 31 distinct component hashes. The Swedish hash is
   explicitly a preserved webfetch receipt, not an original HTTP-body hash.
-  Across all appended passes, 565 declared hashes match, with 52 unhashed
-  composite/excerpt records. The superseded Niger source is historical context only.
+  Pass five adds 124 sources: all 119 declared hashes match preserved captures,
+  including one reused earlier capture; five composite/excerpt sources have no
+  single declared hash. The adjudication adds nine reused-evidence source records:
+  four declared hashes match retained captures; five composite/retained-reading
+  records have no single declared raw hash. Pass six adds 38 verified component
+  hashes and 18 composite/saved-text citations without a fabricated raw hash.
+  Across all appended passes, 726 declared hashes match, with 80 unhashed
+  composite/excerpt/retained-reading records. The superseded Niger source is
+  historical context only.
 - Production browser checks passed on isolated port 3184: all 199 served v4
   shards exactly match generated files, 102 canonical pages, 123 redirects,
   widths 320–1440px, selected-passport lazy loading, archive/provenance display
   and program preservation. No browser runtime errors. The port-3000 preview
   process was not stopped or restarted.
+  All 43 pass-six labels and full notes were also checked at 320px before/after
+  opening source details, with selected-shard-only requests and no horizontal overflow.
+  All four Niger conflicts, IS/SZ and sample OM/PS holds remain visibly unresolved.
+  The missing browser cache was restored through the normal Playwright Chromium download.
 - Fast production build and postbuild passed, including standalone public assets,
   prerender budget and feed compression, after the separately completed asset repair.
-  The catalog smoke check reports 5,824 active jobs. No broad prebuild was run.
+   The catalog smoke check reports 5,591 active jobs. No broad prebuild was run.
+- All 140 pass-six input pins were verified unchanged (the old canonical pin
+  against the preserved index); the candidate, accounting and evidence hashes
+  also match. The five prior pass snapshots and staged tree remain unchanged.
+  The final canonical SHA-256 is
+  `f1573f13b4194338919d148313455c5f4fc98b883ffdd4ffb0f74ceb856cf842`.
+- Optional `--check --legacy-inputs` is blocked by missing original group JSON
+  files under `.cache/nomads/factcheck/`: `europe-schengen.json`,
+  `europe-central-asia.json`, `north-america.json`, `south-america-caribbean.json`,
+  `east-south-asia.json`, `southeast-asia.json`, `middle-east.json`,
+  `oceania-islands.json`, `west-central-africa.json`, and `east-south-africa.json`.
+  These originals were not reconstructed or overwritten. Normal manifest replay,
+  source-capture verification, builds and tests do not require those group files.
 
 ## Remaining work
 
-Continue destination-by-destination primary-source review for the 4,799
+Continue destination-by-destination primary-source review for the 4,542
 unresolved routes and refresh the 983 historical-evidence routes from current
 official evidence. The structured audit records the specific evidence gaps.
 Add official rule sets and traveler/document conditions;

@@ -11,12 +11,12 @@ import { effectiveEntryRule, validPassportRules } from '../src/lib/nomads/entry-
 
 const audit = JSON.parse(fs.readFileSync('content/nomads/entry-factchecks.json', 'utf8')) as Factchecks;
 const reference = JSON.parse(fs.readFileSync('content/nomads/passport-index.json', 'utf8')) as PassportIndexSnapshot;
-const compile = (from: string, date = '2026-10-08', file = audit) => compilePassportRules(countries.find(country => country.iso === from)!, countries, legacy, date, reference, file);
+const compile = (from: string, date = '2026-10-11', file = audit) => compilePassportRules(countries.find(country => country.iso === from)!, countries, legacy, date, reference, file);
 const route = (from: string, to: string, date?: string) => compile(from, date).destinations.find(item => item.iso === to)!;
 
 test('complete official audit partitions all 39,402 routes and preserves the original 199 snapshots', () => {
   validateFactchecks(audit, countries.map(country => country.iso!));
-  assert.deepEqual(factcheckCounts(audit), { destinations: 199, routes: 39402, checked: 33620, historical: 983, unresolved: 4799, withdrawals: 188 });
+  assert.deepEqual(factcheckCounts(audit), { destinations: 199, routes: 39402, checked: 33877, historical: 983, unresolved: 4542, withdrawals: 188 });
   assert.equal(createHash('sha256').update(fs.readFileSync('content/nomads/passport-index.json')).digest('hex'), 'cfbba9ffc469e7f80b9140aa36a1371aabdb2260499b3108771c4684afbb3f6e');
   assert.equal(reference.version, 1);
   let retainedLegacy = 0, retainedReference = 0;
@@ -41,7 +41,7 @@ test('complete official audit partitions all 39,402 routes and preserves the ori
       }
     }
   }
-  assert.equal(retainedLegacy, 3); assert.equal(retainedReference, 4791);
+  assert.equal(retainedLegacy, 1); assert.equal(retainedReference, 4536);
 });
 
 test('explicit withdrawals without replacements block both old government rules and references, retaining all evidence', () => {
