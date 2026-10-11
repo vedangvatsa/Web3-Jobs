@@ -26744,25 +26744,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f703d0dec2b6aa838362",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T21:33:18.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 10 Kalshi press-secretary bet probe as the ready draft; outlet page blocked, no separate article.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/kalshi-probes-trump-press-secretary-bets/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:20.887Z",
+      "reviewedAt": "2026-10-11T10:25:31.008Z",
       "retrySearches": [
         "Kalshi press secretary bets investigation scope second outlet full reads"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "duplicateOf": "kalshi-bets",
+      "mergedInto": "82174278e88b61c6fbd7"
     },
     "00eb14ee17d1377a2352": {
       "source": "The Defiant",
@@ -46849,6 +46850,20 @@
           "reviewedAt": "2026-10-11T10:25:29.152Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
+        },
+        "f703d0dec2b6aa838362": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 10 Kalshi press-secretary bet probe as the ready draft; outlet page blocked, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/kalshi-probes-trump-press-secretary-bets/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:25:31.008Z",
+          "duplicateOf": "kalshi-bets",
+          "mergedInto": "82174278e88b61c6fbd7"
         }
       },
       "baselineSlugs": [
