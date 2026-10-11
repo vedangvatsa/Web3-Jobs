@@ -20690,24 +20690,24 @@
       "id": "cfb84dbee91c6c9c59e0",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T10:27:35.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+      "note": "XRP Ledger delegation feature on a single queued source; amendment and vote record outstanding.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:34.106Z",
+      "reviewedAt": "2026-10-11T10:27:15.046Z",
       "duplicateOf": "xrpl-controls",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "XRP Ledger account delegation amendment activation status and validator votes"
+        "XRP Ledger account delegation enabled amendment votes October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "b22ff44197a4ebb9636a": {
       "source": "Unchained",
@@ -47504,6 +47504,21 @@
           "reviewedAt": "2026-10-11T10:27:13.365Z",
           "retrySearches": [
             "Solana 200 millisecond slot mainnet epoch October 2026"
+          ]
+        },
+        "cfb84dbee91c6c9c59e0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "XRP Ledger delegation feature on a single queued source; amendment and vote record outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:15.046Z",
+          "retrySearches": [
+            "XRP Ledger account delegation enabled amendment votes October 2026"
           ]
         }
       },
