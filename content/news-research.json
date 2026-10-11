@@ -17549,26 +17549,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "1a9b8a63c6b803e825da",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T11:47:16.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:49:28.887Z",
+      "reason": "not-a-concrete-event",
+      "note": "Advisory urging holders to prepare bunker mode; commentary framing with no concrete event behind it.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:36.117Z",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "bunker-mode",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "duplicateOf": "bunker-mode"
     },
     "91ed1a5d0f1b5fd4782e": {
       "source": "CoinDesk",
@@ -46866,6 +46860,13 @@
           "note": "Debate and opinion roundup on AI cryptography fears with no launch, ruling, filing or other concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:34.417Z"
+        },
+        "1a9b8a63c6b803e825da": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Advisory urging holders to prepare bunker mode; commentary framing with no concrete event behind it.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:36.117Z"
         }
       },
       "baselineSlugs": [
