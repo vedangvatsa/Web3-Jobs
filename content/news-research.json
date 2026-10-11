@@ -24111,28 +24111,28 @@
       "id": "b66ae32556259e005f14",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T18:46:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+      "note": "Warren Cantor-Tether letter story on a single queued source; letter plus second outlet outstanding.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:03.031Z",
+      "reviewedAt": "2026-10-11T10:28:06.378Z",
       "articleSlug": "cantor-tether",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ],
       "retrySearches": [
-        "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
+        "Warren Cantor Fitzgerald Tether Lutnick letter October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "a391370519699e67f1d6": {
       "source": "Bankless",
@@ -47954,6 +47954,21 @@
           "reviewedAt": "2026-10-11T10:28:04.739Z",
           "retrySearches": [
             "LiquidAcre Uphold tokenized real estate infrastructure"
+          ]
+        },
+        "b66ae32556259e005f14": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Warren Cantor-Tether letter story on a single queued source; letter plus second outlet outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:06.378Z",
+          "retrySearches": [
+            "Warren Cantor Fitzgerald Tether Lutnick letter October 2026"
           ]
         }
       },
