@@ -16431,20 +16431,20 @@
       "id": "634e1516faeb608c8daa",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 13,
+      "attempts": 14,
       "expiresAt": "2026-10-11T17:30:58.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "note": "NFL amicus brief story: outlet page blocked HTTP 403; SCOTUS docket primary not pulled.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:15.677Z",
+      "reviewedAt": "2026-10-11T10:26:20.449Z",
       "articleSlug": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -16461,9 +16461,9 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+        "Supreme Court Kalshi New Jersey amicus NFL docket cert petition"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "bbda3002c00d1edb824d": {
       "source": "The Block",
@@ -47028,6 +47028,21 @@
           "reviewedAt": "2026-10-11T10:26:18.805Z",
           "retrySearches": [
             "CrowdStrike Korean bank breach Claude AI report"
+          ]
+        },
+        "634e1516faeb608c8daa": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "NFL amicus brief story: outlet page blocked HTTP 403; SCOTUS docket primary not pulled.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:20.449Z",
+          "retrySearches": [
+            "Supreme Court Kalshi New Jersey amicus NFL docket cert petition"
           ]
         }
       },
