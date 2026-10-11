@@ -28316,11 +28316,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "35409f382a1d15d41093",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T11:05:28.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "needs-corroboration",
+      "note": "BitMine 350M buyback claim not fully read; single source, needs company disclosure plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bitmine-350m-stock-buyback-tom-lee/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:21:21.169Z",
+      "retrySearches": [
+        "BitMine 350M stock buyback Tom Lee October 2026 disclosure"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "a8921991bcffc50a48b9": {
       "source": "Crypto Briefing",
@@ -50456,6 +50470,21 @@
           "reviewedAt": "2026-10-11T18:21:19.114Z",
           "retrySearches": [
             "Filecoin six-year vesting ends FIL issuance schedule October 2026"
+          ]
+        },
+        "35409f382a1d15d41093": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "BitMine 350M buyback claim not fully read; single source, needs company disclosure plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bitmine-350m-stock-buyback-tom-lee/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:21:21.169Z",
+          "retrySearches": [
+            "BitMine 350M stock buyback Tom Lee October 2026 disclosure"
           ]
         }
       },
