@@ -27304,11 +27304,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "df6ecd36c1b1ce656fda",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T14:13:51.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Meta insider stock sales; equity-market gossip, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:52.064Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "c7fb4c0a1e19643319ca": {
       "source": "CryptoSlate",
@@ -49559,6 +49564,13 @@
           "note": "Cerebras post-IPO share slide; equity-market move, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:49.870Z"
+        },
+        "df6ecd36c1b1ce656fda": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Meta insider stock sales; equity-market gossip, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:52.064Z"
         }
       },
       "baselineSlugs": [
