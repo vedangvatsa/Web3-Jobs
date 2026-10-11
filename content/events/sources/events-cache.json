@@ -8703,7 +8703,7 @@
     "country": "India",
     "location": "Yashwantrao Chavan Centre, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, India",
     "url": "https://luma.com/spsnos9t",
-    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
+    "coverImage": "/events/w3v-ethereum-cypherpunk-congress-mumbai-16df6183.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
     "month": "November 2026",
@@ -8814,7 +8814,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/solana-summit-india",
-    "coverImage": "https://images.lumacdn.com/uploads/kg/d73d0fb3-058f-495e-8db5-56bb907b8725.png",
+    "coverImage": "/events/w3v-solana-summit-india-5899d690.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
     "month": "November 2026",
@@ -21193,7 +21193,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/ndrr1yqe",
-    "coverImage": "https://images.lumacdn.com/uploads/sv/670ec572-7cfd-4cc0-8af0-9ab6a40ba095.png",
+    "coverImage": "/events/ethorg-meetupmip-20-road-to-devconoct-24mumbai-ind-6b935074.webp",
     "source": "ethereum-org",
     "month": "October 2026",
     "timezone": "Asia/Kolkata",
@@ -21394,22 +21394,16 @@
   },
   {
     "id": "w3v-ibw-institutional-forum-26-11-01",
-    "name": "IBW Institutional Forum",
+    "name": "IBW Institutional Forum 2026",
     "description": "Hashed Emergent hosts a two-day, invitation-only forum within India Blockchain Week at Fairmont Mumbai. The program covers institutional blockchain adoption, tokenization, settlement and programmable money. Discussions follow the Chatham House Rule.",
-    "startDate": "2026-11-01",
-    "endDate": "2026-11-02",
+    "startDate": "2026-11-01T03:30:00.000Z",
+    "endDate": "2026-11-02T03:30:00.000Z",
     "city": "Mumbai",
-    "country": "India",
-    "location": "Fairmont Mumbai, Mumbai, India",
+    "country": "IN",
+    "location": "Mumbai, IN",
     "url": "https://indiablockchainweek.com/institutional-forum",
     "coverImage": "/events/w3v-ibw-institutional-forum-26-11-01-cf80d27e.webp",
     "month": "November 2026",
-    "timezone": "Asia/Kolkata",
-    "sideEventFor": [
-      "ibw",
-      "devcon"
-    ],
-    "attendanceMode": "offline",
     "descriptionSource": {
       "url": "https://www.indiablockchainweek.com/institutional-forum",
       "fetchedAt": "2026-10-11T18:39:06.068Z",
@@ -21423,10 +21417,7 @@
           "sha256": "7ad2d99da8c6ea296130753a667cd28d5e3b71075cfae1d3f8e98c49ef3ded5c"
         }
       ]
-    },
-    "slug": "iif",
-    "approvalRequired": true,
-    "venueName": "Fairmont Mumbai"
+    }
   },
   {
     "id": "w3v-india-blockchain-week-conference-ibw-26-11-01",
@@ -21491,7 +21482,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/solana-summit-india",
-    "coverImage": "https://images.lumacdn.com/uploads/kg/d73d0fb3-058f-495e-8db5-56bb907b8725.png",
+    "coverImage": "/events/luma-host-evt-evt-hadjh0ytflq1cra-47d1a08d.webp",
     "source": "luma-trusted",
     "month": "November 2026",
     "timezone": "Asia/Kolkata",
@@ -21567,7 +21558,7 @@
     "country": "India",
     "location": "Yashwantrao Chavan Centre, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, India",
     "url": "https://luma.com/spsnos9t",
-    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
+    "coverImage": "/events/ethorg-ethereum-cypherpunk-congress-3mumbai-indian-c479c366.webp",
     "source": "ethereum-org",
     "month": "November 2026",
     "timezone": "Asia/Kolkata",
@@ -23163,7 +23154,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316325935/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316325935-cb004a54.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23177,9 +23168,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316118464/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316118464-eef6d060.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Pereowei Daniel"
+    ]
   },
   {
     "id": "luma-evt-1u3kkLddnMGQZBl",
@@ -23426,7 +23420,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316844007/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316844007-27555cfc.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23696,7 +23690,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316859645/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316859645-e5a94e7a.webp",
     "source": "meetup",
     "month": "October 2026"
   },
@@ -23710,9 +23704,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -23724,7 +23721,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/ndrr1yqe",
-    "coverImage": "https://images.lumacdn.com/uploads/sv/670ec572-7cfd-4cc0-8af0-9ab6a40ba095.png",
+    "coverImage": "/events/ethorg-meetupmip-20-road-to-devconoctober-30mumbai-3bf457d0.webp",
     "source": "ethereum-org",
     "month": "October 2026",
     "timezone": "Asia/Kolkata",
@@ -23801,7 +23798,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962979/",
-    "coverImage": null,
+    "coverImage": "/events/mu-315962979-975e4753.webp",
     "source": "meetup",
     "month": "November 2026"
   },

@@ -2049,8 +2049,8 @@ Each entry links to its formatted description and original source file. All stor
 | [MIP-20: Road to Devcon](descriptions.md#event-82b2b43d9c497755) | 2026-10-30 | Source-backed (97 chars) |
 | [LABITCONF 26](descriptions.md#event-65d435f1cb08417e) | 2026-10-30 | Unverified stored copy (100 chars) |
 | [Boston - Silicon Valley AI Film Festival Screening Showcase](descriptions.md#event-e18f039573962889) | 2026-10-31 | Missing (0 chars) |
-| [IBW Institutional Forum](descriptions.md#event-5d93a8fab3a8619e) | 2026-11-01 | Source-backed (249 chars) |
 | [India Blockchain Week 2026](descriptions.md#event-93f03c2a22a3721f) | 2026-11-01 | Source-backed (207 chars) |
+| [IBW Institutional Forum 2026](descriptions.md#event-5d93a8fab3a8619e) | 2026-11-01 | Source-backed (249 chars) |
 | [India Blockchain Week Conference (IBW) 2026](descriptions.md#event-5491923c99aac24c) | 2026-11-01 | Unverified stored copy (106 chars) |
 | [Solana Hacker House - London](descriptions.md#event-a4d50f4c4d090b54) | 2026-11-01 | Missing (0 chars) |
 | [Solana Hacker House - London](descriptions.md#event-098b7ec8ee2a3953) | 2026-11-01 | Unverified stored copy (130 chars) |

@@ -76103,20 +76103,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-5d93a8fab3a8619e"></a>
-
-## IBW Institutional Forum
-
-- Record: `w3v-ibw-institutional-forum-26-11-01`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-01
-- Description: Source-backed
-- Original page: <https://indiablockchainweek.com/institutional-forum>
-
-### About the event
-
-Hashed Emergent hosts a two-day, invitation-only forum within India Blockchain Week at Fairmont Mumbai. The program covers institutional blockchain adoption, tokenization, settlement and programmable money. Discussions follow the Chatham House Rule.
-
 <a id="event-93f03c2a22a3721f"></a>
 
 ## India Blockchain Week 2026
@@ -76130,6 +76116,20 @@ Hashed Emergent hosts a two-day, invitation-only forum within India Blockchain W
 ### About the event
 
 India Blockchain Week Conference takes place at Fairmont Mumbai on November 1 and 2, 2026. Hashed Emergent organizes the conference, with talks and discussions about blockchain and the Indian Web3 ecosystem.
+
+<a id="event-5d93a8fab3a8619e"></a>
+
+## IBW Institutional Forum 2026
+
+- Record: `w3v-ibw-institutional-forum-26-11-01`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-01T03:30:00.000Z
+- Description: Source-backed
+- Original page: <https://indiablockchainweek.com/institutional-forum>
+
+### About the event
+
+Hashed Emergent hosts a two-day, invitation-only forum within India Blockchain Week at Fairmont Mumbai. The program covers institutional blockchain adoption, tokenization, settlement and programmable money. Discussions follow the Chatham House Rule.
 
 <a id="event-5491923c99aac24c"></a>
 
