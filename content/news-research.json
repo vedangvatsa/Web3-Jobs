@@ -28246,11 +28246,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3ebbe4db48a8198be0a7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T09:05:20.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "opinion",
+      "note": "OKX founder convergence remark; executive view with no launch, filing or deal event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:20.905Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "36619d9cbdffc0930a39": {
       "source": "Crypto Briefing",
@@ -49679,6 +49684,13 @@
           "note": "Buterin AI-accelerates-Ethereum claim; interview remark with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:18.748Z"
+        },
+        "3ebbe4db48a8198be0a7": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "OKX founder convergence remark; executive view with no launch, filing or deal event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:20.905Z"
         }
       },
       "baselineSlugs": [
