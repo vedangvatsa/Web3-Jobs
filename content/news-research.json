@@ -26950,11 +26950,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb26dc8485cfdede1eb4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-13T22:58:19.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "price-chatter",
+      "note": "SUI four-week price outperformance story; token price coverage is excluded.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:26:00.724Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "17887deb701ff8c9fa76": {
       "source": "BeInCrypto",
@@ -46891,6 +46896,13 @@
           "note": "Analysis of bitcoin treasury-company cash needs; explainer with no single concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:59.078Z"
+        },
+        "eb26dc8485cfdede1eb4": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "SUI four-week price outperformance story; token price coverage is excluded.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:26:00.724Z"
         }
       },
       "baselineSlugs": [
