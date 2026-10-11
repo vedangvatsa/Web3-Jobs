@@ -25103,26 +25103,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "da7ea4741cb5cd813e4a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-13T01:50:00.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky lifetime-ban settlement drafted as mashinsky-ban; verified in AG release plus CoinDesk and Decrypt reads.",
+      "note": "Same Oct 9 NY AG Mashinsky settlement as the ready draft; CryptoSlate version of the shared story, no separate article.",
       "sourceChecks": [
         {
-          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-          "outcome": "read"
+          "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:53:41.825Z",
+      "reviewedAt": "2026-10-11T10:25:16.973Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-11",
+      "mergedInto": "b466ec3f61a6e8d0b33a"
     },
     "6cbacd263bba4dccfcf3": {
       "source": "Bitcoin Magazine",
@@ -46742,6 +46739,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:25:15.259Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "b466ec3f61a6e8d0b33a"
+        },
+        "da7ea4741cb5cd813e4a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 NY AG Mashinsky settlement as the ready draft; CryptoSlate version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:25:16.973Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "b466ec3f61a6e8d0b33a"
         }
