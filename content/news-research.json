@@ -28001,11 +28001,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "857882264314889f7a96",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:00:04.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "needs-corroboration",
+      "note": "Kraken cancel-fill bug report not fully read; single source, needs exchange note plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:21:04.219Z",
+      "retrySearches": [
+        "Kraken futures limit order cancel fill bug October 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "eb5b2058d518c1d8e3a9": {
       "source": "Crypto Briefing",
@@ -50282,6 +50296,21 @@
           "reviewedAt": "2026-10-11T18:21:02.053Z",
           "retrySearches": [
             "LDK unpatched lightning reconnect theft disclosure October 2026"
+          ]
+        },
+        "857882264314889f7a96": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Kraken cancel-fill bug report not fully read; single source, needs exchange note plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:21:04.219Z",
+          "retrySearches": [
+            "Kraken futures limit order cancel fill bug October 2026"
           ]
         }
       },
