@@ -23550,22 +23550,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "496643e7a159131009a6",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T16:08:23.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "verified-event",
+      "note": "Verified Oct 9 DWF affiliates 41M London High Court suit against BitGo over early FF and ESPORTS token sales; read Decrypt and Unchained in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:42.389Z",
-      "articleSlug": "dwf-bitgo",
-      "lastReviewedDay": "2026-10-10",
+      "reviewedAt": "2026-10-11T10:24:15.806Z",
+      "articleSlug": "bitgo-suit",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -23583,8 +23587,7 @@
       ],
       "retrySearches": [
         "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "f81abcaa78c20b29893e": {
       "source": "The Defiant",
@@ -46230,6 +46233,23 @@
           ],
           "reviewedAt": "2026-10-11T10:24:14.118Z",
           "articleSlug": "mashinsky-ban"
+        },
+        "496643e7a159131009a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 DWF affiliates 41M London High Court suit against BitGo over early FF and ESPORTS token sales; read Decrypt and Unchained in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:15.806Z",
+          "articleSlug": "bitgo-suit"
         }
       },
       "baselineSlugs": [
