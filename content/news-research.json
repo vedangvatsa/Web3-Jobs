@@ -22207,19 +22207,24 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 UK FCDO sanctions package as uk-sanctions; Decrypt version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:56:35.011Z",
+      "reason": "needs-corroboration",
+      "note": "UK sanctions piece not fully read; same FCDO package event, needs full read.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:03.171Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
+        "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
       ],
       "articleSlug": "uk-sanctions",
       "lastValidationErrors": [
@@ -22236,7 +22241,8 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -49901,6 +49907,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:20:01.022Z",
+          "retrySearches": [
+            "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
+          ]
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "UK sanctions piece not fully read; same FCDO package event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:03.171Z",
           "retrySearches": [
             "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
           ]
