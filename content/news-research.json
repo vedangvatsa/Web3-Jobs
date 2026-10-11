@@ -16506,13 +16506,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 14,
+      "attempts": 15,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 US government move of 12,267 BTC (about B) from Bitfinex-hack wallets to unlabeled addresses, no sale indicated; read CoinDesk, Decrypt, CryptoSlate and Cointelegraph in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "Verified Oct 8 move of 12,267 BTC (about 1.01B) from Bitfinex-hack wallets to unlabeled addresses with no exchange deposit, plus prior-day Coinbase Prime flows with outlet figures differing. Read CoinDesk, Decrypt, CryptoSlate and Cointelegraph in full. Drafted 666 words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
@@ -16531,7 +16531,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:24:02.145Z",
+      "reviewedAt": "2026-10-11T11:37:55.015Z",
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -47682,6 +47682,31 @@
           ],
           "reviewedAt": "2026-10-11T11:37:49.981Z",
           "articleSlug": "securitize-stocks"
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 move of 12,267 BTC (about 1.01B) from Bitfinex-hack wallets to unlabeled addresses with no exchange deposit, plus prior-day Coinbase Prime flows with outlet figures differing. Read CoinDesk, Decrypt, CryptoSlate and Cointelegraph in full. Drafted 666 words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:37:55.015Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
