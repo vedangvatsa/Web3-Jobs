@@ -19701,20 +19701,20 @@
       "id": "7407ca7e3e0f94a9efa3",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T21:05:54.000Z",
       "lastSeenAt": "2026-10-09T19:31:17.507Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "Ondo OpenAI-linked note trading on a single unopened source; may overlap the covered Oct 6 Ondo launch, trading-open details unverified.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:19.380Z",
+      "reviewedAt": "2026-10-11T10:27:02.897Z",
       "articleSlug": "ondo-note",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -19728,9 +19728,9 @@
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
       "retrySearches": [
-        "Ondo OpenAI-linked private-market note trading terms and availability"
+        "Ondo OpenAI-linked private market note trading October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "0398136c795f44bd34ed": {
       "source": "The Defiant",
@@ -47399,6 +47399,21 @@
           "reviewedAt": "2026-10-11T10:27:01.137Z",
           "retrySearches": [
             "SAP USDC payments Circle Mint announcement October 2026"
+          ]
+        },
+        "7407ca7e3e0f94a9efa3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Ondo OpenAI-linked note trading on a single unopened source; may overlap the covered Oct 6 Ondo launch, trading-open details unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-opens-trading-in-openai-linked-private-market-note",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:02.897Z",
+          "retrySearches": [
+            "Ondo OpenAI-linked private market note trading October 2026"
           ]
         }
       },
