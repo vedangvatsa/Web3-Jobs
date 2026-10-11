@@ -22847,25 +22847,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "e5af931a9920c0e1eb6b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T16:29:56.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger drain cluster as the ready draft; single-victim story inside the covered event, outlet page blocked.",
+      "note": "Same Oct 9 Ledger drain cluster as cryptobilis-drains; single-victim story inside the covered event, no separate article.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/trader-loses-80-bitcoin-ledger-wallet/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:25:04.061Z",
+      "reviewedAt": "2026-10-11T11:57:16.729Z",
       "duplicateOf": "cryptobilis-drains",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "688de4a780985d424532": {
       "source": "CryptoSlate",
@@ -48060,6 +48061,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T11:57:14.873Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "e5af931a9920c0e1eb6b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger drain cluster as cryptobilis-drains; single-victim story inside the covered event, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/trader-loses-80-bitcoin-ledger-wallet/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:57:16.729Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
