@@ -27479,11 +27479,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "6edc5c84784d0aa81ea8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T10:35:19.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Oct 11 Coldcard X phishing probe as coldcard-phish; read in full and cited.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:16:42.826Z",
+      "duplicateOf": "coldcard-phish",
+      "mergedInto": "c04e420dce52fc1475ed",
+      "lastReviewedDay": "2026-10-11"
     },
     "7efd140cc0c6a842af64": {
       "source": "The Block",
@@ -49158,6 +49170,20 @@
           "reviewedAt": "2026-10-11T18:16:40.878Z",
           "duplicateOf": "xrpl-overflow",
           "mergedInto": "072632a0aec350c61b59"
+        },
+        "6edc5c84784d0aa81ea8": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 11 Coldcard X phishing probe as coldcard-phish; read in full and cited.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:42.826Z",
+          "duplicateOf": "coldcard-phish",
+          "mergedInto": "c04e420dce52fc1475ed"
         }
       },
       "baselineSlugs": [
