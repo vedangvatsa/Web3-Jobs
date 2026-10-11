@@ -24966,22 +24966,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f33d3c76777e7ef334e",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "verified-event",
+      "note": "Verified Oct 9 US plan to seize about B in Iran-linked crypto per Treasury Secretary Bessent; read Cointelegraph and Bitcoin Magazine in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:07.499Z",
+      "reviewedAt": "2026-10-11T10:24:17.426Z",
       "articleSlug": "iran-seizure",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -24999,8 +25003,7 @@
       ],
       "retrySearches": [
         "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "504c54edc7c703968bcd": {
       "source": "Cointelegraph",
@@ -46250,6 +46253,23 @@
           ],
           "reviewedAt": "2026-10-11T10:24:15.806Z",
           "articleSlug": "bitgo-suit"
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 US plan to seize about B in Iran-linked crypto per Treasury Secretary Bessent; read Cointelegraph and Bitcoin Magazine in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:17.426Z",
+          "articleSlug": "iran-seizure"
         }
       },
       "baselineSlugs": [
