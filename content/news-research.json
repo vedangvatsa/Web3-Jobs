@@ -21140,23 +21140,23 @@
       "id": "444c2aa0acf1240fe52e",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T06:40:54.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "note": "Bitcoin-lending 00M debut is pre-launch intent on a single queued source; provider announcement outstanding.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:44.054Z",
+      "reviewedAt": "2026-10-11T10:27:21.877Z",
       "retrySearches": [
-        "Bitcoin lending 500M commitments debut participants and whether Sui Hashi related"
+        "bitcoin lending 500 million commitments debut October 2026"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "910cbdc22ebf840f561a": {
       "source": "CryptoSlate",
@@ -47564,6 +47564,21 @@
           "reviewedAt": "2026-10-11T10:27:20.152Z",
           "retrySearches": [
             "MARA 81 million bitcoin Galaxy Digital October 2026"
+          ]
+        },
+        "444c2aa0acf1240fe52e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Bitcoin-lending 00M debut is pre-launch intent on a single queued source; provider announcement outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:21.877Z",
+          "retrySearches": [
+            "bitcoin lending 500 million commitments debut October 2026"
           ]
         }
       },
