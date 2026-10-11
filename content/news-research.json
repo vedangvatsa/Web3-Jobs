@@ -28170,11 +28170,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9fc82c88cab4cf43b5c0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T09:37:37.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Yandex data centre drone shutdown; Russia infrastructure news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:41.589Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "3ebbe4db48a8198be0a7": {
       "source": "Crypto Briefing",
@@ -49499,6 +49504,13 @@
           "note": "Pennsylvania data-center fight feature; local zoning politics, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:39.644Z"
+        },
+        "9fc82c88cab4cf43b5c0": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Yandex data centre drone shutdown; Russia infrastructure news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:41.589Z"
         }
       },
       "baselineSlugs": [
