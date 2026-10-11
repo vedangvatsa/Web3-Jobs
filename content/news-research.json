@@ -25345,28 +25345,28 @@
       "id": "aa622e9da8bf6f47f49d",
       "status": "ready",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-13T07:10:43.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 Meanwhile 7.5M raise, Bain led, 80M total, 15 brokers, BTC Life 1-Pay in meanwhile.bm, Decrypt and Cointelegraph reads; hero self-hosted, gates pass.",
+      "note": "Verified Oct 8 Meanwhile 7.5M raise led by Bain Capital Crypto, total past 80M, BTC Life 1-Pay expansion; read The Block and CoinDesk in full. Drafted 660+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
-          "url": "https://meanwhile.bm/press/releases/2026_10_08_funding/",
+          "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
           "outcome": "read"
         },
         {
-          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+          "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
           "outcome": "read"
         },
         {
-          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
-          "outcome": "read"
+          "url": "https://www.morningstar.com/news/business-wire/20261008514088/sam-altman-backed-meanwhile-raises-375m-as-families-across-asia-europe-and-the-middle-east-turn-to-bitcoin-life-insurance",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:53:13.131Z",
-      "articleSlug": "meanwhile",
-      "lastReviewedDay": "2026-10-10",
+      "reviewedAt": "2026-10-11T10:24:07.394Z",
+      "articleSlug": "meanwhile-funding",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "mashinsky-ban.md: under 600 words",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
@@ -46089,6 +46089,27 @@
           ],
           "reviewedAt": "2026-10-11T10:24:05.579Z",
           "articleSlug": "thailand-etfs"
+        },
+        "aa622e9da8bf6f47f49d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Meanwhile 7.5M raise led by Bain Capital Crypto, total past 80M, BTC Life 1-Pay expansion; read The Block and CoinDesk in full. Drafted 660+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.morningstar.com/news/business-wire/20261008514088/sam-altman-backed-meanwhile-raises-375m-as-families-across-asia-europe-and-the-middle-east-turn-to-bitcoin-life-insurance",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:07.394Z",
+          "articleSlug": "meanwhile-funding"
         }
       },
       "baselineSlugs": [
