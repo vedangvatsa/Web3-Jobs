@@ -27068,11 +27068,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e713a4765c8b4fbfbafa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T01:39:48.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "price-chatter",
+      "note": "Anticipatory supply-schedule analysis of the long-known Filecoin vesting end; token-calendar item, not a new event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:26:05.769Z",
+      "lastReviewedDay": "2026-10-11"
     }
   },
   "runs": {
@@ -46927,6 +46932,13 @@
           "note": "Sponsored-style anniversary interview about stablecoin strategy; no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:26:04.099Z"
+        },
+        "e713a4765c8b4fbfbafa": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Anticipatory supply-schedule analysis of the long-known Filecoin vesting end; token-calendar item, not a new event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:26:05.769Z"
         }
       },
       "baselineSlugs": [
