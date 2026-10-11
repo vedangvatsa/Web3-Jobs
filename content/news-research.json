@@ -24788,25 +24788,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "5936ea8f20383c5c23f9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T20:10:14.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Iran-linked B seizure plan as the ready draft; Bitcoin Magazine version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:25:25.758Z",
+      "note": "Same Oct 9 Iran-linked 1B seizure plan as iran-seizure; Bitcoin Magazine version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:57:47.182Z",
       "duplicateOf": "iran-seizure",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
-      ]
+      ],
+      "mergedInto": "2f33d3c76777e7ef334e"
     },
     "f41e7abd8920b9ee59a0": {
       "source": "Decrypt",
@@ -48185,6 +48181,15 @@
             }
           ],
           "reviewedAt": "2026-10-11T11:57:45.480Z",
+          "duplicateOf": "iran-seizure",
+          "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "5936ea8f20383c5c23f9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Iran-linked 1B seizure plan as iran-seizure; Bitcoin Magazine version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:57:47.182Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
         }
