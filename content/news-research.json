@@ -18691,24 +18691,24 @@
       "id": "823e99f6e2c7e227d089",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-11T18:06:41.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "note": "NFL vs Kalshi SCOTUS story not verified before this run; same amicus event as two companion leads, docket primary outstanding.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:20.710Z",
+      "reviewedAt": "2026-10-11T10:26:47.376Z",
       "duplicateOf": "nfl-kalshi",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "NFL amicus brief Kalshi Supreme Court gambling swaps filing text second outlet full reads"
+        "NFL amicus brief Kalshi Supreme Court gambling swaps filing text"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "dd25110442b0f822a9d6": {
       "source": "CryptoSlate",
@@ -47262,6 +47262,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:26:45.757Z",
+          "retrySearches": [
+            "NFL amicus brief Kalshi Supreme Court gambling swaps filing text"
+          ]
+        },
+        "823e99f6e2c7e227d089": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "NFL vs Kalshi SCOTUS story not verified before this run; same amicus event as two companion leads, docket primary outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:47.376Z",
           "retrySearches": [
             "NFL amicus brief Kalshi Supreme Court gambling swaps filing text"
           ]
