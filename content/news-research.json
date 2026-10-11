@@ -17900,29 +17900,29 @@
       "id": "624dea8769fe6ccc1f7b",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T15:23:26.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "note": "ESMA stablecoin three-month removal story reachable but not fully read; ESMA primary statement not pulled.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:39.072Z",
+      "reviewedAt": "2026-10-11T10:26:37.380Z",
       "articleSlug": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
+        "ESMA unauthorized stablecoins three months remove statement October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "060c73a9205c8ae971c8": {
       "source": "Bitcoin Magazine",
@@ -47174,6 +47174,21 @@
           "reviewedAt": "2026-10-11T10:26:35.685Z",
           "retrySearches": [
             "Astroport ends governance Neutron Terra announcement"
+          ]
+        },
+        "624dea8769fe6ccc1f7b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "ESMA stablecoin three-month removal story reachable but not fully read; ESMA primary statement not pulled.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:37.380Z",
+          "retrySearches": [
+            "ESMA unauthorized stablecoins three months remove statement October 2026"
           ]
         }
       },
