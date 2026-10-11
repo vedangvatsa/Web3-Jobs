@@ -27899,11 +27899,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f0bca03f34d6cb74aca8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T16:52:59.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Starlink versus Russia satellite story; space and geopolitics, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:21.257Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "6420dc2950b5016d8969": {
       "source": "Crypto Briefing",
@@ -49403,6 +49408,13 @@
           "note": "Amazon data-center NDA negotiations; corporate real estate, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:19.076Z"
+        },
+        "f0bca03f34d6cb74aca8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Starlink versus Russia satellite story; space and geopolitics, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:21.257Z"
         }
       },
       "baselineSlugs": [
