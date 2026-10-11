@@ -20658,15 +20658,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 Thai SEC ETF framework as thailand-etfs; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:56:08.040Z",
+      "reason": "needs-corroboration",
+      "note": "CoinDesk Thailand ETF piece not fully read this round; same framework event, needs full read.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:19:35.902Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -20674,8 +20679,9 @@
       ],
       "duplicateOf": "thailand-etfs",
       "retrySearches": [
-        "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
-      ]
+        "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "6eb78273ce6d69ab8f6b": {
       "source": "Cointelegraph",
@@ -49741,6 +49747,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:19:33.929Z",
+          "retrySearches": [
+            "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
+          ]
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CoinDesk Thailand ETF piece not fully read this round; same framework event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:19:35.902Z",
           "retrySearches": [
             "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
           ]
