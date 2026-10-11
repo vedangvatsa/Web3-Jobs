@@ -26157,20 +26157,20 @@
       "id": "8969a0358ed8f4ff831c",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T13:01:03.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "note": "France stablecoin and exit-tax story qualifies but is undrafted; committee adopted then rejected the budget, floor debate Oct 13.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:10.876Z",
+      "reviewedAt": "2026-10-11T10:28:43.515Z",
       "articleSlug": "france-taxes",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -26187,9 +26187,9 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "France stablecoin swap tax 2027 budget bill text vote schedule second outlet full read"
+        "France I-CF1826 stablecoin swap tax Assemblee nationale October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "201c9130ddb5ba609ce4": {
       "source": "The Defiant",
@@ -48272,6 +48272,21 @@
           "reviewedAt": "2026-10-11T10:28:41.806Z",
           "retrySearches": [
             "Papertrade  billion positions first hour launch"
+          ]
+        },
+        "8969a0358ed8f4ff831c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "France stablecoin and exit-tax story qualifies but is undrafted; committee adopted then rejected the budget, floor debate Oct 13.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:43.515Z",
+          "retrySearches": [
+            "France I-CF1826 stablecoin swap tax Assemblee nationale October 2026"
           ]
         }
       },
