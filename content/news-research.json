@@ -19958,28 +19958,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "verified-event",
-      "note": "Verified Thai SEC Oct 8 ETF framework: notifications effective Oct 16, SET-only passive single-asset BTC/ETH-first funds with licensed custody; read Cointelegraph, CoinDesk and ETF Newswire in full. Drafted 600+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
+      "reason": "needs-corroboration",
+      "note": "Thai SEC ETF framework story not fully read this round; needs SEC release plus second outlet.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "outcome": "read"
-        },
-        {
-          "url": "https://etfshelf.com/etf-newswire/thailand-sets-rules-for-domestic-bitcoin-and-ethereum-etfs-4262",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T11:56:00.464Z",
+      "reviewedAt": "2026-10-11T18:19:31.774Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -19989,8 +19981,9 @@
       ],
       "duplicateOf": "thailand-etfs",
       "retrySearches": [
-        "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
-      ]
+        "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "51bfcd3d9bb745d73ab9": {
       "source": "CryptoSlate",
@@ -49715,6 +49708,21 @@
           "note": "Circle 250M USDC Solana mint alert; routine treasury operation on a single weak source.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:24.835Z"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Thai SEC ETF framework story not fully read this round; needs SEC release plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:19:31.774Z",
+          "retrySearches": [
+            "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
+          ]
         }
       },
       "baselineSlugs": [
