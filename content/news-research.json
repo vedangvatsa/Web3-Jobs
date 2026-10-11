@@ -27307,11 +27307,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "b70b1cdcc59a6e3325b1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T15:53:36.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "source-blocked",
+      "note": "Papertrade limits piece blocked HTTP 403 on Defiant; needs readable outlet plus project response.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:55.936Z",
+      "retrySearches": [
+        "Papertrade tightening trading limits manipulation allegations response October 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "c964391e2ec394976699": {
       "source": "CoinDesk",
@@ -50224,6 +50238,21 @@
           "reviewedAt": "2026-10-11T18:20:53.818Z",
           "retrySearches": [
             "Kyrgyzstan USDKG Coin Nomad liquidation order October 2026"
+          ]
+        },
+        "b70b1cdcc59a6e3325b1": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Papertrade limits piece blocked HTTP 403 on Defiant; needs readable outlet plus project response.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:55.936Z",
+          "retrySearches": [
+            "Papertrade tightening trading limits manipulation allegations response October 2026"
           ]
         }
       },
