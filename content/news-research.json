@@ -28311,11 +28311,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7def3fe3e74857302049",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T01:27:22.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Anthropic inference-margin estimate; AI-company analysis, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:47.887Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "776d6e2ce1c85cd479c1": {
       "source": "Crypto Briefing",
@@ -49535,6 +49540,13 @@
           "note": "Musk chipmaking boast; executive claim with no product or filing event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:45.814Z"
+        },
+        "7def3fe3e74857302049": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Anthropic inference-margin estimate; AI-company analysis, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:47.887Z"
         }
       },
       "baselineSlugs": [
