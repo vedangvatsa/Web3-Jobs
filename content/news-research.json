@@ -20824,26 +20824,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c8e5464d8009c02f491",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T10:21:00.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 8-9 US government Bitfinex-BTC movement as the ready draft; Unchained version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:12.482Z",
+      "reviewedAt": "2026-10-11T10:24:36.715Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "62cd6c1ea3c742f4cf88": {
       "source": "CoinDesk",
@@ -46441,6 +46441,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:35.139Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "4c8e5464d8009c02f491": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8-9 US government Bitfinex-BTC movement as the ready draft; Unchained version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:36.715Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
