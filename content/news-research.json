@@ -17150,22 +17150,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d71a9d867c5924200b7",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+      "reason": "duplicate",
+      "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; Decrypt version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:22.153Z",
+      "reviewedAt": "2026-10-11T10:24:23.751Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "articleSlug": "securitize-stocks",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
@@ -17177,7 +17177,7 @@
       "retrySearches": [
         "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "b4cab21a62516fd28dba"
     },
     "3b110ea0056b771ffe65": {
       "source": "The Defiant",
@@ -46331,6 +46331,20 @@
           ],
           "reviewedAt": "2026-10-11T10:24:20.654Z",
           "articleSlug": "kalshi-bets"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:23.751Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
         }
       },
       "baselineSlugs": [
