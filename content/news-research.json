@@ -15362,20 +15362,20 @@
       "id": "e519c79d92e069c437fa",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T10:32:52.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+      "note": "Decrypt Greece tax piece read in full but it attributes key facts to Reuters; underlying Reuters and ministry primary unopened.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T03:48:34.641Z",
+      "reviewedAt": "2026-10-11T10:26:17.125Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "articleSlug": "greece-tax",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
@@ -15383,9 +15383,9 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
+        "Greece finance ministry crypto 10% draft bill public consultation November parliament"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "316cb572de6b08407ac4": {
       "source": "The Block",
@@ -46996,6 +46996,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:26:15.472Z",
+          "retrySearches": [
+            "Greece finance ministry crypto 10% draft bill public consultation November parliament"
+          ]
+        },
+        "e519c79d92e069c437fa": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt Greece tax piece read in full but it attributes key facts to Reuters; underlying Reuters and ministry primary unopened.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:17.125Z",
           "retrySearches": [
             "Greece finance ministry crypto 10% draft bill public consultation November parliament"
           ]
