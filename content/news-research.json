@@ -18949,23 +18949,23 @@
       "id": "5abe8fbb60d51631f6dd",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T19:26:12.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "Aave AUSD PT listing on Monad: single-market parameter change on a single unopened source.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:03.796Z",
+      "reviewedAt": "2026-10-11T10:26:52.616Z",
       "retrySearches": [
-        "Aave December AUSD PT Monad listing terms with governance proposal"
+        "Aave December AUSD PT Monad listing 93% borrowing limit"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "4de505ce74bf43d697e4": {
       "source": "Cointelegraph",
@@ -47309,6 +47309,21 @@
           "reviewedAt": "2026-10-11T10:26:50.951Z",
           "retrySearches": [
             "Derive V3 launch onchain options custody Ethereum October 2026"
+          ]
+        },
+        "5abe8fbb60d51631f6dd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Aave AUSD PT listing on Monad: single-market parameter change on a single unopened source.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:52.616Z",
+          "retrySearches": [
+            "Aave December AUSD PT Monad listing 93% borrowing limit"
           ]
         }
       },
