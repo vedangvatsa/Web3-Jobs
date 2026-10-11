@@ -1098,7 +1098,7 @@
     "sentAt": "2026-10-10T04:21:28.589Z"
   },
   "633629be-a434-49b8-8f11-b689e0821979": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-11T12:00:44.931Z",
     "stories": [
       {
@@ -1126,6 +1126,8 @@
         "originalTitle": "Solana Foundation Launches DvP Atomic Settlement Program for Banks"
       }
     ],
-    "slotKey": "2026-10-11:afternoon"
+    "slotKey": "2026-10-11:afternoon",
+    "messageId": 65741,
+    "sentAt": "2026-10-11T12:00:47.265Z"
   }
 }

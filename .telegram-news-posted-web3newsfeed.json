@@ -731,6 +731,9 @@
   "https://hashtagweb3.com/okx-money?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/okx-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/polymarket-v2?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hong-kong?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/shib-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/solana-dvp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2095,6 +2098,12 @@
   "OKX raises fresh capital at $25B valuation from Circle, Ripple, SC Ventures and QRT",
   "Polymarket Updates Core Infrastructure to Protocol V2",
   "Polymarket Rebuilds Core Contracts With Protocol V2",
+  "Hong Kong to Propose Virtual Asset Licensing Legislation",
+  "Hong Kong Plans 2026 Bill for Four Virtual Asset Licenses",
+  "Shiba Inu Launches on Solana via Sunrise Gateway",
+  "SHIB Goes Live on Solana Through Sunrise Gateway",
+  "Solana Foundation Releases Open-Source Settlement Software for Banks",
+  "Solana Foundation Launches DvP Atomic Settlement Program for Banks",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2355,5 +2364,8 @@
   "fp:against|ask|board|capital|complaint|discussion|ecosystem|fil|follow|foundation",
   "fp:app|application|card|earn|enabl|interest|money|okx|pay|percent",
   "fp:25b|beyond|business|capital|circl|cor|exchang|expand|firm|fresh",
-  "fp:begin|contract|cor|erc1155|infrastructur|introduc|market|migrat|november2|polymarket"
+  "fp:begin|contract|cor|erc1155|infrastructur|introduc|market|migrat|november2|polymarket",
+  "fp:advisory|asset|bill|custody|four|government|hong|kong|legislation|licens",
+  "fp:000|514|application|availabl|becam|early|follow|gateway|goe|inu",
+  "fp:allow|atomic|bank|creat|dvp|foundation|input|institutional|morgan|open"
 ]
