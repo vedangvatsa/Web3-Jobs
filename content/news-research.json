@@ -18594,23 +18594,23 @@
       "id": "49e46f3fdd2e63839617",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T11:36:25.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "note": "NUVA mortgage-credit story: single CoinDesk source not opened; offshore launch details unverified.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:52.294Z",
+      "reviewedAt": "2026-10-11T10:26:44.132Z",
       "retrySearches": [
-        "NUVA residential mortgage credit offshore offering structure and launch date"
+        "NUVA residential mortgage credit offshore investors launch"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "c8a36242c9ff08804857": {
       "source": "BeInCrypto",
@@ -47234,6 +47234,21 @@
           "reviewedAt": "2026-10-11T10:26:42.362Z",
           "retrySearches": [
             "ESMA unauthorized stablecoins three months remove statement October 2026"
+          ]
+        },
+        "49e46f3fdd2e63839617": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "NUVA mortgage-credit story: single CoinDesk source not opened; offshore launch details unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:44.132Z",
+          "retrySearches": [
+            "NUVA residential mortgage credit offshore investors launch"
           ]
         }
       },
