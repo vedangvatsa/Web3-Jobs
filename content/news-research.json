@@ -23693,20 +23693,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "74b8157eef0883dae91f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T13:41:21.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger CryptoBilis drain cluster as cryptobilis-drains; Unchained version of the shared story, no separate article.",
+      "note": "Same Oct 9 Ledger drain cluster as ledger-implant; Unchained angle folded into draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:57:34.296Z",
-      "duplicateOf": "cryptobilis-drains",
+      "reviewedAt": "2026-10-11T18:17:09.013Z",
+      "duplicateOf": "ledger-implant",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "c1d0d154bba53b41bc48": {
       "source": "The Defiant",
@@ -49227,6 +49228,15 @@
           "note": "Same Oct 9 Ledger sales-halt angle as ledger-implant; folded into draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:06.932Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "74b8157eef0883dae91f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger drain cluster as ledger-implant; Unchained angle folded into draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:09.013Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
