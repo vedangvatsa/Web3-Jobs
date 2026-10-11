@@ -16249,5 +16249,68 @@
         }
       ]
     }
+  },
+  {
+    "id": "token2049-evt-rnmJyD2klnY67Ue",
+    "name": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next",
+    "description": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next is scheduled for 15 October 2026 at 17:30 (Asia/Singapore) in Singapore. Hosted by Chloe Pang.\n\n5.30pm Board the yacht, first beer or wine on us\n\n7.50pm Fireside chat with Blayne, Amanda and Rob\n\nDinner buffet, finger food, first drink, karaoke and a live DJ.\n\nRegistration requires host approval.",
+    "startDate": "2026-10-15T09:30:00.000Z",
+    "location": "ONE°15 Marina Sentosa Cove Singapore, 11 Cove Drive, #01-01, Sentosa Cove, Singapore 098497",
+    "url": "https://luma.com/n6e4pmtn",
+    "registrationUrl": "https://luma.com/n6e4pmtn",
+    "coverImage": "/events/token2049-evt-rnmjyd2klny67ue-682420c3.webp",
+    "endDate": "2026-10-15T14:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "ONE°15 Marina Sentosa Cove Singapore",
+    "streetAddress": "11 Cove Drive, #01-01, Sentosa Cove, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Southern Islands",
+    "coordinates": {
+      "latitude": 1.2455711,
+      "longitude": 103.83973979999999
+    },
+    "hosts": [
+      "Chloe Pang"
+    ],
+    "price": "SGD 110",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/n6e4pmtn",
+        "price": 110,
+        "priceCurrency": "SGD",
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/n6e4pmtn",
+      "eventId": "evt-rnmJyD2klnY67Ue",
+      "fetchedAt": "2026-10-11T18:08:46.271Z",
+      "method": "luma-api"
+    },
+    "slug": "fcsy",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/n6e4pmtn",
+      "fetchedAt": "2026-10-11T18:08:46.271Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next",
+      "sha256": "e174425adf8b8c8840a8721b65156d2f13d8bed5c81aa3e63accd9362bae8a1b",
+      "evidence": [
+        {
+          "url": "https://luma.com/n6e4pmtn",
+          "fetchedAt": "2026-10-11T18:08:46.271Z",
+          "sha256": "b1a4c32339b788628f04e52465c4916f2d48e6b6f4e3055b2d43b9f117e28b16"
+        }
+      ]
+    }
   }
 ]
