@@ -25321,27 +25321,23 @@
       "id": "6445e691f0625b1e13c9",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T09:44:06.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
       "reason": "source-blocked",
-      "note": "Read Bankless Oct 9 launch preview in full; the Defiant launch piece carrying the 85M deposit figure returned HTTP 403, so trading start and deposit total stay unverified.",
+      "note": "Papertrade 1000x launch story origin blocked though Bankless preview plus deposit trackers corroborate; full reads outstanding.",
       "sourceChecks": [
-        {
-          "url": "https://www.bankless.com/read/what-to-know-about-papertrade-s-launch",
-          "outcome": "read"
-        },
         {
           "url": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T10:30:00.699Z",
+      "reviewedAt": "2026-10-11T10:28:30.110Z",
       "retrySearches": [
-        "Papertrade October 10 launch confirmation and pre-deposit total from a readable outlet or official announcement"
+        "Papertrade HyperEVM launch October 10 1000x leverage deposits Bankless"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "5a91a10fdfbba2ed8051": {
       "source": "The Defiant",
@@ -48172,6 +48168,21 @@
           "reviewedAt": "2026-10-11T10:28:28.532Z",
           "retrySearches": [
             "Tether THORChain 1.45M USDT vault freeze Barraford Cointelegraph"
+          ]
+        },
+        "6445e691f0625b1e13c9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Papertrade 1000x launch story origin blocked though Bankless preview plus deposit trackers corroborate; full reads outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:30.110Z",
+          "retrySearches": [
+            "Papertrade HyperEVM launch October 10 1000x leverage deposits Bankless"
           ]
         }
       },
