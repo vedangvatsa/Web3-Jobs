@@ -28024,11 +28024,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5fad7a27786e0d8250af",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T13:37:12.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Alleged Saudi strike on Sanaa airport; armed-conflict news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:29.154Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "67889d0e0b3f94cd5fa1": {
       "source": "Crypto Briefing",
@@ -49451,6 +49456,13 @@
           "note": "Saudi airport attack escalation story; armed-conflict news, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:27.171Z"
+        },
+        "5fad7a27786e0d8250af": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Alleged Saudi strike on Sanaa airport; armed-conflict news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:29.154Z"
         }
       },
       "baselineSlugs": [
