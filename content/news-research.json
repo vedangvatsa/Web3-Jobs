@@ -17043,23 +17043,23 @@
       "id": "a9eb98459b549dbf0199",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T15:42:16.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+      "note": "Decrypt Money Accounts story reachable but not fully read; only source is Decrypt covering its own product, needs independent outlet.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:18.766Z",
+      "reviewedAt": "2026-10-11T10:26:28.898Z",
       "retrySearches": [
-        "Decrypt Money Accounts Solana Information Exchange partnership terms"
+        "Decrypt Money Accounts Solana Information Exchange independent coverage"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "2207f988a382d5c483da": {
       "source": "CryptoSlate",
@@ -47103,6 +47103,21 @@
           "reviewedAt": "2026-10-11T10:26:27.211Z",
           "retrySearches": [
             "Gnosis bridges fast confirmation Ethereum deposits announcement"
+          ]
+        },
+        "a9eb98459b549dbf0199": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt Money Accounts story reachable but not fully read; only source is Decrypt covering its own product, needs independent outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:28.898Z",
+          "retrySearches": [
+            "Decrypt Money Accounts Solana Information Exchange independent coverage"
           ]
         }
       },
