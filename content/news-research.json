@@ -21573,22 +21573,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "35543151e27a95014f9d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T10:11:51.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:55:32.652Z",
+      "reason": "stale",
+      "note": "Empire Market sentencing from Oct 5 announced Oct 7; 72-hour verification window expired Oct 10 before this run.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:50.551Z",
       "articleSlug": "empire-market",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
@@ -21597,8 +21592,7 @@
       "retrySearches": [
         "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
       ],
-      "duplicateOf": "empire-market",
-      "nextReviewDate": "2026-10-11"
+      "duplicateOf": "empire-market"
     },
     "032bb637cf94a2610025": {
       "source": "Unchained",
@@ -46874,6 +46868,13 @@
           "note": "Incremental Bitcoin Core privacy-fix dev update reaching v32 code; no concrete user-facing event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:48.879Z"
+        },
+        "35543151e27a95014f9d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Empire Market sentencing from Oct 5 announced Oct 7; 72-hour verification window expired Oct 10 before this run.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:50.551Z"
         }
       },
       "baselineSlugs": [
