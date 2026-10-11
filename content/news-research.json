@@ -23471,36 +23471,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "11f65ef62dae6e42495b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T14:47:27.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 9 Ledger CryptoBilis reseller probe: user losses near 86M, sales halt requested, tampering investigated; read CoinDesk, Unchained, CryptoSlate, Cointelegraph and Bitquery in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users",
-          "outcome": "read"
-        },
-        {
-          "url": "https://bitquery.io/investigations/ledger-cryptobilis-hack",
-          "outcome": "read"
-        }
-      ],
-      "reviewedAt": "2026-10-11T11:57:13.015Z",
+      "reason": "duplicate",
+      "note": "Same Oct 9 Ledger tampering probe as ledger-implant; CoinDesk angle folded into draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:04.770Z",
       "articleSlug": "cryptobilis-drains",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -23510,7 +23489,9 @@
       ],
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "f2ce0a54f4786cb8271f": {
       "source": "The Block",
@@ -49232,6 +49213,15 @@
           "note": "Same Oct 9 Ledger drain cluster as ledger-implant; Block angle folded into draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:02.498Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "11f65ef62dae6e42495b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger tampering probe as ledger-implant; CoinDesk angle folded into draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:04.770Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
