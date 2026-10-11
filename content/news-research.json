@@ -789,7 +789,7 @@
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
       "attempts": 1,
       "expiresAt": "2026-10-07T18:51:50.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "not-a-concrete-event",
       "note": "Daily three-item recap recycling the Clayton, El Salvador, and NEAR stories; roundup with no standalone event.",
       "sourceChecks": [],
@@ -11019,22 +11019,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a5f0f76edb1ecb37ab3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 16,
       "expiresAt": "2026-10-11T02:50:01.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:54:49.745Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "articleSlug": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
@@ -11043,7 +11038,8 @@
       "retrySearches": [
         "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "7c05eec0aa4cd9623abd": {
       "source": "Bitcoin Magazine",
@@ -11422,26 +11418,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "23007533bd70cfbd0d1e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 10,
       "expiresAt": "2026-10-11T01:19:18.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/vitalik-buterin-ai-cryptography-warning/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:46:53.117Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "1d1b5e461acc4fc87814": {
       "source": "CryptoSlate",
@@ -11458,26 +11450,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d1b5e461acc4fc87814",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 16,
       "expiresAt": "2026-10-11T00:00:12.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:55:14.076Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "a745ae9b5abcb4207f2a": {
       "source": "CryptoSlate",
@@ -13012,26 +13000,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "febbaaae7d96d4c83e87",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 16,
       "expiresAt": "2026-10-11T02:30:16.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:54:51.861Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "b5cfc3e7d261d8e4319d": {
       "source": "The Defiant",
@@ -13048,26 +13032,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "b5cfc3e7d261d8e4319d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 10,
       "expiresAt": "2026-10-11T02:22:39.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:47:38.551Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "70033f0ef71a5c26d294": {
       "source": "BeInCrypto",
@@ -13084,26 +13064,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "70033f0ef71a5c26d294",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 10,
       "expiresAt": "2026-10-11T02:00:00.000Z",
       "lastSeenAt": "2026-10-08T03:31:25.243Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/cardano-cip-0113-token-compliance-standard/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:47:40.231Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "veridian-spin",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Cardano token freeze seize standard issuer controls with second outlet confirmation"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "50c25c5479e00100eded": {
       "source": "BeInCrypto",
@@ -13198,22 +13174,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "54d775eafeae3a222fce",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 9,
       "expiresAt": "2026-10-11T00:35:24.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:47:41.862Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "articleSlug": "mercury-sale",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -13224,7 +13195,8 @@
       "retrySearches": [
         "Cointelegraph sale process buyer search corroboration beyond single CoinDesk report"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "f7c27eb21fe1a04b0304": {
       "source": "BeInCrypto",
@@ -13293,26 +13265,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "47e63912212162135693",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T03:31:25.243Z",
       "attempts": 10,
       "expiresAt": "2026-10-11T00:04:32.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:47:43.507Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "ab8cef483299638b534a": {
       "source": "BeInCrypto",
@@ -14802,26 +14770,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "479c54f47ccca88972b4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 9,
       "expiresAt": "2026-10-11T08:40:15.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/vitalik-buterin-urges-calm-as-ai-raises-new-fears-over-bitcoin-and-ethereum-cryptography-security/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:24.332Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "c7afc2887d7fc29547c0": {
       "source": "CoinDesk",
@@ -14838,25 +14802,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7afc2887d7fc29547c0",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 3,
       "expiresAt": "2026-10-11T04:23:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:26.067Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "Ethereum Glamsterdam test 200M gas per block results and next steps"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "b486ca816b176c708e46": {
       "source": "Unchained",
@@ -14987,26 +14947,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "97cd7b6349290032f276",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 15,
       "expiresAt": "2026-10-11T09:05:50.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:54:53.628Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "67de49f7da8711f3fc2f": {
       "source": "Cointelegraph",
@@ -15502,26 +15458,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "860da2d41ccdf27f0d30",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 6,
       "expiresAt": "2026-10-11T09:42:04.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:37.852Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
       ],
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "duplicateOf": "esma-stablecoins",
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "d9e5ae4047dd36ca736e": {
       "source": "CoinDesk",
@@ -15538,26 +15490,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9e5ae4047dd36ca736e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 4,
       "expiresAt": "2026-10-11T09:32:13.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:39.411Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
       ],
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "duplicateOf": "stanchart-custody",
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "a58ed5f4524012c5b9b0": {
       "source": "CoinDesk",
@@ -15574,22 +15522,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "a58ed5f4524012c5b9b0",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 9,
       "expiresAt": "2026-10-11T09:17:18.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:41.032Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "articleSlug": "greece-tax",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "europol-quantum.md: template phrasing: unlock(?:ing)?",
         "robinhood-bitcoin.md: template phrasing: leverag(?:e|ing)",
@@ -15600,7 +15543,8 @@
       "retrySearches": [
         "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "beaa28a9473ad8ef4c1f": {
       "source": "CoinJournal",
@@ -15643,26 +15587,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "45186be758e1123e3a5a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 15,
       "expiresAt": "2026-10-11T08:39:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:54:57.153Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "11996eb39c769fbb3797": {
       "source": "BeInCrypto",
@@ -15705,26 +15645,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "6dfcb9105a9c9fcd521a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 15,
       "expiresAt": "2026-10-11T08:24:24.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:54:58.862Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "7686b683757996b39984": {
       "source": "Cointelegraph",
@@ -15801,26 +15737,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "05e2be220e67b4d8f1e9",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 4,
       "expiresAt": "2026-10-11T08:08:03.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:45.884Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
       ],
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "duplicateOf": "stanchart-custody",
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "82a8a22ee00a5925034e": {
       "source": "Cointelegraph",
@@ -15837,26 +15769,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "82a8a22ee00a5925034e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 9,
       "expiresAt": "2026-10-11T08:03:47.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:47.439Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "7820fa9063ea1c03de98": {
       "source": "CoinDesk",
@@ -15873,25 +15801,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7820fa9063ea1c03de98",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 3,
       "expiresAt": "2026-10-11T08:00:00.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:49.059Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "Deus X Capital shutdown backer statements and asset wind-down plan"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "26d8a39bd0abb78005cb": {
       "source": "BeInCrypto",
@@ -15937,26 +15861,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "35b5090ce24657a84aec",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 4,
       "expiresAt": "2026-10-11T07:55:14.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:52.307Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "Standard Chartered Singapore institutional crypto custody announcement scope and launch date"
       ],
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "duplicateOf": "stanchart-custody",
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "bb706419d66dbccbac9d": {
       "source": "BeInCrypto",
@@ -15973,26 +15893,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "bb706419d66dbccbac9d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 15,
       "expiresAt": "2026-10-11T07:24:03.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/samsung-wallet-usdc-stablecoin-transfers/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:55:00.979Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "samsung-usdc",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Samsung Wallet late-October USDC launch 82M devices Bastion Coinbase Solana Sui second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "abf560930f1f7e557115": {
       "source": "BeInCrypto",
@@ -16142,26 +16058,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1958aab734084fafaa5",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 9,
       "expiresAt": "2026-10-11T05:00:28.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:57.204Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "f7b1fec09118711577e0": {
       "source": "BeInCrypto",
@@ -16256,25 +16168,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "ac1dee72e3538b3b129d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
       "attempts": 3,
       "expiresAt": "2026-10-11T03:38:56.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/tokens/hyperliquid-labs-labeled-wallet-distributes-330-million-in-hype",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:48:58.886Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "Hyperliquid 330M HYPE distribution labeled wallet evidence with second outlet"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "ce6a97a6514922530586": {
       "id": "ce6a97a6514922530586",
@@ -16293,29 +16201,21 @@
           "published": "2026-10-08T11:03:36.000Z"
         }
       ],
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T11:28:39.109Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "expiresAt": "2026-10-11T00:00:00.000Z",
       "attempts": 3,
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinfoundation.org, cointelegraph.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
-          "outcome": "unavailable"
-        },
-        {
-          "url": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:49:00.419Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinfoundation.org, cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:11:39.908Z",
       "retrySearches": [
         "US government 770M bitcoin Coinbase Prime transfer Arkham trail and sale status"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-11",
+      "automatic": true
     },
     "392872e824f8556b402f": {
       "source": "CoinDesk",
@@ -22720,7 +22620,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "86f3a145bde0d3311251",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
       "attempts": 7,
       "expiresAt": "2026-10-12T16:07:07.000Z",
@@ -22739,8 +22639,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:33.539Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "3e5484a682e6ed261c67"
+      "lastReviewedDay": "2026-10-10"
     },
     "731895351e1367b3c7e8": {
       "source": "The Block",
@@ -22873,7 +22772,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3458e62d04228c30699",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
       "attempts": 7,
       "expiresAt": "2026-10-12T14:27:18.000Z",
@@ -22892,8 +22791,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:35.231Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "3e5484a682e6ed261c67"
+      "lastReviewedDay": "2026-10-10"
     },
     "977a4f0f886635e738ca": {
       "source": "BeInCrypto",
@@ -23551,7 +23449,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b466ec3f61a6e8d0b33a",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
       "attempts": 7,
       "expiresAt": "2026-10-12T16:15:25.000Z",
@@ -23570,8 +23468,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:36.878Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "3e5484a682e6ed261c67"
+      "lastReviewedDay": "2026-10-10"
     },
     "496643e7a159131009a6": {
       "source": "Decrypt",
@@ -23946,7 +23843,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "55f30187f50a87d90550",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
       "attempts": 7,
       "expiresAt": "2026-10-12T14:16:15.000Z",
@@ -23965,8 +23862,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:38.496Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "3e5484a682e6ed261c67"
+      "lastReviewedDay": "2026-10-10"
     },
     "e5cc52093ddb5a650630": {
       "source": "Cointelegraph",
@@ -25046,7 +24942,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "504c54edc7c703968bcd",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
       "attempts": 6,
       "expiresAt": "2026-10-12T20:14:02.000Z",
@@ -25065,8 +24961,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:40.253Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "3e5484a682e6ed261c67"
+      "lastReviewedDay": "2026-10-10"
     },
     "5936ea8f20383c5c23f9": {
       "source": "Bitcoin Magazine",
@@ -25145,7 +25040,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "da7ea4741cb5cd813e4a",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
       "attempts": 5,
       "expiresAt": "2026-10-13T01:50:00.000Z",
@@ -25164,8 +25059,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:41.825Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "3e5484a682e6ed261c67"
+      "lastReviewedDay": "2026-10-10"
     },
     "6cbacd263bba4dccfcf3": {
       "source": "Bitcoin Magazine",
@@ -25519,7 +25413,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "76b8464225483b76a3b9",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
       "attempts": 4,
       "expiresAt": "2026-10-13T06:33:43.000Z",
@@ -25542,8 +25436,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:43.623Z",
       "duplicateOf": "xrp-bug",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "1a5192e7fa4323c2dc45"
+      "lastReviewedDay": "2026-10-10"
     },
     "880338fce6d286827ad4": {
       "source": "CoinDesk",
@@ -25831,7 +25724,7 @@
       "firstSeenAt": "2026-10-10T11:44:28.715Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T11:00:00.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "opinion",
       "note": "Read the full CoinDesk piece: anniversary analysis of the Oct 10 2025 crash with analyst commentary, no new concrete event.",
       "sourceChecks": [
@@ -25862,7 +25755,7 @@
       "firstSeenAt": "2026-10-10T11:44:28.715Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T11:09:33.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Defiant origin returned HTTP 403; single-source 464 ETH Tornado Cash movement needs a second readable outlet before any draft.",
       "sourceChecks": [
@@ -25897,7 +25790,7 @@
       "firstSeenAt": "2026-10-10T11:44:28.715Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T10:55:20.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "BeInCrypto origin returned HTTP 403; sealed-wallet spy-chip claim needs a second readable outlet before any draft.",
       "sourceChecks": [
@@ -25932,7 +25825,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T13:00:34.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "price-chatter",
       "note": "Weekend price-level and ETF-outflow framing with an 80,400 test; market commentary without a concrete event.",
       "sourceChecks": [],
@@ -25958,7 +25851,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T16:00:40.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "verified-event",
       "note": "Verified Oct 9 CFTC swap proposal 9310-26 and gambling exclusion 9309-26 in both CFTC releases plus Decrypt and CryptoSlate reads; hero self-hosted, gates pass.",
       "sourceChecks": [
@@ -26003,11 +25896,11 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1f95bcf6b60ca241a35",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T16:01:04.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "duplicate",
       "note": "Same Meanwhile 7.5M event drafted as meanwhile in this run; verified in meanwhile.bm primary plus Decrypt and Cointelegraph reads.",
       "sourceChecks": [
@@ -26026,8 +25919,7 @@
       ],
       "reviewedAt": "2026-10-10T22:53:21.043Z",
       "duplicateOf": "meanwhile",
-      "lastReviewedDay": "2026-10-10",
-      "mergedInto": "aa622e9da8bf6f47f49d"
+      "lastReviewedDay": "2026-10-10"
     },
     "316e2f0efb03221bf96b": {
       "source": "The Block",
@@ -26048,7 +25940,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T15:10:37.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "price-chatter",
       "note": "Nine-day ETF outflow streak and fund-flow roundup; market data with no launch, ruling, filing, or other concrete event.",
       "sourceChecks": [],
@@ -26074,7 +25966,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T15:00:54.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "not-a-concrete-event",
       "note": "Explainer on Luxor mining-yield mechanics and miner credit risk; product analysis, not a dated event.",
       "sourceChecks": [],
@@ -26100,7 +25992,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T14:19:57.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "opinion",
       "note": "Question headline asking if Bitcoin benefits from China network is prediction/framing, not a concrete dated event.",
       "sourceChecks": [],
@@ -26142,7 +26034,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T14:00:52.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
       "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26193,7 +26085,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T12:00:00.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "not-a-concrete-event",
       "note": "One-year anniversary retrospective on flash-crash liquidity; analysis of past events, not fresh news.",
       "sourceChecks": [],
@@ -26219,7 +26111,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T15:01:03.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "out-of-scope",
       "note": "AI chatbot behavior research with no crypto event or Web3 angle.",
       "sourceChecks": [],
@@ -26245,7 +26137,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T14:57:16.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26296,7 +26188,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T13:25:06.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "out-of-scope",
       "note": "Traditional hedge-fund stock losses on AI bets; no crypto event.",
       "sourceChecks": [],
@@ -26322,7 +26214,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T13:01:03.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
       "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26373,7 +26265,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T12:21:43.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26424,7 +26316,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T12:00:37.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "not-a-concrete-event",
       "note": "Explainer on laundering stolen crypto into spendable money; general analysis, not a dated event.",
       "sourceChecks": [],
@@ -26450,7 +26342,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T12:00:00.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "not-a-concrete-event",
       "note": "Tokenized-commodities feature republished from Oct 5; market overview, not a fresh concrete event.",
       "sourceChecks": [],
@@ -26476,7 +26368,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T11:52:14.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
       "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26527,7 +26419,7 @@
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T11:31:15.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "out-of-scope",
       "note": "AI assistant police-tip incident with no crypto event or Web3 angle.",
       "sourceChecks": [],
@@ -26553,7 +26445,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T17:00:12.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "price-chatter",
       "note": "Leveraged-ETF piece explains price exposure mechanics, not a dated concrete event.",
       "sourceChecks": [],
@@ -26579,7 +26471,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T17:38:07.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26610,11 +26502,11 @@
       ],
       "alsoCoveredBy": [],
       "id": "cb66c757ae4ae748b70b",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T17:01:03.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "duplicate",
       "note": "Same CFTC Oct 9 event-contracts vs gambling measures drafted as cftc-events; verified in CFTC releases plus Decrypt and CryptoSlate reads.",
       "sourceChecks": [
@@ -26629,7 +26521,6 @@
       ],
       "reviewedAt": "2026-10-10T22:53:26.904Z",
       "duplicateOf": "cftc-events",
-      "mergedInto": "8b93af2d98359dff14dd",
       "lastReviewedDay": "2026-10-10"
     },
     "7b823141592953e24684": {
@@ -26651,7 +26542,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T16:43:44.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26686,7 +26577,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T22:29:51.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26721,7 +26612,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T18:12:52.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "price-chatter",
       "note": "ETF-outflows plus shorts positioning piece is market chatter without a dated concrete event.",
       "sourceChecks": [],
@@ -26747,7 +26638,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T18:00:18.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
       "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26782,7 +26673,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T22:23:54.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "out-of-scope",
       "note": "Moderna vaccine stock story is equities, not crypto, with no dated crypto event.",
       "sourceChecks": [],
@@ -26808,7 +26699,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T21:33:18.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26843,7 +26734,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T20:06:47.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26878,7 +26769,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T19:00:26.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
       "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26913,7 +26804,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T18:37:35.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "price-chatter",
       "note": "Gold-price warning is trader prediction, not a dated concrete crypto event.",
       "sourceChecks": [],
@@ -26939,7 +26830,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T18:35:25.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26974,7 +26865,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T17:15:58.000Z",
-      "lastSeenAt": "2026-10-10T22:48:20.650Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "source-blocked",
       "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
       "sourceChecks": [
@@ -26989,6 +26880,195 @@
       ],
       "lastReviewedDay": "2026-10-10",
       "nextReviewDate": "2026-10-11"
+    },
+    "077977aff0f4276dba8a": {
+      "source": "Cointelegraph",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T07:44:51.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-11T07:44:51.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "077977aff0f4276dba8a",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T07:44:51.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "745da99410c7600c61b1": {
+      "source": "The Defiant",
+      "title": "Papertrade Faces Oracle-Manipulation Allegation as House Pool Shows $3.14 Million",
+      "link": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+      "published": "2026-10-11T00:26:55.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+          "published": "2026-10-11T00:26:55.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "745da99410c7600c61b1",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T00:26:55.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "639da78ae1beb866cc22": {
+      "source": "The Defiant",
+      "title": "COLDCARD Warns of Phishing Post on Its Official X Account",
+      "link": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+      "published": "2026-10-11T09:38:29.000Z",
+      "score": 2,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+          "published": "2026-10-11T09:38:29.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "639da78ae1beb866cc22",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T09:38:29.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "df703797bc4255c1484d": {
+      "source": "CryptoSlate",
+      "title": "Bitcoin companies are learning that holding forever takes cash",
+      "link": "https://cryptoslate.com/bitcoin-companies-are-learning-that-holding-forever-takes-cash/",
+      "published": "2026-10-11T07:00:24.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/bitcoin-companies-are-learning-that-holding-forever-takes-cash/",
+          "published": "2026-10-11T07:00:24.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "df703797bc4255c1484d",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T07:00:24.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "eb26dc8485cfdede1eb4": {
+      "source": "The Defiant",
+      "title": "SUI Gains 54% in Four Weeks, Outpacing Bitcoin and Ether",
+      "link": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
+      "published": "2026-10-10T22:58:19.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
+          "published": "2026-10-10T22:58:19.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "eb26dc8485cfdede1eb4",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-13T22:58:19.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "17887deb701ff8c9fa76": {
+      "source": "BeInCrypto",
+      "title": "Global Bank Stocks Sink as Bond Losses Top $326 Billion: Is Another SVB Coming?",
+      "link": "https://beincrypto.com/bank-stocks-bond-losses-svb-fears/",
+      "published": "2026-10-11T09:22:47.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/bank-stocks-bond-losses-svb-fears/",
+          "published": "2026-10-11T09:22:47.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "17887deb701ff8c9fa76",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T09:22:47.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "bd4403fca10c615fa959": {
+      "source": "Cointelegraph",
+      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T09:01:51.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-11T09:01:51.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "bd4403fca10c615fa959",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T09:01:51.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "e182e8b8329b5f8fb79d": {
+      "source": "BeInCrypto",
+      "title": "XT Exchange at Eight: Stablecoins Need to Work Beyond the First Payment",
+      "link": "https://beincrypto.com/xt-exchange-at-eight-stablecoins-beyond-first-payment/",
+      "published": "2026-10-11T09:00:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/xt-exchange-at-eight-stablecoins-beyond-first-payment/",
+          "published": "2026-10-11T09:00:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "e182e8b8329b5f8fb79d",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T09:00:00.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+    },
+    "e713a4765c8b4fbfbafa": {
+      "source": "The Defiant",
+      "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",
+      "link": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
+      "published": "2026-10-11T01:39:48.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
+          "published": "2026-10-11T01:39:48.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "e713a4765c8b4fbfbafa",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T10:11:39.908Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T01:39:48.000Z",
+      "lastSeenAt": "2026-10-11T10:11:39.908Z"
     }
   },
   "runs": {
@@ -45475,6 +45555,666 @@
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
       ]
+    },
+    "2026-10-11": {
+      "day": "2026-10-11",
+      "startedAt": "2026-10-11T10:11:39.908Z",
+      "status": "prepared",
+      "candidateIds": [
+        "2a5f0f76edb1ecb37ab3",
+        "23007533bd70cfbd0d1e",
+        "1d1b5e461acc4fc87814",
+        "febbaaae7d96d4c83e87",
+        "b5cfc3e7d261d8e4319d",
+        "70033f0ef71a5c26d294",
+        "54d775eafeae3a222fce",
+        "47e63912212162135693",
+        "479c54f47ccca88972b4",
+        "c7afc2887d7fc29547c0",
+        "b486ca816b176c708e46",
+        "97cd7b6349290032f276",
+        "4d0c341e251b419b5c56",
+        "6db4d7756b0c78596b24",
+        "b4c5102f5a98f48f2121",
+        "e519c79d92e069c437fa",
+        "860da2d41ccdf27f0d30",
+        "d9e5ae4047dd36ca736e",
+        "a58ed5f4524012c5b9b0",
+        "45186be758e1123e3a5a",
+        "6dfcb9105a9c9fcd521a",
+        "05e2be220e67b4d8f1e9",
+        "82a8a22ee00a5925034e",
+        "7820fa9063ea1c03de98",
+        "35b5090ce24657a84aec",
+        "bb706419d66dbccbac9d",
+        "f1958aab734084fafaa5",
+        "ac1dee72e3538b3b129d",
+        "ce6a97a6514922530586",
+        "12cd8e1ece2bf4f73473",
+        "4f06a77b658d51c113c0",
+        "634e1516faeb608c8daa",
+        "be4753c98af4393ba28f",
+        "793e33cc45c8a11bda37",
+        "49796226371352e18cd0",
+        "14054f6a0bf4d8eb43b9",
+        "3c52e57d52067e8770d9",
+        "ae47f8ab88a2c7848349",
+        "e33a650c55f3e7ab383a",
+        "0acef52c24bebf178d60",
+        "f30de830c73c7f6e15eb",
+        "a9eb98459b549dbf0199",
+        "3a24ff3e84b27f6e7fec",
+        "4d71a9d867c5924200b7",
+        "3b110ea0056b771ffe65",
+        "1b96b3a80a7d4b84f0ae",
+        "b4cab21a62516fd28dba",
+        "1a9b8a63c6b803e825da",
+        "6e9948d74caa61550c47",
+        "6f421eab942d61e269b4",
+        "54e70e74dd24c8a9a2ef",
+        "0bd3fb37178624c073b0",
+        "4771b52b3d346e08e888",
+        "624dea8769fe6ccc1f7b",
+        "fa40fab3841719355019",
+        "d95fa2d052471948ef8d",
+        "bbfbc980f72f30b4800c",
+        "a004e01e7f72c40546e6",
+        "32b36bec7d323b2e8fa7",
+        "87edf17a86289e0f2c9b",
+        "e85710a4d0d8f74f72c1",
+        "49e46f3fdd2e63839617",
+        "0c31ee8280e95318f8bf",
+        "823e99f6e2c7e227d089",
+        "dd25110442b0f822a9d6",
+        "647681ddbdfa617274b4",
+        "b94981880c3d659e2dd8",
+        "082e493221b37a47877c",
+        "5abe8fbb60d51631f6dd",
+        "4de505ce74bf43d697e4",
+        "4fabdda2459903e8146b",
+        "78edccd870113509675c",
+        "c69fbe223cd6bc09e10f",
+        "3c7573a4e5dbe80c2c0a",
+        "90d78758432a6842a6c0",
+        "2251163d99d43fca70b6",
+        "8ffe5aac80ee4f8e44aa",
+        "7407ca7e3e0f94a9efa3",
+        "0398136c795f44bd34ed",
+        "1d543faed605b223ba11",
+        "4f6f7be9c8cb584fca73",
+        "9daaa3a6efebdaa31dc5",
+        "a107631a948ec7966b21",
+        "6521f65a66822c1c1481",
+        "d33835776086f95c6798",
+        "19357b6f78dfafe2a59e",
+        "f7cc92328214d5e25bb3",
+        "cfb84dbee91c6c9c59e0",
+        "b22ff44197a4ebb9636a",
+        "4c8e5464d8009c02f491",
+        "62cd6c1ea3c742f4cf88",
+        "33d2532cea35902b8372",
+        "724035b8cd9bafa2f945",
+        "2a7c81f07dc6e3b3eb0f",
+        "444c2aa0acf1240fe52e",
+        "910cbdc22ebf840f561a",
+        "0fbcbb3af0a65dee6c5f",
+        "11a30808d0c23996da58",
+        "27f81ea86adb75b79871",
+        "4f7eedcb04b022f754db",
+        "6a453769f3b6db70f125",
+        "c76300860e9b16ab3fc5",
+        "00846212524fc336a196",
+        "35543151e27a95014f9d",
+        "c4d91bb9350aafd0d59f",
+        "1f83d48c4539685aa5b4",
+        "7cb42063f34593cf0cc4",
+        "69d2ddb419c22b7ada74",
+        "26b6d0643da1b0aa72ca",
+        "f46b0c4a638dbaf5f575",
+        "322bfa081991e4298e14",
+        "84e69493871641eeb738",
+        "d7c128ec9ef50a3db526",
+        "3e6c54727c05c87b7baf",
+        "f04ef492bcb4db52cac2",
+        "666c58700460247b690e",
+        "f669a9dcee8b304958e7",
+        "86f3a145bde0d3311251",
+        "731895351e1367b3c7e8",
+        "f8ec77c66ea84cb60667",
+        "3e5484a682e6ed261c67",
+        "f3458e62d04228c30699",
+        "0e1ee8d7a2e04ebe6b95",
+        "0c7af042fdbff4991543",
+        "e5af931a9920c0e1eb6b",
+        "688de4a780985d424532",
+        "fe698f27fac724e48c17",
+        "d6ebc8a19d31822069ab",
+        "c77ae768dd4e69dd1b66",
+        "c75de1b0ee258c6aa12c",
+        "4a6fbb06563317d68be1",
+        "dc53e2f33c5fbeaf3082",
+        "b466ec3f61a6e8d0b33a",
+        "496643e7a159131009a6",
+        "f81abcaa78c20b29893e",
+        "5121c942544f1e8779d1",
+        "353e717b11eba794963f",
+        "11f65ef62dae6e42495b",
+        "f2ce0a54f4786cb8271f",
+        "d9d9bbfe5d6fe8069395",
+        "55f30187f50a87d90550",
+        "c286bf006d9137b60702",
+        "74b8157eef0883dae91f",
+        "c1d0d154bba53b41bc48",
+        "625750d26ecc321a617e",
+        "b66ae32556259e005f14",
+        "43ef4ee5656da6877132",
+        "347f9632aca3b7cd1864",
+        "4c4395c92de68874e196",
+        "32a6fb4025d29d3c1e2f",
+        "94b717cda7c41ca127f6",
+        "a1d08de2435b7aa593b5",
+        "994ba24ff2eca1c3c082",
+        "7ef426982303d62000e0",
+        "af458fb1bbabce80a040",
+        "368c99d2c809c3ce18b9",
+        "d2a36ff801c6db70c716",
+        "2f33d3c76777e7ef334e",
+        "504c54edc7c703968bcd",
+        "5936ea8f20383c5c23f9",
+        "da7ea4741cb5cd813e4a",
+        "6cbacd263bba4dccfcf3",
+        "4f83e5b1709ca0afd2d9",
+        "d2d7a1b55b78c7f15a05",
+        "cf91cc0e021c7179aa15",
+        "74519b6c7c74b6d87aef",
+        "aa622e9da8bf6f47f49d",
+        "6445e691f0625b1e13c9",
+        "76b8464225483b76a3b9",
+        "1a5192e7fa4323c2dc45",
+        "560991e288df5e15cdac",
+        "2b09eeac3b32962b2bf0",
+        "7ecdfd994ce12296e566",
+        "8b93af2d98359dff14dd",
+        "f1f95bcf6b60ca241a35",
+        "658278bca35cfdef3797",
+        "99fc7332526634ed7501",
+        "8969a0358ed8f4ff831c",
+        "201c9130ddb5ba609ce4",
+        "9c567295b2e6ca362468",
+        "c4e90b66aacb92b43cd3",
+        "cb66c757ae4ae748b70b",
+        "7b823141592953e24684",
+        "da70ccbdbd68e037a25f",
+        "75458f3f069585bcec46",
+        "f703d0dec2b6aa838362",
+        "00eb14ee17d1377a2352",
+        "5aaad0e1e40020a64695",
+        "82174278e88b61c6fbd7",
+        "14622e749bf8034cb861",
+        "077977aff0f4276dba8a",
+        "745da99410c7600c61b1",
+        "639da78ae1beb866cc22",
+        "df703797bc4255c1484d",
+        "eb26dc8485cfdede1eb4",
+        "17887deb701ff8c9fa76",
+        "bd4403fca10c615fa959",
+        "e182e8b8329b5f8fb79d",
+        "e713a4765c8b4fbfbafa"
+      ],
+      "outcomes": {
+        "2a5f0f76edb1ecb37ab3": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "23007533bd70cfbd0d1e": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "1d1b5e461acc4fc87814": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "febbaaae7d96d4c83e87": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "b5cfc3e7d261d8e4319d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "70033f0ef71a5c26d294": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "54d775eafeae3a222fce": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "47e63912212162135693": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "479c54f47ccca88972b4": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "c7afc2887d7fc29547c0": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "97cd7b6349290032f276": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "860da2d41ccdf27f0d30": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "d9e5ae4047dd36ca736e": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "a58ed5f4524012c5b9b0": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "45186be758e1123e3a5a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "6dfcb9105a9c9fcd521a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "05e2be220e67b4d8f1e9": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "82a8a22ee00a5925034e": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "7820fa9063ea1c03de98": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "35b5090ce24657a84aec": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "bb706419d66dbccbac9d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "f1958aab734084fafaa5": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: www.theblock.co. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "ac1dee72e3538b3b129d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        },
+        "ce6a97a6514922530586": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinfoundation.org, cointelegraph.com. Needs full read plus second independent source before any draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:11:39.908Z",
+          "automatic": true
+        }
+      },
+      "baselineSlugs": [
+        "abstract-shutdown",
+        "anchorage-cuts",
+        "animoca-currenc",
+        "arbitrum-usdg",
+        "ark-venture",
+        "avalanche-uae",
+        "base-wallet",
+        "bastion-charter",
+        "binance-etfs",
+        "binance-mica",
+        "bitbank-sanctions",
+        "bitcoin-reserve",
+        "bitget-breach",
+        "blast-shutdown",
+        "brazil-depository",
+        "california-memecoins",
+        "cash-fx",
+        "cftc-leverage",
+        "cftc-markets",
+        "cftc-relief",
+        "chainlink-ccip",
+        "china-p2p",
+        "circle-arc",
+        "circle-borrow",
+        "citi-coinbase",
+        "clarity-act",
+        "clayton-ai",
+        "cleanspark-debt",
+        "cobalt",
+        "coinbase-clearing",
+        "coinbase-moov",
+        "coinbase-oura",
+        "coinbase-sentencing",
+        "coinex-shutdown",
+        "core-fix",
+        "davis-bill",
+        "demat-2",
+        "drift-claims",
+        "dtcpay-funding",
+        "duelbits-hack",
+        "ecb-pontes",
+        "eden-exploit",
+        "eez-atomic",
+        "eigenlayer-slashing",
+        "eqibank-seizure",
+        "esma-eu",
+        "esma-innovation",
+        "etf-inflows",
+        "ethena-tron",
+        "ether-staking",
+        "etherfi-stablecoin",
+        "euro-pilot",
+        "evernorth-listing",
+        "fairshake-house",
+        "fairshake-ohio",
+        "fca-gateway",
+        "fca-perimeter",
+        "fed-stablecoin",
+        "fetch-hack",
+        "fincen-withdrawal",
+        "fundsz",
+        "garantex-sanctions",
+        "gilt-pilot",
+        "glamsterdam",
+        "godfather-fraud",
+        "hamas-sanctions",
+        "hana-bond",
+        "hashsmash",
+        "hong-kong",
+        "house-probe",
+        "illinois-tax",
+        "imf-salvador",
+        "india-inflows",
+        "iran-forfeiture",
+        "kalshi-appeal",
+        "kalshi-perps",
+        "kamino-ceo",
+        "kelp-intercept",
+        "kelp-lawsuit",
+        "kraken-settlement",
+        "kztg-stablecoin",
+        "libra-ruling",
+        "liquid-ransom",
+        "maharashtra-assets",
+        "metamask-split",
+        "mica-lending",
+        "mica-review",
+        "moneygram-stablecoin",
+        "morpho-stocks",
+        "nasdaq-tokens",
+        "near-bitget",
+        "near-etf",
+        "near-exploit",
+        "near-recovery",
+        "occ-lawsuit",
+        "okx-money",
+        "okx-raise",
+        "okx-venue",
+        "ondo-private",
+        "ondo-shares",
+        "openzeppelin-acquisition",
+        "peirce-exit",
+        "polymarket-cfo",
+        "polymarket-fraud",
+        "polymarket-lawsuit",
+        "polymarket-v2",
+        "prysm-fix",
+        "quantum-bitcoin",
+        "quantum-cost",
+        "radix-halt",
+        "rain-charter",
+        "riot-loan",
+        "ripple-prime",
+        "robinhood-tokens",
+        "ruble-wages",
+        "safe-complaint",
+        "sec-buybacks",
+        "sec-custody",
+        "sec-exemption",
+        "sec-transfer",
+        "sepolia-fork",
+        "shib-solana",
+        "solana-dvp",
+        "solana-hires",
+        "solana-slots",
+        "spiko-raise",
+        "staking-queue",
+        "starknet-upgrade",
+        "startale-bond",
+        "strive-buyback",
+        "sun-prize",
+        "symbiosis-bridge",
+        "tax-bills",
+        "tda-sanctions",
+        "tether-freeze",
+        "thailand-stablecoin",
+        "thorchain-bitget",
+        "triple-funds",
+        "umia-raise",
+        "uniswap-hook",
+        "vechain-interstellar",
+        "visa-memecoins",
+        "waterplum",
+        "x-payout",
+        "xrpl-batch",
+        "zachxbt-syndicate",
+        "zcash-lobbyist",
+        "zcash-split",
+        "zcash-testnet",
+        "zcash-upgrade",
+        "zcash-vote",
+        "zec-etf",
+        "zeta-solana",
+        "zkapi"
+      ],
+      "discovery": {
+        "feeds": [
+          {
+            "source": "CoinDesk",
+            "url": "https://www.coindesk.com/arc/outboundfeeds/rss",
+            "ok": true,
+            "items": 25
+          },
+          {
+            "source": "Cointelegraph",
+            "url": "https://cointelegraph.com/rss",
+            "ok": true,
+            "items": 30
+          },
+          {
+            "source": "The Block",
+            "url": "https://www.theblock.co/rss.xml",
+            "ok": true,
+            "items": 20
+          },
+          {
+            "source": "Blockworks",
+            "url": "https://blockworks.com/feed",
+            "ok": true,
+            "items": 50
+          },
+          {
+            "source": "Decrypt",
+            "url": "https://decrypt.co/feed",
+            "ok": true,
+            "items": 58
+          },
+          {
+            "source": "Crypto Briefing",
+            "url": "https://cryptobriefing.com/feeds/",
+            "ok": false,
+            "error": "Error: Response is not an RSS/Atom feed",
+            "items": 0
+          },
+          {
+            "source": "CryptoSlate",
+            "url": "https://cryptoslate.com/feed/",
+            "ok": true,
+            "items": 10
+          },
+          {
+            "source": "BeInCrypto",
+            "url": "https://beincrypto.com/feed/",
+            "ok": true,
+            "items": 12
+          },
+          {
+            "source": "Bitcoin Magazine",
+            "url": "https://bitcoinmagazine.com/feed",
+            "ok": true,
+            "items": 10
+          },
+          {
+            "source": "CoinJournal",
+            "url": "https://coinjournal.net/feed/",
+            "ok": false,
+            "error": "Error: HTTP 500",
+            "items": 0
+          },
+          {
+            "source": "The Defiant",
+            "url": "https://thedefiant.io/api/feed",
+            "ok": true,
+            "items": 100
+          },
+          {
+            "source": "Unchained",
+            "url": "https://unchainedcrypto.com/feed/",
+            "ok": true,
+            "items": 10
+          },
+          {
+            "source": "Bankless",
+            "url": "https://www.bankless.com/rss/feed",
+            "ok": true,
+            "items": 100
+          },
+          {
+            "source": "SEC Press Releases",
+            "url": "https://www.sec.gov/news/pressreleases.rss",
+            "ok": true,
+            "items": 25
+          },
+          {
+            "source": "Chainwire",
+            "url": "https://chainwire.org/feed/",
+            "ok": true,
+            "items": 6
+          },
+          {
+            "source": "Ethereum Foundation",
+            "url": "https://blog.ethereum.org/en/feed.xml",
+            "ok": true,
+            "items": 642
+          }
+        ],
+        "total": 44,
+        "checkedAt": "2026-10-11T10:11:39.908Z"
+      }
     }
   }
 }
