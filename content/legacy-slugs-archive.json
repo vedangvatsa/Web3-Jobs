@@ -137082,5 +137082,23 @@
     "company": "Open Standard",
     "title": "Communications and Marketing Lead",
     "newSlug": "mkt105"
+  },
+  "qa84": {
+    "id": "744000151850939",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850939-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "eng556": {
+    "id": "4971516101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4971516101",
+    "company": "Bybit",
+    "title": "[Intern] Test Development Engineer Intern"
+  },
+  "ai13": {
+    "id": "8172487",
+    "link": "https://stripe.com/jobs/search?gh_jid=8172487",
+    "company": "Stripe",
+    "title": "Abuse Investigator"
   }
 }
