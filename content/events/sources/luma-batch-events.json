@@ -4236,33 +4236,30 @@
     "id": "luma-batch-kBSIe7BSMtDFldg",
     "slug": "cw0h549b",
     "name": "Onchain Legal Summit :: Devcon India 2026",
-    "description": "The third Entity Legal Summit - after Devconnect Buenos Aires (2025) and Consensus HK (2026).\n\nOne room, one question: what is an onchain entity, legally - and who answers for the AI agents inside it?\n\nFounders, lawyers, protocol designers, and governance architects working the legal frontier of AI agents, DAOs, and autonomous systems. This is a working summit, not a showcase: law as code, agent personhood and ERC-8004, decentralized justice and AI arbitration, borderless entities, liability frameworks, onchain civil records - and this year, India's own frontier: online dispute resolution, digital public infrastructure, and what national registries can learn from open ones.\n\nAgenda\n\n..Coming soon\n\n🔥 Topics\n\nOnchain Legal Stacks - DAO Governance and compliance tools\n\nLaw as Code – From legal text to computable contracts\n\nKYA: Know Your Agent – Legal status of AI agents & autonomous protocols\n\nCan AI Vote in a DAO? – Governance rights in autonomous systems\n\nDecentralized Justice for Real-World Disputes – Onchain arbitration for everyday cases\n\nJurisdiction Zero – Can entities live onchain without borders?\n\nDAO Governance x Onchain Courts – Using neutral protocols for internal dispute resolution\n\nRecognition by Design – What makes an entity legit in Web3?\n\nCross-Jurisdictional Compliance – Forming and operating borderless entities\n\nRegistries Rewired – Infrastructure for the next legal stack\n\nConstitutional Logic – Designing legal entities in Solidity and beyond\n\nLiability in the Age of Autonomous Code\n\nOnchain Civil Records – Marriages, death certificates, and notarization\n\nWhat If Lawyers Wrote APIs?\n\nHosted by Entity.ID with the community from the first two summits. for Partnership & speakers inquiries use this form",
-    "startDate": "2026-11-02T03:30:00.000Z",
-    "endDate": "2026-11-02T13:30:00.000Z",
+    "description": "Entity's Onchain Legal Summit examines the legal status of onchain entities, AI agents and DAOs. Announced topics include governance, liability, arbitration and cross-jurisdictional compliance. The detailed agenda is still to be announced.",
+    "startDate": "2026-11-04T05:30:00.000Z",
+    "endDate": "2026-11-04T11:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Bandra Kurla Complex, Mumbai, Maharashtra, India",
+    "location": "Mumbai, India",
     "url": "https://luma.com/cw0h549b",
     "registrationUrl": "https://luma.com/cw0h549b",
-    "coverImage": "/events/luma-batch-kBSIe7BSMtDFldg-83b613f8.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/hd/ce6ed4b8-bd25-40a7-aa3c-1a2a69b85de7.png",
     "source": "luma-batch",
     "hosts": [
-      "Sam"
+      "Sam",
+      "RegistryChain"
     ],
     "price": "Free",
     "approvalRequired": false,
     "timezone": "Asia/Kolkata",
-    "neighborhood": "Bandra Kurla Complex",
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": true,
-    "addressLocality": "Mumbai",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
     "organizer": {
       "type": "Organization",
-      "name": "Sam",
-      "url": "https://luma.com/user/husam"
+      "name": "Entity",
+      "url": "https://entity.id/"
     },
     "ticketOffers": [
       {
@@ -4276,27 +4273,41 @@
     "sourceVerification": {
       "url": "https://luma.com/cw0h549b",
       "eventId": "evt-kBSIe7BSMtDFldg",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "fetchedAt": "2026-10-11T18:38:43.567Z",
+      "method": "luma-page"
     },
     "sideEventFor": [
-      "ibw"
-    ]
+      "ibw",
+      "devcon"
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/cw0h549b",
+      "fetchedAt": "2026-10-11T18:38:43.567Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Onchain Legal Summit :: Devcon India 2026",
+      "sha256": "2ccf37f851a36d5446e8d7c264fa5a58abc00b54bb698198adde4c1bb371b238",
+      "evidence": [
+        {
+          "url": "https://luma.com/cw0h549b",
+          "fetchedAt": "2026-10-11T18:38:43.567Z",
+          "sha256": "384f17391ccce0639dfda1d5c5b03353da425de08ccf5467d9c5810a07ac3ed3"
+        }
+      ]
+    }
   },
   {
     "id": "luma-batch-HWyWCSbQQ3n6tLU",
     "slug": "rsm1xrxt",
     "name": "Sidequest: Chai at Dawn",
-    "description": "A chai cart, somewhere in the city, every morning of Devcon week.\n\nCome before the conference opens. Get a chai, stand around, talk to whoever else is up. No programme, no badge scan, no reason to be there except that it's early and the city is awake.\n\nFree. Come once or come all four mornings.Part of Sidequest — nine small things across Mumbai during Devcon week, 2–6 November. No badge, no app. sidequest.interspace.zone\n\n## Hosts\n\nHosted by Interspace Studio (We design how people meet. Interspace builds the parts of an event that happen outside the conference hall. Sidequest — ).",
+    "description": "Sidequest offers free morning chai during Devcon week. Attendees can join once or return on each of the four mornings; there is no formal program.",
     "startDate": "2026-11-03T02:30:00.000Z",
     "endDate": "2026-11-06T04:00:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, Mumbai, Maharashtra, India",
+    "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/rsm1xrxt",
     "registrationUrl": "https://luma.com/rsm1xrxt",
-    "coverImage": "/events/luma-batch-HWyWCSbQQ3n6tLU-69b84c8a.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/ws/a8f66711-c96e-4bde-804b-17928834efb6.png",
     "source": "luma-batch",
     "hosts": [
       "Interspace Studio"
@@ -4313,40 +4324,60 @@
     "addressCountry": "IN",
     "organizer": {
       "type": "Organization",
-      "name": "Interspace Studio",
-      "url": "https://luma.com/user/interspace"
+      "name": "Sidequest Mumbai",
+      "url": "https://sidequest.interspace.zone/"
     },
     "ticketOffers": [
       {
         "name": "Standard",
         "url": "https://luma.com/rsm1xrxt",
         "price": 0,
-        "availability": "InStock"
+        "availability": "SoldOut"
       }
     ],
-    "registrationAvailability": "open",
+    "registrationAvailability": "waitlist",
     "sourceVerification": {
       "url": "https://luma.com/rsm1xrxt",
       "eventId": "evt-HWyWCSbQQ3n6tLU",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
+      "fetchedAt": "2026-10-11T18:38:37.988Z",
+      "method": "luma-page"
+    },
+    "coordinates": {
+      "latitude": 18.9582347,
+      "longitude": 72.8319514
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/rsm1xrxt",
+      "fetchedAt": "2026-10-11T18:38:37.988Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Sidequest: Chai at Dawn",
+      "sha256": "88da529351213a5e15aed6dc8a2901a654b03aaa8f3d36f519f2618e42a3ff3b",
+      "evidence": [
+        {
+          "url": "https://luma.com/rsm1xrxt",
+          "fetchedAt": "2026-10-11T18:38:37.988Z",
+          "sha256": "456e5995a53fa0d824b33e4884c215614bd9928aa19dcd4cde96b9abd719714f"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "luma-batch-G3fjJAlPZ0oK9GC",
     "slug": "7729jnr3",
     "name": "The Yield Layer of Social Impact",
-    "description": "The Yield Layer of Social Impact is a half-day side event at Ethereum Devcon Mumbai, co-hosted by Launchnodes and GSR Foundation. We bring together donors, impact organisations, and the protocols underwriting on-chain yield.\n\nThe premise: staking and stablecoin yield can fund global impact at scale, without donors parting with their principal.The day is built as a deliberate arc: what has been built, where the capital comes from, what is getting built on top, and where it goes next. Expect fireside conversations with the protocols underwriting on-chain yield, a keynote from a leading global impact voice, and panels with donors, foundations, and builders.\n\nTens of billions sit in on-chain stablecoins, alongside millions of ETH staked. Most of the yield is reinvested, idle, or consumed by operating costs. Over the last two years, Launchnodes has built the rails that let any of that yield flow directly to vetted impact organisations, while the principal stays staked and fully withdrawable. Those rails are Lido Impact Staking and Stablecoin for Impact built on Aave.\n\nThe infrastructure exists. The question now is how to open these rails to non crypto institutional TVL and convert that capital into measurable impact at scale.\n\nThe room is curated: India's largest corporate philanthropy operations alongside on-chain capital, impact organisations already operating on-chain or actively exploring it, and the protocols underwriting it all.\n\nIf yield becomes the next layer of philanthropy, this is the room where it starts.----------------------This event is organised by Launchnodes, the Ethereum infrastructure company behind Lido Impact Staking and Stablecoin for Impact. Launchnodes builds the financial rails that let on-chain yield flow directly to vetted impact organisations. Together, these products form Impactstake.com, the platform connecting donor capital with measurable social and environmental outcomes. Launchnodes also builds infrastructure and dApps on Canton Network for traditional financial institutions.",
+    "description": "Launchnodes and GSR Foundation host a program about using staking and stablecoin yield to fund social impact. The agenda includes fireside conversations, a keynote and panels with donors, foundations and builders.",
     "startDate": "2026-11-04T04:30:00.000Z",
     "endDate": "2026-11-04T10:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "IFBE, IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India",
+    "location": "IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India",
     "url": "https://luma.com/7729jnr3",
     "registrationUrl": "https://luma.com/7729jnr3",
-    "coverImage": "/events/luma-batch-G3fjJAlPZ0oK9GC-d8b1eef8.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/k8/0801e3ad-20f9-4e92-b849-2f1ea2e6e370.png",
     "source": "luma-batch",
     "hosts": [
       "Launchnodes"
@@ -4362,10 +4393,6 @@
     "addressLocality": "Mumbai",
     "addressRegion": "Maharashtra",
     "addressCountry": "IN",
-    "organizer": {
-      "type": "Organization",
-      "name": "Launchnodes"
-    },
     "ticketOffers": [
       {
         "name": "Standard",
@@ -4378,24 +4405,46 @@
     "sourceVerification": {
       "url": "https://luma.com/7729jnr3",
       "eventId": "evt-G3fjJAlPZ0oK9GC",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
+      "fetchedAt": "2026-10-11T18:38:42.849Z",
+      "method": "luma-page"
+    },
+    "streetAddress": "10-12, Calicut Rd, Ballard Estate, Fort, Mumbai",
+    "coordinates": {
+      "latitude": 18.9351924,
+      "longitude": 72.83818400000001
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/7729jnr3",
+      "fetchedAt": "2026-10-11T18:38:42.849Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The Yield Layer of Social Impact",
+      "sha256": "c1097be98fd557f5ef06517bd6bb833f893239ba9ae01bde67deba883e78df79",
+      "evidence": [
+        {
+          "url": "https://luma.com/7729jnr3",
+          "fetchedAt": "2026-10-11T18:38:42.849Z",
+          "sha256": "84a7ce4819195358507522994443fc4687e5b93191ba6e76c2cded25e082cafd"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "luma-batch-hIZnQMK5SVTWgj8",
     "slug": "ena53peq",
     "name": "Biggest CT G.A.Y Party",
-    "description": "Biggest CT G.A.Y Party\n\nGather Align Yield\n\nAbout Event\n\nOPEN FOR ALL — builders, traders, creators, and anyone active in crypto Twitter or crypto IRL.\n\nA high-signal crypto IRL meetup built for people who are not just watching CT but actively moving in it.\n\nThis is where traders meet builders, creators meet founders, and random conversations turn into real opportunities.\n\nNo boring panels. No passive listening.Just real people, real conversations, and real alpha in one room.\n\n🔥 Why You Shouldn’t Miss This\n\nHigh-quality networking – Meet serious traders, builders, and Web3 operators from CT and your city\n\nReal conversations, real value – Market talk, strategy sharing, project ideas, and alpha flows naturally\n\nBuilder x trader energy – Connect with people actively shipping, trading, and scaling in crypto\n\nOpportunity zone – Collabs, partnerships, and future deals often start here\n\nUnfiltered crypto talk – No scripts, no filters, just what is actually happening in the space\n\n✨ What You’ll Get\n\nExclusive IRL networking with CT-native crowd\n\nEarly connections with active builders and traders\n\nCommunity-driven discussions around trends and opportunities\n\nLight food, drinks and a chill environment for real conversations\n\n📅 Event Details\n\n🗓 Date: 6th December\n\n⏰ Time: 4 PM to 7 PM\n\n📍 Venue: To be shared with registered attendees\n\n🚀 Limited Spots Only\n\nThis is not a mass event. It is a curated room of people who are actually building or actively involved in crypto.\n\nIf you are early, curious, or already deep in the space, this is where you should be.\n\nReserve your spot and show up ready to connect.",
+    "description": "The organizer describes a meetup for crypto traders, builders and creators. Its structured schedule says November 5, while the description says December 6 from 16:00 to 19:00.",
     "startDate": "2026-11-05T14:00:00.000Z",
     "endDate": "2026-11-05T19:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Mumbai, India",
     "url": "https://luma.com/ena53peq",
     "registrationUrl": "https://luma.com/ena53peq",
-    "coverImage": "/events/luma-batch-hIZnQMK5SVTWgj8-fc1d14a3.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/2j/dce59160-e84b-466d-9d0b-79c9736b612b.jpg",
     "source": "luma-batch",
     "hosts": [
       "Secret Society"
@@ -4406,14 +4455,6 @@
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": true,
-    "addressLocality": "Mumbai",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
-    "organizer": {
-      "type": "Organization",
-      "name": "Secret Society",
-      "url": "https://luma.com/user/SecretSociety"
-    },
     "ticketOffers": [
       {
         "name": "Standard",
@@ -4426,24 +4467,46 @@
     "sourceVerification": {
       "url": "https://luma.com/ena53peq",
       "eventId": "evt-hIZnQMK5SVTWgj8",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
+      "fetchedAt": "2026-10-11T18:39:02.452Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/ena53peq",
+      "fetchedAt": "2026-10-11T18:39:02.452Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Biggest CT G.A.Y Party",
+      "sha256": "c8feea040007451802d057cef0b772495ae6acf45db823df257084860d7bc31a",
+      "evidence": [
+        {
+          "url": "https://luma.com/ena53peq",
+          "fetchedAt": "2026-10-11T18:39:02.452Z",
+          "sha256": "5c6547437cfb5efa4601b2729c1524911489423901b18699746fa0f19476ad4c"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw"
+    ],
+    "publicationStatus": "needs-review",
+    "sourceReview": {
+      "checkedAt": "2026-10-11T18:39:02.452Z",
+      "url": "https://luma.com/ena53peq",
+      "reason": "Structured schedule says November 5, 2026 at 19:30 to November 6 at 01:00 IST; description says December 6 at 16:00 to 19:00. Existing record retained for review and excluded from the dated public catalog."
     }
   },
   {
     "id": "luma-batch-cFXe8eT3nFr409n",
     "slug": "np3wx7v5",
     "name": "MONEY MAKER",
-    "description": "This event traces the evolution of money and its profound influence on human civilization. We’ll examine where today’s monetary systems have fallen short and explore how they might be redesigned for a more resilient and equitable future. The conversation will span fiat currencies, central banking, monetary policy, stablecoins, incentive design, security, privacy, artificial intelligence, and the forces shaping the future of money.Followed by dinner, drinks, and an after party with live DJs and performers!\n\n## Hosts\n\nHosted by namic (Summoner of Money League).\n\n## Event details\n\nThe event takes place on November 6. Venue: IFBE, IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India.",
+    "description": "MONEY MAKER examines monetary systems, central banking, stablecoins, incentive design, security, privacy and AI. The organizer plans talks followed by dinner and an after-party. This is not ETHGlobal Mumbai, despite the spreadsheet's Day 1 link.",
     "startDate": "2026-11-06T07:30:00.000Z",
     "endDate": "2026-11-06T19:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "IFBE, IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India",
+    "location": "IFBE, 10-12, Calicut Rd, Ballard Estate, Fort, Mumbai, Maharashtra 400001, India",
     "url": "https://luma.com/np3wx7v5",
     "registrationUrl": "https://luma.com/np3wx7v5",
-    "coverImage": "/events/luma-batch-cFXe8eT3nFr409n-cd5cfb77.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/ry/cd402ca4-723a-4485-9ba7-1d641b17ad15.png",
     "source": "luma-batch",
     "hosts": [
       "namic"
@@ -4459,11 +4522,6 @@
     "addressLocality": "Mumbai",
     "addressRegion": "Maharashtra",
     "addressCountry": "IN",
-    "organizer": {
-      "type": "Organization",
-      "name": "namic",
-      "url": "https://luma.com/user/daonamic"
-    },
     "ticketOffers": [
       {
         "name": "Standard",
@@ -4476,11 +4534,32 @@
     "sourceVerification": {
       "url": "https://luma.com/np3wx7v5",
       "eventId": "evt-cFXe8eT3nFr409n",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z"
-    }
+      "fetchedAt": "2026-10-11T18:38:47.717Z",
+      "method": "luma-page"
+    },
+    "streetAddress": "10-12, Calicut Rd, Ballard Estate, Fort, Mumbai",
+    "coordinates": {
+      "latitude": 18.9351924,
+      "longitude": 72.83818400000001
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/np3wx7v5",
+      "fetchedAt": "2026-10-11T18:38:47.717Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "MONEY MAKER",
+      "sha256": "f7956da8f81e77a9cf343fa06ea1f25aad93e9ebcd0091c8b4ae9f4152337ad4",
+      "evidence": [
+        {
+          "url": "https://luma.com/np3wx7v5",
+          "fetchedAt": "2026-10-11T18:38:47.717Z",
+          "sha256": "6a3bf9c9388c0faf73f926aef18e28af003353958ba09d8f345a85e232039644"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "luma-batch-H0lySrmksi6Ewbr",
@@ -17108,18 +17187,21 @@
     "id": "luma-batch-evtaPGKR2FFDEuck",
     "slug": "tbe-devcon26",
     "name": "The Best Event: Afterdark Devcon",
-    "description": "Stay in the loop for what’s happening at The Best Event!\n\nJoin our Telegram group for all the updates 👉 https://t.me/+5KzXYg2cridmOGRl\n\nFor sponsor inquiries, please contact Mihir via email or Telegram.\n\nFollow The Best Event on Instagram for event information, recaps, features, and giveaways 👉 https://instagram.com/thebestevent\n\nThe Best Event: AFTER DARK\n\nThe Best Event Afterdark is a global-level production where Web3 meets world-class entertainment.\n\nIf you're tired of the same old venues, the same boring formats, hours of pointless speeches, and stiff networking, The Best Event Afterdark is where you need to be.\n\nWe've made the news for our events before, and we're likely to do it again. Come make history, make great connections, and have an amazing night while you're doing it.\n\n7:00 PM – 9:00 PM: VIP Networking (VIP Ticket-Holders Only)\n9:00PM - 1:30AM: The Main Event (All Ticket Holders, FCFS for GA)\n\nAFTERDARK Highlights:\n\n🎶 Tier-1 international artists\n👥 3,000+ attendees\n🌍 Global PR & media reach\n\nHeadliner artists to be announced soon!\n\nHeld at Bağlami, one of BKC's most sought-after lifestyle destinations, in the heart of Mumbai's most premium district. Known for its striking design, world-class cocktail programme and music-driven energy, Bağlami seamlessly transforms from an elevated dining space into a high-octane nightlife venue, making it the perfect home for AFTERDARK. Expect refined interiors, an electric crowd, and a night Mumbai won't forget.\n\nHosted by:\n\nThe Best Event is the global series where Web3 comes to life — blending culture, tech, music, and community in iconic venues around the world. We bring together the boldest creators, top brands, and visionaries shaping the future for unforgettable, high-energy experiences.\n\nTBV (TB Ventures) is a VC fund focused on leading rounds in early-stage web3 companies in Southeast Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.\n\nSupported by:\n\nGolden Ratio Group is a European-focused, MiCA-aligned ecosystem bridging traditional finance and digital assets through instant trading, borderless payments, and tokenized real-world assets.\n\nBrickken is an institutional-grade software provider delivering end-to-end infrastructure for the compliant tokenization and management of real-world assets (RWA).\n\nMedia Partners:\n\nMarketAcross is the world's leading PR firm in Web3, with clients such as Binance, Crypto.com, dYdX, KuCoin & Cardano.\n\nEAK Digital is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.\n\nArcadia is the #1 Web3 advisory company with a $50B FDV. They specialize in propelling Web3 brands to new heights and have delivered unparalleled marketing strategies to industry heavyweights, including Polymarket, Hedera, and Shiba Inu.\n\nGenius PR is a global media agency that helps Web2 and Web3 companies build credibility and awareness through the press and growth hacking.\n\nPukecast is Asia’s new media platform, curating content through education, experiences & community across 6 countries in Asia.\n\nGenzio, drives measurable growth for innovative brands. They're committed to delivering practical, results-driven marketing solutions that position your brand to succeed and lead in the ever-changing digital landscape.\n\nBlock Tides - A dynamic force ecosystem blends creativity and enchantment with quantifiable growth and concrete achievements.\n\nMore to be announced! 🔥",
+    "description": "The Best Event's Afterdark program includes VIP networking from 19:00 to 21:00 IST, followed by the main event until 01:30. VIP networking is limited to VIP ticket holders; general admission to the main event is first come, first served.",
     "startDate": "2026-11-05T13:30:00.000Z",
     "endDate": "2026-11-05T20:00:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Mumbai, India",
     "url": "https://luma.com/tbe-devcon26",
     "registrationUrl": "https://luma.com/tbe-devcon26",
-    "coverImage": "/events/luma-batch-evtaPGKR2FFDEuck-9252f349.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/wt/e54cfb86-fdd2-4651-920f-90fc030542b6.jpg",
     "source": "luma-batch",
     "hosts": [
-      "The Best Event"
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
     ],
     "price": "Free",
     "timezone": "Asia/Kolkata",
@@ -17127,12 +17209,52 @@
     "visibility": "public",
     "eventType": "other",
     "sourceVerification": {
-      "url": "https://luma.com/tbe-devcon26",
+      "url": "https://luma.com/TBE-Devcon26",
       "eventId": "evt-aPGKR2FFDEuckm2",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
+      "fetchedAt": "2026-10-11T18:38:46.732Z",
+      "method": "luma-page"
+    },
+    "locationHidden": true,
+    "organizer": {
+      "type": "Organization",
+      "name": "The Best Event",
+      "url": "https://thebestevent.com/"
+    },
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "TBE AfterDark Pass",
+        "url": "https://luma.com/TBE-Devcon26",
+        "price": 0,
+        "availability": "InStock"
+      },
+      {
+        "name": "The Best VIP Pass",
+        "url": "https://luma.com/TBE-Devcon26",
+        "price": 99,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "descriptionSource": {
+      "url": "https://luma.com/TBE-Devcon26",
+      "fetchedAt": "2026-10-11T18:38:46.732Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "The Best Event: Afterdark Devcon",
+      "sha256": "74caa80e45163305bd3827a8404672cb0e7eec17b12d476e2c1ab9a4df19482d",
+      "evidence": [
+        {
+          "url": "https://luma.com/TBE-Devcon26",
+          "fetchedAt": "2026-10-11T18:38:46.732Z",
+          "sha256": "438e0d44c6e14562548e75db4ef0e46618d08c8f57e1e07cc1a86b019a4657bf"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "luma-batch-evtycWrx5n01IFcf",

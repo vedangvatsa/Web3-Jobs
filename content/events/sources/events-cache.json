@@ -8659,44 +8659,66 @@
   {
     "id": "w3v-india-blockchain-week-2026",
     "name": "India Blockchain Week 2026",
-    "description": "India Blockchain Week 2026: a November 1–2 conference at Fairmont Mumbai for builders, founders, protocols, investors and institutions.",
-    "startDate": "2026-11-01T04:30:00.000Z",
-    "endDate": "2026-11-02T13:30:00.000Z",
+    "description": "India Blockchain Week Conference takes place at Fairmont Mumbai on November 1 and 2, 2026. Hashed Emergent organizes the conference, with talks and discussions about blockchain and the Indian Web3 ecosystem.",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-02",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, IN",
+    "location": "Fairmont Mumbai, Mumbai, India",
     "url": "https://indiablockchainweek.com",
     "coverImage": "/events/ev-8ee2f899.webp",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
-    "month": "November 2026"
+    "month": "November 2026",
+    "timezone": "Asia/Kolkata",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "attendanceMode": "offline",
+    "descriptionSource": {
+      "url": "https://indiablockchainweek.com/",
+      "fetchedAt": "2026-10-11T18:39:06.121Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "India Blockchain Week 2026",
+      "sha256": "f9fd73412b75d0441f866699db648385cfd26a9aa10e7788af05d1c1db97e942",
+      "evidence": [
+        {
+          "url": "https://indiablockchainweek.com/",
+          "fetchedAt": "2026-10-11T18:39:06.121Z",
+          "sha256": "580165cfc11da51c78b6045e2240b52bb3ee8b79c38985c7cf9b2573f0feab91"
+        }
+      ]
+    },
+    "slug": "ibw",
+    "venueName": "Fairmont Mumbai"
   },
   {
     "id": "w3v-ethereum-cypherpunk-congress-mumbai",
     "name": "Ethereum Cypherpunk Congress #3",
-    "description": "Cypherpunk Congress is coming to India!\n\nExpect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition hit 4500 people, 100 speakers from Vitalik Buterin/Ethereum to Roger Dinglerine/Tor & long-lasting impact.\n\n## The first batch of highly-curated speakers are here\n\nCuratorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.\n\nThey propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & [attacks on encryption. With proven track record from @EFF](https://x.com/EFF) [to @brave](https://x.com/brave).\n\nWelcome to Mumbai!\n\n@[kurtopsahl](https://x.com/kurtopsahl) [x  @FilFoundation](https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks\n\n@[Isa](https://x.com/Isa) [x @torproject](https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights\n\n@[ghappour](https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.\n\n@[therealyingtong](https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people\n\n[Justin Drake](https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher\n\n@[lunardragon420](https://x.com/lunardragon420) [x @DarkFiSquad](https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code\n\n@[mala](https://x.com/mala) [x @FilFoundation](https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come\n\n@[jaromil](https://x.com/jaromil) [x @DyneOrg](https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions\n\n@[ml_sudo](https://x.com/ml_sudo) [x  @ethereumfndn](https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems\n\n@[PryvitKyle](https://x.com/PryvitKyle) [x @brave](https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech\n\n@[SCBuergel](https://x.com/SCBuergel) [x @gnosis_](https://x.com/gnosis_) + @[hoprnet](https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.\n\n@[jbaylina](https://x.com/jbaylina) [x @ziskvm](https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.\n\nFOCUS AREAS\n\n@[AndyGuzmanEth](https://x.com/AndyGuzmanEth) [x @PrivacyEthereum](https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.\n\n@[Fatalmeh](https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics\n\n@[miroyato](https://x.com/miroyato) [x @fileverse](https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture\n\n@[auryn_macmillan](https://x.com/auryn_macmillan) [x  @EnclaveE3](https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.\n\n@[hebbianloop](https://x.com/hebbianloop) [x @humntech](https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech\n\n@[Cryptic_cm](https://x.com/Cryptic_cm) [x @session_app](https://x.com/session_app)  for providing vocal alternatives to how we securely communicate & collaborate online\n\n@[kassandraETH](https://x.com/kassandraETH) [x @ethereumfndn](https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism\n\n@[Pol_Lanski](https://x.com/Pol_Lanski) [x @dappnode](https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance\n\n@[LoringHarkness](https://x.com/LoringHarkness) [x @ShutterNetwork](https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools\n\n@[TMIYChao](https://x.com/TMIYChao) [x @ethereumfndn](https://x.com/ethereumfndn) + @[BordelWTF](https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch ([we translate: use @GrapheneOS](https://x.com/GrapheneOS), run your own node, visit CCC etc)\n\n@0xMeTony (https://x.com/0xMeTony) [x @fluidkey](https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time\n\n[Daniel x @invisiblgarden](https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies\n\n@[ncsgy](https://x.com/ncsgy) [x @ethereumfndn](https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.\n\n@[willscott](https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.\n\n## Great privacy, internet of freedoms organisations will be present at Cognress\n\nCOMMUNITY PARTNERS\n\nSPONSORS\n\nCONTRIBUTE\n\nPartner: https://tally.so/r/mVxvgN\nSpeak (CfP): https://tally.so/r/nrOzXl\nVolunteer: https://tally.so/r/3lLqKo\n\nJoin our community to receive latest news: https://t.me/+QOj6126xlEs0OTQ0\n\nWatch Congress #2 talks: https://youtu.be/XKJ1ZJrkKWA?si=eZNEZQri3uheJgrN\n\n## Lasting cultural phenomenon\n\nFocusing on values, active political stance, and cutting-edge research will help Ethereum become a cultural & resilient to change phenomenon.\n\nwatch aftermovie: https://www.youtube.com/watch?v=97-qkXRmMlk\n\nexpect phenomenal lineup [Congress #2 example]\n\nWe are talking not only about the existence of privacy-preservation dapps, but Free & Open-source software development, support for free speech and whistleblowers around the world, helping marginalized people get access to the decolonial money system, safe & empowered tech, and last but not least - diverse and active communities of care.\n\nSupporting privacy developers\n\nRoman Storm Congress #2 opening https://youtu.be/XKJ1ZJrkKWA?si=GGrhiF5TOZcfjUqy&t=811\n\n## Connecting web2 + web3\n\nVitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_GiQNEA\n\n## Ethereum Social Layer (ESL)\n\nIt is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future ([explore our Cyherpunk personas](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & [censorship-resistance ideology. Follow Paul-Dylan Ennis](https://x.com/post_polar_/status/1813275641954877709) on ESL.\n\n## Activation\n\nThe debut Ethereum Cypherpunk Congress assembles an active part of Ethereum. These people and organizations want to stand at the foundations of the unstoppable socio-techno-cultural movement.\n\nSpecial rituals help us to share Cypherpunk culture & build care for each other.\n\nThey are activists, developers, cryptographers, ethical investors, philosophers, and researchers who are changing the possibilities for Ethereum on the path to freedom.\n\nHackathon track\nEvents for developers are critical activation points behind any cultural change. Every protocol from Aztec to Ethereum needs devs to build on top of it & deliver decentralized, permissionless & privacy-enhancing applications. We invited current privacy hackathon devs to reflect on their experience.\n\nWomen in web3 privacy track\nDiversity in the web3 industry is a critical challenge, let alone in the privacy market. Let's discuss how we can be more open, diverse & inclusive to different opinions and opportunities.\n\nActivation track\nWe want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools [empowering your journey in decentralized world: Fileverse](http://fileverse.io), [Rotki](http://rotki.com), [Fluidkey](http://fluidkey.com), Radicle, GnosisVPN.\n\nStunning merch delivered by Coinmandeer\n\n## High-level agenda\n\n• craft conditions needed to overcome challenges mapped in “Make Ethereum Cypherpunk again” essay\n• [present Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players\n• explore socio-cultural conditions re-wiring degens into cypher-activists\n• build a mainstream culture around cypherpunk - make it an open and inclusive movement\n• remind of the origins of Ethereum ethos\n• articulate balance between open-source culture & financial sustainability behind projects\n• map the way to onboard 100K developers & 10M users experiencing safe Ethereum-centric privacy tech\n\nContribute to the development of the cypherpunk culture of Ethereum. Everyone will be welcome here, from activists defending the rights of developers to degens who finally want to find a strong meaning in life.\n\nContribute\n\nSpeak (CfP): https://tally.so/r/nrOzXl\n\nPartner:\n- [web3privacynow 'at' protonmail.com](http://protonmail.com) or\n- https://x.com/PG_CDG\n\nVolunteer: https://tally.so/r/3lLqKo\n\nOur previous events (feel the vibe)\n\n• [Privacy Summit II](https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024\n• [Privacy Summit I](https://prague.web3privacy.info) - X10, Prague 2023\n• [ETHRome Meetup](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023\n  Useful resources (for real)\n  Website: https://web3privacy.info/\n  Latest news: http://twitter.com/web3privacy\n  Github: http://www.github.com/web3privacy\n  Privacy market dashboard: http://explorer.web3privacy.info\n\n#Ethereum #cypherpunk #privacy #freedom #community #you",
+    "description": "Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program addresses digital rights, open-source software, decentralization, cryptography and practical privacy tools.",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Yashwantrao Chavan Centre, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, India",
     "url": "https://luma.com/spsnos9t",
-    "coverImage": "/events/luma-recover-w3vethereumcyphe-cb8e4c27.webp",
+    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
     "month": "November 2026",
-    "timezone": "Asia/Calcutta",
+    "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/spsnos9t",
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": false,
-    "venueName": "Mumbai",
+    "venueName": "Yashwantrao Chavan Centre",
     "addressLocality": "Mumbai",
     "addressRegion": "Maharashtra",
     "addressCountry": "IN",
     "coordinates": {
-      "latitude": 18.9581934,
-      "longitude": 72.8320729
+      "latitude": 18.9249445,
+      "longitude": 72.8265239
     },
     "hosts": [
       "Mykola x Web3Privacy now",
@@ -8705,7 +8727,7 @@
     "organizer": {
       "type": "Organization",
       "name": "Web3Privacy Now Events",
-      "url": "https://web3privacy.info/events"
+      "url": "https://web3privacy.info/"
     },
     "price": "Free",
     "approvalRequired": false,
@@ -8721,11 +8743,30 @@
     "sourceVerification": {
       "url": "https://luma.com/spsnos9t",
       "eventId": "evt-CyZRiDdLECiCPRS",
-      "fetchedAt": "2026-09-20T07:56:56.136Z",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
       "method": "luma-page"
     },
     "website": "https://luma.com/spsnos9t",
-    "slug": "eccm"
+    "slug": "eccm",
+    "streetAddress": "WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai",
+    "neighborhood": "Nariman Point",
+    "descriptionSource": {
+      "url": "https://luma.com/spsnos9t",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Ethereum Cypherpunk Congress #3",
+      "sha256": "4171f06c1c7340fc0fc4755e4f1ac5713984609a26c19f68161b582f202d5e01",
+      "evidence": [
+        {
+          "url": "https://luma.com/spsnos9t",
+          "fetchedAt": "2026-10-11T18:38:51.372Z",
+          "sha256": "13c12d85212f561f92b2bf5b41d8db25d83307107dac5714ef3693b75038222c"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
@@ -8766,14 +8807,14 @@
   {
     "id": "w3v-solana-summit-india",
     "name": "Solana Summit India",
-    "description": "Solana Summit India offers a dynamic one-day immersion into the Solana ecosystem, featuring insightful talks, engaging panels, and interactive workshops led by industry pioneers.\n\nThis event is designed for founders, developers, and creatives, tailored to highlight innovative applications and developments in the Solana network. Join us for a day of meaningful talks, networking, and deep insights, focused on the Solana ecosystem in India, tokenization of real-world assets, evolving policy and regulatory frameworks, developer insights, and applications pushing the network forward.\n\nAre [you interested in speaking at the event? Please apply here](https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).\n\nDuring the event, you can expect:\n\n• Informative, educational programming around hot topics on Solana and the local ecosystem, as well as workshops, panels, and presentations from industry leaders and ecosystem teams.\n• Talks from CTOs, founding engineers & outstanding developers working on some of the hardest and most interesting technical problems on Solana.\n• Test, build, and receive feedback on your ideas, with a particular focus on assessing product-market fit, which is crucial to any product's success.\n• Opportunities for networking and learning.\n• A venue with good WiFi, power, and workstations, plus food and lounges to make conversation or relax.\n• Networking mixer at the end of the day\n\nSolana Summit India is open to all who register ahead of time and are approved, so we kindly request that you keep your registration up to date so that someone from the waitlist can attend in your place if you are no longer able to.\n\nRegistration will be open onsite from 10:00 am to 5:00 pm.",
+    "description": "Solana Summit India is a one-day program of talks, panels and workshops about the Solana ecosystem, real-world asset tokenization, regulation and development. Advance registration and host approval are required.",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/solana-summit-india",
-    "coverImage": "/events/luma-recover-w3vsolanasummiti-8b20b2cd.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/kg/d73d0fb3-058f-495e-8db5-56bb907b8725.png",
     "source": "Hashtag Web3",
     "bypassedFilter": true,
     "month": "November 2026",
@@ -8805,10 +8846,26 @@
     "sourceVerification": {
       "url": "https://luma.com/solana-summit-india",
       "eventId": "evt-hadJH0ytfLq1cra",
-      "fetchedAt": "2026-09-19T23:30:10.396Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:52.235Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/solana-summit-india",
+      "fetchedAt": "2026-10-11T18:38:52.235Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Summit India",
+      "sha256": "544d93147cbd64ba446cc2d0c1d1ad6f71a25ad98f68f680740b7bbfefedb137",
+      "evidence": [
+        {
+          "url": "https://luma.com/solana-summit-india",
+          "fetchedAt": "2026-10-11T18:38:52.235Z",
+          "sha256": "aca8d54fe18534778e78bfa4edc903b4668b21eea6fe51dbc7bc8aa3076e52d1"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "w3v-codecup-ai-x-solana-builder-arena-26-11-08",
@@ -21128,17 +21185,66 @@
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
-    "name": "MeetupMIP-20: Road to DevconOct 24Mumbai, India (opens in a new tab)",
-    "description": "",
-    "startDate": "2026-10-24T00:00:00.000Z",
-    "endDate": "",
+    "name": "MIP-20: Road to Devcon",
+    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "startDate": "2026-10-30T09:30:00.000Z",
+    "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/ndrr1yqe",
-    "coverImage": null,
+    "coverImage": "https://images.lumacdn.com/uploads/sv/670ec572-7cfd-4cc0-8af0-9ab6a40ba095.png",
     "source": "ethereum-org",
-    "month": "October 2026"
+    "month": "October 2026",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/ndrr1yqe",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "hosts": [
+      "ETHMumbai"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "ETHMumbai",
+      "url": "https://ethmumbai.in/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/ndrr1yqe",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/ndrr1yqe",
+      "eventId": "evt-3ViKtGhH3Kfrsy3",
+      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/ndrr1yqe",
+      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "MIP-20: Road to Devcon",
+      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "evidence": [
+        {
+          "url": "https://luma.com/ndrr1yqe",
+          "fetchedAt": "2026-10-11T18:38:48.419Z",
+          "sha256": "fc9ec07dd2355f97b7793d6aa52c6858ad7cacb054132ca0c507245b487f1ada"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "slug": "meetupmip-20"
   },
   {
     "id": "w3v-xrp-ledger-hackathon-nyc",
@@ -21288,16 +21394,39 @@
   },
   {
     "id": "w3v-ibw-institutional-forum-26-11-01",
-    "name": "IBW Institutional Forum 2026",
-    "description": "IBW Institutional Forum 2026: closed-door institutional blockchain forum in Mumbai, November 1–2, 2026.",
-    "startDate": "2026-11-01T03:30:00.000Z",
-    "endDate": "2026-11-02T03:30:00.000Z",
+    "name": "IBW Institutional Forum",
+    "description": "Hashed Emergent hosts a two-day, invitation-only forum within India Blockchain Week at Fairmont Mumbai. The program covers institutional blockchain adoption, tokenization, settlement and programmable money. Discussions follow the Chatham House Rule.",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-02",
     "city": "Mumbai",
-    "country": "IN",
-    "location": "Mumbai, IN",
+    "country": "India",
+    "location": "Fairmont Mumbai, Mumbai, India",
     "url": "https://indiablockchainweek.com/institutional-forum",
     "coverImage": "/events/w3v-ibw-institutional-forum-26-11-01-cf80d27e.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "timezone": "Asia/Kolkata",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "attendanceMode": "offline",
+    "descriptionSource": {
+      "url": "https://www.indiablockchainweek.com/institutional-forum",
+      "fetchedAt": "2026-10-11T18:39:06.068Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "IBW Institutional Forum",
+      "sha256": "81b2b1f1a5bfb9ba0c05ca670d9a89741a0ad0af5e238b578dc56d115cad455d",
+      "evidence": [
+        {
+          "url": "https://www.indiablockchainweek.com/institutional-forum",
+          "fetchedAt": "2026-10-11T18:39:06.068Z",
+          "sha256": "7ad2d99da8c6ea296130753a667cd28d5e3b71075cfae1d3f8e98c49ef3ded5c"
+        }
+      ]
+    },
+    "slug": "iif",
+    "approvalRequired": true,
+    "venueName": "Fairmont Mumbai"
   },
   {
     "id": "w3v-india-blockchain-week-conference-ibw-26-11-01",
@@ -21355,16 +21484,64 @@
   {
     "id": "luma-host-evt-evt-hadJH0ytfLq1cra",
     "name": "Solana Summit India",
-    "description": "",
+    "description": "Solana Summit India is a one-day program of talks, panels and workshops about the Solana ecosystem, real-world asset tokenization, regulation and development. Advance registration and host approval are required.",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/solana-summit-india",
-    "coverImage": "/events/luma-host-evt-evt-hadjh0ytflq1cra-47d1a08d.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/kg/d73d0fb3-058f-495e-8db5-56bb907b8725.png",
     "source": "luma-trusted",
-    "month": "November 2026"
+    "month": "November 2026",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/solana-summit-india",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "hosts": [
+      "Superteam India"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Superteam",
+      "url": "https://superteam.fun/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/solana-summit-india",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/solana-summit-india",
+      "eventId": "evt-hadJH0ytfLq1cra",
+      "fetchedAt": "2026-10-11T18:38:52.235Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/solana-summit-india",
+      "fetchedAt": "2026-10-11T18:38:52.235Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Summit India",
+      "sha256": "544d93147cbd64ba446cc2d0c1d1ad6f71a25ad98f68f680740b7bbfefedb137",
+      "evidence": [
+        {
+          "url": "https://luma.com/solana-summit-india",
+          "fetchedAt": "2026-10-11T18:38:52.235Z",
+          "sha256": "aca8d54fe18534778e78bfa4edc903b4668b21eea6fe51dbc7bc8aa3076e52d1"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw"
+    ],
+    "slug": "ssi"
   },
   {
     "id": "luma-evt-TjT2Gplu3W9ah47",
@@ -21382,17 +21559,76 @@
   },
   {
     "id": "ethorg-ethereum-cypherpunk-congress--3mumbai--indianov-2-",
-    "name": "Ethereum Cypherpunk Congress #3Mumbai, IndiaNov 2 (opens in a new tab)",
-    "description": "",
-    "startDate": "2026-11-02T00:00:00.000Z",
-    "endDate": "",
+    "name": "Ethereum Cypherpunk Congress #3",
+    "description": "Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program addresses digital rights, open-source software, decentralization, cryptography and practical privacy tools.",
+    "startDate": "2026-11-02T04:30:00.000Z",
+    "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, India",
+    "location": "Yashwantrao Chavan Centre, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, India",
     "url": "https://luma.com/spsnos9t",
-    "coverImage": "/events/luma-recover-w3vethereumcyphe-cb8e4c27.webp",
+    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
     "source": "ethereum-org",
-    "month": "November 2026"
+    "month": "November 2026",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/spsnos9t",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "Yashwantrao Chavan Centre",
+    "streetAddress": "WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN",
+    "neighborhood": "Nariman Point",
+    "coordinates": {
+      "latitude": 18.9249445,
+      "longitude": 72.8265239
+    },
+    "hosts": [
+      "Mykola x Web3Privacy now",
+      "PG_CDG | Web3Privacy Now"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Web3Privacy Now Events",
+      "url": "https://web3privacy.info/"
+    },
+    "price": "Free",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/spsnos9t",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/spsnos9t",
+      "eventId": "evt-CyZRiDdLECiCPRS",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/spsnos9t",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Ethereum Cypherpunk Congress #3",
+      "sha256": "4171f06c1c7340fc0fc4755e4f1ac5713984609a26c19f68161b582f202d5e01",
+      "evidence": [
+        {
+          "url": "https://luma.com/spsnos9t",
+          "fetchedAt": "2026-10-11T18:38:51.372Z",
+          "sha256": "13c12d85212f561f92b2bf5b41d8db25d83307107dac5714ef3693b75038222c"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw"
+    ],
+    "slug": "ecc3i2ont"
   },
   {
     "id": "w3v-future-finance-summit-26-11-04",
@@ -21436,15 +21672,37 @@
   {
     "id": "w3v-unchained-summit-india-26-11-05",
     "name": "Unchained Summit India 2026",
-    "description": "Unchained Summit India 2026: Web3 and digital assets conference in Mumbai, 5–6 November 2026.",
-    "startDate": "2026-11-05T03:30:00.000Z",
-    "endDate": "2026-11-06T03:30:00.000Z",
+    "description": "Unchained Summit India takes place at Courtyard by Marriott Mumbai International Airport on November 5 and 6. Day one focuses on markets, finance and digital assets; day two covers Web3 infrastructure and emerging technology. Daily clock times have not been verified.",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-06",
     "city": "Mumbai",
-    "country": "IN",
-    "location": "Mumbai, IN",
+    "country": "India",
+    "location": "Courtyard by Marriott Mumbai International Airport, Mumbai, India",
     "url": "https://unchainedsummit.com/india/",
     "coverImage": "/events/w3v-unchained-summit-india-26-11-05-012fbb17.webp",
-    "month": "November 2026"
+    "month": "November 2026",
+    "timezone": "Asia/Kolkata",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "attendanceMode": "offline",
+    "descriptionSource": {
+      "url": "https://unchainedsummit.com/india/",
+      "fetchedAt": "2026-10-11T18:39:09.228Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Unchained Summit India 2026",
+      "sha256": "fa983403c0631f6de2d9a59ea41b59194a23017348483257b651111f58ab0759",
+      "evidence": [
+        {
+          "url": "https://unchainedsummit.com/india/",
+          "fetchedAt": "2026-10-11T18:39:09.228Z",
+          "sha256": "77ec204532b68b3501fbbfdb6d1c6d3d26c0d9a976ac24bcf295eb19485d917a"
+        }
+      ]
+    },
+    "slug": "usi",
+    "venueName": "Courtyard by Marriott Mumbai International Airport"
   },
   {
     "id": "w3v-bitcoin-korea-conference-coex-26-11-07",
@@ -23458,17 +23716,66 @@
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
-    "name": "MeetupMIP-20: Road to DevconOctober 30Mumbai, India (opens in a new tab)",
-    "description": "",
-    "startDate": "2026-10-30T00:00:00.000Z",
-    "endDate": "",
+    "name": "MIP-20: Road to Devcon",
+    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "startDate": "2026-10-30T09:30:00.000Z",
+    "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/ndrr1yqe",
-    "coverImage": null,
+    "coverImage": "https://images.lumacdn.com/uploads/sv/670ec572-7cfd-4cc0-8af0-9ab6a40ba095.png",
     "source": "ethereum-org",
-    "month": "October 2026"
+    "month": "October 2026",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/ndrr1yqe",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "hosts": [
+      "ETHMumbai"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "ETHMumbai",
+      "url": "https://ethmumbai.in/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/ndrr1yqe",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/ndrr1yqe",
+      "eventId": "evt-3ViKtGhH3Kfrsy3",
+      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/ndrr1yqe",
+      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "MIP-20: Road to Devcon",
+      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "evidence": [
+        {
+          "url": "https://luma.com/ndrr1yqe",
+          "fetchedAt": "2026-10-11T18:38:48.419Z",
+          "sha256": "fc9ec07dd2355f97b7793d6aa52c6858ad7cacb054132ca0c507245b487f1ada"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "slug": "meetupmip-20"
   },
   {
     "id": "luma-evt-aQiimIN6V6gLF9o",

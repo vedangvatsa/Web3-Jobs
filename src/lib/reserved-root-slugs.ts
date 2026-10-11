@@ -6,7 +6,6 @@ import fs from 'fs';
 import path from 'path';
 import { getAllResourcePages } from '@/lib/pseo/resources';
 import { getPopupSlugs } from '@/lib/popups';
-import { getEventSlug } from '@/lib/events';
 import { learnRoutes } from '@/lib/learn-routes';
 import nomadCities from '../../content/nomads/cities.json';
 import nomadToolPaths from '../../content/nomads/tool-paths.json';
@@ -143,7 +142,7 @@ function eventSlugsFromCache(): string[] {
     const parsed = JSON.parse(fs.readFileSync(file, 'utf8'));
     const events = Array.isArray(parsed) ? parsed : Object.values(parsed);
     for (const event of events as Array<{ slug?: string; name?: string; aliases?: string[] }>) {
-      const candidates = [getEventSlug({ name: event.name ?? '', slug: event.slug }), ...(event.aliases || [])];
+      const candidates = [event.slug || '', ...(event.aliases || [])];
       for (const value of candidates) {
         const slug = value.toLowerCase().trim();
         if (/^[a-z0-9][a-z0-9_-]*$/.test(slug)) slugs.add(slug);

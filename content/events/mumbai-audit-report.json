@@ -1,0 +1,3542 @@
+{
+  "generatedAt": "2026-10-11T18:51:11.182Z",
+  "applied": true,
+  "scope": "All public future calendar entries at fetch time. Past calendar entries are excluded and were not enumerated. Public pages for approval-only events are included; hidden addresses are omitted.",
+  "calendars": [
+    {
+      "url": "https://luma.com/devcon",
+      "calendarId": "cal-QnumN4QvSaZLwmP",
+      "pages": 1,
+      "entries": 19,
+      "external": 0,
+      "paginationExhausted": true,
+      "fetchedAt": "2026-10-11T18:38:32.512Z"
+    },
+    {
+      "url": "https://luma.com/ibw",
+      "calendarId": "cal-ikh3xL3FdXBrJa9",
+      "pages": 2,
+      "entries": 57,
+      "external": 11,
+      "paginationExhausted": true,
+      "fetchedAt": "2026-10-11T18:38:34.427Z"
+    }
+  ],
+  "overlap": 19,
+  "lumaPrimaryPages": 46,
+  "sheet": {
+    "url": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",
+    "fetchedAt": "2026-10-11T18:39:10.524Z",
+    "populatedRows": 43,
+    "rows": [
+      {
+        "row": 6,
+        "date": "Oct-24 (Sat)",
+        "start": "12:00:00",
+        "end": "14:00:00",
+        "name": "MIP-20: Road to DevconETHMumbai",
+        "url": "https://luma.com/ndrr1yqe",
+        "ids": [
+          "ibw-official-mip-20-road-to-devcon-10-24",
+          "india-luma-ndrr1yqe",
+          "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
+          "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi"
+        ],
+        "note": "Canonical /mip-20",
+        "published": [
+          {
+            "id": "ibw-official-mip-20-road-to-devcon-10-24",
+            "slug": "mip-20"
+          }
+        ]
+      },
+      {
+        "row": 7,
+        "date": "Oct-31 (Sat)",
+        "start": "19:00:00",
+        "end": "23:00:00",
+        "name": "IBW2026 Pre-Conference VIP NightHashed Emergent",
+        "url": "",
+        "ids": [
+          "ibw-official-ibw2026-pre-conference-vip-night-10-31"
+        ],
+        "note": "Organizer spreadsheet only; registration TBD. No primary event page available. Canonical /ipcvn",
+        "published": [
+          {
+            "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
+            "slug": "ipcvn"
+          }
+        ]
+      },
+      {
+        "row": 8,
+        "date": "Nov-1 (Sun)",
+        "start": "6:00:00",
+        "end": "8:00:00",
+        "name": "Run & RaveOrvic",
+        "url": "https://luma.com/3doehm1b",
+        "ids": [
+          "india-luma-3doehm1b"
+        ],
+        "note": "Canonical /3doehm1b",
+        "published": [
+          {
+            "id": "india-luma-3doehm1b",
+            "slug": "3doehm1b"
+          }
+        ]
+      },
+      {
+        "row": 9,
+        "date": "Nov-1 (Sun)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "🌟 IBW2026 Conference - Day 1 🌟Hashed Emergent",
+        "url": "https://indiablockchainweek.com/",
+        "ids": [
+          "premier-indiabw-2026"
+        ],
+        "note": "Canonical /ibw",
+        "published": [
+          {
+            "id": "premier-indiabw-2026",
+            "slug": "ibw"
+          }
+        ]
+      },
+      {
+        "row": 10,
+        "date": "Nov-1 (Sun)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "DeFi Security Summit - Day 1",
+        "url": "https://defisecuritysummit.org/",
+        "ids": [
+          "side-ibw2026-defi-security-summit-day1",
+          "side-ibw2026-defi-security-summit-day2",
+          "ibw-official-defi-security-summit-day-1-11-01",
+          "ibw-official-defi-security-summit-day-2-11-02"
+        ],
+        "note": "Canonical /dssd1",
+        "published": [
+          {
+            "id": "ibw-official-defi-security-summit-day-1-11-01",
+            "slug": "dssd1"
+          }
+        ]
+      },
+      {
+        "row": 11,
+        "date": "Nov-1 (Sun)",
+        "start": "17:00:00",
+        "end": "21:00:00",
+        "name": "Afterhours Mixer: Mumbai",
+        "url": "https://luma.com/1cnairat",
+        "ids": [
+          "ibw-official-ravecon-b-ender-11-04"
+        ],
+        "note": "Canonical /rbe",
+        "published": [
+          {
+            "id": "ibw-official-ravecon-b-ender-11-04",
+            "slug": "rbe"
+          }
+        ]
+      },
+      {
+        "row": 12,
+        "date": "Nov-2 (Mon)",
+        "start": "9:00:00",
+        "end": "19:00:00",
+        "name": "Onchain Legal Summit :: Devcon India 2026ENTITY",
+        "url": "https://luma.com/cw0h549b?utm_source=web3meetups",
+        "ids": [
+          "luma-batch-kBSIe7BSMtDFldg"
+        ],
+        "note": "Canonical /cw0h549b",
+        "published": [
+          {
+            "id": "luma-batch-kBSIe7BSMtDFldg",
+            "slug": "cw0h549b"
+          }
+        ]
+      },
+      {
+        "row": 13,
+        "date": "Nov-2 (Mon)",
+        "start": "10:00:00",
+        "end": "18:00:00",
+        "name": "Multichain Day | Devcon Mumbai 2026Wrapped",
+        "url": "https://luma.com/multichaindaydevconmumbai",
+        "ids": [
+          "ibw-official-multichain-day-devcon-mumbai-2026wrapped-11-02"
+        ],
+        "published": []
+      },
+      {
+        "row": 14,
+        "date": "Nov-2 (Mon)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "🌟 IBW2026 Conference - Day 2 🌟Hashed Emergent",
+        "url": "https://indiablockchainweek.com/",
+        "ids": [
+          "premier-indiabw-2026"
+        ],
+        "note": "Canonical /ibw",
+        "published": [
+          {
+            "id": "premier-indiabw-2026",
+            "slug": "ibw"
+          }
+        ]
+      },
+      {
+        "row": 15,
+        "date": "Nov-2 (Mon)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Ethereum Cypherpunk Congress #3Web3 Privacy Now",
+        "url": "https://luma.com/spsnos9t",
+        "ids": [
+          "premier-cypherpunk",
+          "ibw-official-ethereum-cypherpunk-congress-3-11-02",
+          "india-luma-spsnos9t",
+          "w3v-ethereum-cypherpunk-congress-mumbai",
+          "ethorg-ethereum-cypherpunk-congress--3mumbai--indianov-2-"
+        ],
+        "note": "Canonical /ethereum2",
+        "published": [
+          {
+            "id": "premier-cypherpunk",
+            "slug": "ethereum2"
+          }
+        ]
+      },
+      {
+        "row": 16,
+        "date": "Nov-2 (Mon)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "IBW Institutional ForumHashed Emergent",
+        "url": "https://www.indiablockchainweek.com/institutional-forum",
+        "ids": [
+          "ibw-official-ibw-institutional-forum-11-02",
+          "w3v-ibw-institutional-forum-26-11-01"
+        ],
+        "note": "Canonical /iif",
+        "published": [
+          {
+            "id": "ibw-official-ibw-institutional-forum-11-02",
+            "slug": "iif"
+          }
+        ]
+      },
+      {
+        "row": 17,
+        "date": "Nov-2 (Mon)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Solana Summit IndiaSolana",
+        "url": "https://luma.com/solana-summit-india",
+        "ids": [
+          "ibw-official-solana-summit-india-11-02",
+          "india-luma-solana-summit-india",
+          "w3v-solana-summit-india",
+          "luma-host-evt-evt-hadJH0ytfLq1cra"
+        ],
+        "note": "Canonical /ssi",
+        "published": [
+          {
+            "id": "ibw-official-solana-summit-india-11-02",
+            "slug": "ssi"
+          }
+        ]
+      },
+      {
+        "row": 18,
+        "date": "Nov-2 (Mon)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "DeFi Security Summit - Day 2",
+        "url": "https://defisecuritysummit.org/",
+        "ids": [
+          "side-ibw2026-defi-security-summit-day1",
+          "side-ibw2026-defi-security-summit-day2",
+          "ibw-official-defi-security-summit-day-1-11-01",
+          "ibw-official-defi-security-summit-day-2-11-02"
+        ],
+        "note": "Canonical /dssd1",
+        "published": [
+          {
+            "id": "ibw-official-defi-security-summit-day-1-11-01",
+            "slug": "dssd1"
+          }
+        ]
+      },
+      {
+        "row": 19,
+        "date": "Nov-2 (Mon)",
+        "start": "16:00:00",
+        "end": "21:00:00",
+        "name": "Onchain Dev City IndiaBackersStage",
+        "url": "https://luma.com/n0a39ago",
+        "ids": [
+          "ibw-official-onchain-dev-city-india-11-02",
+          "india-luma-n0a39ago"
+        ],
+        "note": "Canonical /odci",
+        "published": [
+          {
+            "id": "ibw-official-onchain-dev-city-india-11-02",
+            "slug": "odci"
+          }
+        ]
+      },
+      {
+        "row": 20,
+        "date": "Nov-2 (Mon)",
+        "start": "18:00:00",
+        "end": "21:30:00",
+        "name": "Crypto Mondays Devcon India EditionMinds by Animoca",
+        "url": "https://luma.com/9bhu9f28?utm_source=web3meetups",
+        "ids": [
+          "india-luma-9bhu9f28"
+        ],
+        "published": []
+      },
+      {
+        "row": 21,
+        "date": "Nov-2 (Mon)",
+        "start": "19:00:00",
+        "end": "23:00:00",
+        "name": "⚡ IBW Official After-Party 🕺Hashed Emergent",
+        "url": "",
+        "ids": [
+          "ibw-official-ibw-official-after-party-11-02"
+        ],
+        "note": "Organizer spreadsheet only; registration TBD. No primary event page available. Canonical /ioap",
+        "published": [
+          {
+            "id": "ibw-official-ibw-official-after-party-11-02",
+            "slug": "ioap"
+          }
+        ]
+      },
+      {
+        "row": 22,
+        "date": "Nov-2 (Mon)",
+        "start": "19:30:00",
+        "end": "22:30:00",
+        "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and SecurityQuillAudits",
+        "url": "https://luma.com/quilla-vmnc",
+        "ids": [
+          "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02"
+        ],
+        "note": "Canonical /institutional-table2",
+        "published": [
+          {
+            "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+            "slug": "institutional-table2"
+          }
+        ]
+      },
+      {
+        "row": 23,
+        "date": "Nov-3 (Tue)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "🌟 Devcon - Day 1 🌟Ethereum Foundation",
+        "url": "https://devcon.org/en/",
+        "ids": [
+          "premier-devcon-2026"
+        ],
+        "note": "Canonical /devcon",
+        "published": [
+          {
+            "id": "premier-devcon-2026",
+            "slug": "devcon"
+          }
+        ]
+      },
+      {
+        "row": 24,
+        "date": "Nov-3 (Tue)",
+        "start": "15:00:00",
+        "end": "14:30:00",
+        "name": "Media Accelerator & Startup CohortBFM Times x Devcon",
+        "url": "https://luma.com/mh0xmqg0",
+        "ids": [
+          "ibw-official-media-accelerator-startup-cohort-11-03",
+          "india-luma-mh0xmqg0"
+        ],
+        "note": "Canonical /masc",
+        "published": [
+          {
+            "id": "ibw-official-media-accelerator-startup-cohort-11-03",
+            "slug": "masc"
+          }
+        ]
+      },
+      {
+        "row": 25,
+        "date": "Nov-3 (Tue)",
+        "start": "9:30:00",
+        "end": "20:00:00",
+        "name": "AI ECONOMIC FORUM (AIEF) - Truth Intelligence SummitOmniscient AI",
+        "url": "https://luma.com/a0e6b8at",
+        "ids": [
+          "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+          "india-luma-a0e6b8at"
+        ],
+        "note": "Canonical /aefatis",
+        "published": [
+          {
+            "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+            "slug": "aefatis"
+          }
+        ]
+      },
+      {
+        "row": 26,
+        "date": "Nov-3 (Tue)",
+        "start": "20:30:00",
+        "end": "2:30:00",
+        "name": "EIP Hub (3-7 Nov)ECH Institute",
+        "url": "https://luma.com/czi58jpe?utm_source=web3meetups",
+        "ids": [
+          "ibw-official-eip-hub-3-7-nov-11-03",
+          "india-luma-czi58jpe"
+        ],
+        "note": "Canonical /eh37n",
+        "published": [
+          {
+            "id": "ibw-official-eip-hub-3-7-nov-11-03",
+            "slug": "eh37n"
+          }
+        ]
+      },
+      {
+        "row": 27,
+        "date": "Nov-3 (Tue)",
+        "start": "21:30:00",
+        "end": "0:30:00",
+        "name": "Liquidity Pool @Devcon 8 Web3 Mumbai",
+        "url": "https://luma.com/sgrf4yq5?utm_source=web3meetups",
+        "ids": [
+          "india-luma-sgrf4yq5"
+        ],
+        "note": "Canonical /sgrf4yq5",
+        "published": [
+          {
+            "id": "india-luma-sgrf4yq5",
+            "slug": "sgrf4yq5"
+          }
+        ]
+      },
+      {
+        "row": 28,
+        "date": "Nov-4 (Wed)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Devcon - Day 2Ethereum Foundation",
+        "url": "https://devcon.org/en/",
+        "ids": [
+          "premier-devcon-2026"
+        ],
+        "note": "Canonical /devcon",
+        "published": [
+          {
+            "id": "premier-devcon-2026",
+            "slug": "devcon"
+          }
+        ]
+      },
+      {
+        "row": 29,
+        "date": "Nov-4 (Wed)",
+        "start": "10:00:00",
+        "end": "16:00:00",
+        "name": "The Yield Layer of Social ImpactLaunchnodes",
+        "url": "https://luma.com/7729jnr3",
+        "ids": [
+          "luma-batch-G3fjJAlPZ0oK9GC"
+        ],
+        "note": "Canonical /7729jnr3",
+        "published": [
+          {
+            "id": "luma-batch-G3fjJAlPZ0oK9GC",
+            "slug": "7729jnr3"
+          }
+        ]
+      },
+      {
+        "row": 30,
+        "date": "Nov-4 (Wed)",
+        "start": "11:00:00",
+        "end": "17:00:00",
+        "name": "Onchain Legal Summit :: Devcon India 2026Entity",
+        "url": "https://luma.com/cw0h549b",
+        "ids": [
+          "luma-batch-kBSIe7BSMtDFldg"
+        ],
+        "note": "Canonical /cw0h549b",
+        "published": [
+          {
+            "id": "luma-batch-kBSIe7BSMtDFldg",
+            "slug": "cw0h549b"
+          }
+        ]
+      },
+      {
+        "row": 31,
+        "date": "Nov-4 (Wed)",
+        "start": "16:00:00",
+        "end": "20:00:00",
+        "name": "Diyas : Near @Devcon 🪔ArQ",
+        "url": "https://luma.com/hr8w0hmd?utm_source=web3meetups",
+        "ids": [
+          "india-luma-hr8w0hmd"
+        ],
+        "note": "Canonical /hr8w0hmd",
+        "published": [
+          {
+            "id": "india-luma-hr8w0hmd",
+            "slug": "hr8w0hmd"
+          }
+        ]
+      },
+      {
+        "row": 32,
+        "date": "Nov-4 (Wed)",
+        "start": "16:00:00",
+        "end": "18:30:00",
+        "name": "Digital Asset Regulation, Policy and Global Compliance RoundtableFractional | Trilegal",
+        "url": "https://luma.com/6gnkjcqx",
+        "ids": [
+          "india-luma-6gnkjcqx"
+        ],
+        "note": "Canonical /6gnkjcqx",
+        "published": [
+          {
+            "id": "india-luma-6gnkjcqx",
+            "slug": "6gnkjcqx"
+          }
+        ]
+      },
+      {
+        "row": 33,
+        "date": "Nov-4 (Wed)",
+        "start": "18:30:00",
+        "end": "22:00:00",
+        "name": "Money Layer @Devcon🇮🇳 WeekCapvise Global",
+        "url": "https://luma.com/islzi7v3",
+        "ids": [
+          "india-luma-islzi7v3"
+        ],
+        "note": "Canonical /islzi7v3",
+        "published": [
+          {
+            "id": "india-luma-islzi7v3",
+            "slug": "islzi7v3"
+          }
+        ]
+      },
+      {
+        "row": 34,
+        "date": "Nov-4 (Wed)",
+        "start": "19:00:00",
+        "end": "22:00:00",
+        "name": "Quantstamp x Common Defense Mumbai Lounge | Devcon 2026Quantstamp x Common Defense",
+        "url": "https://luma.com/80bnxbwi",
+        "ids": [
+          "ibw-official-quantstamp-mumbai-lounge-11-04"
+        ],
+        "note": "Canonical /quantstamp-mumbai-lounge",
+        "published": [
+          {
+            "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+            "slug": "quantstamp-mumbai-lounge"
+          }
+        ]
+      },
+      {
+        "row": 35,
+        "date": "Nov-5 (Thu)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Devcon - Day 3Ethereum Foundation",
+        "url": "https://devcon.org/en/",
+        "ids": [
+          "premier-devcon-2026"
+        ],
+        "note": "Canonical /devcon",
+        "published": [
+          {
+            "id": "premier-devcon-2026",
+            "slug": "devcon"
+          }
+        ]
+      },
+      {
+        "row": 36,
+        "date": "Nov-5 (Thu)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Pragma MumbaiETHGlobal",
+        "url": "https://ethglobal.com/events/pragma-mumbai?utm_source=web3meetups",
+        "ids": [
+          "ibw-official-pragma-mumbai-11-05"
+        ],
+        "note": "Canonical /pragma-mumbai",
+        "published": [
+          {
+            "id": "ibw-official-pragma-mumbai-11-05",
+            "slug": "pragma-mumbai"
+          }
+        ]
+      },
+      {
+        "row": 37,
+        "date": "Nov-5 (Thu)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Unchained Summit - Day 1Aeternum",
+        "url": "https://unchainedsummit.com/india/",
+        "ids": [
+          "premier-unchained-summit-india-2026",
+          "ibw-official-unchained-summit-day-1-11-05",
+          "ibw-official-unchained-summit-day-2-11-06",
+          "w3v-unchained-summit-india-26-11-05"
+        ],
+        "note": "Canonical /unchained-summit",
+        "published": [
+          {
+            "id": "premier-unchained-summit-india-2026",
+            "slug": "unchained-summit"
+          }
+        ]
+      },
+      {
+        "row": 38,
+        "date": "Nov-5 (Thu)",
+        "start": "13:00:00",
+        "end": "16:00:00",
+        "name": "Builders Brunch, Mumbai 🇮🇳Buildify",
+        "url": "https://luma.com/5u1evsou",
+        "ids": [
+          "india-luma-5u1evsou"
+        ],
+        "note": "Sheet link absent; matched organizer and title to primary page in IBW calendar. Canonical /5u1evsou",
+        "published": [
+          {
+            "id": "india-luma-5u1evsou",
+            "slug": "5u1evsou"
+          }
+        ]
+      },
+      {
+        "row": 39,
+        "date": "Nov-5 (Thu)",
+        "start": "19:30:00",
+        "end": "1:00:00",
+        "name": "Biggest CT G.A.Y PartySecret Society",
+        "url": "https://luma.com/ena53peq?tk=IWM6DM",
+        "ids": [
+          "luma-batch-hIZnQMK5SVTWgj8"
+        ],
+        "published": []
+      },
+      {
+        "row": 40,
+        "date": "Nov-5 (Thu)",
+        "start": "19:00:00",
+        "end": "1:30:00",
+        "name": "The Best Event: Afterdark DevconTBV",
+        "url": "https://luma.com/TBE-Devcon26",
+        "ids": [
+          "luma-batch-evtaPGKR2FFDEuck"
+        ],
+        "note": "Canonical /tbe-devcon26",
+        "published": [
+          {
+            "id": "luma-batch-evtaPGKR2FFDEuck",
+            "slug": "tbe-devcon26"
+          }
+        ]
+      },
+      {
+        "row": 41,
+        "date": "Nov-6 (Fri)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Unchained Summit - Day 2Aeternum",
+        "url": "https://unchainedsummit.com/india/",
+        "ids": [
+          "premier-unchained-summit-india-2026",
+          "ibw-official-unchained-summit-day-1-11-05",
+          "ibw-official-unchained-summit-day-2-11-06",
+          "w3v-unchained-summit-india-26-11-05"
+        ],
+        "note": "Canonical /unchained-summit",
+        "published": [
+          {
+            "id": "premier-unchained-summit-india-2026",
+            "slug": "unchained-summit"
+          }
+        ]
+      },
+      {
+        "row": 42,
+        "date": "Nov-6 (Fri)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "Devcon - Day 4Ethereum Foundation",
+        "url": "https://devcon.org/en/",
+        "ids": [
+          "premier-devcon-2026"
+        ],
+        "note": "Canonical /devcon",
+        "published": [
+          {
+            "id": "premier-devcon-2026",
+            "slug": "devcon"
+          }
+        ]
+      },
+      {
+        "row": 43,
+        "date": "Nov-6 (Fri)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "ETHGlobal Mumbai - Day 1",
+        "url": "https://ethglobal.com/events/mumbai",
+        "ids": [
+          "premier-ethmumbai-2026"
+        ],
+        "note": "Sheet incorrectly links MONEY MAKER. Mapped by event identity to the single ETHGlobal Mumbai record. Canonical /ethglobal1",
+        "published": [
+          {
+            "id": "premier-ethmumbai-2026",
+            "slug": "ethglobal1"
+          }
+        ]
+      },
+      {
+        "row": 44,
+        "date": "Nov-6 (Fri)",
+        "start": "13:00:00",
+        "end": "1:00:00",
+        "name": "MONEY MAKERnamic",
+        "url": "https://luma.com/np3wx7v5",
+        "ids": [
+          "luma-batch-cFXe8eT3nFr409n"
+        ],
+        "note": "Sheet link absent; matched MONEY MAKER in calendar. Canonical /np3wx7v5",
+        "published": [
+          {
+            "id": "luma-batch-cFXe8eT3nFr409n",
+            "slug": "np3wx7v5"
+          }
+        ]
+      },
+      {
+        "row": 45,
+        "date": "Nov-6 (Fri)",
+        "start": "16:00:00",
+        "end": "20:00:00",
+        "name": "Ship Safe: Devcon Mumbai Security SessionsQuillAudits",
+        "url": "https://luma.com/quilla-rvp4",
+        "ids": [
+          "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06"
+        ],
+        "note": "Canonical /ship-safe",
+        "published": [
+          {
+            "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+            "slug": "ship-safe"
+          }
+        ]
+      },
+      {
+        "row": 46,
+        "date": "Nov-7 (Sat)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "ETHGlobal Mumbai - Day 2",
+        "url": "https://ethglobal.com/events/mumbai?utm_source=web3meetups",
+        "ids": [
+          "premier-ethmumbai-2026"
+        ],
+        "note": "Canonical /ethglobal1",
+        "published": [
+          {
+            "id": "premier-ethmumbai-2026",
+            "slug": "ethglobal1"
+          }
+        ]
+      },
+      {
+        "row": 47,
+        "date": "Nov-7 (Sat)",
+        "start": "12:00:00",
+        "end": "15:00:00",
+        "name": "Ready for the RunInfini3",
+        "url": "https://luma.com/08ogvz1i?utm_source=web3meetups",
+        "ids": [
+          "india-luma-08ogvz1i"
+        ],
+        "note": "Canonical /rrm",
+        "published": [
+          {
+            "id": "india-luma-08ogvz1i",
+            "slug": "rrm"
+          }
+        ]
+      },
+      {
+        "row": 48,
+        "date": "Nov-8 (Sun)",
+        "start": "10:00:00",
+        "end": "19:00:00",
+        "name": "ETHGlobal Mumbai - Day 3",
+        "url": "https://ethglobal.com/events/mumbai?utm_source=web3meetups",
+        "ids": [
+          "premier-ethmumbai-2026"
+        ],
+        "note": "Canonical /ethglobal1",
+        "published": [
+          {
+            "id": "premier-ethmumbai-2026",
+            "slug": "ethglobal1"
+          }
+        ]
+      }
+    ]
+  },
+  "records": [
+    {
+      "url": "https://luma.com/g3oz48ck",
+      "eventId": "evt-Xw3tOfbza5zUUKd",
+      "status": "conflict-excluded",
+      "ids": [
+        "india-luma-g3oz48ck"
+      ],
+      "before": [],
+      "startDate": "2026-10-18T03:30:00.000Z",
+      "endDate": "2026-11-02T18:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "reason": "Structured schedule is October 18 to November 2, 2026; organizer description says Date: TBA. Retained for review, excluded from the dated public catalog.",
+      "fetchedAt": "2026-10-11T18:38:34.821Z",
+      "published": []
+    },
+    {
+      "url": "https://luma.com/9qtxqqxx",
+      "eventId": "evt-GotDuGQ76BanHoQ",
+      "status": "verified-updated",
+      "ids": [
+        "side-ibw2026-defi-security-summit-day1",
+        "side-ibw2026-defi-security-summit-day2",
+        "ibw-official-defi-security-summit-day-1-11-01",
+        "ibw-official-defi-security-summit-day-2-11-02"
+      ],
+      "before": [
+        {
+          "id": "side-ibw2026-defi-security-summit-day1",
+          "slug": "defi-security-summit-day-1-mumbai-2026",
+          "startDate": "2026-11-01T10:00:00.000Z",
+          "endDate": "2026-11-01T19:00:00.000Z",
+          "name": "DeFi Security Summit - Day 1"
+        },
+        {
+          "id": "side-ibw2026-defi-security-summit-day2",
+          "slug": "defi-security-summit-day-2-mumbai-2026",
+          "startDate": "2026-11-02T10:00:00.000Z",
+          "endDate": "2026-11-02T19:00:00.000Z",
+          "name": "DeFi Security Summit - Day 2"
+        },
+        {
+          "id": "ibw-official-defi-security-summit-day-1-11-01",
+          "slug": "dssd1",
+          "startDate": "2026-11-01T10:00:00+05:30",
+          "endDate": "2026-11-01T19:00:00+05:30",
+          "name": "DeFi Security Summit - Day 1"
+        },
+        {
+          "id": "ibw-official-defi-security-summit-day-2-11-02",
+          "slug": "dssd2",
+          "startDate": "2026-11-02T10:00:00+05:30",
+          "endDate": "2026-11-02T19:00:00+05:30",
+          "name": "DeFi Security Summit - Day 2"
+        }
+      ],
+      "startDate": "2026-11-01T04:30:00.000Z",
+      "endDate": "2026-11-02T12:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:35.311Z",
+      "published": [
+        {
+          "id": "ibw-official-defi-security-summit-day-1-11-01",
+          "slug": "dssd1"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/1cnairat",
+      "eventId": "evt-UFTPBc3GPwAHTjt",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-ravecon-b-ender-11-04"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-ravecon-b-ender-11-04",
+          "slug": "rbe",
+          "startDate": "2026-11-04T14:30:00.000Z",
+          "endDate": "2026-11-04T20:30:00.000Z",
+          "name": "Ravecon [B]Ender"
+        }
+      ],
+      "startDate": "2026-11-01T11:30:00.000Z",
+      "endDate": "2026-11-01T15:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:35.717Z",
+      "published": [
+        {
+          "id": "ibw-official-ravecon-b-ender-11-04",
+          "slug": "rbe"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/n0a39ago",
+      "eventId": "evt-txzSskhRutniDIN",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-onchain-dev-city-india-11-02",
+        "india-luma-n0a39ago"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-onchain-dev-city-india-11-02",
+          "slug": "odci",
+          "startDate": "2026-11-02T10:30:00.000Z",
+          "endDate": "2026-11-02T15:30:00.000Z",
+          "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳"
+        },
+        {
+          "id": "india-luma-n0a39ago",
+          "slug": "odcd8i",
+          "startDate": "2026-11-02T10:30:00.000Z",
+          "endDate": "2026-11-02T15:30:00.000Z",
+          "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳"
+        }
+      ],
+      "startDate": "2026-11-02T10:30:00.000Z",
+      "endDate": "2026-11-02T15:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:36.451Z",
+      "published": [
+        {
+          "id": "ibw-official-onchain-dev-city-india-11-02",
+          "slug": "odci"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/9bhu9f28",
+      "eventId": "evt-UMczcjylUMol0HW",
+      "status": "conflict-excluded",
+      "ids": [
+        "india-luma-9bhu9f28"
+      ],
+      "before": [],
+      "startDate": "2026-11-02T14:00:00.000Z",
+      "endDate": "2026-11-02T17:30:00.000Z",
+      "timezone": "Asia/Dubai",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "reason": "Structured times are 14:00 to 17:30 UTC in Asia/Dubai (19:30 to 23:00 IST); Mumbai agenda and sheet say 18:00 to 21:30. Organizer clarification required; excluded from the dated public catalog.",
+      "fetchedAt": "2026-10-11T18:38:37.408Z",
+      "published": []
+    },
+    {
+      "url": "https://luma.com/rsm1xrxt",
+      "eventId": "evt-HWyWCSbQQ3n6tLU",
+      "status": "verified-updated",
+      "ids": [
+        "luma-batch-HWyWCSbQQ3n6tLU"
+      ],
+      "before": [
+        {
+          "id": "luma-batch-HWyWCSbQQ3n6tLU",
+          "slug": "rsm1xrxt",
+          "startDate": "2026-11-03T02:30:00.000Z",
+          "endDate": "2026-11-06T04:00:00.000Z",
+          "name": "Sidequest: Chai at Dawn"
+        }
+      ],
+      "startDate": "2026-11-03T02:30:00.000Z",
+      "endDate": "2026-11-06T04:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:37.988Z",
+      "published": [
+        {
+          "id": "luma-batch-HWyWCSbQQ3n6tLU",
+          "slug": "rsm1xrxt"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/a0e6b8at",
+      "eventId": "evt-I0cnxui32UlL2eK",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+        "india-luma-a0e6b8at"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+          "slug": "aefatis",
+          "startDate": "2026-11-03T04:00:00.000Z",
+          "endDate": "2026-11-03T14:30:00.000Z",
+          "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit — Official AI Side Event of India Blockchain Week 2026 & Devcon 8"
+        },
+        {
+          "id": "india-luma-a0e6b8at",
+          "slug": "aefamtisoaseibwd8",
+          "startDate": "2026-11-03T04:00:00.000Z",
+          "endDate": "2026-11-03T14:30:00.000Z",
+          "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit — Official AI Side Event of India Blockchain Week 2026 & Devcon 8"
+        }
+      ],
+      "startDate": "2026-11-03T04:00:00.000Z",
+      "endDate": "2026-11-03T14:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:38.713Z",
+      "published": [
+        {
+          "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+          "slug": "aefatis"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/nyw6qigp",
+      "eventId": "evt-gDuyYYoE2hJYziR",
+      "status": "added",
+      "ids": [
+        "india-luma-nyw6qigp"
+      ],
+      "before": [],
+      "startDate": "2026-11-03T10:00:00.000Z",
+      "endDate": "2026-11-06T13:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:39.353Z",
+      "published": [
+        {
+          "id": "india-luma-nyw6qigp",
+          "slug": "nyw6qigp"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/2kj0jqf9",
+      "eventId": "evt-wzzJVTgvUeLjCX0",
+      "status": "added",
+      "ids": [
+        "india-luma-2kj0jqf9"
+      ],
+      "before": [],
+      "startDate": "2026-11-03T12:30:00.000Z",
+      "endDate": "2026-11-06T14:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:40.084Z",
+      "published": [
+        {
+          "id": "india-luma-2kj0jqf9",
+          "slug": "2kj0jqf9"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/uqmzpq5k",
+      "eventId": "evt-6E0WAoIaw5VGhWK",
+      "status": "added",
+      "ids": [
+        "india-luma-uqmzpq5k"
+      ],
+      "before": [],
+      "startDate": "2026-11-03T13:30:00.000Z",
+      "endDate": "2026-11-03T17:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:40.735Z",
+      "published": [
+        {
+          "id": "india-luma-uqmzpq5k",
+          "slug": "uqmzpq5k"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/czi58jpe",
+      "eventId": "evt-WA1k9H6TjNoF3wg",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-eip-hub-3-7-nov-11-03",
+        "india-luma-czi58jpe"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-eip-hub-3-7-nov-11-03",
+          "slug": "eh37n",
+          "startDate": "2026-11-03T15:00:00.000Z",
+          "endDate": "2026-11-06T21:00:00.000Z",
+          "name": "EIP Hub @ Devcon 8 (India)"
+        },
+        {
+          "id": "india-luma-czi58jpe",
+          "slug": "ehd8i",
+          "startDate": "2026-11-03T15:00:00.000Z",
+          "endDate": "2026-11-06T21:00:00.000Z",
+          "name": "EIP Hub @ Devcon 8 (India)"
+        }
+      ],
+      "startDate": "2026-11-03T15:30:00.000Z",
+      "endDate": "2026-11-06T12:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:41.354Z",
+      "published": [
+        {
+          "id": "ibw-official-eip-hub-3-7-nov-11-03",
+          "slug": "eh37n"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/ib9j3xxe",
+      "eventId": "evt-3RfkcjQcfrtCQtQ",
+      "status": "added",
+      "ids": [
+        "india-luma-ib9j3xxe"
+      ],
+      "before": [],
+      "startDate": "2026-11-03T23:00:00.000Z",
+      "endDate": "2026-11-07T03:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "reason": "Structured span is November 4 at 04:30 to November 7 at 08:30 IST; copy refers generally to Devcon week and afternoon walks. Preserve the source span without inventing daily sessions.",
+      "fetchedAt": "2026-10-11T18:38:42.222Z",
+      "published": [
+        {
+          "id": "india-luma-ib9j3xxe",
+          "slug": "ib9j3xxe"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/7729jnr3",
+      "eventId": "evt-G3fjJAlPZ0oK9GC",
+      "status": "verified-updated",
+      "ids": [
+        "luma-batch-G3fjJAlPZ0oK9GC"
+      ],
+      "before": [
+        {
+          "id": "luma-batch-G3fjJAlPZ0oK9GC",
+          "slug": "7729jnr3",
+          "startDate": "2026-11-04T04:30:00.000Z",
+          "endDate": "2026-11-04T10:30:00.000Z",
+          "name": "The Yield Layer of Social Impact"
+        }
+      ],
+      "startDate": "2026-11-04T04:30:00.000Z",
+      "endDate": "2026-11-04T10:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:42.849Z",
+      "published": [
+        {
+          "id": "luma-batch-G3fjJAlPZ0oK9GC",
+          "slug": "7729jnr3"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/cw0h549b",
+      "eventId": "evt-kBSIe7BSMtDFldg",
+      "status": "verified-updated",
+      "ids": [
+        "luma-batch-kBSIe7BSMtDFldg"
+      ],
+      "before": [
+        {
+          "id": "luma-batch-kBSIe7BSMtDFldg",
+          "slug": "cw0h549b",
+          "startDate": "2026-11-02T03:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Onchain Legal Summit :: Devcon India 2026"
+        }
+      ],
+      "startDate": "2026-11-04T05:30:00.000Z",
+      "endDate": "2026-11-04T11:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:43.567Z",
+      "published": [
+        {
+          "id": "luma-batch-kBSIe7BSMtDFldg",
+          "slug": "cw0h549b"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/6gnkjcqx",
+      "eventId": "evt-p8GBiNmZfRmAhS9",
+      "status": "added",
+      "ids": [
+        "india-luma-6gnkjcqx"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T10:30:00.000Z",
+      "endDate": "2026-11-04T13:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:44.460Z",
+      "published": [
+        {
+          "id": "india-luma-6gnkjcqx",
+          "slug": "6gnkjcqx"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/qzzu690f",
+      "eventId": "evt-EouxJJDx6JCrg1s",
+      "status": "added",
+      "ids": [
+        "india-luma-qzzu690f"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T13:00:00.000Z",
+      "endDate": "2026-11-04T17:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:45.128Z",
+      "published": [
+        {
+          "id": "india-luma-qzzu690f",
+          "slug": "qzzu690f"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/islzi7v3",
+      "eventId": "evt-TmFakvU6MH9ynFX",
+      "status": "added",
+      "ids": [
+        "india-luma-islzi7v3"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T13:00:00.000Z",
+      "endDate": "2026-11-04T16:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:45.798Z",
+      "published": [
+        {
+          "id": "india-luma-islzi7v3",
+          "slug": "islzi7v3"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/TBE-Devcon26",
+      "eventId": "evt-aPGKR2FFDEuckm2",
+      "status": "verified-updated",
+      "ids": [
+        "luma-batch-evtaPGKR2FFDEuck"
+      ],
+      "before": [
+        {
+          "id": "luma-batch-evtaPGKR2FFDEuck",
+          "slug": "tbe-devcon26",
+          "startDate": "2026-11-05T13:30:00.000Z",
+          "endDate": "2026-11-05T20:00:00.000Z",
+          "name": "The Best Event: Afterdark Devcon"
+        }
+      ],
+      "startDate": "2026-11-05T13:30:00.000Z",
+      "endDate": "2026-11-05T20:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:46.732Z",
+      "published": [
+        {
+          "id": "luma-batch-evtaPGKR2FFDEuck",
+          "slug": "tbe-devcon26"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/np3wx7v5",
+      "eventId": "evt-cFXe8eT3nFr409n",
+      "status": "verified-updated",
+      "ids": [
+        "luma-batch-cFXe8eT3nFr409n"
+      ],
+      "before": [
+        {
+          "id": "luma-batch-cFXe8eT3nFr409n",
+          "slug": "np3wx7v5",
+          "startDate": "2026-11-06T07:30:00.000Z",
+          "endDate": "2026-11-06T19:30:00.000Z",
+          "name": "MONEY MAKER"
+        }
+      ],
+      "startDate": "2026-11-06T07:30:00.000Z",
+      "endDate": "2026-11-06T19:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:47.717Z",
+      "published": [
+        {
+          "id": "luma-batch-cFXe8eT3nFr409n",
+          "slug": "np3wx7v5"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/ndrr1yqe",
+      "eventId": "evt-3ViKtGhH3Kfrsy3",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-mip-20-road-to-devcon-10-24",
+        "india-luma-ndrr1yqe",
+        "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
+        "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-mip-20-road-to-devcon-10-24",
+          "slug": "mip-20",
+          "startDate": "2026-10-24T06:30:00.000Z",
+          "endDate": "2026-10-24T08:30:00.000Z",
+          "name": "MIP-20: Road to Devcon"
+        },
+        {
+          "id": "india-luma-ndrr1yqe",
+          "slug": "mip-20",
+          "startDate": "2026-10-24T06:30:00.000Z",
+          "endDate": "2026-10-24T08:30:00.000Z",
+          "name": "MIP-20: Road to Devcon"
+        },
+        {
+          "id": "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
+          "startDate": "2026-10-24T00:00:00.000Z",
+          "endDate": "",
+          "name": "MeetupMIP-20: Road to DevconOct 24Mumbai, India (opens in a new tab)"
+        },
+        {
+          "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
+          "startDate": "2026-10-30T00:00:00.000Z",
+          "endDate": "",
+          "name": "MeetupMIP-20: Road to DevconOctober 30Mumbai, India (opens in a new tab)"
+        }
+      ],
+      "startDate": "2026-10-30T09:30:00.000Z",
+      "endDate": "2026-10-30T12:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "published": [
+        {
+          "id": "ibw-official-mip-20-road-to-devcon-10-24",
+          "slug": "mip-20"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/3doehm1b",
+      "eventId": "evt-6j68WnE2AAaoH5u",
+      "status": "added",
+      "ids": [
+        "india-luma-3doehm1b"
+      ],
+      "before": [],
+      "startDate": "2026-11-01T00:30:00.000Z",
+      "endDate": "2026-11-01T02:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:48.795Z",
+      "published": [
+        {
+          "id": "india-luma-3doehm1b",
+          "slug": "3doehm1b"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/83ujl6ms",
+      "eventId": "evt-iIl5cGqz2tmCDky",
+      "status": "added",
+      "ids": [
+        "india-luma-83ujl6ms"
+      ],
+      "before": [],
+      "startDate": "2026-11-01T05:30:00.000Z",
+      "endDate": "2026-11-01T13:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:49.468Z",
+      "published": [
+        {
+          "id": "india-luma-83ujl6ms",
+          "slug": "83ujl6ms"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/li3sv90r",
+      "eventId": "evt-xDD0qoNkCRNAE8s",
+      "status": "added",
+      "ids": [
+        "india-luma-li3sv90r"
+      ],
+      "before": [],
+      "startDate": "2026-11-01T16:00:00.000Z",
+      "endDate": "2026-11-08T17:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:50.072Z",
+      "published": [
+        {
+          "id": "india-luma-li3sv90r",
+          "slug": "li3sv90r"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/jb4zsel1",
+      "eventId": "evt-l58uYCtUXqOWZzo",
+      "status": "added",
+      "ids": [
+        "india-luma-jb4zsel1"
+      ],
+      "before": [],
+      "startDate": "2026-11-01T17:00:00.000Z",
+      "endDate": "2026-11-08T18:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:50.691Z",
+      "published": [
+        {
+          "id": "india-luma-jb4zsel1",
+          "slug": "jb4zsel1"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/spsnos9t",
+      "eventId": "evt-CyZRiDdLECiCPRS",
+      "status": "verified-updated",
+      "ids": [
+        "premier-cypherpunk",
+        "ibw-official-ethereum-cypherpunk-congress-3-11-02",
+        "india-luma-spsnos9t",
+        "w3v-ethereum-cypherpunk-congress-mumbai",
+        "ethorg-ethereum-cypherpunk-congress--3mumbai--indianov-2-"
+      ],
+      "before": [
+        {
+          "id": "premier-cypherpunk",
+          "slug": "ethereum2",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Ethereum Cypherpunk Congress #3"
+        },
+        {
+          "id": "ibw-official-ethereum-cypherpunk-congress-3-11-02",
+          "slug": "ecc3",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Ethereum Cypherpunk Congress #3"
+        },
+        {
+          "id": "india-luma-spsnos9t",
+          "slug": "ecc3",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Ethereum Cypherpunk Congress #3"
+        },
+        {
+          "id": "w3v-ethereum-cypherpunk-congress-mumbai",
+          "slug": "eccm",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Ethereum Cypherpunk Congress #3"
+        },
+        {
+          "id": "ethorg-ethereum-cypherpunk-congress--3mumbai--indianov-2-",
+          "startDate": "2026-11-02T00:00:00.000Z",
+          "endDate": "",
+          "name": "Ethereum Cypherpunk Congress #3Mumbai, IndiaNov 2 (opens in a new tab)"
+        }
+      ],
+      "startDate": "2026-11-02T04:30:00.000Z",
+      "endDate": "2026-11-02T13:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
+      "published": [
+        {
+          "id": "premier-cypherpunk",
+          "slug": "ethereum2"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/solana-summit-india",
+      "eventId": "evt-hadJH0ytfLq1cra",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-solana-summit-india-11-02",
+        "india-luma-solana-summit-india",
+        "w3v-solana-summit-india",
+        "luma-host-evt-evt-hadJH0ytfLq1cra"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-solana-summit-india-11-02",
+          "slug": "ssi",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Solana Summit India"
+        },
+        {
+          "id": "india-luma-solana-summit-india",
+          "slug": "ssi",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Solana Summit India"
+        },
+        {
+          "id": "w3v-solana-summit-india",
+          "slug": "ssi",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Solana Summit India"
+        },
+        {
+          "id": "luma-host-evt-evt-hadJH0ytfLq1cra",
+          "startDate": "2026-11-02T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z",
+          "name": "Solana Summit India"
+        }
+      ],
+      "startDate": "2026-11-02T04:30:00.000Z",
+      "endDate": "2026-11-02T13:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:52.235Z",
+      "published": [
+        {
+          "id": "ibw-official-solana-summit-india-11-02",
+          "slug": "ssi"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/Team1Mumbai",
+      "eventId": "evt-3n9TV5ov9ni2Co9",
+      "status": "added",
+      "ids": [
+        "india-luma-team1mumbai"
+      ],
+      "before": [],
+      "startDate": "2026-11-02T12:30:00.000Z",
+      "endDate": "2026-11-02T16:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:52.750Z",
+      "published": [
+        {
+          "id": "india-luma-team1mumbai",
+          "slug": "team1mumbai"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/quilla-vmnc",
+      "eventId": "evt-D7k7jWijF3d5iyR",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+          "slug": "institutional-table2",
+          "startDate": "2026-11-02T14:00:00.000Z",
+          "endDate": "2026-11-02T17:00:00.000Z",
+          "name": "The Institutional Table: Private Dinner on Tokenization, Stablecoins and Security | Mumbai"
+        }
+      ],
+      "startDate": "2026-11-02T14:00:00.000Z",
+      "endDate": "2026-11-02T17:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:53.365Z",
+      "published": [
+        {
+          "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+          "slug": "institutional-table2"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/mc8pq06y",
+      "eventId": "evt-7t3sShtMaxamGmO",
+      "status": "added",
+      "ids": [
+        "india-luma-mc8pq06y"
+      ],
+      "before": [],
+      "startDate": "2026-11-03T03:30:00.000Z",
+      "endDate": "2026-11-06T12:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": false,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:54.068Z",
+      "published": [
+        {
+          "id": "india-luma-mc8pq06y",
+          "slug": "mc8pq06y"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/h0x443s9",
+      "eventId": "evt-Tbl4iBvKvI7vTmt",
+      "status": "added",
+      "ids": [
+        "india-luma-h0x443s9"
+      ],
+      "before": [],
+      "startDate": "2026-11-03T06:30:00.000Z",
+      "endDate": "2026-11-03T12:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:54.712Z",
+      "published": [
+        {
+          "id": "india-luma-h0x443s9",
+          "slug": "h0x443s9"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/08ogvz1i",
+      "eventId": "evt-C3yaJynwDW8vJue",
+      "status": "verified-updated",
+      "ids": [
+        "india-luma-08ogvz1i"
+      ],
+      "before": [
+        {
+          "id": "india-luma-08ogvz1i",
+          "slug": "rrm",
+          "startDate": "2026-11-03T06:30:00.000Z",
+          "endDate": "2026-11-03T09:30:00.000Z",
+          "name": "Ready for the Run @ Mumbai"
+        }
+      ],
+      "startDate": "2026-11-03T06:30:00.000Z",
+      "endDate": "2026-11-03T09:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:55.374Z",
+      "published": [
+        {
+          "id": "india-luma-08ogvz1i",
+          "slug": "rrm"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/mh0xmqg0",
+      "eventId": "evt-A50Gu0jztJ9sS1j",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-media-accelerator-startup-cohort-11-03",
+        "india-luma-mh0xmqg0"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-media-accelerator-startup-cohort-11-03",
+          "slug": "masc",
+          "startDate": "2026-11-03T09:30:00.000Z",
+          "endDate": "2026-11-06T09:00:00.000Z",
+          "name": "Media Accelerator & Startup Cohort"
+        },
+        {
+          "id": "india-luma-mh0xmqg0",
+          "slug": "masc",
+          "startDate": "2026-11-03T09:30:00.000Z",
+          "endDate": "2026-11-06T09:00:00.000Z",
+          "name": "Media Accelerator & Startup Cohort"
+        }
+      ],
+      "startDate": "2026-11-03T09:30:00.000Z",
+      "endDate": "2026-11-06T09:00:00.000Z",
+      "timezone": "Asia/Calcutta",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:56.330Z",
+      "published": [
+        {
+          "id": "ibw-official-media-accelerator-startup-cohort-11-03",
+          "slug": "masc"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/sgrf4yq5",
+      "eventId": "evt-99bRGTi2yt67DEn",
+      "status": "added",
+      "ids": [
+        "india-luma-sgrf4yq5"
+      ],
+      "before": [],
+      "startDate": "2026-11-03T16:00:00.000Z",
+      "endDate": "2026-11-03T19:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:57.221Z",
+      "published": [
+        {
+          "id": "india-luma-sgrf4yq5",
+          "slug": "sgrf4yq5"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/qk93a446",
+      "eventId": "evt-sD01HYVKTNfEzrf",
+      "status": "added",
+      "ids": [
+        "india-luma-qk93a446"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T03:30:00.000Z",
+      "endDate": "2026-11-04T18:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:57.857Z",
+      "published": [
+        {
+          "id": "india-luma-qk93a446",
+          "slug": "qk93a446"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/hr8w0hmd",
+      "eventId": "evt-HdBv5chLWvbN4Ry",
+      "status": "added",
+      "ids": [
+        "india-luma-hr8w0hmd"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T10:30:00.000Z",
+      "endDate": "2026-11-04T14:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": false,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:58.446Z",
+      "published": [
+        {
+          "id": "india-luma-hr8w0hmd",
+          "slug": "hr8w0hmd"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/ai6owvhz",
+      "eventId": "evt-EUB6btQvXctsCQq",
+      "status": "added",
+      "ids": [
+        "india-luma-ai6owvhz"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T11:30:00.000Z",
+      "endDate": "2026-11-04T17:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:59.039Z",
+      "published": [
+        {
+          "id": "india-luma-ai6owvhz",
+          "slug": "ai6owvhz"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/xuofsg0p",
+      "eventId": "evt-MAFgva0mxz3MYuB",
+      "status": "added",
+      "ids": [
+        "india-luma-xuofsg0p"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T12:30:00.000Z",
+      "endDate": "2026-11-04T15:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:38:59.640Z",
+      "published": [
+        {
+          "id": "india-luma-xuofsg0p",
+          "slug": "xuofsg0p"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/80bnxbwi",
+      "eventId": "evt-9xIXcOsANrplnhy",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-quantstamp-mumbai-lounge-11-04"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+          "slug": "quantstamp-mumbai-lounge",
+          "startDate": "2026-11-04T13:30:00.000Z",
+          "endDate": "2026-11-04T16:30:00.000Z",
+          "name": "Quantstamp x Common Defense | Mumbai Lounge | Devcon 2026"
+        }
+      ],
+      "startDate": "2026-11-04T13:30:00.000Z",
+      "endDate": "2026-11-04T16:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:00.318Z",
+      "published": [
+        {
+          "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+          "slug": "quantstamp-mumbai-lounge"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/kz3klqjq",
+      "eventId": "evt-E2KSzHBkARdArOG",
+      "status": "added",
+      "ids": [
+        "india-luma-kz3klqjq"
+      ],
+      "before": [],
+      "startDate": "2026-11-04T14:30:00.000Z",
+      "endDate": "2026-11-04T17:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:00.816Z",
+      "published": [
+        {
+          "id": "india-luma-kz3klqjq",
+          "slug": "kz3klqjq"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/ub56pe38",
+      "eventId": "evt-TuoJYVkPdsFFXSj",
+      "status": "added",
+      "ids": [
+        "india-luma-ub56pe38"
+      ],
+      "before": [],
+      "startDate": "2026-11-05T03:30:00.000Z",
+      "endDate": "2026-11-06T11:30:00.000Z",
+      "timezone": "Asia/Calcutta",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:01.524Z",
+      "published": [
+        {
+          "id": "india-luma-ub56pe38",
+          "slug": "ub56pe38"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/5u1evsou",
+      "eventId": "evt-UClggf2K63MGkUL",
+      "status": "added",
+      "ids": [
+        "india-luma-5u1evsou"
+      ],
+      "before": [],
+      "startDate": "2026-11-05T07:30:00.000Z",
+      "endDate": "2026-11-05T10:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:02.079Z",
+      "published": [
+        {
+          "id": "india-luma-5u1evsou",
+          "slug": "5u1evsou"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/ena53peq",
+      "eventId": "evt-hIZnQMK5SVTWgj8",
+      "status": "conflict-excluded",
+      "ids": [
+        "luma-batch-hIZnQMK5SVTWgj8"
+      ],
+      "before": [
+        {
+          "id": "luma-batch-hIZnQMK5SVTWgj8",
+          "slug": "ena53peq",
+          "startDate": "2026-11-05T14:00:00.000Z",
+          "endDate": "2026-11-05T19:30:00.000Z",
+          "name": "Biggest CT G.A.Y Party"
+        }
+      ],
+      "startDate": "2026-11-05T14:00:00.000Z",
+      "endDate": "2026-11-05T19:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "reason": "Structured schedule says November 5, 2026 at 19:30 to November 6 at 01:00 IST; description says December 6 at 16:00 to 19:00. Existing record retained for review and excluded from the dated public catalog.",
+      "fetchedAt": "2026-10-11T18:39:02.452Z",
+      "published": []
+    },
+    {
+      "url": "https://luma.com/quilla-rvp4",
+      "eventId": "evt-KjyZmKpC0MKoGUc",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+          "slug": "ship-safe",
+          "startDate": "2026-11-06T10:30:00.000Z",
+          "endDate": "2026-11-06T14:30:00.000Z",
+          "name": "Ship Safe: Devcon Mumbai Security Sessions by QuillAudits"
+        }
+      ],
+      "startDate": "2026-11-06T10:30:00.000Z",
+      "endDate": "2026-11-06T14:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:03.106Z",
+      "published": [
+        {
+          "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+          "slug": "ship-safe"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/tswdcctj",
+      "eventId": "evt-KnTTqKu0yEQO5wQ",
+      "status": "added",
+      "ids": [
+        "india-luma-tswdcctj"
+      ],
+      "before": [],
+      "startDate": "2026-11-06T16:00:00.000Z",
+      "endDate": "2026-11-06T19:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:03.623Z",
+      "published": [
+        {
+          "id": "india-luma-tswdcctj",
+          "slug": "tswdcctj"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/v0fimew1",
+      "eventId": "evt-HkztBg5xy9mG8Ih",
+      "status": "added",
+      "ids": [
+        "india-luma-v0fimew1"
+      ],
+      "before": [],
+      "startDate": "2026-11-07T14:30:00.000Z",
+      "endDate": "2026-11-07T18:30:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:04.042Z",
+      "published": [
+        {
+          "id": "india-luma-v0fimew1",
+          "slug": "v0fimew1"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/0ej7kbb0",
+      "eventId": "evt-8iVE1CPkAcmDV2H",
+      "status": "added",
+      "ids": [
+        "india-luma-0ej7kbb0"
+      ],
+      "before": [],
+      "startDate": "2026-11-08T12:30:00.000Z",
+      "endDate": "2026-11-08T18:00:00.000Z",
+      "timezone": "Asia/Kolkata",
+      "locationHidden": true,
+      "approvalRequired": true,
+      "visibility": "public",
+      "fetchedAt": "2026-10-11T18:39:04.672Z",
+      "published": [
+        {
+          "id": "india-luma-0ej7kbb0",
+          "slug": "0ej7kbb0"
+        }
+      ]
+    },
+    {
+      "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+      "status": "verified-updated",
+      "ids": [
+        "premier-ibt-mumbai-2026"
+      ],
+      "before": [
+        {
+          "id": "premier-ibt-mumbai-2026",
+          "slug": "ibt-mumbai",
+          "startDate": "2026-10-31T10:00:00+05:30",
+          "endDate": "2026-10-31T17:00:00+05:30"
+        }
+      ],
+      "startDate": "2026-10-31T12:00:00+05:30",
+      "endDate": "2026-10-31T18:00:00+05:30",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": true,
+      "fetchedAt": "2026-10-11T18:39:05.525Z",
+      "published": [
+        {
+          "id": "premier-ibt-mumbai-2026",
+          "slug": "ibt-mumbai"
+        }
+      ]
+    },
+    {
+      "url": "https://indiablockchainweek.com/future-asset-forum",
+      "status": "added",
+      "ids": [
+        "ibw-official-future-asset-forum-2026"
+      ],
+      "before": [],
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-02",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:05.771Z",
+      "published": [
+        {
+          "id": "ibw-official-future-asset-forum-2026",
+          "slug": "ifaf"
+        }
+      ]
+    },
+    {
+      "url": "https://www.indiablockchainweek.com/institutional-forum",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-ibw-institutional-forum-11-02",
+        "w3v-ibw-institutional-forum-26-11-01"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-ibw-institutional-forum-11-02",
+          "slug": "iif",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-02"
+        },
+        {
+          "id": "w3v-ibw-institutional-forum-26-11-01",
+          "startDate": "2026-11-01T03:30:00.000Z",
+          "endDate": "2026-11-02T03:30:00.000Z"
+        }
+      ],
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-02",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:06.068Z",
+      "published": [
+        {
+          "id": "ibw-official-ibw-institutional-forum-11-02",
+          "slug": "iif"
+        }
+      ]
+    },
+    {
+      "url": "https://indiablockchainweek.com/",
+      "status": "verified-updated",
+      "ids": [
+        "premier-indiabw-2026",
+        "w3v-india-blockchain-week-2026"
+      ],
+      "before": [
+        {
+          "id": "premier-indiabw-2026",
+          "slug": "ibw",
+          "startDate": "2026-11-01",
+          "endDate": "2026-11-02"
+        },
+        {
+          "id": "w3v-india-blockchain-week-2026",
+          "startDate": "2026-11-01T04:30:00.000Z",
+          "endDate": "2026-11-02T13:30:00.000Z"
+        }
+      ],
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-02",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:06.121Z",
+      "published": [
+        {
+          "id": "premier-indiabw-2026",
+          "slug": "ibw"
+        }
+      ]
+    },
+    {
+      "url": "https://devcon.org/en/",
+      "status": "verified-updated",
+      "ids": [
+        "premier-devcon-2026"
+      ],
+      "before": [
+        {
+          "id": "premier-devcon-2026",
+          "slug": "devcon",
+          "startDate": "2026-11-03",
+          "endDate": "2026-11-07"
+        }
+      ],
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:06.895Z",
+      "published": [
+        {
+          "id": "premier-devcon-2026",
+          "slug": "devcon"
+        }
+      ]
+    },
+    {
+      "url": "https://ethindia.co/",
+      "status": "added",
+      "ids": [
+        "premier-ethindia-2026"
+      ],
+      "before": [],
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:07.586Z",
+      "published": [
+        {
+          "id": "premier-ethindia-2026",
+          "slug": "ethindia"
+        }
+      ]
+    },
+    {
+      "url": "https://ethglobal.com/events/pragma-mumbai",
+      "status": "verified-updated",
+      "ids": [
+        "ibw-official-pragma-mumbai-11-05"
+      ],
+      "before": [
+        {
+          "id": "ibw-official-pragma-mumbai-11-05",
+          "slug": "pragma-mumbai",
+          "startDate": "2026-11-04",
+          "endDate": "2026-11-04"
+        }
+      ],
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:08.061Z",
+      "retrievedVia": "https://r.jina.ai/https://ethglobal.com/events/pragma-mumbai",
+      "published": [
+        {
+          "id": "ibw-official-pragma-mumbai-11-05",
+          "slug": "pragma-mumbai"
+        }
+      ]
+    },
+    {
+      "url": "https://ethglobal.com/events/mumbai",
+      "status": "verified-updated",
+      "ids": [
+        "premier-ethmumbai-2026"
+      ],
+      "before": [
+        {
+          "id": "premier-ethmumbai-2026",
+          "slug": "ethglobal1",
+          "startDate": "2026-11-05",
+          "endDate": "2026-11-07"
+        }
+      ],
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-07",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:08.597Z",
+      "retrievedVia": "https://r.jina.ai/https://ethglobal.com/events/mumbai",
+      "published": [
+        {
+          "id": "premier-ethmumbai-2026",
+          "slug": "ethglobal1"
+        }
+      ]
+    },
+    {
+      "url": "https://unchainedsummit.com/india/",
+      "status": "verified-updated",
+      "ids": [
+        "premier-unchained-summit-india-2026",
+        "ibw-official-unchained-summit-day-1-11-05",
+        "ibw-official-unchained-summit-day-2-11-06",
+        "w3v-unchained-summit-india-26-11-05"
+      ],
+      "before": [
+        {
+          "id": "premier-unchained-summit-india-2026",
+          "slug": "unchained-summit",
+          "startDate": "2026-11-05T09:00:00+05:30",
+          "endDate": "2026-11-06T18:00:00+05:30"
+        },
+        {
+          "id": "ibw-official-unchained-summit-day-1-11-05",
+          "startDate": "2026-11-05T10:00:00+05:30",
+          "endDate": "2026-11-05T19:00:00+05:30"
+        },
+        {
+          "id": "ibw-official-unchained-summit-day-2-11-06",
+          "slug": "usd2",
+          "startDate": "2026-11-06T10:00:00+05:30",
+          "endDate": "2026-11-06T19:00:00+05:30"
+        },
+        {
+          "id": "w3v-unchained-summit-india-26-11-05",
+          "startDate": "2026-11-05T03:30:00.000Z",
+          "endDate": "2026-11-06T03:30:00.000Z"
+        }
+      ],
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-06",
+      "timezone": "Asia/Kolkata",
+      "clockTimesVerified": false,
+      "fetchedAt": "2026-10-11T18:39:09.228Z",
+      "published": [
+        {
+          "id": "premier-unchained-summit-india-2026",
+          "slug": "unchained-summit"
+        }
+      ]
+    },
+    {
+      "url": "https://luma.com/multichaindaydevconmumbai",
+      "status": "unavailable-excluded",
+      "httpStatus": 404,
+      "ids": [
+        "ibw-official-multichain-day-devcon-mumbai-2026wrapped-11-02"
+      ],
+      "fetchedAt": "2026-10-11T18:39:11.321Z",
+      "published": []
+    },
+    {
+      "url": "https://luma.com/u1m2yuic",
+      "status": "unavailable-excluded",
+      "httpStatus": 404,
+      "ids": [],
+      "fetchedAt": "2026-10-11T18:39:11.682Z",
+      "published": []
+    },
+    {
+      "url": "https://luma.com/188n1ye7",
+      "status": "unavailable-excluded",
+      "httpStatus": 404,
+      "ids": [],
+      "fetchedAt": "2026-10-11T18:39:12.037Z",
+      "published": []
+    },
+    {
+      "url": "https://t.ly/sEaNC",
+      "status": "unverified-excluded",
+      "httpStatus": 403,
+      "reason": "Shortener security challenge prevents resolving the primary event. No record added from calendar-only dates.",
+      "ids": [],
+      "published": []
+    },
+    {
+      "url": "https://t.ly/gIAzG",
+      "status": "unverified-excluded",
+      "httpStatus": 403,
+      "reason": "Shortener security challenge prevents resolving the primary event. No record added from calendar-only dates.",
+      "ids": [],
+      "published": []
+    }
+  ],
+  "publication": {
+    "runtimeEvents": 231,
+    "baselineEvents": 208,
+    "addedPublished": [
+      {
+        "id": "ibw-official-future-asset-forum-2026",
+        "slug": "ifaf"
+      },
+      {
+        "id": "india-luma-3doehm1b",
+        "slug": "3doehm1b"
+      },
+      {
+        "id": "india-luma-83ujl6ms",
+        "slug": "83ujl6ms"
+      },
+      {
+        "id": "india-luma-li3sv90r",
+        "slug": "li3sv90r"
+      },
+      {
+        "id": "india-luma-jb4zsel1",
+        "slug": "jb4zsel1"
+      },
+      {
+        "id": "india-luma-team1mumbai",
+        "slug": "team1mumbai"
+      },
+      {
+        "id": "india-luma-mc8pq06y",
+        "slug": "mc8pq06y"
+      },
+      {
+        "id": "india-luma-h0x443s9",
+        "slug": "h0x443s9"
+      },
+      {
+        "id": "india-luma-nyw6qigp",
+        "slug": "nyw6qigp"
+      },
+      {
+        "id": "india-luma-2kj0jqf9",
+        "slug": "2kj0jqf9"
+      },
+      {
+        "id": "india-luma-uqmzpq5k",
+        "slug": "uqmzpq5k"
+      },
+      {
+        "id": "india-luma-sgrf4yq5",
+        "slug": "sgrf4yq5"
+      },
+      {
+        "id": "india-luma-ib9j3xxe",
+        "slug": "ib9j3xxe"
+      },
+      {
+        "id": "premier-ethindia-2026",
+        "slug": "ethindia"
+      },
+      {
+        "id": "india-luma-qk93a446",
+        "slug": "qk93a446"
+      },
+      {
+        "id": "india-luma-6gnkjcqx",
+        "slug": "6gnkjcqx"
+      },
+      {
+        "id": "india-luma-hr8w0hmd",
+        "slug": "hr8w0hmd"
+      },
+      {
+        "id": "india-luma-ai6owvhz",
+        "slug": "ai6owvhz"
+      },
+      {
+        "id": "india-luma-xuofsg0p",
+        "slug": "xuofsg0p"
+      },
+      {
+        "id": "india-luma-qzzu690f",
+        "slug": "qzzu690f"
+      },
+      {
+        "id": "india-luma-islzi7v3",
+        "slug": "islzi7v3"
+      },
+      {
+        "id": "india-luma-kz3klqjq",
+        "slug": "kz3klqjq"
+      },
+      {
+        "id": "india-luma-ub56pe38",
+        "slug": "ub56pe38"
+      },
+      {
+        "id": "india-luma-5u1evsou",
+        "slug": "5u1evsou"
+      },
+      {
+        "id": "india-luma-tswdcctj",
+        "slug": "tswdcctj"
+      },
+      {
+        "id": "india-luma-v0fimew1",
+        "slug": "v0fimew1"
+      },
+      {
+        "id": "india-luma-0ej7kbb0",
+        "slug": "0ej7kbb0"
+      }
+    ],
+    "removedPublished": [
+      {
+        "id": "ibw-official-multichain-day-devcon-mumbai-2026wrapped-11-02",
+        "slug": "multichain-day2",
+        "aliasOf": null
+      },
+      {
+        "id": "ibw-official-defi-security-summit-day-2-11-02",
+        "slug": "dssd2",
+        "aliasOf": "ibw-official-defi-security-summit-day-1-11-01"
+      },
+      {
+        "id": "luma-batch-hIZnQMK5SVTWgj8",
+        "slug": "ena53peq",
+        "aliasOf": null
+      },
+      {
+        "id": "ibw-official-unchained-summit-day-2-11-06",
+        "slug": "usd2",
+        "aliasOf": "premier-unchained-summit-india-2026"
+      }
+    ],
+    "verifiedCanonicalEvents": 52
+  },
+  "coverage": [
+    {
+      "source": "https://luma.com/devcon",
+      "count": 19,
+      "catalogMatchesBefore": 10,
+      "published": 17,
+      "excluded": 2,
+      "members": [
+        {
+          "entryId": "calev-TgaU5YjFUrswtkI",
+          "url": "https://luma.com/g3oz48ck",
+          "platform": "luma",
+          "status": "conflict-excluded",
+          "published": [],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-jrgAAMx9oftALSs",
+          "url": "https://luma.com/9qtxqqxx",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-defi-security-summit-day-1-11-01",
+              "slug": "dssd1"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-FaTtsHAeQDzJF30",
+          "url": "https://luma.com/1cnairat",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-ravecon-b-ender-11-04",
+              "slug": "rbe"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-q49Uog1W6Q3ljB9",
+          "url": "https://luma.com/n0a39ago",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-onchain-dev-city-india-11-02",
+              "slug": "odci"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-fp3vNmg44iKLXnl",
+          "url": "https://luma.com/9bhu9f28",
+          "platform": "luma",
+          "status": "conflict-excluded",
+          "published": [],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-lfea46o20wVRuvK",
+          "url": "https://luma.com/rsm1xrxt",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-HWyWCSbQQ3n6tLU",
+              "slug": "rsm1xrxt"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-xVDPGB3AmMebTrX",
+          "url": "https://luma.com/a0e6b8at",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+              "slug": "aefatis"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-jBSmYo9A1WcYiJd",
+          "url": "https://luma.com/nyw6qigp",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-nyw6qigp",
+              "slug": "nyw6qigp"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-DRO1DtvOQ8OqElW",
+          "url": "https://luma.com/2kj0jqf9",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-2kj0jqf9",
+              "slug": "2kj0jqf9"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-wsOJARSLyMgC2rL",
+          "url": "https://luma.com/uqmzpq5k",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-uqmzpq5k",
+              "slug": "uqmzpq5k"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-zRkW1LTU2YMhmWA",
+          "url": "https://luma.com/czi58jpe",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-eip-hub-3-7-nov-11-03",
+              "slug": "eh37n"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-rK6wq4DtHACX0qI",
+          "url": "https://luma.com/ib9j3xxe",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-ib9j3xxe",
+              "slug": "ib9j3xxe"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-UUEsBwJMeD5kdA9",
+          "url": "https://luma.com/7729jnr3",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-G3fjJAlPZ0oK9GC",
+              "slug": "7729jnr3"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-9xkAy4CyqGzQQLr",
+          "url": "https://luma.com/cw0h549b",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-kBSIe7BSMtDFldg",
+              "slug": "cw0h549b"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-8SA9WIoFmX6Bbiq",
+          "url": "https://luma.com/6gnkjcqx",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-6gnkjcqx",
+              "slug": "6gnkjcqx"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-Dw8Eg1GgelGY1Dv",
+          "url": "https://luma.com/qzzu690f",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-qzzu690f",
+              "slug": "qzzu690f"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-GgguvhRCb3z8WgT",
+          "url": "https://luma.com/islzi7v3",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-islzi7v3",
+              "slug": "islzi7v3"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-7WQKGgf6GXvclLf",
+          "url": "https://luma.com/TBE-Devcon26",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-evtaPGKR2FFDEuck",
+              "slug": "tbe-devcon26"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-c1gJID84nZVP6ru",
+          "url": "https://luma.com/np3wx7v5",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-cFXe8eT3nFr409n",
+              "slug": "np3wx7v5"
+            }
+          ],
+          "existedBefore": true
+        }
+      ]
+    },
+    {
+      "source": "https://luma.com/ibw",
+      "count": 57,
+      "catalogMatchesBefore": 26,
+      "published": 52,
+      "excluded": 5,
+      "members": [
+        {
+          "entryId": "calev-eCcQ3LaGVHtVGkn",
+          "url": "https://luma.com/g3oz48ck",
+          "platform": "luma",
+          "status": "conflict-excluded",
+          "published": [],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-ePTHZP0H3E4TIM9",
+          "url": "https://luma.com/ndrr1yqe",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-mip-20-road-to-devcon-10-24",
+              "slug": "mip-20"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-ouYf1aj1NlZFJoj",
+          "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node?utm_source=web3meetups",
+          "platform": "external",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "premier-ibt-mumbai-2026",
+              "slug": "ibt-mumbai"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-CpN7LEPy2RPFUFv",
+          "url": "https://luma.com/3doehm1b",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-3doehm1b",
+              "slug": "3doehm1b"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-Fu8H26FkBYlRv48",
+          "url": "https://luma.com/9qtxqqxx",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-defi-security-summit-day-1-11-01",
+              "slug": "dssd1"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-rFlehTFlvDIQ2gw",
+          "url": "https://indiablockchainweek.com/future-asset-forum?utm_source=web3meetups",
+          "platform": "external",
+          "status": "added",
+          "published": [
+            {
+              "id": "ibw-official-future-asset-forum-2026",
+              "slug": "ifaf"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-vBjQYugYKHVFVGX",
+          "url": "https://www.indiablockchainweek.com/institutional-forum?utm_source=web3meetups",
+          "platform": "external",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-ibw-institutional-forum-11-02",
+              "slug": "iif"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-VQVSBjBQi3h9ydm",
+          "url": "https://indiablockchainweek.com/?utm_source=web3meetups",
+          "platform": "external",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "premier-indiabw-2026",
+              "slug": "ibw"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-JNdjxRABmNf7yvN",
+          "url": "https://luma.com/83ujl6ms",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-83ujl6ms",
+              "slug": "83ujl6ms"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-I0w5IBhyyLSuAL3",
+          "url": "https://luma.com/1cnairat",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-ravecon-b-ender-11-04",
+              "slug": "rbe"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-PtwaE12yk3YHFPf",
+          "url": "https://luma.com/li3sv90r",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-li3sv90r",
+              "slug": "li3sv90r"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-6FB5ZgzLTqHGos8",
+          "url": "https://luma.com/jb4zsel1",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-jb4zsel1",
+              "slug": "jb4zsel1"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-BK4ziWtAeI4YRXa",
+          "url": "https://luma.com/spsnos9t",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "premier-cypherpunk",
+              "slug": "ethereum2"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-vDe2xJ5bThtPheJ",
+          "url": "https://luma.com/solana-summit-india",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-solana-summit-india-11-02",
+              "slug": "ssi"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-EcMa3Gwgv5vUxHs",
+          "url": "https://t.ly/sEaNC?utm_source=web3meetups",
+          "platform": "external",
+          "status": "unverified-excluded",
+          "published": [],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-gvC0QaQah8ySFsA",
+          "url": "https://luma.com/n0a39ago",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-onchain-dev-city-india-11-02",
+              "slug": "odci"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-lloZB8LJMb1jfCI",
+          "url": "https://luma.com/Team1Mumbai",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-team1mumbai",
+              "slug": "team1mumbai"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-5NBoJFFB3QIRp5y",
+          "url": "https://luma.com/9bhu9f28",
+          "platform": "luma",
+          "status": "conflict-excluded",
+          "published": [],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-LMkJQLN443nEaWG",
+          "url": "https://luma.com/quilla-vmnc",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02",
+              "slug": "institutional-table2"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-SfdwUDA9vh0QCW5",
+          "url": "https://luma.com/rsm1xrxt",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-HWyWCSbQQ3n6tLU",
+              "slug": "rsm1xrxt"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-2TRrHRP6O8ZaKFq",
+          "url": "https://luma.com/mc8pq06y",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-mc8pq06y",
+              "slug": "mc8pq06y"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-xX0zezeRDqOWzeY",
+          "url": "https://luma.com/a0e6b8at",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
+              "slug": "aefatis"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-1jNXMvvfubLU0Gx",
+          "url": "https://devcon.org/en/?utm_source=web3meetups",
+          "platform": "external",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "premier-devcon-2026",
+              "slug": "devcon"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-8rubzL6zdtMfvK9",
+          "url": "https://luma.com/h0x443s9",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-h0x443s9",
+              "slug": "h0x443s9"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-chhcWelYvBhzHbI",
+          "url": "https://luma.com/08ogvz1i",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "india-luma-08ogvz1i",
+              "slug": "rrm"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-G2ZUyN8RndWCOMJ",
+          "url": "https://luma.com/mh0xmqg0",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-media-accelerator-startup-cohort-11-03",
+              "slug": "masc"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-OATQxPtMn3NMcF5",
+          "url": "https://luma.com/nyw6qigp",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-nyw6qigp",
+              "slug": "nyw6qigp"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-P2TDcoFHe4aAnO8",
+          "url": "https://luma.com/2kj0jqf9",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-2kj0jqf9",
+              "slug": "2kj0jqf9"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-ODBcjC8uAXWal4H",
+          "url": "https://luma.com/uqmzpq5k",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-uqmzpq5k",
+              "slug": "uqmzpq5k"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-Kpj5DTadDgTbTfy",
+          "url": "https://luma.com/czi58jpe",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-eip-hub-3-7-nov-11-03",
+              "slug": "eh37n"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-gzCV72DJ1E2UgNB",
+          "url": "https://luma.com/sgrf4yq5",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-sgrf4yq5",
+              "slug": "sgrf4yq5"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-yavU9iHHYVgYEmW",
+          "url": "https://luma.com/ib9j3xxe",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-ib9j3xxe",
+              "slug": "ib9j3xxe"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-fbBDuGl4A9GhZFj",
+          "url": "https://luma.com/qk93a446",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-qk93a446",
+              "slug": "qk93a446"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-ziX5JIfo1RtzZpP",
+          "url": "https://ethindia.co/?utm_source=web3meetups",
+          "platform": "external",
+          "status": "added",
+          "published": [
+            {
+              "id": "premier-ethindia-2026",
+              "slug": "ethindia"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-fAvJDAx8px0U5Lp",
+          "url": "https://t.ly/gIAzG?utm_source=web3meetups",
+          "platform": "external",
+          "status": "unverified-excluded",
+          "published": [],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-ODbrwFplgCd1aQd",
+          "url": "https://luma.com/7729jnr3",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-G3fjJAlPZ0oK9GC",
+              "slug": "7729jnr3"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-yLR6EOPYtOA5Au8",
+          "url": "https://ethglobal.com/events/pragma-mumbai?utm_source=web3meetups",
+          "platform": "external",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-pragma-mumbai-11-05",
+              "slug": "pragma-mumbai"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-kf2B5VTEWYFBBmq",
+          "url": "https://luma.com/cw0h549b",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-kBSIe7BSMtDFldg",
+              "slug": "cw0h549b"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-a3YbCZCnXzcsRqg",
+          "url": "https://luma.com/6gnkjcqx",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-6gnkjcqx",
+              "slug": "6gnkjcqx"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-QbcMawookQwV7kQ",
+          "url": "https://luma.com/hr8w0hmd",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-hr8w0hmd",
+              "slug": "hr8w0hmd"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-8rXAwFFshBEdX71",
+          "url": "https://luma.com/ai6owvhz",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-ai6owvhz",
+              "slug": "ai6owvhz"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-SHg19MzhAs0SCgI",
+          "url": "https://luma.com/xuofsg0p",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-xuofsg0p",
+              "slug": "xuofsg0p"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-1Ydg8RAsS66yZfO",
+          "url": "https://luma.com/qzzu690f",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-qzzu690f",
+              "slug": "qzzu690f"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-RAEeBMsIG0ntue7",
+          "url": "https://luma.com/islzi7v3",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-islzi7v3",
+              "slug": "islzi7v3"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-wHmWwdNue1Lr77W",
+          "url": "https://luma.com/80bnxbwi",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-quantstamp-mumbai-lounge-11-04",
+              "slug": "quantstamp-mumbai-lounge"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-K18sActQaYKOeCd",
+          "url": "https://luma.com/kz3klqjq",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-kz3klqjq",
+              "slug": "kz3klqjq"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-ZkEjq4qqT2kl4Eo",
+          "url": "https://luma.com/ub56pe38",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-ub56pe38",
+              "slug": "ub56pe38"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-b0WzsAfRHOjta0K",
+          "url": "https://ethglobal.com/events/mumbai?utm_source=web3meetups",
+          "platform": "external",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "premier-ethmumbai-2026",
+              "slug": "ethglobal1"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-yqo0p67x0DbcTWD",
+          "url": "https://unchainedsummit.com/india/?utm_source=web3meetups",
+          "platform": "external",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "premier-unchained-summit-india-2026",
+              "slug": "unchained-summit"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-2XL9bcnnp1bcTVK",
+          "url": "https://luma.com/5u1evsou",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-5u1evsou",
+              "slug": "5u1evsou"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-3rQvMKZBClraS4n",
+          "url": "https://luma.com/TBE-Devcon26",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-evtaPGKR2FFDEuck",
+              "slug": "tbe-devcon26"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-AhYyQGN51ViqZBy",
+          "url": "https://luma.com/ena53peq",
+          "platform": "luma",
+          "status": "conflict-excluded",
+          "published": [],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-qmk16wS7ZptPB0K",
+          "url": "https://luma.com/np3wx7v5",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "luma-batch-cFXe8eT3nFr409n",
+              "slug": "np3wx7v5"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-0xRXXUF1WnMv1zO",
+          "url": "https://luma.com/quilla-rvp4",
+          "platform": "luma",
+          "status": "verified-updated",
+          "published": [
+            {
+              "id": "ibw-official-ship-safe-devcon-mumbai-security-sessions-11-06",
+              "slug": "ship-safe"
+            }
+          ],
+          "existedBefore": true
+        },
+        {
+          "entryId": "calev-K98OObVwA6hA69A",
+          "url": "https://luma.com/tswdcctj",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-tswdcctj",
+              "slug": "tswdcctj"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-SBuEoE3A2JMaB5s",
+          "url": "https://luma.com/v0fimew1",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-v0fimew1",
+              "slug": "v0fimew1"
+            }
+          ],
+          "existedBefore": false
+        },
+        {
+          "entryId": "calev-cViS5IhzwbsAePt",
+          "url": "https://luma.com/0ej7kbb0",
+          "platform": "luma",
+          "status": "added",
+          "published": [
+            {
+              "id": "india-luma-0ej7kbb0",
+              "slug": "0ej7kbb0"
+            }
+          ],
+          "existedBefore": false
+        }
+      ]
+    }
+  ],
+  "team1": {
+    "source": "https://luma.com/team1mumbai",
+    "kind": "single-event",
+    "count": 1,
+    "published": [
+      {
+        "id": "india-luma-team1mumbai",
+        "slug": "team1mumbai"
+      }
+    ],
+    "overlap": "Already counted in IBW calendar"
+  },
+  "sheetCoverage": {
+    "rows": 43,
+    "uniquePublishedEvents": 31,
+    "excludedRows": [
+      13,
+      20,
+      39
+    ],
+    "registrationTbdRows": [
+      7,
+      21
+    ],
+    "rawLinkedUrls": 31,
+    "rawRowsWithoutLinks": 4
+  },
+  "privacy": {
+    "publicCalendarEvents": 52,
+    "hiddenAddress": 25,
+    "approvalRequired": 34,
+    "privateVisibility": 0
+  }
+}

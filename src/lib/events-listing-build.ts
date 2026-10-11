@@ -26,7 +26,6 @@ const BLOCKED_EVENT_IDS = new Set([
   'premier-ethlisbon-2026', // Organizer has not announced a 2026 edition.
   'premier-smartcon-2026', // Organizer has not announced a 2026 edition.
   'premier-permissionless-2026', // Official last edition was Permissionless IV (Jun 24–26 2025); no 2026 dates announced.
-  'premier-ethindia-2026', // ethindia.co only lists ended ETHIndiaVilla Nov 2025; no Dec 2026 edition announced.
   // Fabricated / unverifiable curated side events (generic parent homepage only, or city mismatch).
   'side-solana-breakpoint-yacht-party-2026',
   'side-monad-builder-lounge-breakpoint-2026',

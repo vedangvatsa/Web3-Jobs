@@ -1,6 +1,6 @@
 import { getEventBaseSlug, type Web3Event } from './events';
 
-export type EventSlugHistory = Record<string, { slug: string; aliases?: string[] }>;
+export type EventSlugHistory = Record<string, { slug: string; aliases?: string[]; canonicalId?: string }>;
 export const isEventRootSlug = (value: string): boolean => /^[a-z0-9][a-z0-9_-]*$/i.test(value);
 
 /** Published URLs belong to their event identity, regardless of source order or new arrivals. */
@@ -35,11 +35,12 @@ export function assignStableEventSlugs(events: Web3Event[], reservedRoots: Set<s
   }
   return events.map(event => {
     const slug = allocated.get(event.id)!;
+    const mergedOwner = (owner?: string) => Boolean(owner && history[owner]?.canonicalId === event.id && !allocated.has(owner));
     const aliases = [...new Set([...(history[event.id]?.aliases || []), ...(event.aliases || []), event.slug || ''])]
       .map(alias => alias.toLowerCase().trim())
       .filter(alias => isEventRootSlug(alias) && alias !== slug && !reservedRoots.has(alias)
-        && (!owners.has(alias) || owners.get(alias) === event.id)
-        && (!aliasOwners.has(alias) || aliasOwners.get(alias) === event.id));
+        && (!owners.has(alias) || owners.get(alias) === event.id || mergedOwner(owners.get(alias)))
+        && (!aliasOwners.has(alias) || aliasOwners.get(alias) === event.id || mergedOwner(aliasOwners.get(alias))));
     return { ...event, slug, aliases };
   });
 }

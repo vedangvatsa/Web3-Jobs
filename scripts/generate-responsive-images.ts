@@ -127,7 +127,9 @@ async function main() {
   }
   scanPreviews(path.join(publicRoot, 'preview'));
   for (const [source, entry] of Object.entries(previous)) {
-    if (!manifest[source] && entry.files.some(file => published.has(file))) manifest[source] = entry;
+    if (!manifest[source] && fs.existsSync(path.join(publicRoot, source))
+      && entry.files.every(file => fs.existsSync(path.join(publicRoot, file)))
+      && entry.files.some(file => published.has(file))) manifest[source] = entry;
   }
   fs.writeFileSync(output, `${JSON.stringify(manifest)}\n`);
   const logoIndex = Object.fromEntries(Object.entries(manifest).filter(([src]) => src.startsWith('/logo/') && !src.startsWith('/logo/gallery/')).map(([src, { hash: _hash, files: _files, losslessFull: _lossless, ...plan }]) => [src, plan]));

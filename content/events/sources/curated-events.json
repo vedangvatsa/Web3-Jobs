@@ -1297,12 +1297,12 @@
     "id": "premier-indiabw-2026",
     "slug": "ibw",
     "name": "India Blockchain Week 2026",
-    "description": "India Blockchain Week 2026 takes place on 1-2 November at Fairmont Mumbai. Hosted by Hashed Emergent, this is the fourth IBW conference and its first edition in Mumbai after three editions in Bangalore.\n\nThe two-day conference is part of the wider India Blockchain Week, which includes independently organized hackathons, workshops, meetups and investor dinners. The side-event listings below link to individual event pages; check each organizer's registration requirements when planning your week.\n\n## Tickets and access\n\nThe organizer lists these pass prices as of 29 September 2026, before applicable taxes, including GST:\n\n- **General - ₹1,499:** Access to both conference days, the exhibition area and the IBW Connect app.\n- **Priority - ₹3,499:** General benefits plus the Fairmont lunch buffet on both days and Institutional Forum eligibility.\n- **VIP - ₹29,999:** Priority benefits plus the Grand Terminus VIP lounge and the pre-conference VIP dinner night.\n- **Executive VIP - ₹59,999:** VIP benefits plus one night's stay at Fairmont and dedicated airport transfers.\n- **Student - ₹999:** General benefits plus priority access to workshops and hackathon eligibility.\n\nUse the [official ticket page](https://www.indiablockchainweek.com/#tickets) to check current prices and pass availability.\n\n## Speakers\n\nThe announced 2026 lineup includes Eli Ben-Sasson (StarkWare), Keone Hon (Monad Foundation), Prabal Banerjee (Avail), Marcin Kazmierczak (RedStone Oracles), Doug Hsu (CMT Digital) and Harshit Tiwari (NEAR Foundation).\n\nThe session agenda is still being finalized. The [official speaker directory](https://indiablockchainweek.com/ibw_2026/speakers) lists the current speakers and their roles as further names are announced.",
+    "description": "India Blockchain Week Conference takes place at Fairmont Mumbai on November 1 and 2, 2026. Hashed Emergent organizes the conference, with talks and discussions about blockchain and the Indian Web3 ecosystem.",
     "startDate": "2026-11-01",
     "endDate": "2026-11-02",
     "city": "Mumbai",
-    "country": "IN",
-    "location": "Fairmont Mumbai, Fairmont Mumbai Airport, Andheri, Mumbai, MH, IN",
+    "country": "India",
+    "location": "Fairmont Mumbai, Mumbai, India",
     "url": "https://www.indiablockchainweek.com/",
     "website": "https://www.indiablockchainweek.com/",
     "coverImage": "/events/ibw-community-partner.webp",
@@ -1312,31 +1312,19 @@
     },
     "twitter": null,
     "source": "curated-premier",
-    "venueName": "Fairmont Mumbai",
-    "streetAddress": "Fairmont Mumbai Airport, Andheri",
-    "addressLocality": "Mumbai",
-    "addressRegion": "MH",
-    "addressCountry": "IN",
     "descriptionSource": {
       "url": "https://indiablockchainweek.com/",
-      "fetchedAt": "2026-09-29T09:57:10.242Z",
+      "fetchedAt": "2026-10-11T18:39:06.121Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "India Blockchain Week 2026",
-      "sha256": "170d199cfa39ad4aa869425c14c6298fd092ac0e1fb147fd8ba05c05ffa4ffd0",
+      "sha256": "f9fd73412b75d0441f866699db648385cfd26a9aa10e7788af05d1c1db97e942",
       "evidence": [
         {
           "url": "https://indiablockchainweek.com/",
-          "fetchedAt": "2026-09-29T09:57:10.242Z",
-          "sha256": "2800ae537190d393298f6ef2f20b9e699a43fc339e92bc2aa1551173bed88553"
-        },
-        {
-          "url": "https://indiablockchainweek.com/ibw_2026/speakers",
-          "fetchedAt": "2026-09-29T09:57:10.358Z",
-          "sha256": "8d3163fed4403cdf48bc9167e69fc8a84edbd6e66541c3d91607a0b0bf9f0b2b"
+          "fetchedAt": "2026-10-11T18:39:06.121Z",
+          "sha256": "580165cfc11da51c78b6045e2240b52bb3ee8b79c38985c7cf9b2573f0feab91"
         }
-      ],
-      "speakersUrl": "https://indiablockchainweek.com/ibw_2026/speakers",
-      "speakersFetchedAt": "2026-09-29T09:57:10.358Z"
+      ]
     },
     "speakers": [
       "Eli Ben-Sasson",
@@ -1401,36 +1389,51 @@
         "title": "Co-Founder & CEO",
         "organization": "Blockradar"
       }
-    ]
+    ],
+    "timezone": "Asia/Kolkata",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "attendanceMode": "offline",
+    "venueName": "Fairmont Mumbai"
   },
   {
     "id": "premier-devcon-2026",
     "slug": "devcon",
     "name": "Devcon 2026",
-    "description": "Devcon is the annual global event for the movement building free, open, private, and verifiable systems. In 2026 it comes to Mumbai, India, on 3-6 November at G Block, Bandra Kurla Complex.\n\n## Why Mumbai\n\nDevcon calls Mumbai home in 2026 to champion what India is building: deep engineering talent, an open-source community expanding faster than almost any other in the world, and the world's largest public open-source contributor base.\n\n## Program\n\nProgramming spans Core Protocol, Privacy and Consent, Security, Futures Worth Building, Users Builders and Agents, Rights Freedoms and Governance, Applied Cryptography, Permissionless Networks, and Open and Verifiable Stack. Formats include talks, workshops, experiences, coworking, art, community hubs, music and hands-on spaces created by the community.\n\n## Tickets\n\nGeneral Admission starts at $499 and is anon-friendly and transferrable with a limit of two per order. Community discounts from $149 cover Indian residents and open-source contributors, with application-based Sanctuary Tech Builder, student and youth passes from $25. All passes include four-day access, catering and swag, plus 18% GST.\n\n## Getting there\n\nThe organizer runs an airport welcome booth, with the metro reaching the venue in about five minutes. The event overlaps with Diwali season, so the travel guide advises booking stays early. Speaker, supporter, volunteer and media applications run through the organizer's site.",
+    "description": "The Ethereum Foundation hosts Devcon 8 at Jio World Centre in Mumbai from November 3 to 6. The four-day program includes talks, workshops and community spaces covering Ethereum, cryptography, privacy, security and open-source systems.",
     "startDate": "2026-11-03",
-    "endDate": "2026-11-07",
+    "endDate": "2026-11-06",
     "city": "Mumbai",
-    "country": "IN",
-    "location": "Jio World Centre, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra, 400051, IN",
+    "country": "India",
+    "location": "Jio World Centre, Mumbai, India",
     "url": "https://devcon.org/",
     "website": "https://devcon.org/",
     "coverImage": "/events/premier-devcon-2026-3cd5a51d.webp",
     "twitter": null,
     "source": "curated-premier",
-    "venueName": "Jio World Centre",
-    "streetAddress": "G Block BKC, Bandra Kurla Complex, Bandra East",
-    "addressLocality": "Mumbai",
-    "addressRegion": "Maharashtra",
-    "postalCode": "400051",
-    "addressCountry": "IN",
     "descriptionSource": {
       "url": "https://devcon.org/en/",
-      "fetchedAt": "2026-09-21T05:12:53.000Z",
+      "fetchedAt": "2026-10-11T18:39:06.895Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Devcon 8 India",
-      "sha256": "34dfa6ca4ad1e1decc33508d9952ec24082a971202152512891c5bad6d213364"
-    }
+      "pageTitle": "Devcon 2026",
+      "sha256": "3363d3ec5bde127a8113930787173c88ff4d45ed583e913401883b6ff738f2fd",
+      "evidence": [
+        {
+          "url": "https://devcon.org/en/",
+          "fetchedAt": "2026-10-11T18:39:06.895Z",
+          "sha256": "8159fab70a5432faa48cdaa9d975d23015f9c0e3e508e6894e914008f2d73126"
+        }
+      ]
+    },
+    "timezone": "Asia/Kolkata",
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "attendanceMode": "offline",
+    "venueName": "Jio World Centre"
   },
   {
     "id": "premier-cosmoverse-2026",
@@ -1486,12 +1489,12 @@
     "id": "premier-ethmumbai-2026",
     "slug": "ethglobal1",
     "name": "ETHGlobal Mumbai 2026",
-    "description": "ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn about crypto, expand your network, meet industry professionals, and find like-minded people who are collectively creating a new kind of web.\n\n## Mumbai 2026\n\nThe Mumbai hackathon runs 5-7 November 2026 at Jio World Convention Centre. The organizer lists $175,000 available in prizes across tracks from World, 1inch, 0G, Uniswap Foundation, Arc, Hedera, Arkiv, Whitechain, ENS, Definitive and Chainlink. The published roster spans judges, mentors and speakers from ETHGlobal, Ethereum Foundation, Backpack, MetaMask and ENS.\n\n## Building formats\n\nProjects can start from scratch, extend an open-source repository, or ship a new open-source feature on an existing product during the event. The published rules specify teams of 1-5 members and up to three sponsor SDKs.\n\n## Themes\n\nThe published themes include zero knowledge proofs, AI x Crypto, DeFi, crypto consumer applications, Layer 2s, interoperability, public goods, privacy and security, TEEs, data availability, identity and developer tools.\n\n## Venue\n\nJio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India.\n\n## Around the hackathon\n\nPartners for the weekend include World, 1inch, 0G, ENS, Uniswap Foundation, Arc, Hedera, Arkiv, Definitive Finance and Chainlink Labs. Pragma Mumbai, ETHGlobal's one-day builders summit, takes place on 4 November at Grand Hyatt Mumbai on 26 September alongside the hackathon week.",
+    "description": "ETHGlobal Mumbai is a hackathon at Jio World Convention Centre from November 5 to 7. Participants can start a new project, extend open-source software or build an open-source feature for an existing product. The event includes technical mentorship and workshops.",
     "startDate": "2026-11-05",
     "endDate": "2026-11-07",
     "city": "Mumbai",
     "country": "India",
-    "location": "Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
+    "location": "Jio World Convention Centre, Mumbai, India",
     "url": "https://ethglobal.com/events/mumbai",
     "website": "https://ethglobal.com/events/mumbai",
     "coverImage": "/events/ethglobal-mumbai.webp",
@@ -1499,15 +1502,27 @@
     "source": "curated-premier",
     "descriptionSource": {
       "url": "https://ethglobal.com/events/mumbai",
-      "fetchedAt": "2026-09-21T05:12:52.988Z",
+      "fetchedAt": "2026-10-11T18:39:08.597Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "ETHGlobal Mumbai",
-      "sha256": "84611f3b7b78ec199437adb5464a317277b01216ca9a840f8c4f77d090425934"
+      "pageTitle": "ETHGlobal Mumbai 2026",
+      "sha256": "dc7e7c84dc48909a69f1535c0971059918b8f35d09a3f608acb920e1362895b2",
+      "evidence": [
+        {
+          "url": "https://ethglobal.com/events/mumbai",
+          "fetchedAt": "2026-10-11T18:39:08.597Z",
+          "sha256": "a45e0646ab65ca1ab59be9a39482f42e5988be7281b117a59b24597b22bbeb73",
+          "retrievedVia": "https://r.jina.ai/https://ethglobal.com/events/mumbai"
+        }
+      ]
     },
     "registrationUrl": "https://ethglobal.com/events/mumbai",
     "timezone": "Asia/Kolkata",
-    "venueName": "Jio World Convention Centre",
-    "postalCode": "400098"
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ],
+    "attendanceMode": "offline",
+    "venueName": "Jio World Convention Centre"
   },
   {
     "id": "premier-devconnect-2026",
@@ -2212,29 +2227,29 @@
     "id": "premier-cypherpunk",
     "slug": "ethereum2",
     "name": "Ethereum Cypherpunk Congress #3",
-    "description": "Cypherpunk Congress is coming to India!\n\nExpect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition hit 4500 people, 100 speakers from Vitalik Buterin/Ethereum to Roger Dinglerine/Tor & long-lasting impact.\n\n## The first batch of highly-curated speakers are here\n\nCuratorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.\n\nThey propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & [attacks on encryption. With proven track record from @EFF](https://x.com/EFF) [to @brave](https://x.com/brave).\n\nWelcome to Mumbai!\n\n@[kurtopsahl](https://x.com/kurtopsahl) [x  @FilFoundation](https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks\n\n@[Isa](https://x.com/Isa) [x @torproject](https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights\n\n@[ghappour](https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.\n\n@[therealyingtong](https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people\n\n[Justin Drake](https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher\n\n@[lunardragon420](https://x.com/lunardragon420) [x @DarkFiSquad](https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code\n\n@[mala](https://x.com/mala) [x @FilFoundation](https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come\n\n@[jaromil](https://x.com/jaromil) [x @DyneOrg](https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions\n\n@[ml_sudo](https://x.com/ml_sudo) [x  @ethereumfndn](https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems\n\n@[PryvitKyle](https://x.com/PryvitKyle) [x @brave](https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech\n\n@[SCBuergel](https://x.com/SCBuergel) [x @gnosis_](https://x.com/gnosis_) + @[hoprnet](https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.\n\n@[jbaylina](https://x.com/jbaylina) [x @ziskvm](https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.\n\nFOCUS AREAS\n\n@[AndyGuzmanEth](https://x.com/AndyGuzmanEth) [x @PrivacyEthereum](https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.\n\n@[Fatalmeh](https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics\n\n@[miroyato](https://x.com/miroyato) [x @fileverse](https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture\n\n@[auryn_macmillan](https://x.com/auryn_macmillan) [x  @EnclaveE3](https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.\n\n@[hebbianloop](https://x.com/hebbianloop) [x @humntech](https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech\n\n@[Cryptic_cm](https://x.com/Cryptic_cm) [x @session_app](https://x.com/session_app)  for providing vocal alternatives to how we securely communicate & collaborate online\n\n@[kassandraETH](https://x.com/kassandraETH) [x @ethereumfndn](https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism\n\n@[Pol_Lanski](https://x.com/Pol_Lanski) [x @dappnode](https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance\n\n@[LoringHarkness](https://x.com/LoringHarkness) [x @ShutterNetwork](https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools\n\n@[TMIYChao](https://x.com/TMIYChao) [x @ethereumfndn](https://x.com/ethereumfndn) + @[BordelWTF](https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch ([we translate: use @GrapheneOS](https://x.com/GrapheneOS), run your own node, visit CCC etc)\n\n@0xMeTony (https://x.com/0xMeTony) [x @fluidkey](https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time\n\n[Daniel x @invisiblgarden](https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies\n\n@[ncsgy](https://x.com/ncsgy) [x @ethereumfndn](https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.\n\n@[willscott](https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.\n\n## Great privacy, internet of freedoms organisations will be present at Cognress\n\nCOMMUNITY PARTNERS\n\nSPONSORS\n\nCONTRIBUTE\n\nPartner: https://tally.so/r/mVxvgN\nSpeak (CfP): https://tally.so/r/nrOzXl\nVolunteer: https://tally.so/r/3lLqKo\n\nJoin our community to receive latest news: https://t.me/+QOj6126xlEs0OTQ0\n\nWatch Congress #2 talks: https://youtu.be/XKJ1ZJrkKWA?si=eZNEZQri3uheJgrN\n\n## Lasting cultural phenomenon\n\nFocusing on values, active political stance, and cutting-edge research will help Ethereum become a cultural & resilient to change phenomenon.\n\nwatch aftermovie: https://www.youtube.com/watch?v=97-qkXRmMlk\n\nexpect phenomenal lineup [Congress #2 example]\n\nWe are talking not only about the existence of privacy-preservation dapps, but Free & Open-source software development, support for free speech and whistleblowers around the world, helping marginalized people get access to the decolonial money system, safe & empowered tech, and last but not least - diverse and active communities of care.\n\nSupporting privacy developers\n\nRoman Storm Congress #2 opening https://youtu.be/XKJ1ZJrkKWA?si=GGrhiF5TOZcfjUqy&t=811\n\n## Connecting web2 + web3\n\nVitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_GiQNEA\n\n## Ethereum Social Layer (ESL)\n\nIt is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future ([explore our Cyherpunk personas](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & [censorship-resistance ideology. Follow Paul-Dylan Ennis](https://x.com/post_polar_/status/1813275641954877709) on ESL.\n\n## Activation\n\nThe debut Ethereum Cypherpunk Congress assembles an active part of Ethereum. These people and organizations want to stand at the foundations of the unstoppable socio-techno-cultural movement.\n\nSpecial rituals help us to share Cypherpunk culture & build care for each other.\n\nThey are activists, developers, cryptographers, ethical investors, philosophers, and researchers who are changing the possibilities for Ethereum on the path to freedom.\n\nHackathon track\nEvents for developers are critical activation points behind any cultural change. Every protocol from Aztec to Ethereum needs devs to build on top of it & deliver decentralized, permissionless & privacy-enhancing applications. We invited current privacy hackathon devs to reflect on their experience.\n\nWomen in web3 privacy track\nDiversity in the web3 industry is a critical challenge, let alone in the privacy market. Let's discuss how we can be more open, diverse & inclusive to different opinions and opportunities.\n\nActivation track\nWe want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools [empowering your journey in decentralized world: Fileverse](http://fileverse.io), [Rotki](http://rotki.com), [Fluidkey](http://fluidkey.com), Radicle, GnosisVPN.\n\nStunning merch delivered by Coinmandeer\n\n## High-level agenda\n\n• craft conditions needed to overcome challenges mapped in “Make Ethereum Cypherpunk again” essay\n• [present Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players\n• explore socio-cultural conditions re-wiring degens into cypher-activists\n• build a mainstream culture around cypherpunk - make it an open and inclusive movement\n• remind of the origins of Ethereum ethos\n• articulate balance between open-source culture & financial sustainability behind projects\n• map the way to onboard 100K developers & 10M users experiencing safe Ethereum-centric privacy tech\n\nContribute to the development of the cypherpunk culture of Ethereum. Everyone will be welcome here, from activists defending the rights of developers to degens who finally want to find a strong meaning in life.\n\nContribute\n\nSpeak (CfP): https://tally.so/r/nrOzXl\n\nPartner:\n- [web3privacynow 'at' protonmail.com](http://protonmail.com) or\n- https://x.com/PG_CDG\n\nVolunteer: https://tally.so/r/3lLqKo\n\nOur previous events (feel the vibe)\n\n• [Privacy Summit II](https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024\n• [Privacy Summit I](https://prague.web3privacy.info) - X10, Prague 2023\n• [ETHRome Meetup](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023\n  Useful resources (for real)\n  Website: https://web3privacy.info/\n  Latest news: http://twitter.com/web3privacy\n  Github: http://www.github.com/web3privacy\n  Privacy market dashboard: http://explorer.web3privacy.info\n\n#Ethereum #cypherpunk #privacy #freedom #community #you",
+    "description": "Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program addresses digital rights, open-source software, decentralization, cryptography and practical privacy tools.",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Yashwantrao Chavan Centre, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, India",
     "url": "https://luma.com/spsnos9t",
     "website": "https://luma.com/spsnos9t",
-    "coverImage": "/events/premier-cypherpunk-83545117.webp",
+    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
     "twitter": null,
     "source": "curated-premier",
-    "timezone": "Asia/Calcutta",
+    "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/spsnos9t",
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": false,
-    "venueName": "Mumbai",
+    "venueName": "Yashwantrao Chavan Centre",
     "addressLocality": "Mumbai",
     "addressRegion": "Maharashtra",
     "addressCountry": "IN",
     "coordinates": {
-      "latitude": 18.9581934,
-      "longitude": 72.8320729
+      "latitude": 18.9249445,
+      "longitude": 72.8265239
     },
     "hosts": [
       "Mykola x Web3Privacy now",
@@ -2243,7 +2258,7 @@
     "organizer": {
       "type": "Organization",
       "name": "Web3Privacy Now Events",
-      "url": "https://web3privacy.info/events"
+      "url": "https://web3privacy.info/"
     },
     "price": "Free",
     "approvalRequired": false,
@@ -2259,12 +2274,28 @@
     "sourceVerification": {
       "url": "https://luma.com/spsnos9t",
       "eventId": "evt-CyZRiDdLECiCPRS",
-      "fetchedAt": "2026-09-20T07:56:56.136Z",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
       "method": "luma-page"
     },
     "sideEventFor": [
       "ibw"
-    ]
+    ],
+    "streetAddress": "WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai",
+    "neighborhood": "Nariman Point",
+    "descriptionSource": {
+      "url": "https://luma.com/spsnos9t",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Ethereum Cypherpunk Congress #3",
+      "sha256": "4171f06c1c7340fc0fc4755e4f1ac5713984609a26c19f68161b582f202d5e01",
+      "evidence": [
+        {
+          "url": "https://luma.com/spsnos9t",
+          "fetchedAt": "2026-10-11T18:38:51.372Z",
+          "sha256": "13c12d85212f561f92b2bf5b41d8db25d83307107dac5714ef3693b75038222c"
+        }
+      ]
+    }
   },
   {
     "id": "premier-africabcfest",
@@ -3088,18 +3119,66 @@
   },
   {
     "id": "side-ibw2026-defi-security-summit-day1",
-    "name": "DeFi Security Summit - Day 1",
-    "description": "The DeFi Security Summit (DSS) is one of the most important global gatherings focused on the intersection of decentralized finance and cybersecurity. It's more than just a conference — it's where the future of secure Web3 infrastructure is being shaped. Every year, DSS brings together top minds in blockchain, auditing, and security — from white-hat hackers and protocol developers to academic researchers and industry leaders. The goal? To tackle the most pressing issues in DeFi security head-on — from smart contract exploits and cross-chain vulnerabilities to governance threats and beyond.",
-    "startDate": "2026-11-01T10:00:00.000Z",
-    "endDate": "2026-11-01T19:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
+    "name": "DeFi Security Summit 2026",
+    "description": "DeFi Security Summit brings security researchers, auditors and protocol builders to Courtyard by Marriott Mumbai International Airport on November 1 and 2. Sessions run from 10:00 to 18:00 IST each day. The separate November 3 program at Devcon is not included in this registration.",
+    "startDate": "2026-11-01T04:30:00.000Z",
+    "endDate": "2026-11-02T12:30:00.000Z",
+    "location": "Location to be announced",
     "url": "https://defisecuritysummit.org",
     "website": "https://defisecuritysummit.org",
     "source": "curated-premier",
     "slug": "defi-security-summit-day-1-mumbai-2026",
-    "coverImage": "/logo/partners/ibw.png"
+    "coverImage": "https://images.lumacdn.com/uploads/hb/f27621ae-2368-4c59-aab0-f906081edd63.png",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/9qtxqqxx",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "Courtyard by Marriott Mumbai International Airport",
+    "hosts": [
+      "DeFi Security Summit",
+      "Certora"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Defi Security Summit"
+    },
+    "price": "USD 50",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/9qtxqqxx",
+        "price": 50,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/9qtxqqxx",
+      "eventId": "evt-GotDuGQ76BanHoQ",
+      "fetchedAt": "2026-10-11T18:38:35.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/9qtxqqxx",
+      "fetchedAt": "2026-10-11T18:38:35.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "DeFi Security Summit 2026",
+      "sha256": "56a7b884d8d9f9b577c9face9affad43eafc348b292311c97e0a8dd4bb4f2a1a",
+      "evidence": [
+        {
+          "url": "https://luma.com/9qtxqqxx",
+          "fetchedAt": "2026-10-11T18:38:35.311Z",
+          "sha256": "86ab0e88631f54f57e9d66e8623d0dbb507776fdc57393b99fad134bd477c9e0"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "side-ibw2026-multichain-day",
@@ -3136,18 +3215,66 @@
   },
   {
     "id": "side-ibw2026-defi-security-summit-day2",
-    "name": "DeFi Security Summit - Day 2",
-    "description": "The DeFi Security Summit (DSS) is one of the most important global gatherings focused on the intersection of decentralized finance and cybersecurity. It's more than just a conference — it's where the future of secure Web3 infrastructure is being shaped. Every year, DSS brings together top minds in blockchain, auditing, and security — from white-hat hackers and protocol developers to academic researchers and industry leaders. The goal? To tackle the most pressing issues in DeFi security head-on — from smart contract exploits and cross-chain vulnerabilities to governance threats and beyond.",
-    "startDate": "2026-11-02T10:00:00.000Z",
-    "endDate": "2026-11-02T19:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
+    "name": "DeFi Security Summit 2026",
+    "description": "DeFi Security Summit brings security researchers, auditors and protocol builders to Courtyard by Marriott Mumbai International Airport on November 1 and 2. Sessions run from 10:00 to 18:00 IST each day. The separate November 3 program at Devcon is not included in this registration.",
+    "startDate": "2026-11-01T04:30:00.000Z",
+    "endDate": "2026-11-02T12:30:00.000Z",
+    "location": "Location to be announced",
     "url": "https://defisecuritysummit.org",
     "website": "https://defisecuritysummit.org",
     "source": "curated-premier",
     "slug": "defi-security-summit-day-2-mumbai-2026",
-    "coverImage": "/logo/partners/ibw.png"
+    "coverImage": "https://images.lumacdn.com/uploads/hb/f27621ae-2368-4c59-aab0-f906081edd63.png",
+    "timezone": "Asia/Kolkata",
+    "registrationUrl": "https://luma.com/9qtxqqxx",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "Courtyard by Marriott Mumbai International Airport",
+    "hosts": [
+      "DeFi Security Summit",
+      "Certora"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Defi Security Summit"
+    },
+    "price": "USD 50",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/9qtxqqxx",
+        "price": 50,
+        "priceCurrency": "USD",
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/9qtxqqxx",
+      "eventId": "evt-GotDuGQ76BanHoQ",
+      "fetchedAt": "2026-10-11T18:38:35.311Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/9qtxqqxx",
+      "fetchedAt": "2026-10-11T18:38:35.311Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "DeFi Security Summit 2026",
+      "sha256": "56a7b884d8d9f9b577c9face9affad43eafc348b292311c97e0a8dd4bb4f2a1a",
+      "evidence": [
+        {
+          "url": "https://luma.com/9qtxqqxx",
+          "fetchedAt": "2026-10-11T18:38:35.311Z",
+          "sha256": "86ab0e88631f54f57e9d66e8623d0dbb507776fdc57393b99fad134bd477c9e0"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "side-ibw2026-onchain-dev-city",
@@ -3656,25 +3783,36 @@
     "id": "premier-unchained-summit-india-2026",
     "slug": "unchained-summit",
     "name": "Unchained Summit India 2026",
-    "description": "## #1 Web3 & Crypto Event in India for High-impact Networking and Deal-flow\n\n## India’s Web3 & Crypto Summit for Builders, Investors and Institutions\n\n• Unchained Summit brings together the institutions, investors, founders, policymakers, traders and technology leaders shaping the next era of digital assets, financial markets and Web3.\n\n• India combines massive digital-asset adoption, deep technical talent and a rapidly evolving ecosystem of financial institutions, capital and Web3 companies. Unchained Summit connects these worlds through business opportunities, partnerships, investment and global market access.\n\nFollowing successful international editions in Dubai and Vietnam, Unchained Summit now comes to India. For those looking to invest, build, enter the market or shape its next chapter, this is where the right conversations begin.\n\n## Build What Matters.\n\n## Two Days.One Digital Economy.\n\n## DAY 01\n\n## DAY 02\n\n## Speakers\n\n## S B Seker\n\n## Praneeth Srikanti\n\n## Eva Wong\n\n## Prabal Banerjee\n\n## Sanat Rao\n\n## Amanda Cassatt\n\n## Sumit Gupta\n\n## Ashish Singhal\n\n## Mr Dilip Chenoy\n\n## Saumya Saxena\n\n## Two Days. Two Sides of the Digital Economy.\n\n## Markets, Finance & Digital Assets\n\nA day focused on the forces reshaping markets, capital and financial infrastructure, bringing together banks, investors, wealth managers, family offices, regulators, FinTechs, exchanges and institutional market participants.\n\n## Web3, Infrastructure & Emerging Technology\n\nWhere the next generation of the onchain economy gets built.\n\nA day for founders, Web3-native companies, builders, investors and technology leaders exploring the infrastructure, applications and emerging technologies defining what comes next.\n\n## A Global Community of Decision-Makers\n\nFrom Dubai to Vietnam, Unchained brings together the people building, investing in and shaping the digital-asset economy.\n\n## Tickets\n\n## Standard\n\n## VIP\n\nTo speak at Unchained Summit, email speaking@aeternuminc.com\n\n## Event Happenings\n\n## Keynotes\n\nStep into the conference where the future of crypto and Web3 is shaped. Leaders, builders and investors share insights that drive adoption and redefine markets.\n\n## Panel Discussions\n\nCrypto pioneers, Web3 builders, investors and policymakers dive into the issues that matter most. Expect debates on regulation, adoption, security and the road ahead.\n\n## Fireside Chats\n\nJoin founders and visionaries for candid talks about roadblocks, wins and bold bets. These are unfiltered takes you will not find on social media.\n\n## Networking\n\nMeet founders, innovators, investors and ecosystem players. More than quick introductions, this conference is about sparking ideas and building relationships that last.\n\n## Investor Meetups\n\nPrivate sessions with investors who move the industry forward. A chance for founders to raise capital, test ideas and secure long term partners.\n\n## Pitch Competition\n\nShow your crypto or Web3 project to investors and leaders. Get exposure, feedback and the chance to win the funding that brings your vision to life.\n\n## Afterparty\n\nWhen the sessions close, the real connections begin. The afterparty is where founders, builders and investors share conversations that often lead to the next big move.\n\n## Topics\n\n## Security, Identity & Trust in an Onchain World\n\nProtecting institutions, protocols and users through stronger custody, identity, cybersecurity and next-generation blockchain security.\n\n## DeFi, Staking & Onchain Financial Infrastructure\n\nExploring the evolution of decentralised markets, staking, liquidity and programmable financial infrastructure beyond the first DeFi cycle.\n\n## Enterprise Blockchain & Institutional Infrastructure\n\nHow enterprises and financial institutions are applying blockchain across settlement, trade, identity, data, tokenisation and business infrastructure.\n\n## Scaling Web3 & the Next Infrastructure Layer\n\nThe networks, interoperability layers and infrastructure enabling Web3 applications to scale from early adoption to global usage.\n\n## AI × Web3 & the Rise of Autonomous Agents\n\nExploring agentic AI, machine payments, decentralised intelligence and how autonomous systems could interact with onchain infrastructure.\n\n## Wealth Management & the New Asset Economy\n\nHow family offices, wealth managers, portfolio managers and advisers are approaching digital assets within modern investment portfolios.\n\n## Trading, Liquidity & Digital Asset Markets\n\nHow exchanges, institutional traders, market makers and investors are shaping the next generation of digital-asset markets.\n\n## Tokenisation & the Future of Capital Markets\n\nExploring how tokenised funds, securities, commodities and real-world assets could reshape issuance, ownership, settlement and investment.\n\n## Stablecoins, Payments & Programmable Money\n\nExploring stablecoins, tokenised money and blockchain payment rails across settlements, remittances, treasury and global commerce.\n\n## Digital Assets, Regulation & Institutional Adoption\n\nUnderstanding how regulation, taxation, compliance and market structure are shaping institutional participation in India’s digital-asset economy.\n\n## Da Nang, Vietnam 2026\n\n## Mumbai, India\n\n## Dubai, UAE\n\n## Podcast\n\n## Hash It Over - Where the power of Web3 meet raw insights.\n\nUnfiltered insights. Bold ideas. Deep dives with the minds shaping crypto, DeFi, and blockchain - all in under 60 minutes.\n\nHash It Over EP 15 | How Crypto.com Is Driving Global Crypto Adoption\n\nHash It Over EP14 | Evolution of the startup ecosystem with Web3\n\nHash It Over EP 13 | Vishal Sacheendran, Bitpanda | Unchained Summit | Coin Edition\n\nHash It Over EP 12 | Vugar Usi Zade, MEXC | Unchained Summit | Coin Edition\n\nHash It Over EP 11 | Robby Yung, Animoca Brands | Unchained Summit | Coin Edition\n\nHash It Over EP 10 | Pranav Sharma, Agna Capital | Woodstock Fund | Unchained Summit | Coin Edition\n\nHash It Over EP 9 | David Norris, NEAR Foundation | Unchained Summit | Coin Edition\n\nHash It Over EP 8 | Alexander Scott, Solana Superteam UAE | Unchained Summit | Coin Edition\n\nHash It Over EP 7 | Paul Dawalibi, Innovation City | Unchained Summit | Coin Edition |\n\nHash It Over EP 6 | José Fernando Pereira, OWN | Unchained Summit | RWA: The Next Web3 Gold Rush\n\nHash It Over EP 5 | Andrew Vranjes on How Blockdaemon Brings Institutions to Web3 | Unchained Summit\n\nHash It Over EP 4 | Inside the VC Mind | Laura, CGEO, Gate Ventures | Unchained Summit\n\nHash It Over EP 3 | Web3 Isn’t Ready; And That’s The Oppurtunity | Anurag Arjun, Avail\n\nHash It Over EP 2 | From Vision to Venture Fueling the Next Web3 Giants | Karan Gandhi\n\nHash It Over EP 1 | Securing the Future of Crypto | Dyma Budorin, Hacken | Unchained Summit\n\n## Building What Matters? Showcase it at Pitch Competition\n\n## Introducing the Unchained Summit Pitch Competition - taking place alongside the main conference in Mumbai, India, on 05 -06 November 2026.\n\n• Startups take the stage. Investors listen. Deals begin with a deck and five focused minutes.\n\n• Web3 founders - from DeFi to cross-chain to tokenized assets; this is where you show what you're building and why it matters.\n\n## Trusted by Elites\n\n## From Those Who Experienced\n\nIt was a great event, good selection of panels, good topics. I think you guys have executed well. The quality of the content was really good, and I had a great time.\n\nVery nice. The stage is beautiful and you guys have amazing speakers. Thanks again for having me a part of it. I'm excited to network and see who else is here.\n\nIt was great, really good energy. The crowd was really fun. It's a great experience.\n\nUnchained Summit made a rare, strong debut on the global Web3 circuit.\n\nEvents like this can change the world — by bringing leaders together, exchanging ideas, and enabling the formation and funding of new teams.\n\nUnchained Summit plays a vital role in strengthening the Web3 ecosystem. While builders often work in silos, gatherings like this bring us closer; fostering real connections and collaboration.\n\nEvents like Unchained Summit play a crucial role in fostering true community building within the ecosystem.\n\nGatherings like Unchained Summit are so important; they help us connect, collaborate, and build stronger alignment across the ecosystem.\n\n## Who you will meet?\n\nWeb3 founders, protocol teams, infrastructure companies, developers and emerging technology companies building the next generation of onchain products.\n\nBanking heads, financial-services leaders, payments companies, FinTech executives and institutional innovation teams exploring digital assets and new financial infrastructure.\n\nVCs, General Partners, institutional investors, fund managers and strategic investors backing Web3, FinTech and emerging technology.\n\nPrivate wealth professionals, investment advisers, PMS firms and portfolio managers evaluating digital assets within modern investment strategies.\n\nFamily offices, HNIs, UHNIs and capital allocators looking at digital assets, alternative investments and emerging markets.\n\nEnterprise CXOs, CIOs, CTOs, digital transformation leaders and technology heads exploring blockchain, tokenisation, AI and next-generation infrastructure.\n\nCrypto exchanges, institutional trading platforms, market makers, custodians, liquidity providers and digital-asset infrastructure companies.\n\nPolicymakers, regulators, legal professionals, compliance leaders, tax advisers and selected Chartered Accountants working with investors, businesses and HNIs.\n\n## Series Sponsors\n\n## Investors\n\n## Series Media Partners\n\n## Social Feed\n\n## News & Articles\n\nUnchained Summit to be held in Vietnam, with Da Nang City and Aeternum joining hands.\n\nDubai Hosts Groundbreaking First Edition of Unchained Summit\n\nMOI Network Delivers Contextual Compute to Unchained Summit, joins as Gold Sponsor in Dubai\n\nDubai’s web3 momentum accelerates as global stakeholders gather for Unchained Summit\n\nOwn Unveils the Infrastructure for RWAs Need to Move, Trade, and Evolve — at Unchained Summit\n\nConsciousness exceeds $100M market cap, joins Unchained Summit as Afterparty Sponsor\n\nMesh Joins Unchained Summit as Platinum Sponsor to Advance Crypto Payments Network\n\nUnchained Summit in Dubai Signals Growing Global Focus on Web3 Innovation\n\nThe Biggest Names in Web3 to Converge at Unchained Summit in Dubai This April\n\n## Blogs by Unchained\n\n## Digital Assets and Regulatory Evolution: India’s Approach in 2026\n\nIndia taxes virtual digital assets at 30% with 1% TDS. Reporting rules tightened in 2026. Here is where the law...\n\n## du Steps into Blockchain: Pushes Dubai Closer to Real Web3 Adoption\n\ndu has launched Cloud Miner, a cloud-based crypto mining service for UAE residents, marking a new chapter in the country’s...\n\n## Why Dubai Became the Real Hub for Crypto (And What That Actually Means)\n\nDubai’s Web3 ecosystem just hit a new phase of maturity — from VARA’s clarity to Emirates NBD’s adoption. Here’s why...\n\n## Steal These Web3 Security Hacks from the Unchained Summit Before You Regret It\n\nWeb3 isn’t just a buzzword anymore. It’s here, shaking up everything from how money flows to who controls the internet....\n\n## The Dirty Truth About Networking at Crypto Events (BONUS: Secret tips!)\n\nNetworking at crypto events can make or break your success. Discover 8 secret tips to build real connections, from perfecting...\n\n## Call for (serious) Investors – Get Your Ticket to the Next Big Crypto Breakthrough\n\nThe next wave of blockchain unicorns is being built now, will you be in the room? Unchained Summit Dubai (28...\n\n## 3 Reasons Why Dubai is the Ultimate Hub for Crypto Meetings & Web3 Summits\n\nDiscover why Dubai has become a major hub for crypto meetings, Web3 summits, investors and blockchain businesses.\n\n## Top 10 Sponsorship Roadblocks for Web3 Companies & Projects\n\nDiscover 10 common Web3 sponsorship roadblocks, from unclear ROI and audience fit to weak lead generation, poor visibility and limited...\n\n## Got questions? We've answers.\n\nWhile you can register for Unchained up until the first day of the event, space is limited and we may reach capacity before then. We recommend registering early to secure your spot.\n\nUnchained will be conducted entirely in English. Unfortunately, translation services are not available at the event.\n\nBusiness formal or smart casual attire is encouraged for all events, prioritizing cultural sensitivities. Please note the afterparty is a more informal setting.\n\nOnly registered ticket holders can attend the summit and networking events.\n\nSubstitutes are allowed with prior written authorization (90 days before the Summit).\n\nWe accept Visa, MasterCard, UnionPay, Amex, and ApplePay. Payment is required to secure your spot.\n\nWe'll keep you in the loop with the updates. Add unchained@aeternum.events to your safe senders list.\n\nAudio/Video recording is allowed for personal use only. Sharing online or transmitting requires permission. Short clips (under 1 minute) are allowed for blogging/press coverage. Contact us for longer clips.\n\n## Contact Us\n\nUnchained Summit is a premier Web3, Crypto and Blockchain event in India, bringing together global industry leaders, institutional/VC investors, innovators, and policymakers to shape the future of decentralized technology.\n\nWith a sharp focus on institutional crypto adoption, RWA tokenization, DeFi 2.0, and AI’s role in Web3, Unchained Summit delivers insightful discussions, curated 1:1 investor meetings, and opportunities to engage with the brightest minds in the industry.\n\nJoin us at Unchained in India; and be at the forefront of a defining moment in Web3 history. This is your chance to shape the future tech landscape, forge invaluable connections, and rewrite the rules of the game alongside the brightest minds in the field.\n\n## An event by\n\n## Unlocking Endless Possibilities\n\nAeternum is a dynamic and innovative new player in the B2B events space, specializing in cutting-edge future-tech industries.\n\nWith a mission to foster collaboration among leading and early-stage technology companies, Aeternum is committed to empowering business leaders, entrepreneurs, and innovators to connect and collaborate in innovative ways, fostering eternal partnerships and growth.\n\nWe are passionate about helping our clients and partners unlock their full potential and achieve their goals in the exciting and rapidly growing world of future-tech.\n\n## Want to Host Your Event?\n\nWhether you're planning a side event, a private investor mixer, or a community meet-up, Aeternum’s Bespoke Events are built for impact.\n\nIf you're building in Web3 and want your narrative to land with the right people - in the right room - we can make it happen.",
-    "startDate": "2026-11-05T09:00:00+05:30",
-    "endDate": "2026-11-06T18:00:00+05:30",
+    "description": "Unchained Summit India takes place at Courtyard by Marriott Mumbai International Airport on November 5 and 6. Day one focuses on markets, finance and digital assets; day two covers Web3 infrastructure and emerging technology. Daily clock times have not been verified.",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-06",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, India",
+    "location": "Courtyard by Marriott Mumbai International Airport, Mumbai, India",
     "url": "https://unchainedsummit.com/india",
     "website": "https://unchainedsummit.com/india",
     "registrationUrl": "https://unchainedsummit.com/india",
     "descriptionSource": {
       "url": "https://unchainedsummit.com/india/",
-      "fetchedAt": "2026-09-20T00:20:45.316Z",
-      "method": "official-section",
-      "pageTitle": "Unchained Summit India | Top Web3 & Crypto Conference | 5-6 Nov 2026",
-      "sha256": "75526574aa84f60e5335a8e6fd289e8b56830997f30183af5a835f6113f083a8"
+      "fetchedAt": "2026-10-11T18:39:09.228Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Unchained Summit India 2026",
+      "sha256": "fa983403c0631f6de2d9a59ea41b59194a23017348483257b651111f58ab0759",
+      "evidence": [
+        {
+          "url": "https://unchainedsummit.com/india/",
+          "fetchedAt": "2026-10-11T18:39:09.228Z",
+          "sha256": "77ec204532b68b3501fbbfdb6d1c6d3d26c0d9a976ac24bcf295eb19485d917a"
+        }
+      ]
     },
     "sideEventFor": [
-      "ibw"
-    ]
+      "ibw",
+      "devcon"
+    ],
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline",
+    "venueName": "Courtyard by Marriott Mumbai International Airport"
   },
   {
     "twitter": null,
@@ -4311,10 +4449,10 @@
     "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
     "id": "premier-ibt-mumbai-2026",
     "slug": "ibt-mumbai",
-    "name": "India Blockchain & AI Tour 2026 — Mumbai",
-    "description": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.\n\n## Why Attend IBT26\n\n## Architect Networking\n\nWith >65% decision-maker attendance, IBT is where global protocol founders meet India’s institutional capital.\n\n## Market Penetration\n\nBridge the gap between global tech and India’s 500M+ digital natives across 10 strategic cities\n\n## Talent Integration\n\nEngage with the world’s densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.\n\n## Elite VIP Access\n\nFrom private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.\n\n## 1200+\n\n## 65%\n\n## 250+\n\n## 100+\n\n## 10+\n\n## 50+\n\n## IBT26 Sponsors\n\nMeet the Sponsors making an impact for Web3 and AI around the globe.\n\n## POWERED BY\n\n## GOLD\n\n## CO SPONSORS\n\n## PARTNERS\n\n## COMMUNITY\n\n## MEDIA\n\n## Past Sponsor\n\n## Our IBT26 flagship event Metamorphosis Hyderabad\n\nMetamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.\n\nOver two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.\n\n## Who should attend?\n\n## Founders & CXOs\n\nConnect with global protocols and local venture capital to turn your MVP into a market leader.\n\n## Institutional Investors\n\nAccess a high-density pool of vetted Web3 startups and the developers behind India’s most successful dApps.\n\n## Global Ecosystems\n\nDeploy your GTM strategy across 10 strategic nodes and integrate with the world’s largest Web3 workforce.\n\n## Policy & Enterprise\n\nEngage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.\n\n## As Seen On",
-    "startDate": "2026-10-31T10:00:00+05:30",
-    "endDate": "2026-10-31T17:00:00+05:30",
+    "name": "India Blockchain & AI Tour 2026 - Mumbai",
+    "description": "Octaloop hosts the Mumbai stop of India Blockchain & AI Tour on October 31. The ticketing page lists 12:00 to 18:00 IST. The organizer has not announced the venue.",
+    "startDate": "2026-10-31T12:00:00+05:30",
+    "endDate": "2026-10-31T18:00:00+05:30",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
@@ -4322,15 +4460,25 @@
     "website": "https://indiablockchaintour.com/",
     "registrationUrl": "https://indiablockchaintour.com/2026-nodes/mumbai/ticket",
     "sideEventFor": [
-      "ibt"
+      "ibw",
+      "devcon"
     ],
     "descriptionSource": {
-      "url": "https://indiablockchaintour.com/",
-      "fetchedAt": "2026-09-20T00:20:52.308Z",
-      "method": "official-section",
-      "pageTitle": "India Blockchain & AI Tour 2026",
-      "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
-    }
+      "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+      "fetchedAt": "2026-10-11T18:39:05.525Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "India Blockchain & AI Tour 2026 - Mumbai",
+      "sha256": "e3b73bb132527302db17f972457f676bc0545c13c70d0c8ec55c4fb4f04261d4",
+      "evidence": [
+        {
+          "url": "https://konfhub.com/india-blockchain-tour-2026-mumbai-node",
+          "fetchedAt": "2026-10-11T18:39:05.525Z",
+          "sha256": "992681202151814caf40158252bf4b340ffccfdbc8aa9c7cb4ff8dafdb82d11d"
+        }
+      ]
+    },
+    "timezone": "Asia/Kolkata",
+    "attendanceMode": "offline"
   },
   {
     "twitter": null,

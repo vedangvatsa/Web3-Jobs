@@ -30,6 +30,12 @@ const regenerated = assignStableEventSlugs([...live].reverse(), new Set(), publi
 assert.deepEqual(Object.fromEntries(regenerated.map(e => [e.id, e.slug])), Object.fromEntries(live.map(e => [e.id, e.slug])));
 const reserved = loadReservedRootSlugsSync();
 assert.ok(reserved.has('ps3'), 'Published event /ps3 must be reserved before job minting');
+assert.ok(!reserved.has('fcm'), 'An unpublished raw event title must not evict the published /fcm job');
+for (const record of Object.values(published)) {
+  for (const slug of [record.slug, ...(record.aliases || [])]) {
+    assert.ok(reserved.has(slug), `Published event URL /${slug} must remain reserved`);
+  }
+}
 const jobs = JSON.parse(fs.readFileSync('content/jobs-runtime.json', 'utf8')) as Array<{ slug: string }>;
 assert.ok(jobs.every(job => !reserved.has(job.slug)), 'No active job occupies a reserved content URL');
 const jobFixture = [

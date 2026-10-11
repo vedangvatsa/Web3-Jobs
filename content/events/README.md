@@ -95,6 +95,8 @@ The page presentation follows the existing Hashtagweb3 event typography and colo
 
 ## Reviewed source recovery
 
+The [Mumbai source audit](MUMBAI_AUDIT.md) covers the complete public future Devcon and IBW calendars, Team1 Mumbai and the official IBW spreadsheet. Its report records pagination, primary-page verification, row mappings, exclusions and canonical identity preservation.
+
 `source-recovery.json` records the reviewed event-specific sources used to resolve missing descriptions. It includes explicit evidence checks, session-level context, and confirmed date/venue corrections.
 
 ```sh

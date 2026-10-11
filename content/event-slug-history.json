@@ -3383,7 +3383,10 @@
   "ibw-official-mip-20-road-to-devcon-10-24": {
     "slug": "mip-20",
     "aliases": [
-      "india-luma-ndrr1yqe"
+      "india-luma-ndrr1yqe",
+      "meetupmip-20",
+      "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
+      "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi"
     ]
   },
   "india-luma-76s6hwzv": {
@@ -3504,11 +3507,15 @@
   },
   "premier-indiabw-2026": {
     "slug": "ibw",
-    "aliases": []
+    "aliases": [
+      "w3v-india-blockchain-week-2026"
+    ]
   },
   "ibw-official-ibw-institutional-forum-11-02": {
     "slug": "iif",
-    "aliases": []
+    "aliases": [
+      "w3v-ibw-institutional-forum-26-11-01"
+    ]
   },
   "premier-cosmoverse-2026": {
     "slug": "cosmoverse",
@@ -3520,7 +3527,10 @@
   },
   "ibw-official-defi-security-summit-day-1-11-01": {
     "slug": "dssd1",
-    "aliases": []
+    "aliases": [
+      "ibw-official-defi-security-summit-day-2-11-02",
+      "dssd2"
+    ]
   },
   "luma-crypto-8dntupEO60aiWT5": {
     "slug": "shhlon",
@@ -3545,7 +3555,9 @@
       "ibw-official-ethereum-cypherpunk-congress-3-11-02",
       "india-luma-spsnos9t",
       "eccm",
-      "w3v-ethereum-cypherpunk-congress-mumbai"
+      "w3v-ethereum-cypherpunk-congress-mumbai",
+      "ecc3i2ont",
+      "ethorg-ethereum-cypherpunk-congress--3mumbai--indianov-2-"
     ]
   },
   "ibw-official-multichain-day-devcon-mumbai-2026wrapped-11-02": {
@@ -3556,12 +3568,14 @@
     "slug": "ssi",
     "aliases": [
       "india-luma-solana-summit-india",
-      "w3v-solana-summit-india"
+      "w3v-solana-summit-india",
+      "luma-host-evt-evt-hadjh0ytflq1cra"
     ]
   },
   "ibw-official-defi-security-summit-day-2-11-02": {
     "slug": "dssd2",
-    "aliases": []
+    "aliases": [],
+    "canonicalId": "ibw-official-defi-security-summit-day-1-11-01"
   },
   "ibw-official-onchain-dev-city-india-11-02": {
     "slug": "odci",
@@ -3644,7 +3658,14 @@
   },
   "premier-unchained-summit-india-2026": {
     "slug": "unchained-summit",
-    "aliases": []
+    "aliases": [
+      "usd1",
+      "ibw-official-unchained-summit-day-1-11-05",
+      "ibw-official-unchained-summit-day-2-11-06",
+      "usi",
+      "w3v-unchained-summit-india-26-11-05",
+      "usd2"
+    ]
   },
   "premier-bitcoin-amsterdam-2026": {
     "slug": "bitcoin-amsterdam",
@@ -3664,7 +3685,8 @@
   },
   "ibw-official-unchained-summit-day-2-11-06": {
     "slug": "usd2",
-    "aliases": []
+    "aliases": [],
+    "canonicalId": "premier-unchained-summit-india-2026"
   },
   "luma-batch-cFXe8eT3nFr409n": {
     "slug": "np3wx7v5",
@@ -3945,6 +3967,114 @@
   },
   "token2049-evt-rnmJyD2klnY67Ue": {
     "slug": "fcsy",
+    "aliases": []
+  },
+  "ibw-official-future-asset-forum-2026": {
+    "slug": "ifaf",
+    "aliases": []
+  },
+  "india-luma-3doehm1b": {
+    "slug": "3doehm1b",
+    "aliases": []
+  },
+  "india-luma-83ujl6ms": {
+    "slug": "83ujl6ms",
+    "aliases": []
+  },
+  "india-luma-li3sv90r": {
+    "slug": "li3sv90r",
+    "aliases": []
+  },
+  "india-luma-jb4zsel1": {
+    "slug": "jb4zsel1",
+    "aliases": []
+  },
+  "india-luma-team1mumbai": {
+    "slug": "team1mumbai",
+    "aliases": []
+  },
+  "india-luma-mc8pq06y": {
+    "slug": "mc8pq06y",
+    "aliases": []
+  },
+  "india-luma-h0x443s9": {
+    "slug": "h0x443s9",
+    "aliases": []
+  },
+  "india-luma-nyw6qigp": {
+    "slug": "nyw6qigp",
+    "aliases": []
+  },
+  "india-luma-2kj0jqf9": {
+    "slug": "2kj0jqf9",
+    "aliases": []
+  },
+  "india-luma-uqmzpq5k": {
+    "slug": "uqmzpq5k",
+    "aliases": []
+  },
+  "india-luma-sgrf4yq5": {
+    "slug": "sgrf4yq5",
+    "aliases": []
+  },
+  "india-luma-ib9j3xxe": {
+    "slug": "ib9j3xxe",
+    "aliases": []
+  },
+  "premier-ethindia-2026": {
+    "slug": "ethindia",
+    "aliases": []
+  },
+  "india-luma-qk93a446": {
+    "slug": "qk93a446",
+    "aliases": []
+  },
+  "india-luma-6gnkjcqx": {
+    "slug": "6gnkjcqx",
+    "aliases": []
+  },
+  "india-luma-hr8w0hmd": {
+    "slug": "hr8w0hmd",
+    "aliases": []
+  },
+  "india-luma-ai6owvhz": {
+    "slug": "ai6owvhz",
+    "aliases": []
+  },
+  "india-luma-xuofsg0p": {
+    "slug": "xuofsg0p",
+    "aliases": []
+  },
+  "india-luma-qzzu690f": {
+    "slug": "qzzu690f",
+    "aliases": []
+  },
+  "india-luma-islzi7v3": {
+    "slug": "islzi7v3",
+    "aliases": []
+  },
+  "india-luma-kz3klqjq": {
+    "slug": "kz3klqjq",
+    "aliases": []
+  },
+  "india-luma-ub56pe38": {
+    "slug": "ub56pe38",
+    "aliases": []
+  },
+  "india-luma-5u1evsou": {
+    "slug": "5u1evsou",
+    "aliases": []
+  },
+  "india-luma-tswdcctj": {
+    "slug": "tswdcctj",
+    "aliases": []
+  },
+  "india-luma-v0fimew1": {
+    "slug": "v0fimew1",
+    "aliases": []
+  },
+  "india-luma-0ej7kbb0": {
+    "slug": "0ej7kbb0",
     "aliases": []
   }
 }

@@ -972,21 +972,21 @@
   {
     "id": "india-luma-ndrr1yqe",
     "name": "MIP-20: Road to Devcon",
-    "description": "Welcome to MIP-20\n\nPresenting a new format of MIP for the Road to Devcon.\n\nDevcon is an Ethereum conference for developers, researchers, thinkers, and makers.\n\nAgenda\n\nComing soon...\n\nFollow ETHMumbai on: X | TelegramFollow Devcon on: X | Telegram\n\n## Event details\n\nHosted by ETHMumbai. The event takes place on October 24. Registration requires organizer approval.",
-    "startDate": "2026-10-24T06:30:00.000Z",
-    "endDate": "2026-10-24T08:30:00.000Z",
+    "description": "ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.",
+    "startDate": "2026-10-30T09:30:00.000Z",
+    "endDate": "2026-10-30T12:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/ndrr1yqe",
-    "coverImage": "/events/luma-recover-indialumandrr1yq-4d2326ec.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/sv/670ec572-7cfd-4cc0-8af0-9ab6a40ba095.png",
     "source": "luma-india",
     "hosts": [
       "ETHMumbai"
     ],
     "price": "Free",
     "approvalRequired": true,
-    "timezone": "Asia/Calcutta",
+    "timezone": "Asia/Kolkata",
     "slug": "mip-20",
     "registrationUrl": "https://luma.com/ndrr1yqe",
     "attendanceMode": "offline",
@@ -1009,10 +1009,27 @@
     "sourceVerification": {
       "url": "https://luma.com/ndrr1yqe",
       "eventId": "evt-3ViKtGhH3Kfrsy3",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/ndrr1yqe",
+      "fetchedAt": "2026-10-11T18:38:48.419Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "MIP-20: Road to Devcon",
+      "sha256": "d441a73b26e0bcf55492efa5206d230fd95a400278b87da5896eaf8277ddb03d",
+      "evidence": [
+        {
+          "url": "https://luma.com/ndrr1yqe",
+          "fetchedAt": "2026-10-11T18:38:48.419Z",
+          "sha256": "fc9ec07dd2355f97b7793d6aa52c6858ad7cacb054132ca0c507245b487f1ada"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "india-luma-bitshalaboss",
@@ -1069,38 +1086,38 @@
   {
     "id": "india-luma-spsnos9t",
     "name": "Ethereum Cypherpunk Congress #3",
-    "description": "Cypherpunk Congress is coming to India!\n\nExpect the biggest human rights x neo-cypherpunk festival. Buenos Aires edition hit 4500 people, 100 speakers from Vitalik Buterin/Ethereum to Roger Dinglerine/Tor & long-lasting impact.\n\n## The first batch of highly-curated speakers are here\n\nCuratorial note: we assemble speakers on intersection between digital rights, FOSS, decentralisation & cryptography.\n\nThey propose practical solutions for global challenges from polarisation in social media to raise of dictatorships. Challenge internet shutdowns, abuse of digital identity, & [attacks on encryption. With proven track record from @EFF](https://x.com/EFF) [to @brave](https://x.com/brave).\n\nWelcome to Mumbai!\n\n@[kurtopsahl](https://x.com/kurtopsahl) [x  @FilFoundation](https://x.com/FilFoundation) for long-lasting defence of encryption in EFF, exceptional human qualities and bridging gap betwen old & new cypherpunks\n\n@[Isa](https://x.com/Isa) [x @torproject](https://x.com/torproject) for exceptional work on harmonizing network-level privacy and digital rights\n\n@[ghappour](https://x.com/ghappour) x flashbots for matching digital rights & web3 culture. Being a real representative of privacy-first, encryption-centric narrative across borders & ecosystems.\n\n@[therealyingtong](https://x.com/therealyingtong) for proving that real-world cryptography exists in practice & can serve marginalized people\n\n[Justin Drake](https://x.com/drakefjustin) - key Ethereum Foundation protocol researcher\n\n@[lunardragon420](https://x.com/lunardragon420) [x @DarkFiSquad](https://x.com/DarkFiSquad) for uncompromising values & visionary ideas on both tech activism & role of code\n\n@[mala](https://x.com/mala) [x @FilFoundation](https://x.com/FilFoundation) for openness to transition old cypherpunk narratives into compeling and positive knowledge for the future to come\n\n@[jaromil](https://x.com/jaromil) [x @DyneOrg](https://x.com/DyneOrg) for balancing hacktivist culture with digital identity challenges, defending civic society by representing us in institutions\n\n@[ml_sudo](https://x.com/ml_sudo) [x  @ethereumfndn](https://x.com/ethereumfndn)'s Silviculture for accelerating meaningful cryptography & culture across ecosystems\n\n@[PryvitKyle](https://x.com/PryvitKyle) [x @brave](https://x.com/brave) for brinding gap between already proven privacy tech & emerging innovations - showing how crypto can plug'n'play in traditional tech\n\n@[SCBuergel](https://x.com/SCBuergel) [x @gnosis_](https://x.com/gnosis_) + @[hoprnet](https://x.com/hoprnet) for dedicating years of life to deliver network-level privacy, staying for the culture and diversifying VPN market.\n\n@[jbaylina](https://x.com/jbaylina) [x @ziskvm](https://x.com/ziskvm) for tech dedication to solve digital rights in practice, growing a group of cryptographers, scaling & securing millions of people.\n\nFOCUS AREAS\n\n@[AndyGuzmanEth](https://x.com/AndyGuzmanEth) [x @PrivacyEthereum](https://x.com/PrivacyEthereum) for proving that the future of privacy ecosystem depends on decency and positive communication.\n\n@[Fatalmeh](https://x.com/Fatalmeh) for caring about human rights now, legal web3 policies, & decentralised tech that will shift global power dynamics\n\n@[miroyato](https://x.com/miroyato) [x @fileverse](https://x.com/fileverse) for by-week practical deGoogling at scale via http://ddocs.new & bringing deep academical approach to decentralised tech culture\n\n@[auryn_macmillan](https://x.com/auryn_macmillan) [x  @EnclaveE3](https://x.com/EnclaveE3) for long-lasting representation of human values where code really becomes a speech. Delivering complex encryption for confidential computation.\n\n@[hebbianloop](https://x.com/hebbianloop) [x @humntech](https://x.com/humntech) for protecting identity at scale & bridging traditional digital rights with emerging tech\n\n@[Cryptic_cm](https://x.com/Cryptic_cm) [x @session_app](https://x.com/session_app)  for providing vocal alternatives to how we securely communicate & collaborate online\n\n@[kassandraETH](https://x.com/kassandraETH) [x @ethereumfndn](https://x.com/ethereumfndn) for proving that code is an art, & cultural diversity can bring striking change - uniting ecosystems & voices beyond tribalism\n\n@[Pol_Lanski](https://x.com/Pol_Lanski) [x @dappnode](https://x.com/dappnode) for proving that node-running isn't a rocket science, but active contribution to both decentralisation and censorship resistance\n\n@[LoringHarkness](https://x.com/LoringHarkness) [x @ShutterNetwork](https://x.com/ShutterNetwork) for pushing new cryptographic primitives to life, alligning different actords towards Encrypted Mempools\n\n@[TMIYChao](https://x.com/TMIYChao) [x @ethereumfndn](https://x.com/ethereumfndn) + @[BordelWTF](https://x.com/BordelWTF) for keeping reminding that original cypherpunks were build on values & not shiny merch ([we translate: use @GrapheneOS](https://x.com/GrapheneOS), run your own node, visit CCC etc)\n\n@0xMeTony (https://x.com/0xMeTony) [x @fluidkey](https://x.com/fluidkey) for proving that hackathons can create decent privacy-projects positively evolving over time\n\n[Daniel x @invisiblgarden](https://x.com/invisiblgarden) for matching digital rights with commons, practical web3 aplicability to the endangered societies\n\n@[ncsgy](https://x.com/ncsgy) [x @ethereumfndn](https://x.com/ethereumfndn) for bringing tangible privacy via Kohaku, chancing the whole wallet-domain for better, and activating positive side of web3 to millions of people.\n\n@[willscott](https://x.com/willscott) for representing man of action approach, helping, supporting, activating. Together.\n\n## Great privacy, internet of freedoms organisations will be present at Cognress\n\nCOMMUNITY PARTNERS\n\nSPONSORS\n\nCONTRIBUTE\n\nPartner: https://tally.so/r/mVxvgN\nSpeak (CfP): https://tally.so/r/nrOzXl\nVolunteer: https://tally.so/r/3lLqKo\n\nJoin our community to receive latest news: https://t.me/+QOj6126xlEs0OTQ0\n\nWatch Congress #2 talks: https://youtu.be/XKJ1ZJrkKWA?si=eZNEZQri3uheJgrN\n\n## Lasting cultural phenomenon\n\nFocusing on values, active political stance, and cutting-edge research will help Ethereum become a cultural & resilient to change phenomenon.\n\nwatch aftermovie: https://www.youtube.com/watch?v=97-qkXRmMlk\n\nexpect phenomenal lineup [Congress #2 example]\n\nWe are talking not only about the existence of privacy-preservation dapps, but Free & Open-source software development, support for free speech and whistleblowers around the world, helping marginalized people get access to the decolonial money system, safe & empowered tech, and last but not least - diverse and active communities of care.\n\nSupporting privacy developers\n\nRoman Storm Congress #2 opening https://youtu.be/XKJ1ZJrkKWA?si=GGrhiF5TOZcfjUqy&t=811\n\n## Connecting web2 + web3\n\nVitalik Buterin + Naomi Brockwell fireside https://www.youtube.com/watch?v=5At5_GiQNEA\n\n## Ethereum Social Layer (ESL)\n\nIt is being formed before our eyes - an active ecosystem of thousands of thinkers, developers, analysts, human-rights DAOs, coordinators, and even ravers. Inspired by cypherpunks of the past, they create a foundation for the digital community of the future ([explore our Cyherpunk personas](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/u4ELDt0YkpCe272kD2f5kTThJsILg1pgaOeBsTSGV0I) article). Based on permissionless & [censorship-resistance ideology. Follow Paul-Dylan Ennis](https://x.com/post_polar_/status/1813275641954877709) on ESL.\n\n## Activation\n\nThe debut Ethereum Cypherpunk Congress assembles an active part of Ethereum. These people and organizations want to stand at the foundations of the unstoppable socio-techno-cultural movement.\n\nSpecial rituals help us to share Cypherpunk culture & build care for each other.\n\nThey are activists, developers, cryptographers, ethical investors, philosophers, and researchers who are changing the possibilities for Ethereum on the path to freedom.\n\nHackathon track\nEvents for developers are critical activation points behind any cultural change. Every protocol from Aztec to Ethereum needs devs to build on top of it & deliver decentralized, permissionless & privacy-enhancing applications. We invited current privacy hackathon devs to reflect on their experience.\n\nWomen in web3 privacy track\nDiversity in the web3 industry is a critical challenge, let alone in the privacy market. Let's discuss how we can be more open, diverse & inclusive to different opinions and opportunities.\n\nActivation track\nWe want everyone to feel, use and contribute to practical privacy tooling. So we will showcase existing tools [empowering your journey in decentralized world: Fileverse](http://fileverse.io), [Rotki](http://rotki.com), [Fluidkey](http://fluidkey.com), Radicle, GnosisVPN.\n\nStunning merch delivered by Coinmandeer\n\n## High-level agenda\n\n• craft conditions needed to overcome challenges mapped in “Make Ethereum Cypherpunk again” essay\n• [present Ethereum Privacy Ecosystem](https://docs.web3privacy.info/research/ethereum-privacy-ecosystem/) and its key players\n• explore socio-cultural conditions re-wiring degens into cypher-activists\n• build a mainstream culture around cypherpunk - make it an open and inclusive movement\n• remind of the origins of Ethereum ethos\n• articulate balance between open-source culture & financial sustainability behind projects\n• map the way to onboard 100K developers & 10M users experiencing safe Ethereum-centric privacy tech\n\nContribute to the development of the cypherpunk culture of Ethereum. Everyone will be welcome here, from activists defending the rights of developers to degens who finally want to find a strong meaning in life.\n\nContribute\n\nSpeak (CfP): https://tally.so/r/nrOzXl\n\nPartner:\n- [web3privacynow 'at' protonmail.com](http://protonmail.com) or\n- https://x.com/PG_CDG\n\nVolunteer: https://tally.so/r/3lLqKo\n\nOur previous events (feel the vibe)\n\n• [Privacy Summit II](https://summit.web3privacy.info/) - Paralelni Polis, Prague 2024\n• [Privacy Summit I](https://prague.web3privacy.info) - X10, Prague 2023\n• [ETHRome Meetup](https://mirror.xyz/0x0f1F3DAf416B74DB3DE55Eb4D7513a80F4841073/bzv735Bc1zak7Yi-NcxWavMQKgt2ANXQtpkrSp8Xg3o)- Villaggio Globale, Rome 2023\n  Useful resources (for real)\n  Website: https://web3privacy.info/\n  Latest news: http://twitter.com/web3privacy\n  Github: http://www.github.com/web3privacy\n  Privacy market dashboard: http://explorer.web3privacy.info\n\n#Ethereum #cypherpunk #privacy #freedom #community #you",
+    "description": "Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program addresses digital rights, open-source software, decentralization, cryptography and practical privacy tools.",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
-    "location": "Mumbai, Maharashtra, India",
+    "location": "Yashwantrao Chavan Centre, WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai, Maharashtra 400021, India",
     "url": "https://luma.com/spsnos9t",
-    "coverImage": "/events/luma-recover-indialumaspsnos9-cb8e4c27.webp",
+    "coverImage": "https://images.lumacdn.com/event-covers/cv/284c4fdb-ab37-4cb2-9981-12311c5d62f0.png",
     "source": "luma-india",
     "hosts": [
       "Mykola x Web3Privacy now",
       "PG_CDG | Web3Privacy Now"
     ],
     "price": "Free",
-    "timezone": "Asia/Calcutta",
+    "timezone": "Asia/Kolkata",
     "slug": "ecc3",
     "registrationUrl": "https://luma.com/spsnos9t",
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": false,
-    "venueName": "Mumbai",
+    "venueName": "Yashwantrao Chavan Centre",
     "addressLocality": "Mumbai",
     "addressRegion": "Maharashtra",
     "addressCountry": "IN",
     "coordinates": {
-      "latitude": 18.9581934,
-      "longitude": 72.8320729
+      "latitude": 18.9249445,
+      "longitude": 72.8265239
     },
     "organizer": {
       "type": "Organization",
       "name": "Web3Privacy Now Events",
-      "url": "https://web3privacy.info/events"
+      "url": "https://web3privacy.info/"
     },
     "approvalRequired": false,
     "ticketOffers": [
@@ -1115,22 +1132,40 @@
     "sourceVerification": {
       "url": "https://luma.com/spsnos9t",
       "eventId": "evt-CyZRiDdLECiCPRS",
-      "fetchedAt": "2026-09-19T23:30:10.478Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
+      "method": "luma-page"
+    },
+    "streetAddress": "WRFG+MP7 Academy Of Information Technology, 7/8, General Jagannath Bhosle Rd, Nariman Point, Mumbai",
+    "neighborhood": "Nariman Point",
+    "descriptionSource": {
+      "url": "https://luma.com/spsnos9t",
+      "fetchedAt": "2026-10-11T18:38:51.372Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Ethereum Cypherpunk Congress #3",
+      "sha256": "4171f06c1c7340fc0fc4755e4f1ac5713984609a26c19f68161b582f202d5e01",
+      "evidence": [
+        {
+          "url": "https://luma.com/spsnos9t",
+          "fetchedAt": "2026-10-11T18:38:51.372Z",
+          "sha256": "13c12d85212f561f92b2bf5b41d8db25d83307107dac5714ef3693b75038222c"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "india-luma-solana-summit-india",
     "name": "Solana Summit India",
-    "description": "Solana Summit India offers a dynamic one-day immersion into the Solana ecosystem, featuring insightful talks, engaging panels, and interactive workshops led by industry pioneers.\n\nThis event is designed for founders, developers, and creatives, tailored to highlight innovative applications and developments in the Solana network. Join us for a day of meaningful talks, networking, and deep insights, focused on the Solana ecosystem in India, tokenization of real-world assets, evolving policy and regulatory frameworks, developer insights, and applications pushing the network forward.\n\nAre [you interested in speaking at the event? Please apply here](https://airtable.com/appdfQFBoIXdYtre1/shrdAx4411rgtsMIC).\n\nDuring the event, you can expect:\n\n• Informative, educational programming around hot topics on Solana and the local ecosystem, as well as workshops, panels, and presentations from industry leaders and ecosystem teams.\n• Talks from CTOs, founding engineers & outstanding developers working on some of the hardest and most interesting technical problems on Solana.\n• Test, build, and receive feedback on your ideas, with a particular focus on assessing product-market fit, which is crucial to any product's success.\n• Opportunities for networking and learning.\n• A venue with good WiFi, power, and workstations, plus food and lounges to make conversation or relax.\n• Networking mixer at the end of the day\n\nSolana Summit India is open to all who register ahead of time and are approved, so we kindly request that you keep your registration up to date so that someone from the waitlist can attend in your place if you are no longer able to.\n\nRegistration will be open onsite from 10:00 am to 5:00 pm.",
+    "description": "Solana Summit India is a one-day program of talks, panels and workshops about the Solana ecosystem, real-world asset tokenization, regulation and development. Advance registration and host approval are required.",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/solana-summit-india",
-    "coverImage": "/events/luma-recover-indialumasolanas-8b20b2cd.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/kg/d73d0fb3-058f-495e-8db5-56bb907b8725.png",
     "source": "luma-india",
     "hosts": [
       "Superteam India"
@@ -1160,25 +1195,42 @@
     "sourceVerification": {
       "url": "https://luma.com/solana-summit-india",
       "eventId": "evt-hadJH0ytfLq1cra",
-      "fetchedAt": "2026-09-19T23:30:10.396Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:52.235Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/solana-summit-india",
+      "fetchedAt": "2026-10-11T18:38:52.235Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Solana Summit India",
+      "sha256": "544d93147cbd64ba446cc2d0c1d1ad6f71a25ad98f68f680740b7bbfefedb137",
+      "evidence": [
+        {
+          "url": "https://luma.com/solana-summit-india",
+          "fetchedAt": "2026-10-11T18:38:52.235Z",
+          "sha256": "aca8d54fe18534778e78bfa4edc903b4668b21eea6fe51dbc7bc8aa3076e52d1"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw"
+    ]
   },
   {
     "id": "india-luma-n0a39ago",
     "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
-    "description": "## Onchain Dev City - Devcon 2026 🇮🇳\n\nby BackersStage\n\n> “A real-world microcity where every street, screen, and sip is powered by Web3”\n\n🌆 Step Inside the City of the Future\n\nDuring DevCon 2026 🇮🇳 in Mumbai, one venue becomes an entire city built on-chain.\nEvery light, sound, and interaction is alive with Web3 energy - a place where builders, creators, and dreamers collide to build the future IRL.\n\nAs you walk through the neon gate, you’re not just entering an event - you’re crossing into a living metaverse that you can feel, touch, and earn from.\n\n> Partner Rewards (grants, tokens, prizes etc.)\n\n🇮🇳 Explore the City\n\n✨ Onchain Street: A photo-worthy entry arch, holographic check-in wall, and ambient soundscape set the tone.\n🎯 Quest District: A live arcade of on-chain quests and mini games where every tap earns NFT badges and leaderboard points.\n🎤 Main Stage: Micro-pitches, lightning talks, and interactive polls from founders and innovators.\n🍸 Nightlife Zone: Beats, mocktails, and after-dark networking that feels like SXSW met Ethereum.\n☕ Community Lounge: DAO corners, guild meetups, and casual builder coffee hours.\n📸 Content Island: Creator pods and live media streams capturing the vibe.\n🗞 Press Hub: The heartbeat of recaps, analytics, and spotlight interviews.\n💻 Digital Layer: NFT drops, live leaderboards, and proof-of-participation for every attendee.\n\n## 🎮 The Quest Experience - Compete for the Builder's Grant & Prize Pool\n\nThe city runs on quests - complete challenges, explore zones, and earn real rewards.\n\n💠 Mint your City Passport NFT at entry.\n💠 Finish quests to earn points and exclusive NFT badges.\n💠 Climb the leaderboard shown live on the city’s screens.\n💠 Top participants win gifts from tech merch and hardware wallets to Web3 grants and collector NFTs.\n\n> Every scan, click, and conversation moves you closer to a prize - and a new connection.\n\n## ✨ Why You’ll Love It\n\nBecause this is what Web3 should feel like - alive, creative, and collaborative.\nIt’s a city you don’t just visit - you live in for a day.\nEvery corner reveals a new story, a new collab, a new opportunity to build something together.\n\n> “The future of events is experiential. We’re not attending talks - we’re building worlds”\n\n## 🌍 The Vision\n\nOnchain Dev City is a prototype for the next generation of Web3 culture - a model that turns conference floors into living ecosystems.\n\n💫 Built like a city. Run like a startup. Lived like a festival.\n\n> “Let’s make Devcon the moment people realize the metaverse was always meant to be real”\n\n## 📅 When & Where\n\n🗓 2 November 2026: During Devcon [8] Week\n📍 Mumbai, India\n\nJoin for updates: http://www.t.me/backersstage\n\n💼 We’re Open for Ecosystem Partnerships\n\nIdeal partners include:\n\n• Layer-1 / Layer-2 Chains\n• Infrastructure & Tools\n• Funds & Ecosystem Programs\n• DeFi & Protocols\n• and who finds this interesting.\n\nWhether you want to host a quest, brand a zone, power the main stage, or co-create the digital layer, there’s space in the city for your brand to connect with the most active Web3 crowd on-ground.\n\n([tg: @theatharvshrivastava](https://t.me/theatharvshrivastava), mail: atharv@backersstage.com)\n\nPrevious Devconnect Edition:\n\nPrevious Events:\n\netc.",
+    "description": "BackersStage hosts Onchain Dev City during Devcon week. The announced program includes onchain quests, project pitches, talks and community activities.",
     "startDate": "2026-11-02T10:30:00.000Z",
     "endDate": "2026-11-02T15:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/n0a39ago",
-    "coverImage": "/events/luma-recover-indialuman0a39ag-86c54b88.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/63/0b9fc925-38fa-47ca-92f0-4ba8d8589937.jpg",
     "source": "luma-india",
     "hosts": [
-      "BackersStage Capital"
+      "BackersStage Capital",
+      "Capvise Global"
     ],
     "price": "Free",
     "approvalRequired": true,
@@ -1213,22 +1265,39 @@
     "sourceVerification": {
       "url": "https://luma.com/n0a39ago",
       "eventId": "evt-txzSskhRutniDIN",
-      "fetchedAt": "2026-09-19T23:30:10.606Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:36.451Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/n0a39ago",
+      "fetchedAt": "2026-10-11T18:38:36.451Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
+      "sha256": "59eb7aa99088eea54eb4166897eb43230cbb05f8c7d15587935024624364b4a6",
+      "evidence": [
+        {
+          "url": "https://luma.com/n0a39ago",
+          "fetchedAt": "2026-10-11T18:38:36.451Z",
+          "sha256": "b977c50b2bd3bb41a5c071ffea4236ada8ac0ccda2eb0e0e6373808322136bc8"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "india-luma-a0e6b8at",
-    "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit — Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
-    "description": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit\n\nOfficial AI Side Event of India Blockchain Week 2026 & Devcon 8\n\n\"A place where every layer of the AI economy meets to create business outcomes.\"\n\nArtificial Intelligence is becoming the horizontal layer powering every industry—from infrastructure and foundation models to developer platforms, enterprise, finance, media and government.\n\nThe AI Economic Forum (AIEF) is a recurring conference series built alongside the world's leading technology, AI and Web3 events, bringing together the people shaping the future of the AI economy.\n\nFollowing our inaugural AI ECONOMIC FORUM (AIEF), TOKYO 2026 alongside WebX Asia and Japan Blockchain Week, AIEF comes to Mumbai as the Official AI Side Event of India Blockchain Week 2026 & Devcon 8.\n\nJoin AI founders, foundation model companies, infrastructure builders, AI application startups, developers, venture capitalists, enterprise leaders, policymakers, researchers, journalists and creators for a day of high-impact discussions, product showcases, investment opportunities and meaningful business networking.\n\nDiscussion Themes\n\n• AI Infrastructure & Compute\n• Foundation Models & AI Agents\n• AI × Web3 & Decentralized Intelligence\n• Venture Capital & Investing in the AI Economy\n• AI for Enterprise & Industry\n• AI in Media, Journalism & Trust\n• AI Policy, Governance & Regulation\n• Developer Platforms & Open-Source AI\n• Product Demonstrations & Startup Showcases\n\nProgramme\n\n• Featured Keynotes\n• Fireside Conversations\n• Curated Panel Discussions\n• Founder Sessions\n• Product Demonstrations\n• Investor & Founder Networking\n• Enterprise & Government Engagement\n\nWhether you're building AI, investing in it, deploying it, researching it, regulating it or covering it, AIEF is where every layer of the AI economy comes together to create business outcomes.\n\nWe look forward to welcoming founders, investors, enterprises, policymakers and innovators from India and around the world to AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit.",
+    "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+    "description": "Omniscient AI's Mumbai forum covers AI infrastructure, models, agents, AI and Web3, investment, enterprise applications and policy. The announced program includes keynotes, panels, product demonstrations and founder sessions.",
     "startDate": "2026-11-03T04:00:00.000Z",
     "endDate": "2026-11-03T14:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, Maharashtra, India",
     "url": "https://luma.com/a0e6b8at",
-    "coverImage": "/events/luma-recover-indialumaa0e6b8a-5f2d8a7f.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/04/474033d1-a9ca-4cc8-8b67-d35cca38b08d.png",
     "source": "luma-india",
     "hosts": [
       "Tanmaya (Tan) Sharma",
@@ -1263,22 +1332,39 @@
     "sourceVerification": {
       "url": "https://luma.com/a0e6b8at",
       "eventId": "evt-I0cnxui32UlL2eK",
-      "fetchedAt": "2026-09-19T23:30:11.478Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:38.713Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/a0e6b8at",
+      "fetchedAt": "2026-10-11T18:38:38.713Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+      "sha256": "abb2463ce4d4601fcfcfc2109750b9e38a62115a49ab76497ce6d57407d49bfd",
+      "evidence": [
+        {
+          "url": "https://luma.com/a0e6b8at",
+          "fetchedAt": "2026-10-11T18:38:38.713Z",
+          "sha256": "e2379ffea8abc0518913bff7203da4428ab9e294a7ad988c239a92cba69adb18"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "india-luma-mh0xmqg0",
     "name": "Media Accelerator & Startup Cohort",
-    "description": "Media Accelerator & Startup Cohort is an exclusive Web3 and blockchain side event hosted alongside Devcon 8, bringing together promising startups, investors, developers, and media leaders during one of the most important global gatherings for the Ethereum ecosystem.\n\nOrganized by BFM Times, the program supports early-stage blockchain, AI, and Web3 startups by providing media exposure, mentorship, investor connections, and access to up to $500K in funding and grants for eligible startups. Additionally, 50 selected startups will receive rewards and ecosystem credits from the BFM ecosystem.\n\nSelected founders will gain global visibility, pitching opportunities, and direct access to venture capital firms, ecosystem partners, developers, and industry leaders during the Devcon week. The program aims to bridge innovative startups with investors, media platforms, and strategic partners while showcasing breakthrough ideas shaping the future of Ethereum, decentralized applications, and blockchain infrastructure.\n\nDevcon is the flagship developer conference of the Ethereum community, organized by the Ethereum Foundation and bringing together developers, researchers, builders, and creators from around the world to collaborate on decentralized systems.\n\nFor more news and updates join:\nhttps://chat.whatsapp.com/H0tyPv7pxwD8E6uJwWVKGP\nhttps://t.me/BFMTimesDiscussion\n\nDates: 3-6 November 2026\nLocation: Jio World Centre, Mumbai, India\nFormat: Official Side Event during Devcon 8",
+    "description": "BFM Times hosts a startup cohort during Devcon week, offering media exposure, mentorship and pitching opportunities for blockchain, AI and Web3 startups. Funding and ecosystem rewards are subject to selection and eligibility.",
     "startDate": "2026-11-03T09:30:00.000Z",
     "endDate": "2026-11-06T09:00:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Jio World Centre, 3V78+HX, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051, India",
     "url": "https://luma.com/mh0xmqg0",
-    "coverImage": "/events/luma-recover-indialumamh0xmqg-4958b662.webp",
+    "coverImage": "https://images.lumacdn.com/event-covers/by/f59eaf06-5299-4744-9bfc-5b47ba26a26b.jpg",
     "source": "luma-india",
     "hosts": [
       "Meta Blockchain",
@@ -1318,22 +1404,39 @@
     "sourceVerification": {
       "url": "https://luma.com/mh0xmqg0",
       "eventId": "evt-A50Gu0jztJ9sS1j",
-      "fetchedAt": "2026-09-19T23:30:11.445Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:56.330Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/mh0xmqg0",
+      "fetchedAt": "2026-10-11T18:38:56.330Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Media Accelerator & Startup Cohort",
+      "sha256": "99024c037277c768a6458364a411065a4e25bbdf145562d1f06836d3c61b0025",
+      "evidence": [
+        {
+          "url": "https://luma.com/mh0xmqg0",
+          "fetchedAt": "2026-10-11T18:38:56.330Z",
+          "sha256": "d758320af155cf0168b11f72f221621c2e63938defa9fbc88c8762b95c39b508"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "india-luma-czi58jpe",
-    "name": "EIP Hub @ Devcon 8 (India)",
-    "description": "## EIP Hub @ Devcon 8 India\n\nWhere Ethereum Standards Come Together\n\nThe EIP Hub is a collaborative space dedicated to Ethereum Improvement Proposals (EIPs), ERC standards, protocol upgrades, and standards adoption. Whether you’re a first-time contributor, protocol researcher, client developer, standards author, application builder, enterprise architect, or simply curious about how Ethereum evolves, the EIP Hub is your place to learn, collaborate, and contribute.\n\nOver four days, the hub will host talks, workshops, office hours, roundtables, live demonstrations, and networking sessions focused on the complete journey of an Ethereum standard - from understanding the EIP process to protocol development, application standards, and enterprise adoption.\n\nWhat to expect\n\n• Learn how Ethereum’s standards process works\n• Meet EIP editors, authors, client teams, and researchers\n• Join EIP Office Hours and protocol discussions\n• Explore upcoming network upgrades and Meta EIPs\n• Discover the latest ERCs and application standards\n• Participate in workshops and specification reviews\n• Connect with tooling projects and enterprise builders\n• Experience live EIPsInsight dashboards and protocol updates\n\nDetailed event coming soon!\n\nWhether you’re looking to write your first EIP, discuss the next protocol upgrade, showcase a new ERC, or connect with fellow contributors, the EIP Hub is designed to be the home for Ethereum standards throughout Devcon.\n\nExplore. Innovate. Participate.\n\n⚠️ Note: The EIP Hub is only accessible to Devcon 8 ticket holders. A valid Devcon ticket is required to enter.",
-    "startDate": "2026-11-03T15:00:00.000Z",
-    "endDate": "2026-11-06T21:00:00.000Z",
+    "name": "EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together",
+    "description": "EIP Hub is a four-day space for Ethereum Improvement Proposals, ERC standards and protocol upgrades. The planned program covers the EIP process, core protocol development, application standards and enterprise adoption through talks, workshops and office hours. A valid Devcon ticket is required to enter.",
+    "startDate": "2026-11-03T15:30:00.000Z",
+    "endDate": "2026-11-06T12:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Jio World Convention Centre, Jio World Centre, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400098, India",
     "url": "https://luma.com/czi58jpe",
-    "coverImage": "/events/luma-recover-indialumaczi58jp-3f32e7eb.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/f8/f809794f-516e-4f4c-a51d-52a90381ca84.png",
     "source": "luma-india",
     "hosts": [
       "Pooja Ranjan",
@@ -1374,22 +1477,39 @@
     "sourceVerification": {
       "url": "https://luma.com/czi58jpe",
       "eventId": "evt-WA1k9H6TjNoF3wg",
-      "fetchedAt": "2026-09-19T23:30:11.567Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
+      "fetchedAt": "2026-10-11T18:38:41.354Z",
+      "method": "luma-page"
+    },
+    "descriptionSource": {
+      "url": "https://luma.com/czi58jpe",
+      "fetchedAt": "2026-10-11T18:38:41.354Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "EIP Hub @ Devcon 8 India - Where Ethereum Standards Come Together",
+      "sha256": "1ad34e813c81dc7888ec0b17c2f0665135a6e5e63da8c8eba9ba5c51ab6cf8ac",
+      "evidence": [
+        {
+          "url": "https://luma.com/czi58jpe",
+          "fetchedAt": "2026-10-11T18:38:41.354Z",
+          "sha256": "048a4b3a628d6e24b2f104544c0ee475616aadbc832596bdeb3cfb91258767a6"
+        }
+      ]
+    },
+    "sideEventFor": [
+      "ibw",
+      "devcon"
+    ]
   },
   {
     "id": "india-luma-08ogvz1i",
     "name": "Ready for the Run @ Mumbai",
-    "description": "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\nMumbai carries the theme Capital. Where conviction turns into cheques, this stop brings India's Web3 and AI builders face to face with the people who fund them - the natural home for a conversation about money.\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n## Partners\n\nTrailblazers\n\n🏆 OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.\n\n[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n\nCommunity Partners\n\n• [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)\n• [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)\n• [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)\n• [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)\n• Zyphar Community\n• [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)\n\n## Co-Host\n\n## Raajeev Anand (@[cryptomargofficial](https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\n[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\n[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.",
+    "description": "Infini3's Mumbai stop in the Ready for the Run series focuses on capital for AI and Web3. The meetup includes discussions, live polling and conversations between builders and investors.",
     "startDate": "2026-11-03T06:30:00.000Z",
     "endDate": "2026-11-03T09:30:00.000Z",
     "city": "Mumbai",
     "country": "India",
     "location": "Mumbai, India",
     "url": "https://luma.com/08ogvz1i",
-    "coverImage": "/events/india-luma-08ogvz1i-5d91a1d4.webp",
+    "coverImage": "https://images.lumacdn.com/uploads/ra/3c07b627-39c7-48cf-801f-7b45fd2c67ec.png",
     "source": "luma-india",
     "hosts": [
       "Infini3 .",
@@ -1408,7 +1528,7 @@
     "organizer": {
       "type": "Organization",
       "name": "Ready for the Run Meetups",
-      "url": "https://luma.com/readyfortherun"
+      "url": "https://goinfini3.com/"
     },
     "ticketOffers": [
       {
@@ -1458,13 +1578,26 @@
     "sourceVerification": {
       "url": "https://luma.com/08ogvz1i",
       "eventId": "evt-C3yaJynwDW8vJue",
-      "fetchedAt": "2026-09-19T23:30:18.358Z",
-      "method": "luma-page",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
+      "fetchedAt": "2026-10-11T18:38:55.374Z",
+      "method": "luma-page"
     },
     "sideEventFor": [
       "ibw"
-    ]
+    ],
+    "descriptionSource": {
+      "url": "https://luma.com/08ogvz1i",
+      "fetchedAt": "2026-10-11T18:38:55.374Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Ready for the Run @ Mumbai",
+      "sha256": "7d2638b4f1ac4424a7d8663ba9fea4af43d83394bc9761203fb63053e052ae39",
+      "evidence": [
+        {
+          "url": "https://luma.com/08ogvz1i",
+          "fetchedAt": "2026-10-11T18:38:55.374Z",
+          "sha256": "7446b905079f03c018e79e795258cea4b2e22a482d7febbddc3a49b4067d7760"
+        }
+      ]
+    }
   },
   {
     "id": "india-luma-52vxy6fo",

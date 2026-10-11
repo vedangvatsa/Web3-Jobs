@@ -1,5 +1,29 @@
 [
   {
+    "slug": "coldcard-phish",
+    "title": "Coldcard probes phishing post on its X account after July exploit",
+    "description": "Coldcard said an unauthorized phishing link appeared on its official X account on Oct. 11 and asked X to investigate, months after a $100 million-plus exploit of its wallets.",
+    "category": "News",
+    "publishedDate": "2026-10-11",
+    "image": "/images/news/coldcard-phish.jpg"
+  },
+  {
+    "slug": "ledger-implant",
+    "title": "Ledger confirms hardware implant in reseller device as losses may top $86M",
+    "description": "Ledger confirmed an unauthorized hardware implant in a device sold by reseller CryptoBilis, with investigator estimates putting losses above $86 million, while PeckShield traced $3.89 million to Binance deposits.",
+    "category": "News",
+    "publishedDate": "2026-10-11",
+    "image": "/images/news/ledger-implant.jpg"
+  },
+  {
+    "slug": "xrpl-overflow",
+    "title": "XRP Ledger patched decade-old bug that could have minted trillions",
+    "description": "Developers disclosed a payment-engine overflow that could have created 18 trillion XRP in one transaction, found by Veria AI and patched in xrpld 3.4.1 after bypassing the normal validator vote.",
+    "category": "News",
+    "publishedDate": "2026-10-11",
+    "image": "/images/news/xrpl-overflow.jpg"
+  },
+  {
     "slug": "abstract-shutdown",
     "title": "Abstract shuts down Ethereum layer 2, sets Dec. 15 deadline",
     "description": "Igloo Inc. said its Abstract network will go dark on Dec. 15 after two years without product-market fit, telling users to bridge funds off before then.",
@@ -14,29 +38,5 @@
     "category": "News",
     "publishedDate": "2026-10-07",
     "image": "/images/news/gilt-pilot.jpg"
-  },
-  {
-    "slug": "tether-freeze",
-    "title": "Conduit sues Tether over $2.76M USDT freeze tied to Brazil probe",
-    "description": "Conduit Technology sued Tether in New York federal court over $2.76 million in USDT frozen since September 2025, saying police in Brazil never flagged its wallet.",
-    "category": "News",
-    "publishedDate": "2026-10-07",
-    "image": "/images/news/tether-freeze.jpg"
-  },
-  {
-    "slug": "arbitrum-usdg",
-    "title": "Arbitrum Joins Paxos Global Dollar Network With USDG",
-    "description": "Arbitrum joined the Paxos-led Global Dollar Network on Oct. 5-6 as USDG launched natively on Arbitrum One with a 100 million ARB incentive proposal.",
-    "category": "News",
-    "publishedDate": "2026-10-06",
-    "image": "/images/news/arbitrum-usdg.jpg"
-  },
-  {
-    "slug": "cftc-leverage",
-    "title": "CFTC Proposes Federal Exchange Rules Triggered by Crypto Margin Trading",
-    "description": "The CFTC published an advance notice on Oct. 5 outlining Regulation CTX and Regulation CAM, which would bring margin-based crypto trading onto federally registered venues after a 60-day comment period.",
-    "category": "News",
-    "publishedDate": "2026-10-06",
-    "image": "/images/news/cftc-leverage.jpg"
   }
 ]
