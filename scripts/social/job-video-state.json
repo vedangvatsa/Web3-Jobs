@@ -2202,10 +2202,11 @@
           "url": "https://www.instagram.com/reel/DeXa39AlOIK/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Limassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-11T19:34:28.722Z",
-          "postId": "6acbe4c6ea568e911a3bf5c5"
+          "postId": "6acbe4c6ea568e911a3bf5c5",
+          "url": "https://www.youtube.com/watch?v=F0hmHLaeDoc"
         }
       }
     }
