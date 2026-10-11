@@ -18099,25 +18099,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a004e01e7f72c40546e6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T14:04:39.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; outlet page blocked, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:28.678Z",
+      "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Block version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:18.213Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
-      ]
+      ],
+      "mergedInto": "b4cab21a62516fd28dba"
     },
     "468524abbb1ccf6bfb49": {
       "source": "Cointelegraph",
@@ -47766,6 +47762,15 @@
           "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Unchained version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:38:16.491Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
+        },
+        "a004e01e7f72c40546e6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Block version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:18.213Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "b4cab21a62516fd28dba"
         }
