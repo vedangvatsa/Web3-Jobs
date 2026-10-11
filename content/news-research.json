@@ -28046,11 +28046,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6420dc2950b5016d8969",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T15:59:17.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "needs-corroboration",
+      "note": "Kyrgyzstan USDKG liquidation not fully read; single source, needs official order plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:53.818Z",
+      "retrySearches": [
+        "Kyrgyzstan USDKG Coin Nomad liquidation order October 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "dce879b8052efc81cfa6": {
       "source": "Crypto Briefing",
@@ -50195,6 +50209,21 @@
           "reviewedAt": "2026-10-11T18:20:51.160Z",
           "retrySearches": [
             "France stablecoin swap tax exit tax budget 2027 assembly vote October 2026"
+          ]
+        },
+        "6420dc2950b5016d8969": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Kyrgyzstan USDKG liquidation not fully read; single source, needs official order plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:53.818Z",
+          "retrySearches": [
+            "Kyrgyzstan USDKG Coin Nomad liquidation order October 2026"
           ]
         }
       },
