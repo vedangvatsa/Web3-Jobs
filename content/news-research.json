@@ -27107,11 +27107,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "03da72be953e52b8a897",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T15:04:33.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Oct 11 PeckShield trace as ledger-implant; Defiant page gave HTTP 403.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:16:27.642Z",
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959",
+      "lastReviewedDay": "2026-10-11"
     },
     "6ec96a08dec1a481c435": {
       "source": "The Defiant",
@@ -49000,6 +49012,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:16:25.595Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "03da72be953e52b8a897": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 11 PeckShield trace as ledger-implant; Defiant page gave HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:27.642Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
