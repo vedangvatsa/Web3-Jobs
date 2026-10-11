@@ -116,6 +116,10 @@
     "2026-10-11:afternoon": [
       "pm149",
       "sec60"
+    ],
+    "2026-10-11:evening": [
+      "sls10",
+      "product475"
     ]
   },
   "jobs": {
@@ -2142,6 +2146,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7695372569913937184"
         }
       }
+    },
+    "sls10": {
+      "slot": "2026-10-11:evening",
+      "selectedAt": "2026-10-11T19:30:57.051Z",
+      "verifiedAt": "2026-10-11T19:30:57.051Z",
+      "captions": {
+        "instagram": "Accountant, General Ledger at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Accountant, General Ledger at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Accountant, General Ledger at Nexo"
+      },
+      "receipts": {}
+    },
+    "product475": {
+      "slot": "2026-10-11:evening",
+      "selectedAt": "2026-10-11T19:30:57.052Z",
+      "verifiedAt": "2026-10-11T19:30:57.052Z",
+      "captions": {
+        "instagram": "Product Manager, Crypto at eToro\n\nLimassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #ProductJobs #Hiring",
+        "tiktok": "Product Manager, Crypto at eToro. Limassol, Cyprus.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Limassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Product Manager, Crypto at eToro"
+      },
+      "receipts": {}
     }
   }
 }
