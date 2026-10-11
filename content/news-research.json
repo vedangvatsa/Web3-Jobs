@@ -17177,25 +17177,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b96b3a80a7d4b84f0ae",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T14:54:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; Unchained version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:27.077Z",
+      "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Unchained version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:16.491Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
-      ]
+      ],
+      "mergedInto": "b4cab21a62516fd28dba"
     },
     "9c99bbb806b4fba25563": {
       "source": "The Block",
@@ -47761,6 +47757,15 @@
           "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Defiant version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:38:14.253Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
+        },
+        "1b96b3a80a7d4b84f0ae": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Unchained version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:16.491Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "b4cab21a62516fd28dba"
         }
