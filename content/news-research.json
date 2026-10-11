@@ -15199,20 +15199,20 @@
       "id": "b4c5102f5a98f48f2121",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T10:46:25.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+      "note": "Greece 10% tax draft story reachable but not fully read; Greek ministry draft not pulled, needs confirmation and effective date.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:48:33.005Z",
+      "reviewedAt": "2026-10-11T10:26:15.472Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "articleSlug": "greece-tax",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
@@ -15227,9 +15227,9 @@
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
       "retrySearches": [
-        "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
+        "Greece finance ministry crypto 10% draft bill public consultation November parliament"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "7c88defa6c907e3cd190": {
       "source": "Decrypt",
@@ -46983,6 +46983,21 @@
           "reviewedAt": "2026-10-11T10:26:13.799Z",
           "retrySearches": [
             "Europol post-quantum crypto wallet report October 2026"
+          ]
+        },
+        "b4c5102f5a98f48f2121": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Greece 10% tax draft story reachable but not fully read; Greek ministry draft not pulled, needs confirmation and effective date.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/greece-drafts-10-crypto-capital-gains-tax-a-lower-rate-than-officials-floated-in-june/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:15.472Z",
+          "retrySearches": [
+            "Greece finance ministry crypto 10% draft bill public consultation November parliament"
           ]
         }
       },
