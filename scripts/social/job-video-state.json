@@ -2135,10 +2135,11 @@
           "url": "https://www.youtube.com/watch?v=EwEeWEoNvZw"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Chief Information Security Officer at Bybit. Hong Kong SAR.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
           "startedAt": "2026-10-11T11:35:30.050Z",
-          "postId": "6acb7483b07d37ac97a4b11f"
+          "postId": "6acb7483b07d37ac97a4b11f",
+          "url": "https://tiktok.com/@hashtagweb3/video/7695372569913937184"
         }
       }
     }
