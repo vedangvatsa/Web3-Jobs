@@ -18425,24 +18425,24 @@
       "id": "87edf17a86289e0f2c9b",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-11T12:00:54.000Z",
       "lastSeenAt": "2026-10-08T19:31:31.819Z",
       "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+      "note": "EU stablecoin USDT story sole source blocked HTTP 403; pairs with the ESMA three-month removal event.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/eu-exchanges-drop-unauthorized-stablecoins-usdt/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:48.981Z",
+      "reviewedAt": "2026-10-11T10:26:42.362Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "ESMA three-month non-MiCA stablecoin wind-down statement exact scope and affected stablecoins"
+        "ESMA unauthorized stablecoins three months remove statement October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "c01aa070c06b9b158f6e": {
       "source": "BeInCrypto",
@@ -47219,6 +47219,21 @@
           "reviewedAt": "2026-10-11T10:26:40.610Z",
           "retrySearches": [
             "Cardano Foundation Veridian spinout tokenized equity announcement"
+          ]
+        },
+        "87edf17a86289e0f2c9b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "EU stablecoin USDT story sole source blocked HTTP 403; pairs with the ESMA three-month removal event.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/eu-exchanges-drop-unauthorized-stablecoins-usdt/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:42.362Z",
+          "retrySearches": [
+            "ESMA unauthorized stablecoins three months remove statement October 2026"
           ]
         }
       },
