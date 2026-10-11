@@ -26618,25 +26618,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "14622e749bf8034cb861",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T17:15:58.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
       "reason": "duplicate",
-      "note": "Same Oct 10-11 Ledger hardware-implant confirmation as the ready draft; outlet page blocked, no separate article.",
+      "note": "Same Oct 10-11 Ledger hardware-implant confirmation as ledger-implant; Defiant version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:25:29.152Z",
+      "reviewedAt": "2026-10-11T11:57:57.288Z",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
       "lastReviewedDay": "2026-10-11",
-      "duplicateOf": "ledger-implant"
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "077977aff0f4276dba8a": {
       "source": "Cointelegraph",
@@ -48234,6 +48235,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T11:57:55.546Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "14622e749bf8034cb861": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 10-11 Ledger hardware-implant confirmation as ledger-implant; Defiant version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:57:57.288Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
