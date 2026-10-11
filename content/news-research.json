@@ -24013,26 +24013,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "74b8157eef0883dae91f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T13:41:21.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 9 Ledger CryptoBilis drain cluster as the ready draft; Unchained version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:00.968Z",
-      "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10",
+      "reviewedAt": "2026-10-11T10:24:58.681Z",
+      "duplicateOf": "cryptobilis-drains",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "c1d0d154bba53b41bc48": {
       "source": "The Defiant",
@@ -46614,6 +46614,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:56.921Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "74b8157eef0883dae91f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger CryptoBilis drain cluster as the ready draft; Unchained version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:58.681Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
