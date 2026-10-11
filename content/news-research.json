@@ -16897,25 +16897,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0acef52c24bebf178d60",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 14,
+      "attempts": 15,
       "expiresAt": "2026-10-11T16:35:55.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 US government BTC movement as the ready draft; question headline on the same event, outlet page blocked.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/did-us-government-sell-bitcoin/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:35.139Z",
+      "note": "Same Oct 8 US government BTC movement as bitfinex-move; question headline on the same event, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:04.885Z",
       "duplicateOf": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
-      ]
+      ],
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "f30de830c73c7f6e15eb": {
       "source": "The Defiant",
@@ -47736,6 +47732,15 @@
           "note": "Same Oct 8 US government 12,267-BTC movement as bitfinex-move; Decrypt version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:38:03.127Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "0acef52c24bebf178d60": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 US government BTC movement as bitfinex-move; question headline on the same event, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:04.885Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
