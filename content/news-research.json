@@ -27048,11 +27048,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "24c7455649a5f41e652d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T10:24:32.000Z",
-      "lastSeenAt": "2026-10-11T11:31:24.998Z"
+      "lastSeenAt": "2026-10-11T11:31:24.998Z",
+      "reason": "verified-event",
+      "note": "Verified France Finance Committee adoption of stablecoin-swap tax and 800K crypto exit tax, then Oct 9 revenue-section rejection forcing re-tabling; read Decrypt and DeFiPrime in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+          "outcome": "read"
+        },
+        {
+          "url": "https://defiprime.com/france-committee-backs-stablecoin-swap-and-exit-taxes",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/france-crypto-exit-tax-unsold-gains/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T11:58:15.928Z",
+      "articleSlug": "france-tax",
+      "lastReviewedDay": "2026-10-11"
     }
   },
   "runs": {
@@ -48371,6 +48390,27 @@
           ],
           "reviewedAt": "2026-10-11T11:58:14.187Z",
           "articleSlug": "xrpl-flaw"
+        },
+        "24c7455649a5f41e652d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified France Finance Committee adoption of stablecoin-swap tax and 800K crypto exit tax, then Oct 9 revenue-section rejection forcing re-tabling; read Decrypt and DeFiPrime in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://defiprime.com/france-committee-backs-stablecoin-swap-and-exit-taxes",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/france-crypto-exit-tax-unsold-gains/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:58:15.928Z",
+          "articleSlug": "france-tax"
         }
       },
       "baselineSlugs": [
