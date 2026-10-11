@@ -19072,24 +19072,24 @@
       "id": "4fabdda2459903e8146b",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T18:39:39.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
+      "note": "Greece crypto-tax report headline flags an unconfirmed single-source rumor; no official proposal or filing yet.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:07.061Z",
+      "reviewedAt": "2026-10-11T10:26:56.036Z",
       "duplicateOf": "greece-tax",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "Greece 10 percent crypto capital gains tax draft law October 2026 confirmation and effective date"
+        "Greece crypto capital gains tax proposal October 2026 finance ministry"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "78edccd870113509675c": {
       "source": "The Defiant",
@@ -47339,6 +47339,21 @@
           "reviewedAt": "2026-10-11T10:26:54.333Z",
           "retrySearches": [
             "NFL amicus brief Kalshi Supreme Court gambling swaps filing text"
+          ]
+        },
+        "4fabdda2459903e8146b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Greece crypto-tax report headline flags an unconfirmed single-source rumor; no official proposal or filing yet.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:56.036Z",
+          "retrySearches": [
+            "Greece crypto capital gains tax proposal October 2026 finance ministry"
           ]
         }
       },
