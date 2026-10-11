@@ -26672,23 +26672,23 @@
       "id": "00eb14ee17d1377a2352",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T20:06:47.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "needs-corroboration",
+      "note": "Pump.fun callout-rewards story qualifies but is undrafted; Gate plus Phemex need full reads.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:29.141Z",
+      "reviewedAt": "2026-10-11T10:28:55.752Z",
       "retrySearches": [
-        "Pump.fun callout rewards followers profits mechanics second outlet full reads"
+        "Pump.fun callout rewards follower profits Alon October 10 payout"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "5aaad0e1e40020a64695": {
       "source": "CryptoSlate",
@@ -48377,6 +48377,21 @@
           "reviewedAt": "2026-10-11T10:28:54.071Z",
           "retrySearches": [
             "Coinbase Onramp AI fraud benchmark 16140 transactions October 7 2026"
+          ]
+        },
+        "00eb14ee17d1377a2352": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Pump.fun callout-rewards story qualifies but is undrafted; Gate plus Phemex need full reads.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:55.752Z",
+          "retrySearches": [
+            "Pump.fun callout rewards follower profits Alon October 10 payout"
           ]
         }
       },
