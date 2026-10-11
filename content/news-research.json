@@ -17667,25 +17667,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "6f421eab942d61e269b4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T16:25:06.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:49:32.263Z",
+      "reason": "not-a-concrete-event",
+      "note": "IMF warning that tokenized markets could amplify risks; report analysis with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:39.496Z",
       "retrySearches": [
         "IMF tokenized markets financial risk warning report text and recommendations"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11"
     },
     "54e70e74dd24c8a9a2ef": {
       "source": "CryptoSlate",
@@ -46868,6 +46862,13 @@
           "note": "Opinion piece on bunker-mode difficulty for institutions; analysis with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:37.848Z"
+        },
+        "6f421eab942d61e269b4": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "IMF warning that tokenized markets could amplify risks; report analysis with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:39.496Z"
         }
       },
       "baselineSlugs": [
