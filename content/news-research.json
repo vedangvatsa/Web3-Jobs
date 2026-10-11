@@ -22480,22 +22480,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "86f3a145bde0d3311251",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T16:07:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky settlement as the ready draft; Decrypt version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:25:09.779Z",
+      "note": "Same Oct 9 NY AG Mashinsky settlement as mashinsky-ban; Decrypt version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:56:55.317Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "mergedInto": "b466ec3f61a6e8d0b33a"
     },
     "731895351e1367b3c7e8": {
       "source": "The Block",
@@ -47960,6 +47956,15 @@
           ],
           "reviewedAt": "2026-10-11T11:56:53.516Z",
           "articleSlug": "mashinsky-ban"
+        },
+        "86f3a145bde0d3311251": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 NY AG Mashinsky settlement as mashinsky-ban; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:56:55.317Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "b466ec3f61a6e8d0b33a"
         }
       },
       "baselineSlugs": [
