@@ -16813,23 +16813,23 @@
       "id": "3c52e57d52067e8770d9",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T16:53:52.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
+      "note": "EDX and VerifiedX vBTC story reachable but not fully read; no EDX or VerifiedX primary yet.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:10.429Z",
+      "reviewedAt": "2026-10-11T10:26:25.406Z",
       "retrySearches": [
-        "EDX VerifiedX verified bitcoin vBTC institutional launch mechanics and availability"
+        "EDX Markets VerifiedX vBTC institutional announcement"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "ae47f8ab88a2c7848349": {
       "source": "CryptoSlate",
@@ -47073,6 +47073,21 @@
           "reviewedAt": "2026-10-11T10:26:23.805Z",
           "retrySearches": [
             "NextBlock Soda Labs M investment privacy announcement"
+          ]
+        },
+        "3c52e57d52067e8770d9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "EDX and VerifiedX vBTC story reachable but not fully read; no EDX or VerifiedX primary yet.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:25.406Z",
+          "retrySearches": [
+            "EDX Markets VerifiedX vBTC institutional announcement"
           ]
         }
       },
