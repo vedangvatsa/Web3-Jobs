@@ -28363,11 +28363,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a8ee3b0eeb8a9101aba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T00:42:26.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Cerebras post-IPO share slide; equity-market move, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:49.870Z",
+      "lastReviewedDay": "2026-10-11"
     }
   },
   "runs": {
@@ -49547,6 +49552,13 @@
           "note": "Anthropic inference-margin estimate; AI-company analysis, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:47.887Z"
+        },
+        "2a8ee3b0eeb8a9101aba": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Cerebras post-IPO share slide; equity-market move, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:49.870Z"
         }
       },
       "baselineSlugs": [
