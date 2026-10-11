@@ -22804,25 +22804,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e5af931a9920c0e1eb6b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T16:29:56.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger drain cluster as cryptobilis-drains; single-victim story inside the covered event, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/trader-loses-80-bitcoin-ledger-wallet/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T11:57:16.729Z",
-      "duplicateOf": "cryptobilis-drains",
+      "note": "Same Oct 9 Ledger drain cluster as ledger-implant; single-victim angle inside covered event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:16:52.183Z",
+      "duplicateOf": "ledger-implant",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "688de4a780985d424532": {
       "source": "CryptoSlate",
@@ -49187,6 +49183,15 @@
           "note": "Same Oct 9 Ledger CryptoBilis drain cluster as ledger-implant; reseller-pause angle folded into draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:16:50.056Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "e5af931a9920c0e1eb6b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger drain cluster as ledger-implant; single-victim angle inside covered event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:16:52.183Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
