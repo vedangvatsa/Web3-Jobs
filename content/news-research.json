@@ -26544,30 +26544,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "82174278e88b61c6fbd7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T18:35:25.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 10 Kalshi probe into Zacharia-linked press-secretary bets placed before the announcement; read The Verge, The Star (Reuters) and CNN in full, WSJ origin confirmed. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "reason": "needs-corroboration",
+      "note": "Kalshi probe piece not fully read; same WSJ-origin event, needs full read.",
       "sourceChecks": [
         {
-          "url": "https://www.theverge.com/tech/1009225/kalshi-is-investigating-trades-about-trumps-new-press-secretary-pick",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/10/kalshi-probes-suspicious-trades-tied-to-trump-press-secretary-pick-wsj-reports",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.cnn.com/2026/10/10/politics/kalshi-insider-trading-inquiry-white-house-press-secretary",
-          "outcome": "read"
+          "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T11:58:02.009Z",
+      "reviewedAt": "2026-10-11T18:20:48.482Z",
       "retrySearches": [
-        "Kalshi press secretary bets WSJ investigation scope second outlet full read"
+        "Kalshi Zacharia press secretary bets investigation WSJ October 2026"
       ],
       "lastReviewedDay": "2026-10-11",
       "articleSlug": "kalshi-bets",
@@ -26575,7 +26567,8 @@
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "14622e749bf8034cb861": {
       "source": "The Defiant",
@@ -50174,6 +50167,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:20:45.945Z",
+          "retrySearches": [
+            "Kalshi Zacharia press secretary bets investigation WSJ October 2026"
+          ]
+        },
+        "82174278e88b61c6fbd7": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Kalshi probe piece not fully read; same WSJ-origin event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:48.482Z",
           "retrySearches": [
             "Kalshi Zacharia press secretary bets investigation WSJ October 2026"
           ]
