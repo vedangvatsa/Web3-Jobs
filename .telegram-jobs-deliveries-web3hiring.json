@@ -2528,5 +2528,49 @@
     "slotKey": "2026-10-10:morning",
     "messageId": 116,
     "sentAt": "2026-10-10T04:19:41.250Z"
+  },
+  "718a3eae-5f17-4185-bb3e-01728f16c7be": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T12:00:28.861Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "32f705b6-e128-447a-9778-8d42c73cb1bb",
+        "slug": "pm167",
+        "url": "https://hashtagweb3.com/pm167?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/Principal Product Manager"
+      },
+      {
+        "key": "85f243d8-416d-4140-b413-87762fa071c3",
+        "slug": "technical15",
+        "url": "https://hashtagweb3.com/technical15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Technical Customer Support Lead"
+      },
+      {
+        "key": "0ce2c38fc2ee",
+        "slug": "manager605",
+        "url": "https://hashtagweb3.com/manager605?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Zero Hash",
+        "title": "Senior Program Manager"
+      },
+      {
+        "key": "4719876005",
+        "slug": "engineer778",
+        "url": "https://hashtagweb3.com/engineer778?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "FalconX",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "key": "7557899",
+        "slug": "backend76",
+        "url": "https://hashtagweb3.com/backend76?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Backend Engineer"
+      }
+    ],
+    "message": "• Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm167?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior/Principal Product Manager</a>\n• Elliptic is hiring <a href=\"https://hashtagweb3.com/technical15?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Technical Customer Support Lead</a>\n• Zero Hash is hiring <a href=\"https://hashtagweb3.com/manager605?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Program Manager</a>\n• FalconX is hiring <a href=\"https://hashtagweb3.com/engineer778?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Software Engineer</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/backend76?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Backend Engineer</a>",
+    "slotKey": "2026-10-11:afternoon"
   }
 }
