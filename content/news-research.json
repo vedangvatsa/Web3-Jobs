@@ -27861,11 +27861,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "248815f856bd52c0607c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:11:03.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "not-a-concrete-event",
+      "note": "IMF tokenized-stock findings writeup; same report analysis as companion, no dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:12.228Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "857882264314889f7a96": {
       "source": "CryptoSlate",
@@ -49631,6 +49636,13 @@
           "note": "IMF tokenized-stock findings writeup; report analysis with no concrete dated action.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:10.259Z"
+        },
+        "248815f856bd52c0607c": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "IMF tokenized-stock findings writeup; same report analysis as companion, no dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:12.228Z"
         }
       },
       "baselineSlugs": [
