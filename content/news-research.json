@@ -16535,19 +16535,8 @@
       "articleSlug": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
-        "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
@@ -17417,9 +17406,8 @@
       "articleSlug": "securitize-stocks",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "greece-tax.md: under 600 words",
-        "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "duplicateOf": "securitize-stocks",
       "retrySearches": [
@@ -18562,16 +18550,8 @@
       "articleSlug": "uranium-verdict",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "esma-stablecoins.md: under 600 words",
-        "sberbank-register.md: under 600 words",
-        "stanchart-custody.md: under 600 words",
-        "sui-hashi.md: template phrasing: paradigm",
-        "veridian-equity.md: under 600 words",
-        "whitebit-lightning.md: under 600 words",
-        "Source link HTTP 403: https://investor.circle.com/news/news-details/2026/Tereina-an-SAP-Backed-Company-and-Circle-Bring-USDC-and-EURC-into-Enterprise-Workflows-Starting-with-the-SAP-Ecosystem-Behind-84-of-Global-Commerce/default.aspx",
-        "Source link HTTP 403: https://www.courtlistener.com/docket/69096658/united-states-v-rhyne/",
-        "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
-        "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
         "Uranium Finance hacker conviction details court records and stolen amount accounting"
@@ -18930,7 +18910,11 @@
       "retrySearches": [
         "Orca Loopscale Formation merger terms with primary announcement and deal structure"
       ],
-      "articleSlug": "orca-merger"
+      "articleSlug": "orca-merger",
+      "lastValidationErrors": [
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "5abe8fbb60d51631f6dd": {
       "source": "The Defiant",
@@ -20098,19 +20082,8 @@
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
-        "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "duplicateOf": "thailand-etfs",
       "retrySearches": [
@@ -21431,7 +21404,11 @@
       "retrySearches": [
         "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
       ],
-      "articleSlug": "uk-sanctions"
+      "articleSlug": "uk-sanctions",
+      "lastValidationErrors": [
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -23436,7 +23413,11 @@
       "reviewedAt": "2026-10-11T10:24:14.118Z",
       "duplicateOf": "mashinsky-ban",
       "lastReviewedDay": "2026-10-11",
-      "articleSlug": "mashinsky-ban"
+      "articleSlug": "mashinsky-ban",
+      "lastValidationErrors": [
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "496643e7a159131009a6": {
       "source": "Decrypt",
@@ -23474,19 +23455,8 @@
       "articleSlug": "bitgo-suit",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
-        "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
         "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
@@ -23691,19 +23661,8 @@
       "articleSlug": "cryptobilis-drains",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
-        "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
@@ -24891,19 +24850,8 @@
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
-        "empire-market.md: under 600 words",
-        "france-taxes.md: under 600 words",
-        "iran-seizure.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
-        "ledger-drain.md: under 600 words",
-        "mashinsky-ban.md: under 600 words",
-        "nfl-kalshi.md: under 600 words",
-        "papertrade.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "robinhood-bitcoin.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "samsung-usdc.md: under 600 words",
-        "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
-        "tron-quantum.md: under 600 words",
-        "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
         "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
@@ -25299,9 +25247,8 @@
       "articleSlug": "meanwhile-funding",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
-        "mashinsky-ban.md: under 600 words",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
-        "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ]
     },
     "6445e691f0625b1e13c9": {
@@ -26788,7 +26735,11 @@
         "Kalshi press secretary bets WSJ investigation scope second outlet full read"
       ],
       "lastReviewedDay": "2026-10-11",
-      "articleSlug": "kalshi-bets"
+      "articleSlug": "kalshi-bets",
+      "lastValidationErrors": [
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "14622e749bf8034cb861": {
       "source": "The Defiant",
@@ -27047,7 +26998,11 @@
       ],
       "reviewedAt": "2026-10-11T10:24:19.077Z",
       "articleSlug": "ledger-implant",
-      "lastReviewedDay": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "lastValidationErrors": [
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     },
     "e182e8b8329b5f8fb79d": {
       "source": "BeInCrypto",
@@ -45590,7 +45545,7 @@
     "2026-10-11": {
       "day": "2026-10-11",
       "startedAt": "2026-10-11T10:11:39.908Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "2a5f0f76edb1ecb37ab3",
         "23007533bd70cfbd0d1e",
@@ -48756,7 +48711,11 @@
         ],
         "total": 44,
         "checkedAt": "2026-10-11T10:11:39.908Z"
-      }
+      },
+      "validationErrors": [
+        "iran-seizure.md: under 600 words",
+        "orca-merger.md: news template phrasing: facilitat(?:e|es|ed|ing)"
+      ]
     }
   }
 }
