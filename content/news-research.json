@@ -24800,17 +24800,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "da7ea4741cb5cd813e4a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-13T01:50:00.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky settlement as mashinsky-ban; CryptoSlate version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:57:06.967Z",
+      "reason": "needs-corroboration",
+      "note": "Mashinsky own-trading detail not fully read; single source, needs AG text plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:39.305Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "retrySearches": [
+        "Mashinsky settlement trade own crypto exception AG terms October 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "6cbacd263bba4dccfcf3": {
       "source": "Bitcoin Magazine",
@@ -50136,6 +50145,21 @@
           "reviewedAt": "2026-10-11T18:20:37.057Z",
           "retrySearches": [
             "Bessent 1B Iran crypto seizure Treasury statement October 2026"
+          ]
+        },
+        "da7ea4741cb5cd813e4a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Mashinsky own-trading detail not fully read; single source, needs AG text plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:39.305Z",
+          "retrySearches": [
+            "Mashinsky settlement trade own crypto exception AG terms October 2026"
           ]
         }
       },
