@@ -27644,11 +27644,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f16a7b553033e9f2f33",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T18:00:02.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "needs-corroboration",
+      "note": "LDK reconnect-theft disclosure not fully read; single source, needs project advisory plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:21:02.053Z",
+      "retrySearches": [
+        "LDK unpatched lightning reconnect theft disclosure October 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "2480131e6223cf3240bb": {
       "source": "Crypto Briefing",
@@ -50253,6 +50267,21 @@
           "reviewedAt": "2026-10-11T18:20:55.936Z",
           "retrySearches": [
             "Papertrade tightening trading limits manipulation allegations response October 2026"
+          ]
+        },
+        "4f16a7b553033e9f2f33": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "LDK reconnect-theft disclosure not fully read; single source, needs project advisory plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:21:02.053Z",
+          "retrySearches": [
+            "LDK unpatched lightning reconnect theft disclosure October 2026"
           ]
         }
       },
