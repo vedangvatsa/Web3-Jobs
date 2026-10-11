@@ -25974,30 +25974,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1f95bcf6b60ca241a35",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T16:01:04.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "duplicate",
-      "note": "Same Meanwhile 7.5M event drafted as meanwhile in this run; verified in meanwhile.bm primary plus Decrypt and Cointelegraph reads.",
+      "note": "Same Oct 8 Meanwhile 7.5M raise as the ready draft; Decrypt version of the shared story, no separate article.",
       "sourceChecks": [
         {
-          "url": "https://meanwhile.bm/press/releases/2026_10_08_funding/",
-          "outcome": "read"
-        },
-        {
           "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:53:21.043Z",
-      "duplicateOf": "meanwhile",
-      "lastReviewedDay": "2026-10-10"
+      "reviewedAt": "2026-10-11T10:24:43.519Z",
+      "duplicateOf": "meanwhile-funding",
+      "lastReviewedDay": "2026-10-11",
+      "mergedInto": "aa622e9da8bf6f47f49d"
     },
     "316e2f0efb03221bf96b": {
       "source": "The Block",
@@ -46499,6 +46492,20 @@
           "reviewedAt": "2026-10-11T10:24:41.937Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "f1f95bcf6b60ca241a35": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Meanwhile 7.5M raise as the ready draft; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:43.519Z",
+          "duplicateOf": "meanwhile-funding",
+          "mergedInto": "aa622e9da8bf6f47f49d"
         }
       },
       "baselineSlugs": [
