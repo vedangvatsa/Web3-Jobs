@@ -24660,28 +24660,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f33d3c76777e7ef334e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 9 US plan to seize about 1B in Iran-linked crypto per Treasury Secretary Bessent; read Cointelegraph, crypto.news and IRS background release in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "reason": "needs-corroboration",
+      "note": "Iran seizure-plan piece not fully read; same Bessent event, needs full read.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
-          "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/us-eyes-1-billion-dollars-iran-linked-crypto-seizure/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.irs.gov/compliance/criminal-investigation/treasury-sanctions-crypto-exchanges-funding-irans-irgc-and-enabling-illicit-finance",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T11:57:43.649Z",
+      "reviewedAt": "2026-10-11T18:20:35.040Z",
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -24690,8 +24682,9 @@
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "Treasury Bessent $1B Iran crypto seizure statement scope second outlet full reads"
-      ]
+        "Bessent 1B Iran crypto seizure Treasury statement October 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "504c54edc7c703968bcd": {
       "source": "Cointelegraph",
@@ -50110,6 +50103,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:20:32.921Z",
+          "retrySearches": [
+            "Bessent 1B Iran crypto seizure Treasury statement October 2026"
+          ]
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Iran seizure-plan piece not fully read; same Bessent event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:35.040Z",
           "retrySearches": [
             "Bessent 1B Iran crypto seizure Treasury statement October 2026"
           ]
