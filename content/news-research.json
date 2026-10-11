@@ -23272,23 +23272,23 @@
       "id": "c77ae768dd4e69dd1b66",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T17:21:07.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "note": "HSBC-Ant AI payments story not fully read; PRNewswire release plus Cointelegraph outstanding. Preserve testnet-only framing.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:38.032Z",
+      "reviewedAt": "2026-10-11T10:27:57.604Z",
       "retrySearches": [
-        "HSBC Ant Digital AI-agent tokenized deposit payments pilot scope and results"
+        "HSBC Ant Digital Anvita Flow Jovay micropayment test"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "c75de1b0ee258c6aa12c": {
       "source": "Cointelegraph",
@@ -47879,6 +47879,21 @@
           "reviewedAt": "2026-10-11T10:27:55.799Z",
           "retrySearches": [
             "THORChain Tether blacklist 1.45M USDT unfrozen Barraford"
+          ]
+        },
+        "c77ae768dd4e69dd1b66": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "HSBC-Ant AI payments story not fully read; PRNewswire release plus Cointelegraph outstanding. Preserve testnet-only framing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:57.604Z",
+          "retrySearches": [
+            "HSBC Ant Digital Anvita Flow Jovay micropayment test"
           ]
         }
       },
