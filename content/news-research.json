@@ -21175,23 +21175,23 @@
       "id": "910cbdc22ebf840f561a",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T06:30:02.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "note": "Coinbase 10x spot leverage story not fully read; Coinbase Oct 7 blog primary plus one independent outlet outstanding.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:45.621Z",
+      "reviewedAt": "2026-10-11T10:27:25.288Z",
       "retrySearches": [
-        "Coinbase 10x spot leverage rollout eligible regions and US retail exclusion"
+        "Coinbase spot margin 10x eligible jurisdictions ECP"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "0fbcbb3af0a65dee6c5f": {
       "source": "CryptoSlate",
@@ -47594,6 +47594,21 @@
           "reviewedAt": "2026-10-11T10:27:23.526Z",
           "retrySearches": [
             "Robinhood T Rowe Price stock token actively managed ETF"
+          ]
+        },
+        "910cbdc22ebf840f561a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Coinbase 10x spot leverage story not fully read; Coinbase Oct 7 blog primary plus one independent outlet outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:25.288Z",
+          "retrySearches": [
+            "Coinbase spot margin 10x eligible jurisdictions ECP"
           ]
         }
       },
