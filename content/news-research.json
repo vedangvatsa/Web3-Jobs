@@ -21281,20 +21281,20 @@
       "id": "27f81ea86adb75b79871",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T04:21:36.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "note": "XRPL delegation story not fully read though corroboration looks strong; xrpl.org blog plus CoinDesk outstanding.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:50.679Z",
+      "reviewedAt": "2026-10-11T10:27:30.436Z",
       "articleSlug": "xrpl-controls",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -21303,9 +21303,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "XRP Ledger account delegation amendment activation status and validator votes"
+        "XRPL PermissionDelegationV1_1 activated ledger"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "6fa8e2bd1170b0fe28bc": {
       "source": "CryptoSlate",
@@ -47639,6 +47639,21 @@
           "reviewedAt": "2026-10-11T10:27:28.623Z",
           "retrySearches": [
             "Solana SIMD-0525 200ms epoch 1053 Anza confirmation"
+          ]
+        },
+        "27f81ea86adb75b79871": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "XRPL delegation story not fully read though corroboration looks strong; xrpl.org blog plus CoinDesk outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:30.436Z",
+          "retrySearches": [
+            "XRPL PermissionDelegationV1_1 activated ledger"
           ]
         }
       },
