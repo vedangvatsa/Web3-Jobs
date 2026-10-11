@@ -28528,11 +28528,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "f111c8e5eab12d41a30f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T01:43:00.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "needs-corroboration",
+      "note": "Filecoin vesting-end claim not fully read; single source, needs protocol schedule plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:21:19.114Z",
+      "retrySearches": [
+        "Filecoin six-year vesting ends FIL issuance schedule October 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "7def3fe3e74857302049": {
       "source": "Crypto Briefing",
@@ -50427,6 +50441,21 @@
           "reviewedAt": "2026-10-11T18:21:16.844Z",
           "retrySearches": [
             "Bubblemaps Ethan 125K 49 token callouts October 2026"
+          ]
+        },
+        "f111c8e5eab12d41a30f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Filecoin vesting-end claim not fully read; single source, needs protocol schedule plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:21:19.114Z",
+          "retrySearches": [
+            "Filecoin six-year vesting ends FIL issuance schedule October 2026"
           ]
         }
       },
