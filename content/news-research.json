@@ -19217,26 +19217,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "c69fbe223cd6bc09e10f",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T18:11:29.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.bankless.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.bankless.com/read/news/vitalik-flags-ai-risk-to-crypto-warns-against-rushed-wallet-moves",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:50:10.350Z",
+      "reason": "opinion",
+      "note": "Interview warning about AI risk to crypto; commentary with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:47.166Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "7b9a11ab88206c8c738a": {
       "source": "BeInCrypto",
@@ -46872,6 +46866,13 @@
           "note": "Corporate restatement reaffirming an APT lock; PR statement with no new development.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:45.506Z"
+        },
+        "c69fbe223cd6bc09e10f": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Interview warning about AI risk to crypto; commentary with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:47.166Z"
         }
       },
       "baselineSlugs": [
