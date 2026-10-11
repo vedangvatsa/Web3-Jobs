@@ -26876,11 +26876,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "745da99410c7600c61b1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T00:26:55.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "source-blocked",
+      "note": "Papertrade oracle-manipulation allegation on a single blocked source; needs a second outlet plus the accused response.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T10:29:00.783Z",
+      "retrySearches": [
+        "Papertrade oracle manipulation allegation house pool response"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "639da78ae1beb866cc22": {
       "source": "The Defiant",
@@ -48436,6 +48450,21 @@
           "reviewedAt": "2026-10-11T10:28:59.041Z",
           "retrySearches": [
             "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
+          ]
+        },
+        "745da99410c7600c61b1": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Papertrade oracle-manipulation allegation on a single blocked source; needs a second outlet plus the accused response.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/papertrade-faces-oracle-manipulation-allegation-as-house-pool-shows-3-14-million",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:29:00.783Z",
+          "retrySearches": [
+            "Papertrade oracle manipulation allegation house pool response"
           ]
         }
       },
