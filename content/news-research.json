@@ -14835,24 +14835,24 @@
       "id": "b486ca816b176c708e46",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T10:47:57.980Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T10:45:09.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+      "note": "Unchained bunker-mode debate piece reachable but not fully read; single opinion-framed source, needs a second independent source before any draft.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/ethereum-researchers-bunker-mode-call-sparks-debate-over-whether-ai-math-threatens-crypto-keys/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:48:27.828Z",
+      "reviewedAt": "2026-10-11T10:26:10.478Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "Drake bunker mode Buterin response full statements with dates and exact recommendations"
+        "Justin Drake bunker mode Ethresearch post Ethereum quantum AI response"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "64113d8e816512d7bbf0": {
       "source": "CoinDesk",
@@ -46939,6 +46939,21 @@
           "note": "Anticipatory supply-schedule analysis of the long-known Filecoin vesting end; token-calendar item, not a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:26:05.769Z"
+        },
+        "b486ca816b176c708e46": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Unchained bunker-mode debate piece reachable but not fully read; single opinion-framed source, needs a second independent source before any draft.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ethereum-researchers-bunker-mode-call-sparks-debate-over-whether-ai-math-threatens-crypto-keys/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:10.478Z",
+          "retrySearches": [
+            "Justin Drake bunker mode Ethresearch post Ethereum quantum AI response"
+          ]
         }
       },
       "baselineSlugs": [
