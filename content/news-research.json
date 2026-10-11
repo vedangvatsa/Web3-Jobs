@@ -16512,22 +16512,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4753c98af4393ba28f",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 13,
+      "attempts": 14,
       "expiresAt": "2026-10-11T15:43:04.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "verified-event",
+      "note": "Verified Oct 8 US government move of 12,267 BTC (about B) from Bitfinex-hack wallets to unlabeled addresses, no sale indicated; read CoinDesk, Decrypt, CryptoSlate and Cointelegraph in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:02.805Z",
+      "reviewedAt": "2026-10-11T10:24:02.145Z",
       "articleSlug": "bitfinex-move",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -16545,8 +16557,7 @@
       ],
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "793e33cc45c8a11bda37": {
       "source": "Cointelegraph",
@@ -45997,6 +46008,31 @@
           ],
           "reviewedAt": "2026-10-11T10:23:58.797Z",
           "articleSlug": "securitize-stocks"
+        },
+        "be4753c98af4393ba28f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 US government move of 12,267 BTC (about B) from Bitfinex-hack wallets to unlabeled addresses, no sale indicated; read CoinDesk, Decrypt, CryptoSlate and Cointelegraph in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:02.145Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
