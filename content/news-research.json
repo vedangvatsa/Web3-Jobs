@@ -25977,20 +25977,20 @@
       "id": "658278bca35cfdef3797",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T14:00:52.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "note": "Coinbase Texas dismissal qualifies but is undrafted; Law.com plus Texas Business Court opinion need full reads.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:24.247Z",
+      "reviewedAt": "2026-10-11T10:28:40.071Z",
       "articleSlug": "coinbase-suit",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -26007,9 +26007,9 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "Coinbase Texas shareholder suit dismissal ruling second outlet full reads"
+        "Coinbase Guillaume Texas Business Court dismissal demand rule Delaware"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "bab1ea32ded10e69dd54": {
       "source": "CoinDesk",
@@ -48242,6 +48242,21 @@
           "reviewedAt": "2026-10-11T10:28:38.393Z",
           "retrySearches": [
             "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
+          ]
+        },
+        "658278bca35cfdef3797": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Coinbase Texas dismissal qualifies but is undrafted; Law.com plus Texas Business Court opinion need full reads.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:40.071Z",
+          "retrySearches": [
+            "Coinbase Guillaume Texas Business Court dismissal demand rule Delaware"
           ]
         }
       },
