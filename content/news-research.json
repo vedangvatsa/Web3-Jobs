@@ -22457,17 +22457,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "86f3a145bde0d3311251",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T16:07:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky settlement as mashinsky-ban; Decrypt version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:56:55.317Z",
+      "reason": "needs-corroboration",
+      "note": "Mashinsky settlement not fully read this round; needs AG release plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:15.744Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "retrySearches": [
+        "New York AG Mashinsky 35M lifetime ban settlement release October 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "731895351e1367b3c7e8": {
       "source": "The Block",
@@ -49974,6 +49983,21 @@
           "reviewedAt": "2026-10-11T18:20:09.711Z",
           "retrySearches": [
             "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
+          ]
+        },
+        "86f3a145bde0d3311251": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Mashinsky settlement not fully read this round; needs AG release plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:15.744Z",
+          "retrySearches": [
+            "New York AG Mashinsky 35M lifetime ban settlement release October 2026"
           ]
         }
       },
