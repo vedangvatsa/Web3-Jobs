@@ -21389,15 +21389,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "00846212524fc336a196",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T10:14:59.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 UK FCDO sanctions package as uk-sanctions; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:56:33.364Z",
+      "reason": "needs-corroboration",
+      "note": "UK sanctions piece not fully read; same FCDO package event, needs full read.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:01.022Z",
       "articleSlug": "uk-sanctions",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -21406,9 +21411,10 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
+        "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
       ],
-      "duplicateOf": "uk-sanctions"
+      "duplicateOf": "uk-sanctions",
+      "nextReviewDate": "2026-10-12"
     },
     "35543151e27a95014f9d": {
       "source": "Decrypt",
@@ -49880,6 +49886,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:19:55.169Z",
+          "retrySearches": [
+            "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
+          ]
+        },
+        "00846212524fc336a196": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "UK sanctions piece not fully read; same FCDO package event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:01.022Z",
           "retrySearches": [
             "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
           ]
