@@ -17194,26 +17194,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b110ea0056b771ffe65",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-11T15:10:15.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "duplicate",
+      "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; outlet page blocked, no separate article.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:23.706Z",
+      "reviewedAt": "2026-10-11T10:24:25.447Z",
       "duplicateOf": "securitize-stocks",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "b4cab21a62516fd28dba"
     },
     "1b96b3a80a7d4b84f0ae": {
       "source": "Unchained",
@@ -46343,6 +46343,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:23.751Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
+        },
+        "3b110ea0056b771ffe65": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; outlet page blocked, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:25.447Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "b4cab21a62516fd28dba"
         }
