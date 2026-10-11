@@ -22245,20 +22245,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 UK FCDO sanctions package as the ready draft; Decrypt version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:50.050Z",
+      "note": "Same Oct 8 UK FCDO sanctions package as uk-sanctions; Decrypt version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:56:35.011Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
@@ -22279,7 +22274,8 @@
         "thailand-etfs.md: under 600 words, template phrasing: leverag(?:e|ing)",
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "mergedInto": "4f7eedcb04b022f754db"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -47889,6 +47885,15 @@
           "note": "Same Oct 8 UK FCDO sanctions package as uk-sanctions; CoinDesk version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:56:33.364Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "4f7eedcb04b022f754db"
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 UK FCDO sanctions package as uk-sanctions; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:56:35.011Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "4f7eedcb04b022f754db"
         }
