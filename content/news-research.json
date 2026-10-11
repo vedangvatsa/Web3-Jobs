@@ -26911,11 +26911,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "639da78ae1beb866cc22",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T09:38:29.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "needs-corroboration",
+      "note": "COLDCARD X phishing story qualifies but is undrafted; TokenPost plus Gate need full reads.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T10:29:02.533Z",
+      "retrySearches": [
+        "COLDCARD X account compromised phishing wallet migration guide"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "df703797bc4255c1484d": {
       "source": "CryptoSlate",
@@ -48465,6 +48479,21 @@
           "reviewedAt": "2026-10-11T10:29:00.783Z",
           "retrySearches": [
             "Papertrade oracle manipulation allegation house pool response"
+          ]
+        },
+        "639da78ae1beb866cc22": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "COLDCARD X phishing story qualifies but is undrafted; TokenPost plus Gate need full reads.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:29:02.533Z",
+          "retrySearches": [
+            "COLDCARD X account compromised phishing wallet migration guide"
           ]
         }
       },
