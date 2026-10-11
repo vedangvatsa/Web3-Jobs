@@ -18089,26 +18089,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "d95fa2d052471948ef8d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T14:39:48.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:49:42.370Z",
+      "reason": "not-a-concrete-event",
+      "note": "Opinion piece on bunker-mode difficulty for institutions; analysis with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:37.848Z",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "bunker-mode",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "duplicateOf": "bunker-mode"
     },
     "bbfbc980f72f30b4800c": {
       "source": "CoinDesk",
@@ -46867,6 +46861,13 @@
           "note": "Advisory urging holders to prepare bunker mode; commentary framing with no concrete event behind it.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:36.117Z"
+        },
+        "d95fa2d052471948ef8d": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Opinion piece on bunker-mode difficulty for institutions; analysis with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:37.848Z"
         }
       },
       "baselineSlugs": [
