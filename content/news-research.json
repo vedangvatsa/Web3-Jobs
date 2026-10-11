@@ -25510,25 +25510,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7ecdfd994ce12296e566",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T11:44:28.715Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T10:55:20.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "duplicate",
-      "note": "Same Oct 10-11 Ledger hardware-implant confirmation as ledger-implant; BeInCrypto version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/ledger-wallet-spy-chip-reseller/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T11:57:55.546Z",
+      "note": "Same Oct 10 sealed-device spy-chip finding as ledger-implant; folded into the implant draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:16:23.535Z",
       "retrySearches": [
         "Ledger sealed wallet spy chip reseller independent reporting with Ledger response"
       ],
       "lastReviewedDay": "2026-10-11",
-      "duplicateOf": "ledger-implant"
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "2882a6aecd7a3bf0818c": {
       "source": "CryptoSlate",
@@ -48982,6 +48978,15 @@
           ],
           "reviewedAt": "2026-10-11T18:16:11.307Z",
           "articleSlug": "coldcard-phish"
+        },
+        "7ecdfd994ce12296e566": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 10 sealed-device spy-chip finding as ledger-implant; folded into the implant draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:16:23.535Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
         }
       },
       "baselineSlugs": [
