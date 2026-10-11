@@ -23289,14 +23289,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "b466ec3f61a6e8d0b33a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T16:15:25.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "verified-event",
-      "note": "Verified Oct 9 NY AG lifetime crypto and securities bar on Alex Mashinsky with up to 5M conditional payments; read NY AG release, Unchained and CoinDesk in full. Drafted 640+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "Verified Oct 9 NY AG lifetime crypto and securities bar on Alex Mashinsky with up to 35M conditional payments; read NY AG release, Unchained, CoinDesk and Decrypt in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
+        {
+          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+          "outcome": "read"
+        },
         {
           "url": "https://unchainedcrypto.com/new-york-permanently-bars-ex-celsius-ceo-mashinsky-from-crypto-and-securities-industries/",
           "outcome": "read"
@@ -23306,11 +23310,11 @@
           "outcome": "read"
         },
         {
-          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+          "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:24:14.118Z",
+      "reviewedAt": "2026-10-11T11:56:53.516Z",
       "duplicateOf": "mashinsky-ban",
       "lastReviewedDay": "2026-10-11",
       "articleSlug": "mashinsky-ban",
@@ -47931,6 +47935,31 @@
           "reviewedAt": "2026-10-11T11:56:44.409Z",
           "duplicateOf": "bitgo-suit",
           "mergedInto": "496643e7a159131009a6"
+        },
+        "b466ec3f61a6e8d0b33a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 NY AG lifetime crypto and securities bar on Alex Mashinsky with up to 35M conditional payments; read NY AG release, Unchained, CoinDesk and Decrypt in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/new-york-permanently-bars-ex-celsius-ceo-mashinsky-from-crypto-and-securities-industries/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:56:53.516Z",
+          "articleSlug": "mashinsky-ban"
         }
       },
       "baselineSlugs": [
