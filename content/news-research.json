@@ -24103,26 +24103,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "625750d26ecc321a617e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T13:24:12.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 9 DWF-BitGo 41M suit as the ready draft; Unchained version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:44.038Z",
-      "duplicateOf": "dwf-bitgo",
-      "lastReviewedDay": "2026-10-10",
+      "reviewedAt": "2026-10-11T10:25:20.525Z",
+      "duplicateOf": "bitgo-suit",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "496643e7a159131009a6"
     },
     "086f433689c7a72fd7a9": {
       "source": "The Block",
@@ -46763,6 +46763,20 @@
           "reviewedAt": "2026-10-11T10:25:18.760Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "b466ec3f61a6e8d0b33a"
+        },
+        "625750d26ecc321a617e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 DWF-BitGo 41M suit as the ready draft; Unchained version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:25:20.525Z",
+          "duplicateOf": "bitgo-suit",
+          "mergedInto": "496643e7a159131009a6"
         }
       },
       "baselineSlugs": [
