@@ -27739,11 +27739,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "50d9acc33a71e685bbd1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:34:15.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Goldman Sachs 2027 equity issuance projection; TradFi forecast, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:17.204Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "97734726508b9aca0f41": {
       "source": "Crypto Briefing",
@@ -49379,6 +49384,13 @@
           "note": "US energy permitting bill politics; non-crypto legislation with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:15.180Z"
+        },
+        "50d9acc33a71e685bbd1": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Goldman Sachs 2027 equity issuance projection; TradFi forecast, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:17.204Z"
         }
       },
       "baselineSlugs": [
