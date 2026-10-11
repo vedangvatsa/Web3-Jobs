@@ -27137,11 +27137,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "25e05172e7bf28188327",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T14:00:41.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "price-chatter",
+      "note": "ETF inflow-streak versus outflow tally; flow chatter with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:55.247Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "f049a300ffe183052427": {
       "source": "BeInCrypto",
@@ -49283,6 +49288,13 @@
           "note": "Weekly ETF flow roundup for October; fund-flow chatter with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:53.241Z"
+        },
+        "25e05172e7bf28188327": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "ETF inflow-streak versus outflow tally; flow chatter with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:55.247Z"
         }
       },
       "baselineSlugs": [
