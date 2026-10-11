@@ -24680,23 +24680,23 @@
       "id": "7ef426982303d62000e0",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T21:37:43.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "Aero Oct 21 merger story on a single queued source; conversion terms unverified.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:20.254Z",
+      "reviewedAt": "2026-10-11T10:28:18.215Z",
       "retrySearches": [
-        "Aero Oct 21 merger token conversion terms primary announcement"
+        "Aero merger October 21 token conversion Aerodrome"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "af458fb1bbabce80a040": {
       "source": "The Defiant",
@@ -48067,6 +48067,21 @@
           "reviewedAt": "2026-10-11T10:28:16.495Z",
           "retrySearches": [
             "CFTC casino gambling exclusion swap definition October 2026"
+          ]
+        },
+        "7ef426982303d62000e0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Aero Oct 21 merger story on a single queued source; conversion terms unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:18.215Z",
+          "retrySearches": [
+            "Aero merger October 21 token conversion Aerodrome"
           ]
         }
       },
