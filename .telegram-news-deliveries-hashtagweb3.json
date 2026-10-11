@@ -1096,5 +1096,36 @@
     "slotKey": "2026-10-11:afternoon",
     "messageId": 155717,
     "sentAt": "2026-10-11T12:01:32.748Z"
+  },
+  "79456846-e42f-4a4f-88a9-158720961807": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T19:47:33.706Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Coldcard Asks X to Investigate Phishing Link on Account",
+        "summary": "The wallet maker reported an unauthorized malicious link on October 11, following a major wallet exploit in July.",
+        "link": "https://hashtagweb3.com/coldcard-phish?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coldcard probes phishing post on its X account after July exploit"
+      },
+      {
+        "index": -1,
+        "headline": "Ledger confirms tampered hardware in reseller devices amid $86M loss",
+        "summary": "Unauthorized modifications in devices sold by CryptoBilis led to estimated thefts exceeding $86 million from users.",
+        "link": "https://hashtagweb3.com/ledger-implant?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ledger confirms hardware implant in reseller device as losses may top $86M"
+      },
+      {
+        "index": -1,
+        "headline": "XRP Ledger patches bug that could have minted trillions",
+        "summary": "Developers fixed a payment-engine vulnerability that allowed the creation of 18 trillion XRP in a single transaction.",
+        "link": "https://hashtagweb3.com/xrpl-overflow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "XRP Ledger patched decade-old bug that could have minted trillions"
+      }
+    ],
+    "slotKey": "2026-10-11:evening"
   }
 }
