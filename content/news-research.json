@@ -17146,25 +17146,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b110ea0056b771ffe65",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T15:10:15.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; outlet page blocked, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:25.447Z",
+      "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Defiant version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:14.253Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
-      ]
+      ],
+      "mergedInto": "b4cab21a62516fd28dba"
     },
     "1b96b3a80a7d4b84f0ae": {
       "source": "Unchained",
@@ -47756,6 +47752,15 @@
           "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Decrypt version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:38:12.497Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
+        },
+        "3b110ea0056b771ffe65": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Defiant version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:14.253Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "b4cab21a62516fd28dba"
         }
