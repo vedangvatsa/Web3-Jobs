@@ -112,6 +112,10 @@
     "2026-10-10:afternoon": [
       "mkt53",
       "eng333"
+    ],
+    "2026-10-11:afternoon": [
+      "pm149",
+      "sec60"
     ]
   },
   "jobs": {
@@ -2068,6 +2072,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7695004597152173344"
         }
       }
+    },
+    "pm149": {
+      "slot": "2026-10-11:afternoon",
+      "selectedAt": "2026-10-11T11:31:03.338Z",
+      "verifiedAt": "2026-10-11T11:31:03.338Z",
+      "captions": {
+        "instagram": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX\n\nSliema, Malta\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #ProductJobs #Hiring",
+        "tiktok": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX. Sliema, Malta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Sliema, Malta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX"
+      },
+      "receipts": {}
+    },
+    "sec60": {
+      "slot": "2026-10-11:afternoon",
+      "selectedAt": "2026-10-11T11:31:03.339Z",
+      "verifiedAt": "2026-10-11T11:31:03.339Z",
+      "captions": {
+        "instagram": "Chief Information Security Officer at Bybit\n\nHong Kong SAR\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
+        "tiktok": "Chief Information Security Officer at Bybit. Hong Kong SAR.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Hong Kong SAR\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Chief Information Security Officer at Bybit"
+      },
+      "receipts": {}
     }
   }
 }
