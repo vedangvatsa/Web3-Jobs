@@ -28144,11 +28144,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "23d96eded54592a8260b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T09:47:40.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Pennsylvania data-center fight feature; local zoning politics, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:39.644Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "9fc82c88cab4cf43b5c0": {
       "source": "Crypto Briefing",
@@ -49487,6 +49492,13 @@
           "note": "ON Semiconductor revenue CAGR target; chip-stock earnings, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:37.520Z"
+        },
+        "23d96eded54592a8260b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Pennsylvania data-center fight feature; local zoning politics, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:39.644Z"
         }
       },
       "baselineSlugs": [
