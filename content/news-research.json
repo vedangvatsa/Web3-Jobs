@@ -25690,22 +25690,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1f95bcf6b60ca241a35",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T16:01:04.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Meanwhile 7.5M raise as the ready draft; Decrypt version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:43.519Z",
+      "note": "Same Oct 8 Meanwhile 37.5M raise as meanwhile-funding; Decrypt version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:56:26.935Z",
       "duplicateOf": "meanwhile-funding",
-      "lastReviewedDay": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "mergedInto": "aa622e9da8bf6f47f49d"
     },
     "316e2f0efb03221bf96b": {
       "source": "The Block",
@@ -47854,6 +47850,15 @@
           "note": "Same Oct 8 Meanwhile 37.5M raise as meanwhile-funding; Bitcoin Magazine version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:56:25.250Z",
+          "duplicateOf": "meanwhile-funding",
+          "mergedInto": "aa622e9da8bf6f47f49d"
+        },
+        "f1f95bcf6b60ca241a35": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Meanwhile 37.5M raise as meanwhile-funding; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:56:26.935Z",
           "duplicateOf": "meanwhile-funding",
           "mergedInto": "aa622e9da8bf6f47f49d"
         }
