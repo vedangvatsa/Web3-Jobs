@@ -707,6 +707,9 @@
   "https://hashtagweb3.com/polymarket-v2?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/shib-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/solana-dvp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coldcard-phish?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ledger-implant?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xrpl-overflow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2029,6 +2032,12 @@
   "SHIB Goes Live on Solana Through Sunrise Gateway",
   "Solana Releases Open-Source Trade Settlement Tool for Banks",
   "Solana Foundation Launches DvP Atomic Settlement Program for Banks",
+  "Coldcard Asks X to Investigate Phishing Link on Account",
+  "Coldcard probes phishing post on its X account after July exploit",
+  "Ledger confirms tampered hardware in reseller devices amid $86M loss",
+  "Ledger confirms hardware implant in reseller device as losses may top $86M",
+  "XRP Ledger patches bug that could have minted trillions",
+  "XRP Ledger patched decade-old bug that could have minted trillions",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2286,5 +2295,8 @@
   "fp:25b|also|beyond|capital|circl|cor|exchang|expand|firm|fresh",
   "fp:contract|cor|erc1155|market|november2|polymarket|position|protocol|rebuild|start",
   "fp:000|514|application|debut|expand|gateway|goe|initial|inu|liquidity",
-  "fp:allow|atomic|bank|develop|dvp|foundation|input|institutional|morgan|open"
+  "fp:allow|atomic|bank|develop|dvp|foundation|input|institutional|morgan|open",
+  "fp:account|ask|coldcard|exploit|follow|investigat|july|link|major|malicious",
+  "fp:86m|confirm|cryptobilis|devic|estimat|exceed|hardwar|implant|ledger|loss",
+  "fp:allow|bug|creation|decad|developer|engin|fix|hav|ledger|mint"
 ]

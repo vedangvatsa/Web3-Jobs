@@ -1098,7 +1098,7 @@
     "sentAt": "2026-10-11T12:01:32.748Z"
   },
   "79456846-e42f-4a4f-88a9-158720961807": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-11T19:47:33.706Z",
     "stories": [
       {
@@ -1126,6 +1126,8 @@
         "originalTitle": "XRP Ledger patched decade-old bug that could have minted trillions"
       }
     ],
-    "slotKey": "2026-10-11:evening"
+    "slotKey": "2026-10-11:evening",
+    "messageId": 155720,
+    "sentAt": "2026-10-11T19:47:36.391Z"
   }
 }
