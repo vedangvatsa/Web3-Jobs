@@ -23379,23 +23379,23 @@
       "id": "dc53e2f33c5fbeaf3082",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T16:23:22.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "Telegram money-wallet story has a single queued source; corroboration search hit rate limits.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:42.971Z",
+      "reviewedAt": "2026-10-11T10:27:59.509Z",
       "retrySearches": [
-        "Telegram Money Wallet Gram transfers collectibles rollout scope"
+        "Telegram money wallet Gram transfers collectibles launch October 2026"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "b466ec3f61a6e8d0b33a": {
       "source": "Unchained",
@@ -47894,6 +47894,21 @@
           "reviewedAt": "2026-10-11T10:27:57.604Z",
           "retrySearches": [
             "HSBC Ant Digital Anvita Flow Jovay micropayment test"
+          ]
+        },
+        "dc53e2f33c5fbeaf3082": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Telegram money-wallet story has a single queued source; corroboration search hit rate limits.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:59.509Z",
+          "retrySearches": [
+            "Telegram money wallet Gram transfers collectibles launch October 2026"
           ]
         }
       },
