@@ -23773,25 +23773,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "74b8157eef0883dae91f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T13:41:21.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger CryptoBilis drain cluster as the ready draft; Unchained version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/ledger-users-reportedly-drained-of-over-86-million-across-several-blockchains/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:58.681Z",
+      "note": "Same Oct 9 Ledger CryptoBilis drain cluster as cryptobilis-drains; Unchained version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:57:34.296Z",
       "duplicateOf": "cryptobilis-drains",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "c1d0d154bba53b41bc48": {
       "source": "The Defiant",
@@ -48135,6 +48131,15 @@
             }
           ],
           "reviewedAt": "2026-10-11T11:57:32.502Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "74b8157eef0883dae91f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger CryptoBilis drain cluster as cryptobilis-drains; Unchained version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:57:34.296Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
