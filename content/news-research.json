@@ -27220,11 +27220,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "aaa405bee89093cd362c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T16:00:00.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "opinion",
+      "note": "Clarity Act failure commentary; analysis of legislative prospects, no vote or filing event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:06.005Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "b70b1cdcc59a6e3325b1": {
       "source": "The Defiant",
@@ -49595,6 +49600,13 @@
           "note": "Hedge-fund collateral liquidation-trap analysis; market-structure explainer, no dated event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:56.149Z"
+        },
+        "aaa405bee89093cd362c": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Clarity Act failure commentary; analysis of legislative prospects, no vote or filing event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:06.005Z"
         }
       },
       "baselineSlugs": [
