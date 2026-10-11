@@ -20512,22 +20512,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "6521f65a66822c1c1481",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T10:40:59.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 8 Thai SEC ETF framework as the ready draft; outlet page blocked, no separate article.",
       "sourceChecks": [
         {
           "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:26.029Z",
+      "reviewedAt": "2026-10-11T10:24:38.348Z",
       "duplicateOf": "thailand-etfs",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "articleSlug": "thailand-etfs",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
@@ -20536,7 +20536,7 @@
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "111c40e3f46ad4991183": {
       "source": "CoinJournal",
@@ -46457,6 +46457,20 @@
           "reviewedAt": "2026-10-11T10:24:36.715Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "6521f65a66822c1c1481": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Thai SEC ETF framework as the ready draft; outlet page blocked, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:38.348Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
         }
       },
       "baselineSlugs": [
