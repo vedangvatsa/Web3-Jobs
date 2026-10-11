@@ -26942,11 +26942,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "c04e420dce52fc1475ed",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T10:22:44.000Z",
-      "lastSeenAt": "2026-10-11T11:31:24.998Z"
+      "lastSeenAt": "2026-10-11T11:31:24.998Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 11 Coldcard phishing link on official X account, deleted post, platform-level probe requested; read Cointelegraph, crypto.news and CryptoDaily in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/coldcard-warns-bitcoin-users-about-phishing-scam-on-x/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptodaily.co.uk/2026/10/coldcard-x-account-phishing-link",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-11T11:58:05.410Z",
+      "articleSlug": "coldcard-phishing",
+      "lastReviewedDay": "2026-10-11"
     },
     "e80feea411621e342fab": {
       "source": "BeInCrypto",
@@ -48291,6 +48310,27 @@
           "reviewedAt": "2026-10-11T11:58:03.685Z",
           "duplicateOf": "kalshi-bets",
           "mergedInto": "82174278e88b61c6fbd7"
+        },
+        "c04e420dce52fc1475ed": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 11 Coldcard phishing link on official X account, deleted post, platform-level probe requested; read Cointelegraph, crypto.news and CryptoDaily in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/coldcard-warns-bitcoin-users-about-phishing-scam-on-x/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptodaily.co.uk/2026/10/coldcard-x-account-phishing-link",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:58:05.410Z",
+          "articleSlug": "coldcard-phishing"
         }
       },
       "baselineSlugs": [
