@@ -24712,24 +24712,28 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f33d3c76777e7ef334e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "verified-event",
-      "note": "Verified Oct 9 US plan to seize about B in Iran-linked crypto per Treasury Secretary Bessent; read Cointelegraph and Bitcoin Magazine in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "Verified Oct 9 US plan to seize about 1B in Iran-linked crypto per Treasury Secretary Bessent; read Cointelegraph, crypto.news and IRS background release in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
           "outcome": "read"
         },
         {
-          "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+          "url": "https://crypto.news/us-eyes-1-billion-dollars-iran-linked-crypto-seizure/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.irs.gov/compliance/criminal-investigation/treasury-sanctions-crypto-exchanges-funding-irans-irgc-and-enabling-illicit-finance",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:24:17.426Z",
+      "reviewedAt": "2026-10-11T11:57:43.649Z",
       "articleSlug": "iran-seizure",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -48147,6 +48151,27 @@
           "reviewedAt": "2026-10-11T11:57:36.124Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 US plan to seize about 1B in Iran-linked crypto per Treasury Secretary Bessent; read Cointelegraph, crypto.news and IRS background release in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/us-eyes-1-billion-dollars-iran-linked-crypto-seizure/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.irs.gov/compliance/criminal-investigation/treasury-sanctions-crypto-exchanges-funding-irans-irgc-and-enabling-illicit-finance",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:57:43.649Z",
+          "articleSlug": "iran-seizure"
         }
       },
       "baselineSlugs": [
