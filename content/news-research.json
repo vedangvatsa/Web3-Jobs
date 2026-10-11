@@ -20129,22 +20129,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "9daaa3a6efebdaa31dc5",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T03:08:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "verified-event",
+      "note": "Verified Thai SEC Oct 8 ETF framework: notifications effective Oct 16, SET-only passive single-asset BTC/ETH-first funds with licensed custody; read CoinDesk, CryptoBriefing and Cointelegraph in full. Drafted 660+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/thailand-sec-finalizes-bitcoin-ether-etf-rules/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:24.311Z",
+      "reviewedAt": "2026-10-11T10:24:05.579Z",
       "articleSlug": "thailand-etfs",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -20163,8 +20171,7 @@
       "duplicateOf": "thailand-etfs",
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "51bfcd3d9bb745d73ab9": {
       "source": "CryptoSlate",
@@ -46061,6 +46068,27 @@
           ],
           "reviewedAt": "2026-10-11T10:24:03.898Z",
           "articleSlug": "uranium-verdict"
+        },
+        "9daaa3a6efebdaa31dc5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Thai SEC Oct 8 ETF framework: notifications effective Oct 16, SET-only passive single-asset BTC/ETH-first funds with licensed custody; read CoinDesk, CryptoBriefing and Cointelegraph in full. Drafted 660+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/thailand-sec-finalizes-bitcoin-ether-etf-rules/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:05.579Z",
+          "articleSlug": "thailand-etfs"
         }
       },
       "baselineSlugs": [
