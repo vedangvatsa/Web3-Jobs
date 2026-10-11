@@ -20702,20 +20702,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Thai SEC ETF framework as the ready draft; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:40.154Z",
+      "note": "Same Oct 8 Thai SEC ETF framework as thailand-etfs; CoinDesk version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:56:08.040Z",
       "articleSlug": "thailand-etfs",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -20724,7 +20719,8 @@
       "duplicateOf": "thailand-etfs",
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
-      ]
+      ],
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "6eb78273ce6d69ab8f6b": {
       "source": "Cointelegraph",
@@ -47803,6 +47799,15 @@
           "note": "Same Oct 8 Thai SEC ETF framework as thailand-etfs; The Block version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:56:06.271Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Thai SEC ETF framework as thailand-etfs; CoinDesk version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:56:08.040Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
         }
