@@ -25008,26 +25008,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "504c54edc7c703968bcd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T20:14:02.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky lifetime-ban settlement drafted as mashinsky-ban; verified in AG release plus CoinDesk and Decrypt reads.",
+      "note": "Same Oct 9 NY AG Mashinsky settlement as the ready draft; Cointelegraph version of the shared story, no separate article.",
       "sourceChecks": [
         {
-          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:53:40.253Z",
+      "reviewedAt": "2026-10-11T10:25:15.259Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-11",
+      "mergedInto": "b466ec3f61a6e8d0b33a"
     },
     "5936ea8f20383c5c23f9": {
       "source": "Bitcoin Magazine",
@@ -46731,6 +46728,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:25:13.410Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "b466ec3f61a6e8d0b33a"
+        },
+        "504c54edc7c703968bcd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 NY AG Mashinsky settlement as the ready draft; Cointelegraph version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:25:15.259Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "b466ec3f61a6e8d0b33a"
         }
