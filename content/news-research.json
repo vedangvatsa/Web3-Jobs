@@ -25154,25 +25154,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "6cbacd263bba4dccfcf3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T00:53:09.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: bitcoinmagazine.com. Needs full read plus second independent source before any draft.",
+      "reason": "duplicate",
+      "note": "Same Oct 8 Meanwhile 7.5M raise as the ready draft; single-outlet lead, event already verified and drafted.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:32.226Z",
+      "reviewedAt": "2026-10-11T10:24:45.115Z",
       "retrySearches": [
         "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round terms and valuation"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "duplicateOf": "meanwhile-funding",
+      "mergedInto": "aa622e9da8bf6f47f49d"
     },
     "4f83e5b1709ca0afd2d9": {
       "source": "CryptoSlate",
@@ -46504,6 +46505,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:43.519Z",
+          "duplicateOf": "meanwhile-funding",
+          "mergedInto": "aa622e9da8bf6f47f49d"
+        },
+        "6cbacd263bba4dccfcf3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Meanwhile 7.5M raise as the ready draft; single-outlet lead, event already verified and drafted.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:45.115Z",
           "duplicateOf": "meanwhile-funding",
           "mergedInto": "aa622e9da8bf6f47f49d"
         }
