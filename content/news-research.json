@@ -22190,26 +22190,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f46b0c4a638dbaf5f575",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T12:23:54.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 9 DWF-BitGo 41M suit as the ready draft; CoinDesk version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:40.816Z",
+      "reviewedAt": "2026-10-11T10:25:22.245Z",
       "retrySearches": [
         "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "dwf-bitgo",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "duplicateOf": "bitgo-suit",
+      "mergedInto": "496643e7a159131009a6"
     },
     "322bfa081991e4298e14": {
       "source": "BeInCrypto",
@@ -46775,6 +46775,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:25:20.525Z",
+          "duplicateOf": "bitgo-suit",
+          "mergedInto": "496643e7a159131009a6"
+        },
+        "f46b0c4a638dbaf5f575": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 DWF-BitGo 41M suit as the ready draft; CoinDesk version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:25:22.245Z",
           "duplicateOf": "bitgo-suit",
           "mergedInto": "496643e7a159131009a6"
         }
