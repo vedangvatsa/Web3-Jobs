@@ -18729,26 +18729,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "dd25110442b0f822a9d6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T18:40:23.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/europol-urges-crypto-to-prepare-wallet-upgrades-now-warning-migration-could-take-years/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:49:57.205Z",
+      "reason": "not-a-concrete-event",
+      "note": "Europol advisory urging future quantum wallet work; explainer-grade report with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:43.866Z",
       "duplicateOf": "europol-quantum",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Europol quantum crypto wallets report recommendations and timelines for providers"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "f0783b73ca3eb4e55ba2": {
       "source": "Bitcoin Magazine",
@@ -46870,6 +46864,13 @@
           "note": "Lawmakers pushing crypto onto an anti-corruption agenda; discussion with no vote, ruling or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:41.305Z"
+        },
+        "dd25110442b0f822a9d6": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Europol advisory urging future quantum wallet work; explainer-grade report with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:43.866Z"
         }
       },
       "baselineSlugs": [
