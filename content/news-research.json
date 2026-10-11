@@ -27024,11 +27024,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6a2bd439ba44587f75c0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T16:01:03.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "price-chatter",
+      "note": "Weekly ETF flow roundup for October; fund-flow chatter with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:53.241Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "fe9c6c2172b1e33f86c3": {
       "source": "CryptoSlate",
@@ -49271,6 +49276,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:51.176Z",
           "duplicateOf": "liquid-ransom"
+        },
+        "6a2bd439ba44587f75c0": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Weekly ETF flow roundup for October; fund-flow chatter with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:53.241Z"
         }
       },
       "baselineSlugs": [
