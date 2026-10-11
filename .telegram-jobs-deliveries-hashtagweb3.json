@@ -1288,7 +1288,7 @@
     "sentAt": "2026-10-11T12:00:43.110Z"
   },
   "152683d0-21f8-40b9-8733-b2df9bc5d648": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-11T19:47:12.054Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1329,6 +1329,8 @@
       }
     ],
     "message": "• Crypto.com is hiring <a href=\"https://hashtagweb3.com/manager719?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Manager</a>\n• GRVT is hiring <a href=\"https://hashtagweb3.com/sls236?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">BD Executive/Manager</a>\n• Coinflow is hiring <a href=\"https://hashtagweb3.com/go?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Go-to-Market Lead</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/sec73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Staff Engineer</a>\n• Fireblocks is hiring <a href=\"https://hashtagweb3.com/architect37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Solutions Architect</a>",
-    "slotKey": "2026-10-11:evening"
+    "slotKey": "2026-10-11:evening",
+    "messageId": 155718,
+    "sentAt": "2026-10-11T19:47:14.499Z"
   }
 }
