@@ -23977,26 +23977,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "c286bf006d9137b60702",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T13:43:35.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 9 Ledger CryptoBilis sales-halt angle as the ready draft; Defiant version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:59.350Z",
-      "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10",
+      "reviewedAt": "2026-10-11T10:24:56.921Z",
+      "duplicateOf": "cryptobilis-drains",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "74b8157eef0883dae91f": {
       "source": "Unchained",
@@ -46600,6 +46600,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:55.271Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "c286bf006d9137b60702": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger CryptoBilis sales-halt angle as the ready draft; Defiant version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:56.921Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
