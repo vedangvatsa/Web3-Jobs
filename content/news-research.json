@@ -26957,16 +26957,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "072632a0aec350c61b59",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T10:30:30.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "verified-event",
-      "note": "Verified Oct 9 XRPL overflow disclosure: Veria AI-found flaw, 18T mint demo on local network, patched Sept 25 in 3.4.1, no mainnet exploitation; read CryptoSlate, xrpl.org and Veria Labs in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "XRPL Oct 9 overflow disclosure verified across CryptoSlate, CoinDesk, the xrpl.org primary report and the Veria Labs writeup. Drafted 700+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
           "outcome": "read"
         },
         {
@@ -26978,8 +26982,8 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T11:58:14.187Z",
-      "articleSlug": "xrpl-flaw",
+      "reviewedAt": "2026-10-11T18:16:09.193Z",
+      "articleSlug": "xrpl-overflow",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
@@ -48940,6 +48944,31 @@
           ],
           "reviewedAt": "2026-10-11T18:16:02.338Z",
           "articleSlug": "ledger-implant"
+        },
+        "072632a0aec350c61b59": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "XRPL Oct 9 overflow disclosure verified across CryptoSlate, CoinDesk, the xrpl.org primary report and the Veria Labs writeup. Drafted 700+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
+              "outcome": "read"
+            },
+            {
+              "url": "https://verialabs.com/blog/biggest-hack-in-crypto-history/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:09.193Z",
+          "articleSlug": "xrpl-overflow"
         }
       },
       "baselineSlugs": [
