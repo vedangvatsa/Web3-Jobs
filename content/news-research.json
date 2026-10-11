@@ -20552,20 +20552,20 @@
       "id": "19357b6f78dfafe2a59e",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T10:16:48.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "note": "France stablecoin swap tax vote in the 2027 budget bill is concrete but only the queued source is known; amendment record outstanding.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:30.858Z",
+      "reviewedAt": "2026-10-11T10:27:11.467Z",
       "articleSlug": "france-tax",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -20574,9 +20574,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "France stablecoin swap tax 2027 budget bill text and vote schedule"
+        "France stablecoin swap tax budget 2027 assemblee vote October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "f7cc92328214d5e25bb3": {
       "source": "CoinDesk",
@@ -47474,6 +47474,21 @@
           "reviewedAt": "2026-10-11T10:27:09.743Z",
           "retrySearches": [
             "DTCC cut share registration transfers days minutes October 2026"
+          ]
+        },
+        "19357b6f78dfafe2a59e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "France stablecoin swap tax vote in the 2027 budget bill is concrete but only the queued source is known; amendment record outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:11.467Z",
+          "retrySearches": [
+            "France stablecoin swap tax budget 2027 assemblee vote October 2026"
           ]
         }
       },
