@@ -22407,26 +22407,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e6c54727c05c87b7baf",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T11:57:47.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/ai-could-break-bitcoin-wallet-math/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:51:14.541Z",
+      "reason": "opinion",
+      "note": "Cryptographer forecast that AI could break wallet math within months; prediction with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:53.885Z",
       "duplicateOf": "bunker-mode",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Drake bunker mode Buterin response full statements with dates and exact recommendations"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "c95c0d7bc053ee036771": {
       "source": "Decrypt",
@@ -46876,6 +46870,13 @@
           "note": "Same expired Oct 5 Empire Market sentencing and forfeiture news cycle; window closed Oct 10.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:52.264Z"
+        },
+        "3e6c54727c05c87b7baf": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Cryptographer forecast that AI could break wallet math within months; prediction with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:53.885Z"
         }
       },
       "baselineSlugs": [
