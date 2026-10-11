@@ -27663,11 +27663,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d40036b61ecb1fb3b9f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:03:00.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "not-a-concrete-event",
+      "note": "Saylor teases future Strategy buying; a tease with no executed purchase disclosed.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:22.836Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "846893f7dbdf5403f763": {
       "source": "Crypto Briefing",
@@ -49691,6 +49696,13 @@
           "note": "OKX founder convergence remark; executive view with no launch, filing or deal event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:20.905Z"
+        },
+        "1d40036b61ecb1fb3b9f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Saylor teases future Strategy buying; a tease with no executed purchase disclosed.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:22.836Z"
         }
       },
       "baselineSlugs": [
