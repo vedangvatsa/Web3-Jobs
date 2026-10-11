@@ -18481,28 +18481,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "e85710a4d0d8f74f72c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T11:37:17.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 7 SDNY conviction of Jonathan Spalletta for the 0M-plus Uranium Finance hacks; read Decrypt and crypto.news in full, DOJ release confirmed reachable. Drafted 700+ words with self-hosted hero; gates pass, links HTTP 200.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
-          "outcome": "read"
-        },
-        {
-          "url": "https://crypto.news/uranium-finance-hacker-convicted-over-55-million-theft/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.justice.gov/usao-sdny/pr/jonathan-spalletta-convicted-defrauding-crypto-exchange-over-50-million-hacks-0",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:03.898Z",
+      "reason": "stale",
+      "note": "Oct 7 SDNY Uranium Finance conviction coverage published Oct 8; 72-hour window closed Oct 11 11:37 UTC before round 1 could draft. Event is NFL (no fresh development today); do not present as current.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:24.178Z",
       "articleSlug": "uranium-verdict",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -47773,6 +47760,13 @@
           "reviewedAt": "2026-10-11T11:38:18.213Z",
           "duplicateOf": "securitize-stocks",
           "mergedInto": "b4cab21a62516fd28dba"
+        },
+        "e85710a4d0d8f74f72c1": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Oct 7 SDNY Uranium Finance conviction coverage published Oct 8; 72-hour window closed Oct 11 11:37 UTC before round 1 could draft. Event is NFL (no fresh development today); do not present as current.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:24.178Z"
         }
       },
       "baselineSlugs": [
