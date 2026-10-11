@@ -1286,5 +1286,49 @@
     "slotKey": "2026-10-11:afternoon",
     "messageId": 155716,
     "sentAt": "2026-10-11T12:00:43.110Z"
+  },
+  "152683d0-21f8-40b9-8733-b2df9bc5d648": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T19:47:12.054Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "b17ac35d-1b67-40de-bd45-4de7dfda2cd8",
+        "slug": "manager719",
+        "url": "https://hashtagweb3.com/manager719?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior Manager"
+      },
+      {
+        "key": "b5f48679-0993-4467-b8b2-f3833f2ecb3b",
+        "slug": "sls236",
+        "url": "https://hashtagweb3.com/sls236?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "GRVT",
+        "title": "BD Executive/Manager"
+      },
+      {
+        "key": "ee29c28c-8869-42c9-8285-c8678ab37613",
+        "slug": "go",
+        "url": "https://hashtagweb3.com/go?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Go-to-Market Lead"
+      },
+      {
+        "key": "8004626003",
+        "slug": "sec73",
+        "url": "https://hashtagweb3.com/sec73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "a16z crypto",
+        "title": "Staff Engineer"
+      },
+      {
+        "key": "4699994006",
+        "slug": "architect37",
+        "url": "https://hashtagweb3.com/architect37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fireblocks",
+        "title": "Solutions Architect"
+      }
+    ],
+    "message": "• Crypto.com is hiring <a href=\"https://hashtagweb3.com/manager719?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Manager</a>\n• GRVT is hiring <a href=\"https://hashtagweb3.com/sls236?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">BD Executive/Manager</a>\n• Coinflow is hiring <a href=\"https://hashtagweb3.com/go?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Go-to-Market Lead</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/sec73?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Staff Engineer</a>\n• Fireblocks is hiring <a href=\"https://hashtagweb3.com/architect37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Solutions Architect</a>",
+    "slotKey": "2026-10-11:evening"
   }
 }
