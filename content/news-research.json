@@ -25158,25 +25158,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "cf91cc0e021c7179aa15",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T00:09:51.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/doj-binance-investigation-compliance-settlement/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:52:37.416Z",
+      "reason": "not-a-concrete-event",
+      "note": "Question-headline speculation about a DOJ Binance probe with no filing, charge or action named.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:55.549Z",
       "retrySearches": [
         "DOJ Binance investigation follow-up claims with official statements beyond speculation"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11"
     },
     "74519b6c7c74b6d87aef": {
       "source": "CryptoSlate",
@@ -46877,6 +46871,13 @@
           "note": "Cryptographer forecast that AI could break wallet math within months; prediction with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:53.885Z"
+        },
+        "cf91cc0e021c7179aa15": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Question-headline speculation about a DOJ Binance probe with no filing, charge or action named.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:55.549Z"
         }
       },
       "baselineSlugs": [
