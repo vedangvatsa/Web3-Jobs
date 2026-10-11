@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-11T18:08:18.100Z",
+  "generatedAt": "2026-10-11T19:31:28.545Z",
   "items": [
+    {
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto ",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "pubDate": "Sun, 11 Oct 2026 18:30:00 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an ...",
+      "source": "Coindesk"
+    },
     {
       "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
       "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
@@ -12,7 +20,7 @@
     {
       "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
       "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 11 Oct 2026 17:03:00 +0000",
+      "pubDate": "Sun, 11 Oct 2026 17:11:00 +0000",
       "creator": "Robert Lakin",
       "contentSnippet": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
       "source": "Cointelegraph"
@@ -367,14 +375,6 @@
       "pubDate": "Fri, 09 Oct 2026 06:51:32 +0000",
       "creator": "Shaurya Malwa",
       "contentSnippet": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquid...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
-      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-      "pubDate": "Fri, 09 Oct 2026 06:40:54 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin n...",
       "source": "Coindesk"
     },
     {
