@@ -22606,22 +22606,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3458e62d04228c30699",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T14:27:18.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky settlement as mashinsky-ban; Defiant version of the shared story, no separate article.",
+      "reason": "source-blocked",
+      "note": "Defiant Mashinsky piece blocked HTTP 403; same AG settlement event, needs readable second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T11:56:58.891Z",
+      "reviewedAt": "2026-10-11T18:20:20.054Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "retrySearches": [
+        "New York AG Mashinsky 35M lifetime ban settlement second outlet"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "977a4f0f886635e738ca": {
       "source": "BeInCrypto",
@@ -50022,6 +50026,21 @@
           "reviewedAt": "2026-10-11T18:20:17.950Z",
           "retrySearches": [
             "New York AG Mashinsky 35M lifetime ban settlement release October 2026"
+          ]
+        },
+        "f3458e62d04228c30699": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant Mashinsky piece blocked HTTP 403; same AG settlement event, needs readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:20.054Z",
+          "retrySearches": [
+            "New York AG Mashinsky 35M lifetime ban settlement second outlet"
           ]
         }
       },
