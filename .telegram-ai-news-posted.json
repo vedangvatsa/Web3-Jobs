@@ -704,6 +704,9 @@
   "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
   "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
   "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+  "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+  "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1895,6 +1898,12 @@
   "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
   "Danu Robotics Works to Improve Automated Waste Recycling Sorting",
   "Danu Robotics’ fight to build a better recycling robot",
+  "Microsoft updates Windows and hardware for AI integration",
+  "Microsoft event debuts new AI-friendly hardware and Windows changes",
+  "Microsoft CEO calls for AI trust and safety controls",
+  "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+  "Apple hires Huxe team and licenses its podcast technology",
+  "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2116,5 +2125,8 @@
   "fp:cell|contest|dileptus|disqualification|follow|his|motion|nam|nguyen|nhat",
   "fp:75b|claim|efficiency|higher|jev|languag|larg|non|reach|text",
   "fp:aim|autonomous|bet|big|build|developer|full|humanoid|nvidia|physical",
-  "fp:amy|automat|better|build|danu|develop|effectively|fight|founder|improv"
+  "fp:amy|automat|better|build|danu|develop|effectively|fight|founder|improv",
+  "fp:chang|comput|debut|design|event|featur|friendly|hardwar|integration|introduc",
+  "fp:brak|call|ceo|control|emergency|examin|framework|leader|microsoft|nadella",
+  "fp:appl|audio|automat|develop|disclos|enabl|featur|hir|hux|licens"
 ]

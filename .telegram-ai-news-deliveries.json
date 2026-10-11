@@ -1067,7 +1067,7 @@
     "sentAt": "2026-10-10T04:21:13.047Z"
   },
   "e43d7005-e5df-4dcb-b401-d732cd5971d3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-11T12:01:45.521Z",
     "stories": [
       {
@@ -1097,6 +1097,8 @@
         "originalTitle": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe"
       }
     ],
-    "slotKey": "2026-10-11:afternoon"
+    "slotKey": "2026-10-11:afternoon",
+    "messageId": 193331,
+    "sentAt": "2026-10-11T12:01:47.995Z"
   }
 }
