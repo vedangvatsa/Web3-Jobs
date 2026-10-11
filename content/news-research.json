@@ -18577,22 +18577,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e85710a4d0d8f74f72c1",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T11:37:17.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+      "reason": "verified-event",
+      "note": "Verified Oct 7 SDNY conviction of Jonathan Spalletta for the 0M-plus Uranium Finance hacks; read Decrypt and crypto.news in full, DOJ release confirmed reachable. Drafted 700+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/uranium-finance-hacker-convicted-over-55-million-theft/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.justice.gov/usao-sdny/pr/jonathan-spalletta-convicted-defrauding-crypto-exchange-over-50-million-hacks-0",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:50.629Z",
+      "reviewedAt": "2026-10-11T10:24:03.898Z",
       "articleSlug": "uranium-verdict",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
         "sberbank-register.md: under 600 words",
@@ -18607,8 +18615,7 @@
       ],
       "retrySearches": [
         "Uranium Finance hacker conviction details court records and stolen amount accounting"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "49e46f3fdd2e63839617": {
       "source": "CoinDesk",
@@ -46033,6 +46040,27 @@
           ],
           "reviewedAt": "2026-10-11T10:24:02.145Z",
           "articleSlug": "bitfinex-move"
+        },
+        "e85710a4d0d8f74f72c1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 7 SDNY conviction of Jonathan Spalletta for the 0M-plus Uranium Finance hacks; read Decrypt and crypto.news in full, DOJ release confirmed reachable. Drafted 700+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/uranium-finance-hacker-convicted-over-55-million-theft/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.justice.gov/usao-sdny/pr/jonathan-spalletta-convicted-defrauding-crypto-exchange-over-50-million-hacks-0",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:03.898Z",
+          "articleSlug": "uranium-verdict"
         }
       },
       "baselineSlugs": [
