@@ -1065,5 +1065,38 @@
     "slotKey": "2026-10-10:morning",
     "messageId": 193330,
     "sentAt": "2026-10-10T04:21:13.047Z"
+  },
+  "e43d7005-e5df-4dcb-b401-d732cd5971d3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T12:01:45.521Z",
+    "stories": [
+      {
+        "index": 7,
+        "original_title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+        "headline": "Microsoft updates Windows and hardware for AI integration",
+        "summary": "The company introduced new computing hardware and operating system features designed to run artificial intelligence tasks locally.",
+        "event_rationale": "This covers a major hardware and OS-level infrastructure shift for AI deployment, distinct from software-only model releases.",
+        "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+        "source": "Ars Technica",
+        "originalTitle": "Microsoft event debuts new AI-friendly hardware and Windows changes"
+      },
+      {
+        "index": 1,
+        "headline": "Microsoft CEO calls for AI trust and safety controls",
+        "summary": "Satya Nadella urged industry leaders to re-examine artificial intelligence trust frameworks.",
+        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "source": "TechCrunch",
+        "originalTitle": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
+      },
+      {
+        "index": 2,
+        "headline": "Apple hires Huxe team and licenses its podcast technology",
+        "summary": "The deal enables the company to develop personalized and automated audio features for its platforms.",
+        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "source": "TechCrunch",
+        "originalTitle": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe"
+      }
+    ],
+    "slotKey": "2026-10-11:afternoon"
   }
 }
