@@ -27719,11 +27719,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "97734726508b9aca0f41",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:21:41.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Oct 10-11 implant confirmation as ledger-implant; read in full and cited.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/ledger-cryptobilis-hardware-implant-draining/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:16:31.856Z",
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959",
+      "lastReviewedDay": "2026-10-11"
     },
     "9196658e25e5a33bf896": {
       "source": "The Defiant",
@@ -49052,6 +49064,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:16:29.729Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "97734726508b9aca0f41": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 10-11 implant confirmation as ledger-implant; read in full and cited.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ledger-cryptobilis-hardware-implant-draining/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:31.856Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
