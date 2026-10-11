@@ -26311,20 +26311,20 @@
       "id": "9c567295b2e6ca362468",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T11:52:14.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "note": "Tron post-quantum testnet story corroborated via search; full reads plus draft outstanding.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:12.577Z",
+      "reviewedAt": "2026-10-11T10:28:47.052Z",
       "articleSlug": "tron-quantum",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -26341,9 +26341,9 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "Tron post-quantum cryptography testnet Sun claim independent confirmation second outlet"
+        "TRON FN-DSA testnet TIP-899 audit mainnet Justin Sun"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "df8a1456b3ab8dd0bda1": {
       "source": "BeInCrypto",
@@ -48302,6 +48302,21 @@
           "reviewedAt": "2026-10-11T10:28:45.202Z",
           "retrySearches": [
             "Starknet L1 transition governance vote decision StarkWare"
+          ]
+        },
+        "9c567295b2e6ca362468": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Tron post-quantum testnet story corroborated via search; full reads plus draft outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:47.052Z",
+          "retrySearches": [
+            "TRON FN-DSA testnet TIP-899 audit mainnet Justin Sun"
           ]
         }
       },
