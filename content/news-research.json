@@ -17839,23 +17839,23 @@
       "id": "4771b52b3d346e08e888",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T15:38:13.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "note": "Astroport governance story sole source blocked HTTP 403; Neutron and Terra details unverified.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:37.305Z",
+      "reviewedAt": "2026-10-11T10:26:35.685Z",
       "retrySearches": [
-        "Astroport Neutron Terra governance shutdown proposal text and migration plan"
+        "Astroport ends governance Neutron Terra announcement"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "1314591f25f6d81bbe78": {
       "source": "The Defiant",
@@ -47159,6 +47159,21 @@
           "reviewedAt": "2026-10-11T10:26:33.971Z",
           "retrySearches": [
             "Standard Chartered digital asset custody Singapore official press release"
+          ]
+        },
+        "4771b52b3d346e08e888": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Astroport governance story sole source blocked HTTP 403; Neutron and Terra details unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:35.685Z",
+          "retrySearches": [
+            "Astroport ends governance Neutron Terra announcement"
           ]
         }
       },
