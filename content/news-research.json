@@ -23688,26 +23688,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "5121c942544f1e8779d1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T15:30:36.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 9 Ledger CryptoBilis drain cluster as the ready draft; Decrypt version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:54.320Z",
-      "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10",
+      "reviewedAt": "2026-10-11T10:24:53.576Z",
+      "duplicateOf": "cryptobilis-drains",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "353e717b11eba794963f": {
       "source": "The Block",
@@ -46572,6 +46572,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:51.967Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "5121c942544f1e8779d1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger CryptoBilis drain cluster as the ready draft; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:53.576Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
