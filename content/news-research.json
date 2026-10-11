@@ -789,7 +789,7 @@
       "firstSeenAt": "2026-10-05T03:31:38.041Z",
       "attempts": 1,
       "expiresAt": "2026-10-07T18:51:50.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "not-a-concrete-event",
       "note": "Daily three-item recap recycling the Clayton, El Salvador, and NEAR stories; roundup with no standalone event.",
       "sourceChecks": [],
@@ -16820,20 +16820,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "ae47f8ab88a2c7848349",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
       "attempts": 15,
       "expiresAt": "2026-10-11T16:50:59.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 US government 12,267-BTC movement as bitfinex-move; CryptoSlate version of the shared story, no separate article.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Same Oct 8 US government 12,267-BTC movement as bitfinex-move; CryptoSlate version of the shared story, no separate article.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:38:01.377Z",
+      "reviewedAt": "2026-10-11T18:08:25.505Z",
       "duplicateOf": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
-      ]
+      ],
+      "automatic": true
     },
     "e33a650c55f3e7ab383a": {
       "source": "Decrypt",
@@ -16850,20 +16851,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "e33a650c55f3e7ab383a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
       "attempts": 15,
       "expiresAt": "2026-10-11T16:44:20.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 US government 12,267-BTC movement as bitfinex-move; Decrypt version of the shared story, no separate article.",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: Same Oct 8 US government 12,267-BTC movement as bitfinex-move; Decrypt version of the shared story, no separate article.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:38:03.127Z",
+      "reviewedAt": "2026-10-11T18:08:25.505Z",
       "duplicateOf": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
-      ]
+      ],
+      "automatic": true
     },
     "0acef52c24bebf178d60": {
       "source": "BeInCrypto",
@@ -26278,7 +26280,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T22:29:51.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "opinion",
       "note": "Warning that XRP Ledger may hold hidden flaws; opinion with no concrete event or technical basis.",
       "sourceChecks": [],
@@ -26368,7 +26370,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T22:23:54.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "out-of-scope",
       "note": "Moderna vaccine stock story is equities, not crypto, with no dated crypto event.",
       "sourceChecks": [],
@@ -26394,7 +26396,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 3,
       "expiresAt": "2026-10-13T21:33:18.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "duplicate",
       "note": "Same Oct 10 Kalshi press-secretary bet probe as kalshi-bets; BeInCrypto version of the shared story, no separate article.",
       "sourceChecks": [
@@ -26429,7 +26431,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T20:06:47.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
       "note": "Pump.fun callout-rewards story qualifies but is undrafted; Gate plus Phemex need full reads.",
       "sourceChecks": [
@@ -26464,7 +26466,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 2,
       "expiresAt": "2026-10-13T19:00:26.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
       "note": "BTCPay Tor opt-in story corroborated via search; BTCPay docs primary plus full reads outstanding.",
       "sourceChecks": [
@@ -26499,7 +26501,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T18:37:35.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "price-chatter",
       "note": "Gold-price warning is trader prediction, not a dated concrete crypto event.",
       "sourceChecks": [],
@@ -26525,7 +26527,7 @@
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
       "attempts": 3,
       "expiresAt": "2026-10-13T18:35:25.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "verified-event",
       "note": "Verified Oct 10 Kalshi probe into Zacharia-linked press-secretary bets placed before the announcement; read The Verge, The Star (Reuters) and CNN in full, WSJ origin confirmed. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
@@ -26608,7 +26610,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T07:44:51.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
       "note": "CFTC prediction-vs-gambling story is the same Oct 9 rulemaking event; draft once with the companion lead.",
       "sourceChecks": [
@@ -26643,7 +26645,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T00:26:55.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "source-blocked",
       "note": "Papertrade oracle-manipulation allegation on a single blocked source; needs a second outlet plus the accused response.",
       "sourceChecks": [
@@ -26678,7 +26680,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T09:38:29.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
       "note": "COLDCARD X phishing story qualifies but is undrafted; TokenPost plus Gate need full reads.",
       "sourceChecks": [
@@ -26713,7 +26715,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T07:00:24.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "not-a-concrete-event",
       "note": "Analysis of bitcoin treasury-company cash needs; explainer with no single concrete event.",
       "sourceChecks": [],
@@ -26739,7 +26741,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-13T22:58:19.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "price-chatter",
       "note": "SUI four-week price outperformance story; token price coverage is excluded.",
       "sourceChecks": [],
@@ -26765,7 +26767,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T09:22:47.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "opinion",
       "note": "Macro prediction asking whether another SVB-style bank crisis is coming; not a crypto event.",
       "sourceChecks": [],
@@ -26791,7 +26793,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 2,
       "expiresAt": "2026-10-14T09:01:51.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "verified-event",
       "note": "Verified Oct 10-11 Ledger confirmation of unauthorized hardware implant in a reseller device amid 86M-plus drain reports; read Cointelegraph, Crypto Times, Bitcoin.com and CryptoBreaking in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200. New development beyond the Oct 9 probe story.",
       "sourceChecks": [
@@ -26840,7 +26842,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T09:00:00.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "promotional",
       "note": "Sponsored-style anniversary interview about stablecoin strategy; no concrete event.",
       "sourceChecks": [],
@@ -26866,7 +26868,7 @@
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T01:39:48.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "price-chatter",
       "note": "Anticipatory supply-schedule analysis of the long-known Filecoin vesting end; token-calendar item, not a new event.",
       "sourceChecks": [],
@@ -26892,7 +26894,7 @@
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T10:22:44.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "verified-event",
       "note": "Verified Oct 11 Coldcard phishing link on official X account, deleted post, platform-level probe requested; read Cointelegraph, crypto.news and CryptoDaily in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
@@ -26937,7 +26939,7 @@
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T10:48:08.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "opinion",
       "note": "Who-owns-bitcoin synthesis of Bitbo/River dashboards with no vote, filing, launch or ruling in 72h. Explainer and analysis, not a concrete event.",
       "sourceChecks": [],
@@ -26963,7 +26965,7 @@
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T10:30:30.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "verified-event",
       "note": "Verified Oct 9 XRPL overflow disclosure: Veria AI-found flaw, 18T mint demo on local network, patched Sept 25 in 3.4.1, no mainnet exploitation; read CryptoSlate, xrpl.org and Veria Labs in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
@@ -27008,7 +27010,7 @@
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
       "attempts": 1,
       "expiresAt": "2026-10-14T10:24:32.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "verified-event",
       "note": "Verified France Finance Committee adoption of stablecoin-swap tax and 800K crypto exit tax, then Oct 9 revenue-section rejection forcing re-tabling; read Decrypt and DeFiPrime in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
@@ -27053,7 +27055,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T15:59:08.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "6a2bd439ba44587f75c0": {
       "source": "Decrypt",
@@ -27074,7 +27076,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T16:01:03.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "fe9c6c2172b1e33f86c3": {
       "source": "CryptoSlate",
@@ -27095,7 +27097,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T16:00:20.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "03da72be953e52b8a897": {
       "source": "The Defiant",
@@ -27116,7 +27118,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T15:04:33.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "6ec96a08dec1a481c435": {
       "source": "The Defiant",
@@ -27137,7 +27139,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T14:08:37.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "25e05172e7bf28188327": {
       "source": "CryptoSlate",
@@ -27158,7 +27160,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T14:00:41.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "f049a300ffe183052427": {
       "source": "BeInCrypto",
@@ -27179,7 +27181,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T13:48:41.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "d3cb4e180e6669a9a115": {
       "source": "The Defiant",
@@ -27200,7 +27202,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T13:22:15.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "aaa405bee89093cd362c": {
       "source": "CoinDesk",
@@ -27221,7 +27223,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T16:00:00.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "b70b1cdcc59a6e3325b1": {
       "source": "The Defiant",
@@ -27242,7 +27244,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T15:53:36.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "c964391e2ec394976699": {
       "source": "CoinDesk",
@@ -27263,7 +27265,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T15:40:47.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "d75ec0e58d68cfc0a82f": {
       "source": "CryptoSlate",
@@ -27284,7 +27286,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T15:00:49.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "df6ecd36c1b1ce656fda": {
       "source": "BeInCrypto",
@@ -27305,7 +27307,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T14:13:51.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "c7fb4c0a1e19643319ca": {
       "source": "CryptoSlate",
@@ -27326,7 +27328,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T13:00:14.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "46d351197e9ec0b295ff": {
       "source": "Decrypt",
@@ -27347,7 +27349,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T13:00:03.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "86517e92f3334ea522ea": {
       "source": "CoinDesk",
@@ -27368,7 +27370,7 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T13:00:00.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     },
     "9f47d64ee4bd4c37768b": {
       "source": "CryptoSlate",
@@ -27389,7 +27391,826 @@
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
       "attempts": 0,
       "expiresAt": "2026-10-14T12:00:20.000Z",
-      "lastSeenAt": "2026-10-11T16:43:31.341Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "57f169ca9f8996d13bcd": {
+      "source": "Crypto Briefing",
+      "title": "PeckShield traces $3.89 million from Ledger wallet drain to Binance deposits",
+      "link": "https://cryptobriefing.com/peckshield-ledger-theft-funds-binance/",
+      "published": "2026-10-11T15:08:28.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/peckshield-ledger-theft-funds-binance/",
+          "published": "2026-10-11T15:08:28.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "57f169ca9f8996d13bcd",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T15:08:28.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "d1ac2e70bfbb138fc0b7": {
+      "source": "Crypto Briefing",
+      "title": "US energy permitting bill unites fossil fuels, renewables; divides environmentalists",
+      "link": "https://cryptobriefing.com/us-energy-permitting-bill-unites-fossil-fuels-renewables-divides/",
+      "published": "2026-10-11T07:47:19.000Z",
+      "score": 3,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/us-energy-permitting-bill-unites-fossil-fuels-renewables-divides/",
+          "published": "2026-10-11T07:47:19.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "d1ac2e70bfbb138fc0b7",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T07:47:19.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "6edc5c84784d0aa81ea8": {
+      "source": "Crypto Briefing",
+      "title": "Coldcard investigates phishing link posted on its X account after exploit",
+      "link": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/",
+      "published": "2026-10-11T10:35:19.000Z",
+      "score": 2,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/coldcard-investigates-phishing-link-x-account/",
+          "published": "2026-10-11T10:35:19.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "6edc5c84784d0aa81ea8",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T10:35:19.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "7efd140cc0c6a842af64": {
+      "source": "The Block",
+      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+      "published": "2026-10-11T18:07:41.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "The Block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+          "published": "2026-10-11T18:07:41.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "7efd140cc0c6a842af64",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T18:07:41.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "4f16a7b553033e9f2f33": {
+      "source": "CryptoSlate",
+      "title": "Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie",
+      "link": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+      "published": "2026-10-11T18:00:02.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+          "published": "2026-10-11T18:00:02.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "4f16a7b553033e9f2f33",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T18:00:02.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "2480131e6223cf3240bb": {
+      "source": "Crypto Briefing",
+      "title": "Bitcoin tops $84,000 and liquidates nearly $83 million in short bets",
+      "link": "https://cryptobriefing.com/bitcoin-tops-84000-short-liquidations/",
+      "published": "2026-10-11T17:50:15.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/bitcoin-tops-84000-short-liquidations/",
+          "published": "2026-10-11T17:50:15.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "2480131e6223cf3240bb",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:50:15.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "7593b40419d38129e14d": {
+      "source": "The Defiant",
+      "title": "Coinbase Completes Deribit Integration for Institutional Traders",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
+      "published": "2026-10-11T17:48:05.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
+          "published": "2026-10-11T17:48:05.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "7593b40419d38129e14d",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:48:05.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "3359468cb2583c2260ea": {
+      "source": "BeInCrypto",
+      "title": "Oil Traders Are About to Test Trump’s Russia-Ukraine Ceasefire Claim, But Bitcoin Reacted First",
+      "link": "https://beincrypto.com/trump-energy-ceasefire-oil-bitcoin-test/",
+      "published": "2026-10-11T17:06:39.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/trump-energy-ceasefire-oil-bitcoin-test/",
+          "published": "2026-10-11T17:06:39.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "3359468cb2583c2260ea",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:06:39.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "1d40036b61ecb1fb3b9f": {
+      "source": "Cointelegraph",
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "2026-10-11T17:03:00.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Cointelegraph",
+          "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "published": "2026-10-11T17:03:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "1d40036b61ecb1fb3b9f",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:03:00.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "846893f7dbdf5403f763": {
+      "source": "Crypto Briefing",
+      "title": "Liquid Network halts Bitcoin redemptions with reserves at about 86% coverage",
+      "link": "https://cryptobriefing.com/liquid-network-halts-bitcoin-redemptions-reserve-gap/",
+      "published": "2026-10-11T16:14:10.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/liquid-network-halts-bitcoin-redemptions-reserve-gap/",
+          "published": "2026-10-11T16:14:10.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "846893f7dbdf5403f763",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T16:14:10.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "46f4c5d73e8729ff9140": {
+      "source": "Crypto Briefing",
+      "title": "Vitalik Buterin says AI could accelerate Ethereum’s roadmap by decades",
+      "link": "https://cryptobriefing.com/vitalik-buterin-ai-accelerates-ethereum-roadmap/",
+      "published": "2026-10-11T10:18:32.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/vitalik-buterin-ai-accelerates-ethereum-roadmap/",
+          "published": "2026-10-11T10:18:32.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "46f4c5d73e8729ff9140",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T10:18:32.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "3e048ac386a82ad24798": {
+      "source": "Crypto Briefing",
+      "title": "Circle mints 250M USDC on Solana, boosting liquidity and network potential",
+      "link": "https://cryptobriefing.com/circle-mints-250m-usdc-on-solana-boosting-liquidity-and-network-potential/",
+      "published": "2026-10-11T05:33:28.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/circle-mints-250m-usdc-on-solana-boosting-liquidity-and-network-potential/",
+          "published": "2026-10-11T05:33:28.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "3e048ac386a82ad24798",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T05:33:28.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "4de455120b6de1ab4611": {
+      "source": "Crypto Briefing",
+      "title": "Ethereum ETFs see largest weekly net outflow since January",
+      "link": "https://cryptobriefing.com/ethereum-etfs-largest-weekly-outflow-since-january/",
+      "published": "2026-10-11T00:45:34.000Z",
+      "score": 1,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/ethereum-etfs-largest-weekly-outflow-since-january/",
+          "published": "2026-10-11T00:45:34.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "4de455120b6de1ab4611",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T00:45:34.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "50d9acc33a71e685bbd1": {
+      "source": "Crypto Briefing",
+      "title": "Goldman Sachs projects $600 billion in US equity issuance in 2027",
+      "link": "https://cryptobriefing.com/goldman-sachs-600-billion-equity-issuance-2027/",
+      "published": "2026-10-11T17:34:15.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/goldman-sachs-600-billion-equity-issuance-2027/",
+          "published": "2026-10-11T17:34:15.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "50d9acc33a71e685bbd1",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:34:15.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "97734726508b9aca0f41": {
+      "source": "Crypto Briefing",
+      "title": "Ledger confirms draining cases linked to CryptoBilis-sold devices",
+      "link": "https://cryptobriefing.com/ledger-cryptobilis-hardware-implant-draining/",
+      "published": "2026-10-11T17:21:41.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/ledger-cryptobilis-hardware-implant-draining/",
+          "published": "2026-10-11T17:21:41.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "97734726508b9aca0f41",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:21:41.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "9196658e25e5a33bf896": {
+      "source": "The Defiant",
+      "title": "Ledger Says All Confirmed Draining Cases Involve CryptoBilis-Sold Devices",
+      "link": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
+      "published": "2026-10-11T17:18:19.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "The Defiant",
+          "url": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
+          "published": "2026-10-11T17:18:19.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9196658e25e5a33bf896",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:18:19.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "248815f856bd52c0607c": {
+      "source": "Decrypt",
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "link": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+      "published": "2026-10-11T17:11:03.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Decrypt",
+          "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+          "published": "2026-10-11T17:11:03.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "248815f856bd52c0607c",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:11:03.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "857882264314889f7a96": {
+      "source": "CryptoSlate",
+      "title": "Some Kraken futures limit orders can still fill after a successful cancel",
+      "link": "https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
+      "published": "2026-10-11T17:00:04.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "CryptoSlate",
+          "url": "https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
+          "published": "2026-10-11T17:00:04.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "857882264314889f7a96",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T17:00:04.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "eb5b2058d518c1d8e3a9": {
+      "source": "Crypto Briefing",
+      "title": "Amazon ends NDAs in data center negotiations, following Microsoft",
+      "link": "https://cryptobriefing.com/amazon-ends-ndas-data-center-negotiations/",
+      "published": "2026-10-11T16:55:54.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/amazon-ends-ndas-data-center-negotiations/",
+          "published": "2026-10-11T16:55:54.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "eb5b2058d518c1d8e3a9",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T16:55:54.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "f0bca03f34d6cb74aca8": {
+      "source": "BeInCrypto",
+      "title": "Elon Musk’s Starlink Faces a New Threat From Russia",
+      "link": "https://beincrypto.com/elon-musk-starlink-russia-satellite-threat/",
+      "published": "2026-10-11T16:52:59.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/elon-musk-starlink-russia-satellite-threat/",
+          "published": "2026-10-11T16:52:59.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "f0bca03f34d6cb74aca8",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T16:52:59.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "6420dc2950b5016d8969": {
+      "source": "Crypto Briefing",
+      "title": "Kyrgyzstan orders liquidation of USDKG issuer and Coin Nomad Exchange",
+      "link": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
+      "published": "2026-10-11T15:59:17.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
+          "published": "2026-10-11T15:59:17.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "6420dc2950b5016d8969",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T15:59:17.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "dce879b8052efc81cfa6": {
+      "source": "Crypto Briefing",
+      "title": "Projectile hits Riyadh airport terminal, 12 dead, 309 injured",
+      "link": "https://cryptobriefing.com/projectile-hits-riyadh-airport-terminal-12-dead-309-injured/",
+      "published": "2026-10-11T14:33:11.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/projectile-hits-riyadh-airport-terminal-12-dead-309-injured/",
+          "published": "2026-10-11T14:33:11.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "dce879b8052efc81cfa6",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T14:33:11.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "063c0179eabb411ac91c": {
+      "source": "Crypto Briefing",
+      "title": "Yemeni forces conduct 8 airstrikes on Houthi positions near Taiz",
+      "link": "https://cryptobriefing.com/yemeni-forces-conduct-8-airstrikes-on-houthi-positions-near-taiz/",
+      "published": "2026-10-11T13:54:04.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/yemeni-forces-conduct-8-airstrikes-on-houthi-positions-near-taiz/",
+          "published": "2026-10-11T13:54:04.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "063c0179eabb411ac91c",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T13:54:04.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "770c09fc3f99e279e9ce": {
+      "source": "Crypto Briefing",
+      "title": "Saudi airport attack kills 12 as conflict with Houthis escalates",
+      "link": "https://cryptobriefing.com/saudi-airport-attack-kills-12-as-conflict-with-houthis-escalates/",
+      "published": "2026-10-11T13:52:20.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/saudi-airport-attack-kills-12-as-conflict-with-houthis-escalates/",
+          "published": "2026-10-11T13:52:20.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "770c09fc3f99e279e9ce",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T13:52:20.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "5fad7a27786e0d8250af": {
+      "source": "Crypto Briefing",
+      "title": "Saudi Arabia allegedly strikes Sanaa airport amid rising tensions",
+      "link": "https://cryptobriefing.com/saudi-arabia-allegedly-strikes-sanaa-airport-amid-rising-tensions/",
+      "published": "2026-10-11T13:37:12.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/saudi-arabia-allegedly-strikes-sanaa-airport-amid-rising-tensions/",
+          "published": "2026-10-11T13:37:12.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "5fad7a27786e0d8250af",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T13:37:12.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "67889d0e0b3f94cd5fa1": {
+      "source": "Crypto Briefing",
+      "title": "Bank of England says it will be ‘the banker to the stablecoin’",
+      "link": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/",
+      "published": "2026-10-11T12:34:31.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/",
+          "published": "2026-10-11T12:34:31.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "67889d0e0b3f94cd5fa1",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T12:34:31.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "1062f930d0e4dfe1f358": {
+      "source": "Crypto Briefing",
+      "title": "ON Semiconductor expects 12% to 14% revenue CAGR through 2030",
+      "link": "https://cryptobriefing.com/onsemi-raises-revenue-cagr-target-2030/",
+      "published": "2026-10-11T11:20:53.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/onsemi-raises-revenue-cagr-target-2030/",
+          "published": "2026-10-11T11:20:53.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "1062f930d0e4dfe1f358",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T11:20:53.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "35409f382a1d15d41093": {
+      "source": "Crypto Briefing",
+      "title": "BitMine completes $350M stock buyback, which Tom Lee calls the largest in crypto",
+      "link": "https://cryptobriefing.com/bitmine-350m-stock-buyback-tom-lee/",
+      "published": "2026-10-11T11:05:28.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/bitmine-350m-stock-buyback-tom-lee/",
+          "published": "2026-10-11T11:05:28.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "35409f382a1d15d41093",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T11:05:28.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "a8921991bcffc50a48b9": {
+      "source": "Crypto Briefing",
+      "title": "Bitfinex ETH longs climb to their highest level in over four years",
+      "link": "https://cryptobriefing.com/bitfinex-eth-longs-four-year-high/",
+      "published": "2026-10-11T10:36:36.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/bitfinex-eth-longs-four-year-high/",
+          "published": "2026-10-11T10:36:36.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "a8921991bcffc50a48b9",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T10:36:36.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "23d96eded54592a8260b": {
+      "source": "Crypto Briefing",
+      "title": "‘Never seen anything quite like it’: How rural Pennsylvania’s $165 million data center fight became representative of the bipartisan battle against AI",
+      "link": "https://cryptobriefing.com/never-seen-anything-quite-like-it-how-rural-pennsylvanias-165-million-data/",
+      "published": "2026-10-11T09:47:40.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/never-seen-anything-quite-like-it-how-rural-pennsylvanias-165-million-data/",
+          "published": "2026-10-11T09:47:40.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "23d96eded54592a8260b",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T09:47:40.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "9fc82c88cab4cf43b5c0": {
+      "source": "Crypto Briefing",
+      "title": "Yandex shuts down Vladimir data centre after drone attack, third facility hit in four days",
+      "link": "https://cryptobriefing.com/yandex-vladimir-data-centre-drone-attack/",
+      "published": "2026-10-11T09:37:37.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/yandex-vladimir-data-centre-drone-attack/",
+          "published": "2026-10-11T09:37:37.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9fc82c88cab4cf43b5c0",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T09:37:37.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "3ebbe4db48a8198be0a7": {
+      "source": "Crypto Briefing",
+      "title": "OKX founder Star Xu sees crypto and traditional finance convergence",
+      "link": "https://cryptobriefing.com/okx-founder-star-xu-sees-crypto-and-traditional-finance-convergence/",
+      "published": "2026-10-11T09:05:20.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/okx-founder-star-xu-sees-crypto-and-traditional-finance-convergence/",
+          "published": "2026-10-11T09:05:20.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "3ebbe4db48a8198be0a7",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T09:05:20.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "36619d9cbdffc0930a39": {
+      "source": "Crypto Briefing",
+      "title": "Bubblemaps estimates Ethan made $125K from 49 token callouts",
+      "link": "https://cryptobriefing.com/bubblemaps-ethan-125k-token-callouts/",
+      "published": "2026-10-11T06:37:22.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/bubblemaps-ethan-125k-token-callouts/",
+          "published": "2026-10-11T06:37:22.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "36619d9cbdffc0930a39",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T06:37:22.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "9e59c3ed7d1faf3681c3": {
+      "source": "Crypto Briefing",
+      "title": "Drone attack disrupts data centre in eastern Moscow, Russia says",
+      "link": "https://cryptobriefing.com/drone-attack-disrupts-moscow-data-centre/",
+      "published": "2026-10-11T04:14:39.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/drone-attack-disrupts-moscow-data-centre/",
+          "published": "2026-10-11T04:14:39.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "9e59c3ed7d1faf3681c3",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T04:14:39.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "cb6bb726dc70729baa81": {
+      "source": "Crypto Briefing",
+      "title": "Elon Musk claims his companies can make chips better than anyone",
+      "link": "https://cryptobriefing.com/elon-musk-companies-make-chips-better/",
+      "published": "2026-10-11T01:43:30.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/elon-musk-companies-make-chips-better/",
+          "published": "2026-10-11T01:43:30.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "cb6bb726dc70729baa81",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T01:43:30.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "f111c8e5eab12d41a30f": {
+      "source": "Crypto Briefing",
+      "title": "Filecoin nears the end of its six-year vesting schedule, cutting FIL issuance by about 75%",
+      "link": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
+      "published": "2026-10-11T01:43:00.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
+          "published": "2026-10-11T01:43:00.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "f111c8e5eab12d41a30f",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T01:43:00.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "7def3fe3e74857302049": {
+      "source": "Crypto Briefing",
+      "title": "Anthropic’s inference business could hit 88% margins, SemiAnalysis estimates",
+      "link": "https://cryptobriefing.com/anthropic-inference-margins-semianalysis-88-percent/",
+      "published": "2026-10-11T01:27:22.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/anthropic-inference-margins-semianalysis-88-percent/",
+          "published": "2026-10-11T01:27:22.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "7def3fe3e74857302049",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T01:27:22.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "776d6e2ce1c85cd479c1": {
+      "source": "Crypto Briefing",
+      "title": "Saudi-led coalition intercepts Houthi missile near Riyadh",
+      "link": "https://cryptobriefing.com/saudi-led-coalition-intercepts-houthi-missile-near-riyadh/",
+      "published": "2026-10-11T00:59:19.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/saudi-led-coalition-intercepts-houthi-missile-near-riyadh/",
+          "published": "2026-10-11T00:59:19.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "776d6e2ce1c85cd479c1",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T00:59:19.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+    },
+    "2a8ee3b0eeb8a9101aba": {
+      "source": "Crypto Briefing",
+      "title": "Cerebras shares slip below their $185 IPO price after a blockbuster debut",
+      "link": "https://cryptobriefing.com/cerebras-shares-fall-below-ipo-price/",
+      "published": "2026-10-11T00:42:26.000Z",
+      "score": 0,
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/cerebras-shares-fall-below-ipo-price/",
+          "published": "2026-10-11T00:42:26.000Z"
+        }
+      ],
+      "alsoCoveredBy": [],
+      "id": "2a8ee3b0eeb8a9101aba",
+      "status": "pending",
+      "firstSeenAt": "2026-10-11T18:08:25.505Z",
+      "attempts": 0,
+      "expiresAt": "2026-10-14T00:42:26.000Z",
+      "lastSeenAt": "2026-10-11T18:08:25.505Z"
     }
   },
   "runs": {
@@ -46101,7 +46922,46 @@
         "c7fb4c0a1e19643319ca",
         "46d351197e9ec0b295ff",
         "86517e92f3334ea522ea",
-        "9f47d64ee4bd4c37768b"
+        "9f47d64ee4bd4c37768b",
+        "57f169ca9f8996d13bcd",
+        "d1ac2e70bfbb138fc0b7",
+        "6edc5c84784d0aa81ea8",
+        "7efd140cc0c6a842af64",
+        "4f16a7b553033e9f2f33",
+        "2480131e6223cf3240bb",
+        "7593b40419d38129e14d",
+        "3359468cb2583c2260ea",
+        "1d40036b61ecb1fb3b9f",
+        "846893f7dbdf5403f763",
+        "46f4c5d73e8729ff9140",
+        "3e048ac386a82ad24798",
+        "4de455120b6de1ab4611",
+        "50d9acc33a71e685bbd1",
+        "97734726508b9aca0f41",
+        "9196658e25e5a33bf896",
+        "248815f856bd52c0607c",
+        "857882264314889f7a96",
+        "eb5b2058d518c1d8e3a9",
+        "f0bca03f34d6cb74aca8",
+        "6420dc2950b5016d8969",
+        "dce879b8052efc81cfa6",
+        "063c0179eabb411ac91c",
+        "770c09fc3f99e279e9ce",
+        "5fad7a27786e0d8250af",
+        "67889d0e0b3f94cd5fa1",
+        "1062f930d0e4dfe1f358",
+        "35409f382a1d15d41093",
+        "a8921991bcffc50a48b9",
+        "23d96eded54592a8260b",
+        "9fc82c88cab4cf43b5c0",
+        "3ebbe4db48a8198be0a7",
+        "36619d9cbdffc0930a39",
+        "9e59c3ed7d1faf3681c3",
+        "cb6bb726dc70729baa81",
+        "f111c8e5eab12d41a30f",
+        "7def3fe3e74857302049",
+        "776d6e2ce1c85cd479c1",
+        "2a8ee3b0eeb8a9101aba"
       ],
       "outcomes": {
         "2a5f0f76edb1ecb37ab3": {
@@ -48047,6 +48907,22 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T16:43:31.341Z",
           "automatic": true
+        },
+        "ae47f8ab88a2c7848349": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Same Oct 8 US government 12,267-BTC movement as bitfinex-move; CryptoSlate version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:08:25.505Z",
+          "automatic": true
+        },
+        "e33a650c55f3e7ab383a": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: Same Oct 8 US government 12,267-BTC movement as bitfinex-move; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:08:25.505Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
@@ -48239,10 +49115,9 @@
           },
           {
             "source": "Crypto Briefing",
-            "url": "https://cryptobriefing.com/feeds/",
-            "ok": false,
-            "error": "Error: Response is not an RSS/Atom feed",
-            "items": 0
+            "url": "https://cryptobriefing.com/feed/",
+            "ok": true,
+            "items": 30
           },
           {
             "source": "CryptoSlate",
@@ -48306,10 +49181,9 @@
             "items": 642
           }
         ],
-        "total": 45,
-        "checkedAt": "2026-10-11T16:43:31.341Z"
-      },
-      "validationErrors": []
+        "total": 77,
+        "checkedAt": "2026-10-11T18:08:25.505Z"
+      }
     }
   }
 }
