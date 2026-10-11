@@ -7,6 +7,7 @@ import {
 } from '../../src/lib/job-slugs';
 import { loadPublishedRootSlugsSync, loadReservedRootSlugsSync } from '../../src/lib/reserved-root-slugs';
 import type { Job } from '../../src/types';
+import { correctVerifiedJobs, preserveVerifiedJobAliases } from '../../src/lib/verified-job-corrections';
 
 export const JOB_LEGACY_ARCHIVE_PATH = path.join(
   process.cwd(),
@@ -41,7 +42,9 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
   wrote: boolean;
 } {
   const raw = fs.readFileSync(cachePath, 'utf-8');
-  let jobs = JSON.parse(raw) as Job[];
+  const original = JSON.parse(raw) as Job[];
+  let jobs = correctVerifiedJobs(original);
+  const corrected = JSON.stringify(jobs) !== JSON.stringify(original);
 
   // Deduplicate by source-stable identity to eliminate feed collisions
   const seenIdentities = new Set<string>();
@@ -53,6 +56,7 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
   });
 
   const archive = loadJobLegacyArchive();
+  const aliasesCorrected = preserveVerifiedJobAliases(jobs, archive);
   const reservedRoot = loadReservedRootSlugsSync();
   const curIdentities = new Set(jobs.map((job) => getJobIdentity(job)));
   const beforeByIdentity = new Map(jobs.map((job) => [getJobIdentity(job), job.slug || '']));
@@ -98,12 +102,12 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
   const reminted = jobs.filter(
     (job) => (job.slug || '') !== (beforeByIdentity.get(getJobIdentity(job)) || ''),
   ).length;
-  const wrote = reminted > 0 || jobs.length !== (JSON.parse(raw) as Job[]).length;
+  const wrote = corrected || reminted > 0 || jobs.length !== original.length;
   if (wrote) {
     jobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
     fs.writeFileSync(cachePath, `${JSON.stringify(jobs, null, 2)}\n`);
   }
-  if (legacyEntriesAdded > 0 || headRetiredCount > 0) {
+  if (aliasesCorrected || legacyEntriesAdded > 0 || headRetiredCount > 0) {
     writeJobLegacyArchive(archive);
     console.log(`  ${legacyEntriesAdded + headRetiredCount} retired job slug(s) added to legacy archive`);
   }

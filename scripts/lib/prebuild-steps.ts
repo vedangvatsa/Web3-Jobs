@@ -66,7 +66,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'jobs-runtime',
-    inputs: ['content/jobs-cache.json', 'content/rejected-ats-boards.json', 'content/removed-job-listings.json', 'src/lib/jobs-listing-build.ts', 'src/lib/job-source-policy.ts', 'src/lib/job-filters.ts', 'src/lib/job-location.ts'],
+    inputs: ['content/jobs-cache.json', 'content/rejected-ats-boards.json', 'content/removed-job-listings.json', 'src/lib/jobs-listing-build.ts', 'src/lib/verified-job-corrections.ts', 'src/lib/job-source-policy.ts', 'src/lib/job-filters.ts', 'src/lib/job-location.ts'],
     outputs: [
       'content/jobs-runtime.json',
       'content/homepage-jobs.json',
@@ -100,19 +100,20 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'articles-index',
-    inputs: ['content/articles'],
-    outputs: ['content/articles-index.json'],
-    command: 'npx tsx scripts/generate-articles-index.ts',
+    inputs: ['content/articles', 'scripts/generate-articles-index.ts', 'scripts/generate-latest-articles.ts'],
+    outputs: ['content/articles-index.json', 'content/latest-articles.json'],
+    command: 'npx tsx scripts/generate-articles-index.ts && npx tsx scripts/generate-latest-articles.ts',
   },
   {
     id: 'articles-data',
-    inputs: ['content/articles', 'content/articles-index.json'],
+    inputs: ['content/articles', 'content/articles-index.json', 'scripts/generate-articles-data.ts'],
     outputs: ['public/articles-data'],
     command: 'npx tsx scripts/generate-articles-data.ts',
   },
   {
     id: 'slug-types',
     inputs: [
+      'content/articles-index.json',
       'content/jobs-runtime.json',
       'content/events-runtime.json',
       'content/glossary-runtime.json',

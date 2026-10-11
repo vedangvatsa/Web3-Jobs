@@ -34,3 +34,23 @@ test('news dry runs use a news-only gate and pass --dry-run to the publisher', (
   assert.match(publish, /NEWS_DRY_RUN.*true/);
   assert.match(publish, /--dry-run/);
 });
+
+test('job and event workflows acknowledge only generators they ran, leaving article invalidation intact', () => {
+  const ingest = yaml.safeLoad(fs.readFileSync('.github/workflows/refresh-jobs-ingest.yml', 'utf8'));
+  const recorded = steps => steps.filter(step => step.run?.includes('update:prebuild-hashes')).flatMap(step => {
+    const ids = [...step.run.matchAll(/--step=([a-z-]+)/g)].map(match => match[1]);
+    assert.ok(ids.length, 'Hash refreshes need an explicit completed-step list');
+    return ids;
+  });
+  assert.deepEqual(recorded(ingest.jobs.ingest.steps).sort(), ['companies-runtime', 'jobs-runtime', 'sitemap', 'slug-types']);
+  assert.deepEqual(recorded(workflow.jobs['refresh-events'].steps), ['events-runtime']);
+});
+
+test('website recovery refreshes content without social, email or an overlapping deployment', () => {
+  const gate = workflow.jobs.gate.steps.find(step => step.id === 'set').run;
+  const recovery = gate.slice(gate.indexOf('if [ "${{ github.event.inputs.website_recovery }}'), gate.indexOf('if [ "${{ github.event.inputs.only_news }}'));
+  assert.match(recovery, /morning=true/); assert.match(recovery, /news=true/);
+  for (const flag of ['social', 'videos', 'deploy']) assert.match(recovery, new RegExp(`${flag}=false`));
+  assert.match(workflow.jobs['job-alerts'].if, /website_recovery != 'true'/);
+  assert.deepEqual(workflow.jobs['refresh-events'].needs, ['gate']);
+});

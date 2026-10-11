@@ -3,6 +3,7 @@ import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import matter from 'gray-matter';
 import { auditFormatting } from './audit-articles-formatting';
+import { checkNewsSourceLinks } from './lib/news-source-links.mjs';
 
 type Issue = { file: string; issues?: string[] };
 function audit(script: string, args: string[] = []) {
@@ -33,15 +34,7 @@ async function main() {
   for (const pair of duplicates.pairs || []) if (files.includes(pair.a) || files.includes(pair.b)) errors.push(`Duplicate reporting: ${pair.a} / ${pair.b}`);
   try { execFileSync(process.execPath, ['node_modules/typescript/bin/tsc', '--noEmit'], { stdio: 'pipe', maxBuffer: 16 * 1024 * 1024 }); }
   catch { errors.push('Typecheck failed; no articles may publish on a red tree'); }
-  for (const url of urls) {
-    try {
-      const parsed = new URL(url);
-      if (!['http:', 'https:'].includes(parsed.protocol) || parsed.username || parsed.password || /^(localhost|127\.|10\.|192\.168\.|169\.254\.|\[)/.test(parsed.hostname)) throw new Error('Invalid source URL');
-      const response = await fetch(url, { headers: { 'User-Agent': 'HashtagWeb3NewsBot/1.0 (+https://hashtagweb3.com)' }, signal: AbortSignal.timeout(15000) });
-      await response.body?.cancel();
-      if (response.status !== 200) errors.push(`Source link HTTP ${response.status}: ${url}`);
-    } catch { errors.push(`Source link unavailable: ${url}`); }
-  }
+  errors.push(...await checkNewsSourceLinks(urls));
   console.log(JSON.stringify({ slugs, checkedLinks: urls.size, errors }, null, 2));
 }
 main().catch(error => { console.error(error.message); process.exitCode = 1; });

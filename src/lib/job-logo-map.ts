@@ -4,7 +4,7 @@ import {
   resolveCompanyLogo,
 } from '@/lib/company-logo';
 
-function faviconFallbackForSlug(slug: string): string {
+function faviconFallbackForSlug(slug: string): string | null {
   return getCompanyFaviconUrlBySlug(slug);
 }
 import { getCompanySlug } from '@/lib/job-slugs';

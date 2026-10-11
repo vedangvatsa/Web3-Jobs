@@ -68,7 +68,7 @@ jobs:
       - uses: actions/setup-node@v4
         if: ${{ inputs.grant_only != true }}
         with:
-          node-version: '22'
+          node-version: '24'
       - name: Verify secret synchronization behavior
         if: ${{ inputs.grant_only != true }}
         run: node --test scripts/test-apphosting-secret-sync.mjs
@@ -100,6 +100,7 @@ jobs:
           set -euo pipefail
           TOKEN=$(gcloud auth print-access-token)
           BUILD_ID="manual-$(date +%s)"
+          echo "DEPLOY_STARTED_AT=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_ENV"
           echo "Creating build $BUILD_ID"
           RESP=$(curl -s -X POST \
             -H "Authorization: Bearer $TOKEN" \
@@ -146,3 +147,6 @@ jobs:
             sleep 30
           done
           echo "$RS" | grep -qi SUCCEEDED
+      - name: Verify live catalogues match the new deployment
+        if: ${{ inputs.grant_only != true }}
+        run: node scripts/verify-live-catalogs.mjs

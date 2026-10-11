@@ -30,7 +30,7 @@ export function FooterContent() {
       <p className="mt-2 text-sm text-muted-foreground">
        The best place for top talent to discover exclusive opportunities at leading Web3 companies.
       </p>
-       <div className="flex gap-5 mt-4">
+       <div className="flex flex-wrap gap-5 mt-4">
        <a href="https://linkedin.com/company/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-muted-foreground transition-colors hover:text-foreground" aria-label="Follow us on LinkedIn">
         <Linkedin size={20} />
         <span className="sr-only">LinkedIn</span>

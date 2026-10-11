@@ -24,6 +24,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -33,6 +34,9 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Test catalogue publication
+        run: npm run test:catalog-publication
 
       - name: Fetch RSS feeds and update cache
         run: npx tsx scripts/refresh-jobs-cache.ts
@@ -91,6 +95,9 @@ jobs:
       - name: Reserve published job slugs
         run: node scripts/prebake_slugs.js
 
+      - name: Apply source-verified corrections and preserve aliases
+        run: npx tsx scripts/apply-verified-job-corrections.ts && npx tsx scripts/precompute-removed-job-paths.ts
+
       - name: Precompute jobs runtime listing
         run: npx tsx scripts/precompute-jobs-runtime.ts
 
@@ -118,11 +125,11 @@ jobs:
         run: npm run precompute:og-incremental
         continue-on-error: true
 
-      - name: Refresh prebuild input hashes
-        run: npm run update:prebuild-hashes
+      - name: Record generated job catalogue hashes
+        run: npm run update:prebuild-hashes -- --step=jobs-runtime --step=companies-runtime --step=slug-types
 
       - name: Regenerate sitemap (ingest owns route list)
-        run: npx tsx scripts/generate-sitemap-json.ts
+        run: npx tsx scripts/generate-sitemap-json.ts && npm run update:prebuild-hashes -- --step=sitemap
 
       - name: Guard job slug uniqueness
         run: npx tsx scripts/test-job-slug-reserved.ts && npx tsx scripts/check-slug-collisions.ts
@@ -136,43 +143,12 @@ jobs:
         continue-on-error: true
 
       - name: Commit and push refreshed jobs cache
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          # The catalog commit has to sit on local main. checkout leaves a
-          # detached HEAD, and `git push origin main` would then push the
-          # stale local branch instead of this commit.
-          git checkout -B main
-          npx tsx scripts/social/merge-state.ts
-          git add content/jobs-cache.json content/jobs-runtime.json content/homepage-jobs.json content/companies-runtime.json content/slug-types.json content/legacy-slugs-archive.json content/job-description-shards/ content/prebuild-input-hashes.json content/sitemap-routes.json public/sitemap.xml public/.well-known/sitemap.json
-          git add public/og/ public/preview/ public/logo/companies/ || true
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "chore: refresh jobs cache (daily ingest)"
-          # merge-state rewrites social JSON this job does not commit.
-          # pull --rebase refuses a dirty tree, and the old loop still
-          # exited 0 after origin rejected the push.
-          git reset --hard HEAD
-          for i in 1 2 3; do
-            if ! git pull --rebase origin main; then
-              git rebase --abort || true
-              git reset --hard HEAD
-              if ! git pull --rebase -X theirs origin main; then
-                git rebase --abort || true
-                echo "Rebase attempt $i failed"
-                sleep 2
-                continue
-              fi
-            fi
-            if git push origin main; then
-              exit 0
-            fi
-            echo "Push attempt $i failed, reconciling and retrying..."
-            sleep 2
-          done
-          echo "Failed to push the jobs catalog to main"
-          exit 1
+        run: node scripts/publish-catalog.mjs jobs
+
+      - name: Preserve catalogue publication recovery
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jobs-publication-${{ github.run_id }}-${{ github.run_attempt }}
+          include-hidden-files: true
+          path: .cache/catalog-publication/jobs/

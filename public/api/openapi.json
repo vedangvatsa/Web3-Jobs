@@ -9,6 +9,9 @@
     { "url": "https://hashtagweb3.com" }
   ],
   "paths": {
+    "/data/catalog-freshness.json": {
+      "get": { "summary": "Deployed catalogue verification manifest", "responses": { "200": { "description": "Version 1 object with builtAt, snapshotId, per-catalogue path, SHA-256, count and newestSourceDate, plus available ingestion receipts. builtAt proves build generation, not a new source posting. Catalogue digests allow verification that live JSON matches this snapshot." } } }
+    },
     "/data/nomads/cities.json": {
       "get": { "summary": "Nomad city reference index", "responses": { "200": { "description": "City summaries with slug, country, timezone, estimated monthly USD costs and source reference scores. See /nomad-data-notices.txt for data provenance and attribution." } } }
     },

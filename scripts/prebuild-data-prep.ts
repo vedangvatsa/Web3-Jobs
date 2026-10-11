@@ -3,13 +3,13 @@ import { execSync } from 'node:child_process';
 import {
   loadManifest,
   recordStep,
-  refreshAllHashes,
   saveManifest,
   shouldRunStep,
 } from './lib/prebuild-manifest';
 import { PREBUILD_DATA_STEPS, SITEMAP_STEP } from './lib/prebuild-steps';
 import { assignJobSlugsInCacheFile } from './lib/job-slug-assignment';
 import { retireRejectedJobSources } from './lib/retire-rejected-job-sources';
+import { writeCatalogFreshness } from './lib/catalog-freshness.mjs';
 
 const fast = process.env.FAH_FAST_PREBUILD === '1';
 
@@ -48,14 +48,11 @@ function main(): void {
   }
 
   saveManifest(manifest);
-  if (fast) {
-    refreshAllHashes(manifest);
-    saveManifest(manifest);
-  }
   syncPublicAssets();
   run('npx tsx scripts/generate-responsive-images.ts');
   run('npx tsx scripts/precompute-og-previews.ts');
   run('npx tsx scripts/prune-responsive-images.ts --apply');
+  writeCatalogFreshness(process.cwd());
   console.log(`[prebuild-data-prep] finished (${ran} step(s) executed, FAH_FAST=${fast})`);
 }
 

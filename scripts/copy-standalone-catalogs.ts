@@ -6,6 +6,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { assertStandalonePublicAssets } from './lib/standalone-public-assets';
+import { writeCatalogFreshness } from './lib/catalog-freshness.mjs';
 
 const ROOT = process.cwd();
 const STANDALONE = path.join(ROOT, '.next', 'standalone');
@@ -113,6 +114,7 @@ function main(): void {
     console.log('[copy-standalone-catalogs] no .next/standalone — skip');
     return;
   }
+  writeCatalogFreshness(ROOT);
   for (const file of FILES) copyFile(file);
   for (const [src, dest] of DIRS) copyDir(src, dest);
   copyPublicRootFiles();

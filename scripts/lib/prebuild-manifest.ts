@@ -24,8 +24,8 @@ export function saveManifest(manifest: HashManifest): void {
   fs.writeFileSync(MANIFEST_PATH, `${JSON.stringify(manifest, null, 2)}\n`, 'utf8');
 }
 
-export function stepInputHash(step: PrebuildStep): string {
-  return hashPaths(ROOT, step.inputs);
+export function stepInputHash(step: PrebuildStep, root = ROOT): string {
+  return hashPaths(root, [...step.inputs]);
 }
 
 export function shouldRunStep(
@@ -33,10 +33,11 @@ export function shouldRunStep(
   manifest: HashManifest,
   fast: boolean,
   dirtyOutputs?: Set<string>,
+  root = ROOT,
 ): boolean {
-  const current = stepInputHash(step);
+  const current = stepInputHash(step, root);
   const stored = manifest.steps[step.id]?.inputHash;
-  const ready = outputsReady(ROOT, step.outputs);
+  const ready = outputsReady(root, step.outputs);
   const upstreamChanged = dirtyOutputs
     ? step.inputs.some((input) => dirtyOutputs.has(input))
     : false;
@@ -63,15 +64,19 @@ export function shouldRunStep(
   return false;
 }
 
-export function recordStep(manifest: HashManifest, step: PrebuildStep): void {
-  manifest.steps[step.id] = { inputHash: stepInputHash(step) };
+export function recordStep(manifest: HashManifest, step: PrebuildStep, root = ROOT): void {
+  if (!outputsReady(root, step.outputs)) throw new Error(`Cannot record ${step.id}: generated outputs are missing`);
+  manifest.steps[step.id] = { inputHash: stepInputHash(step, root) };
 }
 
-/** Refresh stored input hashes for all steps (after ingest). Does not run generators. */
-export function refreshAllHashes(manifest: HashManifest): void {
-  for (const step of [...PREBUILD_DATA_STEPS, SITEMAP_STEP]) {
-    if (outputsReady(ROOT, step.outputs)) {
-      recordStep(manifest, step);
-    }
-  }
+/** An ingestion job can acknowledge only the generators it actually ran. */
+export function recordCompletedSteps(manifest: HashManifest, ids: string[], root = ROOT): void {
+  if (!ids.length || new Set(ids).size !== ids.length) throw new Error('Pass each completed generator once with --step=<id>');
+  const steps = ids.map(id => {
+    const step = [...PREBUILD_DATA_STEPS, SITEMAP_STEP].find(item => item.id === id);
+    if (!step) throw new Error(`Unknown prebuild step: ${id}`);
+    if (!outputsReady(root, step.outputs)) throw new Error(`Cannot record ${id}: generated outputs are missing`);
+    return step;
+  });
+  for (const step of steps) recordStep(manifest, step, root);
 }

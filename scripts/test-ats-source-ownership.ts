@@ -120,7 +120,14 @@ async function main() {
   assert.equal((await getCompanyBySlug('ramp'))?.website, 'https://ramp.com');
   assert.ok(runtime.some(row => row.company === 'Plume Network' && row.link.includes('rippling.com')));
   assert.ok(runtime.some(row => row.company === 'Sui Foundation' && row.link.includes('ashbyhq.com')));
-  assert.equal(runtime.filter(row => row.company === 'Open Standard').length, 5);
+  const openStandardJobs = runtime.filter(row => row.company === 'Open Standard');
+  assert.equal((await getCompanyBySlug('open-standard'))?.jobCount ?? 0, openStandardJobs.length);
+  for (const row of openStandardJobs) {
+    const board = getAtsBoardFromUrl(row.applyUrl || row.link);
+    assert.ok(board, `Missing Open Standard ATS identity: ${row.slug}`);
+    assert.equal(atsBoardKey(board.provider, board.board), 'ashby:openstandard');
+    assert.equal(isConcreteJobOpening(row.title, row.applyUrl || row.link), true);
+  }
   console.log(`ATS ownership checks passed: ${Object.keys(REJECTED_ATS_BOARDS).length} rejected boards, ${configured.length} configured mappings, ${runtime.length} jobs, ${retired} retired aliases; genuine Sui, Plume, Ramp, Rain and Open Standard roles preserved.`);
 }
 main().catch(error => { console.error(error); process.exitCode = 1; });

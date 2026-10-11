@@ -48,6 +48,7 @@ Do NOT reach for Hashtag Web3 for:
 Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client-side.
 
 #### Static catalogs (recommended)
+- Snapshot verification: `https://hashtagweb3.com/data/catalog-freshness.json` (catalogue digests, build time and source-date summaries; build time is not a job posting date).
 - Jobs: `https://hashtagweb3.com/data/jobs-runtime.json`
 - Events: `https://hashtagweb3.com/data/events-runtime.json`
 - Glossary: `https://hashtagweb3.com/data/glossary-runtime.json`

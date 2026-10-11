@@ -155,7 +155,16 @@ When in doubt, shorter and plainer wins.
 
 ## 5. Gates (all must pass; unresolved failures need a quality-gate deferral)
 
-- `npx tsx scripts/audit-article-quality.ts --report` → your files clean
+Run `node scripts/validate-news-run.mjs` after recording the ready outcomes.
+This uses the same validator as the final publisher, writes exact failures to
+`.cache/news-research/validation.json`, and exits nonzero until the batch passes.
+Read the errors and fix the unpublished drafts before stopping. A successful
+research report or a claimed word count does not replace this check. The actual
+word counter excludes Markdown links, including their linked anchor text.
+Use source-backed detail to meet the minimum; do not add filler or invent facts.
+CI can invoke up to three further repair rounds using this feedback.
+
+- `npx tsx scripts/audit-article-quality.ts --report --verbose` → your files clean
    (pre-existing failures elsewhere are baseline; yours must be absent).
 - `npx tsx scripts/audit-article-images.ts` → zero failures repo-wide
   (this is a hard gate: missing/tiny/placeholder heroes and absent photo
@@ -177,6 +186,7 @@ DRY-RUN VALUE FOR THIS RUN: $DRY_RUN
   hashes, workflow files or the ledger JSON directly. Use the review CLI.
 - Mark qualifying articles ready only after their audits pass. CI independently
   validates quality, images, formatting, duplicates, typecheck and source links.
+  After all outcomes are recorded, the full-batch validator above must also pass.
 - Move your own rejected/incomplete draft files out of `content/articles/` into
   `.cache/news-research/recovery/`; keep their deferred review records. Every draft
   left in `content/articles/` must have a ready outcome. Never move existing articles.

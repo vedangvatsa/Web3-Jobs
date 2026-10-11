@@ -104,5 +104,7 @@ scripts/manual-emails*.json
 /.cache/repair-rain-logo.ts
 /.cache/cost-savings-baseline.json
 /.cache/nomads/
+/.cache/news-research/
+/.cache/catalog-publication/
 /.cache/job-applications/
 /.agents/skills/hashtagweb3-agent-skill/

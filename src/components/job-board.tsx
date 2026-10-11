@@ -1,7 +1,7 @@
 'use client';
 
 import type { CompanyLogoMap } from '@/lib/job-logo-map';
-import { fetchJobsPage } from '@/lib/jobs-client-catalog';
+import { fetchJobsPage, jobsCatalogNeedsRefresh } from '@/lib/jobs-client-catalog';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import type { Job } from '@/types';
 import { LoaderCircle } from 'lucide-react';
@@ -99,7 +99,8 @@ export function JobBoard({
   const requestJobs = useCallback(async (
     query: string,
     offset: number,
-    replace: boolean
+    replace: boolean,
+    limit = PAGE_SIZE
   ) => {
     if (loadingRef.current) return;
 
@@ -114,7 +115,7 @@ export function JobBoard({
     try {
       const result = await fetchJobsPage({
         search: query || undefined,
-        limit: PAGE_SIZE,
+        limit,
         offset,
         signal: controller.signal,
       });
@@ -161,6 +162,17 @@ export function JobBoard({
   }, [requestJobs, searchQuery]);
 
   const hasMore = jobs.length < total;
+
+  useEffect(() => {
+    const refresh = () => {
+      if (document.visibilityState === 'visible' && !loadingRef.current && jobsCatalogNeedsRefresh()) {
+        void requestJobs(searchQuery, 0, true, Math.max(PAGE_SIZE, jobs.length));
+      }
+    };
+    window.addEventListener('focus', refresh);
+    document.addEventListener('visibilitychange', refresh);
+    return () => { window.removeEventListener('focus', refresh); document.removeEventListener('visibilitychange', refresh); };
+  }, [jobs.length, requestJobs, searchQuery]);
 
   useEffect(() => {
     const sentinel = sentinelRef.current;

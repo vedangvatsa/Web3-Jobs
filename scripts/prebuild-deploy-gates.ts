@@ -42,6 +42,9 @@ function fastGates(): void {
 }
 
 function main(): void {
+  run('npm run test:prebuild-invalidation');
+  run('npm run test:catalog-publication');
+  run('npx tsx --test scripts/test-verified-job-corrections.ts');
   run('npm run test:nomads');
   run('npx tsx scripts/test-glossary-bandwidth.ts');
   run('npx tsx scripts/test-ats-source-ownership.ts');
@@ -51,12 +54,6 @@ function main(): void {
   run('npx tsx scripts/test-published-event-slugs.ts');
   if (fast) fastGates();
   else fullGates();
-
-  try {
-    execSync('npx tsx scripts/generate-latest-articles.ts', { stdio: 'pipe', cwd: process.cwd() });
-  } catch {
-    // optional
-  }
 }
 
 main();

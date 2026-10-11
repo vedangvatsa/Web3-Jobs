@@ -4,6 +4,9 @@ import type { Job } from '../src/types';
 
 async function main() {
   const originalFetch = globalThis.fetch;
+  const originalNow = Date.now;
+  let now = originalNow();
+  Date.now = () => now;
   const catalog: Job[] = Array.from({ length: 120 }, (_, index) => ({
     id: String(index), slug: `role${index}`, title: index % 2 ? 'Engineer' : 'Account Executive',
     company: 'Example Labs', source: 'test', link: `https://example.com/jobs/${index}`, date: '2026-09-20',
@@ -12,7 +15,7 @@ async function main() {
   globalThis.fetch = async (input, init) => {
     if (input === '/data/company-image-variants.json') return Response.json({});
     assert.equal(input, '/data/jobs-runtime.json');
-    assert.equal(init?.cache, undefined, 'Respect the catalog HTTP cache instead of forcing revalidation');
+    assert.equal(init?.cache, calls >= 3 ? 'no-cache' : undefined, 'Only expired snapshots revalidate the HTTP cache');
     calls++;
     if (calls === 1) return new Response('{"error":"Not Found"}', { status: 404 });
     if (calls === 2) return Response.json([{ id: 'malformed' }]);
@@ -32,10 +35,15 @@ async function main() {
     const search = await fetchJobsPage({ search: 'Engineer', limit: 50, offset: 0 });
     assert.equal(search.meta.total, 60);
     assert.equal(calls, 3, 'Pagination and search reuse the successful catalog');
+    now += 5 * 60 * 1000 + 1;
+    catalog.unshift({ ...catalog[0], id: 'new-role', slug: 'new-role' });
+    const refreshed = await fetchJobsPage({ limit: 50, offset: 0 });
+    assert.equal(calls, 4);
+    assert.equal(refreshed.meta.total, 121);
     const controller = new AbortController();
     controller.abort();
     await assert.rejects(fetchJobsPage({ limit: 50, offset: 0, signal: controller.signal }), { name: 'AbortError' });
     console.log('Jobs catalog passed: recovery from 404/malformed data, pagination, search, request deduplication and cancellation.');
-  } finally { globalThis.fetch = originalFetch; }
+  } finally { globalThis.fetch = originalFetch; Date.now = originalNow; }
 }
 void main().catch(error => { console.error(error); process.exitCode = 1; });

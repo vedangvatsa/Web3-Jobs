@@ -233,6 +233,7 @@ export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set([
 ]);
 
 export function resolveCompanyLogo(companySlug: string): string | null {
+  if (companySlug === 'axiom-onchain-trading') return null;
   for (const relPath of LOGO_PATHS(companySlug)) {
     if (availableLogoPaths.has(relPath)) {
       return relPath;
@@ -257,7 +258,8 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
  * e.g. "decent-xyz" -> https://decent.xyz favicon
  *      "coin-metrics" -> https://coinmetrics.io favicon (guessed from .com)
  */
-export function getCompanyFaviconUrlBySlug(companySlug: string): string {
+export function getCompanyFaviconUrlBySlug(companySlug: string): string | null {
+  if (companySlug === 'axiom-onchain-trading') return null;
   const normalizedSlug = companySlug.toLowerCase();
   const alias = COMPANY_LOGO_ALIASES[normalizedSlug];
   const domain = COMPANY_FAVICON_DOMAINS[normalizedSlug] ?? (alias ? COMPANY_FAVICON_DOMAINS[alias] : null);

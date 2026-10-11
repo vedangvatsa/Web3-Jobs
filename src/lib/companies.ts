@@ -14,6 +14,7 @@ interface CompanyContent {
  * Known ATS/job board hostnames that should NOT be used as company websites
  */
 const ATS_HOSTNAMES = new Set([
+ 'talent.superteam.fun', 'app.talent.superteam.fun',
  'jobs.gohire.io', 'gohire.io',
  'jobs.lever.co', 'jobs.ashbyhq.com', 'job-boards.greenhouse.io',
  'boards.greenhouse.io', 'coinbase.getro.com', 'jobs.multicoin.capital',

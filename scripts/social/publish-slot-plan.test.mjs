@@ -3,6 +3,13 @@ import { test } from 'node:test';
 import { planSlot, recordSlot } from './publish-slot-plan.mjs';
 
 const today = '2026-09-25';
+test('failed news retries do not repeat successful job ingestion', () => {
+  const state = recordSlot({}, planSlot({}, 'morning', today), { ingest: 'success', news: 'failure', deploy: 'failure' });
+  const retry = planSlot(state, 'afternoon', today);
+  assert.equal(retry.morning, false); assert.equal(retry.news, true); assert.equal(retry.skip, false);
+  const done = recordSlot(state, retry, { news: 'success' });
+  assert.equal(done.morning, today);
+});
 test('news and deployment remain one daily batch while social has three slots', () => {
   const state = recordSlot({}, planSlot({}, 'morning', today), { ingest: 'success', news: 'success', deploy: 'success', posts: 'success', telegram: 'success' });
   for (const slot of ['morning', 'afternoon', 'evening']) {

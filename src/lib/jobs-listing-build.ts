@@ -4,6 +4,7 @@ import { getJobIdentity } from './job-slugs';
 import { isConcreteJobOpening, cleanCompanyName } from './job-filters';
 import { resolveJobLocation } from './job-location';
 import { getJobSourceIssue } from './job-source-policy';
+import { correctVerifiedJobs } from './verified-job-corrections';
 
 const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
@@ -127,7 +128,7 @@ function distributeJobsByCompany(jobs: Job[]): Job[] {
 
 /** Build the listing order used by the site/API (run at build/refresh time on Node). */
 export function buildJobsListing(rawJobs: Job[]): Job[] {
-  const jobs: Job[] = rawJobs.map((job: Job) => {
+  const jobs: Job[] = correctVerifiedJobs(rawJobs).map((job: Job) => {
     return {
       ...job,
       location: resolveJobLocation(job),

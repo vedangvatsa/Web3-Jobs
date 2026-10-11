@@ -10,6 +10,8 @@ export type JobsApiResponse = {
 };
 
 let catalogPromise: Promise<Job[]> | null = null;
+let catalogExpiresAt = 0;
+const CATALOG_TTL_MS = 5 * 60 * 1000;
 let logoVariantsPromise: Promise<Record<string, ResponsiveImagePlan>> | null = null;
 
 function loadLogoVariants(): Promise<Record<string, ResponsiveImagePlan>> {
@@ -24,22 +26,31 @@ function loadLogoVariants(): Promise<Record<string, ResponsiveImagePlan>> {
 }
 
 async function loadJobsCatalog(): Promise<Job[]> {
-  if (!catalogPromise) {
-    catalogPromise = fetch('/data/jobs-runtime.json')
+  if (!catalogPromise || Date.now() >= catalogExpiresAt) {
+    const refresh = Boolean(catalogPromise);
+    catalogExpiresAt = Infinity;
+    if (refresh) logoVariantsPromise = null;
+    catalogPromise = fetch('/data/jobs-runtime.json', { signal: AbortSignal.timeout(15000), ...(refresh ? { cache: 'no-cache' as const } : {}) })
       .then(async (res) => {
         if (!res.ok) throw new Error(`jobs-runtime HTTP ${res.status}`);
         const catalog: unknown = await res.json();
         if (!Array.isArray(catalog) || catalog.some(job =>
           !job || typeof job !== 'object' || ['id', 'title', 'company', 'slug'].some(key => typeof job[key] !== 'string')
         )) throw new Error('Invalid jobs catalog');
+        catalogExpiresAt = Date.now() + CATALOG_TTL_MS;
         return catalog as Job[];
       })
       .catch((error) => {
         catalogPromise = null;
+        catalogExpiresAt = 0;
         throw error;
       });
   }
   return catalogPromise;
+}
+
+export function jobsCatalogNeedsRefresh(): boolean {
+  return !catalogPromise || Date.now() >= catalogExpiresAt;
 }
 
 /** Paginated jobs from static build output (no Serverless Function on the host). */

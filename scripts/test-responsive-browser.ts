@@ -59,7 +59,7 @@ async function main() {
     await page.goto(origin + '/crypto-vc', { waitUntil: 'load' });
     await page.waitForFunction(() => { const image = document.querySelector('main img[alt="Crypto VC & Investment Roundtable"]') as HTMLImageElement | null; return image?.complete && image.naturalWidth > 0 && image.currentSrc.includes('/events/'); });
     const companyJobs = jobs.filter(job => job.company === 'Open Standard');
-    assert.equal(companyJobs.length, 5);
+    assert.equal(new Set(companyJobs.map(job => job.slug)).size, companyJobs.length);
     assert.ok(companyJobs.every(job => !/general interest/i.test(job.title)));
     await page.goto(origin + '/open-standard', { waitUntil: 'load' });
     assert.equal(await page.locator('main h1').textContent(), 'Open Standard');

@@ -132,6 +132,12 @@ export async function middleware(request: NextRequest) {
     url.pathname = learnDestination + normalizedLearnPath.slice(learnBasePath.length);
     return NextResponse.redirect(url, 308);
   }
+  if (normalizedLearnPath.startsWith('/learn/') && !normalizedLearnPath.includes('.')) {
+    const url = request.nextUrl.clone();
+    url.pathname = '/_not-found';
+    url.search = '';
+    return NextResponse.rewrite(url, { status: 404, headers: { 'X-Robots-Tag': 'noindex' } });
+  }
   const searchParams = request.nextUrl.searchParams;
   const host = request.headers.get('host')?.split(':')[0]?.toLowerCase();
   if (host === 'www.hashtagweb3.com') {

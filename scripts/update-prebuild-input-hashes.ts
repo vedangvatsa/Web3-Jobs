@@ -1,12 +1,13 @@
 #!/usr/bin/env tsx
-import { execSync } from 'node:child_process';
+import { parseArgs } from 'node:util';
 import {
   loadManifest,
-  refreshAllHashes,
+  recordCompletedSteps,
   saveManifest,
 } from './lib/prebuild-manifest';
 
+const { values } = parseArgs({ options: { step: { type: 'string', multiple: true } } });
 const manifest = loadManifest();
-refreshAllHashes(manifest);
+recordCompletedSteps(manifest, values.step || []);
 saveManifest(manifest);
-console.log(`[update-prebuild-input-hashes] Wrote ${Object.keys(manifest.steps).length} step hashes → content/prebuild-input-hashes.json`);
+console.log(`[update-prebuild-input-hashes] Recorded completed generators: ${values.step!.join(', ')}`);

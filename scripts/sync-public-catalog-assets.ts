@@ -11,6 +11,8 @@ const ROOT = process.cwd();
 const STEP_ID = 'public-catalog-sync';
 
 const INPUTS = [
+  'scripts/sync-public-catalog-assets.ts',
+  'scripts/sync-public-catalog-assets.sh',
   'content/jobs-runtime.json',
   'content/events-runtime.json',
   'content/glossary-runtime.json',
@@ -27,6 +29,7 @@ const INPUTS = [
 ];
 
 const OUTPUTS = [
+  'public/data/articles-index.json',
   'public/data/jobs-runtime.json',
   'public/data/hiring-report-stats.json',
   'public/data/hiring-report-salary-sample.json',

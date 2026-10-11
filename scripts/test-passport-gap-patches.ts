@@ -38,6 +38,7 @@ test('pass manifests and exported inputs contain only replay data', () => {
 });
 
 test('capture ignores raw research files and preserves input bytes and cache originals', () => {
+  fs.mkdirSync('.cache/nomads', { recursive: true });
   const directory = fs.mkdtempSync('.cache/nomads/pass-input-test-');
   try {
     const cache = path.join(directory, 'research'), root = path.join(directory, 'export');

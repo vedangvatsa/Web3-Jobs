@@ -1,16 +1,18 @@
 #!/usr/bin/env sh
 # Copy committed runtime catalogs and shards into public/ (CDN paths).
-# Fail hard if the jobs catalog is missing — job pages depend on it.
+# Jobs and article listings require their public catalogues.
 set -eu
 mkdir -p public/data public/job-description-shards public/job-shards
 
 test -f content/jobs-runtime.json
+test -f content/articles-index.json
 cp content/jobs-runtime.json public/data/jobs-runtime.json
+cp content/articles-index.json public/data/articles-index.json
 cp content/hiring-report-stats.json content/hiring-report-salary-sample.json content/hiring-report-analysis-evidence.json public/data/
 
 cp content/events-runtime.json content/glossary-runtime.json \
   content/companies-runtime.json content/company-profiles-runtime.json \
-  content/company-socials.json content/articles-index.json content/news-cache.json public/data/ 2>/dev/null || true
+  content/company-socials.json content/news-cache.json public/data/ 2>/dev/null || true
 
 if [ -d content/job-description-shards ]; then
   cp -r content/job-description-shards/. public/job-description-shards/

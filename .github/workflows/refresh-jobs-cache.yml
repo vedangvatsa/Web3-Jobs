@@ -26,6 +26,10 @@ on:
     - cron: '30 19 * * *'
   workflow_dispatch:
     inputs:
+      website_recovery:
+        description: 'Refresh website catalogues and news without deployment, emails, videos or social posts'
+        type: boolean
+        default: false
       slot:
         description: 'Which publish slot to run'
         type: choice
@@ -94,6 +98,17 @@ jobs:
             echo "skip=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
+          if [ "${{ github.event.inputs.website_recovery }}" = "true" ]; then
+            echo "morning=true" >> "$GITHUB_OUTPUT"
+            echo "news=true" >> "$GITHUB_OUTPUT"
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+            echo "social=false" >> "$GITHUB_OUTPUT"
+            echo "videos=false" >> "$GITHUB_OUTPUT"
+            echo "slot=morning" >> "$GITHUB_OUTPUT"
+            echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
           if [ "${{ github.event.inputs.only_news }}" = "true" ] || [ "${{ github.event.inputs.news_dry_run }}" = "true" ]; then
             echo "morning=false" >> "$GITHUB_OUTPUT"
             echo "news=true" >> "$GITHUB_OUTPUT"
@@ -146,7 +161,7 @@ jobs:
 
   job-alerts:
     needs: [gate, ingest, deploy]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result != 'cancelled' }}
+    if: ${{ always() && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.skip != 'true' && needs.gate.outputs.morning == 'true' && needs.ingest.result == 'success' && needs.deploy.result != 'cancelled' }}
     permissions:
       contents: write
     uses: ./.github/workflows/daily-job-alerts.yml
@@ -258,7 +273,7 @@ jobs:
         run: npm ci --no-audit --no-fund
 
       - name: Test daily news discovery and publication
-        run: node --test scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
+        run: node --test scripts/news-discover.test.mjs scripts/news-workflow.test.mjs scripts/run-news-research.test.mjs scripts/lib/news-research.test.mjs scripts/lib/news-publish.test.mjs scripts/lib/news-validation.test.mjs scripts/lib/news-source-links.test.mjs scripts/social/telegram-native-news.test.mjs scripts/social/publish-slot-plan.test.mjs
 
       - name: Prepare the daily candidate queue
         id: research
@@ -340,6 +355,9 @@ jobs:
           echo "Dry-run clean: no commits, no pushes."
 
   refresh-news-snapshot:
+    concurrency:
+      group: rss-catalogue
+      cancel-in-progress: false
     needs: [gate]
     if: ${{ needs.gate.outputs.skip != 'true' && inputs.news_dry_run != true }}
     runs-on: ubuntu-latest
@@ -348,6 +366,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
@@ -358,30 +378,15 @@ jobs:
           set -euo pipefail
           npx tsx scripts/refresh-news-cache.ts
           npx tsx scripts/test-news-cache.ts
-          if git diff --quiet -- content/news-cache.json; then
-            echo "News snapshot unchanged."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/news-cache.json
-          git commit -m "news: refresh RSS snapshot $(date -u +%F)"
-          for i in 1 2 3; do
-            if ! git pull --rebase origin main; then
-              git rebase --abort || true
-              git reset --hard HEAD
-              echo "News snapshot rebase attempt $i failed"
-              sleep 2
-              continue
-            fi
-            if git push origin main; then
-              exit 0
-            fi
-            echo "News snapshot push attempt $i failed, retrying..."
-            sleep 2
-          done
-          echo "Failed to push news snapshot"
-          exit 1
+          node scripts/publish-catalog.mjs news
+
+      - name: Preserve RSS publication recovery
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rss-publication-${{ github.run_id }}-${{ github.run_attempt }}
+          include-hidden-files: true
+          path: .cache/catalog-publication/news/
 
   refresh-and-post:
     name: Telegram (${{ matrix.kind }})
@@ -502,14 +507,19 @@ jobs:
 
   refresh-events:
     name: Refresh event catalog
-    needs: [gate, ingest, deploy]
-    if: ${{ always() && needs.gate.outputs.skip != 'true' && needs.gate.outputs.social == 'true' && needs.ingest.result != 'cancelled' && needs.deploy.result != 'cancelled' && github.event.inputs.diagnose_telegram != 'true' }}
+    concurrency:
+      group: event-catalogue
+      cancel-in-progress: false
+    needs: [gate]
+    if: ${{ needs.gate.outputs.skip != 'true' && (needs.gate.outputs.morning == 'true' || needs.gate.outputs.deploy == 'true' || needs.gate.outputs.social == 'true') && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
@@ -543,42 +553,24 @@ jobs:
         run: npx tsx scripts/test-event-formatting.ts
       - name: Precompute and verify event catalogs
         run: npx tsx scripts/precompute-events-runtime.ts && npx tsx scripts/test-token2049-catalog.ts && npm run precompute:og-previews
+      - name: Record generated event catalogue hash
+        run: npm run update:prebuild-hashes -- --step=events-runtime
       - name: Backfill missing self-hosted event covers
         run: npx tsx scripts/backfill-missing-event-covers.ts
         continue-on-error: true
       - name: Prune and verify event covers
         run: npx tsx scripts/prune-stale-event-covers.ts && npm run test:stale-event-covers
-      - name: Refresh prebuild input hashes
-        run: npm run update:prebuild-hashes
 
       - name: Commit and push updated cache and state
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+        run: node scripts/publish-catalog.mjs events
 
-          # Replay only the catalog commit onto the latest main.
-          git fetch origin main
-
-          # Telegram receipts and job catalogs have independent writers.
-          git add content/events/ content/events-runtime.json content/prebuild-input-hashes.json public/preview/ public/events/
-
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: refresh verified event catalog"
-            for i in 1 2 3; do
-              if ! git rebase origin/main; then
-                git rebase --abort
-                echo "Event catalog conflicts with newer main; preserving remote changes."
-                exit 1
-              fi
-              git push origin main && exit 0
-              echo "Push attempt $i failed, reconciling and retrying..."
-              git fetch origin main
-              sleep 2
-            done
-            exit 1
-          fi
+      - name: Preserve event publication recovery
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: events-publication-${{ github.run_id }}-${{ github.run_attempt }}
+          include-hidden-files: true
+          path: .cache/catalog-publication/events/
 
       - name: Fail visibly when source discovery needs another attempt
         if: ${{ steps.token2049.outcome == 'failure' }}
@@ -599,6 +591,8 @@ jobs:
           SOCIAL: ${{ needs.gate.outputs.social }}
           INGEST: ${{ needs.ingest.result }}
           NEWS: ${{ needs.publish-news.result }}
+          NEWS_DUE: ${{ needs.gate.outputs.news }}
+          WEBSITE_RECOVERY: ${{ github.event.inputs.website_recovery }}
           ALERTS: ${{ needs.job-alerts.result }}
           POSTS: ${{ needs.post-openings.result }}
           VIDEOS: ${{ needs.post-videos.result }}
@@ -614,7 +608,7 @@ jobs:
             fail=1
           fi
           if [ "$MORNING" = "true" ]; then
-            for pair in "ingest:$INGEST" "publish-news:$NEWS" "job-alerts:$ALERTS" "news-snapshot:$SNAPSHOT"; do
+            for pair in "ingest:$INGEST" "news-snapshot:$SNAPSHOT"; do
               name="${pair%%:*}"
               result="${pair#*:}"
               if [ "$result" != "success" ]; then
@@ -622,6 +616,14 @@ jobs:
                 fail=1
               fi
             done
+          fi
+          if [ "$NEWS_DUE" = "true" ] && [ "$NEWS" != "success" ]; then
+            echo "::warning::publish-news was $NEWS; news remains due independently."
+            fail=1
+          fi
+          if [ "$MORNING" = "true" ] && [ "$WEBSITE_RECOVERY" != "true" ] && [ "$ALERTS" != "success" ]; then
+            echo "::warning::job-alerts was $ALERTS."
+            fail=1
           fi
           if [ "$SOCIAL" = "true" ]; then
             for pair in "post-openings:$POSTS" "post-videos:$VIDEOS" "refresh-and-post:$TELEGRAM"; do
