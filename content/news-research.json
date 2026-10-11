@@ -21922,23 +21922,23 @@
       "id": "69d2ddb419c22b7ada74",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T05:34:33.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "note": "Anthropic scanner story is unmerged GitHub PRs with no confirmed outcome; needs an acceptance or finding to qualify.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:05.791Z",
+      "reviewedAt": "2026-10-11T10:27:38.999Z",
       "retrySearches": [
-        "Anthropic frontier AI security scanner crypto applicants and program terms"
+        "Anthropic OSS Scanner enrolled projects merged PR"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "70657af4217816dbce56": {
       "source": "BeInCrypto",
@@ -47714,6 +47714,21 @@
           "reviewedAt": "2026-10-11T10:27:37.255Z",
           "retrySearches": [
             "ESMA opinion non-MiCA ART EMT three months January 2027"
+          ]
+        },
+        "69d2ddb419c22b7ada74": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Anthropic scanner story is unmerged GitHub PRs with no confirmed outcome; needs an acceptance or finding to qualify.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:38.999Z",
+          "retrySearches": [
+            "Anthropic OSS Scanner enrolled projects merged PR"
           ]
         }
       },
