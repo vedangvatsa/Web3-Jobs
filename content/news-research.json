@@ -23127,20 +23127,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c75de1b0ee258c6aa12c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T17:02:47.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger CryptoBilis probe as cryptobilis-drains; Cointelegraph version of the shared story, no separate article.",
+      "note": "Same Oct 9 Ledger CryptoBilis probe as ledger-implant; Cointelegraph angle folded into draft.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:57:22.560Z",
-      "duplicateOf": "cryptobilis-drains",
+      "reviewedAt": "2026-10-11T18:16:56.278Z",
+      "duplicateOf": "ledger-implant",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "4a6fbb06563317d68be1": {
       "source": "Bitcoin Magazine",
@@ -49197,6 +49198,15 @@
           "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as ledger-implant; folded into draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:16:54.232Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "c75de1b0ee258c6aa12c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger CryptoBilis probe as ledger-implant; Cointelegraph angle folded into draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:16:56.278Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
