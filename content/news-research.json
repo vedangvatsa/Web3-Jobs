@@ -24492,24 +24492,24 @@
       "id": "4c4395c92de68874e196",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T18:06:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+      "note": "Blockchain.com DCM and FCM story not fully read though snippets show CNBC origin plus corroboration; full reads outstanding.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:11.501Z",
+      "reviewedAt": "2026-10-11T10:28:11.487Z",
       "duplicateOf": "blockchain-cftc",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "Blockchain.com CFTC prediction markets derivatives approval CNBC report details and filing status"
+        "Blockchain.com DCM FCM licenses prediction markets"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "32a6fb4025d29d3c1e2f": {
       "source": "CoinDesk",
@@ -47999,6 +47999,21 @@
           "reviewedAt": "2026-10-11T10:28:09.723Z",
           "retrySearches": [
             "Robinhood Chain priority fees paying traders proposal"
+          ]
+        },
+        "4c4395c92de68874e196": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Blockchain.com DCM and FCM story not fully read though snippets show CNBC origin plus corroboration; full reads outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:11.487Z",
+          "retrySearches": [
+            "Blockchain.com DCM FCM licenses prediction markets"
           ]
         }
       },
