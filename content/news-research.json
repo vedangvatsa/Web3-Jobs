@@ -22564,15 +22564,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e5484a682e6ed261c67",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T14:55:23.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky settlement as mashinsky-ban; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:56:57.081Z",
+      "reason": "needs-corroboration",
+      "note": "Mashinsky settlement piece not fully read; same AG event, needs full read.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:17.950Z",
       "articleSlug": "mashinsky-ban",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -22580,7 +22585,11 @@
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9309-26"
       ],
-      "duplicateOf": "mashinsky-ban"
+      "duplicateOf": "mashinsky-ban",
+      "retrySearches": [
+        "New York AG Mashinsky 35M lifetime ban settlement release October 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "f3458e62d04228c30699": {
       "source": "The Defiant",
@@ -49996,6 +50005,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:20:15.744Z",
+          "retrySearches": [
+            "New York AG Mashinsky 35M lifetime ban settlement release October 2026"
+          ]
+        },
+        "3e5484a682e6ed261c67": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Mashinsky settlement piece not fully read; same AG event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:17.950Z",
           "retrySearches": [
             "New York AG Mashinsky 35M lifetime ban settlement release October 2026"
           ]
