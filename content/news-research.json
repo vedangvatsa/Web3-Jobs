@@ -17076,25 +17076,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a24ff3e84b27f6e7fec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 14,
+      "attempts": 15,
       "expiresAt": "2026-10-11T15:24:16.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 US government 12,267-BTC movement as the ready draft; Cointelegraph version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:33.551Z",
+      "note": "Same Oct 8 US government 12,267-BTC movement as bitfinex-move; Cointelegraph version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:06.711Z",
       "duplicateOf": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
-      ]
+      ],
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "4d71a9d867c5924200b7": {
       "source": "Decrypt",
@@ -47741,6 +47737,15 @@
           "note": "Same Oct 8 US government BTC movement as bitfinex-move; question headline on the same event, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:38:04.885Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
+        },
+        "3a24ff3e84b27f6e7fec": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 US government 12,267-BTC movement as bitfinex-move; Cointelegraph version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:06.711Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
         }
