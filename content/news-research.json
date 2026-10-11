@@ -20517,23 +20517,23 @@
       "id": "d33835776086f95c6798",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T10:23:14.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: unchainedcrypto.com. Needs full read plus second independent source before any draft.",
+      "note": "Robinhood stock-token exploration is unconfirmed staging on a single queued source; no filing or launch exists.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/robinhood-explores-stock-token-tied-to-t-rowe-price-actively-managed-etf/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:29.260Z",
+      "reviewedAt": "2026-10-11T10:27:23.526Z",
       "retrySearches": [
-        "Robinhood T Rowe Price stock token exploration terms and timeline"
+        "Robinhood T Rowe Price stock token actively managed ETF"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "19357b6f78dfafe2a59e": {
       "source": "Cointelegraph",
@@ -47579,6 +47579,21 @@
           "reviewedAt": "2026-10-11T10:27:21.877Z",
           "retrySearches": [
             "bitcoin lending 500 million commitments debut October 2026"
+          ]
+        },
+        "d33835776086f95c6798": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Robinhood stock-token exploration is unconfirmed staging on a single queued source; no filing or launch exists.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/robinhood-explores-stock-token-tied-to-t-rowe-price-actively-managed-etf/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:23.526Z",
+          "retrySearches": [
+            "Robinhood T Rowe Price stock token actively managed ETF"
           ]
         }
       },
