@@ -27693,11 +27693,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4de455120b6de1ab4611",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T00:45:34.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "price-chatter",
+      "note": "Ethereum ETF weekly outflow tally; flow chatter with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:59.598Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "50d9acc33a71e685bbd1": {
       "source": "Crypto Briefing",
@@ -49307,6 +49312,13 @@
           "note": "Weekly US bitcoin ETF reversal tally; flow chatter with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:57.305Z"
+        },
+        "4de455120b6de1ab4611": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Ethereum ETF weekly outflow tally; flow chatter with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:59.598Z"
         }
       },
       "baselineSlugs": [
