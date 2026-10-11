@@ -27711,11 +27711,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "46f4c5d73e8729ff9140",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T10:18:32.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "opinion",
+      "note": "Buterin AI-accelerates-Ethereum claim; interview remark with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:18.748Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "3e048ac386a82ad24798": {
       "source": "Crypto Briefing",
@@ -49667,6 +49672,13 @@
           "note": "Zcash quantum-key plans explainer; roadmap discussion with no vote, launch or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:16.507Z"
+        },
+        "46f4c5d73e8729ff9140": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Buterin AI-accelerates-Ethereum claim; interview remark with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:18.748Z"
         }
       },
       "baselineSlugs": [
