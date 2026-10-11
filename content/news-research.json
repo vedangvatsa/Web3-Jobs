@@ -23788,23 +23788,23 @@
       "id": "d9d9bbfe5d6fe8069395",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T14:23:01.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "NUVA Franklin and Animoca lineup story on a single queued source; asset-lineup details unverified.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:53.051Z",
+      "reviewedAt": "2026-10-11T10:28:03.072Z",
       "retrySearches": [
-        "Franklin Templeton Animoca NUVA asset lineup plan official statements"
+        "NUVA Franklin Templeton Animoca tokenized assets lineup"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "55f30187f50a87d90550": {
       "source": "The Block",
@@ -47924,6 +47924,21 @@
           "reviewedAt": "2026-10-11T10:28:01.388Z",
           "retrySearches": [
             "Ostium hack liquidity providers equity proposal October 2026"
+          ]
+        },
+        "d9d9bbfe5d6fe8069395": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "NUVA Franklin and Animoca lineup story on a single queued source; asset-lineup details unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:03.072Z",
+          "retrySearches": [
+            "NUVA Franklin Templeton Animoca tokenized assets lineup"
           ]
         }
       },
