@@ -2622,7 +2622,7 @@
     "sentAt": "2026-10-11T12:00:36.179Z"
   },
   "48830ba2-e38f-4cc5-a5bd-95d8b3e1033b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-11T19:47:02.593Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -2663,6 +2663,8 @@
       }
     ],
     "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/manager419?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engagement Manager</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/ops92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Strategy &amp; Operations Manager</a>\n• Coins.ph is hiring <a href=\"https://hashtagweb3.com/product217?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Operation</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/operations18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Operations Specialist</a>\n• Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior/ Principal Product Manager</a>",
-    "slotKey": "2026-10-11:evening"
+    "slotKey": "2026-10-11:evening",
+    "messageId": 16527,
+    "sentAt": "2026-10-11T19:47:04.670Z"
   }
 }
