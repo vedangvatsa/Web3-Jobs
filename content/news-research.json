@@ -27413,11 +27413,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9f47d64ee4bd4c37768b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T12:00:20.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "not-a-concrete-event",
+      "note": "After-hours stock pricing explainer; question headline with no dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:14.419Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "57f169ca9f8996d13bcd": {
       "source": "Crypto Briefing",
@@ -49643,6 +49648,13 @@
           "note": "IMF tokenized-stock findings writeup; same report analysis as companion, no dated event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:12.228Z"
+        },
+        "9f47d64ee4bd4c37768b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "After-hours stock pricing explainer; question headline with no dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:14.419Z"
         }
       },
       "baselineSlugs": [
