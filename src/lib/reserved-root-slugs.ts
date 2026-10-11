@@ -10,6 +10,7 @@ import { learnRoutes } from '@/lib/learn-routes';
 import nomadCities from '../../content/nomads/cities.json';
 import nomadToolPaths from '../../content/nomads/tool-paths.json';
 import nomadLegacyRoutes from '../../content/nomads/legacy-routes.json';
+import { tombstoneSlugs } from '../../scripts/lib/event-retention.mjs';
 
 /** App Router paths that must never be used as job slugs. */
 export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
@@ -136,6 +137,8 @@ const COMPANY_ROOT_ALIASES: readonly string[] = [
 
 function eventSlugsFromCache(): string[] {
   const slugs = new Set<string>();
+  const tombstonePath = path.join(process.cwd(), 'content/event-tombstones.json');
+  if (fs.existsSync(tombstonePath)) for (const slug of tombstoneSlugs(JSON.parse(fs.readFileSync(tombstonePath, 'utf8')))) slugs.add(slug);
   for (const relative of ['content/events-runtime.json', 'content/event-slug-history.json', 'content/events/sources/events-cache.json']) {
     const file = path.join(process.cwd(), relative);
     if (!fs.existsSync(file)) continue;

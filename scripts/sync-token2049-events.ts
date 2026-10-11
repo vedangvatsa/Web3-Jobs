@@ -13,6 +13,8 @@ import { downloadCover } from './lib/event-image-utils.mjs';
 import sourceConfig from '../content/events/token2049-sources.json';
 import reviewedFacts from '../content/events/token2049-reviewed-facts.json';
 import { hasEventEnded } from './lib/event-dates.mjs';
+import { canImportEvent, isEventRetentionDue } from './lib/event-retention.mjs';
+import eventTombstones from '../content/event-tombstones.json';
 
 const root = process.cwd();
 const output = path.join(root, 'content/events/sources/token2049-discovered.json');
@@ -214,6 +216,7 @@ async function main() {
   const additions: Web3Event[] = [];
   const pending: Group[] = [];
   for (const group of groups.values()) {
+    if (group.entries.every(entry => isEventRetentionDue(entry))) continue;
     const found = existingMatch(group.entries, [...live, ...stored]);
     const base = { url: group.url, name: group.entries[0].name, sources: [...new Set(group.entries.map(entry => entry.source))], sourceId: group.calendarEntryId };
     if (found) receipts.push({ ...base, status: 'existing', slug: found.slug });
@@ -240,6 +243,7 @@ async function main() {
       const found = existingMatch(group.entries, [...live, ...stored, ...additions], { ...patch, url: verified.primaryUrl });
       if (found) { receipts.push({ ...receipt, status: 'duplicate', slug: found.slug }); continue; }
       const id = patch.sourceVerification?.eventId ? `token2049-${patch.sourceVerification.eventId}` : group.calendarEntryId ? `token2049-official-${group.calendarEntryId}` : `token2049-${hash(urlIdentity(verified.primaryUrl)).slice(0, 16)}`;
+      if (!canImportEvent({ ...patch, id }, eventTombstones)) continue;
       const inWeek = patch.startDate >= '2026-10-01' && patch.startDate < '2026-10-13';
       const event: Web3Event = {
         id, name: patch.name, description: '', startDate: patch.startDate,
@@ -277,6 +281,7 @@ async function main() {
   }
   additions.splice(0, additions.length, ...kept);
   for (const entry of withoutUrl) {
+    if (isEventRetentionDue(entry)) continue;
     const base = { url: '', name: entry.name, sources: [entry.source] };
     const found = existingMatch([entry], [...live, ...stored, ...additions]);
     if (found) receipts.push({ ...base, status: 'existing', slug: found.slug });

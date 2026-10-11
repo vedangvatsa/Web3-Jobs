@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));
+const eventRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/events/redirects.json'), 'utf8'));
 const imageRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/image-redirects.json'), 'utf8'));
 const nomadToolPaths = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/tool-paths.json'), 'utf8'));
 const nomadLegacyRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/legacy-routes.json'), 'utf8'));
@@ -181,46 +182,7 @@ const nextConfig = {
       // Renamed Sept 2026 news slugs
       { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
       { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
-      // Duplicate event slug redirects to canonical premier events
-      { source: '/dssd2', destination: '/dssd1', permanent: true },
-      { source: '/usd2', destination: '/unchained-summit', permanent: true },
-      { source: '/crypto', destination: '/cryptofest', permanent: true },
-      { source: '/stablecon-26', destination: '/stablecon', permanent: true },
-      { source: '/stablecon-26-washington-dc', destination: '/stablecon', permanent: true },
-      { source: '/buildathon-cochabamba', destination: '/buildathon', permanent: true },
-      { source: '/hackindia-spark-12-jaipur', destination: '/hackindia', permanent: true },
-      { source: '/ethtokyo-week', destination: '/ethtokyo', permanent: true },
-      { source: '/agentic', destination: '/apo', permanent: true },
-      { source: '/agentic-payments-onchain', destination: '/apo', permanent: true },
-      { source: '/connect-by-cointelegraph-seoul-edition', destination: '/connect', permanent: true },
-      { source: '/korea', destination: '/kbw', permanent: true },
-      { source: '/korea-blockchain-week', destination: '/kbw', permanent: true },
-      { source: '/korea-blockchain-week-kbw2026', destination: '/kbw', permanent: true },
-      { source: '/korea-blockchain-week-networking-rooftop', destination: '/kbw', permanent: true },
-      { source: '/institutional-onchain-rwas-stablecoins', destination: '/institutional', permanent: true },
-      { source: '/rayls-in-seoul', destination: '/rayls', permanent: true },
-      { source: '/p-s-lisbon', destination: '/ps', permanent: true },
-      { source: '/institutional-onchain2', destination: '/institutional-onchain', permanent: true },
-      { source: '/vntr-investor-forum', destination: '/vntr', permanent: true },
-      { source: '/ethereum-cypherpunk-congress-mumbai', destination: '/ethereum2', permanent: true },
-      { source: '/the-un-banked-conference', destination: '/the', permanent: true },
-      { source: '/paris-blockchain-week', destination: '/pbw', permanent: true },
-      { source: '/paris-blockchain-week-2027', destination: '/pbw', permanent: true },
-      { source: '/istanbul-blockchain-week', destination: '/ibw', permanent: true },
-      { source: '/istanbul-blockchain-week-2026', destination: '/ibw', permanent: true },
-      { source: '/eth-cc', destination: '/ethcc', permanent: true },
-      { source: '/eth-dam', destination: '/ethdam', permanent: true },
-      { source: '/eth-prague', destination: '/ethprague', permanent: true },
-      { source: '/japan-blockchain-week', destination: '/jbw', permanent: true },
-      { source: '/japan-blockchain-week-2027', destination: '/jbw', permanent: true },
-      { source: '/australian-blockchain-week', destination: '/abw', permanent: true },
-      { source: '/eth-warsaw', destination: '/ethwarsaw', permanent: true },
-      { source: '/eth-belgrade', destination: '/ethbelgrade', permanent: true },
-      { source: '/eth-lisbon', destination: '/ethlisbon', permanent: true },
-      { source: '/eth-seoul', destination: '/ethseoul', permanent: true },
-      { source: '/eth-milan', destination: '/ethmilan', permanent: true },
-      { source: '/eth-bucharest', destination: '/ethbucharest', permanent: true },
-      { source: '/eth-kl', destination: '/ethkl', permanent: true },
+      ...Object.entries(eventRedirects).map(([source, destination]) => ({ source: `/${source}`, destination: `/${destination}`, permanent: true })),
       { source: '/terms-of-use', destination: '/terms-of-use.md', permanent: false },
       { source: '/terms', destination: '/terms-of-use.md', permanent: false },
       { source: '/tos', destination: '/terms-of-use.md', permanent: false },

@@ -5,6 +5,7 @@ import { isLumaDefaultPlaceholder, enrichLocalCovers } from './lib/event-image-u
 import { isWasetIcbtDuplicateEvent } from './lib/waset-icbt.mjs';
 import { fetchLumaCalendarEntries, lumaEventUrl } from './lib/luma-calendar.mjs';
 import { hasEventEnded } from './lib/event-dates.mjs';
+import { canImportEvent } from './lib/event-retention.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -1241,6 +1242,7 @@ async function fetchWeb3Events() {
   }
 
   const now = new Date().toISOString();
+  const tombstones = JSON.parse(fs.readFileSync(path.join(__dirname, '../content/event-tombstones.json'), 'utf8'));
   const rawCount = allEventsMap.size;
 
   // Trusted sources that are inherently Web3 (bypass strict name-level check)
@@ -1252,6 +1254,7 @@ async function fetchWeb3Events() {
   // ALL events must pass Web3 relevance — no exceptions
   const validEvents = Array.from(allEventsMap.values())
     .filter(e => {
+      if (!canImportEvent(e, tombstones)) return false;
       if (!e.startDate) return false;
       if (!e.name) return false;
       if (hasEventEnded(e, new Date(now).getTime())) return false;
@@ -1383,7 +1386,7 @@ async function fetchWeb3Events() {
       ...event, description: stored.description, descriptionSource: stored.descriptionSource,
     } : event);
   }
-  // Runtime generation filters ended events. Keep source copy and verified fields for future audits.
+  // Existing records are retired by the daily cleanup, which preserves their published URLs.
   fs.writeFileSync(cachePath, `${JSON.stringify([...storedById.values()], null, 2)}\n`);
   console.log(`Saved to ${cachePath}`);
 }

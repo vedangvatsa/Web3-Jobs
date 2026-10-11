@@ -6,10 +6,10 @@ import { setTimeout as delay } from 'node:timers/promises';
 
 export const CATALOG_PATHS = {
   jobs: ['content/jobs-cache.json', 'content/jobs-runtime.json', 'content/homepage-jobs.json', 'content/companies-runtime.json', 'content/slug-types.json', 'content/legacy-slugs-archive.json', 'content/job-description-shards/', 'content/prebuild-input-hashes.json', 'content/sitemap-routes.json', 'content/social-image-info.json', 'content/removed-job-paths.json', 'content/recovered-job-redirects.json', 'public/sitemap.xml', 'public/.well-known/sitemap.json', 'public/og/jobs/', 'public/og/companies/', 'public/og/manifest.json', 'public/preview/', 'public/logo/companies/'],
-  events: ['content/events/', 'content/events-runtime.json', 'content/event-slug-history.json', 'content/social-image-info.json', 'content/prebuild-input-hashes.json', 'public/preview/', 'public/events/'],
+  events: ['content/events/', 'content/events-runtime.json', 'content/event-slug-history.json', 'content/event-tombstones.json', 'content/event-image-overrides.json', 'content/event-cover-optimization.json', 'content/static-image-optimization.json', 'content/responsive-images.json', 'content/social-preview-image-cache.json', 'content/image-redirects.json', 'content/legacy-image-paths.json', 'content/social-image-info.json', 'content/prebuild-input-hashes.json', 'src/lib/event-guides.ts', 'scripts/event-emails.json', 'scripts/event-emails-full.json', 'public/preview/', 'public/events/', 'public/responsive/', 'public/images/', 'public/og/external/'],
   news: ['content/news-cache.json'],
 };
-const SHARED_MAPS = new Set(['content/prebuild-input-hashes.json', 'content/social-image-info.json', 'public/og/manifest.json', 'public/preview/.preview-manifest.json']);
+const SHARED_MAPS = new Set(['content/prebuild-input-hashes.json', 'content/social-image-info.json', 'content/responsive-images.json', 'content/social-preview-image-cache.json', 'content/image-redirects.json', 'public/og/manifest.json', 'public/preview/.preview-manifest.json']);
 const RECEIPT = 'content/catalog-refresh-state.json';
 
 export function mergeCatalogMap(base, local, remote, key = '') {

@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
+import { tombstoneSlugs } from './event-retention.mjs';
 
 export function allowedNewsPath(file) {
   return file === 'content/news-research.json' || file === 'content/news-tips.md'
@@ -28,6 +29,7 @@ export function pushNewsFiles({ cwd = process.cwd(), baseSha, expectedBaseSha = 
       git(['fetch', 'origin', 'main']);
       const remote = git(['rev-parse', 'FETCH_HEAD']);
       const reserved = new Set();
+      if (blobAt(remote, 'content/event-tombstones.json')) for (const slug of tombstoneSlugs(JSON.parse(git(['show', `${remote}:content/event-tombstones.json`])))) reserved.add(slug);
       for (const registry of ['content/slug-types.json', 'content/legacy-slugs-archive.json', 'content/event-slug-history.json']) {
         const data = JSON.parse(git(['show', `${remote}:${registry}`]));
         if (registry.includes('slug-types')) for (const values of Object.values(data)) if (Array.isArray(values)) for (const slug of values) reserved.add(slug);

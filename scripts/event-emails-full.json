@@ -69,29 +69,6 @@
     }
   },
   {
-    "name": "Istanbul Blockchain Week 2026",
-    "url": "https://istanbulblockchainweek.com",
-    "emails": [
-      "contact@istanbulblockchainweek.com"
-    ],
-    "event": {
-      "id": "premier-ibw-2026",
-      "slug": "ibw",
-      "name": "Istanbul Blockchain Week 2026",
-      "description": "Turkey\u2019s premier annual Web3 and blockchain gathering organized by EAK Digital, bridging continents with world-class keynotes, hackathons, and networking.",
-      "startDate": "2026-11-12T09:00:00.000Z",
-      "endDate": "2026-11-13T18:00:00.000Z",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "location": "Hilton Istanbul Bomonti, Istanbul, Turkey",
-      "url": "https://istanbulblockchainweek.com",
-      "website": "https://istanbulblockchainweek.com",
-      "coverImage": "/events/istanbul-blockchain-week.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "ETHSafari 2026",
     "url": "https://ethsafari.xyz",
     "emails": [
@@ -112,29 +89,6 @@
       "url": "https://ethsafari.xyz",
       "website": "https://ethsafari.xyz",
       "coverImage": "/events/ethsafari-banner.jpg",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "Taipei Blockchain Week 2026",
-    "url": "https://www.taipeiblockchainweek.com",
-    "emails": [
-      "info@taipeiblockchainweek.com"
-    ],
-    "event": {
-      "id": "premier-tbw-2026",
-      "slug": "taipei",
-      "name": "Taipei Blockchain Week 2026",
-      "description": "Taiwan's premier blockchain week of talks, workshops and networking across the Taipei Web3 ecosystem.",
-      "startDate": "2026-09-04T09:00:00.000Z",
-      "endDate": "2026-09-06T18:00:00.000Z",
-      "city": "Taipei",
-      "country": "Taiwan",
-      "location": "Taipei, Taiwan",
-      "url": "https://www.taipeiblockchainweek.com",
-      "website": "https://www.taipeiblockchainweek.com",
-      "coverImage": "http://static1.squarespace.com/static/62e43f6fccb8357cfc29e4de/t/68467213cc6de75b44dc615a/1779763798757/TBW+onboard+AI.png?format=1500w",
       "twitter": null,
       "source": "curated-premier"
     }
@@ -1039,7 +993,7 @@
       "endDate": "2026-09-15T23:00:00.000Z",
       "city": "Singapore",
       "country": "Singapore",
-      "location": "C\u00c9 LA VI Rooftop, Marina Bay Sands, Singapore",
+      "location": "CÉ LA VI Rooftop, Marina Bay Sands, Singapore",
       "url": "https://token2049.com",
       "website": "https://token2049.com",
       "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/68ff4193f76faf012400a64c_T2049%20Global%20-%20Opengraph.png",
@@ -1066,29 +1020,6 @@
       "website": "https://superteam.fun",
       "coverImage": "/events/superteam-asia.png",
       "source": "curated-premier"
-    }
-  },
-  {
-    "name": "ETH Berlin Smart Contract Security Workshop",
-    "url": "https://ethberlin.org",
-    "emails": [
-      "schoedon@ethberlin.org",
-      "contact@ethberlin.org"
-    ],
-    "event": {
-      "id": "side-berlin-eth-solidity-workshop",
-      "name": "ETH Berlin Smart Contract Security Workshop",
-      "description": "Hands-on vulnerability hunting, static analysis tool demos, and formal verification lab.",
-      "startDate": "2026-09-08T13:00:00.000Z",
-      "endDate": "2026-09-08T18:00:00.000Z",
-      "city": "Berlin",
-      "country": "Germany",
-      "location": "c-base space station, Berlin, Germany",
-      "url": "https://ethberlin.org",
-      "website": "https://ethberlin.org",
-      "source": "curated-premier",
-      "slug": "finality-forum-2026",
-      "coverImage": "/events/finality.png"
     }
   },
   {
@@ -1144,12 +1075,12 @@
     "event": {
       "id": "w3v-stellar-pro-hackathon",
       "name": "Stellar Pro Hackathon",
-      "description": "Stellar Pro Hackathon: a September 19\u201320, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
+      "description": "Stellar Pro Hackathon: a September 19–20, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
       "startDate": "2026-09-19T07:00:00.000Z",
       "endDate": "2026-09-21T19:00:00.000Z",
-      "city": "Beyo\u011flu",
+      "city": "Beyoğlu",
       "country": "TR",
-      "location": "Beyo\u011flu, TR",
+      "location": "Beyoğlu, TR",
       "url": "https://www.risein.com/programs/stellar-pro-hackathon",
       "coverImage": null,
       "bypassedFilter": true,
@@ -1199,7 +1130,7 @@
     }
   },
   {
-    "name": "EastPoint\u00a02026",
+    "name": "EastPoint 2026",
     "url": "https://www.eastpoint.xyz",
     "emails": [
       "contact@eastpoint.xyz",
@@ -1208,7 +1139,7 @@
     ],
     "event": {
       "id": "w3v-eastpoint2026",
-      "name": "EastPoint\u00a02026",
+      "name": "EastPoint 2026",
       "description": "EastPoint 2026: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
       "startDate": "2026-09-28T07:00:00.000Z",
       "endDate": "2026-09-28T19:00:00.000Z",
@@ -1314,194 +1245,39 @@
     }
   },
   {
-    "name": "Boston Blockchain Week 2026: The Digital Infrastructure Stack",
-    "url": "https://lu.ma/bbw26tickets",
-    "emails": [
-      "jane@framer.com",
-      "image@1-4-5-300x111.png.webp",
-      "partners@1.5x.png.webp",
-      "valentina-corbetta@1.5x.png.webp",
-      "chris-brown@1.5x-268x300.png.webp",
-      "image@1-4-5.png.webp",
-      "image@1-4-2.png.webp",
-      "partners@1.5x-768x560.png.webp",
-      "abyiss@1.5x.png.webp",
-      "image@1-5.png.webp",
-      "image@1-7-300x111.png.webp",
-      "image@1-2-5.png.webp",
-      "beasy@1.5x.png.webp",
-      "partners@1.5x-300x219.png.webp",
-      "brandon-wolf@1.5x-1-225x300.png.webp",
-      "chris-brown@1.5x.png.webp",
-      "valentina-corbetta@1.5x-268x300.png.webp",
-      "image@1-1-2.png.webp",
-      "image@1-7.png.webp",
-      "image@1-6.png.webp",
-      "image@1-5-300x111.png.webp",
-      "brandon-wolf@1.5x-1.png.webp"
-    ],
-    "event": {
-      "id": "luma-evt-PTNz2gFhxFh5lPO",
-      "name": "Boston Blockchain Week 2026: The Digital Infrastructure Stack",
-      "description": "",
-      "startDate": "2026-09-08T14:00:00.000Z",
-      "endDate": "2026-09-10T22:00:00.000Z",
-      "city": "Quincy",
-      "country": "United States",
-      "location": "Quincy, United States",
-      "url": "https://lu.ma/bbw26tickets",
-      "coverImage": "https://images.lumacdn.com/uploads/fz/0b6b9911-9ec6-4069-bf1b-2014fe128e1b.jpg",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "CryptoMondays x Boston Blockchain Week: Official Opening Night",
-    "url": "https://lu.ma/CryptoMondaysBostonBlockchain2026",
-    "emails": [
-      "%20j@nft-vip.io",
-      "j@nft-vip.io"
-    ],
-    "event": {
-      "id": "luma-evt-VtWPJS6i3fUHNS3",
-      "name": "CryptoMondays x Boston Blockchain Week: Official Opening Night",
-      "description": "",
-      "startDate": "2026-09-08T21:30:00.000Z",
-      "endDate": "2026-09-09T00:00:00.000Z",
-      "city": "Quincy",
-      "country": "United States",
-      "location": "Quincy, United States",
-      "url": "https://lu.ma/CryptoMondaysBostonBlockchain2026",
-      "coverImage": "https://images.lumacdn.com/uploads/34/bb54681a-ddca-46f1-9b90-1322485c5304.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
     "name": "ISC2 Silicon Valley - September 2026 Chapter Meeting",
     "url": "https://lu.ma/55xepilc",
     "emails": [
       "membership@isc2-siliconvalley-chapter.org"
-    ],
-    "event": {
-      "id": "luma-evt-YFOYTBPAEpM8b6O",
-      "name": "ISC2 Silicon Valley - September 2026 Chapter Meeting",
-      "description": "",
-      "startDate": "2026-09-09T01:00:00.000Z",
-      "endDate": "2026-09-09T03:00:00.000Z",
-      "city": "Santa Clara",
-      "country": "United States",
-      "location": "Santa Clara, United States",
-      "url": "https://lu.ma/55xepilc",
-      "coverImage": "https://images.lumacdn.com/uploads/rt/ced50ef6-2be1-48fb-a772-8fa5a3d3c63c.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Beer & Bitcoin Tuesdays (Los Angeles Aleworks)",
     "url": "https://lu.ma/8vqlli1c",
     "emails": [
       "press@google.com"
-    ],
-    "event": {
-      "id": "luma-evt-2PLueLEQdFKqvb4",
-      "name": "Beer & Bitcoin Tuesdays (Los Angeles Aleworks)",
-      "description": "",
-      "startDate": "2026-09-09T01:30:00.000Z",
-      "endDate": "2026-09-09T05:30:00.000Z",
-      "city": "Hawthorne",
-      "country": "United States",
-      "location": "Hawthorne, United States",
-      "url": "https://lu.ma/8vqlli1c",
-      "coverImage": "https://images.lumacdn.com/event-covers/uf/3df0825f-32f7-492e-8fdb-40bbff1134fb",
-      "source": "luma",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Superteam member office hours",
     "url": "https://lu.ma/member-office-hours",
     "emails": [
       "support@superteam.fun"
-    ],
-    "event": {
-      "id": "luma-host-evt-evt-oGq7JRJkO9n7UNV",
-      "name": "Superteam member office hours",
-      "description": "",
-      "startDate": "2026-09-09T14:30:00.000Z",
-      "endDate": "2026-09-09T16:00:00.000Z",
-      "city": "",
-      "country": "",
-      "location": "TBA",
-      "url": "https://lu.ma/member-office-hours",
-      "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
-      "source": "luma-trusted",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Mississauga+Oakville Bitcoin meetup",
     "url": "https://lu.ma/ig3gcyuu",
     "emails": [
       "press@google.com"
-    ],
-    "event": {
-      "id": "luma-evt-SKaI9NXy59AFJtc",
-      "name": "Mississauga+Oakville Bitcoin meetup",
-      "description": "",
-      "startDate": "2026-09-09T23:00:00.000Z",
-      "endDate": "2026-09-10T01:00:00.000Z",
-      "city": "Mississauga",
-      "country": "Canada",
-      "location": "Mississauga, Canada",
-      "url": "https://lu.ma/ig3gcyuu",
-      "coverImage": "https://images.lumacdn.com/uploads/ce/2c0dd4a8-eb8b-4119-9c9e-7ef256f6dc69.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Superteam India Community Call [2026]",
     "url": "https://lu.ma/stin-commcall-2026",
     "emails": [
       "support@superteam.fun"
-    ],
-    "event": {
-      "id": "luma-host-evt-evt-T2tQkKnZEqXWxYO",
-      "name": "Superteam India Community Call [2026]",
-      "description": "",
-      "startDate": "2026-09-10T12:30:00.000Z",
-      "endDate": "2026-09-10T13:10:00.000Z",
-      "city": "",
-      "country": "",
-      "location": "TBA",
-      "url": "https://lu.ma/stin-commcall-2026",
-      "coverImage": "https://images.lumacdn.com/event-covers/qo/cbcdd981-6871-45fe-aaab-4bae6cffab27",
-      "source": "luma-trusted",
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "Superteam T\u00fcrkiye x Colosseum | Malatya Meetup",
-    "url": "https://lu.ma/ouoawq4u",
-    "emails": [
-      "support@superteam.fun"
-    ],
-    "event": {
-      "id": "luma-host-evt-evt-c20l9ElBh7EZgK9",
-      "name": "Superteam T\u00fcrkiye x Colosseum | Malatya Meetup",
-      "description": "",
-      "startDate": "2026-09-10T13:00:00.000Z",
-      "endDate": "2026-09-10T14:30:00.000Z",
-      "city": "Battalgazi",
-      "country": "T\u00fcrkiye",
-      "location": "Battalgazi, T\u00fcrkiye",
-      "url": "https://lu.ma/ouoawq4u",
-      "coverImage": "https://images.lumacdn.com/uploads/i1/1f479b96-1e18-4abf-9268-4e4e87355f6a.png",
-      "source": "luma-trusted",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Tech Weekend September 10-11, 2026 | Menlo Park | Silicon Valley",
@@ -1520,48 +1296,6 @@
       "location": "Menlo Park, United States",
       "url": "https://lu.ma/55ifg8h5",
       "coverImage": "https://images.lumacdn.com/uploads/5i/338162e8-7065-4286-b3b9-509b9bd878b6.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "Society Strong Rooftop HIIT Workout",
-    "url": "https://lu.ma/vjts0xyu",
-    "emails": [
-      "press@google.com"
-    ],
-    "event": {
-      "id": "luma-evt-DoGayS2qBSiXbP5",
-      "name": "Society Strong Rooftop HIIT Workout",
-      "description": "",
-      "startDate": "2026-09-10T22:00:00.000Z",
-      "endDate": "2026-09-11T01:00:00.000Z",
-      "city": "New York",
-      "country": "United States",
-      "location": "New York, United States",
-      "url": "https://lu.ma/vjts0xyu",
-      "coverImage": "https://images.lumacdn.com/uploads/xk/f03ccb17-9803-4994-920b-d7203e3a7d0e.jpg",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "\ud83d\ude80 Orbital Runway: The Opening Night of Blockchain Week \u2013 UNGA + NYFW",
-    "url": "https://lu.ma/orbital-runway",
-    "emails": [
-      "press@google.com"
-    ],
-    "event": {
-      "id": "luma-evt-RzmTIT2WBgQEB0P",
-      "name": "\ud83d\ude80 Orbital Runway: The Opening Night of Blockchain Week \u2013 UNGA + NYFW",
-      "description": "",
-      "startDate": "2026-09-10T22:00:00.000Z",
-      "endDate": "2026-09-11T02:00:00.000Z",
-      "city": "New York",
-      "country": "United States",
-      "location": "New York, United States",
-      "url": "https://lu.ma/orbital-runway",
-      "coverImage": "https://images.lumacdn.com/uploads/fb/b06da435-cff7-458a-8f17-711a59929953.jpg",
       "source": "luma",
       "month": "September 2026"
     }
@@ -1620,9 +1354,9 @@
       "description": "",
       "startDate": "2026-09-11T16:00:00.000Z",
       "endDate": "2026-09-11T23:00:00.000Z",
-      "city": "Florian\u00f3polis",
+      "city": "Florianópolis",
       "country": "Brazil",
-      "location": "Florian\u00f3polis, Brazil",
+      "location": "Florianópolis, Brazil",
       "url": "https://lu.ma/rqlwp4ao",
       "coverImage": "https://images.lumacdn.com/uploads/44/3db54a90-0427-4485-b9d4-8d0ca09bbccd.png",
       "source": "luma-trusted",
@@ -1673,14 +1407,14 @@
     }
   },
   {
-    "name": "Verm\u00fa: Pr\u00e1cticas de abuela frente al fin del mundo: reciclaje, bricolaje, aprovechamiento y obsolescencia programada",
+    "name": "Vermú: Prácticas de abuela frente al fin del mundo: reciclaje, bricolaje, aprovechamiento y obsolescencia programada",
     "url": "https://lu.ma/h9zacafe",
     "emails": [
       "press@google.com"
     ],
     "event": {
       "id": "luma-evt-B1NX8H2rzXJPIBp",
-      "name": "Verm\u00fa: Pr\u00e1cticas de abuela frente al fin del mundo: reciclaje, bricolaje, aprovechamiento y obsolescencia programada",
+      "name": "Vermú: Prácticas de abuela frente al fin del mundo: reciclaje, bricolaje, aprovechamiento y obsolescencia programada",
       "description": "",
       "startDate": "2026-09-12T17:00:00.000Z",
       "endDate": "2026-09-12T19:00:00.000Z",
@@ -1715,7 +1449,7 @@
     }
   },
   {
-    "name": "So werden Teams & Prozesse fit f\u00fcr k\u00fcnstliche Intelligenz - KI-Management in der \u00f6ffentlichen Verwaltung",
+    "name": "So werden Teams & Prozesse fit für künstliche Intelligenz - KI-Management in der öffentlichen Verwaltung",
     "url": "https://lu.ma/euoyna8c",
     "emails": [
       "info@staatslabor.ch",
@@ -1724,7 +1458,7 @@
     ],
     "event": {
       "id": "luma-evt-pgJND5mu7XhHNnI",
-      "name": "So werden Teams & Prozesse fit f\u00fcr k\u00fcnstliche Intelligenz - KI-Management in der \u00f6ffentlichen Verwaltung",
+      "name": "So werden Teams & Prozesse fit für künstliche Intelligenz - KI-Management in der öffentlichen Verwaltung",
       "description": "",
       "startDate": "2026-09-15T07:15:00.000Z",
       "endDate": "2026-09-15T15:00:00.000Z",

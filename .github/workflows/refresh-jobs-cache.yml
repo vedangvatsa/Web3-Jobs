@@ -528,8 +528,11 @@ jobs:
 
       - name: Test event discovery helpers
         run: |
-          node --test scripts/lib/luma-calendar.test.mjs scripts/lib/event-dates.test.mjs scripts/lib/event-image-utils.test.mjs
+          node --test scripts/lib/luma-calendar.test.mjs scripts/lib/event-dates.test.mjs scripts/lib/event-image-utils.test.mjs scripts/lib/event-retention.test.mjs
           npx tsx --test scripts/test-token2049-import.ts scripts/test-token2049-catalog-regression.ts scripts/test-catalog-root-order.ts
+
+      - name: Retire expired stored events before discovery
+        run: node scripts/retain-events.mjs
 
       - name: Import verified TOKEN2049 events before the broad calendar crawl
         id: token2049

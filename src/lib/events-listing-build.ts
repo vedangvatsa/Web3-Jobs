@@ -11,6 +11,8 @@ import { getEventDisplayCity } from './event-map-locations';
 import { isWasetIcbtDuplicateEvent, WASET_ICBT_SERIES_ID } from './waset-icbt';
 import { learnRoutes } from './learn-routes';
 import { hasEventEnded } from '../../scripts/lib/event-dates.mjs';
+import { canImportEvent, tombstoneSlugs } from '../../scripts/lib/event-retention.mjs';
+import eventTombstones from '../../content/event-tombstones.json';
 import { assignStableEventSlugs, type EventSlugHistory } from './event-slug-assignment';
 
 // Explicitly blocked promotional posts that are not events
@@ -152,6 +154,7 @@ async function getRootContentSlugs(): Promise<Set<string>> {
 
 async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]> {
   const reserved = await getRootContentSlugs();
+  for (const slug of tombstoneSlugs(eventTombstones)) reserved.add(slug);
   const historyPath = path.join(process.cwd(), 'content/event-slug-history.json');
   const previousPath = path.join(process.cwd(), 'content/events-runtime.json');
   const history: EventSlugHistory = fs.existsSync(historyPath) ? JSON.parse(fs.readFileSync(historyPath, 'utf8')) : {};
@@ -160,7 +163,7 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
       if (event.slug && !history[event.id]) history[event.id] = { slug: event.slug, aliases: event.aliases };
     }
   }
-  return assignStableEventSlugs(events, reserved, history);
+  return assignStableEventSlugs(events.filter(event => canImportEvent(event, eventTombstones)), reserved, history);
 }
 
 function isQualityEvent(e: Web3Event): boolean {

@@ -5,34 +5,6 @@
   "applied": true,
   "records": [
     {
-      "id": "premier-ethmilan-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.ethmilan.xyz/",
-        "fetchedAt": "2026-09-20T00:20:05.603Z",
-        "method": "event-jsonld",
-        "pageTitle": "ETHMilan 2026 — Italy's Largest Ethereum & Web3 Conference | May 21-22, Milan",
-        "sha256": "5ac4bf5de3ae7f0842e9450919a7b851e696274555b4eb16a6297b8e95be5d37"
-      },
-      "eventFacts": {
-        "startDate": "2026-05-21T09:00:00+02:00",
-        "endDate": "2026-05-22T18:00:00+02:00",
-        "venueName": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci",
-        "streetAddress": "Via San Vittore, 21",
-        "addressLocality": "Milan",
-        "addressRegion": "MI",
-        "postalCode": "20123",
-        "addressCountry": "IT",
-        "city": "Milan",
-        "country": "IT",
-        "location": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci, Via San Vittore, 21, Milan, MI, 20123, IT"
-      },
-      "previousStartDate": "2026-10-08T09:00:00.000Z",
-      "characters": 168,
-      "preview": "ETHMilan 2026 is Italy's largest Ethereum and Web3 conference, bringing together 2,000+ attendees, 100+ speakers, and leading blockchain projects on May 21-22 in Milan."
-    },
-    {
       "id": "premier-ethcc-2027",
       "file": "curated-events.json",
       "status": "source-backed",

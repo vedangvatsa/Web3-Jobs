@@ -57,6 +57,8 @@
     "audit:detail-formatting": "tsx scripts/audit-detail-formatting.ts",
     "test:detail-formatting:browser": "tsx scripts/test-detail-formatting-browser.ts",
     "precompute:events-runtime": "npx tsx scripts/precompute-events-runtime.ts",
+    "retain:events": "node scripts/retain-events.mjs && tsx scripts/organize-event-content.ts",
+    "test:event-retention": "node --test scripts/lib/event-retention.test.mjs && tsx --test scripts/test-event-retention-routing.ts",
     "organize:events": "tsx scripts/organize-event-content.ts",
     "check:event-content": "tsx scripts/organize-event-content.ts --check",
     "test:event-descriptions": "tsx scripts/test-event-descriptions.ts",

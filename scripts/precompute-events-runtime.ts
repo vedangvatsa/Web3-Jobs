@@ -1,14 +1,15 @@
 import { execSync } from 'node:child_process';
 import * as fs from 'fs';
 import * as path from 'path';
-import { buildEventsListing } from '../src/lib/events-listing-build';
-import { writeEventContentCatalog } from './event-content-catalog';
 import type { EventSlugHistory } from '../src/lib/event-slug-assignment';
 
 const OUT_PATH = path.join(process.cwd(), 'content/events-runtime.json');
 const PUBLIC_DATA_PATH = path.join(process.cwd(), 'public/data/events-runtime.json');
 
 async function main() {
+  execSync('node scripts/retain-events.mjs', { stdio: 'inherit' });
+  const { buildEventsListing } = await import('../src/lib/events-listing-build');
+  const { writeEventContentCatalog } = await import('./event-content-catalog');
   writeEventContentCatalog();
   const historyPath = path.join(process.cwd(), 'content/event-slug-history.json');
   const history: EventSlugHistory = fs.existsSync(historyPath) ? JSON.parse(fs.readFileSync(historyPath, 'utf8')) : {};

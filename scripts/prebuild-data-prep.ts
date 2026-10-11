@@ -22,6 +22,7 @@ function syncPublicAssets(): void {
 }
 
 function main(): void {
+  run('node scripts/retain-events.mjs');
   // The optimizer's content hashes avoid repeated lossy encoding, including on fast builds.
   run('npx tsx scripts/optimize-static-images.ts');
   const manifest = loadManifest();

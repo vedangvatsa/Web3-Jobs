@@ -1,6 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { load } from 'cheerio';
+import { canImportEvent } from './lib/event-retention.mjs';
+import eventTombstones from '../content/event-tombstones.json';
 
 type SideEvent = {
   id: string;
@@ -122,7 +124,7 @@ async function main() {
     const filePath = path.join(process.cwd(), 'content', 'events', 'sources', fileName);
     const existing: SideEvent[] = fs.existsSync(filePath) ? JSON.parse(fs.readFileSync(filePath, 'utf8')) : [];
     const previous = new Map(existing.map((event) => [event.id, event]));
-    fs.writeFileSync(filePath, `${JSON.stringify(events.map((event) => {
+    fs.writeFileSync(filePath, `${JSON.stringify(events.filter(event => canImportEvent(event, eventTombstones)).map((event) => {
       const stored = previous.get(event.id);
       return stored ? { ...event, ...stored } : event;
     }), null, 2)}\n`);

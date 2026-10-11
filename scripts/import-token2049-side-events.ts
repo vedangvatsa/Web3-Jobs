@@ -1,6 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import * as XLSX from 'xlsx';
+import { canImportEvent } from './lib/event-retention.mjs';
+import eventTombstones from '../content/event-tombstones.json';
 
 type CachedEvent = {
   id: string;
@@ -109,6 +111,7 @@ async function main() {
       continue;
     }
 
+    if (!canImportEvent({ id: `token2049-side-${id}`, startDate, endDate }, eventTombstones)) continue;
     imported.push({
       id: `token2049-side-${id}`,
       name,

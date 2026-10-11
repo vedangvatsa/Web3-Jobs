@@ -70,3 +70,18 @@ test('shared-map merge preserves independent additions and deletions and rejects
   assert.deepEqual(JSON.parse(JSON.stringify(result)), { keep: 1, added: 3, remote: 4 });
   assert.throws(() => mergeCatalogMap({ value: 1 }, { value: 2 }, { value: 3 }), /Concurrent catalogue conflict/);
 });
+
+test('event publication carries tombstones and asset/guide deletions without unrelated files', async t => {
+  const { cwd, remote, git, write, run } = fixture(t);
+  for (const file of ['public/events/old.webp', 'public/preview/old.html', 'public/responsive/old/320.webp']) write(cwd, file, 'old');
+  write(cwd, 'src/lib/event-guides.ts', 'old guide');
+  git(['add', '.']); git(['commit', '-m', 'Event assets']); git(['push', 'origin', 'main']);
+  for (const file of ['public/events/old.webp', 'public/preview/old.html', 'public/responsive/old/320.webp']) fs.unlinkSync(path.join(cwd, file));
+  write(cwd, 'src/lib/event-guides.ts', 'retained guides');
+  write(cwd, 'content/event-tombstones.json', '{"old":{"until":"2027-10-12T00:00:00Z","slugs":["old"]}}');
+  write(cwd, 'unrelated.txt', 'leave alone');
+  await run({ kind: 'events' });
+  for (const file of ['public/events/old.webp', 'public/preview/old.html', 'public/responsive/old/320.webp', 'unrelated.txt']) assert.throws(() => git(['--git-dir', remote, 'show', `main:${file}`]));
+  assert.equal(JSON.parse(git(['--git-dir', remote, 'show', 'main:content/event-tombstones.json'])).old.slugs[0], 'old');
+  assert.equal(git(['--git-dir', remote, 'show', 'main:src/lib/event-guides.ts']), 'retained guides');
+});

@@ -6,6 +6,8 @@ import { preparePreviewImage, writeSocialImageInfo } from './lib/og-preview-asse
 import { isRemediatedJobSlug } from '../src/lib/job-guides';
 import { legacyNomadDestination } from '../src/lib/nomads/metadata';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
+import eventTombstones from '../content/event-tombstones.json';
+import { removedEventStatus } from './lib/event-retention.mjs';
 import {
   buildOgPreviewHtml,
   collectOgPreviewPaths,
@@ -46,6 +48,7 @@ async function main() {
   const livePaths = new Set<string>();
 
   for (const contentPath of paths) {
+    if (removedEventStatus(contentPath, eventTombstones)) continue;
     livePaths.add(contentPath);
     const meta = await preparePreviewImage(await resolveOgPreviewMeta(contentPath));
     const fingerprint = sha(JSON.stringify(meta));
@@ -81,7 +84,7 @@ async function main() {
   for (const file of existingShells(OUT_ROOT)) {
     const relative = path.relative(OUT_ROOT, file).replace(/\\/g, '/').replace(/\.html$/, '');
     const contentPath = relative === 'index' ? '/' : `/${relative}`;
-    if (isRemovedJobPath(contentPath)) {
+    if (isRemovedJobPath(contentPath) || removedEventStatus(contentPath, eventTombstones)) {
       fs.unlinkSync(file);
       delete manifest[contentPath];
       continue;

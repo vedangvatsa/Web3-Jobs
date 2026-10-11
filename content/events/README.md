@@ -12,20 +12,43 @@ Start with [INDEX.md](INDEX.md) to find an event by name, date, or source feed. 
 | `sources/india-luma-events.json` | India Luma events | Yes |
 | `sources/luma-crypto-events.json` | Luma crypto calendar imports | Yes |
 | `sources/events-cache.json` | Aggregated event feed, including Luma host imports | Yes |
-| `editorial/generated-event-guides.json` | Archived generated guides; never used by event pages | Archive only |
+| `editorial/generated-event-guides.json` | Unpublished generated guides, subject to event retention | No |
+| `retention-dates.json`, `editorial/guide-identities.json` | Date/identity links for older guides whose original source row is absent | Reviewed corrections only |
+| `../event-tombstones.json` | Temporary event IDs, old root slugs and expiration instants | Generated |
+| `redirects.json` | Live event alias redirects; removed with their event | Reviewed corrections only |
 | `INDEX.md`, `descriptions.md` | Generated browsing views of every stored description | No |
 | `verification-report.json` | Field-by-field comparison from the latest verification pass | No |
 | `SCHEMA.md`, `schema-report.json` | Google Event eligibility audit of current detail pages | No |
 | `content-origin-report.json` | Every current page's source-backed or unavailable status | No |
 | `official-description-report.json` | Official-source fetch outcomes and verified field corrections | No |
 
-Each source record keeps its original `id`, URL, metadata, and `description` together. Overlapping feeds are retained so that a duplicate listing cannot silently discard fetched text. The index includes past events that still exist in the source files. It does not recover records previously removed by ingestion.
+Each source record keeps its original `id`, URL, metadata, and `description` together. Overlapping feeds are retained within the retention window so that a duplicate listing cannot silently discard fetched text. The index includes past events until cleanup removes them.
 
-Event pages publish descriptions only when a successful source fetch is recorded in `sourceVerification` or `descriptionSource`. The browsing view applies the same publication cleanup and section formatter. Unverified historical copy remains in the source JSON for review and is not published as an event description.
+Event pages publish descriptions only when a successful source fetch is recorded in `sourceVerification` or `descriptionSource`. The browsing view applies the same publication cleanup and section formatter. Unverified historical copy remains in the source JSON for review within the retention window and is not published as an event description.
 
 Missing descriptions render an explicit unavailable state and an organizer link where one exists. The renderer never adds guessed agendas, travel advice, attendance numbers, ticket prices, or generic paragraphs to make a page longer. TOKEN2049 follows this same policy.
 
 ## Updating content
+
+### Retention
+
+- Ended events leave upcoming listings and the sitemap under the existing date filter.
+- Thirty elapsed days after the end, `scripts/retain-events.mjs` deletes stored source rows, description and guide copies, event-specific audit entries, unused covers and responsive variants, and generated preview shells. A date-only end includes the entire final day in the event's timezone (UTC if absent). Multi-day events use their end date.
+- Invalid dates, invalid timezones, reversed date ranges and postponed events are retained for review. If feeds disagree on the same identity, every copy must qualify before source deletion. Merged IDs follow their canonical event's lifetime.
+- Old canonical root URLs and aliases return HTTP 410 for twelve calendar months **from deletion**, then HTTP 404. February 29 anniversaries clamp to February 28. Middleware checks expiration on each request; daily cleanup also removes expired tombstones. Responses use `no-store` so a cached 410 cannot extend the period.
+- Tombstones contain only event identity, root slugs and an expiry instant. Importers reject expired source dates even after tombstone expiry. Event/job/news URL allocation reserves active tombstones. Shared assets and URLs owned by other current content are preserved.
+
+The existing daily event refresh cleans before discovery and again before runtime generation. Builds also clean before checking generator hashes. Event publication owns the tombstone registry and deletion paths. Git history is unchanged; local research caches are outside the tracked repository policy and are not published.
+
+```sh
+node scripts/retain-events.mjs --dry-run
+npm run retain:events
+npm run precompute:events-runtime
+npm run precompute:og-previews
+npm run test:event-retention
+```
+
+The one-time `--recover-history` option reads historical source snapshots to recover dates for orphaned guides; it does not rewrite history. Only small date/identity records for guides still within retention are saved. It is not part of the daily job. Audit counts describe their original audit run; event-level rows are pruned under this policy.
 
 1. Find the event in `INDEX.md` and follow its source-file link.
 2. Update that record's `description`, or run `npm run enrich:luma-descriptions` to fetch missing/stub descriptions from Luma.

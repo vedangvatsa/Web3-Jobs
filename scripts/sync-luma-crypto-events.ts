@@ -8,6 +8,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { getEventBaseSlug, normalizeCountry, type Web3Event } from '../src/lib/events';
 import { fetchLumaCalendarEntries } from './lib/luma-calendar.mjs';
+import { canImportEvent } from './lib/event-retention.mjs';
+import eventTombstones from '../content/event-tombstones.json';
 
 const OUTPUT = path.join('content', 'events', 'sources', 'luma-crypto-events.json');
 const UA = 'HashtagWeb3 Luma Sync/1.0 (+https://hashtagweb3.com)';
@@ -379,6 +381,7 @@ async function main() {
     }
 
     const id = `luma-crypto-${e.api_id.replace(/^evt-/, '')}`;
+    if (!canImportEvent({ id, startDate: e.start_at, endDate: e.end_at }, eventTombstones)) continue;
     const prev = existingById.get(id);
     if (prev?.sourceVerification) {
       nextEvents.push(prev);

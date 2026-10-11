@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { buildEventsListing } from '../../src/lib/events-listing-build';
+import { collectRetainedAssetReferences } from '../retain-events.mjs';
 
 const ROOT = process.cwd();
 const OVERRIDES_PATH = path.join(ROOT, 'content/event-image-overrides.json');
@@ -65,6 +66,10 @@ export async function collectLiveEventCoverBasenames(): Promise<Set<string>> {
   const live = new Set<string>(EXTRA_KEEP_BASENAMES);
   addOverrideBasenames(live);
   addPublishedPreviewImages(live);
+  for (const reference of collectRetainedAssetReferences()) {
+    const base = basenameFromEventPath(reference);
+    if (base && fs.existsSync(path.join(ROOT, 'public/events', base))) live.add(base);
+  }
 
   const events = await buildEventsListing();
   for (const event of events) {

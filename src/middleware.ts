@@ -9,6 +9,8 @@ import {
 import { getLearnRedirectPath } from '@/lib/learn-routes';
 import { isRetiredOrProbePath } from '@/lib/retired-request';
 import { isRemovedJobPath, recoveredJobDestination } from '@/lib/removed-job-path';
+import eventTombstones from '../content/event-tombstones.json';
+import { removedEventStatus } from '../scripts/lib/event-retention.mjs';
 /**
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
@@ -107,6 +109,11 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  const eventStatus = removedEventStatus(stripSocialPathSuffix(pathname.replace(/\/+$/, '')), eventTombstones);
+  if (eventStatus) return new NextResponse(eventStatus === 410 ? 'This event is no longer available.\n' : 'Not found\n', {
+    status: eventStatus,
+    headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex' },
+  });
   if (isRemovedJobPath(pathname)) return new NextResponse('This listing is no longer available.\n', {
     status: 410,
     headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300', 'X-Robots-Tag': 'noindex' },

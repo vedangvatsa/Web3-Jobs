@@ -69,29 +69,6 @@
     }
   },
   {
-    "name": "Istanbul Blockchain Week 2026",
-    "url": "https://istanbulblockchainweek.com",
-    "emails": [
-      "contact@istanbulblockchainweek.com"
-    ],
-    "event": {
-      "id": "premier-ibw-2026",
-      "slug": "ibw",
-      "name": "Istanbul Blockchain Week 2026",
-      "description": "Turkey\u2019s premier annual Web3 and blockchain gathering organized by EAK Digital, bridging continents with world-class keynotes, hackathons, and networking.",
-      "startDate": "2026-11-12T09:00:00.000Z",
-      "endDate": "2026-11-13T18:00:00.000Z",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "location": "Hilton Istanbul Bomonti, Istanbul, Turkey",
-      "url": "https://istanbulblockchainweek.com",
-      "website": "https://istanbulblockchainweek.com",
-      "coverImage": "/events/istanbul-blockchain-week.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "ETHSafari 2026",
     "url": "https://ethsafari.xyz",
     "emails": [
@@ -112,29 +89,6 @@
       "url": "https://ethsafari.xyz",
       "website": "https://ethsafari.xyz",
       "coverImage": "/events/ethsafari-banner.jpg",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
-    "name": "Taipei Blockchain Week 2026",
-    "url": "https://www.taipeiblockchainweek.com",
-    "emails": [
-      "info@taipeiblockchainweek.com"
-    ],
-    "event": {
-      "id": "premier-tbw-2026",
-      "slug": "taipei",
-      "name": "Taipei Blockchain Week 2026",
-      "description": "Taiwan's premier blockchain week of talks, workshops and networking across the Taipei Web3 ecosystem.",
-      "startDate": "2026-09-04T09:00:00.000Z",
-      "endDate": "2026-09-06T18:00:00.000Z",
-      "city": "Taipei",
-      "country": "Taiwan",
-      "location": "Taipei, Taiwan",
-      "url": "https://www.taipeiblockchainweek.com",
-      "website": "https://www.taipeiblockchainweek.com",
-      "coverImage": "http://static1.squarespace.com/static/62e43f6fccb8357cfc29e4de/t/68467213cc6de75b44dc615a/1779763798757/TBW+onboard+AI.png?format=1500w",
       "twitter": null,
       "source": "curated-premier"
     }
@@ -1039,7 +993,7 @@
       "endDate": "2026-09-15T23:00:00.000Z",
       "city": "Singapore",
       "country": "Singapore",
-      "location": "C\u00c9 LA VI Rooftop, Marina Bay Sands, Singapore",
+      "location": "CÉ LA VI Rooftop, Marina Bay Sands, Singapore",
       "url": "https://token2049.com",
       "website": "https://token2049.com",
       "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/68ff4193f76faf012400a64c_T2049%20Global%20-%20Opengraph.png",
@@ -1066,29 +1020,6 @@
       "website": "https://superteam.fun",
       "coverImage": "/events/superteam-asia.png",
       "source": "curated-premier"
-    }
-  },
-  {
-    "name": "ETH Berlin Smart Contract Security Workshop",
-    "url": "https://ethberlin.org",
-    "emails": [
-      "schoedon@ethberlin.org",
-      "contact@ethberlin.org"
-    ],
-    "event": {
-      "id": "side-berlin-eth-solidity-workshop",
-      "name": "ETH Berlin Smart Contract Security Workshop",
-      "description": "Hands-on vulnerability hunting, static analysis tool demos, and formal verification lab.",
-      "startDate": "2026-09-08T13:00:00.000Z",
-      "endDate": "2026-09-08T18:00:00.000Z",
-      "city": "Berlin",
-      "country": "Germany",
-      "location": "c-base space station, Berlin, Germany",
-      "url": "https://ethberlin.org",
-      "website": "https://ethberlin.org",
-      "source": "curated-premier",
-      "slug": "finality-forum-2026",
-      "coverImage": "/events/finality.png"
     }
   },
   {
@@ -1144,12 +1075,12 @@
     "event": {
       "id": "w3v-stellar-pro-hackathon",
       "name": "Stellar Pro Hackathon",
-      "description": "Stellar Pro Hackathon: a September 19\u201320, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
+      "description": "Stellar Pro Hackathon: a September 19–20, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
       "startDate": "2026-09-19T07:00:00.000Z",
       "endDate": "2026-09-21T19:00:00.000Z",
-      "city": "Beyo\u011flu",
+      "city": "Beyoğlu",
       "country": "TR",
-      "location": "Beyo\u011flu, TR",
+      "location": "Beyoğlu, TR",
       "url": "https://www.risein.com/programs/stellar-pro-hackathon",
       "coverImage": null,
       "bypassedFilter": true,
@@ -1199,7 +1130,7 @@
     }
   },
   {
-    "name": "EastPoint\u00a02026",
+    "name": "EastPoint 2026",
     "url": "https://www.eastpoint.xyz",
     "emails": [
       "contact@eastpoint.xyz",
@@ -1208,7 +1139,7 @@
     ],
     "event": {
       "id": "w3v-eastpoint2026",
-      "name": "EastPoint\u00a02026",
+      "name": "EastPoint 2026",
       "description": "EastPoint 2026: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
       "startDate": "2026-09-28T07:00:00.000Z",
       "endDate": "2026-09-28T19:00:00.000Z",
