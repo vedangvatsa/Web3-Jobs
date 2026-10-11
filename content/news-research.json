@@ -17107,20 +17107,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "4d71a9d867c5924200b7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T15:10:49.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Securitize Stocks launch event as the ready draft; Decrypt version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:23.751Z",
+      "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Decrypt version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:12.497Z",
       "duplicateOf": "securitize-stocks",
       "lastReviewedDay": "2026-10-11",
       "articleSlug": "securitize-stocks",
@@ -17133,7 +17128,8 @@
       ],
       "retrySearches": [
         "Securitize tokenized Apple Nvidia stocks Solana launch terms and NYSE trading plan"
-      ]
+      ],
+      "mergedInto": "b4cab21a62516fd28dba"
     },
     "3b110ea0056b771ffe65": {
       "source": "The Defiant",
@@ -47753,6 +47749,15 @@
           "reviewedAt": "2026-10-11T11:38:08.393Z",
           "duplicateOf": "bitfinex-move",
           "mergedInto": "be4753c98af4393ba28f"
+        },
+        "4d71a9d867c5924200b7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Securitize Stocks launch as securitize-stocks; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:12.497Z",
+          "duplicateOf": "securitize-stocks",
+          "mergedInto": "b4cab21a62516fd28dba"
         }
       },
       "baselineSlugs": [
