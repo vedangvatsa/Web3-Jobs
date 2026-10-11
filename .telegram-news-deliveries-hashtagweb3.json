@@ -1063,5 +1063,36 @@
     "slotKey": "2026-10-10:morning",
     "messageId": 155707,
     "sentAt": "2026-10-10T04:20:31.184Z"
+  },
+  "f4716487-0b92-4b56-bb5e-eae7f300a5fb": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T12:01:29.565Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Polymarket Upgrades Core Contracts to Protocol V2",
+        "summary": "The update uses an ERC-1155 positions contract and will transition new prediction markets starting November 2.",
+        "link": "https://hashtagweb3.com/polymarket-v2?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Polymarket Rebuilds Core Contracts With Protocol V2"
+      },
+      {
+        "index": -1,
+        "headline": "Shiba Inu Expands to Solana via Sunrise Gateway",
+        "summary": "The token debuted on October 4 with $514,000 in initial liquidity across nine Solana applications.",
+        "link": "https://hashtagweb3.com/shib-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SHIB Goes Live on Solana Through Sunrise Gateway"
+      },
+      {
+        "index": -1,
+        "headline": "Solana Releases Open-Source Trade Settlement Tool for Banks",
+        "summary": "Developed with J.P. Morgan input, the program allows banks to settle institutional trades in seconds.",
+        "link": "https://hashtagweb3.com/solana-dvp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana Foundation Launches DvP Atomic Settlement Program for Banks"
+      }
+    ],
+    "slotKey": "2026-10-11:afternoon"
   }
 }
