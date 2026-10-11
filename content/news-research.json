@@ -16835,25 +16835,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "ae47f8ab88a2c7848349",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 14,
+      "attempts": 15,
       "expiresAt": "2026-10-11T16:50:59.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 US government 12,267-BTC movement as the ready draft; CryptoSlate version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:30.314Z",
+      "note": "Same Oct 8 US government 12,267-BTC movement as bitfinex-move; CryptoSlate version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:38:01.377Z",
       "duplicateOf": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
-      ]
+      ],
+      "mergedInto": "be4753c98af4393ba28f"
     },
     "e33a650c55f3e7ab383a": {
       "source": "Decrypt",
@@ -47728,6 +47724,15 @@
           ],
           "reviewedAt": "2026-10-11T11:37:56.923Z",
           "articleSlug": "orca-merger"
+        },
+        "ae47f8ab88a2c7848349": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 US government 12,267-BTC movement as bitfinex-move; CryptoSlate version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:38:01.377Z",
+          "duplicateOf": "bitfinex-move",
+          "mergedInto": "be4753c98af4393ba28f"
         }
       },
       "baselineSlugs": [
