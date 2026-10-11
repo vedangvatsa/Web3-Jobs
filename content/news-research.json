@@ -26707,23 +26707,23 @@
       "id": "5aaad0e1e40020a64695",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T19:00:26.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
       "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "note": "BTCPay Tor opt-in story corroborated via search; BTCPay docs primary plus full reads outstanding.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/btcpays-docker-servers-must-opt-into-tor-to-keep-onion-access/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:30.696Z",
+      "reviewedAt": "2026-10-11T10:28:57.396Z",
       "retrySearches": [
-        "BTCPay Docker Tor opt-in onion access update scope second outlet full reads"
+        "BTCPay Server 2.4.5 Tor opt-add-tor Docker"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "549d2aebf1ee6c60b319": {
       "source": "BeInCrypto",
@@ -48392,6 +48392,21 @@
           "reviewedAt": "2026-10-11T10:28:55.752Z",
           "retrySearches": [
             "Pump.fun callout rewards follower profits Alon October 10 payout"
+          ]
+        },
+        "5aaad0e1e40020a64695": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "BTCPay Tor opt-in story corroborated via search; BTCPay docs primary plus full reads outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/btcpays-docker-servers-must-opt-into-tor-to-keep-onion-access/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:57.396Z",
+          "retrySearches": [
+            "BTCPay Server 2.4.5 Tor opt-add-tor Docker"
           ]
         }
       },
