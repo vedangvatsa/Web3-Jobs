@@ -2194,9 +2194,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Product Manager, Crypto at eToro\n\nLimassol, Cyprus\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #ProductJobs #Hiring",
-          "startedAt": "2026-10-11T19:33:48.843Z"
+          "startedAt": "2026-10-11T19:33:48.843Z",
+          "containerId": "17917242090461009"
         }
       }
     }
