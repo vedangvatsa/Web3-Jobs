@@ -26804,7 +26804,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd4403fca10c615fa959",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
       "attempts": 3,
       "expiresAt": "2026-10-14T09:01:51.000Z",
@@ -26832,7 +26832,8 @@
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "publishedAt": "2026-10-11T18:22:06.345Z"
     },
     "e182e8b8329b5f8fb79d": {
       "source": "BeInCrypto",
@@ -26901,7 +26902,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "c04e420dce52fc1475ed",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
       "attempts": 2,
       "expiresAt": "2026-10-14T10:22:44.000Z",
@@ -26925,7 +26926,8 @@
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "publishedAt": "2026-10-11T18:22:06.345Z"
     },
     "e80feea411621e342fab": {
       "source": "BeInCrypto",
@@ -26968,7 +26970,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "072632a0aec350c61b59",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
       "attempts": 2,
       "expiresAt": "2026-10-14T10:30:30.000Z",
@@ -27000,7 +27002,8 @@
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "publishedAt": "2026-10-11T18:22:06.345Z"
     },
     "24c7455649a5f41e652d": {
       "source": "BeInCrypto",
@@ -47129,7 +47132,7 @@
     "2026-10-11": {
       "day": "2026-10-11",
       "startedAt": "2026-10-11T10:11:39.908Z",
-      "status": "incomplete",
+      "status": "completed",
       "candidateIds": [
         "2a5f0f76edb1ecb37ab3",
         "23007533bd70cfbd0d1e",
@@ -49353,7 +49356,7 @@
           "automatic": true
         },
         "bd4403fca10c615fa959": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Ledger Oct 10 implant confirmation plus Oct 11 PeckShield Binance trace verified across Cointelegraph and two CryptoBriefing reports. Drafted 700+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
           "sourceChecks": [
@@ -49371,10 +49374,11 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:16:02.338Z",
-          "articleSlug": "ledger-implant"
+          "articleSlug": "ledger-implant",
+          "publishedAt": "2026-10-11T18:22:06.345Z"
         },
         "072632a0aec350c61b59": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "XRPL Oct 9 overflow disclosure verified across CryptoSlate, CoinDesk, the xrpl.org primary report and the Veria Labs writeup. Drafted 700+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
           "sourceChecks": [
@@ -49396,10 +49400,11 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:16:09.193Z",
-          "articleSlug": "xrpl-overflow"
+          "articleSlug": "xrpl-overflow",
+          "publishedAt": "2026-10-11T18:22:06.345Z"
         },
         "c04e420dce52fc1475ed": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Coldcard Oct 11 X-account phishing probe verified across Cointelegraph and CryptoBriefing full reads. Drafted 600+ words with self-hosted hero; quality, images, duplicates, formatting clean; all links return HTTP 200.",
           "sourceChecks": [
@@ -49413,7 +49418,8 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:16:11.307Z",
-          "articleSlug": "coldcard-phish"
+          "articleSlug": "coldcard-phish",
+          "publishedAt": "2026-10-11T18:22:06.345Z"
         },
         "7ecdfd994ce12296e566": {
           "status": "rejected",
@@ -50746,7 +50752,9 @@
         ],
         "total": 77,
         "checkedAt": "2026-10-11T18:08:25.505Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-11T18:22:06.345Z"
     }
   }
 }
