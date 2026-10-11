@@ -25189,23 +25189,23 @@
       "id": "74519b6c7c74b6d87aef",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-12T23:30:53.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "note": "Tether TRON-vault freeze story corroborated via search but origin never fully read; full reads plus draft outstanding.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:39.141Z",
+      "reviewedAt": "2026-10-11T10:28:28.532Z",
       "retrySearches": [
-        "THORChain Tether 1.4M TRON vault freeze claims with THORChain and Tether responses"
+        "Tether THORChain 1.45M USDT vault freeze Barraford Cointelegraph"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "0721db32299c4fabf108": {
       "source": "CoinDesk",
@@ -48157,6 +48157,21 @@
           "reviewedAt": "2026-10-11T10:28:26.851Z",
           "retrySearches": [
             "Ledger stolen funds USDD Tron mixer October 2026"
+          ]
+        },
+        "74519b6c7c74b6d87aef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Tether TRON-vault freeze story corroborated via search but origin never fully read; full reads plus draft outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:28.532Z",
+          "retrySearches": [
+            "Tether THORChain 1.45M USDT vault freeze Barraford Cointelegraph"
           ]
         }
       },
