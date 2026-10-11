@@ -23435,26 +23435,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "4a6fbb06563317d68be1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T16:43:45.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 9 Ledger CryptoBilis drain cluster as the ready draft; Bitcoin Magazine version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:52.620Z",
-      "duplicateOf": "ledger-drain",
-      "lastReviewedDay": "2026-10-10",
+      "reviewedAt": "2026-10-11T10:24:51.967Z",
+      "duplicateOf": "cryptobilis-drains",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "dc53e2f33c5fbeaf3082": {
       "source": "The Defiant",
@@ -46560,6 +46560,20 @@
           "reviewedAt": "2026-10-11T10:24:50.050Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "4f7eedcb04b022f754db"
+        },
+        "4a6fbb06563317d68be1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger CryptoBilis drain cluster as the ready draft; Bitcoin Magazine version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:51.967Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
         }
       },
       "baselineSlugs": [
