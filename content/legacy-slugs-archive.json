@@ -137108,5 +137108,53 @@
     "title": "Fullstack Engineer",
     "newSlug": "fullstack26",
     "recoveredFromMisattribution": true
+  },
+  "eng542": {
+    "id": "8267736",
+    "link": "https://stripe.com/jobs/search?gh_jid=8267736",
+    "company": "Stripe",
+    "title": "Software Engineer"
+  },
+  "sls275": {
+    "id": "8257746",
+    "link": "https://ripple.com/careers/all-jobs/job/8257746?gh_jid=8257746",
+    "company": "Ripple",
+    "title": "Senior Sales Manager"
+  },
+  "sls274": {
+    "id": "5442639008",
+    "link": "http://block.xyz/careers/jobs/5442639008?gh_jid=5442639008",
+    "company": "Block",
+    "title": "Bilingual Mandarin Business Development Rep"
+  },
+  "sec106": {
+    "id": "8842136002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8842136002?gh_jid=8842136002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer"
+  },
+  "sls276": {
+    "id": "8232743",
+    "link": "https://stripe.com/jobs/search?gh_jid=8232743",
+    "company": "Stripe",
+    "title": "Enterprise Account Executive, Privy"
+  },
+  "eng557": {
+    "id": "8211486",
+    "link": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
+    "company": "Coinbase",
+    "title": "Staff Machine Learning Engineer(Platform - Identity)"
+  },
+  "eng555": {
+    "id": "8782247002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "mgr175": {
+    "id": "6016480004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6016480004",
+    "company": "Galaxy Digital",
+    "title": "Technical Program Manager"
   }
 }
