@@ -2128,9 +2128,10 @@
           "url": "https://www.instagram.com/reel/DeWkB4_myDt/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "Hong Kong SAR\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
-          "startedAt": "2026-10-11T11:35:23.202Z"
+          "startedAt": "2026-10-11T11:35:23.202Z",
+          "postId": "6acb747cbba9419ccb33dad7"
         }
       }
     }
