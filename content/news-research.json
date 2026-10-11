@@ -27752,11 +27752,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "9196658e25e5a33bf896",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:18:19.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Oct 11 confirmed-cases angle as ledger-implant; Defiant page gave HTTP 403.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:16:33.845Z",
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959",
+      "lastReviewedDay": "2026-10-11"
     },
     "248815f856bd52c0607c": {
       "source": "Decrypt",
@@ -49078,6 +49090,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:16:31.856Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "9196658e25e5a33bf896": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 11 confirmed-cases angle as ledger-implant; Defiant page gave HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:33.845Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
