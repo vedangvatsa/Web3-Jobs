@@ -21739,25 +21739,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "7cb42063f34593cf0cc4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-12T06:34:11.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 Thai SEC ETF framework as thailand-etfs; BeInCrypto foreign-ban angle folded into the draft, no separate article.",
+      "reason": "needs-corroboration",
+      "note": "BeInCrypto Thailand foreign-ban angle not fully read; same framework event, needs full read.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T11:56:09.830Z",
+      "reviewedAt": "2026-10-11T18:19:38.243Z",
       "duplicateOf": "thailand-etfs",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
-      ]
+        "Thailand SEC bitcoin ether ETF foreign funds ban SET listing rules"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "69d2ddb419c22b7ada74": {
       "source": "Cointelegraph",
@@ -49764,6 +49765,21 @@
           "reviewedAt": "2026-10-11T18:19:35.902Z",
           "retrySearches": [
             "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
+          ]
+        },
+        "7cb42063f34593cf0cc4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "BeInCrypto Thailand foreign-ban angle not fully read; same framework event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:19:38.243Z",
+          "retrySearches": [
+            "Thailand SEC bitcoin ether ETF foreign funds ban SET listing rules"
           ]
         }
       },
