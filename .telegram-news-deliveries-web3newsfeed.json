@@ -1096,5 +1096,38 @@
     "slotKey": "2026-10-10:morning",
     "messageId": 65740,
     "sentAt": "2026-10-10T04:21:28.589Z"
+  },
+  "633629be-a434-49b8-8f11-b689e0821979": {
+    "status": "sent",
+    "reservedAt": "2026-10-11T12:00:44.931Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Hong Kong to Propose Virtual Asset Licensing Legislation",
+        "summary": "The government plans to regulate crypto trading, custody, advisory, and management services under a bill submitted this year.",
+        "link": "https://hashtagweb3.com/hong-kong?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hong Kong Plans 2026 Bill for Four Virtual Asset Licenses"
+      },
+      {
+        "index": -1,
+        "headline": "Shiba Inu Launches on Solana via Sunrise Gateway",
+        "summary": "The token reached $514,000 in early liquidity and became available on nine applications following its October 4 launch.",
+        "link": "https://hashtagweb3.com/shib-solana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SHIB Goes Live on Solana Through Sunrise Gateway"
+      },
+      {
+        "index": -1,
+        "headline": "Solana Foundation Releases Open-Source Settlement Software for Banks",
+        "summary": "The program, created with J.P. Morgan input, allows banks to settle institutional trades in seconds.",
+        "link": "https://hashtagweb3.com/solana-dvp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana Foundation Launches DvP Atomic Settlement Program for Banks"
+      }
+    ],
+    "slotKey": "2026-10-11:afternoon",
+    "messageId": 65741,
+    "sentAt": "2026-10-11T12:00:47.265Z"
   }
 }

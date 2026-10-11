@@ -1494,5 +1494,53 @@
     "slotKey": "2026-10-10:morning",
     "messageId": 155705,
     "sentAt": "2026-10-10T04:19:29.755Z"
+  },
+  "3a3f30ac-9942-4649-a851-cd986f75f0e5": {
+    "status": "sent",
+    "reservedAt": "2026-10-11T12:00:17.581Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-tabconf",
+        "slug": "tabconf",
+        "name": "TABConf 8 2026",
+        "startDate": "2026-10-12T09:00:00.000Z",
+        "keys": [
+          "premier-tabconf",
+          "page:tabconf:2026-10-12",
+          "event:tabconf82026:2026-10-12:atlanta"
+        ]
+      },
+      {
+        "id": "luma-crypto-mZkvPeUErlCZWoG",
+        "slug": "cbh",
+        "name": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
+        "startDate": "2026-10-12T20:00:00.000Z",
+        "keys": [
+          "luma-crypto-mzkvpeuerlczwog",
+          "page:cbh:2026-10-12",
+          "luma:evt-mzkvpeuerlczwog",
+          "luma-url:/oct-hackathon",
+          "event:companybrainhackathonbuildanaiagentthatknowsyourorganization:2026-10-12:menlo park"
+        ]
+      },
+      {
+        "id": "luma-batch-evt7gjnLEpvcig2Z",
+        "slug": "g1agc1dv",
+        "name": "Solana Across Campuses - San Diego State University",
+        "startDate": "2026-10-14T00:00:00.000Z",
+        "keys": [
+          "luma-batch-evt7gjnlepvcig2z",
+          "page:g1agc1dv:2026-10-13",
+          "luma:evt-7gjnlepvcig2zhe",
+          "luma-url:/g1agc1dv",
+          "event:solanaacrosscampusessandiegostateuniversity:2026-10-13:san diego"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-11:afternoon",
+    "messageId": 155715,
+    "sentAt": "2026-10-11T12:00:19.768Z"
   }
 }

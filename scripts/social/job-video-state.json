@@ -112,6 +112,10 @@
     "2026-10-10:afternoon": [
       "mkt53",
       "eng333"
+    ],
+    "2026-10-11:afternoon": [
+      "pm149",
+      "sec60"
     ]
   },
   "jobs": {
@@ -2066,6 +2070,76 @@
           "startedAt": "2026-10-10T11:47:35.618Z",
           "postId": "6aca25d9b07d37ac976f74ed",
           "url": "https://tiktok.com/@hashtagweb3/video/7695004597152173344"
+        }
+      }
+    },
+    "pm149": {
+      "slot": "2026-10-11:afternoon",
+      "selectedAt": "2026-10-11T11:31:03.338Z",
+      "verifiedAt": "2026-10-11T11:31:03.338Z",
+      "captions": {
+        "instagram": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX\n\nSliema, Malta\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #ProductJobs #Hiring",
+        "tiktok": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX. Sliema, Malta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Sliema, Malta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX\n\nSliema, Malta\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #ProductJobs #Hiring",
+          "startedAt": "2026-10-11T11:31:05.943Z",
+          "containerId": "17917184850461009",
+          "postId": "17949400266309637",
+          "url": "https://www.instagram.com/reel/DeWjqk7DNyK/"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "Sliema, Malta\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-11T11:32:08.209Z",
+          "postId": "6acb73b9bba9419ccb33bc78",
+          "url": "https://www.youtube.com/watch?v=HyBlVqt6P9g"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Senior/Lead Product Manager - Professional Trading Tools & Experience at OKX. Sliema, Malta.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-11T11:32:15.199Z",
+          "postId": "6acb73c0ed92ed8fa5ff2880",
+          "url": "https://tiktok.com/@hashtagweb3/video/7695371704780082464"
+        }
+      }
+    },
+    "sec60": {
+      "slot": "2026-10-11:afternoon",
+      "selectedAt": "2026-10-11T11:31:03.339Z",
+      "verifiedAt": "2026-10-11T11:31:03.339Z",
+      "captions": {
+        "instagram": "Chief Information Security Officer at Bybit\n\nHong Kong SAR\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
+        "tiktok": "Chief Information Security Officer at Bybit. Hong Kong SAR.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Hong Kong SAR\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Chief Information Security Officer at Bybit"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Chief Information Security Officer at Bybit\n\nHong Kong SAR\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #TechJobs #Hiring",
+          "startedAt": "2026-10-11T11:34:02.175Z",
+          "containerId": "17917185399461009",
+          "postId": "18130181794796012",
+          "url": "https://www.instagram.com/reel/DeWkB4_myDt/"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "Hong Kong SAR\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-11T11:35:23.202Z",
+          "postId": "6acb747cbba9419ccb33dad7",
+          "url": "https://www.youtube.com/watch?v=EwEeWEoNvZw"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Chief Information Security Officer at Bybit. Hong Kong SAR.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-11T11:35:30.050Z",
+          "postId": "6acb7483b07d37ac97a4b11f",
+          "url": "https://tiktok.com/@hashtagweb3/video/7695372569913937184"
         }
       }
     }

@@ -1240,5 +1240,51 @@
     "slotKey": "2026-10-10:morning",
     "messageId": 155706,
     "sentAt": "2026-10-10T04:19:48.103Z"
+  },
+  "539c5e5e-7ce3-45e9-a826-ca663f46fdb4": {
+    "status": "sent",
+    "reservedAt": "2026-10-11T12:00:40.088Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "key": "d88429072644",
+        "slug": "eng422",
+        "url": "https://hashtagweb3.com/eng422?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "SMT Engineer"
+      },
+      {
+        "key": "6212198004",
+        "slug": "mgr132",
+        "url": "https://hashtagweb3.com/mgr132?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Project Manager"
+      },
+      {
+        "key": "1c938940-9dae-42b1-ae24-ee8b5ab6ed77",
+        "slug": "sls121",
+        "url": "https://hashtagweb3.com/sls121?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Animoca Brands",
+        "title": "Accounting"
+      },
+      {
+        "key": "6149766004",
+        "slug": "engineer817",
+        "url": "https://hashtagweb3.com/engineer817?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Caladan",
+        "title": "Software Engineer"
+      },
+      {
+        "key": "7806698003",
+        "slug": "manager309",
+        "url": "https://hashtagweb3.com/manager309?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Business Development Manager"
+      }
+    ],
+    "message": "• Bitdeer is hiring <a href=\"https://hashtagweb3.com/eng422?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">SMT Engineer</a>\n• Alpaca is hiring <a href=\"https://hashtagweb3.com/mgr132?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Project Manager</a>\n• Animoca Brands is hiring <a href=\"https://hashtagweb3.com/sls121?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Accounting</a>\n• Caladan is hiring <a href=\"https://hashtagweb3.com/engineer817?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Software Engineer</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/manager309?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Manager</a>",
+    "slotKey": "2026-10-11:afternoon",
+    "messageId": 155716,
+    "sentAt": "2026-10-11T12:00:43.110Z"
   }
 }

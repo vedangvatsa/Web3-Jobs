@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-10-10T22:48:41.804Z",
+  "generatedAt": "2026-10-11T16:43:27.142Z",
   "items": [
+    {
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+      "pubDate": "Sun, 11 Oct 2026 16:01:03 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine strai...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
+      "creator": "Will Canny",
+      "contentSnippet": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unr...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+      "pubDate": "Sun, 11 Oct 2026 13:00:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "pubDate": "Sun, 11 Oct 2026 13:00:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not ca...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "CFTC Draws Sharp Line Excluding Casino Gambling From Swaps While Targeting Event Contracts",
+      "link": "https://dailyhodl.com/2026/10/11/cftc-draws-sharp-line-excluding-casino-gambling-from-swaps-while-targeting-event-contracts/",
+      "pubDate": "Sun, 11 Oct 2026 09:15:11 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The CFTC issued an interim final rule excluding casino-style gambling from the swap definition and proposed defining event contracts on sports, politi...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
+      "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 11 Oct 2026 09:05:00 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
       "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
@@ -8,14 +56,6 @@
       "creator": "Zack Abrams",
       "contentSnippet": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
       "source": "The Block"
-    },
-    {
-      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
-      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-      "pubDate": "Sat, 10 Oct 2026 17:01:03 +0000",
-      "creator": "Guillermo Jimenez",
-      "contentSnippet": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule e...",
-      "source": "Decrypt"
     },
     {
       "title": "NY AG Secures $35,000,000 and Lifetime Crypto Ban From Ex-Celsius CEO for Investor Fraud",
@@ -79,14 +119,6 @@
       "pubDate": "Sat, 10 Oct 2026 03:00:00 +0000",
       "creator": "Olivier Acuna",
       "contentSnippet": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "pubDate": "Fri, 09 Oct 2026 21:21:54 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's...",
       "source": "Coindesk"
     },
     {
@@ -192,14 +224,6 @@
       "creator": "Krisztian Sandor",
       "contentSnippet": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from B...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Crypto Wallet Ledger Now Lets Users Borrow Stablecoins Against Their Bitcoin Without Giving Up Self-Custody",
-      "link": "https://dailyhodl.com/2026/10/09/crypto-wallet-ledger-now-lets-users-borrow-stablecoins-against-their-bitcoin-without-giving-up-self-custody/",
-      "pubDate": "Fri, 09 Oct 2026 14:30:09 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Crypto hardware wallet maker Ledger is rolling out a new feature that lets users borrow stablecoins against their Bitcoin (BTC) without giving up cust...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures ",
@@ -354,30 +378,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "pubDate": "Fri, 09 Oct 2026 05:00:52 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "pubDate": "Fri, 09 Oct 2026 04:21:36 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-      "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-      "pubDate": "Fri, 09 Oct 2026 04:04:36 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large.",
-      "source": "Coindesk"
-    },
-    {
       "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
       "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 08 Oct 2026 22:35:00 +0000",
@@ -496,14 +496,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cush...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes ",
-      "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 15:55:55 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
