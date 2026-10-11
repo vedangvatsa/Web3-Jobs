@@ -96,3 +96,5 @@ The audit caches its snapshot set under `.cache/mumbai-event-audit/`; reruns reu
 Event-specific checks pass, including one canonical result for each of the 52 verified calendar events, excluded records, exact source times/timezones, private-address removal, duplicate aliases and runtime/public-copy equality. Content audit reports 231 source-backed pages, no unavailable descriptions and no generated/template descriptions.
 
 Independent release review restored EIP Hub's Devcon-ticket admission requirement. It also resolved the baseline `/fcm` reservation conflict: raw event titles no longer invent reservations; explicit slugs and aliases, including every published event history entry, remain reserved. Coinbase job `8154342` retains `/fcm`, and `test-published-event-slugs.ts` passes without changing job records.
+
+Live cold-request verification found duplicate `Location` headers on page-rendered redirects for `/dssd2` and `/usd2`. Both reviewed merges now have permanent redirects in `next.config.mjs`, resolving before ISR page rendering.
