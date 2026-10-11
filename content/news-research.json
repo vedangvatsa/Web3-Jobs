@@ -17698,24 +17698,24 @@
       "id": "54e70e74dd24c8a9a2ef",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-11T16:20:21.000Z",
       "lastSeenAt": "2026-10-08T23:51:14.834Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "note": "German MiCA-rejection story reachable but not fully read; no BaFin or company primary yet.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:33.936Z",
+      "reviewedAt": "2026-10-11T10:26:32.233Z",
       "retrySearches": [
-        "Bitcoin.de MiCA rejection BaFin decision details and trading halt status"
+        "German crypto platform MiCA license rejection BaFin operational overhaul"
       ],
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "duplicateOf": "bitcoin-de",
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "8f6ae7eb5f29e368d620": {
       "source": "BeInCrypto",
@@ -47133,6 +47133,21 @@
           "reviewedAt": "2026-10-11T10:26:30.622Z",
           "retrySearches": [
             "Supreme Court Kalshi New Jersey amicus NFL docket cert petition"
+          ]
+        },
+        "54e70e74dd24c8a9a2ef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "German MiCA-rejection story reachable but not fully read; no BaFin or company primary yet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:32.233Z",
+          "retrySearches": [
+            "German crypto platform MiCA license rejection BaFin operational overhaul"
           ]
         }
       },
