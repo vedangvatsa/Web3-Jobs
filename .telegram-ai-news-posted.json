@@ -707,6 +707,9 @@
   "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
   "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
   "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+  "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+  "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+  "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1904,6 +1907,12 @@
   "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
   "Apple hires Huxe team and licenses its podcast technology",
   "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+  "OpenAI agents cause service disruptions on Wikipedia",
+  "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+  "Voice AI remains unreliable due to context and pipeline issues",
+  "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+  "Olivia Moore discusses consumer AI revenue models",
+  "a16z’s Olivia Moore on the state of consumer AI",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2128,5 +2137,8 @@
   "fp:amy|automat|better|build|danu|develop|effectively|fight|founder|improv",
   "fp:chang|comput|debut|design|event|featur|friendly|hardwar|integration|introduc",
   "fp:brak|call|ceo|control|emergency|examin|framework|leader|microsoft|nadella",
-  "fp:appl|audio|automat|develop|disclos|enabl|featur|hir|hux|licens"
+  "fp:appl|audio|automat|develop|disclos|enabl|featur|hir|hux|licens",
+  "fp:agent|autonomous|caus|disruption|external|filter|flood|hack|interact|openai",
+  "fp:context|data|due|error|exec|executiv|hasn|issu|match|moment",
+  "fp:a16z|api|beyond|consumer|discuss|fee|incom|monthly|moor|olivia"
 ]

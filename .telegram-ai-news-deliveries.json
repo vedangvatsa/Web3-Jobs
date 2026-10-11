@@ -1102,7 +1102,7 @@
     "sentAt": "2026-10-11T12:01:47.995Z"
   },
   "859798ce-02e3-48d6-8530-5591598b816e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-11T19:49:03.355Z",
     "stories": [
       {
@@ -1132,6 +1132,8 @@
         "originalTitle": "a16z’s Olivia Moore on the state of consumer AI"
       }
     ],
-    "slotKey": "2026-10-11:evening"
+    "slotKey": "2026-10-11:evening",
+    "messageId": 193333,
+    "sentAt": "2026-10-11T19:49:06.370Z"
   }
 }
