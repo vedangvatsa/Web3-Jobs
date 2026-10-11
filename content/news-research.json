@@ -27008,11 +27008,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "072632a0aec350c61b59",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T10:30:30.000Z",
-      "lastSeenAt": "2026-10-11T11:31:24.998Z"
+      "lastSeenAt": "2026-10-11T11:31:24.998Z",
+      "reason": "verified-event",
+      "note": "Verified Oct 9 XRPL overflow disclosure: Veria AI-found flaw, 18T mint demo on local network, patched Sept 25 in 3.4.1, no mainnet exploitation; read CryptoSlate, xrpl.org and Veria Labs in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
+          "outcome": "read"
+        },
+        {
+          "url": "https://verialabs.com/blog/biggest-hack-in-crypto-history/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-11T11:58:14.187Z",
+      "articleSlug": "xrpl-flaw",
+      "lastReviewedDay": "2026-10-11"
     },
     "24c7455649a5f41e652d": {
       "source": "BeInCrypto",
@@ -48331,6 +48350,27 @@
           ],
           "reviewedAt": "2026-10-11T11:58:05.410Z",
           "articleSlug": "coldcard-phishing"
+        },
+        "072632a0aec350c61b59": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 XRPL overflow disclosure: Veria AI-found flaw, 18T mint demo on local network, patched Sept 25 in 3.4.1, no mainnet exploitation; read CryptoSlate, xrpl.org and Veria Labs in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009",
+              "outcome": "read"
+            },
+            {
+              "url": "https://verialabs.com/blog/biggest-hack-in-crypto-history/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:58:14.187Z",
+          "articleSlug": "xrpl-flaw"
         }
       },
       "baselineSlugs": [
