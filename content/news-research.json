@@ -24209,28 +24209,28 @@
       "id": "43ef4ee5656da6877132",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T19:04:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "note": "THORChain-Tether freeze story not fully read though snippets show 3-outlet corroboration; full reads outstanding.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:08.147Z",
+      "reviewedAt": "2026-10-11T10:28:08.082Z",
       "articleSlug": "thorchain-freeze",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ],
       "retrySearches": [
-        "THORChain Tether 1.45M USDT freeze and unfreeze timeline with both parties statements"
+        "THORChain Tether blacklist vaults unfrozen October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "08c574ea80326a658ab0": {
       "source": "The Defiant",
@@ -47969,6 +47969,21 @@
           "reviewedAt": "2026-10-11T10:28:06.378Z",
           "retrySearches": [
             "Warren Cantor Fitzgerald Tether Lutnick letter October 2026"
+          ]
+        },
+        "43ef4ee5656da6877132": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "THORChain-Tether freeze story not fully read though snippets show 3-outlet corroboration; full reads outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:08.082Z",
+          "retrySearches": [
+            "THORChain Tether blacklist vaults unfrozen October 2026"
           ]
         }
       },
