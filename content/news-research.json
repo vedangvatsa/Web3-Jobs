@@ -18111,29 +18111,29 @@
       "id": "bbfbc980f72f30b4800c",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T14:24:24.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "note": "Veridian spinout story reachable but not fully read; Cardano Foundation primary plus full reads outstanding.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:43.995Z",
+      "reviewedAt": "2026-10-11T10:26:40.610Z",
       "articleSlug": "veridian-spin",
       "retrySearches": [
-        "Cardano Veridian spin-out tokenized equity standard launch documents and share mechanics"
+        "Cardano Foundation Veridian spinout tokenized equity announcement"
       ],
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "a004e01e7f72c40546e6": {
       "source": "The Block",
@@ -47202,6 +47202,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:26:38.963Z",
+          "retrySearches": [
+            "Cardano Foundation Veridian spinout tokenized equity announcement"
+          ]
+        },
+        "bbfbc980f72f30b4800c": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Veridian spinout story reachable but not fully read; Cardano Foundation primary plus full reads outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:40.610Z",
           "retrySearches": [
             "Cardano Foundation Veridian spinout tokenized equity announcement"
           ]
