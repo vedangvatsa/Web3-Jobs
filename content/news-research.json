@@ -20305,23 +20305,23 @@
       "id": "a107631a948ec7966b21",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T02:17:51.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "DTCC faster share transfers: only the queued Defiant source known; DTCC primary plus corroborating outlets outstanding.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:25.925Z",
+      "reviewedAt": "2026-10-11T10:27:09.743Z",
       "retrySearches": [
-        "DTC share-registration minutes proposal filing text and comment period"
+        "DTCC cut share registration transfers days minutes October 2026"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "d3c7df7b211472a7b053": {
       "source": "CryptoSlate",
@@ -47459,6 +47459,21 @@
           "reviewedAt": "2026-10-11T10:27:08.063Z",
           "retrySearches": [
             "Blumenthal Cantor Fitzgerald Tether letter October 2026 Senate"
+          ]
+        },
+        "a107631a948ec7966b21": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "DTCC faster share transfers: only the queued Defiant source known; DTCC primary plus corroborating outlets outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtc-seeks-to-cut-share-registration-transfers-from-days-to-minutes",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:09.743Z",
+          "retrySearches": [
+            "DTCC cut share registration transfers days minutes October 2026"
           ]
         }
       },
