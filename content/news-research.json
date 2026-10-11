@@ -26447,26 +26447,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "cb66c757ae4ae748b70b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T17:01:03.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
-      "reason": "duplicate",
-      "note": "Same CFTC Oct 9 event-contracts vs gambling measures drafted as cftc-events; verified in CFTC releases plus Decrypt and CryptoSlate reads.",
+      "reason": "needs-corroboration",
+      "note": "CFTC prediction-vs-gambling story is the same Oct 9 rulemaking event; draft once with the companion lead.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-          "outcome": "read"
-        },
-        {
-          "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:53:26.904Z",
+      "reviewedAt": "2026-10-11T10:28:50.766Z",
       "duplicateOf": "cftc-events",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-11",
+      "retrySearches": [
+        "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "7b823141592953e24684": {
       "source": "The Defiant",
@@ -48332,6 +48332,21 @@
           "reviewedAt": "2026-10-11T10:28:48.878Z",
           "retrySearches": [
             "Papertrade traders losses staking rewards PAPER token"
+          ]
+        },
+        "cb66c757ae4ae748b70b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CFTC prediction-vs-gambling story is the same Oct 9 rulemaking event; draft once with the companion lead.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:50.766Z",
+          "retrySearches": [
+            "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
           ]
         }
       },
