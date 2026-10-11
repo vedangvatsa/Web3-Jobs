@@ -2159,11 +2159,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Accountant, General Ledger at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
           "startedAt": "2026-10-11T19:30:58.636Z",
           "containerId": "17917241796461009",
-          "postId": "18126561058868917"
+          "postId": "18126561058868917",
+          "url": "https://www.instagram.com/reel/DeXajVBEXwp/"
         }
       }
     },
