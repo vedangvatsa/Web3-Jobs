@@ -27042,11 +27042,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e182e8b8329b5f8fb79d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T09:00:00.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "promotional",
+      "note": "Sponsored-style anniversary interview about stablecoin strategy; no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:26:04.099Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "e713a4765c8b4fbfbafa": {
       "source": "The Defiant",
@@ -46915,6 +46920,13 @@
           "note": "Macro prediction asking whether another SVB-style bank crisis is coming; not a crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:26:02.380Z"
+        },
+        "e182e8b8329b5f8fb79d": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Sponsored-style anniversary interview about stablecoin strategy; no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:26:04.099Z"
         }
       },
       "baselineSlugs": [
