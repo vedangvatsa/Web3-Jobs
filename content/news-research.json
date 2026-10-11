@@ -26835,28 +26835,32 @@
       ],
       "alsoCoveredBy": [],
       "id": "bd4403fca10c615fa959",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T09:01:51.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
       "reason": "verified-event",
-      "note": "Verified Oct 10-11 Ledger confirmation of unauthorized hardware implant in a reseller device amid 6M-plus drain reports; read Cointelegraph, CryptoBreaking and Crypto Times in full. Drafted 680+ words with self-hosted hero; gates pass, links HTTP 200. New development beyond the Oct 9 probe story.",
+      "note": "Verified Oct 10-11 Ledger confirmation of unauthorized hardware implant in a reseller device amid 86M-plus drain reports; read Cointelegraph, Crypto Times, Bitcoin.com and CryptoBreaking in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200. New development beyond the Oct 9 probe story.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m",
           "outcome": "read"
         },
         {
-          "url": "https://www.cryptobreaking.com/ledger-says-unauthorized-hardware-implant/",
+          "url": "https://www.cryptotimes.io/2026/10/11/ledger-confirms-hardware-implant-amid-86m-loss-probe-urges-users-to-re-seed/",
           "outcome": "read"
         },
         {
-          "url": "https://www.cryptotimes.io/2026/10/11/ledger-confirms-hardware-implant-amid-86m-loss-probe-urges-users-to-re-seed/",
+          "url": "https://news.bitcoin.com/security/ledger-confirms-hidden-hardware-implant-in-affected-users-wallet/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cryptobreaking.com/ledger-says-unauthorized-hardware-implant/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:24:19.077Z",
+      "reviewedAt": "2026-10-11T11:57:53.840Z",
       "articleSlug": "ledger-implant",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -48192,6 +48196,31 @@
           "reviewedAt": "2026-10-11T11:57:47.182Z",
           "duplicateOf": "iran-seizure",
           "mergedInto": "2f33d3c76777e7ef334e"
+        },
+        "bd4403fca10c615fa959": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 10-11 Ledger confirmation of unauthorized hardware implant in a reseller device amid 86M-plus drain reports; read Cointelegraph, Crypto Times, Bitcoin.com and CryptoBreaking in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200. New development beyond the Oct 9 probe story.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptotimes.io/2026/10/11/ledger-confirms-hardware-implant-amid-86m-loss-probe-urges-users-to-re-seed/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/security/ledger-confirms-hidden-hardware-implant-in-affected-users-wallet/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cryptobreaking.com/ledger-says-unauthorized-hardware-implant/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:57:53.840Z",
+          "articleSlug": "ledger-implant"
         }
       },
       "baselineSlugs": [
