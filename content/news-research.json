@@ -24837,23 +24837,23 @@
       "id": "d2a36ff801c6db70c716",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T21:57:10.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "Kalshi Zacharia-bets probe not fully read though snippets show WSJ origin plus CNN and The Hill; full reads outstanding.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:25.497Z",
+      "reviewedAt": "2026-10-11T10:28:23.251Z",
       "retrySearches": [
-        "Kalshi Trump press secretary bets probe WSJ reporting with Kalshi response"
+        "Kalshi Zacharia press secretary bets investigation"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "2f33d3c76777e7ef334e": {
       "source": "Cointelegraph",
@@ -48112,6 +48112,21 @@
           "reviewedAt": "2026-10-11T10:28:21.595Z",
           "retrySearches": [
             "XRP Ledger multipurpose accounts institutions keys October 2026"
+          ]
+        },
+        "d2a36ff801c6db70c716": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Kalshi Zacharia-bets probe not fully read though snippets show WSJ origin plus CNN and The Hill; full reads outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:23.251Z",
+          "retrySearches": [
+            "Kalshi Zacharia press secretary bets investigation"
           ]
         }
       },
