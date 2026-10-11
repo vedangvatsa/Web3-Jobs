@@ -2666,5 +2666,49 @@
     "slotKey": "2026-10-11:evening",
     "messageId": 16527,
     "sentAt": "2026-10-11T19:47:04.670Z"
+  },
+  "9f9f374f-481e-49eb-9fc0-005d5bf6c752": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T19:47:06.319Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "8102337",
+        "slug": "manager419",
+        "url": "https://hashtagweb3.com/manager419?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Engagement Manager"
+      },
+      {
+        "key": "4feba408-6143-4579-9d79-e88362b2c947",
+        "slug": "ops92",
+        "url": "https://hashtagweb3.com/ops92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Binance",
+        "title": "Strategy & Operations Manager"
+      },
+      {
+        "key": "64006acc-7869-490b-8df8-d933315881d6",
+        "slug": "product217",
+        "url": "https://hashtagweb3.com/product217?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coins.ph",
+        "title": "Product Operation"
+      },
+      {
+        "key": "8360490002",
+        "slug": "operations18",
+        "url": "https://hashtagweb3.com/operations18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Operations Specialist"
+      },
+      {
+        "key": "d58a5bcc-e894-4c39-96b4-eb9dff0bb115",
+        "slug": "pm94",
+        "url": "https://hashtagweb3.com/pm94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/ Principal Product Manager"
+      }
+    ],
+    "message": "• Stripe is hiring <a href=\"https://hashtagweb3.com/manager419?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Engagement Manager</a>\n• Binance is hiring <a href=\"https://hashtagweb3.com/ops92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Strategy &amp; Operations Manager</a>\n• Coins.ph is hiring <a href=\"https://hashtagweb3.com/product217?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Operation</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/operations18?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Operations Specialist</a>\n• Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior/ Principal Product Manager</a>",
+    "slotKey": "2026-10-11:evening"
   }
 }
