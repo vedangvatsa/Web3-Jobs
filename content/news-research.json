@@ -22461,23 +22461,23 @@
       "id": "f04ef492bcb4db52cac2",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T11:39:05.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: www.coindesk.com. Needs full read plus second independent source before any draft.",
+      "note": "Zcash quantum story, same January-target event as companion; engineering post plus CoinDesk outstanding.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:16.340Z",
+      "reviewedAt": "2026-10-11T10:27:44.179Z",
       "retrySearches": [
-        "Zcash January quantum-resistant payments target developer statements and scope"
+        "Zakura post-quantum signature opcodes January"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "666c58700460247b690e": {
       "source": "Cointelegraph",
@@ -47757,6 +47757,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:27:42.459Z",
+          "retrySearches": [
+            "Zakura post-quantum signature opcodes January"
+          ]
+        },
+        "f04ef492bcb4db52cac2": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Zcash quantum story, same January-target event as companion; engineering post plus CoinDesk outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:44.179Z",
           "retrySearches": [
             "Zakura post-quantum signature opcodes January"
           ]
