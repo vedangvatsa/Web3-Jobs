@@ -26924,11 +26924,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "df703797bc4255c1484d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T07:00:24.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "not-a-concrete-event",
+      "note": "Analysis of bitcoin treasury-company cash needs; explainer with no single concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:59.078Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "eb26dc8485cfdede1eb4": {
       "source": "The Defiant",
@@ -46879,6 +46884,13 @@
           "note": "Warning that XRP Ledger may hold hidden flaws; opinion with no concrete event or technical basis.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:57.270Z"
+        },
+        "df703797bc4255c1484d": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Analysis of bitcoin treasury-company cash needs; explainer with no single concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:59.078Z"
         }
       },
       "baselineSlugs": [
