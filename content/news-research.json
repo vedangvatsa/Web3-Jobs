@@ -21711,23 +21711,23 @@
       "id": "c4d91bb9350aafd0d59f",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T08:59:31.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: decrypt.co. Needs full read plus second independent source before any draft.",
+      "note": "SIM-swap sentencing story not fully read and near its expiry edge; police release plus Record outstanding.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:00.651Z",
+      "reviewedAt": "2026-10-11T10:27:35.405Z",
       "retrySearches": [
-        "SIM-swap fraudster sentencing gold grills Dubai case court records and sentence length"
+        "City of London Police Ajay Shinjin SIM swap sentenced"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "6ff235b2f73f2ee5ee35": {
       "source": "BeInCrypto",
@@ -47684,6 +47684,21 @@
           "reviewedAt": "2026-10-11T10:27:33.785Z",
           "retrySearches": [
             "ESMA opinion non-MiCA ART EMT three months January 2027"
+          ]
+        },
+        "c4d91bb9350aafd0d59f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "SIM-swap sentencing story not fully read and near its expiry edge; police release plus Record outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:35.405Z",
+          "retrySearches": [
+            "City of London Police Ajay Shinjin SIM swap sentenced"
           ]
         }
       },
