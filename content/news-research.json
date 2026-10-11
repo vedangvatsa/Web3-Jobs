@@ -20860,22 +20860,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 8 Thai SEC ETF framework as the ready draft; CoinDesk version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:27.748Z",
+      "reviewedAt": "2026-10-11T10:24:40.154Z",
       "articleSlug": "thailand-etfs",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ],
@@ -20883,7 +20883,7 @@
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "6eb78273ce6d69ab8f6b": {
       "source": "Cointelegraph",
@@ -46469,6 +46469,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:38.348Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Thai SEC ETF framework as the ready draft; CoinDesk version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:40.154Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
         }
