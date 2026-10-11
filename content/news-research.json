@@ -26841,11 +26841,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "077977aff0f4276dba8a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T07:44:51.000Z",
-      "lastSeenAt": "2026-10-11T10:11:39.908Z"
+      "lastSeenAt": "2026-10-11T10:11:39.908Z",
+      "reason": "needs-corroboration",
+      "note": "CFTC prediction-vs-gambling story is the same Oct 9 rulemaking event; draft once with the companion lead.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T10:28:59.041Z",
+      "retrySearches": [
+        "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "745da99410c7600c61b1": {
       "source": "The Defiant",
@@ -48407,6 +48421,21 @@
           "reviewedAt": "2026-10-11T10:28:57.396Z",
           "retrySearches": [
             "BTCPay Server 2.4.5 Tor opt-add-tor Docker"
+          ]
+        },
+        "077977aff0f4276dba8a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CFTC prediction-vs-gambling story is the same Oct 9 rulemaking event; draft once with the companion lead.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:59.041Z",
+          "retrySearches": [
+            "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
           ]
         }
       },
