@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "catalogs": {
+    "news": {
+      "checkedAt": "2026-10-11T18:08:19.365Z",
+      "sourceCommit": "2e73ca69176eededa4d013e50e29acaadeaf50f3",
+      "changedFiles": 1
+    }
+  }
+}

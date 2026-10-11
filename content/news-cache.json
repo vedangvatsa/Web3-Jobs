@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-11T16:43:27.142Z",
+  "generatedAt": "2026-10-11T18:08:18.100Z",
   "items": [
+    {
+      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+      "pubDate": "Sun, 11 Oct 2026 18:07:41 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+      "source": "The Block"
+    },
+    {
+      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+      "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 11 Oct 2026 17:03:00 +0000",
+      "creator": "Robert Lakin",
+      "contentSnippet": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Visa Survey Shows Nearly Half of APAC Consumers Eyeing Stablecoins for Everyday Use by 2031",
+      "link": "https://dailyhodl.com/2026/10/11/visa-survey-shows-nearly-half-of-apac-consumers-eyeing-stablecoins-for-everyday-use-by-2031/",
+      "pubDate": "Sun, 11 Oct 2026 16:55:11 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Visa’s Consumer 360 research finds 46% of Asia-Pacific consumers likely to adopt stablecoins within five years, up from 16% recent usage, with interes...",
+      "source": "Daily Hodl"
+    },
     {
       "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
       "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
@@ -103,22 +127,6 @@
       "pubDate": "Sat, 10 Oct 2026 05:43:00 +0000",
       "creator": "Omkar Godbole",
       "contentSnippet": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional c...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "pubDate": "Sat, 10 Oct 2026 04:20:07 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "pubDate": "Sat, 10 Oct 2026 03:00:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
       "source": "Coindesk"
     },
     {
@@ -559,14 +567,6 @@
       "pubDate": "Thu, 08 Oct 2026 07:55:14 +0000",
       "creator": "Timmy Shen",
       "contentSnippet": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
-      "source": "The Block"
-    },
-    {
-      "title": "‘Don’t rush anything’: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
-      "link": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-      "pubDate": "Thu, 08 Oct 2026 05:00:28 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
       "source": "The Block"
     }
   ]
