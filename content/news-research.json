@@ -28063,11 +28063,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a8921991bcffc50a48b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T10:36:36.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "price-chatter",
+      "note": "Bitfinex ETH longs at four-year high; positioning chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:04.104Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "23d96eded54592a8260b": {
       "source": "Crypto Briefing",
@@ -49331,6 +49336,13 @@
           "note": "Bitcoin price topping 84k with short liquidations; price chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:02.017Z"
+        },
+        "a8921991bcffc50a48b9": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitfinex ETH longs at four-year high; positioning chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:04.104Z"
         }
       },
       "baselineSlugs": [
