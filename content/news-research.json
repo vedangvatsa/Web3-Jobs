@@ -27609,11 +27609,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "846893f7dbdf5403f763",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T16:14:10.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Liquid 86 percent coverage freeze covered by liquid-ransom; no new development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:51.176Z",
+      "duplicateOf": "liquid-ransom",
+      "lastReviewedDay": "2026-10-11"
     },
     "46f4c5d73e8729ff9140": {
       "source": "Crypto Briefing",
@@ -49256,6 +49262,14 @@
           "note": "Same Liquid reserve-gap status covered by liquid-ransom; no new development, no reopening date.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:49.083Z",
+          "duplicateOf": "liquid-ransom"
+        },
+        "846893f7dbdf5403f763": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Liquid 86 percent coverage freeze covered by liquid-ransom; no new development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:51.176Z",
           "duplicateOf": "liquid-ransom"
         }
       },
