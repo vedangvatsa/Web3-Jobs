@@ -22160,26 +22160,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "322bfa081991e4298e14",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T12:50:19.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/dark-web-founder-forfeits-1230-bitcoin/",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T22:55:34.311Z",
+      "reason": "stale",
+      "note": "Same expired Oct 5 Empire Market sentencing and forfeiture news cycle; window closed Oct 10.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:52.264Z",
       "duplicateOf": "empire-market",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
-      ],
-      "nextReviewDate": "2026-10-11"
+      ]
     },
     "159599c6478a5d390360": {
       "source": "CoinDesk",
@@ -46875,6 +46869,13 @@
           "note": "Empire Market sentencing from Oct 5 announced Oct 7; 72-hour verification window expired Oct 10 before this run.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:50.551Z"
+        },
+        "322bfa081991e4298e14": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Same expired Oct 5 Empire Market sentencing and forfeiture news cycle; window closed Oct 10.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:52.264Z"
         }
       },
       "baselineSlugs": [
