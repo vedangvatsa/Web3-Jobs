@@ -27293,11 +27293,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d75ec0e58d68cfc0a82f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T15:00:49.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "not-a-concrete-event",
+      "note": "Tokenized-stock rights versus protections analysis; explainer with no dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:19:08.263Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "df6ecd36c1b1ce656fda": {
       "source": "BeInCrypto",
@@ -49607,6 +49612,13 @@
           "note": "Clarity Act failure commentary; analysis of legislative prospects, no vote or filing event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:19:06.005Z"
+        },
+        "d75ec0e58d68cfc0a82f": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Tokenized-stock rights versus protections analysis; explainer with no dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:19:08.263Z"
         }
       },
       "baselineSlugs": [
