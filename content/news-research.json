@@ -23662,25 +23662,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c286bf006d9137b60702",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T13:43:35.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger CryptoBilis sales-halt angle as cryptobilis-drains; Defiant version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T11:57:32.502Z",
-      "duplicateOf": "cryptobilis-drains",
+      "note": "Same Oct 9 Ledger sales-halt angle as ledger-implant; folded into draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:06.932Z",
+      "duplicateOf": "ledger-implant",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
-      ]
+      ],
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "74b8157eef0883dae91f": {
       "source": "Unchained",
@@ -49222,6 +49218,15 @@
           "note": "Same Oct 9 Ledger tampering probe as ledger-implant; CoinDesk angle folded into draft.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:04.770Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "c286bf006d9137b60702": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger sales-halt angle as ledger-implant; folded into draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:06.932Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
