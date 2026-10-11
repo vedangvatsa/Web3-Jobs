@@ -24608,24 +24608,24 @@
       "id": "a1d08de2435b7aa593b5",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T20:25:14.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "CFTC swap-status story is the same rulemaking event as the companion lead; queued page unopened.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:17.035Z",
+      "reviewedAt": "2026-10-11T10:28:14.831Z",
       "duplicateOf": "cftc-swaps",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "CFTC event contracts swaps rulemaking proposal text and comment period dates"
+        "CFTC event contracts swaps rule October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "994ba24ff2eca1c3c082": {
       "source": "The Defiant",
@@ -48037,6 +48037,21 @@
           "reviewedAt": "2026-10-11T10:28:13.129Z",
           "retrySearches": [
             "CFTC interim final rule event contracts swaps Federal Register October 2026"
+          ]
+        },
+        "a1d08de2435b7aa593b5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "CFTC swap-status story is the same rulemaking event as the companion lead; queued page unopened.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:14.831Z",
+          "retrySearches": [
+            "CFTC event contracts swaps rule October 2026"
           ]
         }
       },
