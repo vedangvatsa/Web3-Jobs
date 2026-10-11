@@ -27413,11 +27413,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "57f169ca9f8996d13bcd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T15:08:28.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Oct 11 PeckShield trace as ledger-implant; read in full and cited.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/peckshield-ledger-theft-funds-binance/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:16:29.729Z",
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959",
+      "lastReviewedDay": "2026-10-11"
     },
     "d1ac2e70bfbb138fc0b7": {
       "source": "Crypto Briefing",
@@ -49026,6 +49038,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:16:27.642Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "57f169ca9f8996d13bcd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 11 PeckShield trace as ledger-implant; read in full and cited.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/peckshield-ledger-theft-funds-binance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:29.729Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
