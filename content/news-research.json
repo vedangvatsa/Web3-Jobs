@@ -19482,24 +19482,24 @@
       "id": "8ffe5aac80ee4f8e44aa",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T20:40:19.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "note": "SAP Pay USDC addition: routine integration on a single unopened source, Circle Mint terms unverified.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:17.385Z",
+      "reviewedAt": "2026-10-11T10:27:01.137Z",
       "duplicateOf": "circle-sap",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "SAP Pay USDC Circle Mint access requirement rollout scope and launch date"
+        "SAP USDC payments Circle Mint announcement October 2026"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "f60147e856eff36f6ea7": {
       "source": "CoinDesk",
@@ -47384,6 +47384,21 @@
           "reviewedAt": "2026-10-11T10:26:59.266Z",
           "retrySearches": [
             "Ethereum test network block limit increase October 2026"
+          ]
+        },
+        "8ffe5aac80ee4f8e44aa": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "SAP Pay USDC addition: routine integration on a single unopened source, Circle Mint terms unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:01.137Z",
+          "retrySearches": [
+            "SAP USDC payments Circle Mint announcement October 2026"
           ]
         }
       },
