@@ -18871,18 +18871,14 @@
       ],
       "alsoCoveredBy": [],
       "id": "082e493221b37a47877c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-11T18:16:05.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
       "reason": "verified-event",
-      "note": "Verified Oct 7 Orca plus Loopscale merger under Formation brand, NYC HQ, terms undisclosed; read PRNewswire release, Decrypt and SolanaCompass in full. Drafted 700 words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "Verified Oct 7 Orca plus Loopscale merger under Formation brand, NYC HQ, Truitt CEO, terms undisclosed, plus Oct 11-16 re-run ORCA vote. Read Decrypt, SolanaCompass and the PRNewswire release in full. Drafted 652 words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
       "sourceChecks": [
-        {
-          "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
-          "outcome": "read"
-        },
         {
           "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
           "outcome": "read"
@@ -18890,9 +18886,13 @@
         {
           "url": "https://solanacompass.com/news/orca-and-loopscale-merge-to-form-formation-as-orcas-council-moves-to-re-run-the-orca-tokenholder-vote",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:24:09.099Z",
+      "reviewedAt": "2026-10-11T11:37:56.923Z",
       "duplicateOf": "orca-merger",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
@@ -47707,6 +47707,27 @@
           ],
           "reviewedAt": "2026-10-11T11:37:55.015Z",
           "articleSlug": "bitfinex-move"
+        },
+        "082e493221b37a47877c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 7 Orca plus Loopscale merger under Formation brand, NYC HQ, Truitt CEO, terms undisclosed, plus Oct 11-16 re-run ORCA vote. Read Decrypt, SolanaCompass and the PRNewswire release in full. Drafted 652 words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
+              "outcome": "read"
+            },
+            {
+              "url": "https://solanacompass.com/news/orca-and-loopscale-merge-to-form-formation-as-orcas-council-moves-to-re-run-the-orca-tokenholder-vote",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/orca-and-loopscale-merge-to-build-capital-markets-for-ai-and-the-frontier-economy-302901726.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:37:56.923Z",
+          "articleSlug": "orca-merger"
         }
       },
       "baselineSlugs": [
