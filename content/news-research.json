@@ -27946,11 +27946,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "dce879b8052efc81cfa6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T14:33:11.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Riyadh airport projectile attack; armed-conflict news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:23.217Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "063c0179eabb411ac91c": {
       "source": "Crypto Briefing",
@@ -49415,6 +49420,13 @@
           "note": "Starlink versus Russia satellite story; space and geopolitics, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:21.257Z"
+        },
+        "dce879b8052efc81cfa6": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Riyadh airport projectile attack; armed-conflict news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:23.217Z"
         }
       },
       "baselineSlugs": [
