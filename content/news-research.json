@@ -24776,23 +24776,23 @@
       "id": "368c99d2c809c3ce18b9",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T20:00:29.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "note": "XRP Ledger story has a title and URL mismatch plus a single source; institutional-multisig claim unverified.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:23.671Z",
+      "reviewedAt": "2026-10-11T10:28:21.595Z",
       "retrySearches": [
-        "XRP Ledger institutional account controls amendment second source and status"
+        "XRP Ledger multipurpose accounts institutions keys October 2026"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "cf7f677d465ab1ca9d58": {
       "source": "CryptoSlate",
@@ -48097,6 +48097,21 @@
           "reviewedAt": "2026-10-11T10:28:19.907Z",
           "retrySearches": [
             "Coinbase Gennius ONED stablecoin Latin America banks"
+          ]
+        },
+        "368c99d2c809c3ce18b9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "XRP Ledger story has a title and URL mismatch plus a single source; institutional-multisig claim unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:21.595Z",
+          "retrySearches": [
+            "XRP Ledger multipurpose accounts institutions keys October 2026"
           ]
         }
       },
