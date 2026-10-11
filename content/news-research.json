@@ -27719,11 +27719,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7593b40419d38129e14d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:48:05.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "source-blocked",
+      "note": "Defiant returned HTTP 403 all round; Coinbase-Deribit integration needs readable outlet plus company record.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:21:14.768Z",
+      "retrySearches": [
+        "Coinbase Deribit integration institutional traders completion October 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "3359468cb2583c2260ea": {
       "source": "BeInCrypto",
@@ -50369,6 +50383,21 @@
           "reviewedAt": "2026-10-11T18:21:08.742Z",
           "retrySearches": [
             "Bank of England banker to stablecoin speech October 2026"
+          ]
+        },
+        "7593b40419d38129e14d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant returned HTTP 403 all round; Coinbase-Deribit integration needs readable outlet plus company record.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:21:14.768Z",
+          "retrySearches": [
+            "Coinbase Deribit integration institutional traders completion October 2026"
           ]
         }
       },
