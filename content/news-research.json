@@ -28238,11 +28238,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e59c3ed7d1faf3681c3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T04:14:39.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Moscow data-centre drone disruption; Russia news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:43.597Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "cb6bb726dc70729baa81": {
       "source": "Crypto Briefing",
@@ -49511,6 +49516,13 @@
           "note": "Yandex data centre drone shutdown; Russia infrastructure news, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:41.589Z"
+        },
+        "9e59c3ed7d1faf3681c3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Moscow data-centre drone disruption; Russia news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:43.597Z"
         }
       },
       "baselineSlugs": [
