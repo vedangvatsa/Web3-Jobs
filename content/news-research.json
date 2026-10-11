@@ -21982,20 +21982,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "f46b0c4a638dbaf5f575",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T12:23:54.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "duplicate",
-      "note": "Same Oct 9 DWF-BitGo 141M suit as bitgo-suit; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:56:42.662Z",
+      "reason": "needs-corroboration",
+      "note": "DWF-BitGo 141M suit not fully read this round; needs filing detail plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:20:05.334Z",
       "retrySearches": [
-        "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
+        "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
       ],
       "lastReviewedDay": "2026-10-11",
-      "duplicateOf": "bitgo-suit"
+      "duplicateOf": "bitgo-suit",
+      "nextReviewDate": "2026-10-12"
     },
     "322bfa081991e4298e14": {
       "source": "BeInCrypto",
@@ -49924,6 +49930,21 @@
           "reviewedAt": "2026-10-11T18:20:03.171Z",
           "retrySearches": [
             "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
+          ]
+        },
+        "f46b0c4a638dbaf5f575": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "DWF-BitGo 141M suit not fully read this round; needs filing detail plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:05.334Z",
+          "retrySearches": [
+            "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
           ]
         }
       },
