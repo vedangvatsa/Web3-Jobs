@@ -19110,25 +19110,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "78edccd870113509675c",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T19:31:31.819Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T18:23:35.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/tokens/aptos-reaffirms-210-million-apt-lock-as-insider-unlock-cycle-nears-end",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:50:08.690Z",
+      "reason": "not-a-concrete-event",
+      "note": "Corporate restatement reaffirming an APT lock; PR statement with no new development.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:45.506Z",
       "retrySearches": [
         "Aptos 210M APT lock insider unlock schedule with foundation statement"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11"
     },
     "1d927b5b07d0b2763551": {
       "source": "Bankless",
@@ -46871,6 +46865,13 @@
           "note": "Europol advisory urging future quantum wallet work; explainer-grade report with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:43.866Z"
+        },
+        "78edccd870113509675c": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Corporate restatement reaffirming an APT lock; PR statement with no new development.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:45.506Z"
         }
       },
       "baselineSlugs": [
