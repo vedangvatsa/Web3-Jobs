@@ -23286,28 +23286,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "496643e7a159131009a6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T16:08:23.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 9 DWF affiliates 141M London High Court suit against BitGo over early FF and ESPORTS token sales; read Decrypt, Unchained and CoinDesk in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "reason": "needs-corroboration",
+      "note": "DWF-BitGo suit piece not fully read; same 141M event, needs full read.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-          "outcome": "read"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T11:56:40.904Z",
+      "reviewedAt": "2026-10-11T18:20:07.447Z",
       "articleSlug": "bitgo-suit",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -23316,8 +23308,9 @@
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "DWF Labs BitGo $141M lawsuit token lock-up filing response second outlet full reads"
-      ]
+        "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "f81abcaa78c20b29893e": {
       "source": "The Defiant",
@@ -49943,6 +49936,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:20:05.334Z",
+          "retrySearches": [
+            "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
+          ]
+        },
+        "496643e7a159131009a6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "DWF-BitGo suit piece not fully read; same 141M event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:20:07.447Z",
           "retrySearches": [
             "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
           ]
