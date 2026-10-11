@@ -21268,43 +21268,32 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7eedcb04b022f754db",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T10:34:37.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8 UK FCDO sanctions on Cryptomus, Heleket and TokenSpot over Russia links; read GOV.UK release, Chainalysis, TRM Labs and Decrypt in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "reason": "needs-corroboration",
+      "note": "UK sanctions package not fully read this round; needs FCDO notice plus second outlet.",
       "sourceChecks": [
         {
-          "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.trmlabs.com/resources/blog/uk-sanctions-cryptomus-heleket-and-tokenspot-in-new-russia-package-targeting-crypto-and-payment-channels",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T11:56:31.660Z",
+      "reviewedAt": "2026-10-11T18:19:55.169Z",
       "duplicateOf": "uk-sanctions",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
+        "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
       ],
       "articleSlug": "uk-sanctions",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -49878,6 +49867,21 @@
           "reviewedAt": "2026-10-11T18:19:52.435Z",
           "retrySearches": [
             "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
+          ]
+        },
+        "4f7eedcb04b022f754db": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "UK sanctions package not fully read this round; needs FCDO notice plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:19:55.169Z",
+          "retrySearches": [
+            "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
           ]
         }
       },
