@@ -21427,20 +21427,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "00846212524fc336a196",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T10:14:59.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 UK FCDO sanctions package as the ready draft; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:48.359Z",
+      "note": "Same Oct 8 UK FCDO sanctions package as uk-sanctions; CoinDesk version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:56:33.364Z",
       "articleSlug": "uk-sanctions",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -21451,7 +21446,8 @@
       "retrySearches": [
         "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
       ],
-      "duplicateOf": "uk-sanctions"
+      "duplicateOf": "uk-sanctions",
+      "mergedInto": "4f7eedcb04b022f754db"
     },
     "35543151e27a95014f9d": {
       "source": "Decrypt",
@@ -47886,6 +47882,15 @@
           ],
           "reviewedAt": "2026-10-11T11:56:31.660Z",
           "articleSlug": "uk-sanctions"
+        },
+        "00846212524fc336a196": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 UK FCDO sanctions package as uk-sanctions; CoinDesk version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:56:33.364Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "4f7eedcb04b022f754db"
         }
       },
       "baselineSlugs": [
