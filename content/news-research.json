@@ -22826,26 +22826,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3458e62d04228c30699",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T14:27:18.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 NY AG Mashinsky lifetime-ban settlement drafted as mashinsky-ban; verified in AG release plus CoinDesk and Decrypt reads.",
+      "note": "Same Oct 9 NY AG Mashinsky settlement as the ready draft; outlet page blocked, no separate article.",
       "sourceChecks": [
         {
-          "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-          "outcome": "read"
+          "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:53:35.231Z",
+      "reviewedAt": "2026-10-11T10:25:11.501Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-10"
+      "lastReviewedDay": "2026-10-11",
+      "mergedInto": "b466ec3f61a6e8d0b33a"
     },
     "977a4f0f886635e738ca": {
       "source": "BeInCrypto",
@@ -46709,6 +46706,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:25:09.779Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "b466ec3f61a6e8d0b33a"
+        },
+        "f3458e62d04228c30699": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 NY AG Mashinsky settlement as the ready draft; outlet page blocked, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:25:11.501Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "b466ec3f61a6e8d0b33a"
         }
