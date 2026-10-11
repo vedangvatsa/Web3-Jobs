@@ -20890,22 +20890,22 @@
       "id": "33d2532cea35902b8372",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T09:20:16.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "note": "Dark-web operator 40-year sentence and 01M BTC forfeiture is concrete but only the queued source is known; DOJ release outstanding.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:30.968Z",
+      "reviewedAt": "2026-10-11T10:27:18.473Z",
       "duplicateOf": "empire-market",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "Empire Market Hamilton 40-year sentence 1230 BTC forfeiture DOJ release second outlet full reads"
+        "dark web drug market 40 years 101 million bitcoin forfeiture October 2026"
       ],
       "articleSlug": "empire-market",
       "lastValidationErrors": [
@@ -20923,7 +20923,7 @@
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "724035b8cd9bafa2f945": {
       "source": "CoinDesk",
@@ -47534,6 +47534,21 @@
           "reviewedAt": "2026-10-11T10:27:16.775Z",
           "retrySearches": [
             "Blumenthal Cantor Fitzgerald Tether letter October 2026 Senate"
+          ]
+        },
+        "33d2532cea35902b8372": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Dark-web operator 40-year sentence and 01M BTC forfeiture is concrete but only the queued source is known; DOJ release outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:18.473Z",
+          "retrySearches": [
+            "dark web drug market 40 years 101 million bitcoin forfeiture October 2026"
           ]
         }
       },
