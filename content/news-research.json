@@ -20628,20 +20628,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c8e5464d8009c02f491",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-12T10:21:00.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8-9 US government Bitfinex-BTC movement as bitfinex-move; Unchained version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:38:08.393Z",
+      "reason": "needs-corroboration",
+      "note": "Unchained Bitfinex-BTC movement piece not fully read; needs Arkham trail plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:19:40.305Z",
       "duplicateOf": "bitfinex-move",
       "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "US government seized bitcoin Bitfinex $1B Coinbase Prime Arkham trail sale status second outlet full reads"
-      ]
+        "US government seized Bitfinex bitcoin 1B unlabeled wallets Arkham October 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "62cd6c1ea3c742f4cf88": {
       "source": "CoinDesk",
@@ -49780,6 +49786,21 @@
           "reviewedAt": "2026-10-11T18:19:38.243Z",
           "retrySearches": [
             "Thailand SEC bitcoin ether ETF foreign funds ban SET listing rules"
+          ]
+        },
+        "4c8e5464d8009c02f491": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Unchained Bitfinex-BTC movement piece not fully read; needs Arkham trail plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:19:40.305Z",
+          "retrySearches": [
+            "US government seized Bitfinex bitcoin 1B unlabeled wallets Arkham October 2026"
           ]
         }
       },
