@@ -20008,24 +20008,24 @@
       "id": "4f6f7be9c8cb584fca73",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T03:37:35.186Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T00:46:27.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "note": "Blumenthal Cantor-Tether probe (Oct 9): concrete oversight letter but primary letter plus two full reads outstanding.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:50:24.357Z",
+      "reviewedAt": "2026-10-11T10:27:08.063Z",
       "duplicateOf": "cantor-probe",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
-        "Blumenthal Cantor Fitzgerald Tether records request letter text and response deadline"
+        "Blumenthal Cantor Fitzgerald Tether letter October 2026 Senate"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "99dff87f954749a3c3aa": {
       "source": "CoinDesk",
@@ -47444,6 +47444,21 @@
           "reviewedAt": "2026-10-11T10:27:06.363Z",
           "retrySearches": [
             "Kyrgyzstan USDKG gold-backed wind down UK sanctions October 2026"
+          ]
+        },
+        "4f6f7be9c8cb584fca73": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Blumenthal Cantor-Tether probe (Oct 9): concrete oversight letter but primary letter plus two full reads outstanding.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:08.063Z",
+          "retrySearches": [
+            "Blumenthal Cantor Fitzgerald Tether letter October 2026 Senate"
           ]
         }
       },
