@@ -20891,20 +20891,15 @@
         "The Block"
       ],
       "id": "2a7c81f07dc6e3b3eb0f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T09:06:00.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "duplicate",
-      "note": "Same Oct 8 Meanwhile 7.5M raise as the ready draft; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:24:46.781Z",
+      "note": "Same Oct 8 Meanwhile 37.5M raise as meanwhile-funding; CoinDesk version of the shared story, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:56:23.516Z",
       "articleSlug": "meanwhile-raise",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -20917,7 +20912,8 @@
       "retrySearches": [
         "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round terms and valuation"
       ],
-      "duplicateOf": "meanwhile-funding"
+      "duplicateOf": "meanwhile-funding",
+      "mergedInto": "aa622e9da8bf6f47f49d"
     },
     "9f11ca9ae896380c93c0": {
       "source": "CryptoSlate",
@@ -47846,6 +47842,15 @@
           ],
           "reviewedAt": "2026-10-11T11:56:21.769Z",
           "articleSlug": "meanwhile-funding"
+        },
+        "2a7c81f07dc6e3b3eb0f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Meanwhile 37.5M raise as meanwhile-funding; CoinDesk version of the shared story, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:56:23.516Z",
+          "duplicateOf": "meanwhile-funding",
+          "mergedInto": "aa622e9da8bf6f47f49d"
         }
       },
       "baselineSlugs": [
