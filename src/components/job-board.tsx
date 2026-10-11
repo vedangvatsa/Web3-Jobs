@@ -89,7 +89,7 @@ export function JobBoard({
   const loadingRef = useRef(false);
   const isFirstSearchEffect = useRef(true);
   const trackedSearch = useRef('');
-  const failedRequest = useRef<{ query: string; offset: number; replace: boolean } | null>(null);
+  const failedRequest = useRef<{ query: string; offset: number; replace: boolean; limit: number } | null>(null);
 
   useEffect(() => {
     const timer = window.setTimeout(() => setSearchQuery(inputValue.trim()), 250);
@@ -103,6 +103,11 @@ export function JobBoard({
     limit = PAGE_SIZE
   ) => {
     if (loadingRef.current) return;
+    if (!replace && jobsCatalogNeedsRefresh()) {
+      limit += offset;
+      offset = 0;
+      replace = true;
+    }
 
     requestController.current?.abort();
     const controller = new AbortController();
@@ -133,7 +138,7 @@ export function JobBoard({
       }
     } catch (requestError) {
       if (requestError instanceof DOMException && requestError.name === 'AbortError') return;
-      failedRequest.current = { query, offset, replace };
+      failedRequest.current = { query, offset, replace, limit };
       setError('Jobs could not be loaded. Please try again.');
     } finally {
       if (requestController.current === controller) {
@@ -268,7 +273,7 @@ export function JobBoard({
           <p className="text-destructive">{error}</p>
           <button type="button" className="rounded-md border border-input px-4 py-2 font-medium hover:bg-accent focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2" onClick={() => {
             const failed = failedRequest.current;
-            if (failed) void requestJobs(failed.query, failed.offset, failed.replace);
+            if (failed) void requestJobs(failed.query, failed.offset, failed.replace, failed.limit);
           }}>Retry loading jobs</button>
         </div>
       )}

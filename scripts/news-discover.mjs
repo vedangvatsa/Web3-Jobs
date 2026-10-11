@@ -9,7 +9,7 @@ export const FEEDS = [
   { name: 'The Block', url: 'https://www.theblock.co/rss.xml' },
   { name: 'Blockworks', url: 'https://blockworks.com/feed' },
   { name: 'Decrypt', url: 'https://decrypt.co/feed' },
-  { name: 'Crypto Briefing', url: 'https://cryptobriefing.com/feeds/' },
+  { name: 'Crypto Briefing', url: 'https://cryptobriefing.com/feed/' },
   { name: 'CryptoSlate', url: 'https://cryptoslate.com/feed/' },
   { name: 'BeInCrypto', url: 'https://beincrypto.com/feed/' },
   { name: 'Bitcoin Magazine', url: 'https://bitcoinmagazine.com/feed' },

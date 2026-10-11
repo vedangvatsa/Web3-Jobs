@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-11T16:50:02.202Z",
+  "generatedAt": "2026-10-11T17:40:00.092Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 7585,
+  "count": 7584,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -3064,7 +3064,7 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/axiom",
+      "url": "https://hashtagweb3.com/axiom-onchain-trading",
       "lastmod": "2026-09-04",
       "changefreq": "weekly",
       "priority": 0.6
@@ -17628,12 +17628,6 @@
     {
       "url": "https://hashtagweb3.com/fs3",
       "lastmod": "2026-09-18",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/fs4",
-      "lastmod": "2026-06-08",
       "changefreq": "daily",
       "priority": 0.8
     },

@@ -216,7 +216,8 @@ async function fetchLogoForSlug(info: CompanyInfo, dest: string): Promise<boolea
       `https://www.google.com/s2/favicons?domain=${fromLink}&sz=128`,
     );
   }
-  candidates.push(getCompanyFaviconUrlBySlug(info.slug));
+  const fallback = getCompanyFaviconUrlBySlug(info.slug);
+  if (fallback) candidates.push(fallback);
 
   const seen = new Set<string>();
   for (const url of candidates) {
@@ -334,7 +335,7 @@ async function main() {
     }
   }
 
-  const companies = [...bySlug.values()].sort((a, b) => b.count - a.count);
+  const companies = [...bySlug.values()].filter(company => company.slug !== 'axiom-onchain-trading').sort((a, b) => b.count - a.count);
   console.log(`Companies in catalog: ${companies.length}`);
   const duplicateSlugs = buildDuplicateSlugSet(companies.map((c) => c.slug));
   if (duplicateSlugs.size) {

@@ -3055,7 +3055,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/axiom</loc>
+    <loc>https://hashtagweb3.com/axiom-onchain-trading</loc>
     <lastmod>2026-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -17619,12 +17619,6 @@
   <url>
     <loc>https://hashtagweb3.com/fs3</loc>
     <lastmod>2026-09-18</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/fs4</loc>
-    <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>

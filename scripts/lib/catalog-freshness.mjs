@@ -14,7 +14,7 @@ export function writeCatalogFreshness(root) {
     const raw = fs.readFileSync(path.join(root, 'public', url));
     const data = JSON.parse(raw.toString());
     const rows = Array.isArray(data) ? data : data.items || data.articles || [];
-    const dates = rows.map(row => row.publishedDate || row.pubDate || row.date).filter(value => typeof value === 'string' && Number.isFinite(Date.parse(value))).sort((a, b) => Date.parse(b) - Date.parse(a));
+    const dates = rows.filter(row => row.dateVerified !== false).map(row => row.publishedDate || row.pubDate || row.date).filter(value => typeof value === 'string' && Number.isFinite(Date.parse(value))).sort((a, b) => Date.parse(b) - Date.parse(a));
     catalogs[name] = { path: url, sha256: catalogHash(raw), count: rows.length, newestSourceDate: dates[0] || null };
   }
   const receipt = path.join(root, 'content/catalog-refresh-state.json');

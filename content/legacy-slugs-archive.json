@@ -137100,5 +137100,13 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8172487",
     "company": "Stripe",
     "title": "Abuse Investigator"
+  },
+  "fs4": {
+    "id": "fa51ca24-cca0-4aea-9e20-8458919f1fc9",
+    "link": "https://talent.superteam.fun/jobs/fullstack-engineer-at-axiom-fa51ca24-cca0-4aea-9e20-8458919f1fc9",
+    "company": "Axiom (onchain trading)",
+    "title": "Fullstack Engineer",
+    "newSlug": "fullstack26",
+    "recoveredFromMisattribution": true
   }
 }

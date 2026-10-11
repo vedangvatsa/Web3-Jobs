@@ -27055,7 +27055,7 @@
   {
     "id": "96c2c641-33a5-4b52-bcb8-277d02723aac",
     "title": "Systems Engineer",
-    "company": "Axiom",
+    "company": "Axiom (onchain trading)",
     "link": "https://talent.superteam.fun/jobs/systems-engineer-at-axiom-96c2c641-33a5-4b52-bcb8-277d02723aac",
     "date": "2026-09-04T07:04:01.098275+00:00",
     "source": "Superteam: Axiom [superteam]",
@@ -27068,7 +27068,7 @@
   {
     "id": "f01d3349-8f59-45b1-ba00-f242de996008",
     "title": "Rust Engineer",
-    "company": "Axiom",
+    "company": "Axiom (onchain trading)",
     "link": "https://talent.superteam.fun/jobs/rust-engineer-at-axiom-f01d3349-8f59-45b1-ba00-f242de996008",
     "date": "2026-09-04T07:01:52.250985+00:00",
     "source": "Superteam: Axiom [superteam]",
@@ -27081,7 +27081,7 @@
   {
     "id": "948a42ac-abab-4dc1-a962-5766138463f0",
     "title": "Frontend Engineer",
-    "company": "Axiom",
+    "company": "Axiom (onchain trading)",
     "link": "https://talent.superteam.fun/jobs/frontend-engineer-at-axiom-948a42ac-abab-4dc1-a962-5766138463f0",
     "date": "2026-09-04T06:51:32.620431+00:00",
     "source": "Superteam: Axiom [superteam]",
@@ -27094,7 +27094,7 @@
   {
     "id": "f6a08933-711f-4fe0-87de-f657aa103735",
     "title": "Backend Engineer",
-    "company": "Axiom",
+    "company": "Axiom (onchain trading)",
     "link": "https://talent.superteam.fun/jobs/backend-engineer-at-axiom-f6a08933-711f-4fe0-87de-f657aa103735",
     "date": "2026-09-04T06:49:40.323400+00:00",
     "source": "Superteam: Axiom [superteam]",
@@ -53576,7 +53576,7 @@
   {
     "id": "fa51ca24-cca0-4aea-9e20-8458919f1fc9",
     "title": "Fullstack Engineer",
-    "company": "Axiom",
+    "company": "Axiom (onchain trading)",
     "link": "https://talent.superteam.fun/jobs/fullstack-engineer-at-axiom-fa51ca24-cca0-4aea-9e20-8458919f1fc9",
     "date": "2026-06-08T16:28:39.825783+00:00",
     "source": "Superteam: Axiom [superteam]",
@@ -53585,19 +53585,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "fullstack26"
-  },
-  {
-    "id": "fa51ca24-cca0-4aea-9e20-8458919f1fc9",
-    "title": "Fullstack Engineerv",
-    "company": "Axiom",
-    "link": "https://talent.superteam.fun/jobs/fullstack-engineerv-at-axiom-fa51ca24-cca0-4aea-9e20-8458919f1fc9",
-    "date": "2026-06-08T16:28:39.825783+00:00",
-    "source": "Superteam: Axiom [superteam]",
-    "location": "Onsite · Austin, United States",
-    "department": "Full-Time",
-    "active": true,
-    "dateVerified": true,
-    "slug": "fs4"
   },
   {
     "id": "bea62ba0-be0d-4067-944b-9aa2da61bcfd",
