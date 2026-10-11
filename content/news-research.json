@@ -25016,35 +25016,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa622e9da8bf6f47f49d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-13T07:10:43.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "verified-event",
-      "note": "Verified Oct 8 Meanwhile 37.5M raise led by Bain Capital Crypto, total past 180M, BTC Life 1-Pay expansion; read The Block, CoinDesk and Decrypt in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "reason": "needs-corroboration",
+      "note": "Meanwhile raise piece not fully read; same funding event, needs full read.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-          "outcome": "read"
+          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T11:56:21.769Z",
+      "reviewedAt": "2026-10-11T18:19:50.283Z",
       "articleSlug": "meanwhile-funding",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "retrySearches": [
+        "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
+      ],
+      "nextReviewDate": "2026-10-12"
     },
     "6445e691f0625b1e13c9": {
       "source": "The Defiant",
@@ -49841,6 +49837,21 @@
             }
           ],
           "reviewedAt": "2026-10-11T18:19:48.131Z",
+          "retrySearches": [
+            "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
+          ]
+        },
+        "aa622e9da8bf6f47f49d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Meanwhile raise piece not fully read; same funding event, needs full read.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:19:50.283Z",
           "retrySearches": [
             "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
           ]
