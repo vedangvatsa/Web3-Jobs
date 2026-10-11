@@ -27420,11 +27420,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "c7fb4c0a1e19643319ca",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T13:00:14.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "needs-corroboration",
+      "note": "iPhone crypto spyware report not fully read; single source, needs researcher report plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:21:06.600Z",
+      "retrySearches": [
+        "iPhone spyware crypto wallets 15 seconds researcher report October 2026"
+      ],
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "46d351197e9ec0b295ff": {
       "source": "Decrypt",
@@ -50311,6 +50325,21 @@
           "reviewedAt": "2026-10-11T18:21:04.219Z",
           "retrySearches": [
             "Kraken futures limit order cancel fill bug October 2026"
+          ]
+        },
+        "c7fb4c0a1e19643319ca": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "iPhone crypto spyware report not fully read; single source, needs researcher report plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:21:06.600Z",
+          "retrySearches": [
+            "iPhone spyware crypto wallets 15 seconds researcher report October 2026"
           ]
         }
       },
