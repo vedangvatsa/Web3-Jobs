@@ -21957,26 +21957,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "7cb42063f34593cf0cc4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T06:34:11.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 8 Thai SEC ETF framework as the ready draft; outlet page blocked, no separate article.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:29.304Z",
+      "reviewedAt": "2026-10-11T10:24:41.937Z",
       "duplicateOf": "thailand-etfs",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effect SET listing second outlet full reads"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "9daaa3a6efebdaa31dc5"
     },
     "69d2ddb419c22b7ada74": {
       "source": "Cointelegraph",
@@ -46483,6 +46483,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:40.154Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "9daaa3a6efebdaa31dc5"
+        },
+        "7cb42063f34593cf0cc4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 Thai SEC ETF framework as the ready draft; outlet page blocked, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:41.937Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "9daaa3a6efebdaa31dc5"
         }
