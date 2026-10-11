@@ -27050,11 +27050,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe9c6c2172b1e33f86c3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T16:00:20.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "not-a-concrete-event",
+      "note": "Hedge-fund collateral liquidation-trap analysis; market-structure explainer, no dated event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:56.149Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "03da72be953e52b8a897": {
       "source": "The Defiant",
@@ -49583,6 +49588,13 @@
           "note": "Oil traders testing ceasefire claim with bitcoin reaction framing; geopolitics, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:54.181Z"
+        },
+        "fe9c6c2172b1e33f86c3": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Hedge-fund collateral liquidation-trap analysis; market-structure explainer, no dated event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:56.149Z"
         }
       },
       "baselineSlugs": [
