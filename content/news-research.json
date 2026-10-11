@@ -17366,13 +17366,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "b4cab21a62516fd28dba",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-11T13:06:24.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "verified-event",
-      "note": "Verified Oct 8 Securitize Stocks launch: 12 1:1-backed stock tokens trading first on Solana via registered broker-dealer, NYSE and OKXICE venues planned; read CoinDesk, Decrypt and Unchained in full. Drafted 700+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "Verified Oct 8 Securitize Stocks launch: 12 1:1-backed stock tokens trading first on Solana via registered broker-dealer with Jump market making, NYSE and OKXICE venues planned. Read CoinDesk, Decrypt, Unchained and the PRNewswire release in full. Drafted 714 words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
@@ -17387,15 +17387,11 @@
           "outcome": "read"
         },
         {
-          "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
-          "outcome": "blocked"
+          "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:23:58.797Z",
+      "reviewedAt": "2026-10-11T11:37:49.981Z",
       "articleSlug": "securitize-stocks",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -47661,6 +47657,31 @@
           "retrySearches": [
             "COLDCARD X account compromised phishing wallet migration guide"
           ]
+        },
+        "b4cab21a62516fd28dba": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Securitize Stocks launch: 12 1:1-backed stock tokens trading first on Solana via registered broker-dealer with Jump market making, NYSE and OKXICE venues planned. Read CoinDesk, Decrypt, Unchained and the PRNewswire release in full. Drafted 714 words with self-hosted hero; quality, images, duplicates, formatting clean; all links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/securitize-rolls-out-11-backed-tokens-of-apple-nvidia-and-10-other-u-s-stocks-on-solana/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/securitize-launches-global-onchain-trading-of-us-stocks-with-security-entitlements-302902107.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:37:49.981Z",
+          "articleSlug": "securitize-stocks"
         }
       },
       "baselineSlugs": [
