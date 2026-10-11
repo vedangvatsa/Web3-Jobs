@@ -28307,11 +28307,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "776d6e2ce1c85cd479c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T00:59:19.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Saudi-led coalition missile intercept; armed-conflict news, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:31.055Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "2a8ee3b0eeb8a9101aba": {
       "source": "Crypto Briefing",
@@ -49463,6 +49468,13 @@
           "note": "Alleged Saudi strike on Sanaa airport; armed-conflict news, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:29.154Z"
+        },
+        "776d6e2ce1c85cd479c1": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Saudi-led coalition missile intercept; armed-conflict news, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:31.055Z"
         }
       },
       "baselineSlugs": [
