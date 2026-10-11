@@ -16329,23 +16329,23 @@
       "id": "4f06a77b658d51c113c0",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T11:32:02.994Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T11:07:51.000Z",
       "lastSeenAt": "2026-10-08T11:32:02.994Z",
       "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: beincrypto.com. Needs full read plus second independent source before any draft.",
+      "note": "Korean-bank-hacker story sole source blocked HTTP 403; CrowdStrike report details unverified.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/korean-bank-breaches-hacker-asked-ai/",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:03.616Z",
+      "reviewedAt": "2026-10-11T10:26:18.805Z",
       "retrySearches": [
-        "Korean bank hacker Claude data sale CrowdStrike report findings"
+        "CrowdStrike Korean bank breach Claude AI report"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "f1de3b4ef4e25d03b93c": {
       "source": "Unchained",
@@ -47013,6 +47013,21 @@
           "reviewedAt": "2026-10-11T10:26:17.125Z",
           "retrySearches": [
             "Greece finance ministry crypto 10% draft bill public consultation November parliament"
+          ]
+        },
+        "4f06a77b658d51c113c0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Korean-bank-hacker story sole source blocked HTTP 403; CrowdStrike report details unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/korean-bank-breaches-hacker-asked-ai/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:18.805Z",
+          "retrySearches": [
+            "CrowdStrike Korean bank breach Claude AI report"
           ]
         }
       },
