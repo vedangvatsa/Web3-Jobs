@@ -27184,11 +27184,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d3cb4e180e6669a9a115",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T13:22:15.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "price-chatter",
+      "note": "Weekly US bitcoin ETF reversal tally; flow chatter with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:17:57.305Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "aaa405bee89093cd362c": {
       "source": "CoinDesk",
@@ -49295,6 +49300,13 @@
           "note": "ETF inflow-streak versus outflow tally; flow chatter with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:17:55.247Z"
+        },
+        "d3cb4e180e6669a9a115": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Weekly US bitcoin ETF reversal tally; flow chatter with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:17:57.305Z"
         }
       },
       "baselineSlugs": [
