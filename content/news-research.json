@@ -25125,23 +25125,23 @@
       "id": "d2d7a1b55b78c7f15a05",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T02:06:06.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
       "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "note": "Ledger USDD fund-shift follow-up origin blocked HTTP 403; angle not covered in the probe draft, needs a readable second source.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:52:35.715Z",
+      "reviewedAt": "2026-10-11T10:28:26.851Z",
       "retrySearches": [
-        "Ledger theft funds USDD shift claims with onchain evidence and Tether response"
+        "Ledger stolen funds USDD Tron mixer October 2026"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "cf91cc0e021c7179aa15": {
       "source": "BeInCrypto",
@@ -48142,6 +48142,21 @@
           "reviewedAt": "2026-10-11T10:28:24.987Z",
           "retrySearches": [
             "Solana 200ms epoch 1053 SIMD-0525 complete"
+          ]
+        },
+        "d2d7a1b55b78c7f15a05": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Ledger USDD fund-shift follow-up origin blocked HTTP 403; angle not covered in the probe draft, needs a readable second source.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:28:26.851Z",
+          "retrySearches": [
+            "Ledger stolen funds USDD Tron mixer October 2026"
           ]
         }
       },
