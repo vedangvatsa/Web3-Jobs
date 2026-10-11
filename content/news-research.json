@@ -20858,15 +20858,20 @@
         "The Block"
       ],
       "id": "2a7c81f07dc6e3b3eb0f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T09:06:00.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "duplicate",
-      "note": "Same Oct 8 Meanwhile 37.5M raise as meanwhile-funding; CoinDesk version of the shared story, no separate article.",
-      "sourceChecks": [],
-      "reviewedAt": "2026-10-11T11:56:23.516Z",
+      "reason": "needs-corroboration",
+      "note": "Meanwhile 37.5M raise not fully read this round; needs company release plus second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:19:45.946Z",
       "articleSlug": "meanwhile-raise",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -20877,9 +20882,10 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round terms and valuation"
+        "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
       ],
-      "duplicateOf": "meanwhile-funding"
+      "duplicateOf": "meanwhile-funding",
+      "nextReviewDate": "2026-10-12"
     },
     "9f11ca9ae896380c93c0": {
       "source": "CryptoSlate",
@@ -49801,6 +49807,21 @@
           "reviewedAt": "2026-10-11T18:19:40.305Z",
           "retrySearches": [
             "US government seized Bitfinex bitcoin 1B unlabeled wallets Arkham October 2026"
+          ]
+        },
+        "2a7c81f07dc6e3b3eb0f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Meanwhile 37.5M raise not fully read this round; needs company release plus second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:19:45.946Z",
+          "retrySearches": [
+            "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
           ]
         }
       },
