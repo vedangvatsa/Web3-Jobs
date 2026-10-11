@@ -23338,13 +23338,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "496643e7a159131009a6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T16:08:23.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "verified-event",
-      "note": "Verified Oct 9 DWF affiliates 41M London High Court suit against BitGo over early FF and ESPORTS token sales; read Decrypt and Unchained in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+      "note": "Verified Oct 9 DWF affiliates 141M London High Court suit against BitGo over early FF and ESPORTS token sales; read Decrypt, Unchained and CoinDesk in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
@@ -23353,9 +23353,13 @@
         {
           "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:24:15.806Z",
+      "reviewedAt": "2026-10-11T11:56:40.904Z",
       "articleSlug": "bitgo-suit",
       "lastReviewedDay": "2026-10-11",
       "lastValidationErrors": [
@@ -47896,6 +47900,27 @@
           "reviewedAt": "2026-10-11T11:56:35.011Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "4f7eedcb04b022f754db"
+        },
+        "496643e7a159131009a6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 DWF affiliates 141M London High Court suit against BitGo over early FF and ESPORTS token sales; read Decrypt, Unchained and CoinDesk in full. Drafted 600+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T11:56:40.904Z",
+          "articleSlug": "bitgo-suit"
         }
       },
       "baselineSlugs": [
