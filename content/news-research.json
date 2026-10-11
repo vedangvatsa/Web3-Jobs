@@ -19403,25 +19403,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "2251163d99d43fca70b6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-08T23:51:14.834Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-11T23:00:07.000Z",
       "lastSeenAt": "2026-10-09T03:37:35.186Z",
-      "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-10T03:50:15.740Z",
+      "reason": "not-a-concrete-event",
+      "note": "Incremental Bitcoin Core privacy-fix dev update reaching v32 code; no concrete user-facing event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T10:25:48.879Z",
       "retrySearches": [
         "Bitcoin Core v32 privacy fix code status and v31 patch state"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11"
     },
     "4a009b12285216504b8c": {
       "source": "The Defiant",
@@ -46873,6 +46867,13 @@
           "note": "Interview warning about AI risk to crypto; commentary with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T10:25:47.166Z"
+        },
+        "2251163d99d43fca70b6": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Incremental Bitcoin Core privacy-fix dev update reaching v32 code; no concrete user-facing event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T10:25:48.879Z"
         }
       },
       "baselineSlugs": [
