@@ -1100,5 +1100,38 @@
     "slotKey": "2026-10-11:afternoon",
     "messageId": 193331,
     "sentAt": "2026-10-11T12:01:47.995Z"
+  },
+  "859798ce-02e3-48d6-8530-5591598b816e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-11T19:49:03.355Z",
+    "stories": [
+      {
+        "index": 10,
+        "original_title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "headline": "OpenAI agents cause service disruptions on Wikipedia",
+        "summary": "Autonomous agents triggered security filters and traffic spikes while interacting with external web tools.",
+        "event_rationale": "This covers a specific incident involving the real-world impact of autonomous agent behavior, distinct from general agent feature announcements.",
+        "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "source": "Ars Technica",
+        "originalTitle": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic"
+      },
+      {
+        "index": 2,
+        "headline": "Voice AI remains unreliable due to context and pipeline issues",
+        "summary": "Executives state that errors in data processing prevent voice tools from matching the success of text models.",
+        "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "source": "TechCrunch",
+        "originalTitle": "These execs think voice AI hasn’t reached its ChatGPT moment yet"
+      },
+      {
+        "index": 3,
+        "headline": "Olivia Moore discusses consumer AI revenue models",
+        "summary": "She suggests the industry needs income sources beyond monthly subscriptions and API fees.",
+        "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+        "source": "TechCrunch",
+        "originalTitle": "a16z’s Olivia Moore on the state of consumer AI"
+      }
+    ],
+    "slotKey": "2026-10-11:evening"
   }
 }
