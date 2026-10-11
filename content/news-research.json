@@ -22427,22 +22427,22 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Round 2 availability probe returned HTTP 200 but full editorial read not completed; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 8 UK FCDO sanctions package as the ready draft; Decrypt version of the shared story, no separate article.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:39.151Z",
+      "reviewedAt": "2026-10-11T10:24:50.050Z",
       "duplicateOf": "uk-sanctions",
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "retrySearches": [
         "UK sanctions Cryptomus TokenSpot Russia FCDO notice designations second outlet full reads"
       ],
@@ -22462,7 +22462,7 @@
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-10-11"
+      "mergedInto": "4f7eedcb04b022f754db"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -46544,6 +46544,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:24:48.359Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "4f7eedcb04b022f754db"
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 8 UK FCDO sanctions package as the ready draft; Decrypt version of the shared story, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:50.050Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "4f7eedcb04b022f754db"
         }
