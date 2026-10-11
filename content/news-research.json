@@ -27607,11 +27607,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3359468cb2583c2260ea",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T17:06:39.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Oil traders testing ceasefire claim with bitcoin reaction framing; geopolitics, no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:54.181Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "1d40036b61ecb1fb3b9f": {
       "source": "Cointelegraph",
@@ -49571,6 +49576,13 @@
           "note": "Meta insider stock sales; equity-market gossip, no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:52.064Z"
+        },
+        "3359468cb2583c2260ea": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Oil traders testing ceasefire claim with bitcoin reaction framing; geopolitics, no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:54.181Z"
         }
       },
       "baselineSlugs": [
