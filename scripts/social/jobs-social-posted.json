@@ -1,5 +1,5 @@
 {
-  "lastIndex": 378,
+  "lastIndex": 385,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -176,7 +176,9 @@
     "psc",
     "int42",
     "ops91",
-    "mgr145"
+    "mgr145",
+    "ewps",
+    "mkt73"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5415,498 +5417,6 @@
       "verification": "verified"
     },
     {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x59e7e5542734f734181f93a83f1145374290b849",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0x1631a77dc7193b172185819114d6ceaa0075e05b",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xa7ff8c80b76362c38c28d30d13cebf748e1ba384",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xf5094ca92f8368427f6394b52126a75925759552",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "0xa80d437dd033647eef95041fd2ca74d41dfd5403",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "6ac5c56d203d24e39e0b5039",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "6ac5c5776d07ab8da759f2e0",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "urn:li:share:7513449906074746880",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops70",
-      "company": "Zero Hash",
-      "title": "SVP, Global Head of Operations",
-      "platform": "facebook",
-      "postedAt": "2026-10-07T04:06:50.057Z",
-      "postId": "691827047618629_1108605355080032",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "x",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "6ac5c58d53551104161ea498",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Software Engineer, Metronome Infrastructure\n\nhttps://hashtagweb3.com/infra29/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107684263084626154"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "threads",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "18151817113548749",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Software Engineer, Metronome Infrastructure: https://hashtagweb3.com/infra29/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeLdtBim_u3",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "bluesky",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxb33geo7v2f",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x545f11322111c390b1f47620c724ea255274eb4c",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x44da54d2efc640895f0f3c83af9267278e5ff2bf",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0xc682f839a5409b9ce1cfe2554d06c458146d28e9",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x3932d19d018e4ea02d2aa5319e31dcd01c8d4e31",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0xe09a641d548e2813cd96dd237835ac53983fb44d",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x68fcb47ed549a1126bad09b702d00f57e9d16cd8",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x6f7d2026f67b08f5a1bcf9256416bd3e3efda8dc",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0xfd7b1be84f9321a46aeab128d11e4fb635a5efbb",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x2e5f0470db7ec01636d383c5c3f7b43be018a3d6",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0xe6d70b8f75ac248030110de244730a52c0cedffd",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x65175d8bd8eb273700e6f336be7780d57a942d83",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x13716dbe01a285b7c7b376c518e00ac016e45fc0",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0xe898786e404951b9a6a857ad3d428705766f8fa0",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x399016b63ece50fa2d90620f8a334f7ff8f97eff",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0xb7817d66f2edea42ed80bda2083b47a3eef15a92",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0xc841ea5f5c8e301270b8e343c82566441140054f",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "0x92e5487b9bcc60ee63498ffa34b2f362b70689e5",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "6ac5c5a3203d24e39e0b63e6",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "6ac5c5aec22c37a573b68eff",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "urn:li:share:7513450133838036993",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "infra29",
-      "company": "Stripe",
-      "title": "Software Engineer, Metronome Infrastructure",
-      "platform": "facebook",
-      "postedAt": "2026-10-07T04:07:41.305Z",
-      "postId": "691827047618629_1108605808413320",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "x",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "6ac62da83f62a9ae41a27c7e",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Coinbase is hiring Operations Manager\n\nhttps://hashtagweb3.com/ops79/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107796046113800503"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "18096584585452501",
-      "verification": "verified",
-      "expectedText": "Coinbase is hiring Operations Manager: https://hashtagweb3.com/ops79/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeMQiYZG3Ty",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxbtvlilql2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0xf6a8cbd89bb02ae68445099c2dc44fa0770b1e3e",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x2d71b13b259d4137e5e72f3a9f1c2788b9132ffd",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x2dec444ac9a2bfe120dffc9500c21acfa0b39f73",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0xb5517e80adfef127747f74c98486e97d6311dcb0",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x8c899da315cef185afe5dbb32c6dfa5c89b88ac9",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x1b52d6490f2c1d7c9ef4a36ca6f5d17e9a3cb239",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0xc6a8f27c47dfd5b7b36636a07015e790975882a7",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x1d71c287262d4ee41f0c6612b0dfb5f49a248179",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0xc00179cd99d5845a0ac4d7e25433469f34fe7875",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x188e37c4cbbf054b482d2bcced3e93e4a28fe296",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x8b6846c7041277cd1c226db4b943919c5565da73",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops79",
-      "company": "Coinbase",
-      "title": "Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T11:31:52.313Z",
-      "postId": "0x6138459b9a4f346ecb10569bf4982555814ba5fe",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "ops79",
       "company": "Coinbase",
       "title": "Operations Manager",
@@ -10178,6 +9688,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-10T12:37:04.798Z",
       "postId": "691827047618629_1111574124783155",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "x",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "6acb7a4fb07d37ac97a582eb",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Block is hiring Head of Seller Onboarding External Workforce Operations\n\nhttps://hashtagweb3.com/ewps/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109252739544789225"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "threads",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "17920565559445644",
+      "verification": "verified",
+      "expectedText": "Block is hiring Head of Seller Onboarding External Workforce Operations: https://hashtagweb3.com/ewps/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeWm9wcmzGH",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "bluesky",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxlxe3vl5v2r",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0xada9bbd3f49be2faa4848b5221ae92b28edff69e",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x69aaa23c81f2621344b525b66bffb5542560d886",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0xb43416d3af0e0a376fcbe1777d947016fd7e1bbd",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0xf6d8d72e6b3483b12bad386993d7e41ec4f12d7f",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0xf2557fec4022ca66a106c563df869bd80b338254",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0xbaac519704fa43f446deda0db6a71d1695ae64f2",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x783704e1246b0ba2220e0adbd20c74c683c00984",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x7f7d6452b38d2c17c5d6b5195fb31c531bf4429c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0xf4f06935499e98a46a0d0d5d96b1c217b4f50248",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0xb7048b248fa45fbc2a012907b7ff1f96aac09e73",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x8f740506e8220fabb4e13e446136e1b14340f03c",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x3a04e32bd9f96d1b86dec9f24e38bf1ec19c0c7d",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x62808937aa051b68ca750d1b9e433299dd34c669",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x9f2afaf598869cb35d7c1bd33e9a5fa986df8004",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x5708f3ad7f2dfe1a32ad8e0a0ffe7602818b638a",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x3617a4c0212b8730d2a9bf95116d1ce69d419d9c",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "0x907352142b70272a329e12326ba24c110a7bbd7b",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "6acb7a64ed92ed8fa5002311",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "6acb7a6fbba9419ccb34bc7d",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "linkedin",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "urn:li:share:7515018607815192576",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "ewps",
+      "company": "Block",
+      "title": "Head of Seller Onboarding External Workforce Operations",
+      "platform": "facebook",
+      "postedAt": "2026-10-11T12:00:14.743Z",
+      "postId": "691827047618629_1112463234694244",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "x",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "6acb7a85ed92ed8fa500316e",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "GoMining is hiring Marketing Communications Manager\n\nhttps://hashtagweb3.com/mkt73/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109252966771245328"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "17902936437666374",
+      "verification": "verified",
+      "expectedText": "GoMining is hiring Marketing Communications Manager: https://hashtagweb3.com/mkt73/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeWnETcG-iJ",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxlxfluawc2a",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xf2418bccde1f68df6a1427405ab63862646c2e92",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xbd20fa41a8908d4b23e0b52ba6d93505513fb505",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0x8ce7507551b1ab79bf9e2973035179cb57df458e",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0x9beb89aa72ea2c7a3fcdaffa3610ece1a24525bf",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xfb1a6dc3bb4d138b33dc5ef4794d0b2c70098126",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xdc57212f3a007250314cf283883d06fad2028e3b",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xed0cb3b515f827cb0d38e2a8547b7041df2e8421",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xdcb4ba4057927d04b33a551db7c25964fb7edb25",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0x6f6cae71bcb1b7fd5f08a6ad9ed567e03085727e",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0x7735a65dc3d8b6df69f39cda0cf7e7ea31dc0017",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xceccfc6cbcd9e9d6084919294833263e79f5c2e1",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xce745b3eeab6b14ed69cee6ea337e2d6dc49c978",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0x6f72d2c1f5ac6f3c14230b1da7ba38e37dc88a52",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xe35c97d88868503adb0d86ed2c8982b6758efa02",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0x1b6a37418e01807e7db0449af2e1e3ec6ad4f039",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0x496646a4c8cb23dc5558281a6eacc835ea4c12ee",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "0xb811431478583c1d3c882d9c4e27c4adba45ee2c",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "6acb7a96bba9419ccb34ce3e",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "6acb7aa1bba9419ccb34d17e",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "urn:li:share:7515018817392029696",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mkt73",
+      "company": "GoMining",
+      "title": "Marketing Communications Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-11T12:01:08.559Z",
+      "postId": "691827047618629_1112464014694166",
       "verification": "verified"
     }
   ]
