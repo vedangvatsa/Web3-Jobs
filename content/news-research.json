@@ -27140,11 +27140,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "6ec96a08dec1a481c435",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T14:08:37.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "duplicate",
+      "note": "Same Oct 9 XRPL overflow disclosure as xrpl-overflow; Defiant page gave HTTP 403.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-11T18:16:38.621Z",
+      "duplicateOf": "xrpl-overflow",
+      "mergedInto": "072632a0aec350c61b59",
+      "lastReviewedDay": "2026-10-11"
     },
     "25e05172e7bf28188327": {
       "source": "CryptoSlate",
@@ -49106,6 +49118,20 @@
           "reviewedAt": "2026-10-11T18:16:33.845Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
+        },
+        "6ec96a08dec1a481c435": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 XRPL overflow disclosure as xrpl-overflow; Defiant page gave HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T18:16:38.621Z",
+          "duplicateOf": "xrpl-overflow",
+          "mergedInto": "072632a0aec350c61b59"
         }
       },
       "baselineSlugs": [
