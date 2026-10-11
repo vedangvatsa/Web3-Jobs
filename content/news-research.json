@@ -16570,22 +16570,22 @@
       "id": "793e33cc45c8a11bda37",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-11T12:03:28.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cointelegraph.com. Needs full read plus second independent source before any draft.",
+      "note": "Sui Hashi 00M commitments story reachable but not fully read; no Sui or Hashi primary yet.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:05.330Z",
+      "reviewedAt": "2026-10-11T10:26:22.127Z",
       "retrySearches": [
-        "Sui Hashi bitcoin finance 500M commitments launch participants and terms"
+        "Sui Hashi launch 00M Bitcoin finance commitments announcement"
       ],
-      "lastReviewedDay": "2026-10-10",
+      "lastReviewedDay": "2026-10-11",
       "articleSlug": "sui-hashi",
       "lastValidationErrors": [
         "esma-stablecoins.md: under 600 words",
@@ -16599,7 +16599,7 @@
         "Source link HTTP 403: https://cryptorank.io/price/openai-ondo-private-market-note",
         "Source link HTTP 403: https://defillama.com/rwa/asset/OPAIPon"
       ],
-      "nextReviewDate": "2026-10-11"
+      "nextReviewDate": "2026-10-12"
     },
     "49796226371352e18cd0": {
       "source": "CoinJournal",
@@ -47043,6 +47043,21 @@
           "reviewedAt": "2026-10-11T10:26:20.449Z",
           "retrySearches": [
             "Supreme Court Kalshi New Jersey amicus NFL docket cert petition"
+          ]
+        },
+        "793e33cc45c8a11bda37": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Sui Hashi 00M commitments story reachable but not fully read; no Sui or Hashi primary yet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:22.127Z",
+          "retrySearches": [
+            "Sui Hashi launch 00M Bitcoin finance commitments announcement"
           ]
         }
       },
