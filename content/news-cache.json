@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-10-11T11:31:32.890Z",
+  "generatedAt": "2026-10-11T16:43:27.142Z",
   "items": [
+    {
+      "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+      "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+      "pubDate": "Sun, 11 Oct 2026 16:01:03 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine strai...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
+      "creator": "Will Canny",
+      "contentSnippet": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unr...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+      "pubDate": "Sun, 11 Oct 2026 13:00:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "pubDate": "Sun, 11 Oct 2026 13:00:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not ca...",
+      "source": "Coindesk"
+    },
     {
       "title": "CFTC Draws Sharp Line Excluding Casino Gambling From Swaps While Targeting Event Contracts",
       "link": "https://dailyhodl.com/2026/10/11/cftc-draws-sharp-line-excluding-casino-gambling-from-swaps-while-targeting-event-contracts/",
@@ -10,9 +42,9 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
       "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 11 Oct 2026 09:01:51 +0000",
+      "pubDate": "Sun, 11 Oct 2026 09:05:00 +0000",
       "creator": "Michael Millard",
       "contentSnippet": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
       "source": "Cointelegraph"
@@ -194,14 +226,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Crypto Wallet Ledger Now Lets Users Borrow Stablecoins Against Their Bitcoin Without Giving Up Self-Custody",
-      "link": "https://dailyhodl.com/2026/10/09/crypto-wallet-ledger-now-lets-users-borrow-stablecoins-against-their-bitcoin-without-giving-up-self-custody/",
-      "pubDate": "Fri, 09 Oct 2026 14:30:09 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Crypto hardware wallet maker Ledger is rolling out a new feature that lets users borrow stablecoins against their Bitcoin (BTC) without giving up cust...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures ",
       "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 09 Oct 2026 13:49:22 +0000",
@@ -352,30 +376,6 @@
       "creator": "Felix Ng",
       "contentSnippet": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "pubDate": "Fri, 09 Oct 2026 05:00:52 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "link": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "pubDate": "Fri, 09 Oct 2026 04:21:36 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Ether bets were wiped out at six times bitcoin’s rate in crypto’s $1 billion flush",
-      "link": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
-      "pubDate": "Fri, 09 Oct 2026 04:04:36 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether’s market value being less than a fifth as large.",
-      "source": "Coindesk"
     },
     {
       "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
