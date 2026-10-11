@@ -27163,11 +27163,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f049a300ffe183052427",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T13:48:41.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "price-chatter",
+      "note": "Pokemon cards versus bitcoin returns comparison; price chatter, no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:06.139Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "d3cb4e180e6669a9a115": {
       "source": "The Defiant",
@@ -49343,6 +49348,13 @@
           "note": "Bitfinex ETH longs at four-year high; positioning chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:04.104Z"
+        },
+        "f049a300ffe183052427": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Pokemon cards versus bitcoin returns comparison; price chatter, no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:06.139Z"
         }
       },
       "baselineSlugs": [
