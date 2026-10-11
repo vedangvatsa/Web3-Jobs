@@ -22799,23 +22799,23 @@
       "id": "0e1ee8d7a2e04ebe6b95",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T14:40:46.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "needs-corroboration",
-      "note": "Round 1 review: HTTP 200 on availability probe but full editorial read not completed: cryptoslate.com. Needs full read plus second independent source before any draft.",
+      "note": "79thvaults 4M pool-drain story has only the single CryptoSlate source; corroboration or reject as single-weak-source.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail/",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:28.062Z",
+      "reviewedAt": "2026-10-11T10:27:52.492Z",
       "retrySearches": [
-        "14M crypto pool drain incident details attacker method and affected protocol"
+        "79thvaults 14 million pool drain locked liquidity"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "0c7af042fdbff4991543": {
       "source": "BeInCrypto",
@@ -47834,6 +47834,21 @@
           "reviewedAt": "2026-10-11T10:27:50.840Z",
           "retrySearches": [
             "SEC Rule 17a-7 cross trading proposal comment period"
+          ]
+        },
+        "0e1ee8d7a2e04ebe6b95": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "79thvaults 4M pool-drain story has only the single CryptoSlate source; corroboration or reject as single-weak-source.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:52.492Z",
+          "retrySearches": [
+            "79thvaults 14 million pool drain locked liquidity"
           ]
         }
       },
