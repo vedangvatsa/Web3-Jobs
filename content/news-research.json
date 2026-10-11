@@ -23137,26 +23137,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe698f27fac724e48c17",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 6,
+      "attempts": 7,
       "expiresAt": "2026-10-12T15:29:41.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "duplicate",
+      "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as the ready draft; outlet page blocked, no separate article.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T22:55:49.197Z",
+      "reviewedAt": "2026-10-11T10:25:05.876Z",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "duplicateOf": "ledger-drain",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "duplicateOf": "cryptobilis-drains",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "d6ebc8a19d31822069ab": {
       "source": "The Defiant",
@@ -46670,6 +46670,20 @@
             }
           ],
           "reviewedAt": "2026-10-11T10:25:04.061Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "fe698f27fac724e48c17": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as the ready draft; outlet page blocked, no separate article.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:25:05.876Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
