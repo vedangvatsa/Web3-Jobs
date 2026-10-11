@@ -22870,25 +22870,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "fe698f27fac724e48c17",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-12T15:29:41.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as cryptobilis-drains; Defiant version of the shared story, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/hacks/tether-freezes-usdt-linked-to-ledger-user-thefts-misttrack-says",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T11:57:18.553Z",
+      "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as ledger-implant; folded into draft.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:16:54.232Z",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
       "lastReviewedDay": "2026-10-11",
-      "duplicateOf": "cryptobilis-drains"
+      "duplicateOf": "ledger-implant",
+      "mergedInto": "bd4403fca10c615fa959"
     },
     "d6ebc8a19d31822069ab": {
       "source": "The Defiant",
@@ -49192,6 +49188,15 @@
           "note": "Same Oct 9 Ledger drain cluster as ledger-implant; single-victim angle inside covered event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:16:52.183Z",
+          "duplicateOf": "ledger-implant",
+          "mergedInto": "bd4403fca10c615fa959"
+        },
+        "fe698f27fac724e48c17": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as ledger-implant; folded into draft.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:16:54.232Z",
           "duplicateOf": "ledger-implant",
           "mergedInto": "bd4403fca10c615fa959"
         }
