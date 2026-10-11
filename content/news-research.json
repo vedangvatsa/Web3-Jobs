@@ -22666,23 +22666,23 @@
       "id": "f8ec77c66ea84cb60667",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T14:59:00.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: www.sec.gov. Needs full read plus second independent source before any draft.",
+      "reason": "needs-corroboration",
+      "note": "SEC cross-trading proposal has indirect crypto relevance; sec.gov release plus Bloomberg Law outstanding, needs a crypto nexus.",
       "sourceChecks": [
         {
           "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
-          "outcome": "blocked"
+          "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-10T03:51:24.723Z",
+      "reviewedAt": "2026-10-11T10:27:50.840Z",
       "retrySearches": [
-        "SEC cross trading expanded securities proposal release text and comment deadline"
+        "SEC Rule 17a-7 cross trading proposal comment period"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "3e5484a682e6ed261c67": {
       "source": "CoinDesk",
@@ -47819,6 +47819,21 @@
           "reviewedAt": "2026-10-11T10:27:49.214Z",
           "retrySearches": [
             "Blockchain.com CFTC DCM FCM CNBC"
+          ]
+        },
+        "f8ec77c66ea84cb60667": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "SEC cross-trading proposal has indirect crypto relevance; sec.gov release plus Bloomberg Law outstanding, needs a crypto nexus.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:27:50.840Z",
+          "retrySearches": [
+            "SEC Rule 17a-7 cross trading proposal comment period"
           ]
         }
       },
