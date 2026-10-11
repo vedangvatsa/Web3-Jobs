@@ -16956,23 +16956,23 @@
       "id": "f30de830c73c7f6e15eb",
       "status": "deferred",
       "firstSeenAt": "2026-10-08T17:58:12.592Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-11T16:20:53.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "source-blocked",
-      "note": "Round 1 review: HTTP 403 on: thedefiant.io. Needs full read plus second independent source before any draft.",
+      "note": "Gnosis bridges story sole source blocked HTTP 403; fast-confirmation details unverified.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-10T03:49:17.141Z",
+      "reviewedAt": "2026-10-11T10:26:27.211Z",
       "retrySearches": [
-        "Gnosis bridges fast confirmation Ethereum deposits technical details"
+        "Gnosis bridges fast confirmation Ethereum deposits announcement"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "nextReviewDate": "2026-10-12"
     },
     "c0cdd9d68ce4ce6ba774": {
       "source": "Decrypt",
@@ -47088,6 +47088,21 @@
           "reviewedAt": "2026-10-11T10:26:25.406Z",
           "retrySearches": [
             "EDX Markets VerifiedX vBTC institutional announcement"
+          ]
+        },
+        "f30de830c73c7f6e15eb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Gnosis bridges story sole source blocked HTTP 403; fast-confirmation details unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:26:27.211Z",
+          "retrySearches": [
+            "Gnosis bridges fast confirmation Ethereum deposits announcement"
           ]
         }
       },
