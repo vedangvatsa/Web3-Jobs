@@ -27257,11 +27257,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c964391e2ec394976699",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T15:40:47.000Z",
-      "lastSeenAt": "2026-10-11T18:08:25.505Z"
+      "lastSeenAt": "2026-10-11T18:08:25.505Z",
+      "reason": "out-of-scope",
+      "note": "Trump Russia-Ukraine energy ceasefire claim; geopolitics with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T18:18:12.847Z",
+      "lastReviewedDay": "2026-10-11"
     },
     "d75ec0e58d68cfc0a82f": {
       "source": "CryptoSlate",
@@ -49355,6 +49360,13 @@
           "note": "Pokemon cards versus bitcoin returns comparison; price chatter, no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T18:18:06.139Z"
+        },
+        "c964391e2ec394976699": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Trump Russia-Ukraine energy ceasefire claim; geopolitics with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T18:18:12.847Z"
         }
       },
       "baselineSlugs": [
