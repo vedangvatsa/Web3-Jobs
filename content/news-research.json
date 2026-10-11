@@ -26904,25 +26904,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "82174278e88b61c6fbd7",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-13T18:35:25.000Z",
       "lastSeenAt": "2026-10-11T10:11:39.908Z",
-      "reason": "source-blocked",
-      "note": "Round 2 availability probe returned HTTP 403 for this outlet; full read plus second independent source still needed.",
+      "reason": "verified-event",
+      "note": "Verified Oct 10 Kalshi probe into Zacharia-linked press-secretary bets placed before the announcement; read The Verge and The Star (Reuters) in full, WSJ origin paywalled. Drafted 660+ words with self-hosted hero; gates pass, links HTTP 200.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-          "outcome": "blocked"
+          "url": "https://www.theverge.com/tech/1009225/kalshi-is-investigating-trades-about-trumps-new-press-secretary-pick",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/10/kalshi-probes-suspicious-trades-tied-to-trump-press-secretary-pick-wsj-reports",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-10T22:56:22.535Z",
+      "reviewedAt": "2026-10-11T10:24:20.654Z",
       "retrySearches": [
         "Kalshi press secretary bets WSJ investigation scope second outlet full read"
       ],
-      "lastReviewedDay": "2026-10-10",
-      "nextReviewDate": "2026-10-11"
+      "lastReviewedDay": "2026-10-11",
+      "articleSlug": "kalshi-bets"
     },
     "14622e749bf8034cb861": {
       "source": "The Defiant",
@@ -46310,6 +46314,23 @@
           ],
           "reviewedAt": "2026-10-11T10:24:19.077Z",
           "articleSlug": "ledger-implant"
+        },
+        "82174278e88b61c6fbd7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 10 Kalshi probe into Zacharia-linked press-secretary bets placed before the announcement; read The Verge and The Star (Reuters) in full, WSJ origin paywalled. Drafted 660+ words with self-hosted hero; gates pass, links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theverge.com/tech/1009225/kalshi-is-investigating-trades-about-trumps-new-press-secretary-pick",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/10/kalshi-probes-suspicious-trades-tied-to-trump-press-secretary-pick-wsj-reports",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-11T10:24:20.654Z",
+          "articleSlug": "kalshi-bets"
         }
       },
       "baselineSlugs": [
