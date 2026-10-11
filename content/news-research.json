@@ -24417,25 +24417,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "94b717cda7c41ca127f6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-12T21:10:39.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
       "reason": "duplicate",
-      "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as the ready draft; folded into the draft, no separate article.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:25:00.476Z",
+      "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as cryptobilis-drains; folded into the draft, no separate article.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-11T11:57:36.124Z",
       "retrySearches": [
         "Ledger CryptoBilis $86M drain hardware implant Tether freeze second outlet full reads"
       ],
       "lastReviewedDay": "2026-10-11",
-      "duplicateOf": "cryptobilis-drains"
+      "duplicateOf": "cryptobilis-drains",
+      "mergedInto": "11f65ef62dae6e42495b"
     },
     "a1d08de2435b7aa593b5": {
       "source": "The Defiant",
@@ -48140,6 +48136,15 @@
           "note": "Same Oct 9 Ledger CryptoBilis drain cluster as cryptobilis-drains; Unchained version of the shared story, no separate article.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-11T11:57:34.296Z",
+          "duplicateOf": "cryptobilis-drains",
+          "mergedInto": "11f65ef62dae6e42495b"
+        },
+        "94b717cda7c41ca127f6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 Ledger drain plus Tether-freeze angle as cryptobilis-drains; folded into the draft, no separate article.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-11T11:57:36.124Z",
           "duplicateOf": "cryptobilis-drains",
           "mergedInto": "11f65ef62dae6e42495b"
         }
