@@ -1380,7 +1380,7 @@
     "sentAt": "2026-10-12T11:32:17.324Z"
   },
   "64fca194-afdf-4ec0-b8ef-b591e4a854a5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T19:32:17.660Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1421,6 +1421,8 @@
       }
     ],
     "message": "• Alchemy is hiring <a href=\"https://hashtagweb3.com/product249?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Customer Product Engineer</a>\n• MoonPay is hiring <a href=\"https://hashtagweb3.com/mkt5?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Enterprise Marketing Director</a>\n• Alpaca is hiring <a href=\"https://hashtagweb3.com/product642?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Product Designer</a>\n• Bitdeer is hiring <a href=\"https://hashtagweb3.com/ols?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Order &amp; Logistics Specialist</a>\n• CertiK is hiring <a href=\"https://hashtagweb3.com/scda?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Solutions Consultant</a>",
-    "slotKey": "2026-10-12:evening"
+    "slotKey": "2026-10-12:evening",
+    "messageId": 155737,
+    "sentAt": "2026-10-12T19:32:30.453Z"
   }
 }
