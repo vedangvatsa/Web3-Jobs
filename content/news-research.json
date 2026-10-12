@@ -20168,22 +20168,46 @@
       ],
       "alsoCoveredBy": [],
       "id": "6521f65a66822c1c1481",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-12T10:40:59.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Block Thailand ETF piece not fully read this round; same framework event, needs full read.",
+      "reason": "verified-event",
+      "note": "Verified SEC release 216/2026 of Oct 8 - 11 notifications, BTC/ETH only, SET-only, 80 percent rule, local custody, no margin, foreign-DR block, effective Oct 16 - matched across SEC mirror, CoinDesk, Cointelegraph, CryptoBriefing, BeInCrypto.",
       "sourceChecks": [
         {
+          "url": "https://www.pubt.io/view/97F806AE0C70A0D5C3DE243398D3DEB111DAFCD2",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/thailand-sec-finalizes-bitcoin-ether-etf-rules/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://finance.yahoo.com/markets/crypto/articles/thailand-opens-door-crypto-etfs-063411772.html",
+          "outcome": "read"
+        },
+        {
           "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-          "outcome": "unavailable"
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T18:19:33.929Z",
+      "reviewedAt": "2026-10-12T03:56:57.028Z",
       "duplicateOf": "thailand-etfs",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "articleSlug": "thailand-etfs",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
@@ -20191,8 +20215,7 @@
       ],
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "111c40e3f46ad4991183": {
       "source": "CoinJournal",
@@ -52899,6 +52922,43 @@
           ],
           "reviewedAt": "2026-10-12T03:56:55.052Z",
           "articleSlug": "uk-sanctions"
+        },
+        "6521f65a66822c1c1481": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified SEC release 216/2026 of Oct 8 - 11 notifications, BTC/ETH only, SET-only, 80 percent rule, local custody, no margin, foreign-DR block, effective Oct 16 - matched across SEC mirror, CoinDesk, Cointelegraph, CryptoBriefing, BeInCrypto.",
+          "sourceChecks": [
+            {
+              "url": "https://www.pubt.io/view/97F806AE0C70A0D5C3DE243398D3DEB111DAFCD2",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/thailand-sec-finalizes-bitcoin-ether-etf-rules/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://finance.yahoo.com/markets/crypto/articles/thailand-opens-door-crypto-etfs-063411772.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:56:57.028Z",
+          "articleSlug": "thailand-etfs"
         }
       },
       "baselineSlugs": [
