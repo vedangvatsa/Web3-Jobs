@@ -24964,22 +24964,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "aa622e9da8bf6f47f49d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
-      "attempts": 7,
+      "attempts": 8,
       "expiresAt": "2026-10-13T07:10:43.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "needs-corroboration",
-      "note": "Meanwhile raise piece not fully read; same funding event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:19:50.283Z",
+      "reason": "duplicate",
+      "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:18.300Z",
       "articleSlug": "meanwhile-funding",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
@@ -24988,7 +24983,8 @@
       "retrySearches": [
         "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "duplicateOf": "meanwhile-raise",
+      "mergedInto": "2a7c81f07dc6e3b3eb0f"
     },
     "6445e691f0625b1e13c9": {
       "source": "The Defiant",
@@ -53521,6 +53517,15 @@
           "reviewedAt": "2026-10-12T03:58:13.359Z",
           "duplicateOf": "slot-times",
           "mergedInto": "f7cc92328214d5e25bb3"
+        },
+        "aa622e9da8bf6f47f49d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:18.300Z",
+          "duplicateOf": "meanwhile-raise",
+          "mergedInto": "2a7c81f07dc6e3b3eb0f"
         }
       },
       "baselineSlugs": [
