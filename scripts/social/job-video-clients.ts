@@ -53,7 +53,13 @@ export async function bufferRecover(platform: 'youtube' | 'tiktok', receipt: Rec
 export async function bufferVerify(platform: 'youtube' | 'tiktok', receipt: Receipt, attempts = 24): Promise<string> {
   for (let attempt = 0; attempt < attempts; attempt++) {
     const {post} = await bufferQuery<{post: BufferPost}>('query ($id: PostId!) {post(input: {id: $id}) {' + postFields + '}}', {id: receipt.postId});
-    if (!post || post.id !== receipt.postId || post.channelId !== channels[platform] || post.channelService !== platform || post.text !== receipt.text) throw new Error('Buffer receipt does not match the requested video post');
+    const mismatches = !post ? ['missing post'] : [
+      post.id !== receipt.postId && 'post ID',
+      post.channelId !== channels[platform] && 'channel ID',
+      post.channelService !== platform && 'platform',
+      post.text !== receipt.text && 'caption',
+    ].filter(Boolean);
+    if (mismatches.length) throw new Error(`Buffer receipt does not match the requested video post (${mismatches.join(', ')})`);
     if (post.status === 'error') throw new Error(`Buffer publish failed — ${post.error?.message || 'unknown error'}`);
     if (post.status === 'sent' && post.externalLink) {
       const url = new URL(post.externalLink);
