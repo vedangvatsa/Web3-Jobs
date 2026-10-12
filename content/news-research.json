@@ -22901,25 +22901,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "d6ebc8a19d31822069ab",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T15:27:48.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "source-blocked",
-      "note": "THORChain-Tether freeze story origin blocked though snippets show multi-outlet corroboration; full reads plus Barraford primary outstanding.",
+      "reason": "verified-event",
+      "note": "Verified Oct 9 freeze - Tether blacklisted four THORChain Tron vaults holding 1.45M USDT (93 percent of Tron funds), lifted at 15-30 UTC with swaps back 15-58 - matched across Cointelegraph, CryptoSlate, CryptoBriefing; Defiant blocked.",
       "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/tether-freezes-usdt-thorchain-vaults-tron/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/defi/tether-blacklists-four-thorchain-vaults-holding-1-45-million-usdt",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:55.799Z",
+      "reviewedAt": "2026-10-12T03:57:28.549Z",
       "retrySearches": [
         "THORChain Tether blacklist 1.45M USDT unfrozen Barraford"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "articleSlug": "thorchain-freeze"
     },
     "b55e715b81b3ef155332": {
       "source": "Cointelegraph",
@@ -53316,6 +53328,31 @@
           ],
           "reviewedAt": "2026-10-12T03:57:26.697Z",
           "articleSlug": "france-taxes"
+        },
+        "d6ebc8a19d31822069ab": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 freeze - Tether blacklisted four THORChain Tron vaults holding 1.45M USDT (93 percent of Tron funds), lifted at 15-30 UTC with swaps back 15-58 - matched across Cointelegraph, CryptoSlate, CryptoBriefing; Defiant blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/tether-freezes-usdt-thorchain-vaults-tron/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/tether-blacklists-four-thorchain-vaults-holding-1-45-million-usdt",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:28.549Z",
+          "articleSlug": "thorchain-freeze"
         }
       },
       "baselineSlugs": [
