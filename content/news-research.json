@@ -24404,23 +24404,23 @@
       "id": "7ef426982303d62000e0",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T21:37:43.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Aero Oct 21 merger story on a single queued source; conversion terms unverified.",
+      "note": "Aero Oct 21 merger read via hub mirror in search only with Defiant unopened - needs Aero primary and second outlet.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
-          "outcome": "blocked"
+          "url": "https://aero.xyz/aero-upgrade/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:18.215Z",
+      "reviewedAt": "2026-10-12T04:03:53.356Z",
       "retrySearches": [
-        "Aero merger October 21 token conversion Aerodrome"
+        "Aero Aerodrome Velodrome merger October 21 second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "af458fb1bbabce80a040": {
       "source": "The Defiant",
@@ -54237,6 +54237,21 @@
           "reviewedAt": "2026-10-12T04:03:51.417Z",
           "retrySearches": [
             "Coinbase Guillaume Texas dismissal Bloomberg Law360 coverage"
+          ]
+        },
+        "7ef426982303d62000e0": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Aero Oct 21 merger read via hub mirror in search only with Defiant unopened - needs Aero primary and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://aero.xyz/aero-upgrade/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:53.356Z",
+          "retrySearches": [
+            "Aero Aerodrome Velodrome merger October 21 second outlet"
           ]
         }
       },
