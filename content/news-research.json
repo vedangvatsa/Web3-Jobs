@@ -27141,25 +27141,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b70b1cdcc59a6e3325b1",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T15:53:36.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "source-blocked",
-      "note": "Papertrade limits piece blocked HTTP 403 on Defiant; needs readable outlet plus project response.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:55.936Z",
+      "reason": "duplicate",
+      "note": "Same Papertrade launch cluster drafted once as papertrade.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:59.149Z",
       "retrySearches": [
         "Papertrade tightening trading limits manipulation allegations response October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "duplicateOf": "papertrade",
+      "mergedInto": "6445e691f0625b1e13c9"
     },
     "c964391e2ec394976699": {
       "source": "CoinDesk",
@@ -53619,6 +53615,15 @@
           "note": "Same Papertrade launch cluster drafted once as papertrade.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:57.145Z",
+          "duplicateOf": "papertrade",
+          "mergedInto": "6445e691f0625b1e13c9"
+        },
+        "b70b1cdcc59a6e3325b1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Papertrade launch cluster drafted once as papertrade.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:59.149Z",
           "duplicateOf": "papertrade",
           "mergedInto": "6445e691f0625b1e13c9"
         }
