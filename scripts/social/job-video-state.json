@@ -2441,10 +2441,11 @@
           "url": "https://www.youtube.com/watch?v=6g2WIszrykA"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Legal Counsel at Animoca Brands. Hong Kong.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-12T19:37:36.815Z",
-          "attemptId": "c3a00a0a-5c5c-4b5b-9549-dc8c1bd7c321"
+          "attemptId": "c3a00a0a-5c5c-4b5b-9549-dc8c1bd7c321",
+          "postId": "6acd37027501053a1003a411"
         }
       }
     }
