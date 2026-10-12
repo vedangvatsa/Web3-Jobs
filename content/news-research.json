@@ -28734,11 +28734,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1606f4eab1e355e34c6f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T01:04:24.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "price-chatter",
+      "note": "Ethereum Foundation-linked wallets sending 4393 ETH to Kraken is routine-flow speculation with no confirmed sale or announcement.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:18.022Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "9d38eb88094279d8bcb6": {
       "source": "Crypto Briefing",
@@ -52563,6 +52568,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:16.132Z",
           "duplicateOf": "1606f4eab1e355e34c6f"
+        },
+        "1606f4eab1e355e34c6f": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Ethereum Foundation-linked wallets sending 4393 ETH to Kraken is routine-flow speculation with no confirmed sale or announcement.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:18.022Z"
         }
       },
       "baselineSlugs": [
