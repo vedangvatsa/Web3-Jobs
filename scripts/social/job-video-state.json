@@ -2423,10 +2423,11 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Legal Counsel at Animoca Brands\n\nHong Kong\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
           "startedAt": "2026-10-12T19:35:53.032Z",
-          "attemptId": "5dba0bf6-a2a0-4c48-a346-ddd824321886"
+          "attemptId": "5dba0bf6-a2a0-4c48-a346-ddd824321886",
+          "containerId": "17917376889461009"
         }
       }
     }
