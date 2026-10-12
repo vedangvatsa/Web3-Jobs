@@ -24512,26 +24512,20 @@
       ],
       "alsoCoveredBy": [],
       "id": "5936ea8f20383c5c23f9",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T20:10:14.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Treasury Iran seizure-threat piece not fully read; needs Bessent remarks plus second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:32.921Z",
+      "reason": "not-a-concrete-event",
+      "note": "Treasury threat to freeze Iran crypto is a warning with no executed action.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:51.117Z",
       "duplicateOf": "iran-seizure",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "Bessent 1B Iran crypto seizure Treasury statement October 2026"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "f41e7abd8920b9ee59a0": {
       "source": "Decrypt",
@@ -52779,6 +52773,13 @@
           "note": "US plans to seize 1B in Iran-linked crypto this week is a plan with no executed seizure.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:49.020Z"
+        },
+        "5936ea8f20383c5c23f9": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Treasury threat to freeze Iran crypto is a warning with no executed action.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:51.117Z"
         }
       },
       "baselineSlugs": [
