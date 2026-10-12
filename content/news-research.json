@@ -20852,25 +20852,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "444c2aa0acf1240fe52e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T06:40:54.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "needs-corroboration",
-      "note": "Bitcoin-lending 00M debut is pre-launch intent on a single queued source; provider announcement outstanding.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:27:21.877Z",
+      "reason": "not-a-concrete-event",
+      "note": "Bitcoin-lending 500M debut is pre-launch intent on a single source with no provider announcement.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:24.295Z",
       "retrySearches": [
         "bitcoin lending 500 million commitments debut October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "910cbdc22ebf840f561a": {
       "source": "CryptoSlate",
@@ -52767,6 +52761,13 @@
           "note": "Crypto projects applying to Anthropic scanner is unmerged PR activity with no acceptance or finding.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:22.315Z"
+        },
+        "444c2aa0acf1240fe52e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Bitcoin-lending 500M debut is pre-launch intent on a single source with no provider announcement.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:24.295Z"
         }
       },
       "baselineSlugs": [
