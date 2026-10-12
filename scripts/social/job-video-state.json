@@ -2383,11 +2383,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "pending",
+          "status": "publishing",
           "text": "Marketing Technology Specialist at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
           "startedAt": "2026-10-12T19:31:16.661Z",
           "attemptId": "8db20489-bbaf-4411-bd4b-4fd69fcb7010",
-          "containerId": "17917376322461009"
+          "containerId": "17917376322461009",
+          "publishAttemptId": "716cfd89-6ed4-404a-9e0f-c3e920d42f74"
         }
       }
     },
