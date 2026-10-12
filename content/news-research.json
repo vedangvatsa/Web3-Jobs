@@ -21539,23 +21539,23 @@
       "id": "c4d91bb9350aafd0d59f",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T08:59:31.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "SIM-swap sentencing story not fully read and near its expiry edge; police release plus Record outstanding.",
+      "note": "SIM-swap sentencing read in Decrypt with police release missing - needs police notice and second outlet.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:35.405Z",
+      "reviewedAt": "2026-10-12T04:03:45.898Z",
       "retrySearches": [
-        "City of London Police Ajay Shinjin SIM swap sentenced"
+        "City London Police Shinjin SIM swap sentencing release"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "6ff235b2f73f2ee5ee35": {
       "source": "BeInCrypto",
@@ -54207,6 +54207,21 @@
           "reviewedAt": "2026-10-12T04:03:43.964Z",
           "retrySearches": [
             "Empire Market Hamilton sentencing DOJ press release October 2026"
+          ]
+        },
+        "c4d91bb9350aafd0d59f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "SIM-swap sentencing read in Decrypt with police release missing - needs police notice and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:45.898Z",
+          "retrySearches": [
+            "City London Police Shinjin SIM swap sentencing release"
           ]
         }
       },
