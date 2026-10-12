@@ -27469,25 +27469,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "7593b40419d38129e14d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T17:48:05.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "source-blocked",
-      "note": "Defiant returned HTTP 403 all round; Coinbase-Deribit integration needs readable outlet plus company record.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:21:14.768Z",
+      "reason": "stale",
+      "note": "Coinbase Deribit migration completed Oct 1 to 2 and announced Oct 7; outside the 72-hour window on Oct 12.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:55.229Z",
       "retrySearches": [
         "Coinbase Deribit integration institutional traders completion October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "3359468cb2583c2260ea": {
       "source": "BeInCrypto",
@@ -52781,6 +52775,13 @@
           "note": "BitMine 350M buyback completed July 14 to Aug 17 and disclosed in an Oct 7 8-K; outside the 72-hour window on Oct 12.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:53.217Z"
+        },
+        "7593b40419d38129e14d": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Coinbase Deribit migration completed Oct 1 to 2 and announced Oct 7; outside the 72-hour window on Oct 12.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:55.229Z"
         }
       },
       "baselineSlugs": [
