@@ -124,6 +124,10 @@
     "2026-10-12:morning": [
       "marketing212",
       "eng332"
+    ],
+    "2026-10-12:afternoon": [
+      "marketing211",
+      "ops63"
     ]
   },
   "jobs": {
@@ -2290,6 +2294,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7695620456451280160"
         }
       }
+    },
+    "marketing211": {
+      "slot": "2026-10-12:afternoon",
+      "selectedAt": "2026-10-12T11:31:05.822Z",
+      "verifiedAt": "2026-10-12T11:31:05.822Z",
+      "captions": {
+        "instagram": "Brand Marketing Manager, Global Sponsorships at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "Brand Marketing Manager, Global Sponsorships at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Brand Marketing Manager, Global Sponsorships at Nexo"
+      },
+      "receipts": {}
+    },
+    "ops63": {
+      "slot": "2026-10-12:afternoon",
+      "selectedAt": "2026-10-12T11:31:05.822Z",
+      "verifiedAt": "2026-10-12T11:31:05.822Z",
+      "captions": {
+        "instagram": "Senior Operations Manager, Liquidity Management at OKX\n\nHong Kong\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Senior Operations Manager, Liquidity Management at OKX. Hong Kong.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Hong Kong\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Senior Operations Manager, Liquidity Management at OKX"
+      },
+      "receipts": {}
     }
   }
 }
