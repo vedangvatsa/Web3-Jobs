@@ -29488,11 +29488,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b3351246d9902cfb1adb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T22:00:00.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Michael Burry on Fannie Mae and Freddie Mac is housing-finance commentary with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:56.741Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "682958f9ce0959cd0fa0": {
       "source": "Crypto Briefing",
@@ -52440,6 +52445,13 @@
           "note": "Moonshot AI shareholder dispute before Hong Kong IPO is AI corporate news with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:54.842Z"
+        },
+        "b3351246d9902cfb1adb": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Michael Burry on Fannie Mae and Freddie Mac is housing-finance commentary with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:56.741Z"
         }
       },
       "baselineSlugs": [
