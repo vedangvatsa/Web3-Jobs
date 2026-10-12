@@ -21308,26 +21308,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "c76300860e9b16ab3fc5",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:20:22.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "ESMA stablecoin wind-down story not fully read; ESMA opinion PDF plus CoinDesk outstanding. Draft once with the companion lead.",
+      "reason": "verified-event",
+      "note": "Verified ESMA Oct 8 opinion - CASPs must end all services tied to non-MiCA ARTs/EMTs with legacy exposure remediated within 3 months to Jan 8 2027 - matched across Unchained, CryptoSlate, CoinDesk.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/eu-securities-regulator-wants-crypto-platforms-to-wind-down-non-mica-stablecoin-services/",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:33.785Z",
+      "reviewedAt": "2026-10-12T04:01:49.546Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "ESMA opinion non-MiCA ART EMT three months January 2027"
       ],
-      "nextReviewDate": "2026-10-12"
+      "articleSlug": "esma-stablecoins"
     },
     "00846212524fc336a196": {
       "source": "CoinDesk",
@@ -53710,6 +53718,27 @@
           ],
           "reviewedAt": "2026-10-12T04:00:56.309Z",
           "articleSlug": "cantor-probe"
+        },
+        "c76300860e9b16ab3fc5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified ESMA Oct 8 opinion - CASPs must end all services tied to non-MiCA ARTs/EMTs with legacy exposure remediated within 3 months to Jan 8 2027 - matched across Unchained, CryptoSlate, CoinDesk.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/eu-securities-regulator-wants-crypto-platforms-to-wind-down-non-mica-stablecoin-services/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:01:49.546Z",
+          "articleSlug": "esma-stablecoins"
         }
       },
       "baselineSlugs": [
