@@ -20287,22 +20287,46 @@
       ],
       "alsoCoveredBy": [],
       "id": "19357b6f78dfafe2a59e",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:16:48.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "France stablecoin swap tax vote in the 2027 budget bill is concrete but only the queued source is known; amendment record outstanding.",
+      "reason": "verified-event",
+      "note": "Verified France 2027 budget crypto arc - CF1826 stablecoin-swap tax adopted Oct 7, CF1822 exit tax adopted Oct 8, revenue section rejected 31-3-2 Oct 9, floor restarts Oct 13 - matched across Assembly records, Cointelegraph, Decrypt, LCP, Capital.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF1826",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF1822",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+          "outcome": "read"
+        },
+        {
+          "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.capital.fr/economie-politique/budget-2027-cryptos-et-ia-dans-le-viseur-des-deputes-1530853",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/france-crypto-exit-tax-unsold-gains/",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:11.467Z",
-      "articleSlug": "france-tax",
-      "lastReviewedDay": "2026-10-11",
+      "reviewedAt": "2026-10-12T03:57:26.697Z",
+      "articleSlug": "france-taxes",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -20312,8 +20336,7 @@
       ],
       "retrySearches": [
         "France stablecoin swap tax budget 2027 assemblee vote October 2026"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "f7cc92328214d5e25bb3": {
       "source": "CoinDesk",
@@ -53256,6 +53279,43 @@
           ],
           "reviewedAt": "2026-10-12T03:57:20.344Z",
           "articleSlug": "sui-data"
+        },
+        "19357b6f78dfafe2a59e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified France 2027 budget crypto arc - CF1826 stablecoin-swap tax adopted Oct 7, CF1822 exit tax adopted Oct 8, revenue section rejected 31-3-2 Oct 9, floor restarts Oct 13 - matched across Assembly records, Cointelegraph, Decrypt, LCP, Capital.",
+          "sourceChecks": [
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF1826",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF1822",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.capital.fr/economie-politique/budget-2027-cryptos-et-ia-dans-le-viseur-des-deputes-1530853",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/france-crypto-exit-tax-unsold-gains/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:26.697Z",
+          "articleSlug": "france-taxes"
         }
       },
       "baselineSlugs": [
