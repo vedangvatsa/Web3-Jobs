@@ -1,8 +1,160 @@
 {
-  "generatedAt": "2026-10-12T11:31:49.078Z",
+  "generatedAt": "2026-10-12T19:31:37.775Z",
   "items": [
     {
-      "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+      "link": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
+      "pubDate": "Mon, 12 Oct 2026 19:07:30 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+      "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 18:55:49 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support “pro-crypto” candid...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance launches AI trading tool after 150,000-user beta",
+      "link": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+      "pubDate": "Mon, 12 Oct 2026 18:44:10 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers.",
+      "source": "The Block"
+    },
+    {
+      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo ",
+      "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 18:38:14 +0000",
+      "creator": "Sam Bourgi",
+      "contentSnippet": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which t...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+      "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+      "pubDate": "Mon, 12 Oct 2026 18:09:15 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth rough...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+      "pubDate": "Mon, 12 Oct 2026 17:06:25 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals ",
+      "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 16:51:05 +0000",
+      "creator": "Sam Bourgi",
+      "contentSnippet": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facin...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+      "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+      "pubDate": "Mon, 12 Oct 2026 16:41:34 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+      "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+      "pubDate": "Mon, 12 Oct 2026 16:32:17 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+      "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 16:30:21 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "XRP Ledger’s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+      "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+      "pubDate": "Mon, 12 Oct 2026 15:56:35 +0000",
+      "creator": "Agent",
+      "contentSnippet": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "pubDate": "Mon, 12 Oct 2026 15:27:09 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "pubDate": "Mon, 12 Oct 2026 15:00:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets ",
+      "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 14:07:00 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
+      "link": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
+      "pubDate": "Mon, 12 Oct 2026 12:39:35 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC ",
+      "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 12:31:51 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+      "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+      "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Australia proposes leverage caps for crypto-settled derivatives",
+      "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 11:41:58 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
+      "link": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
+      "pubDate": "Mon, 12 Oct 2026 11:41:50 +0000",
+      "creator": "Agent",
+      "contentSnippet": "October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
       "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
       "pubDate": "Mon, 12 Oct 2026 11:21:11 +0000",
       "creator": "James Van Straten",
@@ -64,14 +216,6 @@
       "creator": "Zoltan Vardai",
       "contentSnippet": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
-      "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-      "pubDate": "Mon, 12 Oct 2026 09:35:21 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
-      "source": "The Block"
     },
     {
       "title": "New York AG Secures Up to $35,000,000 Penalty and Lifetime Ban for Ex-Celsius CEO",
@@ -146,14 +290,6 @@
       "source": "The Block"
     },
     {
-      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 12 Oct 2026 01:21:29 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
       "link": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
       "pubDate": "Sun, 11 Oct 2026 22:26:02 +0000",
@@ -168,14 +304,6 @@
       "creator": "Nikhilesh De",
       "contentSnippet": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an ...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
-      "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 11 Oct 2026 17:11:00 +0000",
-      "creator": "Robert Lakin",
-      "contentSnippet": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Visa Survey Shows Nearly Half of APAC Consumers Eyeing Stablecoins for Everyday Use by 2031",
@@ -306,14 +434,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "pubDate": "Fri, 09 Oct 2026 18:11:00 +0000",
-      "creator": "Ian Allison",
-      "contentSnippet": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
       "link": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
       "pubDate": "Fri, 09 Oct 2026 18:06:03 +0000",
@@ -354,46 +474,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-      "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 15:51:53 +0000",
-      "creator": "Sam Bourgi",
-      "contentSnippet": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred st...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-      "link": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 15:20:36 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
-      "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
-      "pubDate": "Fri, 09 Oct 2026 14:47:27 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from B...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures ",
-      "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 13:49:22 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Dragonfly’s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains t...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
-      "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 13:30:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Bleeds in Uptober—How Low Can It Go? Experts Weigh In",
       "link": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
       "pubDate": "Fri, 09 Oct 2026 13:20:12 +0000",
@@ -424,30 +504,6 @@
       "creator": "Tyler Warner",
       "contentSnippet": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?",
       "source": "Decrypt"
-    },
-    {
-      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 10:49:24 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulato...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-      "pubDate": "Fri, 09 Oct 2026 10:40:59 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16.",
-      "source": "The Block"
-    },
-    {
-      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds ",
-      "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 10:34:37 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The UK sanctioned crypto exchanges and payment processors, some of which were tied to thousands of Russian entities and the sanctioned HTX exchange.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
@@ -482,27 +538,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
-      "link": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
-      "pubDate": "Thu, 08 Oct 2026 18:46:59 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
-      "source": "The Block"
-    },
-    {
       "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
       "link": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
       "pubDate": "Thu, 08 Oct 2026 18:46:04 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "A batch of 100.02 BTC mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but nothing in the transaction shows who owns ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-      "link": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
-      "pubDate": "Thu, 08 Oct 2026 18:16:05 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Solana DEX Orca and lending platform Loopscale will operate as Formation, a New York company aiming to finance AI, energy, robotics and defense assets...",
       "source": "Decrypt"
     },
     {
@@ -514,83 +554,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says",
-      "link": "https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066",
-      "pubDate": "Thu, 08 Oct 2026 17:18:24 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "TD Cowen kept its $260 price target on Strategy (MSTR) as dilution limits the benefit of higher bitcoin forecasts.",
-      "source": "The Block"
-    },
-    {
-      "title": "The Block GCCI 2026 Country Profile: Inside Korea’s Crypto Market",
-      "link": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
-      "pubDate": "Thu, 08 Oct 2026 17:16:23 +0000",
-      "creator": "Ian Devendorf and Ivan Wu",
-      "contentSnippet": "Section 1: The Block’s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adopt...",
-      "source": "The Block"
-    },
-    {
       "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
       "link": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
       "pubDate": "Thu, 08 Oct 2026 17:07:48 +0000",
       "creator": "Ryan Gladwin",
       "contentSnippet": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "pubDate": "Thu, 08 Oct 2026 16:44:20 +0000",
-      "creator": "Staff",
-      "contentSnippet": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
-      "link": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
-      "pubDate": "Thu, 08 Oct 2026 16:14:46 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cush...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-      "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-      "pubDate": "Thu, 08 Oct 2026 15:42:16 +0000",
-      "creator": "Staff",
-      "contentSnippet": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-      "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-      "pubDate": "Thu, 08 Oct 2026 15:10:49 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Sola...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
-      "link": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
-      "pubDate": "Thu, 08 Oct 2026 11:48:13 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "Justin Drake is calling for crypto holders to start calmly planning for “Bunker Mode.\" But reactions so far haven’t been too calm.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Uranium Finance Hacker Who Bought Pokémon and Magic Cards Convicted Over $50M Theft",
-      "link": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
-      "pubDate": "Thu, 08 Oct 2026 11:37:17 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Jonathan Spalletta also spent stolen crypto on a Roman coin marking Julius Caesar's assassination and moon-flown Wright brothers fabric.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
-      "link": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-      "pubDate": "Thu, 08 Oct 2026 10:32:52 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A draft bill would exempt the first €500 of annual gains, as crypto tax rates across Europe run from Cyprus's 8% to Italy's 33%.",
       "source": "Decrypt"
     }
   ]
