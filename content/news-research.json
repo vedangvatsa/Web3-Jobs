@@ -24208,24 +24208,28 @@
       "id": "4c4395c92de68874e196",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T18:06:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Blockchain.com DCM and FCM story not fully read though snippets show CNBC origin plus corroboration; full reads outstanding.",
+      "note": "Same single-origin Blockchain.com story - Decrypt and CNBC read - needs CFTC docket or company statement.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:11.487Z",
+      "reviewedAt": "2026-10-12T04:02:58.565Z",
       "duplicateOf": "blockchain-cftc",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
-        "Blockchain.com DCM FCM licenses prediction markets"
+        "Blockchain.com CFTC DCM FCM application docket filing"
       ],
-      "nextReviewDate": "2026-10-12"
+      "nextReviewDate": "2026-10-13"
     },
     "32a6fb4025d29d3c1e2f": {
       "source": "CoinDesk",
@@ -53884,6 +53888,25 @@
             }
           ],
           "reviewedAt": "2026-10-12T04:02:56.506Z",
+          "retrySearches": [
+            "Blockchain.com CFTC DCM FCM application docket filing"
+          ]
+        },
+        "4c4395c92de68874e196": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Same single-origin Blockchain.com story - Decrypt and CNBC read - needs CFTC docket or company statement.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:02:58.565Z",
           "retrySearches": [
             "Blockchain.com CFTC DCM FCM application docket filing"
           ]
