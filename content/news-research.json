@@ -25540,26 +25540,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f1f95bcf6b60ca241a35",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-13T16:01:04.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
-      "reason": "needs-corroboration",
-      "note": "Meanwhile raise piece not fully read; same funding event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:19:52.435Z",
-      "duplicateOf": "meanwhile-funding",
-      "lastReviewedDay": "2026-10-11",
+      "reason": "duplicate",
+      "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:20.208Z",
+      "duplicateOf": "meanwhile-raise",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "2a7c81f07dc6e3b3eb0f"
     },
     "316e2f0efb03221bf96b": {
       "source": "The Block",
@@ -53524,6 +53519,15 @@
           "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:18.300Z",
+          "duplicateOf": "meanwhile-raise",
+          "mergedInto": "2a7c81f07dc6e3b3eb0f"
+        },
+        "f1f95bcf6b60ca241a35": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:20.208Z",
           "duplicateOf": "meanwhile-raise",
           "mergedInto": "2a7c81f07dc6e3b3eb0f"
         }
