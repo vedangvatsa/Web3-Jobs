@@ -20168,7 +20168,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6521f65a66822c1c1481",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 13,
       "expiresAt": "2026-10-12T10:40:59.000Z",
@@ -20215,7 +20215,8 @@
       ],
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
-      ]
+      ],
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "111c40e3f46ad4991183": {
       "source": "CoinJournal",
@@ -20287,7 +20288,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "19357b6f78dfafe2a59e",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 5,
       "expiresAt": "2026-10-12T10:16:48.000Z",
@@ -20336,7 +20337,8 @@
       ],
       "retrySearches": [
         "France stablecoin swap tax budget 2027 assemblee vote October 2026"
-      ]
+      ],
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "f7cc92328214d5e25bb3": {
       "source": "CoinDesk",
@@ -20353,7 +20355,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7cc92328214d5e25bb3",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 5,
       "expiresAt": "2026-10-12T05:00:52.000Z",
@@ -20398,7 +20400,8 @@
       ],
       "retrySearches": [
         "Solana 200 millisecond slot mainnet epoch October 2026"
-      ]
+      ],
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "c995bfad22d44039fe80": {
       "source": "BeInCrypto",
@@ -20498,7 +20501,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b22ff44197a4ebb9636a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 5,
       "expiresAt": "2026-10-12T10:23:45.000Z",
@@ -20525,7 +20528,8 @@
       "retrySearches": [
         "Blumenthal Cantor Fitzgerald Tether letter October 2026 Senate"
       ],
-      "articleSlug": "cantor-probe"
+      "articleSlug": "cantor-probe",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "4c8e5464d8009c02f491": {
       "source": "Unchained",
@@ -20542,7 +20546,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c8e5464d8009c02f491",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 13,
       "expiresAt": "2026-10-12T10:21:00.000Z",
@@ -20569,7 +20573,8 @@
       "retrySearches": [
         "US government seized Bitfinex bitcoin 1B unlabeled wallets Arkham October 2026"
       ],
-      "articleSlug": "bitfinex-move"
+      "articleSlug": "bitfinex-move",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "62cd6c1ea3c742f4cf88": {
       "source": "CoinDesk",
@@ -20775,7 +20780,7 @@
         "The Block"
       ],
       "id": "2a7c81f07dc6e3b3eb0f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 7,
       "expiresAt": "2026-10-12T09:06:00.000Z",
@@ -20817,7 +20822,8 @@
       "retrySearches": [
         "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
       ],
-      "duplicateOf": "meanwhile-funding"
+      "duplicateOf": "meanwhile-funding",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "9f11ca9ae896380c93c0": {
       "source": "CryptoSlate",
@@ -21068,7 +21074,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "27f81ea86adb75b79871",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 5,
       "expiresAt": "2026-10-12T04:21:36.000Z",
@@ -21109,7 +21115,8 @@
       ],
       "retrySearches": [
         "XRPL PermissionDelegationV1_1 activated ledger"
-      ]
+      ],
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "6fa8e2bd1170b0fe28bc": {
       "source": "CryptoSlate",
@@ -21204,7 +21211,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7eedcb04b022f754db",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 12,
       "expiresAt": "2026-10-12T10:34:37.000Z",
@@ -21248,7 +21255,8 @@
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ]
+      ],
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -21316,7 +21324,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "c76300860e9b16ab3fc5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
       "attempts": 5,
       "expiresAt": "2026-10-12T10:20:22.000Z",
@@ -21343,7 +21351,8 @@
       "retrySearches": [
         "ESMA opinion non-MiCA ART EMT three months January 2027"
       ],
-      "articleSlug": "esma-stablecoins"
+      "articleSlug": "esma-stablecoins",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "00846212524fc336a196": {
       "source": "CoinDesk",
@@ -21936,7 +21945,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "f46b0c4a638dbaf5f575",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
       "attempts": 10,
       "expiresAt": "2026-10-12T12:23:54.000Z",
@@ -21971,7 +21980,8 @@
       ],
       "lastReviewedDay": "2026-10-12",
       "duplicateOf": "bitgo-suit",
-      "articleSlug": "bitgo-suit"
+      "articleSlug": "bitgo-suit",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "322bfa081991e4298e14": {
       "source": "BeInCrypto",
@@ -22414,7 +22424,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "86f3a145bde0d3311251",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
       "attempts": 11,
       "expiresAt": "2026-10-12T16:07:07.000Z",
@@ -22453,7 +22463,8 @@
       "retrySearches": [
         "New York AG Mashinsky 35M lifetime ban settlement release October 2026"
       ],
-      "articleSlug": "mashinsky-ban"
+      "articleSlug": "mashinsky-ban",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "731895351e1367b3c7e8": {
       "source": "The Block",
@@ -22900,7 +22911,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "d6ebc8a19d31822069ab",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
       "attempts": 4,
       "expiresAt": "2026-10-12T15:27:48.000Z",
@@ -22930,7 +22941,8 @@
         "THORChain Tether blacklist 1.45M USDT unfrozen Barraford"
       ],
       "lastReviewedDay": "2026-10-12",
-      "articleSlug": "thorchain-freeze"
+      "articleSlug": "thorchain-freeze",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "b55e715b81b3ef155332": {
       "source": "Cointelegraph",
@@ -24246,7 +24258,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "32a6fb4025d29d3c1e2f",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
       "attempts": 4,
       "expiresAt": "2026-10-12T21:21:54.000Z",
@@ -24292,7 +24304,8 @@
       ],
       "retrySearches": [
         "CFTC interim final rule event contracts swaps Federal Register October 2026"
-      ]
+      ],
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "94b717cda7c41ca127f6": {
       "source": "CryptoSlate",
@@ -24549,7 +24562,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "d2a36ff801c6db70c716",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
       "attempts": 4,
       "expiresAt": "2026-10-12T21:57:10.000Z",
@@ -24575,7 +24588,8 @@
         "Kalshi Zacharia press secretary bets investigation"
       ],
       "lastReviewedDay": "2026-10-12",
-      "articleSlug": "kalshi-probe"
+      "articleSlug": "kalshi-probe",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "2f33d3c76777e7ef334e": {
       "source": "Cointelegraph",
@@ -24991,7 +25005,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "6445e691f0625b1e13c9",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-10T10:01:42.244Z",
       "attempts": 3,
       "expiresAt": "2026-10-13T09:44:06.000Z",
@@ -25033,7 +25047,8 @@
         "Papertrade HyperEVM launch October 10 1000x leverage deposits Bankless"
       ],
       "lastReviewedDay": "2026-10-12",
-      "articleSlug": "papertrade"
+      "articleSlug": "papertrade",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "5a91a10fdfbba2ed8051": {
       "source": "The Defiant",
@@ -28545,7 +28560,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7990b85f2141841913d2",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
       "attempts": 1,
       "expiresAt": "2026-10-15T02:00:00.000Z",
@@ -28576,7 +28591,8 @@
       ],
       "reviewedAt": "2026-10-12T03:57:20.344Z",
       "articleSlug": "sui-data",
-      "lastReviewedDay": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "publishedAt": "2026-10-12T04:22:49.946Z"
     },
     "fb61e8bb2aa2401bff8f": {
       "source": "Crypto Briefing",
@@ -52063,7 +52079,7 @@
     "2026-10-12": {
       "day": "2026-10-12",
       "startedAt": "2026-10-12T03:34:29.219Z",
-      "status": "prepared",
+      "status": "completed",
       "candidateIds": [
         "b486ca816b176c708e46",
         "4d0c341e251b419b5c56",
@@ -53019,7 +53035,7 @@
           "reviewedAt": "2026-10-12T03:44:57.436Z"
         },
         "86f3a145bde0d3311251": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified NY AG Oct 9 release - up to 35M conditional (25M on federal 10M forfeiture, 10M on full sentence) plus permanent securities/commodities/crypto bar - matched across AG, Decrypt, CoinDesk, Cointelegraph.",
           "sourceChecks": [
@@ -53049,10 +53065,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:56:49.006Z",
-          "articleSlug": "mashinsky-ban"
+          "articleSlug": "mashinsky-ban",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "4f7eedcb04b022f754db": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified FCDO Oct 8 package - 38 designations incl Xeltox (Cryptomus/Heleket/Certa), TokenSpot, Tsunami, Processing KG/VexPay and Bukabaev - A7 90B claim matched across FCDO, CoinDesk, Decrypt, Cointelegraph, Chainalysis, TRM.",
           "sourceChecks": [
@@ -53082,10 +53099,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:56:55.052Z",
-          "articleSlug": "uk-sanctions"
+          "articleSlug": "uk-sanctions",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "6521f65a66822c1c1481": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified SEC release 216/2026 of Oct 8 - 11 notifications, BTC/ETH only, SET-only, 80 percent rule, local custody, no margin, foreign-DR block, effective Oct 16 - matched across SEC mirror, CoinDesk, Cointelegraph, CryptoBriefing, BeInCrypto.",
           "sourceChecks": [
@@ -53119,10 +53137,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:56:57.028Z",
-          "articleSlug": "thailand-etfs"
+          "articleSlug": "thailand-etfs",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "32a6fb4025d29d3c1e2f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified CFTC Oct 9 dual action - NPRM 9310-26 folding sports/politics/culture/weather event contracts into swaps plus IFR 9309-26 excluding casino wagers - matched across both CFTC releases, CoinDesk, Decrypt, CryptoSlate.",
           "sourceChecks": [
@@ -53156,10 +53175,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:02.907Z",
-          "articleSlug": "cftc-swaps"
+          "articleSlug": "cftc-swaps",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "f46b0c4a638dbaf5f575": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 9 suit - DWF Maas and Falcon Digital v BitGo in London High Court for 141M over FF and ESPORTS tokens moved to exchanges two months before unlock - matched across CoinDesk, Decrypt, Unchained, CoinMarketCap Academy; FT origin paywalled.",
           "sourceChecks": [
@@ -53185,10 +53205,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:05.134Z",
-          "articleSlug": "bitgo-suit"
+          "articleSlug": "bitgo-suit",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "2a7c81f07dc6e3b3eb0f": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Meanwhile Oct 8 raise - 37.5M from existing investors led by Bain Capital Crypto, total past 180M, Bermuda Class IILT insurer, BTC Life 1-Pay - matched across company release, CoinDesk, The Block, Decrypt, Cointelegraph.",
           "sourceChecks": [
@@ -53214,10 +53235,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:11.181Z",
-          "articleSlug": "meanwhile-raise"
+          "articleSlug": "meanwhile-raise",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "f7cc92328214d5e25bb3": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Solana 200ms activation Oct 9 at epoch 1053 completing SIMD-0525 (350/300/250/200), distinct from covered 250ms step - matched across Solana upgrade page, SIMD proposal, CoinDesk, CryptoSlate, Compass; Defiant blocked.",
           "sourceChecks": [
@@ -53247,10 +53269,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:13.110Z",
-          "articleSlug": "slot-times"
+          "articleSlug": "slot-times",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "27f81ea86adb75b79871": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified PermissionDelegationV1_1 live Oct 8 at ledger 107524865 plus Oct 9 Batch activations; fixCleanup vote moved 27/35 to 29/35 countdown to Oct 23 - matched across Unchained, CoinDesk, CryptoSlate, dashboard tracker, rippled issue 8534.",
           "sourceChecks": [
@@ -53276,10 +53299,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:18.344Z",
-          "articleSlug": "xrpl-delegation"
+          "articleSlug": "xrpl-delegation",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "7990b85f2141841913d2": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Sui Foundation 30M investment in DATA Network (ex-Story) with chain retirement and native Sui rebuild plus Walrus storage - matched across Sui joint post, CryptoBriefing, ChosunBiz, Chainwire mirror; The Block blocked.",
           "sourceChecks": [
@@ -53305,10 +53329,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:20.344Z",
-          "articleSlug": "sui-data"
+          "articleSlug": "sui-data",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "19357b6f78dfafe2a59e": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified France 2027 budget crypto arc - CF1826 stablecoin-swap tax adopted Oct 7, CF1822 exit tax adopted Oct 8, revenue section rejected 31-3-2 Oct 9, floor restarts Oct 13 - matched across Assembly records, Cointelegraph, Decrypt, LCP, Capital.",
           "sourceChecks": [
@@ -53342,10 +53367,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:26.697Z",
-          "articleSlug": "france-taxes"
+          "articleSlug": "france-taxes",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "d6ebc8a19d31822069ab": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 9 freeze - Tether blacklisted four THORChain Tron vaults holding 1.45M USDT (93 percent of Tron funds), lifted at 15-30 UTC with swaps back 15-58 - matched across Cointelegraph, CryptoSlate, CryptoBriefing; Defiant blocked.",
           "sourceChecks": [
@@ -53367,10 +53393,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:28.549Z",
-          "articleSlug": "thorchain-freeze"
+          "articleSlug": "thorchain-freeze",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "4c8e5464d8009c02f491": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 8 move - 12267 BTC (1.01B) from Bitfinex-seizure wallet to unlabeled addresses, day after 383M hit Coinbase Prime for custody, no sale under March 2025 reserve order - matched across CoinDesk, Unchained, Decrypt via Arkham.",
           "sourceChecks": [
@@ -53388,10 +53415,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:37.667Z",
-          "articleSlug": "bitfinex-move"
+          "articleSlug": "bitfinex-move",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "6445e691f0625b1e13c9": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Papertrade Oct 10 HyperEVM launch - 1000x perps, 85.3M pre-deposits, 3B first-hour OI (single-origin), 18.2M launch-day losses, 1.28M trader run, Oct 11 limit tightening - matched across project docs, Chaincatcher, CryptoBriefing, TokenPost, Cryptonomist; Defiant and Block bodies blocked.",
           "sourceChecks": [
@@ -53425,10 +53453,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:39.665Z",
-          "articleSlug": "papertrade"
+          "articleSlug": "papertrade",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "d2a36ff801c6db70c716": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Kalshi probe - three pre-announcement wagers on Zacharia press-secretary pick (19 to 1896, 74/80 to 3689/4023), WSJ via spokesperson, Kalshi declined further comment - matched across Verge, Reuters, Economic Times; WSJ paywalled.",
           "sourceChecks": [
@@ -53446,7 +53475,8 @@
             }
           ],
           "reviewedAt": "2026-10-12T03:57:41.725Z",
-          "articleSlug": "kalshi-probe"
+          "articleSlug": "kalshi-probe",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "3e5484a682e6ed261c67": {
           "status": "rejected",
@@ -53800,7 +53830,7 @@
           "mergedInto": "b22ff44197a4ebb9636a"
         },
         "b22ff44197a4ebb9636a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified Oct 8 Blumenthal letter - 13 records requests to Brandon Lutnick on Tether custody and family profits, replies due Oct 23, no accusation of a specific violation - matched across Unchained and Decrypt; Senate PDF binary unreadable.",
           "sourceChecks": [
@@ -53818,10 +53848,11 @@
             }
           ],
           "reviewedAt": "2026-10-12T04:00:56.309Z",
-          "articleSlug": "cantor-probe"
+          "articleSlug": "cantor-probe",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "c76300860e9b16ab3fc5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified ESMA Oct 8 opinion - CASPs must end all services tied to non-MiCA ARTs/EMTs with legacy exposure remediated within 3 months to Jan 8 2027 - matched across Unchained, CryptoSlate, CoinDesk.",
           "sourceChecks": [
@@ -53839,7 +53870,8 @@
             }
           ],
           "reviewedAt": "2026-10-12T04:01:49.546Z",
-          "articleSlug": "esma-stablecoins"
+          "articleSlug": "esma-stablecoins",
+          "publishedAt": "2026-10-12T04:22:49.946Z"
         },
         "1f83d48c4539685aa5b4": {
           "status": "rejected",
@@ -54672,7 +54704,9 @@
         ],
         "total": 78,
         "checkedAt": "2026-10-12T03:34:29.219Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-12T04:22:49.946Z"
     }
   }
 }

@@ -1,0 +1,28 @@
+---
+title: French crypto tax votes wiped out as committee rejects budget revenues
+ogTitle: "FRENCH CRYPTO TAX VOTES WIPED OUT AS BUDGET REJECTED"
+description: France's finance committee adopted a stablecoin-swap tax and an exit tax on large crypto holders for the 2027 budget, then rejected the entire revenue section 31 to 3, forcing backers to retable the amendments for floor debate starting Oct. 13.
+image: /images/news/france-taxes.jpg
+imageCaption: "Statue of Michel de l'Hospital outside the Palais Bourbon in Paris, seat of the National Assembly. Photo: DimiTalen via Wikimedia Commons (CC0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Michel%20de%20l'Hospital%20statue%2C%20Louis-Pierre%20Deseine%2C%20Palais%20Bourbon%2C%20Paris%2C%202016.jpg
+category: News
+data-ai-hint: paris parliament statue
+publishedDate: '2026-10-12'
+lastUpdated: '2026-10-12'
+---
+
+France's 2027 budget debate produced two adopted crypto tax amendments and then erased them within 48 hours. The finance committee backed a stablecoin-swap tax on Oct. 7 and an exit tax on large holders on Oct. 8, then rejected the budget's entire revenue section on the evening of Oct. 9 by 31 votes to 3 with 2 abstentions. Nothing is law, and backers must table the measures again for floor debate starting Oct. 13.
+
+The stablecoin amendment, I-CF1826 by Nicolas Sansu and 16 co-signers, would make conversions of crypto into MiCA-defined electronic money tokens, meaning fiat-pegged stablecoins, taxable disposals from Jan. 1, 2027. It amends article 150 VH bis of the tax code, with gains measured as sale price minus acquisition cost and weighted-average costing for identical tokens, according to the [amendment record](https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF1826). One [Oct. 9 report](https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget) matched that reading: adopted Wednesday, taxable from Jan. 1, 2027.
+
+The exit-tax amendment, I-CF1822, also from Sansu, creates a new article 167 ter taxing unrealized gains when holders move tax residence abroad. It catches households whose crypto tops EUR 800,000, requires French residence in at least six of the previous ten years, and applies to moves from Jan. 1, 2027. Self-custodied coins count alongside custodial and foreign holdings, and payment deferral follows the existing article 167 bis shares regime, the [record shows](https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF1822). Decrypt confirmed the threshold, the residency test and the start date in its [Oct. 10 coverage](https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax).
+
+## A third amendment and the rejection
+
+A third crypto measure passed the same week. Daniel Labaronne's amendment lets realized crypto losses carry forward for ten years, against today's same-year-only netting, aligning crypto with shares. One outlet numbers it I-CCF798 while two others print I-CF798, a discrepancy this report flags without resolving, since the primary fetch for that text timed out.
+
+Then came the wipeout. The committee threw out the whole revenue part of the bill on Friday night. Parliamentary channel LCP recorded the 31-3 tally with 2 abstentions and said deputies restart Tuesday Oct. 13 from the government's original text, in its [Oct. 9 report](https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de). The consequence: committee amendments do not carry over, so neither tax exists unless retabled, and the solemn vote sits Oct. 20, [per the Oct. 10 piece](https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax). Neither measure is law, and no plenary vote had occurred as of Oct. 11.
+
+The rate question has a partial answer. Neither amendment sets a rate. Both defer to France's flat tax, which rose to 31.4 percent on Jan. 1 after the 2026 social-security financing law lifted the social-charge slice from 17.2 to 18.6 percent, [as noted Oct. 10](https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax). Bylines on the story read Zoltan Vardai at Cointelegraph, Jose Antonio Lanz at Decrypt, Maxence Kagni at LCP, Hugo Babay at Capital, and Gael De Santis at L'Humanite. Currency conversions round differently by outlet: Cointelegraph prints $895,000 for the EUR 800,000 line while others land near $896,000 or $900,000, a foreign-exchange rounding gap rather than a factual split. The sponsors' GDR group put the stablecoin yield at EUR 1.5 billion, L'Humanite headlined Oct. 9, but Capital wrote the same day that no yield was quantified for the stablecoin measure and the exit-tax yield was unknown. The EUR 1.5 billion stays a sponsor claim, not an official costing.
+
+French press corroborated the sequence independently. That [Oct. 9 account](https://www.capital.fr/economie-politique/budget-2027-cryptos-et-ia-dans-le-viseur-des-deputes-1530853), by Hugo Babay and timestamped 12:44, confirms the Oct. 7 stablecoin adoption, the Oct. 8 exit-tax adoption with the EUR 800,000 and six-of-ten tests, and the ten-year loss measure. LCP's rejection report, by Maxence Kagni and updated Oct. 10 at 13:53, carries the full 31-3-2 tally. L'Humanite's Oct. 9 piece, by Gael De Santis, confirms the Wednesday adoption from the left's benches. The same account notes an EPR proposal to require declaring self-hosted wallets above EUR 100,000, a fourth strand outside the Sansu-Labaronne trio. BeInCrypto's Oct. 11 headline about taxing holders before they sell could not be opened directly and is cited nowhere here. Floor revenue debate runs Oct. 13 to 19 ahead of the Oct. 20 vote.
