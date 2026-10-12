@@ -23552,25 +23552,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "c1d0d154bba53b41bc48",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T13:38:38.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "LiquidAcre-Uphold infrastructure story on a single queued source; partnership details unverified.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:04.739Z",
+      "reason": "promotional",
+      "note": "LiquidAcre selecting Uphold for infrastructure is a vendor announcement on a single weak source.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:37.933Z",
       "retrySearches": [
         "LiquidAcre Uphold tokenized real estate infrastructure"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "bf34f2622a6f3f3d5bbb": {
       "source": "Cointelegraph",
@@ -52774,6 +52768,13 @@
           "note": "Robinhood Chain considering priority-trader technology is an exploration with no decision or deployment.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:35.929Z"
+        },
+        "c1d0d154bba53b41bc48": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "LiquidAcre selecting Uphold for infrastructure is a vendor announcement on a single weak source.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:37.933Z"
         }
       },
       "baselineSlugs": [
