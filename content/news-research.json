@@ -22641,23 +22641,23 @@
       "id": "0e1ee8d7a2e04ebe6b95",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T14:40:46.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
       "reason": "needs-corroboration",
-      "note": "79thvaults 4M pool-drain story has only the single CryptoSlate source; corroboration or reject as single-weak-source.",
+      "note": "79AU pool drain read in CryptoSlate with Bitquery report in search only - needs Bitquery record and second outlet.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:52.492Z",
+      "reviewedAt": "2026-10-12T04:04:06.544Z",
       "retrySearches": [
-        "79thvaults 14 million pool drain locked liquidity"
+        "79AU 79thVault drain Bitquery second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "0c7af042fdbff4991543": {
       "source": "BeInCrypto",
@@ -54297,6 +54297,21 @@
           "reviewedAt": "2026-10-12T04:03:59.485Z",
           "retrySearches": [
             "HSBC Ant Digital AI agent tokenized deposits announcement"
+          ]
+        },
+        "0e1ee8d7a2e04ebe6b95": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "79AU pool drain read in CryptoSlate with Bitquery report in search only - needs Bitquery record and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/79thvaults-14-million-pool-drain-shows-why-locked-liquidity-can-fail/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:04:06.544Z",
+          "retrySearches": [
+            "79AU 79thVault drain Bitquery second outlet"
           ]
         }
       },
