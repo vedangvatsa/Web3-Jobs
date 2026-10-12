@@ -28702,11 +28702,16 @@
         "The Defiant"
       ],
       "id": "2d0778fe11134c2a90a4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T01:04:41.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "price-chatter",
+      "note": "STRK 322 percent four-week gain is a price move with no underlying protocol event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:11.987Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "1606f4eab1e355e34c6f": {
       "source": "Crypto Briefing",
@@ -52525,6 +52530,13 @@
           "note": "AI internet-domain contest is a domain-name story whose crypto angle is speculative targeting claims on a single source.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:10.116Z"
+        },
+        "2d0778fe11134c2a90a4": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "STRK 322 percent four-week gain is a price move with no underlying protocol event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:11.987Z"
         }
       },
       "baselineSlugs": [
