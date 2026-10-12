@@ -810,6 +810,14 @@
     "lastUrl": "https://hashtagweb3.com/engineer-0s6c5l2",
     "updatedAt": "2026-09-15T19:44:58.684Z"
   },
+  "8021650": {
+    "slugs": [
+      "engineer463"
+    ],
+    "lastSlug": "engineer463",
+    "lastUrl": "https://hashtagweb3.com/engineer463",
+    "updatedAt": "2026-10-12T11:32:17.324Z"
+  },
   "8023524": {
     "slugs": [
       "manager255",
@@ -7414,5 +7422,37 @@
     "lastSlug": "architect37",
     "lastUrl": "https://hashtagweb3.com/architect37",
     "updatedAt": "2026-10-11T19:47:14.499Z"
+  },
+  "006c67e4-cf9a-4644-85fb-9b4c314f1090": {
+    "slugs": [
+      "backend19"
+    ],
+    "lastSlug": "backend19",
+    "lastUrl": "https://hashtagweb3.com/backend19",
+    "updatedAt": "2026-10-12T11:32:17.324Z"
+  },
+  "8628843002": {
+    "slugs": [
+      "eng564"
+    ],
+    "lastSlug": "eng564",
+    "lastUrl": "https://hashtagweb3.com/eng564",
+    "updatedAt": "2026-10-12T11:32:17.324Z"
+  },
+  "5628538004": {
+    "slugs": [
+      "engineer117"
+    ],
+    "lastSlug": "engineer117",
+    "lastUrl": "https://hashtagweb3.com/engineer117",
+    "updatedAt": "2026-10-12T11:32:17.324Z"
+  },
+  "8004167003": {
+    "slugs": [
+      "eng261"
+    ],
+    "lastSlug": "eng261",
+    "lastUrl": "https://hashtagweb3.com/eng261",
+    "updatedAt": "2026-10-12T11:32:17.324Z"
   }
 }
