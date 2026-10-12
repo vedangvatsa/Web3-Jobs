@@ -740,6 +740,9 @@
   "https://hashtagweb3.com/meanwhile-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cantor-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitgo-suit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/esma-stablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/france-taxes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kalshi-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2122,6 +2125,12 @@
   "Blumenthal demands Cantor records on Tether stake and custody role",
   "DWF Labs affiliates sue BitGo for $141 million",
   "DWF Labs affiliates sue BitGo for $141M over early token sales",
+  "EU crypto platforms must phase out non-MiCA stablecoins by 2027",
+  "ESMA gives EU crypto firms until Jan. 8 to wind down non-MiCA stablecoins",
+  "French Committee Rejects Budget Plan Containing New Crypto Taxes",
+  "French crypto tax votes wiped out as committee rejects budget revenues",
+  "Kalshi reviews bets placed before Trump press secretary selection",
+  "Kalshi investigates wagers placed before Trump press secretary pick",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2391,5 +2400,8 @@
   "fp:allow|bug|creation|critical|decad|developer|engin|fix|found|hav",
   "fp:180m|375m|bain|bas|bermuda|capital|demand|fund|global|grow",
   "fp:blumenthal|brandon|business|cantor|category|custody|demand|document|firm|fitzgerald",
-  "fp:141m|action|affiliat|bitgo|claim|custodian|dat|discount|dwf|early"
+  "fp:141m|action|affiliat|bitgo|claim|custodian|dat|discount|dwf|early",
+  "fp:2027|by2027|customer|down|end|esma|exposur|firm|giv|jan8",
+  "fp:amendment|backer|budget|committe|contain|debat|exit|floor|french|must",
+  "fp:announcement|bet|dollar|earn|examin|investigat|kalshi|occurr|official|pick"
 ]

@@ -1197,7 +1197,7 @@
     "sentAt": "2026-10-12T11:32:47.596Z"
   },
   "464d15b5-839a-4cf0-b160-1e6fdbdd49c4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T19:33:13.688Z",
     "stories": [
       {
@@ -1225,6 +1225,8 @@
         "originalTitle": "Kalshi investigates wagers placed before Trump press secretary pick"
       }
     ],
-    "slotKey": "2026-10-12:evening"
+    "slotKey": "2026-10-12:evening",
+    "messageId": 65744,
+    "sentAt": "2026-10-12T19:33:16.101Z"
   }
 }
