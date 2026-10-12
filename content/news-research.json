@@ -27269,23 +27269,23 @@
       "id": "c7fb4c0a1e19643319ca",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T13:00:14.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "iPhone crypto spyware report not fully read; single source, needs researcher report plus second outlet.",
+      "note": "iPhone DarkSword spyware read in CryptoSlate only - needs iVerify report and a second outlet.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T18:21:06.600Z",
+      "reviewedAt": "2026-10-12T04:03:32.113Z",
       "retrySearches": [
-        "iPhone spyware crypto wallets 15 seconds researcher report October 2026"
+        "iVerify P7 DarkSword iPhone spyware second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "46d351197e9ec0b295ff": {
       "source": "Decrypt",
@@ -54132,6 +54132,21 @@
           "reviewedAt": "2026-10-12T04:03:30.263Z",
           "retrySearches": [
             "LDK 0.2.7 reconnect fix Optech second outlet"
+          ]
+        },
+        "c7fb4c0a1e19643319ca": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "iPhone DarkSword spyware read in CryptoSlate only - needs iVerify report and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:32.113Z",
+          "retrySearches": [
+            "iVerify P7 DarkSword iPhone spyware second outlet"
           ]
         }
       },
