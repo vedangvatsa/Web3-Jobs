@@ -29381,11 +29381,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "154c08a5b5e062848783",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T00:18:47.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "not-a-concrete-event",
+      "note": "Credit-union trade group taking on crypto policy is an advocacy stance with no vote, filing or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:59.744Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "33553c38ccc1ed437e74": {
       "source": "BeInCrypto",
@@ -52682,6 +52687,13 @@
           "note": "Treasury debt-strategy piece asks whether crypto markets will feel it; speculation with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:57.772Z"
+        },
+        "154c08a5b5e062848783": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Credit-union trade group taking on crypto policy is an advocacy stance with no vote, filing or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:59.744Z"
         }
       },
       "baselineSlugs": [
