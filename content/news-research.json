@@ -28580,11 +28580,38 @@
       ],
       "alsoCoveredBy": [],
       "id": "7990b85f2141841913d2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T02:00:00.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "verified-event",
+      "note": "Verified Sui Foundation 30M investment in DATA Network (ex-Story) with chain retirement and native Sui rebuild plus Walrus storage - matched across Sui joint post, CryptoBriefing, ChosunBiz, Chainwire mirror; The Block blocked.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sui.io/blog/data-network-joins-sui-walrus",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/sui-foundation-30m-data-network-migration/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://biz.chosun.com/en/en-finance/2026/10/12/RECTMAKPABAK3GLGEGHBHUU2AI/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://yellow.com/press-releases/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-12T03:57:20.344Z",
+      "articleSlug": "sui-data",
+      "lastReviewedDay": "2026-10-12"
     },
     "fb61e8bb2aa2401bff8f": {
       "source": "Crypto Briefing",
@@ -53200,6 +53227,35 @@
           ],
           "reviewedAt": "2026-10-12T03:57:18.344Z",
           "articleSlug": "xrpl-delegation"
+        },
+        "7990b85f2141841913d2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Sui Foundation 30M investment in DATA Network (ex-Story) with chain retirement and native Sui rebuild plus Walrus storage - matched across Sui joint post, CryptoBriefing, ChosunBiz, Chainwire mirror; The Block blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sui.io/blog/data-network-joins-sui-walrus",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/sui-foundation-30m-data-network-migration/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://biz.chosun.com/en/en-finance/2026/10/12/RECTMAKPABAK3GLGEGHBHUU2AI/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://yellow.com/press-releases/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:20.344Z",
+          "articleSlug": "sui-data"
         }
       },
       "baselineSlugs": [
