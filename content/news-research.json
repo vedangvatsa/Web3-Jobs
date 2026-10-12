@@ -29003,11 +29003,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4aedc3644fb15fb5808a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T02:43:30.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "DBS CEO on AI financing risk repricing is bank earnings commentary with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:24.487Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "e7d0df5a323a3e3e5b0d": {
       "source": "Crypto Briefing",
@@ -52284,6 +52289,13 @@
           "note": "Bridge Data Centres loan upsize is traditional data-centre financing with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:22.420Z"
+        },
+        "4aedc3644fb15fb5808a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "DBS CEO on AI financing risk repricing is bank earnings commentary with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:24.487Z"
         }
       },
       "baselineSlugs": [
