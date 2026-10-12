@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-11T19:17:13.488Z",
+  "generatedAt": "2026-10-11T20:55:21.045Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 7593,
+  "count": 7597,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -5180,6 +5180,30 @@
       "lastmod": "2026-09-29",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/citizenship",
+      "lastmod": "2026-10-12",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/citizenship/antigua-and-barbuda",
+      "lastmod": "2026-10-12",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/citizenship/dominica",
+      "lastmod": "2026-10-12",
+      "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/citizenship/turkiye",
+      "lastmod": "2026-10-12",
+      "changefreq": "monthly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/clarity-act",

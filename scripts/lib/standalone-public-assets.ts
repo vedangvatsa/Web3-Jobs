@@ -9,6 +9,8 @@ export function requiredPublicAssets(root: string): string[] {
     'public/icon.png',
     'public/apple-icon.png',
     'public/og-image.png',
+    'public/data/citizenship.json',
+    'public/preview/citizenship.html',
   ]);
   const addLocalImage = (image: unknown): void => {
     if (typeof image !== 'string' || !image.startsWith('/') || image.startsWith('//')) return;

@@ -20,6 +20,7 @@ const INPUTS = [
   'content/company-profiles-runtime.json',
   'content/company-socials.json',
   'content/articles-index.json',
+  'content/citizenship.json',
   'content/news-cache.json',
   'content/hiring-report-stats.json',
   'content/hiring-report-salary-sample.json',
@@ -30,6 +31,7 @@ const INPUTS = [
 
 const OUTPUTS = [
   'public/data/articles-index.json',
+  'public/data/citizenship.json',
   'public/data/jobs-runtime.json',
   'public/data/hiring-report-stats.json',
   'public/data/hiring-report-salary-sample.json',

@@ -120,6 +120,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
       'content/companies-runtime.json',
       'content/pseo-resources-runtime.json',
       'src/app/nomads/page.tsx',
+      'src/app/citizenship/page.tsx',
       'content/nomads/tool-paths.json',
       'content/nomads/legacy-routes.json',
       'src/lib/nomads/routes.ts',
@@ -133,7 +134,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
 
 export const SITEMAP_STEP: PrebuildStep = {
   id: 'sitemap',
-  inputs: ['content/slug-types.json', 'content/articles-index.json', 'src/lib/sitemap-build.ts', 'content/nomads/cities.json', 'content/nomads/sources.json', 'content/nomads/tool-paths.json', 'src/lib/nomads/types.ts', 'src/lib/nomads/routes.ts', 'src/lib/nomads/metadata.ts'],
+  inputs: ['content/slug-types.json', 'content/articles-index.json', 'src/lib/sitemap-build.ts', 'content/citizenship.json', 'src/lib/citizenship.ts', 'content/nomads/cities.json', 'content/nomads/sources.json', 'content/nomads/tool-paths.json', 'src/lib/nomads/types.ts', 'src/lib/nomads/routes.ts', 'src/lib/nomads/metadata.ts'],
   outputs: ['content/sitemap-routes.json', 'public/sitemap.xml'],
   command: 'npx tsx scripts/generate-sitemap-json.ts',
 };

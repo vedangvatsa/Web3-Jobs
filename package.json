@@ -45,6 +45,8 @@
     "test:nomads": "tsx --test scripts/test-nomads.ts scripts/test-passport-policies.ts scripts/test-passport-index.ts scripts/test-passport-factchecks.ts scripts/test-passport-gap-patches.ts",
     "import:passport-factchecks": "tsx scripts/import-passport-factchecks.ts",
     "test:nomads:browser": "tsx scripts/test-nomads-browser.ts",
+    "test:citizenship": "tsx --test scripts/test-citizenship.ts",
+    "test:citizenship:browser": "tsx scripts/test-citizenship-browser.ts",
     "precompute:nomads": "tsx scripts/precompute-nomads.ts",
     "test:bandwidth:browser": "tsx scripts/test-bandwidth-browser.ts",
     "test:social-previews": "tsx scripts/test-social-preview-assets.ts",

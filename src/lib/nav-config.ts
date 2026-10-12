@@ -110,6 +110,12 @@ export const EMPLOYEE_RESOURCES: NavLinkItem[] = [
     description: 'A searchable list of visas for working remotely around the world.',
   },
   {
+    href: '/citizenship',
+    label: 'Citizenship',
+    icon: Globe,
+    description: 'Compare investment citizenship routes and official requirements.',
+  },
+  {
     href: '/popups',
     label: 'Popups',
     icon: Building2,

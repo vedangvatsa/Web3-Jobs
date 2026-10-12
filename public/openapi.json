@@ -9,6 +9,9 @@
     { "url": "https://hashtagweb3.com" }
   ],
   "paths": {
+    "/data/citizenship.json": {
+      "get": { "summary": "Selected citizenship-by-investment routes", "responses": { "200": { "description": "Object with scope and programs. Each program has slug, country, code, region, status, summary, officialUrl, nullable presence/processing/family, routes and official sources. Route amount and currency are the original official single-applicant threshold, not a total price; capital describes contribution or holding conditions and fees lists additional costs and gaps. Route source references a source id. Sources contain title, url, checkedAt (review date, not legal effective date) and supports. Only reviewed active investment routes are included; residence and discretionary merit routes are outside coverage." } } }
+    },
     "/data/catalog-freshness.json": {
       "get": { "summary": "Deployed catalogue verification manifest", "responses": { "200": { "description": "Version 1 object with builtAt, snapshotId, per-catalogue path, SHA-256, count and newestSourceDate, plus available ingestion receipts. builtAt proves build generation, not a new source posting. Catalogue digests allow verification that live JSON matches this snapshot." } } }
     },

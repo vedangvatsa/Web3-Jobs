@@ -27,6 +27,7 @@ export const RESERVED_APP_ROUTE_SLUGS: readonly string[] = [
   'auth',
   'api-policy',
   'resources',
+  'citizenship',
   'events',
   'contact',
   'privacy',

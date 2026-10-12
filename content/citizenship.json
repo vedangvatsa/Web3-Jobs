@@ -1,0 +1,62 @@
+{
+  "scope": "Selected active citizenship-by-investment routes. Thresholds are for one main applicant, in the currency published by the authority, excluding additional fees. This is not a worldwide catalog or an eligibility determination.",
+  "programs": [
+    {
+      "slug": "dominica",
+      "country": "Dominica",
+      "code": "DM",
+      "region": "Caribbean",
+      "status": "Active",
+      "summary": "Choose an Economic Diversification Fund contribution or a unit in an approved real estate project. Applications go through an authorised agent and due diligence.",
+      "officialUrl": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+      "presence": null,
+      "processing": null,
+      "family": "The EDF page lists USD 250,000 for the main applicant and up to three qualifying dependants. Eligibility conditions and additional fees apply; this directory uses the single-applicant threshold.",
+      "routes": [
+        { "name": "Economic Diversification Fund", "kind": "Contribution", "amount": 200000, "currency": "USD", "capital": "Non-refundable contribution.", "fees": "USD 1,000 processing per application, USD 7,500 main-applicant due diligence, USD 500 naturalisation certificate per person and USD 1,000 per mandatory interview. Enhanced due diligence and bank charges may apply. Agent and passport costs are not included in this threshold.", "source": "edf" },
+        { "name": "Approved real estate", "kind": "Property", "amount": 200000, "currency": "USD", "capital": "Hold for three years from citizenship, or five years if reselling to another citizenship-by-investment applicant. Resale value is not guaranteed.", "fees": "USD 75,000 government fee for the main applicant, plus processing, due diligence, naturalisation and interview fees. Enhanced due diligence and bank charges may apply. Purchase, agent and passport costs are outside the threshold.", "source": "property" }
+      ],
+      "sources": [
+        { "id": "edf", "title": "CBIU: Economic Diversification Fund", "url": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/", "checkedAt": "2026-10-12", "supports": "Active application route, contribution threshold, non-refundable nature, fees, family contribution and authorised-agent process." },
+        { "id": "property", "title": "CBIU: Real Estate Investment", "url": "https://www.cbiu.gov.dm/investment-options/real-estate/", "checkedAt": "2026-10-12", "supports": "Approved-project threshold, holding periods and government and additional fees." }
+      ]
+    },
+    {
+      "slug": "antigua-and-barbuda",
+      "country": "Antigua and Barbuda",
+      "code": "AG",
+      "region": "Caribbean",
+      "status": "Active",
+      "summary": "The National Development Fund route uses a one-time contribution. A licensed local agent handles the application; due diligence and government fees are separate.",
+      "officialUrl": "https://cip.gov.ag/investment-options/ndf/",
+      "presence": "The official passport page requires five days in Antigua and Barbuda within the first five years after citizenship for passport renewal consideration.",
+      "processing": null,
+      "family": "The NDF page allows a spouse, dependent children and dependent parents over 55 in the application. It lists USD 230,000 for a family of four or less, plus USD 20,000 processing and separate due diligence fees. Confirm qualifying dependants with the unit.",
+      "routes": [
+        { "name": "National Development Fund", "kind": "Contribution", "amount": 230000, "currency": "USD", "capital": "One-time fund contribution, not a property or deposit holding. The reviewed NDF page does not specify refund terms.", "fees": "USD 10,000 processing for a single applicant. Due diligence and passport fees are additional. Agent charges and a complete total are not verified here.", "source": "ndf" }
+      ],
+      "sources": [
+        { "id": "ndf", "title": "CIU: National Development Fund", "url": "https://cip.gov.ag/investment-options/ndf/", "checkedAt": "2026-10-12", "supports": "Active application route, contribution threshold, single and family processing fees, dependants and licensed-agent process." },
+        { "id": "passport", "title": "CIU: Antigua and Barbuda Passport", "url": "https://cip.gov.ag/citizenship/antigua-and-barbuda-passport/", "checkedAt": "2026-10-12", "supports": "Five-day presence condition within the first five years for passport renewal consideration." }
+      ]
+    },
+    {
+      "slug": "turkiye",
+      "country": "Türkiye",
+      "code": "TR",
+      "region": "Europe / Asia",
+      "status": "Active",
+      "summary": "The investment office documents a property-based exceptional citizenship route, subject to the President's decision. A qualifying investment establishes eligibility to apply, not automatic citizenship.",
+      "officialUrl": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx",
+      "presence": null,
+      "processing": null,
+      "family": null,
+      "routes": [
+        { "name": "Qualifying real estate", "kind": "Property", "amount": 400000, "currency": "USD", "capital": "Title deed restriction prevents resale for at least three years. The authority also accepts equivalent foreign currency. Resale value is not guaranteed.", "fees": "The reviewed investment-office page does not provide a complete fee schedule. The threshold excludes transaction taxes, registration, insurance, translation and professional costs; obtain applicable amounts before budgeting.", "source": "investment-office" }
+      ],
+      "sources": [
+        { "id": "investment-office", "title": "Invest in Türkiye: Acquiring Property and Citizenship", "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx", "checkedAt": "2026-10-12", "supports": "Current property investment route, USD 400,000 threshold, three-year resale restriction, eligibility certificate and presidential decision. Other investment routes exist but are outside this listing." }
+      ]
+    }
+  ]
+}

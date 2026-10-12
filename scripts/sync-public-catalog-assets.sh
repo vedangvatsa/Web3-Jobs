@@ -8,6 +8,7 @@ test -f content/jobs-runtime.json
 test -f content/articles-index.json
 cp content/jobs-runtime.json public/data/jobs-runtime.json
 cp content/articles-index.json public/data/articles-index.json
+cp content/citizenship.json public/data/citizenship.json
 cp content/hiring-report-stats.json content/hiring-report-salary-sample.json content/hiring-report-analysis-evidence.json public/data/
 
 cp content/events-runtime.json content/glossary-runtime.json \

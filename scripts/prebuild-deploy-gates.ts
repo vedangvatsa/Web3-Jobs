@@ -46,6 +46,7 @@ function main(): void {
   run('npm run test:catalog-publication');
   run('npx tsx --test scripts/test-verified-job-corrections.ts');
   run('npm run test:nomads');
+  run('npm run test:citizenship');
   run('npx tsx scripts/test-glossary-bandwidth.ts');
   run('npx tsx scripts/test-ats-source-ownership.ts');
   run('npx tsx scripts/test-job-application-cleanup.ts');
