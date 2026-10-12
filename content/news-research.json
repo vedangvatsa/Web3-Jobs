@@ -28653,11 +28653,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "e81a753f4a1393ec6fbe",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T02:05:08.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "price-chatter",
+      "note": "Same 4393 ETH Kraken transfer as 1606f4eab; wallet movement framed as dump-or-routine speculation with no confirmed event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:16.132Z",
+      "duplicateOf": "1606f4eab1e355e34c6f",
+      "lastReviewedDay": "2026-10-12"
     },
     "22e96f4a86a4d389a520": {
       "source": "Cointelegraph",
@@ -52549,6 +52555,14 @@
           "note": "AVAX 50 percent four-week gain is a price move with no underlying protocol event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:13.857Z"
+        },
+        "e81a753f4a1393ec6fbe": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Same 4393 ETH Kraken transfer as 1606f4eab; wallet movement framed as dump-or-routine speculation with no confirmed event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:16.132Z",
+          "duplicateOf": "1606f4eab1e355e34c6f"
         }
       },
       "baselineSlugs": [
