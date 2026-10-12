@@ -20539,26 +20539,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "4c8e5464d8009c02f491",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-12T10:21:00.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Unchained Bitfinex-BTC movement piece not fully read; needs Arkham trail plus second outlet.",
+      "reason": "verified-event",
+      "note": "Verified Oct 8 move - 12267 BTC (1.01B) from Bitfinex-seizure wallet to unlabeled addresses, day after 383M hit Coinbase Prime for custody, no sale under March 2025 reserve order - matched across CoinDesk, Unchained, Decrypt via Arkham.",
       "sourceChecks": [
         {
+          "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+          "outcome": "read"
+        },
+        {
           "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T18:19:40.305Z",
+      "reviewedAt": "2026-10-12T03:57:37.667Z",
       "duplicateOf": "bitfinex-move",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "US government seized Bitfinex bitcoin 1B unlabeled wallets Arkham October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "articleSlug": "bitfinex-move"
     },
     "62cd6c1ea3c742f4cf88": {
       "source": "CoinDesk",
@@ -53353,6 +53361,27 @@
           ],
           "reviewedAt": "2026-10-12T03:57:28.549Z",
           "articleSlug": "thorchain-freeze"
+        },
+        "4c8e5464d8009c02f491": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 move - 12267 BTC (1.01B) from Bitfinex-seizure wallet to unlabeled addresses, day after 383M hit Coinbase Prime for custody, no sale under March 2025 reserve order - matched across CoinDesk, Unchained, Decrypt via Arkham.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/u-s-government-sends-1-billion-in-seized-bitfinex-bitcoin-to-unlabeled-wallets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:37.667Z",
+          "articleSlug": "bitfinex-move"
         }
       },
       "baselineSlugs": [
