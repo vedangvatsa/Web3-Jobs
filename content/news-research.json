@@ -20467,26 +20467,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfb84dbee91c6c9c59e0",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:27:35.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "XRP Ledger delegation feature on a single queued source; amendment and vote record outstanding.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:27:15.046Z",
-      "duplicateOf": "xrpl-controls",
-      "lastReviewedDay": "2026-10-11",
+      "reason": "duplicate",
+      "note": "Same XRPL delegation activation drafted once as xrpl-delegation.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:33.875Z",
+      "duplicateOf": "xrpl-delegation",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "XRP Ledger account delegation enabled amendment votes October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "27f81ea86adb75b79871"
     },
     "b22ff44197a4ebb9636a": {
       "source": "Unchained",
@@ -53556,6 +53551,15 @@
           "reviewedAt": "2026-10-12T03:58:31.935Z",
           "duplicateOf": "cftc-swaps",
           "mergedInto": "32a6fb4025d29d3c1e2f"
+        },
+        "cfb84dbee91c6c9c59e0": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same XRPL delegation activation drafted once as xrpl-delegation.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:33.875Z",
+          "duplicateOf": "xrpl-delegation",
+          "mergedInto": "27f81ea86adb75b79871"
         }
       },
       "baselineSlugs": [
