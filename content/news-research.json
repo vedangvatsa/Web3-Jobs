@@ -26118,26 +26118,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "cb66c757ae4ae748b70b",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T17:01:03.000Z",
       "lastSeenAt": "2026-10-11T16:43:31.341Z",
-      "reason": "needs-corroboration",
-      "note": "CFTC prediction-vs-gambling story is the same Oct 9 rulemaking event; draft once with the companion lead.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:50.766Z",
-      "duplicateOf": "cftc-events",
-      "lastReviewedDay": "2026-10-11",
+      "reason": "duplicate",
+      "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:29.762Z",
+      "duplicateOf": "cftc-swaps",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "32a6fb4025d29d3c1e2f"
     },
     "7b823141592953e24684": {
       "source": "The Defiant",
@@ -53545,6 +53540,15 @@
           "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:27.843Z",
+          "duplicateOf": "cftc-swaps",
+          "mergedInto": "32a6fb4025d29d3c1e2f"
+        },
+        "cb66c757ae4ae748b70b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:29.762Z",
           "duplicateOf": "cftc-swaps",
           "mergedInto": "32a6fb4025d29d3c1e2f"
         }
