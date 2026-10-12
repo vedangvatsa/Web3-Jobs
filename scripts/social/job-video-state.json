@@ -2431,6 +2431,12 @@
           "publishAttemptId": "5a6b5ccf-0d52-4261-af83-de8477ac32db",
           "postId": "18112314836329392",
           "url": "https://www.instagram.com/reel/DeaAAnEjKz9/"
+        },
+        "youtube": {
+          "status": "creating",
+          "text": "Hong Kong\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+          "startedAt": "2026-10-12T19:37:29.505Z",
+          "attemptId": "400f349c-a510-4b70-b157-f6b1fbeb1123"
         }
       }
     }
