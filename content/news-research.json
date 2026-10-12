@@ -28951,11 +28951,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b94063542ff65e10ebaa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T03:23:53.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Maas Group/Firmus Grid IPO selloff is an Australian data-centre equity story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:20.406Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "cfed361973adc61a1041": {
       "source": "Crypto Briefing",
@@ -52260,6 +52265,13 @@
           "note": "IMF chief on AI demand is macro commentary with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:16.182Z"
+        },
+        "b94063542ff65e10ebaa": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Maas Group/Firmus Grid IPO selloff is an Australian data-centre equity story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:20.406Z"
         }
       },
       "baselineSlugs": [
