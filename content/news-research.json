@@ -20675,22 +20675,22 @@
       "id": "33d2532cea35902b8372",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T09:20:16.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
       "reason": "needs-corroboration",
-      "note": "Dark-web operator 40-year sentence and 01M BTC forfeiture is concrete but only the queued source is known; DOJ release outstanding.",
+      "note": "Empire Market sentencing read in CoinDesk with DOJ release missing - needs DOJ notice and second outlet.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:18.473Z",
+      "reviewedAt": "2026-10-12T04:03:43.964Z",
       "duplicateOf": "empire-market",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
-        "dark web drug market 40 years 101 million bitcoin forfeiture October 2026"
+        "Empire Market Hamilton sentencing DOJ press release October 2026"
       ],
       "articleSlug": "empire-market",
       "lastValidationErrors": [
@@ -20708,7 +20708,7 @@
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-10-12"
+      "nextReviewDate": "2026-10-13"
     },
     "724035b8cd9bafa2f945": {
       "source": "CoinDesk",
@@ -54192,6 +54192,21 @@
           "reviewedAt": "2026-10-12T04:03:42.020Z",
           "retrySearches": [
             "Core Lightning v26.06.9 release notes second outlet"
+          ]
+        },
+        "33d2532cea35902b8372": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Empire Market sentencing read in CoinDesk with DOJ release missing - needs DOJ notice and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:43.964Z",
+          "retrySearches": [
+            "Empire Market Hamilton sentencing DOJ press release October 2026"
           ]
         }
       },
