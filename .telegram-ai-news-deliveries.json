@@ -1135,5 +1135,38 @@
     "slotKey": "2026-10-11:evening",
     "messageId": 193333,
     "sentAt": "2026-10-11T19:49:06.370Z"
+  },
+  "c906616b-ccda-4b1d-8959-e0d0886912c1": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T11:33:30.684Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+        "headline": "Man sentenced for AI music streaming fraud",
+        "summary": "A defendant received an 18-month prison sentence for using automated bots to generate $8 million in royalty payments.",
+        "event_rationale": "This covers the first criminal conviction related to AI-generated content fraud in the music industry.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+        "source": "Ars Technica",
+        "originalTitle": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift"
+      },
+      {
+        "index": 1,
+        "headline": "US and China Compete to Reach the Moon",
+        "summary": "Multiple countries are competing alongside the United States and China to land on the lunar surface.",
+        "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Mars may be a hellhole, but the moon is not far behind"
+      },
+      {
+        "index": 2,
+        "headline": "Apple’s Rumored Smart Home Device Named HomeView",
+        "summary": "Recent reports reveal a release timeline and name for Apple's upcoming smart home product.",
+        "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+        "source": "TechCrunch",
+        "originalTitle": "Will the HomeView be Apple’s first smart home success?"
+      }
+    ],
+    "slotKey": "2026-10-12:afternoon"
   }
 }
