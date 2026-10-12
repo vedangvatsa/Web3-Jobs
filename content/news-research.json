@@ -21351,22 +21351,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "00846212524fc336a196",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-12T10:14:59.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "UK sanctions piece not fully read; same FCDO package event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:01.022Z",
+      "reason": "duplicate",
+      "note": "Same FCDO Russia sanctions package drafted once as uk-sanctions.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:03.417Z",
       "articleSlug": "uk-sanctions",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "greece-tax.md: under 600 words",
         "thailand-etfs.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)",
@@ -21376,7 +21371,7 @@
         "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
       ],
       "duplicateOf": "uk-sanctions",
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "4f7eedcb04b022f754db"
     },
     "35543151e27a95014f9d": {
       "source": "Decrypt",
@@ -53496,6 +53491,15 @@
           "reviewedAt": "2026-10-12T03:58:01.435Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "86f3a145bde0d3311251"
+        },
+        "00846212524fc336a196": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same FCDO Russia sanctions package drafted once as uk-sanctions.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:03.417Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "4f7eedcb04b022f754db"
         }
       },
       "baselineSlugs": [
