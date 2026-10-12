@@ -26267,26 +26267,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f703d0dec2b6aa838362",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-13T21:33:18.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "Kalshi Zacharia-bets probe not fully read; needs WSJ origin plus second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/kalshi-probes-trump-press-secretary-bets/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:45.945Z",
+      "reason": "duplicate",
+      "note": "Same Kalshi press-secretary probe drafted once as kalshi-probe.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:59:06.975Z",
       "retrySearches": [
         "Kalshi Zacharia press secretary bets investigation WSJ October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "duplicateOf": "kalshi-bets",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "duplicateOf": "kalshi-probe",
+      "mergedInto": "d2a36ff801c6db70c716"
     },
     "00eb14ee17d1377a2352": {
       "source": "The Defiant",
@@ -53661,6 +53656,15 @@
           "note": "Same Kalshi press-secretary probe drafted once as kalshi-probe.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:59:05.127Z",
+          "duplicateOf": "kalshi-probe",
+          "mergedInto": "d2a36ff801c6db70c716"
+        },
+        "f703d0dec2b6aa838362": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Kalshi press-secretary probe drafted once as kalshi-probe.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:59:06.975Z",
           "duplicateOf": "kalshi-probe",
           "mergedInto": "d2a36ff801c6db70c716"
         }
