@@ -28944,11 +28944,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "24a1d59834285a4a2cfc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T19:00:09.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "not-a-concrete-event",
+      "note": "XRP Wall Street expansion teaser names no filing, launch or ruling to verify.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:51.788Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "09f0a8467e9dcdd3157d": {
       "source": "Crypto Briefing",
@@ -52634,6 +52639,13 @@
           "note": "Solana 65 percent tokenized-equities share is a market-share data point with no concrete event; same stat as 4cfd6052.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:49.856Z"
+        },
+        "24a1d59834285a4a2cfc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "XRP Wall Street expansion teaser names no filing, launch or ruling to verify.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:51.788Z"
         }
       },
       "baselineSlugs": [
