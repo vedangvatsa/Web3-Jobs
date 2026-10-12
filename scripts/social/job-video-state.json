@@ -120,6 +120,10 @@
     "2026-10-11:evening": [
       "sls10",
       "product475"
+    ],
+    "2026-10-12:morning": [
+      "marketing212",
+      "eng332"
     ]
   },
   "jobs": {
@@ -2216,6 +2220,30 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7695496028002340129"
         }
       }
+    },
+    "marketing212": {
+      "slot": "2026-10-12:morning",
+      "selectedAt": "2026-10-12T03:34:13.234Z",
+      "verifiedAt": "2026-10-12T03:34:13.234Z",
+      "captions": {
+        "instagram": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo"
+      },
+      "receipts": {}
+    },
+    "eng332": {
+      "slot": "2026-10-12:morning",
+      "selectedAt": "2026-10-12T03:34:13.234Z",
+      "verifiedAt": "2026-10-12T03:34:13.234Z",
+      "captions": {
+        "instagram": "Senior/Staff Engineer - Web3 - Onchain Data at OKX\n\nHong Kong; Singapore\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
+        "tiktok": "Senior/Staff Engineer - Web3 - Onchain Data at OKX. Hong Kong; Singapore.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Hong Kong; Singapore\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Senior/Staff Engineer - Web3 - Onchain Data at OKX"
+      },
+      "receipts": {}
     }
   }
 }
