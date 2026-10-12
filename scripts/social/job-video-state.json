@@ -2268,11 +2268,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Senior/Staff Engineer - Web3 - Onchain Data at OKX\n\nHong Kong; Singapore\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
           "startedAt": "2026-10-12T03:37:05.620Z",
           "containerId": "17917280538461009",
-          "postId": "18561902281077539"
+          "postId": "18561902281077539",
+          "url": "https://www.instagram.com/reel/DeYSL1nFVKY/"
         }
       }
     }
