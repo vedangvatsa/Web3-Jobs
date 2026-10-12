@@ -23157,25 +23157,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "f81abcaa78c20b29893e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T16:00:00.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Ostium equity-for-hacked-LPs proposal on a single queued source; proposal details unverified.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/hacks/ostium-proposes-equity-stakes-for-hacked-liquidity-providers",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:01.388Z",
+      "reason": "not-a-concrete-event",
+      "note": "Ostium proposing equity stakes to hacked LPs is a proposal with no vote or payout.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:30.241Z",
       "retrySearches": [
         "Ostium hack liquidity providers equity proposal October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "644146b3930fc40b8976": {
       "source": "BeInCrypto",
@@ -52770,6 +52764,13 @@
           "note": "Same January quantum-target event as 84e69493; a soft development goal with no activation.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:28.293Z"
+        },
+        "f81abcaa78c20b29893e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Ostium proposing equity stakes to hacked LPs is a proposal with no vote or payout.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:30.241Z"
         }
       },
       "baselineSlugs": [
