@@ -2322,11 +2322,12 @@
           "url": "https://www.youtube.com/watch?v=wIfsgn0z4JI"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Brand Marketing Manager, Global Sponsorships at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-12T11:32:06.170Z",
           "postId": "6accc5371d99033b8d1f7398",
-          "error": "Error: Video ledger PUT failed — HTTP 409"
+          "error": "Error: Video ledger PUT failed — HTTP 409",
+          "url": "https://www.tiktok.com/@hashtagweb3/video/7695742750628613408?utm_campaign=tt4d_open_api&utm_source=7103819247981182978"
         }
       }
     },
