@@ -24740,26 +24740,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "da7ea4741cb5cd813e4a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 8,
+      "attempts": 9,
       "expiresAt": "2026-10-13T01:50:00.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "needs-corroboration",
-      "note": "Mashinsky own-trading detail not fully read; single source, needs AG text plus second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:39.305Z",
+      "reason": "duplicate",
+      "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:01.435Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "Mashinsky settlement trade own crypto exception AG terms October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "86f3a145bde0d3311251"
     },
     "6cbacd263bba4dccfcf3": {
       "source": "Bitcoin Magazine",
@@ -53490,6 +53485,15 @@
           "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:57:59.448Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "86f3a145bde0d3311251"
+        },
+        "da7ea4741cb5cd813e4a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:01.435Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "86f3a145bde0d3311251"
         }
