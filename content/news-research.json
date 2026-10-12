@@ -26058,25 +26058,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "c4e90b66aacb92b43cd3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T17:38:07.000Z",
       "lastSeenAt": "2026-10-11T16:43:31.341Z",
-      "reason": "source-blocked",
-      "note": "Papertrade losses and rewards story origin blocked; no second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/defi/papertrade-traders-lose-18-2-million-as-staking-rewards-reach-12-6-million",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:48.878Z",
+      "reason": "duplicate",
+      "note": "Same Papertrade launch cluster drafted once as papertrade.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:52.595Z",
       "retrySearches": [
         "Papertrade traders losses staking rewards PAPER token"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "duplicateOf": "papertrade",
+      "mergedInto": "6445e691f0625b1e13c9"
     },
     "cb66c757ae4ae748b70b": {
       "source": "Decrypt",
@@ -53604,6 +53600,15 @@
           "note": "Same Papertrade launch cluster drafted once as papertrade.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:50.672Z",
+          "duplicateOf": "papertrade",
+          "mergedInto": "6445e691f0625b1e13c9"
+        },
+        "c4e90b66aacb92b43cd3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Papertrade launch cluster drafted once as papertrade.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:52.595Z",
           "duplicateOf": "papertrade",
           "mergedInto": "6445e691f0625b1e13c9"
         }
