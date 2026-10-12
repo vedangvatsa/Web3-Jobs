@@ -28570,11 +28570,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "fb61e8bb2aa2401bff8f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T23:56:45.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI GPT model context-length change is non-crypto AI product news with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:38:28.893Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "3f211470af1c0a9dce1a": {
       "source": "Crypto Briefing",
@@ -52236,6 +52241,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:34:29.219Z",
           "automatic": true
+        },
+        "fb61e8bb2aa2401bff8f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI GPT model context-length change is non-crypto AI product news with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:38:28.893Z"
         }
       },
       "baselineSlugs": [
