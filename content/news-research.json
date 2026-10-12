@@ -20583,22 +20583,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "62cd6c1ea3c742f4cf88",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-12T10:16:55.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "CoinDesk Thailand ETF piece not fully read this round; same framework event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:19:35.902Z",
+      "reason": "duplicate",
+      "note": "Same Thai SEC ETF framework event drafted once as thailand-etfs.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:07.200Z",
       "articleSlug": "thailand-etfs",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?"
       ],
@@ -20606,7 +20601,7 @@
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF rules October 16 effective SET listing notice"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "6521f65a66822c1c1481"
     },
     "6eb78273ce6d69ab8f6b": {
       "source": "Cointelegraph",
@@ -53504,6 +53499,15 @@
           "reviewedAt": "2026-10-12T03:58:05.321Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "4f7eedcb04b022f754db"
+        },
+        "62cd6c1ea3c742f4cf88": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thai SEC ETF framework event drafted once as thailand-etfs.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:07.200Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "6521f65a66822c1c1481"
         }
       },
       "baselineSlugs": [
