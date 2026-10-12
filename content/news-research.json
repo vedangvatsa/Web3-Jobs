@@ -28679,11 +28679,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "22e96f4a86a4d389a520",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T01:21:29.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "duplicate",
+      "note": "XRP Ledger emergency patch for the unlimited-mint bug is the same fix covered by xrpl-overflow.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:05.425Z",
+      "duplicateOf": "xrpl-overflow",
+      "lastReviewedDay": "2026-10-12"
     },
     "2d0778fe11134c2a90a4": {
       "source": "Crypto Briefing",
@@ -52707,6 +52713,14 @@
           "note": "Bubblemaps estimate of influencer callout earnings is analytics chatter with no onchain event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:03.601Z"
+        },
+        "22e96f4a86a4d389a520": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "XRP Ledger emergency patch for the unlimited-mint bug is the same fix covered by xrpl-overflow.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:05.425Z",
+          "duplicateOf": "xrpl-overflow"
         }
       },
       "baselineSlugs": [
