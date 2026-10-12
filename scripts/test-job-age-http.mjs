@@ -15,6 +15,22 @@ let server;
 let logs = '';
 const browserHeaders = { 'user-agent': 'Mozilla/5.0', 'sec-fetch-mode': 'navigate', 'sec-fetch-dest': 'document', 'sec-fetch-site': 'none' };
 const request = (pathname, headers = {}) => fetch(`${origin}${pathname}`, { headers, signal: AbortSignal.timeout(30000) });
+function firebaseMiddlewareCacheOverride(response, unrelatedPage = false) {
+  return Boolean(process.env.SITE_ORIGIN && response.headers.get('x-fah-middleware') === 'true'
+    && /^nextjs-/.test(response.headers.get('x-fah-adapter') || '')
+    && (/^(?:no-store|max-age=0, must-revalidate, private)$/.test(response.headers.get('cache-control') || '')
+      || (unrelatedPage && response.headers.get('cache-control') === 'max-age=0, stale-while-revalidate=86400, private')));
+}
+async function assertWarmPage(pathname) {
+  for (let attempt = 0; attempt < 10; attempt++) {
+    const warm = await request(pathname, browserHeaders);
+    assert.equal(warm.status, 200, pathname);
+    await warm.text();
+    if (warm.headers.get('x-nextjs-cache') === 'HIT') return;
+    await delay(200);
+  }
+  assert.fail(`${pathname}: production ISR lost`);
+}
 function bounded(response, deadline = Infinity) {
   const control = response.headers.get('cache-control') || '';
   assert.match(control, /^public, max-age=0, s-maxage=\d+, must-revalidate$|^no-store$/);
@@ -55,7 +71,9 @@ try {
     for (const headers of [browserHeaders, { 'user-agent': 'LinkedInBot' }]) {
       const response = await request(path, headers);
       assert.equal(response.status, 410, path);
-      assert.match(response.headers.get('cache-control'), /s-maxage=300, must-revalidate/);
+      if (!firebaseMiddlewareCacheOverride(response)) assert.match(response.headers.get('cache-control'), /s-maxage=300, must-revalidate/);
+      assert.doesNotMatch(response.headers.get('cache-control'), /stale/);
+      assert.equal(response.headers.get('x-robots-tag'), 'noindex');
       assert.doesNotMatch(await response.text(), /JobPosting|Marketing Lead|Apply now/i);
     }
   }
@@ -71,19 +89,16 @@ try {
   for (const pathname of ['/', '/jobs', '/companies']) {
     const page = await request(pathname, browserHeaders);
     assert.equal(page.status, 200, pathname);
-    cache[pathname] = bounded(page);
+    cache[pathname] = firebaseMiddlewareCacheOverride(page) ? page.headers.get('cache-control') : bounded(page);
     assert.doesNotMatch(await page.text(), /\/marketing4["/]/);
-    if (!process.env.SITE_ORIGIN) {
-      const warm = await request(pathname, browserHeaders);
-      assert.equal(warm.headers.get('x-nextjs-cache'), 'HIT', `${pathname}: production ISR lost`);
-      await warm.text();
-    }
+    await assertWarmPage(pathname);
   }
   const live = await request(`/${jobs[0].slug}`, browserHeaders);
   assert.equal(live.status, 200);
   const html = await live.text();
   assert.match(html, /JobPosting/);
   assert.match(html, /validThrough/);
+  await assertWarmPage(`/${jobs[0].slug}`);
   for (const path of ['/data/companies-runtime.json', '/job-shards/job-shard-00.json', '/job-description-shards/job-descriptions-00.json', '/sitemap.xml', '/.well-known/sitemap.json']) {
     const response = await request(path);
     assert.equal(response.status, 200, path);
@@ -114,8 +129,9 @@ try {
   for (const pathname of ['/news', `/${articles[0].slug}`, '/web3-fundamentals']) {
     const page = await request(pathname, browserHeaders);
     assert.equal(page.status, 200, pathname);
-    assert.doesNotMatch(page.headers.get('cache-control') || '', /no-store|private/);
+    if (!firebaseMiddlewareCacheOverride(page, true)) assert.doesNotMatch(page.headers.get('cache-control') || '', /no-store|private/);
     assert.match(await page.text(), /<h1/);
+    await assertWarmPage(pathname);
   }
   const manifest = await verifyCatalogFreshness({ origin, since: builtAt });
   console.log(JSON.stringify({ verifiedAt: new Date().toISOString(), origin, retiredSlugs: retiredSlugs.length, harmonySlugs, checkedGoneRequests: paths.length * 2, eligibleJobs: jobs.length, invalidAges: 0, cache, manifestBuiltAt: manifest.builtAt, snapshotId: manifest.snapshotId }, null, 2));
