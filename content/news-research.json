@@ -24029,25 +24029,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "347f9632aca3b7cd1864",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T18:11:00.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Robinhood Chain priority-fee proposal on a single queued source; proposal details unverified.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:09.723Z",
+      "reason": "not-a-concrete-event",
+      "note": "Robinhood Chain considering priority-trader technology is an exploration with no decision or deployment.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:35.929Z",
       "retrySearches": [
         "Robinhood Chain priority fees paying traders proposal"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "b7b5ac6b711f38c000f8": {
       "source": "BeInCrypto",
@@ -52773,6 +52767,13 @@
           "note": "Franklin Templeton and Animoca planning a broader NUVA lineup is a plan with no launch or filing.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:34.015Z"
+        },
+        "347f9632aca3b7cd1864": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Robinhood Chain considering priority-trader technology is an exploration with no decision or deployment.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:35.929Z"
         }
       },
       "baselineSlugs": [
