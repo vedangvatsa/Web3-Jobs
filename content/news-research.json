@@ -29305,11 +29305,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c5f772bc25f6ec1ed954",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T00:25:38.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "NYU professor warning about ChatGPT ideas is AI opinion with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:45.813Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "154c08a5b5e062848783": {
       "source": "Crypto Briefing",
@@ -52404,6 +52409,13 @@
           "note": "US restoring UK frontier-AI test access is AI policy with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:43.918Z"
+        },
+        "c5f772bc25f6ec1ed954": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "NYU professor warning about ChatGPT ideas is AI opinion with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:45.813Z"
         }
       },
       "baselineSlugs": [
