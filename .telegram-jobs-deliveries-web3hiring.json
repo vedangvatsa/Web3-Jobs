@@ -2712,5 +2712,49 @@
     "slotKey": "2026-10-11:evening",
     "messageId": 118,
     "sentAt": "2026-10-11T19:47:08.392Z"
+  },
+  "3ad300e7-28ba-4959-962e-2043368e956b": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T11:31:52.734Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "key": "8534682002",
+        "slug": "sales94",
+        "url": "https://hashtagweb3.com/sales94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Business Development Representative"
+      },
+      {
+        "key": "dcf3d6d2-c95a-4d24-9346-33bb7b5d6d6a",
+        "slug": "product484",
+        "url": "https://hashtagweb3.com/product484?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Product Designer - Predictions Market"
+      },
+      {
+        "key": "5263425008",
+        "slug": "mgr71",
+        "url": "https://hashtagweb3.com/mgr71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Senior Manager"
+      },
+      {
+        "key": "7996961003",
+        "slug": "dmlr",
+        "url": "https://hashtagweb3.com/dmlr?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Deputy Money Laundering Reporting Officer"
+      },
+      {
+        "key": "5601879",
+        "slug": "ds12",
+        "url": "https://hashtagweb3.com/ds12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Data Scientist"
+      }
+    ],
+    "message": "• BitGo is hiring <a href=\"https://hashtagweb3.com/sales94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Representative</a>\n• Crypto.com is hiring <a href=\"https://hashtagweb3.com/product484?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Designer - Predictions Market</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/mgr71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Manager</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/dmlr?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Deputy Money Laundering Reporting Officer</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/ds12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Data Scientist</a>",
+    "slotKey": "2026-10-12:afternoon"
   }
 }
