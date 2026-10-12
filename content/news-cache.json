@@ -1,13 +1,133 @@
 {
-  "generatedAt": "2026-10-12T03:34:41.858Z",
+  "generatedAt": "2026-10-12T11:09:06.580Z",
   "items": [
     {
-      "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
-      "link": "https://dailyhodl.com/2026/10/11/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data/",
-      "pubDate": "Mon, 12 Oct 2026 03:04:56 +0000",
-      "creator": "Chainwire",
-      "contentSnippet": "Palo Alto, United States, 12th October 2026, Chainwire\nThe post DATA Network joins Sui and Walrus to scale the supply chain for AI training data appea...",
+      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+      "pubDate": "Mon, 12 Oct 2026 11:02:38 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisi...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
+      "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+      "pubDate": "Mon, 12 Oct 2026 10:57:37 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Loans use third-party custodians for bitcoin holdings and rely on court-ordered sales if borrowers default.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+      "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+      "pubDate": "Mon, 12 Oct 2026 10:27:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+      "pubDate": "Mon, 12 Oct 2026 10:20:54 +0000",
+      "creator": "Oliver Knight",
+      "contentSnippet": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
+      "link": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
+      "pubDate": "Mon, 12 Oct 2026 10:12:48 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
+      "link": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 09:41:17 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Payward received full market approval from Dubai’s VARA to expand its digital asset services in the UAE, building on the preliminary approval received...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
+      "link": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
+      "pubDate": "Mon, 12 Oct 2026 09:35:21 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
+      "source": "The Block"
+    },
+    {
+      "title": "New York AG Secures Up to $35,000,000 Penalty and Lifetime Ban for Ex-Celsius CEO",
+      "link": "https://dailyhodl.com/2026/10/12/new-york-ag-secures-up-to-35000000-penalty-and-lifetime-ban-for-ex-celsius-ceo/",
+      "pubDate": "Mon, 12 Oct 2026 09:15:50 +0000",
+      "creator": "Agent",
+      "contentSnippet": "New York Attorney General Letitia James is securing up to $35 million in penalties and a permanent ban from the securities, commodities, and crypto in...",
       "source": "Daily Hodl"
+    },
+    {
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "pubDate": "Mon, 12 Oct 2026 08:58:24 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Your look at what's coming in the week starting Oct. 12.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+      "pubDate": "Mon, 12 Oct 2026 08:32:17 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for y...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+      "pubDate": "Mon, 12 Oct 2026 07:49:40 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says con...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ledger Updates Investigation After $91,000,000 Reportedly Drained From Users",
+      "link": "https://dailyhodl.com/2026/10/12/ledger-updates-investigation-after-91000000-reportedly-drained-from-users",
+      "pubDate": "Mon, 12 Oct 2026 07:01:55 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Ledger is investigating reports that users in Southeast Asia who bought devices from reseller CryptoBilis lost funds, with on-chain analysis showing o...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "DATA Network to migrate to Sui, retire own chain ",
+      "link": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 05:15:43 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The migration is backed by a $30 million investment from Sui Foundation.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "pubDate": "Mon, 12 Oct 2026 04:49:30 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bitcoin reversed early gains as oil bounced back to over $92. Analysts express concerns over large outflows from spot ETFs last week.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "French lawmakers back reporting rule for crypto wallets over $112K  ",
+      "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 04:45:15 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
+      "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+      "pubDate": "Mon, 12 Oct 2026 04:33:57 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
+      "source": "The Block"
     },
     {
       "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
@@ -90,28 +210,12 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
-      "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 11 Oct 2026 09:05:00 +0000",
-      "creator": "Michael Millard",
-      "contentSnippet": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
       "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
       "pubDate": "Sat, 10 Oct 2026 18:35:25 +0000",
       "creator": "Zack Abrams",
       "contentSnippet": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
       "source": "The Block"
-    },
-    {
-      "title": "NY AG Secures $35,000,000 and Lifetime Crypto Ban From Ex-Celsius CEO for Investor Fraud",
-      "link": "https://dailyhodl.com/2026/10/10/ny-ag-secures-35000000-and-lifetime-crypto-ban-from-ex-celsius-ceo-for-investor-fraud/",
-      "pubDate": "Sat, 10 Oct 2026 16:55:44 +0000",
-      "creator": "Agent",
-      "contentSnippet": "New York Attorney General Letitia James reached a settlement with a former cryptocurrency lending platform executive that includes up to $35 million i...",
-      "source": "Daily Hodl"
     },
     {
       "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
@@ -314,28 +418,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-      "pubDate": "Fri, 09 Oct 2026 11:09:04 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Your day-ahead look for Oct. 9, 2026",
-      "source": "Coindesk"
-    },
-    {
       "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
       "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 09 Oct 2026 10:49:24 +0000",
       "creator": "Ezra Reguerra",
       "contentSnippet": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulato...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-      "pubDate": "Fri, 09 Oct 2026 10:44:22 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.",
-      "source": "Coindesk"
     },
     {
       "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
@@ -370,44 +458,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI ",
-      "link": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
-      "pubDate": "Fri, 09 Oct 2026 09:08:09 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "The bitcoin miner’s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
-      "source": "Coindesk"
-    },
-    {
       "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
       "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
       "pubDate": "Fri, 09 Oct 2026 08:59:31 +0000",
       "creator": "Agent",
       "contentSnippet": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Live updates: Bitcoin slips from day's highs, set to close week with a loss",
-      "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-      "pubDate": "Fri, 09 Oct 2026 06:51:32 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquid...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner  ",
-      "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 05:34:33 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Anthropic’s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-      "link": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 22:35:00 +0000",
-      "creator": "Andrew Fenton",
-      "contentSnippet": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
@@ -490,14 +546,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitwise CEO says ‘tragic’ Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
-      "link": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
-      "pubDate": "Thu, 08 Oct 2026 16:43:47 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area.",
-      "source": "The Block"
-    },
-    {
       "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
       "link": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
       "pubDate": "Thu, 08 Oct 2026 16:14:46 +0000",
@@ -522,14 +570,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
-      "link": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
-      "pubDate": "Thu, 08 Oct 2026 14:52:27 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000.",
-      "source": "The Block"
-    },
-    {
       "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
       "link": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
       "pubDate": "Thu, 08 Oct 2026 11:48:13 +0000",
@@ -551,14 +591,6 @@
       "pubDate": "Thu, 08 Oct 2026 10:32:52 +0000",
       "creator": "Agent",
       "contentSnippet": "A draft bill would exempt the first €500 of annual gains, as crypto tax rates across Europe run from Cyprus's 8% to Italy's 33%.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
-      "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
-      "pubDate": "Thu, 08 Oct 2026 09:05:50 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Users can send USDC across borders from late October, three months after Samsung teased stablecoin support without naming a blockchain.",
       "source": "Decrypt"
     }
   ]
