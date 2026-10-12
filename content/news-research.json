@@ -24782,25 +24782,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f83e5b1709ca0afd2d9",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T00:40:59.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Solana 200ms story not fully read though snippets show solana.com epoch-1053 primary plus Compass; full reads outstanding.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:24.987Z",
+      "reason": "duplicate",
+      "note": "Same Solana 200ms activation drafted once as slot-times.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:13.359Z",
       "retrySearches": [
         "Solana 200ms epoch 1053 SIMD-0525 complete"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "duplicateOf": "slot-times",
+      "mergedInto": "f7cc92328214d5e25bb3"
     },
     "d2d7a1b55b78c7f15a05": {
       "source": "The Defiant",
@@ -53514,6 +53510,15 @@
           "note": "Same Solana 200ms activation drafted once as slot-times.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:11.389Z",
+          "duplicateOf": "slot-times",
+          "mergedInto": "f7cc92328214d5e25bb3"
+        },
+        "4f83e5b1709ca0afd2d9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Solana 200ms activation drafted once as slot-times.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:13.359Z",
           "duplicateOf": "slot-times",
           "mergedInto": "f7cc92328214d5e25bb3"
         }
