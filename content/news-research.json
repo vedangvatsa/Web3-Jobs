@@ -20498,26 +20498,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "b22ff44197a4ebb9636a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:23:45.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Blumenthal Cantor-Tether probe (Unchained Oct 9): same oversight letter event; read Unchained plus Cointelegraph plus the primary letter.",
+      "reason": "verified-event",
+      "note": "Verified Oct 8 Blumenthal letter - 13 records requests to Brandon Lutnick on Tether custody and family profits, replies due Oct 23, no accusation of a specific violation - matched across Unchained and Decrypt; Senate PDF binary unreadable.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:16.775Z",
+      "reviewedAt": "2026-10-12T04:00:56.309Z",
       "duplicateOf": "cantor-probe",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "Blumenthal Cantor Fitzgerald Tether letter October 2026 Senate"
       ],
-      "nextReviewDate": "2026-10-12"
+      "articleSlug": "cantor-probe"
     },
     "4c8e5464d8009c02f491": {
       "source": "Unchained",
@@ -53699,6 +53707,27 @@
           "retrySearches": [
             "Blumenthal Cantor Fitzgerald Tether letter Oct 23 deadline response"
           ]
+        },
+        "b22ff44197a4ebb9636a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 8 Blumenthal letter - 13 records requests to Brandon Lutnick on Tether custody and family profits, replies due Oct 23, no accusation of a specific violation - matched across Unchained and Decrypt; Senate PDF binary unreadable.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.hsgac.senate.gov/wp-content/uploads/2026-10-08-Letter-from-Sen-Blumenthal-to-Chairman-Lutnick.pdf",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:00:56.309Z",
+          "articleSlug": "cantor-probe"
         }
       },
       "baselineSlugs": [
