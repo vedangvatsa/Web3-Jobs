@@ -69,31 +69,6 @@
     }
   },
   {
-    "name": "ETHSafari 2026",
-    "url": "https://ethsafari.xyz",
-    "emails": [
-      "partners@ethsafari.xyz",
-      "info@ethsafari.xyz",
-      "hello@ethsafari.xyz"
-    ],
-    "event": {
-      "id": "premier-ethsafari-2026",
-      "slug": "ethsafari",
-      "name": "ETHSafari 2026",
-      "description": "Africa's iconic Ethereum and Web3 summit uniting global builders across Nairobi and Kilifi for a week of hackathons, safaris and on-chain innovation.",
-      "startDate": "2026-09-04T09:00:00.000Z",
-      "endDate": "2026-09-12T18:00:00.000Z",
-      "city": "Nairobi",
-      "country": "Kenya",
-      "location": "Nairobi & Kilifi, Kenya",
-      "url": "https://ethsafari.xyz",
-      "website": "https://ethsafari.xyz",
-      "coverImage": "/events/ethsafari-banner.jpg",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "UN Blockchain Week 2026",
     "url": "https://unblockchainweek.com",
     "emails": [

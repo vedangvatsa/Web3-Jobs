@@ -241,5 +241,29 @@
       "india-luma-4tk81dfk",
       "eth-gujarat"
     ]
+  },
+  "premier-ethsafari-2026": {
+    "until": "2027-10-12T19:31:58.923Z",
+    "slugs": [
+      "premier-ethsafari-2026",
+      "ethsafari-2026",
+      "ethsafari"
+    ]
+  },
+  "luma-evt-mBERNwQdX2gmBia": {
+    "until": "2027-10-12T19:31:58.923Z",
+    "slugs": [
+      "luma-evt-mbernwqdx2gmbia",
+      "slgyb"
+    ]
+  },
+  "premier-ethwarsaw-2026": {
+    "until": "2027-10-12T19:31:58.923Z",
+    "slugs": [
+      "premier-ethwarsaw-2026",
+      "ethwarsaw-2026",
+      "ethwarsaw",
+      "eth-warsaw"
+    ]
   }
 }

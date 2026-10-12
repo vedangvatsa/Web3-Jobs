@@ -4,42 +4,6 @@ import type { EventEditorialArticle } from "./events";
 // Facts sourced from each event's official website / organizer announcements.
 export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
 
-  ethsafari: {
-    summaryLead:
-      "ETHSafari celebrates its fifth edition September 4 to 12, moving between Nairobi and Kilifi on the Kenyan coast. It is structured as a journey rather than a single venue: an opening ceremony in Nairobi, a two-day hackathon in the capital, the Blocktrain ride down to the coast, and a three-day conference and festival beside the ocean in Kilifi. That structure is the point; the event's organizers built it around the belief that longer, unstructured time together produces better outcomes than back-to-back keynote halls.",
-    expectedAttendance: "Thousands of builders across the Nairobi and Kilifi legs",
-    sections: [
-      {
-        heading: "How the week works",
-        content: [
-          "The Nairobi leg opens September 4 and hosts the hackathon on September 7 and 8, where teams compete on Ethereum and Africa-focused tracks with mentors from major protocols reviewing code in person. On September 9, attendees board the Blocktrain together toward Mombasa, a working journey that has become the event's signature; many collaborations start in those train cars.",
-          "The Kilifi days, September 10 to 12, run the main conference talks and festival programming right by the ocean. Sessions cover protocol updates, African DeFi and remittance products, regenerative finance experiments, and community infrastructure, delivered in a format closer to an unconference than a trade show.",
-        ],
-      },
-      {
-        heading: "Why builders fly in",
-        content: [
-          "Kenya has one of the strongest developer communities on the continent, anchored by university programs, hubs like Nairobi's developer collectives, and a mobile-money culture that made digital payments normal long before crypto arrived. Global grant programs from the Ethereum Foundation and major L2s have used ETHSafari to onboard African builders, and several past hackathon projects have grown into funded startups.",
-          "Investors come too, but the ratio matters: builders outnumber funds by design, which keeps conversations technical and grounded rather than pitch-heavy.",
-        ],
-      },
-      {
-        heading: "Practical notes",
-        content: [
-          "Book domestic travel and Kilifi accommodation months ahead; coastal capacity during the event window is limited and fills early. Nairobi's Jomo Kenyatta airport serves international arrivals, then connect by the SGR train or a short flight to Malindi or Mombasa for the Kilifi leg. M-Pesa handles nearly everything locally, carry some cash for rural stretches, and pack for both cool Nairobi evenings and beach heat.",
-        ],
-      },
-      {
-        heading: "Planning your safari week",
-        content: [
-          "Registration tiers cover different legs of the journey, so decide early whether your Nairobi-only, Kilifi-focused, or full-week pass matches your goals; the full experience is the recommended one and sells out first. Accommodation in Kilifi ranges from beach cottages to shared bandas, and organizers coordinate options through official channels.",
-          "Connectivity on the coast is workable but not city-grade; sync expectations with your team before departing Nairobi. Pack light, casual clothing, reef-safe sun protection, and patience for island-time logistics. The reward for the extra planning is unmatched: few conferences anywhere let you debug a contract at dawn to the sound of the Indian Ocean.",
-                  "ETHSafari's growth mirrors Kenya's broader emergence as Africa's Ethereum center. Nairobi hosts a dense concentration of blockchain hubs, university programs feed graduates into grant-funded work, and M-Pesa's two-decade dominance normalized digital payments long before crypto arrived, giving Kenyan users practical fluency that Western markets often lack. Past editions drew support from major L2 ecosystems running dedicated tracks, and several hackathon projects graduated into funded startups serving East African markets. The organizers deliberately cap corporate presence relative to builder attendance, preserving an atmosphere where protocol researchers share stages with student teams and regional community leads hold the same access as fund partners.",
-        ],
-      },
-    ],
-  },
-
   unbw: {
     summaryLead:
       "UN Blockchain Week spans September 10 to 19 across New York City, deliberately scheduled inside UN General Assembly week and New York Fashion Week. Rather than one conference, it is a series: a flagship two-day UN Blockchain Week Conference, an AI and blockchain summit, a fashion-tech summit timed to NYFW, a space-economy event called SpaceDAO and Orbital Finance, and an investment summit in Washington, with more than one hundred side events threaded throughout.",
@@ -833,28 +797,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Institutional digital assets and banking integration",
         content: [
           "Australian banks and payments networks are pioneers in tokenized deposit pilots, real-world asset trials, and stablecoin settlements. Panels highlight bank-grade security, enterprise compliance, and institutional DeFi integration.",
-        ],
-      },
-    ],
-  },
-
-  ethwarsaw: {
-    summaryLead:
-      "ETHWarsaw is Eastern Europe's premier community-organized Ethereum conference and hackathon, forming the centerpiece of Warsaw Blockchain Week. Poland has earned a global reputation as a premier software engineering powerhouse, and ETHWarsaw channels that dense technical capability into protocol engineering, zero-knowledge scalability, and decentralized finance.",
-    expectedAttendance: "1,500+ engineers, cryptographers, and protocol founders",
-    sections: [
-      {
-        heading: "Poland's engineering excellence",
-        content: [
-          "Poland consistently ranks among the top countries globally for competitive programming and mathematical talent. Many core developers and protocol engineers at major L1s, L2s, and DeFi protocols are based in Warsaw, Krakow, and Wroclaw.",
-          "ETHWarsaw is deliberately builder-first: code audits, cryptographic primitives, and smart contract architecture take precedence over promotional marketing talks.",
-        ],
-      },
-      {
-        heading: "The Warsaw hackathon and builder culture",
-        content: [
-          "A major highlight is the 48-hour competitive hackathon, where hundreds of developers form teams to deploy innovative dApps across privacy, payments, and decentralized infrastructure. Protocol mentors and VC partners review submissions in real time.",
-          "Warsaw's central European location, affordable accommodations, and vibrant tech scene make it exceptionally accessible for international attendees.",
         ],
       },
     ],

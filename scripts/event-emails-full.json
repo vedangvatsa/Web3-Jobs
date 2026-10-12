@@ -69,31 +69,6 @@
     }
   },
   {
-    "name": "ETHSafari 2026",
-    "url": "https://ethsafari.xyz",
-    "emails": [
-      "partners@ethsafari.xyz",
-      "info@ethsafari.xyz",
-      "hello@ethsafari.xyz"
-    ],
-    "event": {
-      "id": "premier-ethsafari-2026",
-      "slug": "ethsafari",
-      "name": "ETHSafari 2026",
-      "description": "Africa's iconic Ethereum and Web3 summit uniting global builders across Nairobi and Kilifi for a week of hackathons, safaris and on-chain innovation.",
-      "startDate": "2026-09-04T09:00:00.000Z",
-      "endDate": "2026-09-12T18:00:00.000Z",
-      "city": "Nairobi",
-      "country": "Kenya",
-      "location": "Nairobi & Kilifi, Kenya",
-      "url": "https://ethsafari.xyz",
-      "website": "https://ethsafari.xyz",
-      "coverImage": "/events/ethsafari-banner.jpg",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "UN Blockchain Week 2026",
     "url": "https://unblockchainweek.com",
     "emails": [
@@ -1308,47 +1283,11 @@
     }
   },
   {
-    "name": "Strong Looks Good On You, Bestie!",
-    "url": "https://lu.ma/bdftoxqf",
-    "emails": [
-      "press@venmo.com",
-      "partners@simplyspotless.org"
-    ],
-    "event": {
-      "id": "luma-evt-mBERNwQdX2gmBia",
-      "name": "Strong Looks Good On You, Bestie!",
-      "description": "",
-      "startDate": "2026-09-12T14:45:00.000Z",
-      "endDate": "2026-09-12T16:15:00.000Z",
-      "city": "Los Angeles",
-      "country": "United States",
-      "location": "Los Angeles, United States",
-      "url": "https://lu.ma/bdftoxqf",
-      "coverImage": "https://images.lumacdn.com/uploads/od/3dfdcfd7-2e12-4e09-abf9-043741ea1d3b.jpg",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
     "name": "Vermú: Prácticas de abuela frente al fin del mundo: reciclaje, bricolaje, aprovechamiento y obsolescencia programada",
     "url": "https://lu.ma/h9zacafe",
     "emails": [
       "press@google.com"
-    ],
-    "event": {
-      "id": "luma-evt-B1NX8H2rzXJPIBp",
-      "name": "Vermú: Prácticas de abuela frente al fin del mundo: reciclaje, bricolaje, aprovechamiento y obsolescencia programada",
-      "description": "",
-      "startDate": "2026-09-12T17:00:00.000Z",
-      "endDate": "2026-09-12T19:00:00.000Z",
-      "city": "Madrid",
-      "country": "Spain",
-      "location": "Madrid, Spain",
-      "url": "https://lu.ma/h9zacafe",
-      "coverImage": "https://images.lumacdn.com/uploads/4j/c3820927-17f3-4100-af80-0b5e2377c539.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "Beginner Acting Workshop Presented by HAFA Art Studio, Starz Studio by Marwa Gabriel, and I Studio by Rafik El Rihany",
