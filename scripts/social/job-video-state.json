@@ -2421,7 +2421,14 @@
         "youtube": "Hong Kong\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
         "youtubeTitle": "Legal Counsel at Animoca Brands"
       },
-      "receipts": {}
+      "receipts": {
+        "instagram": {
+          "status": "creating",
+          "text": "Legal Counsel at Animoca Brands\n\nHong Kong\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+          "startedAt": "2026-10-12T19:35:53.032Z",
+          "attemptId": "5dba0bf6-a2a0-4c48-a346-ddd824321886"
+        }
+      }
     }
   }
 }
