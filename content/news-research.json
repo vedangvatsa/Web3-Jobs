@@ -20235,25 +20235,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "d33835776086f95c6798",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T10:23:14.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Robinhood stock-token exploration is unconfirmed staging on a single queued source; no filing or launch exists.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/robinhood-explores-stock-token-tied-to-t-rowe-price-actively-managed-etf/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:27:23.526Z",
+      "reason": "not-a-concrete-event",
+      "note": "Robinhood exploring a T Rowe Price stock token is unconfirmed staging with no filing, launch or terms.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:20.251Z",
       "retrySearches": [
         "Robinhood T Rowe Price stock token actively managed ETF"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "19357b6f78dfafe2a59e": {
       "source": "Cointelegraph",
@@ -52765,6 +52759,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:18.296Z",
           "duplicateOf": "ledger-implant"
+        },
+        "d33835776086f95c6798": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Robinhood exploring a T Rowe Price stock token is unconfirmed staging with no filing, launch or terms.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:20.251Z"
         }
       },
       "baselineSlugs": [
