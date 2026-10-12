@@ -1131,7 +1131,7 @@
     "sentAt": "2026-10-11T19:47:36.391Z"
   },
   "70d8db5c-f630-4d43-a3fa-e59b6fe950d6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T11:32:34.811Z",
     "stories": [
       {
@@ -1159,6 +1159,8 @@
         "originalTitle": "DWF Labs affiliates sue BitGo for $141M over early token sales"
       }
     ],
-    "slotKey": "2026-10-12:afternoon"
+    "slotKey": "2026-10-12:afternoon",
+    "messageId": 155725,
+    "sentAt": "2026-10-12T11:32:38.180Z"
   }
 }

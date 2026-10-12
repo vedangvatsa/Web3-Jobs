@@ -710,6 +710,9 @@
   "https://hashtagweb3.com/coldcard-phish?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ledger-implant?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xrpl-overflow?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/meanwhile-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cantor-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitgo-suit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2038,6 +2041,12 @@
   "Ledger confirms hardware implant in reseller device as losses may top $86M",
   "XRP Ledger patches bug that could have minted trillions",
   "XRP Ledger patched decade-old bug that could have minted trillions",
+  "Meanwhile raises $37.5 million led by Bain Capital Crypto",
+  "Bitcoin insurer Meanwhile raises $37.5M led by Bain Capital Crypto",
+  "Senator Blumenthal Seeks Cantor Fitzgerald Records on Tether",
+  "Blumenthal demands Cantor records on Tether stake and custody role",
+  "DWF Labs affiliates sue BitGo for $141 million",
+  "DWF Labs affiliates sue BitGo for $141M over early token sales",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2298,5 +2307,8 @@
   "fp:allow|atomic|bank|develop|dvp|foundation|input|institutional|morgan|open",
   "fp:account|ask|coldcard|exploit|follow|investigat|july|link|major|malicious",
   "fp:86m|confirm|cryptobilis|devic|estimat|exceed|hardwar|implant|ledger|loss",
-  "fp:allow|bug|creation|decad|developer|engin|fix|hav|ledger|mint"
+  "fp:allow|bug|creation|decad|developer|engin|fix|hav|ledger|mint",
+  "fp:180m|375m|bain|bas|bermuda|capital|demand|firm|fund|global",
+  "fp:ask|blumenthal|business|cantor|category|custody|demand|firm|fitzgerald|inquiry",
+  "fp:141m|affiliat|alleg|bitgo|custodian|dat|discount|dwf|early|exchang"
 ]
