@@ -29149,11 +29149,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "38e68d4a306c911bf551",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T01:40:00.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Ford and JPMorgan Michigan factories is US manufacturing policy with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:34.165Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "96a772444337c2398e1a": {
       "source": "Crypto Briefing",
@@ -52332,6 +52337,13 @@
           "note": "Oil price and ceasefire commentary is commodities macro with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:32.173Z"
+        },
+        "38e68d4a306c911bf551": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Ford and JPMorgan Michigan factories is US manufacturing policy with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:34.165Z"
         }
       },
       "baselineSlugs": [
