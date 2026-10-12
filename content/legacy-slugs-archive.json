@@ -137156,5 +137156,125 @@
     "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6016480004",
     "company": "Galaxy Digital",
     "title": "Technical Program Manager"
+  },
+  "mkt104": {
+    "id": "8016694003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8016694003",
+    "company": "OKX",
+    "title": "Head of Marketing Compliance"
+  },
+  "sls278": {
+    "id": "8257711",
+    "link": "https://ripple.com/careers/all-jobs/job/8257711?gh_jid=8257711",
+    "company": "Ripple",
+    "title": "Senior Sales Manager"
+  },
+  "eng568": {
+    "id": "8209410",
+    "link": "https://ripple.com/careers/all-jobs/job/8209410?gh_jid=8209410",
+    "company": "Ripple",
+    "title": "Manager, Software Engineering"
+  },
+  "sls273": {
+    "id": "8238743",
+    "link": "https://stripe.com/jobs/search?gh_jid=8238743",
+    "company": "Stripe",
+    "title": "Account Executive, SMB Grower"
+  },
+  "qa85": {
+    "id": "744000151850939",
+    "link": "https://jobs.smartrecruiters.com/Solflare/744000151850939-senior-quality-engineer",
+    "company": "Solflare",
+    "title": "Senior Quality Engineer"
+  },
+  "mkt30": {
+    "id": "yzilabs-beaec110-8990-4b86-8733-c550ff266a08",
+    "link": "https://talent.yzilabs.com/jobs/beaec110-8990-4b86-8733-c550ff266a08",
+    "company": "De¹",
+    "title": "Growth Manager"
+  },
+  "tr120": {
+    "id": "8754684002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8754684002?gh_jid=8754684002",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher"
+  },
+  "tr119": {
+    "id": "8415898002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8415898002?gh_jid=8415898002",
+    "company": "Jane Street",
+    "title": "Quantitative Trader"
+  },
+  "eng495": {
+    "id": "8755768002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002",
+    "company": "Jane Street",
+    "title": "Windows Engineer"
+  },
+  "eng565": {
+    "id": "8700980002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer"
+  },
+  "eng564": {
+    "id": "8651286002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651286002?gh_jid=8651286002",
+    "company": "Jane Street",
+    "title": "Linux Engineer"
+  },
+  "eng563": {
+    "id": "8589868002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "eng562": {
+    "id": "8648512002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8648512002?gh_jid=8648512002",
+    "company": "Jane Street",
+    "title": "IT Operations Engineer"
+  },
+  "eng561": {
+    "id": "8643171002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8643171002?gh_jid=8643171002",
+    "company": "Jane Street",
+    "title": "Linux Engineer"
+  },
+  "sec86": {
+    "id": "8632723002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8632723002?gh_jid=8632723002",
+    "company": "Jane Street",
+    "title": "Cybersecurity Engineer"
+  },
+  "eng559": {
+    "id": "8631973002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002",
+    "company": "Jane Street",
+    "title": "Data Engineer"
+  },
+  "eng558": {
+    "id": "8617298002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8617298002?gh_jid=8617298002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "eng486": {
+    "id": "8599644002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8599644002?gh_jid=8599644002",
+    "company": "Jane Street",
+    "title": "Software Engineer"
+  },
+  "be74": {
+    "id": "4855359101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4855359101",
+    "company": "Bybit",
+    "title": "Lead Backend Development Engineer"
+  },
+  "mlr24": {
+    "id": "7246339002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/7246339002?gh_jid=7246339002",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher"
   }
 }
