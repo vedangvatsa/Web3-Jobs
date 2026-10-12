@@ -24170,34 +24170,53 @@
       ],
       "alsoCoveredBy": [],
       "id": "32a6fb4025d29d3c1e2f",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T21:21:54.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "CFTC event-contracts swaps rulemaking read in CoinDesk plus Cointelegraph corroboration; Federal Register confirmation outstanding before drafting.",
+      "reason": "verified-event",
+      "note": "Verified CFTC Oct 9 dual action - NPRM 9310-26 folding sports/politics/culture/weather event contracts into swaps plus IFR 9309-26 excluding casino wagers - matched across both CFTC releases, CoinDesk, Decrypt, CryptoSlate.",
       "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
           "outcome": "read"
         },
         {
-          "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling",
+          "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
           "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:13.129Z",
+      "reviewedAt": "2026-10-12T03:57:02.907Z",
       "articleSlug": "cftc-swaps",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ],
       "retrySearches": [
         "CFTC interim final rule event contracts swaps Federal Register October 2026"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "94b717cda7c41ca127f6": {
       "source": "CryptoSlate",
@@ -52959,6 +52978,43 @@
           ],
           "reviewedAt": "2026-10-12T03:56:57.028Z",
           "articleSlug": "thailand-etfs"
+        },
+        "32a6fb4025d29d3c1e2f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified CFTC Oct 9 dual action - NPRM 9310-26 folding sports/politics/culture/weather event contracts into swaps plus IFR 9309-26 excluding casino wagers - matched across both CFTC releases, CoinDesk, Decrypt, CryptoSlate.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9310-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9309-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:02.907Z",
+          "articleSlug": "cftc-swaps"
         }
       },
       "baselineSlugs": [
