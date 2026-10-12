@@ -29227,11 +29227,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "ff1f5afd82c5de61fdb3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T00:58:56.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Tech Titans market-cap commentary is equities opinion with no concrete crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:39.928Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "11b2be41fafa22dfa12e": {
       "source": "Crypto Briefing",
@@ -52368,6 +52373,13 @@
           "note": "Bank earnings preview tied to Anthropic IPO is equities coverage with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:37.939Z"
+        },
+        "ff1f5afd82c5de61fdb3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Tech Titans market-cap commentary is equities opinion with no concrete crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:39.928Z"
         }
       },
       "baselineSlugs": [
