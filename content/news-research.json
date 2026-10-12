@@ -28977,11 +28977,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cfed361973adc61a1041",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T02:49:04.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Bridge Data Centres loan upsize is traditional data-centre financing with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:22.420Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "4aedc3644fb15fb5808a": {
       "source": "Crypto Briefing",
@@ -52272,6 +52277,13 @@
           "note": "Maas Group/Firmus Grid IPO selloff is an Australian data-centre equity story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:20.406Z"
+        },
+        "cfed361973adc61a1041": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Bridge Data Centres loan upsize is traditional data-centre financing with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:22.420Z"
         }
       },
       "baselineSlugs": [
