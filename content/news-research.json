@@ -22149,25 +22149,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "f04ef492bcb4db52cac2",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T11:39:05.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "Zcash quantum story, same January-target event as companion; engineering post plus CoinDesk outstanding.",
-      "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:27:44.179Z",
+      "reason": "not-a-concrete-event",
+      "note": "Same January quantum-target event as 84e69493; a soft development goal with no activation.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:28.293Z",
       "retrySearches": [
         "Zakura post-quantum signature opcodes January"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "666c58700460247b690e": {
       "source": "Cointelegraph",
@@ -52769,6 +52763,13 @@
           "note": "Zcash January post-quantum target is a soft development goal with no activation or release.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:26.320Z"
+        },
+        "f04ef492bcb4db52cac2": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Same January quantum-target event as 84e69493; a soft development goal with no activation.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:28.293Z"
         }
       },
       "baselineSlugs": [
