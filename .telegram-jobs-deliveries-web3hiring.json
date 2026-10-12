@@ -2850,5 +2850,49 @@
     "slotKey": "2026-10-12:evening",
     "messageId": 16529,
     "sentAt": "2026-10-12T19:32:09.848Z"
+  },
+  "b86d18db-bc21-4989-8579-b9c38c5d8e5f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T19:32:11.408Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "key": "e18deeab-40ef-4a00-b627-d20fae6cb410",
+        "slug": "marketing4",
+        "url": "https://hashtagweb3.com/marketing4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Harmony",
+        "title": "Marketing Lead"
+      },
+      {
+        "key": "3c0c6d33-0af0-4ec8-b796-a06ef746fb12",
+        "slug": "compliance68",
+        "url": "https://hashtagweb3.com/compliance68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Paralegal"
+      },
+      {
+        "key": "7787448003",
+        "slug": "marketing150",
+        "url": "https://hashtagweb3.com/marketing150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "a16z crypto",
+        "title": "Speedrun Growth"
+      },
+      {
+        "key": "0efa86f5-3b07-40b5-92e4-7f0df54e6639",
+        "slug": "fullstack23",
+        "url": "https://hashtagweb3.com/fullstack23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Data Scientist"
+      },
+      {
+        "key": "8773051002",
+        "slug": "recruiting94",
+        "url": "https://hashtagweb3.com/recruiting94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Recruiting Coordinator"
+      }
+    ],
+    "message": "• Harmony is hiring <a href=\"https://hashtagweb3.com/marketing4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Marketing Lead</a>\n• Rain is hiring <a href=\"https://hashtagweb3.com/compliance68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Paralegal</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/marketing150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Speedrun Growth</a>\n• TRM Labs is hiring <a href=\"https://hashtagweb3.com/fullstack23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Scientist</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/recruiting94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Recruiting Coordinator</a>",
+    "slotKey": "2026-10-12:evening"
   }
 }
