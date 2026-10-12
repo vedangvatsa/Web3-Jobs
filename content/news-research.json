@@ -29514,11 +29514,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "682958f9ce0959cd0fa0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T21:43:36.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Amazon acquiring Decart is unconfirmed AI M and A rumor with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:58.693Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "1596731c885a859de64a": {
       "source": "Crypto Briefing",
@@ -52452,6 +52457,13 @@
           "note": "Michael Burry on Fannie Mae and Freddie Mac is housing-finance commentary with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:56.741Z"
+        },
+        "682958f9ce0959cd0fa0": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Amazon acquiring Decart is unconfirmed AI M and A rumor with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:58.693Z"
         }
       },
       "baselineSlugs": [
