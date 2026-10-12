@@ -21044,22 +21044,38 @@
       ],
       "alsoCoveredBy": [],
       "id": "27f81ea86adb75b79871",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T04:21:36.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "needs-corroboration",
-      "note": "XRPL delegation story not fully read though corroboration looks strong; xrpl.org blog plus CoinDesk outstanding.",
+      "reason": "verified-event",
+      "note": "Verified PermissionDelegationV1_1 live Oct 8 at ledger 107524865 plus Oct 9 Batch activations; fixCleanup vote moved 27/35 to 29/35 countdown to Oct 23 - matched across Unchained, CoinDesk, CryptoSlate, dashboard tracker, rippled issue 8534.",
       "sourceChecks": [
         {
+          "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+          "outcome": "read"
+        },
+        {
           "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://xrpldashboard.com/amendments",
+          "outcome": "read"
+        },
+        {
+          "url": "https://github.com/XRPLF/rippled/issues/8534",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:30.436Z",
-      "articleSlug": "xrpl-controls",
-      "lastReviewedDay": "2026-10-11",
+      "reviewedAt": "2026-10-12T03:57:18.344Z",
+      "articleSlug": "xrpl-delegation",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -21069,8 +21085,7 @@
       ],
       "retrySearches": [
         "XRPL PermissionDelegationV1_1 activated ledger"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "6fa8e2bd1170b0fe28bc": {
       "source": "CryptoSlate",
@@ -53156,6 +53171,35 @@
           ],
           "reviewedAt": "2026-10-12T03:57:13.110Z",
           "articleSlug": "slot-times"
+        },
+        "27f81ea86adb75b79871": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified PermissionDelegationV1_1 live Oct 8 at ledger 107524865 plus Oct 9 Batch activations; fixCleanup vote moved 27/35 to 29/35 countdown to Oct 23 - matched across Unchained, CoinDesk, CryptoSlate, dashboard tracker, rippled issue 8534.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://xrpldashboard.com/amendments",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/XRPLF/rippled/issues/8534",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:18.344Z",
+          "articleSlug": "xrpl-delegation"
         }
       },
       "baselineSlugs": [
