@@ -23105,23 +23105,23 @@
       "id": "c77ae768dd4e69dd1b66",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T17:21:07.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "HSBC-Ant AI payments story not fully read; PRNewswire release plus Cointelegraph outstanding. Preserve testnet-only framing.",
+      "note": "HSBC Ant AI-agent trial read in Cointelegraph as technical verification only - needs company announcement and second outlet.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:57.604Z",
+      "reviewedAt": "2026-10-12T04:03:59.485Z",
       "retrySearches": [
-        "HSBC Ant Digital Anvita Flow Jovay micropayment test"
+        "HSBC Ant Digital AI agent tokenized deposits announcement"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "c75de1b0ee258c6aa12c": {
       "source": "Cointelegraph",
@@ -54282,6 +54282,21 @@
           "reviewedAt": "2026-10-12T04:03:57.200Z",
           "retrySearches": [
             "Telegram Money Wallet Gram transfers collectibles announcement"
+          ]
+        },
+        "c77ae768dd4e69dd1b66": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "HSBC Ant AI-agent trial read in Cointelegraph as technical verification only - needs company announcement and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:59.485Z",
+          "retrySearches": [
+            "HSBC Ant Digital AI agent tokenized deposits announcement"
           ]
         }
       },
