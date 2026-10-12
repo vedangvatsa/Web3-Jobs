@@ -713,6 +713,9 @@
   "https://hashtagweb3.com/meanwhile-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cantor-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitgo-suit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/france-taxes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mashinsky-ban?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/papertrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2047,6 +2050,12 @@
   "Blumenthal demands Cantor records on Tether stake and custody role",
   "DWF Labs affiliates sue BitGo for $141 million",
   "DWF Labs affiliates sue BitGo for $141M over early token sales",
+  "French committee rejects budget revenue section containing crypto taxes",
+  "French crypto tax votes wiped out as committee rejects budget revenues",
+  "New York bans Alex Mashinsky from financial sectors permanently",
+  "New York bars ex-Celsius CEO Mashinsky in $35M conditional settlement",
+  "Papertrade restricts high-leverage trading following manipulation claims",
+  "Papertrade launches 1000x perps, then tightens limits after manipulation claims",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2310,5 +2319,8 @@
   "fp:allow|bug|creation|decad|developer|engin|fix|hav|ledger|mint",
   "fp:180m|375m|bain|bas|bermuda|capital|demand|firm|fund|global",
   "fp:ask|blumenthal|business|cantor|category|custody|demand|firm|fitzgerald|inquiry",
-  "fp:141m|affiliat|alleg|bitgo|custodian|dat|discount|dwf|early|exchang"
+  "fp:141m|affiliat|alleg|bitgo|custodian|dat|discount|dwf|early|exchang",
+  "fp:amendment|budget|committe|contain|debat|exit|floor|french|must|october13",
+  "fp:35m|alex|ban|bar|celsius|ceo|conditional|fac|federal|financial",
+  "fp:1000x|capp|claim|data|exchang|follow|high|hyperevm|leverag|limit"
 ]

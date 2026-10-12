@@ -1164,7 +1164,7 @@
     "sentAt": "2026-10-12T11:32:38.180Z"
   },
   "b42d8f0d-661b-4e64-b105-14e1ab0a3b69": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T19:34:07.423Z",
     "stories": [
       {
@@ -1192,6 +1192,8 @@
         "originalTitle": "Papertrade launches 1000x perps, then tightens limits after manipulation claims"
       }
     ],
-    "slotKey": "2026-10-12:evening"
+    "slotKey": "2026-10-12:evening",
+    "messageId": 155738,
+    "sentAt": "2026-10-12T19:34:10.430Z"
   }
 }
