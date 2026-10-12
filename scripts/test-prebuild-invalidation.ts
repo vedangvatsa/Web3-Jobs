@@ -84,12 +84,18 @@ test('a missing public article index is restored even when all input hashes are 
   const { root, write } = fixture(t);
   for (const script of ['sync-public-catalog-assets.sh', 'sync-public-catalog-assets.ts']) write(`scripts/${script}`, fs.readFileSync(`scripts/${script}`, 'utf8'));
   for (const file of ['jobs-runtime', 'hiring-report-stats', 'hiring-report-salary-sample', 'hiring-report-analysis-evidence']) write(`content/${file}.json`, '[]');
+  const citizenship = '{"programs":[]}';
+  write('content/citizenship.json', citizenship);
   const sync = () => execFileSync(process.execPath, ['--import', 'tsx', path.join(project, 'scripts/sync-public-catalog-assets.ts')], { cwd: root, stdio: 'pipe' });
   sync();
   const target = path.join(root, 'public/data/articles-index.json');
   fs.unlinkSync(target);
   sync();
   assert.equal(fs.readFileSync(target, 'utf8'), fs.readFileSync(path.join(root, 'content/articles-index.json'), 'utf8'));
+  assert.equal(fs.readFileSync(path.join(root, 'public/data/citizenship.json'), 'utf8'), citizenship);
+  fs.unlinkSync(path.join(root, 'content/citizenship.json'));
+  assert.throws(sync, /Command failed/, 'A missing citizenship source must fail even when its public mirror exists');
+  write('content/citizenship.json', citizenship);
   fs.unlinkSync(path.join(root, 'content/articles-index.json'));
   assert.throws(sync, /Command failed/, 'A missing source catalogue must fail instead of silently preserving a stale mirror');
 });
