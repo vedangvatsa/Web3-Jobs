@@ -29634,11 +29634,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "714683827f744dcc91ee",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T19:08:49.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "stale",
+      "note": "MAS Hyperliquid alert-list entry dates to June 26; the Oct 11 piece is a retrospective, not a new action.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:57.436Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "7edb1e3755ec9b3707b9": {
       "source": "The Defiant",
@@ -52782,6 +52787,13 @@
           "note": "Coinbase Deribit migration completed Oct 1 to 2 and announced Oct 7; outside the 72-hour window on Oct 12.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:55.229Z"
+        },
+        "714683827f744dcc91ee": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "MAS Hyperliquid alert-list entry dates to June 26; the Oct 11 piece is a retrospective, not a new action.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:57.436Z"
         }
       },
       "baselineSlugs": [
