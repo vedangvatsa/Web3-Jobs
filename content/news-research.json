@@ -22174,22 +22174,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7c128ec9ef50a3db526",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T12:04:07.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "UK sanctions piece not fully read; same FCDO package event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:03.171Z",
+      "reason": "duplicate",
+      "note": "Same FCDO Russia sanctions package drafted once as uk-sanctions.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:05.321Z",
       "duplicateOf": "uk-sanctions",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
       ],
@@ -22209,7 +22204,7 @@
         "tron-quantum.md: under 600 words",
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "4f7eedcb04b022f754db"
     },
     "3e6c54727c05c87b7baf": {
       "source": "BeInCrypto",
@@ -53498,6 +53493,15 @@
           "note": "Same FCDO Russia sanctions package drafted once as uk-sanctions.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:03.417Z",
+          "duplicateOf": "uk-sanctions",
+          "mergedInto": "4f7eedcb04b022f754db"
+        },
+        "d7c128ec9ef50a3db526": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same FCDO Russia sanctions package drafted once as uk-sanctions.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:05.321Z",
           "duplicateOf": "uk-sanctions",
           "mergedInto": "4f7eedcb04b022f754db"
         }
