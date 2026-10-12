@@ -21004,23 +21004,23 @@
       "id": "0fbcbb3af0a65dee6c5f",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T05:20:19.000Z",
       "lastSeenAt": "2026-10-09T13:02:54.990Z",
       "reason": "needs-corroboration",
-      "note": "Core Lightning patch story not fully read; GitHub release primary plus CryptoSlate outstanding.",
+      "note": "Core Lightning patch read in CryptoSlate with GitHub unopened - needs release notes and second outlet.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:26.895Z",
+      "reviewedAt": "2026-10-12T04:03:42.020Z",
       "retrySearches": [
-        "Core Lightning v26.06.9 changelog splice HTLX rune"
+        "Core Lightning v26.06.9 release notes second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "11a30808d0c23996da58": {
       "source": "The Defiant",
@@ -54177,6 +54177,21 @@
           "reviewedAt": "2026-10-12T04:03:39.973Z",
           "retrySearches": [
             "Coinbase spot margin 10x launch second outlet coverage"
+          ]
+        },
+        "0fbcbb3af0a65dee6c5f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Core Lightning patch read in CryptoSlate with GitHub unopened - needs release notes and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:42.020Z",
+          "retrySearches": [
+            "Core Lightning v26.06.9 release notes second outlet"
           ]
         }
       },
