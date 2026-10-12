@@ -26497,25 +26497,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "077977aff0f4276dba8a",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T07:44:51.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "needs-corroboration",
-      "note": "CFTC prediction-vs-gambling story is the same Oct 9 rulemaking event; draft once with the companion lead.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:59.041Z",
+      "reason": "duplicate",
+      "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:31.935Z",
       "retrySearches": [
         "CFTC event contracts swaps 9310-26 gambling exclusion October 9 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "duplicateOf": "cftc-swaps",
+      "mergedInto": "32a6fb4025d29d3c1e2f"
     },
     "745da99410c7600c61b1": {
       "source": "The Defiant",
@@ -53549,6 +53545,15 @@
           "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:29.762Z",
+          "duplicateOf": "cftc-swaps",
+          "mergedInto": "32a6fb4025d29d3c1e2f"
+        },
+        "077977aff0f4276dba8a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:31.935Z",
           "duplicateOf": "cftc-swaps",
           "mergedInto": "32a6fb4025d29d3c1e2f"
         }
