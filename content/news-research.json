@@ -25732,22 +25732,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "99fc7332526634ed7501",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T14:57:16.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
-      "reason": "source-blocked",
-      "note": "Papertrade B positions story origin blocked; no second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/defi/papertrade-draws-reported-3-billion-in-positions-in-first-hour",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:41.806Z",
+      "reason": "duplicate",
+      "note": "Same Papertrade launch cluster drafted once as papertrade.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:50.672Z",
       "articleSlug": "papertrade",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -25766,7 +25761,8 @@
       "retrySearches": [
         "Papertrade  billion positions first hour launch"
       ],
-      "nextReviewDate": "2026-10-12"
+      "duplicateOf": "papertrade",
+      "mergedInto": "6445e691f0625b1e13c9"
     },
     "09b72cc528a51c6e8237": {
       "source": "BeInCrypto",
@@ -53601,6 +53597,15 @@
           "reviewedAt": "2026-10-12T03:58:48.739Z",
           "duplicateOf": "thorchain-freeze",
           "mergedInto": "d6ebc8a19d31822069ab"
+        },
+        "99fc7332526634ed7501": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Papertrade launch cluster drafted once as papertrade.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:50.672Z",
+          "duplicateOf": "papertrade",
+          "mergedInto": "6445e691f0625b1e13c9"
         }
       },
       "baselineSlugs": [
