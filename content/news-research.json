@@ -29613,11 +29613,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "cbbc436b86c33a3ed171",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T20:09:06.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "SoftBank 100B AI fund is tech financing coverage with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:04.321Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "f11cf9b45ab7365e8b85": {
       "source": "CryptoSlate",
@@ -52488,6 +52493,13 @@
           "note": "Finance executives on AI budgets is enterprise survey coverage with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:02.498Z"
+        },
+        "cbbc436b86c33a3ed171": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "SoftBank 100B AI fund is tech financing coverage with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:04.321Z"
         }
       },
       "baselineSlugs": [
