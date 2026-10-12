@@ -59,7 +59,11 @@ export async function bufferVerify(platform: 'youtube' | 'tiktok', receipt: Rece
       post.channelService !== platform && 'platform',
       post.text !== receipt.text && 'caption',
     ].filter(Boolean);
-    if (mismatches.length) throw new Error(`Buffer receipt does not match the requested video post (${mismatches.join(', ')})`);
+    if (mismatches.length) {
+      const caption = mismatches.includes('caption') && typeof post.text === 'string'
+        ? `; caption lengths ${receipt.text.length}/${post.text.length}, whitespace-equivalent ${receipt.text.replace(/\s+/g, ' ').trim() === post.text.replace(/\s+/g, ' ').trim()}` : '';
+      throw new Error(`Buffer receipt does not match the requested video post (${mismatches.join(', ')}${caption})`);
+    }
     if (post.status === 'error') throw new Error(`Buffer publish failed — ${post.error?.message || 'unknown error'}`);
     if (post.status === 'sent' && post.externalLink) {
       const url = new URL(post.externalLink);
