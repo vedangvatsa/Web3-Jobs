@@ -1162,5 +1162,36 @@
     "slotKey": "2026-10-12:afternoon",
     "messageId": 155725,
     "sentAt": "2026-10-12T11:32:38.180Z"
+  },
+  "b42d8f0d-661b-4e64-b105-14e1ab0a3b69": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T19:34:07.423Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "French committee rejects budget revenue section containing crypto taxes",
+        "summary": "Proponents must reintroduce stablecoin and exit tax amendments for floor debates starting October 13.",
+        "link": "https://hashtagweb3.com/france-taxes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French crypto tax votes wiped out as committee rejects budget revenues"
+      },
+      {
+        "index": -1,
+        "headline": "New York bans Alex Mashinsky from financial sectors permanently",
+        "summary": "The former Celsius CEO faces $35 million in conditional payments tied to his federal forfeiture and prison sentence.",
+        "link": "https://hashtagweb3.com/mashinsky-ban?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New York bars ex-Celsius CEO Mashinsky in $35M conditional settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Papertrade restricts high-leverage trading following manipulation claims",
+        "summary": "The exchange capped new positions on HyperEVM following reports of a trader profiting from manipulated oracle price data.",
+        "link": "https://hashtagweb3.com/papertrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Papertrade launches 1000x perps, then tightens limits after manipulation claims"
+      }
+    ],
+    "slotKey": "2026-10-12:evening"
   }
 }
