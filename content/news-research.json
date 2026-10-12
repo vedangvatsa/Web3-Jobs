@@ -28918,11 +28918,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f4999ee9680431704916",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T19:31:36.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "not-a-concrete-event",
+      "note": "Solana 65 percent tokenized-equities share is a market-share data point with no concrete event; same stat as 4cfd6052.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:49.856Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "24a1d59834285a4a2cfc": {
       "source": "CryptoSlate",
@@ -52622,6 +52627,13 @@
           "note": "Solana 65 percent tokenized-equities share is a market-share data point with no concrete event; same stat as f4999ee9.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:47.928Z"
+        },
+        "f4999ee9680431704916": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Solana 65 percent tokenized-equities share is a market-share data point with no concrete event; same stat as 4cfd6052.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:49.856Z"
         }
       },
       "baselineSlugs": [
