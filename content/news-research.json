@@ -27959,23 +27959,23 @@
       "id": "6420dc2950b5016d8969",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T15:59:17.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "Kyrgyzstan USDKG liquidation not fully read; single source, needs official order plus second outlet.",
+      "note": "Kyrgyzstan USDKG order read in CryptoBriefing only - needs cabinet order text or a second outlet opened.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T18:20:53.818Z",
+      "reviewedAt": "2026-10-12T04:03:09.289Z",
       "retrySearches": [
-        "Kyrgyzstan USDKG Coin Nomad liquidation order October 2026"
+        "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "dce879b8052efc81cfa6": {
       "source": "Crypto Briefing",
@@ -53969,6 +53969,21 @@
           "reviewedAt": "2026-10-12T04:03:02.606Z",
           "retrySearches": [
             "StarkWare Starknet L1 clearest path CoinDesk coverage"
+          ]
+        },
+        "6420dc2950b5016d8969": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Kyrgyzstan USDKG order read in CryptoBriefing only - needs cabinet order text or a second outlet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:09.289Z",
+          "retrySearches": [
+            "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
           ]
         }
       },
