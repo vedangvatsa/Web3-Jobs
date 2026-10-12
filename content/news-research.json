@@ -21858,26 +21858,42 @@
       ],
       "alsoCoveredBy": [],
       "id": "f46b0c4a638dbaf5f575",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T12:23:54.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "DWF-BitGo 141M suit not fully read this round; needs filing detail plus second outlet.",
+      "reason": "verified-event",
+      "note": "Verified Oct 9 suit - DWF Maas and Falcon Digital v BitGo in London High Court for 141M over FF and ESPORTS tokens moved to exchanges two months before unlock - matched across CoinDesk, Decrypt, Unchained, CoinMarketCap Academy; FT origin paywalled.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinmarketcap.com/academy/article/dwf-labs-affiliates-sue-bitgo-141m-token-lock-up",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.ft.com/content/e08fbdee-8268-4eb8-99b4-5f7089749d59",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T18:20:05.334Z",
+      "reviewedAt": "2026-10-12T03:57:05.134Z",
       "retrySearches": [
         "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
       ],
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "duplicateOf": "bitgo-suit",
-      "nextReviewDate": "2026-10-12"
+      "articleSlug": "bitgo-suit"
     },
     "322bfa081991e4298e14": {
       "source": "BeInCrypto",
@@ -53015,6 +53031,35 @@
           ],
           "reviewedAt": "2026-10-12T03:57:02.907Z",
           "articleSlug": "cftc-swaps"
+        },
+        "f46b0c4a638dbaf5f575": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Oct 9 suit - DWF Maas and Falcon Digital v BitGo in London High Court for 141M over FF and ESPORTS tokens moved to exchanges two months before unlock - matched across CoinDesk, Decrypt, Unchained, CoinMarketCap Academy; FT origin paywalled.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/dwf-labs-affiliates-sue-bitgo-141m-token-lock-up",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ft.com/content/e08fbdee-8268-4eb8-99b4-5f7089749d59",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:05.134Z",
+          "articleSlug": "bitgo-suit"
         }
       },
       "baselineSlugs": [
