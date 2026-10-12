@@ -2342,11 +2342,12 @@
       },
       "receipts": {
         "instagram": {
-          "status": "publishing",
+          "status": "sent",
           "text": "Senior Operations Manager, Liquidity Management at OKX\n\nHong Kong\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
           "startedAt": "2026-10-12T11:32:21.351Z",
           "containerId": "17917323111461009",
-          "postId": "18011808524768912"
+          "postId": "18011808524768912",
+          "url": "https://www.instagram.com/reel/DeZIkpADsqE/"
         }
       }
     }
