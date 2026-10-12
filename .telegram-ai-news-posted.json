@@ -710,6 +710,9 @@
   "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
   "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
   "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+  "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+  "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+  "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1913,6 +1916,12 @@
   "These execs think voice AI hasn’t reached its ChatGPT moment yet",
   "Olivia Moore discusses consumer AI revenue models",
   "a16z’s Olivia Moore on the state of consumer AI",
+  "Man sentenced for AI music streaming fraud",
+  "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+  "US and China Compete to Reach the Moon",
+  "Mars may be a hellhole, but the moon is not far behind",
+  "Apple’s Rumored Smart Home Device Named HomeView",
+  "Will the HomeView be Apple’s first smart home success?",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2140,5 +2149,8 @@
   "fp:appl|audio|automat|develop|disclos|enabl|featur|hir|hux|licens",
   "fp:agent|autonomous|caus|disruption|external|filter|flood|hack|interact|openai",
   "fp:context|data|due|error|exec|executiv|hasn|issu|match|moment",
-  "fp:a16z|api|beyond|consumer|discuss|fee|incom|monthly|moor|olivia"
+  "fp:a16z|api|beyond|consumer|discuss|fee|incom|monthly|moor|olivia",
+  "fp:10k|an18|automat|bot|defendant|fraud|fraudster|generat|jail|man",
+  "fp:alongsid|are|behind|china|compet|country|far|hellhol|land|lunar",
+  "fp:appl|devic|hom|homeview|nam|product|recent|releas|reveal|rumor"
 ]

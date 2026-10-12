@@ -1137,7 +1137,7 @@
     "sentAt": "2026-10-11T19:49:06.370Z"
   },
   "c906616b-ccda-4b1d-8959-e0d0886912c1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T11:33:30.684Z",
     "stories": [
       {
@@ -1167,6 +1167,8 @@
         "originalTitle": "Will the HomeView be Apple’s first smart home success?"
       }
     ],
-    "slotKey": "2026-10-12:afternoon"
+    "slotKey": "2026-10-12:afternoon",
+    "messageId": 193336,
+    "sentAt": "2026-10-12T11:33:34.435Z"
   }
 }
