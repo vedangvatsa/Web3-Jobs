@@ -29055,11 +29055,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "dda0b8efbd9f97fc9ef8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T02:15:00.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "S and P 500 breadth note is equity market commentary with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:28.485Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "55791f3ceb468330f50f": {
       "source": "Crypto Briefing",
@@ -52308,6 +52313,13 @@
           "note": "TSMC quarterly profit expectation is semiconductor earnings with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:26.607Z"
+        },
+        "dda0b8efbd9f97fc9ef8": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "S and P 500 breadth note is equity market commentary with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:28.485Z"
         }
       },
       "baselineSlugs": [
