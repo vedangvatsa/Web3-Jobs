@@ -21986,25 +21986,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "84e69493871641eeb738",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T12:18:45.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "Zcash January quantum target is a soft dev target, not an activation; engineering post plus CoinDesk outstanding. Draft once with companion.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/zcash-node-team-targets-january-for-post-quantum-signatures-on-transparent-addresses/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:27:42.459Z",
+      "reason": "not-a-concrete-event",
+      "note": "Zcash January post-quantum target is a soft development goal with no activation or release.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:26.320Z",
       "retrySearches": [
         "Zakura post-quantum signature opcodes January"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "e66ee88be162ecda829e": {
       "source": "BeInCrypto",
@@ -52768,6 +52762,13 @@
           "note": "Bitcoin-lending 500M debut is pre-launch intent on a single source with no provider announcement.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:24.295Z"
+        },
+        "84e69493871641eeb738": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Zcash January post-quantum target is a soft development goal with no activation or release.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:26.320Z"
         }
       },
       "baselineSlugs": [
