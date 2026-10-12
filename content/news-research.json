@@ -21267,20 +21267,28 @@
       "id": "6a453769f3b6db70f125",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T10:22:47.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "needs-corroboration",
-      "note": "Pyth 100% buyback-rule story not fully read; pyth.network blog plus Unchained outstanding.",
+      "note": "Only one editorial readable so far - Unchained plus pyth.network blog and forum primary read - needs a second outlet before drafting.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.pyth.network/blog/the-100-rule-every-dollar-the-pyth-dao-earns-now-buys-pyth",
+          "outcome": "read"
+        },
+        {
+          "url": "https://forum.pyth.network/t/passed-op-pip-136-pyth-strategic-reserve-v2/2711",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:32.110Z",
+      "reviewedAt": "2026-10-12T04:02:41.752Z",
       "articleSlug": "pyth-vote",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -21289,9 +21297,9 @@
         "Draft has no ready review outcome: content/articles/wlfi-payments.md"
       ],
       "retrySearches": [
-        "Pyth OP-PIP-136 100% rule DAO vote passed"
+        "Pyth OP-PIP-136 100 percent rule second outlet coverage"
       ],
-      "nextReviewDate": "2026-10-12"
+      "nextReviewDate": "2026-10-13"
     },
     "c76300860e9b16ab3fc5": {
       "source": "Unchained",
@@ -53743,6 +53751,29 @@
           "reviewedAt": "2026-10-12T04:01:51.657Z",
           "duplicateOf": "esma-stablecoins",
           "mergedInto": "c76300860e9b16ab3fc5"
+        },
+        "6a453769f3b6db70f125": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Only one editorial readable so far - Unchained plus pyth.network blog and forum primary read - needs a second outlet before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/pyth-dao-approves-100-rule-directing-its-share-of-product-revenue-to-pyth-buybacks/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.pyth.network/blog/the-100-rule-every-dollar-the-pyth-dao-earns-now-buys-pyth",
+              "outcome": "read"
+            },
+            {
+              "url": "https://forum.pyth.network/t/passed-op-pip-136-pyth-strategic-reserve-v2/2711",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:02:41.752Z",
+          "retrySearches": [
+            "Pyth OP-PIP-136 100 percent rule second outlet coverage"
+          ]
         }
       },
       "baselineSlugs": [
