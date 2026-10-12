@@ -2760,7 +2760,7 @@
     "sentAt": "2026-10-12T11:31:55.304Z"
   },
   "7b208314-e651-46af-8102-b7fa416abbd9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T11:32:02.125Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -2801,6 +2801,8 @@
       }
     ],
     "message": "• BitGo is hiring <a href=\"https://hashtagweb3.com/sales94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Business Development Representative</a>\n• Crypto.com is hiring <a href=\"https://hashtagweb3.com/product484?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Product Designer - Predictions Market</a>\n• Block is hiring <a href=\"https://hashtagweb3.com/mgr71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Manager</a>\n• OKX is hiring <a href=\"https://hashtagweb3.com/dmlr?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Deputy Money Laundering Reporting Officer</a>\n• Stripe is hiring <a href=\"https://hashtagweb3.com/ds12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Data Scientist</a>",
-    "slotKey": "2026-10-12:afternoon"
+    "slotKey": "2026-10-12:afternoon",
+    "messageId": 119,
+    "sentAt": "2026-10-12T11:32:10.868Z"
   }
 }
