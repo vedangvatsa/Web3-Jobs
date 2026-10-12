@@ -28892,11 +28892,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4cfd6052a2769c688aab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T19:33:31.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "not-a-concrete-event",
+      "note": "Solana 65 percent tokenized-equities share is a market-share data point with no concrete event; same stat as f4999ee9.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:47.928Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "f4999ee9680431704916": {
       "source": "Crypto Briefing",
@@ -52610,6 +52615,13 @@
           "note": "Kimchi-premium bots piece is market-structure analysis with no concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:45.870Z"
+        },
+        "4cfd6052a2769c688aab": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Solana 65 percent tokenized-equities share is a market-share data point with no concrete event; same stat as f4999ee9.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:47.928Z"
         }
       },
       "baselineSlugs": [
