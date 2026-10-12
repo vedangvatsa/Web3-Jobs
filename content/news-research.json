@@ -29279,11 +29279,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "68aaaa4ed80dc7421c15",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T00:34:50.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "US restoring UK frontier-AI test access is AI policy with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:43.918Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "c5f772bc25f6ec1ed954": {
       "source": "BeInCrypto",
@@ -52392,6 +52397,13 @@
           "note": "Meta Muse app download figures are consumer-app metrics with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:41.856Z"
+        },
+        "68aaaa4ed80dc7421c15": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "US restoring UK frontier-AI test access is AI policy with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:43.918Z"
         }
       },
       "baselineSlugs": [
