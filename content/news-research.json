@@ -29751,11 +29751,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "7edb1e3755ec9b3707b9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T18:38:29.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "duplicate",
+      "note": "European implant report is the same CryptoBilis hardware-tampering event covered by ledger-implant.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:16.281Z",
+      "duplicateOf": "ledger-implant",
+      "lastReviewedDay": "2026-10-12"
     },
     "d6826c91a7585b0c727f": {
       "source": "CoinDesk",
@@ -52736,6 +52742,14 @@
           "note": "93M reseller-drain figures describe the same CryptoBilis implant campaign covered by ledger-implant.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:14.224Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "7edb1e3755ec9b3707b9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "European implant report is the same CryptoBilis hardware-tampering event covered by ledger-implant.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:16.281Z",
           "duplicateOf": "ledger-implant"
         }
       },
