@@ -27507,23 +27507,23 @@
       "id": "4f16a7b553033e9f2f33",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T18:00:02.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "needs-corroboration",
-      "note": "LDK reconnect-theft disclosure not fully read; single source, needs project advisory plus second outlet.",
+      "note": "LDK reconnect flaw read in CryptoSlate only - needs Optech newsletter and a second outlet opened.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T18:21:02.053Z",
+      "reviewedAt": "2026-10-12T04:03:30.263Z",
       "retrySearches": [
-        "LDK unpatched lightning reconnect theft disclosure October 2026"
+        "LDK 0.2.7 reconnect fix Optech second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "2480131e6223cf3240bb": {
       "source": "Crypto Briefing",
@@ -54117,6 +54117,21 @@
           "reviewedAt": "2026-10-12T04:03:28.247Z",
           "retrySearches": [
             "Kraken Maker Protection IOC cancel docs second outlet"
+          ]
+        },
+        "4f16a7b553033e9f2f33": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "LDK reconnect flaw read in CryptoSlate only - needs Optech newsletter and a second outlet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:30.263Z",
+          "retrySearches": [
+            "LDK 0.2.7 reconnect fix Optech second outlet"
           ]
         }
       },
