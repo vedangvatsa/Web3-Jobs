@@ -16312,5 +16312,70 @@
         }
       ]
     }
+  },
+  {
+    "id": "token2049-evt-YO7GY1OwI4l0QR6",
+    "name": "Get Down For Real",
+    "description": "Get Down For Real is scheduled for 15 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.\n\nSoundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-10-15T14:30:00.000Z",
+    "location": "Avenue Lounge, 10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore 018956",
+    "url": "https://luma.com/d1uqegez",
+    "registrationUrl": "https://luma.com/d1uqegez",
+    "coverImage": "/events/token2049-evt-yo7gy1owi4l0qr6-0510526b.webp",
+    "endDate": "2026-10-15T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Avenue Lounge",
+    "streetAddress": "10 Bayfront Avenue, Marina Bay Sands The Shoppes, B1-67 Level B3, main entrance on, Bayfront Ave, Level 1 behind the Sands Theatre Bus Stop, along, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Central Area",
+    "coordinates": {
+      "latitude": 1.2851522,
+      "longitude": 103.8605316
+    },
+    "hosts": [],
+    "organizer": {
+      "type": "Organization",
+      "name": "2049 Events",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/d1uqegez",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/d1uqegez",
+      "eventId": "evt-YO7GY1OwI4l0QR6",
+      "fetchedAt": "2026-10-12T11:09:41.004Z",
+      "method": "luma-api"
+    },
+    "slug": "gdr",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/d1uqegez",
+      "fetchedAt": "2026-10-12T11:09:41.004Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Get Down For Real",
+      "sha256": "83cdc1ffc2c1630f61041dfe7c6e6c321f685c18a39d13c01b94188579327cf2",
+      "evidence": [
+        {
+          "url": "https://luma.com/d1uqegez",
+          "fetchedAt": "2026-10-12T11:09:41.004Z",
+          "sha256": "fc2d22ea9db6e4af0791f615feb5efc22c6a489f7740ea991dff3ba9f245801c"
+        }
+      ]
+    }
   }
 ]

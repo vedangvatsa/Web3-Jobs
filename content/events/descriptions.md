@@ -9927,6 +9927,24 @@ Dinner buffet, finger food, first drink, karaoke and a live DJ.
 
 Registration requires host approval.
 
+<a id="event-e98e1119dccefd32"></a>
+
+## Get Down For Real
+
+- Record: `token2049-evt-YO7GY1OwI4l0QR6`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-10-15T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/d1uqegez>
+
+### About the event
+
+Get Down For Real is scheduled for 15 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+
+Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
+
+Registration requires host approval. Registration is listed as free.
+
 <a id="event-35f008becd0d9687"></a>
 
 ## Founder House Singapore 🇸🇬
@@ -55218,214 +55236,6 @@ The full lineup, vendors, and partners drop on the microsite: www.webflea.xyz
 
 Event Photo Release: By attending, you agree to be included in photographs or footage that may be used by Web Flea and partners for documentation and promotion.
 
-<a id="event-c3ef3e3b0a59f4b4"></a>
-
-## Tech Weekend September 10-11, 2026 \| Menlo Park \| Silicon Valley
-
-- Record: `luma-evt-ASQ7rv9gBfismuv`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-10T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/55ifg8h5>
-- Original page: <https://luma.com/55ifg8h5>
-
-### [VIEW THE FULL EVENT SCHEDULE HERE]
-
-https://techweekend.org/
-
-What is Tech Weekend? A 48-hour fundraising sprint by Founders Village where pre-seed to Series A founders meet dozens of investors in back-to-back meetings.
-
-### Who should attend?
-
-Pre-seed to Series B Tech Startups.
-
-Looking at the investors joining us in September, here's where their attention seems to be for this cohort
-
-▪ Physical AI - robotics, sensors, industrial automation, and the machines reshaping manufacturing, construction, and mobility.
-▪ Semiconductors and AI chips - the silicon underneath all of it.
-▪ Deep tech, defense, space tech and dual-use, alongside cybersecurity and enterprise infrastructure.
-▪ Fintech and financial services - banking technology, financial infrastructure, and the security that protects it.
-▪ Health tech and biotech - health and wellness, digital health care solutions, pharma production, oncology, and medical devices.
-▪ Climate and energy - adaptation and resilience, clean energy, electrification, batteries, and transportation.
-▪ AI, across the whole stack - infrastructure, enterprise, application layer, AI-ready data, and the work of making it safe and interpretable.
-▪ And a good number of the investors are sector agnostic, backing exceptional founders building in any industry.
-
-If you're building in any of these areas and looking for capital to scale, consider applying for Tech Weekend Cohort September 2026
-
-Across two days, Founders connect with investors through:
-
-▪ VC Office Hours: 20-30-minute one-on-one meetings with top investors who are investing in your space. At least 8 meetings are assigned to each founder with a cohort pass.
-▪ Pitch Competition: Present to a panel of active VCs. Get real-time feedback and offers to chat more offline.
-▪ VC Panels & Fireside Chats: Gain insights from investors who've deployed millions. Hear what they're looking for and how to stand out.
-▪ Networking Mixer: All-day networking mixers with founders, investors and engineers gathered from across the United States and abroad.
-
-Full event + how VC Office Hours work: https://techweekend.org/office-hours
-
-====================================================================
-
-Featured VCs at Tech Weekend September 2026
-
-Here are the September 2026 VC entries in your requested format:
-
-▪ Muffi Ghadiali, Partner, i3 Ventures - Investment Focus: Clean Tech, Transportation, Electrification, Energy. Stage: Seed.
-▪ Cris Rosales, Analyst Fellow, Desert Forge Ventures - Investment Focus: Sector Agnostic, Southern Nevada & Mountain West Startups Only. Stage: Pitch Competition Judge.
-▪ Christopher Wachuta, Venture Partner, VU Venture Partners - Investment Focus: Frontier Tech, Consumer. Stage: Pre-Seed, Seed.
-▪ Ananya Kapoor, Investor, Flex Capital - Investment Focus: Generalist. Stage: Pre-Seed, Seed.
-▪ Emma Stone, Vice President, Enable Ventures - Investment Focus: Disability Tech, Assistive Tech, Work Tech, Health Tech, EdTech, Aging Tech. Stage: Seed, Series A.
-▪ Tsuyoshi Kittaka, Partner, Toshiba Tec CVC - Investment Focus: Retail Tech, Agentic Commerce, Retail Media, AI (Application Layer), AI-Ready Data, Workflow Automation, Physical AI, Robotics, Computer Vision, Supply Chain. Stage: Pre-Seed, Seed, Series A.
-▪ Mathias Kubar, Deeptech Investor, Plug and Play Family Fund - Investment Focus: Physical AI, Manufacturing, Construction. Stage: Pre-Seed, Seed.
-▪ Bilen Essayas, Associate, Centana Growth Partners - Investment Focus: Fintech, Enterprise Software, Financial Services. Stage: Series A, Series B+.
-▪ Yury Orlovskiy, Associate, Lionheart Ventures - Investment Focus: AI Safety, Interpretability, AI Infrastructure, AI Security, Mental Health, Neurotech. Stage: Pre-Seed, Seed, Series A.
-▪ Lauren Roberts, Associate, Forum Ventures - Investment Focus: B2B, Industry Agnostic. Stage: Pre-Seed.
-▪ Nithyasri Manikandan, Senior Investments Associate, Plug and Play - Investment Focus: Health Tech. Stage: Pre-Seed, Seed.
-▪ Kara Burns, Senior Associate, MassMutual Ventures - Investment Focus: Climate Tech, North America. Stage: Seed, Series A, Series B+.
-▪ Joseph Fields, Analyst, Texas Venture Partners - Investment Focus: Defense Tech, Dual-Use. Stage: Pre-Seed, Seed, Series A.
-▪ Wynton Bastian, Associate, Alumni Ventures - Investment Focus: Sector Agnostic, Co-Investor. Stage: Seed, Series A.
-▪ Ning Sung, Investor, Sand Hill Angels - Investment Focus: Cybersecurity, AI, Machine Learning, Defense, Hi-Tech. Stage: Series A, Series B+.
-▪ Will Borthwick, Partner, BOLD Capital Partners - Investment Focus: Deep Tech, AI/ML, Robotics, Sensors, Advanced Manufacturing, Space, Healthspan.
-▪ Jai Krishnamurthy, Founder and Fund Manager, 108 Venture Capital - Investment Focus: AI, EdTech, Space Tech, Frontier Tech, Battery Tech, FemTech, Climate Tech, Health & Longevity, FoodTech, Housing Tech, Water Tech. Stage: Pre-Seed, Seed, Series A, Series B+.
-▪ John Essig, Associate, Kickstart Seed Fund - Investment Focus: Generalist, AI/SaaS, Defense Tech, Frontier Tech, FinTech, Space Tech, Mountain West. Stage: Pre-Seed, Seed.
-▪ Brooke Zhang, Investment Manager, Tailwind Futures - Investment Focus: Climate Adaptation, Climate Resilience, B2B. Stage: Pre-Seed, Seed, Series A.
-▪ Kayvan Ardalan, Member, BOND FUND - Investment Focus: AI, SaaS, Deep Tech. Stage: Pre-Seed, Seed.
-▪ Marc Basilla, Venture Partner & Scout, Advantary Capital - Investment Focus: Deep Tech, Bio/Med Tech, AI, IoT, Enterprise Cybersecurity, Industrial Automation, Mobility, Smart Spaces. Stage: Pre-Seed, Seed.
-▪ David Jee, Principal, MGV - Investment Focus: Generalist. Stage: Pre-Seed, Seed.
-▪ Adi Vashist, Principal, Deloitte Ventures - Investment Focus: AI Infrastructure. Stage: Seed, Series A, Series B+.
-▪ Kamal Singh, SVP, WestBridge Capital - Investment Focus: Enterprise AI, Health Tech. Stage: Pitch Competition Judge.
-▪ Ephraim Esson, Partner & Co-Founder, Linda Mar Ventures - Investment Focus: University Spinouts, Sector Agnostic, Deep Tech, Climate Tech. Stage: Pre-Seed, Seed.
-▪ Murali Chirala, General Partner, FalconX Ventures - Investment Focus: Deep Tech, Manufacturing Automation, Physical AI, Cybersecurity, Infrastructure. Stage: Pre-Seed, Seed.
-▪ Sabrina Martinez, Investor, Plug and Play - Investment Focus: SaaS, AI, B2B, Health, Energy, Mobility, TechBio, Deep Tech. Stage: Pre-Seed, Seed.
-▪ Maeva Kazandjian, Investment Associate, BEA Venture Fund - Investment Focus: Financial Inclusion, Health & Wellness, Sustainable Communities, Systems Change. Stage: Seed, Series A.
-▪ Samer Barakat, Managing Partner, Nanostar Ventures - Investment Focus: Embodied AI, AI Infrastructure, Robotics, Security, Foundational AI, Digital Health, Pharma Production. Stage: Pre-Seed, Seed.
-
-▪Wish He, Investor, Llama Ventures - Focus: Data, Robotics, Physical Intelligence. Stage: Seed, Series A.
-
-▪Eric Frost, GP, The New Economy Fund (Demos Fund III) - Focus: AI, Robotics, BioTech, Health, Space, Energy. Stage: Pre-Seed, Seed, Series A.
-
-▪Aseef Raihan, Investment Associate, One Small Planet - Focus: Climate Tech, Sustainable Materials, Water, Food & Ag, Energy. Stage: Seed, Series A, Series B+.
-
-▪Darshan Honale, Partner, i2VC - Focus: Vertical AI SaaS, Healthcare, Financial Services, Industrial, Infrastructure. Stage: Seed, Series A, Series B+.
-
-▪Noah Sochet, CTO / Investment Partner, Impact X Capital - Focus: Emerging Tech, AI, Enterprise Software, FinTech, Infrastructure. Stage: Seed, Series A.
-
-▪Cheryl, Principal, SBI USA - Focus: AI, Deep Tech, FinTech. Stage: Seed, Series A.
-
-▪ Belle Tangkuptanon, Associate, Uncork Capital - Focus: AI Infrastructure, B2B SaaS, Vertical AI, Healthcare. Stage: Seed.
-
-▪Jenn Wrenn Henry, Managing Partner, VentureUs - Focus: Pacific NW Founders (Generalist). Stage: Pre-Seed, Seed.
-
-▪Tony Chao, Partner, Tyche Partners - Focus: HardTech. Stage: Series A.
-
-▪Raphael Roettgen, Partner, E2MC - Focus: Space. Stage: Pre-Seed, Seed.
-
-▪Andreea Ioana, Associate, GoAhead Ventures - Focus: Generalist. Stage: Pre-Seed, Seed, Series A.
-
-▪Lawrence Lin, Associate, Arbor Ventures - Focus: FinTech (Stablecoin & Digital Asset Infrastructure, Trading Infrastructure, InsurTech). Stage: Seed, Series A.
-
-▪Takeyori Nabeta, Venture Associate, DNX Ventures - Focus: Climate Tech, Deep Tech. Stage: Seed, Series A.
-
-▪Li Ma, Deal Flow Partner, LvlUp Ventures - Focus: B2B SaaS. Stage: Pre-Seed, Seed, Series A.
-
-▪Sage Singh, Analyst, Cybernetix Ventures - Focus: Robotics, Physical AI. Stage: Pre-Seed, Seed, Series A.
-
-▪Cameron Cockerham, Venture Analyst, Boot64 Ventures - Focus: Generalist. Stage: Pre-Seed, Seed.
-
-▪Jordan Epstein, Fellow & Scout, BAG Ventures - Focus: AI Infrastructure, Robotics, BioTech & Health, Space, Energy. Stage: Pre-Seed, Seed, Series A.
-
-▪Jeffrey Lee, Associate, Red Beard Ventures - Focus: Deep Tech, Frontier Tech, Defense Tech, Robotics, AI, Crypto. Stage: Pre-Seed, Seed, Series A, Series B+.
-
-▪Kiran Parekh, Investor, HOF Capital - Focus: AI Infrastructure, Deep Tech, Frontier Technologies. Stage: Pre-Seed, Seed, Series A.
-
-▪Jared Moberg, Principal, Pruven - Focus: Enterprise Software, AI Infrastructure, Vertical AI (Insurance, FinServ, Construction). Stage: Seed, Series A, Series B+.
-
-▪Gigi Brett, Chief Investment Officer, EWOR - Focus: Generalist. Stage: Pre-Seed.
-
-▪Joe Rittenhouse, Associate, Gore Ventures - Focus: Next-Gen Batteries, Sustainable Materials, Membranes & Industrial Systems, Mobile Electronics, Sensors, Defense & Aerospace. Stage: Series A, Series B+.
-
-▪Sam Kavusi, Managing Principal, Quiet Output - Focus: Deep Tech, Infrastructure Software, Health & Life Sciences.
-
-▪Dipak Kumar, Investor, Virta Ventures - Focus: Climate Tech, Deep Tech, AI. Stage: Pre-Seed, Seed.
-
-▪Sumit Singh, Partner, Brass Ring Ventures - Focus: EdTech, Workforce Development, Financial & Health Wellbeing (AI-Driven). Stage: Seed.
-
-▪Mario Grigorov, Founding Principal, WSS - Focus: Deep Tech, HealthTech, FinTech. Stage: Seed, Series A, Series B+.
-
-▪Martin McNealis, Venture Partner, LDV Partners - Focus: Cybersecurity, AI Infrastructure, Networking. Stage: Seed, Series A.
-
-▪Chris Lee, Venture Specialist, Honda Xcelerator Ventures - Focus: Physical AI, Robotics, Mobility, Batteries, Manufacturing, Materials, Semiconductors. Stage: Seed, Series A, Series B+.
-
-▪Minsoo Chi, Partner, Spider Capital - Focus: Applied AI, Industrial Economy. Stage: Seed.
-
-▪Rajesh Karmani, Angel Investor - Focus: AI, Robotics, Deep Tech (Food, Ag, Retail). Stage: Pre-Seed, Seed.
-
-▪ Snehal, VC Analyst, Laconia Capital - Focus: Software, Enterprise Applications, FinTech, HealthTech, Retail Tech, PropTech. Stage: Pre-Seed, Seed.
-▪ Venu Anuganti, Managing Partner, Anuganti Ventures - Focus: Deep Tech, AI & Data Center Infrastructure, Agentic AI, Data & Analytics. Stage: Pre-Seed, Seed.
-▪ Naoko Hoshiya, Investment Associate, 321Catalyst (Mitsui Chemicals) - Focus: Deep Tech, Frontier Tech, SpaceTech, Advanced Materials, Semiconductors, AI Infrastructure, Data Centers, Robotics, Industrial Tech, Life Sciences. Stage: Seed, Series A, Series B+.
-▪ Jordan Wahbeh, Managing Partner, SV Venture Group - Focus: AI, Digital Health, Healthcare IT, Life Sciences, BioTech, Medical Devices, Cybersecurity, Enterprise Software, SaaS, FinTech, ClimateTech, Energy, AgTech, Space & Aerospace, Defense, Advanced Manufacturing, Robotics & Physical AI, Data Infrastructure. Stage: Seed, Series A.
-▪ Vitaly Golomb, Managing Partner, Mavka Ventures - Focus: Embodied AI, Robotics (Healthcare, Manufacturing, Logistics, Mobility, Defense). Stage: Seed.
-▪ Giao Phan, Associate, Eos Ventures - Focus: Financial Services, Insurance, Cybersecurity. Stage: Series A.
-▪ Alisha Jani, Associate, At One Ventures - Focus: Deep Tech, Climate Tech. Stage: Pre-Seed, Seed, Series A.
-▪ Henry Pham, Managing Partner, Octant Ventures - Focus: FinTech, AI, HealthTech. Stage: Seed and Series A
-
-& Industrials, Defense & Dual-Use, Hard Tech Infrastructure. Stage: Pre-Seed, Seed.
-
-▪Vik Ghai, Co-Founder & Managing Partner, G2C Venture Partners - Focus: SaaS, Agentic AI, Vertical AI, Enterprise Automation. Stage: Pre-Seed, Seed
-
-▪Michael Loginoff, Venture Partner, Cartography Capital - Focus: Early-Stage Technology.
-
-▪Varad Mohod, Investor, Zacua Ventures - Focus: Construction, Industrial, Manufacturing, Energy, Robotics. Stage: Pre-Seed, Seed, Series A
-
-▪Gleb Biserov, Venture Partner, SpringTide Ventures - Focus: HealthTech, FinTech, InvestTech. Stage: Seed.
-
-▪Ray Yamaguchi, Tech Scout, WONDERSTONE Ventures (Murata) - Focus: Generative AI, Agentic AI, Edge AI, Physical AI, Robotics, AI Sensing, Semiconductors, Industrial AI. Stage: Pre-Seed, Seed, Series A.
-
-▪Liam Ahn, Principal, Samsung Ventures - Focus: Physical AI, Robotics, Digital Health, Wearables. Stage: Series A, Series B+.
-
-▪Terry Li, Investor, Lam Research Capital - Focus: Semiconductors, Robotics, Material Science, Scientific & Industrial AI.
-
-▪David Dekel, Founding Associate, Actia Capital Partners - Focus: Deep Tech, Physical AI, Robotics, ClimateTech, Mobility. Stage: Pre-Seed, Seed.
-
-▪Manish Chamoli, Co-Founder & Managing Partner, LongGame Ventures - Focus: Longevity BioTech.
-
-▪Henry Vo, Managing Partner, VABA Venture Capital - Focus: AI, Physical AI & Robotics, Deep Tech, Climate Tech, Recycling & Circular Economy, SaaS, FinTech. Stage: Seed, Series A, Series B+.
-
-▪Darshan Honale, Partner, i2VC - Focus: Vertical AI SaaS (Healthcare, Financial Services, Industrial & Manufacturing). Stage: Pre-Seed, Seed, Series A, Series B+.
-
-▪Ben Glenney, Associate, Restive Ventures - Focus: FinTech, AI, InsurTech. Stage: Pre-Seed.
-
-▪Abhinav Gupta, Venture Associate, Riceberg Ventures - Focus: Deep Tech, Frontier Tech, Foundational AI, Robotics, Semiconductors, SpaceTech, Climate & Energy, Future of Compute, Quantum. Stage: Pre-Seed, Seed, Series A.
-
-▪Richard Smith, Partner, Mosaic - Focus: B2B, Enterprise, AI, FinTech, SportsTech, Media. Stage: Pre-Seed, Seed, Series A, Series B+.
-
-▪Sarah Romanko, Investment Team, Geek Ventures - Focus: AI, Robotics (Immigrant Founders). Stage: Pre-Seed, Seed.
-
-▪Tyson Mao, Venture Partner, MVP Ventures / Petrus Labs - Focus: SaaS, AI, Data & Infrastructure. Stage: Pre-Seed, Seed, Series A.
-
-▪Stephen Schroder, Principal, Curql Fund - Focus: B2B SaaS, AI FinTech. Stage: Series A, Series B+.
-
-[Have questions? Our AI assistant at techweekend.org](https://techweekend.org) is ready to help you instantly.
-
-### [VIEW THE FULL EVENT SCHEDULE] Here
-
-https://techweekend.org/
-
-Stay Connected
-
-Follow us on socials:
-
-[Website: Founders Village](https://beacons.ai/founders_village)
-
-[LinkedIn: Founders Village on LinkedIn](https://www.linkedin.com/company/foundersvillage/?viewAsMember=true)
-
-[Instagram: @founders.village](https://www.instagram.com/founders.village/)
-
-X (Twitter): @[foundersvillge](https://x.com/foundersvillge)
-
-[Youtube: @FoundersVillage](https://www.youtube.com/@foundersvillage)
-
-[Founders Village Bio](https://beacons.ai/founders_village)
-
-If you have any questions, feel free to email us at events@foundersvillage.co
-
 <a id="event-6476b641d78d0d23"></a>
 
 ## Blockchain Week - UNGA Edition 2026 \| 10 Days (Sept 10–19)
@@ -55518,209 +55328,6 @@ Blockchain Week 2026 (UNGA Edition) is an independent initiative and is not affi
 - Original page: <https://www.ethereumbolivia.org/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7f8cba20e54fd283"></a>
-
-## Solana Founders Day
-
-- Record: `luma-host-evt-evt-mlmGxZr5DU1XXAF`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-11T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/rqlwp4ao>
-- Original page: <https://luma.com/rqlwp4ao>
-
-### About the event
-
-[Hosted by Nora and Conta.vc](https://Conta.vc) in Florianópolis to gather founders of the Sillicon Island of Brazil and share about the Solana growing ecosystem
-
-<a id="event-9a25164188b2d385"></a>
-
-## K-AI Tech Week - Silicon Valley (SOLD OUT)
-
-- Record: `luma-evt-E7VKz9p6n6sfJ43`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-11T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/w7tae05o>
-- Original page: <https://luma.com/w7tae05o>
-
-### About the event
-
-SOLD OUT
-
-1). About K-AI Tech Week @ Silicon Valley 2026
-
-> K-AI Tech Week @ Silicon Valley, formerly known as K-Global @ Silicon Valley, is an annual conference and showcase connecting Korea's leading technology companies and startups with the global business and investment community.
-
->
-
-> This year, the event takes on a new identity with a stronger focus on AI, particularly Physical AI, highlighting the technologies and business opportunities shaping the next frontier of artificial intelligence.
-
-2). Overview
-
-- Title: K-AI Tech Week @ Silicon Valley 2026
-- Date & Time: September 11 (Friday), 10:00 AM - 6:00 PM (PDT)
-- Venue: Santa Clara Marriott Hotel, California Ballroom and Hall of Cities
-- Hosts:
-
-### KIC-SV
-
-- Attendance : 300 AI Experts and Industry Leaders
-
-The detailed program schedule will be released soon.
-
-3). Program
-
-10:00-10:30 Registration
-
-10:30-10:45 Opening Speech and Welcome Remarks
-
-10:45-11:15 Keynote Speech 1
-
-- Speech by Ken Goldberg (Distinguished Chair @ UC Berkeley)
-- Topic : Physical Intelligence : AI and Robots in ou Future
-
-11:15-11:45 Keynote Speech 2
-
-- Speech By Dong-su Kim (CEO @ LG Technology Ventures)
-- Topic : Physical AI Investment Trends and the Value Chain Landscape
-
-11:45-12:15 Keynote Speech 3
-
-- Speech by Yelin Kim (CV/ML Lead Scientist @ Amazon)
-- Topic : Physical AI in Action : Industry Adoption and Real-World Deployment
-
-12:15-14:00 Luncheon (Limited Spots Available)
-
-14:00-16:00 Korean AI Startup Pitching
-
-### Theme 4. AI Infra & Developer Tool (15:38-16:10, 3 startups)
-
-16:00-17:50 Scale-up Seminar (English subtitle)
-
-Session 1. Exit Strategies and the Different Paths to a Successful Exit (by Cathrina Min, Partner @ Covington & Burling LLP)
-
-### Session 2. 실리콘밸리에서 스케일업하기 : 기술과 경쟁력을 지키는 미국 진출 전략 (Natalie Huh, Partner @ Perspectives Law Group)
-
-Session 3. The Reality of SOC2 Compliance and the Fastest Path to Readiness (Minpyo Hong, Founder @ SEWORKS)
-
-<a id="event-1fcc5d463dccc8ca"></a>
-
-## Blockchain Week – UNGA Edition Meetup
-
-- Record: `luma-evt-Ff5oqDdAzXwdgQM`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-11T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/ioge4q0q>
-- Original page: <https://luma.com/ioge4q0q>
-
-### Location
-
-Legends Bar at Hard Rock Cafe Times Square
-
-1501 Broadway, New York, NY 10036
-
-### About the Event
-
-High-signal networking and community gathering
-
-Date & Time
-
-Friday, September 11, 2026
-
-6:00 PM - 9:00 PM EDT (America/New_York)
-
-Presented as part of Blockchain Week - UNGA Edition, this high-signal gathering is designed for builders, founders, investors, policymakers, and the broader blockchain community to connect in a meaningful way.
-
-Join us at Legends Bar - an iconic venue inside Hard Rock Cafe Times Square - for an evening of genuine conversations, fresh connections, and the unique energy that only comes from bringing together the brightest minds during UNGA and NYFW.
-
-This is a relaxed yet focused meetup. No long talks, no stage - just quality people in one of New York's most recognizable settings. Whether you're in town for the UN General Assembly, New York Fashion Week, or the full Blockchain Week lineup, this is the perfect home base to meet the community.
-
-### Who Should Attend
-
-- Blockchain builders & developers
-- Startup founders & entrepreneurs
-- Institutional investors & VCs
-- Policy leaders & regulators
-- Web3 creatives & innovators
-
-### What to Expect
-
-- High-signal networking with decision-makers and doers
-- A welcoming community atmosphere designed for relationship-building
-- Casual, open conversations in a prime Times Square venue
-
-Practical Info
-
-Dress Code: Smart casual / Creative professional
-
-Part of: Blockchain Week - UNGA Edition (Sept 10-19)
-
-Questions? Reach out to the hosts directly via Luma messenger.
-
-[RSVP Now - Secure Your Spot]
-
-Space is limited to ensure a quality networking experience.
-
-<a id="event-f02380f0cbf3413d"></a>
-
-## SuperteamBR 1 Year BBQ
-
-- Record: `luma-host-evt-evt-JGlFSP5aI8hPofa`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-11T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/superteam-epjm>
-- Original page: <https://luma.com/superteam-epjm>
-
-### About the event
-
-Há um ano, o Superteam Brasil começou uma missão: reunir os melhores talentos do país e transformar builders brasileiros em founders capazes de competir no cenário global.
-
-Desde então, foram hackathons, eventos, workshops, projetos lançados, empresas aceleradas, milhões captados e uma comunidade que não para de crescer.
-
-Nesta sexta-feira, vamos comemorar tudo isso do melhor jeito possível: juntos, com churrasco, música, boas conversas e muita gente que ajudou a construir essa história.
-
-Se você fez parte dessa jornada - ou quer fazer parte do próximo capítulo - está convidado.
-
-Um ano de Superteam Brasil. E estamos apenas começando. 🇧🇷
-
-<a id="event-c39f94325ee8a6de"></a>
-
-## The Hitchhiker’s Guide to Silicon Valley Ft. Kim Kolt & Brian Mac Mahon
-
-- Record: `luma-evt-IeQMUVoccMRtKpp`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-12T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/GuidetoSV>
-- Original page: <https://luma.com/GuidetoSV>
-
-### The Hitchhiker's Guide to Silicon Valley: A Founder's Playbook for Building the Future
-
-Join us as we feature the delicious brains of investors Kim Kolt (GP, Bay Bridge Ventures) and Brian Mac Mahon (Director, Nathan Family Office) for an unfiltered, candid conversation on what it actually takes to navigate today's shifting landscape. Forget the polished PR narratives - this session exposes the hard realities of building, funding, and exiting tech companies in the current macro climate.
-
-Key Discussion Topics
-
-- New Vehicles for Liquidity: How public markets are evolving and why Private Equity is swallowing VC, forcing founders to build for PE roll-ups and distressed AI exits instead of public listings.
-- Global Innovation Pitfalls: A direct look at regulation, capital efficiency, and why regions like the EU continue to struggle to foster high-growth tech ecosystems.
-- Cutting Through the Noise: How seasoned investors spot the fine line between a true visionary and a charismatic BS'er in under five minutes.
-- Investor Blindspots & Myths: The metrics and pitch deck elements founders obsess over that investors actually ignore when making real check-writing decisions.
-- The Silicon Valley Love-Hate Paradox: Why top investors and founders still flock to the Bay Area despite its glaring flaws, expensive overhead, and high friction.
-
-### Event Details
-
-- Date & Time: Sept 11 at 5:00PM -Private Dinner at 7:30pm
-- Location: The Park James Hotel, Menlo Park, CA
-- Speakers: Kim Kolt (Bay Bridge Ventures) & Brian Mac Mahon (Nathan Family Office)
-- Huge thanks to our sponsors:
-  - [The Park James Hotel](https://parkjames.com/?utm_source=luma) (https://parkjames.com/?utm_source=luma)- Menlo Park's #1 Luxury Hotel
-  - [TUOM](https://tuom.com/?utm_source=luma) (https://tuom.com/?utm_source=luma)- Natural formulas to balance your mood and sharpen your focus
-  - [Necodex](https://necodex.com/?utm_source=luma) - Nearshore Teams: Scale Fast with Trusted Talent
-  - [TrueBinding](http://truebinding.com/?utm_source=luma) - Blocking Galectin-3 to stop age-related inflammation. Scaling for the future while treating patients today through Expanded Access.
-  - [Banc of California](https://bancofcal.com/) - A premier business bank where relationships matter; with the financial strength, industry expertise and relationship-focused service you need to grow with confidence.
 
 <a id="event-ee2bfa9872e69d15"></a>
 
@@ -74370,6 +73977,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d73bcb7fee769601"></a>
+
+## Web3 and AI networking at The Rose & Crown
+
+- Record: `mu-316673265`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-12T18:30:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316673265/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7f7c141393e91ca0"></a>
 
 ## Defi Lending and Institutional Adoption
@@ -74379,6 +73998,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-12T18:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/8r97y7qb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-eefa5a4dfcd61b32"></a>
+
+## No Technical Cofounder? Meet Your CTO: Cody @ Silicon Valley Investing Summit
+
+- Record: `luma-evt-v2U1cFKtHapHf0w`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-12T18:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pai-nujx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74562,6 +74193,54 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a9688ccaa35580ae"></a>
+
+## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
+
+- Record: `mu-316325991`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/316325991/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-aee51db9c0b891af"></a>
+
+## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
+
+- Record: `mu-316326000`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-sf/events/316326000/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e25651b29e50f494"></a>
+
+## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
+
+- Record: `mu-316118514`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-sf/events/316118514/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-02d5a52193fa7395"></a>
+
+## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
+
+- Record: `mu-316118522`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/316118522/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-fa308e9cccdcf864"></a>
 
 ## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
@@ -74643,6 +74322,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-14T17:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/superteam-lbhe>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-eae88ee1bc390740"></a>
+
+## SF - Bitcoin Wednesdays
+
+- Record: `mu-316931185`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T17:30:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/316931185/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74752,6 +74443,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-0ecdfd47b2da0da1"></a>
+
+## Forward Vision: The Impact Lab
+
+- Record: `luma-evt-FDAyeAjNSVnjBES`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-15T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5ysyjz88>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-39ea977c63f866ea"></a>
 
 ## Polish Innovation Evening: From ideas to connections — Poland meets Silicon Valley
@@ -74761,6 +74464,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-15T00:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/7ypc8nvc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d467b682b2eb0181"></a>
+
+## SemiAnalysis Presents: Silicon After Dark @ OCP Global Summit
+
+- Record: `luma-evt-SYVG9qZE6ZTChmG`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-15T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/siliconafterdark>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74980,6 +74695,18 @@ What could take a month or two over Zoom - to really connect with people - at Mo
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5482d940eebd2262"></a>
+
+## Corte Madera - Bitcoin Meetup
+
+- Record: `mu-316893127`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-18T16:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/316893127/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9472d1a65aa6afdf"></a>
 
 ## The Digital Asset Conference IV
@@ -75042,11 +74769,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-c1fa8cc4304c704e"></a>
 
-## Ethereum Stablecoin Summit @ M20/20 Las Vegas
+## Ethereum Stablecoin Summit @ Money20/20 Las Vegas
 
 - Record: `luma-host-evt-evt-mLx787sKR84URxA`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T20:00:00.000Z
+- Starts: 2026-10-19T20:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/ethereum-stablecoin-summit>
 
@@ -75162,6 +74889,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a687c1fa9a0a134d"></a>
+
+## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
+
+- Record: `mu-316844014`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-sf/events/316844014/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-935aa8adbbd0ea76"></a>
+
+## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
+
+- Record: `mu-316844021`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/316844021/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8729da3f9e955bc5"></a>
 
 ## Arkade Day 2026
@@ -75210,6 +74961,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-80da32eceb765dbb"></a>
+
+## Fintech x Crypto
+
+- Record: `luma-host-evt-evt-rCOXkFRTs9cgPc2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T17:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/jzkyiiz8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-674ba5a4d6469ff3"></a>
 
 ## The Future Of Capital Markets
@@ -75219,6 +74982,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T07:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/the-future-of-capital-markets-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-09f98bb62ad8da77"></a>
+
+## Live AI Crypto Trading Demo + Founder Q&A
+
+- Record: `mu-316816714`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-22T11:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/carpoolcrypto/events/316816714/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -75570,6 +75345,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-96fd430b4192ab52"></a>
+
+## Peninsula - Bitcoin Meetup
+
+- Record: `mu-316898768`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-28T17:30:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/316898768/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-db54abae4b35134b"></a>
 
 ## Offline ATX: A Happy Hour by Aikido Security
@@ -75579,6 +75366,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-28T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/offline-atx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2cb8292d333762ff"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859718`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T08:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-sf/events/316859718/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -75603,6 +75402,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://conference26.tum-blockchain.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1bdad0cc6f21d0c6"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802686`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/316802686/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-50add207b63229fe"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802689`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-sf/events/316802689/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

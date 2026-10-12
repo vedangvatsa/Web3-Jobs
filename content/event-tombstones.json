@@ -192,5 +192,47 @@
       "w3security",
       "premier-w3security"
     ]
+  },
+  "luma-evt-ASQ7rv9gBfismuv": {
+    "until": "2027-10-12T11:09:32.148Z",
+    "slugs": [
+      "luma-evt-asq7rv9gbfismuv",
+      "tws11"
+    ]
+  },
+  "luma-evt-E7VKz9p6n6sfJ43": {
+    "until": "2027-10-12T11:09:32.148Z",
+    "slugs": [
+      "luma-evt-e7vkz9p6n6sfj43",
+      "katwsvso"
+    ]
+  },
+  "luma-host-evt-evt-mlmGxZr5DU1XXAF": {
+    "until": "2027-10-12T11:09:32.148Z",
+    "slugs": [
+      "luma-host-evt-evt-mlmgxzr5du1xxaf",
+      "sfd"
+    ]
+  },
+  "luma-evt-Ff5oqDdAzXwdgQM": {
+    "until": "2027-10-12T11:09:32.148Z",
+    "slugs": [
+      "luma-evt-ff5oqddazxwdgqm",
+      "bwuem"
+    ]
+  },
+  "luma-host-evt-evt-JGlFSP5aI8hPofa": {
+    "until": "2027-10-12T11:09:32.148Z",
+    "slugs": [
+      "luma-host-evt-evt-jglfsp5ai8hpofa",
+      "s1yb"
+    ]
+  },
+  "luma-evt-IeQMUVoccMRtKpp": {
+    "until": "2027-10-12T11:09:32.148Z",
+    "slugs": [
+      "luma-evt-ieqmuvoccmrtkpp",
+      "hgsvfkkbmm"
+    ]
   }
 }

@@ -1280,88 +1280,11 @@
     ]
   },
   {
-    "name": "Tech Weekend September 10-11, 2026 | Menlo Park | Silicon Valley",
-    "url": "https://lu.ma/55ifg8h5",
-    "emails": [
-      "events@foundersvillage.co"
-    ],
-    "event": {
-      "id": "luma-evt-ASQ7rv9gBfismuv",
-      "name": "Tech Weekend September 10-11, 2026 | Menlo Park | Silicon Valley",
-      "description": "",
-      "startDate": "2026-09-10T16:00:00.000Z",
-      "endDate": "2026-09-12T03:00:00.000Z",
-      "city": "Menlo Park",
-      "country": "United States",
-      "location": "Menlo Park, United States",
-      "url": "https://lu.ma/55ifg8h5",
-      "coverImage": "https://images.lumacdn.com/uploads/5i/338162e8-7065-4286-b3b9-509b9bd878b6.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
     "name": "K-AI Tech Week @ Silicon Valley (aka. K-Global 2026 @ Silicon Valley)",
     "url": "https://lu.ma/7thnmyav",
     "emails": [
       "press@google.com"
-    ],
-    "event": {
-      "id": "luma-evt-P6BVfWKsDIRrG7y",
-      "name": "K-AI Tech Week @ Silicon Valley (aka. K-Global 2026 @ Silicon Valley)",
-      "description": "",
-      "startDate": "2026-09-11T16:00:00.000Z",
-      "endDate": "2026-09-12T00:00:00.000Z",
-      "city": "Santa Clara",
-      "country": "United States",
-      "location": "Santa Clara, United States",
-      "url": "https://lu.ma/7thnmyav",
-      "coverImage": "https://images.lumacdn.com/uploads/0l/9c24539d-bb42-487a-8cdd-75977d03b8ef.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "K-AI Tech Week - Silicon Valley (SOLD OUT)",
-    "url": "https://lu.ma/w7tae05o",
-    "emails": [
-      "press@google.com"
-    ],
-    "event": {
-      "id": "luma-evt-E7VKz9p6n6sfJ43",
-      "name": "K-AI Tech Week - Silicon Valley (SOLD OUT)",
-      "description": "",
-      "startDate": "2026-09-11T16:00:00.000Z",
-      "endDate": "2026-09-12T00:00:00.000Z",
-      "city": "Santa Clara",
-      "country": "United States",
-      "location": "Santa Clara, United States",
-      "url": "https://lu.ma/w7tae05o",
-      "coverImage": "https://images.lumacdn.com/uploads/5b/3676875e-1f7e-457b-9d06-61d4521aafb2.png",
-      "source": "luma",
-      "month": "September 2026"
-    }
-  },
-  {
-    "name": "Solana Founders Day",
-    "url": "https://lu.ma/rqlwp4ao",
-    "emails": [
-      "press@google.com"
-    ],
-    "event": {
-      "id": "luma-host-evt-evt-mlmGxZr5DU1XXAF",
-      "name": "Solana Founders Day",
-      "description": "",
-      "startDate": "2026-09-11T16:00:00.000Z",
-      "endDate": "2026-09-11T23:00:00.000Z",
-      "city": "Florianópolis",
-      "country": "Brazil",
-      "location": "Florianópolis, Brazil",
-      "url": "https://lu.ma/rqlwp4ao",
-      "coverImage": "https://images.lumacdn.com/uploads/44/3db54a90-0427-4485-b9d4-8d0ca09bbccd.png",
-      "source": "luma-trusted",
-      "month": "September 2026"
-    }
+    ]
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: ONLINE",
