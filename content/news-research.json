@@ -23725,26 +23725,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "625750d26ecc321a617e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T13:24:12.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "DWF-BitGo suit piece not fully read; same 141M event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:09.711Z",
+      "reason": "duplicate",
+      "note": "Same DWF-BitGo 141M suit drafted once as bitgo-suit.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:59:25.450Z",
       "duplicateOf": "bitgo-suit",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "f46b0c4a638dbaf5f575"
     },
     "086f433689c7a72fd7a9": {
       "source": "The Block",
@@ -53670,6 +53665,15 @@
           "note": "Same DWF-BitGo 141M suit drafted once as bitgo-suit.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:59:23.531Z",
+          "duplicateOf": "bitgo-suit",
+          "mergedInto": "f46b0c4a638dbaf5f575"
+        },
+        "625750d26ecc321a617e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same DWF-BitGo 141M suit drafted once as bitgo-suit.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:59:25.450Z",
           "duplicateOf": "bitgo-suit",
           "mergedInto": "f46b0c4a638dbaf5f575"
         }
