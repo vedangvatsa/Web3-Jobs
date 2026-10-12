@@ -28925,11 +28925,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "09f0a8467e9dcdd3157d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T03:26:07.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "IMF chief on AI demand is macro commentary with no Web3 event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:16.182Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "b94063542ff65e10ebaa": {
       "source": "Crypto Briefing",
@@ -52248,6 +52253,13 @@
           "note": "OpenAI GPT model context-length change is non-crypto AI product news with no Web3 event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:38:28.893Z"
+        },
+        "09f0a8467e9dcdd3157d": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "IMF chief on AI demand is macro commentary with no Web3 event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:16.182Z"
         }
       },
       "baselineSlugs": [
