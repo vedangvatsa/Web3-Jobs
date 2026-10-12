@@ -26879,22 +26879,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "24c7455649a5f41e652d",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T11:31:24.998Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T10:24:32.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "France exit-tax piece not fully read; single source, needs assembly record plus second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/france-crypto-exit-tax-unsold-gains/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:51.160Z",
+      "reason": "duplicate",
+      "note": "Same France budget crypto-tax arc drafted once as france-taxes.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:44.783Z",
       "articleSlug": "france-tax",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
@@ -26903,7 +26898,8 @@
       "retrySearches": [
         "France stablecoin swap tax exit tax budget 2027 assembly vote October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "duplicateOf": "france-taxes",
+      "mergedInto": "19357b6f78dfafe2a59e"
     },
     "a7b57bc4b5b3bee0940b": {
       "source": "The Defiant",
@@ -53584,6 +53580,15 @@
           "note": "Same France budget crypto-tax arc drafted once as france-taxes.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:42.775Z",
+          "duplicateOf": "france-taxes",
+          "mergedInto": "19357b6f78dfafe2a59e"
+        },
+        "24c7455649a5f41e652d": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same France budget crypto-tax arc drafted once as france-taxes.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:44.783Z",
           "duplicateOf": "france-taxes",
           "mergedInto": "19357b6f78dfafe2a59e"
         }
