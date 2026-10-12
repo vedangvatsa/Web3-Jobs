@@ -1,5 +1,5 @@
 {
-  "lastIndex": 390,
+  "lastIndex": 398,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -180,7 +180,9 @@
     "ewps",
     "mkt73",
     "fvfs",
-    "sls218"
+    "sls218",
+    "eng106",
+    "cp3"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5419,498 +5421,6 @@
       "verification": "verified"
     },
     {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "0xc94f0fb107b1876482f837b08c4291bc828f9351",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "0x2a681fc712c46407632dcc63a6e0df11f5048083",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "0x8b7f735da32b1140151e53bfa80a3476c4f1771c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "0x1eef689b54abe0c4fa3f3e84e3968f5f7649bc41",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "0xe8bb370dc8e95907f9ec5113725e98e34157cb27",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "6ac69e3c66aa35478820a12f",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "6ac69e474b237fa33e446b35",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "urn:li:share:7513682706648477696",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm191",
-      "company": "OKX",
-      "title": "Principal Product Manager - Simple Trading",
-      "platform": "facebook",
-      "postedAt": "2026-10-07T19:31:52.990Z",
-      "postId": "691827047618629_1109193375021230",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "x",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "6ac69e5f05769b096e4029af",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Chainalysis is hiring Deployment Strategist - Crypto Investigations\n\nhttps://hashtagweb3.com/dsci/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2107917069907828932"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "threads",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "18113061242166315",
-      "verification": "verified",
-      "expectedText": "Chainalysis is hiring Deployment Strategist - Crypto Investigations: https://hashtagweb3.com/dsci/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeNHkmHm_L4",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "bluesky",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxcoriebx62c",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x16906b5f80e8c0d8a7e200323b80e544cc807040",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x68b022221461ce2453426546a97e0d18aaa0af9b",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x1925f3cd2722b73ac1c2bb18882e2ddcfe04c9d3",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0xb190bc108f794ff032be33a5c3e0b15fe48c62bc",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x74d9d9fb3fbc7ba813c3f5807af74cd37937c429",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x7725e72258a75e8e1f7ba61784901df93cce7259",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x66d5ec66e3a6c8403be5fce96f10c0b6f7dde57c",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x9636032f62ab024df57568f75e6a93370bec868a",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x4746d72c0ffdcd97ec10b2b08e017ff11b811e16",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x080acf41d8afd6b82cf32469e42468ab62116ea2",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0xc4f8d1cb9e7f48e9f8cfabe17f540d803a9c4c84",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0xe358dd374e2882017e2b276d710f378e6c6d094c",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0xa3d35cf5e6917ebb50990b3755f844662b014daa",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x4eb8848c19c6fc9f322cd0b26db060828a7f6720",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0xe1d651612eedee25604a0ea82cd615af13d5e90d",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x2bdd601d5fc42d0b8b4d3b0a552c74839630c012",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "farcaster",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "0x68bfbf50d780e7e7610b107b7e1d7505bae7f86b",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "6ac69e7105769b096e402d96",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "6ac69e7b819a4d01246c64dc",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "linkedin",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "urn:li:share:7513682926585405441",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "dsci",
-      "company": "Chainalysis",
-      "title": "Deployment Strategist - Crypto Investigations",
-      "platform": "facebook",
-      "postedAt": "2026-10-07T19:32:46.773Z",
-      "postId": "691827047618629_1109193868354514",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "x",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "6ac71c465632f7b74bdb92e5",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Ripple is hiring Physical Security Manager, APAC/MENA\n\nhttps://hashtagweb3.com/sec13/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108052258600427729"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "threads",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "17879796804544590",
-      "verification": "verified",
-      "expectedText": "Ripple is hiring Physical Security Manager, APAC/MENA: https://hashtagweb3.com/sec13/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeOFDIzm0Cw",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "bluesky",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxdms2fde32r",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xd0890c70b62d32e5bbbc737982b2cb3b930a34e3",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0x137a7b34b970335eab64be652c6e5de9e7158ede",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0x033c6b2db320338d30beb2f7fe91d3502bae3beb",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xedba5a253c95a6f268b790ff5c8712b272a7ebbd",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0x22dec9f5238f6d30d67d174fa5d1db253f7e1862",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xd048f01a4ce1a424f0d2f3638c93b61284d9c6b4",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xf4ff576d8f26a04ba13c2621e598757f5fee83de",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xb82fcb7bcbcaf6e467ada92b2e71c48c0809e1c4",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0x306c7e74615d2c52b91b9d56010dc010c9e0bea5",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xafdc6ca9d5f1d1bab213538cab0f103ad9ba8fbd",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xecbaac7412bacf6dddc1555d01f690f07c5f3cc8",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xd02bb36f864d4857cd110f60517ed65c24e104f2",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "sec13",
       "company": "Ripple",
       "title": "Physical Security Manager, APAC/MENA",
@@ -10182,6 +9692,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-11T19:47:30.589Z",
       "postId": "691827047618629_1112815734658994",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "6acc62ec63ff33d8c9a807b4",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Circle is hiring Staff Software Engineer\n\nhttps://hashtagweb3.com/eng106/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109502505457500205"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "17983040795990796",
+      "verification": "verified",
+      "expectedText": "Circle is hiring Staff Software Engineer: https://hashtagweb3.com/eng106/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeYYi_uke1Q",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxnosslllw2g",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0xc490a100590198a2046482e1013833f63c54fa8c",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x3723d7461171e67bfcea090338e4872c80adf624",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0xb85aa661fb40e7c61cae65fa844bc61d988e6fb3",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x1116311415b7812b524cd7cbb6296472d8a337ee",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x3b075f0f17c1e709e5490917aab5e857bdf822bf",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x63dc0ce0e874fe25ed8a0b71fc6a5007922f0eed",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0xd0d019e9447b9c06da815a43df5c91768ec611c5",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x5e80b19c71bd448ff17bf10f9fa311997b092e04",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0xa2a97ab72fc6e05e6f0e680fc57fbfebb4814072",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x6193f0711507eb6488af02deedae443d84ba681e",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x9fc12994f44eea48c988219474a0314b924bc042",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0xc60a744116172df3c872e210995328f77f63bfc8",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x2159ca71abe0aeb826f11f482c74798349acab5f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x07b5e613cdf6070b36b11a9b3b557a63fe16c112",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0xd48d21010d1c659ae3a63875530fa0ae789f79d3",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x812d70c92f00b4e22a443ac4249313981814d908",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "0x097fa27a58c37b9d28301a30b9715bbe60d5573e",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "6acc6302ea568e911a509716",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "6acc630d63ff33d8c9a80acf",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "urn:li:share:7515268379364986881",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng106",
+      "company": "Circle",
+      "title": "Staff Software Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-12T04:32:43.942Z",
+      "postId": "691827047618629_1113121664628401",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "x",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "6acc63218e8dd50ffc683caa",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "CoinDesk is hiring Creative Producer\n\nhttps://hashtagweb3.com/cp3/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109502727436792296"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "threads",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "18096877607401002",
+      "verification": "verified",
+      "expectedText": "CoinDesk is hiring Creative Producer: https://hashtagweb3.com/cp3/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeYYpXjkdxf",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxnoubvgdk2j",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0xa161bea97acf81fea7abcad8954adb993251e3bb",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0xdae4781bcb615d9690cce20492a5c52caa7a7867",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x0db4900c479983caf2e3dcfe40311257309c9798",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x96293db0ed4c3edc443ca947953fe2a6c17ee3f0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x05445b799106187632a65f32b2b6a9ecd666254c",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0xe7480824918265c54b0bcbfa97357b8e15db620c",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x59721bf75b0e4918f25584d9a543f83334110ed1",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x327a606ca458e573eaa4bb20c38fb56a52b1cc4b",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0xf1dce6a65a16ef6a04dc85e534601478f721df7c",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x538f4f1e5b1602b15bcfd5d3381796ac91eb6a5a",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x7dcbf3c332d0e0d14778c55285134d165dfe47fd",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x3b5c0498142753682ac6e0bdf2db1ea1602a5861",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x9281933b2c76141e447fc9095d9eb9c5250bf9b9",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0xc22c03ad343223a86f25a9f639c1cc58ad83565e",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0xc9f1930394f05b374ffd0ace6c55bc28ffe602ee",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0x653ccd9f023eac5a64bd136ef34de8e187d5e33d",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "0xb1c422cdc8c92588c1675570f03fa65b4b3fea74",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "6acc63347db619a2915ad3e7",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "6acc633ea9411fbcc56d0ac4",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "urn:li:share:7515268586026770432",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp3",
+      "company": "CoinDesk",
+      "title": "Creative Producer",
+      "platform": "facebook",
+      "postedAt": "2026-10-12T04:33:36.975Z",
+      "postId": "691827047618629_1113122167961684",
       "verification": "verified"
     }
   ]
