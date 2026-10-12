@@ -1129,5 +1129,36 @@
     "slotKey": "2026-10-11:evening",
     "messageId": 155720,
     "sentAt": "2026-10-11T19:47:36.391Z"
+  },
+  "70d8db5c-f630-4d43-a3fa-e59b6fe950d6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T11:32:34.811Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Meanwhile raises $37.5 million led by Bain Capital Crypto",
+        "summary": "Total funding surpassed $180 million as global demand grows for the Bermuda-based firm's Bitcoin life insurance.",
+        "link": "https://hashtagweb3.com/meanwhile-raise?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitcoin insurer Meanwhile raises $37.5M led by Bain Capital Crypto"
+      },
+      {
+        "index": -1,
+        "headline": "Senator Blumenthal Seeks Cantor Fitzgerald Records on Tether",
+        "summary": "The inquiry asks for thirteen categories of records regarding the firm's Tether business and Lutnick family profits.",
+        "link": "https://hashtagweb3.com/cantor-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blumenthal demands Cantor records on Tether stake and custody role"
+      },
+      {
+        "index": -1,
+        "headline": "DWF Labs affiliates sue BitGo for $141 million",
+        "summary": "The lawsuit alleges the custodian moved discounted tokens to exchanges two months before their scheduled unlock date.",
+        "link": "https://hashtagweb3.com/bitgo-suit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DWF Labs affiliates sue BitGo for $141M over early token sales"
+      }
+    ],
+    "slotKey": "2026-10-12:afternoon"
   }
 }
