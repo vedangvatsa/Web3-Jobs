@@ -28840,11 +28840,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "369f2cee7e886c941150",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T22:50:19.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "not-a-concrete-event",
+      "note": "Evernorth five-things explainer previews a possible Nasdaq listing with no filing, vote or launch.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:44.050Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "74c93549759deb362095": {
       "source": "BeInCrypto",
@@ -52586,6 +52591,13 @@
           "note": "Hodlers Digest is a weekly roundup column with no single concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:42.067Z"
+        },
+        "369f2cee7e886c941150": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Evernorth five-things explainer previews a possible Nasdaq listing with no filing, vote or launch.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:44.050Z"
         }
       },
       "baselineSlugs": [
