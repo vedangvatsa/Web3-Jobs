@@ -24849,25 +24849,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "74519b6c7c74b6d87aef",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-12T23:30:53.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Tether TRON-vault freeze story corroborated via search but origin never fully read; full reads plus draft outstanding.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:28.532Z",
+      "reason": "duplicate",
+      "note": "Same Tether THORChain vault freeze drafted once as thorchain-freeze.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:48.739Z",
       "retrySearches": [
         "Tether THORChain 1.45M USDT vault freeze Barraford Cointelegraph"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "duplicateOf": "thorchain-freeze",
+      "mergedInto": "d6ebc8a19d31822069ab"
     },
     "0721db32299c4fabf108": {
       "source": "CoinDesk",
@@ -53594,6 +53590,15 @@
           "note": "Same Tether THORChain vault freeze drafted once as thorchain-freeze.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:46.745Z",
+          "duplicateOf": "thorchain-freeze",
+          "mergedInto": "d6ebc8a19d31822069ab"
+        },
+        "74519b6c7c74b6d87aef": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Tether THORChain vault freeze drafted once as thorchain-freeze.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:48.739Z",
           "duplicateOf": "thorchain-freeze",
           "mergedInto": "d6ebc8a19d31822069ab"
         }
