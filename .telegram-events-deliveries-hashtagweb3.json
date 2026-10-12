@@ -1588,5 +1588,51 @@
     "slotKey": "2026-10-11:evening",
     "messageId": 155719,
     "sentAt": "2026-10-11T19:47:17.031Z"
+  },
+  "76ad373f-4505-4c24-a982-d746a4984a1e": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T19:32:18.941Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-3zOciZsW9mZvoY0",
+        "slug": "lqrbtu27",
+        "name": "U-Hackathon 2026",
+        "startDate": "2026-10-15T03:00:00.000Z",
+        "keys": [
+          "luma-batch-3zocizsw9mzvoy0",
+          "page:lqrbtu27:2026-10-15",
+          "luma:evt-3zocizsw9mzvoy0",
+          "luma-url:/lqrbtu27",
+          "event:uhackathon2026:2026-10-15:bangkok"
+        ]
+      },
+      {
+        "id": "premier-blockchain-africa-2026",
+        "slug": "blockchain-africa",
+        "name": "Blockchain Africa Conference 2026",
+        "startDate": "2026-10-15T09:00:00+02:00",
+        "keys": [
+          "premier-blockchain-africa-2026",
+          "page:blockchain-africa:2026-10-15",
+          "event:blockchainafricaconference2026:2026-10-15:johannesburg"
+        ]
+      },
+      {
+        "id": "luma-crypto-yB1Ga9TIhcXOMJA",
+        "slug": "stablecoin2",
+        "name": "Stablecoin Connect: Panel & Mixer",
+        "startDate": "2026-10-15T15:00:00.000Z",
+        "keys": [
+          "luma-crypto-yb1ga9tihcxomja",
+          "page:stablecoin2:2026-10-15",
+          "luma:evt-yb1ga9tihcxomja",
+          "luma-url:/stablecoinconnectsolanaaquanowuniversal",
+          "event:stablecoinconnectpanelmixer:2026-10-15:"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-12:evening"
   }
 }
