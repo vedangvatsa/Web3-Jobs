@@ -22311,23 +22311,23 @@
       "id": "666c58700460247b690e",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T10:49:24.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
       "reason": "needs-corroboration",
-      "note": "ESMA tokenized-collateral call for evidence is a consultation launch; ESMA release plus cryptobriefing outstanding.",
+      "note": "ESMA collateral consultation read in Cointelegraph with ESMA page in search only - needs ESMA release and second outlet.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:45.884Z",
+      "reviewedAt": "2026-10-12T04:03:55.220Z",
       "retrySearches": [
-        "ESMA call for evidence CCP collateral tokenisation"
+        "ESMA CCP collateral tokenisation call for evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "d35dc079e9465772ed59": {
       "source": "BeInCrypto",
@@ -54252,6 +54252,21 @@
           "reviewedAt": "2026-10-12T04:03:53.356Z",
           "retrySearches": [
             "Aero Aerodrome Velodrome merger October 21 second outlet"
+          ]
+        },
+        "666c58700460247b690e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "ESMA collateral consultation read in Cointelegraph with ESMA page in search only - needs ESMA release and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:55.220Z",
+          "retrySearches": [
+            "ESMA CCP collateral tokenisation call for evidence second outlet"
           ]
         }
       },
