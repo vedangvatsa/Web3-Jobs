@@ -21899,23 +21899,27 @@
       "id": "26b6d0643da1b0aa72ca",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T13:02:54.990Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T12:36:56.000Z",
       "lastSeenAt": "2026-10-09T23:24:36.621Z",
-      "reason": "needs-corroboration",
-      "note": "Gate-Visa card story not fully read; gate.com announcement plus one outlet outstanding.",
+      "reason": "source-blocked",
+      "note": "Gate-Visa card known only via search mirrors - queued outlet and gate.com both 403 - needs an openable primary or second outlet.",
       "sourceChecks": [
         {
           "url": "https://beincrypto.com/gate-partners-with-visa-crypto-card/",
           "outcome": "blocked"
+        },
+        {
+          "url": "https://www.gate.com/announcements/article/102107",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:40.779Z",
+      "reviewedAt": "2026-10-12T04:02:43.888Z",
       "retrySearches": [
-        "Gate Visa crypto card 40 markets announcement"
+        "Gate Visa crypto card 40 markets GlobeNewswire announcement"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "f46b0c4a638dbaf5f575": {
       "source": "CoinDesk",
@@ -53773,6 +53777,25 @@
           "reviewedAt": "2026-10-12T04:02:41.752Z",
           "retrySearches": [
             "Pyth OP-PIP-136 100 percent rule second outlet coverage"
+          ]
+        },
+        "26b6d0643da1b0aa72ca": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Gate-Visa card known only via search mirrors - queued outlet and gate.com both 403 - needs an openable primary or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/gate-partners-with-visa-crypto-card/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.gate.com/announcements/article/102107",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:02:43.888Z",
+          "retrySearches": [
+            "Gate Visa crypto card 40 markets GlobeNewswire announcement"
           ]
         }
       },
