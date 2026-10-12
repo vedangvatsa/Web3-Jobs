@@ -29407,11 +29407,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "33553c38ccc1ed437e74",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T23:50:00.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "duplicate",
+      "note": "Tampered-Ledger-beyond-Asia angle covers the same reseller-implant campaign as ledger-implant.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:18.296Z",
+      "duplicateOf": "ledger-implant",
+      "lastReviewedDay": "2026-10-12"
     },
     "f7f3f20f58fa4705b6f4": {
       "source": "Crypto Briefing",
@@ -52750,6 +52756,14 @@
           "note": "European implant report is the same CryptoBilis hardware-tampering event covered by ledger-implant.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:16.281Z",
+          "duplicateOf": "ledger-implant"
+        },
+        "33553c38ccc1ed437e74": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Tampered-Ledger-beyond-Asia angle covers the same reseller-implant campaign as ledger-implant.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:18.296Z",
           "duplicateOf": "ledger-implant"
         }
       },
