@@ -24746,26 +24746,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "6cbacd263bba4dccfcf3",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-13T00:53:09.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
-      "reason": "needs-corroboration",
-      "note": "Meanwhile raise piece not fully read; same funding event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:19:48.131Z",
+      "reason": "duplicate",
+      "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:22.107Z",
       "retrySearches": [
         "Meanwhile bitcoin insurer 37.5M Bain Capital Crypto round announcement October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "duplicateOf": "meanwhile-funding",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "duplicateOf": "meanwhile-raise",
+      "mergedInto": "2a7c81f07dc6e3b3eb0f"
     },
     "4f83e5b1709ca0afd2d9": {
       "source": "CryptoSlate",
@@ -53528,6 +53523,15 @@
           "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:20.208Z",
+          "duplicateOf": "meanwhile-raise",
+          "mergedInto": "2a7c81f07dc6e3b3eb0f"
+        },
+        "6cbacd263bba4dccfcf3": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Meanwhile 37.5M raise drafted once as meanwhile-raise.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:22.107Z",
           "duplicateOf": "meanwhile-raise",
           "mergedInto": "2a7c81f07dc6e3b3eb0f"
         }
