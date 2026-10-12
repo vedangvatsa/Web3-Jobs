@@ -29373,11 +29373,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7f3f20f58fa4705b6f4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T23:17:15.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI election-deepfake safeguards are AI policy with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:52.858Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "6c098f19ac82b8b430a9": {
       "source": "Crypto Briefing",
@@ -52416,6 +52421,13 @@
           "note": "NYU professor warning about ChatGPT ideas is AI opinion with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:45.813Z"
+        },
+        "f7f3f20f58fa4705b6f4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI election-deepfake safeguards are AI policy with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:52.858Z"
         }
       },
       "baselineSlugs": [
