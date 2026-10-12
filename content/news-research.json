@@ -28522,11 +28522,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f5bdf74ccc0550a1f8a4",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T18:43:10.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "opinion",
+      "note": "CFTC plan faces scrutiny after Loper Bright is legal analysis with no new agency action.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:53.887Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "7990b85f2141841913d2": {
       "source": "The Block",
@@ -52646,6 +52651,13 @@
           "note": "XRP Wall Street expansion teaser names no filing, launch or ruling to verify.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:51.788Z"
+        },
+        "f5bdf74ccc0550a1f8a4": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "CFTC plan faces scrutiny after Loper Bright is legal analysis with no new agency action.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:53.887Z"
         }
       },
       "baselineSlugs": [
