@@ -2852,7 +2852,7 @@
     "sentAt": "2026-10-12T19:32:09.848Z"
   },
   "b86d18db-bc21-4989-8579-b9c38c5d8e5f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T19:32:11.408Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -2893,6 +2893,8 @@
       }
     ],
     "message": "• Harmony is hiring <a href=\"https://hashtagweb3.com/marketing4?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Marketing Lead</a>\n• Rain is hiring <a href=\"https://hashtagweb3.com/compliance68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Paralegal</a>\n• a16z crypto is hiring <a href=\"https://hashtagweb3.com/marketing150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Speedrun Growth</a>\n• TRM Labs is hiring <a href=\"https://hashtagweb3.com/fullstack23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Senior Data Scientist</a>\n• Jane Street is hiring <a href=\"https://hashtagweb3.com/recruiting94?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring\">Recruiting Coordinator</a>",
-    "slotKey": "2026-10-12:evening"
+    "slotKey": "2026-10-12:evening",
+    "messageId": 120,
+    "sentAt": "2026-10-12T19:32:13.743Z"
   }
 }
