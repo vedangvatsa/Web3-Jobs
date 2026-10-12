@@ -25967,20 +25967,20 @@
       "id": "9c567295b2e6ca362468",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T11:52:14.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
       "reason": "needs-corroboration",
-      "note": "Tron post-quantum testnet story corroborated via search; full reads plus draft outstanding.",
+      "note": "Sun testnet claim read in Cointelegraph and CryptoBriefing but no Tron DAO primary opened - needs TIP-899 or Nile release record.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:47.052Z",
+      "reviewedAt": "2026-10-12T04:02:47.799Z",
       "articleSlug": "tron-quantum",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -25997,9 +25997,9 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "TRON FN-DSA testnet TIP-899 audit mainnet Justin Sun"
+        "Tron post-quantum Nile testnet TIP-899 mainnet date Tron DAO"
       ],
-      "nextReviewDate": "2026-10-12"
+      "nextReviewDate": "2026-10-13"
     },
     "df8a1456b3ab8dd0bda1": {
       "source": "BeInCrypto",
@@ -53825,6 +53825,21 @@
           "reviewedAt": "2026-10-12T04:02:45.846Z",
           "retrySearches": [
             "Jeonbuk Bank bitcoin corporate loans Edaily bank announcement"
+          ]
+        },
+        "9c567295b2e6ca362468": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Sun testnet claim read in Cointelegraph and CryptoBriefing but no Tron DAO primary opened - needs TIP-899 or Nile release record.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:02:47.799Z",
+          "retrySearches": [
+            "Tron post-quantum Nile testnet TIP-899 mainnet date Tron DAO"
           ]
         }
       },
