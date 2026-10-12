@@ -23915,22 +23915,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "43ef4ee5656da6877132",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T19:04:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "THORChain-Tether freeze story not fully read though snippets show 3-outlet corroboration; full reads outstanding.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:08.082Z",
+      "reason": "duplicate",
+      "note": "Same Tether THORChain vault freeze drafted once as thorchain-freeze.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:46.745Z",
       "articleSlug": "thorchain-freeze",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
@@ -23938,7 +23933,8 @@
       "retrySearches": [
         "THORChain Tether blacklist vaults unfrozen October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "duplicateOf": "thorchain-freeze",
+      "mergedInto": "d6ebc8a19d31822069ab"
     },
     "08c574ea80326a658ab0": {
       "source": "The Defiant",
@@ -53591,6 +53587,15 @@
           "reviewedAt": "2026-10-12T03:58:44.783Z",
           "duplicateOf": "france-taxes",
           "mergedInto": "19357b6f78dfafe2a59e"
+        },
+        "43ef4ee5656da6877132": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Tether THORChain vault freeze drafted once as thorchain-freeze.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:46.745Z",
+          "duplicateOf": "thorchain-freeze",
+          "mergedInto": "d6ebc8a19d31822069ab"
         }
       },
       "baselineSlugs": [
