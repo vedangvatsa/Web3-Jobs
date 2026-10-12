@@ -28866,11 +28866,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "74c93549759deb362095",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T21:20:29.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "opinion",
+      "note": "Kimchi-premium bots piece is market-structure analysis with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:45.870Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "4cfd6052a2769c688aab": {
       "source": "Crypto Briefing",
@@ -52598,6 +52603,13 @@
           "note": "Evernorth five-things explainer previews a possible Nasdaq listing with no filing, vote or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:44.050Z"
+        },
+        "74c93549759deb362095": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Kimchi-premium bots piece is market-structure analysis with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:45.870Z"
         }
       },
       "baselineSlugs": [
