@@ -29172,11 +29172,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "55791f3ceb468330f50f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T02:04:49.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "duplicate",
+      "note": "Same Sui 30M DATA investment drafted once as sui-data.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:37.705Z",
+      "duplicateOf": "sui-data",
+      "mergedInto": "7990b85f2141841913d2",
+      "lastReviewedDay": "2026-10-12"
     },
     "bc35952249809c182fc3": {
       "source": "CryptoSlate",
@@ -53565,6 +53572,15 @@
           "reviewedAt": "2026-10-12T03:58:35.791Z",
           "duplicateOf": "xrpl-delegation",
           "mergedInto": "27f81ea86adb75b79871"
+        },
+        "55791f3ceb468330f50f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Sui 30M DATA investment drafted once as sui-data.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:37.705Z",
+          "duplicateOf": "sui-data",
+          "mergedInto": "7990b85f2141841913d2"
         }
       },
       "baselineSlugs": [
