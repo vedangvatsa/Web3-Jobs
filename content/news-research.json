@@ -28644,11 +28644,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "b27dbf47da0ee48bc0f6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T03:27:03.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "needs-corroboration",
+      "note": "Jeonbuk Bank BTC loan read in CryptoBriefing with BloomingBit/Edaily corroboration in search only - needs the Korean primary or second outlet opened.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/jeonbuk-bank-bitcoin-backed-corporate-loans/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-12T04:02:45.846Z",
+      "retrySearches": [
+        "Jeonbuk Bank bitcoin corporate loans Edaily bank announcement"
+      ],
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "e81a753f4a1393ec6fbe": {
       "source": "BeInCrypto",
@@ -53796,6 +53810,21 @@
           "reviewedAt": "2026-10-12T04:02:43.888Z",
           "retrySearches": [
             "Gate Visa crypto card 40 markets GlobeNewswire announcement"
+          ]
+        },
+        "b27dbf47da0ee48bc0f6": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Jeonbuk Bank BTC loan read in CryptoBriefing with BloomingBit/Edaily corroboration in search only - needs the Korean primary or second outlet opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/jeonbuk-bank-bitcoin-backed-corporate-loans/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:02:45.846Z",
+          "retrySearches": [
+            "Jeonbuk Bank bitcoin corporate loans Edaily bank announcement"
           ]
         }
       },
