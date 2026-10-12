@@ -23399,25 +23399,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9d9bbfe5d6fe8069395",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T14:23:01.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "NUVA Franklin and Animoca lineup story on a single queued source; asset-lineup details unverified.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:03.072Z",
+      "reason": "not-a-concrete-event",
+      "note": "Franklin Templeton and Animoca planning a broader NUVA lineup is a plan with no launch or filing.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:34.015Z",
       "retrySearches": [
         "NUVA Franklin Templeton Animoca tokenized assets lineup"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "55f30187f50a87d90550": {
       "source": "The Block",
@@ -52772,6 +52766,13 @@
           "note": "Coinbase and Gennius planning ONED stablecoin bank access is a plan with no launch or terms.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:32.100Z"
+        },
+        "d9d9bbfe5d6fe8069395": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Franklin Templeton and Animoca planning a broader NUVA lineup is a plan with no launch or filing.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:34.015Z"
         }
       },
       "baselineSlugs": [
