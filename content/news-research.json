@@ -20330,22 +20330,42 @@
       ],
       "alsoCoveredBy": [],
       "id": "f7cc92328214d5e25bb3",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-12T05:00:52.000Z",
       "lastSeenAt": "2026-10-10T03:31:28.127Z",
-      "reason": "needs-corroboration",
-      "note": "Solana 200ms final step would be a new development over the covered 250ms article, but only the queued source is known; activation record outstanding.",
+      "reason": "verified-event",
+      "note": "Verified Solana 200ms activation Oct 9 at epoch 1053 completing SIMD-0525 (350/300/250/200), distinct from covered 250ms step - matched across Solana upgrade page, SIMD proposal, CoinDesk, CryptoSlate, Compass; Defiant blocked.",
       "sourceChecks": [
         {
+          "url": "https://solana.com/upgrades/reduced-slot-times",
+          "outcome": "read"
+        },
+        {
+          "url": "https://github.com/solana-foundation/solana-improvement-documents/blob/main/proposals/0525-reduce-slot-times.md",
+          "outcome": "read"
+        },
+        {
           "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://solanacompass.com/news/solanas-200ms-slot-time-is-live-on-mainnet-at-epoch-1053-completing-simd-0525",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:13.365Z",
+      "reviewedAt": "2026-10-12T03:57:13.110Z",
       "articleSlug": "slot-times",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "Draft has no ready review outcome: content/articles/europol-quantum.md",
         "Draft has no ready review outcome: content/articles/polygon-tron.md",
@@ -20355,8 +20375,7 @@
       ],
       "retrySearches": [
         "Solana 200 millisecond slot mainnet epoch October 2026"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "c995bfad22d44039fe80": {
       "source": "BeInCrypto",
@@ -53104,6 +53123,39 @@
           ],
           "reviewedAt": "2026-10-12T03:57:11.181Z",
           "articleSlug": "meanwhile-raise"
+        },
+        "f7cc92328214d5e25bb3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Solana 200ms activation Oct 9 at epoch 1053 completing SIMD-0525 (350/300/250/200), distinct from covered 250ms step - matched across Solana upgrade page, SIMD proposal, CoinDesk, CryptoSlate, Compass; Defiant blocked.",
+          "sourceChecks": [
+            {
+              "url": "https://solana.com/upgrades/reduced-slot-times",
+              "outcome": "read"
+            },
+            {
+              "url": "https://github.com/solana-foundation/solana-improvement-documents/blob/main/proposals/0525-reduce-slot-times.md",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://solanacompass.com/news/solanas-200ms-slot-time-is-live-on-mainnet-at-epoch-1053-completing-simd-0525",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:13.110Z",
+          "articleSlug": "slot-times"
         }
       },
       "baselineSlugs": [
