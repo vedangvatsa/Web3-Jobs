@@ -23816,24 +23816,15 @@
       ],
       "alsoCoveredBy": [],
       "id": "b66ae32556259e005f14",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
       "attempts": 4,
       "expiresAt": "2026-10-12T18:46:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Same Cantor-Tether letter event as b22ff441 - Senate letter plus Unchained read, Decrypt second outlet still to open.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/380599/senate-democrat-presses-cantor-fitzgerald-tether-ties",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-12T03:59:27.319Z",
+      "reason": "duplicate",
+      "note": "Same Blumenthal Cantor-Tether letter drafted once as cantor-probe.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T04:00:58.582Z",
       "articleSlug": "cantor-tether",
       "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
@@ -23843,7 +23834,8 @@
       "retrySearches": [
         "Blumenthal Cantor Fitzgerald Tether letter Oct 23 deadline response"
       ],
-      "nextReviewDate": "2026-10-13"
+      "duplicateOf": "cantor-probe",
+      "mergedInto": "b22ff44197a4ebb9636a"
     },
     "a391370519699e67f1d6": {
       "source": "Bankless",
@@ -53690,23 +53682,13 @@
           "mergedInto": "f46b0c4a638dbaf5f575"
         },
         "b66ae32556259e005f14": {
-          "status": "deferred",
-          "reason": "needs-corroboration",
-          "note": "Same Cantor-Tether letter event as b22ff441 - Senate letter plus Unchained read, Decrypt second outlet still to open.",
-          "sourceChecks": [
-            {
-              "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/380599/senate-democrat-presses-cantor-fitzgerald-tether-ties",
-              "outcome": "unavailable"
-            }
-          ],
-          "reviewedAt": "2026-10-12T03:59:27.319Z",
-          "retrySearches": [
-            "Blumenthal Cantor Fitzgerald Tether letter Oct 23 deadline response"
-          ]
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Blumenthal Cantor-Tether letter drafted once as cantor-probe.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T04:00:58.582Z",
+          "duplicateOf": "cantor-probe",
+          "mergedInto": "b22ff44197a4ebb9636a"
         },
         "b22ff44197a4ebb9636a": {
           "status": "ready",
