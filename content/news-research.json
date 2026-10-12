@@ -29561,11 +29561,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3bf905ca59d57b7eb19a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T20:15:05.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Yemen strike claims are a geopolitical item with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:00.628Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "59dcfad6a0f1797681ad": {
       "source": "Crypto Briefing",
@@ -52464,6 +52469,13 @@
           "note": "Amazon acquiring Decart is unconfirmed AI M and A rumor with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:58.693Z"
+        },
+        "3bf905ca59d57b7eb19a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Yemen strike claims are a geopolitical item with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:00.628Z"
         }
       },
       "baselineSlugs": [
