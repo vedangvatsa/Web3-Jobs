@@ -2401,11 +2401,12 @@
           "url": "https://www.youtube.com/watch?v=GeSQ4ZzIeAc"
         },
         "tiktok": {
-          "status": "pending",
+          "status": "sent",
           "text": "Marketing Technology Specialist at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-12T19:32:04.890Z",
           "attemptId": "c699ee01-f967-43b5-8a7b-37d9d83c7f4b",
-          "postId": "6acd35b6ae14ce433eb45f8d"
+          "postId": "6acd35b6ae14ce433eb45f8d",
+          "url": "https://tiktok.com/@hashtagweb3/video/7695866464292687136"
         }
       }
     },
