@@ -29123,11 +29123,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "abff916acd5eaf621dd6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T01:53:10.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Oil price and ceasefire commentary is commodities macro with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:32.173Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "38e68d4a306c911bf551": {
       "source": "BeInCrypto",
@@ -52320,6 +52325,13 @@
           "note": "S and P 500 breadth note is equity market commentary with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:28.485Z"
+        },
+        "abff916acd5eaf621dd6": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Oil price and ceasefire commentary is commodities macro with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:32.173Z"
         }
       },
       "baselineSlugs": [
