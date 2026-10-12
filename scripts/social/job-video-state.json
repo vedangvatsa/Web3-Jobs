@@ -2433,10 +2433,11 @@
           "url": "https://www.instagram.com/reel/DeaAAnEjKz9/"
         },
         "youtube": {
-          "status": "creating",
+          "status": "pending",
           "text": "Hong Kong\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
           "startedAt": "2026-10-12T19:37:29.505Z",
-          "attemptId": "400f349c-a510-4b70-b157-f6b1fbeb1123"
+          "attemptId": "400f349c-a510-4b70-b157-f6b1fbeb1123",
+          "postId": "6acd36fbae14ce433eb4ac6b"
         }
       }
     }
