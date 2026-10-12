@@ -28066,25 +28066,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "35409f382a1d15d41093",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T11:05:28.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "BitMine 350M buyback claim not fully read; single source, needs company disclosure plus second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/bitmine-350m-stock-buyback-tom-lee/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:21:21.169Z",
+      "reason": "stale",
+      "note": "BitMine 350M buyback completed July 14 to Aug 17 and disclosed in an Oct 7 8-K; outside the 72-hour window on Oct 12.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:53.217Z",
       "retrySearches": [
         "BitMine 350M stock buyback Tom Lee October 2026 disclosure"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "a8921991bcffc50a48b9": {
       "source": "Crypto Briefing",
@@ -52780,6 +52774,13 @@
           "note": "Treasury threat to freeze Iran crypto is a warning with no executed action.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:51.117Z"
+        },
+        "35409f382a1d15d41093": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "BitMine 350M buyback completed July 14 to Aug 17 and disclosed in an Oct 7 8-K; outside the 72-hour window on Oct 12.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:53.217Z"
         }
       },
       "baselineSlugs": [
