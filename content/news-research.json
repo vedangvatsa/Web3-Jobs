@@ -21616,26 +21616,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "1f83d48c4539685aa5b4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 5,
+      "attempts": 6,
       "expiresAt": "2026-10-12T07:20:02.000Z",
       "lastSeenAt": "2026-10-09T17:31:35.887Z",
-      "reason": "needs-corroboration",
-      "note": "ESMA 90-day stablecoin story not fully read; same event as the companion lead, draft once if pursued.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:27:37.255Z",
+      "reason": "duplicate",
+      "note": "Same ESMA wind-down opinion drafted once as esma-stablecoins.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T04:01:51.657Z",
       "duplicateOf": "esma-stablecoins",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "ESMA opinion non-MiCA ART EMT three months January 2027"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "c76300860e9b16ab3fc5"
     },
     "208b88e90d866e0e3f32": {
       "source": "BeInCrypto",
@@ -53739,6 +53734,15 @@
           ],
           "reviewedAt": "2026-10-12T04:01:49.546Z",
           "articleSlug": "esma-stablecoins"
+        },
+        "1f83d48c4539685aa5b4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ESMA wind-down opinion drafted once as esma-stablecoins.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T04:01:51.657Z",
+          "duplicateOf": "esma-stablecoins",
+          "mergedInto": "c76300860e9b16ab3fc5"
         }
       },
       "baselineSlugs": [
