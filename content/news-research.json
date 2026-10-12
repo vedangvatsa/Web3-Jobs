@@ -28814,11 +28814,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5bf468384a7d4e3ee194",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T22:57:53.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "opinion",
+      "note": "Hodlers Digest is a weekly roundup column with no single concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:42.067Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "369f2cee7e886c941150": {
       "source": "BeInCrypto",
@@ -52574,6 +52579,13 @@
           "note": "Ethereum Foundation-linked wallets sending 4393 ETH to Kraken is routine-flow speculation with no confirmed sale or announcement.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:18.022Z"
+        },
+        "5bf468384a7d4e3ee194": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Hodlers Digest is a weekly roundup column with no single concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:42.067Z"
         }
       },
       "baselineSlugs": [
