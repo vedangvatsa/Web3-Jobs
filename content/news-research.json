@@ -26387,31 +26387,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "82174278e88b61c6fbd7",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-13T18:35:25.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "Kalshi probe piece not fully read; same WSJ-origin event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:48.482Z",
+      "reason": "duplicate",
+      "note": "Same Kalshi press-secretary probe drafted once as kalshi-probe.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:59:05.127Z",
       "retrySearches": [
         "Kalshi Zacharia press secretary bets investigation WSJ October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "articleSlug": "kalshi-bets",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-10-12"
+      "duplicateOf": "kalshi-probe",
+      "mergedInto": "d2a36ff801c6db70c716"
     },
     "14622e749bf8034cb861": {
       "source": "The Defiant",
@@ -53658,6 +53654,15 @@
           "reviewedAt": "2026-10-12T03:59:03.184Z",
           "duplicateOf": "papertrade",
           "mergedInto": "6445e691f0625b1e13c9"
+        },
+        "82174278e88b61c6fbd7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Kalshi press-secretary probe drafted once as kalshi-probe.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:59:05.127Z",
+          "duplicateOf": "kalshi-probe",
+          "mergedInto": "d2a36ff801c6db70c716"
         }
       },
       "baselineSlugs": [
