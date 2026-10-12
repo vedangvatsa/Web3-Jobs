@@ -25817,22 +25817,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "8969a0358ed8f4ff831c",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T13:01:03.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
-      "reason": "needs-corroboration",
-      "note": "France stablecoin and exit-tax story qualifies but is undrafted; committee adopted then rejected the budget, floor debate Oct 13.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:43.515Z",
+      "reason": "duplicate",
+      "note": "Same France budget crypto-tax arc drafted once as france-taxes.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:42.775Z",
       "articleSlug": "france-taxes",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -25851,7 +25846,8 @@
       "retrySearches": [
         "France I-CF1826 stablecoin swap tax Assemblee nationale October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "duplicateOf": "france-taxes",
+      "mergedInto": "19357b6f78dfafe2a59e"
     },
     "201c9130ddb5ba609ce4": {
       "source": "The Defiant",
@@ -53581,6 +53577,15 @@
           "reviewedAt": "2026-10-12T03:58:37.705Z",
           "duplicateOf": "sui-data",
           "mergedInto": "7990b85f2141841913d2"
+        },
+        "8969a0358ed8f4ff831c": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same France budget crypto-tax arc drafted once as france-taxes.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:42.775Z",
+          "duplicateOf": "france-taxes",
+          "mergedInto": "19357b6f78dfafe2a59e"
         }
       },
       "baselineSlugs": [
