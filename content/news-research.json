@@ -21698,26 +21698,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "7cb42063f34593cf0cc4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 12,
+      "attempts": 13,
       "expiresAt": "2026-10-12T06:34:11.000Z",
       "lastSeenAt": "2026-10-09T10:46:28.146Z",
-      "reason": "needs-corroboration",
-      "note": "BeInCrypto Thailand foreign-ban angle not fully read; same framework event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://beincrypto.com/thailand-crypto-etf-rules-foreign-ban/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:19:38.243Z",
+      "reason": "duplicate",
+      "note": "Same Thai SEC ETF framework event drafted once as thailand-etfs.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:09.392Z",
       "duplicateOf": "thailand-etfs",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "Thailand SEC bitcoin ether ETF foreign funds ban SET listing rules"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "6521f65a66822c1c1481"
     },
     "69d2ddb419c22b7ada74": {
       "source": "Cointelegraph",
@@ -53506,6 +53501,15 @@
           "note": "Same Thai SEC ETF framework event drafted once as thailand-etfs.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:58:07.200Z",
+          "duplicateOf": "thailand-etfs",
+          "mergedInto": "6521f65a66822c1c1481"
+        },
+        "7cb42063f34593cf0cc4": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thai SEC ETF framework event drafted once as thailand-etfs.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:09.392Z",
           "duplicateOf": "thailand-etfs",
           "mergedInto": "6521f65a66822c1c1481"
         }
