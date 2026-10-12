@@ -18569,44 +18569,6 @@ Mandala Network hosts its Mumbai edition of Crypto Afterhours during Devcon week
 
 ETHwali is a Diwali celebration for the Ethereum community during Devcon season in Mumbai. The organizer plans an evening of music and community activities.
 
-<a id="event-b4425b64648aa1d4"></a>
-
-## ETH Gujarat
-
-- Record: `india-luma-4tk81dfk`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-09-12T05:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/4tk81dfk>
-
-### About the event
-
-🇮🇳 Road to Devcon: ETH Gujarat
-
-Ethereum is global. Communities are local. Welcome to ETH Gujarat.
-
-Join us again for ETH Gujarat gathering as we bring together builders, founders, developers, students, researchers, and the Ethereum community from across Gujarat.
-
-This edition is focused on CROPS - the values behind Ethereum:
-
-- Censorship Resistance
-- Open Source
-- Privacy
-- Security
-
-### What to Expect
-
-- Inspiring Speakers
-- Builder Stories
-- Ethereum & Devcon
-- CROPS Conversations
-- Gujarati Culture
-- Quality Networking
-
-Whether you're just getting started or already building in Web3, come learn, connect, and grow with Gujarat's Ethereum community.
-
-Let's build Gujarat's Ethereum story, together. ⟠
-
 <a id="event-55cba01743661e7e"></a>
 
 ## 🍻Degens Assemble - Crypto Meetup \| Delhi
@@ -74097,6 +74059,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-b70df333f01c6074"></a>
+
+## Construyendo servidores y clientes MCP
+
+- Record: `mu-316505307`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-13T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316505307/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d459fcbd802eed25"></a>
 
 ## Antidote Office Open Day! ⚡️
@@ -74106,6 +74080,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-13T09:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/hfqu8u55>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-255e07df87b15dc4"></a>
+
+## Patients, Not Unicorns: An Evening at Barcelona's Maggie's Centre
+
+- Record: `luma-evt-9fG9CmDFC7ikDpE`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-13T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/trialhub-invites-you-to-kalida>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74193,6 +74179,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5179300b0e435484"></a>
+
+## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
+
+- Record: `mu-316325979`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-oregon/events/316325979/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a9688ccaa35580ae"></a>
 
 ## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
@@ -74214,6 +74212,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-14T07:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-sf/events/316326000/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-649c01d92fec81c8"></a>
+
+## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
+
+- Record: `mu-316326004`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316326004/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2bd9f277f51fc52d"></a>
+
+## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
+
+- Record: `mu-316118375`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316118375/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74286,6 +74308,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-14T12:00:00-04:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-washington-dc/events/316118535/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-22a079d8337f5916"></a>
+
+## Olas de calor y extremos climáticos: Barcelona del pasado, presente y futuro
+
+- Record: `luma-evt-wzxLHMocPPQR5OM`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T15:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/tr3jgm1b>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74488,6 +74522,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-15T03:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/lqrbtu27>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a3830ff4c2813b2d"></a>
+
+## Building AI Apps Faster with Agentic Coding and Azure Cosmos DB
+
+- Record: `mu-316558834`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-15T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316558834/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74886,6 +74932,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T21:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/3c7s1enn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ef69c4d85ed5ea5a"></a>
+
+## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
+
+- Record: `mu-316844003`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T07:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316844003/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -75297,6 +75355,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-161e8a879852870b"></a>
+
+## Episodio 2: IA Generativa – Creando, Innovando y Acelerando con IA
+
+- Record: `mu-316870652`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T13:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316870652/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-3b53191040ff3c5c"></a>
 
 ## Swell 2026
@@ -75306,6 +75376,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T13:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://swell.ripple.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-338ebe2120a8a8bb"></a>
+
+## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)
+
+- Record: `luma-host-evt-evt-jAsxvsyCZCb8JkA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T18:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/5u109wun>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -75369,6 +75451,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-466a7b4fd6e518a4"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859677`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T08:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316859677/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2cb8292d333762ff"></a>
 
 ## Measuring Ledgers With The Blockchain Decentralisation Index Lab
@@ -75426,6 +75520,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T10:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-sf/events/316802689/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0bc312ff681645c8"></a>
+
+## ZK Learning Group: Quantum resistance and ZKP
+
+- Record: `mu-316802693`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316802693/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

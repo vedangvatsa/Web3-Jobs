@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-12T11:09:38.250Z",
+  "checkedAt": "2026-10-12T11:31:39.052Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
@@ -10,20 +10,13 @@
     "https://miragather.com/TOKEN2049SGSideEvents2026": 517
   },
   "counts": {
-    "existing": 241,
-    "added": 1,
+    "existing": 242,
     "excluded": 375,
     "needs-review": 33,
     "duplicate": 1
   },
   "importedTotal": 256,
-  "added": [
-    {
-      "id": "token2049-evt-YO7GY1OwI4l0QR6",
-      "slug": "gdr",
-      "name": "Get Down For Real"
-    }
-  ],
+  "added": [],
   "receipts": [
     {
       "url": "https://luma.com/n6e4pmtn",
@@ -33,6 +26,15 @@
       ],
       "status": "existing",
       "slug": "fcsy"
+    },
+    {
+      "url": "https://luma.com/d1uqegez",
+      "name": "Get Down For Real",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "existing",
+      "slug": "gdr"
     },
     {
       "url": "https://luma.com/openhouse-singapore",
@@ -2543,16 +2545,6 @@
       ],
       "status": "existing",
       "slug": "tech-week"
-    },
-    {
-      "url": "https://luma.com/d1uqegez",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "added",
-      "slug": "gdr",
-      "eventId": "evt-YO7GY1OwI4l0QR6"
     },
     {
       "url": "https://megatix.com.sg/events/after2049",
