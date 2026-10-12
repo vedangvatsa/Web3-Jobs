@@ -29475,11 +29475,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "c0ca9a6ebf5814a49e1f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T23:00:00.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "opinion",
+      "note": "Treasury debt-strategy piece asks whether crypto markets will feel it; speculation with no concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:57.772Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "bc8d745d64c4c18c43d8": {
       "source": "The Block",
@@ -52670,6 +52675,13 @@
           "note": "State of Crypto SCOTUS column is opinion with no new filing or ruling.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:55.946Z"
+        },
+        "c0ca9a6ebf5814a49e1f": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Treasury debt-strategy piece asks whether crypto markets will feel it; speculation with no concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:57.772Z"
         }
       },
       "baselineSlugs": [
