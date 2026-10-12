@@ -128,6 +128,10 @@
     "2026-10-12:afternoon": [
       "marketing211",
       "ops63"
+    ],
+    "2026-10-12:evening": [
+      "mkt4",
+      "cmp56"
     ]
   },
   "jobs": {
@@ -2365,6 +2369,32 @@
           "url": "https://tiktok.com/@hashtagweb3/video/7695743079466323232"
         }
       }
+    },
+    "mkt4": {
+      "slot": "2026-10-12:evening",
+      "selectedAt": "2026-10-12T19:31:14.512Z",
+      "verifiedAt": "2026-10-12T19:31:14.512Z",
+      "reservationId": "ce4e6db9-27b5-4e0e-8f64-8d1056f1efca",
+      "captions": {
+        "instagram": "Marketing Technology Specialist at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "Marketing Technology Specialist at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Marketing Technology Specialist at Nexo"
+      },
+      "receipts": {}
+    },
+    "cmp56": {
+      "slot": "2026-10-12:evening",
+      "selectedAt": "2026-10-12T19:31:14.513Z",
+      "verifiedAt": "2026-10-12T19:31:14.513Z",
+      "reservationId": "2d576ea2-177c-47d9-9934-ec2fdf40366e",
+      "captions": {
+        "instagram": "Legal Counsel at Animoca Brands\n\nHong Kong\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #Hiring",
+        "tiktok": "Legal Counsel at Animoca Brands. Hong Kong.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtube": "Hong Kong\n\nFind the role on hashtagweb3.com\n\n#Hiring #Jobs #Careers",
+        "youtubeTitle": "Legal Counsel at Animoca Brands"
+      },
+      "receipts": {}
     }
   }
 }
