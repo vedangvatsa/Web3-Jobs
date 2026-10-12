@@ -1,5 +1,5 @@
 {
-  "lastIndex": 401,
+  "lastIndex": 403,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -184,7 +184,9 @@
     "eng106",
     "cp3",
     "cp4",
-    "eng402"
+    "eng402",
+    "cm10",
+    "mgr164"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5423,498 +5425,6 @@
       "verification": "verified"
     },
     {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x8fff41613d5e51c1c70717b4066826ac57fea7d9",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x851e8cfa8d6a2225f1a9300a01506f95beace74b",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0xb3b9bbced9d99ff54b196b71512f1c5b53d352dd",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x5b5b4f6cf53f5627ccf6c6b9aa31ff7b556b51f9",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x7214b1d4f96f19de225e5360ed07500ceae002d3",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "6ac78c5d08d405a9e7ff0dee",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "6ac78c67daf7bb7cba1f1fff",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "urn:li:share:7513938396180840448",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "facebook",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "691827047618629_1109788391628395",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "x",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "6ac78c7c82db5af660c314cc",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Stripe is hiring Monetization Services Specialist - Pricing Activation\n\nhttps://hashtagweb3.com/mssp/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108172744432975986"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "threads",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "18208505119365099",
-      "verification": "verified",
-      "expectedText": "Stripe is hiring Monetization Services Specialist - Pricing Activation: https://hashtagweb3.com/mssp/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeO71tXmr8H",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "bluesky",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxehk5tvi72v",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x1c4ac6ee573b8df61bd7175c17a5c6f588cf9942",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x9ab45a0bedb14a1cc9d1fec19c5f119af8d00f6e",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0xdaf79a3a51dcef48e823b2107e4d4ae5f99a18a6",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x113f16de59bbed7a3e6e25a482fe887c447915db",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x38b65d6de3b65b0ba074fb9ca02bb4bbe864d708",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x1ef94085fd1a79d26d0a1852a39f1814a54bc61f",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0xaf10b4761741bf84a333cf8c07dcb6157a30a414",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x582a76e3dd830f0cc09dbe053a181d246bfbe4b4",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x85183fd4d8caa2c580fadf465998321c69256963",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0xb73c05812f897efd3cfe60d2664eeedaaa896c2a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x6e0119a5bcc97488efc317f063600cfec4a5e1ff",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x72b4ee5c27186b6e3daff0a9405e362b32dafa6e",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x94d5f9fb6868bdc7733df333435f08f5b0b2b70b",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0xb72b779d32d0a7ea6c2d604097d2f61ed437be02",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0xcf6c52a0d5e3238b415f153522416093f8a7f3b4",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0xebe42f8ef635cbde96eda3ad78738a3b029c67b6",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "0x8f5dfc20cf036d8a5198139621955aff8cdc9749",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "6ac78c8edaf7bb7cba1f24a8",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "6ac78c98daf7bb7cba1f266c",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "urn:li:share:7513938597964677120",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mssp",
-      "company": "Stripe",
-      "title": "Monetization Services Specialist - Pricing Activation",
-      "platform": "facebook",
-      "postedAt": "2026-10-08T12:28:44.299Z",
-      "postId": "691827047618629_1109788881628346",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "x",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "6ac7fa5153e023600017fd16",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Kalshi is hiring Growth Product Manager - Reactivation\n\nhttps://hashtagweb3.com/pm211/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108290674269335971"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "threads",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "18133021417676422",
-      "verification": "verified",
-      "expectedText": "Kalshi is hiring Growth Product Manager - Reactivation: https://hashtagweb3.com/pm211/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DePxd_Xj1NA",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "bluesky",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxfbq6fc7v22",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0xbd79ced4d3e256ad94531b0d998f97e981ebda4c",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0xdd3275b0eebbd00450271edbba09308db61934b5",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0x614db35720d2cba2201d40fdc3ba2f51f58cf44d",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0x5f9af2c58e70ce994ebe4679460b85af29047db9",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0xfcd3cae0eac737197826d34eec10479029f27722",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0x20f3a19352f3dd323e11f6fe9d592753e4f82d78",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0x39582554f076cd1c38419d594d92303413a61063",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0x52ea7f1444765c73e2d3635305fb17ea506ab715",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0xed8a4e027af6ecb2adbeff3eacec4599b8cb5bc2",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0xdb21f7553242e627293764472792d9b7770eba86",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0xd2d7fcffc2ef8ffdd0c31a6ab29ef251fc5c6b0b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "pm211",
-      "company": "Kalshi",
-      "title": "Growth Product Manager - Reactivation",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T20:17:20.857Z",
-      "postId": "0x3883b4f76bb2025ceaf2e89ee2f0d88aff431b20",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "pm211",
       "company": "Kalshi",
       "title": "Growth Product Manager - Reactivation",
@@ -10186,6 +9696,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-12T11:32:39.157Z",
       "postId": "691827047618629_1113399104600657",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "x",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "6acd35affc09a06c325000e7",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Community Operations Specialist\n\nhttps://hashtagweb3.com/cm10/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109728809855394024"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "threads",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "18109982822229226",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Community Operations Specialist: https://hashtagweb3.com/cm10/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeZ_dOsFBWn",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxpb2mtjmm2f",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0xe0f1f0aab14365f7ba1fda0ad4ec84048394e1f9",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x65c5d0b5c95347340cb479905b553f2ac52132b8",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x3944ea0dcf6d42047a2d1615718b1c31a13e73f0",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x538276aef92063cd2d33f1fc6bae47cbaa35be28",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x6468811b7fcfd5b9290f3a0b58e5b19f0e9856dc",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x6be30d1f20616dd0db58ddd8abad758c42f04f23",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x89acb2c93f32a8ff625153a50374fcf06576dc7b",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x459713a7f09a88c4b83046e490202c3db7b9aa56",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x4a7c3ebc3340753225afcc3739d083f1ad3c40a3",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x256eec9bc18807a7d1b3c6c504fe19d28709eda8",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x94394909e1781e8b50a1557ab4c59f496d4c1f6d",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x1f39789b5f5f6e1060198d1ce0e266eee1e998df",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x259c681d237347b38e8c39416ebc0199937c31b0",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x5c1afa9dfc5dd93438eee5a226bf8859cd8b9572",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x401dd395128286a6ea7a4febc35bda4aa5130a96",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0x32af2cd78a8bdc384ec08a77bf1ca6cbdcfb32da",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "0xdfff959c2a16a0c28658cfd0efa0fce9a078b51a",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "6acd35bfae14ce433eb46019",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "6acd35c9fc09a06c3250038c",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "urn:li:share:7515494655241777153",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cm10",
+      "company": "Stripe",
+      "title": "Community Operations Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-10-12T19:31:59.336Z",
+      "postId": "691827047618629_1113777494562818",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "x",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "6acd35ddc5e6eb637a1a2b74",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Robinhood is hiring Relationship Manager\n\nhttps://hashtagweb3.com/mgr164/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109729003317662206"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "18102756269380036",
+      "verification": "verified",
+      "expectedText": "Robinhood is hiring Relationship Manager: https://hashtagweb3.com/mgr164/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeZ_ixuFETA",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxpb3ys4db2g",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x19418f0cc174c5465b4abe345a5681ef3994e151",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0xc752dd846c13dc1fb4d65401b32f201cac4fbfa5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x7905dd8acd69f313cf6c3ecf7b54b4526be740b5",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0xc111fb151158aada56b8388c4a6a07f9776567d2",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x25838d64296d447f7fac3de346b459b957897fb9",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0xa71614cbad9f624fc9efd7183ddce2d98c110259",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0xc6bc0dbb3731398eebec9049fcbf84f293e127eb",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0xc2d81e2a989f1e6f056db5b029d9655cdc3ae27c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x839acbb5d3b81d2b62192fe68ec1db70ea8c48d0",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x5f8f1d96f858c05b16042a4083c294d58566c640",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x8b748f4e6f8451d5352aee7387869d7eb9cf8b60",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x5c139256d334e69395584a7f20521950e669f54c",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x75688edd58eb36be467d9dc38a5870ed669eb66f",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x6636e6cab7e92e4d0aa3a7be48a5ab4680ef4a78",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x33babbb38f4ced8df792ad440beddd922cfc645f",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0xe1688b8858180fc8b2e238b736d1e77e5fea141e",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "0x43fde4cd1b2ee6a96ee8cf939265891499400a52",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "6acd35edebe016d7f5fd24c3",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "6acd35f7fc09a06c3250172f",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "urn:li:share:7515494845990211584",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr164",
+      "company": "Robinhood",
+      "title": "Relationship Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-12T19:32:45.568Z",
+      "postId": "691827047618629_1113778161229418",
       "verification": "verified"
     }
   ]
