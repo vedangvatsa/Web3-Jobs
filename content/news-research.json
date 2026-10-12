@@ -29540,11 +29540,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1596731c885a859de64a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T21:35:45.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "not-a-concrete-event",
+      "note": "Stripe CEO singularity remark is a quote with no product, filing or launch attached.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:08.273Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "3bf905ca59d57b7eb19a": {
       "source": "Crypto Briefing",
@@ -52512,6 +52517,13 @@
           "note": "AI-company debt concerns are credit-market coverage with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:06.230Z"
+        },
+        "1596731c885a859de64a": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Stripe CEO singularity remark is a quote with no product, filing or launch attached.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:08.273Z"
         }
       },
       "baselineSlugs": [
