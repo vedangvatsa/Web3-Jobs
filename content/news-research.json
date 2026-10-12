@@ -29757,11 +29757,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "d6826c91a7585b0c727f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T18:30:00.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "opinion",
+      "note": "State of Crypto SCOTUS column is opinion with no new filing or ruling.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:55.946Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "342f6b1a246a1bd21975": {
       "source": "Crypto Briefing",
@@ -52658,6 +52663,13 @@
           "note": "CFTC plan faces scrutiny after Loper Bright is legal analysis with no new agency action.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:53.887Z"
+        },
+        "d6826c91a7585b0c727f": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "State of Crypto SCOTUS column is opinion with no new filing or ruling.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:55.946Z"
         }
       },
       "baselineSlugs": [
