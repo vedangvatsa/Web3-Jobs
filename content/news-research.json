@@ -22581,26 +22581,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "f3458e62d04228c30699",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T14:27:18.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "source-blocked",
-      "note": "Defiant Mashinsky piece blocked HTTP 403; same AG settlement event, needs readable second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:20.054Z",
+      "reason": "duplicate",
+      "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:57:55.480Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "New York AG Mashinsky 35M lifetime ban settlement second outlet"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "86f3a145bde0d3311251"
     },
     "977a4f0f886635e738ca": {
       "source": "BeInCrypto",
@@ -53478,6 +53473,15 @@
           "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:57:53.369Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "86f3a145bde0d3311251"
+        },
+        "f3458e62d04228c30699": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:57:55.480Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "86f3a145bde0d3311251"
         }
