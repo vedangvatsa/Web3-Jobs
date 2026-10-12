@@ -29399,11 +29399,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "6c098f19ac82b8b430a9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T23:14:13.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Moonshot AI shareholder dispute before Hong Kong IPO is AI corporate news with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:54.842Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "c0ca9a6ebf5814a49e1f": {
       "source": "BeInCrypto",
@@ -52428,6 +52433,13 @@
           "note": "OpenAI election-deepfake safeguards are AI policy with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:52.858Z"
+        },
+        "6c098f19ac82b8b430a9": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Moonshot AI shareholder dispute before Hong Kong IPO is AI corporate news with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:54.842Z"
         }
       },
       "baselineSlugs": [
