@@ -29704,11 +29704,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "f11cf9b45ab7365e8b85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T20:00:33.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "not-a-concrete-event",
+      "note": "Aave loan liquidation-cushion piece is risk analysis of existing positions with no governance vote or exploit.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:01.637Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "714683827f744dcc91ee": {
       "source": "Crypto Briefing",
@@ -52694,6 +52699,13 @@
           "note": "Credit-union trade group taking on crypto policy is an advocacy stance with no vote, filing or launch.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:59.744Z"
+        },
+        "f11cf9b45ab7365e8b85": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Aave loan liquidation-cushion piece is risk analysis of existing positions with no governance vote or exploit.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:01.637Z"
         }
       },
       "baselineSlugs": [
