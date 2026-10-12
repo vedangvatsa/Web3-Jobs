@@ -1195,5 +1195,36 @@
     "slotKey": "2026-10-12:afternoon",
     "messageId": 65743,
     "sentAt": "2026-10-12T11:32:47.596Z"
+  },
+  "464d15b5-839a-4cf0-b160-1e6fdbdd49c4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T19:33:13.688Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "EU crypto platforms must phase out non-MiCA stablecoins by 2027",
+        "summary": "Licensed providers must end services for unauthorized stablecoins and resolve customer exposure by January 8, 2027.",
+        "link": "https://hashtagweb3.com/esma-stablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ESMA gives EU crypto firms until Jan. 8 to wind down non-MiCA stablecoins"
+      },
+      {
+        "index": -1,
+        "headline": "French Committee Rejects Budget Plan Containing New Crypto Taxes",
+        "summary": "Backers must reintroduce stablecoin and exit tax amendments for floor debate after the committee rejected the revenue section.",
+        "link": "https://hashtagweb3.com/france-taxes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French crypto tax votes wiped out as committee rejects budget revenues"
+      },
+      {
+        "index": -1,
+        "headline": "Kalshi reviews bets placed before Trump press secretary selection",
+        "summary": "The platform is examining three small wagers that earned thousands of dollars before the official announcement occurred.",
+        "link": "https://hashtagweb3.com/kalshi-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kalshi investigates wagers placed before Trump press secretary pick"
+      }
+    ],
+    "slotKey": "2026-10-12:evening"
   }
 }
