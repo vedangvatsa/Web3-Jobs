@@ -1170,5 +1170,40 @@
     "slotKey": "2026-10-12:afternoon",
     "messageId": 193336,
     "sentAt": "2026-10-12T11:33:34.435Z"
+  },
+  "d03f5f2b-3d90-4102-87c9-1f6187fd3fa6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-12T19:33:42.693Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Amazon has over 1 million robot workers. What’s next for human employees?",
+        "headline": "Amazon deploys over 1 million robots in fulfillment centers",
+        "summary": "The company integrated a large robotic fleet to manage inventory and scale operations within its global logistics network.",
+        "event_rationale": "This covers the scale of physical AI deployment in logistics, which is distinct from software-only AI updates or research.",
+        "link": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+        "source": "Ars Technica",
+        "originalTitle": "Amazon has over 1 million robot workers. What’s next for human employees?"
+      },
+      {
+        "index": 2,
+        "original_title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "headline": "WindBorne wins $50 million Air Force AI contract",
+        "summary": "The startup will provide AI-driven weather forecasting data using autonomous balloons for military and defense applications.",
+        "event_rationale": "This covers a major government funding event for specialized AI infrastructure, distinct from general-purpose LLM funding or consumer products.",
+        "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "source": "TechCrunch",
+        "originalTitle": "WindBorne wins a hefty US Air Force contract for its balloon data"
+      },
+      {
+        "index": 4,
+        "headline": "Microsoft president urges UK to lead artificial intelligence regulation",
+        "summary": "Smith argued that AI needs stricter rules because milk and washing machines currently have more safety oversight.",
+        "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "source": "TechCrunch",
+        "originalTitle": "Microsoft president says UK is best placed to drive AI regulation"
+      }
+    ],
+    "slotKey": "2026-10-12:evening"
   }
 }
