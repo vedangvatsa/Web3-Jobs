@@ -29636,11 +29636,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "efaa00468953018501e3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T22:00:06.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "needs-corroboration",
+      "note": "Optimism Unichain deal read in CryptoSlate and TokenPost with blog in search only - needs Uniswap primary opened.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/29113",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-12T04:04:35.360Z",
+      "retrySearches": [
+        "Uniswap Unichain OP Enterprise October 29 primary announcement"
+      ],
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "b3351246d9902cfb1adb": {
       "source": "BeInCrypto",
@@ -54372,6 +54390,25 @@
           "reviewedAt": "2026-10-12T04:04:14.508Z",
           "retrySearches": [
             "CryptoBilis 464 ETH Tornado Cash tracer report"
+          ]
+        },
+        "efaa00468953018501e3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Optimism Unichain deal read in CryptoSlate and TokenPost with blog in search only - needs Uniswap primary opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/29113",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:04:35.360Z",
+          "retrySearches": [
+            "Uniswap Unichain OP Enterprise October 29 primary announcement"
           ]
         }
       },
