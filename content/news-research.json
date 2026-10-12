@@ -26545,23 +26545,23 @@
       "id": "639da78ae1beb866cc22",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T09:38:29.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "needs-corroboration",
-      "note": "COLDCARD X phishing story qualifies but is undrafted; TokenPost plus Gate need full reads.",
+      "reason": "source-blocked",
+      "note": "COLDCARD phishing post blocked at source - needs Coldcard statement and a readable second outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:29:02.533Z",
+      "reviewedAt": "2026-10-12T04:03:26.267Z",
       "retrySearches": [
-        "COLDCARD X account compromised phishing wallet migration guide"
+        "COLDCARD phishing X post statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "df703797bc4255c1484d": {
       "source": "CryptoSlate",
@@ -54087,6 +54087,21 @@
           "reviewedAt": "2026-10-12T04:03:24.307Z",
           "retrySearches": [
             "Ledger theft funds USDD PeckShield Binance second outlet"
+          ]
+        },
+        "639da78ae1beb866cc22": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "COLDCARD phishing post blocked at source - needs Coldcard statement and a readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:26.267Z",
+          "retrySearches": [
+            "COLDCARD phishing X post statement second outlet"
           ]
         }
       },
