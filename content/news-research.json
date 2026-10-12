@@ -28756,11 +28756,16 @@
         "The Defiant"
       ],
       "id": "9d38eb88094279d8bcb6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T23:38:52.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "price-chatter",
+      "note": "AVAX 50 percent four-week gain is a price move with no underlying protocol event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:13.857Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "f47341cb1347abf764b9": {
       "source": "CryptoSlate",
@@ -52537,6 +52542,13 @@
           "note": "STRK 322 percent four-week gain is a price move with no underlying protocol event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:11.987Z"
+        },
+        "9d38eb88094279d8bcb6": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "AVAX 50 percent four-week gain is a price move with no underlying protocol event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:13.857Z"
         }
       },
       "baselineSlugs": [
