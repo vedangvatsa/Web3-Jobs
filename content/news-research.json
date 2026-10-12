@@ -29531,11 +29531,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc8d745d64c4c18c43d8",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T22:26:02.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "duplicate",
+      "note": "Same Papertrade launch cluster drafted once as papertrade.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:59:03.184Z",
+      "duplicateOf": "papertrade",
+      "mergedInto": "6445e691f0625b1e13c9",
+      "lastReviewedDay": "2026-10-12"
     },
     "efaa00468953018501e3": {
       "source": "CryptoSlate",
@@ -53640,6 +53647,15 @@
           "note": "Same Papertrade launch cluster drafted once as papertrade.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:59:01.172Z",
+          "duplicateOf": "papertrade",
+          "mergedInto": "6445e691f0625b1e13c9"
+        },
+        "bc8d745d64c4c18c43d8": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Papertrade launch cluster drafted once as papertrade.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:59:03.184Z",
           "duplicateOf": "papertrade",
           "mergedInto": "6445e691f0625b1e13c9"
         }
