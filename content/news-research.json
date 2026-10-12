@@ -24595,25 +24595,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "d2a36ff801c6db70c716",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T21:57:10.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Kalshi Zacharia-bets probe not fully read though snippets show WSJ origin plus CNN and The Hill; full reads outstanding.",
+      "reason": "verified-event",
+      "note": "Verified Kalshi probe - three pre-announcement wagers on Zacharia press-secretary pick (19 to 1896, 74/80 to 3689/4023), WSJ via spokesperson, Kalshi declined further comment - matched across Verge, Reuters, Economic Times; WSJ paywalled.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
-          "outcome": "unavailable"
+          "url": "https://www.theverge.com/tech/1009225/kalshi-is-investigating-trades-about-trumps-new-press-secretary-pick",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/10/kalshi-probes-suspicious-trades-tied-to-trump-press-secretary-pick-wsj-reports",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:23.251Z",
+      "reviewedAt": "2026-10-12T03:57:41.725Z",
       "retrySearches": [
         "Kalshi Zacharia press secretary bets investigation"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "articleSlug": "kalshi-probe"
     },
     "2f33d3c76777e7ef334e": {
       "source": "Cointelegraph",
@@ -53443,6 +53451,27 @@
           ],
           "reviewedAt": "2026-10-12T03:57:39.665Z",
           "articleSlug": "papertrade"
+        },
+        "d2a36ff801c6db70c716": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Kalshi probe - three pre-announcement wagers on Zacharia press-secretary pick (19 to 1896, 74/80 to 3689/4023), WSJ via spokesperson, Kalshi declined further comment - matched across Verge, Reuters, Economic Times; WSJ paywalled.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theverge.com/tech/1009225/kalshi-is-investigating-trades-about-trumps-new-press-secretary-pick",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.thestar.com.my/tech/tech-news/2026/10/10/kalshi-probes-suspicious-trades-tied-to-trump-press-secretary-pick-wsj-reports",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:57:41.725Z",
+          "articleSlug": "kalshi-probe"
         }
       },
       "baselineSlugs": [
