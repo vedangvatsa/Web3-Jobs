@@ -2,8 +2,8 @@
   "version": 1,
   "catalogs": {
     "news": {
-      "checkedAt": "2026-10-11T19:31:29.601Z",
-      "sourceCommit": "f40e3775506d80d30c295d47b57b1d4dd477ac1f",
+      "checkedAt": "2026-10-12T03:34:43.161Z",
+      "sourceCommit": "47d67b5b60a6e05caf509d6ab16cd5c24a2a393a",
       "changedFiles": 1
     },
     "events": {
@@ -12,9 +12,9 @@
       "changedFiles": 117
     },
     "jobs": {
-      "checkedAt": "2026-10-11T18:15:52.043Z",
-      "sourceCommit": "2e73ca69176eededa4d013e50e29acaadeaf50f3",
-      "changedFiles": 162
+      "checkedAt": "2026-10-12T03:41:55.630Z",
+      "sourceCommit": "47d67b5b60a6e05caf509d6ab16cd5c24a2a393a",
+      "changedFiles": 160
     }
   }
 }

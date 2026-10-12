@@ -120,6 +120,10 @@
     "2026-10-11:evening": [
       "sls10",
       "product475"
+    ],
+    "2026-10-12:morning": [
+      "marketing212",
+      "eng332"
     ]
   },
   "jobs": {
@@ -2214,6 +2218,76 @@
           "startedAt": "2026-10-11T19:34:35.451Z",
           "postId": "6acbe4cc63ff33d8c9938fbf",
           "url": "https://tiktok.com/@hashtagweb3/video/7695496028002340129"
+        }
+      }
+    },
+    "marketing212": {
+      "slot": "2026-10-12:morning",
+      "selectedAt": "2026-10-12T03:34:13.234Z",
+      "verifiedAt": "2026-10-12T03:34:13.234Z",
+      "captions": {
+        "instagram": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+        "tiktok": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtube": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+        "youtubeTitle": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
+          "startedAt": "2026-10-12T03:34:15.118Z",
+          "containerId": "17917280148461009",
+          "postId": "18125811961861188",
+          "url": "https://www.instagram.com/reel/DeYR24Ojcr0/"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+          "startedAt": "2026-10-12T03:35:03.301Z",
+          "postId": "6acc55687db619a2915880ea",
+          "url": "https://www.youtube.com/watch?v=1jZI7ZkdkT8"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
+          "startedAt": "2026-10-12T03:35:09.950Z",
+          "postId": "6acc556fea568e911a4e481e",
+          "url": "https://tiktok.com/@hashtagweb3/video/7695619740370242849"
+        }
+      }
+    },
+    "eng332": {
+      "slot": "2026-10-12:morning",
+      "selectedAt": "2026-10-12T03:34:13.234Z",
+      "verifiedAt": "2026-10-12T03:34:13.234Z",
+      "captions": {
+        "instagram": "Senior/Staff Engineer - Web3 - Onchain Data at OKX\n\nHong Kong; Singapore\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
+        "tiktok": "Senior/Staff Engineer - Web3 - Onchain Data at OKX. Hong Kong; Singapore.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtube": "Hong Kong; Singapore\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+        "youtubeTitle": "Senior/Staff Engineer - Web3 - Onchain Data at OKX"
+      },
+      "receipts": {
+        "instagram": {
+          "status": "sent",
+          "text": "Senior/Staff Engineer - Web3 - Onchain Data at OKX\n\nHong Kong; Singapore\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #EngineeringJobs #Hiring",
+          "startedAt": "2026-10-12T03:37:05.620Z",
+          "containerId": "17917280538461009",
+          "postId": "18561902281077539",
+          "url": "https://www.instagram.com/reel/DeYSL1nFVKY/"
+        },
+        "youtube": {
+          "status": "sent",
+          "text": "Hong Kong; Singapore\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-12T03:37:53.314Z",
+          "postId": "6acc5612a9411fbcc56ac6cb",
+          "url": "https://www.youtube.com/watch?v=2x6WG6LzTOo"
+        },
+        "tiktok": {
+          "status": "sent",
+          "text": "Senior/Staff Engineer - Web3 - Onchain Data at OKX. Hong Kong; Singapore.\n\nFind the role on hashtagweb3.com\n\n#Hiring #TechJobs #Jobs",
+          "startedAt": "2026-10-12T03:38:00.186Z",
+          "postId": "6acc5619fa026cfb8124fd1c",
+          "url": "https://tiktok.com/@hashtagweb3/video/7695620456451280160"
         }
       }
     }

@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-10-11T19:31:28.545Z",
+  "generatedAt": "2026-10-12T03:34:41.858Z",
   "items": [
+    {
+      "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
+      "link": "https://dailyhodl.com/2026/10/11/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data/",
+      "pubDate": "Mon, 12 Oct 2026 03:04:56 +0000",
+      "creator": "Chainwire",
+      "contentSnippet": "Palo Alto, United States, 12th October 2026, Chainwire\nThe post DATA Network joins Sui and Walrus to scale the supply chain for AI training data appea...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+      "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 01:21:29 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
+      "link": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+      "pubDate": "Sun, 11 Oct 2026 22:26:02 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
+      "source": "The Block"
+    },
     {
       "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto ",
       "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
@@ -8,14 +32,6 @@
       "creator": "Nikhilesh De",
       "contentSnippet": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an ...",
       "source": "Coindesk"
-    },
-    {
-      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
-      "pubDate": "Sun, 11 Oct 2026 18:07:41 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
-      "source": "The Block"
     },
     {
       "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
@@ -154,7 +170,7 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
       "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 09 Oct 2026 19:04:03 +0000",
       "creator": "Turner Wright",
@@ -402,28 +418,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
-      "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 19:31:38 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Securitize’s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
       "link": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
       "pubDate": "Thu, 08 Oct 2026 19:31:03 +0000",
       "creator": "Staff",
       "contentSnippet": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're ga...",
       "source": "Decrypt"
-    },
-    {
-      "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi ",
-      "link": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 08 Oct 2026 19:17:18 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "According to the league, Kalshi and other prediction markets “threaten game integrity” because many event contracts are “highly susceptible to manipul...",
-      "source": "Cointelegraph"
     },
     {
       "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
@@ -514,6 +514,14 @@
       "source": "Decrypt"
     },
     {
+      "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+      "link": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+      "pubDate": "Thu, 08 Oct 2026 15:10:49 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Sola...",
+      "source": "Decrypt"
+    },
+    {
       "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
       "link": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
       "pubDate": "Thu, 08 Oct 2026 14:52:27 +0000",
@@ -546,28 +554,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Crypto industry split over Justin Drake’s AI warning",
-      "link": "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021",
-      "pubDate": "Thu, 08 Oct 2026 10:20:00 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Crypto players disagree over Justin Drake’s AI cryptography warning, with some dismissing it while others urge proactive preparation.",
-      "source": "The Block"
-    },
-    {
       "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
       "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
       "pubDate": "Thu, 08 Oct 2026 09:05:50 +0000",
       "creator": "Agent",
       "contentSnippet": "Users can send USDC across borders from late October, three months after Samsung teased stablecoin support without naming a blockchain.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Standard Chartered to expand crypto custody services in Singapore",
-      "link": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-      "pubDate": "Thu, 08 Oct 2026 07:55:14 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
-      "source": "The Block"
     }
   ]
 }
