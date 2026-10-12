@@ -24441,22 +24441,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f33d3c76777e7ef334e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T20:39:17.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Iran seizure-plan piece not fully read; same Bessent event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:35.040Z",
+      "reason": "not-a-concrete-event",
+      "note": "US plans to seize 1B in Iran-linked crypto this week is a plan with no executed seizure.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:49.020Z",
       "articleSlug": "iran-seizure",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
@@ -24464,8 +24459,7 @@
       ],
       "retrySearches": [
         "Bessent 1B Iran crypto seizure Treasury statement October 2026"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "504c54edc7c703968bcd": {
       "source": "Cointelegraph",
@@ -52778,6 +52772,13 @@
           "note": "Bessent threat to freeze 1B in Iran-linked crypto is a stated plan with no executed seizure or frozen addresses.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:47.033Z"
+        },
+        "2f33d3c76777e7ef334e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "US plans to seize 1B in Iran-linked crypto this week is a plan with no executed seizure.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:49.020Z"
         }
       },
       "baselineSlugs": [
