@@ -28098,23 +28098,23 @@
       "id": "67889d0e0b3f94cd5fa1",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T12:34:31.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "Bank of England stablecoin remark not fully read; single weak source, needs speech text plus second outlet.",
+      "note": "BoE stablecoin framework read in CryptoBriefing only - needs BoE speech or paper plus a second outlet.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T18:21:08.742Z",
+      "reviewedAt": "2026-10-12T04:03:11.218Z",
       "retrySearches": [
-        "Bank of England banker to stablecoin speech October 2026"
+        "Bank of England stablecoin banker Breeden speech October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "1062f930d0e4dfe1f358": {
       "source": "Crypto Briefing",
@@ -53984,6 +53984,21 @@
           "reviewedAt": "2026-10-12T04:03:09.289Z",
           "retrySearches": [
             "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
+          ]
+        },
+        "67889d0e0b3f94cd5fa1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "BoE stablecoin framework read in CryptoBriefing only - needs BoE speech or paper plus a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:11.218Z",
+          "retrySearches": [
+            "Bank of England stablecoin banker Breeden speech October 2026"
           ]
         }
       },
