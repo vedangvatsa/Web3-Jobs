@@ -422,7 +422,7 @@ jobs:
 
       - name: Test Telegram delivery and schedule guards
         run: |
-          node --test scripts/social/posting-slot.test.mjs scripts/social/gemini-json.test.mjs scripts/social/telegram-jobs-delivery.test.mjs scripts/social/telegram-news-delivery.test.mjs
+          node --test scripts/social/posting-slot.test.mjs scripts/social/gemini-json.test.mjs scripts/social/telegram-jobs-delivery.test.mjs scripts/social/telegram-news-delivery.test.mjs scripts/social/telegram-news-state.test.mjs
           npx tsx --test scripts/telegram-event-mirror.test.ts scripts/telegram-event-delivery.test.ts scripts/telegram-event-state.test.ts
 
       - name: Check posting window and load published catalogs

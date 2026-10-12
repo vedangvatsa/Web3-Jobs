@@ -22,6 +22,30 @@ An explicit `--platform instagram`, including `--force`, fails before selection.
 Historical image receipts stay intact. Old one-off Buffer content scripts are not
 part of the scheduled job flow; do not use them to bypass the video ledger.
 
+## Receipt persistence and recovery
+
+Video receipts for Instagram, YouTube and TikTok are stored in
+`scripts/social/job-video-state.json`. GitHub write conflicts retry up to eight
+times using a fresh file SHA and a merge that preserves existing provider IDs,
+reservations and confirmed deliveries. Conflicting identities stop publication.
+The publisher checkpoints evidence locally before remote writes and stops further
+provider mutations if persistence fails. The workflow uploads the ledger and its
+append-only `job-video-state.recovery.jsonl` journal as recovery artifacts; the
+journal is not committed to Git.
+
+To check an existing job's unresolved receipts without publishing anything:
+
+```sh
+gh workflow run post-job-videos-social.yml --repo vedangvatsa/Web3-Jobs --ref main -F reconcile_only=true -F dry_run=true -f slugs=marketing211
+```
+
+Use `dry_run=false` to save receipts verified against the provider. This mode
+reads existing posts only and cannot create posts or media containers. One or two
+explicit existing slugs are required. It skips confirmed deliveries and checks
+pending Buffer posts once. Unconfirmed or ambiguous results retain their existing
+state and fail visibly; never clear them just to enable a resend. Reconciliation
+uses the same concurrency lock as publishing.
+
 ## Captions and API settings
 
 - Role and employer on the first line, followed by the video's verified location

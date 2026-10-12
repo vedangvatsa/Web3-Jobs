@@ -26,6 +26,8 @@ Each sender saves a reservation on `main` before calling Telegram and saves the 
 
 Receipts are committed independently of catalog changes and backed up as workflow artifacts. A catalog rebase cannot discard posting history.
 
+Concurrent publishers can advance `main` while a receipt commit is being saved. Persistence makes up to eight attempts, refetching and merging the original receipt snapshot each time, with exponential jittered delays capped at 30 seconds. Reservation checks run against the fresh history on every attempt. Exhausted retries retain local evidence and fail the run; they do not authorize another send. Diagnostics report a recognized Git failure reason without printing remote URLs or credentials.
+
 ## Diagnostics
 
 Dispatch `refresh-jobs-cache.yml` with `diagnose_telegram=true` to check bot membership and posting permissions without sending messages. Add `diagnose_content=true` to preview jobs, events, Web3 news and AI news using live credentials. These preview commands use `--dry-run --force`: the force flag bypasses the preview cooldown, but the dry-run flag prevents Telegram sends and delivery-history writes.

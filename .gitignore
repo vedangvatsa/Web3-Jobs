@@ -91,6 +91,7 @@ scripts/manual-emails*.json
 /.cache/luma-venue-enrichment.json
 /.cache/event-verification/
 /scripts/social/output/
+/scripts/social/job-video-state.recovery.jsonl
 /hashed_*.json
 /*_scraped_jobs.json
 /*_vacancies.json

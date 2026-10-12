@@ -53,7 +53,7 @@ export async function bufferRecover(platform: 'youtube' | 'tiktok', receipt: Rec
 export async function bufferVerify(platform: 'youtube' | 'tiktok', receipt: Receipt, attempts = 24): Promise<string> {
   for (let attempt = 0; attempt < attempts; attempt++) {
     const {post} = await bufferQuery<{post: BufferPost}>('query ($id: PostId!) {post(input: {id: $id}) {' + postFields + '}}', {id: receipt.postId});
-    if (!post || post.channelId !== channels[platform] || post.channelService !== platform || post.text !== receipt.text) throw new Error('Buffer receipt does not match the requested video post');
+    if (!post || post.id !== receipt.postId || post.channelId !== channels[platform] || post.channelService !== platform || post.text !== receipt.text) throw new Error('Buffer receipt does not match the requested video post');
     if (post.status === 'error') throw new Error(`Buffer publish failed — ${post.error?.message || 'unknown error'}`);
     if (post.status === 'sent' && post.externalLink) {
       const url = new URL(post.externalLink);
@@ -83,9 +83,11 @@ export async function instagramReady(containerId: string): Promise<'FINISHED' | 
   throw new Error('Instagram container is still processing; retained for retry');
 }
 
-export async function instagramVerify(id: string): Promise<string> {
-  const media = await meta<{id: string; permalink: string; owner: {id: string}; media_product_type: string}>(`${id}?fields=id,permalink,owner,media_product_type`);
-  if (media.id !== id || media.owner?.id !== instagramAccount || new URL(media.permalink).hostname !== 'www.instagram.com') throw new Error('Instagram receipt ownership mismatch');
+export async function instagramVerify(id: string, receipt?: Receipt): Promise<string> {
+  const media = await meta<{id: string; permalink: string; owner: {id: string}; media_product_type: string; caption?: string; timestamp?: string}>(`${id}?fields=id,permalink,owner,media_product_type${receipt ? ',caption,timestamp' : ''}`);
+  const url = new URL(media.permalink);
+  if (media.id !== id || media.owner?.id !== instagramAccount || url.protocol !== 'https:' || url.hostname !== 'www.instagram.com') throw new Error('Instagram receipt ownership mismatch');
   if (media.media_product_type !== 'REELS') throw new Error('Instagram publication is not a Reel');
+  if (receipt && (media.caption !== receipt.text || !media.timestamp || !Number.isFinite(Date.parse(media.timestamp)) || Date.parse(media.timestamp) < Date.parse(receipt.startedAt) - 60000)) throw new Error('Instagram receipt text or timestamp mismatch');
   return media.permalink;
 }

@@ -21,9 +21,15 @@ test('merges both posting histories and keeps the newest cooldown', () => {
   assert.throws(() => mergeNewsState(posted, {}, []), /Invalid posted history/);
   assert.throws(() => mergeNewsState(last, { postedAt: 'invalid' }, undefined), /Invalid cooldown/);
   assert.deepEqual(mergeNewsState('.telegram-news-deliveries-test.json', { a: { status: 'reserved' } }, { a: { status: 'sent', messageId: 123 } }), { a: { status: 'sent', messageId: 123 } });
+  const sent = { status: 'sent', messageId: 456 };
+  for (const status of ['reserved', 'rejected']) {
+    assert.deepEqual(mergeNewsState('.telegram-news-deliveries-test.json', { a: sent }, { a: { status }, ambiguous: { status: 'reserved' } }), { a: sent, ambiguous: { status: 'reserved' } });
+  }
 });
 
-test('publishes receipts from a stale dirty checkout without overwriting newer remote code or history', () => {
+test('publishes receipts from a stale dirty checkout without overwriting newer remote code or history', t => {
+  const waits = t.mock.method(Atomics, 'wait', () => 'timed-out');
+  const warnings = t.mock.method(console, 'warn', () => {});
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'news-state-test-'));
   try {
     const remote = path.join(root, 'remote.git');
@@ -76,10 +82,31 @@ test('publishes receipts from a stale dirty checkout without overwriting newer r
     git(other, 'fetch', 'origin', 'main');
     assert.equal(git(other, 'show', 'FETCH_HEAD:events.json'), 'racing remote update');
     assert.ok(JSON.parse(git(other, 'show', `FETCH_HEAD:${posted}`)).includes('race receipt'));
-    fs.writeFileSync(path.join(remote, 'hooks', 'pre-receive'), '#!/bin/sh\nexit 1\n', { mode: 0o755 });
-    fs.writeFileSync(path.join(local, posted), JSON.stringify(['unsaved receipt']));
-    assert.throws(() => persistNewsState({ cwd: local, attempts: 2 }), /push failed/);
-    assert.ok(JSON.parse(fs.readFileSync(path.join(local, posted))).includes('unsaved receipt'));
+    const beforeFailure = git(remote, 'rev-parse', 'refs/heads/main');
+    fs.writeFileSync(path.join(remote, 'hooks', 'pre-receive'), '#!/bin/sh\nprintf "%s\\n" "https://user:fake-password@example.invalid/repo?token=fake-query Authorization: Basic fake-header" >&2\nexit 1\n', { mode: 0o755 });
+    let jitter = 0;
+    t.mock.method(Math, 'random', () => jitter);
+    for (jitter of [0, 0.999999]) {
+      const waitStart = waits.mock.callCount();
+      fs.writeFileSync(path.join(local, posted), JSON.stringify(['unsaved receipt']));
+      let attempts = 0;
+      assert.throws(() => persistNewsState({ cwd: local, validateRemote: () => { attempts++; } }), error => {
+        assert.match(error.message, /history push failed after 8 attempts; local receipts retained for recovery/);
+        assert.match(error.message, /git push exit 1: pre-receive hook declined/);
+        assert.doesNotMatch(error.message, /fake-password|fake-query|fake-header|https:\/\//);
+        return true;
+      });
+      assert.equal(attempts, 8);
+      const delays = waits.mock.calls.slice(waitStart).map(call => call.arguments[3]);
+      assert.deepEqual(delays, jitter === 0 ? [500, 1000, 2000, 4000, 8000, 15000, 15000]
+        : [999, 1999, 3999, 7999, 15999, 29999, 29999]);
+      assert.ok(JSON.parse(fs.readFileSync(path.join(local, posted))).includes('unsaved receipt'));
+    }
+    assert.equal(git(remote, 'rev-parse', 'refs/heads/main'), beforeFailure);
+    assert.equal(git(local, 'rev-parse', 'HEAD'), originalHead);
+    assert.equal(git(local, 'write-tree'), originalIndex);
+    assert.equal(fs.readFileSync(path.join(local, 'events.json'), 'utf8'), 'local conflicting update');
+    assert.doesNotMatch(JSON.stringify(warnings.mock.calls), /fake-password|fake-query|fake-header/);
   } finally {
     fs.rmSync(root, { recursive: true, force: true });
   }

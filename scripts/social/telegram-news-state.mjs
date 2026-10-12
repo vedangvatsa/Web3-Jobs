@@ -39,10 +39,18 @@ export function mergeNewsState(name, local, remote) {
   return Date.parse(local.postedAt) > Date.parse(remote.postedAt) ? local : remote;
 }
 
-export function persistTelegramState({ cwd = process.cwd(), syncOnly = false, attempts = 6, validateRemote = (_remote) => {}, pattern = statePattern, mergeState = mergeNewsState, kind = 'news' } = {}) {
+function pushFailureDetail(error) {
+  // Git output can include credentials in remote URLs or hook messages. Only report known failure reasons.
+  const output = `${error?.stdout || ''}\n${error?.stderr || ''}`;
+  const reason = output.match(/\b(fetch first|non-fast-forward|stale info|pre-receive hook declined|protected branch hook declined|failed to update ref|cannot lock ref|authentication failed|permission denied|could not resolve host|connection timed out|connection reset by peer|remote end hung up unexpectedly)\b/i)?.[0];
+  return `git push exit ${Number.isInteger(error?.status) ? error.status : 'unknown'}${reason ? `: ${reason.toLowerCase()}` : ''}`;
+}
+
+export function persistTelegramState({ cwd = process.cwd(), syncOnly = false, attempts = 8, validateRemote = (_remote) => {}, pattern = statePattern, mergeState = mergeNewsState, kind = 'news' } = {}) {
   const git = (args, options = {}) => execFileSync('git', args, {
     cwd, encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'], ...options,
   }).trim();
+  // Retry from the original receipts, never from files rewritten while merging a fetched main.
   const local = new Map(fs.readdirSync(cwd).filter(name => pattern.test(name))
     .map(name => [name, JSON.parse(fs.readFileSync(path.join(cwd, name), 'utf8'))]));
   const temp = fs.mkdtempSync(path.join(os.tmpdir(), 'telegram-state-'));
@@ -80,9 +88,13 @@ export function persistTelegramState({ cwd = process.cwd(), syncOnly = false, at
       try {
         git(['push', 'origin', `${commit}:refs/heads/main`]);
         return;
-      } catch {
-        if (attempt === attempts) throw new Error(`Telegram ${kind} history push failed; local receipts retained for recovery`);
-        Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 150 + Math.floor(Math.random() * 350));
+      } catch (error) {
+        const detail = pushFailureDetail(error);
+        if (attempt === attempts) throw new Error(`Telegram ${kind} history push failed after ${attempt} attempts; local receipts retained for recovery (${detail})`);
+        const ceiling = Math.min(30_000, 1000 * 2 ** (attempt - 1));
+        const delay = Math.floor(ceiling / 2 + Math.random() * ceiling / 2);
+        console.warn(`Telegram ${kind} history push attempt ${attempt}/${attempts} failed at ${base.slice(0, 12)} (${detail}); retrying in ${delay}ms`);
+        Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, delay);
       }
     }
     throw new Error(`Telegram ${kind} history requires at least one persistence attempt`);

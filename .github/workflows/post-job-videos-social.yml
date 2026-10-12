@@ -9,11 +9,15 @@ on:
         options: [morning, afternoon, evening]
         default: evening
       dry_run:
-        description: Preview captions without posting
+        description: Preview captions or reconcile receipts without saving
         type: boolean
         default: true
+      reconcile_only:
+        description: Verify existing video receipts without creating posts
+        type: boolean
+        default: false
       slugs:
-        description: Optional two job slugs separated by a comma
+        description: One or two job slugs; required for receipt reconciliation
         type: string
         default: ''
   workflow_call:
@@ -42,9 +46,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
-      - name: Test video caps, freshness and approved captions
-        run: node --test scripts/social/job-video-core.test.ts scripts/social/job-video-clients.test.ts
+      - name: Test video publishing and receipt persistence
+        run: node --test scripts/social/job-video-*.test.ts
       - name: Publish or resume two videos
+        if: ${{ !inputs.reconcile_only }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUFFER_VIDEO_ACCESS_TOKEN: ${{ secrets.BUFFER_VIDEO_ACCESS_TOKEN }}
@@ -58,9 +63,21 @@ jobs:
           ARGS=()
           if [ "$VIDEO_DRY_RUN" = "true" ]; then ARGS+=(--dry-run); fi
           node scripts/social/post-job-videos.ts "${ARGS[@]}"
+      - name: Reconcile existing video receipts
+        if: ${{ inputs.reconcile_only }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUFFER_VIDEO_ACCESS_TOKEN: ${{ secrets.BUFFER_VIDEO_ACCESS_TOKEN }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          VIDEO_SLUGS: ${{ inputs.slugs }}
+          VIDEO_DRY_RUN: ${{ inputs.dry_run }}
+        run: node scripts/social/job-video-reconcile.ts
       - name: Retain video receipts
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: job-video-receipts-${{ github.run_id }}-${{ github.run_attempt }}
-          path: scripts/social/job-video-state.json
+          path: |
+            scripts/social/job-video-state.json
+            scripts/social/job-video-state.recovery.jsonl
+          if-no-files-found: error
