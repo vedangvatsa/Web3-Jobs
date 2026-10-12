@@ -713,6 +713,9 @@
   "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
   "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
   "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+  "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+  "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+  "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1922,6 +1925,12 @@
   "Mars may be a hellhole, but the moon is not far behind",
   "Apple’s Rumored Smart Home Device Named HomeView",
   "Will the HomeView be Apple’s first smart home success?",
+  "Amazon deploys over 1 million robots in fulfillment centers",
+  "Amazon has over 1 million robot workers. What’s next for human employees?",
+  "WindBorne wins $50 million Air Force AI contract",
+  "WindBorne wins a hefty US Air Force contract for its balloon data",
+  "Microsoft president urges UK to lead artificial intelligence regulation",
+  "Microsoft president says UK is best placed to drive AI regulation",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2152,5 +2161,8 @@
   "fp:a16z|api|beyond|consumer|discuss|fee|incom|monthly|moor|olivia",
   "fp:10k|an18|automat|bot|defendant|fraud|fraudster|generat|jail|man",
   "fp:alongsid|are|behind|china|compet|country|far|hellhol|land|lunar",
-  "fp:appl|devic|hom|homeview|nam|product|recent|releas|reveal|rumor"
+  "fp:appl|devic|hom|homeview|nam|product|recent|releas|reveal|rumor",
+  "fp:amazon|center|deploy|employe|fleet|fulfillment|global|human|integrat|inventory",
+  "fp:50m|air|application|autonomous|balloon|contract|data|defens|driven|forc",
+  "fp:argu|becaus|best|currently|driv|hav|lead|machin|microsoft|milk"
 ]

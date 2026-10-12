@@ -1172,7 +1172,7 @@
     "sentAt": "2026-10-12T11:33:34.435Z"
   },
   "d03f5f2b-3d90-4102-87c9-1f6187fd3fa6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-12T19:33:42.693Z",
     "stories": [
       {
@@ -1204,6 +1204,8 @@
         "originalTitle": "Microsoft president says UK is best placed to drive AI regulation"
       }
     ],
-    "slotKey": "2026-10-12:evening"
+    "slotKey": "2026-10-12:evening",
+    "messageId": 193338,
+    "sentAt": "2026-10-12T19:33:45.669Z"
   }
 }
