@@ -24314,25 +24314,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "af458fb1bbabce80a040",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T22:03:36.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Coinbase-Gennius ONED stablecoin story on a single queued source; LatAm bank details unverified.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:19.907Z",
+      "reason": "not-a-concrete-event",
+      "note": "Coinbase and Gennius planning ONED stablecoin bank access is a plan with no launch or terms.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:32.100Z",
       "retrySearches": [
         "Coinbase Gennius ONED stablecoin Latin America banks"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "77cc1648dfd4b90a3add": {
       "source": "Bitcoin Magazine",
@@ -52771,6 +52765,13 @@
           "note": "Ostium proposing equity stakes to hacked LPs is a proposal with no vote or payout.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:30.241Z"
+        },
+        "af458fb1bbabce80a040": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Coinbase and Gennius planning ONED stablecoin bank access is a plan with no launch or terms.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:32.100Z"
         }
       },
       "baselineSlugs": [
