@@ -23241,22 +23241,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "496643e7a159131009a6",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T16:08:23.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "DWF-BitGo suit piece not fully read; same 141M event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:07.447Z",
+      "reason": "duplicate",
+      "note": "Same DWF-BitGo 141M suit drafted once as bitgo-suit.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:59:23.531Z",
       "articleSlug": "bitgo-suit",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
@@ -23265,7 +23260,8 @@
       "retrySearches": [
         "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
       ],
-      "nextReviewDate": "2026-10-12"
+      "duplicateOf": "bitgo-suit",
+      "mergedInto": "f46b0c4a638dbaf5f575"
     },
     "f81abcaa78c20b29893e": {
       "source": "The Defiant",
@@ -23729,26 +23725,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "625750d26ecc321a617e",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 10,
+      "attempts": 11,
       "expiresAt": "2026-10-12T13:24:12.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "DWF-BitGo suit piece not fully read; same 141M event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:09.711Z",
+      "reason": "duplicate",
+      "note": "Same DWF-BitGo 141M suit drafted once as bitgo-suit.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:59:25.450Z",
       "duplicateOf": "bitgo-suit",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "DWF Labs BitGo 141M lawsuit token lock-up London filing response"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "f46b0c4a638dbaf5f575"
     },
     "086f433689c7a72fd7a9": {
       "source": "The Block",
@@ -23819,28 +23810,32 @@
       "id": "b66ae32556259e005f14",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T18:46:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Warren Cantor-Tether letter story on a single queued source; letter plus second outlet outstanding.",
+      "note": "Same Cantor-Tether letter event as b22ff441 - Senate letter plus Unchained read, Decrypt second outlet still to open.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380599/senate-democrat-presses-cantor-fitzgerald-tether-ties",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:06.378Z",
+      "reviewedAt": "2026-10-12T03:59:27.319Z",
       "articleSlug": "cantor-tether",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ],
       "retrySearches": [
-        "Warren Cantor Fitzgerald Tether Lutnick letter October 2026"
+        "Blumenthal Cantor Fitzgerald Tether letter Oct 23 deadline response"
       ],
-      "nextReviewDate": "2026-10-12"
+      "nextReviewDate": "2026-10-13"
     },
     "a391370519699e67f1d6": {
       "source": "Bankless",
@@ -53667,6 +53662,43 @@
           "reviewedAt": "2026-10-12T03:59:06.975Z",
           "duplicateOf": "kalshi-probe",
           "mergedInto": "d2a36ff801c6db70c716"
+        },
+        "496643e7a159131009a6": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same DWF-BitGo 141M suit drafted once as bitgo-suit.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:59:23.531Z",
+          "duplicateOf": "bitgo-suit",
+          "mergedInto": "f46b0c4a638dbaf5f575"
+        },
+        "625750d26ecc321a617e": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same DWF-BitGo 141M suit drafted once as bitgo-suit.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:59:25.450Z",
+          "duplicateOf": "bitgo-suit",
+          "mergedInto": "f46b0c4a638dbaf5f575"
+        },
+        "b66ae32556259e005f14": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Same Cantor-Tether letter event as b22ff441 - Senate letter plus Unchained read, Decrypt second outlet still to open.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380599/senate-democrat-presses-cantor-fitzgerald-tether-ties",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:59:27.319Z",
+          "retrySearches": [
+            "Blumenthal Cantor Fitzgerald Tether letter Oct 23 deadline response"
+          ]
         }
       },
       "baselineSlugs": [
