@@ -2233,9 +2233,10 @@
       },
       "receipts": {
         "instagram": {
-          "status": "creating",
+          "status": "pending",
           "text": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo\n\nSofia, BG\n\nFind the role on hashtagweb3.com\n\n#Web3Jobs #MarketingJobs #Hiring",
-          "startedAt": "2026-10-12T03:34:15.118Z"
+          "startedAt": "2026-10-12T03:34:15.118Z",
+          "containerId": "17917280148461009"
         }
       }
     },
