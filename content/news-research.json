@@ -22512,23 +22512,23 @@
       "id": "f8ec77c66ea84cb60667",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T14:59:00.000Z",
       "lastSeenAt": "2026-10-10T11:44:28.715Z",
-      "reason": "needs-corroboration",
-      "note": "SEC cross-trading proposal has indirect crypto relevance; sec.gov release plus Bloomberg Law outstanding, needs a crypto nexus.",
+      "reason": "source-blocked",
+      "note": "SEC cross-trading proposal blocked at SEC.gov - needs openable release and second outlet.",
       "sourceChecks": [
         {
           "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
-          "outcome": "unavailable"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:50.840Z",
+      "reviewedAt": "2026-10-12T04:04:10.537Z",
       "retrySearches": [
-        "SEC Rule 17a-7 cross trading proposal comment period"
+        "SEC cross trading proposal registered funds comment coverage"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "3e5484a682e6ed261c67": {
       "source": "CoinDesk",
@@ -54327,6 +54327,21 @@
           "reviewedAt": "2026-10-12T04:04:08.532Z",
           "retrySearches": [
             "Coinbase AI benchmark payment fraud second outlet"
+          ]
+        },
+        "f8ec77c66ea84cb60667": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "SEC cross-trading proposal blocked at SEC.gov - needs openable release and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:04:10.537Z",
+          "retrySearches": [
+            "SEC cross trading proposal registered funds comment coverage"
           ]
         }
       },
