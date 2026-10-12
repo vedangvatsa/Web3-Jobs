@@ -29201,11 +29201,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "59b8873748216f55d0f6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T01:01:57.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Bank earnings preview tied to Anthropic IPO is equities coverage with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:42:37.939Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "ff1f5afd82c5de61fdb3": {
       "source": "BeInCrypto",
@@ -52356,6 +52361,13 @@
           "note": "Anthropic AI false police tip is an AI-safety incident with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:42:36.002Z"
+        },
+        "59b8873748216f55d0f6": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Bank earnings preview tied to Anthropic IPO is equities coverage with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:42:37.939Z"
         }
       },
       "baselineSlugs": [
