@@ -26234,23 +26234,23 @@
       "id": "75458f3f069585bcec46",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T22:48:20.650Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-13T18:00:18.000Z",
       "lastSeenAt": "2026-10-11T16:43:31.341Z",
       "reason": "needs-corroboration",
-      "note": "Coinbase AI fraud-benchmark story corroborated via search; full reads plus draft outstanding.",
+      "note": "Coinbase AI benchmark read in CryptoSlate with company blog 403 - needs openable primary and second outlet.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:54.071Z",
+      "reviewedAt": "2026-10-12T04:04:08.532Z",
       "retrySearches": [
-        "Coinbase Onramp AI fraud benchmark 16140 transactions October 7 2026"
+        "Coinbase AI benchmark payment fraud second outlet"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "30e1156d81e25df9d489": {
       "source": "BeInCrypto",
@@ -54312,6 +54312,21 @@
           "reviewedAt": "2026-10-12T04:04:06.544Z",
           "retrySearches": [
             "79AU 79thVault drain Bitquery second outlet"
+          ]
+        },
+        "75458f3f069585bcec46": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Coinbase AI benchmark read in CryptoSlate with company blog 403 - needs openable primary and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:04:08.532Z",
+          "retrySearches": [
+            "Coinbase AI benchmark payment fraud second outlet"
           ]
         }
       },
