@@ -1,5 +1,6 @@
 #!/usr/bin/env tsx
 import fs from 'fs';
+import { eligibleIngestedJobs } from './lib/job-ingestion-policy';
 import path from 'path';
 import { assignJobSlugsAndSyncLegacyArchive, getJobContentKey } from '../src/lib/job-slugs';
 import { loadPublishedRootSlugsSync, loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
@@ -66,7 +67,7 @@ async function main() {
       title,
       company,
       link: job.jobUrl,
-      date: job.publishedAt || new Date().toISOString(),
+      date: job.publishedAt || '',
       source,
       location: job.location,
       department: job.department || job.team,
@@ -81,7 +82,7 @@ async function main() {
     }
   }
 
-  const merged = [...filtered, ...added] as never[];
+  const merged = eligibleIngestedJobs([...filtered, ...added] as never[]);
   const legacyArchive = loadJobLegacyArchive();
   assignJobSlugsAndSyncLegacyArchive(merged, legacyArchive, loadReservedRootSlugsSync(), loadPublishedRootSlugsSync());
   writeJobLegacyArchive(legacyArchive);

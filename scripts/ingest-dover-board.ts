@@ -5,6 +5,7 @@
  * Example: npx tsx scripts/ingest-dover-board.ts muralpay Mural e1176848-... "Mural Pay"
  */
 import fs from 'fs';
+import { eligibleIngestedJobs } from './lib/job-ingestion-policy';
 import path from 'path';
 import { assignJobSlugsAndSyncLegacyArchive, getJobContentKey, getJobIdentity } from '../src/lib/job-slugs';
 import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
@@ -84,7 +85,7 @@ async function main() {
       title: detailTitle,
       company,
       link,
-      date: detail.created || posting.created || new Date().toISOString(),
+      date: detail.created || posting.created || '',
       source,
       location,
       active: true,
@@ -93,7 +94,7 @@ async function main() {
     descriptions[getJobContentKey(row as never)] = content;
   }
 
-  const merged = [...filtered, ...added] as never[];
+  const merged = eligibleIngestedJobs([...filtered, ...added] as never[]);
   const legacyArchive = loadJobLegacyArchive();
   assignJobSlugsAndSyncLegacyArchive(merged, legacyArchive, loadReservedRootSlugsSync());
   writeJobLegacyArchive(legacyArchive);

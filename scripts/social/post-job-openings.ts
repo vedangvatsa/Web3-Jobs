@@ -48,13 +48,14 @@ import { linkedInTargets, hasLinkedInReceipt, publishLinkedInTargets, type Linke
 import { PersonalLinkedInClient, personalLinkedInConfig } from './linkedin-personal';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
 import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
+import { isJobAgeEligible } from '../../src/lib/job-age-policy.mjs';
+import { assertPublishableJob, loadPublishedJobs, MAX_PREFLIGHT_CANDIDATES } from '../lib/job-publish-guard.mjs';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
 dotenv.config({ path: path.join(rootDir, '.env') });
 dotenv.config({ path: path.join(rootDir, '.env.local'), override: true });
 
-const JOBS_CACHE_FILE = path.join(rootDir, 'content/jobs-cache.json');
 const STATE_FILE = path.join(__dirname, 'jobs-social-posted.json');
 
 interface Job {
@@ -65,6 +66,8 @@ interface Job {
   location?: string;
   department?: string | { name?: string };
   link: string;
+  date?: string;
+  active?: boolean;
 }
 
 interface SocialState {
@@ -98,12 +101,10 @@ function buildSocialShareUrl(slug: string, suffix: string): string {
   return url.toString();
 }
 
-function loadJobs(): Job[] {
-  if (!fs.existsSync(JOBS_CACHE_FILE)) {
-    throw new Error(`Jobs cache not found at ${JOBS_CACHE_FILE}`);
-  }
-  const raw: Job[] = JSON.parse(fs.readFileSync(JOBS_CACHE_FILE, 'utf-8'));
+async function loadJobs(): Promise<Job[]> {
+  const raw: Job[] = await loadPublishedJobs();
   return raw.filter((j) => {
+    if (!isJobAgeEligible(j)) return false;
     if (!j.slug || !j.title || !j.company || !j.link) return false;
     const titleLower = j.title.toLowerCase();
     if (
@@ -122,7 +123,7 @@ function loadState(): SocialState {
   if (fs.existsSync(STATE_FILE)) {
     try {
       const state = JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8')) as Partial<SocialState>;
-      if (!Number.isInteger(state.lastIndex) || !Array.isArray(state.postedSlugs) || !Array.isArray(state.history)) {
+      if (typeof state.lastIndex !== 'number' || !Number.isInteger(state.lastIndex) || !Array.isArray(state.postedSlugs) || !Array.isArray(state.history)) {
         throw new Error('state is missing lastIndex, postedSlugs, or history');
       }
       return {
@@ -450,7 +451,7 @@ async function reconcilePendingThreadsPosts(state: SocialState): Promise<void> {
   if (changed) saveState(state);
 }
 
-async function postToThreads(text: string, linkAttachment?: string): Promise<string> {
+export async function postToThreads(text: string, linkAttachment: string, beforeSend: () => Promise<void>): Promise<string> {
   const { accessToken, threadsUserId } = getThreadsCredentials();
   const account = await getThreadsAccount(accessToken);
   if (account.id !== threadsUserId) {
@@ -467,6 +468,7 @@ async function postToThreads(text: string, linkAttachment?: string): Promise<str
   }
 
   // Step 1: Create media container (text post with native link attachment)
+  await beforeSend();
   const createRes = await fetch(`https://graph.threads.net/v1.0/${threadsUserId}/threads`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -486,6 +488,7 @@ async function postToThreads(text: string, linkAttachment?: string): Promise<str
   await new Promise((resolve) => setTimeout(resolve, 3000));
 
   // Step 2: Publish media container
+  await beforeSend();
   const publishRes = await fetch(`https://graph.threads.net/v1.0/${threadsUserId}/threads_publish`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -507,14 +510,16 @@ async function postToThreads(text: string, linkAttachment?: string): Promise<str
 
 // ── Bluesky / AT Protocol ──
 
-async function postToBluesky(
+export async function postToBluesky(
   text: string,
   linkUrl: string,
   ogImageUrl: string,
   company: string,
   title: string,
-  description?: string
+  description: string | undefined,
+  beforeSend: () => Promise<void>,
 ): Promise<string> {
+  await beforeSend();
   const handle = process.env.BLUESKY_HANDLE || 'hashtagweb3.bsky.social';
   const appPassword = process.env.BLUESKY_APP_PASSWORD;
 
@@ -594,6 +599,7 @@ async function postToBluesky(
     };
   }
 
+  await beforeSend();
   const postRes = await fetch('https://bsky.social/xrpc/com.atproto.repo.createRecord', {
     method: 'POST',
     headers: {
@@ -695,10 +701,11 @@ function isFarcasterComplete(state: SocialState, slug: string): boolean {
   return targets.every((target) => isFarcasterTargetVerified(state, slug, target));
 }
 
-async function postToFarcaster(
+export async function postToFarcaster(
   text: string,
   linkUrl: string,
-  channelId?: string,
+  channelId: string | undefined,
+  beforeSend: () => Promise<void>,
 ): Promise<string> {
   const apiKey = process.env.NEYNAR_API_KEY;
   const signerUuid = process.env.FARCASTER_SIGNER_UUID;
@@ -722,6 +729,7 @@ async function postToFarcaster(
     payload.channel_id = channelId;
   }
 
+  await beforeSend();
   const res = await fetch('https://api.neynar.com/v2/farcaster/cast', {
     method: 'POST',
     headers: {
@@ -746,10 +754,11 @@ async function postToFarcaster(
 
 // ── LinkedIn / Buffer ──
 
-async function postToLinkedInBuffer(
+export async function postToLinkedInBuffer(
   target: LinkedInTarget,
   text: string,
-  link?: { url: string; title?: string; description?: string; thumbnail?: string }
+  link: { url: string; title?: string; description?: string; thumbnail?: string },
+  beforeSend: () => Promise<void>,
 ): Promise<string> {
   const token = process.env.BUFFER_ACCESS_TOKEN;
   const channelId = target.channelId;
@@ -816,6 +825,7 @@ async function postToLinkedInBuffer(
     }
   `;
 
+  await beforeSend();
   const res = await fetch('https://api.buffer.com/graphql', {
     method: 'POST',
     headers: {
@@ -1007,7 +1017,7 @@ async function refreshFacebookPreview(linkUrl: string, expectedPreview: LinkedIn
   console.log(`Facebook scraper verified @${account.name || pageId}: ${scrape.title}`);
 }
 
-async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
+export async function postToFacebook(text: string, linkUrl: string, beforeSend: () => Promise<void>): Promise<string> {
   const { pageId, pageToken } = getFacebookPageCredentials();
 
   // Publish to Page feed with link attachment so Facebook crawler fetches og:image
@@ -1020,6 +1030,7 @@ async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
     params.append('link', linkUrl);
   }
 
+  await beforeSend();
   const res = await fetch(endpoint, {
     method: 'POST',
     body: params,
@@ -1101,10 +1112,9 @@ const PREVIEW_TARGETS = [
 
 // ── Main Scheduling & Selection ──
 
-async function main() {
+export async function main() {
   const args = process.argv.slice(2);
   const isDryRun = args.includes('--dry-run');
-  const force = args.includes('--force');
   const platformIdx = args.indexOf('--platform');
   const platform = platformIdx !== -1 ? args[platformIdx + 1]?.toLowerCase() || 'all' : 'all';
   const slugIdx = args.indexOf('--slug');
@@ -1123,7 +1133,7 @@ async function main() {
   console.log(` Target Platform: ${platform.toUpperCase()}`);
   console.log(`========================================\n`);
 
-  const jobs = loadJobs();
+  const jobs = await loadJobs();
   const state = loadState();
   if (!isDryRun) {
     if (requestedPlatforms.includes('x')) await reconcilePendingXPosts(state);
@@ -1157,10 +1167,8 @@ async function main() {
     }
 
     if (!selectedJob) {
-      console.log('All jobs have been posted. Resetting cycle history...');
-      state.postedSlugs = [];
-      selectedJob = jobs[0];
-      state.lastIndex = 1;
+      console.log('No eligible unposted jobs remain. Skipping.');
+      return;
     }
   } else {
     const pendingLinkCards = findPendingJob(state, jobs, requestedPlatforms);
@@ -1175,10 +1183,8 @@ async function main() {
     }
 
     if (!selectedJob) {
-      console.log('All jobs have been posted. Resetting cycle history...');
-      state.postedSlugs = [];
-      selectedJob = jobs[0];
-      state.lastIndex = 1;
+      console.log('No eligible unposted jobs remain. Skipping.');
+      return;
     }
   }
 
@@ -1220,15 +1226,29 @@ async function main() {
 
   const jobsToPost: Job[] = [selectedJob as Job];
   const rejectedPreviewSlugs = new Set<string>();
+  let checkedCandidates = 0;
   for (let round = 0; round < jobsToPost.length; round++) {
     const currentJob = jobsToPost[round];
     const { company, title, slug } = currentJob;
     const shouldPostAll = platform === 'all' || platform === 'both';
+    if (++checkedCandidates > MAX_PREFLIGHT_CANDIDATES) throw new Error('Job preflight candidate limit reached; no unverified fallback permitted');
+    const beforeSend = () => assertPublishableJob(currentJob);
+    try {
+      await beforeSend();
+    } catch (error) {
+      if (targetSlug) throw error;
+      console.warn(`Skipped ${slug}: ${(error as Error).message}`);
+      rejectedPreviewSlugs.add(slug);
+      const replacement = pickNextJob(company.toLowerCase(), slug, new Set([...rejectedPreviewSlugs, ...jobsToPost.map(job => job.slug)]));
+      if (!replacement) return;
+      jobsToPost.splice(round--, 1, replacement);
+      continue;
+    }
 
     // Build OG image URL, passing the verified local logo when one exists so
     // the card uses high-res art. PNG twin is preferred because Satori embeds
     // it consistently across cold and warm renders.
-    const ogImageUrl = buildJobOgImageUrl(currentJob);
+    const ogImageUrl = buildJobOgImageUrl({ ...currentJob, department: typeof currentJob.department === 'object' ? currentJob.department.name : currentJob.department });
 
     // Formats strictly adhering to:
     //   Company is hiring role
@@ -1325,7 +1345,7 @@ async function main() {
       if (!(platform === name || shouldPostAll)) return false;
       if (blockedThisRound.has(name)) return false;
       if (pendingPlatforms.has(name)) return false;
-      return force || !alreadyPublished.has(name);
+      return !alreadyPublished.has(name);
     };
    const previewTargets = PREVIEW_TARGETS.filter((target) =>
      shouldPublishPlatform(target.platform as SocialPlatform)
@@ -1374,7 +1394,7 @@ async function main() {
     try {
       console.log(`Publishing to X @${BUFFER_X_ACCOUNT} via Buffer...`);
       const buffer = xBufferClient();
-      const bufferPostId = await buffer.create(xPostText);
+       const bufferPostId = await buffer.create(xPostText, beforeSend);
       const entry: SocialHistoryEntry = {
         slug,
         company,
@@ -1405,7 +1425,7 @@ async function main() {
     attemptedPlatforms.add('threads');
     try {
       console.log('Publishing to Threads (with link attachment preview)...');
-      const threadsId = await postToThreads(threadsPostText, threadsUrl);
+      const threadsId = await postToThreads(threadsPostText, threadsUrl, beforeSend);
        const threadsEntry: SocialHistoryEntry = {
          slug,
          company,
@@ -1443,7 +1463,7 @@ async function main() {
     try {
       console.log('Publishing to Bluesky...');
       const metaDesc = buildUniqueJobMetaDescription(currentJob as any);
-      const bskyUri = await postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title, metaDesc);
+      const bskyUri = await postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title, metaDesc, beforeSend);
       console.log(`✓ Successfully published to Bluesky! Post URI: ${bskyUri}`);
       recordVerifiedPost(state, {
         slug,
@@ -1468,13 +1488,13 @@ async function main() {
     } else {
       let farcasterFailures = 0;
       for (const target of targets) {
-        if (!force && isFarcasterTargetVerified(state, slug, target)) {
+        if (isFarcasterTargetVerified(state, slug, target)) {
           console.log(`Farcaster ${farcasterTargetLabel(target)} already verified for ${slug}, skipping.`);
           continue;
         }
         try {
           console.log(`Publishing to Farcaster (${farcasterTargetLabel(target)})...`);
-          const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, target.channelId);
+          const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, target.channelId, beforeSend);
           console.log(`✓ Farcaster ${farcasterTargetLabel(target)} cast hash: ${castHash}`);
           recordVerifiedPost(state, {
             slug,
@@ -1516,14 +1536,14 @@ async function main() {
           (target) => {
             const link = { url: linkedinUrl, title: preview.title, description: preview.description || undefined, thumbnail: preview.image };
             return target.transport === 'direct'
-              ? new PersonalLinkedInClient(personalLinkedInConfig()).create(linkedinPostText, link)
-              : postToLinkedInBuffer(target, linkedinPostText, link);
+              ? new PersonalLinkedInClient(personalLinkedInConfig()).create(linkedinPostText, link, beforeSend)
+              : postToLinkedInBuffer(target, linkedinPostText, link, beforeSend);
           },
           (target, bufferPostId) => recordVerifiedPost(state, {
             slug, company, title, platform: 'linkedin', postedAt: now,
             postId: bufferPostId, account: target.channelId, provider: target.transport === 'direct' ? 'linkedin-direct' : 'buffer',
           }),
-          force,
+          false,
         );
         for (const result of results) {
           console.log(`LinkedIn ${result.target.label}: ${result.status}${result.error ? ` — ${result.error}` : ''}`);
@@ -1543,7 +1563,7 @@ async function main() {
        const preview = verifiedPreviews.get('facebook');
        if (!preview) throw new Error('Facebook publish skipped because its preview was not verified');
        await refreshFacebookPreview(facebookUrl, preview);
-       const fbPostId = await postToFacebook(facebookPostText, facebookUrl);
+       const fbPostId = await postToFacebook(facebookPostText, facebookUrl, beforeSend);
       console.log(`✓ Successfully published to Facebook! Post ID: ${fbPostId}`);
       recordVerifiedPost(state, {
         slug,
@@ -1573,9 +1593,7 @@ async function main() {
   }
 
    const missingPlatforms = requestedPlatforms.filter((name) => {
-     return force && attemptedPlatforms.has(name)
-       ? !newlyVerifiedPlatforms.has(name)
-       : !verifiedPlatforms.has(name);
+     return !verifiedPlatforms.has(name);
    });
    if (missingPlatforms.length > 0) {
      if (postedSuccessCount === 0) {
@@ -1603,7 +1621,7 @@ async function main() {
   }
 }
 
-main().catch((err) => {
+if (require.main === module) main().catch((err) => {
   console.error('Fatal error in social job poster:', err);
   process.exit(1);
 });

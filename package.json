@@ -35,6 +35,8 @@
     "precompute:jobs-runtime": "npx tsx scripts/precompute-jobs-runtime.ts",
     "test:detail-formatting": "tsx scripts/test-job-description-formatting.ts && tsx scripts/test-event-formatting.ts",
     "test:jobs-catalog": "tsx scripts/test-jobs-client-catalog.ts",
+    "test:job-age": "node --test scripts/test-job-age-policy.mjs scripts/test-job-age-cache.mjs && tsx --test scripts/test-job-age-surfaces.ts scripts/test-breezy-primary-date.ts",
+    "test:job-age:http": "node scripts/test-job-age-http.mjs && node --import tsx scripts/test-job-age-cache-http.mjs",
     "test:catalog-recovery": "tsx scripts/test-catalog-recovery.ts && tsx scripts/test-news-cache.ts && tsx scripts/test-job-by-slug-fallback.ts",
     "test:site-catalog-integrity": "tsx scripts/test-site-catalog-integrity.ts",
     "smoke:site": "node scripts/smoke-site.mjs",

@@ -47,7 +47,7 @@ jobs:
         with:
           node-version: '24'
       - name: Test video publishing and receipt persistence
-        run: node --test scripts/social/job-video-*.test.ts
+        run: node --test scripts/social/job-video-*.test.ts scripts/lib/job-publish-guard.test.mjs
       - name: Publish or resume two videos
         if: ${{ !inputs.reconcile_only }}
         env:

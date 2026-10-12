@@ -8,6 +8,7 @@ import {
 import { loadPublishedRootSlugsSync, loadReservedRootSlugsSync } from '../../src/lib/reserved-root-slugs';
 import type { Job } from '../../src/types';
 import { correctVerifiedJobs, preserveVerifiedJobAliases } from '../../src/lib/verified-job-corrections';
+import { eligibleIngestedJobs } from './job-ingestion-policy';
 
 export const JOB_LEGACY_ARCHIVE_PATH = path.join(
   process.cwd(),
@@ -43,7 +44,7 @@ export function assignJobSlugsInCacheFile(cachePath: string): {
 } {
   const raw = fs.readFileSync(cachePath, 'utf-8');
   const original = JSON.parse(raw) as Job[];
-  let jobs = correctVerifiedJobs(original);
+  let jobs = eligibleIngestedJobs(correctVerifiedJobs(original));
   const corrected = JSON.stringify(jobs) !== JSON.stringify(original);
 
   // Deduplicate by source-stable identity to eliminate feed collisions

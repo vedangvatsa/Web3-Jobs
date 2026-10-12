@@ -22,7 +22,7 @@ async function main() {
 
   const homepage = JSON.parse(fs.readFileSync(homepagePath, 'utf8')) as HomepageSnapshot;
   const runtime = JSON.parse(fs.readFileSync(runtimePath, 'utf8')) as Array<{ slug?: string }>;
-  assert.ok(Array.isArray(runtime) && runtime.length > 0, 'jobs-runtime.json empty');
+  assert.ok(Array.isArray(runtime), 'jobs-runtime.json must be an array');
   assert.equal(homepage.total, runtime.length, 'homepage total must match jobs-runtime length');
 
   const shardDir = path.join(process.cwd(), 'content/job-shards');

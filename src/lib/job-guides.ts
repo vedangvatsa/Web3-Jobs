@@ -4,6 +4,7 @@ import { repairFlattenedJobParagraphs } from './job-paragraph-formatting';
 import { formatJobStructuredContent } from './job-structured-content';
 import { transformOutsideVerbatim } from './preserve-verbatim';
 import { fetchJobById, fetchJobBySlug } from './job-by-slug-record';
+import { isJobAgeEligible } from './job-age-policy.mjs';
 import * as cheerio from 'cheerio';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
@@ -722,7 +723,6 @@ export function buildUniqueJobMetaDescription(job: Job): string {
  */
 export type JobSlugResolution =
   | { kind: 'exact'; job: Job; canonicalSlug: string }
-  | { kind: 'archived'; job: Job; canonicalSlug: string }
   | { kind: 'unknown'; job: null; canonicalSlug: null };
 
 
@@ -765,13 +765,14 @@ export function findLiveJobForArchived(
   liveJobs: Job[]
 ): Job | null {
   if (getJobSourceIssue(archived)) return null;
+  liveJobs = liveJobs.filter(job => isJobAgeEligible(job) && !getJobSourceIssue(job));
   if (isUsableArchiveLink(archived.link)) {
     const wanted = normalizedLinkCached(archived.link!);
     return liveJobs.find(job => job.link && normalizedLinkCached(job.link) === wanted) || null;
   }
   // 1. Direct newSlug pointer
   if (archived.newSlug) {
-    const target = liveJobs.find((j) => j.slug === archived.newSlug);
+    const target = liveJobs.find((j) => j.slug === archived.newSlug && archived.id === j.id && (!archived.company || archived.company.toLowerCase().trim() === j.company.toLowerCase().trim()));
     if (target) return target;
   }
 
@@ -781,34 +782,7 @@ export function findLiveJobForArchived(
     if (target) return target;
   }
 
-  // 4. Match by exact company and title
-  if (archived.company && archived.title) {
-    const wantCompany = archived.company.toLowerCase().trim();
-    const wantTitle = archived.title.toLowerCase().trim();
-    for (const job of liveJobs) {
-      if (
-        (job.company || '').toLowerCase().trim() === wantCompany &&
-        (job.title || '').toLowerCase().trim() === wantTitle
-      ) {
-        return job;
-      }
-    }
-  }
-
   return null;
-}
-
-function reconstructArchivedJob(cleanSlug: string, archived: ArchivedSlugRecord): Job {
-  return {
-    id: archived.id || cleanSlug,
-    title: archived.title || 'Web3 Opportunity',
-    company: archived.company || 'Web3 Company',
-    link: archived.link || 'https://hashtagweb3.com/jobs',
-    date: '2026-08-01',
-    source: 'Archive',
-    slug: cleanSlug,
-    active: false,
-  };
 }
 
 /** Root paths reserved for historical job links. */
@@ -859,11 +833,7 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
     if (live?.slug) {
       return { kind: 'exact', job: live, canonicalSlug: live.slug };
     }
-    return {
-      kind: 'archived',
-      job: reconstructArchivedJob(cleanSlug, archived),
-      canonicalSlug: cleanSlug,
-    };
+    return { kind: 'unknown', job: null, canonicalSlug: null };
   }
 
   return { kind: 'unknown', job: null, canonicalSlug: null };

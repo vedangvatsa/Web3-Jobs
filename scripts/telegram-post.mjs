@@ -12,7 +12,9 @@
 import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
-import { deliverJobsOnce, persistJobsState, readJobsState } from './social/telegram-jobs-delivery.mjs';
+import { deliverJobsOnce, persistJobsState, readJobsState, formatJobsMessage, verifyJobsDigest } from './social/telegram-jobs-delivery.mjs';
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
+import { loadPublishedJobs, verifyEmployerApplication } from './lib/job-publish-guard.mjs';
 import { assertPostingWindow, hasSentSlot, postingSlotFromEnv, SLOT_MINUTES_UTC } from './social/posting-slot.mjs';
 import {
   isGeneralOrPlaceholderJobTitle,
@@ -65,19 +67,12 @@ function withUtm(url, params) {
 
 // ── Pick random jobs ──
 async function pickJobs(count) {
-  const cachePath = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/jobs-runtime.json');
-  let jobs;
-  try {
-    jobs = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
-  } catch {
-    console.error('Could not read jobs-runtime.json');
-    process.exit(1);
-  }
+  const jobs = await loadPublishedJobs();
 
   const posted = loadPosted();
   
   // Filter out already posted
-  const available = jobs.filter(j => j.active !== false && !posted.has(String(j.id || j.link)));
+  const available = jobs.filter(j => isJobAgeEligible(j) && !posted.has(String(j.id || j.link)));
   
   // Shuffle
   const shuffled = available.sort(() => Math.random() - 0.5);
@@ -108,26 +103,13 @@ async function pickJobs(count) {
 
   const results = [];
   for (const j of selected) {
-    let chosenUrl = null;
-
-    if (j.slug) {
-      const siteUrl = `https://hashtagweb3.com/${j.slug}`;
-      const isLive = await verifyJobUrlLive(siteUrl);
-      if (isLive) {
-        chosenUrl = withUtm(siteUrl, { utm_source: 'telegram', utm_medium: 'social', utm_campaign: 'web3hiring' });
-      } else {
-        console.warn(`⚠️ [404-check] Page https://hashtagweb3.com/${j.slug} returned 404 on live site. Falling back to direct ATS application link for ${j.company}.`);
-      }
-    }
-
-    // If no slug or hashtagweb3 page returns 404, fall back to direct employer application link
-    if (!chosenUrl && j.link) {
-      chosenUrl = withUtm(j.link, { utm_source: 'hashtagweb3', utm_medium: 'telegram', utm_campaign: 'web3hiring' });
-    }
-
-    if (!chosenUrl) continue;
+    if (!j.slug) continue;
+    try { await verifyEmployerApplication(j); }
+    catch (error) { console.warn(`Skipped ${j.slug}: ${error.message}`); continue; }
+    const chosenUrl = withUtm(`https://hashtagweb3.com/${j.slug}`, { utm_source: 'telegram', utm_medium: 'social', utm_campaign: 'web3hiring' });
 
     results.push({
+      snapshot: j,
       key: String(j.id || j.link),
       slug: j.slug,
       url: chosenUrl,
@@ -137,36 +119,6 @@ async function pickJobs(count) {
   }
 
   return results;
-}
-
-// ── Live HTTP verification before sharing on Telegram ──
-async function verifyJobUrlLive(targetUrl) {
-  try {
-    const urlObj = new URL(targetUrl);
-    const cleanUrl = `${urlObj.origin}${urlObj.pathname}`;
-    for (const method of ['GET', 'HEAD']) {
-      const res = await fetch(cleanUrl, {
-        method,
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (compatible; HashtagWeb3LinkCheck/1.0)',
-          'Sec-Fetch-Mode': 'navigate',
-          'Sec-Fetch-Dest': 'document',
-          Accept: 'text/html,application/xhtml+xml',
-        },
-        redirect: 'follow',
-        signal: AbortSignal.timeout(8000),
-      });
-      // Only reject definite missing pages — 503/502 are transient Worker issues, not broken slugs.
-      if (res.status === 404 || res.status === 410) return false;
-      if (res.ok || res.status === 308 || res.status === 307 || res.status === 301 || res.status === 302) {
-        return true;
-      }
-    }
-    return true;
-  } catch {
-    // Network blip — prefer site URL over ATS when we have a slug.
-    return true;
-  }
 }
 
 // ── Shorten long titles: drop qualifiers after , or - or ( ──
@@ -292,24 +244,6 @@ function fixCompanyName(name) {
 }
 
 // ── Format message (Telegram HTML) ──
-function formatMessage(jobs) {
-  const lines = jobs.map(j => {
-    // Escape HTML entities in company and title
-    const company = escapeHtml(j.company);
-    const title = escapeHtml(j.title);
-    return `• ${company} is hiring <a href="${j.url}">${title}</a>`;
-  });
-
-  return lines.join('\n');
-}
-
-function escapeHtml(text) {
-  return text
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;');
-}
-
 // ── Send to Telegram ──
 async function sendToTelegramChat(chatId, message, { threadId } = {}) {
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
@@ -359,7 +293,8 @@ async function postOnce() {
 
   const jobs = retry ? retry.jobs : await pickJobs(JOBS_PER_POST);
   if (!jobs.length) { console.log('No unposted jobs available; skipping.'); return; }
-  const message = retry ? retry.message : formatMessage(jobs);
+  const message = retry ? retry.message : formatJobsMessage(jobs);
+  await verifyJobsDigest(jobs, message);
   
   if (process.argv.includes('--dry-run')) {
     // Write to file if --output-file specified (for CI)

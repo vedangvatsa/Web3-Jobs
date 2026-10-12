@@ -1,5 +1,6 @@
 #!/usr/bin/env tsx
 import fs from 'fs';
+import { eligibleIngestedJobs } from './lib/job-ingestion-policy';
 import path from 'path';
 import { isConcreteJobOpening } from '../src/lib/job-filters';
 import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
@@ -71,14 +72,15 @@ async function main() {
     if (!link || !title || title.length > 180 || title.toLowerCase().includes('bounty')) continue;
     if (!isConcreteJobOpening(title, link)) continue;
 
-    const date = job.first_published || job.updated_at;
+    const date = job.first_published;
     const salary = job.content ? extractSalaryLabelFromContent(job.content) : undefined;
     const row: Record<string, unknown> = {
       id: String(job.id),
       title,
       company,
       link,
-      date: date || new Date().toISOString(),
+      date: date || '',
+      dateSource: 'Greenhouse.first_published',
       source,
       location: job.location?.name,
       department: job.departments?.[0]?.name || dept,
@@ -91,7 +93,7 @@ async function main() {
     }
   }
 
-  const merged = [...filtered, ...added] as never[];
+  const merged = eligibleIngestedJobs([...filtered, ...added] as never[]);
   const legacyArchive = loadJobLegacyArchive();
   assignJobSlugsAndSyncLegacyArchive(merged, legacyArchive, loadReservedRootSlugsSync());
   writeJobLegacyArchive(legacyArchive);

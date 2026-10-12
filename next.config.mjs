@@ -35,6 +35,13 @@ const nextConfig = {
     '/*': [
       './content/jobs-runtime.json',
       './content/homepage-jobs.json',
+      './content/job-date-history.json',
+      './content/job-date-provenance.json',
+      './content/job-age-paths.json',
+      './content/job-age-page-scopes.json',
+      './content/removed-job-listings.json',
+      './content/removed-job-paths.json',
+      './content/recovered-job-redirects.json',
       './content/events-runtime.json',
       './content/glossary-runtime.json',
       './content/companies-runtime.json',
@@ -191,12 +198,20 @@ const nextConfig = {
   async rewrites() {
     return {
       beforeFiles: [
+        { source: '/data/jobs-runtime.json', destination: '/job-catalog/jobs-runtime.json' },
+        { source: '/data/catalog-freshness.json', destination: '/job-catalog/catalog-freshness.json' },
+        { source: '/data/companies-runtime.json', destination: '/job-catalog/companies-runtime.json' },
+        { source: '/job-shards/:file', destination: '/job-catalog/job-shards/:file' },
+        { source: '/job-description-shards/:file', destination: '/job-catalog/job-description-shards/:file' },
         { source: '/events', has: [{ type: 'query', key: 'mode', value: 'agent' }], destination: '/agent-view.json' },
         ...['/jobs/feed.json', '/jobs/feed.xml', '/jobs/adzuna.xml', '/jobs/jora.xml', '/jobs/feed-aggregator-us.xml', '/adzuna.xml', '/jooble.xml', '/myjobhelper.xml', '/sitemap.xml'].map(source => ({
           source,
           has: [{ type: 'query', key: 'mode', value: 'agent' }],
           destination: '/agent-view.json',
         })),
+        { source: '/sitemap.xml', destination: '/job-catalog/sitemap.xml' },
+        { source: '/sitemap.json', destination: '/job-catalog/sitemap.json' },
+        { source: '/.well-known/sitemap.json', destination: '/job-catalog/sitemap.json' },
       ],
       afterFiles: [
         { source: '/logo/companies/Chainalysis.webp', destination: '/logo/companies/chainalysis.webp' },
@@ -287,24 +302,6 @@ const nextConfig = {
         headers: [{ key: 'Content-Type', value: contentType }],
       })),
       {
-        source: '/',
-        headers: [
-          {
-            key: 'Cache-Control',
-            value: 'public, max-age=0, s-maxage=3600, stale-while-revalidate=86400',
-          },
-        ],
-      },
-      {
-        source: '/jobs',
-        headers: [
-          {
-            key: 'Cache-Control',
-            value: 'public, max-age=0, s-maxage=3600, stale-while-revalidate=86400',
-          },
-        ],
-      },
-      {
         source: '/news',
         headers: [
           {
@@ -314,25 +311,7 @@ const nextConfig = {
         ],
       },
       {
-        source: '/data/:path*',
-        headers: [
-          {
-            key: 'Cache-Control',
-            value: 'public, max-age=300, s-maxage=3600, stale-while-revalidate=86400',
-          },
-        ],
-      },
-      {
-        source: '/job-shards/:path*',
-        headers: [
-          {
-            key: 'Cache-Control',
-            value: 'public, max-age=300, s-maxage=3600, stale-while-revalidate=86400',
-          },
-        ],
-      },
-      {
-        source: '/job-description-shards/:path*',
+        source: '/data/:path((?!jobs-runtime\\.json$|companies-runtime\\.json$|catalog-freshness\\.json$).*)',
         headers: [
           {
             key: 'Cache-Control',
@@ -350,7 +329,7 @@ const nextConfig = {
         ],
       },
       {
-        source: '/:path(.*\\.(?:jpg|jpeg|png|gif|svg|webp|avif|ico))',
+        source: '/:path((?!og/jobs/).*\\.(?:jpg|jpeg|png|gif|svg|webp|avif|ico))',
         headers: [
           {
             key: 'Cache-Control',
@@ -384,7 +363,6 @@ const nextConfig = {
           { key: 'Content-Type', value: 'application/json; charset=UTF-8' },
           { key: 'Vary', value: 'Accept, Accept-Encoding' },
           { key: 'Access-Control-Allow-Origin', value: '*' },
-          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
           { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
         ],
       },
@@ -394,7 +372,6 @@ const nextConfig = {
           { key: 'Content-Type', value: 'application/json; charset=UTF-8' },
           { key: 'Vary', value: 'Accept, Accept-Encoding' },
           { key: 'Access-Control-Allow-Origin', value: '*' },
-          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
           { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
         ],
       },

@@ -12,6 +12,7 @@
  */
 
 import * as fs from 'fs';
+import { assertEvergreenContent, isEvergreenContent } from './evergreen-content.mjs';
 import * as path from 'path';
 import * as crypto from 'crypto';
 import dotenv from 'dotenv';
@@ -26,11 +27,13 @@ const STATE_FILE = path.join(__dirname, 'publish-state.json');
 
 interface PostContent {
  id: string;
+ title: string;
  image: string;
  imageUrl?: string;
  linkedin: { text: string };
  instagram: { text: string };
  twitter?: { text: string };
+ threads?: { text: string };
 }
 
 interface PublishState {
@@ -807,7 +810,7 @@ async function main() {
  process.exit(1);
  }
 
- const schedule = loadSchedule();
+ const schedule = loadSchedule().filter(isEvergreenContent);
  const state = loadState();
 
  // Ensure state file exists for future runs
@@ -910,6 +913,7 @@ async function main() {
  console.log(`Text preview: ${text.substring(0, 80)}...`);
 
  try {
+ assertEvergreenContent({post, text});
  if (platform === 'linkedin') {
  await postToLinkedIn(text, imagePath);
  } else if (platform === 'instagram') {
@@ -969,7 +973,7 @@ async function scheduleToBuffer(token: string, orgId: string) {
 
  console.log('Buffer Channels Found:', channels.map((p: any) => `${p.service}:${p.id}`));
 
- const schedule = JSON.parse(fs.readFileSync(path.join(__dirname, 'content-schedule.json'), 'utf8'));
+ const schedule = JSON.parse(fs.readFileSync(path.join(__dirname, 'content-schedule.json'), 'utf8')).filter(isEvergreenContent);
 
  // Slots: 1am, 9am, 5pm IST starting Mar 28
  const times = [
@@ -1004,6 +1008,7 @@ async function scheduleToBuffer(token: string, orgId: string) {
  const text = isLI ? post.linkedin.text : post.instagram.text;
 
  console.log(`Scheduling ${post.id} for ${cid} at ${scheduledAt}`);
+ assertEvergreenContent({post, text});
  const res = await fetch(graphqlUrl, {
  method: 'POST',
  headers: {

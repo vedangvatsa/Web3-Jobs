@@ -3,8 +3,13 @@ import { atsBoardKey, getJobAtsBoards } from './ats-board-identity';
 import removedListingsJson from '../../content/removed-job-listings.json';
 import { normalizeJobLink } from './job-slugs';
 
-export type RemovedJobListing = { slug: string; link: string; reason: string; evidence: string; checkedAt: string; aliases?: string[]; blockedSlugs?: string[] };
-export const REMOVED_JOB_LISTINGS: Readonly<Record<string, RemovedJobListing>> = removedListingsJson;
+export type RemovedJobListing = {
+  slug: string; link: string; reason: string; evidence: string; checkedAt: string; aliases?: string[]; blockedSlugs?: string[];
+  applicationState?: 'unavailable' | 'closed';
+  atsState?: 'active' | 'unknown';
+  observations?: Array<{ status: number; checkedAt: string; finalUrl: string; bodySha256?: string }>;
+};
+export const REMOVED_JOB_LISTINGS = removedListingsJson as Readonly<Record<string, RemovedJobListing>>;
 type JobSource = { link?: string; applyUrl?: string; source?: string; retiredReason?: string };
 
 export function getRemovedJobListing(job: JobSource): RemovedJobListing | undefined {

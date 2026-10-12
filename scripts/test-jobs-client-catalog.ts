@@ -9,7 +9,7 @@ async function main() {
   Date.now = () => now;
   const catalog: Job[] = Array.from({ length: 120 }, (_, index) => ({
     id: String(index), slug: `role${index}`, title: index % 2 ? 'Engineer' : 'Account Executive',
-    company: 'Example Labs', source: 'test', link: `https://example.com/jobs/${index}`, date: '2026-09-20',
+    company: 'Example Labs', source: 'test', link: `https://example.com/jobs/${index}`, date: new Date(now - 86400000).toISOString(),
   }));
   let calls = 0;
   globalThis.fetch = async (input, init) => {
@@ -36,10 +36,14 @@ async function main() {
     assert.equal(search.meta.total, 60);
     assert.equal(calls, 3, 'Pagination and search reuse the successful catalog');
     now += 5 * 60 * 1000 + 1;
-    catalog.unshift({ ...catalog[0], id: 'new-role', slug: 'new-role' });
+    catalog.unshift({ ...catalog[0], id: 'new-role', slug: 'new-role', date: new Date(now - 30 * 86400000).toISOString() });
     const refreshed = await fetchJobsPage({ limit: 50, offset: 0 });
     assert.equal(calls, 4);
     assert.equal(refreshed.meta.total, 121);
+    now += 1;
+    const aged = await fetchJobsPage({ limit: 50, offset: 0 });
+    assert.equal(aged.meta.total, 120, 'A job expires inside the cached catalog TTL');
+    assert.equal(calls, 4, 'Age is rechecked without fetching the catalog again');
     const controller = new AbortController();
     controller.abort();
     await assert.rejects(fetchJobsPage({ limit: 50, offset: 0, signal: controller.signal }), { name: 'AbortError' });

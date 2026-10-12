@@ -75,7 +75,7 @@ async function main() {
     await agent.json();
     for (const pathname of ['/data/events-runtime.json', '/data/jobs-runtime.json']) {
       const response = await fetch(origin + pathname, { method: 'HEAD' });
-      assert.match(response.headers.get('cache-control') || '', /public.*max-age=300/);
+      assert.match(response.headers.get('cache-control') || '', pathname.includes('jobs-runtime') ? /public.*s-maxage=\d+, must-revalidate|no-store/ : /public.*max-age=300/);
     }
     const coverPath = '/events/luma-batch-evtea0ExPMp9jrB1-9bea2588.jpg';
     const cover = await fetch(origin + coverPath, { method: 'HEAD' });

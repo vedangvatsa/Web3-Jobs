@@ -41,8 +41,9 @@ export async function verifyAccounts(): Promise<void> {
   console.log(`Accounts verified — Instagram @${account.username}, YouTube Hashtag Web3, TikTok @hashtagweb3`);
 }
 
-export async function bufferCreate(platform: 'youtube' | 'tiktok', video: Video, text: string, title: string): Promise<{id?: string; error?: string}> {
+export async function bufferCreate(platform: 'youtube' | 'tiktok', video: Video, text: string, title: string, beforeSend?: () => Promise<void>): Promise<{id?: string; error?: string}> {
   const metadata = platform === 'youtube' ? {youtube: {title, categoryId: '22', privacy: 'public', embeddable: true, madeForKids: false, notifySubscribers: false}} : {};
+  await beforeSend?.();
   const {createPost} = await bufferQuery<{createPost: {post?: {id: string}; message?: string}}>(
     'mutation ($input: CreatePostInput!) { createPost(input: $input) { ... on PostActionSuccess {post {id}} ... on MutationError {message} } }',
     {input: {channelId: channels[platform], text, schedulingType: 'automatic', mode: 'shareNow', needsApproval: false, assets: [{video: {url: video.videoUrl}}], metadata}},

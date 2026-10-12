@@ -2,11 +2,18 @@ import fs from 'node:fs/promises';
 import {randomUUID} from 'node:crypto';
 import {pathToFileURL} from 'node:url';
 import {assertCapacity, assertPostingTime, captions, diverseCompanies, matchesSnapshot, platforms, verifyFresh, instagramAccount} from './job-video-core.ts';
-import type {Ledger, LiveJob, Video, Platform} from './job-video-core.ts';
+import type {Ledger, LiveJob, Video, Platform, Delivery, Receipt} from './job-video-core.ts';
 import {bufferCreate, bufferRecover, bufferVerify, instagramFind, instagramReady, instagramVerify, meta, verifyAccounts} from './job-video-clients.ts';
 import {loadState, saveState, receiptErrors, VideoStateError} from './job-video-state.ts';
+import {assertJobAge, loadPublishedJobs, MAX_PREFLIGHT_CANDIDATES} from '../lib/job-publish-guard.mjs';
 
-const publisherDependencies = {assertPostingTime, verifyFresh, bufferCreate, bufferRecover, bufferVerify, instagramFind, instagramReady, instagramVerify, meta};
+function assertVideoCaption(video: Video, delivery: Delivery, platform: Platform, receipt?: Receipt) {
+  const expected = captions(video);
+  if (Object.keys(expected).some(key => expected[key as keyof typeof expected] !== delivery.captions[key as keyof typeof expected])
+    || (receipt?.status === 'pending' && receipt.text !== expected[platform])) throw new Error('Queued video caption does not match its verified job');
+}
+
+const publisherDependencies = {assertPostingTime, assertVideoCaption, verifyFresh, bufferCreate, bufferRecover, bufferVerify, instagramFind, instagramReady, instagramVerify, meta};
 type PublishContext = {ledger: Ledger; date: string; slot: string; manual: boolean; current: Map<string, LiveJob>; save: () => Promise<void>};
 
 export function createVideoPublisher(context: PublishContext, overrides: Partial<typeof publisherDependencies> = {}) {
@@ -16,21 +23,31 @@ export function createVideoPublisher(context: PublishContext, overrides: Partial
     const delivery = ledger.jobs[video.slug];
     let receipt = delivery.receipts[platform];
     if (receipt?.status === 'sent') {console.log(`Already sent ${platform} ${video.slug} ${receipt.url}`); return;}
-    if (!receipt || receipt.status === 'rejected') {
+    const beforeSend = async () => {
       clients.assertPostingTime(date, slot, manual);
+      assertJobAge(video.snapshot);
       const job = current.get(video.slug);
       if (!job) throw new Error('Job is no longer active');
+      assertJobAge(job);
+      if (!matchesSnapshot(video, job)) throw new Error('Listing changed since video production');
+      clients.assertVideoCaption(video, delivery, platform, receipt);
       await clients.verifyFresh(video, job);
+      assertJobAge(video.snapshot);
+      assertJobAge(job);
+    };
+    if (!receipt || receipt.status === 'rejected') {
+      await beforeSend();
       receipt = {status: 'creating', text: delivery.captions[platform], startedAt: new Date().toISOString(), attemptId: randomUUID()};
       delivery.receipts[platform] = receipt;
       await save();
       if (receipt.status === 'creating' && !receipt.postId && !receipt.containerId) {
+        await beforeSend();
         if (platform === 'instagram') {
           const result = await clients.meta<{id: string}>(`${instagramAccount}/media`, {media_type: 'REELS', video_url: video.videoUrl, caption: receipt.text, share_to_feed: 'true'});
           if (!result.id) throw new Error('Instagram returned no container ID');
           receipt.containerId = result.id;
         } else {
-          const result = await clients.bufferCreate(platform, video, receipt.text, delivery.captions.youtubeTitle);
+          const result = await clients.bufferCreate(platform, video, receipt.text, delivery.captions.youtubeTitle, beforeSend);
           if (!result.id) {
             if (result.error) {
               receipt.status = 'rejected'; receipt.error = receiptErrors(receipt.error, result.error);
@@ -62,11 +79,12 @@ export function createVideoPublisher(context: PublishContext, overrides: Partial
           if (!existing) throw new Error('Published Instagram container needs receipt recovery');
           receipt.postId = existing.id;
         } else {
-          clients.assertPostingTime(date, slot, manual);
+          await beforeSend();
           receipt.status = 'publishing';
           receipt.publishAttemptId = randomUUID();
           await save();
           if (!receipt.postId) {
+            await beforeSend();
             const result = await clients.meta<{id: string}>(`${instagramAccount}/media_publish`, {creation_id: receipt.containerId});
             if (!result.id) throw new Error('Instagram returned no published media ID');
             receipt.postId = result.id;
@@ -132,10 +150,7 @@ export async function main() {
   const ledger = await loadState(remote);
   if (remote) await saveState(ledger, true);
   const library = JSON.parse(await fs.readFile('scripts/social/job-video-library.json', 'utf8')) as Video[];
-  const response = await fetch('https://hashtagweb3.com/data/jobs-runtime.json', {signal: AbortSignal.timeout(30000)});
-  if (!response.ok) throw new Error('Cannot load the published job catalog');
-  const live = await response.json() as LiveJob[];
-  if (!Array.isArray(live) || live.length < 100) throw new Error('Unexpected published catalog');
+  const live: LiveJob[] = await loadPublishedJobs();
   const current = new Map(live.map(job => [job.slug, job]));
   const requested = (process.env.VIDEO_SLUGS || '').split(',').map(s => s.trim()).filter(Boolean);
   if (requested.length > 2) throw new Error('At most two requested videos per run');
@@ -144,7 +159,7 @@ export async function main() {
     const ranked = library.filter(video => !ledger.jobs[video.slug] && current.has(video.slug) && matchesSnapshot(video, current.get(video.slug)!))
       .sort((a, b) => Date.parse(current.get(b.slug)?.date || '1970-01-01') - Date.parse(current.get(a.slug)?.date || '1970-01-01'));
     const candidates = requested.length ? requested.map(slug => library.find(video => video.slug === slug)).filter((v): v is Video => !!v) : diverseCompanies(ranked.slice(0, 150));
-    for (const video of candidates.slice(0, 150)) {
+    for (const video of candidates.slice(0, MAX_PREFLIGHT_CANDIDATES)) {
       if (selected.length === 2) break;
       if (ledger.jobs[video.slug]) continue;
       try {

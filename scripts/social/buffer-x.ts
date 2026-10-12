@@ -45,8 +45,9 @@ export class BufferXClient {
     }
   }
 
-  async create(text: string): Promise<string> {
+  async create(text: string, beforeSend?: () => Promise<void>): Promise<string> {
     await this.verifyChannel();
+    await beforeSend?.();
     const { createPost } = await this.query<{ createPost: { post?: { id: string }; message?: string } }>(
       'mutation XPost($input: CreatePostInput!) { createPost(input: $input) { ... on PostActionSuccess { post { id } } ... on MutationError { message } } }',
       { input: { channelId: this.channelId, text, schedulingType: 'automatic', mode: 'shareNow' } },

@@ -1,9 +1,9 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Hashtag Web3 static catalogs",
+    "title": "Hashtag Web3 catalogs",
     "version": "1.2.0",
-    "description": "Human website first. Machine-readable data is served as static JSON under /data/ (CDN). No hosted MCP or public REST search API."
+    "description": "Machine-readable JSON catalogs under /data/. Jobs, company role counts and their freshness hashes are age-filtered at request time; other catalogs are static snapshots. No hosted MCP or public REST search API."
   },
   "servers": [
     { "url": "https://hashtagweb3.com" }
@@ -32,8 +32,8 @@
     },
     "/data/jobs-runtime.json": {
       "get": {
-        "summary": "Jobs catalog snapshot",
-        "responses": { "200": { "description": "JSON array of jobs (no descriptions)" } }
+        "summary": "Current jobs catalog",
+        "responses": { "200": { "description": "JSON array of jobs without descriptions. Only original source posting dates within the last 30 days are eligible (exact boundary inclusive). Inactive, unverified, missing, invalid and future dates are excluded. Shared-cache lifetime is at most one hour, bounded by the earliest job expiry, with mandatory revalidation and no stale allowance." } }
       }
     },
     "/data/events-runtime.json": {

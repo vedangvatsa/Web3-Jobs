@@ -7,7 +7,7 @@ import { buildCompaniesFromJobs } from '../src/lib/companies';
 import { buildCompanyLogoMapSync } from '../src/lib/job-logo-map';
 import type { Job } from '../src/types';
 
-const canonical: Job = { id: AXIOM_FULLSTACK_ID, title: 'Fullstack Engineer', company: 'Axiom', link: AXIOM_FULLSTACK_LINK, slug: 'fullstack26', date: '2026-06-08', source: 'Superteam: Axiom [superteam]' };
+const canonical: Job = { id: AXIOM_FULLSTACK_ID, title: 'Fullstack Engineer', company: 'Axiom', link: AXIOM_FULLSTACK_LINK, slug: 'fullstack26', date: new Date(Date.now() - 86400000).toISOString(), source: 'Superteam: Axiom [superteam]' };
 const duplicate: Job = { ...canonical, title: 'Fullstack Engineerv', slug: 'fs4', link: AXIOM_FULLSTACK_LINK.replace('engineer-at', 'engineerv-at') };
 
 test('verified duplicate correction is deterministic and preserves the canonical URL and description key', () => {

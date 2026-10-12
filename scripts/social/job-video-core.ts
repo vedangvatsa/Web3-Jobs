@@ -1,4 +1,6 @@
 import {createHash} from 'node:crypto';
+import {isJobAgeEligible} from '../../src/lib/job-age-policy.mjs';
+import {assertPublishableJob} from '../lib/job-publish-guard.mjs';
 
 export type Platform = 'instagram' | 'youtube' | 'tiktok';
 export type LiveJob = {slug: string; id: string; company: string; title: string; link: string; location?: string; salary?: string; active?: boolean; date?: string};
@@ -55,8 +57,8 @@ export function diverseCompanies(videos: Video[]): Video[] {
 }
 
 export function matchesSnapshot(video: Video, current: LiveJob): boolean {
-  return current.active !== false && video.mode === 'catalog-source'
-    && ['id', 'company', 'title', 'link', 'location', 'salary'].every(key =>
+  return isJobAgeEligible(current) && isJobAgeEligible(video.snapshot) && video.mode === 'catalog-source'
+    && ['id', 'company', 'title', 'link', 'location', 'salary', 'date'].every(key =>
       String(current[key as keyof LiveJob] || '') === String(video.snapshot[key as keyof LiveJob] || ''));
 }
 
@@ -102,10 +104,7 @@ export async function verifyFresh(video: Video, current: LiveJob, request: typeo
     const hash = createHash('sha256').update(String(posting.description || '').replace(/\s+/g, ' ').trim()).digest('hex');
     if (hash !== video.descriptionHash) throw new Error('Job description changed since video production');
   }
-  const employer = await request(current.link, {signal: AbortSignal.timeout(30000)});
-  if (!employer.ok) throw new Error(`Employer page HTTP ${employer.status}`);
-  const employerText = await employer.text();
-  if (/this (?:job|position) (?:is no longer|has been filled)|job (?:not found|has expired)|position is closed/i.test(employerText)) throw new Error('Employer lists the role as closed');
   const media = await request(video.videoUrl, {method: 'HEAD', signal: AbortSignal.timeout(30000)});
   if (!media.ok || !media.headers.get('content-type')?.includes('video/mp4') || Number(media.headers.get('content-length')) !== video.bytes) throw new Error('Public video is missing or does not match the manifest');
+  await assertPublishableJob(current, {request});
 }

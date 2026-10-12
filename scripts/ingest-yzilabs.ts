@@ -1,4 +1,5 @@
 import fs from 'fs';
+import { eligibleIngestedJobs } from './lib/job-ingestion-policy';
 import path from 'path';
 import { cleanCompanyName } from '../src/lib/job-filters';
 import { getOneWordRole, getJobContentKey } from '../src/lib/job-slugs';
@@ -9,7 +10,6 @@ import {
 } from './lib/job-description-store';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
-const TODAY = new Date().toISOString().slice(0, 10);
 
 interface YZiRawJob {
   id: string;
@@ -30,7 +30,7 @@ function readCache(): any[] {
 }
 
 function writeCache(data: any[]): void {
-  fs.writeFileSync(CACHE_PATH, JSON.stringify(data, null, 2) + '\n');
+  fs.writeFileSync(CACHE_PATH, JSON.stringify(eligibleIngestedJobs(data), null, 2) + '\n');
 }
 
 let descriptionAliases: Record<string, string> = {};
@@ -193,7 +193,7 @@ export async function ingestYZiLabs(
           title: raw.role.trim(),
           company: cleanCompanyName(raw.company.trim()),
           link: jobUrl,
-          date: raw.created_at ? raw.created_at.slice(0, 10) : TODAY,
+          date: raw.created_at || '',
           source: `YZi Labs: ${raw.company.trim()}`,
           location: raw.location ? raw.location.trim() : 'Remote / Global',
           department: raw.department ? raw.department.trim() : 'Engineering',

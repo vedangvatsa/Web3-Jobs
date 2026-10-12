@@ -19,8 +19,8 @@ const JOB_SHARD_OUTPUTS = Array.from({ length: JOB_SHARD_COUNT }, (_, i) =>
 export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   {
     id: 'removed-job-paths',
-    inputs: ['content/removed-job-listings.json', 'content/jobs-cache.json', 'content/legacy-slugs-archive.json', 'content/slug-types.json', 'src/lib/reserved-root-slugs.ts', 'scripts/precompute-removed-job-paths.ts'],
-    outputs: ['content/removed-job-paths.json', 'content/recovered-job-redirects.json'],
+    inputs: ['content/removed-job-listings.json', 'content/jobs-cache.json', 'content/legacy-slugs-archive.json', 'content/slug-types.json', 'content/nomads/cities.json', 'src/lib/reserved-root-slugs.ts', 'src/lib/job-age-cache.mjs', 'src/lib/job-age-policy.mjs', 'src/lib/companies.ts', 'src/lib/jobs-listing-build.ts', 'scripts/precompute-removed-job-paths.ts'],
+    outputs: ['content/removed-job-paths.json', 'content/recovered-job-redirects.json', 'content/job-age-paths.json', 'content/job-age-page-scopes.json'],
     command: 'npx tsx scripts/precompute-removed-job-paths.ts',
   },
   {
@@ -66,7 +66,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'jobs-runtime',
-    inputs: ['content/jobs-cache.json', 'content/rejected-ats-boards.json', 'content/removed-job-listings.json', 'src/lib/jobs-listing-build.ts', 'src/lib/verified-job-corrections.ts', 'src/lib/job-source-policy.ts', 'src/lib/job-filters.ts', 'src/lib/job-location.ts'],
+    inputs: ['content/jobs-cache.json', 'content/job-date-provenance.json', 'content/job-date-history.json', 'content/rejected-ats-boards.json', 'content/removed-job-listings.json', 'src/lib/job-age-policy.mjs', 'src/lib/job-source-date.ts', 'src/lib/jobs-listing-build.ts', 'src/lib/verified-job-corrections.ts', 'src/lib/job-source-policy.ts', 'src/lib/job-filters.ts', 'src/lib/job-location.ts'],
     outputs: [
       'content/jobs-runtime.json',
       'content/homepage-jobs.json',

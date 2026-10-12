@@ -33342,5 +33342,389 @@
     "blockedSlugs": [
       "alv2"
     ]
+  },
+  "https://talent.yzilabs.com/jobs/7c2aa732-e7d3-4801-92e2-22899ce75897": {
+    "slug": "tc",
+    "link": "https://talent.yzilabs.com/jobs/7c2aa732-e7d3-4801-92e2-22899ce75897",
+    "reason": "application-not-found",
+    "evidence": "Two GET observations: 2026-10-12T21:35:46.457Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/7c2aa732-e7d3-4801-92e2-22899ce75897; 2026-10-12T21:45:36.677Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/7c2aa732-e7d3-4801-92e2-22899ce75897",
+    "checkedAt": "2026-10-12T21:45:36.677Z",
+    "blockedSlugs": [
+      "tc"
+    ],
+    "aliases": [
+      "tc"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:35:46.457Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/7c2aa732-e7d3-4801-92e2-22899ce75897",
+        "bodySha256": "f35a3773e6ebc538b6e64f4bdca7a24e1531beecc66eee52f29a23d886182439"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:36.677Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/7c2aa732-e7d3-4801-92e2-22899ce75897",
+        "bodySha256": "f35a3773e6ebc538b6e64f4bdca7a24e1531beecc66eee52f29a23d886182439"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "unknown"
+  },
+  "https://talent.yzilabs.com/jobs/24cfb2fe-ef36-465a-9609-e3a2d567e50e": {
+    "slug": "fsic",
+    "link": "https://talent.yzilabs.com/jobs/24cfb2fe-ef36-465a-9609-e3a2d567e50e",
+    "reason": "application-not-found",
+    "evidence": "Two GET observations: 2026-10-12T21:35:53.519Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/24cfb2fe-ef36-465a-9609-e3a2d567e50e; 2026-10-12T21:45:37.086Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/24cfb2fe-ef36-465a-9609-e3a2d567e50e",
+    "checkedAt": "2026-10-12T21:45:37.086Z",
+    "blockedSlugs": [
+      "fsic"
+    ],
+    "aliases": [
+      "fsic"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:35:53.519Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/24cfb2fe-ef36-465a-9609-e3a2d567e50e",
+        "bodySha256": "e85cd4e6c3a3a9df5e196e05d86cf2892f1715269eb1b2e127c751f2deee2f83"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:37.086Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/24cfb2fe-ef36-465a-9609-e3a2d567e50e",
+        "bodySha256": "e85cd4e6c3a3a9df5e196e05d86cf2892f1715269eb1b2e127c751f2deee2f83"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "unknown"
+  },
+  "https://talent.yzilabs.com/jobs/939bfbaf-b33e-4f17-b793-a540d52bfdd6": {
+    "slug": "dev9",
+    "link": "https://talent.yzilabs.com/jobs/939bfbaf-b33e-4f17-b793-a540d52bfdd6",
+    "reason": "application-not-found",
+    "evidence": "Two GET observations: 2026-10-12T21:35:59.933Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/939bfbaf-b33e-4f17-b793-a540d52bfdd6; 2026-10-12T21:45:39.007Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/939bfbaf-b33e-4f17-b793-a540d52bfdd6",
+    "checkedAt": "2026-10-12T21:45:39.007Z",
+    "blockedSlugs": [
+      "dev9"
+    ],
+    "aliases": [
+      "dev9"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:35:59.933Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/939bfbaf-b33e-4f17-b793-a540d52bfdd6",
+        "bodySha256": "f10cb3b9f8d2b38ffd642ffa96cd9651c0b0e806c9c196c776782b321a141941"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:39.007Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/939bfbaf-b33e-4f17-b793-a540d52bfdd6",
+        "bodySha256": "f10cb3b9f8d2b38ffd642ffa96cd9651c0b0e806c9c196c776782b321a141941"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "unknown"
+  },
+  "https://talent.yzilabs.com/jobs/2755c913-1aca-407e-84bf-544e8d65e579": {
+    "slug": "dev8",
+    "link": "https://talent.yzilabs.com/jobs/2755c913-1aca-407e-84bf-544e8d65e579",
+    "reason": "application-not-found",
+    "evidence": "Two GET observations: 2026-10-12T21:36:03.789Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/2755c913-1aca-407e-84bf-544e8d65e579; 2026-10-12T21:45:39.469Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/2755c913-1aca-407e-84bf-544e8d65e579",
+    "checkedAt": "2026-10-12T21:45:39.469Z",
+    "blockedSlugs": [
+      "dev8"
+    ],
+    "aliases": [
+      "dev8"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:36:03.789Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/2755c913-1aca-407e-84bf-544e8d65e579",
+        "bodySha256": "f3051c934ad14bce62f769aa22e0d4495c73cac15e510136ccfc5e2983dda27e"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:39.469Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/2755c913-1aca-407e-84bf-544e8d65e579",
+        "bodySha256": "f3051c934ad14bce62f769aa22e0d4495c73cac15e510136ccfc5e2983dda27e"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "unknown"
+  },
+  "https://talent.yzilabs.com/jobs/3d6991a0-dca7-49b9-a585-37f132b420ef": {
+    "slug": "sls80",
+    "link": "https://talent.yzilabs.com/jobs/3d6991a0-dca7-49b9-a585-37f132b420ef",
+    "reason": "application-not-found",
+    "evidence": "Two GET observations: 2026-10-12T21:36:06.256Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/3d6991a0-dca7-49b9-a585-37f132b420ef; 2026-10-12T21:45:39.949Z HTTP 404 http-404 final https://talent.yzilabs.com/jobs/3d6991a0-dca7-49b9-a585-37f132b420ef",
+    "checkedAt": "2026-10-12T21:45:39.949Z",
+    "blockedSlugs": [
+      "sls80"
+    ],
+    "aliases": [
+      "sls80"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:36:06.256Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/3d6991a0-dca7-49b9-a585-37f132b420ef",
+        "bodySha256": "959e941e39dd04078442a8efd20f2a0afcf1dcd6f643d37cf4509e74cef54553"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:39.949Z",
+        "finalUrl": "https://talent.yzilabs.com/jobs/3d6991a0-dca7-49b9-a585-37f132b420ef",
+        "bodySha256": "959e941e39dd04078442a8efd20f2a0afcf1dcd6f643d37cf4509e74cef54553"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "unknown"
+  },
+  "breezy:transak-inc.breezy.hr:2963ad7b899001": {
+    "slug": "sls4",
+    "link": "https://transak-inc.breezy.hr/p/2963ad7b899001-sales-director",
+    "reason": "application-closed",
+    "evidence": "Two GET observations: 2026-10-12T21:36:08.707Z HTTP 200 explicit-unavailable-page final https://transak-inc.breezy.hr/p/2963ad7b899001-sales-director; 2026-10-12T21:45:36.678Z HTTP 200 explicit-unavailable-page final https://transak-inc.breezy.hr/p/2963ad7b899001-sales-director",
+    "checkedAt": "2026-10-12T21:45:36.678Z",
+    "blockedSlugs": [
+      "sls4"
+    ],
+    "aliases": [
+      "sls4"
+    ],
+    "observations": [
+      {
+        "status": 200,
+        "checkedAt": "2026-10-12T21:36:08.707Z",
+        "finalUrl": "https://transak-inc.breezy.hr/p/2963ad7b899001-sales-director",
+        "bodySha256": "4aa9c2c66d461f10b7eeda0d6d69a4cddfa3ad8d70c1822f4bc2b1c86d3f4a15"
+      },
+      {
+        "status": 200,
+        "checkedAt": "2026-10-12T21:45:36.678Z",
+        "finalUrl": "https://transak-inc.breezy.hr/p/2963ad7b899001-sales-director",
+        "bodySha256": "e105d848652755d9bbf5ad5ac36dbdc9112ed2ca0606fdfb1ee4f412dc60851a"
+      }
+    ],
+    "applicationState": "closed",
+    "atsState": "unknown"
+  },
+  "breezy:nexo.breezy.hr:4c8c7040d11401": {
+    "slug": "senior52",
+    "link": "https://nexo.breezy.hr/p/4c8c7040d11401-senior-transfer-pricing-reporting-specialist",
+    "reason": "application-closed",
+    "evidence": "Two GET observations: 2026-10-12T21:36:23.166Z HTTP 200 explicit-unavailable-page final https://nexo.breezy.hr/p/4c8c7040d11401-senior-transfer-pricing-reporting-specialist; 2026-10-12T21:45:36.679Z HTTP 200 explicit-unavailable-page final https://nexo.breezy.hr/p/4c8c7040d11401-senior-transfer-pricing-reporting-specialist",
+    "checkedAt": "2026-10-12T21:45:36.679Z",
+    "blockedSlugs": [
+      "senior52",
+      "senior11401",
+      "senior46",
+      "senior19",
+      "senior-0w6y2w2"
+    ],
+    "aliases": [
+      "senior11401",
+      "senior46",
+      "senior19",
+      "senior-0w6y2w2"
+    ],
+    "observations": [
+      {
+        "status": 200,
+        "checkedAt": "2026-10-12T21:36:23.166Z",
+        "finalUrl": "https://nexo.breezy.hr/p/4c8c7040d11401-senior-transfer-pricing-reporting-specialist",
+        "bodySha256": "8e3dcd9f161d396388ce8cbf3da3c8b5309284266546564779f30bc0205c783d"
+      },
+      {
+        "status": 200,
+        "checkedAt": "2026-10-12T21:45:36.679Z",
+        "finalUrl": "https://nexo.breezy.hr/p/4c8c7040d11401-senior-transfer-pricing-reporting-specialist",
+        "bodySha256": "179bb62073f422251a254215ce16d99cd5d871ce7895f4a979580cc96888feda"
+      }
+    ],
+    "applicationState": "closed",
+    "atsState": "unknown"
+  },
+  "https://careers.tether.io/o/technical-lead-gpu-infrastructure-poland": {
+    "slug": "infra3",
+    "link": "https://careers.tether.io/o/technical-lead-gpu-infrastructure-poland",
+    "reason": "application-not-found",
+    "evidence": "Two GET observations: 2026-10-12T21:36:25.875Z HTTP 404 http-404 final https://careers.tether.io/o/technical-lead-gpu-infrastructure-poland; 2026-10-12T21:45:36.680Z HTTP 404 http-404 final https://careers.tether.io/o/technical-lead-gpu-infrastructure-poland",
+    "checkedAt": "2026-10-12T21:45:36.680Z",
+    "blockedSlugs": [
+      "infra3"
+    ],
+    "aliases": [
+      "infra3"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:36:25.875Z",
+        "finalUrl": "https://careers.tether.io/o/technical-lead-gpu-infrastructure-poland",
+        "bodySha256": "7478800d3f3ab071b7554f77bb5139117a71239fb83aab3cd5e1aebd9699de77"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:36.680Z",
+        "finalUrl": "https://careers.tether.io/o/technical-lead-gpu-infrastructure-poland",
+        "bodySha256": "7478800d3f3ab071b7554f77bb5139117a71239fb83aab3cd5e1aebd9699de77"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "unknown"
+  },
+  "lever:f148fcd0-19c6-462a-ad5b-db65f9f62986": {
+    "slug": "job37",
+    "link": "https://jobs.lever.co/gate/f148fcd0-19c6-462a-ad5b-db65f9f62986",
+    "reason": "application-not-found",
+    "evidence": "Application URL returned 404 in two GETs; official Lever API still listed the exact role at 2026-10-12T21:40:54.793Z. Application link unavailable; job closure is not established.",
+    "checkedAt": "2026-10-12T21:45:36.642Z",
+    "blockedSlugs": [
+      "job37"
+    ],
+    "aliases": [
+      "job37"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:35:47.589Z",
+        "finalUrl": "https://jobs.lever.co/gate/f148fcd0-19c6-462a-ad5b-db65f9f62986",
+        "bodySha256": "bd625ed112a4d6fc1fde22bb8f0728bc7a01eb3978b6f9e26200db42dbdcd7ea"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:36.642Z",
+        "finalUrl": "https://jobs.lever.co/gate/f148fcd0-19c6-462a-ad5b-db65f9f62986",
+        "bodySha256": "fd5fa5a4e3c321a9fb460d840d157cc5c2057bad0fc6d81168a48dbc97b91cd6"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "active"
+  },
+  "lever:ed4e1ce8-3c47-4d35-9b2a-bc7358747f07": {
+    "slug": "job35",
+    "link": "https://jobs.lever.co/gate/ed4e1ce8-3c47-4d35-9b2a-bc7358747f07",
+    "reason": "application-not-found",
+    "evidence": "Application URL returned 404 in two GETs; official Lever API still listed the exact role at 2026-10-12T21:40:54.793Z. Application link unavailable; job closure is not established.",
+    "checkedAt": "2026-10-12T21:45:37.084Z",
+    "blockedSlugs": [
+      "job35"
+    ],
+    "aliases": [
+      "job35"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:35:57.681Z",
+        "finalUrl": "https://jobs.lever.co/gate/ed4e1ce8-3c47-4d35-9b2a-bc7358747f07",
+        "bodySha256": "9e6b281979fa9cb68c564f62778a9164bf6ba4d6991646b38423afe39cf17691"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:37.084Z",
+        "finalUrl": "https://jobs.lever.co/gate/ed4e1ce8-3c47-4d35-9b2a-bc7358747f07",
+        "bodySha256": "1d7537365756c05ad83b321151a482ac78a0a7d4bb6db41ab77fd610cfe44e24"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "active"
+  },
+  "lever:d4e51bee-27d9-4d6b-9551-66692b13d843": {
+    "slug": "web5",
+    "link": "https://jobs.lever.co/gate/d4e51bee-27d9-4d6b-9551-66692b13d843",
+    "reason": "application-not-found",
+    "evidence": "Application URL returned 404 in two GETs; official Lever API still listed the exact role at 2026-10-12T21:40:54.793Z. Application link unavailable; job closure is not established.",
+    "checkedAt": "2026-10-12T21:45:38.420Z",
+    "blockedSlugs": [
+      "web5"
+    ],
+    "aliases": [
+      "web5"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:36:03.480Z",
+        "finalUrl": "https://jobs.lever.co/gate/d4e51bee-27d9-4d6b-9551-66692b13d843",
+        "bodySha256": "8ef7fd2d8fb4d6348f56c1c6facde6a9d0032591015fad1d9ff7c4d0b436ee17"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:38.420Z",
+        "finalUrl": "https://jobs.lever.co/gate/d4e51bee-27d9-4d6b-9551-66692b13d843",
+        "bodySha256": "2c469c7e5b06209334135d04ab08c074f8888393ab8e39d670ddeef778c6c571"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "active"
+  },
+  "lever:a98691de-7f6e-47c4-be78-1ebe7fd504c1": {
+    "slug": "web4",
+    "link": "https://jobs.lever.co/gate/a98691de-7f6e-47c4-be78-1ebe7fd504c1",
+    "reason": "application-not-found",
+    "evidence": "Application URL returned 404 in two GETs; official Lever API still listed the exact role at 2026-10-12T21:40:54.793Z. Application link unavailable; job closure is not established.",
+    "checkedAt": "2026-10-12T21:45:38.861Z",
+    "blockedSlugs": [
+      "web4"
+    ],
+    "aliases": [
+      "web4"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:36:07.643Z",
+        "finalUrl": "https://jobs.lever.co/gate/a98691de-7f6e-47c4-be78-1ebe7fd504c1",
+        "bodySha256": "63b3d5f326f0aeeaf88f1cfbbbe690334e70882f85a882f07dc6ee92b26ac5c0"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:38.861Z",
+        "finalUrl": "https://jobs.lever.co/gate/a98691de-7f6e-47c4-be78-1ebe7fd504c1",
+        "bodySha256": "80da14464cc3eee0e42e594d3e5f4eb4e7d88099de61358cdeb81715e04d5eab"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "active"
+  },
+  "lever:895f9630-5b85-4785-88c8-40b5ff077ef0": {
+    "slug": "web2",
+    "link": "https://jobs.lever.co/gate/895f9630-5b85-4785-88c8-40b5ff077ef0",
+    "reason": "application-not-found",
+    "evidence": "Application URL returned 404 in two GETs; official Lever API still listed the exact role at 2026-10-12T21:40:54.793Z. Application link unavailable; job closure is not established.",
+    "checkedAt": "2026-10-12T21:45:39.369Z",
+    "blockedSlugs": [
+      "web2"
+    ],
+    "aliases": [
+      "web2"
+    ],
+    "observations": [
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:36:11.517Z",
+        "finalUrl": "https://jobs.lever.co/gate/895f9630-5b85-4785-88c8-40b5ff077ef0",
+        "bodySha256": "7e908fb248432dafc8d480005f0b128de7b083be6063ef388cbf1bebee9c163f"
+      },
+      {
+        "status": 404,
+        "checkedAt": "2026-10-12T21:45:39.369Z",
+        "finalUrl": "https://jobs.lever.co/gate/895f9630-5b85-4785-88c8-40b5ff077ef0",
+        "bodySha256": "04d53a8cc66ea4efb8f23a02df9a5f31145cd454017ffdaa1821da3ebd9e37b9"
+      }
+    ],
+    "applicationState": "unavailable",
+    "atsState": "active"
   }
 }

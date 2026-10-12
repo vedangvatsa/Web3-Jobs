@@ -9,6 +9,8 @@ import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
 import { cleanJobLocation, getPrimaryJobLocation, isRemoteJob } from '@/lib/job-location';
 import { getImageVariants } from '@/lib/responsive-images-server';
+import { isJobAgeEligible, MAX_JOB_AGE_DAYS } from '@/lib/job-age-policy.mjs';
+import { notFound } from 'next/navigation';
 
 interface JobDetailViewProps {
   job: Job;
@@ -233,6 +235,7 @@ export function JobDetailView({
   logoSrc = null,
   faviconUrl = null,
 }: JobDetailViewProps) {
+  if (!isJobAgeEligible(job)) notFound();
   const slug = getJobSlug(job);
   const companySlug = getCompanySlug(job.company);
   const canonicalUrl = `${siteUrl}/${slug}`;
@@ -263,10 +266,9 @@ export function JobDetailView({
     ...(absoluteLogoUrl && { logo: absoluteLogoUrl }),
   };
 
-  const isDateValid = !Number.isNaN(postedDate.getTime());
-  const datePostedIso = isDateValid ? postedDate.toISOString() : new Date().toISOString();
+  const datePostedIso = postedDate.toISOString();
   const validThroughDate = new Date(
-    (isDateValid ? postedDate.getTime() : Date.now()) + 60 * 24 * 60 * 60 * 1000
+    postedDate.getTime() + MAX_JOB_AGE_DAYS * 24 * 60 * 60 * 1000
   ).toISOString();
 
   const titleLower = job.title.toLowerCase();
@@ -333,8 +335,6 @@ export function JobDetailView({
       name: 'hashtagweb3.com',
       value: job.id,
     },
-    // Always emit datePosted for Google JobPosting (required). UI still hides
-    // relative "Posted …" when dateVerified is false (discovery time only).
     datePosted: datePostedIso,
     validThrough: validThroughDate,
     employmentType,

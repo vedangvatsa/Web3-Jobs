@@ -24,7 +24,7 @@ on:
         type: string
         default: ''
       force:
-        description: 'Republish a platform even if its post was already recorded'
+        description: 'Retry eligible missing deliveries; existing receipts and age limits remain enforced'
         type: boolean
         default: false
   workflow_call:
@@ -42,7 +42,7 @@ on:
         type: string
         default: ''
       force:
-        description: 'Republish a platform even if its post was already recorded'
+        description: 'Retry eligible missing deliveries; existing receipts and age limits remain enforced'
         type: boolean
         default: false
 
@@ -73,7 +73,7 @@ jobs:
         run: npm ci
 
       - name: Test Buffer publishing and account-specific receipts
-        run: npx tsx --test scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts scripts/social/linkedin-personal.test.ts scripts/social/job-image-policy.test.ts
+        run: npx tsx --test scripts/lib/job-publish-guard.test.mjs scripts/social/job-publisher-age.test.ts scripts/job-alert-publish.test.ts scripts/telegram-ai-jobs.test.mjs scripts/social/telegram-jobs-delivery.test.mjs scripts/social/buffer-x.test.ts scripts/social/linkedin-targets.test.ts scripts/social/linkedin-personal.test.ts scripts/social/job-image-policy.test.ts
 
       - name: Post Job Opening
         id: publish

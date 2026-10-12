@@ -1,18 +1,17 @@
 import { JobBoard } from '@/components/job-board';
 import { getJobSlug } from '@/lib/job-slugs';
-import type { Job } from '@/types';
-import homepageJobs from '../../content/homepage-jobs.json';
+import { getJobs } from '@/lib/jobs';
+import { buildCompanyLogoMapSync } from '@/lib/job-logo-map';
 import { TrustedBy } from '@/components/trusted-by';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 import type { Metadata } from 'next';
-import type { CompanyLogoMap } from '@/lib/job-logo-map';
 import { withLogoImageVariants } from '@/lib/responsive-images-server';
 
-// Static HTML from build — avoid bundling full jobs-runtime.json in the Worker (Cloudflare 1102).
 export const dynamic = 'force-static';
+export const revalidate = 3600;
 
 export const metadata: Metadata = {
   title: 'Web3 Jobs and Crypto Careers',
@@ -35,14 +34,11 @@ export const metadata: Metadata = {
   },
 };
 
-type HomepageJobsSnapshot = {
-  total: number;
-  initialJobs: Job[];
-  companyLogos: CompanyLogoMap;
-};
-
-export default function JobsPage() {
-  const { total: totalJobs, initialJobs, companyLogos } = homepageJobs as HomepageJobsSnapshot;
+export default async function JobsPage() {
+  const jobs = await getJobs();
+  const totalJobs = jobs.length;
+  const initialJobs = jobs.slice(0, 50);
+  const companyLogos = buildCompanyLogoMapSync(initialJobs);
 
   const siteUrl = 'https://hashtagweb3.com';
   const pageSchema = {

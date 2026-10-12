@@ -1,0 +1,443 @@
+{
+  "checkedAt": "2026-10-12T22:17:57.550Z",
+  "initialJobs": 1667,
+  "remainingJobs": 1606,
+  "removedJobs": 61,
+  "reasons": {
+    "expired": 43,
+    "unverified-date": 5,
+    "application-closed": 2,
+    "application-not-found": 11
+  },
+  "removedDescriptions": 61,
+  "removedAssets": 135,
+  "removed": [
+    {
+      "id": "2e4294175e1b",
+      "slug": "engineer624",
+      "link": "https://bitdeer.breezy.hr/p/2e4294175e1b-senior-ai-cloud-network-operations-engineer",
+      "date": "2026-03-19",
+      "reason": "expired"
+    },
+    {
+      "id": "0f68992322fb01",
+      "slug": "marketing212",
+      "link": "https://nexo.breezy.hr/p/0f68992322fb01-brand-marketing-specialist-loyalty-lifestyle-partnerships",
+      "date": "2026-01-29",
+      "reason": "expired"
+    },
+    {
+      "id": "a9b77e7301f601",
+      "slug": "marketing211",
+      "link": "https://nexo.breezy.hr/p/a9b77e7301f601-brand-marketing-manager-global-sponsorships",
+      "date": "2026-01-29",
+      "reason": "expired"
+    },
+    {
+      "id": "eae02bdd14df01",
+      "slug": "marketing186",
+      "link": "https://nexo.breezy.hr/p/eae02bdd14df01-marketing-operations-specialist",
+      "date": "2026-04-27",
+      "reason": "expired"
+    },
+    {
+      "id": "1d398ae5f95b01",
+      "slug": "engineer816",
+      "link": "https://nexo.breezy.hr/p/1d398ae5f95b01-senior-data-engineer",
+      "date": "2020-09-03",
+      "reason": "expired"
+    },
+    {
+      "id": "f58e733206d401",
+      "slug": "senior45",
+      "link": "https://nexo.breezy.hr/p/f58e733206d401-senior-data-scientist",
+      "date": "2021-11-05",
+      "reason": "expired"
+    },
+    {
+      "id": "647299a3933801",
+      "slug": "analyst30",
+      "link": "https://nexo.breezy.hr/p/647299a3933801-senior-bi-analyst",
+      "date": "2021-06-21",
+      "reason": "expired"
+    },
+    {
+      "id": "955f529ce64401",
+      "slug": "developer37",
+      "link": "https://nexo.breezy.hr/p/955f529ce64401-senior-web-developer",
+      "date": "2026-02-18",
+      "reason": "expired"
+    },
+    {
+      "id": "7dcc5e81a9a901",
+      "slug": "designer33",
+      "link": "https://nexo.breezy.hr/p/7dcc5e81a9a901-motion-designer",
+      "date": "2025-12-16",
+      "reason": "expired"
+    },
+    {
+      "id": "11ad5548829301",
+      "slug": "designer32",
+      "link": "https://nexo.breezy.hr/p/11ad5548829301-graphic-designer",
+      "date": "2025-12-16",
+      "reason": "expired"
+    },
+    {
+      "id": "4708ac36d42e01",
+      "slug": "marketing84",
+      "link": "https://nexo.breezy.hr/p/4708ac36d42e01-performance-marketing-manager",
+      "date": "2025-11-20",
+      "reason": "expired"
+    },
+    {
+      "id": "b04e376692fb01",
+      "slug": "marketing97",
+      "link": "https://nexo.breezy.hr/p/b04e376692fb01-head-of-marketing-argentina",
+      "date": "2026-06-03",
+      "reason": "expired"
+    },
+    {
+      "id": "4e1b1785fe35",
+      "slug": "2026",
+      "link": "https://bitdeer.breezy.hr/p/4e1b1785fe35-gtt-indication-of-interest",
+      "date": "",
+      "reason": "unverified-date"
+    },
+    {
+      "id": "6f0af499d613",
+      "slug": "manager369",
+      "link": "https://bitdeer.breezy.hr/p/6f0af499d613-data-center-site-manager-supervisor",
+      "date": "2026-07-28",
+      "reason": "expired"
+    },
+    {
+      "id": "23b8f881f93c",
+      "slug": "engineer983",
+      "link": "https://bitdeer.breezy.hr/p/23b8f881f93c-agentic-ai-engineer",
+      "date": "2026-09-07",
+      "reason": "expired"
+    },
+    {
+      "id": "cb8dacc13a9a",
+      "slug": "engineer756",
+      "link": "https://zero-hash.breezy.hr/p/cb8dacc13a9a-senior-settlement-trading-operations-engineer",
+      "date": "2026-07-29",
+      "reason": "expired"
+    },
+    {
+      "id": "d6ee5da03e40",
+      "slug": "engineer1007",
+      "link": "https://bitdeer.breezy.hr/p/d6ee5da03e40-data-center-operations-engineer",
+      "date": "2026-08-03",
+      "reason": "expired"
+    },
+    {
+      "id": "d88429072644",
+      "slug": "eng422",
+      "link": "https://bitdeer.breezy.hr/p/d88429072644-smt-engineer",
+      "date": "",
+      "reason": "unverified-date"
+    },
+    {
+      "id": "4198e4add516",
+      "slug": "vp10",
+      "link": "https://zero-hash.breezy.hr/p/4198e4add516-vp-head-of-liquidity-exchange-services",
+      "date": "2026-08-27",
+      "reason": "expired"
+    },
+    {
+      "id": "9e642857eab9",
+      "slug": "engineer988",
+      "link": "https://bitdeer.breezy.hr/p/9e642857eab9-senior-staff-mid-end-engineer-3d-process-integration",
+      "date": "2026-06-25",
+      "reason": "expired"
+    },
+    {
+      "id": "52a7fad0973a",
+      "slug": "engineer850",
+      "link": "https://bitdeer.breezy.hr/p/52a7fad0973a-dft-engineer-leader",
+      "date": "2025-12-18",
+      "reason": "expired"
+    },
+    {
+      "id": "a16ddde5b981",
+      "slug": "sls212",
+      "link": "https://zero-hash.breezy.hr/p/a16ddde5b981-director-of-enterprise-sales-wealth-fis-brokerage",
+      "date": "2026-05-04",
+      "reason": "expired"
+    },
+    {
+      "id": "99f325e9d1ae",
+      "slug": "engineer775",
+      "link": "https://zero-hash.breezy.hr/p/99f325e9d1ae-front-end-engineer",
+      "date": "2026-08-12",
+      "reason": "expired"
+    },
+    {
+      "id": "bb293425aae0",
+      "slug": "engineer989",
+      "link": "https://bitdeer.breezy.hr/p/bb293425aae0-senior-staff-mid-end-engineer-sta-synthesis",
+      "date": "2026-06-25",
+      "reason": "expired"
+    },
+    {
+      "id": "9d926cf41b03",
+      "slug": "engineer590",
+      "link": "https://bitdeer.breezy.hr/p/9d926cf41b03-senior-staff-physical-verification-engineer",
+      "date": "2026-06-25",
+      "reason": "expired"
+    },
+    {
+      "id": "431f3001132c",
+      "slug": "vp8",
+      "link": "https://zero-hash.breezy.hr/p/431f3001132c-vp-strategic-partnerships",
+      "date": "2026-07-07",
+      "reason": "expired"
+    },
+    {
+      "id": "99ff2f649be201",
+      "slug": "pm84",
+      "link": "https://transak-inc.breezy.hr/p/99ff2f649be201-product-partnerships-manager",
+      "date": "2026-08-24",
+      "reason": "expired"
+    },
+    {
+      "id": "028008245200",
+      "slug": "product493",
+      "link": "https://zero-hash.breezy.hr/p/028008245200-senior-product-manager-transact",
+      "date": "2026-08-05",
+      "reason": "expired"
+    },
+    {
+      "id": "744cb147055501",
+      "slug": "aso27",
+      "link": "https://transak-inc.breezy.hr/p/744cb147055501-executive-assistant",
+      "date": "2026-09-11",
+      "reason": "expired"
+    },
+    {
+      "id": "4c8c7040d11401",
+      "slug": "senior52",
+      "link": "https://nexo.breezy.hr/p/4c8c7040d11401-senior-transfer-pricing-reporting-specialist",
+      "date": "2026-07-28",
+      "reason": "application-closed"
+    },
+    {
+      "id": "f148fcd0-19c6-462a-ad5b-db65f9f62986",
+      "slug": "job37",
+      "link": "https://jobs.lever.co/gate/f148fcd0-19c6-462a-ad5b-db65f9f62986",
+      "date": "2026-09-20T09:26:32.403Z",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "96ddc16c985e01",
+      "slug": "be29",
+      "link": "https://transak-inc.breezy.hr/p/96ddc16c985e01-software-development-engineer-iii-fiat-payments-backend",
+      "date": "2026-08-24",
+      "reason": "expired"
+    },
+    {
+      "id": "d0c5bd3607f9",
+      "slug": "design",
+      "link": "https://bitdeer.breezy.hr/p/d0c5bd3607f9-design-verification-technical-lead",
+      "date": "2026-03-19",
+      "reason": "expired"
+    },
+    {
+      "id": "2963ad7b899001",
+      "slug": "sls4",
+      "link": "https://transak-inc.breezy.hr/p/2963ad7b899001-sales-director",
+      "date": "2025-12-02",
+      "reason": "application-closed"
+    },
+    {
+      "id": "2750022",
+      "slug": "infra3",
+      "link": "https://careers.tether.io/o/technical-lead-gpu-infrastructure-poland",
+      "date": "2026-09-17T15:00:31Z",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "ed4e1ce8-3c47-4d35-9b2a-bc7358747f07",
+      "slug": "job35",
+      "link": "https://jobs.lever.co/gate/ed4e1ce8-3c47-4d35-9b2a-bc7358747f07",
+      "date": "2026-09-17T09:27:41.591Z",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "09787f526aa5",
+      "slug": "engineer990",
+      "link": "https://bitdeer.breezy.hr/p/09787f526aa5-advanced-packaging-lead-architect",
+      "date": "2026-03-06",
+      "reason": "expired"
+    },
+    {
+      "id": "96e15453bfb9",
+      "slug": "manager168",
+      "link": "https://bitdeer.breezy.hr/p/96e15453bfb9-sales-manager",
+      "date": "2025-09-11",
+      "reason": "expired"
+    },
+    {
+      "id": "5fe2753b14ce",
+      "slug": "finance4",
+      "link": "https://bitdeer.breezy.hr/p/5fe2753b14ce-finance-erp-consultant",
+      "date": "2025-10-22",
+      "reason": "expired"
+    },
+    {
+      "id": "319e21a5b74e",
+      "slug": "manager40",
+      "link": "https://bitdeer.breezy.hr/p/319e21a5b74e-general-manager-ethiopia",
+      "date": "2025-02-09",
+      "reason": "expired"
+    },
+    {
+      "id": "b66174ea0d40",
+      "slug": "security94",
+      "link": "https://bitdeer.breezy.hr/p/b66174ea0d40-senior-security-operations-engineer-aidc",
+      "date": "2026-05-05",
+      "reason": "expired"
+    },
+    {
+      "id": "17f1a4e63129",
+      "slug": "security117",
+      "link": "https://bitdeer.breezy.hr/p/17f1a4e63129-senior-security-engineer",
+      "date": "2026-05-05",
+      "reason": "expired"
+    },
+    {
+      "id": "yzilabs-7c2aa732-e7d3-4801-92e2-22899ce75897",
+      "slug": "tc",
+      "link": "https://talent.yzilabs.com/jobs/7c2aa732-e7d3-4801-92e2-22899ce75897",
+      "date": "2026-09-17",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "yzilabs-24cfb2fe-ef36-465a-9609-e3a2d567e50e",
+      "slug": "fsic",
+      "link": "https://talent.yzilabs.com/jobs/24cfb2fe-ef36-465a-9609-e3a2d567e50e",
+      "date": "2026-09-17",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "yzilabs-939bfbaf-b33e-4f17-b793-a540d52bfdd6",
+      "slug": "dev9",
+      "link": "https://talent.yzilabs.com/jobs/939bfbaf-b33e-4f17-b793-a540d52bfdd6",
+      "date": "2026-09-17",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "yzilabs-2755c913-1aca-407e-84bf-544e8d65e579",
+      "slug": "dev8",
+      "link": "https://talent.yzilabs.com/jobs/2755c913-1aca-407e-84bf-544e8d65e579",
+      "date": "2026-09-17",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "c828444a8b1d",
+      "slug": "recruiting85",
+      "link": "https://bitdeer.breezy.hr/p/c828444a8b1d-2026-sales-marketing-graduate-talent-trainee",
+      "date": "2026-06-15",
+      "reason": "expired"
+    },
+    {
+      "id": "f4722d146289",
+      "slug": "backend98",
+      "link": "https://bitdeer.breezy.hr/p/f4722d146289-senior-maas-backend-engineer",
+      "date": "2026-08-04",
+      "reason": "expired"
+    },
+    {
+      "id": "e635eeceedef",
+      "slug": "engineer682",
+      "link": "https://bitdeer.breezy.hr/p/e635eeceedef-senior-slurm-cluster-hpc-engineer",
+      "date": "2026-08-04",
+      "reason": "expired"
+    },
+    {
+      "id": "724c2cea3f7c",
+      "slug": "engineer632",
+      "link": "https://bitdeer.breezy.hr/p/724c2cea3f7c-senior-ai-scheduling-orchestration-engineer",
+      "date": "2026-07-27",
+      "reason": "expired"
+    },
+    {
+      "id": "a8352000d190",
+      "slug": "engineer703",
+      "link": "https://bitdeer.breezy.hr/p/a8352000d190-senior-ai-observability-telemetry-engineer",
+      "date": "2026-07-27",
+      "reason": "expired"
+    },
+    {
+      "id": "a849d4035d41",
+      "slug": "engineer641",
+      "link": "https://bitdeer.breezy.hr/p/a849d4035d41-senior-kubernetes-control-plane-engineer",
+      "date": "2026-07-27",
+      "reason": "expired"
+    },
+    {
+      "id": "d4e51bee-27d9-4d6b-9551-66692b13d843",
+      "slug": "web5",
+      "link": "https://jobs.lever.co/gate/d4e51bee-27d9-4d6b-9551-66692b13d843",
+      "date": "2026-09-16T03:40:31.410Z",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "a98691de-7f6e-47c4-be78-1ebe7fd504c1",
+      "slug": "web4",
+      "link": "https://jobs.lever.co/gate/a98691de-7f6e-47c4-be78-1ebe7fd504c1",
+      "date": "2026-09-16T02:51:38.155Z",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "895f9630-5b85-4785-88c8-40b5ff077ef0",
+      "slug": "web2",
+      "link": "https://jobs.lever.co/gate/895f9630-5b85-4785-88c8-40b5ff077ef0",
+      "date": "2026-09-16T02:31:00.711Z",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "yzilabs-3d6991a0-dca7-49b9-a585-37f132b420ef",
+      "slug": "sls80",
+      "link": "https://talent.yzilabs.com/jobs/3d6991a0-dca7-49b9-a585-37f132b420ef",
+      "date": "2026-09-16",
+      "reason": "application-not-found"
+    },
+    {
+      "id": "2c94dd92847a",
+      "slug": "pm22",
+      "link": "https://bitdeer.breezy.hr/p/2c94dd92847a-svp-vp-director-of-product-ai-cloud",
+      "date": "2026-09-11",
+      "reason": "expired"
+    },
+    {
+      "id": "f03c45a256aa",
+      "slug": "eng47",
+      "link": "https://bitdeer.breezy.hr/p/f03c45a256aa-senior-ai-data-center-network-engineer",
+      "date": "",
+      "reason": "unverified-date"
+    },
+    {
+      "id": "87af2fa42456",
+      "slug": "sup",
+      "link": "https://bitdeer.breezy.hr/p/87af2fa42456-data-center-site-manager-supervisor",
+      "date": "",
+      "reason": "unverified-date"
+    },
+    {
+      "id": "3201d91985b6",
+      "slug": "product542",
+      "link": "https://zero-hash.breezy.hr/p/3201d91985b6-vp-of-ecosystem-and-product-partnerships",
+      "date": "",
+      "reason": "unverified-date"
+    },
+    {
+      "id": "d1f40e6ceec8",
+      "slug": "engineer809",
+      "link": "https://zero-hash.breezy.hr/p/d1f40e6ceec8-technical-support-engineer-amer",
+      "date": "2026-07-15",
+      "reason": "expired"
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 import { getJobs } from '@/lib/jobs';
+import { jobCacheHeaders } from '@/lib/job-age-cache.mjs';
 import { getPublicJobUrl } from '@/lib/job-slugs';
 import { buildFeedDescription } from '@/lib/job-guides';
 import { getFeedLocation, getRecentFeedJobs, isUsOrRemoteJob } from '@/lib/job-feed-helpers';
 import { NextResponse } from 'next/server';
 
-export const revalidate = 3600;
+export const dynamic = 'force-dynamic';
 
 function cdata(value: unknown): string {
   return String(value || '').replace(/]]>/g, ']]]]><![CDATA[>');
@@ -48,7 +49,7 @@ ${jobsXml}
     status: 200,
     headers: {
       'Content-Type': 'application/xml; charset=utf-8',
-      'Cache-Control': 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400',
+      ...jobCacheHeaders(feedJobs),
     },
   });
 }

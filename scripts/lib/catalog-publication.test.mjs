@@ -85,3 +85,22 @@ test('event publication carries tombstones and asset/guide deletions without unr
   assert.equal(JSON.parse(git(['--git-dir', remote, 'show', 'main:content/event-tombstones.json'])).old.slugs[0], 'old');
   assert.equal(git(['--git-dir', remote, 'show', 'main:src/lib/event-guides.ts']), 'retained guides');
 });
+
+test('job publication retains original-date evidence and expiry indexes with asset deletions', async t => {
+  const { cwd, remote, git, write, run } = fixture(t);
+  const files = {
+    'content/job-date-history.json': { posting: { date: '2024-03-09T05:33:00.298Z' } },
+    'content/job-date-provenance.json': { records: { posting: { dateVerified: true } } },
+    'content/job-age-paths.json': { marketing4: '2024-03-09T05:33:00.298Z' },
+    'content/job-age-page-scopes.json': { '/': 'catalog' },
+    'content/removed-job-listings.json': { posting: { reason: 'application-not-found' } },
+    'content/image-redirects.json': { '/og/jobs/old.png': '/og-image.png' },
+  };
+  for (const [name, value] of Object.entries(files)) write(cwd, name, JSON.stringify(value));
+  write(cwd, 'unrelated.json', '{"preserve":true}');
+  fs.unlinkSync(path.join(cwd, 'public/og/jobs/old.png'));
+  await run();
+  for (const [name, value] of Object.entries(files)) assert.deepEqual(JSON.parse(git(['--git-dir', remote, 'show', `main:${name}`])), value);
+  assert.throws(() => git(['--git-dir', remote, 'show', 'main:public/og/jobs/old.png']));
+  assert.throws(() => git(['--git-dir', remote, 'show', 'main:unrelated.json']));
+});

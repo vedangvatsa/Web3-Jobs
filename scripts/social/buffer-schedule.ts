@@ -1,5 +1,6 @@
 import * as fs from 'fs';
 import * as path from 'path';
+import { assertEvergreenContent, isEvergreenContent } from './evergreen-content.mjs';
 
 const token = process.env.BUFFER_ACCESS_TOKEN || '***REMOVED-BUFFER-TOKEN***';
 const orgId = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
@@ -18,7 +19,7 @@ const imageUrls: Record<string, string> = {
 
 async function run() {
  const schedulePath = path.join(__dirname, 'content-schedule.json');
- const schedule = JSON.parse(fs.readFileSync(schedulePath, 'utf8'));
+ const schedule = JSON.parse(fs.readFileSync(schedulePath, 'utf8')).filter(isEvergreenContent);
  
  // Slots: 1am, 9am, 5pm IST starting Mar 28
  const times = [
@@ -71,6 +72,7 @@ async function run() {
  };
  }
 
+ assertEvergreenContent(input);
  const res = await fetch('https://api.buffer.com/graphql', {
  method: 'POST',
  headers: {

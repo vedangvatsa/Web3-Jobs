@@ -3,8 +3,9 @@ import { getPublicJobUrl } from "@/lib/job-slugs";
 import { buildFeedDescription } from "@/lib/job-guides";
 import { buildFeedPlainExcerpt, preloadFeedJobDescriptions } from "@/lib/job-feed-helpers";
 import { NextResponse } from "next/server";
+import { jobCacheHeaders } from '@/lib/job-age-cache.mjs';
 
-export const revalidate = 3600; // Cache for 1 hour
+export const dynamic = 'force-dynamic';
 
 function toTime(value?: string): number {
   const t = value ? Date.parse(value) : NaN;
@@ -52,7 +53,7 @@ export async function GET() {
     status: 200,
     headers: {
       "Content-Type": "application/feed+json; charset=utf-8",
-      "Cache-Control": "public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400",
+      ...jobCacheHeaders(feedJobs),
     },
   });
 }

@@ -5,6 +5,8 @@ import { COMPANY_RICH_ABOUT } from './company-profiles';
 import { cleanJobLocation } from './job-location';
 import type { CompanySocialLinks } from './company-socials';
 import { getCompanySlug } from './job-slugs';
+import { isJobAgeEligible } from './job-age-policy.mjs';
+import { hasRequiredJobDateProvenance } from './job-source-date';
 
 interface CompanyContent {
  website?: string;
@@ -662,7 +664,7 @@ export function buildCompaniesFromJobs(
 ): Company[] {
   const groups = new Map<string, { name: string; jobs: Job[] }>();
   for (const job of jobs) {
-    if (job.active === false) continue;
+    if (!isJobAgeEligible(job) || !hasRequiredJobDateProvenance(job)) continue;
     const normalized = normalizeCompanyName(job.company);
     const name = resolveCanonicalCompanyName(normalized, job.company);
     const slug = getCompanySlug(name);
@@ -697,7 +699,7 @@ export function buildCompaniesFromJobs(
  */
 export async function getCompanies(): Promise<Company[]> {
   await ensureCompaniesCatalog();
-  const list = Object.values(companiesRuntimeMap!).sort((a, b) => b.jobCount - a.jobCount);
+  const list = Object.values(companiesRuntimeMap!).map(currentCompany).filter(company => company.jobCount > 0).sort((a, b) => b.jobCount - a.jobCount);
   return list.map((pre) => ({
     slug: pre.slug,
     name: pre.name,
@@ -719,7 +721,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const alias = getCompanySlug(resolveCanonicalCompanyName(normalizeCompanyName(norm.replace(/-/g, ' ')), norm));
   const pre = companiesRuntimeMap![norm] || companiesRuntimeMap![alias] || companiesRuntimeMap![norm.replace(/-labs$|-foundation$|-crypto$/, '')];
   if (pre) {
-    return { ...pre, jobCount: pre.jobs.length };
+    return currentCompany(pre);
   }
 
   const content = (await loadCompanyContent(slug)) || (await loadCompanyContent(slug.replace(/-labs$|-foundation$|-crypto$/, '')));
@@ -745,4 +747,11 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   }
 
   return null;
+}
+
+function currentCompany(company: Company): Company {
+  const jobs = company.jobs.filter(job => isJobAgeEligible(job));
+  const description = /has \d+ active roles? listed|Current openings include/.test(company.description || '')
+    ? buildListingDescription(company.name, jobs) : company.description;
+  return { ...company, jobs, jobCount: jobs.length, description };
 }

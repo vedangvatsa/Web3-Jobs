@@ -1,5 +1,9 @@
 import { NextRequest } from 'next/server';
 import { middleware } from '../src/middleware';
+import jobs from '../content/jobs-runtime.json';
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
+
+const currentSlug = jobs.find(job => isJobAgeEligible(job))?.slug || 'jobs';
 
 async function runMiddlewareTests() {
   console.log('🧪 Running automated middleware regression & integration tests...\n');
@@ -24,8 +28,8 @@ async function runMiddlewareTests() {
     { input: '/tg', expectedBase: '/', utm_source: 'telegram' },
     { input: '/li', expectedBase: '/', utm_source: 'linkedin' },
     { input: '/th', expectedBase: '/', utm_source: 'threads' },
-    { input: '/bd/tg', expectedBase: '/bd', utm_source: 'telegram' },
-    { input: '/trader/x', expectedBase: '/trader', utm_source: 'x' },
+    { input: `/${currentSlug}/tg`, expectedBase: `/${currentSlug}`, utm_source: 'telegram' },
+    { input: `/${currentSlug}/x`, expectedBase: `/${currentSlug}`, utm_source: 'x' },
     { input: '/jobs/li', expectedBase: '/jobs', utm_source: 'linkedin' },
     { input: '/company/binance/th', expectedBase: '/company/binance', utm_source: 'threads' },
   ];
@@ -71,13 +75,13 @@ async function runMiddlewareTests() {
 
   for (const bot of crawlerBots) {
     try {
-      const req = new NextRequest('https://hashtagweb3.com/bd/tg', {
+      const req = new NextRequest(`https://hashtagweb3.com/${currentSlug}/tg`, {
         headers: { 'user-agent': bot.ua },
       });
       const res = await middleware(req);
       const rewrite = res.headers.get('x-middleware-rewrite') || '';
       assert(
-        res.status === 200 && (rewrite.includes('/bd') || rewrite.includes('%2Fbd')),
+        res.status === 200 && rewrite.endsWith(`/preview/${currentSlug}.html`),
         `Social crawler preview rewrite for ${bot.name}`
       );
     } catch (err: any) {
@@ -87,14 +91,14 @@ async function runMiddlewareTests() {
 
   console.log('\n2a. Testing headless fetchers without Sec-Fetch on suffixed job URLs...');
   try {
-    const req = new NextRequest('https://hashtagweb3.com/sales386/x?og=4', {
+    const req = new NextRequest(`https://hashtagweb3.com/${currentSlug}/x?og=4`, {
       headers: { 'user-agent': 'node-fetch/1.0' },
     });
     const res = await middleware(req);
     const rewrite = res.headers.get('x-middleware-rewrite') || '';
     assert(
-      res.status === 200 && rewrite.endsWith('/preview/sales386.html'),
-      'Headless GET on /sales386/x rewrites to static preview shell',
+      res.status === 200 && rewrite.endsWith(`/preview/${currentSlug}.html`),
+      'Headless GET on a current job rewrites to its preview shell',
       `Got "${rewrite}"`
     );
   } catch (err: any) {
@@ -103,8 +107,8 @@ async function runMiddlewareTests() {
 
   console.log('\n2b. Testing crawler handling for platform-suffixed job URLs...');
   const suffixedCrawlerTests = [
-    { name: 'Facebook', ua: 'facebookexternalhit/1.1', path: '/engineer442/fb?og=2', expectedOgPath: '/engineer442' },
-    { name: 'Threads', ua: 'Meta-ExternalAgent/1.1', path: '/engineer442/th?og=2', expectedOgPath: '/engineer442' },
+    { name: 'Facebook', ua: 'facebookexternalhit/1.1', path: `/${currentSlug}/fb?og=2`, expectedOgPath: `/${currentSlug}` },
+    { name: 'Threads', ua: 'Meta-ExternalAgent/1.1', path: `/${currentSlug}/th?og=2`, expectedOgPath: `/${currentSlug}` },
     { name: 'WhatsApp', ua: 'WhatsApp/2.23.20.0', path: '/clarity-act/wa', expectedOgPath: '/clarity-act' },
   ];
   for (const test of suffixedCrawlerTests) {

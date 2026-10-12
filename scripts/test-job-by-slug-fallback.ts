@@ -17,7 +17,7 @@ async function main() {
         company: 'Amazon',
         link: 'https://example.com/job',
         source: 'test',
-        date: '2026-09-21',
+        date: new Date(Date.now() - 86400000).toISOString(),
         active: true,
       },
       {
@@ -27,7 +27,7 @@ async function main() {
         company: 'ComplyAdvantage',
         link: 'https://example.com/job2',
         source: 'test',
-        date: '2026-09-21',
+        date: new Date(Date.now() - 86400000).toISOString(),
         active: true,
       },
     ]),

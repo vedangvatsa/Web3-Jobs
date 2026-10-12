@@ -6,7 +6,15 @@ on:
         description: 'Only grant Firebase App Hosting admin. Do not build or roll out'
         type: boolean
         default: false
+      sync_secrets:
+        description: 'Explicit repair: synchronize App Hosting secrets and their access before deployment'
+        type: boolean
+        default: false
   workflow_call:
+    inputs:
+      sync_secrets:
+        type: boolean
+        default: false
 
 concurrency:
   group: fah-deploy
@@ -26,6 +34,7 @@ jobs:
           service_account: 'antigravity-agent@web3-jobs-aggregator.iam.gserviceaccount.com'
       - uses: google-github-actions/setup-gcloud@v2
       - name: Grant deploy role + actAs on the App Hosting compute SA
+        if: ${{ inputs.grant_only == true }}
         id: grant
         continue-on-error: true
         run: |
@@ -73,7 +82,7 @@ jobs:
         if: ${{ inputs.grant_only != true }}
         run: node --test scripts/test-apphosting-secret-sync.mjs
       - name: Grant App Hosting secret access + sync values
-        if: ${{ inputs.grant_only != true }}
+        if: ${{ inputs.grant_only != true && inputs.sync_secrets == true }}
         env:
           FIREBASE_APPHOSTING_PROJECT_ID: web3-jobs-aggregator
           FIREBASE_APPHOSTING_BACKEND: studio

@@ -12,6 +12,9 @@
 import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
+import { pathToFileURL } from 'node:url';
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
+import { assertJobAge, verifyEmployerApplication } from './lib/job-publish-guard.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
 
@@ -21,11 +24,6 @@ const JOBS_PER_POST = 5;
 const POST_COOLDOWN_HOURS = 7;
 const POSTED_LOG = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-jobs-posted.json');
 const LAST_POST_FILE = path.join(path.dirname(new URL(import.meta.url).pathname), '../.telegram-ai-jobs-last.json');
-
-if (!BOT_TOKEN || !CHANNEL_ID) {
-  console.error('Missing TELEGRAM_AI_BOT_TOKEN or TELEGRAM_AI_CHANNEL_ID');
-  process.exit(1);
-}
 
 // ── AI Company boards ──
 const GREENHOUSE_BOARDS = [
@@ -64,21 +62,18 @@ function savePosted(posted) {
 }
 
 // ── Fetch from Greenhouse ──
-async function fetchGreenhouse(board, company) {
+export async function fetchGreenhouse(board, company) {
   try {
-    const res = await Promise.race([
-      fetch(`https://boards-api.greenhouse.io/v1/boards/${board}/jobs?content=false`),
-      new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 15000)),
-    ]);
+    const res = await fetch(`https://boards-api.greenhouse.io/v1/boards/${board}/jobs?content=false`, { signal: AbortSignal.timeout(15000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
     return (data.jobs || []).map(job => ({
-      title: cleanTitle(job.title),
+      title: job.title,
       company,
       link: job.absolute_url,
       location: job.location?.name || 'Remote',
-      date: job.first_published || job.updated_at || new Date().toISOString(),
+      date: job.first_published || '',
       id: String(job.id),
     })).filter(j => j.title && j.link);
   } catch (e) {
@@ -88,21 +83,18 @@ async function fetchGreenhouse(board, company) {
 }
 
 // ── Fetch from Ashby ──
-async function fetchAshby(board, company) {
+export async function fetchAshby(board, company) {
   try {
-    const res = await Promise.race([
-      fetch(`https://api.ashbyhq.com/posting-api/job-board/${board}`),
-      new Promise((_, reject) => setTimeout(() => reject(new Error('timeout')), 15000)),
-    ]);
+    const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${board}`, { signal: AbortSignal.timeout(15000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
     return (data.jobs || []).map(job => ({
-      title: cleanTitle(job.title),
+      title: job.title,
       company,
       link: job.jobUrl || `https://jobs.ashbyhq.com/${board}/${job.id}`,
       location: job.location || 'Remote',
-      date: job.publishedAt || new Date().toISOString(),
+      date: job.publishedAt || '',
       id: job.id,
     })).filter(j => j.title && j.link);
   } catch (e) {
@@ -138,7 +130,7 @@ async function fetchAllJobs() {
 
   // Filter for AI/ML roles only
   const aiJobs = all.filter(j =>
-    AI_KEYWORDS.test(j.title) && !SKIP_TITLES.test(j.title)
+    isJobAgeEligible(j) && AI_KEYWORDS.test(j.title) && !SKIP_TITLES.test(j.title)
   );
   console.log(`  AI/ML filtered: ${aiJobs.length}`);
 
@@ -181,7 +173,12 @@ function escapeHtml(text) {
 }
 
 // ── Send to Telegram ──
-async function sendToTelegram(message) {
+export async function sendToTelegram(jobs) {
+  for (const job of jobs) assertJobAge(job);
+  for (const job of jobs) await verifyEmployerApplication(job);
+  for (const job of jobs) assertJobAge(job);
+  if (!jobs.length) throw new Error('No verified AI jobs to send');
+  const message = formatMessage(jobs);
   const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
   const res = await fetch(url, {
     method: 'POST',
@@ -201,6 +198,7 @@ async function sendToTelegram(message) {
 
 // ── Main ──
 async function postOnce() {
+  if (!BOT_TOKEN || !CHANNEL_ID) throw new Error('Missing TELEGRAM_AI_BOT_TOKEN or TELEGRAM_AI_CHANNEL_ID');
   // ── 7-hour cooldown ──
   try {
     const last = JSON.parse(fs.readFileSync(LAST_POST_FILE, 'utf8'));
@@ -217,14 +215,12 @@ async function postOnce() {
 
   // Filter out already posted
   const posted = loadPosted();
-  const fresh = allJobs.filter(j => !posted.has(j.link));
+  const fresh = allJobs.filter(j => isJobAgeEligible(j) && !posted.has(j.link));
   console.log(`  ${fresh.length} not yet posted`);
 
-  if (fresh.length < JOBS_PER_POST) {
-    console.log('  Not enough fresh jobs, resetting history');
-    posted.clear();
-    savePosted(posted);
-    return postOnce();
+  if (!fresh.length) {
+    console.log('No eligible unposted AI jobs. Skipping.');
+    return;
   }
 
   // Pick JOBS_PER_POST jobs, spread across companies
@@ -248,7 +244,13 @@ async function postOnce() {
     }
   }
 
-  const message = formatMessage(selected);
+  const verified = [];
+  for (const job of selected) {
+    try { await verifyEmployerApplication(job); verified.push(job); }
+    catch (error) { console.warn(`Skipped ${job.id}: ${error.message}`); }
+  }
+  if (!verified.length) return;
+  const message = formatMessage(verified);
 
   if (process.argv.includes('--dry-run')) {
     console.log('\n=== DRY RUN ===\n');
@@ -257,16 +259,16 @@ async function postOnce() {
     return;
   }
 
-  const result = await sendToTelegram(message);
+  const result = await sendToTelegram(verified);
   const now = new Date().toLocaleString('en-US', { timeZone: 'Asia/Singapore' });
   console.log(`Posted ${selected.length} jobs at ${now} | Message ID: ${result.result.message_id}`);
 
   // Mark as posted
-  for (const j of selected) posted.add(j.link);
+  for (const j of verified) posted.add(j.link);
   savePosted(posted);
 
   // Save cooldown timestamp
   fs.writeFileSync(LAST_POST_FILE, JSON.stringify({ timestamp: new Date().toISOString() }));
 }
 
-postOnce().catch(e => { console.error(e); process.exit(1); });
+if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) postOnce().catch(e => { console.error(e); process.exit(1); });

@@ -8,6 +8,7 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import type { JobPostingDateEvidence } from '../src/types';
 import Parser from 'rss-parser';
 import { load } from 'cheerio';
 import {
@@ -27,6 +28,10 @@ import { extractSalaryLabelFromContent } from '../src/lib/job-salary';
 import { enrichMultiOfficeLocations } from './lib/enrich-multi-office-locations';
 import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
 import { verifyAshbyEmployer, validateAshbyOrganization } from './lib/ashby-employer-verification';
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
+import { preserveOriginalJobDate } from '../src/lib/job-source-date';
+import { readJobDateHistory, writeJobDateHistory } from './lib/job-ingestion-policy';
+import { fetchBreezyPrimaryDate } from './lib/breezy-primary-date';
 
 interface GetroBoard {
   url: string;
@@ -185,6 +190,8 @@ interface CachedJob {
   link: string;
   date: string;
   dateVerified?: boolean;
+  dateSource?: string;
+  dateEvidence?: JobPostingDateEvidence;
   source: string;
   slug?: string;
   location?: string;
@@ -303,11 +310,6 @@ function extractJsonLdJobDescription(html: string): string | undefined {
   return description ? String(description) : undefined;
 }
 
-function extractBreezyJobDescription(html: string): string | undefined {
-  const $ = load(html);
-  return $('#description .description').first().html() || undefined;
-}
-
 function extractAshbyAppData(html: string): any | undefined {
   const match = html.match(/window\.__appData\s*=\s*(\{[^\n\r]*\});/);
   if (!match) return undefined;
@@ -333,15 +335,15 @@ async function refreshJobsCache() {
   console.log(`Getro boards to fetch: ${GETRO_BOARDS.length}`);
 
   const jobMap = new Map<string, CachedJob>();
+  const dateHistory = readJobDateHistory();
   const persistedSlugs = new Map<string, string>();
-  const persistedDates = new Map<string, string>();
-  const persistedDateVerification = new Map<string, boolean | undefined>();
   let existingDescriptions: Record<string, string> = {};
   let existingDescriptionAliases: Record<string, string> = {};
   const refreshedDescriptions = new Map<string, string>();
 
   const upsertJob = (job: CachedJob): boolean => {
-    if (getJobSourceIssue(job)) return false;
+    job = preserveOriginalJobDate(job, dateHistory);
+    if (!isJobAgeEligible(job) || getJobSourceIssue(job)) return false;
     const identity = getJobIdentity(job);
     const existing = jobMap.get(identity);
     const nextJob = {
@@ -394,22 +396,16 @@ async function refreshJobsCache() {
   try {
     if (fs.existsSync(cachePath)) {
       const existing: CachedJob[] = JSON.parse(fs.readFileSync(cachePath, 'utf-8'));
-      const thirtyDaysAgo = new Date();
-      thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-      
       existing.forEach(job => {
+        job = preserveOriginalJobDate(job, dateHistory);
         const identity = getJobIdentity(job);
         if (job.slug) persistedSlugs.set(identity, job.slug);
-        persistedDates.set(identity, job.date);
-        persistedDateVerification.set(identity, job.dateVerified);
         if (isRetiredSource(job.source) || getJobSourceIssue(job)) return;
-        // Direct ATS roles are replaced only after their board responds
-        // successfully. This avoids wiping a company during a transient outage.
-        if (isDirectSource(job.source) || new Date(job.date) > thirtyDaysAgo) {
+        if (isJobAgeEligible(job)) {
           jobMap.set(getJobIdentity(job), job);
         }
       });
-      console.log(`📦 Loaded ${jobMap.size} existing jobs (active ATS roles plus recent aggregator discoveries)`);
+      console.log(`Loaded ${jobMap.size} existing jobs within the posting-age policy`);
     }
   } catch (e) {
     console.warn('⚠️ Could not read existing cache, starting fresh');
@@ -481,7 +477,7 @@ async function refreshJobsCache() {
                 title,
                 company,
                 link,
-                date: job.createdAt ? new Date(job.createdAt * 1000).toISOString() : new Date().toISOString(),
+                date: job.createdAt ? new Date(job.createdAt * 1000).toISOString() : '',
                 source: board.url,
               };
             if (upsertJob(candidate)) added++;
@@ -631,7 +627,7 @@ async function refreshJobsCache() {
         const title = cleanTitle(job.title);
         const company = normalizeCompany(gh.company);
         const link = job.absolute_url;
-        const date = job.first_published || job.updated_at;
+        const date = job.first_published;
         // Skip internal/hidden postings
         const dept = job.metadata?.find(m => m.name === 'Careersite Department (for job postings)')?.value;
         if (dept === 'Do Not Post') continue;
@@ -643,7 +639,8 @@ async function refreshJobsCache() {
               title,
               company,
               link,
-              date: date || new Date().toISOString(),
+              date: date || '',
+              dateSource: 'Greenhouse.first_published',
               source: sourceLabel('Greenhouse', gh.board, gh.company),
               location: job.location?.name,
               department: job.departments?.[0]?.name || dept,
@@ -748,7 +745,7 @@ async function refreshJobsCache() {
         const title = cleanTitle(posting.text);
         const company = normalizeCompany(lv.company);
         const link = posting.hostedUrl;
-        const date = posting.createdAt ? new Date(posting.createdAt).toISOString() : new Date().toISOString();
+        const date = posting.createdAt ? new Date(posting.createdAt).toISOString() : '';
           const content = combineLeverContent(posting);
           const salary = formatLeverSalaryRange(posting.salaryRange);
 
@@ -957,7 +954,7 @@ async function refreshJobsCache() {
         const title = cleanTitle(job.title);
         const company = normalizeCompany(ab.company);
         const link = job.jobUrl;
-        const date = job.publishedAt || new Date().toISOString();
+        const date = job.publishedAt || '';
 
         if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title)) {
           const candidate: CachedJob = {
@@ -1044,7 +1041,7 @@ async function refreshJobsCache() {
           title: cleanTitle(detail.title) || title,
           company: ab.company,
           link,
-          date: datePosted || new Date().toISOString(),
+          date: datePosted || '',
           dateVerified: Boolean(datePosted),
           source: sourceLabel('Ashby', ab.board, ab.company),
           location: detail.locationName || posting.locationName,
@@ -1052,11 +1049,6 @@ async function refreshJobsCache() {
           department: detail.departmentName || detail.teamNames?.[0],
           active: true,
         };
-        const identity = getJobIdentity(candidate);
-        candidate.date = datePosted || persistedDates.get(identity) || candidate.date;
-        candidate.dateVerified = datePosted
-          ? true
-          : persistedDateVerification.get(identity) ?? false;
         if (upsertJob(candidate)) added++;
         rememberDescription(candidate, detail.descriptionHtml);
       });
@@ -1145,7 +1137,7 @@ async function refreshJobsCache() {
         const title = cleanTitle(detail.title || job.title);
         const company = normalizeCompany(wb.company);
         const link = job.url || job.application_url || `https://apply.workable.com/${wb.board}/j/${id}/`;
-        const date = detail.published || job.published_on || job.created_at || new Date().toISOString();
+        const date = detail.published || job.published_on || job.created_at || '';
         if (!link || !title || title.length > 180 || title.toLowerCase().includes('bounty')) return;
 
         const detailLocations = detail.locations || (detail.location ? [detail.location] : []);
@@ -1208,7 +1200,7 @@ async function refreshJobsCache() {
         const title = cleanTitle(offer.title);
         const company = normalizeCompany(rt.company);
         const link = offer.careers_url;
-        const date = offer.published_at || new Date().toISOString();
+        const date = offer.published_at || '';
 
         if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty')) {
           const candidate: CachedJob = {
@@ -1304,14 +1296,11 @@ async function refreshJobsCache() {
           title,
           company: wd.company,
           link,
-          date: detail.startDate || new Date().toISOString(),
+          date: detail.startDate || '',
           source: sourceLabel('Workday', board, wd.company),
           location: detail.location || posting.locationsText,
           active: true,
         };
-        identityDraft.date = detail.startDate
-          || persistedDates.get(getJobIdentity(identityDraft))
-          || identityDraft.date;
         if (upsertJob(identityDraft)) added++;
         rememberDescription(identityDraft, detail.jobDescription);
       });
@@ -1363,7 +1352,7 @@ async function refreshJobsCache() {
           title,
           company: sr.company,
           link,
-          date: detail.releasedDate || posting.releasedDate || new Date().toISOString(),
+          date: detail.releasedDate || posting.releasedDate || '',
           source: sourceLabel('SmartRecruiters', sr.board, sr.company),
           location: detail.location?.fullLocation || posting.location?.fullLocation,
           department: detail.department?.label || posting.department?.label,
@@ -1402,7 +1391,6 @@ async function refreshJobsCache() {
         id: string;
         name: string;
         url: string;
-        published_date?: string;
         department?: string;
         location?: { name?: string; is_remote?: boolean };
       }>;
@@ -1419,27 +1407,21 @@ async function refreshJobsCache() {
           title,
           company: bz.company,
           link: posting.url,
-          date: posting.published_date || new Date().toISOString(),
+          date: '',
+          dateVerified: false,
+          dateSource: 'Breezy.primary-date-unverified',
           source: sourceLabel('Breezy', bz.board, bz.company),
           location: posting.location?.name,
           isRemote: posting.location?.is_remote,
           department: posting.department,
           active: true,
         };
-        candidate.date = posting.published_date
-          || persistedDates.get(getJobIdentity(candidate))
-          || candidate.date;
+        const verified = await fetchBreezyPrimaryDate(candidate);
+        if (!verified) { console.warn(`Unverified Breezy original posting date; excluded: ${posting.url}`); return; }
+        const { description, ...dateFields } = verified;
+        Object.assign(candidate, dateFields);
         if (upsertJob(candidate)) added++;
-
-        try {
-          const pageRes = await fetch(posting.url);
-          if (pageRes.ok) {
-            const html = await pageRes.text();
-            rememberDescription(candidate, extractJsonLdJobDescription(html) || extractBreezyJobDescription(html));
-          }
-        } catch {
-          // Preserve the verified listing without fabricating missing content.
-        }
+        rememberDescription(candidate, description);
       });
       feedsOk++;
       console.log(`  ✅ Breezy (${bz.company}): ${concretePostings.length} items, ${added} new`);
@@ -1510,14 +1492,11 @@ async function refreshJobsCache() {
           title: detailTitle,
           company: normalizeCompany(dv.company),
           link,
-          date: detail.created || posting.created || new Date().toISOString(),
+          date: detail.created || posting.created || '',
           source: sourceLabel('Dover', dv.board, dv.company),
           location,
           active: true,
         };
-        candidate.date = candidate.date
-          || persistedDates.get(getJobIdentity(candidate))
-          || candidate.date;
         if (upsertJob(candidate)) added++;
         rememberDescription(candidate, content);
       });
@@ -1590,15 +1569,12 @@ async function refreshJobsCache() {
           title,
           company: bh.company,
           link,
-          date: detail?.datePosted || new Date().toISOString(),
+          date: detail?.datePosted || '',
           source: sourceLabel('BambooHR', bh.board, bh.company),
           location: [location?.city, location?.state, location?.country].filter(Boolean).join(', ') || undefined,
           department: detail?.departmentLabel || opening.departmentLabel,
           active: true,
         };
-        candidate.date = detail?.datePosted
-          || persistedDates.get(getJobIdentity(candidate))
-          || candidate.date;
         if (upsertJob(candidate)) added++;
         rememberDescription(candidate, detail?.description);
       });
@@ -1643,7 +1619,8 @@ async function refreshJobsCache() {
           title,
           company: cm.company,
           link,
-          date: posting.time_updated || new Date().toISOString(),
+          date: '',
+          dateVerified: false,
           source: sourceLabel('Comeet', cm.board, cm.company),
           location: posting.location?.name,
           department: posting.department,
@@ -1689,7 +1666,7 @@ async function refreshJobsCache() {
           title,
           company: tt.company,
           link,
-          date: item.isoDate || item.pubDate || new Date().toISOString(),
+          date: item.isoDate || '',
           source: sourceLabel('Teamtailor', tt.board, tt.company),
           active: true,
         };
@@ -1762,15 +1739,12 @@ async function refreshJobsCache() {
           title: cleanTitle(detail.name) || title,
           company: rp.company,
           link: detail.url || posting.url,
-          date: detail.createdOn || new Date().toISOString(),
+          date: detail.createdOn || '',
           source: sourceLabel('Rippling', rp.board, rp.company),
           location: (detail.workLocations || posting.locations?.map((location) => location.name).filter(Boolean) || []).join(', ') || undefined,
           department: detail.department?.name || posting.department?.name,
           active: true,
         };
-        candidate.date = detail.createdOn
-          || persistedDates.get(getJobIdentity(candidate))
-          || candidate.date;
         if (upsertJob(candidate)) added++;
         rememberDescription(candidate, Object.values(detail.description || {}).join('\n'));
       });
@@ -1990,19 +1964,12 @@ async function refreshJobsCache() {
           title,
           company: fp.company,
           link,
-          date: datePosted || new Date().toISOString(),
+          date: datePosted || '',
           dateVerified: Boolean(datePosted),
           source: sourceLabel('FirstParty', fp.board, fp.company),
           location,
           active: true,
         };
-        const identity = getJobIdentity(candidate);
-        candidate.date = datePosted
-          || persistedDates.get(identity)
-          || candidate.date;
-        candidate.dateVerified = datePosted
-          ? true
-          : persistedDateVerification.get(identity) ?? false;
         staged.push({ job: candidate, content });
       });
 
@@ -2103,15 +2070,13 @@ async function refreshJobsCache() {
           title,
           company,
           link: jobUrl,
-          date: job.postedAt || new Date().toISOString(),
+          date: job.postedAt || '',
           source,
           location: job.location || undefined,
           department: job.type || undefined,
           active: job.status !== 'Position closed',
         };
 
-        const identity = getJobIdentity(candidate);
-        candidate.date = job.postedAt || persistedDates.get(identity) || candidate.date;
         candidate.dateVerified = Boolean(job.postedAt);
 
         if (upsertJob(candidate)) added++;
@@ -2136,20 +2101,13 @@ async function refreshJobsCache() {
   // Convert to array and sort by date
   let allJobs = Array.from(jobMap.values());
 
-  // Direct ATS feeds are authoritative: an older posting remains active until
-  // it disappears from a successful board response. Aggregator discoveries are
-  // published only when employer-authored content was verified and cached;
-  // otherwise they remain low-confidence leads rather than public job pages.
-  const thirtyDaysAgo = new Date();
-  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
   allJobs = allJobs.filter((job) => (
-    isDirectSource(job.source)
+    isJobAgeEligible(job) && (isDirectSource(job.source)
       ? job.active !== false && configuredDirectSources.has(job.source.toLowerCase())
-      : new Date(job.date) > thirtyDaysAgo
-        && isUsableDescription(
+      : isUsableDescription(
           refreshedDescriptions.get(getJobContentKey(job))
             || getExistingDescription(job)
-        )
+        ))
   ));
 
   // Filter out unwanted companies and non-tech roles
@@ -2238,6 +2196,7 @@ async function refreshJobsCache() {
   // Write cache
   fs.mkdirSync(path.dirname(cachePath), { recursive: true });
   fs.writeFileSync(cachePath, `${JSON.stringify(allJobs, null, 2)}\n`);
+  writeJobDateHistory(dateHistory);
 
   // Keep only employer-provided descriptions for jobs that are still
   // published. Composite source keys avoid the old cross-company ID clashes.

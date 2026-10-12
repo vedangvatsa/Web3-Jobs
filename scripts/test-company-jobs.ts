@@ -31,7 +31,7 @@ async function main() {
     }
   }
   assert.equal(covered.size, jobs.length, 'Every current job must be linked from a company page');
-  const sample: Job = { id: 'one', slug: 'one', title: 'Engineer', company: 'OP Labs', link: 'https://example.com/one', source: 'test', date: '2026-09-20' };
+  const sample: Job = { id: 'one', slug: 'one', title: 'Engineer', company: 'OP Labs', link: 'https://example.com/one', source: 'test', date: new Date(Date.now() - 86400000).toISOString() };
   const fixture = buildCompaniesFromJobs([sample, { ...sample, id: 'retired', active: false }], {});
   assert.equal(fixture[0].name, 'Optimism');
   assert.equal(fixture[0].jobCount, 1);

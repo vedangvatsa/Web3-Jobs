@@ -3,6 +3,7 @@ import { getJobSlug, getPublicJobUrl } from '@/lib/job-slugs';
 import { buildFeedDescription } from '@/lib/job-guides';
 import { getFeedLocation, getFeedRegion, getRecentFeedJobs } from '@/lib/job-feed-helpers';
 import { NextResponse } from 'next/server';
+import { jobCacheHeaders } from './job-age-cache.mjs';
 
 /** Shared Jooble-style XML job feed (served at /jooble.xml). */
 export async function buildJoobleFeedResponse(): Promise<NextResponse> {
@@ -52,7 +53,7 @@ ${jobsXml}
     status: 200,
     headers: {
       'Content-Type': 'application/xml; charset=utf-8',
-      'Cache-Control': 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400',
+      ...jobCacheHeaders(feedJobs),
     },
   });
 }

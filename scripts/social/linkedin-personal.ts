@@ -54,7 +54,8 @@ export class PersonalLinkedInClient {
     };
   }
 
-  async create(text: string, link: { url: string; title: string; description?: string; thumbnail?: string }): Promise<string> {
+  async create(text: string, link: { url: string; title: string; description?: string; thumbnail?: string }, beforeSend?: () => Promise<void>): Promise<string> {
+    await beforeSend?.();
     const author = await this.verifyIdentity();
     const source = new URL(link.url);
     if (source.origin !== 'https://hashtagweb3.com') throw new Error('Personal LinkedIn job link must point to hashtagweb3.com');
@@ -81,6 +82,7 @@ export class PersonalLinkedInClient {
       if (!uploaded.ok) throw new Error(`LinkedIn image upload failed: HTTP ${uploaded.status}`);
       thumbnail = upload.value.image;
     }
+    await beforeSend?.();
     const response = await this.request('https://api.linkedin.com/rest/posts', {
       method: 'POST', headers: this.headers(), signal: AbortSignal.timeout(30000),
       body: JSON.stringify({

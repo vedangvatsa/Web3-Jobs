@@ -10,6 +10,7 @@ import { PREBUILD_DATA_STEPS, SITEMAP_STEP } from './lib/prebuild-steps';
 import { assignJobSlugsInCacheFile } from './lib/job-slug-assignment';
 import { retireRejectedJobSources } from './lib/retire-rejected-job-sources';
 import { writeCatalogFreshness } from './lib/catalog-freshness.mjs';
+import { retireIneligibleJobs } from './lib/retire-ineligible-jobs';
 
 const fast = process.env.FAH_FAST_PREBUILD === '1';
 
@@ -29,6 +30,8 @@ function main(): void {
   let ran = 0;
 
   const dirtyOutputs = new Set<string>();
+  const ageCleanup = retireIneligibleJobs();
+  if (ageCleanup.removedJobs) dirtyOutputs.add('content/jobs-cache.json');
   const retired = retireRejectedJobSources();
   if (retired.removedJobs) dirtyOutputs.add('content/jobs-cache.json');
   const jobSlugs = assignJobSlugsInCacheFile('content/jobs-cache.json');
@@ -49,6 +52,7 @@ function main(): void {
   }
 
   saveManifest(manifest);
+  run('npx tsx scripts/prune-expired-job-assets.ts');
   syncPublicAssets();
   run('npx tsx scripts/generate-responsive-images.ts');
   run('npx tsx scripts/precompute-og-previews.ts');

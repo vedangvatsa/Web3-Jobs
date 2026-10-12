@@ -3,6 +3,7 @@ import * as path from "path";
 import type { Job } from "../src/types";
 import { buildJobsListing } from "../src/lib/jobs-listing-build";
 import { buildCompanyLogoMapSync } from "../src/lib/job-logo-map";
+import { retireIneligibleJobs } from './lib/retire-ineligible-jobs';
 import {
   JOB_SHARD_COUNT,
   getJobSlugShardIndex,
@@ -45,6 +46,7 @@ function writeJobShards(listing: Job[]) {
 }
 
 function main() {
+  retireIneligibleJobs();
   const raw = JSON.parse(fs.readFileSync(CACHE_PATH, "utf-8")) as Job[];
   const listing = buildJobsListing(raw).map((job) => {
     const { description: _desc, ...rest } = job;

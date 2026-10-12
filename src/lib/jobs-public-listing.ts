@@ -1,6 +1,8 @@
 import { getPublicJobUrl } from '@/lib/job-slugs';
 import { buildCompanyLogoMapSync, type CompanyLogoMap } from '@/lib/job-logo-map';
 import type { Job } from '@/types';
+import { isJobAgeEligible } from './job-age-policy.mjs';
+import { hasRequiredJobDateProvenance } from './job-source-date';
 
 export function getJobTags(job: Job): string[] {
   const tags = (job as Job & { tags?: unknown }).tags;
@@ -13,7 +15,7 @@ export function filterJobsList(
   allJobs: Job[],
   options: { search?: string; tag?: string; company?: string },
 ): Job[] {
-  let filtered = allJobs;
+  let filtered = allJobs.filter(job => isJobAgeEligible(job) && hasRequiredJobDateProvenance(job));
   const search = options.search?.toLowerCase().trim();
   const tag = options.tag?.toLowerCase().trim();
   const company = options.company?.toLowerCase().trim();
@@ -42,7 +44,7 @@ export function filterJobsList(
 
 /** Strip ATS `source` from public listing payloads; cast keeps Job shape for callers. */
 export function toPublicJobRows(jobs: Job[]): Job[] {
-  return jobs.map((job) => {
+  return jobs.filter(job => isJobAgeEligible(job) && hasRequiredJobDateProvenance(job)).map((job) => {
     const { source: _source, ...rest } = job;
     return { ...rest, link: getPublicJobUrl(job) } as Job;
   });

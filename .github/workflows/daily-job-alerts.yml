@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       dry_run:
-        description: 'Validate without sending (creates + deletes a draft)'
+        description: 'Read-only validation without creating or sending a broadcast'
         type: boolean
         default: false
       force_send:
@@ -14,7 +14,7 @@ on:
   workflow_call:
     inputs:
       dry_run:
-        description: 'Validate without sending (creates + deletes a draft)'
+        description: 'Read-only validation without creating or sending a broadcast'
         type: boolean
         default: false
       force_send:
@@ -41,10 +41,15 @@ jobs:
       - name: Install dependencies
         run: npm ci --no-audit --no-fund
 
+      - name: Test job-age and employer-application guards
+        run: |
+          node --test scripts/test-job-age-policy.mjs scripts/lib/job-publish-guard.test.mjs
+          npx tsx --test scripts/job-alert-publish.test.ts
+
       - name: Send job alerts broadcast
         run: |
           ARGS="--limit 10"
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"
           fi
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_send }}" = "true" ]; then

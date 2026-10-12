@@ -13,6 +13,7 @@ import {
   writeJobDescriptionStore,
 } from './lib/job-description-store';
 import { assignJobSlugsInCacheFile } from './lib/job-slug-assignment';
+import { normalizeSourcePostingDate } from '../src/lib/job-source-date';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -103,6 +104,7 @@ function formatLocation(raw: string): string {
 
 async function fetchJobPosting(id: string, link: string): Promise<{
   title: string;
+  date: string;
   location: string;
   sections: Record<string, string>;
 }> {
@@ -116,6 +118,15 @@ async function fetchJobPosting(id: string, link: string): Promise<{
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${link}`);
   const html = await res.text();
   const $ = cheerio.load(html);
+  let date = '';
+  $('script[type="application/ld+json"]').each((_, element) => {
+    try {
+      const raw = JSON.parse($(element).text());
+      const entries = Array.isArray(raw) ? raw : raw['@graph'] || [raw];
+      const posting = entries.find((entry: { '@type'?: string }) => entry['@type'] === 'JobPosting');
+      if (posting) date = normalizeSourcePostingDate(posting.datePosted);
+    } catch {}
+  });
   const title = decodeHtml($('meta[property="og:title"]').attr('content') || '');
   let locationRaw = '';
   $('.location-icon').each((_, el) => {
@@ -132,7 +143,7 @@ async function fetchJobPosting(id: string, link: string): Promise<{
   });
   if (!title) throw new Error(`Missing title for job ${id}`);
   if (!sections.Description) throw new Error(`Missing description for job ${id}`);
-  return { title, location: formatLocation(locationRaw), sections };
+  return { title, date, location: formatLocation(locationRaw), sections };
 }
 
 function buildDescription(sections: Record<string, string>): string {
@@ -151,7 +162,6 @@ function buildDescription(sections: Record<string, string>): string {
 
 async function main(): Promise<void> {
   const cache: Array<Record<string, unknown>> = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'));
-  const now = new Date().toISOString();
   const results: Array<{ id: string; action: string; slug?: string; title?: string }> = [];
 
   const parsed = new Map<string, Awaited<ReturnType<typeof fetchJobPosting>>>();
@@ -164,7 +174,9 @@ async function main(): Promise<void> {
       title: posting.title,
       company: 'Amazon',
       link: spec.link,
-      date: now,
+      date: posting.date,
+      dateVerified: Boolean(posting.date),
+      dateSource: 'schema.org.datePosted',
       source: 'Amazon.jobs',
       location: posting.location,
       department: spec.department || 'Amazon',
@@ -191,7 +203,7 @@ async function main(): Promise<void> {
     if (!posting) throw new Error(`Missing parsed posting for ${spec.id}`);
     const saved = updated.find((e) => e.id === spec.id || e.link === spec.link);
     if (!saved?.slug || typeof saved.slug !== 'string') {
-      throw new Error(`Missing slug for ${spec.id}`);
+      continue;
     }
     const contentKey = getJobContentKey(saved as never);
     store.descriptions[contentKey] = buildDescription(posting.sections);

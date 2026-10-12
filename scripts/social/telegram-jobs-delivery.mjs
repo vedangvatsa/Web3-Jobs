@@ -4,6 +4,7 @@ import { randomUUID } from 'node:crypto';
 import { pathToFileURL } from 'node:url';
 import { persistTelegramState } from './telegram-news-state.mjs';
 import { assertPostingWindow, assertUnsentSlot, hasSentSlot } from './posting-slot.mjs';
+import { assertPublishableJobs } from '../lib/job-publish-guard.mjs';
 
 const pattern = /^\.telegram-(?:(?:posted(?:-last)?|job-urls)-[a-zA-Z0-9]+|jobs-deliveries-[a-zA-Z0-9]+)\.json$/;
 const object = value => value && typeof value === 'object' && !Array.isArray(value);
@@ -66,7 +67,26 @@ function assertAvailable(ledger, chatId, slot) {
   if (Object.values(ledger).some(entry => entry.chatId === chatId && entry.status === 'reserved')) throw new Error(`Unconfirmed Telegram job delivery requires review: ${chatId}`);
 }
 
-export async function deliverJobsOnce({ jobs, message, chatIds, postedFile, lastFile, urlFile, ledgerFile, slot = null, send, persist = persistJobsState }) {
+export function formatJobsMessage(jobs) {
+  const escape = text => String(text).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  return jobs.map(job => {
+    const source = job.snapshot || job;
+    return `- ${escape(source.company)} is hiring <a href="${escape(job.url)}">${escape(source.title)}</a>`;
+  }).join('\n');
+}
+
+export async function verifyJobsDigest(jobs, message, options = {}) {
+  await assertPublishableJobs(jobs.map(job => job.snapshot || job), options);
+  for (const job of jobs) {
+    const snapshot = job.snapshot || job;
+    if (!snapshot.slug || job.slug !== snapshot.slug || job.key !== String(snapshot.id || snapshot.link)) throw new Error('Job digest identity changed');
+    const url = new URL(job.url);
+    if (url.origin !== 'https://hashtagweb3.com' || url.pathname !== `/${snapshot.slug}`) throw new Error('Job digest link changed');
+  }
+  if (message !== formatJobsMessage(jobs)) throw new Error('Stored job digest does not match its verified jobs');
+}
+
+export async function deliverJobsOnce({ jobs, message, chatIds, postedFile, lastFile, urlFile, ledgerFile, slot = null, send, persist = persistJobsState, preflight = verifyJobsDigest }) {
   assertPostingWindow(slot);
   const cwd = path.dirname(postedFile);
   const failures = [];
@@ -74,6 +94,7 @@ export async function deliverJobsOnce({ jobs, message, chatIds, postedFile, last
     const ledger = readJobsState(ledgerFile, {});
     if (hasSentSlot(ledger, slot, chatId)) continue;
     assertAvailable(ledger, chatId, slot);
+    await preflight(jobs, message);
     const id = randomUUID();
     const receipt = { status: 'reserved', reservedAt: new Date().toISOString(), chatId, jobs, message, ...(slot ? { slotKey: slot.key } : {}) };
     ledger[id] = receipt;
@@ -85,6 +106,8 @@ export async function deliverJobsOnce({ jobs, message, chatIds, postedFile, last
       writeJobsState(ledgerFile, ledger);
       throw error;
     }
+    await preflight(jobs, message);
+    assertPostingWindow(slot);
     const result = await send(chatId, message);
     const confirmed = readJobsState(ledgerFile, {});
     if (result?.ok === false) {

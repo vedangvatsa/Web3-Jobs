@@ -6,8 +6,12 @@ import Link from 'next/link';
 import { getJobSlug } from '@/lib/job-slugs';
 import { CompanyLogo } from '@/components/company-logo';
 import type { ResponsiveImagePlan } from '@/lib/responsive-images';
+import { isJobAgeEligible } from '@/lib/job-age-policy.mjs';
+import { useJobAgeClock } from './use-job-age-clock';
 
 export function JobCard({ job, logoUrl, faviconUrl, imageVariants, showLocation = false }: { job: Job; logoUrl?: string | null; faviconUrl?: string | null; imageVariants?: ResponsiveImagePlan; showLocation?: boolean }) {
+  const now = useJobAgeClock([job]);
+  if (!isJobAgeEligible(job, now)) return null;
   const slug = getJobSlug(job);
   return (
     <Link href={`/${slug}`} prefetch={false} className="block h-full min-w-0">

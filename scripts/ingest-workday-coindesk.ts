@@ -1,5 +1,6 @@
 import https from 'https';
 import fs from 'fs';
+import { eligibleIngestedJobs } from './lib/job-ingestion-policy';
 import { getJobContentKey } from '../src/lib/job-slugs';
 import {
   buildJobDescriptionAliases,
@@ -86,7 +87,7 @@ function getJson(url) {
       const id = p.bulletFields?.[0] || p.externalPath.split('/').pop() || link;
       const location = p.locationsText || 'New York / London';
       const description = detailData?.jobPostingInfo?.jobDescription || '';
-      const date = detailData?.jobPostingInfo?.startDate || '2026-09-02';
+      const date = detailData?.jobPostingInfo?.startDate || '';
 
       const jobObj = {
         id,
@@ -111,7 +112,7 @@ function getJson(url) {
     }
   }
 
-  fs.writeFileSync(CACHE_FILE, JSON.stringify(jobsCache, null, 2));
+  fs.writeFileSync(CACHE_FILE, JSON.stringify(eligibleIngestedJobs(jobsCache), null, 2));
   writeJobDescriptionStore({
     descriptions: jobDescriptions,
     aliases: {

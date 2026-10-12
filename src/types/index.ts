@@ -5,8 +5,10 @@ export interface Job {
  title: string;
  company: string;
  link: string;
- date: string; // ISO string for serialization
+ date: string; // Original source posting date, serialized with an explicit timezone (or UTC date-only).
  dateVerified?: boolean; // false when the source exposes discovery time only
+ dateSource?: string;
+ dateEvidence?: JobPostingDateEvidence;
  source: string;
  slug?: string;
   location?: string;
@@ -16,6 +18,14 @@ export interface Job {
   salary?: string;
   description?: string;
  active?: boolean;
+}
+
+export interface JobPostingDateEvidence {
+  provider: 'breezy';
+  url: string;
+  checkedAt: string;
+  bodySha256: string;
+  datePosted: string;
 }
 
 import type { ArticleTweetEmbed } from '@/lib/article-tweet-embed';

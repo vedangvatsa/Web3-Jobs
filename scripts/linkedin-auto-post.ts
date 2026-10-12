@@ -4,17 +4,10 @@
  */
 
 import admin from 'firebase-admin';
+import { randomUUID } from 'node:crypto';
 import { postToLinkedIn, formatJobForLinkedIn } from '../src/lib/linkedin';
-
-// Initialize Firebase Admin
-const serviceAccount = require('../firebase-adminsdk.json');
-
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
-  databaseURL: 'https://hashtag-web3-production.firebaseapp.com',
-});
-
-const db = admin.firestore();
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
+import { assertPublishableJob } from './lib/job-publish-guard.mjs';
 
 async function fetchRecentLinkedInPosts(accessToken: string, organizationId: string): Promise<any[]> {
   try {
@@ -76,6 +69,11 @@ function isJobAlreadyPosted(job: any, recentPosts: any[]): { posted: boolean; po
 
 async function autoPostJobs() {
   try {
+    if (!admin.apps.length) admin.initializeApp({
+      credential: admin.credential.cert(require('../firebase-adminsdk.json')),
+      databaseURL: 'https://hashtag-web3-production.firebaseapp.com',
+    });
+    const db = admin.firestore();
     console.log('🔍 Searching for unposted jobs...');
 
     // Find jobs not yet posted to LinkedIn
@@ -99,7 +97,15 @@ async function autoPostJobs() {
       }
 
       for (const doc of unpostedJobs.docs) {
-        const job = doc.data();
+        const job: admin.firestore.DocumentData = { id: doc.id, ...doc.data() };
+        if (!isJobAgeEligible(job)) {
+          console.log(`Skipping ineligible job ${doc.id}`);
+          continue;
+        }
+        if (job.postedToLinkedIn || job.linkedInPostId || job.linkedInPublishReservation) {
+          console.log(`Keeping existing LinkedIn receipt or reservation for ${doc.id}`);
+          continue;
+        }
 
         // Pre-flight check
         if (recentPosts.length > 0) {
@@ -119,8 +125,24 @@ async function autoPostJobs() {
         try {
           console.log(`📤 Posting: ${job.title} at ${job.company}`);
 
-          const postOptions = formatJobForLinkedIn(job);
-          const result = await postToLinkedIn(postOptions);
+          const postOptions = { ...formatJobForLinkedIn(job), linkUrl: job.link };
+          await assertPublishableJob(job);
+          const reservation = randomUUID();
+          await db.runTransaction(async transaction => {
+            const latest = (await transaction.get(doc.ref)).data();
+            if (!latest || !isJobAgeEligible(latest)) throw new Error('Job is no longer eligible');
+            if (latest.postedToLinkedIn || latest.linkedInPostId || latest.linkedInPublishReservation) throw new Error('LinkedIn delivery is already recorded or reserved');
+            if (['date', 'link', 'title', 'company'].some(key => latest[key] !== job[key])) throw new Error('Queued LinkedIn job changed');
+            transaction.update(doc.ref, { linkedInPublishReservation: reservation });
+          });
+          const result = await postToLinkedIn(postOptions, async () => {
+            const latest = (await doc.ref.get()).data();
+            if (!latest || !isJobAgeEligible(latest)) throw new Error('Job is no longer eligible');
+            if (latest.linkedInPublishReservation !== reservation || latest.postedToLinkedIn || latest.linkedInPostId) throw new Error('LinkedIn reservation changed');
+            if (['date', 'link', 'title', 'company'].some(key => latest[key] !== job[key])) throw new Error('Queued LinkedIn job changed');
+            await assertPublishableJob(job);
+          });
+          if (typeof result.postId !== 'string' || !result.postId.trim()) throw new Error('LinkedIn returned no post receipt; reservation retained');
 
           // Mark as posted
           await doc.ref.update({
@@ -138,7 +160,6 @@ async function autoPostJobs() {
           console.error(`❌ Failed to post ${job.title}:`, error);
           // Mark as failed so we don't retry
           await doc.ref.update({
-            postedToLinkedIn: false,
             linkedInPostError: (error as Error).message,
           });
         }

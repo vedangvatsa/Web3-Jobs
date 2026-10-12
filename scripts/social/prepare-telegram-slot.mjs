@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { assertPostingWindow, postingSlotFromEnv } from './posting-slot.mjs';
+import { isJobAgeEligible } from '../../src/lib/job-age-policy.mjs';
 
 export async function prepareTelegramSlot(kind, { cwd = process.cwd(), request = fetch, slot = postingSlotFromEnv() } = {}) {
   assertPostingWindow(slot);
@@ -10,8 +11,9 @@ export async function prepareTelegramSlot(kind, { cwd = process.cwd(), request =
   const filename = `${kind}-runtime.json`;
   const response = await request(`https://hashtagweb3.com/data/${filename}`, { headers: { 'cache-control': 'no-cache' }, signal: AbortSignal.timeout(30000) });
   if (!response.ok) throw new Error(`Published ${kind} catalog: HTTP ${response.status}`);
-  const records = await response.json();
+  let records = await response.json();
   if (!Array.isArray(records) || !records.length || records.some(record => !record || !record.id || !record.slug || typeof record[kind === 'jobs' ? 'title' : 'name'] !== 'string')) throw new Error(`Invalid published ${kind} catalog`);
+  if (kind === 'jobs') records = records.filter(job => isJobAgeEligible(job));
   fs.writeFileSync(path.join(cwd, 'content', filename), JSON.stringify(records) + '\n');
   console.log(`Using ${records.length} published ${kind} records for Telegram.`);
 }

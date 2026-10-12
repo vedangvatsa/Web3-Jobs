@@ -22,7 +22,7 @@ function fixture(): Ledger {
 }
 const pending = (changes: Partial<Receipt> = {}): Receipt => ({status: 'pending', text: 'Job caption', startedAt: at, attemptId: 'attempt-first', postId: 'post-1', ...changes});
 const sent = (changes: Partial<Receipt> = {}): Receipt => pending({status: 'sent', url: 'https://www.youtube.com/watch?v=video-1', ...changes});
-const video: Video = {slug: 'first', company: 'Example', title: 'Engineer', facts: [], mode: 'catalog-source', videoUrl: 'https://example.com/video.mp4', bytes: 10, descriptionHash: null, snapshot: {slug: 'first', id: '1', company: 'Example', title: 'Engineer', link: 'https://example.com/job'}};
+const video: Video = {slug: 'first', company: 'Example', title: 'Engineer', facts: [], mode: 'catalog-source', videoUrl: 'https://example.com/video.mp4', bytes: 10, descriptionHash: null, snapshot: {slug: 'first', id: '1', company: 'Example', title: 'Engineer', link: 'https://example.com/job', date: new Date(Date.now() - 86400000).toISOString()}};
 const conflict = () => Response.json({message: 'Conflict'}, {status: 409});
 
 class ContentsServer {
@@ -81,7 +81,7 @@ async function harness(t: TestContext, remote = fixture(), disk = remote, shared
 
 function publisher(ledger: Ledger, store: ReturnType<typeof createStateStore>, overrides: Parameters<typeof createVideoPublisher>[1] = {}) {
   return createVideoPublisher({ledger, date: '2026-10-12', slot: 'afternoon', manual: true, current: new Map([['first', video.snapshot]]), save: () => store.saveState(ledger, true)}, {
-    assertPostingTime: () => {}, verifyFresh: async () => {},
+    assertPostingTime: () => {}, assertVideoCaption: () => {}, verifyFresh: async () => {},
     bufferCreate: async () => {throw new Error('Unexpected provider creation');},
     bufferRecover: async () => {throw new Error('Unexpected provider recovery');},
     bufferVerify: async () => {throw new Error('Unexpected provider verification');},

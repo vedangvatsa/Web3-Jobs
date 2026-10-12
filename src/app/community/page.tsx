@@ -9,7 +9,7 @@ import { PageShell } from '@/components/page-shell';
 import { getImageVariants } from '@/lib/responsive-images-server';
 import { communityPhotos, caseStudies, testimonials, companies, partnersLogos, mediaLogos, hiredCompanies } from '@/lib/community-data';
 
-export const revalidate = 43200; // Revalidate every 12 hours
+export const revalidate = 43200;
 
 export const metadata: Metadata = {
   title: 'Web3 Community',

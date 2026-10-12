@@ -10,9 +10,10 @@
 import fs from 'fs';
 import path from 'path';
 import { Resend } from 'resend';
-import { getJobs } from '@/lib/jobs';
 import { getJobPublicUrl } from '@/lib/job-slugs';
 import type { Job } from '@/types';
+import { isJobAgeEligible } from './job-age-policy.mjs';
+import { assertPublishableJobs, loadPublishedJobs, verifyEmployerApplication } from '../../scripts/lib/job-publish-guard.mjs';
 import {
   countSegmentContacts,
   findActiveJobAlertsBroadcasts,
@@ -177,6 +178,25 @@ export interface DailyBroadcastResult {
   message?: string;
 }
 
+export function selectJobAlertCandidates(allJobs: Job[], sentIds: Set<string>, limit: number, now = Date.now()): Job[] {
+  const counts = new Map<string, number>();
+  return allJobs.filter(job => isJobAgeEligible(job, now)
+    && Date.parse(job.date) >= now - 7 * 86400000 && !sentIds.has(String(job.id)))
+    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date))
+    .filter(job => {
+      const key = job.company.toLowerCase();
+      const count = counts.get(key) || 0;
+      if (count >= 2) return false;
+      counts.set(key, count + 1);
+      return true;
+    }).slice(0, Math.min(20, Math.max(1, limit)));
+}
+
+export async function publishJobAlertBatch<T>(jobs: Job[], send: () => Promise<T>, options = {}): Promise<T> {
+  await assertPublishableJobs(jobs, options);
+  return send();
+}
+
 async function assertSafeToSendLive(resendKey: string, forceSend: boolean): Promise<void> {
   const today = utcDateKey();
   const prior = loadLastBroadcastSend();
@@ -225,35 +245,28 @@ export async function runDailyBroadcast(opts: DailyBroadcastOptions = {}): Promi
     }
   }
 
-  const allJobs = await getJobs();
-  const now = new Date();
-  const poolStart = new Date(now.getTime() - 7 * 24 * 3600 * 1000);
+  const allJobs: Job[] = await loadPublishedJobs();
   const sentIds = loadSentIds();
-  const companyCounts = new Map<string, number>();
   const jobs: JobListing[] = [];
   const jobIds: string[] = [];
-  const MAX_PER_COMPANY = 2;
-
-  const pool = (allJobs as any[])
-    .filter((j) => new Date(j.date) >= poolStart && !sentIds.has(String(j.id)))
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const selected: Job[] = [];
+  const pool = selectJobAlertCandidates(allJobs, sentIds, jobLimit);
 
   for (const job of pool) {
     if (jobs.length >= jobLimit) break;
-    const company = job.company?.name || job.company || 'Unknown Company';
-    const key = company.toLowerCase();
-    const count = companyCounts.get(key) || 0;
-    if (count >= MAX_PER_COMPANY) continue;
-    companyCounts.set(key, count + 1);
+    try { await verifyEmployerApplication(job); }
+    catch (error) { console.warn(`Skipped ${job.slug || job.id}: ${String(error)}`); continue; }
+    const company = job.company;
     jobs.push({
       title: job.title,
       company,
       location: job.location || 'Remote',
       salary: job.salary,
       url: jobUrl(job as Job),
-      tags: job.tags?.slice(0, 5) || [],
+      tags: [],
     });
     jobIds.push(String(job.id));
+    selected.push(job);
   }
 
   if (!jobs.length) {
@@ -293,23 +306,12 @@ export async function runDailyBroadcast(opts: DailyBroadcastOptions = {}): Promi
   }
 
   if (dryRun) {
-    const created = await resend.broadcasts.create({
-      segmentId: target.segmentId,
-      from,
-      subject: `[DRY-RUN] ${subject}`,
-      html,
-      text,
-      name: `dry-run ${new Date().toISOString()}`,
-    });
-    if (created.error) throw new Error(`Dry-run draft failed: ${JSON.stringify(created.error)}`);
-    const id = (created.data as any)?.id;
-    console.log(`Dry-run draft created: ${id}. Deleting.`);
-    if (id) await resend.broadcasts.remove(id);
+    await assertPublishableJobs(selected);
     console.log(`Dry run OK: ${jobs.length} jobs, subject ready, ${target.label} reachable.`);
     return { status: 'dry-run', jobs: jobs.length, subject };
   }
 
-  const sent = await resend.broadcasts.create({
+  const sent = await publishJobAlertBatch(selected, () => resend.broadcasts.create({
     segmentId: target.segmentId,
     from,
     subject,
@@ -317,7 +319,7 @@ export async function runDailyBroadcast(opts: DailyBroadcastOptions = {}): Promi
     text,
     name: jobAlertsBroadcastName(),
     send: true,
-  });
+  }));
   if (sent.error) throw new Error(`Broadcast failed: ${JSON.stringify(sent.error)}`);
   const broadcastId = (sent.data as { id?: string })?.id;
   console.log(`Broadcast sent: ${broadcastId} (${jobs.length} jobs).`);

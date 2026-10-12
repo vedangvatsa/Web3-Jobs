@@ -8,6 +8,8 @@ import { LoaderCircle } from 'lucide-react';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { JobCard } from './job-card';
 import { ListingEmptyState, ListingToolbar } from '@/components/listing-toolbar';
+import { isJobAgeEligible } from '@/lib/job-age-policy.mjs';
+import { useJobAgeClock } from './use-job-age-clock';
 
 const PAGE_SIZE = 50;
 
@@ -80,6 +82,8 @@ export function JobBoard({
   const [inputValue, setInputValue] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
   const [jobs, setJobs] = useState(initialJobs);
+  const now = useJobAgeClock(jobs);
+  const eligibleJobs = jobs.filter(job => isJobAgeEligible(job, now));
   const [total, setTotal] = useState(initialTotal);
   const [logoMap, setLogoMap] = useState<CompanyLogoMap>(companyLogos);
   const [isLoading, setIsLoading] = useState(false);
@@ -169,6 +173,12 @@ export function JobBoard({
   const hasMore = jobs.length < total;
 
   useEffect(() => {
+    if (eligibleJobs.length < jobs.length && !loadingRef.current) {
+      void requestJobs(searchQuery, 0, true, Math.max(PAGE_SIZE, jobs.length));
+    }
+  }, [now, eligibleJobs.length, jobs.length, requestJobs, searchQuery]);
+
+  useEffect(() => {
     const refresh = () => {
       if (document.visibilityState === 'visible' && !loadingRef.current && jobsCatalogNeedsRefresh()) {
         void requestJobs(searchQuery, 0, true, Math.max(PAGE_SIZE, jobs.length));
@@ -228,7 +238,7 @@ export function JobBoard({
       />
 
       <div ref={gridRef} className="grid min-w-0 grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 [&>*]:min-w-0">
-        {jobs.map((job) => {
+        {eligibleJobs.map((job) => {
           const slug = getJobSlug(job);
           const logo = logoMap[getCompanySlug(job.company)];
           return (
@@ -259,7 +269,7 @@ export function JobBoard({
         </div>
       )}
 
-      {!isLoading && jobs.length === 0 && (
+      {!isLoading && eligibleJobs.length === 0 && (
         <ListingEmptyState
           title="No jobs found"
           description="Try a different role or company."

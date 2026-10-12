@@ -5,6 +5,8 @@ import { isConcreteJobOpening, cleanCompanyName } from './job-filters';
 import { resolveJobLocation } from './job-location';
 import { getJobSourceIssue } from './job-source-policy';
 import { correctVerifiedJobs } from './verified-job-corrections';
+import { isJobAgeEligible } from './job-age-policy.mjs';
+import { hasRequiredJobDateProvenance } from './job-source-date';
 
 const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
@@ -127,7 +129,7 @@ function distributeJobsByCompany(jobs: Job[]): Job[] {
 }
 
 /** Build the listing order used by the site/API (run at build/refresh time on Node). */
-export function buildJobsListing(rawJobs: Job[]): Job[] {
+export function buildJobsListing(rawJobs: Job[], now = Date.now()): Job[] {
   const jobs: Job[] = correctVerifiedJobs(rawJobs).map((job: Job) => {
     return {
       ...job,
@@ -138,7 +140,8 @@ export function buildJobsListing(rawJobs: Job[]): Job[] {
   });
 
   const web3Jobs = jobs.filter((job) => {
-    if (job.active === false) return false;
+    if (!isJobAgeEligible(job, now)) return false;
+    if (!hasRequiredJobDateProvenance(job)) return false;
     if (getJobSourceIssue(job)) return false;
     if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
     if (BLOCKED_JOB_TITLE.test(job.title)) return false;

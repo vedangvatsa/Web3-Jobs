@@ -9,6 +9,8 @@ import {
 import { getLearnRedirectPath } from '@/lib/learn-routes';
 import { isRetiredOrProbePath } from '@/lib/retired-request';
 import { isRemovedJobPath, recoveredJobDestination } from '@/lib/removed-job-path';
+import { isExpiredJobPath, isKnownJobPath, jobPathCacheHeaders } from '@/lib/job-age-path';
+import { jobAgePageCache, JOB_LISTING_CACHE_PREFIX, normalizeJobAgePath, validJobListingCachePath } from '@/lib/job-age-page-cache';
 import eventTombstones from '../content/event-tombstones.json';
 import { removedEventStatus } from '../scripts/lib/event-retention.mjs';
 /**
@@ -109,15 +111,27 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  const agePathname = normalizeJobAgePath(pathname);
+  if (agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`) && !validJobListingCachePath(pathname)) {
+    return new NextResponse('This listing snapshot has expired.\n', { status: 410, headers: { 'Cache-Control': 'public, max-age=0, s-maxage=300, must-revalidate', 'X-Robots-Tag': 'noindex' } });
+  }
   const eventStatus = removedEventStatus(stripSocialPathSuffix(pathname.replace(/\/+$/, '')), eventTombstones);
   if (eventStatus) return new NextResponse(eventStatus === 410 ? 'This event is no longer available.\n' : 'Not found\n', {
     status: eventStatus,
     headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex' },
   });
-  if (isRemovedJobPath(pathname)) return new NextResponse('This listing is no longer available.\n', {
+  if (isRemovedJobPath(pathname) || isExpiredJobPath(pathname)) return new NextResponse('This listing is no longer available.\n', {
     status: 410,
-    headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=300', 'X-Robots-Tag': 'noindex' },
+    headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'public, max-age=0, s-maxage=300, must-revalidate', 'X-Robots-Tag': 'noindex' },
   });
+  if (pathname.includes('%') && agePathname !== pathname && (
+    isKnownJobPath(agePathname) || jobAgePageCache(agePathname) || agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)
+    || /^\/(?:data\/(?:jobs-runtime|companies-runtime|catalog-freshness)\.json|job-(?:description-)?shards\/|(?:\.well-known\/)?sitemap\.(?:xml|json))/.test(agePathname)
+  )) {
+    const canonical = request.nextUrl.clone();
+    canonical.pathname = agePathname;
+    return NextResponse.redirect(canonical, 308);
+  }
   const recoveredDestination = recoveredJobDestination(pathname);
   if (recoveredDestination) {
     const url = request.nextUrl.clone();
@@ -125,7 +139,7 @@ export async function middleware(request: NextRequest) {
     if (preview) {
       url.pathname = preview;
       url.search = '';
-      return NextResponse.rewrite(url);
+      return NextResponse.rewrite(url, { headers: jobPathCacheHeaders(pathname) || {} });
     }
     url.pathname = recoveredDestination;
     return NextResponse.redirect(url, 308);
@@ -182,7 +196,7 @@ export async function middleware(request: NextRequest) {
       const rewriteUrl = request.nextUrl.clone();
       rewriteUrl.pathname = previewPath;
       rewriteUrl.search = '';
-      return NextResponse.rewrite(rewriteUrl);
+      return NextResponse.rewrite(rewriteUrl, { headers: jobPathCacheHeaders(pathname) || {} });
     }
   }
 
@@ -318,11 +332,23 @@ export async function middleware(request: NextRequest) {
     }
   }
 
-  return NextResponse.next();
+  const pageCache = jobAgePageCache(pathname);
+  if (pageCache) {
+    if (pageCache.key === '0') return NextResponse.next({ headers: pageCache.headers });
+    const url = request.nextUrl.clone();
+    url.pathname = pageCache.destination;
+    return NextResponse.rewrite(url, { headers: pageCache.headers });
+  }
+  const internalScope = pathname.match(/^\/job-listing-cache\/\d+(\/.*)?$/)?.[1] || '/';
+  const cacheHeaders = pathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)
+    ? jobAgePageCache(internalScope)?.headers : jobPathCacheHeaders(pathname);
+  return NextResponse.next({ headers: cacheHeaders || {} });
 }
 
 export const config = {
   matcher: [
+    '/og/jobs/:path*',
+    '/:path(.*%.*)',
     /*
      * Match all request paths except:
      * - _next/static (static files)
@@ -333,6 +359,6 @@ export const config = {
      * Note: /api routes ARE included so social crawler / UTM logic can run;
      * ?mode=agent rewrites to static /agent-view.json and skips /api/*.
      */
-     '/((?!_next/static|_next/image|favicon.ico|favicon-preview.html|icon.png|logo-bimi.svg|events$|(?:jobs/(?:feed\\.(?:json|xml)|adzuna\\.xml|jora\\.xml|feed-aggregator-us\\.xml)|events/feed\\.xml|(?:adzuna|jooble|myjobhelper|sitemap)\\.xml)$|data(?:/|$)|articles-data(?:/|$)|job-shards(?:/|$)|job-description-shards(?:/|$)|.*\\.(?:svg|png|jpg|jpeg|gif|webp|avif|ico|pdf|woff2?)$).*)',
+     '/((?!_next/static|_next/image|favicon.ico|favicon-preview.html|icon.png|logo-bimi.svg|events$|(?:jobs/(?:feed\\.(?:json|xml)|adzuna\\.xml|jora\\.xml|feed-aggregator-us\\.xml)|events/feed\\.xml|(?:adzuna|jooble|myjobhelper|sitemap)\\.xml)$|(?:sitemap|\\.well-known/sitemap)\\.json$|job-catalog(?:/|$)|data(?:/|$)|articles-data(?:/|$)|job-shards(?:/|$)|job-description-shards(?:/|$)|.*\\.(?:svg|png|jpg|jpeg|gif|webp|avif|ico|pdf|woff2?)$).*)',
   ],
 };

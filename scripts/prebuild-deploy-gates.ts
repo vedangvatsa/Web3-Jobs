@@ -42,6 +42,7 @@ function fastGates(): void {
 }
 
 function main(): void {
+  run('npm run test:job-age');
   run('npm run test:prebuild-invalidation');
   run('npm run test:catalog-publication');
   run('npx tsx --test scripts/test-verified-job-corrections.ts');

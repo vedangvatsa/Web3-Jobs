@@ -1,4 +1,5 @@
 import { getJobs } from '@/lib/jobs';
+import { jobCacheHeaders } from '@/lib/job-age-cache.mjs';
 import { getJobSlug } from '@/lib/job-slugs';
 import { getCachedRawContent } from '@/lib/job-guides';
 import { preloadFeedJobDescriptions } from '@/lib/job-feed-helpers';
@@ -8,7 +9,7 @@ import { parseJobAddress, ensureAddressCountry, toAddressCountryCode } from '@/c
 import { NextResponse } from 'next/server';
 import * as cheerio from 'cheerio';
 
-export const revalidate = 3600; // Revalidate every hour
+export const dynamic = 'force-dynamic';
 
 function escapeXml(unsafe: any): string {
   return String(unsafe || '')
@@ -167,7 +168,7 @@ ${jobNodes.join('\n')}
     status: 200,
     headers: {
       'Content-Type': 'application/xml; charset=utf-8',
-      'Cache-Control': 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400',
+      ...jobCacheHeaders(recentJobs),
     },
   });
 }

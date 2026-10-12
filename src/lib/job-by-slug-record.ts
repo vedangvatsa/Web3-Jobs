@@ -1,6 +1,7 @@
 import type { Job } from "@/types";
 import { getJobSlug } from "./job-slugs";
 import { getJobs } from "./jobs";
+import { isJobAgeEligible } from './job-age-policy.mjs';
 
 let runtimeSlugIndex: Map<string, Job> | null = null;
 let runtimeSlugIndexLoad: Promise<Map<string, Job>> | null = null;
@@ -48,7 +49,8 @@ export async function fetchJobBySlug(slug: string): Promise<Job | null> {
   const clean = slug.toLowerCase().trim();
   if (!clean) return null;
   const { bySlug } = await getRuntimeIndexes();
-  return bySlug.get(clean) ?? null;
+  const job = bySlug.get(clean);
+  return job && isJobAgeEligible(job) ? job : null;
 }
 
 /** Resolve a job by employer posting id when the URL segment is an id, not a short slug. */
@@ -56,5 +58,6 @@ export async function fetchJobById(id: string): Promise<Job | null> {
   const clean = id.toLowerCase().trim();
   if (!clean) return null;
   const { byId } = await getRuntimeIndexes();
-  return byId.get(clean) ?? null;
+  const job = byId.get(clean);
+  return job && isJobAgeEligible(job) ? job : null;
 }

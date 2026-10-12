@@ -9,6 +9,7 @@ import { assignJobSlugsAndSyncLegacyArchive, getJobContentKey, getJobIdentity } 
 import { loadPublishedRootSlugsSync, loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
 import { loadJobLegacyArchive, writeJobLegacyArchive } from './lib/job-slug-assignment';
 import { readJobDescriptionStore, writeJobDescriptionStore, buildJobDescriptionAliases } from './lib/job-description-store';
+import { eligibleIngestedJobs } from './lib/job-ingestion-policy';
 
 const VERIFIED_LEVER_REPLACEMENTS = [
   { board: 'toku', company: 'Toku', website: 'toku.com', officialCareersUrl: 'https://www.toku.com/' },
@@ -53,7 +54,7 @@ async function main() {
     if (!item.title || !item.link || !item.isoDate || new URL(item.link).hostname !== 'careers.ethena.fi') continue;
     add({ id: item.guid || item.link, title: item.title, company: 'Ethena Labs', link: item.link, date: item.isoDate, source: 'Teamtailor: Ethena Labs [ethena]', active: true }, item.content || '');
   }
-  const merged = [...byIdentity.values()];
+  const merged = eligibleIngestedJobs([...byIdentity.values()]);
   const archive = loadJobLegacyArchive();
   assignJobSlugsAndSyncLegacyArchive(merged, archive, loadReservedRootSlugsSync(), loadPublishedRootSlugsSync());
   writeJobLegacyArchive(archive);

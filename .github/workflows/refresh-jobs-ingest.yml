@@ -89,6 +89,9 @@ jobs:
       - name: Retire jobs with incorrect employer sources
         run: npx tsx scripts/retire-rejected-job-sources.ts
 
+      - name: Remove expired and unverified-date jobs
+        run: npx tsx scripts/retire-ineligible-jobs.ts && node --test scripts/test-job-age-policy.mjs
+
       - name: Verify ATS employer associations
         run: npx tsx scripts/test-ats-source-ownership.ts --sources-only
 

@@ -1,11 +1,12 @@
 import { getJobs } from '@/lib/jobs';
+import { jobCacheHeaders } from '@/lib/job-age-cache.mjs';
 import { getPublicJobUrl } from '@/lib/job-slugs';
 import { buildFeedDescription } from '@/lib/job-guides';
 import { getRecentFeedJobs } from '@/lib/job-feed-helpers';
 import { NextResponse } from 'next/server';
 import type { Job } from '@/types';
 
-export const revalidate = 3600; // Revalidate every hour
+export const dynamic = 'force-dynamic';
 
 /**
  * Jora-shaped XML feed (<jobs><job> per support.jora.com spec).
@@ -113,7 +114,7 @@ ${jobNodes.join('\n')}
     status: 200,
     headers: {
       'Content-Type': 'application/xml; charset=utf-8',
-      'Cache-Control': 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400',
+      ...jobCacheHeaders(feedJobs),
     },
   });
 }

@@ -8,6 +8,7 @@ import { getAshbySalary } from './lib/ashby-salary';
 import { assertAtsSourceAllowed, getJobSourceIssue } from '../src/lib/job-source-policy';
 import { verifyAshbyEmployer } from './lib/ashby-employer-verification';
 import { ingestYZiLabs } from './ingest-yzilabs';
+import { eligibleIngestedJobs } from './lib/job-ingestion-policy';
 import {
   buildJobDescriptionAliases,
   readJobDescriptionStore,
@@ -18,7 +19,6 @@ import {
 // 1. Shared types & constants
 // ---------------------------------------------------------------------------
 
-const TODAY = new Date().toISOString().slice(0, 10);
 const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
 const CUTOFF = Date.now() - THIRTY_DAYS_MS;
 
@@ -42,7 +42,7 @@ function readCache(): any[] {
   return JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'));
 }
 function writeCache(data: any[]): void {
-  fs.writeFileSync(CACHE_PATH, JSON.stringify(data.filter(job => !getJobSourceIssue(job)), null, 2));
+  fs.writeFileSync(CACHE_PATH, JSON.stringify(eligibleIngestedJobs(data), null, 2));
 }
 let descriptionAliases: Record<string, string> = {};
 function readDescCache(): Record<string, string> {
@@ -158,7 +158,7 @@ async function ingestAshbySimple(company: string, slug: string, defaultLoc: stri
       const job = {
         id: j.id, title: j.title.trim(), company,
         link: j.jobUrl || `https://jobs.ashbyhq.com/${encodedSlug}/${j.id}`,
-        date: j.publishedAt ? new Date(j.publishedAt).toISOString().slice(0, 10) : TODAY,
+        date: j.publishedAt || '',
         source: `Ashby: ${company} [${slug}]`,
         location: j.location || (j.secondaryLocations?.length ? j.secondaryLocations.join(', ') : defaultLoc),
         department: j.department || j.team || 'Engineering', active: true,
@@ -190,7 +190,8 @@ async function ingestGreenhouse(company: string, slug: string, defaultLoc: strin
       if (!isConcreteJobOpening(j.title, j.absolute_url)) continue;
       const job = {
         id: String(j.id), title: j.title.trim(), company, link: j.absolute_url,
-        date: j.updated_at ? new Date(j.updated_at).toISOString().slice(0, 10) : TODAY,
+        date: j.first_published || '',
+        dateSource: 'Greenhouse.first_published',
         source: `Greenhouse: ${company} [${realSlug}]`,
         location: j.location?.name || defaultLoc,
         department: j.departments?.[0]?.name || 'Engineering', active: true,
@@ -217,7 +218,7 @@ async function ingestLever(company: string, slug: string, cacheData: any[], desc
       if (!title || !link || !isConcreteJobOpening(title, link)) continue;
       const job = {
         id: j.id, title, company, link,
-        date: j.createdAt ? new Date(j.createdAt).toISOString().slice(0, 10) : TODAY,
+        date: j.createdAt ? new Date(j.createdAt).toISOString() : '',
         source: `Lever: ${company} [${slug}]`,
         location: j.categories?.location || j.categories?.allLocations?.join(', ') || 'Remote / Hybrid',
         department: j.categories?.department || j.categories?.team || 'Engineering', active: true,
@@ -243,7 +244,7 @@ async function ingestBambooHR(company: string, slug: string, cacheData: any[]): 
       const shortId = String(j.id).replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
       const job = {
         id: `bamboo-${slug}-${j.id}`, title: j.jobOpeningName, company: cleanCompanyName(company),
-        link: `https://${slug}.bamboohr.com/careers/${j.id}`, date: TODAY,
+        link: `https://${slug}.bamboohr.com/careers/${j.id}`, date: '', dateVerified: false,
         source: `BambooHR: ${company} [${slug}]`,
         location: [j.atsLocation?.city, j.atsLocation?.country].filter(Boolean).join(', ') || 'Remote',
         department: j.departmentLabel || company, active: true, slug: `${roleWord}${shortId}`
@@ -271,7 +272,7 @@ async function ingestMokaHR(company: string, orgId: string, siteId: number, appl
       const job = {
         id: r.id, title: r.title.trim(), company,
         link: `${applyBaseUrl}#/job/${r.id}`,
-        date: r.publishedAt ? r.publishedAt.slice(0, 10) : TODAY,
+        date: r.publishedAt || '',
         source: `MokaHR: ${company} [${orgId}]`,
         location: locs.length > 0 ? [...new Set(locs)].join(', ') : 'Remote / Global',
         department: r.department?.name || r.zhineng?.name || 'Operations', active: true,
@@ -301,28 +302,28 @@ async function ingestFanOutFeeds(label: string, feeds: FeedConfig[], cacheData: 
           link: `https://${feed.slug}.bamboohr.com/careers/${j.id}`,
           location: [j.atsLocation?.city, j.atsLocation?.country].filter(Boolean).join(', ') || 'Remote',
           type: j.employmentStatusLabel || 'Full-time', department: j.departmentLabel || feed.company,
-          source: `bamboohr:${feed.slug}`, rawId: j.id,
+          source: `bamboohr:${feed.slug}`, rawId: j.id, date: '', dateVerified: false,
         }));
       } else if (feed.type === 'ashby') {
         items = (data.jobs || []).map((j: any) => ({
           id: `ashby-${feed.slug}-${j.id}`, title: j.title, company: feed.company,
           link: j.jobUrl || `https://jobs.ashbyhq.com/${feed.slug}/${j.id}`,
           location: j.location || 'Remote', type: j.employmentType || 'Full-time',
-          department: j.department || feed.company, source: `ashby:${feed.slug}`, rawId: j.id,
+          department: j.department || feed.company, source: `ashby:${feed.slug}`, rawId: j.id, date: j.publishedAt || '',
         }));
       } else if (feed.type === 'lever') {
         items = (Array.isArray(data) ? data : []).map((j: any) => ({
           id: `lever-${feed.slug}-${j.id}`, title: j.text, company: feed.company,
           link: j.hostedUrl, location: j.categories?.location || 'Remote',
           type: j.categories?.commitment || 'Full-time', department: j.categories?.department || feed.company,
-          source: `lever:${feed.slug}`, rawId: j.id,
+          source: `lever:${feed.slug}`, rawId: j.id, date: j.createdAt ? new Date(j.createdAt).toISOString() : '',
         }));
       } else if (feed.type === 'greenhouse') {
         items = (data.jobs || []).map((j: any) => ({
           id: `greenhouse-${feed.slug}-${j.id}`, title: j.title, company: feed.company,
           link: j.absolute_url, location: j.location?.name || 'Remote',
           type: 'Full-time', department: j.departments?.[0]?.name || feed.company,
-          source: `greenhouse:${feed.slug}`, rawId: j.id,
+          source: `greenhouse:${feed.slug}`, rawId: j.id, date: j.first_published || '', dateSource: 'Greenhouse.first_published',
         }));
       }
       let countForFeed = 0;
@@ -332,7 +333,7 @@ async function ingestFanOutFeeds(label: string, feeds: FeedConfig[], cacheData: 
         const shortId = item.rawId.toString().replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
         const job = {
           id: item.id, title: item.title, company: cleanCompanyName(item.company),
-          location: item.location, type: item.type, date: TODAY, source: item.source,
+          location: item.location, type: item.type, date: item.date, dateVerified: item.dateVerified, dateSource: item.dateSource, source: item.source,
           link: item.link, applyUrl: item.link, department: item.department,
           skills: feed.skills || ['Web3', 'Blockchain', 'Crypto'],
           slug: `${roleWord}${shortId}`,
@@ -510,7 +511,7 @@ for j in raw_jobs:
     locs = j.get('officeLocationNames') or []
     loc_str = ', '.join(locs) if locs else 'Bangalore, India'
     job_link = f'https://careers.coindcx.com/opportunities/openings?jobId={req_id}'
-    ingested.append({'id': f'coindcx-{req_id}', 'title': title, 'company': 'CoinDCX', 'location': loc_str, 'type': 'Full-time', 'date': '${TODAY}', 'source': 'CoinDCX Official Portal [coindcx]', 'link': job_link, 'applyUrl': job_link, 'department': dept, 'skills': ['Web3', 'Crypto', 'Exchange', 'Fintech', 'Trading'], 'slug': f'coindcx{req_id}'})
+    ingested.append({'id': f'coindcx-{req_id}', 'title': title, 'company': 'CoinDCX', 'location': loc_str, 'type': 'Full-time', 'date': '', 'dateVerified': False, 'source': 'CoinDCX Official Portal [coindcx]', 'link': job_link, 'applyUrl': job_link, 'department': dept, 'skills': ['Web3', 'Crypto', 'Exchange', 'Fintech', 'Trading'], 'slug': f'coindcx{req_id}'})
 updated = ingested + non_coindcx
 with open(cache_path, 'w') as f:
     json.dump(updated, f, indent=2)
@@ -574,7 +575,7 @@ async function ingestMarketnode(cacheData: any[], descData: Record<string, strin
     for (const j of jobs) {
       const slug = j.slug || j.job_title.toLowerCase().replace(/[^a-z0-9]/g, '-');
       const id = `mn-${slug}`;
-      const job = { id, title: j.job_title, company: 'Marketnode', link: `https://marketnode.recruit.omnihr.co/careers/${slug}`, date: j.location_attributes?.created_at?.slice(0, 10) || TODAY, source: 'OmniHR: Marketnode [omnihr]', location: j.location_attributes?.city ? `${j.location_attributes.city}, ${j.location_attributes.country}` : (j.city_country || 'Remote / Hybrid'), department: j.department?.name || 'Engineering', active: true, slug: `role${id.slice(-5).toLowerCase()}` };
+       const job = { id, title: j.job_title, company: 'Marketnode', link: `https://marketnode.recruit.omnihr.co/careers/${slug}`, date: j.published_at || '', source: 'OmniHR: Marketnode [omnihr]', location: j.location_attributes?.city ? `${j.location_attributes.city}, ${j.location_attributes.country}` : (j.city_country || 'Remote / Hybrid'), department: j.department?.name || 'Engineering', active: true, slug: `role${id.slice(-5).toLowerCase()}` };
       const r = upsertJob(cacheData, job);
       if (r === 'added') added++; else updated++;
       if (j.description) descData[getJobContentKey(job)] = j.description;
@@ -611,10 +612,11 @@ async function main() {
       const rawJobs = json.jobs || [];
       let added = 0;
       for (const j of rawJobs) {
-        const pubStr = j.publishedAt || j.updated_at || j.created_at || '';
+        const pubStr = f.type === 'greenhouse' ? j.first_published || '' : j.publishedAt || j.created_at || '';
         const pubTime = pubStr ? new Date(pubStr).getTime() : 0;
         if (pubTime < CUTOFF) continue;
-        const job = { id: String(j.id), title: (j.title || j.text || '').trim(), company: f.company, link: j.jobUrl || j.absolute_url || j.hostedUrl || `https://jobs.ashbyhq.com/${f.slug}/${j.id}`, date: pubStr ? new Date(pubTime).toISOString().slice(0, 10) : TODAY, source: `${f.type}: ${f.company} [${f.slug}]`, location: j.location?.name || j.location || j.categories?.location || 'Remote', department: j.departments?.[0]?.name || j.department || j.categories?.department || 'Engineering', active: true, slug: `role${String(j.id).replace(/[^a-z0-9]/gi,'').slice(-5).toLowerCase()}` };
+        const job = { id: String(j.id), title: (j.title || j.text || '').trim(), company: f.company, link: j.jobUrl || j.absolute_url || j.hostedUrl || `https://jobs.ashbyhq.com/${f.slug}/${j.id}`, date: pubStr || '', source: `${f.type}: ${f.company} [${f.slug}]`, location: j.location?.name || j.location || j.categories?.location || 'Remote', department: j.departments?.[0]?.name || j.department || j.categories?.department || 'Engineering', active: true, slug: `role${String(j.id).replace(/[^a-z0-9]/gi,'').slice(-5).toLowerCase()}` };
+        if (f.type === 'greenhouse') Object.assign(job, { dateSource: 'Greenhouse.first_published' });
         if (!cacheData.some((e: any) => e.id === job.id || e.link === job.link)) { cacheData.unshift(job); added++; }
       }
       if (added > 0) console.log(`  ✓ [${f.company}]: ${added} new`);
@@ -669,6 +671,7 @@ async function main() {
 
   // CoinDCX uses Python and writes the cache itself
   await ingestCoinDCX();
+  writeCache(readCache());
 
   // Post-processing
   console.log('\n⏳ Prebaking slugs...');

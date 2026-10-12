@@ -254,10 +254,7 @@ function jobCardElement(opts: {
 
 function companyCardElement(opts: { name: string; jobCount?: number; logoDataUrl: string | null }) {
   const name = truncate(opts.name, 48);
-  const subtitle =
-    typeof opts.jobCount === 'number' && opts.jobCount > 0
-      ? `${opts.jobCount} open role${opts.jobCount === 1 ? '' : 's'}`
-      : 'Web3 careers';
+  const subtitle = 'Web3 careers';
 
   return jobCardElement({
     title: subtitle,
@@ -438,7 +435,7 @@ async function renderCompanies(
     const key = `company:${slug}`;
     const logoRel = WITH_LOGOS ? resolveCompanyLogo(slug) || '' : '';
     const jobCount = 'jobCount' in company ? Number((company as { jobCount?: number }).jobCount || 0) : 0;
-    const fingerprint = sha(`${VERSION}|${company.name}|${jobCount}|${logoRel}`);
+    const fingerprint = sha(`${VERSION}|company-age-neutral|${company.name}|${logoRel}`);
     const outFile = path.join(OUT_COMPANIES, `${slug}.png`);
     if (IF_MISSING && fs.existsSync(outFile) && manifest[key] === fingerprint) {
       skipped += 1;

@@ -86,7 +86,7 @@ async function fetchRemoteJson(filename: string): Promise<unknown> {
  * Never treat a missing catalog as an empty page — callers should throw so
  * Next does not ISR-cache a false 404.
  */
-export async function loadStaticJson<T>(filename: string, validate?: (value: unknown) => boolean): Promise<T> {
+export async function loadStaticJson<T>(filename: string, validate?: (value: unknown) => boolean, options: { localOnly?: boolean } = {}): Promise<T> {
   const devMtimeMs =
     process.env.NODE_ENV === 'development' ? localCatalogMtimeMs(filename) : null;
   const cached = jsonCache.get(filename);
@@ -101,6 +101,7 @@ export async function loadStaticJson<T>(filename: string, validate?: (value: unk
       .then(async () => {
         const local = readLocalDataFile(filename);
         if (local !== null) return local;
+        if (options.localOnly) throw new Error(`[loadStaticJson] Missing deployed catalog: ${filename}`);
         return fetchRemoteJson(filename);
       })
       .finally(() => {

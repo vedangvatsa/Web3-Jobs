@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {assertCapacity, assertPostingTime, captions, diverseCompanies, jobPostings, matchesSnapshot} from './job-video-core.ts';
 import type {Video, Ledger} from './job-video-core.ts';
-const video: Video = {slug: 'fe12', company: 'Tether', title: 'Frontend Software Engineer', facts: ['100% Remote'], mode: 'catalog-source', videoUrl: 'https://example.com/job.mp4', bytes: 100, descriptionHash: null, snapshot: {slug: 'fe12', id: '1', company: 'Tether', title: 'Frontend Software Engineer (100% Remote)', link: 'https://careers.tether.io/job', location: 'Lahore'}};
+const video: Video = {slug: 'fe12', company: 'Tether', title: 'Frontend Software Engineer', facts: ['100% Remote'], mode: 'catalog-source', videoUrl: 'https://example.com/job.mp4', bytes: 100, descriptionHash: null, snapshot: {slug: 'fe12', id: '1', company: 'Tether', title: 'Frontend Software Engineer (100% Remote)', link: 'https://careers.tether.io/job', location: 'Lahore', date: new Date(Date.now() - 86400000).toISOString()}};
 test('approved captions use the bare domain, relevant tags and no colons', () => {
   const result = captions(video);
   for (const text of [result.instagram, result.tiktok, result.youtube]) {

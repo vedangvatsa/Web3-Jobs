@@ -16,7 +16,7 @@ export interface LinkedInPostOptions {
 /**
  * Post content to LinkedIn company page
  */
-export async function postToLinkedIn(options: LinkedInPostOptions) {
+export async function postToLinkedIn(options: LinkedInPostOptions, beforeSend?: () => Promise<void>) {
  const accessToken = process.env.LINKEDIN_ACCESS_TOKEN;
  const organizationId = process.env.LINKEDIN_ORG_ID || '89714573';
 
@@ -24,7 +24,8 @@ export async function postToLinkedIn(options: LinkedInPostOptions) {
   throw new Error('LINKEDIN_ACCESS_TOKEN not set');
  }
 
- try {
+  try {
+   await beforeSend?.();
   // Register upload if image provided
   let imageUrn = null;
   if (options.imageUrl) {
@@ -66,6 +67,7 @@ export async function postToLinkedIn(options: LinkedInPostOptions) {
    };
   }
 
+  await beforeSend?.();
   const response = await fetch(`${LINKEDIN_API_BASE}/posts`, {
    method: 'POST',
    headers: {

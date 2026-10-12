@@ -18,7 +18,7 @@ async function main() {
   const event = { id: WASET_ICBT_SERIES_ID, slug: 'waset-icbt', name: 'Conference', startDate: '2027-01-01', location: 'London', description: 'Source description.', url: 'https://example.com', coverImage: null };
   const term = { slug: 'example', term: 'Example', category: 'defi', difficulty: 'Beginner', description: 'An example.' };
   const item = { title: 'Bitcoin protocol update ships', link: 'https://example.com/news', pubDate: '2026-09-20', creator: 'Author', contentSnippet: 'Protocol update', source: 'Example' };
-  const job = { id: '1', slug: 'role1', title: 'Engineer', company: 'Example', link: 'https://example.com/job', source: 'test', date: '2026-09-20' };
+  const job = { id: '1', slug: 'role1', title: 'Engineer', company: 'Example', link: 'https://example.com/job', source: 'test', date: new Date(Date.now() - 86400000).toISOString() };
   const values: Record<string, unknown> = {
     'events-runtime.json': [event], 'glossary-runtime.json': [term], 'jobs-runtime.json': [job],
     'news-cache.json': { generatedAt: '2026-09-20', items: [item] }, 'dedup-test.json': { ok: true },
@@ -54,6 +54,10 @@ async function main() {
     await assert.rejects(getAllTerms(), /invalid catalog/);
     assert.deepEqual(await getAllTerms(), [term]);
     assert.equal((await getTerm('example'))?.term, 'Example');
+    await assert.rejects(getJobs(), /Missing deployed catalog/);
+    assert.equal(calls.get('jobs-runtime.json'), undefined, 'The dynamic jobs route must not fetch itself recursively');
+    fs.mkdirSync(path.join(temporary, 'content'), { recursive: true });
+    fs.writeFileSync(path.join(temporary, 'content/jobs-runtime.json'), JSON.stringify([job]));
     assert.deepEqual(await getJobs(), [job]);
     assert.deepEqual(await getJobs(), [job]);
     // News also retries transient 503s, then caches.
@@ -62,7 +66,7 @@ async function main() {
     await Promise.all(Array.from({ length: 10 }, () => loadStaticJson('dedup-test.json')));
     assert.equal(calls.get('dedup-test.json'), 1);
     assert.ok((calls.get('events-runtime.json') ?? 0) >= 2, 'events must retry after 503');
-    assert.ok((calls.get('jobs-runtime.json') ?? 0) >= 2, 'jobs must retry after 503');
+    assert.equal(calls.get('jobs-runtime.json'), undefined, 'Restored local jobs must recover without self-fetching');
     assert.ok((calls.get('news-cache.json') ?? 0) >= 2, 'news must retry after 503');
     assert.equal(calls.get('glossary-runtime.json'), 2, 'glossary');
     assert.deepEqual(getAdjacentLessons('fundamentals', 'not-a-lesson'), { prev: null, next: null });

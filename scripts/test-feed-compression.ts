@@ -5,6 +5,8 @@ import http from 'node:http';
 import { spawn } from 'node:child_process';
 import { gunzipSync, inflateSync } from 'node:zlib';
 import { setTimeout as delay } from 'node:timers/promises';
+import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
+import { jobExpiryTime } from '../src/lib/job-age-cache.mjs';
 
 const origin = 'http://127.0.0.1:3185';
 const feeds = new Map([
@@ -44,6 +46,14 @@ function decoded(response: Awaited<ReturnType<typeof request>>) {
   return response.body;
 }
 
+function comparableFeed(body: Buffer, pathname: string): Buffer {
+  if (pathname !== '/jobs/feed.xml') return body;
+  return Buffer.from(body.toString().replace(/<lastBuildDate>([^<]+)<\/lastBuildDate>/, (_, date) => {
+    assert.ok(Number.isFinite(Date.parse(date)) && Math.abs(Date.now() - Date.parse(date)) < 60000, 'Dynamic RSS build date must describe this response');
+    return '<lastBuildDate>response-time</lastBuildDate>';
+  }));
+}
+
 async function main() {
   const standalone = path.resolve('.next/standalone');
   const manifest = JSON.parse(fs.readFileSync('.next/prerender-manifest.json', 'utf8'));
@@ -66,18 +76,38 @@ async function main() {
     }
     assert.ok(ready, logs);
     const agent = fs.readFileSync('public/agent-view.json');
+    const expectedBodies = new Map<string, Buffer>();
     for (const [pathname, contentType] of feeds) {
-      assert.equal(manifest.routes[pathname]?.initialRevalidateSeconds, 3600, `Hourly ISR changed: ${pathname}`);
-      const expected = fs.readFileSync(`.next/server/app${pathname}.body`);
+      const isEventFeed = pathname === '/events/feed.xml';
+      if (isEventFeed) assert.equal(manifest.routes[pathname]?.initialRevalidateSeconds, 3600, `Hourly ISR changed: ${pathname}`);
+      else assert.equal(manifest.routes[pathname], undefined, `Job feed must filter expiry on a shared-cache miss: ${pathname}`);
       const identity = await request(pathname, 'identity');
       const gzip = await request(pathname, 'gzip');
+      const expected = isEventFeed ? fs.readFileSync(`.next/server/app${pathname}.body`) : decoded(identity);
+      expectedBodies.set(pathname, expected);
       for (const response of [identity, gzip]) {
         assert.equal(response.status, 200, pathname);
         assert.equal(response.headers['content-type'], contentType, pathname);
-        assert.equal(response.headers['cache-control'], 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400', pathname);
+        if (isEventFeed) {
+          assert.equal(response.headers['cache-control'], 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400', pathname);
+          assert.equal(response.headers['x-nextjs-cache'], 'HIT', `Event feed lost its Next.js cache: ${pathname}`);
+        } else {
+          const control = String(response.headers['cache-control']);
+          assert.match(control, /^public, max-age=0, s-maxage=\d+, must-revalidate$|^no-store$/, pathname);
+          assert.doesNotMatch(control, /stale/, pathname);
+          const ttl = Number(control.match(/s-maxage=(\d+)/)?.[1] || 0);
+          assert.ok(ttl <= 3600, `Unbounded job-feed cache: ${pathname}`);
+          if (ttl) assert.equal(Date.parse(String(response.headers.expires)), Date.parse(String(response.headers.date)) + ttl * 1000, pathname);
+        }
         assert.match(String(response.headers.vary), /\bAccept-Encoding\b/i, pathname);
-        assert.equal(response.headers['x-nextjs-cache'], 'HIT', `Feed lost its Next.js cache: ${pathname}`);
-        assert.deepEqual(decoded(response), expected, `Feed bytes changed: ${pathname}`);
+        assert.deepEqual(comparableFeed(decoded(response), pathname), comparableFeed(expected, pathname), `Feed bytes changed: ${pathname}`);
+      }
+      if (pathname === '/jobs/feed.json') {
+        const items = JSON.parse(expected.toString()).items;
+        const now = Date.now();
+        assert.ok(items.every((item: { date_published: string }) => isJobAgeEligible({ date: item.date_published }, now)), 'Expired or invalid job in JSON feed');
+        const ttl = Number(String(identity.headers['cache-control']).match(/s-maxage=(\d+)/)?.[1] || 0);
+        if (ttl) for (const item of items) assert.ok(Date.parse(String(identity.headers.date)) + ttl * 1000 < jobExpiryTime({ date: item.date_published }), 'Feed cache extends past posting expiry');
       }
       assert.equal(identity.headers['content-encoding'], undefined, pathname);
       assert.equal(gzip.headers['content-encoding'], 'gzip', pathname);
@@ -98,7 +128,7 @@ async function main() {
       results.push({ pathname, identityBytes: expected.length, gzipBytes: gzip.body.length, savedPercent: Math.round((1 - gzip.body.length / expected.length) * 1000) / 10 });
     }
     for (const pathname of ['/jobs/feed.xml', '/jobs/feed.json']) {
-      const expected = fs.readFileSync(`.next/server/app${pathname}.body`);
+      const expected = expectedBodies.get(pathname)!;
       for (const [accept, encoding] of [
         [undefined, undefined],
         ['', undefined],
@@ -112,21 +142,24 @@ async function main() {
         const response = await request(`${pathname}?source=encoding-check`, accept);
         assert.equal(response.status, 200);
         assert.equal(response.headers['content-encoding'], encoding, `${pathname}: ${accept}`);
-        assert.deepEqual(decoded(response), expected, `${pathname}: ${accept}`);
+        assert.deepEqual(comparableFeed(decoded(response), pathname), comparableFeed(expected, pathname), `${pathname}: ${accept}`);
       }
       const conditional = await request(pathname, 'gzip', 'GET', { 'If-None-Match': '"not-this-feed"' });
       assert.equal(conditional.status, 200);
-      assert.deepEqual(decoded(conditional), expected);
+      assert.deepEqual(comparableFeed(decoded(conditional), pathname), comparableFeed(expected, pathname));
       assert.equal((await request(pathname, 'gzip', 'POST')).status, 405);
       const options = await request(pathname, 'gzip', 'OPTIONS');
-      assert.equal(options.status, 405);
+      assert.equal(options.status, 204);
+      assert.equal(options.body.length, 0);
       assert.match(String(options.headers.allow), /GET/);
       assert.match(String(options.headers.allow), /HEAD/);
+      assert.match(String(options.headers.allow), /OPTIONS/);
+      assert.doesNotMatch(String(options.headers.allow), /POST|PUT|PATCH|DELETE/);
     }
     const missing = await request('/jobs/missing-feed.xml', 'gzip');
     assert.equal(missing.status, 404);
     assert.match(String(missing.headers['content-type']), /text\/html/);
-    console.log(JSON.stringify({ feeds: results, byteIdenticalContents: true, hourlyISRAndCDNPolicyPreserved: true, encodingNegotiation: 'passed', headMethodsAndAgentResponses: 'passed' }, null, 2));
+    console.log(JSON.stringify({ feeds: results, byteIdenticalContentsExceptRssBuildTime: true, eventHourlyISRPreserved: true, jobExpiryBoundedSharedCache: true, encodingNegotiation: 'passed', headMethodsAndAgentResponses: 'passed' }, null, 2));
   } finally {
     server.kill('SIGTERM');
   }

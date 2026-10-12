@@ -1,11 +1,12 @@
 import { getJobs } from "@/lib/jobs";
+import { jobCacheHeaders } from '@/lib/job-age-cache.mjs';
 import { getJobSlug } from "@/lib/job-slugs";
 import { getCachedRawContent } from "@/lib/job-guides";
 import { preloadFeedJobDescriptions } from "@/lib/job-feed-helpers";
 import { NextResponse } from "next/server";
 import type { Job } from "@/types";
 
-export const revalidate = 3600; // Cache for 1 hour on CDN
+export const dynamic = 'force-dynamic';
 
 const MAX_ITEMS = 100;
 // Cap per-item HTML so one giant posting can't bloat the whole feed.
@@ -190,7 +191,7 @@ ${itemsXml}
     status: 200,
     headers: {
       "Content-Type": "application/rss+xml; charset=utf-8",
-      "Cache-Control": "public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400",
+      ...jobCacheHeaders(feedJobs),
     },
   });
 }

@@ -14,6 +14,13 @@ const STANDALONE = path.join(ROOT, '.next', 'standalone');
 const FILES = [
   'content/jobs-runtime.json',
   'content/homepage-jobs.json',
+  'content/job-date-history.json',
+  'content/job-date-provenance.json',
+  'content/job-age-paths.json',
+  'content/job-age-page-scopes.json',
+  'content/removed-job-listings.json',
+  'content/removed-job-paths.json',
+  'content/recovered-job-redirects.json',
   'content/events-runtime.json',
   'content/glossary-runtime.json',
   'content/companies-runtime.json',

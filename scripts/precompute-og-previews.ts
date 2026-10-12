@@ -6,6 +6,7 @@ import { preparePreviewImage, writeSocialImageInfo } from './lib/og-preview-asse
 import { isRemediatedJobSlug } from '../src/lib/job-guides';
 import { legacyNomadDestination } from '../src/lib/nomads/metadata';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
+import { isExpiredJobPath } from '../src/lib/job-age-path';
 import eventTombstones from '../content/event-tombstones.json';
 import { removedEventStatus } from './lib/event-retention.mjs';
 import {
@@ -48,7 +49,7 @@ async function main() {
   const livePaths = new Set<string>();
 
   for (const contentPath of paths) {
-    if (removedEventStatus(contentPath, eventTombstones)) continue;
+    if (isExpiredJobPath(contentPath) || isRemovedJobPath(contentPath) || removedEventStatus(contentPath, eventTombstones)) continue;
     livePaths.add(contentPath);
     const meta = await preparePreviewImage(await resolveOgPreviewMeta(contentPath));
     const fingerprint = sha(JSON.stringify(meta));
@@ -84,7 +85,7 @@ async function main() {
   for (const file of existingShells(OUT_ROOT)) {
     const relative = path.relative(OUT_ROOT, file).replace(/\\/g, '/').replace(/\.html$/, '');
     const contentPath = relative === 'index' ? '/' : `/${relative}`;
-    if (isRemovedJobPath(contentPath) || removedEventStatus(contentPath, eventTombstones)) {
+    if (isExpiredJobPath(contentPath) || isRemovedJobPath(contentPath) || removedEventStatus(contentPath, eventTombstones)) {
       fs.unlinkSync(file);
       delete manifest[contentPath];
       continue;
@@ -107,6 +108,11 @@ async function main() {
     }
     const image = $('meta[property="og:image"]').attr('content');
     if (!image) throw new Error(`Missing OG image in ${file}`);
+    if (image.includes('/og/companies/')) {
+      const html = buildOgPreviewHtml(await preparePreviewImage(await resolveOgPreviewMeta(canonicalPath)));
+      if (before !== html) { fs.writeFileSync(file, html); written++; }
+      continue;
+    }
     const meta = await preparePreviewImage({
       title: $('meta[property="og:title"]').attr('content') || $('title').text(),
       description: $('meta[property="og:description"]').attr('content') || '',

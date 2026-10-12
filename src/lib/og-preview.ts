@@ -286,7 +286,7 @@ export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta>
       if (company) {
         return {
           title: `${company.name} Jobs | ${SITE_NAME}`,
-          description: company.jobCount ? `Open Web3 roles at ${company.name} on Hashtag Web3.` : `No active roles are currently listed for ${company.name} on Hashtag Web3.`,
+          description: `Company information and Web3 job listings for ${company.name} on Hashtag Web3.`,
           ogImageUrl: buildCompanyOgImageUrl(company),
           canonicalUrl: `${SITE_URL}/${slug}`,
         };

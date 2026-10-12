@@ -17,8 +17,9 @@ import { shouldRunStep, stepInputHash } from './lib/prebuild-manifest';
 import { classifySlug } from '../src/lib/slug-classifier';
 import { loadReservedRootSlugsSync } from '../src/lib/reserved-root-slugs';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
+import { isExpiredJobPath } from '../src/lib/job-age-path';
 
-const job = (company: string, link: string, slug = 'engineer'): Job => ({ id: '42', title: 'Software Engineer', company, link, slug, source: 'Imported', active: true, date: '2026-10-01' });
+const job = (company: string, link: string, slug = 'engineer'): Job => ({ id: '42', title: 'Software Engineer', company, link, slug, source: 'Imported', active: true, date: new Date(Date.now() - 86400000).toISOString() });
 
 async function main() {
   assert.equal(atsBoardKey('Ashby', '%57arp'), 'ashby:warp');
@@ -100,7 +101,7 @@ async function main() {
     if (classifySlug(slug) === 'job') assert.ok(!sitemap.has(`/${slug}`), `Withdrawn job is still in the sitemap: ${slug}`);
     assert.equal((await resolveJobSlug(slug)).kind, 'unknown', `Rejected archive resurfaced: ${slug}`);
     const file = `public/preview/${slug}.html`;
-    if (isRemovedJobPath(`/${slug}`)) {
+    if (isRemovedJobPath(`/${slug}`) || isExpiredJobPath(`/${slug}`)) {
       assert.equal(fs.existsSync(file), false, `A 410 job still has a share shell: ${slug}`);
       continue;
     }
@@ -118,8 +119,8 @@ async function main() {
   assert.equal(redstone?.website, 'https://redstone.finance');
   assert.equal((await getCompanyBySlug('rain'))?.website, 'https://www.rain.xyz');
   assert.equal((await getCompanyBySlug('ramp'))?.website, 'https://ramp.com');
-  assert.ok(runtime.some(row => row.company === 'Plume Network' && row.link.includes('rippling.com')));
-  assert.ok(runtime.some(row => row.company === 'Sui Foundation' && row.link.includes('ashbyhq.com')));
+  for (const row of runtime.filter(row => row.company === 'Plume Network')) assert.ok(row.link.includes('rippling.com'));
+  for (const row of runtime.filter(row => row.company === 'Sui Foundation')) assert.ok(row.link.includes('ashbyhq.com'));
   const openStandardJobs = runtime.filter(row => row.company === 'Open Standard');
   assert.equal((await getCompanyBySlug('open-standard'))?.jobCount ?? 0, openStandardJobs.length);
   for (const row of openStandardJobs) {

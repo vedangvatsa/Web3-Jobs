@@ -16,6 +16,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import * as crypto from 'crypto';
+import { assertEvergreenContent, isEvergreenContent } from './evergreen-content.mjs';
 
 const TOKEN = process.env.BUFFER_ACCESS_TOKEN || '';
 const ORG_ID = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
@@ -54,6 +55,7 @@ function hashText(text: string): string {
 }
 
 async function gqlRequest(query: string, variables: any) {
+ if (/\bcreatePost\b/.test(query)) assertEvergreenContent(variables);
  const res = await fetch(GRAPHQL_URL, {
  method: 'POST',
  headers: {
@@ -216,7 +218,8 @@ async function run() {
  process.exit(1);
  }
 
- const schedule = JSON.parse(fs.readFileSync(SCHEDULE_FILE, 'utf8'));
+ const schedule = JSON.parse(fs.readFileSync(SCHEDULE_FILE, 'utf8')).filter(isEvergreenContent);
+ if (!schedule.length) { console.log('No eligible evergreen queue content.'); return; }
  const state = loadState();
 
  console.log('--- Buffer Auto-Refill ---');
