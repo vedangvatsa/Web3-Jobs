@@ -1,5 +1,5 @@
 {
-  "lastIndex": 398,
+  "lastIndex": 401,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -182,7 +182,9 @@
     "fvfs",
     "sls218",
     "eng106",
-    "cp3"
+    "cp3",
+    "cp4",
+    "eng402"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5421,498 +5423,6 @@
       "verification": "verified"
     },
     {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xcd11fb3d9af63588014e8c822ffc65f3fb7bf6b7",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0x87f77312cf904606b5a4f332ab98faf226a5ee92",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0x58eb7958d6b69a4f13c99e21d92f59c3e5ebc9e3",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xc07e15fd3a6bd69dee6844838280265023329b50",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "0xe873167f35d67b50d4f467102c3ba0a9fc231c17",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "6ac71c5757f9bd074d286734",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "6ac71c6201166a3e1c154a0b",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "urn:li:share:7513818109737074688",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sec13",
-      "company": "Ripple",
-      "title": "Physical Security Manager, APAC/MENA",
-      "platform": "facebook",
-      "postedAt": "2026-10-08T04:29:58.164Z",
-      "postId": "691827047618629_1109483901658844",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "x",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "6ac71c75365feab0d73e0606",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Alpaca is hiring Due Diligence Analyst - APAC\n\nhttps://hashtagweb3.com/an45/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108052455556538622"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "threads",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "18430723723149565",
-      "verification": "verified",
-      "expectedText": "Alpaca is hiring Due Diligence Analyst - APAC: https://hashtagweb3.com/an45/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeOFI0EGwqs",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "bluesky",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxdmtgmzkr2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x426010d0fe0b0161bdef4eb0da2094c8ea4557d5",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xa0e5d6420b13d058306121a8563239c79fe5f65a",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xb8883aaa1d436b58c1b494fa3ea0958176615ab9",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x11820b26562f849b51e0ec26dd5cb6ee11f34574",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xc5115360b6e3a2629c501a9f7432765cc64c7a4e",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xc65ae98304fccfbd088ad4e10451e1d25836d3ae",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x25fd51407e5aee9f525fb40e73fe706990d706d3",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x1e16c752c0f0a5c62d06538ee598e55dd5787fcc",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x15e5b8b190ee54bcbcd1f3e40846fbbc970039d0",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x0afd8695b291146def812da139c00c79c88a6ad3",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x312e41225dc270dba0fceda2b43efbdaa1af766a",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x3123843ad9e7ce47ce0178adfe0dce773a3e5a87",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xda2fee67bd58459a395930f12b0eade69ae8d284",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xf3a4852d8ed93a5b8b2cb50123b8867a3d16374d",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xb3b52a664650aa6adaba939b2d6260e862aaefdf",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0xce4d6d6d85e7a739cb3ca260c0553608ec6dc2e9",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "0x4b71853ea05db8b074d1b249f79836938325c830",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "6ac71c86365feab0d73e0b9d",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "6ac71c9095b0fb1c5ccb8ed2",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "linkedin",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "urn:li:share:7513818304369778689",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "an45",
-      "company": "Alpaca",
-      "title": "Due Diligence Analyst - APAC",
-      "platform": "facebook",
-      "postedAt": "2026-10-08T04:30:45.173Z",
-      "postId": "691827047618629_1109484558325445",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "x",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "6ac78c4b08d405a9e7ff0b8a",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Coinbase is hiring Senior Marketing Manager, Brand Strategy\n\nhttps://hashtagweb3.com/mkt81/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108172536949178775"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "threads",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "17891491743446985",
-      "verification": "verified",
-      "expectedText": "Coinbase is hiring Senior Marketing Manager, Brand Strategy: https://hashtagweb3.com/mkt81/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeO7vv8muNa",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "bluesky",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxehipl6z32h",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0xf4898bb696abfce05a3671973a01cca5cf30e8b7",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0xcf59a2edece52313043e05b760f2e608635a31bd",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0xa672835adbc5905f1678baa2950f1e005209c18f",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x3ca322cfd831e9f6463f59152c90590976982ab1",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x74ff27e38aeed2665e38689834b47bb46779b94c",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0xcfb800d31f45c75800a315525676bacf80698970",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x5dfc1f38cda0f57b61671f46fea7ac48ea8f48a0",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0xfd3e154ae31eda2ab9228fd11fb328e71a2f2eb3",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x1a0d1134e57836192b1cd59ebfca2a9588f1991f",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x1bdddaea7b145cb71be0ff4da9a58fd15918d14a",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0xc38bc430ad84f89b729e6839d2eff832ce9061ba",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mkt81",
-      "company": "Coinbase",
-      "title": "Senior Marketing Manager, Brand Strategy",
-      "platform": "farcaster",
-      "postedAt": "2026-10-08T12:27:54.650Z",
-      "postId": "0x4b29324bd6fa374ccc2e98546aa3d5b47c785692",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "mkt81",
       "company": "Coinbase",
       "title": "Senior Marketing Manager, Brand Strategy",
@@ -10184,6 +9694,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-12T04:33:36.975Z",
       "postId": "691827047618629_1113122167961684",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "x",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "6accc529bc52bd4504d8c0d7",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Bullish is hiring Creative Producer\n\nhttps://hashtagweb3.com/cp4/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109607988688282111"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "threads",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "18337529470277491",
+      "verification": "verified",
+      "expectedText": "Bullish is hiring Creative Producer: https://hashtagweb3.com/cp4/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeZIg2woBdO",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxoga6nwm52h",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xeff369a1a6cee482da2f200b4f3d25a286e3b8e4",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xd05967b51504753938cd6aa9ae55f108bb0876a5",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x2609206fb34a5b339abf1d27a11e956e14e3abcc",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xb2520a116cf5fac77431bd7267200a0d630634f8",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xf84951ea796336eaa26c42c265b2523f05ae684a",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xfc54fada5e043357dc3d6b70e7bb61039bdcb6dc",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x0eab04fba445098fe532ecde201edd1e8f26ae79",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xb735e55d9bde41a35c2c831e120493f84e6eaed3",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x5bfa183ed790980ce4b2db885b5688d06779ad4a",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x90f0f6bd7a4501289eeee12e52de69b900db4725",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x0218cb365f3242a1202c8c2a3c302bd590c7ef1d",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x471d39514d249412aecb8452beccf598827717af",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x9825f43dc27e92aa15897f0ef436cf86c8412fbd",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xfd06c5024dc170e19b15c04c6c4b065b8aa324a0",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x985fcde33de2de8007ef0920d43c79d3163f1587",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0x835a61ac2a6588a91e44d4cefba9521ec7161813",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "0xc91372fdd99b9da84f3446242fa85be37a521f63",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "6accc5390543a6114d421385",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "6accc544c1658fce94d64032",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "urn:li:share:7515373836486209537",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cp4",
+      "company": "Bullish",
+      "title": "Creative Producer",
+      "platform": "facebook",
+      "postedAt": "2026-10-12T11:31:53.301Z",
+      "postId": "691827047618629_1113398697934031",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "6accc5570543a6114d4219e7",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Alpaca is hiring Senior Sales Engineer\n\nhttps://hashtagweb3.com/eng402/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109608180401557626"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "18116539415081093",
+      "verification": "verified",
+      "expectedText": "Alpaca is hiring Senior Sales Engineer: https://hashtagweb3.com/eng402/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeZImYhIFwf",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxogbimzxt2g",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x3fb1fd9699a5cfef9a213b09e67968cd31b69f9e",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0xbdd694387b83ed70605616826f9d61dea54f921b",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0xe423007151b73c2032eafe9afd71cf18658d2e3f",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0xb3ec52c99dfcf6e23ebca2507be44ff4324a644a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0xf0f0e78dccec0bf7ac77994f480a06a577fb32be",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x9b2f40189abad203bf6aec41896a63e711c1a40d",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x1d9e2227eb4d6244e710ef8552b73a7e2a13382c",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x25086dbac0c48c954d6a293c0cff9ac28d6cddb3",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x0dae093e15d709303b72172e11edb34d3fc34c0a",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0xa88e6d9dc68dfdb6ee9d58cafd135fd023e93197",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x1e4fce9ae6d37882f782d16bd3981670c5d9366b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x4e9586a854c46349a2d4f659443c1d4e5e582491",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x5222681beb9eb8214565b07591db1b1c637a5795",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x73b1ec3318cbc9b4617612b567bfd00cce10e136",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x394761b828739273cf91e176a0ee0d3fc8505d18",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x846261c8208ab0a2667b72b73eb3ee1d3bc73749",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "0x6edcf41dd700c25cc1b25448882e97b29271b845",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "6accc565c1658fce94d647af",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "6accc56f5e5ffb1101e4d1b2",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "urn:li:share:7515374020045832192",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng402",
+      "company": "Alpaca",
+      "title": "Senior Sales Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-12T11:32:39.157Z",
+      "postId": "691827047618629_1113399104600657",
       "verification": "verified"
     }
   ]
