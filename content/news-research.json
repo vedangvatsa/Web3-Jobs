@@ -24327,26 +24327,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a1d08de2435b7aa593b5",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T20:25:14.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "CFTC swap-status story is the same rulemaking event as the companion lead; queued page unopened.",
-      "sourceChecks": [
-        {
-          "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
-          "outcome": "blocked"
-        }
-      ],
-      "reviewedAt": "2026-10-11T10:28:14.831Z",
+      "reason": "duplicate",
+      "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:58:24.040Z",
       "duplicateOf": "cftc-swaps",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "CFTC event contracts swaps rule October 2026"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "32a6fb4025d29d3c1e2f"
     },
     "994ba24ff2eca1c3c082": {
       "source": "The Defiant",
@@ -53534,6 +53529,15 @@
           "reviewedAt": "2026-10-12T03:58:22.107Z",
           "duplicateOf": "meanwhile-raise",
           "mergedInto": "2a7c81f07dc6e3b3eb0f"
+        },
+        "a1d08de2435b7aa593b5": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same CFTC Oct 9 event-contracts action drafted once as cftc-swaps.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:58:24.040Z",
+          "duplicateOf": "cftc-swaps",
+          "mergedInto": "32a6fb4025d29d3c1e2f"
         }
       },
       "baselineSlugs": [
