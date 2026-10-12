@@ -21108,22 +21108,42 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7eedcb04b022f754db",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-09T10:46:28.146Z",
-      "attempts": 11,
+      "attempts": 12,
       "expiresAt": "2026-10-12T10:34:37.000Z",
       "lastSeenAt": "2026-10-10T10:01:42.244Z",
-      "reason": "needs-corroboration",
-      "note": "UK sanctions package not fully read this round; needs FCDO notice plus second outlet.",
+      "reason": "verified-event",
+      "note": "Verified FCDO Oct 8 package - 38 designations incl Xeltox (Cryptomus/Heleket/Certa), TokenSpot, Tsunami, Processing KG/VexPay and Bukabaev - A7 90B claim matched across FCDO, CoinDesk, Decrypt, Cointelegraph, Chainalysis, TRM.",
       "sourceChecks": [
         {
+          "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+          "outcome": "read"
+        },
+        {
           "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
-          "outcome": "unavailable"
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.trmlabs.com/resources/blog/uk-sanctions-cryptomus-heleket-and-tokenspot-in-new-russia-package-targeting-crypto-and-payment-channels",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T18:19:55.169Z",
+      "reviewedAt": "2026-10-12T03:56:55.052Z",
       "duplicateOf": "uk-sanctions",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "UK sanctions Cryptomus Heleket TokenSpot FCDO Russia October 2026 notice"
       ],
@@ -21132,8 +21152,7 @@
         "ledger-implant.md: under 600 words",
         "meanwhile-funding.md: under 600 words",
         "uk-sanctions.md: news template phrasing: facilitat(?:e|es|ed|ing)"
-      ],
-      "nextReviewDate": "2026-10-12"
+      ]
     },
     "6a453769f3b6db70f125": {
       "source": "Unchained",
@@ -52847,6 +52866,39 @@
           ],
           "reviewedAt": "2026-10-12T03:56:49.006Z",
           "articleSlug": "mashinsky-ban"
+        },
+        "4f7eedcb04b022f754db": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified FCDO Oct 8 package - 38 designations incl Xeltox (Cryptomus/Heleket/Certa), TokenSpot, Tsunami, Processing KG/VexPay and Bukabaev - A7 90B claim matched across FCDO, CoinDesk, Decrypt, Cointelegraph, Chainalysis, TRM.",
+          "sourceChecks": [
+            {
+              "url": "https://www.gov.uk/government/news/new-uk-sanctions-hit-the-money-oil-and-supply-chains-fuelling-russias-war",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.chainalysis.com/blog/uk-sanctions-cryptomus-heleket-tokenspot/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.trmlabs.com/resources/blog/uk-sanctions-cryptomus-heleket-and-tokenspot-in-new-russia-package-targeting-crypto-and-payment-channels",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:56:55.052Z",
+          "articleSlug": "uk-sanctions"
         }
       },
       "baselineSlugs": [
