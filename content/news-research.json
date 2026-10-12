@@ -29220,11 +29220,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc35952249809c182fc3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T02:00:47.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "needs-corroboration",
+      "note": "Aave USDG rollover read in CryptoSlate with forum proposal in search only - needs governance record and second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-12T04:03:13.238Z",
+      "retrySearches": [
+        "Aave PT-USDG X Layer proposal LlamaRisk second outlet"
+      ],
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "abff916acd5eaf621dd6": {
       "source": "BeInCrypto",
@@ -53999,6 +54013,21 @@
           "reviewedAt": "2026-10-12T04:03:11.218Z",
           "retrySearches": [
             "Bank of England stablecoin banker Breeden speech October 2026"
+          ]
+        },
+        "bc35952249809c182fc3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Aave USDG rollover read in CryptoSlate with forum proposal in search only - needs governance record and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:13.238Z",
+          "retrySearches": [
+            "Aave PT-USDG X Layer proposal LlamaRisk second outlet"
           ]
         }
       },
