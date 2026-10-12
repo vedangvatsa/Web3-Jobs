@@ -25876,20 +25876,24 @@
       "id": "201c9130ddb5ba609ce4",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T12:21:43.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
       "reason": "needs-corroboration",
-      "note": "Starknet L1 shift is directional with no vote, decision or timeline; needs a firmer trigger.",
+      "note": "Same Starknet L1 event - queued Defiant piece 403 - needs StarkWare primary post and a second outlet.",
       "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:45.202Z",
+      "reviewedAt": "2026-10-12T04:03:02.606Z",
       "articleSlug": "starknet",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -25906,9 +25910,9 @@
         "uk-sanctions.md: under 600 words, news template phrasing: facilitat(?:e|es|ed|ing)"
       ],
       "retrySearches": [
-        "Starknet L1 transition governance vote decision StarkWare"
+        "StarkWare Starknet L1 clearest path CoinDesk coverage"
       ],
-      "nextReviewDate": "2026-10-12"
+      "nextReviewDate": "2026-10-13"
     },
     "1e3baa68bfd62409bba8": {
       "source": "CryptoSlate",
@@ -53944,6 +53948,25 @@
             }
           ],
           "reviewedAt": "2026-10-12T04:03:00.542Z",
+          "retrySearches": [
+            "StarkWare Starknet L1 clearest path CoinDesk coverage"
+          ]
+        },
+        "201c9130ddb5ba609ce4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Same Starknet L1 event - queued Defiant piece 403 - needs StarkWare primary post and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:02.606Z",
           "retrySearches": [
             "StarkWare Starknet L1 clearest path CoinDesk coverage"
           ]
