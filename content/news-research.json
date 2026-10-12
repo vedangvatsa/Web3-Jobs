@@ -24658,26 +24658,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "504c54edc7c703968bcd",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-09T23:24:36.621Z",
-      "attempts": 9,
+      "attempts": 10,
       "expiresAt": "2026-10-12T20:14:02.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Mashinsky settlement piece not fully read; same AG event, needs full read.",
-      "sourceChecks": [
-        {
-          "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:20:30.848Z",
+      "reason": "duplicate",
+      "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:57:57.417Z",
       "duplicateOf": "mashinsky-ban",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "retrySearches": [
         "New York AG Mashinsky 35M lifetime ban settlement second outlet"
       ],
-      "nextReviewDate": "2026-10-12"
+      "mergedInto": "86f3a145bde0d3311251"
     },
     "5936ea8f20383c5c23f9": {
       "source": "Bitcoin Magazine",
@@ -53482,6 +53477,15 @@
           "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:57:55.480Z",
+          "duplicateOf": "mashinsky-ban",
+          "mergedInto": "86f3a145bde0d3311251"
+        },
+        "504c54edc7c703968bcd": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same NY AG Mashinsky settlement event drafted once as mashinsky-ban.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:57:57.417Z",
           "duplicateOf": "mashinsky-ban",
           "mergedInto": "86f3a145bde0d3311251"
         }
