@@ -2241,10 +2241,11 @@
           "url": "https://www.instagram.com/reel/DeYR24Ojcr0/"
         },
         "youtube": {
-          "status": "pending",
+          "status": "sent",
           "text": "Sofia, BG\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
           "startedAt": "2026-10-12T03:35:03.301Z",
-          "postId": "6acc55687db619a2915880ea"
+          "postId": "6acc55687db619a2915880ea",
+          "url": "https://www.youtube.com/watch?v=1jZI7ZkdkT8"
         }
       }
     },
