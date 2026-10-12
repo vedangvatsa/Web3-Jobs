@@ -23810,28 +23810,32 @@
       "id": "b66ae32556259e005f14",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T19:31:17.507Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T18:46:03.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
       "reason": "needs-corroboration",
-      "note": "Warren Cantor-Tether letter story on a single queued source; letter plus second outlet outstanding.",
+      "note": "Same Cantor-Tether letter event as b22ff441 - Senate letter plus Unchained read, Decrypt second outlet still to open.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380599/senate-democrat-presses-cantor-fitzgerald-tether-ties",
           "outcome": "unavailable"
         }
       ],
-      "reviewedAt": "2026-10-11T10:28:06.378Z",
+      "reviewedAt": "2026-10-12T03:59:27.319Z",
       "articleSlug": "cantor-tether",
-      "lastReviewedDay": "2026-10-11",
+      "lastReviewedDay": "2026-10-12",
       "lastValidationErrors": [
         "dwf-bitgo.md: template phrasing: unlock(?:ing)?",
         "Source link HTTP 403: https://www.cftc.gov/PressRoom/PressReleases/9310-26"
       ],
       "retrySearches": [
-        "Warren Cantor Fitzgerald Tether Lutnick letter October 2026"
+        "Blumenthal Cantor Fitzgerald Tether letter Oct 23 deadline response"
       ],
-      "nextReviewDate": "2026-10-12"
+      "nextReviewDate": "2026-10-13"
     },
     "a391370519699e67f1d6": {
       "source": "Bankless",
@@ -53676,6 +53680,25 @@
           "reviewedAt": "2026-10-12T03:59:25.450Z",
           "duplicateOf": "bitgo-suit",
           "mergedInto": "f46b0c4a638dbaf5f575"
+        },
+        "b66ae32556259e005f14": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Same Cantor-Tether letter event as b22ff441 - Senate letter plus Unchained read, Decrypt second outlet still to open.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/blumenthal-asks-cantor-fitzgerald-for-records-on-its-tether-stake-and-custody-role/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380599/senate-democrat-presses-cantor-fitzgerald-tether-ties",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-12T03:59:27.319Z",
+          "retrySearches": [
+            "Blumenthal Cantor Fitzgerald Tether letter Oct 23 deadline response"
+          ]
         }
       },
       "baselineSlugs": [
