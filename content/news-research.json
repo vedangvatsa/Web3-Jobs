@@ -29587,11 +29587,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "59dcfad6a0f1797681ad",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T20:13:57.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "Finance executives on AI budgets is enterprise survey coverage with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:02.498Z",
+      "lastReviewedDay": "2026-10-12"
     },
     "cbbc436b86c33a3ed171": {
       "source": "Crypto Briefing",
@@ -52476,6 +52481,13 @@
           "note": "Yemen strike claims are a geopolitical item with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:00.628Z"
+        },
+        "59dcfad6a0f1797681ad": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Finance executives on AI budgets is enterprise survey coverage with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:02.498Z"
         }
       },
       "baselineSlugs": [
