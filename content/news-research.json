@@ -28301,25 +28301,19 @@
       ],
       "alsoCoveredBy": [],
       "id": "36619d9cbdffc0930a39",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T06:37:22.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "Bubblemaps Ethan estimate not fully read; single source, needs methodology plus second outlet.",
-      "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/bubblemaps-ethan-125k-token-callouts/",
-          "outcome": "unavailable"
-        }
-      ],
-      "reviewedAt": "2026-10-11T18:21:16.844Z",
+      "reason": "not-a-concrete-event",
+      "note": "Bubblemaps estimate of influencer callout earnings is analytics chatter with no onchain event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:44:03.601Z",
       "retrySearches": [
         "Bubblemaps Ethan 125K 49 token callouts October 2026"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12"
     },
     "9e59c3ed7d1faf3681c3": {
       "source": "Crypto Briefing",
@@ -52706,6 +52700,13 @@
           "note": "Aave loan liquidation-cushion piece is risk analysis of existing positions with no governance vote or exploit.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:44:01.637Z"
+        },
+        "36619d9cbdffc0930a39": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Bubblemaps estimate of influencer callout earnings is analytics chatter with no onchain event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:44:03.601Z"
         }
       },
       "baselineSlugs": [
