@@ -2248,9 +2248,10 @@
           "url": "https://www.youtube.com/watch?v=1jZI7ZkdkT8"
         },
         "tiktok": {
-          "status": "creating",
+          "status": "pending",
           "text": "Brand Marketing Specialist, Loyalty & Lifestyle Partnerships at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs",
-          "startedAt": "2026-10-12T03:35:09.950Z"
+          "startedAt": "2026-10-12T03:35:09.950Z",
+          "postId": "6acc556fea568e911a4e481e"
         }
       }
     },
