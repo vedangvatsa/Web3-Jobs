@@ -28659,9 +28659,9 @@
       "expiresAt": "2026-10-15T02:05:08.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "price-chatter",
-      "note": "Same 4393 ETH Kraken transfer as 1606f4eab; wallet movement framed as dump-or-routine speculation with no confirmed event.",
+      "note": "4393 ETH Kraken transfer is wallet-movement speculation with no confirmed sale or announcement.",
       "sourceChecks": [],
-      "reviewedAt": "2026-10-12T03:43:16.132Z",
+      "reviewedAt": "2026-10-12T03:43:39.621Z",
       "duplicateOf": "1606f4eab1e355e34c6f",
       "lastReviewedDay": "2026-10-12"
     },
@@ -52564,10 +52564,9 @@
         "e81a753f4a1393ec6fbe": {
           "status": "rejected",
           "reason": "price-chatter",
-          "note": "Same 4393 ETH Kraken transfer as 1606f4eab; wallet movement framed as dump-or-routine speculation with no confirmed event.",
+          "note": "4393 ETH Kraken transfer is wallet-movement speculation with no confirmed sale or announcement.",
           "sourceChecks": [],
-          "reviewedAt": "2026-10-12T03:43:16.132Z",
-          "duplicateOf": "1606f4eab1e355e34c6f"
+          "reviewedAt": "2026-10-12T03:43:39.621Z"
         },
         "1606f4eab1e355e34c6f": {
           "status": "rejected",
