@@ -173,6 +173,21 @@ test('CLI modes are explicit, bounded and default-safe', async t => {
   assert.equal(h.writes.length, 1);
 });
 
+test('reconciles an existing TikTok post with normalized paragraphs without changing the saved caption', async t => {
+  const initial = fixture();
+  initial.jobs.marketing211.captions.tiktok = 'Engineer at Example\n\nFind the role on hashtagweb3.com\n\n#Hiring';
+  const receipt = initial.jobs.marketing211.receipts.tiktok!;
+  receipt.text = initial.jobs.marketing211.captions.tiktok;
+  const h = await harness(t, initial);
+  h.respond(() => Response.json({data: {post: bufferPost(receipt, {text: receipt.text.replace(/\n\n/g, '\n')})}}));
+  const report = await h.run([], applyEnv);
+  assert.equal(report.results[2].status, 'verified');
+  assert.equal(report.results[2].persisted, true);
+  assert.equal(h.providerRequests().length, 1);
+  assert.equal(h.writes.length, 1);
+  assert.deepEqual(h.remote.jobs.marketing211.receipts.tiktok, {...receipt, status: 'sent', url: urls.tiktok});
+});
+
 test('missing, unknown and malformed slugs or modes fail before any API reads or writes', async t => {
   const cases: [string[], NodeJS.ProcessEnv][] = [
     [[], {}], [[], {VIDEO_SLUGS: 'missing'}], [[], {VIDEO_SLUGS: 'marketing211,missing'}],

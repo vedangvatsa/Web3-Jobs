@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {bufferVerify, bufferCreate, instagramVerify} from './job-video-clients.ts';
+import {bufferVerify, bufferCreate, bufferRecover, instagramVerify} from './job-video-clients.ts';
 import {channels, instagramAccount} from './job-video-core.ts';
 import type {Receipt, Video} from './job-video-core.ts';
 const originalFetch = globalThis.fetch;
@@ -40,5 +40,49 @@ test('Instagram receipt must belong to the configured account', async () => {
     await assert.rejects(instagramVerify('123'), /not a Reel/);
     globalThis.fetch = async () => Response.json({id: '123', permalink: 'https://www.instagram.com/reel/abc/', owner: {id: instagramAccount}, media_product_type: 'REELS'});
     assert.equal(await instagramVerify('123'), 'https://www.instagram.com/reel/abc/');
+  } finally {globalThis.fetch = originalFetch;}
+});
+
+test('TikTok receipts tolerate paragraph normalization but never changed content or ownership', async () => {
+  const text = 'Brand Marketing Manager, Global Sponsorships at Nexo. Sofia, BG.\n\nFind the role on hashtagweb3.com\n\n#Hiring #Marketing #Jobs';
+  const saved = {...receipt, text};
+  const post = {id: saved.postId, channelId: channels.tiktok, channelService: 'tiktok', text: text.replace(/\n\n/g, '\n'), status: 'sent', externalLink: 'https://tiktok.com/@hashtagweb3/video/123'};
+  assert.equal(text.length, 124); assert.equal(post.text.length, 122);
+  try {
+    globalThis.fetch = async (_url, options) => {
+      assert.match(JSON.parse(String(options?.body)).query, /^query\b/);
+      return Response.json({data: {post}});
+    };
+    assert.equal(await bufferVerify('tiktok', saved, 1), post.externalLink);
+    for (const change of [
+      {text: post.text.replace('Nexo', 'Another employer')},
+      {text: post.text.replace('#Marketing', '#Finance')},
+      {text: post.text.replace('Sofia, BG.', 'Remote.')},
+      {text: post.text.replace('Marketing', 'Market ing')},
+      {id: 'another-post'}, {channelId: channels.youtube},
+    ]) {
+      globalThis.fetch = async () => Response.json({data: {post: {...post, ...change}}});
+      await assert.rejects(bufferVerify('tiktok', saved, 1), /does not match/);
+    }
+    globalThis.fetch = async () => Response.json({data: {post: {...post, channelId: channels.youtube, channelService: 'youtube'}}});
+    await assert.rejects(bufferVerify('youtube', saved, 1), /caption/);
+    assert.equal(saved.text, text);
+  } finally {globalThis.fetch = originalFetch;}
+});
+
+test('TikTok lookup still requires one matching post after whitespace normalization', async () => {
+  const saved = {...receipt, postId: undefined, text: 'Engineer at Example\n\n#Hiring'};
+  const post = {id: 'existing', channelId: channels.tiktok, channelService: 'tiktok', text: 'Engineer at Example\n#Hiring', createdAt: receipt.startedAt};
+  try {
+    let posts = [post];
+    globalThis.fetch = async (_url, options) => {
+      assert.match(JSON.parse(String(options?.body)).query, /^query\b/);
+      return Response.json({data: {posts: {edges: posts.map(node => ({node}))}}});
+    };
+    assert.equal(await bufferRecover('tiktok', saved), 'existing');
+    posts = [post, {...post, id: 'duplicate', text: 'Engineer at Example #Hiring'}];
+    await assert.rejects(bufferRecover('tiktok', saved), /Ambiguous/);
+    posts = [{...post, channelId: channels.youtube}];
+    await assert.rejects(bufferRecover('tiktok', saved), /Ambiguous/);
   } finally {globalThis.fetch = originalFetch;}
 });

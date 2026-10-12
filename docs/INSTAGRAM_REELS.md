@@ -46,6 +46,13 @@ pending Buffer posts once. Unconfirmed or ambiguous results retain their existin
 state and fail visibly; never clear them just to enable a resend. Reconciliation
 uses the same concurrency lock as publishing.
 
+The October 12 TikTok recovery found Buffer returning normalized caption whitespace
+(124 saved characters, 122 returned; identical non-whitespace content).
+TikTok receipt comparison accounts for whitespace normalization while still
+requiring the saved post ID, channel, platform and exact words, punctuation and
+hashtags. Lookup recovery must find exactly one matching post. Saved captions
+remain unchanged, and YouTube keeps exact-text comparison.
+
 ## Captions and API settings
 
 - Role and employer on the first line, followed by the video's verified location

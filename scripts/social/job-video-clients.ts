@@ -4,6 +4,13 @@ const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 type BufferPost = {id: string; channelId: string; channelService: string; text: string; status: string; externalLink?: string; createdAt: string; assets: {source: string}[]; error?: {message: string}};
 const postFields = 'id channelId channelService text status externalLink createdAt assets { source } error { message }';
 
+function bufferCaptionMatches(platform: 'youtube' | 'tiktok', actual: string, expected: string): boolean {
+  if (actual === expected) return true;
+  // Buffer can normalize TikTok caption whitespace. Keep every non-whitespace character exact.
+  return platform === 'tiktok' && typeof actual === 'string' && expected.trim().length > 0
+    && actual.replace(/\s+/g, ' ').trim() === expected.replace(/\s+/g, ' ').trim();
+}
+
 export async function bufferQuery<T>(query: string, variables: Record<string, unknown> = {}): Promise<T> {
   const token = process.env.BUFFER_VIDEO_ACCESS_TOKEN;
   if (!token) throw new Error('Missing BUFFER_VIDEO_ACCESS_TOKEN');
@@ -45,7 +52,8 @@ export async function bufferCreate(platform: 'youtube' | 'tiktok', video: Video,
 
 export async function bufferRecover(platform: 'youtube' | 'tiktok', receipt: Receipt): Promise<string> {
   const result = await bufferQuery<{posts: {edges: {node: BufferPost}[]}}>('query { posts(first: 100, input: {organizationId: "' + organizationId + '", filter: {channelIds: ["' + channels[platform] + '"]}}) {edges {node {' + postFields + '}}} }');
-  const matches = result.posts.edges.map(e => e.node).filter(p => p.text === receipt.text && Date.parse(p.createdAt) >= Date.parse(receipt.startedAt) - 60000);
+  const matches = result.posts.edges.map(e => e.node).filter(p => p.channelId === channels[platform] && p.channelService === platform
+    && bufferCaptionMatches(platform, p.text, receipt.text) && Date.parse(p.createdAt) >= Date.parse(receipt.startedAt) - 60000);
   if (matches.length !== 1) throw new Error('Ambiguous Buffer creation needs reconciliation before retrying');
   return matches[0].id;
 }
@@ -57,7 +65,7 @@ export async function bufferVerify(platform: 'youtube' | 'tiktok', receipt: Rece
       post.id !== receipt.postId && 'post ID',
       post.channelId !== channels[platform] && 'channel ID',
       post.channelService !== platform && 'platform',
-      post.text !== receipt.text && 'caption',
+      !bufferCaptionMatches(platform, post.text, receipt.text) && 'caption',
     ].filter(Boolean);
     if (mismatches.length) {
       const caption = mismatches.includes('caption') && typeof post.text === 'string'
