@@ -29723,11 +29723,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "342f6b1a246a1bd21975",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-14T18:14:06.000Z",
-      "lastSeenAt": "2026-10-12T03:34:29.219Z"
+      "lastSeenAt": "2026-10-12T03:34:29.219Z",
+      "reason": "out-of-scope",
+      "note": "AI-company debt concerns are credit-market coverage with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-12T03:43:06.230Z",
+      "lastReviewedDay": "2026-10-12"
     }
   },
   "runs": {
@@ -52500,6 +52505,13 @@
           "note": "SoftBank 100B AI fund is tech financing coverage with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-12T03:43:04.321Z"
+        },
+        "342f6b1a246a1bd21975": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-company debt concerns are credit-market coverage with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-12T03:43:06.230Z"
         }
       },
       "baselineSlugs": [
