@@ -23202,23 +23202,23 @@
       "id": "dc53e2f33c5fbeaf3082",
       "status": "deferred",
       "firstSeenAt": "2026-10-09T17:31:35.887Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-12T16:23:22.000Z",
       "lastSeenAt": "2026-10-10T16:20:04.785Z",
-      "reason": "needs-corroboration",
-      "note": "Telegram money-wallet story has a single queued source; corroboration search hit rate limits.",
+      "reason": "source-blocked",
+      "note": "Telegram Money Wallet lead blocked at source - needs Telegram announcement and readable outlet.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-11T10:27:59.509Z",
+      "reviewedAt": "2026-10-12T04:03:57.200Z",
       "retrySearches": [
-        "Telegram money wallet Gram transfers collectibles launch October 2026"
+        "Telegram Money Wallet Gram transfers collectibles announcement"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "b466ec3f61a6e8d0b33a": {
       "source": "Unchained",
@@ -54267,6 +54267,21 @@
           "reviewedAt": "2026-10-12T04:03:55.220Z",
           "retrySearches": [
             "ESMA CCP collateral tokenisation call for evidence second outlet"
+          ]
+        },
+        "dc53e2f33c5fbeaf3082": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Telegram Money Wallet lead blocked at source - needs Telegram announcement and readable outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:57.200Z",
+          "retrySearches": [
+            "Telegram Money Wallet Gram transfers collectibles announcement"
           ]
         }
       },
