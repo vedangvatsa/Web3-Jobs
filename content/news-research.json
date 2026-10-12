@@ -28373,23 +28373,23 @@
       "id": "f111c8e5eab12d41a30f",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T01:43:00.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "Filecoin vesting-end claim not fully read; single source, needs protocol schedule plus second outlet.",
+      "note": "Filecoin Oct 15 vesting end read in CryptoBriefing only - needs Filecoin primary update and second outlet.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-11T18:21:19.114Z",
+      "reviewedAt": "2026-10-12T04:03:15.348Z",
       "retrySearches": [
-        "Filecoin six-year vesting ends FIL issuance schedule October 2026"
+        "Filecoin vesting ends October 15 second outlet coverage"
       ],
-      "lastReviewedDay": "2026-10-11",
-      "nextReviewDate": "2026-10-12"
+      "lastReviewedDay": "2026-10-12",
+      "nextReviewDate": "2026-10-13"
     },
     "7def3fe3e74857302049": {
       "source": "Crypto Briefing",
@@ -54028,6 +54028,21 @@
           "reviewedAt": "2026-10-12T04:03:13.238Z",
           "retrySearches": [
             "Aave PT-USDG X Layer proposal LlamaRisk second outlet"
+          ]
+        },
+        "f111c8e5eab12d41a30f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Filecoin Oct 15 vesting end read in CryptoBriefing only - needs Filecoin primary update and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-12T04:03:15.348Z",
+          "retrySearches": [
+            "Filecoin vesting ends October 15 second outlet coverage"
           ]
         }
       },
