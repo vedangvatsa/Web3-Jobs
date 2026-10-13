@@ -32537,11 +32537,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3b1b1dda1f03dccb42a6",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:57:16.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "opinion",
+      "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:41:19.083Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "2098bbe999d09c2957ef": {
       "source": "Unchained",
@@ -59043,6 +59048,13 @@
           "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:41:17.285Z"
+        },
+        "3b1b1dda1f03dccb42a6": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:41:19.083Z"
         }
       },
       "baselineSlugs": [
