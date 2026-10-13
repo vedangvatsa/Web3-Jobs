@@ -34204,11 +34204,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9d424896408f3d18275a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T05:15:43.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:55.921Z",
+      "retrySearches": [
+        "Story DATA Sui migration 30M October 2026 announcement"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "d7d94226d264ebb339d1": {
       "source": "Cointelegraph",
@@ -61051,6 +61065,21 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:45:54.103Z",
+          "retrySearches": [
+            "Story DATA Sui migration 30M October 2026 announcement"
+          ]
+        },
+        "9d424896408f3d18275a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:55.921Z",
           "retrySearches": [
             "Story DATA Sui migration 30M October 2026 announcement"
           ]
