@@ -33954,11 +33954,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "96af30d1644a536cbe8f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T07:49:40.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single CoinDesk lead, not opened; implant confirmation needs pairing with Ledger statement and second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:37.048Z",
+      "retrySearches": [
+        "Ledger CryptoBilis unauthorized implant October 12 Ledger statement"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "d2b79c8e5909ea246ef9": {
       "source": "The Defiant",
@@ -60763,6 +60777,21 @@
           "reviewedAt": "2026-10-13T01:45:35.229Z",
           "retrySearches": [
             "Ledger CryptoBilis 93M traced 10M frozen October 12 second outlet"
+          ]
+        },
+        "96af30d1644a536cbe8f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single CoinDesk lead, not opened; implant confirmation needs pairing with Ledger statement and second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:37.048Z",
+          "retrySearches": [
+            "Ledger CryptoBilis unauthorized implant October 12 Ledger statement"
           ]
         }
       },
