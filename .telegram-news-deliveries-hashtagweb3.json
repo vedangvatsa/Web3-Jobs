@@ -1228,5 +1228,36 @@
     "slotKey": "2026-10-13:morning",
     "messageId": 155742,
     "sentAt": "2026-10-13T03:34:14.131Z"
+  },
+  "e7b4dd32-b140-4727-80ac-6bd48aa01dd6": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T11:34:50.732Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Kalshi Probes Bets Placed Before Trump Announcement",
+        "summary": "The platform is auditing small wagers that won thousands before Katie Zacharia was named White House press secretary.",
+        "link": "https://hashtagweb3.com/kalshi-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kalshi investigates wagers placed before Trump press secretary pick"
+      },
+      {
+        "index": -1,
+        "headline": "Solana reduces slot time to 200 milliseconds",
+        "summary": "The network update on October 9 doubles block production frequency by completing the four-step SIMD-0525 rollout.",
+        "link": "https://hashtagweb3.com/slot-times?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana activates final 200-millisecond slots at epoch 1053"
+      },
+      {
+        "index": -1,
+        "headline": "Sui Foundation invests $30 million in DATA Network migration",
+        "summary": "The AI training-data protocol will shut its chain and rebuild natively on Sui using Walrus storage.",
+        "link": "https://hashtagweb3.com/sui-data?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Sui Foundation invests $30M as DATA Network retires its chain for Sui"
+      }
+    ],
+    "slotKey": "2026-10-13:afternoon"
   }
 }
