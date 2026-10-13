@@ -33300,11 +33300,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "ee1dbcf85768de37a3a7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:21:38.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "source-blocked",
+      "note": "Defiant blocked; second MediaMarkt device claim needs buyer evidence and a readable second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:27.498Z",
+      "retrySearches": [
+        "Ledger MediaMarkt tampered device recall October 12 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "f72f59fdcaeb100eefca": {
       "source": "BeInCrypto",
@@ -60618,6 +60632,21 @@
           "reviewedAt": "2026-10-13T01:45:25.560Z",
           "retrySearches": [
             "Ledger CryptoBilis no loss total October 12 second outlet"
+          ]
+        },
+        "ee1dbcf85768de37a3a7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant blocked; second MediaMarkt device claim needs buyer evidence and a readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:27.498Z",
+          "retrySearches": [
+            "Ledger MediaMarkt tampered device recall October 12 second outlet"
           ]
         }
       },
