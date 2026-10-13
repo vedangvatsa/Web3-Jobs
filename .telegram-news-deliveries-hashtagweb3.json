@@ -1230,7 +1230,7 @@
     "sentAt": "2026-10-13T03:34:14.131Z"
   },
   "e7b4dd32-b140-4727-80ac-6bd48aa01dd6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T11:34:50.732Z",
     "stories": [
       {
@@ -1258,6 +1258,8 @@
         "originalTitle": "Sui Foundation invests $30M as DATA Network retires its chain for Sui"
       }
     ],
-    "slotKey": "2026-10-13:afternoon"
+    "slotKey": "2026-10-13:afternoon",
+    "messageId": 155747,
+    "sentAt": "2026-10-13T11:34:53.911Z"
   }
 }

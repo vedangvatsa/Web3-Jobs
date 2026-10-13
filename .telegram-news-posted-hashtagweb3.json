@@ -719,6 +719,9 @@
   "https://hashtagweb3.com/jeonbuk-loans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/rlusd-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strategy-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kalshi-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/slot-times?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sui-data?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2065,6 +2068,12 @@
   "Standard Chartered holds Ripple's RLUSD in Dubai, plans collateral link with LMAX",
   "Strategy repurchases $192 million in shares and buys bitcoin",
   "Strategy spends $192 million on preferred buyback, nine times its bitcoin buy",
+  "Kalshi Probes Bets Placed Before Trump Announcement",
+  "Kalshi investigates wagers placed before Trump press secretary pick",
+  "Solana reduces slot time to 200 milliseconds",
+  "Solana activates final 200-millisecond slots at epoch 1053",
+  "Sui Foundation invests $30 million in DATA Network migration",
+  "Sui Foundation invests $30M as DATA Network retires its chain for Sui",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2334,5 +2343,8 @@
   "fp:1000x|capp|claim|data|exchang|follow|high|hyperevm|leverag|limit",
   "fp:back|bank|collateral|collateraliz|corporat|custodian|denominat|held|issu|jeonbuk",
   "fp:add|allow|bank|charter|client|collateral|custody|dubai|link|lmax",
-  "fp:1924m|192m|215m|buy|buyback|last|nin|on250|preferr|repurchas"
+  "fp:1924m|192m|215m|buy|buyback|last|nin|on250|preferr|repurchas",
+  "fp:announcement|audit|bet|hous|investigat|kalshi|kati|nam|pick|plac",
+  "fp:activat|block|complet|doubl|epoch1053|final200|four|frequency|millisecond|network",
+  "fp:30m|chain|data|foundation|invest|migration|natively|network|protocol|rebuild"
 ]
