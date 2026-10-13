@@ -32766,11 +32766,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "a1e7ded26ecd630b3c43",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:18:03.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "out-of-scope",
+      "note": "Headline triage: non-crypto story (equities, AI industry, geopolitics, retail) outside the Web3 news brief; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:13.527Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "981ec45e63c568199648": {
       "source": "Decrypt",
@@ -59379,6 +59384,13 @@
           "note": "Headline triage: non-crypto story (equities, AI industry, geopolitics, retail) outside the Web3 news brief; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:11.683Z"
+        },
+        "a1e7ded26ecd630b3c43": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Headline triage: non-crypto story (equities, AI industry, geopolitics, retail) outside the Web3 news brief; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:13.527Z"
         }
       },
       "baselineSlugs": [
