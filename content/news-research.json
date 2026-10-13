@@ -32999,11 +32999,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "2098bbe999d09c2957ef",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:23:03.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single Unchained lead, not opened; Oct 12 follow-up after ledger-implant needs pairing with second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/ledger-says-all-confirmed-cases-trace-to-reseller-cryptobilis-gives-no-loss-total/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:25.560Z",
+      "retrySearches": [
+        "Ledger CryptoBilis no loss total October 12 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "04b3fd9c7145da46b45d": {
       "source": "BeInCrypto",
@@ -60589,6 +60603,21 @@
           "reviewedAt": "2026-10-13T01:45:23.473Z",
           "retrySearches": [
             "Ledger CryptoBilis implant investigation October 12 second outlet"
+          ]
+        },
+        "2098bbe999d09c2957ef": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single Unchained lead, not opened; Oct 12 follow-up after ledger-implant needs pairing with second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/ledger-says-all-confirmed-cases-trace-to-reseller-cryptobilis-gives-no-loss-total/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:25.560Z",
+          "retrySearches": [
+            "Ledger CryptoBilis no loss total October 12 second outlet"
           ]
         }
       },
