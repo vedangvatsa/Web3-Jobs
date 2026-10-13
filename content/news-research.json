@@ -32453,11 +32453,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f0a4fcea7127740f7d5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T18:38:14.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "opinion",
+      "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:41:22.822Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "b98eac3fcfae41c29733": {
       "source": "BeInCrypto",
@@ -59067,6 +59072,13 @@
           "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:41:20.960Z"
+        },
+        "4f0a4fcea7127740f7d5": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:41:22.822Z"
         }
       },
       "baselineSlugs": [
