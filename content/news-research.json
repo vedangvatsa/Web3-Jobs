@@ -27196,23 +27196,23 @@
       "id": "c7fb4c0a1e19643319ca",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T16:43:31.341Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T13:00:14.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "iPhone DarkSword spyware read in CryptoSlate only - needs iVerify report and a second outlet.",
+      "note": "Prior-round CryptoSlate read retained; iVerify report and second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:32.113Z",
+      "reviewedAt": "2026-10-13T01:44:04.295Z",
       "retrySearches": [
         "iVerify P7 DarkSword iPhone spyware second outlet"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "46d351197e9ec0b295ff": {
       "source": "Decrypt",
@@ -59706,6 +59706,21 @@
           "reviewedAt": "2026-10-13T01:44:02.381Z",
           "retrySearches": [
             "COLDCARD phishing X post statement second outlet"
+          ]
+        },
+        "c7fb4c0a1e19643319ca": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round CryptoSlate read retained; iVerify report and second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:04.295Z",
+          "retrySearches": [
+            "iVerify P7 DarkSword iPhone spyware second outlet"
           ]
         }
       },
