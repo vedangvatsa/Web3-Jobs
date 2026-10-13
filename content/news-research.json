@@ -30523,11 +30523,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9438a7b8a36c2e7d785a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:03:39.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single CoinJournal lead, not opened; needs KuCoin announcement and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://coinjournal.net/news/kucoin-unveils-5-0-upgrade-with-ai-tools-and-unified-trading-account/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:42.905Z",
+      "retrySearches": [
+        "KuCoin 5.0 upgrade unified account October 2026 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "32e3b340e6cca32e8d70": {
       "source": "The Defiant",
@@ -60038,6 +60052,21 @@
           "reviewedAt": "2026-10-13T01:44:41.121Z",
           "retrySearches": [
             "Derive US derivatives treasury proposal October 2026"
+          ]
+        },
+        "9438a7b8a36c2e7d785a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single CoinJournal lead, not opened; needs KuCoin announcement and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://coinjournal.net/news/kucoin-unveils-5-0-upgrade-with-ai-tools-and-unified-trading-account/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:42.905Z",
+          "retrySearches": [
+            "KuCoin 5.0 upgrade unified account October 2026 second outlet"
           ]
         }
       },
