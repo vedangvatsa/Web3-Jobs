@@ -30637,11 +30637,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "04dabb7be0884b4be6a5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T22:36:02.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single CryptoBriefing lead, not opened; needs Coinbase status page and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/coinbase-celestia-transfer-delays/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:44.716Z",
+      "retrySearches": [
+        "Coinbase Celestia transfer delays October 2026 status page"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "5572ee93bde904b02d8e": {
       "source": "Crypto Briefing",
@@ -60067,6 +60081,21 @@
           "reviewedAt": "2026-10-13T01:44:42.905Z",
           "retrySearches": [
             "KuCoin 5.0 upgrade unified account October 2026 second outlet"
+          ]
+        },
+        "04dabb7be0884b4be6a5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single CryptoBriefing lead, not opened; needs Coinbase status page and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coinbase-celestia-transfer-delays/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:44.716Z",
+          "retrySearches": [
+            "Coinbase Celestia transfer delays October 2026 status page"
           ]
         }
       },
