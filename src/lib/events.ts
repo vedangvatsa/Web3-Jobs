@@ -35,10 +35,10 @@ export interface Web3Event {
   descriptionSource?: {
     url: string;
     fetchedAt: string;
-    method: 'event-jsonld' | 'official-section' | 'official-meta' | 'matched-organizer-record' | 'reviewed-primary-sources';
+    method: 'event-jsonld' | 'official-section' | 'official-meta' | 'matched-organizer-record' | 'reviewed-primary-sources' | 'reviewed-stored-organizer-copy';
     pageTitle: string;
     sha256: string;
-    evidence?: Array<{ url: string; fetchedAt: string; sha256: string; retrievedVia?: string }>;
+    evidence?: Array<{ url: string; fetchedAt: string; sha256: string; retrievedVia?: string; representation?: 'html' | 'rendered-text' }>;
   };
   startDate: string;
   endDate?: string;
@@ -514,17 +514,15 @@ export function getRelativeBadge(startDate: string): string | null {
 }
 
 export function getEventBaseSlug(event: Pick<Web3Event, 'name'>): string {
-  const eventName = event.name.split(/[:|]/, 1)[0];
+  const eventName = event.name.normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
   const words = eventName
     .toLowerCase()
     .replace(/[’'"]/g, '')
     .replace(/\b(2025|2026|2027|2028|2029|2030)\b/g, '')
-    .replace(/\b(washington|dc|san francisco|sf|new york|nyc|london|tokyo|paris|berlin|singapore|dubai)\b/g, '')
     .split(/[^a-z0-9]+/)
     .filter((word) => word && !['a', 'an', 'and', 'at', 'by', 'for', 'from', 'in', 'of', 'on', 'the', 'to', 'with'].includes(word));
 
-  if (words.length >= 3) return words.map((word) => word[0]).join('');
-  return words.join('-') || 'web3-event';
+  return words.slice(0, 10).join('-') || 'web3-event';
 }
 
 export function getEventSlug(event: Pick<Web3Event, 'name' | 'slug'>): string {

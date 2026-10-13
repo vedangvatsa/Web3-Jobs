@@ -76,7 +76,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
   },
   {
     id: 'events-runtime',
-    inputs: ['content/events', 'content/event-tombstones.json', 'content/event-image-overrides.json', 'src/lib/events-listing-build.ts', 'src/lib/event-slug-assignment.ts', 'scripts/retain-events.mjs', 'scripts/lib/event-retention.mjs', 'scripts/lib/event-dates.mjs', 'scripts/precompute-events-runtime.ts'],
+    inputs: ['content/events', 'content/event-tombstones.json', 'content/event-image-overrides.json', 'src/lib/events.ts', 'src/lib/event-sources.ts', 'src/lib/event-catalog-review.ts', 'src/lib/event-description-source.ts', 'src/lib/events-listing-build.ts', 'src/lib/event-slug-assignment.ts', 'scripts/retain-events.mjs', 'scripts/lib/event-retention.mjs', 'scripts/lib/event-dates.mjs', 'scripts/precompute-events-runtime.ts'],
     outputs: ['content/events-runtime.json', 'content/event-slug-history.json'],
     command: 'npx tsx scripts/precompute-events-runtime.ts',
   },

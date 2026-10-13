@@ -62,6 +62,7 @@ export function retainEvents({ root = process.cwd(), now = Date.now(), dryRun = 
   const remove = file => { if (fs.existsSync(absolute(file))) changes.set(file, null); };
   const sources = fs.readdirSync(absolute('content/events/sources')).filter(file => file.endsWith('.json')).map(file => `content/events/sources/${file}`);
   const feeds = new Map(sources.map(file => [file, read(file, [])]));
+  const reviewedFacts = read('content/events/catalog-reviewed-facts.json', {});
   const history = read('content/event-slug-history.json', {});
   const previousTombstones = read('content/event-tombstones.json', {});
   const guideIdentities = read('content/events/editorial/guide-identities.json', {});
@@ -70,7 +71,7 @@ export function retainEvents({ root = process.cwd(), now = Date.now(), dryRun = 
   for (const events of feeds.values()) for (const event of events) {
     if (!event.id) throw new Error('Source event has no identity');
     if (!groups.has(event.id)) groups.set(event.id, []);
-    groups.get(event.id).push(event);
+    groups.get(event.id).push({ ...event, ...reviewedFacts[event.id] });
   }
   const retainedDates = read('content/events/retention-dates.json', []);
   for (const event of retainedDates) if (!groups.has(event.id)) groups.set(event.id, [event]);

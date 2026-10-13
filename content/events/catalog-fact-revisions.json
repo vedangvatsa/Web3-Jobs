@@ -1,0 +1,30 @@
+{
+  "premier-cosmoverse-2026": {
+    "contains": ["5–6 November", "Grand Hyatt"],
+    "patch": { "name": "Hong Kong Digital Asset Summit by Cosmoverse", "startDate": "2026-11-05", "endDate": "2026-11-06", "registrationUrl": "https://luma.com/cosmoversehongkong", "venueName": "Grand Hyatt Hong Kong", "city": "Hong Kong", "country": "Hong Kong", "location": "Grand Hyatt Hong Kong, Hong Kong", "price": "USD 288", "ticketOffers": [{ "url": "https://luma.com/cosmoversehongkong", "name": "Summit Pass", "price": 288, "priceCurrency": "USD" }] }
+  },
+  "premier-planx": {
+    "contains": ["25–26 November 2026", "Grand Hyatt Dubai"],
+    "patch": { "startDate": "2026-11-25", "endDate": "2026-11-26" }
+  },
+  "premier-africapredict": {
+    "contains": ["June 3 - 4, 2027", "Cape Town"],
+    "patch": { "name": "Africa Prediction Markets Summit 2027", "startDate": "2027-06-03", "endDate": "2027-06-04" }
+  },
+  "premier-gbshow": {
+    "contains": ["10 - 11 Dec 2026", "Abu Dhabi"],
+    "patch": { "startDate": "2026-12-10", "endDate": "2026-12-11" }
+  },
+  "premier-hackmeridian": {
+    "contains": ["October 25-26, 2026", "HackMeridian"],
+    "patch": { "startDate": "2026-10-25", "endDate": "2026-10-26" }
+  },
+  "premier-bitcoin-korea-2026": {
+    "contains": ["Nov 7", "COEX Samsung", "Nov 8", "Korea Federation of Banks"],
+    "patch": { "venueName": "COEX Samsung (November 7); Korea Federation of Banks (November 8)", "location": "Seoul, South Korea" }
+  },
+  "w3v-proof-of-talk-abu-dhabi": {
+    "contains": ["There is no ticket to buy", "every guest applies"],
+    "patch": { "approvalRequired": true, "registrationAvailability": "approval-required" }
+  }
+}

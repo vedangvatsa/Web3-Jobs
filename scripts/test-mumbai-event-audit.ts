@@ -5,6 +5,7 @@ import { buildEventSlugIndex } from '../src/lib/event-slug-index';
 import { assignStableEventSlugs, type EventSlugHistory } from '../src/lib/event-slug-assignment';
 import { getVerifiedEventDescription } from '../src/lib/event-description-source';
 import type { Web3Event } from '../src/lib/events';
+import migrations from '../content/events/slug-migrations.json';
 
 const runtime = JSON.parse(fs.readFileSync('content/events-runtime.json', 'utf8')) as Web3Event[];
 const report = JSON.parse(fs.readFileSync('content/events/mumbai-audit-report.json', 'utf8')) as {
@@ -26,7 +27,10 @@ for (const record of report.records) {
     assert.equal(e.timezone, record.timezone, record.url);
     assert.ok(getVerifiedEventDescription(e));
     for (const before of record.before || []) {
-      if (before.id === e.id && before.slug) assert.equal(e.slug, before.slug, `Canonical slug changed: ${e.id}`);
+      if (before.id === e.id && before.slug) {
+        assert.equal(e.slug, (migrations as Record<string, string>)[before.slug] || before.slug, `Unreviewed canonical slug change: ${e.id}`);
+        assert.equal(index.get(before.slug)?.id, e.id, `Published URL lost its owner: ${before.slug}`);
+      }
     }
     verified++;
   } else assert.equal(found.length, 0, `Excluded event leaked into catalog: ${record.url}`);

@@ -17,17 +17,20 @@ async function main() {
   const official = events.find((event) => event.descriptionSource && !event.sourceVerification);
   const unavailable = events.find((event) => !event.description);
   const token2049 = events.find((event) => event.slug === 'token2049');
-  const samples = [...new Set([eligible, long, gated, official, unavailable, token2049].filter((event): event is Web3Event => !!event))];
-  const browser = await chromium.launch({ executablePath: await puppeteer.executablePath(), headless: true });
+  const ethwali = events.find(event => event.slug === 'ethwali');
+  const samples = [...new Set([ethwali, eligible, long, gated, official, unavailable, token2049].filter((event): event is Web3Event => !!event))];
+  const browser = await chromium.launch({ executablePath: process.env.CHROMIUM_PATH || await puppeteer.executablePath(), headless: true });
+  fs.mkdirSync('.cache/event-verification', { recursive: true });
   try {
     for (const event of samples) {
       const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
       const errors: string[] = [];
       page.on('pageerror', (error) => errors.push(error.message));
       const slug = getEventSlug(event);
-      const response = await page.goto(`http://localhost:3100/${slug}`, { waitUntil: 'domcontentloaded', timeout: 180_000 });
+      const response = await page.goto(`${process.env.TEST_BASE_URL || 'http://localhost:3100'}/${slug}`, { waitUntil: 'domcontentloaded', timeout: 180_000 });
       assert.equal(response?.status(), 200, slug);
       await page.locator('[data-event-page] h1').waitFor();
+      assert.equal(await page.locator('body').evaluate(element => getComputedStyle(element).margin), '0px', `${slug}: production CSS did not load`);
       const guide = await resolveEventGuide(event);
       assert.equal(await page.locator('[data-event-description]').getAttribute('data-content-status'), guide.descriptionStatus);
       if (guide.descriptionStatus === 'unavailable') {
@@ -53,6 +56,10 @@ async function main() {
         for (const width of [1280, 390]) {
           await page.setViewportSize({ width, height: 900 });
           const overflow = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
+          if (overflow) {
+            console.log(await page.evaluate(() => [...document.querySelectorAll('body *')].filter(element => element.children.length < 3 && element.getBoundingClientRect().right > innerWidth + 1).slice(0, 20).map(element => ({ tag: element.tagName, class: element.className, text: element.textContent?.slice(0, 100), right: element.getBoundingClientRect().right }))));
+            await page.screenshot({ path: `.cache/event-verification/overflow-${slug}.png`, fullPage: true });
+          }
           assert.equal(overflow, false, `${slug}: horizontal overflow at ${width}px (${colorScheme})`);
         }
       }

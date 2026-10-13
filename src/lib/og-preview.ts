@@ -24,7 +24,6 @@ import { learnRoutes, resolveLearnRoute } from '@/lib/learn-routes';
 import { getCategory, getLesson } from '@/lib/learn';
 import { nomadPageInfo, nomadRoutes, nomadOgImage } from '@/lib/nomads/metadata';
 import { isRemovedJobPath } from '@/lib/removed-job-path';
-import { citizenshipPrograms, citizenshipPath } from '@/lib/citizenship';
 
 const SITE_NAME = 'Hashtag Web3';
 const REMEDIATED_COMPANY_SLUGS = new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)));
@@ -100,8 +99,6 @@ async function resolveJobMetadata(slug: string): Promise<OgPreviewMeta | null> {
 
 export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta> {
   const canonicalUrl = `${SITE_URL}${path}`;
-  const citizenship = citizenshipPrograms.find(program => citizenshipPath(program.slug) === path);
-  if (citizenship) return { title: `${citizenship.country}: citizenship by investment | ${SITE_NAME}`, description: citizenship.summary, ogImageUrl: STATIC_OG.tools, canonicalUrl };
   const nomad = nomadPageInfo(path);
   if (nomad) return { title: `${nomad.title} | ${SITE_NAME}`, description: nomad.description, ogImageUrl: nomadOgImage(nomad.path), canonicalUrl: `${SITE_URL}${nomad.path}` };
   const learningRoute = resolveLearnRoute(path.slice(1));
@@ -314,7 +311,6 @@ export async function collectOgPreviewPaths(): Promise<string[]> {
   const paths = new Set<string>([
     ...nomadRoutes().map(route => route.path),
     '/citizenship',
-    ...citizenshipPrograms.map(program => citizenshipPath(program.slug)),
     ...getRemediatedJobSlugs().map(slug => `/${slug}`),
     ...[...REMEDIATED_COMPANY_SLUGS].map(slug => `/${slug}`),
     ...learnRoutes.map(route => `/${route.slug}`),

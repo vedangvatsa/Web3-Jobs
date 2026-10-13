@@ -1,11 +1,15 @@
 {
   "w3v-crypto-worlds-fair-hackathon-by-colosseum": {
-    "slug": "cwsfhc",
-    "aliases": []
+    "slug": "crypto-worlds-fair-hackathon",
+    "aliases": [
+      "cwsfhc"
+    ]
   },
   "luma-crypto-SmEV1KL3URBkN1p": {
-    "slug": "tcacdihkoe",
-    "aliases": []
+    "slug": "tencent-cloud-ai-can-do-it-hackathon",
+    "aliases": [
+      "tcacdihkoe"
+    ]
   },
   "luma-batch-lRcBZd4DNFlnMDf": {
     "slug": "esbfl3ud",
@@ -2959,8 +2963,10 @@
     "aliases": []
   },
   "luma-batch-F8zatkGwjYGzv3V": {
-    "slug": "wpfunpri",
-    "aliases": []
+    "slug": "el-taller-colosseum-hackathon",
+    "aliases": [
+      "wpfunpri"
+    ]
   },
   "luma-batch-Xn8sMlufqyme16Q": {
     "slug": "onlinedemod",
@@ -3083,8 +3089,10 @@
     "aliases": []
   },
   "luma-host-evt-evt-T1nhxzU2JSJPAgq": {
-    "slug": "gll",
-    "aliases": []
+    "slug": "light-dao-global-living-lab",
+    "aliases": [
+      "gll"
+    ]
   },
   "token2049-evt-8bYL1LTHyZTjOaC": {
     "slug": "fwprd",
@@ -3123,32 +3131,46 @@
     "aliases": []
   },
   "luma-crypto-mZkvPeUErlCZWoG": {
-    "slug": "cbh",
-    "aliases": []
+    "slug": "company-brain-hackathon",
+    "aliases": [
+      "cbh"
+    ]
   },
   "luma-batch-evtceTF1z3WvKJ1i": {
-    "slug": "tn1iwfoh",
-    "aliases": []
+    "slug": "digital-assets-regulation-asset-allocation",
+    "aliases": [
+      "tn1iwfoh"
+    ]
   },
   "luma-batch-ON8samQWGur2o5c": {
-    "slug": "hfqu8u55",
-    "aliases": []
+    "slug": "antidote-office-open-day",
+    "aliases": [
+      "hfqu8u55"
+    ]
   },
   "luma-batch-evtTDa0weWTryfBl": {
-    "slug": "iyjal140",
-    "aliases": []
+    "slug": "adan-europe-digital-assets",
+    "aliases": [
+      "iyjal140"
+    ]
   },
   "luma-batch-xFFX1w014DYQNxw": {
-    "slug": "grdkh8vt",
-    "aliases": []
+    "slug": "meow-legion-founder-poker-night",
+    "aliases": [
+      "grdkh8vt"
+    ]
   },
   "luma-batch-evt7gjnLEpvcig2Z": {
-    "slug": "g1agc1dv",
-    "aliases": []
+    "slug": "solana-san-diego-state-university",
+    "aliases": [
+      "g1agc1dv"
+    ]
   },
   "luma-batch-evtycWrx5n01IFcf": {
-    "slug": "2nrn1c75",
-    "aliases": []
+    "slug": "bitcoin-brews-port-moody",
+    "aliases": [
+      "2nrn1c75"
+    ]
   },
   "luma-batch-8I5O4bjlw0OlFUu": {
     "slug": "thesignal2026",
@@ -3159,88 +3181,122 @@
     "aliases": []
   },
   "luma-crypto-VcpyfOM9tAtGEBi": {
-    "slug": "nctaa",
-    "aliases": []
+    "slug": "career-transitions-age-of-ai",
+    "aliases": [
+      "nctaa"
+    ]
   },
   "luma-crypto-DW1mNXiXnvQ42Bi": {
-    "slug": "jsspasvpbt",
-    "aliases": []
+    "slug": "japan-startup-showcase-palo-alto",
+    "aliases": [
+      "jsspasvpbt"
+    ]
   },
   "luma-batch-evt8RezKQUn6TrHC": {
-    "slug": "8kkegkh7",
-    "aliases": []
+    "slug": "build-with-stripe",
+    "aliases": [
+      "8kkegkh7"
+    ]
   },
   "premier-africabcfest": {
-    "slug": "africa",
-    "aliases": []
+    "slug": "africa-blockchain-festival",
+    "aliases": [
+      "africa"
+    ]
   },
   "luma-crypto-i7agflP95FW2Y66": {
-    "slug": "jfdhayf",
-    "aliases": []
+    "slug": "junto-founder-dinner",
+    "aliases": [
+      "jfdhayf"
+    ]
   },
   "luma-batch-3zOciZsW9mZvoY0": {
-    "slug": "lqrbtu27",
-    "aliases": []
+    "slug": "u-hackathon",
+    "aliases": [
+      "lqrbtu27"
+    ]
   },
   "premier-blockchain-africa-2026": {
     "slug": "blockchain-africa",
     "aliases": []
   },
   "luma-batch-W4GEoKovBqnA6lm": {
-    "slug": "xppe9krt",
-    "aliases": []
+    "slug": "exchange1-trading-thursday-mumbai",
+    "aliases": [
+      "xppe9krt"
+    ]
   },
   "luma-crypto-yB1Ga9TIhcXOMJA": {
-    "slug": "stablecoin2",
-    "aliases": []
+    "slug": "stablecoin-connect",
+    "aliases": [
+      "stablecoin2"
+    ]
   },
   "luma-batch-evtzs8RDf9CsVEHu": {
-    "slug": "p60o9q3i",
-    "aliases": []
+    "slug": "dc-privacy-summit",
+    "aliases": [
+      "p60o9q3i"
+    ]
   },
   "luma-batch-4EDsB2GqW0jHyhh": {
     "slug": "recon",
     "aliases": []
   },
   "luma-batch-evthR8OsCOm9iUOU": {
-    "slug": "gg8pnw2y",
-    "aliases": []
+    "slug": "strobe-ventures-winnie-lau-fireside",
+    "aliases": [
+      "gg8pnw2y"
+    ]
   },
   "luma-batch-evtv3O7YcVURVv8P": {
-    "slug": "qwpyrmvn",
-    "aliases": []
+    "slug": "solana-cal-state-long-beach",
+    "aliases": [
+      "qwpyrmvn"
+    ]
   },
   "luma-batch-evtf75dF4pPOcL4z": {
-    "slug": "tribaja-32pw",
-    "aliases": []
+    "slug": "wrth-mrkt-tribaja-macabre-mint",
+    "aliases": [
+      "tribaja-32pw"
+    ]
   },
   "luma-crypto-yogNb1gnuUEJWFz": {
-    "slug": "efdhay",
-    "aliases": []
+    "slug": "extraordinary-founders-dinner",
+    "aliases": [
+      "efdhay"
+    ]
   },
   "luma-crypto-rHjDzQ9Ow33bh2U": {
-    "slug": "rls",
-    "aliases": []
+    "slug": "rwa-leaders-summit-dubai",
+    "aliases": [
+      "rls"
+    ]
   },
   "luma-batch-0boKcuyLBEPRDoT": {
     "slug": "london-oct-16",
     "aliases": []
   },
   "luma-batch-evtS05EzhQE2Xcgn": {
-    "slug": "groundwork_dc",
-    "aliases": []
+    "slug": "groundwork-dc",
+    "aliases": [
+      "groundwork_dc"
+    ]
   },
   "luma-crypto-T8jvG7h5xieJmQL": {
-    "slug": "fmduh",
-    "aliases": []
+    "slug": "maritime-dual-use-hackathon",
+    "aliases": [
+      "fmduh"
+    ]
   },
   "premier-edcon-2026": {
     "slug": "edcon",
     "aliases": []
   },
   "luma-batch-8UXgG0KjJABRwx1": {
-    "slug": "v9us2rum",
-    "aliases": []
+    "slug": "orbscafe-26-stablecoins",
+    "aliases": [
+      "v9us2rum"
+    ]
   },
   "premier-ibt-bengaluru-2026": {
     "slug": "ibt-bengaluru",
@@ -3251,20 +3307,25 @@
     "aliases": []
   },
   "luma-batch-evtMhB5lf6PHMKPk": {
-    "slug": "f6xhhyld",
-    "aliases": []
+    "slug": "monad-blitz-medellin",
+    "aliases": [
+      "f6xhhyld"
+    ]
   },
   "luma-crypto-uY7AwaQhqCO2Ejy": {
     "slug": "executorch",
     "aliases": []
   },
   "luma-evt-XVgMezNYKSfYZHA": {
-    "slug": "mlp",
-    "aliases": []
+    "slug": "myweb3-launch-party",
+    "aliases": [
+      "mlp"
+    ]
   },
   "ma-money-20-20-usa": {
-    "slug": "m22u",
+    "slug": "money2020-usa",
     "aliases": [
+      "m22u",
       "ma-money-20-20-usa"
     ]
   },
@@ -3273,12 +3334,16 @@
     "aliases": []
   },
   "luma-batch-DDSCOZ2CsESUtZA": {
-    "slug": "superteam-0tbb",
-    "aliases": []
+    "slug": "whats-next-after-colosseum",
+    "aliases": [
+      "superteam-0tbb"
+    ]
   },
   "luma-batch-jR6a4UNcsq5XvJN": {
-    "slug": "6laijuyn",
-    "aliases": []
+    "slug": "islanddao-v5",
+    "aliases": [
+      "6laijuyn"
+    ]
   },
   "luma-batch-evtFpoA3O65CsEdJ": {
     "slug": "horizonfrankfurtsummit",
@@ -3289,84 +3354,117 @@
     "aliases": []
   },
   "luma-batch-evtXDBDR2PiIUiK3": {
-    "slug": "ortl78pl",
-    "aliases": []
+    "slug": "cardano-real-world",
+    "aliases": [
+      "ortl78pl"
+    ]
   },
   "luma-batch-evtaLEbGCs8Z0JVJ": {
-    "slug": "7w12th4d",
-    "aliases": []
+    "slug": "twif-checker-money2020-happy-hour",
+    "aliases": [
+      "7w12th4d"
+    ]
   },
   "luma-batch-evtwN4QHithlPvTZ": {
-    "slug": "yj9xk3yr",
-    "aliases": []
+    "slug": "cryptomondays-vegas",
+    "aliases": [
+      "yj9xk3yr"
+    ]
   },
   "luma-batch-evtthEKKGG0CkEEX": {
     "slug": "openfxm202026",
     "aliases": []
   },
   "luma-batch-evtxQkWRblNEmJ3b": {
-    "slug": "nj4h7cb6",
-    "aliases": []
+    "slug": "crypto-ignite-vegas",
+    "aliases": [
+      "nj4h7cb6"
+    ]
   },
   "luma-batch-evt9nYvpCnI7IZyX": {
-    "slug": "yqb3o4cs",
-    "aliases": []
+    "slug": "merkle-science-las-vegas",
+    "aliases": [
+      "yqb3o4cs"
+    ]
   },
   "luma-batch-evt8IJVONJcTwMP6": {
-    "slug": "fpqr7v6a",
-    "aliases": []
+    "slug": "cryptolina",
+    "aliases": [
+      "fpqr7v6a"
+    ]
   },
   "luma-batch-evtaVuHzMqExnGSR": {
-    "slug": "dt73awy1",
-    "aliases": []
+    "slug": "money2020-happy-hour",
+    "aliases": [
+      "dt73awy1"
+    ]
   },
   "luma-batch-evtGnX3Bt3QfsZya": {
-    "slug": "qg80sbib",
-    "aliases": []
+    "slug": "on-the-house-privy-bridge",
+    "aliases": [
+      "qg80sbib"
+    ]
   },
   "luma-batch-evtGMos7F0qQNyQF": {
-    "slug": "cc07mr08",
-    "aliases": []
+    "slug": "taas-digital-asset-infrastructure-seminar",
+    "aliases": [
+      "cc07mr08"
+    ]
   },
   "luma-batch-evtyRjNoO6i0QmUp": {
-    "slug": "8rc030km",
-    "aliases": []
+    "slug": "lme-after-hours-mixer",
+    "aliases": [
+      "8rc030km"
+    ]
   },
   "luma-batch-OZx1friXAoHVZKN": {
-    "slug": "fdvdqkq9",
-    "aliases": []
+    "slug": "rust-melbourne-meetup",
+    "aliases": [
+      "fdvdqkq9"
+    ]
   },
   "premier-blockfest-africa-2026": {
     "slug": "blockfest-africa",
     "aliases": []
   },
   "luma-batch-evtpzY4t9z1ap4VH": {
-    "slug": "the-gcwt",
-    "aliases": []
+    "slug": "unbundled-autumn",
+    "aliases": [
+      "the-gcwt"
+    ]
   },
   "luma-batch-hPFyfHyof2hYVIp": {
-    "slug": "kv670yys",
-    "aliases": []
+    "slug": "soiree-xd-20",
+    "aliases": [
+      "kv670yys"
+    ]
   },
   "luma-batch-evtdYbK287YZ3bbj": {
-    "slug": "fxu60rnk",
-    "aliases": []
+    "slug": "awic-rutgers-digital-asset-governance",
+    "aliases": [
+      "fxu60rnk"
+    ]
   },
   "luma-batch-evtmWdmu40qCxBTk": {
-    "slug": "hsodwfgy",
-    "aliases": []
+    "slug": "my-first-bitcoin-education-is-freedom",
+    "aliases": [
+      "hsodwfgy"
+    ]
   },
   "premier-planblugano": {
-    "slug": "plan",
-    "aliases": []
+    "slug": "plan-b-forum-lugano",
+    "aliases": [
+      "plan"
+    ]
   },
   "token2049-evt-2gHTqhbNIut9G5D": {
     "slug": "founder-house",
     "aliases": []
   },
   "premier-toksummituk": {
-    "slug": "uk3",
+    "slug": "uk-tokenisation-summit",
     "aliases": [
+      "uk3",
       "uk"
     ]
   },
@@ -3379,8 +3477,10 @@
     "aliases": []
   },
   "luma-batch-evtPICyDbNudDA4Z": {
-    "slug": "fan9g1ft",
-    "aliases": []
+    "slug": "bitcoin-indonesia-jakarta-meetup",
+    "aliases": [
+      "fan9g1ft"
+    ]
   },
   "ibw-official-mip-20-road-to-devcon-10-24": {
     "slug": "mip-20",
@@ -3392,36 +3492,50 @@
     ]
   },
   "india-luma-76s6hwzv": {
-    "slug": "rrl",
-    "aliases": []
+    "slug": "ready-for-the-run-lucknow",
+    "aliases": [
+      "rrl"
+    ]
   },
   "w3v-xrp-ledger-hackathon": {
-    "slug": "xlh",
-    "aliases": []
+    "slug": "ai-fintech-xrpl-hackathon",
+    "aliases": [
+      "xlh"
+    ]
   },
   "luma-crypto-KdgiJ5gO82TXRB9": {
-    "slug": "la3agghs",
-    "aliases": []
+    "slug": "ai-gtm-day",
+    "aliases": [
+      "la3agghs"
+    ]
   },
   "premier-hackmeridian": {
     "slug": "hackmeridian",
     "aliases": []
   },
   "luma-batch-evt8I0lRm1lzJXpE": {
-    "slug": "web3devs-tz30",
-    "aliases": []
+    "slug": "snc-evening-panel-rooftop-cocktails",
+    "aliases": [
+      "web3devs-tz30"
+    ]
   },
   "luma-crypto-pMblGmFDgWwshUx": {
-    "slug": "baach",
-    "aliases": []
+    "slug": "bay-area-ai-car-hackathon",
+    "aliases": [
+      "baach"
+    ]
   },
   "india-luma-bitshalaboss": {
-    "slug": "bbs",
-    "aliases": []
+    "slug": "bitshala-boss-summit",
+    "aliases": [
+      "bbs"
+    ]
   },
   "luma-batch-JrwT6SseTVJgIBs": {
-    "slug": "66thrqij",
-    "aliases": []
+    "slug": "el-encuentro",
+    "aliases": [
+      "66thrqij"
+    ]
   },
   "luma-batch-evti0AaTIcicsFFO": {
     "slug": "xrp-sidekick-ny",
@@ -3436,16 +3550,22 @@
     "aliases": []
   },
   "luma-crypto-Q9pqBMhbxoTeN4u": {
-    "slug": "sis",
-    "aliases": []
+    "slug": "solana-indoor-skydiving",
+    "aliases": [
+      "sis"
+    ]
   },
   "luma-batch-evtMJacaICJiBqTU": {
-    "slug": "oz4zmqjc",
-    "aliases": []
+    "slug": "bcnl-vbnl-pwc-carf-dac8-roundtable",
+    "aliases": [
+      "oz4zmqjc"
+    ]
   },
   "luma-batch-evtEMssqLAKyB5Cb": {
-    "slug": "4w2zk12q",
-    "aliases": []
+    "slug": "bit2me-merge-madrid",
+    "aliases": [
+      "4w2zk12q"
+    ]
   },
   "luma-batch-evt9GgBM7ScK61zT": {
     "slug": "tbc26",
@@ -3456,12 +3576,16 @@
     "aliases": []
   },
   "luma-batch-evt6EvkOXhufIAua": {
-    "slug": "xpe5txzj",
-    "aliases": []
+    "slug": "awic-merge-madrid-breakfast",
+    "aliases": [
+      "xpe5txzj"
+    ]
   },
   "luma-batch-evtrN879vRTa1NBn": {
-    "slug": "yjhzi8vg",
-    "aliases": []
+    "slug": "crypto-compliance-legal-drinks-hong-kong",
+    "aliases": [
+      "yjhzi8vg"
+    ]
   },
   "premier-labitconf-2026": {
     "slug": "labitconf",
@@ -3472,8 +3596,10 @@
     "aliases": []
   },
   "luma-crypto-5FMmAfCas90BSxo": {
-    "slug": "ccm1tyj",
-    "aliases": []
+    "slug": "codex-community-meetup-san-francisco-11",
+    "aliases": [
+      "ccm1tyj"
+    ]
   },
   "token2049-evt-6PaUG2QqaTu8EqJ": {
     "slug": "plug-play",
@@ -3484,28 +3610,38 @@
     "aliases": []
   },
   "luma-batch-evt4MMdjvkDdqk5f": {
-    "slug": "mydv5rsq",
-    "aliases": []
+    "slug": "ai-startup-rodeo-austin",
+    "aliases": [
+      "mydv5rsq"
+    ]
   },
   "luma-batch-evtH1TbnZCL0kjl2": {
-    "slug": "ofpx3m1g",
-    "aliases": []
+    "slug": "slc-xpr-community-activation",
+    "aliases": [
+      "ofpx3m1g"
+    ]
   },
   "luma-batch-evtxsQpQLAW6ikXL": {
-    "slug": "fd2jiski",
-    "aliases": []
+    "slug": "privacy-technology-bitcoin",
+    "aliases": [
+      "fd2jiski"
+    ]
   },
   "premier-ibt-mumbai-2026": {
     "slug": "ibt-mumbai",
     "aliases": []
   },
   "india-luma-co5dtixa": {
-    "slug": "rrp",
-    "aliases": []
+    "slug": "ready-for-the-run-pune",
+    "aliases": [
+      "rrp"
+    ]
   },
   "ibw-official-ibw2026-pre-conference-vip-night-10-31": {
-    "slug": "ipcvn",
-    "aliases": []
+    "slug": "ibw-pre-conference-vip-night",
+    "aliases": [
+      "ipcvn"
+    ]
   },
   "premier-indiabw-2026": {
     "slug": "ibw",
@@ -3514,29 +3650,37 @@
     ]
   },
   "ibw-official-ibw-institutional-forum-11-02": {
-    "slug": "iif",
+    "slug": "ibw-institutional-forum",
     "aliases": [
+      "iif",
       "w3v-ibw-institutional-forum-26-11-01"
     ]
   },
   "premier-cosmoverse-2026": {
     "slug": "cosmoverse",
-    "aliases": []
+    "aliases": [
+      "hong-kong-digital-asset-summit",
+      "hkdasc",
+      "luma-crypto-ktytj2edperflqd"
+    ]
   },
   "premier-ibt-pune-2026": {
     "slug": "ibt-pune",
     "aliases": []
   },
   "ibw-official-defi-security-summit-day-1-11-01": {
-    "slug": "dssd1",
+    "slug": "defi-security-summit",
     "aliases": [
+      "dssd1",
       "ibw-official-defi-security-summit-day-2-11-02",
       "dssd2"
     ]
   },
   "luma-crypto-8dntupEO60aiWT5": {
-    "slug": "shhlon",
-    "aliases": []
+    "slug": "solana-hacker-house-london",
+    "aliases": [
+      "shhlon"
+    ]
   },
   "premier-hk-fintech-week-2026": {
     "slug": "hong-kong-fintech-week-2026",
@@ -3547,12 +3691,15 @@
     "aliases": []
   },
   "luma-batch-kBSIe7BSMtDFldg": {
-    "slug": "cw0h549b",
-    "aliases": []
+    "slug": "onchain-legal-summit",
+    "aliases": [
+      "cw0h549b"
+    ]
   },
   "premier-cypherpunk": {
-    "slug": "ethereum2",
+    "slug": "ethereum-cypherpunk-congress",
     "aliases": [
+      "ethereum2",
       "ecc3",
       "ibw-official-ethereum-cypherpunk-congress-3-11-02",
       "india-luma-spsnos9t",
@@ -3567,8 +3714,9 @@
     "aliases": []
   },
   "ibw-official-solana-summit-india-11-02": {
-    "slug": "ssi",
+    "slug": "solana-summit-india",
     "aliases": [
+      "ssi",
       "india-luma-solana-summit-india",
       "w3v-solana-summit-india",
       "luma-host-evt-evt-hadjh0ytflq1cra"
@@ -3580,48 +3728,60 @@
     "canonicalId": "ibw-official-defi-security-summit-day-1-11-01"
   },
   "ibw-official-onchain-dev-city-india-11-02": {
-    "slug": "odci",
+    "slug": "onchain-dev-city",
     "aliases": [
+      "odci",
       "odcd8i",
       "india-luma-n0a39ago"
     ]
   },
   "ibw-official-ibw-official-after-party-11-02": {
-    "slug": "ioap",
-    "aliases": []
+    "slug": "ibw-official-after-party",
+    "aliases": [
+      "ioap"
+    ]
   },
   "ibw-official-the-institutional-table-private-dinner-on-tokenization-stablecoins-and-s-11-02": {
-    "slug": "institutional-table2",
-    "aliases": []
+    "slug": "institutional-table-mumbai",
+    "aliases": [
+      "institutional-table2"
+    ]
   },
   "premier-devcon-2026": {
     "slug": "devcon",
     "aliases": []
   },
   "luma-batch-HWyWCSbQQ3n6tLU": {
-    "slug": "rsm1xrxt",
-    "aliases": []
+    "slug": "sidequest-chai-at-dawn",
+    "aliases": [
+      "rsm1xrxt"
+    ]
   },
   "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03": {
-    "slug": "aefatis",
+    "slug": "ai-economic-forum-mumbai",
     "aliases": [
+      "aefatis",
       "aefamtisoaseibwd8",
       "india-luma-a0e6b8at"
     ]
   },
   "india-luma-08ogvz1i": {
-    "slug": "rrm",
-    "aliases": []
+    "slug": "ready-for-the-run-mumbai",
+    "aliases": [
+      "rrm"
+    ]
   },
   "ibw-official-media-accelerator-startup-cohort-11-03": {
-    "slug": "masc",
+    "slug": "media-accelerator-startup-cohort",
     "aliases": [
+      "masc",
       "india-luma-mh0xmqg0"
     ]
   },
   "ibw-official-eip-hub-3-7-nov-11-03": {
-    "slug": "eh37n",
+    "slug": "eip-hub-devcon",
     "aliases": [
+      "eh37n",
       "ehd8i",
       "india-luma-czi58jpe"
     ]
@@ -3631,8 +3791,10 @@
     "aliases": []
   },
   "luma-batch-G3fjJAlPZ0oK9GC": {
-    "slug": "7729jnr3",
-    "aliases": []
+    "slug": "yield-layer-social-impact",
+    "aliases": [
+      "7729jnr3"
+    ]
   },
   "luma-batch-evt2wOUBYvOivoW1": {
     "slug": "bfc-ams-26",
@@ -3647,16 +3809,23 @@
     "aliases": []
   },
   "ibw-official-ravecon-b-ender-11-04": {
-    "slug": "rbe",
-    "aliases": []
+    "slug": "afterhours-mixer-mumbai",
+    "aliases": [
+      "rbe"
+    ]
   },
   "premier-ethmumbai-2026": {
-    "slug": "ethglobal1",
-    "aliases": []
+    "slug": "ethglobal-mumbai",
+    "aliases": [
+      "ethglobal1"
+    ]
   },
   "luma-crypto-ktYtj2edpeRFLQd": {
-    "slug": "hkdasc",
-    "aliases": []
+    "slug": "hong-kong-digital-asset-summit",
+    "aliases": [
+      "hkdasc"
+    ],
+    "canonicalId": "premier-cosmoverse-2026"
   },
   "premier-unchained-summit-india-2026": {
     "slug": "unchained-summit",
@@ -3682,8 +3851,10 @@
     "aliases": []
   },
   "luma-batch-KupO2QEcLws6KMf": {
-    "slug": "8uhc300o",
-    "aliases": []
+    "slug": "community-call",
+    "aliases": [
+      "8uhc300o"
+    ]
   },
   "ibw-official-unchained-summit-day-2-11-06": {
     "slug": "usd2",
@@ -3691,8 +3862,10 @@
     "canonicalId": "premier-unchained-summit-india-2026"
   },
   "luma-batch-cFXe8eT3nFr409n": {
-    "slug": "np3wx7v5",
-    "aliases": []
+    "slug": "money-maker",
+    "aliases": [
+      "np3wx7v5"
+    ]
   },
   "luma-batch-Qzy0En8R3B1O2Rp": {
     "slug": "london-nov-06",
@@ -3715,8 +3888,10 @@
     "aliases": []
   },
   "premier-unbanked": {
-    "slug": "the",
-    "aliases": []
+    "slug": "unbanked-london",
+    "aliases": [
+      "the"
+    ]
   },
   "luma-batch-EB8O1EGWTmiaFIp": {
     "slug": "horizonlondonsummit",
@@ -3731,22 +3906,29 @@
     "aliases": []
   },
   "premier-bitcoinhistorico": {
-    "slug": "bitcoin2",
-    "aliases": []
+    "slug": "bitcoin-historico",
+    "aliases": [
+      "bitcoin2"
+    ]
   },
   "premier-bigwhale": {
-    "slug": "the1",
-    "aliases": []
+    "slug": "big-whale-geneva-summit",
+    "aliases": [
+      "the1"
+    ]
   },
   "premier-africastablecoin": {
-    "slug": "ass2",
+    "slug": "africa-stablecoin-summit",
     "aliases": [
+      "ass2",
       "ass"
     ]
   },
   "luma-batch-evtKhUrCbu57vTQe": {
-    "slug": "llqbx5ts",
-    "aliases": []
+    "slug": "bitcoin-hong-kong-meetup-november-2026",
+    "aliases": [
+      "llqbx5ts"
+    ]
   },
   "premier-singapore-blockchain-week-2026": {
     "slug": "singapore-blockchain-week",
@@ -3769,8 +3951,10 @@
     "aliases": []
   },
   "w3v-founder-x-vc-summit-demo-day-26-11-14": {
-    "slug": "fxvs3",
-    "aliases": []
+    "slug": "founder-vc-summit-demo-day",
+    "aliases": [
+      "fxvs3"
+    ]
   },
   "premier-ibt-jaipur-2026": {
     "slug": "ibt-jaipur",
@@ -3785,72 +3969,96 @@
     "aliases": []
   },
   "w3v-breakpoint-trading-battle-26-11-15": {
-    "slug": "btb",
-    "aliases": []
+    "slug": "breakpoint-trading-battle",
+    "aliases": [
+      "btb"
+    ]
   },
   "w3v-founder-x-vc-summit-vip-dinner-26-11-17": {
-    "slug": "fxvs4",
-    "aliases": []
+    "slug": "founder-vc-summit-vip-dinner",
+    "aliases": [
+      "fxvs4"
+    ]
   },
   "luma-batch-evt8JjOeNcaN4TA5": {
-    "slug": "xumr6pca",
-    "aliases": []
+    "slug": "quantova-web3-ho-chi-minh-city",
+    "aliases": [
+      "xumr6pca"
+    ]
   },
   "w3v-pr1me-london-series-exclusive-dinner-web3-26-11-16": {
-    "slug": "psedwf",
-    "aliases": []
+    "slug": "pr1me-london-web3-finance-dinner",
+    "aliases": [
+      "psedwf"
+    ]
   },
   "w3v-beyond-frame-immersive-art-activation-render-26-11-16": {
     "slug": "beyond-frame",
     "aliases": []
   },
   "luma-evt-pJHThGT11BBYohC": {
-    "slug": "cwsflmcctbyobfck",
-    "aliases": []
+    "slug": "cryptomondays-blockchain-futurist-kickoff",
+    "aliases": [
+      "cwsflmcctbyobfck"
+    ]
   },
   "premier-ethwomen": {
     "slug": "ethwomen",
     "aliases": []
   },
   "premier-nabsummit": {
-    "slug": "north",
-    "aliases": []
+    "slug": "north-american-blockchain-summit",
+    "aliases": [
+      "north"
+    ]
   },
   "luma-batch-evt5ynGGxaokhFV8": {
-    "slug": "hovkpcus",
-    "aliases": []
+    "slug": "blockchain-meets-ai",
+    "aliases": [
+      "hovkpcus"
+    ]
   },
   "luma-batch-yCu03jZbXJloNc6": {
-    "slug": "yp556lph",
-    "aliases": []
+    "slug": "rayls-london-meetup",
+    "aliases": [
+      "yp556lph"
+    ]
   },
   "luma-batch-evtAhlboiFVShnZR": {
-    "slug": "66118phy",
-    "aliases": []
+    "slug": "swissborg-zurich-meetup",
+    "aliases": [
+      "66118phy"
+    ]
   },
   "premier-cryptofest": {
     "slug": "cryptofest",
     "aliases": []
   },
   "luma-evt-mPCGxeHyKlTeEgN": {
-    "slug": "ubc",
-    "aliases": []
+    "slug": "university-blockchain-conference",
+    "aliases": [
+      "ubc"
+    ]
   },
   "premier-ibt-lucknow-2026": {
     "slug": "ibt-lucknow",
     "aliases": []
   },
   "india-luma-52vxy6fo": {
-    "slug": "rrb",
-    "aliases": []
+    "slug": "ready-for-the-run-bhopal",
+    "aliases": [
+      "rrb"
+    ]
   },
   "premier-ibt-chandigarh-2026": {
     "slug": "ibt-chandigarh",
     "aliases": []
   },
   "ma-blockcon-punta-cana-2026": {
-    "slug": "bpc",
-    "aliases": []
+    "slug": "blockcon-punta-cana",
+    "aliases": [
+      "bpc"
+    ]
   },
   "premier-planx": {
     "slug": "planx",
@@ -3861,14 +4069,18 @@
     "aliases": []
   },
   "premier-africapredict": {
-    "slug": "africa2",
-    "aliases": []
+    "slug": "africa-prediction-markets-summit",
+    "aliases": [
+      "africa2"
+    ]
   },
   "premier-gbshow": {
-    "slug": "global",
+    "slug": "global-blockchain-show-abu-dhabi",
     "aliases": [
+      "global",
       "gbsad",
-      "w3v-global-blockchain-show-2026-abu-dhabi"
+      "w3v-global-blockchain-show-2026-abu-dhabi",
+      "global-blockchain-show-abu-dhabi-2026"
     ]
   },
   "premier-auscryptocon-2026": {
@@ -3876,76 +4088,104 @@
     "aliases": []
   },
   "ma-blockchain-conference-brasil": {
-    "slug": "bcb",
-    "aliases": []
+    "slug": "blockchain-conference-brasil",
+    "aliases": [
+      "bcb"
+    ]
   },
   "premier-binancebw-2026": {
-    "slug": "bbw",
-    "aliases": []
+    "slug": "binance-blockchain-week",
+    "aliases": [
+      "bbw"
+    ]
   },
   "premier-blockchain-life-2026": {
     "slug": "blockchain-life",
     "aliases": []
   },
   "premier-africabitcoin": {
-    "slug": "africa3",
-    "aliases": []
+    "slug": "africa-bitcoin-conference",
+    "aliases": [
+      "africa3"
+    ]
   },
   "w3v-proof-of-talk-abu-dhabi": {
-    "slug": "ptad",
-    "aliases": []
+    "slug": "proof-of-talk-abu-dhabi",
+    "aliases": [
+      "ptad"
+    ]
   },
   "india-luma-icnjduyi": {
-    "slug": "rrh",
-    "aliases": []
+    "slug": "ready-for-the-run-hyderabad",
+    "aliases": [
+      "rrh"
+    ]
   },
   "ma-bitcoin-mena": {
     "slug": "bitcoin-mena",
     "aliases": []
   },
   "luma-batch-gu8tBdih1P3Z2rD": {
-    "slug": "sezdubaiapril2026",
-    "aliases": []
+    "slug": "sez-dubai-general-admission",
+    "aliases": [
+      "sezdubaiapril2026"
+    ]
   },
   "luma-batch-evtsJTiDuzqsClRt": {
-    "slug": "4dgy9usl",
-    "aliases": []
+    "slug": "bitcoin-hong-kong-meetup-december-2026",
+    "aliases": [
+      "4dgy9usl"
+    ]
   },
   "premier-gts-2026": {
-    "slug": "gts",
-    "aliases": []
+    "slug": "global-trading-show",
+    "aliases": [
+      "gts"
+    ]
   },
   "luma-batch-evtt671wDnUAzkDr": {
-    "slug": "lpe4mdxt",
-    "aliases": []
+    "slug": "web3-digest-coffee-chat",
+    "aliases": [
+      "lpe4mdxt"
+    ]
   },
   "luma-batch-evtCc88L6Ro1CT4H": {
-    "slug": "rjvg6uk4",
-    "aliases": []
+    "slug": "ready-for-the-run-bengaluru",
+    "aliases": [
+      "rjvg6uk4"
+    ]
   },
   "premier-consensus-hk-2027": {
     "slug": "consensus",
     "aliases": []
   },
   "luma-batch-evtpGqXB9czBhF8u": {
-    "slug": "4ppsu496",
-    "aliases": []
+    "slug": "wealth-tech-executive-forum-geneva",
+    "aliases": [
+      "4ppsu496"
+    ]
   },
   "premier-ethcc-2027": {
     "slug": "ethcc",
     "aliases": []
   },
   "premier-token2049-dubai-2027": {
-    "slug": "token20491",
-    "aliases": []
+    "slug": "token2049-dubai",
+    "aliases": [
+      "token20491"
+    ]
   },
   "luma-batch-evtNyDalsA4KYCEg": {
-    "slug": "43nowtci",
-    "aliases": []
+    "slug": "women-in-tech-global-summit",
+    "aliases": [
+      "43nowtci"
+    ]
   },
   "luma-batch-vcbQKpgSXxARqw7": {
-    "slug": "okgj41gs",
-    "aliases": []
+    "slug": "finnovation-day-money2020-asia",
+    "aliases": [
+      "okgj41gs"
+    ]
   },
   "premier-consensus-miami-2027": {
     "slug": "consensus-miami",
@@ -3956,8 +4196,10 @@
     "aliases": []
   },
   "luma-batch-evtSK22Vhvj9z3xv": {
-    "slug": "8q6nb4mw",
-    "aliases": []
+    "slug": "web-flea",
+    "aliases": [
+      "8q6nb4mw"
+    ]
   },
   "luma-host-evt-evt-r6tADv4L8KdncKD": {
     "slug": "ethconf",
@@ -3968,119 +4210,180 @@
     "aliases": []
   },
   "token2049-evt-rnmJyD2klnY67Ue": {
-    "slug": "fcsy",
-    "aliases": []
+    "slug": "ai-agents-space-yacht-fireside",
+    "aliases": [
+      "fcsy"
+    ]
   },
   "ibw-official-future-asset-forum-2026": {
-    "slug": "ifaf",
-    "aliases": []
+    "slug": "ibw-future-asset-forum",
+    "aliases": [
+      "ifaf"
+    ]
   },
   "india-luma-3doehm1b": {
-    "slug": "3doehm1b",
-    "aliases": []
+    "slug": "run-and-rave",
+    "aliases": [
+      "3doehm1b"
+    ]
   },
   "india-luma-83ujl6ms": {
-    "slug": "83ujl6ms",
-    "aliases": []
+    "slug": "zcash-world-mumbai",
+    "aliases": [
+      "83ujl6ms"
+    ]
   },
   "india-luma-li3sv90r": {
-    "slug": "li3sv90r",
-    "aliases": []
+    "slug": "shaktipith-women-residency",
+    "aliases": [
+      "li3sv90r"
+    ]
   },
   "india-luma-jb4zsel1": {
-    "slug": "jb4zsel1",
-    "aliases": []
+    "slug": "catalyst-founder-residency",
+    "aliases": [
+      "jb4zsel1"
+    ]
   },
   "india-luma-team1mumbai": {
-    "slug": "team1mumbai",
-    "aliases": []
+    "slug": "team1-mumbai-networking-gala",
+    "aliases": [
+      "team1mumbai"
+    ]
   },
   "india-luma-mc8pq06y": {
-    "slug": "mc8pq06y",
-    "aliases": []
+    "slug": "world-of-desci-devcon",
+    "aliases": [
+      "mc8pq06y"
+    ]
   },
   "india-luma-h0x443s9": {
-    "slug": "h0x443s9",
-    "aliases": []
+    "slug": "money-house",
+    "aliases": [
+      "h0x443s9"
+    ]
   },
   "india-luma-nyw6qigp": {
-    "slug": "nyw6qigp",
-    "aliases": []
+    "slug": "sidequest-kulfi-ice-cream-hour",
+    "aliases": [
+      "nyw6qigp"
+    ]
   },
   "india-luma-2kj0jqf9": {
-    "slug": "2kj0jqf9",
-    "aliases": []
+    "slug": "sidequest-happy-hour",
+    "aliases": [
+      "2kj0jqf9"
+    ]
   },
   "india-luma-uqmzpq5k": {
-    "slug": "uqmzpq5k",
-    "aliases": []
+    "slug": "fluid-mumbai-smart-liquidity",
+    "aliases": [
+      "uqmzpq5k"
+    ]
   },
   "india-luma-sgrf4yq5": {
-    "slug": "sgrf4yq5",
-    "aliases": []
+    "slug": "liquidity-pool-devcon",
+    "aliases": [
+      "sgrf4yq5"
+    ]
   },
   "india-luma-ib9j3xxe": {
-    "slug": "ib9j3xxe",
-    "aliases": []
+    "slug": "sidequest-explore-mumbai",
+    "aliases": [
+      "ib9j3xxe"
+    ]
   },
   "premier-ethindia-2026": {
     "slug": "ethindia",
     "aliases": []
   },
   "india-luma-qk93a446": {
-    "slug": "qk93a446",
-    "aliases": []
+    "slug": "monad-blitz-mumbai",
+    "aliases": [
+      "qk93a446"
+    ]
   },
   "india-luma-6gnkjcqx": {
-    "slug": "6gnkjcqx",
-    "aliases": []
+    "slug": "digital-asset-regulation-roundtable",
+    "aliases": [
+      "6gnkjcqx"
+    ]
   },
   "india-luma-hr8w0hmd": {
-    "slug": "hr8w0hmd",
-    "aliases": []
+    "slug": "diyas-near-devcon",
+    "aliases": [
+      "hr8w0hmd"
+    ]
   },
   "india-luma-ai6owvhz": {
-    "slug": "ai6owvhz",
-    "aliases": []
+    "slug": "eva-symposium-iii",
+    "aliases": [
+      "ai6owvhz"
+    ]
   },
   "india-luma-xuofsg0p": {
-    "slug": "xuofsg0p",
-    "aliases": []
+    "slug": "near-quantus-happy-hour",
+    "aliases": [
+      "xuofsg0p"
+    ]
   },
   "india-luma-qzzu690f": {
-    "slug": "qzzu690f",
-    "aliases": []
+    "slug": "alpend-collateral-call",
+    "aliases": [
+      "qzzu690f"
+    ]
   },
   "india-luma-islzi7v3": {
-    "slug": "islzi7v3",
-    "aliases": []
+    "slug": "money-layer-devcon",
+    "aliases": [
+      "islzi7v3"
+    ]
   },
   "india-luma-kz3klqjq": {
-    "slug": "kz3klqjq",
-    "aliases": []
+    "slug": "capital-connect",
+    "aliases": [
+      "kz3klqjq"
+    ]
   },
   "india-luma-ub56pe38": {
-    "slug": "ub56pe38",
-    "aliases": []
+    "slug": "frontier-of-intelligence-hackathon",
+    "aliases": [
+      "ub56pe38"
+    ]
   },
   "india-luma-5u1evsou": {
-    "slug": "5u1evsou",
-    "aliases": []
+    "slug": "builders-brunch-mumbai",
+    "aliases": [
+      "5u1evsou"
+    ]
   },
   "india-luma-tswdcctj": {
-    "slug": "tswdcctj",
-    "aliases": []
+    "slug": "unofficial-devcon-afterparty",
+    "aliases": [
+      "tswdcctj"
+    ]
   },
   "india-luma-v0fimew1": {
-    "slug": "v0fimew1",
-    "aliases": []
+    "slug": "crypto-afterhours-mumbai",
+    "aliases": [
+      "v0fimew1"
+    ]
   },
   "india-luma-0ej7kbb0": {
-    "slug": "0ej7kbb0",
-    "aliases": []
+    "slug": "ethwali",
+    "aliases": [
+      "0ej7kbb0"
+    ]
   },
   "token2049-evt-YO7GY1OwI4l0QR6": {
-    "slug": "gdr",
-    "aliases": []
+    "slug": "get-down-for-real",
+    "aliases": [
+      "gdr"
+    ]
+  },
+  "w3v-global-blockchain-show-2026-abu-dhabi": {
+    "slug": "global-blockchain-show-abu-dhabi-2026",
+    "aliases": [],
+    "canonicalId": "premier-gbshow"
   }
 }

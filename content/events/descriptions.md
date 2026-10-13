@@ -600,13 +600,9 @@ The Hyderabad event spans September 26-27, with two full days of programming.
 
 ### About the event
 
-India Blockchain & AI Tour 2026 is the fifth edition of Octaloop's multi-city event series for blockchain and AI developers, founders, investors and enterprise teams. The tour runs across ten Indian cities from September 26 to November 22.
+Octaloop's India Blockchain & AI Tour 2026 is the fifth edition of a national event series connecting developers, founders, investors and enterprise teams working on Web3 and AI. The tour lists ten cities, including the Metamorphosis flagship in Hyderabad and stops in Bengaluru, Chennai, Mumbai, Pune, Goa, Delhi, Jaipur, Lucknow and Chandigarh.
 
-Metamorphosis in Hyderabad is the tour's two-day flagship event on September 26-27. Its announced program includes investor roundtables and a Founder Demo Day.
-
-The remaining stops are Bengaluru on October 17, Chennai on October 18, Mumbai on October 31, Pune on November 1, Goa on November 7, Delhi on November 14, Jaipur on November 15, Lucknow on November 21 and Chandigarh on November 22. The organizer lists the city events from 10 AM to 5 PM.
-
-Each stop has its own event and registration page. Use the [official tour schedule](https://indiablockchaintour.com/2026-nodes) to select a city and book its tickets; Hyderabad registration is handled through the [Metamorphosis website](https://metamorphosisconf.com/).
+Each city has its own registration route. The main tour page describes the series as a whole rather than a confirmed session program for every stop. Select the relevant city and verify its date, venue and ticket conditions before attending.
 
 <a id="event-d4e964dca12aa7c1"></a>
 
@@ -2579,19 +2575,11 @@ For more information, visit:
 
 ### About the event
 
-TABConf 8 runs October 12-15, 2026 in Atlanta, GA - the final TABConf.
+TABConf 8 runs from October 12 to 15, 2026 at Georgia Tech Exhibition Hall in Atlanta. The organizer describes this as the final TABConf, a conference for Bitcoin protocol and application developers.
 
-### Format
+October 12 and 13 are Builder Days with hands-on work and workshops across two rooms. Monday doors open at 10:00 and sessions start at 11:00. Conference sessions follow on October 14 and 15; an early closing ceremony is scheduled for Wednesday at 16:00, and Thursday sessions finish at 17:00.
 
-October 12-13 are Builder Days with hands-on building and deep-dive workshops; October 14-15 bring conference sessions across villages, the main stage, and community-led programming.
-
-### Venue and tickets
-
-Venue: Georgia Tech Exhibition Hall, with nearby hotel options bookable directly. Pay with Bitcoin or fiat via Stripe. Speaker, sponsor, grant, and talk submissions run through the official site.
-
-### Mission
-
-TABConf's mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin - signal, not hype, from core devs to new contributors.
+Tickets can be purchased with Bitcoin or fiat through the organizer's payment links. The official site provides the schedule, venue information and nearby hotel options.
 
 <a id="event-2e295b1d8ee6ba60"></a>
 
@@ -2603,17 +2591,13 @@ TABConf's mission is to create a forum for protocol and application developers t
 - Description: Source-backed
 - Original page: <https://coinalts.xyz/>
 
-### Shaping the Future of Digital Assets
+### About the event
 
-On October 14, 2026, CoinAlts will host the latest in a series of events for the digital asset community addressing investment, legal, and operational issues pertaining to private fund managers. The 2026 edition joins the fund symposium at SF Fund Week 2026 in San Francisco.
+CoinAlts Fund Symposium takes place on October 14, 2026 at Hyatt Regency San Francisco, Five Embarcadero Center, as part of SF Fund Week. It addresses investment, legal and operational questions for private fund managers working with digital assets.
 
-### About
+Breakfast and registration start at 08:00, followed by the welcome at 09:00. The agenda includes regulatory compliance, event-contract investing, tax reporting, DeFi vaults, institutional infrastructure and fund operations. Fireside conversations feature Sean Bill and Arianna Simpson. Closing remarks are at 16:30, followed by a reception.
 
-Established in 2017, CoinAlts is an annual gathering and forum for the digital asset community - the leading gathering of crypto and financial services experts. 2026 premier sponsors Cole-Frieman and Mallon LLP, MG Stover LLC, Harneys, and KPMG run practices devoted to the space.
-
-### Program
-
-A fund symposium program built around investment, legal, and operational sessions for private fund managers, with exclusive insights and networking opportunities.
+The organizer provides an iConnections app for registrants. Its policy does not allow cancellation refunds; check current registration terms before purchasing.
 
 <a id="event-2d5d212da48b72b3"></a>
 
@@ -2625,65 +2609,11 @@ A fund symposium program built around investment, legal, and operational session
 - Description: Source-backed
 - Original page: <https://africablockchainfestival.com>
 
-### Africa's Largest Blockchain Festival & Tokenization Summit
+### About the event
 
-The continent's most significant convergence of policymakers, investors, builders, and global Web3 leaders.
+Africa Blockchain Festival and World Token Summit take place at Sarit Expo Centre in Nairobi, Kenya, from October 15 to 17, 2026. The program brings together policymakers, investors, builders and companies working on blockchain, AI and tokenization in Africa.
 
-● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya
-
-Africa Blockchain Festival™ (ABF) X WORLD TOKEN SUMMIT (WTS) is the continent's most high-conviction gathering dedicated to the intersection of blockchain technology, artificial intelligence, and Africa's sovereign digital future.
-
-### Dr. Emomotimi Agama
-
-Director General of the Securities and Exchange Commission (SEC) of Nigeria
-
-### Amb. Prof. Bitange Ndemo
-
-Immediate Former Ambassador to the Kingdom of Belgium and the EU
-
-### Daniel Mainda
-
-Chief Executive Officer, Nairobi International Financial Centre
-
-### Kosen Kenta
-
-ABF X WTS is structured around three complementary pillars that ensure the festival delivers across policy, innovation, and capital - simultaneously and at the highest level.
-
-### Policy & Governance
-
-A neutral, high-trust platform for the continent's most critical regulatory dialogues. ABF X WTS doesn't just discuss policy - we convene the people who write it.
-
-### Innovation & Ecosystem
-
-Africa's homegrown builders are no longer consumers - they are global innovators. ABF X WTS is the stage where that transformation is announced to the world.
-
-### Capital & Private Sector
-
-The definitive entry point to the African market. ABF X WTS brings institutional-grade deal flow together with the global capital networks that are ready to deploy on the continent.
-
-### Block & Chill Nairobi
-
-On 13 August we took over a Nairobi rooftop for Block & Chill - the global mixer on the road to Africa Blockchain Festival 2026 x World Token Summit 4.0. Three hours of drinks, music and unfiltered conversation with the founders, investors, developers, fintech operators and policymakers building Africa's onchain economy.
-
-No panels. No pitch decks. Just the ecosystem in one room, two months out from the main event.
-
-Invite-only mixerFounders, investors, builders, policymakers
-
-### The mixer was the warm-up
-
-15-17 October 2026 - Sarit Expo Centre, Nairobi - Three days, one continent's onchain economy.
-
-### LOOKING FOR YOUR NEXT BIG HEADLINE?
-
-Get on-the-ground access to Africa's Largest Blockchain Festival.
-
-### Reserve your spot
-
-Drop your details and we'll continue on WhatsApp to lock in your Nairobi package.
-
-### Complete your purchase
-
-Enter your details and we'll take you straight to secure checkout to reserve your booth package.
+The organizer groups the program around policy and governance, innovation and ecosystem development, and capital and the private sector. Announced speakers include Emomotimi Agama, Bitange Ndemo, Sitah Lang'o and Daniel Mainda. Check the official program for session times and ticket options.
 
 <a id="event-3c700fb07e554350"></a>
 
@@ -2697,61 +2627,9 @@ Enter your details and we'll take you straight to secure checkout to reserve you
 
 ### About the event
 
-- Previous Conferences Blockchain Africa Conference 2025 Strategic Bitcoin Reserve Summit 2025 Blockchain Africa Conference 2024 Crypto Fest 2024 Crypto Fest 2023 Blockchain Africa Conference 2023 Crypto Fest 2022 Blockchain Africa Conference 2022 Crypto Fest 2021 DeFi Conference 2021 Blockchain Africa Conference 2021 Crypto Fest 2020 DeFi Conference 2020 Blockchain Africa Conference 2020 Crypto Fest 2019 Blockchain Africa Conference 2019 Blockchain Africa Conference 2019 Blockchain Africa Conference 2018 Blockchain Africa Conference 2017 Blockchain and Bitcoin Africa Conference 2016 Bitcoin Africa Conference 2015
+Bitcoin Events hosts the twelfth Blockchain Africa Conference in Gauteng, South Africa. The conference examines blockchain applications and digital assets, bringing together industry participants for talks, workshops and networking.
 
-### ABOUT BLOCKCHAIN AFRICA CONFERENCE
-
-Join us for the 12th edition of the Blockchain Africa Conference, hosted by Bitcoin Events, and taking place in Gauteng, South Africa.
-
-Since its inception in 2015, this highly anticipated event has attracted over 10,900 attendees from 165 countries, establishing itself as a premier platform for showcasing the latest innovations and disruptions in blockchain and cryptocurrency.
-
-Prepare to be inspired by an exceptional lineup of world-class speakers, both international and local, as we gather global participants. Gain invaluable insights, engage in dynamic debates, and participate in thought-provoking panel discussions on how blockchain technology and cryptocurrencies are transforming global business practices, especially across the African continent.
-
-The conference will explore transformative concepts, market disruptors, industry trends, and emerging technologies shaping the future marketplace. With a special emphasis on Africa, we will examine global trends, opportunities, and challenges faced by market players leveraging blockchain technology and cryptocurrencies.
-
-Over the years, our conference themes have evolved from "Beyond the Hype", "From Hype to Mainstream" to "Ready for Business." Together, we will leave hype and speculation behind, emphasizing real-world use cases presented by global business leaders, organisations, and innovators.
-
-- Digital Currency Rails: Will stablecoins power Africa's e-commerce future?
-- Policy, Protection & Progress: Shaping Africa's digital asset framework
-- Tokenisation of Real-World Assets: Unlocking Africa's next trillion-dollar market
-- From Legacy Systems to Digital Rails: The convergence of TradFi & Web3
-- To provide contextual understanding of blockchain technology and the opportunities that it presents for Africa
-- To deliver well-structured content that will meet the needs of different stakeholders and different industries
-- To provide networking opportunities focused on creating business partnerships and collaborations that will create employment, drive economic growth and catapult development
-
-The Blockchain Africa Conference is an event that captivates and educates a global audience as Bitcoin Events continues to educate the African community, spread awareness and encourage networking within the space.
-
-Don't miss this pivotal event where knowledge meets opportunity and the future unfolds.
-
-### EXCLUSIVE NETWORKING
-
-Experience unparalleled networking opportunities with industry leaders, innovators, and enthusiasts, fostering connections and collaborations that drive the future of Web3 forward.
-
-### TOP GLOBAL SPEAKERS
-
-Be inspired by a lineup of top global speakers as they share invaluable insights and expertise on the latest trends and developments shaping the blockchain and digital asset landscape.
-
-### EDUCATIONAL WORKSHOPS
-
-Explore blockchain intricacies and digital assets through engaging interactive workshops, empowering attendees with vital skills and insights for navigating this evolving field.
-
-### MEDIA PARTNER
-
-Official Media Partner for The 2026 Blockchain Africa Conference
-
-### UPCOMING EVENTS
-
-Don't miss our other exciting cryptocurrency and blockchain events coming up!
-
-### NEWS
-
-Keep up to date on our other events, industry news, promotions, speaker and sponsor announcements.
-
-### OUR EVENT PHOTOS
-
-View our photos of our Blockchain Africa Conferences since 2015.
-
-Receive all the latest promotions, updates and speaker announcements.
+The organizer's website includes an archive of earlier conferences and speakers. Those historical lists do not confirm participation in the 2026 edition. Check the current program and registration page for this edition's sessions and attendance details.
 
 <a id="event-73a127e5fe65ae21"></a>
 
@@ -2795,53 +2673,11 @@ Geode Labs is an Ethereum ecosystem development organisation and product studio,
 - Original page: <https://indiablockchaintour.com/2026-nodes/bengaluru/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+Bengaluru is a stop on Octaloop's fifth India Blockchain & AI Tour. The tour connects local developers and founders with protocol teams, investors and enterprise participants working on Web3 and AI.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The organizer's city ticket link currently returns the tour-wide page, which does not provide a Bengaluru-specific session timetable. Check the city registration details for the final venue, hours and ticket conditions before travelling.
 
 <a id="event-ee48506916430ec6"></a>
 
@@ -2853,40 +2689,11 @@ Engage with regulators and industry titans to lead the institutional adoption of
 - Description: Source-backed
 - Original page: <https://us.money2020.com/>
 
-### Why Join Money20/20 USA?
+### About the event
 
-Money20/20 USA is where senior leaders from banks, payments, tech, retail, startups, and more gather to move fintech forward. Join to:
+Money20/20 USA brings together participants from banking, payments, technology, retail and fintech startups. The event combines industry talks and product discovery with meetings between companies, investors and potential partners.
 
-- Accelerate Deals: Leverage our global network to supercharge your deal flow. See who attends.
-- Build Partnerships: Experience high-impact opportunities to meet new partners and grow existing relationships.
-- Raise Your Profile: Embrace the visibility and show your solutions to a global senior audience.
-- Make Breakthroughs: Stay current (and ahead!) of shifts and trends that address your challenges from top industry speakers.
-
-### Download Our Attendee Brochure
-
-This just in! Everything you need to know about why Money20/20 USA is where you come to grow your business.
-
-### Get The Latest Insights From Top Industry Experts
-
-Get real, actionable insights and takeaways from cross-sector industry experts.
-
-### Meet Leading Banks, These Attendees Did
-
-"I met the head of Discover's Network", " I met the engineering director at EQ bank", "I met one of the large U.S. banks."
-
-### Meet Payment Pros, These Attendees Did
-
-Plus, how many meetings are attendees having? This is what they they had to say.
-
-### Get Your Pass Now
-
-Join 1 in 3 C-Suite leaders at fintech's #1 event in Las Vegas October 18-21, 2026. Get ready to accelerate deals and build game-changing partnerships.
-
-### Explore Sponsorship
-
-Amplify your brand presence and maximize ROI with curated sponsorship packages based on your business goals. Explore your options today.
-
-What could take a month or two over Zoom - to really connect with people - at Money20/20 you're able to do it in person, quickly, in a very efficient way. It's that awesome in person energy that drives our deal flow.
+The organizer provides an attendee brochure, speaker information and pass options through its official site. Use the current agenda and registration pages to choose sessions and arrange meetings; sponsorship and exhibition participation are handled separately.
 
 <a id="event-5ecdadb4607140a3"></a>
 
@@ -2900,53 +2707,11 @@ What could take a month or two over Zoom - to really connect with people - at Mo
 - Original page: <https://indiablockchaintour.com/2026-nodes/chennai/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+The Chennai stop of India Blockchain & AI Tour is part of Octaloop's fifth national tour. It brings the tour's focus on Web3 and AI to the local community of builders, founders and industry participants.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The linked organizer page currently shows tour-wide information rather than a Chennai session program. Confirm the city venue, hours and ticket conditions through the organizer before making travel plans.
 
 <a id="event-8b88820248c00987"></a>
 
@@ -2960,19 +2725,11 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 ### About the event
 
-New Trade Routes: Bringing Africa Onchain. Africa's biggest Web3 and AI festival: three days of building, networking and dealmaking in Lagos, October 22-24, 2026, with 5,000+ founders, engineers, investors and policymakers at the National Art Theatre, Lagos.
+Blockf3st Africa takes place at National Art Theatre in Lagos from October 22 to 24, 2026. Its New Trade Routes: Bringing Africa Onchain theme spans AI and blockchain, policy, investment, technical infrastructure, the creative economy and careers.
 
-### Program
+October 22 includes workshops and a closed-door founder and investor gathering. The main conference and exhibition are on October 23, followed by a closing mixer on October 24. The announced speaker lineup includes Kadri Obafemi Hamzat, Teddi Speaks, Eniola Osiyoku and Opeyemi Stephen.
 
-Six tracks across African tech, Web3 and AI. Thursday October 22 opens with morning workshops and a closed-door founder and investor room in the evening; Friday October 23 brings the main stage and exhibition floor. Passes span Thursday 22 to Saturday 24 October depending on tier, with priority entry, the speakers lounge, and the rooms where introductions happen.
-
-### Speakers
-
-Past stages have hosted voices including Samuel Olaoyenikan, Emomotimi Agama, Hon. Mobolaji Ogunlende Abubakre, Chimezie Chuta, Idris Olubisi, Sarah Idahosa, Ayodeji Israel Awosika, Jeremiah Mayowa, Mrs. Chisom Edwin and Onone Peace Ega.
-
-### Tickets
-
-Tickets are live, with passes from ₦10,000.
+Passes cover different combinations of conference, workshops and VIP activities. Tickets are non-refundable and transferable until October 16; consult the organizer's pass comparison before booking.
 
 <a id="event-bb9b15ba8e97af97"></a>
 
@@ -3073,21 +2830,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `premier-hackmeridian`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-25T09:00:00+01:00
+- Starts: 2026-10-25
 - Description: Source-backed
 - Original page: <https://meridian.stellar.org/>
 
-### Build something worth shipping
+### About the event
 
-Two days of building alongside developers, founders, designers, and technical teams in Lisbon. HackMeridian brings together builders from around the world to turn ambitious ideas into working products, with hands-on support from the Stellar ecosystem.
+HackMeridian is a two-day Stellar building event in Lisbon on October 25 and 26, 2026. Developers, founders, designers and technical teams work on products using the Stellar network.
 
-### Alongside Meridian 2026
-
-HackMeridian runs with Meridian 2026, October 28-29 at Convento do Beato, Lisbon, Portugal: two days of insights, connections, and opportunities shaping the future of global finance. Meridian focuses on how the Stellar network is used in the real world, balancing learning, collaboration, and product discovery with direct access to the people and organizations behind it.
-
-### Scale
-
-Over 1,000 attendees from 65 countries engaged in 60+ sessions with 115+ speakers at Meridian 2025, with world-class speakers across blockchain, finance, and policy - past speakers have included leaders from DTCC, Chainlink, PayPal, and Circle. Full access covers keynotes, fireside chats, technical sessions, workshops, and ecosystem showcases.
+The hackathon precedes the separate Meridian conference on October 28 and 29. Use HackMeridian's registration link on the official Meridian website; the conference dates and conference pass should not be mistaken for hackathon admission.
 
 <a id="event-1e52596b697dbe93"></a>
 
@@ -3101,15 +2852,11 @@ Over 1,000 attendees from 65 countries engaged in 60+ sessions with 115+ speaker
 
 ### About the event
 
-Ripple's annual conference where traditional finance meets the onchain economy. Swell 2026 runs October 27-29 in New York City at The Shed, 545 W 30th St - three days with 1,500+ leaders, 75+ speakers, and 50+ sessions.
+Ripple's Swell 2026 takes place at The Shed in New York City from October 27 to 29. This edition combines Swell and Apex, with programming for financial leaders, developers, researchers and the XRP community.
 
-### Program
+Announced topics include payments, stablecoins, tokenization, DeFi, capital markets, interoperability, privacy, security and regulation. The published lineup includes Matt Damon of Water.org and Tom Farley of Bullish.
 
-Swell brings together financial leaders, fintech founders, developers, and researchers to explore the intersection of traditional finance and the onchain economy. The full agenda is published on the official site, with tracks for finance leaders, developers, and academia and researchers, plus keynote speakers. More speaker announcements land soon.
-
-### Tickets
-
-Passes run from a Super Early Bird through Early Bird to Last Chance tiers.
+The venue is at 545 West 30th Street. Registration is through Ripple's official ticketing page; consult the agenda for current session times and pass conditions.
 
 <a id="event-0c359947e9021d48"></a>
 
@@ -3133,29 +2880,13 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://meridian.stellar.org/>
 
-### Two days of insights, connections, and opportunities shaping the future of global finance
+### About the event
 
-Assembling the visionaries of tomorrow. Industry leaders, innovators, developers, builders, and policymakers shaping Stellar.
+Meridian is a two-day gathering focused on real-world uses of the Stellar network and the development of global financial infrastructure. The program includes keynotes, panels and more detailed sessions for developers, founders, policymakers and industry participants.
 
-### Meet the speakers driving the dialogue
+The organizer lists Anthony Scaramucci, Jamie Walker, Nadine Chakar, Michael Shaulov and Ginger Baker among its speakers. Ticket options cover conference content, networking and social gatherings, with specific categories for policymakers and builders.
 
-Through keynote presentations, panel discussions, and in-depth sessions, they explore emerging trends, practical challenges, and new opportunities.
-
-### Ginger Baker
-
-Meridian focuses on how the Stellar network is used in the real world. The program balances learning, collaboration, and product discovery, giving attendees direct access to the people and organizations actively building the ecosystem.
-
-### HackMeridian is coming to Lisbon
-
-Two days of building alongside developers, founders, designers, and technical teams in Lisbon. HackMeridian brings together builders from around the world to turn ambitious ideas into working products on Stellar.
-
-### Get your tickets now
-
-Full access to Meridian 2026 content, networking, experiences, and social gatherings.
-
-For policymakers, regulators, and public sector leaders shaping the future of finance. Full access to Meridian 2026 content, networking, experiences, and social gatherings.
-
-For engineers, technologists, and students actively building the future of finance. Full access to Meridian 2026 content, networking, experiences, and social gatherings.
+HackMeridian is a separate two-day building event in Lisbon for developers, founders, designers and technical teams creating products on Stellar. Check its own registration details if you plan to participate.
 
 <a id="event-627764b56dcce59e"></a>
 
@@ -3169,19 +2900,11 @@ For engineers, technologists, and students actively building the future of finan
 
 ### About the event
 
-India's first festival for what comes next for money. Two days in Jaipur, October 30-31, 2026, at the Intercontinental Jaipur.
+Bitmela's first edition takes place at InterContinental Jaipur on October 30 and 31, 2026, using the main ballroom and outdoor mela grounds. The festival discusses Bitcoin, money, AI and entrepreneurship through daytime talks and gatherings, with a gala and mela in the evenings.
 
-### The idea
+Announced speakers include Prasanna Sankar, Vik Sharma, Nishith Desai, Harish BV and Kashif Raza. Entry Passes cover talks on both days and mela-ground access from the second afternoon, but not lunch. Mela Passes add lunch and merchandise; Gala Passes include the opening dinner with speakers and VIPs.
 
-Most people never understand money. Bit by bit, a new kind of mela: meet the people taking the stage as the rules of money are rewritten, with India holding the players. Jaipur, the Pink City, hosts Edition 01.
-
-### Program
-
-One night is a Gala, the other is a Mela - the opening night gala brings dinner and drinks with speakers and VIPs. Built with the people already in the game, for builders targeting the next billion.
-
-### Tickets
-
-Choose your entry. Tickets are non-refundable but fully transferable until 20 October.
+Tickets are non-refundable and transferable until October 20. Check the official pass comparison for current prices and accommodation options.
 
 <a id="event-1c5ab0a32434070b"></a>
 
@@ -3193,33 +2916,11 @@ Choose your entry. Tickets are non-refundable but fully transferable until 20 Oc
 - Description: Source-backed
 - Original page: <https://labitconf.com>
 
-### ¿Qué querés saber de LABITCONF?
+### About the event
 
-No todo el mundo llega con la misma intención. Elegí por dónde empezar.
+LABITCONF 2026 se celebra el viernes 30 y sábado 31 de octubre en Centro Costa Salguero, Buenos Aires. La edición reúne a la comunidad de Bitcoin, blockchain e inteligencia artificial durante dos días de charlas, experiencias y encuentros.
 
-Desde 2013, LABITCONF reúne en América Latina a quienes están construyendo el futuro de la tecnología y las finanzas. El viernes 30 y sábado 31 de octubre, Costa Salguero, Buenos Aires, será nuevamente el punto de encuentro de la comunidad.
-
-Esta edición pone a Bitcoin, Blockchain e Inteligencia Artificial en la misma conversación. Dos días de charlas, experiencias y encuentros con referentes de la industria y quienes están dando forma a lo que viene.
-
-HODL no es esperar: es tener la convicción de seguir construyendo. ¿Y vos, por qué hodleás?
-
-### Sponsor Deck
-
-Conocé las propuestas para sponsors y sé parte del evento más relevante de Bitcoin y Blockchain en LATAM.
-
-¿Querés ser parte de la cobertura oficial de LABITCONF? Postulate como Media Partner y accedé a beneficios exclusivos para medios aliados.
-
-### Acreditación de prensa
-
-¿Sos periodista, medio o agencia? ¿Querés contar lo que pasa en LABITCONF 26? Acreditate como prensa y sé parte de la cobertura.
-
-### Speakers
-
-Completá el formulario y postulá tu charla para la edición 2026. Aplicá ahora y compartí tu mirada sobre el futuro de Bitcoin y la descentralización en LATAM.
-
-Centro Costa Salguero es uno de los espacios más reconocidos para eventos en la Ciudad de Buenos Aires.
-
-Cada año recibe conferencias, ferias y exposiciones de gran escala, consolidándose como un punto clave en el mapa cultural y tecnológico de la ciudad. Será la sede oficial de LABITCONF 2026 los días 30 y 31 de octubre.
+La organización recibe propuestas de charlas y solicitudes de acreditación para prensa y medios. Consulta la página oficial para las entradas, la agenda y los participantes confirmados de esta edición.
 
 <a id="event-4a8811658c73c4b8"></a>
 
@@ -3261,7 +2962,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-India Blockchain Week Conference takes place at Fairmont Mumbai on November 1 and 2, 2026. Hashed Emergent organizes the conference, with talks and discussions about blockchain and the Indian Web3 ecosystem.
+Hashed Emergent hosts the fourth India Blockchain Week Conference at Fairmont Mumbai on November 1 and 2, 2026. The two-day conference brings together blockchain builders, founders, protocol teams and investors; it is distinct from the independently organized events running around the city during IBW week.
+
+Announced speakers include Eli Ben-Sasson of StarkWare, Keone Hon of Monad Foundation, SB Seker of Binance and Aishwary Gupta of Polygon Labs. The detailed session agenda is still being finalized.
+
+General passes include two-day conference access, tea, coffee and snacks, but not lunch. Priority passes add lunch and eligibility to apply for the Institutional Forum; forum admission is not automatic. Student and VIP options are also available. See the organizer's ticket page for current prices, taxes and pass conditions.
 
 <a id="event-5454f78c212801cd"></a>
 
@@ -3293,28 +2998,6 @@ DeFi Security Summit brings security researchers, auditors and protocol builders
 
 DeFi Security Summit brings security researchers, auditors and protocol builders to Courtyard by Marriott Mumbai International Airport on November 1 and 2. Sessions run from 10:00 to 18:00 IST each day. The separate November 3 program at Devcon is not included in this registration.
 
-<a id="event-5a90a4056685d05d"></a>
-
-## Cosmoverse 2026
-
-- Record: `premier-cosmoverse-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-01T09:00:00+08:00
-- Description: Source-backed
-- Original page: <https://cosmoverse.org>
-
-### About the event
-
-Premier summit connecting central banks, regulators, and financial institutions with blockchain infrastructure leaders. Policy dialogue, institutional adoption, and capital markets. Hong Kong, November 2026, at the Grand Hyatt Hong Kong.
-
-### Program
-
-Cosmoverse 2026 introduces a redesigned event experience engineered to maximize strategic engagement, high-value dealflow, policy dialogue and infrastructure-level understanding - covering infrastructure for secure settlement, interoperability across systems, and the deployment of sovereign and institutional-grade networks supporting modern financial markets. High-level discussions between central banks, regulators, banks, payment networks, and infrastructure providers run alongside investor networking and the Executive Lounge.
-
-### Who attends
-
-Trusted by 2,200+ industry-leading financial institutions - a summit built for decision-makers at the intersection of finance, regulation and sovereign infrastructure.
-
 <a id="event-576df5110197ca1c"></a>
 
 ## IBW Institutional Forum
@@ -3339,53 +3022,11 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://indiablockchaintour.com/2026-nodes/pune/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+Pune is included in Octaloop's India Blockchain & AI Tour 2026, which connects local developer and founder communities with blockchain protocols, investors and enterprise teams.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The city ticket link currently leads to the general tour page. A Pune-specific agenda and venue have not been verified from that page; use the organizer's current registration information before attending.
 
 <a id="event-f269d022687d8cf8"></a>
 
@@ -3399,15 +3040,11 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 ### About the event
 
-Hong Kong FinTech Week x StartmeupHK Festival 2026 runs 2-6 November 2026 at the Hong Kong Convention and Exhibition Centre and multiple venues across Hong Kong.
+Hong Kong FinTech Week and StartmeupHK run from November 2 to 6, 2026 at the Hong Kong Convention and Exhibition Centre and other venues around the city. The combined event brings together finance, technology and entrepreneurship communities.
 
-### Program
+The program is organized around AI+, Finance+ and Go Global, covering AI, fintech, Web3 and related technology sectors. The Global Fast Track program offers startup investor matchmaking and meetings with corporate partners.
 
-The week pairs the FinTech Week conference with the StartmeupHK Festival, covering AI, fintech, web3, insurtech, greentech, healthtech, startups, and ventures. Government speakers from Hong Kong join industry speakers on stage, with dedicated tracks and a Global Fast Track program for startups. Register interest early - save up to US$150 with the early bird offer.
-
-### Who attends
-
-Asia's flagship fintech and technology conference brings together banking executives, VCs, founders, regulators and tech-savvy professionals.
+Use the current agenda to check each session's venue and registration requirements. Conference tickets and startup-program participation have separate application or access conditions.
 
 <a id="event-bf253049734d9657"></a>
 
@@ -3421,7 +3058,9 @@ Asia's flagship fintech and technology conference brings together banking execut
 
 ### About the event
 
-Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program addresses digital rights, open-source software, decentralization, cryptography and practical privacy tools.
+Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai, bringing together people working on digital rights, free and open-source software, decentralization and cryptography. The program examines internet shutdowns, digital identity, encryption and practical privacy tools.
+
+The organizer's announced speakers include Justin Drake, Kurt Opsahl and contributors from the Tor, Filecoin Foundation, Flashbots and DarkFi communities. Its curatorial focus is on practical responses to censorship and other threats to digital rights. See the organizer's page for the current lineup and attendance details.
 
 <a id="event-ac077a5f8ce5ec56"></a>
 
@@ -3483,7 +3122,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-The Ethereum Foundation hosts Devcon 8 at Jio World Centre in Mumbai from November 3 to 6. The four-day program includes talks, workshops and community spaces covering Ethereum, cryptography, privacy, security and open-source systems.
+The Ethereum Foundation hosts Devcon 8 at Jio World Centre in Mumbai from November 3 to 6, 2026. The four-day conference brings together developers, researchers, open-source contributors, designers and community organizers working on Ethereum and decentralized systems.
+
+Program tracks cover the core protocol, privacy and consent, security, applied cryptography, permissionless networks, governance and the open and verifiable technology stack. Alongside talks and workshops, Devcon includes community hubs, coworking, art and hands-on experiences. Announced speakers include Vitalik Buterin, Audrey Tang, Justin Drake and Roger Dingledine.
+
+Standard ticket inclusions are four-day access, catering and event merchandise, with some exceptions by ticket type. Community and application-based discounts have eligibility requirements. General-admission tickets are transferable; discounted tickets are not. Check the official ticket page for current sale waves and conditions.
 
 <a id="event-df26f71b598fc8ab"></a>
 
@@ -3495,85 +3138,32 @@ The Ethereum Foundation hosts Devcon 8 at Jio World Centre in Mumbai from Novemb
 - Description: Source-backed
 - Original page: <https://blockchainsummit.la/colombia2026/>
 
-### El futuro del sistema financiero: una mirada regional
+### About the event
 
-BSL Colombia 2026 reunirá a autoridades, líderes del sistema financiero, representantes de la academia y actores del ecosistema tecnológico de América Latina para analizar los principales desafíos y oportunidades de la transformación financiera.
+Blockchain Summit Latam Colombia 2026 se celebra del 4 al 6 de noviembre en la Universidad Externado de Colombia, Bogotá. Reúne a autoridades, instituciones financieras, representantes de la academia y empresas tecnológicas de América Latina.
 
-Las conversaciones abordarán la innovación financiera, la modernización de los sistemas de pago, la evolución regulatoria, los activos digitales, tokenización y las nuevas formas de dinero e infraestructura financiera.
+El primer día aborda regulación, infraestructura financiera y evolución institucional. El segundo se centra en tokenización, stablecoins y nuevos sistemas financieros. El tercero trata la integración de mercados y la confianza institucional.
 
-Un espacio regional de diálogo y análisis para conectar experiencias, perspectivas y aprendizajes, promoviendo la colaboración entre el sector público y privado.
+La agenda anunciada incluye charlas, paneles y workshops sobre pagos inmediatos, custodia, cumplimiento, mercados de capitales y pagos transfronterizos. Consulta el programa oficial para los horarios y participantes de cada sesión.
 
-### Infraestructura financiera digital
+<a id="event-5a90a4056685d05d"></a>
 
-Análisis de la evolución del sistema financiero, los nuevos medios de pago, la tokenización y las infraestructuras digitales de la región.
+## Hong Kong Digital Asset Summit by Cosmoverse
 
-### Regulación e institucionalidad financiera
+- Record: `premier-cosmoverse-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-05
+- Description: Source-backed
+- Original page: <https://cosmoverse.org>
+- Original page: <https://luma.com/cosmoversehongkong>
 
-Perspectivas de autoridades, reguladores y bancos centrales sobre innovación, estabilidad y evolución normativa.
+### About the event
 
-### Diálogo estratégico regional
+Cosmoverse's Hong Kong Digital Asset Summit takes place at Grand Hyatt Hong Kong on November 5 and 6, 2026. It brings together financial institutions, policymakers and blockchain infrastructure teams to discuss digital assets in regulated markets.
 
-Articulación de alto nivel entre el sector público, la banca, los mercados de capitales y el ecosistema tecnológico financiero.
+The program covers tokenization, payments, custody, settlement and sovereign blockchain infrastructure through institutional roundtables, fireside interviews, debates and technical briefings. Closed-door roundtables follow the Chatham House Rule and prohibit phones and cameras.
 
-### Impacto económico y financiero
-
-Innovación aplicada a la competitividad, la productividad, la inclusión y el desarrollo económico regional.
-
-### Agenda
-
-- Día 1: Regulación, Infraestructura Financiera y Evolución Institucional 2026-11-04
-- Día 2: Tokenización, Stablecoins y Nueva Infraestructura Financiera 2026-11-05
-- Día 3: Integración de Mercados, Confianza Institucional y Sistema Financiero 2030 2026-11-06
-
-### Palabras de Apertura
-
-Keynote - "Interoperabilidad, pagos de alto valor y dinero digital: el nuevo mapa de infraestructura"
-
-Keynote - "De la supervisión tradicional a los activos digitales: prioridades regulatorias para Colombia"
-
-Keynote - "Un mercado, tres economías: cómo nuam está construyendo la nueva infraestructura regional de capitales"
-
-Keynote - "El Salvador después de la Ley de Activos Digitales: lecciones desde la regulación y el mercado"
-
-### Keynote - "Finanzas abiertas y tokenización: la próxima agenda regulatoria de Colombia"
-
-Keynote - "Brasil frente a los activos virtuales: marco regulatorio, supervisión y evolución del mercado"
-
-Panel - "El sistema financiero en transformación: infraestructura, innovación y nuevos modelos institucionales"
-
-### Keynote - "Cómo integrar stablecoins en banca: controles, gobernanza y operación"
-
-Panel - "De la regulación al mercado: qué falta para escalar los activos digitales en América Latina"
-
-### Keynote - "Autocustodia para mercados emergentes: inclusión financiera desde Fedi"
-
-Panel - "Pagos transfronterizos y finanzas tokenizadas: stablecoins y nueva infraestructura global"
-
-### Keynote - Cuando el avance en infraestructura financiera modifica el mercado de capitales*
-
-Panel - "Confianza en los activos digitales: regulación, ciberseguridad y gobernanza institucional"
-
-Keynote - "Activos digitales a escala institucional: custodia, seguridad y confianza para el sistema financiero"
-
-### Panel - "De la innovación a escala: nuevos modelos financieros en Colombia"
-
-Keynote - "De la infraestructura financiera a las finanzas programables: la próxima década del dinero y los mercados" *
-
-### Workshops
-
-Todos los Workshops se realizarán en la sala previamente acordada
-
-### Ubicación Estratégica
-
-La Universidad Externado de Colombia está ubicada en el corazón del centro histórico de Bogotá, en el tradicional sector de La Candelaria. Su campus ofrece un entorno académico e institucional privilegiado, cercano a importantes entidades públicas, culturales y empresariales de la capital.
-
-### Infraestructura de primer nivel
-
-Los edificios H e I de la Universidad Externado cuentan con espacios modernos y funcionales, salones equipados, soporte audiovisual y áreas especialmente dispuestas para conferencias, encuentros profesionales y networking.
-
-### Entorno institucional
-
-Un entorno académico y profesional alineado con el carácter de BSL Colombia, preparado para recibir a autoridades, reguladores, líderes del sistema financiero, académicos, empresas tecnológicas y referentes internacionales.
+The Summit Pass covers both summit days with coffee breaks and lunch. Executive options add a VIP dinner, VC soirée, investor networking and lounge access; a hotel package is also available. Business Day on November 4 is invitation-only and is not automatically included in a summit or hotel booking.
 
 <a id="event-5c1fe3fdffde2832"></a>
 
@@ -3613,57 +3203,11 @@ Unchained Summit India takes place at Courtyard by Marriott Mumbai International
 - Description: Source-backed
 - Original page: <https://www.bitcoin.amsterdam/>
 
-### European focused
+### About the event
 
-Bitcoin Amsterdam is the premier forum to explore Bitcoin's rapid growth, innovations, and transformative applications shaping its future.
+Bitcoin Amsterdam 2026 returns to SugarFactory for a gathering of Bitcoin builders, investors and other industry participants. The conference focuses on Bitcoin technology and adoption, alongside political and regulatory questions affecting Europe.
 
-### Driving bitcoin Forward
-
-This year, Bitcoin Amsterdam is returning to the Sugar Factory and joining the builders, capital allocators, and pioneers on one pivotal stage.
-
-### experience
-
-Bitcoin is at the center of politics and regulation - Bitcoin Amsterdam unites leaders to shape a fair, thriving future across Europe.
-
-### Jack Mallers
-
-Strike Jack Mallers is the Founder and CEO of Strike, the global Bitcoin app. Prior to Strike, Jack was one of the first application developers on top of Bitcoin's Lightning Network. Jack has spent the last decade of his life in the Bitcoin space, pioneering efforts in distributed systems infrastructure, architecture, and application development.
-
-### Edward Snowden
-
-Edward Snowden is a privacy advocate and former intelligence contractor whose 2013 disclosures revealed the scope of global government surveillance programs, sparking an international debate on privacy, security, and civil liberties. Since then, he has become a prominent voice on digital privacy, encryption, and the relationship between technology and individual freedom, contributing to discussions on the societal implications of surveillance in the digital age.
-
-### Pierre Rochard
-
-Pierre Rochard has researched and written about Bitcoin since 2013. He co-founded the Satoshi Nakamoto Institute in 2014 to curate the best primary source literature. In addition to developing open-source Bitcoin software, Pierre is an outspoken advocate for Bitcoin's decentralized governance. He co-hosts the Noded Bitcoin Podcast and the Bitcoin for Advisors Podcast. Pierre served as the Bitcoin and Lightning product manager at Kraken for three years before joining Riot as the VP of Research.
-
-### Obi Nwosu
-
-Obi Nwosu is cofounder and CEO of Fedi and a zealous advocate for Bitcoin mass adoption. He previously founded the Bitcoin exchange Coinfloor, and holds board positions at ₿trust and Gridless Compute
-
-### Adam Back
-
-Co-founder and CEO of Blockstream, Dr. Adam Back, invented Hashcash, the proof-of-work algorithm cited by Satoshi Nakamoto in the Bitcoin whitepaper, as the future basis for its mining function. Throughout his two-decade-long vocation as an applied cryptographer and security architect, he has held senior roles with a number of technology companies, including Microsoft, EMC, PI, VMware, and Zero-Knowledge Systems, as well as advised many more companies on cryptography and peer-to-peer finance. Dr. Adam Back holds a computer science Ph.D. in distributed systems from the University of Exeter.
-
-### Elizabeth Stark
-
-Elizabeth Stark is CEO and Founder of Lightning Labs, where she is building a programmable financial layer for the internet with fast, scalable bitcoin transactions.
-
-### Joana Cotar
-
-Independent Member of the German Parliament. Founder of the ""Bitcoin im Bundestag"" initiative. The initiative is committed to raising awareness and educating members of the German Bundestag about Bitcoin. It aims to ensure that political decision-makers are always up to date and can adequately consider the impact of Bitcoin on society.
-
-### Ben Arc
-
-Ben Arc is a developer, educator, and open-source contributor focused on improving Bitcoin's usability through Lightning Network tools and self-custody solutions. He is best known for creating and maintaining projects such as LNbits, which help individuals and businesses build on Bitcoin with accessible, open-source infrastructure. Ben is an active advocate for decentralized technologies, privacy, and expanding practical Bitcoin adoption around the world.
-
-### BITCOINS ULTIMATE VIP EXPERIENCE
-
-The legendary Bitcoin Conference Whale Pass is the ultimate all-access experience at Bitcoin Amsterdam 2026. Go backstage with our speakers. Enjoy premium services and network with the industry's best. Are you ready to go all-in?
-
-### PARTNER WITH BITCOIN AMSTERDAM
-
-Showcase your brand with one of the largest exposition of Bitcoin companies in the world. Featuring turn-key expo hall solutions, digital and physical branding, hosted networking experiences and more. Contact our sales team today.
+General ticket and VIP options are available through the organizer. The website also displays past sponsors and speaker biographies; check the current agenda before treating those lists as a confirmed session lineup.
 
 <a id="event-5f74a11441d9e42a"></a>
 
@@ -3701,15 +3245,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Bitcoin Korea Conference in Seoul, South Korea. Two days of Bitcoin education, workshops, a lightning market, and community building, running November 7-8, 2026 at COEX.
+Bitcoin Korea Conference takes place in Seoul on November 7 and 8, 2026, at two venues: COEX Samsung on the first day and the Korea Federation of Banks in Myeongdong on the second.
 
-### Program
+The program includes Bitcoin talks, workshops and a Lightning Market where attendees can make Bitcoin payments. Onsite staff can help new users install a wallet. Announced topics include Bitcoin development and Korea's crypto-asset tax framework.
 
-Sessions cover practical ground including crypto asset taxes in 2026 and tax-saving strategies for stacking sats, alongside workshops and community programming. An intimate VIP dinner gathers ticket holders, speakers, and partners on the eve of the conference, and Day 1 winds down at the official after party, open to all networking-party ticket holders.
-
-### Venue
-
-The main stage sits at COEX, 513 Yeongdong-daero, Gangnam-gu, Seoul - billed as Korea's largest BTC conference main stage.
+General, Premium and VIP tickets cover both days. A separate Main Day ticket is available for November 7 only. Ticket QR codes are sent by email; check pass-specific party and dinner access before attending.
 
 <a id="event-82f19ec43036aab3"></a>
 
@@ -3723,53 +3263,11 @@ The main stage sits at COEX, 513 Yeongdong-daero, Gangnam-gu, Seoul - billed as 
 - Original page: <https://indiablockchaintour.com/2026-nodes/goa/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+India Blockchain & AI Tour includes a Goa stop in its fifth edition. Octaloop's tour focuses on connecting local builders and founders with Web3 and AI companies, investors and ecosystem teams.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The linked organizer page currently displays the national tour rather than a Goa-specific timetable. Confirm the Goa venue, session program and admission conditions with the organizer.
 
 <a id="event-29b8aa3a9877ec5b"></a>
 
@@ -3824,17 +3322,11 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://bitcoinhistorico.com>
 
-### A Conference by the National Bitcoin Office of El Salvador
+### About the event
 
-Bitcoin Histórico celebrates financial freedom in the heart of San Salvador, itself the living example of the liberation of the people of El Salvador. Participate in two days of immersive activities across the landmarks of our capital.
+The National Bitcoin Office of El Salvador and CUBO+ organize Bitcoin Histórico in San Salvador. The two-day event includes activities across the city, with keynote speeches at the National Palace streamed to screens in Plaza Gerardo Barrios.
 
-### National Palace
-
-Keynote speeches live-streamed to giant LED screens on Plaza Gerardo Barrios
-
-### Bitcoin Office & CUBO+
-
-Bitcoin Histórico is put together by the National Bitcoin Office and CUBO+, the team behind Bitcoin education in El Salvador. They built the conference, and they are the ones who will meet you at the door.
+The organizer's 2026 speaker list includes Max Keiser, Stacy Herbert, Jimmy Song, Giacomo Zucco, Saifedean Ammous and Pierre Rochard. Tickets and the current program are available through the official site.
 
 <a id="event-66fb176a2bb6d0c2"></a>
 
@@ -3875,43 +3367,13 @@ Hotel President Wilson, 47 Quai Wilson, 1211 Geneva, Switzerland. The summit run
 - Description: Source-backed
 - Original page: <https://africastablecoinsummit.io>
 
-### SEE YOU AT AFRICA STABLECOIN SUMMIT 2026
+### About the event
 
-A high-level, summit targeting C-suite executives, regulators, central bankers, stablecoin issuers, and leaders in finance and cross-border trade.
+Africa Stablecoin Summit takes place on November 12 and 13, 2026, with a focus on institutional adoption and financial infrastructure. Its intended audience includes regulators, central bankers, banks, stablecoin issuers, corporate treasury teams and cross-border trade specialists.
 
-### Advance Institutional Adoption
+Discussion topics include licensing, supervision, AML/CFT, accounting and cross-border compliance. The program also considers stablecoin use in trade, remittances, foreign exchange and liquidity management, alongside custody, payments and compliance technology.
 
-Facilitate structured engagement between regulators, banks, fintechs, and stablecoin issuers.
-
-### Support Policy Convergence
-
-Encourage dialogue on licensing, supervision, AML/CFT, accounting standards, and cross-border compliance.
-
-### Showcase Proven Use Cases
-
-Highlight enterprise and treasury implementations across trade, remittances, FX, and liquidity management.
-
-### Strengthen Infrastructure
-
-Enable partnerships across custody, payments, liquidity provision, and compliance technology.
-
-### Generate Commercial Outcomes
-
-Create direct pathways for B2B partnerships, regulatory engagement, and ecosystem expansion.
-
-### Who Attends
-
-The 2026 Summit follows a curated format, prioritising decision-makers and institutional depth.
-
-Central Bank Governors, Deputy Governors, and senior officials from Ministries of Finance, Securities Commissions, and Financial Intelligence Units responsible for licensing, supervision, and national payment systems.
-
-C-suite executives from Commercial Banks, Correspondent Banking Networks, Payment Switch Operators, Clearing Houses, and FX Platforms evaluating custody, reserves, and settlement integration.
-
-Corporate Treasurers, CFOs, and Trade Finance Heads managing cross-border settlement, liquidity, and treasury operations.
-
-Executives from Stablecoin Issuers, Custody Providers, Blockchain Infrastructure Firms, On/Off-Ramp Platforms, and RegTech companies building scalable settlement rails.
-
-Senior representatives from DFIs and regional economic bodies influencing capital flows and financial modernization initiatives.
+The organizer describes a curated format prioritizing institutional decision-makers. Check the official registration page for participation and ticket details.
 
 <a id="event-47d1cfc8b0a73aa5"></a>
 
@@ -3923,103 +3385,13 @@ Senior representatives from DFIs and regional economic bodies influencing capita
 - Description: Source-backed
 - Original page: <https://singaporeblockchainweek.org/>
 
-### What to expect
+### About the event
 
-A curated week of institutional programming designed to bridge traditional finance, regulatory frameworks, and Web3 infrastructure.
+Singapore Blockchain Week's cross-border program runs from November 13 to 17, 2026, across Singapore and Johor. It focuses on institutional digital assets, tokenization, regulatory frameworks and financial infrastructure.
 
-### Institutional RWA
+The announced sequence begins with Johor-Singapore Web3 Economic Day, followed by a demonstration and builder day, an AI summit, a distributed-ledger-technology summit and Digital Asset and Wealth Nexus. The audience includes regulators, asset managers, family offices, licensed exchanges, stablecoin operators and infrastructure companies.
 
-Explore enterprise-grade Real-World Asset (RWA) tokenization, CBDCs, and the next generation of capital market infrastructure.
-
-### Global Compliance
-
-Engage directly with global policymakers to navigate stablecoin frameworks, digital asset security, and cross-jurisdictional standards.
-
-### Strategic Gateway
-
-Capitalize on the Singapore-Johor economic zone to unlock institutional investment and infrastructure synergies across the pan-regional ecosystem.
-
-### Agenda
-
-A curated line-up of distinguished past speakers and global industry voices
-
-### Day 5: Digital Asset And Wealth Nexus
-
-The Private Capital Assembly : Family Offices & HighNetWorth Individual
-
-### Institutional & Policy Leaders
-
-Connect with regulators, allocators, licensed operators and infrastructure builders with active digital-asset mandates.
-
-### Government & Policy
-
-Senior officials across economic, financial, and digital policy portfolios.
-
-### Private Capital
-
-Asset managers, family offices, and private capital allocators with digital asset mandates.
-
-### Licensed Exchanges
-
-Regulated digital asset exchange operators across Southeast Asian jurisdictions.
-
-### Real World Assets
-
-Tokenisation platforms, asset originators, and digital infrastructure operators.
-
-### Stablecoin Operators
-
-Institutions active in stablecoin frameworks and tokenised finance infrastructure.
-
-### Islamic Finance
-
-Shariah-compliant digital asset operators and Islamic fintech participants.
-
-### Patrick Tay
-
-Member of Parliament of Singapore and Assistant Secretary-General
-
-### Chua Chek Ping
-
-Executive Director and Head of Strategic Alliances and Fintech
-
-### Get involved
-
-Explore five ways to participate and join SBW 2026. Choose the one that matches your objectives.
-
-### Become an Ambassador
-
-Compare passes and secure your place at Singapore Blockchain Week 2026 across two countries, 13-17 November.
-
-### Buy SBW passes through your AI assistant
-
-Add this MCP server to Claude, ChatGPT, Gemini, Grok or Perplexity, then ask it to buy your Singapore Blockchain Week pass. It pays in USDC and returns your confirmation.
-
-New to this? Step-by-step setup at getvia.xyz/connect. Prefer to buy yourself? Open the store.
-
-### Press Release
-
-Explore the latest announcements and official updates from Singapore Blockchain Week, including programme highlights, partnership news, and key event developments.
-
-Agentic Decentralized Finance Forum to Advance Singapore's Next Digital Economy
-
-### FAQ
-
-Still have questions about Singapore Blockchain Week? Reach out to our team, and we will be happy to assist you.
-
-It is the world's first cross-border blockchain week, uniting the ecosystems of the Republic of Singapore and the Johor-Singapore Special Economic Zone. Supported by both Singaporean and Malaysian governments, it is the premier platform to redefine the future of finance, bringing together over 5,000 participants, 120+ speakers, and 80+ global investors from over 70 countries.
-
-The summit operates on a cross-border model. Accredited events and activations will take place across both the Republic of Singapore and Southern Malaysia (Johor). These two strategic ecosystems are in close proximity, located just a 45-minute drive apart, offering a seamless bridge between a global financial center and a high-growth special economic zone.
-
-Our agenda is strictly tailored for institutional and enterprise adoption. Core themes include Real World Asset (RWA) Tokenization, Decentralized Finance (DeFi), Stablecoins & CBDCs, Shariah Compliance in digital assets, Enterprise Blockchain integration, and the convergence of AI and ESG within Web3.
-
-The summit is designed for traditional finance executives, Web3 innovators, asset managers, policymakers, and enterprise leaders. Whether you are navigating regulatory frameworks, exploring high-level business matching, or looking to scale digital asset infrastructure, the event provides world-class content and networking for the global institutional community.
-
-We offer tailored partnership opportunities for enterprises and institutions seeking to align with the region's digital economy. Whether your goal is high-level brand positioning, participating in our strategic network, or engaging in private business matching, we work with you to structure a meaningful presence. Please contact our corporate relations team to explore collaboration.
-
-Absolutely. Facilitating high-level networking and business matching is a core pillar of the summit. With over 10 accredited events throughout the week, attendees will have direct access to top-tier regulators, media partners, and institutional capital to forge meaningful, cross-border partnerships.
-
-Speaker applications are currently open for industry leaders, policymakers, and subject matter experts. You can submit your proposed topics and executive biographies through the contact portal on our website for review by our programming committee.
+The official site includes past speakers and other industry figures. Check the current agenda for confirmed participants and the location of each day's program.
 
 <a id="event-8fe9ccd4dc1d03e5"></a>
 
@@ -4033,53 +3405,11 @@ Speaker applications are currently open for industry leaders, policymakers, and 
 - Original page: <https://indiablockchaintour.com/2026-nodes/delhi/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+Octaloop lists Delhi as a stop on India Blockchain & AI Tour 2026. The national series connects blockchain and AI builders, founders, protocol teams and investors across Indian cities.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The Delhi ticket link currently returns general tour information. The page does not establish a city-specific speaker lineup or session timetable; check the organizer's registration details for venue and admission updates.
 
 <a id="event-4cc24c090b901afc"></a>
 
@@ -4091,25 +3421,11 @@ Engage with regulators and industry titans to lead the institutional adoption of
 - Description: Source-backed
 - Original page: <https://solana.com/breakpoint>
 
-### Why Breakpoint
+### About the event
 
-Last year, J.P. Morgan, Goldman Sachs, BlackRock, State Street, and Citigroup all deployed production capital on Solana. At Breakpoint, the teams behind these integrations share what's next - and what they need from builders.
+Solana Breakpoint 2026 takes place at Olympia Convention Centre in London. The conference brings together Solana builders and industry participants, including teams working on institutional uses of the network.
 
-- Balaji SrinivasanNetwork StateCEO and Founder Network School
-
-### Explore events across the Breakpoint ecosystem
-
-- Solana Hacker House - London1-12 NOVEMBER, 202610:00-20:00(opens in a new tab)
-- Scale or Die14 NOVEMBER, 202609:30-18:30(opens in a new tab)
-- BlockZero 202615 NOVEMBER, 202608:30-17:00(opens in a new tab)
-
-### Latest announcements
-
-- EventsSolana Hacker House London: Nov 1 - 12 ↗(opens in a new tab)
-
-### FAQ
-
-Breakpoint 2026 will take place at Olympia Convention Centre in London.
+The organizer offers general-admission tickets and categories for developers and students. Surrounding events include Solana Hacker House London, Scale or Die and BlockZero, each with its own dates and registration. Consult the official Breakpoint agenda and ticket conditions before planning attendance.
 
 <a id="event-73315e351d01a40a"></a>
 
@@ -4123,53 +3439,11 @@ Breakpoint 2026 will take place at Olympia Convention Centre in London.
 - Original page: <https://indiablockchaintour.com/2026-nodes/jaipur/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+Jaipur is part of Octaloop's fifth India Blockchain & AI Tour, a series connecting local Web3 and AI communities with founders, investors and protocol teams.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The linked page currently presents the whole tour rather than a Jaipur program. A city-specific agenda and venue have not been verified from that page. Confirm those details with the organizer before travelling.
 
 <a id="event-f94e6ef13e1c7201"></a>
 
@@ -4243,74 +3517,9 @@ We're bringing together the operators, technology leaders, investors, researcher
 
 ### About the event
 
-- Previous Events Blockchain Africa Conferences Crypto Fest Strategic Bitcoin Reserve Summit DeFi Conferences
+Bitcoin Events hosts the eighth Crypto Fest in Cape Town, South Africa. The event brings together participants in cryptocurrency, blockchain, Web3 and decentralized finance for industry sessions and networking.
 
-### Crypto Fest 2026
-
-Welcome to a premier Web3 gathering in the stunning city of Cape Town, South Africa, where we'll explore blockchain and digital asset innovations with industry-leading speakers and provide valuable networking opportunities.
-
-### Cape Town, South Africa | 8th Edition
-
-Get ready for an unforgettable experience as Crypto Fest, hosted by Bitcoin Events, returns for its highly anticipated eighth edition, set against the breathtaking backdrop of Cape Town, South Africa!
-
-As Cape Town's premier annual Web3 event, Crypto Fest brings together a diverse community of innovators, industry leaders, and blockchain enthusiasts to explore the rapidly evolving world of cryptocurrency, blockchain, and decentralized finance (DeFi).
-
-This year's event features exclusive networking opportunities and sessions led by top industry experts, offering valuable insights into the latest trends shaping crypto, blockchain, Web3, and DeFi.
-
-- Decentralised Intelligence: The Convergence of AI, Web3 & Data
-
-Sub-Saharan Africa is the 3rd fastest-growing crypto region, per the 2025 report by Chainalysis.
-
-From Jul 2024 to Jun 2025, it saw $205B in on-chain value, up 52% YoY. Nigeria led with $92.1B, nearly three times South Africa's. South Africa ranked second, helped by its clearer regulatory framework, while Ethiopia, Kenya, and Ghana rounded out the top five.
-
-In 2024, South Africa took a major step by approving 248 Crypto Asset Service Provider (CASP) licences (as at December 2024). By December 2025, the FSCA had approved 300 CASPs out of 512 applications received (with 14 declined and 291 still active on the latest published list).
-
-The Travel Rule for crypto asset transfers was implemented in South Africa via Financial Intelligence Centre Directive 9, effective 30 April 2025, aligning the country with international AML/CFT standards to combat financial crime.
-
-As Africa continues to experience rapid growth in crypto adoption, Crypto Fest remains the premier platform to showcase regional and global trends, opportunities, and innovations shaping the future of Web3.
-
-### WHAT TO EXPECT?
-
-Get ready to be inspired by a stellar lineup of 30+ global innovators and thought leaders in the cryptocurrency, Metaverse, blockchain, Web3.0, and DeFi industry.
-
-This is your chance to gain unparalleled insights into the future of decentralized technology and its transformative impact.
-
-Get ready for something new this year - exhibitions are back at the event!
-
-Explore a vibrant exhibition floor packed with leading crypto projects, blockchain innovators, licensed CASPs, fintech solutions, wallet providers, DeFi platforms, and institutional-grade tools.
-
-Dive deep into crypto trends, emerging narratives, top trading tactics, and smart investment plays.
-
-Stay ahead of the curve: uncover where the market is heading and explore the newest blockchain innovations and DeFi opportunities.
-
-Get ready to connect with industry leaders, investors, developers, and innovators shaping the future of blockchain and cryptocurrency at Crypto Fest.
-
-Through interactive sessions, panel discussions, and casual meetups, you'll have the opportunity to build valuable relationships and collaborate on innovative ideas.
-
-### why you should attend
-
-- Attend Cape Town's premier cryptocurrency and blockchain event.
-- Explore Latest Trends - Dive into the latest developments in cryptocurrency, from stablecoins, compliance, and regulation to blockchain-based payments shaping the future of finance.
-- Unlock the Power of DeFi - Discover boundless opportunities in Decentralized Finance (DeFi) and learn how it's revolutionizing financial empowerment worldwide.
-- Stay Ahead of Regulation - Gain invaluable insights into the ever-evolving landscape of digital asset regulation and emerging policies that impact the industry.
-- Connect with Africa's Web3 Community - Engage with leading innovators, builders, and investors driving blockchain adoption across the continent.
-- Win Exclusive Crypto Swag - Stand a chance to grab crypto-branded socks, freebies, and exciting giveaways, making your experience even more memorable.
-- Experience Cape Town's Beauty - Soak in the stunning scenery of one of the world's most breathtaking cities, enhancing your event experience.
-- Network & Collaborate - Forge meaningful connections with industry experts, thought leaders, and fellow enthusiasts, sparking new ideas and collaborations that shape the future of Web3.
-
-### who will attend
-
-Prepare to engage with an extraordinary mix of professionals, visionaries, and trailblazers.
-
-These include: industry innovators, global cryptocurrency and blockchain thought leaders, technology and innovation experts, technical decision makers, strategy influencers and analysts, entrepreneurs, FinTech professionals, payment specialists, forex and cryptocurrency traders, cryptocurrency mining entities, cryptocurrency exchanges, retail and institutional investors, software developers and engineers, system architects, technical leads, early adopters, venture capitalists, journalists and content writers, marketing specialists, accountants and auditors, attorneys, regulators, compliance officers, global policy makers, gamers, musicians, artists, key industry influencers and enthusiasts.
-
-### NEWS
-
-Keep up to date on our other events, industry news, promotions, speaker and sponsor announcements.
-
-### UPCOMING EVENTS
-
-Don't miss our other exciting cryptocurrency and blockchain events!
+The announced theme, Decentralised Intelligence: The Convergence of AI, Web3 & Data, examines the relationship between those technologies. The organizer's site also includes past events, photographs and speaker biographies; consult the current program for the confirmed 2026 sessions and registration details.
 
 <a id="event-26ce44a3e74cad0f"></a>
 
@@ -4324,53 +3533,11 @@ Don't miss our other exciting cryptocurrency and blockchain events!
 - Original page: <https://indiablockchaintour.com/2026-nodes/lucknow/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+India Blockchain & AI Tour includes Lucknow in its 2026 city circuit. Octaloop's series brings local developers and founders into conversation with blockchain and AI ecosystem teams and investors.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The Lucknow ticket link currently shows tour-wide information. Consult the organizer for the city's final venue, session timetable and ticket conditions.
 
 <a id="event-79549319623a3829"></a>
 
@@ -4384,53 +3551,11 @@ Engage with regulators and industry titans to lead the institutional adoption of
 - Original page: <https://indiablockchaintour.com/2026-nodes/chandigarh/ticket>
 - Original page: <https://indiablockchaintour.com/>
 
-### Welcome to India Blockchain & AI Tour 2026
+### About the event
 
-Welcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world's fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.
+Chandigarh is a listed stop on Octaloop's India Blockchain & AI Tour 2026. The fifth edition of the tour focuses on Web3 and AI communities across India, including developers, founders, investors and enterprise participants.
 
-This is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren't just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here.
-
-### Architect Networking
-
-With >65% decision-maker attendance, IBT is where global protocol founders meet India's institutional capital.
-
-### Market Penetration
-
-Bridge the gap between global tech and India's 500M+ digital natives across 10 strategic cities
-
-### Talent Integration
-
-Engage with the world's densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases.
-
-### Elite VIP Access
-
-From private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality.
-
-### IBT26 Sponsors
-
-Meet the Sponsors making an impact for Web3 and AI around the globe.
-
-### Our IBT26 flagship event Metamorphosis Hyderabad
-
-Metamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.
-
-Over two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out.
-
-### Founders & CXOs
-
-Connect with global protocols and local venture capital to turn your MVP into a market leader.
-
-### Institutional Investors
-
-Access a high-density pool of vetted Web3 startups and the developers behind India's most successful dApps.
-
-### Global Ecosystems
-
-Deploy your GTM strategy across 10 strategic nodes and integrate with the world's largest Web3 workforce.
-
-### Policy & Enterprise
-
-Engage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat.
+The linked city page currently returns the general tour site. Confirm Chandigarh's venue, hours and admission details through the organizer; the tour overview is not a city-specific agenda.
 
 <a id="event-b837161a09cd1435"></a>
 
@@ -4438,21 +3563,17 @@ Engage with regulators and industry titans to lead the institutional adoption of
 
 - Record: `premier-planx`
 - Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-25T07:00:00+00:00
+- Starts: 2026-11-25
 - Description: Source-backed
 - Original page: <https://planxconf.com>
 
 ### About the event
 
-PlanX is Dubai's growth conference for founders, operators and investors scaling to 7 figures and beyond - join over 2,000 founders in Dubai. Two days to learn faster, meet better people and grow your business - November 25, 2026 at Grand Hyatt Dubai, with a focused agenda built for outcomes.
+PlanX takes place at Grand Hyatt Dubai on November 25 and 26, 2026, for founders, operators, business owners and investors. The program covers customer growth, AI and operational systems, fundraising relationships and emerging business models.
 
-### Program
+Announced sessions include founder stories, a discussion of scaling beyond product-market fit and practical approaches to delegation. Growth Access covers both conference days, workshops, the exhibition and the event app. Executive passes add benefits such as lunch, recordings and VIP spaces; investor access is by application and subject to approval.
 
-PlanX brings ambitious founders, business owners, operators and investors together for 48 hours of practical learning and high-value networking. Four tracks of tactical keynotes on growth, leverage, network, and future from operators who have done it - every session closes with one specific move to implement. Sessions cover winning customers with AI, smarter marketing, better positioning, and practical systems that grow revenue, plus why startups stall between product-market fit and real scale.
-
-### Who attends
-
-Founders, operators and investors ready to scale - visionaries in the room for real stories and real lessons.
+Prices exclude VAT. Check the organizer's current pass comparison for inclusions and workshop conditions.
 
 <a id="event-cbe7ae71ad5f4a31"></a>
 
@@ -4466,59 +3587,11 @@ Founders, operators and investors ready to scale - visionaries in the room for r
 
 ### About the event
 
-The global tokenization and blockchain congress, taking place 25-26 November 2026 in Barcelona - the premier global gathering for blockchain innovators, investors, and thought leaders shaping the future of digital assets and tokenization. (Rendered in English from the organizer's official Spanish copy.)
+World Token Congress Barcelona takes place at Foment del Treball on November 25 and 26, 2026. The congress brings companies, investors, regulators and technology specialists together around tokenization and digital financial infrastructure.
 
-### Program
+The organizer describes a provisional program of use cases, panel discussions and networking. Topics include asset tokenization and European regulation and compliance. The Barcelona edition is distinct from the separately advertised Dubai regional summit.
 
-Sessions run across both days, November 25 (from 9:00) to November 26, with the agenda published on the organizer's program page. The congress is organized by the World Token Congress team (contact through worldtokencongress.com) and publishes in both Spanish and English.
-
-Day one opens November 25 at 9:00, with programming continuing through November 26.
-
-Organizer contact runs through worldtokencongress.com.
-
-<a id="event-c8701368fa2d4239"></a>
-
-## Africa Prediction Markets Summit 2026
-
-- Record: `premier-africapredict`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-26T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://www.africapredictionmarketssummit.com>
-
-### Pioneering the Future of Prediction Markets in Africa
-
-The Africa Prediction Markets Summit brings together thought leaders, technologists, policymakers, and innovators to explore how prediction markets can drive economic growth across Africa. Join us in Cape Town on November 26, 2026 - a vibrant hub of innovation - with state-of-the-art facilities and easy access to the city's best hotels and attractions.
-
-### Program
-
-A full day of keynotes, panels, workshops, and networking, including a Builder Workshop foundations track on how prediction markets work: core concepts, mechanics, and real-world applications.
-
-### Tickets
-
-Your ticket includes access to all keynotes, panels, and workshops, networking events, meals and refreshments, and conference materials. VIP tickets include additional exclusive sessions and networking opportunities. Partner hotels near the venue offer special rates for attendees.
-
-<a id="event-f9842414b1d3da51"></a>
-
-## Global Blockchain Show Abu Dhabi 2026
-
-- Record: `premier-gbshow`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-11-26T09:00:00+00:00
-- Description: Source-backed
-- Original page: <https://www.globalblockchainshow.com/abu-dhabi/>
-
-### About the event
-
-The Global Blockchain Show Abu Dhabi 2026 is where blockchain stops being speculation and becomes financial infrastructure. Two days, November 26-27, 2026, for exchange operators, protocol founders, institutional investors, tokenization teams and regulators - covering DeFi and tokenized real-world assets, stablecoins, custody and Web3 infrastructure.
-
-### Program
-
-Two days across every layer of the blockchain stack: on-stage sessions, on-app networking, on-screen coverage and side-rooms. Understand the role of decentralized finance in creating secure, scalable, and resilient payment networks, and welcome the builders economy. The 2026 speaker lineup is published on the official site, and past series sponsors span the industry's biggest names.
-
-### Tickets
-
-Book your pass - the VIP Pass is listed at US$399. Get the complete two-day programme, speakers, sessions, side-rooms and the Palace afterparty bill sent to your inbox.
+Use the official ticket page for current prices and pass conditions, and check the program as session details are confirmed.
 
 <a id="event-c1053a9caacfabc8"></a>
 
@@ -4554,54 +3627,11 @@ For Speaking opportunities, please submit interest via this form.
 - Description: Source-backed
 - Original page: <https://auscryptocon.com/>
 
-### Australia's flagship crypto, blockchain and Web3 event
+### About the event
 
-CryptoCon Sydney brings founders, investors, builders, institutions, industry professionals and the wider crypto community together for two days of insight, networking, startup discovery and premium networking events.
+CryptoCon Sydney brings founders, investors, institutions and the crypto community together for two days covering market trends, regulation, startups, investing and blockchain infrastructure. The event includes speaker sessions, an exhibition and an app for viewing the agenda and arranging meetings.
 
-### Built for Australia's crypto community
-
-From market trends and regulation to startups, investing, blockchain infrastructure and brand growth, CryptoCon Sydney is designed for people who want to understand where the industry is going and meet the people shaping it.
-
-### Hear from the people building the future of crypto
-
-Meet founders, investors, operators, creators, VCs, builders, policy voices and Web3 leaders sharing practical insight from across the industry.
-
-### Your Access to Australia's Biggest Crypto Event Starts Here
-
-Join thousands at CryptoCon Sydney. Free General Admission gives you access to the expo, speakers and the future of crypto in Australia.Upgrade to our paid ticket types for VIP & Premium experiences
-
-### More than a conference floor
-
-Explore the moments that make CryptoCon Sydney a full event experience, from content and networking to startups, partners and the Super Yacht Party.
-
-- Super Yacht PartyA premium harbour-side networking experience for eligible ticket holders.
-- Speaker SessionsPractical insight from crypto, blockchain and Web3 leaders.
-- Event AppView the agenda, bookmark sessions & connect with attendees.
-
-### Community Proof
-
-"The knowledge I've learnt from the Australian Crypto convention is invaluable, you can't put a price on it. I'll be back again next year"
-
-Why would you come? It's to find out exactly what's going on in the world of crypto. Because it is essentially what's moving forward and the next generation of everything. Money, technology, AI. It all works together with Crypto and I think it's the fastest growing environment, so why not come and find out the latest, what's next and how you can get involved.
-
-The most interesting thing I've found, probably the networking lounge. And I could talk to people and see what they're into and what they're working on. I think the people are the most interesting part.
-
-It's not about being in crypto all the time and knowing the latest. What CryptoCon does is allows you to come and get so up to date with whats next and whats coming. So it's like, why not come? So if you're not here, you should be.
-
-If I could describe this CryptoCon conference in one word I would say Vibrance, there's an energy here.
-
-### Connect with the brands backing the ecosystem
-
-Meet the companies shaping the future of finance. From leading cryptocurrency exchanges and fintech innovators to investment platforms, brokers, payment providers and technology companies, explore the brands driving innovation across digital assets and traditional finance. Discover new products, speak directly with industry experts, and compare solutions all in one place.
-
-### CryptoCon Sydney. Your Ticket is FREE
-
-Experience Australia's biggest crypto event with FREE General Admission. Explore the expo, hear from industry-leading speakers and connect with the crypto community.
-
-- $289Enjoy two days of premium content, networking opportunities and exclusive access to the iconic 4-hour Super Yacht Party on Sydney Harbour, with an open bar and dining.2-Day PassAll speaking sessionsNetworking AppAccess to the Super Yacht Party, Sunday 29 November
-- $799Our premium networking space designed for serious investors, founders, executives and industry leaders.Exclusive Whale Lounge accessComplimentary food & beveragesPremium networking environmentMeet founders, executives & VIPsAccess to the Industry Networking Event, Sat 28th Nov
-- $1,599Enjoy every premium inclusion, exclusive networking opportunities, and VIP hospitality throughout the weekend.VIP event experiencePremium hospitalityExclusive networking opportunitiesSuper Yacht Party access with VIP areaIndustry Networking Night access with VIP area
-- $129Connect with the people shaping the future of crypto at CryptoCon's dedicated Industry Networking Event. Meet founders, executives, investors, partners and industry leaders in a premium networking environment designed for meaningful connections.2-Day Event PassAccess to all speaker sessionsNetworking AppAccess to the Industry Networking Event, Sat 28th NovConnect with founders, executives & industry leaders
+General admission is free and covers the expo and speakers. Paid ticket options add access to the November 28 Industry Networking Event, the November 29 Super Yacht Party or the Whale Lounge, depending on the pass. The yacht event is listed as a four-hour Sydney Harbour trip with dining and an open bar. Check each pass's inclusions before booking.
 
 <a id="event-868f2327eef135c3"></a>
 
@@ -4613,101 +3643,13 @@ Experience Australia's biggest crypto event with FREE General Admission. Explore
 - Description: Source-backed
 - Original page: <https://blockchain-life.com/>
 
-### THE GLOBAL CRYPTO MARKET IN ONE PLACE. THE PEOPLE YOU NEED TO MEET
+### About the event
 
-Co-located with AI Future Forum - our dedicated event on artificial intelligence, emerging technologies, and Web3.
+Blockchain Life 2026 is a Dubai forum and exhibition covering trading, mining, blockchain, finance, institutional investment and Web3. It is co-located with AI Future Forum. The announced format includes keynotes, panels, interviews, a startup pitch program and an exhibition.
 
-### 2 days can save you a year of work
+Standard tickets include conference halls and expo access for both events, plus the networking app. Business tickets add lunch and access to session recordings. VIP tickets add lounge access, dedicated registration and the official after-party on December 2, from 21:00 to 02:00. Check the organizer's current ticket conditions before booking.
 
-The quality of connections and insights saves you a year of hard work
-
-### Tips to earn more
-
-Discover strategies for profiting from the hottest crypto trends
-
-### Meet Crypto Founders
-
-Meet founders and top executives from the most promising crypto companies and projects
-
-### Global crypto community
-
-The forum will bring together over 15,000 prominent figures from 130 countries
-
-### Insider information first-hand
-
-Gain exclusive insights before they hit the mainstream from the leaders of the industry
-
-### The largest crypto expo
-
-Interact with the most groundbreaking teams and explore their products at 200+ booths
-
-### The World Crypto Capital 2026
-
-Dubai and the UAE offer one of the world's leading regulatory environments for growing crypto projects.
-
-### A Full Week of side events
-
-Blockchain Life Week will feature 100+ side events from November 27 to December 6
-
-### Global expo of crypto companies
-
-Partner with international crypto companies on exclusive terms
-
-### Startup Pitch
-
-Innovative blockchain startups present their projects to Forum participants
-
-### Official App forsmart networking
-
-Filter attendees, schedule appointments and level up your networking
-
-### Expo access at Blockchain Life & AI Future
-
-Explore booths of various blockchain, mining and web3 companies and startups.
-
-### Access to the conference halls at Blockchain Life & AI Future
-
-Enjoy the professional market analytics and insider tips from the most popular industry experts.
-
-### Access to the official app for smart networking
-
-Join an innovative online platform similar to a social network. Connect with people who share your interests, communicate and set up appointments. Smart filters help you to find the specific category of attendees you need.
-
-### All options included inthe STANDARD ticket
-
-This type of ticket includes allthe benefits of "Standard" ticket,plus the additional features below.
-
-### Gourmet lunch by the chef
-
-Enjoy a gourmet lunch prepared by the chef exclusively for you on both days of the Forum (main course, salad, dessert, beverage).
-
-### Video recordings of speeches
-
-You'll get one year of access to multi-camera recordings from the Space, MEXC and AI Future Stages.
-
-### All options included inthe BUSINESS ticket
-
-This type of ticket includes allthe benefits of a "Business" ticket,plus the additional exclusive features below.
-
-### VIP registration desks
-
-Enjoy the convenience ofa private entrance to the venue and separate registration area exclusively for VIP attendeesand speakers.
-
-### VIP/Speaker Lounge: luxury networking, fancy coffee breaks and gourmet lunches
-
-Meet world-renowned speakers, company leaders, and fund owners in the VIP lounge. Relax on cozy sofas while enjoying snacks and drinks.
-
-### Official Afterparty (food, drinks and show included) on December 2, 9 p.m. - 2 a.m
-
-1300+ VIP attendees and speakers. Meet crypto leaders, build new partnerships, and make friends in a relaxed atmosphere at the grand culminating pointof Blockchain Life 2026.
-
-### Why Dubai
-
-«The VCs are here, the funding is here and all the big projects are actually based in Dubai. The main exchanges as well are based now in Dubai and UAE. So you will see this as the ecosystem»
-
-### Organizers
-
-JETS CAPITAL - an investment fund focused on cryptocurrencies and digital assets
+Blockchain Life Week also lists independently organized side events from November 27 to December 6. Those dates describe the surrounding week, not the duration of the main forum.
 
 <a id="event-850e9a2b8df1c561"></a>
 
@@ -4719,42 +3661,29 @@ JETS CAPITAL - an investment fund focused on cryptocurrencies and digital assets
 - Description: Source-backed
 - Original page: <https://afrobitcoin.org>
 
-### 2026
+### About the event
 
-Africa's largest gathering of the Bitcoin & freedom-tech community.
+Africa Bitcoin Conference takes place at Amaryllis Hotel in Blantyre, Malawi, from December 2 to 5, 2026. It brings together Bitcoin and freedom-technology communities, including activists, builders and decision-makers, to discuss economic autonomy and the practical use of Bitcoin.
 
-### What is The Africa Bitcoin Conference ?
+The organizer's 2026 speaker list includes Ghaffar Hussain, Freddie New, Joseph Adereti and Chanda Chewe. Organizations can also propose panels, workshops or side events. Approved hosts are responsible for their content, speakers and logistics, while the conference provides program integration. Check the official site for the current agenda and registration.
 
-Every year, we bring together activists, innovators, and decision-makers to explore how Bitcoin safeguards fundamental freedoms, strengthens economic autonomy, and paves the way for lasting sovereignty.
+<a id="event-f9842414b1d3da51"></a>
 
-### Let's amplify Africa's voice in the global Bitcoin story
+## Global Blockchain Show Abu Dhabi 2026
 
-Every year, the Africa Bitcoin Conference features dozens of inspiring speakers. Would you like to be part of this journey and share your insights and perspective on Bitcoin's role in shaping a more liberated Africa and world?
+- Record: `premier-gbshow`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-10
+- Description: Source-backed
+- Original page: <https://www.globalblockchainshow.com/abu-dhabi/>
 
-### ABC 26 Speakers
+### About the event
 
-Each Year, Visionary Leaders Share Their Insights at the Africa Bitcoin Conference
+Global Blockchain Show Abu Dhabi now lists December 10 and 11, 2026. The event is for exchange operators, protocol founders, institutional investors, tokenization teams and regulators working on digital assets.
 
-### Host a Panel, Workshop or Side Event
+The announced subjects include DeFi, tokenized real-world assets, stablecoins, custody and Web3 infrastructure. The program includes conference sessions, an exhibition, an event app and hackathon finals pitched on the main stage.
 
-As we prepare for a milestone edition of ABC 2026, we're inviting a select group of organizations and ecosystem leaders to host panels, workshops, or side events within the programme. This is an opportunity to leverage the ABC platform to lead high-value conversations and create meaningful experiences aligned with your work. Please note :
-
-- Hosts are responsible for content, speakers, logistics, and execution
-- ABC provides the platform, visibility, and programme integration
-
-We are intentional about quality, partners are expected to deliver thoughtful, high-impact sessions that reflect the standard of this milestone edition.
-
-### Become a Sponsor of the Africa Bitcoin Conference
-
-Be part of the flagship event shaping the future of Bitcoin in Africa! By sponsoring the Africa Bitcoin Conference, your organization positions itself at the forefront of innovation, education, and economic progress. This is a unique opportunity to connect your brand with thought leaders, visionary entrepreneurs, and a committed community working to transform the continent and the world through Bitcoin. Join us in writing the next chapter of this powerful story. Get involved today!
-
-- "Africa has an amazing opportunity to build the next generation of financial services infrastructure. I think it's already happening."Ojoma Ochai Btrust
-- "Bitcoin offers freedom by enabling us to control, send, and hold our own money without interference. This concept of freedom is evident here in Africa, where Bitcoin provides real-time benefits."Lamar WilsonBlack Bitcoin Billionnaire
-- "A paradigm shift is necessary. Moving away from debt dependence to more sustainable and equitable financial practices could disrupt the cycle of exploitation perpetuated by the World Bank and IMF."Alex Gladstein CSO at HRF & Oslo FF
-- "As Kwame Nkrumah said, none of us will be independent unless we are all independent. Economic independence is crucial, and we must all participate actively in this effort."Nii QuaynorGhana Dot Com
-- "Bitcoin can lose this battle, but with the help of the Global South, regions living under authoritarian regimes and dictatorships, and especially with the help of Africa and Africans, Bitcoin can and will win."Obi NwosuFedi
-- "The most powerful thing that comes from Bitcoin is the fact that it is decentralized...anything that increases that decentralization contributes to making it a much stronger and more resilient network."Jack DorseyBlock
-- "Human rights are good for business. Freedom, democracy, freedom of expression, and freedom of association are crucial for innovation and prosperity."Mike BrockTBD
+Standard, Business and VIP passes have different inclusions. Check the official ticket comparison for current prices, meals, lounge access and networking benefits. The updated December dates replace the earlier November listing.
 
 <a id="event-249314dfed298138"></a>
 
@@ -4797,17 +3726,11 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://consensus-hongkong.coindesk.com>
 
-### Consensus Hong Kong Returns
+### About the event
 
-Across Asia, digital assets are reaching mass adoption, institutions are putting tokenization and stablecoins into production, and AI is creating an entirely new class of economic participants.
+CoinDesk's Consensus Hong Kong 2027 brings executives, investors, builders and policymakers together around digital assets and the Asian market. The announced themes are digital assets at scale, AI and the agentic economy.
 
-Consensus Hong Kong is the gateway for global capital to understand Asia, and where its story meets the world.
-
-Produced by CoinDesk, more than 20,000 executives, investors, builders and policymakers have gathered at Consensus Hong Kong since its debut in 2025 to understand what's next, and meet the people forging its path.
-
-### Stay Connected
-
-Sign up for promotions, program updates, speaker announcements and more.
+Program topics include institutional tokenization and stablecoins, the intersection of traditional finance and crypto, AI deployment and agentic commerce using onchain systems. Check the organizer's site for the current session schedule, speaker announcements and ticket options.
 
 <a id="event-3af1ab46a7509946"></a>
 
@@ -4891,35 +3814,13 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://ethcc.io>
 
-### Where ideas become industries
+### About the event
 
-As the industries longest-running European conference, every year, Cannes becomes the meeting point for the people shaping the digital economy, bringing together the industry's top builders, investors, policymakers, institutions, and users to reconnect, collaborate and build what's next.
+EthCC[10] takes place at the Palais des Festivals et des Congrès in Cannes, France. The 2027 edition marks ten editions of the Ethereum community conference and brings together builders, investors, institutions, policymakers and users.
 
-### Become asponsor
+The organizer invites contributions on decentralization, tokenization, privacy, regulation, infrastructure, AI and institutional adoption. Student and volunteer access options are available, and the listed early-bird pass includes the EthCC after-party subject to capacity.
 
-Join us in Cannes for a milestone year to celebrate a decade of ideas, people and progress. Get in touch to explore sponsorship opportunities.
-
-### EthCC Early Bird
-
-- Access to EthCC After Party (until maximum capacity reached)
-
-### Volunteer or student?We offer community access
-
-We are all part of this fantastic and thriving community. Meet up, exchange and learn around the main conference during the EthCC Week.
-
-### Apply tospeak
-
-Building, researching or challenging something that could shape the next decade? Whether it's decentralization, tokenization, privacy, regulation, infrastructure, responsible AI or institutional adoption, we want to hear from you.
-
-### ReliveEthCC[9]
-
-Four days of talks, collaboration and connection, making Cannes the destination for new ideas, new relationships and the conversations that go on to shape industries.
-
-### Got a question?We've got the answers
-
-EthCC[10] is taking place at the Palais des Festivals et des Congrès in Cannes, France.
-
-The venue address: 1 Boulevard de la Croisette 06400 Cannes France
+The venue is at 1 Boulevard de la Croisette, 06400 Cannes. Check the official site for the current agenda, ticket availability and eligibility for community access.
 
 <a id="event-cbcb72990157ab61"></a>
 
@@ -4933,17 +3834,9 @@ The venue address: 1 Boulevard de la Croisette 06400 Cannes France
 
 ### About the event
 
-TOKEN2049 Dubai brings together the global Web3 industry - entrepreneurs, investors, developers, industry insiders and global media - creating unparalleled networking opportunities. The 2027 edition takes over Madinat Jumeirah, April 21-22.
+TOKEN2049 Dubai takes place at Madinat Jumeirah on April 21 and 22, 2027. The two-day event brings together crypto entrepreneurs, investors, developers and industry participants, with exhibition space and opportunities to meet other attendees.
 
-### Scale
-
-TOKEN2049 Dubai will bring together 15,000 attendees from 4,000+ companies and 160+ countries for a buzzing two-day main event.
-
-### Speakers
-
-Leading voices on crypto's biggest stage include Pavel Durov, Shayne Coplan, and more to be announced on the official speakers page.
-
-The 2027 edition takes over Madinat Jumeirah with an immersive indoor-outdoor experience and signature Arabian hospitality. As Binance's Changpeng Zhao puts it: 'This is the single conference where everybody comes together.'
+The organizer plans an indoor-outdoor event at the venue and accepts ticket payments by card or cryptocurrency. Speaker, sponsorship and exhibition applications are available through the official site. The site's 2025 recap and testimonials describe the previous edition, not a confirmed 2027 speaker lineup.
 
 <a id="event-a789ceddb778530b"></a>
 
@@ -4955,13 +3848,11 @@ The 2027 edition takes over Madinat Jumeirah with an immersive indoor-outdoor ex
 - Description: Source-backed
 - Original page: <https://consensus.coindesk.com/>
 
-### Consensus returns to Miami
+### About the event
 
-The global economy is being rewritten. Consensus 2027 is where the architects of that new economy meet. Join 15,000+ senior leaders from crypto, finance, tech, and policy for three days of deals, demos, and decisions that will define the next era.
+CoinDesk's Consensus Miami 2027 is a three-day gathering for participants in crypto, finance, technology and policy. Its announced themes cover crypto at scale, institutional integration and agentic commerce.
 
-### Stay Connected
-
-Sign up for promotions, program updates, speaker announcements, and more.
+The current program highlights include a fireside conversation with CZ, a keynote by Michael Saylor, a fireside conversation with Chairman Selig and a session on crypto payment rails and open protocols for agentic commerce. Consult the official program for updated times and speaker details.
 
 <a id="event-170a366959037179"></a>
 
@@ -4999,15 +3890,29 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27 takes place June 2-3, 2027 in Vienna - Austria's largest institutional digital assets and AI conference, where the ecosystem meets.
+Vienna Blockchain Week runs on June 2 and 3, 2027 for banks, asset managers, regulators, investors, exchanges and technology providers.
 
-### Program
+Six announced themes cover institutional digital assets, stablecoins and payments, tokenization, regulation and MiCA, infrastructure, and AI in finance. The full timetable and speakers are to be confirmed; the site's selected VBW26 lineup is from the previous edition.
 
-Two days for the people that matter: six themes spanning institutional digital assets and AI, with the questions VBW27 is built around, leaders shaping digital assets in Europe, meetings, roundtables and selected networking formats through VBW Connect. A private evening format serves speakers, partners and selected guests. VBW26 numbers set the baseline for the 2027 edition.
+VBW Connect supports arranging one-to-one meetings. The planned formats also include institutional roundtables, an investor breakfast and a private evening for speakers, partners and selected guests. Check eligibility and access for each format through the organizer.
 
-### Access
+<a id="event-c8701368fa2d4239"></a>
 
-Connect with relevant attendees and schedule meetings before the conference. Institutional access and brand packages put sponsors in front of Europe's digital asset leaders.
+## Africa Prediction Markets Summit 2027
+
+- Record: `premier-africapredict`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-06-03
+- Description: Source-backed
+- Original page: <https://www.africapredictionmarketssummit.com>
+
+### About the event
+
+Africa Prediction Markets Summit now advertises June 3 and 4, 2027 in Cape Town, replacing the previously listed November 2026 date. It brings together prediction-market platforms, builders, investors, policymakers and researchers.
+
+The published program covers market design, liquidity, regulation, public trust and use cases in elections, sports, finance and media. A foundations workshop explains prediction-market mechanics and applications.
+
+Tickets include talks, panels, workshops, meals and refreshments. The page's agenda and FAQ still describe a one-day format despite the two-day date banner, so confirm the final daily schedule with the organizer.
 
 <a id="event-f15fa38a50dfad4a"></a>
 
@@ -9905,15 +8810,11 @@ Registration requires host approval. Registration is listed as free.
 
 ### About the event
 
-Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next is scheduled for 15 October 2026 at 17:30 (Asia/Singapore) in Singapore. Hosted by Chloe Pang.
+Out of Office Hour hosts an evening on AI agents, space technology and investment aboard a yacht in Singapore on October 15. Chloe Pang hosts Amanda L. of AI Playground Labs, Rob Ipenburg of Cedaris and patent attorney and angel investor Blayne Peacock.
 
-5.30pm Board the yacht, first beer or wine on us
+Boarding starts at 17:30. Dinner opens at 18:00, followed by Amanda's agentic-AI talk at 19:00, Rob's space-AI talk at 19:25 and a fireside conversation at 19:50. Q&A and networking start at 20:30, with karaoke and a DJ from 21:00. Disembarkation is at 22:00. All times are Singapore time.
 
-7.50pm Fireside chat with Blayne, Amanda and Rob
-
-Dinner buffet, finger food, first drink, karaoke and a live DJ.
-
-Registration requires host approval.
+The organizer lists 30 places, for guests aged 21 or older. Registration requires approval. The listed ticket price is SGD 110 and includes the dinner buffet, finger food and first drink.
 
 <a id="event-e98e1119dccefd32"></a>
 
@@ -9927,11 +8828,9 @@ Registration requires host approval.
 
 ### About the event
 
-Get Down For Real is scheduled for 15 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
+Get Down For Real is an after-hours gathering at Avenue Singapore for founders, investors and professionals working in AI, Web3, fintech and digital assets. The format is informal conversation over drinks, without a presentation program.
 
-Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
-
-Registration requires host approval. Registration is listed as free.
+The October 15 listing starts at 22:30 Singapore time. Avenue's Thursday music program mixes current hits, throwbacks and hip-hop. The organizer advertises complimentary house pours from 22:00 to 01:00. Registration is listed as free and requires approval.
 
 <a id="event-35f008becd0d9687"></a>
 
@@ -9965,9 +8864,9 @@ Registration requires host approval. The organizer shares the exact location wit
 
 ### About the event
 
-Plug and Play APAC Summit is scheduled for 30 October 2026 at 10:00 (Asia/Singapore) in Singapore. Hosted by Plug and Play APAC.
+Plug and Play APAC's summit brings together startups, corporations, investors, government agencies and ecosystem organizations from across Asia Pacific. The organizer currently describes it as a save-the-date gathering for regional innovation and collaboration, without a published session agenda or speaker list.
 
-Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+Registration is free and subject to host approval. The exact Singapore venue is shared with registered guests.
 
 <a id="event-c5411b5e597d3ec0"></a>
 
@@ -17866,7 +16765,9 @@ A36 is a builder residency in Mumbai for people working on AI, Web3 and related 
 
 ### About the event
 
-ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet published the agenda.
+ETHMumbai hosts MIP-20 as part of Road to Devcon on October 30, from 15:00 to 18:00 IST. The meetup introduces a new MIP format ahead of Ethereum's Devcon conference.
+
+The organizer has not published an agenda or speaker list. Registration is free and requires approval; the exact location is shared with registered guests.
 
 <a id="event-06e588b1577083a5"></a>
 
@@ -17895,7 +16796,11 @@ Hashed Emergent lists a pre-conference VIP night in the official India Blockchai
 
 ### About the event
 
-Hashed Emergent and Mugafi convene Future Asset Forum at Fairmont Mumbai on November 1 and 2. The invitation-only forum covers ownership, rights, AI and financing in sports and entertainment. Published session titles are provisional.
+Hashed Emergent and Mugafi convene Future Asset Forum at Fairmont Mumbai on November 1 and 2. The invitation-only forum examines ownership economics as AI changes sports, entertainment and media production. It brings rights holders and media operators together with AI companies, capital providers and policy participants.
+
+Provisional sessions address financing franchises and catalogues, voice and likeness rights, fan data, provenance, production budgets and the economics of venues and live events. Twelve of the planned 18 session titles are published as working titles; speaker names will be announced after written confirmation.
+
+Seats are allocated by participant category rather than sold to the general public. Apply through the organizer for attendance, speaking or partnership opportunities.
 
 <a id="event-5ae275253034b22c"></a>
 
@@ -17909,7 +16814,11 @@ Hashed Emergent and Mugafi convene Future Asset Forum at Fairmont Mumbai on Nove
 
 ### About the event
 
-Hashed Emergent hosts a two-day, invitation-only forum within India Blockchain Week at Fairmont Mumbai. The program covers institutional blockchain adoption, tokenization, settlement and programmable money. Discussions follow the Chatham House Rule.
+Hashed Emergent convenes the IBW Institutional Forum at Fairmont Mumbai on November 1 and 2. This invitation-only forum within India Blockchain Week is designed for 100 to 120 senior leaders from financial institutions, enterprise technology, tokenization, regulation and policy.
+
+The announced agenda covers CBDCs and programmable money, tokenized assets, trade finance and settlement, capital-markets infrastructure, institutional DLT and the intersection of AI and blockchain. Planned formats include keynotes, panels and fireside conversations.
+
+Discussions are closed-door and follow the Chatham House Rule: participants may use the information shared but cannot identify speakers or their affiliations. Attendance is limited to selected applicants. Names shown as past IBW speakers are not a confirmed forum lineup.
 
 <a id="event-08a5a7c342397bd8"></a>
 
@@ -17923,7 +16832,9 @@ Hashed Emergent hosts a two-day, invitation-only forum within India Blockchain W
 
 ### About the event
 
-Orviq hosts a morning run around Bandra followed by music and coffee during India Blockchain Week and Devcon week.
+Orviq Labs hosts Run & Rave in Bandra on November 1, from 06:00 to 08:00 IST, ahead of India Blockchain Week and Devcon. The morning combines a run with a DJ-led experience, coffee and conversation after the run.
+
+The gathering is aimed at founders, builders and creators in Web3. Registration is free and requires approval. The organizer has not published a distance or pace requirement.
 
 <a id="event-fa9a110e7eaea130"></a>
 
@@ -17934,10 +16845,15 @@ Orviq hosts a morning run around Bandra followed by music and coffee during Indi
 - Starts: 2026-11-01T04:30:00.000Z
 - Description: Source-backed
 - Original page: <https://defisecuritysummit.org/>
+- Original page: <https://luma.com/9qtxqqxx>
 
 ### About the event
 
-DeFi Security Summit brings security researchers, auditors and protocol builders to Courtyard by Marriott Mumbai International Airport on November 1 and 2. Sessions run from 10:00 to 18:00 IST each day. The separate November 3 program at Devcon is not included in this registration.
+The fifth DeFi Security Summit brings security researchers, auditors, protocol builders and the DeFi community to Courtyard by Marriott Mumbai International Airport on November 1 and 2. Sessions run from 10:00 to 18:00 IST each day.
+
+Standard admission is US$50 for both days. Students can use the organizer's DSSSTUDENT checkout code for US$10 admission. Confirmed speakers and the detailed program are still to be announced.
+
+This registration covers the two-day Marriott summit. The separate November 3 program at Devcon is not included.
 
 <a id="event-12db9c5d30250ac2"></a>
 
@@ -17965,7 +16881,11 @@ DeFi Security Summit brings security researchers, auditors and protocol builders
 
 ### About the event
 
-Zcash India's one-day Mumbai event covers privacy, zero-knowledge proofs and Zcash. The program includes talks, project booths and activities using shielded wallets. Registration is required to see the venue.
+Zcash India hosts Zcash World in Mumbai on November 1 for developers, students, founders and people trying privacy-preserving payments. No prior Zcash experience is needed.
+
+The planned program includes panels and talks on privacy, zero-knowledge proofs and Zcash, plus project booths and hands-on shielded-wallet activities. The organizer says attendees will receive ZEC to use on site and lists a US$500 activity prize pool. Bring a charged phone for wallet setup and transactions.
+
+Capacity is limited. Register through the organizer for venue details; speakers and the full agenda are still to be announced.
 
 <a id="event-341efe25b6b59410"></a>
 
@@ -17979,7 +16899,9 @@ Zcash India's one-day Mumbai event covers privacy, zero-knowledge proofs and Zca
 
 ### About the event
 
-Afterhours Mixer is an approval-based gathering hosted by Bitget during Mumbai's conference week. The organizer moved the event from Ravecon on November 4 to November 1, from 17:00 to 21:00 IST. Confirmed guests receive the venue details.
+Bitget hosts Afterhours Mixer in Mumbai on November 1, from 17:00 to 21:00 IST. The event was previously listed as Ravecon on November 4; both its date and format have changed.
+
+The organizer plans a gathering capped at 150 people, including founders, traders, investors and community participants. There is no stage or panel program. All applications are reviewed, and the exact venue is sent to confirmed guests.
 
 <a id="event-e48170ea79f49a06"></a>
 
@@ -17993,7 +16915,7 @@ Afterhours Mixer is an approval-based gathering hosted by Bitget during Mumbai's
 
 ### About the event
 
-Shaktipith is a women-only residency during Devcon week. The organizer lists six places and directs applications to shakti.web3events.in.
+Web3 events hosts Shaktipith, a women-only residency around Devcon in Mumbai. The organizer lists six places. Applications are through [shakti.web3events.in](https://shakti.web3events.in). The source does not publish a daily program.
 
 <a id="event-e7cfb329853d9fbd"></a>
 
@@ -18007,7 +16929,7 @@ Shaktipith is a women-only residency during Devcon week. The organizer lists six
 
 ### About the event
 
-Catalyst is a founder residency during Devcon. The organizer lists support with branding, marketing, positioning, design and investment, alongside mentorship and expert sessions.
+Web3 events hosts Catalyst, a founder residency during Devcon in Mumbai. The announced support covers branding, marketing, positioning, design and investment, alongside mentorship and expert sessions. Registration requires approval; the organizer has not published a daily timetable or named mentors.
 
 <a id="event-c3424eadb6bdbbe9"></a>
 
@@ -18077,7 +16999,11 @@ Previous Wrapped Events:
 
 ### About the event
 
-Solana Summit India is a one-day program of talks, panels and workshops about the Solana ecosystem, real-world asset tokenization, regulation and development. Advance registration and host approval are required.
+Superteam India hosts Solana Summit India on November 2, a one-day program for founders, developers and creators working on Solana. Topics include India's ecosystem, real-world asset tokenization, policy and regulation, and technical development.
+
+The organizer plans talks, panels and workshops, with opportunities to test ideas and get product-market-fit feedback. Workstations, Wi-Fi, power, food and lounge areas are listed, followed by an end-of-day mixer. Onsite registration runs from 10:00 to 17:00 IST.
+
+Advance registration and host approval are required. Update your RSVP if you can no longer attend so a waitlisted guest can take the place.
 
 <a id="event-bdef4e3b9ee43908"></a>
 
@@ -18091,7 +17017,9 @@ Solana Summit India is a one-day program of talks, panels and workshops about th
 
 ### About the event
 
-BackersStage hosts Onchain Dev City during Devcon week. The announced program includes onchain quests, project pitches, talks and community activities.
+BackersStage hosts Onchain Dev City during Devcon week in Mumbai. The planned format combines onchain quests and mini-games with founder micro-pitches, lightning talks, interactive polls and community meetups.
+
+Attendees can mint a City Passport NFT, complete quests and collect points or NFT badges. The organizer also describes a community lounge, creator spaces and a leaderboard. Partner rewards and grants are announced plans, subject to the organizer's eventual rules and availability.
 
 <a id="event-4c5d8069af298b39"></a>
 
@@ -18105,7 +17033,11 @@ BackersStage hosts Onchain Dev City during Devcon week. The announced program in
 
 ### About the event
 
-Team1 India's Mumbai gala includes an introduction to Avalanche and the local ecosystem, a guest-speaker session and time for networking. Host approval is required; the exact address is shared with registered guests.
+Team1 India's Mumbai Networking Gala brings together the Avalanche community on November 2. Doors open at 18:00 IST, with opening remarks by Shriyash Pandey at 18:30 and an introduction to Avalanche, Team1 and the local ecosystem at 18:40.
+
+The published program includes a guest-speaker slot at 19:00, Q&A at 19:15, then food, drinks and open networking from 19:30. Giveaways, interviews and photos follow, with closing at 22:00. The guest speaker has not been named.
+
+Host approval is required. The exact address is shared with registered guests.
 
 <a id="event-c9d3673a34c9a78a"></a>
 
@@ -18119,7 +17051,11 @@ Team1 India's Mumbai gala includes an introduction to Avalanche and the local ec
 
 ### About the event
 
-QuillAudits hosts an invitation-only dinner about tokenization, stablecoins and institutional security. The discussion follows the Chatham House Rule, with no recording or press. Registration is a request for approval, and confirmed guests receive the venue.
+QuillAudits hosts The Institutional Table, an invitation-only dinner in Mumbai for participants from banks, asset managers, funds, exchanges, tokenization platforms and stablecoin issuers. The format is a seated dinner for 41 guests, with a short opening followed by moderated conversation.
+
+Topics include tokenization controls and vaults, stablecoin reserve attestations and minting controls, audits, key management, monitoring and incident response. The organizer also plans a discussion of institutional security incidents.
+
+The dinner follows the Chatham House Rule, with no recording, press or slides. Registration is a request rather than a confirmed place. The BKC venue is shared with confirmed guests.
 
 <a id="event-f9f713a3022d0c8d"></a>
 
@@ -18163,11 +17099,15 @@ Hashed Emergent lists the IBW Official After-Party in its event spreadsheet, fro
 
 ### About the event
 
-The DeSci Community Hub at Devcon covers biotechnology, AI, neuroscience, climate and community governance across four days. Sessions include posters and interactive discussions. A Luma RSVP does not provide access to Devcon; a separate Devcon ticket is required.
+The DeSci Community Hub at Devcon runs across four days for developers, researchers and people interested in decentralized science. Beginners are welcome.
+
+Day one covers biotech, aging and medicine; day two covers AI, neuroscience and space technology. Day three focuses on climate, conservation and biodiversity, and day four on community, governance and academic engagement. The program includes interactive sessions, posters and opportunities to propose talks or workshops.
+
+DeSci World, DeSci LATAM, MesoReef DAO and DeSci Asia put the hub together, with DeSci India representing it on site. A Luma RSVP does not grant access to Devcon. A separate Devcon ticket is required.
 
 <a id="event-4e6126d3438b853d"></a>
 
-## AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8
+## AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit — Official AI Side Event of India Blockchain Week 2026 & Devcon 8
 
 - Record: `ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03`
 - Source: [ibw-side-events.json](sources/ibw-side-events.json)
@@ -18177,7 +17117,11 @@ The DeSci Community Hub at Devcon covers biotechnology, AI, neuroscience, climat
 
 ### About the event
 
-Omniscient AI's Mumbai forum covers AI infrastructure, models, agents, AI and Web3, investment, enterprise applications and policy. The announced program includes keynotes, panels, product demonstrations and founder sessions.
+Omniscient AI's AI Economic Forum in Mumbai brings together AI founders, developers, investors, researchers, enterprise teams and policymakers during India Blockchain Week and Devcon.
+
+Announced themes cover infrastructure and compute, foundation models and agents, AI and Web3, investment, enterprise applications, media and trust, policy, and open-source developer tools. The planned format includes keynotes, fireside conversations, panels, founder sessions and product demonstrations.
+
+These are program themes rather than a confirmed session timetable. Check the organizer's registration page for speaker and schedule updates.
 
 <a id="event-5547a1c4cd68ea02"></a>
 
@@ -18191,7 +17135,11 @@ Omniscient AI's Mumbai forum covers AI infrastructure, models, agents, AI and We
 
 ### About the event
 
-The Money House is an invitation-led gathering during India Blockchain Week and Devcon. The planned program includes roundtables, founder stories, product demos and interviews about payments, banking, stablecoins and financial infrastructure. RSVP does not guarantee admission.
+Monetary Culture hosts The Money House during India Blockchain Week and Devcon, for people working on payments, banking, stablecoins, financial infrastructure, AI and digital commerce. The November 3 gathering runs from 12:00 to 18:00 IST.
+
+The planned program includes roundtables, founder stories, product demos, Content Studio interviews and private meetings, with coffee and food. Guests may leave and return during the day.
+
+Attendance is invitation-led and waitlist-approved, with 150 to 200 guests planned. RSVP does not guarantee entry, and admission remains subject to venue capacity. Approved guests receive confirmation before the event.
 
 <a id="event-d19c7ea1b7e649fb"></a>
 
@@ -18205,7 +17153,11 @@ The Money House is an invitation-led gathering during India Blockchain Week and 
 
 ### About the event
 
-BFM Times hosts a startup cohort during Devcon week, offering media exposure, mentorship and pitching opportunities for blockchain, AI and Web3 startups. Funding and ecosystem rewards are subject to selection and eligibility.
+BFM Times hosts Media Accelerator & Startup Cohort alongside Devcon 8, from November 3 to 6 at Jio World Centre in Mumbai. The program is aimed at early-stage blockchain, AI and Web3 startups.
+
+The organizer offers media exposure, mentorship, investor connections and pitching opportunities. It advertises access to up to US$500,000 in funding and grants for eligible startups, plus rewards and ecosystem credits for 50 selected startups. These are conditional opportunities, not guaranteed funding for attendees.
+
+Registration is listed as free and requires approval. Check the organizer's selection and eligibility terms before applying.
 
 <a id="event-aa73f4de20ca2f67"></a>
 
@@ -18219,7 +17171,9 @@ BFM Times hosts a startup cohort during Devcon week, offering media exposure, me
 
 ### About the event
 
-Sidequest offers free kulfi near the conference venue on afternoons during Devcon week. Attendees can stop for ice cream and informal conversation.
+Interspace Studio's Sidequest offers free kulfi, Indian ice cream, near the conference venue on afternoons during Devcon week. Attendees can stop for a short break and informal conversation.
+
+No conference badge or app is needed. Check the Sidequest calendar for the day's location.
 
 <a id="event-014c151f13dc8a4f"></a>
 
@@ -18233,7 +17187,9 @@ Sidequest offers free kulfi near the conference venue on afternoons during Devco
 
 ### About the event
 
-Sidequest runs an evening happy hour during Devcon week with free entry. The host for each evening provides the first round.
+Interspace Studio's Sidequest runs an informal evening happy hour during Devcon week in Mumbai. Entry is free and that evening's host provides the first round.
+
+There is no panel program, and no conference badge or app is needed. Check the Sidequest calendar for the host and meeting place.
 
 <a id="event-e3864301cccfa3a9"></a>
 
@@ -18247,7 +17203,9 @@ Sidequest runs an evening happy hour during Devcon week with free entry. The hos
 
 ### About the event
 
-Fluid hosts an evening with its team during Devcon in Mumbai. Discussion topics include capital efficiency, lending, borrowing and trading.
+Fluid hosts an evening with its team in Mumbai during Devcon on November 3, from 19:00 to 23:00 IST. Attendees can discuss capital efficiency, lending, borrowing and trading with the people building the protocol.
+
+Fluid combines lending and decentralized-exchange liquidity in a shared onchain layer. The gathering is a chance to discuss that design with the team rather than a published technical workshop. Registration is free; the exact venue is shown to registered guests.
 
 <a id="event-6022b7f39c730d67"></a>
 
@@ -18261,7 +17219,11 @@ Fluid hosts an evening with its team during Devcon in Mumbai. Discussion topics 
 
 ### About the event
 
-EIP Hub is a four-day space for Ethereum Improvement Proposals, ERC standards and protocol upgrades. The planned program covers the EIP process, core protocol development, application standards and enterprise adoption through talks, workshops and office hours. A valid Devcon ticket is required to enter.
+EIP Hub is a four-day Devcon community space for Ethereum Improvement Proposals, ERC standards and protocol upgrades. It welcomes first-time contributors, standards authors, protocol researchers, client developers and application builders.
+
+Day one covers the EIP lifecycle, governance and specification review. Day two focuses on core Ethereum, upgrades and client implementations. Day three covers application standards, wallets, interoperability and account abstraction. Day four examines enterprise infrastructure and adoption.
+
+Planned formats include talks, workshops, office hours, roundtables and demonstrations. The detailed timetable is still to be announced. A valid Devcon ticket is required; this community-hub RSVP does not provide conference admission.
 
 <a id="event-f3ab89276ca49c57"></a>
 
@@ -18275,7 +17237,7 @@ EIP Hub is a four-day space for Ethereum Improvement Proposals, ERC standards an
 
 ### About the event
 
-Liquidity Pool is listed for Devcon week in Mumbai, from 21:30 IST on November 3 to 00:30 on November 4. The organizer has not published a program; registration is required to see the exact location.
+Web3 Mumbai, Harsh Gupta and Fardeeen Samir D host Liquidity Pool during Devcon week, from 21:30 IST on November 3 to 00:30 on November 4. Registration is free and requires approval. The exact location is shared with registered guests; the organizer has not published a program.
 
 <a id="event-11efe893068c3b04"></a>
 
@@ -18289,7 +17251,9 @@ Liquidity Pool is listed for Devcon week in Mumbai, from 21:30 IST on November 3
 
 ### About the event
 
-Sidequest offers free guided walks through different parts of Mumbai during Devcon week. Attendees should check the organizer's calendar for each day's meeting point.
+Interspace Studio's Sidequest offers guided walks through different parts of Mumbai during Devcon week. Each walk takes a couple of hours with a local guide and a small group of other attendees.
+
+The walks are free and do not require a conference badge or app. Check the organizer's calendar for each day's meeting point.
 
 <a id="event-3a2fb503781a2a46"></a>
 
@@ -18317,7 +17281,11 @@ ETHIndia returns as a one-day conference at Devcon on November 4 in Mumbai, focu
 
 ### About the event
 
-Monad Blitz Mumbai is a one-day hackathon during Devcon week, with workshops and mentorship. Teams of two or three build and demonstrate projects on Monad; the organizer lists a US$5,000 prize pool.
+Monad Blitz Mumbai is a one-day hackathon on November 4 during Devcon week. Developers can learn through workshops, build with mentor support and demonstrate a working MVP on Monad. Experienced EVM developers and first-time Monad builders are welcome.
+
+Every hackathon submission must come from a team of two or three. The organizer lists a US$5,000 prize pool, with no prescribed product category beyond building on Monad. The day's sequence is workshops, building, submissions and demos, then awards.
+
+Registration is free and subject to approval, with limited capacity. The exact venue is shared with registered guests.
 
 <a id="event-f407808a01e20f99"></a>
 
@@ -18331,11 +17299,15 @@ Monad Blitz Mumbai is a one-day hackathon during Devcon week, with workshops and
 
 ### About the event
 
-Trilegal and Fractional host a roundtable on India's digital-asset regulation and tax framework, with comparisons to the United States, European Union and Singapore. Registration starts at 16:00 IST, the discussion runs from 16:30 to 17:45, and a mixer follows until 18:30.
+Trilegal and Fractional host a Mumbai roundtable for digital-asset founders, operators, general counsel, compliance leads and legal or tax practitioners.
+
+The discussion covers India's regulatory and tax framework, including stablecoins, tokenization and FIU registration. It compares approaches in the United States, European Union and Singapore, and considers withholding tax, the role of GIFT City and whether India needs a dedicated regulator.
+
+Registration runs from 16:00 to 16:30 IST on November 4, followed by the roundtable until 17:45 and a mixer until 18:30. Registration is free and requires approval.
 
 <a id="event-d0754d4ea4776dc6"></a>
 
-## Diyas : Near @Devcon
+## Diyas : Near @Devcon 🪔
 
 - Record: `india-luma-hr8w0hmd`
 - Source: [ibw-side-events.json](sources/ibw-side-events.json)
@@ -18345,7 +17317,11 @@ Trilegal and Fractional host a roundtable on India's digital-asset regulation an
 
 ### About the event
 
-ArQ's NEAR event uses a team game to demonstrate cross-chain intents. Attendees form groups, assemble an intent and watch an operator execute a small onchain transaction, with a testnet fallback.
+ArQ's Diyas event demonstrates NEAR cross-chain intents through a team game during Devcon in Mumbai. RSVP answers are used to create a persona card and intent fragments for each attendee.
+
+Participants form a group with five other people and combine their fragments into a valid intent. At an Executor Booth, an operator runs a US$1 to US$2 onchain transaction, with a testnet fallback. Teams receive a photo with the transaction hash and attestation, which can be exchanged for event merchandise.
+
+Complete the RSVP questionnaire and bring your phone and wallet handle. Solo attendees can form groups at the event. Registration requires approval.
 
 <a id="event-eb56df19b78feef6"></a>
 
@@ -18359,7 +17335,11 @@ ArQ's NEAR event uses a team game to demonstrate cross-chain intents. Attendees 
 
 ### About the event
 
-The Ethereum Validators Association hosts an invitation-only symposium for validators, staking operators, researchers and infrastructure providers. The evening includes an EVA update and dinner. Registration requires approval; the full program and speakers are still to be announced.
+The Ethereum Validators Association hosts EVA Symposium III in Mumbai on November 4 for validators, staking operators, protocol researchers and infrastructure providers. The evening includes an update on EVA's work and discussion with the staking community.
+
+Doors open with high tea at 17:00 IST. The symposium program runs from 18:00 to 20:00, followed by dinner and networking until 23:00. Round-trip shuttles are planned between JWCC/BKC and the event venue.
+
+Attendance is invitation-only and requires approval. Capacity is limited to 75, with priority for people directly involved in Ethereum staking. The program will be recorded; speakers and the full agenda remain to be announced.
 
 <a id="event-5511261008389b44"></a>
 
@@ -18373,7 +17353,11 @@ The Ethereum Validators Association hosts an invitation-only symposium for valid
 
 ### About the event
 
-NEAR and Quantus host a happy hour during Devcon Mumbai, focused on quantum-resistant infrastructure and confidential cross-chain transactions.
+NEAR and Quantus host a happy hour in Mumbai on November 4, from 18:00 to 21:00 IST, for builders, researchers and founders interested in privacy and security infrastructure.
+
+The conversation focuses on quantum-resistant systems and confidential cross-chain transactions: Quantus' work on quantum security and NEAR Intents' approach to private trading and settlement. This is an informal drinks gathering rather than a scheduled panel program.
+
+Registration is free and requires approval. Registered guests receive the exact venue.
 
 <a id="event-a421bd75009e4374"></a>
 
@@ -18387,7 +17371,9 @@ NEAR and Quantus host a happy hour during Devcon Mumbai, focused on quantum-resi
 
 ### About the event
 
-Capvise Global hosts Money Layer during Devcon week in Mumbai. The gathering is for founders, developers, wallet and stablecoin teams, fintech companies and investors.
+Capvise Global hosts Money Layer in Mumbai on November 4, from 18:30 to 22:00 IST, during Devcon week. The gathering brings together teams building financial infrastructure, companies using it and investors funding it.
+
+The intended audience includes founders, developers, wallet teams, stablecoin builders, protocols, fintech companies and ecosystem operators. The organizer has not published a session or speaker program. Registration is free and requires approval; the exact venue is shared with registered guests.
 
 <a id="event-8dd5ebb0a8e06133"></a>
 
@@ -18401,7 +17387,11 @@ Capvise Global hosts Money Layer during Devcon week in Mumbai. The gathering is 
 
 ### About the event
 
-Alpend hosts an approval-based evening about institutional credit on Canton Network. The program starts with cocktails at 18:30 IST, followed by a fireside conversation at 19:30 and dinner at 20:00. Confirmed guests receive the exact venue.
+Alpend hosts Collateral Call, a private evening on institutional credit and Canton Network for funds, market makers, treasuries, asset issuers and teams building on Canton. Discussion centers on who supplies and borrows credit, what collateral is used and the terms involved.
+
+Cocktails start at 18:30 IST on November 4, followed by a fireside conversation at 19:30, dinner at 20:00 and closing at 22:30.
+
+Attendance is complimentary and approval-only. The exact BKC venue is shared with confirmed guests.
 
 <a id="event-35062dda67d54087"></a>
 
@@ -18429,7 +17419,7 @@ Quantstamp and Common Defense host an evening for people working in Web3, AI and
 
 ### About the event
 
-Capital connect is an invitation-only event for limited partners, venture capital investors and other participants in the Web3 ecosystem.
+Web3 events hosts Capital connect, an invitation-only gathering for limited partners, venture capital investors and other Web3 participants. Registration is free and subject to approval. The exact venue is shared with registered guests; no agenda or speaker list has been published.
 
 <a id="event-38ade2d577e1f1bb"></a>
 
@@ -18471,7 +17461,11 @@ Unchained Summit India takes place at Courtyard by Marriott Mumbai International
 
 ### About the event
 
-Frontier of Intelligence is a hackathon covering autonomous AI agents, decentralized AI infrastructure and real-world applications. The announced tracks include onchain agent coordination, verifiable inference and distributed compute.
+Frontier of Intelligence is a hackathon for developers, founders, researchers and designers working on AI, Web3 and autonomous systems. The organizer plans mentorship across AI, cryptography and protocol design, with infrastructure partners for compute and developer tooling.
+
+Three tracks cover autonomous agents and multi-agent systems, decentralized AI infrastructure, and real-world applications. Suggested projects include onchain agent coordination, verifiable inference, ZK-ML, distributed training and applications in healthcare, climate, finance or supply chains.
+
+The announced awards are a US$5,000 grand prize, US$3,000 per track winner and a US$2,000 research prize. Registration is free and requires approval. Confirm the final prize rules and venue with the organizer.
 
 <a id="event-b8fc2ab8bce93df1"></a>
 
@@ -18485,7 +17479,9 @@ Frontier of Intelligence is a hackathon covering autonomous AI agents, decentral
 
 ### About the event
 
-Buildify hosts a brunch for Ethereum builders, founders and creators during Devcon in Mumbai. The event is scheduled for November 5 from 13:00 to 16:00 IST; the venue is to be announced.
+Buildify hosts Builders Brunch in Mumbai on November 5, from 13:00 to 16:00 IST. The event brings Ethereum builders, founders and creators together over Indian food during Devcon.
+
+The organizer lists an informal networking brunch rather than talks or workshops. Registration is free and requires approval. The venue is still to be announced.
 
 <a id="event-1df2e4cbfa87a614"></a>
 
@@ -18513,7 +17509,11 @@ ETHGlobal hosts Pragma Mumbai on November 6 at Jio World Convention Centre. The 
 
 ### About the event
 
-QuillAudits hosts security sessions covering exploit analysis, audit readiness and AI-assisted auditing during Devcon. The planned program includes a panel and networking from 18:45 IST. Registration is reviewed, and confirmed attendees receive the venue.
+QuillAudits hosts Ship Safe during Devcon Mumbai for founders, CTOs, protocol engineers, auditors and security researchers, including teams building on Ethereum and L2s.
+
+The announced program includes exploit teardowns, an audit-readiness clinic and discussion of AI-assisted attacks, auditing and formal verification. The clinic covers scope, invariants, test coverage and code freezes. A panel examines security debt across L2s, real-world assets and stablecoin infrastructure.
+
+Networking and drinks start at 18:45 IST on November 6. Registrations are reviewed and seats are limited; the BKC venue is shared with confirmed attendees.
 
 <a id="event-9872d6f9027d7365"></a>
 
@@ -18527,7 +17527,7 @@ QuillAudits hosts security sessions covering exploit analysis, audit readiness a
 
 ### About the event
 
-The organizer lists this as an unofficial after-party for Devcon 8. Registration is required to see the exact venue.
+Web3 events lists an unofficial Devcon 8 after-party in Mumbai on November 6, from 21:30 to 01:00 IST the following morning. Registration is free and requires approval, with the exact venue shared with registered guests. The organizer has not announced performers or a program.
 
 <a id="event-1f32ff74e163cf4c"></a>
 
@@ -18541,11 +17541,11 @@ The organizer lists this as an unofficial after-party for Devcon 8. Registration
 
 ### About the event
 
-Mandala Network hosts its Mumbai edition of Crypto Afterhours during Devcon week. The exact venue is available to registered guests.
+Mandala Network hosts Crypto Afterhours in Mumbai during Devcon week, on November 7 from 20:00 to midnight IST. Registration is free and requires approval. The exact venue is available to registered guests. The organizer has not published a program or performer lineup.
 
 <a id="event-a8eecceb3f7b8300"></a>
 
-## ETHwali
+## 🪔 ETHwali
 
 - Record: `india-luma-0ej7kbb0`
 - Source: [ibw-side-events.json](sources/ibw-side-events.json)
@@ -18555,7 +17555,11 @@ Mandala Network hosts its Mumbai edition of Crypto Afterhours during Devcon week
 
 ### About the event
 
-ETHwali is a Diwali celebration for the Ethereum community during Devcon season in Mumbai. The organizer plans an evening of music and community activities.
+Secret Society hosts ETHwali, a Diwali celebration for the Ethereum community in Mumbai on November 8, from 18:00 to 23:30 IST. The evening brings together developers, founders, open-source contributors, creators and people exploring Web3 after Devcon.
+
+The organizer plans music and informal conversation centered on Diwali and Indian culture. This is a community celebration rather than a technical conference; no talk schedule or performer lineup has been announced.
+
+Registration is free and requires host approval. The exact venue is shared with registered guests, so check your confirmation before travelling.
 
 <a id="event-55cba01743661e7e"></a>
 
@@ -19647,42 +18651,135 @@ Infini3 is an events and media platform, built as an IP of 28° North - a boutiq
 
 - Record: `india-luma-9mjyny8k`
 - Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-10-17T06:30:00.000Z
+- Starts: 2026-10-10T06:30:00.000Z
 - Description: Source-backed
 - Original page: <https://luma.com/9mjyny8k>
 
 ### India's AI & Web3 community is preparing for the next market cycle - and we want to know how
 
-Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.
+Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next - city by city, across a 9-city run (maybe more).
 
-Jaipur carries the theme Legacy. With centuries of trade, capital, and craft behind it, the city hosts the circuit's most pointed question: is Web3 and AI building something durable, or just riding another fast cycle?
+- NO PANEL DISCUSSIONS
+- NO FIRESIDES
+- NO COMPANY PITCHES
+- NO KEYNOTES
+- NO PRODUCT DEMOS
 
-This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
+All Topics are chosen by the community itself, through a series of surveys, live polls, and real conversations in the room.
 
-The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
+Join here to participate in the biggest community intelligence exercise in Web3 India: https://goinfini3.com/
+
+### Every stop feeds into two things
+
+- The Community Pulse Snapshot - a city-level read of sentiment, conviction, and signal.
+- India's AI & Web3 Preparedness Playbook - the community-generated roadmap this circuit is building toward.
+
+### Why it matters
+
+- Community Intelligence - raw, unfiltered sentiment from the people actually building and betting on this space.
+- Market Insights & Leadership Inputs - perspectives from founders, investors, and operators shaping the next cycle.
+- An Actionable Strategy Roadmap - for every persona in the room, not just the ones on stage.
+
+The circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
 
 Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
 
 Ready? Let's run.
 
-### Partners
+### Agenda
 
-Trailblazers
+- 12:00 - 13:00 - Registration & Intros + Surveys
+  - Want to be at IBW? Add your name to the lucky box.
+  - Want to be at Bitmela Jaipur? Add your name to the lucky box.
+  - Complete as many surveys as possible
+  - MAX RUNS gets a chance to win the giveaway
+- 13:00 - Intro to the Ready for the Run initiative
+- 13:15 - 13:25 - Intro by Raajeev Anand
+- 13:30 - Speaking session: Sai Poorna, Mentor, Advisor, Investor + Live Polls
+- 13:45 - Speaking session: Akash Bansal, Founder, Flitpay + Live Polls
+- 14:00 - Speaking session: Shashank, Flitpay + Live Polls
+- 14:15 onwards
+  - Q&A - Pop-Quiz
+  - Giveaways
+    - 2x IBW passes
+    - 2x Bitmela Jaipur mela passes
+    - 4x Bitmela Jaipur entry passes
+    - Gift Hampers
+  - RFTR Resolutions
+  - RFTR Signature Campaign
+  - RFTR Feedback Videos
+  - F&B
 
-OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
+### Special Mention
 
-[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+- BBC
+  - Badass Builders Club brings together India's best and most driven developers, builders, and creators. Led by Vardan Agarwal and Rohit Goyal, it's a community of people who get things done - no breaking news here, just people who ship.
+  - X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)
+- Techeve
+  - A growing tech community built around one idea - learning by building. They bring together students and young developers through workshops, hackathons, campus meetups, and collaborative events, helping them go from writing code to shipping real projects.
+  - X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)
+
+### IBW
+
+- India's flagship #Web3 gathering, hosted by Hashed Emergent
+- 2 General Pass giveaways to lucky participants
+- A special discount on IBW tickets using code 𝗜𝗡𝗙𝗜𝗡𝗜𝟯𝟭𝟬 - grab yours: https://indiablockchainweek.com/#tickets
+
+### Bitmela
+
+- An inclusive gathering in Jaipur to discuss where money is actually headed.
+- 4 Entry Passes worth ₹999 (access to the 2 full conference days + mela on day 2)
+- 2 Mela Passes worth ₹4999 (access to the 2 full conference days + lunch on both days + mela on day 2)
+- A special 10% discount on Bitmela tickets using code 𝗜𝗡𝗙𝗜𝗡𝗜𝟯𝟭𝟬 - grab yours here: https://thebitmela.com/#tickets
+
+### Ecosystem Partners
+
+- OroPocket: X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
+- KoinX: X (https://x.com/getkoinx) | LinkedIn (https://in.linkedin.com/company/getkoinx)
+- Kryptos: X (https://x.com/KryptosConnect) | LinkedIn (https://www.linkedin.com/company/kryptos)
+- Grovio: X (https://x.com/GrovioAI) | LinkedIn (https://www.linkedin.com/company/grovioai)
+- QuillAudits: X (https://x.com/QuillAudits_AI) | LinkedIn (https://www.linkedin.com/company/quillaudits)
+- Make0: Website (https://make0.ai/) | LinkedIn (https://www.linkedin.com/company/make0/)
+- Xtrading: X (https://x.com/xtrading_dex) | LinkedIn (https://www.linkedin.com/company/xtradingdex/)
+- BlockSurvey: X (https://x.com/blocksurvey) | LinkedIn (https://www.linkedin.com/company/blocksurvey)
+- 39K Group: X (https://x.com/39k_group) | LinkedIn (https://in.linkedin.com/company/39kgroup)
+
+### Media Partners
+
+- CoinsCapture: X (https://x.com/CoinsCapture) | LinkedIn (https://in.linkedin.com/company/coinscapture)
+- Blockopedia: X (https://x.com/theblockopedia_) | LinkedIn (https://www.linkedin.com/company/theblockopediaofficial)
+- Techtoken: X (https://x.com/Techtoken_in) | LinkedIn (https://www.linkedin.com/company/techtoken/)
+- TheCryptoHype: X (https://x.com/the_cryptohype) | LinkedIn (https://www.linkedin.com/company/thecryptohype/)
+- Block24Seven: X (https://x.com/Block24Seven) | LinkedIn (https://www.linkedin.com/company/block24seven/)
 
 ### Community Partners
 
-- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
-- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
-- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
-- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
-- Zyphar Community
-- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
+- Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)
+- Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)
+- Hyderabad DAO: X (https://x.com/hyderabaddao) | LinkedIn (https://in.linkedin.com/company/hyderabad-dao)
+- Gwalior DAO: X (https://x.com/gwaliordao_) | LinkedIn (https://www.linkedin.com/company/gwaliordao/)
+- GrowthFi Studio: X (https://x.com/GrowthFiStudio) | LinkedIn (https://www.linkedin.com/company/growthfistudio/)
+- Lucknow DAO: X (https://x.com/Lucknow_DAO) | LinkedIn (https://www.linkedin.com/company/lucknowdao/)
+- Web3 Kerala: X (https://x.com/Web3_kerala) | LinkedIn (https://in.linkedin.com/company/web3-kerala)
+- Web3 Aligarh: X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)
+- Web3 Events: X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events)
+- Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collably-network)
+- BBC: X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)
+- Zyphar: X (https://x.com/zyphar_ind) | LinkedIn (https://www.linkedin.com/company/zyphar)
+- Dev Spark: X (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)
+- Techeve: X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)
+- Ajinava Edge: X (https://x.com/ajinava) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in)
+- Stackhouse: Website (https://www.stackhouse.social/)
+- AavaCustoms: X (https://x.com/Aavacustoms) | LinkedIn (https://www.linkedin.com/company/aava-customs/)
+- KrowdKraft: X (https://x.com/KrowdKraft_) | LinkedIn (https://www.linkedin.com/company/krowdkraft/)
+- Builders Verse: X (https://x.com/buildersverse_)
+- Builder Base: X (https://x.com/theBuilder_base) | LinkedIn (https://www.linkedin.com/company/builder-base/)
+- Abhilekh Verma Consultancy: X (https://x.com/abhilekhverma) | LinkedIn (https://in.linkedin.com/company/abhilekhverma)
+- ArtofBlockchain: LinkedIn (https://in.linkedin.com/company/artofblockchain)
+- Bitcoin Bharat: X (https://x.com/bitcoinbharat_) | LinkedIn (https://www.linkedin.com/company/bitcoinbharat/)
+- Zeek (Costa Rican Community): X (https://x.com/zeek_cr) | LinkedIn (https://www.linkedin.com/company/zeekcr/)
 
-### Raajeev Anand (@[cryptomargofficial])/ TechHybr
+### Raajeev Anand (@cryptomargofficial )/ TechHybr
 
 https://www.instagram.com/cryptomargofficial/
 
@@ -19690,13 +18787,13 @@ Raajeev Anand is an India-based Web3 & AI social media influencer and digital en
 
 Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
 
-[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
+Insta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)
 
 ### About Infini3
 
 Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
 
-[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
+X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)
 
 ### About 28° North
 
@@ -19712,56 +18809,11 @@ Infini3 is an events and media platform, built as an IP of 28° North - a boutiq
 - Description: Source-backed
 - Original page: <https://luma.com/76s6hwzv>
 
-### India's AI & Web3 community is preparing for the next market cycle - and we want to know how
+### About the event
 
-Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.
+Infini3's Ready for the Run meetup in Lucknow carries the theme Trust, covering regulation, custody, relationships and reputation in AI and Web3. The format includes community discussions, live polling and informal conversation among builders, founders, researchers, traders and investors.
 
-Lucknow carries the theme Trust. No market runs without it - regulation, custody, who you believe and why - and few cities are better suited to a conversation about relationships and reputation than this one.
-
-This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
-
-The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
-
-Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
-
-Ready? Let's run.
-
-### Partners
-
-Trailblazers
-
-OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
-
-[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
-
-### Community Partners
-
-- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
-- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
-- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
-- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
-- Zyphar Community
-- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
-
-### Raajeev Anand (@[cryptomargofficial])/ TechHybr
-
-https://www.instagram.com/cryptomargofficial/
-
-Raajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.
-
-Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
-
-[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
-
-### About Infini3
-
-Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
-
-[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
-
-### About 28° North
-
-28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
+The circuit is co-led by Raajeev Anand of TechHybr. See the organizer's registration page for current attendance details.
 
 <a id="event-581a2298f97e9118"></a>
 
@@ -19881,60 +18933,15 @@ ETHMumbai hosts MIP-20 as part of Road to Devcon. The organizer has not yet publ
 
 - Record: `india-luma-co5dtixa`
 - Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-10-31T06:30:00.000Z
+- Starts: 2026-10-31T05:30:00.000Z
 - Description: Source-backed
 - Original page: <https://luma.com/co5dtixa>
 
-### India's AI & Web3 community is preparing for the next market cycle - and we want to know how
+### About the event
 
-Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.
+The Pune stop of Infini3's Ready for the Run series carries the theme Momentum. Participants discuss how AI and Web3 projects are progressing and how builders and investors are preparing for the next market cycle.
 
-Pune carries the theme Momentum. Six cities into the circuit, the conversation stops being separate rooms and starts reading like one trendline - what's compounding, what's stalling, and where the next cycle is actually headed.
-
-This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
-
-The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
-
-Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
-
-Ready? Let's run.
-
-### Partners
-
-Trailblazers
-
-OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
-
-[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
-
-### Community Partners
-
-- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
-- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
-- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
-- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
-- Zyphar Community
-- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
-
-### Raajeev Anand (@[cryptomargofficial])/ TechHybr
-
-https://www.instagram.com/cryptomargofficial/
-
-Raajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.
-
-Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
-
-[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
-
-### About Infini3
-
-Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
-
-[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
-
-### About 28° North
-
-28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
+The format combines community discussion, live polling and informal networking. Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's registration page for the current venue and admission details.
 
 <a id="event-89c8a0266a009666"></a>
 
@@ -20004,7 +19011,9 @@ Omniscient AI's Mumbai forum covers AI infrastructure, models, agents, AI and We
 
 ### About the event
 
-Infini3's Mumbai stop in the Ready for the Run series focuses on capital for AI and Web3. The meetup includes discussions, live polling and conversations between builders and investors.
+Infini3's Mumbai stop in the Ready for the Run series focuses on capital for AI and Web3. It brings builders, investors, traders, founders and researchers together for discussions, live polling and informal conversation about the next market cycle.
+
+The series is co-led by Raajeev Anand of TechHybr. Mumbai's Capital theme centers on how builders and the people funding them are preparing and making decisions. Registration is free and requires approval; the exact venue is shared with registered guests.
 
 <a id="event-d7f4a732383fdaca"></a>
 
@@ -20044,56 +19053,11 @@ EIP Hub is a four-day space for Ethereum Improvement Proposals, ERC standards an
 - Description: Source-backed
 - Original page: <https://luma.com/52vxy6fo>
 
-### India's AI & Web3 community is preparing for the next market cycle - and we want to know how
+### About the event
 
-Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.
+Infini3's Ready for the Run meetup in Bhopal explores the intersection of AI and Web3 under the theme Confluence. Builders, investors, traders, founders and researchers take part in discussions and live polling about the next market cycle.
 
-Bhopal carries the theme Confluence. Sitting at a literal geographic meeting point, the city hosts the clearest airing yet of Ready for the Run's AI-led, Web3-grounded story - where the two conversations stop running in parallel and start meeting in the room.
-
-This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
-
-The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
-
-Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
-
-Ready? Let's run.
-
-### Partners
-
-Trailblazers
-
-OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
-
-[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
-
-### Community Partners
-
-- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
-- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
-- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
-- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
-- Zyphar Community
-- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
-
-### Raajeev Anand (@[cryptomargofficial])/ TechHybr
-
-https://www.instagram.com/cryptomargofficial/
-
-Raajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.
-
-Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
-
-[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
-
-### About Infini3
-
-Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
-
-[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
-
-### About 28° North
-
-28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
+The circuit is co-led by Raajeev Anand of TechHybr. The organizer's registration page carries the current attendance information.
 
 <a id="event-3bbdb1bce1b10c91"></a>
 
@@ -20105,56 +19069,11 @@ Infini3 is an events and media platform, built as an IP of 28° North - a boutiq
 - Description: Source-backed
 - Original page: <https://luma.com/icnjduyi>
 
-### India's AI & Web3 community is preparing for the next market cycle - and we want to know how
+### About the event
 
-Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.
+The Hyderabad stop of Infini3's Ready for the Run series uses the theme Innovation to discuss what teams are building in AI and Web3. The gathering includes discussions, live polling and conversation between builders, founders, researchers, traders and investors.
 
-Hyderabad carries the theme Innovation. The city's tech backbone makes the word an easy fit - but this stop is about pressure-testing it, not repeating it: what's actually shipping in AI & Web3, not just being claimed.
-
-This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
-
-The circuit is co-led by Raajeev Anand ([TechHybr](https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.
-
-Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
-
-Ready? Let's run.
-
-### Partners
-
-Trailblazers
-
-OroPocket - Brings a Trailblazer's perspective to the room - pioneering everyday access to gold & silver investing, a domain adjacent to but distinct from crypto-native assets. Their presence broadens the credibility of the conversation and adds real-world asset variety to the ecosystem represented here.
-
-[X](https://x.com/oropocket) | [LinkedIn](https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500: https://oropocket.com/i/READY364)
-
-### Community Partners
-
-- [KoinX X](https://x.com/getkoinx) | [LinkedIn](https://www.linkedin.com/company/getkoinx/)
-- [Web3 Events X](https://x.com/web3_events) | [LinkedIn](https://www.linkedin.com/company/web3-events/)
-- [Web3 Aligarh X](https://x.com/web3aligarh) | [LinkedIn](https://www.linkedin.com/company/web3-aligarh/)
-- [Bhopal DAO X](https://x.com/Bhopal_DAO) | [LinkedIn](https://linkedin.com/company/bhopal-dao/)
-- Zyphar Community
-- [Collably Network X](https://x.com/CollablyNetwork) | [LinkedIn](https://www.linkedin.com/company/collablynetwork/)
-
-### Raajeev Anand (@[cryptomargofficial])/ TechHybr
-
-https://www.instagram.com/cryptomargofficial/
-
-Raajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.
-
-Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
-
-[Insta](https://www.instagram.com/cryptomargofficial/) | [X](https://x.com/raajeevanand) | [LinkedIn](https://www.linkedin.com/in/raajeevanand/)
-
-### About Infini3
-
-Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
-
-[X](https://x.com/infini3_) | [Telegram](https://t.me/goinfini3) | [Instagram](https://www.instagram.com/goinfini3)
-
-### About 28° North
-
-28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
+Raajeev Anand of TechHybr co-leads the circuit. Check the organizer's page for current registration and venue details.
 
 <a id="event-96ca96bed8008af3"></a>
 
@@ -27602,7 +26521,7 @@ Sony Ventures, Taisu Ventures, Soneium
 
 - Record: `luma-crypto-mZkvPeUErlCZWoG`
 - Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-12T20:00:00.000Z
+- Starts: 2026-10-12T19:30:00.000Z
 - Description: Source-backed
 - Original page: <https://luma.com/oct-hackathon>
 
@@ -27618,29 +26537,39 @@ This session is part of the TechEquity Ai Monthly Forum Series, combining strate
 
 ### Speakers
 
-[Dave Nielsen](https://www.linkedin.com/in/dnielsen/) - [Head of DevRel @Cognee AI](https://cognee.ai). [Head of Events @AI Alliance](https://thealliance.ai)
+Dave Nielsen (https://www.linkedin.com/in/dnielsen/) - Head of Events @AI Alliance (https://thealliance.ai)
 
 ### What to Expect
 
 Program details are subject to change.
 
-1:00-1:30 PM | Registration & Networking
+Monday
 
-1:30-3:00 PM | Hackathon Round 1
+12:30-1:00 PM | Registration & Networking
 
-3:00-3:30 PM | Demonstration
+1:00-3:00 PM | Hackathon Round 1
+
+3:00-3:30 PM | Demos (optional)
 
 3:30-4:00 PM | Hackathon Round 2
 
-4:00-4:30 PM | Judging
+4:00 PM | Submission Deadline (for in-person demos)
+
+4:00-4:30 PM | In-person Demos & Judging
 
 4:30-5:00 PM | Networking
 
-Grab a drink, enjoy light refreshments, and connect with fellow attendees after the workshop.
+10:00 PM | Final Submissions (online)
+
+Tuesday
+
+10:00 AM | Judging Resumes
+
+5:00 PM | Winners Notified
 
 ### Sponsors & Partners
 
-Snowflake SVAI Hub, AI Alliance, Cognee
+Snowflake SVAI Hub, HydraDB, AI Alliance
 
 ### Who Should Attend
 
@@ -27651,7 +26580,7 @@ Snowflake SVAI Hub, AI Alliance, Cognee
 
 ### Important Details
 
-- Format: In-person; hands-on workshops
+- Format: In-person; hands-on building
 - What to Bring: Please bring a laptop for workshops
 - Code of Conduct: This event follows TechEquity Ai's community code of conduct to ensure a respectful, inclusive environment for all participants
 
@@ -27667,11 +26596,11 @@ F&B and Seating: Limited and available on a first-come, first-served basis
 
 Venue: Snowflake Silicon Valley AI Hub (SVAI)
 
-Address: 8th [Floor at 135 Constitution Dr. Menlo Park, CA 94025](https://maps.app.goo.gl/eW7encjq2oeL89LXA?utm_source=luma)
+Address: 8th Floor at 135 Constitution Dr. Menlo Park, CA 94025 (https://maps.app.goo.gl/eW7encjq2oeL89LXA?utm_source=luma)
 
 Parking: Self-park in the garage next to the 135 Building
 
-Arrival [Guide: Download the guide at bit.ly/SVAI-Arrival-Guide](https://bit.ly/SVAI-Arrival-Guide)
+Arrival Guide: Download the guide at bit.ly/SVAI-Arrival-Guide (https://bit.ly/SVAI-Arrival-Guide)
 
 TechEquity Ai is a nonprofit organization dedicated to democratizing access to artificial intelligence (AI) knowledge and applications.
 
@@ -27679,7 +26608,7 @@ Our flagship initiative is the TechEquity Ai Summit, a series of high-impact eve
 
 Across our programs, we bring together builders, leaders, and learners through keynotes, panels, fireside chats, hands-on workshops, and interactive demos.
 
-To learn more [about TechEquity Ai and our programs, visit techequity-ai.org](https://techequity-ai.org) or reach out to us at info@techequity-ai.org.
+To learn more about TechEquity Ai and our programs, visit techequity-ai.org (https://techequity-ai.org) or reach out to us at info@techequity-ai.org.
 
 <a id="event-03d1259df12bd1b6"></a>
 
@@ -28086,7 +27015,7 @@ Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, 
 
 <a id="event-6f01feb5412bd4d8"></a>
 
-## Local Align #3 — AI × GTM Growth Hackathon & Social
+## AI × GTM Day: Growth Hackathon, Talks & Social
 
 - Record: `luma-crypto-KdgiJ5gO82TXRB9`
 - Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
@@ -28094,159 +27023,175 @@ Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, 
 - Description: Source-backed
 - Original page: <https://luma.com/bo69pa9j>
 
-### About the event
+### What's actually working for AI growth right now?
 
-Coding is solved. Distribution isn't.
+Building an AI product has never been easier. Getting real users, distribution, and revenue is still hard.
 
-With AI, almost anyone can build now.
+Local Align #3 is a hands-on day for people who want to learn how modern AI products actually grow - from SEO/GEO and organic content to developer growth, community, outbound, automation, and AI-powered GTM.
 
-But can you sell it?
+Learn from real growth stories.
 
-That's why we're doing a GTM Hackathon at Local Align.
+Hear founders break down how they went from 0 → 1,000+ users, built communities of 10,000+, and generated millions of organic impressions without relying on paid acquisition.
 
-You'll take real products from real companies and use the newest AI tools for content, outbound, lead gen, automation, and growth.
+Put it into practice.
 
-This is not just a competition.
+Choose from 5 real products with 5 different GTM problems - AI DevTools, consumer community, high-trust services, FinTech, and generative AI - and use AI, code, content, or automation to move real metrics: users, leads, signups, traffic, and conversions.
 
-It's a hands-on crash course in AI-native GTM - real tools, real experiments, real results.
+Meet the people building around you.
 
-And you don't have to compete to come.
+Not hacking? Come for the talks, startup demos, Coffee Chats, board games, food, and an afternoon with founders, engineers, creators, students, and GTM operators from across the Bay Area.
 
-If you just want to meet interesting people, hang out, play board games, explore startup booths, listen to talks, or grab coffee and chat - you're just as welcome.
+Come to learn. Come to build. Come to meet your next collaborator, customer, cofounder - or simply someone worth knowing.
 
-Whether you're a founder, engineer, marketer, creator, student, investor, or simply curious about AI and startups, Local Align is a place to meet people you might not otherwise meet.
+You do not need to compete to attend.
 
-### Choose Your Experience
+### Learn: How Products Actually Grow
 
-Compete - Join the GTM Hackathon and help grow a real product.
+No generic startup advice. Hear real 0→1 growth stories from founders and operators who have built audiences, acquired users, and turned distribution into a system.
 
-Come hang out - Enjoy talks, startup booths, coffee chats, board games, food, and the full Local Align social experience.
+Lucy Ye - Co-founder & COO, JobWizard.ai (https://JobWizard.ai)
 
-No hackathon experience required.
+SEO/GEO × Organic Content × AI-Native Growth
 
-### What's Happening
+Built a 0→1 SEO engine that generated 2M+ Google Search impressions in 2 months, plus 1M+ organic video impressions with zero paid acquisition. Learn how an early-stage AI startup turns search, content, and AI automation into repeatable distribution.
 
-GTM Hackathon - Compete on real growth challenges from real companies
+Weijia - Founder & CEO, LingCode
 
-Founder & GTM Talks - Practical stories and real growth lessons
+Developer Growth × Product-Led Growth × Community
 
-Startup Booths - Discover what people around the Bay Area are building
+Built content reaching millions, grew a coding education platform from 0 → 10,000+ students, and took LingCode from launch to 1,000+ users in its first month. Learn how technical founders can turn product, content, and community into an organic growth engine.
 
-Coffee Chats & Social Mixer - Meet founders, builders, operators, students, and new friends
+More founders & GTM operators to be announced.
 
-Board Games - Because not every conversation needs a pitch deck
+### Build: 5 Real Products. 5 Real Growth Problems
 
-Food & Drinks - Pizza lunch + CHAGEE afternoon tea
+Most hackathons ask you to build another demo.
 
-### AI × Real Products × Real Growth
+Here, you'll work on a real product with real users and a real GTM problem - then use AI, code, content, outbound, SEO/GEO, automation, communities, or whatever else you can invent to move the numbers.
 
-Hackathon teams will experiment with AI-native ways to grow real products - from content and social distribution to outbound, lead generation, research, GEO, and automation.
+AI Developer Tools - LingCode
 
-The goal isn't just to make a nice demo.
+How do you win developers when every week brings another AI coding tool?
 
-We want to see what actually moves: attention, engagement, leads, signups, meetings, users, and conversions.
+Grow an AI-native IDE through developer communities, technical content, product-led loops, GEO, creators, or your own growth automation.
 
-Teams will also have access to Alibaba Cloud Qwen & Wan AI credits during the hackathon.
+Learn: developer GTM, PLG, community growth, and how technical products earn adoption.
 
-### Have a Product?
+Consumer Community - Tennistry
 
-Already building something?
+3,500+ users. 1,500+ real tennis matches. How do you create the next 1,000?
 
-You can bring your product as a GTM Challenge and let teams experiment with different ways to grow it.
+Tennistry connects tennis players in real life. Test local acquisition, referrals, ambassadors, events, creators, and ways to prove which users you actually brought in.
 
-We're also welcoming startup booths, speakers, community partners, and ecosystem partners.
+Learn: consumer growth, network effects, referral loops, local/community GTM, and attribution.
 
-Reach out to the Local Align team if you'd like to get involved.
+🇺🇸 High-Trust Services - TurboNIW
 
-### Partners & Supporters
+How do you acquire customers when the decision is expensive, complex, and built on trust?
 
-Alibaba Cloud - CHAGEE - LingCode - More to be announced
+TurboNIW helps STEM researchers and professionals prepare for the EB-2 NIW process through structured educational materials and guidance. Unlike a casual app download, customers may spend $1,000+ and are making a high-stakes career decision - making trust and intent central to acquisition. TurboNIW (https://www.turboniw.com/?utm_source=chatgpt.com)
 
-### Event Details
+Learn: high-intent SEO/GEO, trust-based funnels, educational content, lead qualification, and customer acquisition for high-consideration services.
+
+Consumer FinTech - MaxWorth
+
+30,000 users already. What becomes the next scalable growth channel?
+
+MaxWorth is a North American credit-card management app entering its next stage of growth. Explore finance content, SEO/GEO, creators, referrals, communities, partnerships, or new product-led acquisition loops.
+
+Learn: consumer FinTech GTM, lifecycle growth, referral mechanics, content distribution, and scaling beyond early adopters.
+
+Generative AI × Entertainment - SxeneMixer
+
+A new AI creative product is starting from zero. Where do the first 100 real users come from?
+
+SxeneMixer is an AI short-drama generation platform. Find the creators and communities most likely to care, then experiment with UGC, viral formats, creator seeding, social distribution, and product-led sharing.
+
+Learn: 0→1 launches, creator GTM, UGC, viral loops, and consumer AI distribution.
+
+Pick the problem you want to learn. Build the growth experiment. Run it on a real product. Show us what happened.
+
+More challenges will be revealed.
+
+$200 cash prize per Challenge
+
+$3,000+ shared Alibaba Cloud AI/API credits available to participating teams
+
+LingCode - IDE Partner & Challenge Owner
+
+API Sponsor - Alibaba Cloud
+
+Hacker Pass is FREE and requires approval.
+
+### Meet: Social, Coffee Chats & Startup Community
+
+Not hacking? You're just as welcome.
+
+Come for:
+
+Founder & GTM talks - Startup booths - Coffee chats - Board games - Food & drinks - Final pitches - New people
+
+You'll meet founders building their first company, engineers exploring what to build next, growth operators sharing what's working, students breaking into AI/startups, and people who simply want to meet interesting people in the Bay Area.
+
+No pitch deck required. No hackathon experience required.
+
+### Schedule
+
+11:00 AM - Doors Open - Check-in - Coffee & Networking
+
+12:00 PM - Hackathon Kickoff - Challenge Introductions
+
+12:30 PM - Hacking + Talks + Startup Booths + Social
+
+Afternoon - Founder/Growth Talks - Coffee Chats - Food - Building
+
+6:30 PM - Hackathon Submission Deadline
+
+7:00 PM - Final Pitches
+
+8:00 PM - Awards & Wrap
+
+Hackers receive the Challenge briefs, company information, tools, KPIs, and preparation materials before the event, so you can come ready to execute.
+
+### Who This Is For
+
+Founders looking for better distribution.
+
+Engineers who want to learn what happens after shipping.
+
+Growth / GTM people looking for tactics they can actually use.
+
+Creators & marketers interested in AI-native growth.
+
+Students looking to meet and learn from people building in the Bay Area.
+
+Anyone curious about AI, startups, and how products actually find users.
+
+Come to hack. Come to learn. Or just come meet someone interesting.
+
+### Tickets
+
+Hacker Pass - FREE
+
+For Hackathon participants. Approval required. Registration closes Oct 15.
+
+General Pass - $45 Early Bird through Oct 9
+
+Includes talks, startup booths, Coffee Chats, social, food & drinks, and final pitches.
+
+$55 Standard - $80 Door
+
+.edu students: LAEDU15 for 15% off before Oct 9.
 
 Saturday, October 24, 2026
 
-11:00 AM - 5:00 PM
+3120 Scott Blvd, Santa Clara
 
-3120 Scott Blvd, Santa Clara, CA 95054
+Partners & Supporters
 
-Come to compete.
+Alibaba Cloud - LingCode - More to be announced
 
-Come to learn.
-
-Or just come meet someone interesting.
-
-Don't just build it. Get someone to buy it.
-
-### Event Policies
-
-By registering for or attending Local Align #3, you acknowledge and agree to the following Event Policies.
-
-Respect & Safety
-
-Local Align is intended to be a welcoming and respectful environment. Harassment, discrimination, threatening behavior, or serious disruption of the event will not be tolerated.
-
-Please follow event staff and venue instructions. The organizers reserve the right to warn or remove participants whose behavior violates event or venue rules.
-
-If you feel unsafe or uncomfortable during the event, please contact a Local Align team member.
-
-Voluntary Participation & Assumption of Risk
-
-Participation in Local Align #3, including the hackathon, networking, games, demonstrations, food and beverage service, and other activities, is voluntary.
-
-Please participate according to your own health, comfort, abilities, and judgment. To the extent permitted by applicable law, participants are responsible for risks arising from their own actions, health conditions, or failure to follow event or venue instructions.
-
-Photography & Video
-
-Photos and videos may be taken during the event for event documentation, community updates, and promotional purposes.
-
-If you prefer not to be photographed or recorded, please let our team know at check-in. We will provide a way to indicate your preference. Please also avoid group photos if you do not wish to appear in them.
-
-Food & Allergies
-
-Food and beverages may be provided by third-party vendors.
-
-Please disclose relevant dietary restrictions or food allergies during registration and ask event staff if you are uncertain about an item. Participants remain responsible for deciding what is safe for them to consume.
-
-Hackathon, Talks, Demos & Third Parties
-
-Products, challenges, talks, demonstrations, booths, promotions, and statements presented by participating companies, speakers, sponsors, partners, or attendees are the responsibility of the respective parties.
-
-Participation or presence at Local Align does not constitute an endorsement by Local Align of any company, product, service, claim, investment, employment opportunity, or business opportunity.
-
-Any collaboration, purchase, employment, investment, business relationship, or other transaction resulting from the event is entered into at the participant's own discretion.
-
-Hackathon Results
-
-The GTM Hackathon is an experimental and educational event.
-
-Local Align does not guarantee that any team, company, or Challenge will receive a particular number of views, leads, users, signups, meetings, conversions, revenue, or other business results.
-
-Outcomes may depend on the product, team, market, participants, tools, timing, and other factors outside the organizers' control.
-
-Personal Belongings
-
-Participants are responsible for their own laptops, phones, bags, equipment, and other personal belongings.
-
-Local Align is not responsible for lost, stolen, or damaged personal property to the extent permitted by applicable law.
-
-Tickets & Refunds
-
-All ticket sales are final and non-refundable, including in cases of no-show, late arrival, or early departure.
-
-If the event is canceled by the organizer, registered attendees will be notified regarding applicable refund or rescheduling options.
-
-Tickets and event access may not be resold or transferred in violation of event or ticketing-platform rules.
-
-Event Changes
-
-Event programming, speakers, challenges, partners, food and beverage offerings, schedules, and activities may change as necessary.
-
-We will make reasonable efforts to communicate material changes to registered attendees.
-
-Agreement
-
-By registering for and/or attending Local Align #3, you confirm that you have read, understood, and agree to these Event Policies.
+Build something. Grow something. Meet someone.
 
 <a id="event-a5c2da17e599be35"></a>
 
@@ -50366,35 +49311,31 @@ Networking พบปะพูดคุย
 
 ### About the event
 
+Toda la información y la solicitud de plaza: https://lafamilia.so/ir/taller-luma
+
 Del 9 al 13 de Octubre, La Familia habilitará un Espacio en el centro de Madrid como punto de encuentro para builders, equipos y creadores que participarán en el Hackathon de Colosseum.
 
 Este espacio funcionará como un hub de trabajo y colaboración, diseñado para apoyar el desarrollo de proyectos en Solana y fortalecer la comunidad hispana del ecosistema.
 
 Durante este periodo ofreceremos:
 
-Workshops técnicos y de producto sobre Solana
-
-Sesiones con expertos y proyectos del ecosistema
-
-Mentorías y office hours para feedback directo
-
-Soporte técnico y orientación para equipos
-
-Espacios de coworking para trabajar con foco
-
-Demos de proyectos en desarrollo
-
-Actividades de comunidad y dinámicas colaborativas
-
-Torneos y experiencias abiertas para participantes
-
-Happy hours y momentos de networking informal
+- Workshops técnicos y de producto sobre Solana
+- Sesiones con expertos y proyectos del ecosistema
+- Mentorías y office hours para feedback directo
+- Soporte técnico y orientación para equipos
+- Espacios de coworking para trabajar con foco
+- Demos de proyectos en desarrollo
+- Actividades de comunidad y dinámicas colaborativas
+- Torneos y experiencias abiertas para participantes
+- Happy hours y momentos de networking informal
 
 El programa culminará el 13 de Octubre con un Demo Day, enfocado en ayudar a los equipos a afinar su pitch y mejorar su presentación de cara al cierre del hackathon. Será un espacio tanto formativo como práctico, con reconocimiento y premios para proyectos destacados.
 
 El taller es una invitación a construir juntos, aprender de referentes del ecosistema y conectar con otros miembros de La Familia mientras avanzas tu proyecto en Colosseum.
 
-Madrid 9 - 13 Oct
+Madrid
+
+9 - 13 Oct
 
 Somos La Familia
 
@@ -51276,55 +50217,43 @@ Further details about our membership plans can be found on our website here: htt
 
 Adan and SG-FORGE invite you to join us in Brussels on October 13, 2026, for an event dedicated to the future of digital assets in Europe.
 
-Together with our partners Ethereum Foundation, Bundesblock, Blockchain for Europe and Osservatori Digital Innovation, we will notably discuss the evolution of market infrastructure, the development of stablecoins and the next steps for the European regulatory framework.
+Together with our partners European Ethereum Institute, Bundesblock, Blockchain for Europe, Osservatori Digital Innovation and Alastria, we will notably discuss the evolution of market infrastructure, the development of stablecoins and the next steps for the European regulatory framework.
 
 On the agenda (additional speakers may be added):
 
 Europe's New Market Infrastructure Stack: Can Tokenisation Scale?
 
-Stéphanie Lheureux (Euroclear)
-
-Mark Kepeneghian (Lise)
-
-Mirian Breuer (Börse Stuttgart)
-
-Markus Ferber (MEP)
+- Luc Vantomme (Euroclear)
+- Mark Kepeneghian (Lise)
+- Mirian Breuer (Börse Stuttgart)
+- Markus Ferber (MEP)
 
 Moderator : Adriana Torres Vergara (ADAN)
 
 Europe's Stablecoin Moment: Competitiveness, Sovereignty or Both?
 
-Stéphanie Cabossioras (SG-Forge)
-
-Brit Hecht (Qivalis)
-
-Emanuele Guzzoni (Bancomat)
-
-Patrick Hansen (Circle)
-
-Luca Serafini (Banca d'Italia)
+- Stéphanie Cabossioras (SG-Forge)
+- Brit Hecht (Qivalis)
+- Emanuele Guzzoni (Bancomat)
+- Patrick Hansen (Circle)
+- Luca Serafini (Banca d'Italia)
 
 Moderator : Tommaso Astazi (BC4EU)
 
 A Fireside Chat with AMF, Consob and BaFin
 
-Sébastien Raspiller (Secretary General - AMF)
-
-Nadia Linciano (Secretary General - Consob)
-
-BaFin (speaker TBC)
+- Sébastien Raspiller (Secretary General - AMF)
+- Nadia Linciano (Secretary General - Consob)
+- BaFin (speaker TBC)
 
 Moderator : Dr. Hagen Weiss (Bundesblock)
 
 MiCA and Beyond: Is Europe Getting the Framework Right?
 
-Philipp Bohrn (Bitpanda)
-
-Faustine Fleuret (Morpho)
-
-Filippo Paternò di Raddusa (Revolut)
-
-Charles Canonne (DG FISMA-European Commission)
+- Philipp Bohrn (Bitpanda)
+- Faustine Fleuret (Morpho)
+- Filippo Paternò di Raddusa (Revolut)
+- Charles Canonne (DG FISMA-European Commission)
 
 Moderator : Ondrej Kovarik (Former MEP, European Ethereum Institute, FTI)
 
@@ -51340,47 +50269,26 @@ Brussels, Belgium
 
 L'Adan et SG-FORGE vous donnent rendez-vous à Bruxelles le 13 octobre 2026 pour un événement consacré à l'avenir des actifs numériques en Europe.
 
-Aux côtés de nos partenaires Ethereum Foundation, Bundesblock et Osservatori Digital Innovation, nous aborderons notamment les évolutions des infrastructures de marché, le développement des stablecoins et les prochaines étapes du cadre réglementaire européen.
+Aux côtés de nos partenaires European Ethereum Institute, Bundesblock, Blockchain for Europe, Osservatori Digital Innovation et Alastria, nous aborderons notamment les évolutions des infrastructures de marché, le développement des stablecoins et les prochaines étapes du cadre réglementaire européen.
 
 Au programme
 
-Stéphanie Lheureux (Euroclear)
-
-Mark Kepeneghian (Lise)
-
-Mirian Breuer (Börse Stuttgart)
-
-Markus Ferber (MEP)
-
-Stéphanie Cabossioras (SG-Forge)
-
-Brit Hecht (Qivalis)
-
-Emanuele Guzzoni (Bancomat)
-
-Patrick Hansen (Circle)
+- Stéphanie Cabossioras (SG-Forge)
+- Brit Hecht (Qivalis)
+- Emanuele Guzzoni (Bancomat)
+- Patrick Hansen (Circle)
 
 A Fireside Chat with AMF, Consob and BaFin
-
-Sébastien Raspiller (Secretary General - AMF)
-
-Nadia Linciano (Secretary General - Consob)
-
-BaFin (speaker TBC)
 
 Moderator : Dr. Hagen Weiss (Bundesblock)
 
 MiCA and Beyond: Is Europe Getting the Framework Right?
 
-Philipp Bohrn (Bitpanda)
-
-Faustine Fleuret (Morpho)
-
-Filippo Paternò di Raddusa (Revolut)
-
-Charles Canonne (DG FISMA-European Commission)
-
-Ondrej Kovarik (Former MEP, European Ethereum Institute, FTI)
+- Philipp Bohrn (Bitpanda)
+- Faustine Fleuret (Morpho)
+- Filippo Paternò di Raddusa (Revolut)
+- Charles Canonne (DG FISMA-European Commission)
+- Ondrej Kovarik (Former MEP, European Ethereum Institute, FTI)
 
 Infos pratiques
 
@@ -51472,67 +50380,9 @@ AMA Final
 
 ### About the event
 
-Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.
+Meow and Legion host an invitation-only poker evening for crypto founders in New York on October 13. Professional dealers run the tables, with drinks and pizza provided. The organizer describes the stakes as bragging rights.
 
-Hosted by Meow × Legion.
-
-By invitation only - seats are limited. 🃏
-
-### Event details
-
-Hosted by Matt Schkolnick, Matt O'Connor (Founder Legion.cc), Dustin Kamali. The event takes place on October 13. Registration requires organizer approval.
-
-<a id="event-6175066badd05668"></a>
-
-## Solana Across Campuses - San Diego State University
-
-- Record: `luma-batch-evt7gjnLEpvcig2Z`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-14T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/g1agc1dv>
-
-### About the event
-
-Solana Across Campuses is a nationwide initiative powered by College.xyz and Solana Foundation, bringing the Solana ecosystem directly to university campuses across the globe. We're inviting students to host their own campus meetup, a chance to bring builders, creators, and curious minds together to explore what's happening on Solana.
-
-These events are open to all students, not just blockchain club members. Anyone curious about crypto, from any major, is welcome to attend. Each event is designed to be simple to run and useful for students at every level: attendees will learn how to set up their first wallet, potentially walk away with some SOL, and see live examples of what is available within the Solana ecosystem.
-
-<a id="event-68c26f73d8124dc0"></a>
-
-## Bitcoin & Brews Port Moody
-
-- Record: `luma-batch-evtycWrx5n01IFcf`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-14T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2nrn1c75>
-
-### About the event
-
-Bitcoin & Brews - Port Moody
-
-Bitcoin. Beer. Good people.
-
-Join us at Brave Brewing Co. for a casual monthly meetup for Bitcoiners across Port Moody, the Tri-Cities, Vancouver and beyond.
-
-Whether you've been running a node for years or you're still trying to figure out what the hell a satoshi is, you're welcome here.
-
-No presentations. No sales pitches. No crypto hype.
-
-Just beers and good conversation about Bitcoin, self-custody, mining, privacy, adoption, markets, technology, and whatever else is happening in the Bitcoin world.
-
-Come meet other local Bitcoiners, swap ideas, ask questions, and have a pint with people who actually enjoy talking about this stuff.
-
-Newcomers are absolutely welcome.
-
-Bitcoin only
-
-Brave Brewing Co., Port Moody
-
-Free to attend - just grab yourself a drink
-
-See you there.
+Seats are limited and registration requires approval. The exact address is shared with registered guests.
 
 <a id="event-e35f4682749aa5ea"></a>
 
@@ -51656,7 +50506,7 @@ El manifiesto completo, los invitados con sus conversaciones y los detalles de l
 
 <a id="event-2e3ce663620d6f77"></a>
 
-## Build with Stripe: Adding Payments to Your Product
+## Build with Stripe Community: Build embedded payments into your platform or marketplace
 
 - Record: `luma-batch-evt8RezKQUn6TrHC`
 - Source: [luma-batch-events.json](sources/luma-batch-events.json)
@@ -51950,15 +50800,17 @@ Welcome to The Studio's Investor Fireside Chat series, where we put founders in 
 
 ### About the speaker
 
-Winnie Lau is a Partner at Strobe Ventures. She began her career as a strategy consultant and, prior to co-founding Strobe, was a Principal at BlockTower Capital, a crypto-native asset management firm. At Strobe, she covers everything across DeFi, stablecoin infrastructure, onchain applications, and AI. Growing up in Hong Kong and Guangzhou during the early days of the internet, Winnie saw firsthand the ability of technology and innovation to transform not only the socioeconomic landscape in China but also the consumer behaviors and culture of society. As such, she spent most of her early career exploring new consumer technologies and primitives.
+Winnie Lau (https://strobe.fund/team/winnie-lau) is a Partner at Strobe Ventures (https://strobe.fund/). She began her career as a strategy consultant and, prior to co-founding Strobe, was a Principal at BlockTower Capital, a crypto-native asset management firm. At Strobe, she covers everything across DeFi, stablecoin infrastructure, onchain applications, and AI. Growing up in Hong Kong and Guangzhou during the early days of the internet, Winnie saw firsthand the ability of technology and innovation to transform not only the socioeconomic landscape in China but also the consumer behaviors and culture of society.
+
+As such, she spent most of her early career exploring new consumer technologies and primitives.
 
 ### About The Studio
 
-The Studio is Monad Foundation's founder workspace in the heart of Manhattan, where early-stage teams building on Monad work side by side. It is 100% equity-free: zero equity, zero fees. Teams get dedicated desks, hands-on support on pitch, GTM, and fundraising, and direct access to the VCs, angels, and mentors who work from the space alongside them. Interested in building on Monad and want in? Learn more and apply at https://thestudio.monad.xyz/
+The Studio (https://thestudio.monad.xyz/?utm_source=luma)is Monad Foundation's founder workspace in the heart of Manhattan, where early-stage teams building on Monad work side by side. It is 100% equity-free: zero equity, zero fees. Teams get dedicated desks, hands-on support on pitch, GTM, and fundraising, and direct access to the VCs, angels, and mentors who work from the space alongside them. Interested in building on Monad and want in? Learn more and apply at https://thestudio.monad.xyz/
 
 ### About Monad Foundation
 
-The Monad Foundation is an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad will offer the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts).
+The Monad Foundation (https://www.monad.foundation/?utm_source=luma)is an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad will offer the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts).
 
 ### Disclaimer
 
@@ -52088,11 +50940,13 @@ Come and meet and collaborate with like-minded developers & builders, discover n
 
 On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
 
-For more info, reach out to us on the Solana UK Telegram.
+For more info, reach out to us on the Solana UK Telegram (https://t.me/+LsyQs0RHOX1iYTY0).
 
 ### About Superteam UK
 
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.
+
+Learn more and apply for membership at superteamuk.org (https://superteamuk.org)
 
 * This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
@@ -52348,25 +51202,27 @@ https://au.superteam.fun/colosseum for more information
 
 ### About the event
 
-Apply at https://islanddao.org/Register ONLY on the link above!
+Apply at https://islanddao.org/
+
+Register ONLY on the link above!
+
+For questions, join the islanddao telegram group:
+
+https://t.me/+3Ve0uhusm0Q0ZGY8
 
 The world class retreat of one month of coworking, connecting and networking with the top developers, founders, builders, investors in the Solana ecosystem is back and for the first time, we're going to LATAM.
 
-19 Oct- 11 Nov. 🇧🇷Florianópolis (Floripa), Brazil.
+19 Oct- 11 Nov. 🇧🇷
 
-Building
+Florianópolis (Floripa), Brazil.
 
-Feedback sessions
-
-Investor days
-
-Hackathon
-
-Demo Day
-
-Work opportunities
-
-Fitness & Wellness
+- Building
+- Feedback sessions
+- Investor days
+- Hackathon
+- Demo Day
+- Work opportunities
+- Fitness & Wellness
 
 and more
 
@@ -52374,15 +51230,9 @@ https://x.com/islanddao/status/2085390922171228345?s=20
 
 Follow us:
 
-https://islanddao.org/
-
-https://x.com/islanddao
-
-https://www.youtube.com/@IslandDAO
-
-### Event details
-
-Hosted by Takisoul, Superteam Brasil. The event takes place on October 19.
+- https://islanddao.org/
+- https://x.com/islanddao
+- https://www.youtube.com/@IslandDAO
 
 <a id="event-b6db4ffa41c0ef32"></a>
 
@@ -52472,7 +51322,11 @@ For questions, please contact: mail@blockstories.io
 
 ### About the event
 
-An invite-only series of gatherings across Europe, hosted by Solana and Allfunds, bringing together the people shaping the next chapter of institutional finance onchain.
+An invite-only series of gatherings across Europe, hosted by Solana and Allfunds, bringing together the people shaping the next chapter of institutional finance onchain. Speakers include:
+
+- Ruben Nieto, Managing Director, Allfunds Blockchain
+- Simon Seiter, Managing Director & CFO/CPO, AllUnity
+- Ben Brophy, Head of Institutional Growth - Europe, Solana Foundation
 
 As recently announced, Solana and Allfunds Blockchain have reached an agreement under which Allfunds Blockchain will be expanding distribution of its tokenised funds to Solana: establishing a direct commercial bridge between traditional fund distribution networks and public, on-chain markets.
 
@@ -52492,7 +51346,7 @@ The Solana Foundation is a non-profit organisation based in Zug, Switzerland, de
 
 House of Sol is a sanctuary for institutions and DeFi on Solana. It serves as an exclusive members' club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.
 
-Learn more and apply for membership at houseofsol.org
+Learn more and apply for membership at houseofsol.org (https://houseofsol.org)
 
 This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
@@ -52757,143 +51611,158 @@ Twitter | LinkedIn | Website
 
 <a id="event-1ce8bbfb068c1c04"></a>
 
-## Merkle Science Meet Las Vegas: Enterprise Compliance for Digital Assets
+## Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin
 
 - Record: `luma-batch-evt9nYvpCnI7IZyX`
 - Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-20T19:00:00.000Z
+- Starts: 2026-10-20T20:30:00.000Z
 - Description: Source-backed
 - Original page: <https://luma.com/yqb3o4cs>
 
-### About the event
+### Merkle Science Meet Las Vegas 2026 🇺🇸
 
-Join Merkle Science at Caeser Palace in Las Vegas during Money20/20 for an afternoon of focused discussion on enterprise compliance for digital assets.
+October 20, 2026 | Caesars Palace, Las Vegas | During Money20/20 USA, (Room Augustus III)
 
-Hosted and sponsored by global law firm Duane Morris, the event is supported by Aleo, a privacy-first blockchain; Stablecon, a conference for the stablecoin ecosystem; nSure.ai, an AI-powered payment fraud prevention platform; Movantis, a cross-border payments infrastructure provider; and Range, a treasury, risk, and compliance platform for programmable money.
+Join us at Caesars Palace during Money20/20 USA for the Merkle Science Meet Las Vegas 2026, brought to you by Merkle Science in collaboration with Duane Morris LLP.
 
-This edition of Merkle Science Meet brings together leaders from financial institutions, fintechs, payment providers, and digital asset companies to examine the practical realities behind programmable money.
+This exclusive gathering will bring together leaders from financial institutions, fintechs, payment providers, and digital asset companies for an afternoon of focused discussions on enterprise compliance, stablecoins, programmable money, and the future of financial infrastructure.
 
-The program will explore evolving compliance requirements, AI-driven risk management, bank-crypto convergence, and the growing use of stablecoins for cross-border payments. Expect candid conversations grounded in what companies are building today, where regulatory and operational challenges remain, and what the next phase of institutional adoption may look like.
+Hosted with Merkle Science & Duane Morris LLP, the event will feature expert-led panels, product demonstrations, and networking opportunities with industry leaders shaping the next generation of financial services.
 
-### What to expect
+### Our Sponsors & Partners
 
-Short, substantive sessions led by industry practitioners
+Merkle Science - Blockchain Intelligence & Compliance
 
-Perspectives from payments, banking, fintech, compliance, and digital assets
+Helping businesses investigate digital assets, monitor transactions, and manage financial crime risk.
 
-Practical discussions covering regulation, infrastructure, risk, and real-world implementation
+Duane Morris LLP - Host & Lead Sponsor
 
-Product demonstrations and opportunities to connect with speakers and attendees
+An international law firm advising on legal, regulatory, and commercial matters, including financial services, fintech, and digital assets.
 
-Drinks and networking following the program
+Aleo - Privacy-First Blockchain
 
-### Agenda
+A blockchain platform using zero-knowledge cryptography to enable programmable applications while protecting sensitive information.
 
-1:30 PM-1:50 PM | Arrival and networking
+Stablecon - Stablecoin Ecosystem Partner
 
-Light refreshments and informal networking.
+An industry event and community platform connecting leaders across stablecoins, payments, banking, and digital assets.
 
-1:50 PM-2:00 PM | Welcome remarks
+nSure.ai (https://nSure.ai) - AI-Powered Fraud Prevention
 
-Opening remarks from Merkle Science leadership.
+An AI-powered platform helping businesses detect payment fraud and strengthen transaction risk management.
 
-2:00 PM-2:40 PM | Crypto Payments in the Age of Programmable Money
+Movantis - Cross-Border Payments Infrastructure
 
-Stablecoins and tokenized deposits are entering the payments stack alongside card rails, ACH, and wire networks. This panel will examine how payment compliance programs must adapt when settlement becomes near-instant and programmable, how transaction-monitoring tools are evolving to handle blockchain-native flows and on- and off-ramp activity, and how payment companies are navigating the overlap between traditional money-transmission obligations and emerging digital asset requirements.
+Helping businesses streamline international payments, currency conversion, and settlement.
 
-Panelists:
+Fiat Republic - Banking Infrastructure for Digital Assets
 
-Adam Leaman, Chief Compliance Officer, zerohash
+Connecting crypto and Web3 businesses with fiat banking and payment services.
 
-João Reginatto, Chief Product Officer, M0
+BlindPay - Global Stablecoin Payments
 
-Connor Fitzgerald, General Manager, US, KAST
+API-based infrastructure enabling businesses to integrate stablecoin payments and cross-border transfers.
 
-Ezra Kebrab, CEO, Caliza
+Range - Treasury, Risk & Compliance
 
-Georgi Koreli, CEO, Hinkal
+Digital asset infrastructure supporting transaction monitoring, risk assessment, and compliance operations.
 
-Chris Grieco, Chief Legal Officer, Rain
+### What to Expect
 
-Liz Bazurto, Senior Director, Business Development and Partnerships, Consensys
+- Expert-led panels featuring leaders across banking, payments, fintech, compliance, and digital assets
+- Practical discussions on regulation, fraud prevention, transaction monitoring, and risk management
+- Insights into stablecoins, programmable money, and cross-border payments
+- Product demonstrations from Merkle Science, Range, and BlindPay
+- Networking with speakers, sponsors, and fellow industry professionals
 
-Moderator:
+### Event Agenda
 
-Verina Youssef, VP, Crypto Relationship Management, First Citizens Innovation Bank
+1:30 PM - 1:50 PM | Arrival & Networking
 
-2:40 PM-2:55 PM | Range demo
+Arrive, meet fellow attendees, and enjoy informal networking before the programme begins.
 
-2:55 PM-3:35 PM | AI, Risk and the Future of Stablecoin Infrastructure
+1:50 PM - 2:00 PM | Welcome Remarks
 
-As stablecoins and digital assets become increasingly integrated into mainstream financial infrastructure, AI is playing a growing role in how institutions manage risk, compliance, and operational complexity.
+Opening remarks from Merkle Science leadership to introduce the event and the key themes shaping the digital asset compliance landscape.
 
-This session will explore how financial institutions, fintechs, payment providers, and digital asset companies are using AI to strengthen risk management, improve transaction monitoring, and scale compliance across increasingly complex financial flows. Speakers will also discuss the limitations of AI-driven compliance, the continued importance of human oversight, and how institutions are approaching the risks created by AI's growing role in financial infrastructure.
+2:00 PM - 2:20 PM | Merkle Science Product Demo
 
-Panelists:
+Discover how Merkle Science supports blockchain intelligence, transaction monitoring, digital asset investigations, and compliance programmes.
 
-Kunal Datta, Chief Product Officer, Unit21
+2:20 PM - 3:00 PM | Panel 1: Crypto Payments in the Age of Programmable Money
 
-Alex Zeltcer, CEO, nSure.ai
+Stablecoins and tokenized deposits are increasingly entering the payments stack alongside card networks, ACH, and wire transfers. This panel explores how compliance programmes must adapt to programmable settlement, blockchain-native transactions, on/off-ramp activity, and evolving money-transmission requirements.
 
-Toby Oyetoke, Co-Founder and CEO, Bitpowr
+Panelists
 
-Evan F. Kohlmann, CEO, Cloudburst Technologies
+- João Reginatto - Chief Product Officer, M0
+- Connor Fitzgerald - General Manager, US, KAST
+- Tom Borgers - CEO, Walapay
+- Georgi Korelli - CEO, Hinkal
+- Chris Grieco - Chief Legal Officer, Rain
+- Liz Bazurto - Senior Director, Business Development & Partnerships, Consensys
 
-3:35 PM-3:55 PM | Break
+Moderator
 
-3:55 PM-4:35 PM | Bank-Crypto Convergence: How Traditional Finance Is Engaging with Digital Assets
+- Verina Youssef - VP, Crypto Relationship Management, First Citizens Innovation Bank
 
-Banks are revisiting their approach to crypto custody, stablecoin issuance, digital asset payments, and lending. This panel brings together perspectives from banking, compliance, and fintech to examine how that convergence is taking shape: what institutions are building or acquiring, how risk frameworks are adapting, and what the shift means for crypto-native companies competing for the same institutional customers.
+3:00 PM - 3:20 PM | Range & BlindPay Product Demos
 
-Panelists:
+Explore solutions for digital asset risk management, compliance, and stablecoin payment infrastructure, with demonstrations from Range and BlindPay.
 
-Harry Bridge, Head of Stablecoin, Aztec
+3:20 PM - 4:00 PM | Panel 2: AI, Risk & the Future of Stablecoin Infrastructure
 
-Bernardo Simonassi, CEO, BlindPay
+As stablecoins become more integrated into mainstream financial infrastructure, institutions face growing challenges around fraud, financial crime, and transaction risk. This panel explores how blockchain analytics, transaction monitoring, and AI-driven tools can strengthen risk management and support scalable compliance.
 
-Ben Milne, Co-Founder and CEO, Brale
+Panelists
 
-Serena Sebastiani, Chief Strategy Officer, Fuze
+- Kunal Datta - Chief Product Officer, Unit21
+- Alex Zeltcer - CEO, nSure.ai (https://nSure.ai)
+- Evan F. Kohlmann - CEO, Cloudburst Technologies
+- Ryan Dusseault - Managing Director, FTI Consulting (Former OCC)
+- Thomas Hyun - Director, Cryptocurrency Compliance, Forensic Risk
 
-Representative, Range
+Moderator: To be confirmed
 
-Beth, General Counsel, Bastion
+4:00 PM - 4:20 PM | Networking Break
 
-Moderator:
+Take a short break, connect with fellow attendees, and continue conversations with speakers and partners.
 
-Sanjib Kalita, President, Stablecon
+4:20 PM - 5:00 PM | Panel 3: Bank-Crypto Convergence: How Traditional Finance Is Engaging with Digital Assets
 
-4:35 PM-4:50 PM | Product demonstration
+Banks are reassessing their approach to crypto custody, stablecoin issuance, and digital asset lending. This panel examines how traditional financial institutions are engaging with digital assets, adapting risk frameworks, and competing for institutional customers.
 
-4:50 PM-5:30 PM | Cross-Border Payments, Remittances and the Stablecoin Opportunity
+Panelists
 
-Stablecoins are increasingly being used to address the cost and speed limitations of cross-border payments and remittances, particularly in corridors underserved by correspondent banking.
+- Harry Bridge - Head of Stablecoin, Aztec
+- Ben Milne - CEO & Co-Founder, Brale
+- Serena Sebastiani - Chief Strategy Officer, Fuze
+- Jeremy Vaughn - Founder & CEO, Rimark
+- Beth - General Counsel, Bastion
+- Sinclair Toffa - CEO & Co-Founder, Mural
 
-This panel will take a practical look at where the opportunity is already becoming real and where adoption remains constrained by licensing requirements, foreign-exchange conversion, liquidity, and last-mile infrastructure. Speakers will discuss active payment corridors, the compliance requirements involved in operating across them, and how competition is evolving as banks, fintechs, trading firms, and crypto-native companies pursue the same market.
+Moderator
 
-Panelists:
+- Sanjib Kalita - President, Stablecon
 
-Sophia Roman, Director of Partnerships, Aleo
+5:00 PM - 5:40 PM | Panel 4: Cross-Border Payments, Remittances & the Stablecoin Opportunity
 
-Sandeep Pyapali, Founder and CEO, Mesta
+Stablecoins offer new ways to improve the speed and cost of international payments, particularly in underserved corridors. This panel examines real-world adoption, licensing requirements, foreign-exchange conversion, liquidity, and last-mile infrastructure, alongside the evolving competition between banks, fintechs, and crypto-native businesses.
 
-João Borges, Chief Revenue Officer, BlindPay
+Panelists
 
-Wei Zhou, CEO and President, Coins.ph
+- Sandeep Pyapi - Founder & CEO, Mesta
+- João Borges - Chief Revenue Officer, BlindPay
+- Noah Levine - Partner, a16z
+- Prashant Upadhyay - CEO & Co-Founder, PrimeVault
+- Salvador Yañez - Chief Product Officer, Movantis
+- Logan Xu - Head of LATAM, Cregis
 
-Daniel Lev, Co-Founder and CEO, Coinflow
+Moderator: To be confirmed
 
-Noah Levine, Partner, a16z
+5:30 PM - 7:00 PM | Reception & Networking
 
-Prashant Upadhyay, Co-Founder and CEO, PrimeVault
-
-Salvador Yañez, Chief Product Officer, Movantis
-
-From 5:30 PM | Closing remarks, drinks and networking
-
-Continue the conversation with speakers and fellow attendees over drinks.
-
-Limited seats are available. Registration is required to attend.
+Continue the conversation with speakers, sponsors, partners, and fellow attendees over drinks in a relaxed networking setting.
 
 Speaker lineup and program are subject to change.
 
@@ -52939,6 +51808,22 @@ Interested in Speaking? Apply Here
 
 Looking for ways to get involved? Volunteer at Cryptolina 2026
 
+<a id="event-6175066badd05668"></a>
+
+## Solana Across Campuses - San Diego State University
+
+- Record: `luma-batch-evt7gjnLEpvcig2Z`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-21T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/g1agc1dv>
+
+### About the event
+
+Solana Across Campuses is a nationwide initiative powered by (http://college.xyz/?utm_source=luma)College.xyz (https://College.xyz) and Solana Foundation, bringing the Solana ecosystem directly to university campuses across the globe. We're inviting students to host their own campus meetup, a chance to bring builders, creators, and curious minds together to explore what's happening on Solana.
+
+These events are open to all students, not just blockchain club members. Anyone curious about crypto, from any major, is welcome to attend. Each event is designed to be simple to run and useful for students at every level: attendees will learn how to set up their first wallet, potentially walk away with some SOL, and see live examples of what is available within the Solana ecosystem.
+
 <a id="event-f649e05c77eb82ce"></a>
 
 ## Money20/20 Happy Hour
@@ -52957,13 +51842,13 @@ Access operates on a first come, first serve basis.
 
 Approved RSVP is required for entry.
 
-About Turnkey | https://www.turnkey.com/
+About Turnkey | https://www.turnkey.com (https://www.turnkey.com/)/ (http://turnkey.com?utm_source=event&utm_medium=luma&utm_campaign=money2020constellations)
 
 Turnkey provides secure, scalable, and programmable infrastructure for embedded wallets and onchain transaction automation. Create wallets, execute transactions, and manage policies - all with one flexible API.
 
 About Lightspark | https://www.lightspark.com
 
-Lightspark is the open infrastructure for moving money worldwide. One integration to send, receive, hold, spend, and convert money in any currency, fiat or stablecoin, across 65+ countries. With Global Accounts, any business gives its users a dollar account and keeps the economics of every transaction. Follow on X @lightspark.
+Lightspark is the open infrastructure for moving money worldwide. One integration to send, receive, hold, spend, and convert money in any currency, fiat or stablecoin, across 65+ countries. With Global Accounts, any business gives its users a dollar account and keeps the economics of every transaction. Follow on X (https://x.com/lightspark) @lightspark.
 
 <a id="event-80f5b45f2a5f9b85"></a>
 
@@ -52990,6 +51875,42 @@ Privy, a Stripe company, provides secure, scalable onboarding and wallet infrast
 ### Event details
 
 Organized by Privy. Venue: HaSalon Las Vegas, HaSalon Las Vegas, Palazzo side of the Venetian Resort, 3325 S Las Vegas Blvd, Las Vegas, NV 89109, USA. Tickets: Free.
+
+<a id="event-68c26f73d8124dc0"></a>
+
+## Bitcoin & Brews Port Moody
+
+- Record: `luma-batch-evtycWrx5n01IFcf`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-21T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2nrn1c75>
+
+### About the event
+
+Bitcoin & Brews - Port Moody
+
+Bitcoin. Beer. Good people.
+
+Join us at Brave Brewing Co. for a casual monthly meetup for Bitcoiners across Port Moody, the Tri-Cities, Vancouver and beyond.
+
+Whether you've been running a node for years or you're still trying to figure out what the hell a satoshi is, you're welcome here.
+
+No presentations. No sales pitches. No crypto hype.
+
+Just beers and good conversation about Bitcoin, self-custody, mining, privacy, adoption, markets, technology, and whatever else is happening in the Bitcoin world.
+
+Come meet other local Bitcoiners, swap ideas, ask questions, and have a pint with people who actually enjoy talking about this stuff.
+
+Newcomers are absolutely welcome.
+
+Bitcoin only
+
+Brave Brewing Co., Port Moody
+
+Free to attend - just grab yourself a drink
+
+See you there.
 
 <a id="event-cd8382d8b929b8cc"></a>
 
@@ -53401,48 +52322,6 @@ Whether you already know My First Bitcoin, are deeply involved in Bitcoin, or ar
 
 Be among the first to see the film. Stay for the conversation. Meet the people helping build the global Bitcoin education movement.
 
-<a id="event-e99c145849f71f7c"></a>
-
-## Encode London Hackathon and Conference
-
-- Record: `luma-batch-7iIJgmckKWYczPb`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-23T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/encode-london-2026>
-
-### About the event
-
-We're excited to return to London for another year of hands-on creation, learning, and community building. Encode London 2026 brings together developers, founders, researchers, students, and innovators for a dual-track experience: a high-energy hackathon alongside a day of talks and discussions on the cutting edge of AI and Web3.
-
-This year's event continues our mission of fostering world-class builders while creating a space to explore new technologies, collaborate with peers, and bring ambitious ideas to life.
-
-Hackathon Overview
-
-A full 3 days of non-stop hacking, where teams will build projects aligned with emerging AI and Web3 themes. Participants can expect challenges, bounties, mentorship, and the chance to showcase their work to a panel of judges.
-
-Final details - including themes, prize categories, and challenge tracks - will be announced soon.
-
-Event Themes
-
-We'll share the 2026 themes soon - including both technical and creative tracks designed to help builders explore emerging ideas in AI, crypto, and decentralised systems.
-
-Event Timeline
-
-A full weekend of hacking, learning, and community.The exact schedule - including opening ceremony, workshops, conference sessions, judging, and finale - will be released ahead of the event.
-
-Prizes, Challenges & Partners
-
-Expect exciting bounties, partner challenges, and category awards.All partners, prizes, and judges for Encode London 2026 will be announced in the coming months.
-
-Venue: The Encode Hub
-
-The event will once again take place at the Encode Hub - our community space for AI and Web3 builders in the heart of Shoreditch.
-
-Partnership & Sponsorship
-
-Interested in sponsoring, partnering, or getting involved?Contact katerina@encode.club for more details.
-
 <a id="event-ce43e59053a4cd7b"></a>
 
 ## Co-Working Fridays : London Chapter
@@ -53463,17 +52342,104 @@ Come and meet and collaborate with like-minded developers & builders, discover n
 
 On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
 
-For more info, reach out to us on the Solana UK Telegram.
+For more info, reach out to us on the Solana UK Telegram (https://t.me/+LsyQs0RHOX1iYTY0).
 
 ### About Superteam UK
 
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.
+
+Learn more and apply for membership at superteamuk.org (https://superteamuk.org)
 
 * This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
 ** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
 
 By signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.
+
+<a id="event-e99c145849f71f7c"></a>
+
+## Encode London Hackathon
+
+- Record: `luma-batch-7iIJgmckKWYczPb`
+- Source: [luma-batch-events.json](sources/luma-batch-events.json)
+- Starts: 2026-10-23T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/encode-london-2026>
+
+### About the event
+
+We're excited to return to London for another year of hands-on creation, learning, and community building. Encode London 2026 brings together developers, founders, researchers, students, and innovators for a dual-track experience: a high-energy hackathon!
+
+This year's event continues our mission of fostering world-class builders while creating a space to explore new technologies, collaborate with peers, and bring ambitious ideas to life.
+
+### Hackathon Overview
+
+A full 3 days of non-stop hacking, where teams will build projects aligned with emerging AI and Web3 themes. Participants can expect challenges, bounties, mentorship, and the chance to showcase their work to a panel of judges.
+
+This year there are two open challenges, plus a Saint bounty (below). Prize categories and judges will be announced soon.
+
+### Challenges
+
+The Real World: AI that understands the world around us
+
+Build software that makes sense of the physical world from photos, audio, maps and open data. Some ideas to get you started:
+
+- An accessibility guide that describes a street or venue from photos
+- A "what's happening near me" explorer built on live open data
+- A trip or hike conditions planner
+- Wildlife and plant ID from photos or recordings
+- A city noise or air-quality map built from public datasets
+- A tool that spots potholes or fly-tipping in a photo and drafts the council report
+
+Agents That Ship
+
+Build an AI agent that does a real job end to end, not just a chatbot. Pick a task someone does by hand today and have your agent see it through: using real tools, recovering when things go wrong and checking with a human before the risky steps. Some ideas:
+
+- Small-business operations: chasing invoices, reconciling payments, booking suppliers
+- Research briefs and competitor reports that check their own sources
+- A developer agent that takes an issue and opens a tested pull request
+- Agents that hand work to each other, or pay and get paid for it
+
+Saint Bounty: Best Use of Saint
+
+Saint is a personal AI assistant: an AI colleague that works inside your own email, calendar, documents and browser. Give it a job in plain English and it does the work - research, outreach, admin, building and shipping small apps - then tells you what it changed and asks before anything risky. Put one to work on something real over the weekend, or build something that makes a Saint more useful. A small number of Saints will be available for teams that want one.
+
+- Give it a job: a workflow it runs end to end for your project or your team
+- Build for it: a tool, integration or interface that makes a Saint more useful
+- Give it to someone: a Saint solving a real problem for a person or business you know
+
+Prize: £200 in cash for the winning team (one prize, not a pool), a Saint each for the team members, and 3 months of Saint free for the team.
+
+The winning team also gets a set-up call to get their Saints running. If your team wants a Saint before the hackathon, you can sign up at saint.work (https://saint.work) or ask us at the event.
+
+### Event Timeline
+
+A full weekend of hacking, learning, and community.
+
+The exact schedule - including opening ceremony, workshops, conference sessions, judging, and finale - will be released ahead of the event.
+
+### Partners & Prizes
+
+Encode London 2026 is supported by:
+
+- Google DeepMind
+- MongoDB
+- Arc
+- Saint
+
+More partners, prizes and judges will be announced soon.
+
+### Venue: The Encode Hub
+
+http://hub.encode.club/
+
+The event will once again take place at the Encode Hub - our community space for AI and Web3 builders in the heart of Shoreditch.
+
+### Partnership & Sponsorship
+
+Interested in sponsoring, partnering, or getting involved?
+
+Contact katerina@encode.club for more details.
 
 <a id="event-9555802abee8d2bb"></a>
 
@@ -53523,7 +52489,7 @@ Website: bitcoinindonesia.xyz
 
 <a id="event-932d9488ddcc4836"></a>
 
-## Cocktail Party at Our New Office - SNC
+## Evening Panel + Rooftop Cocktails - our new home at SNC
 
 - Record: `luma-batch-evt8I0lRm1lzJXpE`
 - Source: [luma-batch-events.json](sources/luma-batch-events.json)
@@ -53533,37 +52499,44 @@ Website: bitcoinindonesia.xyz
 
 ### About the event
 
-We moved in. Come see the place, and stay for the panel.
+We've moved into Startup Nation Central!
 
-After a full day of Office Hours downstairs, the evening opens with a panel and finishes on the roof. Eighty seats, approval-based - if you have a confirmed 1:1 that day, you are approved first.
+Come check out the new space, join us for an unfiltered panel discussion on the 4th floor, and wrap up the evening with drinks on the rooftop.
 
-### AGENDA
+After a full day of Office Hours across our offices, we're hosting an intimate evening featuring speakers from the Mid-Chain lineup alongside selected Office Hours hosts. They'll dig into the realities of building: what worked, what failed, and what they'd do differently. The final panel lineup will be announced to approved guests ahead of the event.
 
-18:00 Doors, floor 4
+This year's Office Hours hosts include:
 
-18:30 - 19:15 Panel - the headline of the evening. Panelists are drawn from the Mid-Chain speaker list and the Office Hours hosts; the lineup goes out to registrants before the date.
+- Eli Ben-Sasson (StarkWare)
+- Dror Avieli (Elliptic)
+- Arkady Karpman (Rapyd)
+- Ehud Naos (Mamram Alumni Association)
+- Shauli Rejwan (Masterkey VC)
 
-19:15 - 21:00 Cocktails on the rooftop
+### Agenda
 
-### DETAILS
+- 18:00 Doors open (4th Floor)
+- 18:30-19:15 Panel Discussion (4th Floor)
+- 19:15-21:00 Cocktails & Networking on the Rooftop
 
-Sunday, October 25, 2026, 18:00 - 21:00
+When & Where
 
-Startup Nation Central, Lilienblum St 28, Tel Aviv-Yafo - floor 4 and the roof
+- Date & Time: Sunday, 25 October 2026 - 18:00-21:00
+- Location: Startup Nation Central, Lilienblum St 28, Tel Aviv - 4th Floor & Rooftop
+- Access: Free - Approval required - Strictly capped. (Confirmed 1:1 Office Hours participants receive priority approval).
 
-Free. Approval required. 80 seats.
+Looking for a 1:1 Slot?
 
-This is the evening half of a full day at our offices. Office Hours - 20-minute 1:1s with people who already solved your problem - runs during the day and is booked separately.
+Office Hours sessions are booked separately. Submit your application by Sunday, 18 October via: https://office-hours-landing.vercel.app
 
-STAY CONNECTED
+### About Web3 Devs Underground
 
-All events: lu.ma/web3devs_underground
+Israel's largest technical community for Web3 developers. Built by builders, for builders, featuring deep-dive technical talks from protocol creators. 50+ events since 2022.
 
-Website: web3devs.org
-
-Hosted by Web3 Devs Underground.
-
-Powered by Masterkey VC.
+- Web: web3devs.org (https://web3devs.org)
+- Telegram: https://t.me/+-sEflgfrqDoyYWVk
+- YouTube: @web3devsunderground
+- X: @Web3_Devs
 
 <a id="event-f10d979011302b0b"></a>
 
@@ -53577,7 +52550,7 @@ Powered by Masterkey VC.
 
 ### About the event
 
-Toda la información y el programa: https://lafamilia.so/el-encuentro/
+Toda la información y el programa: https://lafamilia.so/ir/encuentro-luma
 
 Vuelve el evento insignia de La Familia, uno de los principales puntos de reunión del ecosistema Solana en España.
 
@@ -53591,7 +52564,11 @@ Si estás construyendo, formas parte de una comunidad, lideras un proyecto o qui
 
 Seguiremos compartiendo más información sobre la agenda, speakers y actividades confirmadas a través de nuestras redes sociales. No te pierdas las próximas actualizaciones aquí:
 
-Links: La Familia
+Links: La Familia (https://lafamilia.so/links)
+
+Este evento se fotografía y graba.
+
+Código de conducta: lafamilia.so/conducta (https://lafamilia.so/conducta)
 
 Nos vemos en El Encuentro 2026
 
@@ -53720,7 +52697,7 @@ PwC Netherlands
 
 Limited & curated attendance
 
-From regulation to implementation
+### From regulation to implementation
 
 The session will be led by PwC's team of operational tax experts, specializing in areas including FATCA/CRS, CESOP and Digital Services Taxes. The team includes a former OECD member who contributed to the development of CARF, complemented by operational tax professionals with more than 10 years of experience in the financial sector.
 
@@ -53728,7 +52705,7 @@ Rather than focusing solely on the technical regulation, this session is designe
 
 What does CARF/DAC8 actually mean for your organization? What do you need to prepare? Where are the known pitfalls? And what challenges are other organizations already encountering?
 
-The 5 Building Blocks of CARF
+### The 5 Building Blocks of CARF
 
 During the roundtable, PwC will take participants through five key areas:
 
@@ -53754,7 +52731,7 @@ Establishing the right policies, procedures, responsibilities, and internal gove
 
 For each building block, we'll connect the regulatory requirements with real-world implementation, known pitfalls, and challenges PwC is seeing across the market.
 
-An interactive roundtable
+### An interactive roundtable
 
 This is deliberately a small-scale and interactive session, not a traditional conference.
 
@@ -53806,11 +52783,11 @@ Un evento pensado para quienes ya están en el cambio y quieren seguir avanzando
 
 _____
 
-Responsable: Bitcoinforme, S.L. (Bit2Me). Finalidad: gestionar tu inscripción y participación en el Bit2Me Side Event - MERGE Madrid 2026, incluidas comunicaciones relacionadas con el evento (por email o Telegram). Legitimación: interés legítimo del responsable (art. 6.1.f RGPD). Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a rgpd@bit2me.com. Consulta la información ampliada sobre este tratamiento, destinatarios y plazo de conservación en nuestra Política de Privacidad.
+Responsable: Bitcoinforme, S.L. (Bit2Me). Finalidad: gestionar tu inscripción y participación en el Bit2Me Side Event - MERGE Madrid 2026, incluidas comunicaciones relacionadas con el evento (por email o Telegram). Legitimación: interés legítimo del responsable (art. 6.1.f RGPD). Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad escribiendo a rgpd@bit2me.com. Consulta la información ampliada sobre este tratamiento, destinatarios y plazo de conservación en nuestra Política de Privacidad (https://legal.bit2me.com/es/support/solutions/articles/35000291559).
 
 <a id="event-bf29ddcef83362a1"></a>
 
-## TUM Blockchain Conference 26 + Hackathon
+## TUM Blockchain Conference 26 / Digital Assets Day + Hackathon
 
 - Record: `luma-batch-evt9GgBM7ScK61zT`
 - Source: [luma-batch-events.json](sources/luma-batch-events.json)
@@ -53820,9 +52797,9 @@ Responsable: Bitcoinforme, S.L. (Bit2Me). Finalidad: gestionar tu inscripción y
 
 ### About the event
 
-HACKATHON REGISTRATION OPENS SOON. CONFERENCE TICKETS ARE AVAILABLE.
-
 https://conference26.tum-blockchain.com/
+
+register for the hackathon: https://hackathon.tum-blockchain.com/
 
 The blockchain ecosystem deserves a home. A place where the people actually get together to build the future of this industry. The researchers, the founders, the engineers, the policymakers can all be in the same room, have the conversations that matter and leave with something they didn't have when they arrived.
 
@@ -53870,15 +52847,11 @@ The Evening
 
 An invitation-only evening bringing together the people shaping Australia's digital asset sector. Designed for recognition, discussion, strategic connection and the live reveal of the 2026 [DA] Top 50.
 
-Date: 29 October 2026
-
-Time: 6:00 - 11:00pm
-
-Location: Sydney, NSW
-
-Dress: Business attire
-
-Attendance: Strictly by invitation
+- Date: 29 October 2026
+- Time: 6:00 - 11:00pm
+- Location: Sydney, NSW
+- Dress: Business attire
+- Attendance: Strictly by invitation
 
 The room is a curated guest list of senior stakeholders across digital assets, payments and financial services. The common thread is not industry category. It is the ability to influence where the market goes next.
 
@@ -53886,11 +52859,11 @@ Take Part
 
 Attendance is by invitation. Register your interest and we will be in touch as the list is finalised.
 
-Find out more at dalist.com.au
+Find out more at dalist.com.au (https://dalist.com.au)
 
 <a id="event-5415c51656aa2b2a"></a>
 
-## AWIC x MERGE Madrid: Breakfast, Panel & Networking
+## AWIC x MERGE Madrid: Panel & Networking
 
 - Record: `luma-batch-evt6EvkOXhufIAua`
 - Source: [luma-batch-events.json](sources/luma-batch-events.json)
@@ -53900,7 +52873,7 @@ Find out more at dalist.com.au
 
 ### About the event
 
-AWIC x MERGE Madrid: Breakfast, Panel & Networking
+AWIC x MERGE Madrid: Panel & Networking
 
 Join the Association for Women in Cryptocurrency for a morning gathering during MERGE Madrid, bringing together professionals and industry leaders from across the digital asset ecosystem.
 
@@ -53912,17 +52885,15 @@ Following the panel, attendees will have the opportunity to continue the convers
 
 Panelists:
 
-Dr. Agata Slater - Hedera
+Dr. Agata Slater (https://www.linkedin.com/in/agata-slater/) - Hashgraph
 
-Pamela Clegg - Inca Digital
+Pamela Clegg (https://www.linkedin.com/in/pamela-c-16261b123/) - Inca Digital
 
-Tiburcio Sanz - TaxBit
+Tiburcio Sanz (https://www.linkedin.com/in/tiburcio-sanz/) - TaxBit
 
 Moderator:
 
-Sol Cinosi - Association for Women in Cryptocurrency
-
-Breakfast will be served during registration.
+Sol Cinosi (https://www.linkedin.com/in/solcinosi/) - Association for Women in Cryptocurrency
 
 We look forward to welcoming you to Madrid for a morning of discussion, exchange, and connection during MERGE Madrid.
 
@@ -53936,9 +52907,7 @@ We look forward to welcoming you to Madrid for a morning of discussion, exchange
 - Description: Source-backed
 - Original page: <https://luma.com/yjhzi8vg>
 
-### About the event
-
-Hong Kong Crypto Compliance & Legal Community Drinks
+### Hong Kong Crypto Compliance & Legal Community Drinks
 
 Join us on Thursday, October 29 from 6pm onwards for a relaxed evening of drinks and conversation with the Hong Kong Crypto Compliance & Legal Community.
 
@@ -53948,13 +52917,10 @@ There's no agenda, no panels - just good conversations and a welcoming crowd.
 
 Expect:
 
-A friendly and relaxed atmosphere
-
-Conversations on crypto compliance, legal and regulatory developments
-
-Opportunities to connect with professionals from across the digital asset ecosystem
-
-A chance to unwind after work over a glass of wine or a beer
+- A friendly and relaxed atmosphere
+- Conversations on crypto compliance, legal and regulatory developments
+- Opportunities to connect with professionals from across the digital asset ecosystem
+- A chance to unwind after work over a glass of wine or a beer
 
 Whether you're working at a crypto company, bank, law firm, regulator or advisory firm, we'd love to have you join us.
 
@@ -53986,11 +52952,13 @@ Come and meet and collaborate with like-minded developers & builders, discover n
 
 On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
 
-For more info, reach out to us on the Solana UK Telegram.
+For more info, reach out to us on the Solana UK Telegram (https://t.me/+LsyQs0RHOX1iYTY0).
 
 ### About Superteam UK
 
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.
+
+Learn more and apply for membership at superteamuk.org (https://superteamuk.org)
 
 * This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
@@ -54222,7 +53190,9 @@ https://npub1lg9whpm99hhaghtqf7qdku44ypdm0e7lvfcdmvzcz0ckzxpjx3lsp5htk4.nsite.ru
 
 ### About the event
 
-Sidequest offers free morning chai during Devcon week. Attendees can join once or return on each of the four mornings; there is no formal program.
+Interspace Studio's Sidequest offers free morning chai during Devcon week in Mumbai. Attendees can stop by before the conference opens, meet other early arrivals and return on any of the four mornings.
+
+There is no formal program or badge scan. Check the Sidequest calendar for the chai cart's location.
 
 <a id="event-0e6510c16caf4efb"></a>
 
@@ -54236,7 +53206,11 @@ Sidequest offers free morning chai during Devcon week. Attendees can join once o
 
 ### About the event
 
-Launchnodes and GSR Foundation host a program about using staking and stablecoin yield to fund social impact. The agenda includes fireside conversations, a keynote and panels with donors, foundations and builders.
+Launchnodes and GSR Foundation co-host The Yield Layer of Social Impact, a half-day Devcon side event for donors, impact organizations, foundations and the protocols supporting onchain yield.
+
+The discussion examines how staking and stablecoin yield can support social impact while donors retain their principal. The program includes fireside conversations, an impact keynote and panels about existing infrastructure, sources of capital and adoption by non-crypto institutions. Launchnodes' Lido Impact Staking and Stablecoin for Impact are part of the discussion.
+
+Registration is free and requires approval. The organizer describes a curated audience of philanthropy organizations, onchain capital providers and builders.
 
 <a id="event-edcba3f36055d8e2"></a>
 
@@ -54250,7 +53224,11 @@ Launchnodes and GSR Foundation host a program about using staking and stablecoin
 
 ### About the event
 
-Entity's Onchain Legal Summit examines the legal status of onchain entities, AI agents and DAOs. Announced topics include governance, liability, arbitration and cross-jurisdictional compliance. The detailed agenda is still to be announced.
+Entity's third Legal Summit examines the legal status of onchain entities, AI agents, DAOs and autonomous systems. It brings founders, lawyers, protocol designers and governance specialists together during Devcon India.
+
+Announced topics include agent personhood and ERC-8004, computable contracts, decentralized arbitration, governance rights, liability and cross-jurisdictional compliance. The India edition also considers online dispute resolution, digital public infrastructure and national registries.
+
+The detailed agenda is still to be announced. The Legal & Governance Hub at Devcon hosts the event; speaker and partnership applications are available through the organizer's page.
 
 <a id="event-5368fad047c0ecba"></a>
 
@@ -54287,10 +53265,13 @@ Organized by Bitcoin for Corporations. Venue: Pakhuis de Zwijger, Pakhuis de Zwi
 - Starts: 2026-11-05T13:30:00.000Z
 - Description: Source-backed
 - Original page: <https://luma.com/tbe-devcon26>
+- Original page: <https://luma.com/TBE-Devcon26>
 
 ### About the event
 
-The Best Event's Afterdark program includes VIP networking from 19:00 to 21:00 IST, followed by the main event until 01:30. VIP networking is limited to VIP ticket holders; general admission to the main event is first come, first served.
+The Best Event hosts Afterdark during Devcon in Mumbai, combining an evening networking session with music and nightlife. VIP networking runs from 19:00 to 21:00 IST on November 5; the main event follows until 01:30 on November 6.
+
+VIP networking is limited to VIP ticket holders. The main event accepts all ticket types, with general admission on a first-come, first-served basis. Headline artists have not yet been announced. Check the organizer's ticket and confirmation details before attending.
 
 <a id="event-40159e63607cfdfb"></a>
 
@@ -54338,7 +53319,11 @@ Organized by Superteam Canada. The event takes place on November 5.
 
 ### About the event
 
-MONEY MAKER examines monetary systems, central banking, stablecoins, incentive design, security, privacy and AI. The organizer plans talks followed by dinner and an after-party. This is not ETHGlobal Mumbai, despite the spreadsheet's Day 1 link.
+MONEY MAKER examines monetary systems and how their design affects economies, institutions and behavior. Topics include fiat currencies, central banking, monetary policy, stablecoins, incentive design, security, privacy and AI.
+
+The organizer invites research, case studies, historical analysis and technical talks about existing systems and alternative models. Talks are followed by dinner, drinks and an after-party with DJs and performers.
+
+Speaker and sponsorship inquiries go through the organizer's page. A detailed speaker timetable has not been published.
 
 <a id="event-1451cd45de3d4469"></a>
 
@@ -54360,11 +53345,13 @@ Come and meet and collaborate with like-minded developers & builders, discover n
 
 On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
 
-For more info, reach out to us on the Solana UK Telegram.
+For more info, reach out to us on the Solana UK Telegram (https://t.me/+LsyQs0RHOX1iYTY0).
 
 ### About Superteam UK
 
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.
+
+Learn more and apply for membership at superteamuk.org (https://superteamuk.org)
 
 * This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
@@ -54478,10 +53465,6 @@ Expect a great room, a strong crowd, and a proper London evening.
 
 Registration is subject to approval.
 
-### Event details
-
-Organized by Lukka. Venue: London, England, United Kingdom. Tickets: Free.
-
 <a id="event-3528fd71ba9f009f"></a>
 
 ## 2026 臺灣週：虛擬資產論壇 Taiwan Weeks: Taiwan Virtual Asset Forum
@@ -54560,11 +53543,13 @@ Come and meet and collaborate with like-minded developers & builders, discover n
 
 On arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.
 
-For more info, reach out to us on the Solana UK Telegram.
+For more info, reach out to us on the Solana UK Telegram (https://t.me/+LsyQs0RHOX1iYTY0).
 
 ### About Superteam UK
 
-Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.Learn more and apply for membership at superteamuk.org
+Superteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.
+
+Learn more and apply for membership at superteamuk.org (https://superteamuk.org)
 
 * This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
@@ -54688,21 +53673,16 @@ Whether you were part of the original quarterly meetups or you're curious about 
 
 ### What to Expect
 
-Casual drinks / Food options & conversation
-
-Reconnect with familiar faces and meet new faces
-
-Share experiences, insights, and what's new in the SwissBorg ecosystem
-
-No presentations, no sales pitches - just good people and good vibes
+- Casual drinks / Food options & conversation
+- Reconnect with familiar faces and meet new faces
+- Share experiences, insights, and what's new in the SwissBorg ecosystem
+- No presentations, no sales pitches - just good people and good vibes
 
 Who Should Come:
 
-SwissBorg OGs from our original meetups
-
-Active users curious about the local community
-
-Crypto enthusiasts interested in connecting with quality people in Zurich/Crypto Valley
+- SwissBorg OGs from our original meetups
+- Active users curious about the local community
+- Crypto enthusiasts interested in connecting with quality people in Zurich/Crypto Valley
 
 The Plan: We've re-established our quarterly meetup tradition.
 
@@ -54754,25 +53734,23 @@ Moderation: Ass.-Prof. Dr. Claude Humbel, ZIBR
 
 ### About the event
 
-This is your General Admission Ticket, which gives you access to the SEZ Dubai campus on the following dates (excluding side excursions):
+The SEZ Dubai general-admission ticket provides campus access from December 7 to 11, 2026, excluding side excursions. The program assigns a theme to each day: policy and regulation on Monday, trading on Tuesday, institutions on Wednesday, payments and infrastructure on Thursday, and AI, crypto and Solana Demo Day on Friday.
 
-Monday 7 December - Policy and Regulation DayTuesday 8 December - Trading DayWednesday 9 December - Institutional DayThursday 10 December - Payments & InfrastructureFriday 11 December - AI & Crypto + Solana Demo DayImportant: This event has limited capacity and follows first-come, first-served policy on each day.A General Admission Ticket grants access to all events at the SEZ campus at the venue, including co-working, workshops and demo day.
-
-Social and side events are not included in your general admission ticket. Please apply for those separately on sezdubai.com.
+Campus access includes coworking, workshops and the demo day. Capacity is limited and entry is first come, first served each day. Social and side events are not included; apply for those separately through the organizer.
 
 <a id="event-77cfb77915817471"></a>
 
-## BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (The 2nd Thursday)
+## BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (changed to Dec 17)
 
 - Record: `luma-batch-evtsJTiDuzqsClRt`
 - Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-12-10T11:30:00.000Z
+- Starts: 2026-12-17T11:30:00.000Z
 - Description: Source-backed
 - Original page: <https://luma.com/4dgy9usl>
 
 ### About the event
 
-We welcome everyone to join our monthly public meet-up, talk to Bitcoiners, install a wallet and even trade some Sats. We also encourage Members to trade products or services for BTC, like in a Bitcoin flea market. Totally free, BAHK public meet-up is the best place for HK people to start their Bitcoin journey. Do spread the word among your contacts! Register at: lu.ma/bitcoinorghk
+We welcome everyone to join our monthly public meet-up, talk to Bitcoiners, install a wallet and even trade some Sats. We also encourage Members to trade products or services for BTC, like in a Bitcoin flea market. Totally free, BAHK public meet-up is the best place for HK people to start their Bitcoin journey. Do spread the word among your contacts! Register at: lu.ma/bitcoinorghk (http://lu.ma/bitcoinorghk)
 
 Bitcoin devs and splitting bills with bitcoin or lightning is welcome. Also welcome if you are late but before 8:45 PM.
 
@@ -54792,29 +53770,9 @@ https://t.me/+bHO3lGRgyYxlNmFl
 
 ### About the event
 
-This event is being rescheduled. A new date will be announced soon.
+Web3 Digest's Coffee Chat Hangout brings Web3 founders, builders, creators and community members together for an in-person gathering over coffee. The planned format includes a fireside conversation, open networking and time to share projects or ideas.
 
-Theme: Where Conversations Shape the Future
-
-Coffee Chat Hangout by Web3 Digest is an intimate, in-person gathering designed to bring together Web3 founders, builders, creators, and enthusiasts for meaningful conversations beyond the timeline.
-
-The hangout creates a relaxed space for people building, learning, and exploring Web3 to connect over coffee, share ideas, and exchange insights about the future of the ecosystem.
-
-Expect:
-
-A live fireside conversation
-
-Open networking and community hangout
-
-Storytelling and idea-sharing moments
-
-Meaningful connections with people shaping Web3
-
-This isn't a conference or a workshop.
-
-It's a community hangout - where real conversations happen and ideas begin to take shape.
-
-Come for the coffee. Stay for the conversations.
+The organizer says the event is being rescheduled and a new date will be announced. Confirm the replacement date before travelling. Registration requires host approval.
 
 <a id="event-d2a922109656aecc"></a>
 
@@ -54828,117 +53786,9 @@ Come for the coffee. Stay for the conversations.
 
 ### About the event
 
-India's AI & Web3 community is preparing for the next market cycle - and we want to know how.
+Infini3's Bengaluru edition of Ready for the Run carries the theme Scale, examining how AI and Web3 projects prepare for the next market cycle. The community meetup includes discussions, live polling and informal conversation among founders, builders, researchers, traders and investors.
 
-Ready for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.
-
-Bangalore closes the numbered circuit under the theme Scale. As India's builder capital, it's the fitting place to ask what actually survives contact with the next cycle.
-
-This isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more
-
-The circuit is co-led by Raajeev Anand (TechHybr), bringing his on-ground Web3 & AI community reach into every stop of the run.
-
-Whether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.
-
-Ready? Let's run.
-
-### Partners
-
-Ecosystem Partners
-
-OroPocket: X | LinkedIn | Promo
-
-KoinX: X | LinkedIn
-
-Kryptos: X | LinkedIn
-
-Grovio: X | LinkedIn
-
-QuillAudits: X | LinkedIn
-
-Make0: Website | LinkedIn
-
-Xtrading: X | LinkedIn
-
-BlockSurvey: X | LinkedIn
-
-39K Group: X | LinkedIn
-
-### Media Partners
-
-CoinsCapture: X | LinkedIn
-
-Blockopedia: X | LinkedIn
-
-Techtoken: X | LinkedIn
-
-TheCryptoHype: X | LinkedIn
-
-Block24Seven: X | LinkedIn
-
-### Community Partners
-
-Bhopal DAO: X | LinkedIn
-
-Collably Network: X | LinkedIn
-
-Hyderabad DAO: X | LinkedIn
-
-Gwalior DAO: X | LinkedIn
-
-Lucknow DAO: X | LinkedIn
-
-Web3 Kerala: X | LinkedIn
-
-Web3 Aligarh: X | LinkedIn
-
-Web3 Events: X | LinkedIn
-
-Collably Network: X | LinkedIn
-
-BBC: X | LinkedIn
-
-Zyphar: X | LinkedIn
-
-Dev Spark: X | LinkedIn
-
-Techeve: X | LinkedIn
-
-Ajinava Edge: X | LinkedIn
-
-Stackhouse: Website
-
-AavaCustoms: X | LinkedIn
-
-KrowdKraft: X | LinkedIn
-
-Builders Verse: X
-
-Builder Base: X | LinkedIn
-
-Abhilekh Verma Consultancy: X | LinkedIn
-
-ArtofBlockchain: LinkedIn
-
-### Co-Host
-
-Raajeev Anand (@cryptomargofficial)/ TechHybr
-
-Raajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.
-
-Through TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale - making complex technology accessible, practical, and actionable for creators, students, and businesses across India.
-
-Insta | X | LinkedIn
-
-### About Infini3
-
-Infini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.
-
-X | Telegram | Instagram
-
-About 28° North
-
-28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.
+The series is co-led by Raajeev Anand of TechHybr. Registration and current event details are available through the organizer's page.
 
 <a id="event-cdb48c0d8fc53d5c"></a>
 
@@ -54952,97 +53802,11 @@ About 28° North
 
 ### About the event
 
-🇨🇭 The Wealth Tech Executive Forum: Geneva Edition is an invite-only executive series for senior leaders in asset and wealth management shaping the future of capital allocation, digital assets, and institutional infrastructure.
+CV VC hosts the Geneva edition of Wealth Tech Executive Forum, with SCRYPT as its main partner. The invitation-only forum is for senior asset and wealth-management participants, including institutional allocators, family offices, portfolio managers and infrastructure providers.
 
-On the 27th August 2026, in Geneva, a select group of Switzerland's leading institutional allocators and technology experts gather to discuss the latest innovations in asset and wealth management, how technology is reshaping the investment stack, and what it takes to stay ahead of the next wave of disruption.
+Announced discussion areas include digital-asset exposure, trading and execution, ETFs and onchain vaults, allocation and risk, governance and regulation. The format includes a closed-door roundtable under the Chatham House Rule. Attendance requires approval and the exact venue is shared with registered guests.
 
-The event series is brought to you by CV VC, with SCRYPT as the main partner.
-
-Participants will
-
-gain actionable insights into the latest trends, and
-
-expand their high-class network
-
-Why This Conversation Matters
-
-As global financial markets transform, tokenization, programmable settlement, and AI-driven structuring are actively redefining institutional allocation strategies. A new investment era is emerging across digital asset products, market infrastructure, portfolio construction, distribution, and institutional access.
-
-🇨🇭 Geneva, a leading financial center and a global hub for digital assets, DLT, and AI innovation, provides the ideal environment for this critical dialogue.
-
-Who is attending?
-
-This edition is designed to convene a select cohort of senior decision-makers, including executives from:
-
-Asset Managers and Institutional Allocators
-
-Family Office Principals
-
-Hedge Fund Portfolio Managers
-
-CIOs and senior portfolio managers from leading Swiss & global Asset managers & Private banks
-
-Representatives from institutional-grade technology and infrastructure platforms
-
-Selected innovators shaping the future of asset management
-
-Core Themes for Discussion
-
-The focused content will explore the following key areas:
-
-Allocator perspectives on digital asset exposure
-
-Market structure, trading access, and execution
-
-The evolution of asset management: from ETFs to on-chain vaults
-
-Innovation in practice: allocation, risk, and operating models
-
-Institutional readiness: infrastructure, governance, and regulation
-
-Portfolio implications for forward-looking allocators
-
-Closed-door roundtable discussion among peers
-
-Event Format - Efficient and Focused
-
-The evening format is intentionally compact and highly time-efficient.This design allows participants to gain relevant and actionable insights, and forge meaningful connections in a high-calibre setting without requiring a full day away from the office.
-
-Attendance Note
-
-Attendance is strictly limited and subject to approval to ensure a high-quality, peer-level exchange. Chatham rules apply.
-
-Other Editions in the Series:
-
-Zurich (Concluded)
-
-UAE
-
-Frankfurt
-
-Find out more on our website: https://wealthtech-executiveforum.com/
-
-What Comes Next?
-
-The Next Disruption in Asset Management? Asset management has evolved in distinct waves, each driven by structural innovation and enabled by technology:
-
-1770s: Closed-End Funds
-
-1920s: Open-End Mutual Funds
-
-1970s: Index Funds
-
-1990s: ETFs
-
-2020s: A new paradigm emerging: Vaults?
-
-Technological innovations in digital trading and programmatic trading gave rise to ETFs in the 1990s, which now account for around $20 trillion in AUM. Technology continues to evolve, and with it comes the next major disruption in asset management.
-
-Is the next reinvention of asset management already happening in front of us?
-
-The real question is not whether asset management will continue to be reinvented, but which investors will identify the next structural change early enough to benefit from it?
-
-This forum will explore exactly that.
+The organizer's description still refers to August 27, 2026, while its scheduling data lists a later date. Confirm the date directly with the host before making plans.
 
 <a id="event-f6f223279bac8673"></a>
 
@@ -55056,25 +53820,9 @@ This forum will explore exactly that.
 
 ### About the event
 
-Está pronta para fazer parte do futuro da inovação?
+A Women in Tech Moçambique organiza uma delegação para a Women in Tech Global Summit 2027, anunciada para 27 a 29 de abril no Rio de Janeiro. A convocatória é dirigida a fundadoras, desenvolvedoras e líderes empresariais.
 
-A Women in Tech Moçambique estará presente na Cimeira Global 2027 na Cidade do Rio de Janeiro, e queremos VOCÊ na nossa delegação!
-
-De 27 a 29 de abril, reunir-nos-emos no principal polo tecnológico de África para ligar tecnologia e liderança. Não se trata apenas de uma conferência; é um movimento global. Ao longo de três dias transformadores, iremos:
-
-Explorar o impacto da #IA, #Blockchain e #Cibersegurança na sociedade.
-
-Realçar as conquistas das mulheres nas áreas de STEAM (Ciência, Tecnologia, Engenharia, Artes e Matemática).
-
-Cultivar parcerias que empoderem as mulheres para liderar a era digital.
-
-Quer seja fundadora, desenvolvedora ou líder empresarial, esta é a sua oportunidade de obter uma vantagem competitiva e de se conectar com uma comunidade global de agentes de mudança.
-
-Vamos mostrar ao mundo o poder do talento moçambicano! 🇲🇿
-
-Atenciosamente,
-
-A Equipa Women in Tech Moçambique
+Os temas anunciados incluem o impacto da inteligência artificial, blockchain e cibersegurança, as realizações das mulheres nas áreas STEAM e a criação de parcerias. Consulte a página da organização para os detalhes de participação da delegação.
 
 <a id="event-e111ba67aaf697f5"></a>
 
@@ -55088,49 +53836,9 @@ A Equipa Women in Tech Moçambique
 
 ### About the event
 
-Part of the Finnovation Day Global Series
+TechEmbassy hosts Finnovation Day alongside Money20/20 Asia, focused on APAC money movement across cross-border payments, banking and digital assets. Svitlanka Serhiichuk, TechEmbassy's FinTech Ambassador and Neofin co-founder, hosts the event in partnership with Future Finance Fest 3(f).
 
-Finnovation Day is TechEmbassy's global fintech event series, bringing together financial institutions, fintech companies, technology providers and industry leaders around the conversations shaping the future of financial services.
-
-Hosted by Svitlanka Serhiichuk, FinTech Ambassador at TechEmbassy and Co-Founder of Neofin.
-
-Organized in partnership with Future Finance Fest 3(f), an international platform connecting academia, industry, policymakers and technology leaders around the future of finance.
-
-This edition of Finnovation Day will explore one of the key topics shaping financial services today.
-
-The event concept and programme are currently being developed together with industry experts, financial institutions and technology leaders, with a focus on the most relevant challenges and opportunities for the local market and conference audience.
-
-### What to Expect
-
-Expert DiscussionA focused conversation with leaders from financial services, fintech and technology around the event's central theme.
-
-Innovation ShowcaseA curated look at selected companies and technologies shaping the next generation of financial services.
-
-Curated NetworkingMeaningful connections between financial institutions, fintech leaders, technology companies, founders and ecosystem partners.
-
-More details about the programme will be announced soon.
-
-### Speakers
-
-Coming soon.
-
-### Partners
-
-Finnovation Day is made possible through collaboration with our ecosystem partners, sponsors and local fintech communities.
-
-### About TechEmbassy
-
-TechEmbassy builds curated communities around the world's leading technology conferences, creating meaningful connections between founders, enterprises, investors and industry experts.
-
-Through Finnovation Day, we bring together the people shaping modern financial services - from financial institutions and fintech companies to technology providers, regulators and researchers.
-
-Finnovation Day is part of our Global Series - explore the full calendar of our events around the world.
-
-Website: https://techembassy.org/
-
-Events calendar: https://luma.com/techembassy.org
-
-LinkedIn: https://www.linkedin.com/company/tech-embassy/
+The planned format includes an expert discussion, a company and technology showcase, and networking among financial institutions, fintech teams and other industry participants. The program is still in development; speakers and detailed sessions have not been announced.
 
 <a id="event-8cfc4701b5f824cc"></a>
 
@@ -74682,40 +73390,11 @@ Powered by Lost Art
 - Description: Source-backed
 - Original page: <https://us.money2020.com/>
 
-### Why Join Money20/20 USA?
+### About the event
 
-Money20/20 USA is where senior leaders from banks, payments, tech, retail, startups, and more gather to move fintech forward. Join to:
+Money20/20 USA brings together participants from banking, payments, technology, retail and fintech startups. The event combines industry talks and product discovery with meetings between companies, investors and potential partners.
 
-- Accelerate Deals: Leverage our global network to supercharge your deal flow. See who attends.
-- Build Partnerships: Experience high-impact opportunities to meet new partners and grow existing relationships.
-- Raise Your Profile: Embrace the visibility and show your solutions to a global senior audience.
-- Make Breakthroughs: Stay current (and ahead!) of shifts and trends that address your challenges from top industry speakers.
-
-### Download Our Attendee Brochure
-
-This just in! Everything you need to know about why Money20/20 USA is where you come to grow your business.
-
-### Get The Latest Insights From Top Industry Experts
-
-Get real, actionable insights and takeaways from cross-sector industry experts.
-
-### Meet Leading Banks, These Attendees Did
-
-"I met the head of Discover's Network", " I met the engineering director at EQ bank", "I met one of the large U.S. banks."
-
-### Meet Payment Pros, These Attendees Did
-
-Plus, how many meetings are attendees having? This is what they they had to say.
-
-### Get Your Pass Now
-
-Join 1 in 3 C-Suite leaders at fintech's #1 event in Las Vegas October 18-21, 2026. Get ready to accelerate deals and build game-changing partnerships.
-
-### Explore Sponsorship
-
-Amplify your brand presence and maximize ROI with curated sponsorship packages based on your business goals. Explore your options today.
-
-What could take a month or two over Zoom - to really connect with people - at Money20/20 you're able to do it in person, quickly, in a very efficient way. It's that awesome in person energy that drives our deal flow.
+The organizer provides an attendee brochure, speaker information and pass options through its official site. Use the current agenda and registration pages to choose sessions and arrange meetings; sponsorship and exhibition participation are handled separately.
 
 <a id="event-8dae74092e03a2d9"></a>
 
@@ -75238,7 +73917,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-e081fa7d214bd7c2"></a>
 
-## XRP LEDGER HACKATHON
+## AI & Fintech XRPL Hackathon in New York
 
 - Record: `w3v-xrp-ledger-hackathon`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -75248,28 +73927,43 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Sprint, build, and launch on the XRP [Ledger in 36 hours in New York City, the weekend before Swell](https://swell.ripple.com/).
+Developers, product managers, designers, and business minds: team up and ship a working product in one weekend, from AI agents to new financial apps, with mentors and judges from across the AI, tech, blockchain, and finance world.
 
-[Hosted by XRPL Commons](https://www.xrpl-commons.org), this hackathon brings hackers into the room where the ecosystem's institutions, investors, and decision-makers are already gathered - with a project and a story to tell. Whether this is your first commit on XRP Ledger or you've been building for years, there's a track for you.
+Hosted by XRPL Commons (https://www.xrpl-commons.org), with partners Ripple (https://www.ripple.com), XRPL Foundation (https://www.xrpl.foundation/), Mastercard (https://www.mastercard.com), Ledger (https://www.ledger.com/), AWS (https://aws.amazon.com/) and Quicknode (https://www.quicknode.com/). Whether it's your first hackathon, your fiftieth, or you want to sprint to launch a new feature, there's a place for you.
 
-### 4 Tracks
+Join NYC's builder community for a weekend of shipping, then walk into Swell (https://swell.ripple.com/), Ripple's flagship conference, where institutions, investors, and decision-makers are already gathered, with a story to tell.
 
-- Protocol Innovation: work on the ledger itself: amendments, client implementations, tooling. Paired with a 3-day Core Dev Bootcamp (Oct 20-22) (http://luma.com/xrpl-core-dev-bootcamp2) as your on-ramp.
-- Agentic Finance: build the rails that let autonomous agents transact on-chain safely and at machine speed.
-- Lending & Borrowing: build on top of the XRP Ledger Lending Protocol (XLS-66) and Single Asset Vaults (XLS-65), currently in validator voting.
-- Why Not: the open lane, for whatever XRP Ledger project you can't stop thinking about.
+### Who it's for
 
-### Already Building?
+- Developers: no need to learn a new coding language. Build with the ones you already know, like JavaScript or Python.
+- Product, business, and finance profiles: you don't need to code. Great teams need people who shape the idea, design the user experience, build the business case, and pitch the demo.
+- AI-native builders welcome: use your favorite AI coding tools and agent frameworks to move faster.
+- Come solo and find a team on site, or bring your own.
 
-Bring an existing project - on XRP Ledger or elsewhere - and use the 36 hours to add XRPL rails or ship a new feature. Only what you build during the hackathon counts toward judging.
+4 Tracks
 
-### Registration details
+All projects must be built on the XRP Ledger (https://xrpl.org), a fast, low-cost blockchain designed for payments and digital finance. New to it? Mentors will help you get started.
 
-Should the event be oversubscribed, we may ask attendees to place a small refundable deposit to confirm their spot.
+- Agentic Finance: build the tools that let AI agents make payments and manage money on the XRP Ledger, autonomously, safely, and at machine speed.
+- Lending & Borrowing: build lending apps and savings vaults on brand-new financial infrastructure (XRP Ledger Lending Protocol and Single Asset Vaults), before it goes live.
+- Protocol Innovation: for C++ and systems engineers who want to work on core infrastructure, clients, and developer tooling. Paired with a 3-day Core Dev Bootcamp (Oct 20-22) (http://luma.com/xrpl-core-dev-bootcamp2) as your on-ramp.
+- Why Not: the open lane. Bring the XRP Ledger project you can't stop thinking about.
+
+Already building?
+
+Bring an existing project, AI app, or startup and use the 36 hours to ship a new feature on XRP Ledger. Only what you build during the hackathon counts toward judging.
+
+What you get: $40,000+ in prizes, including stackable sponsored-track prizes, plus hands-on mentorship, fast-track access to grants and incubation, and a direct line to hiring teams.
+
+Mentors & Judges
+
+Ripple (https://ripple.com) - XRPL Foundation (https://xrplf.org) - Mastercard (https://www.mastercard.com) - Ledger (https://www.ledger.com) - Quicknode (https://www.quicknode.com) - AWS (https://aws.amazon.com/) - t54.ai (https://www.t54.ai/) - Evernorth (https://www.evernorth.xyz/) - Soil (https://soil.co/) and more
+
+Registration details
 
 By registering for this event, you consent to being photographed and filmed, and to the use of these photos/videos for promotional purposes.
 
-All participants [are required to agree with and adhere to the code of conduct](https://swell.ripple.com/code-of-conduct)
+All participants are required to agree with and adhere to the code of conduct (https://swell.ripple.com/code-of-conduct).
 
 <a id="event-1caf8f4c4a2cd5a9"></a>
 
@@ -75844,15 +74538,9 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Discover AIBC World, connecting innovators in AI, blockchain, and emerging tech through global events, networking, and insights shaping the future.
+AIBC World's European event focuses on AI, blockchain and other emerging technologies, bringing together companies and industry participants through conference sessions and exhibitions.
 
-### AIBC Europe: Rome
-
-This November, all roads lead to Rome to witness tech luminaries (AIBC), gaming innovators (SiGMA), financial leaders and more as frontier technology meets the real world and scales digitally. Join 1,000 exhibitors, 300 speakers and 30,000 delegates for what augurs to become the most talked about frontier tech summit in Europe.
-
-### Program
-
-Blockchain, AI and crypto exhibitors alongside payments and fintech exhibitors, an agenda with speaker sessions, ecosystem partners and media partners. Arrival day lets delegates settle in, register, and explore the venue at Fiera Roma, with optional city tours, informal networking meet-ups, and an initial walk-through. AIBC Road to Rome runs iGatherings and meetups in the buildup.
+The stored organizer listing places the European edition in Rome alongside SiGMA. The primary page could not be refreshed during this audit, so confirm the current program, venue and admission details directly with AIBC before making plans.
 
 <a id="event-58b5849f751ad9f0"></a>
 
@@ -77063,15 +75751,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-The high-end all-inclusive Web3 and iGaming business retreat bridging finance, iGaming and the digital economy in Punta Cana, November 25-28, 2026, at Barcelo Bavaro Beach.
+BlockCon Punta Cana is a Web3 business retreat at Barceló Bávaro Beach in the Dominican Republic from November 25 to 28, 2026. It covers finance, iGaming, venture capital, startups and the digital economy, including payments, stablecoins, tokenized assets and regulation.
 
-### Program
+The announced format includes panels, startup and VC matchmaking, banking and Web3 roundtables and networking. The Community Pass covers the conference and exhibition but excludes accommodation and retreat activities. Business passes add daytime activities and meetings; VIP All-Inclusive includes a hotel stay and additional experiences.
 
-A Web3 business retreat focused on finance, iGaming, venture capital, startup growth, dealmaking, and the broader digital economy, with a startup and VC matchmaking session, panels, convention-center networking sessions, banking and Web3 roundtables, and VIP experiences with exclusive networking sessions and retreat activities. Coffee breaks and all panels are covered.
-
-### Speakers
-
-Featured speakers include Shaikh Ali Sultan Al Nuaimi (royal family of the Emirate of Ajman, BOF Investments and Ajman Bank) and Danish Chotani (CEO at Burj Financial), among others.
+Check the organizer's current pass comparison for meal, activity and invitation-only access conditions.
 
 <a id="event-f129a4981e02451d"></a>
 
@@ -77121,53 +75805,11 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://www.blockchainconferencebrasil.com/ >
 
-### O MAIOR EVENTO SOBRE BITCOIN, CRIPTO E BLOCKCHAIN DO BRASIL
+### About the event
 
-Conectando as principais lideranças, empresas e investidores do ecossistema blockchain.
+Blockchain Conference Brasil reúne profissionais do setor cripto, investidores, desenvolvedores, empreendedores e representantes de instituições públicas e de ensino. A programação anunciada inclui painéis, debates, apresentações, workshops, podcasts e uma área de exposição.
 
-### MAIS DO QUE UM EVENTO. UMENCONTRO REAL DO ECOSSISTEMA
-
-O BCB nasceu dentro da própria comunidade cripto. Mais do que um evento, é um ponto de encontro para quem constrói, investe e lidera o setor no Brasil.
-
-### CONTEÚDODE ALTO NIVEL
-
-Um ambiente que conecta empresas, investidores, desenvolvedores e empreendedores em busca de parcerias, investimentos e novos negócios.
-
-Painéis, debates e apresentações com líderes do ecossistema cripto e especialistas do setor financeiro e tecnológico.
-
-### COMUNIDADE E BUILDERS ENGAJADOS
-
-Ativa e relevante, impulsionada por uma forte rede de KOLs e criadores, que amplificam o alcance do evento.
-
-Discussões sobre infraestrutura blockchain, Web3, regulação, finanças digitais e novas aplicações da tecnologia.
-
-Workshops, podcasts áreas de exposição e experiências criadas por empresas e projetos do ecossistema.
-
-### O ECOSSISTEMA QUEMOVE O BCB
-
-O BCB reúne os principais decisores do mercado cripto, conectando executivos, builders e investidores em um ambiente de alto nível técnico, estratégico e de negócios.
-
-### FUNDADORES &STARTUPS
-
-Executivos e tomadores de decisão que lideram empresas do setor financeiro e tecnológico.
-
-Empreendedores que estão construindo novos produtos, protocolos e empresas.
-
-### INVESTIDORESESTRATÉGICOS
-
-Desenvolvedores e arquitetos de tecnologia responsáveis por construir a infraestrutura Web3.
-
-Fundos, venture capital e investidores focados em inovação, blockchain e ativos digitais.
-
-### INSTITUIÇÕESDE ENSINO
-
-Investidores ativos no mercado de criptomoedas e novas tecnologias.
-
-Representantes de órgãos públicos, reguladores e especialistas do setor.
-
-### COMUNIDADE ENGAJADA EATIVADA POR KOLs
-
-Creators, educadores e líderes de comunidade que ampliam o alcance e a relevância do ecossistema antes, durante e após o evento.
+Os temas incluem infraestrutura blockchain, Web3, regulação, finanças digitais e novas aplicações da tecnologia. Consulte a página oficial para a agenda e os ingressos da edição atual; os números, patrocinadores e registros identificados como BCB25 referem-se à edição anterior.
 
 <a id="event-eb7421b5f7c2af75"></a>
 
@@ -77229,15 +75871,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Proof of Talk Abu Dhabi 2026: the digital assets executive summit at the Louvre Abu Dhabi, December 3-4, 2026 - the inaugural Gulf edition of the most exclusive room for capital, digital assets and AI.
+Proof of Talk Abu Dhabi takes place at the Louvre Abu Dhabi on December 3 and 4, 2026, focused on capital, AI and digital assets. This is the series' inaugural Gulf edition.
 
-### Format
+Attendance is application-based: the organizer says every guest is individually approved rather than admitted through open ticket sales. The room is capped at 2,000 participants. Speaking slots are selected by the program team and are not sold.
 
-The stage is earned, not bought: no pay-to-speak, with 95% sitting CEOs and founders. Two days for 2,000 capped decision-makers, with 45 partners rather than 500 sponsors - global reach with curated density.
-
-### Track record
-
-Paris, June 2026: 2,500 decision-makers, 120+ speakers at CEO and founder level, in one room built to hold them. Four Louvre editions of record set the standard the Gulf inherits.
+The website currently displays speakers and statistics from previous Paris editions. The Abu Dhabi lineup will be announced to the priority list; those past names should not be treated as confirmed Abu Dhabi speakers.
 
 <a id="event-b284437ff5eb87a8"></a>
 
@@ -77824,15 +76462,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-ETHConf is the world's largest institutional Ethereum event. Join 2,000+ founders, speakers, industry leaders, companies, and builders shaping the future of Ethereum in New York, June 14-16, 2027, at the Javits Center, 429 11th Avenue.
+ETHConf 2027 takes place at the Javits Center in New York City from June 14 to 16. The program brings Ethereum builders, founders, institutions, investors and policymakers together for main-stage discussions, technical sessions and product showcases.
 
-### Program
+Announced themes include stablecoins and payments, DeFi markets, Ethereum's protocol roadmap, scaling infrastructure, institutional adoption, and policy and governance. The site's past-speaker section describes earlier editions.
 
-Three days of focused conversations with the founders, builders, institutions, and policymakers moving the EVM ecosystem forward. Expect candid mainstage discussions, technical sessions, and product showcases spanning markets, infrastructure, institutions, and the policy questions that come with them - connecting the teams advancing Ethereum, scaling networks, developer infrastructure, security, data, and open-source coordination.
-
-### Tickets
-
-Explore every ETHConf pass option and lock in discounted access. Speaker, sponsor, media partner, and community builder applications run through the official site.
+General passes cover conference stages and the exhibition. Pro passes add the networking app and lounge, catering and coworking; VIP passes add further hospitality and access. Sessions are to be recorded and made available to ticket holders within three weeks. Check the official pass comparison for current conditions.
 
 <a id="event-bc0b307597d3c9dc"></a>
 

@@ -14,6 +14,7 @@ import { hasEventEnded } from '../../scripts/lib/event-dates.mjs';
 import { canImportEvent, tombstoneSlugs } from '../../scripts/lib/event-retention.mjs';
 import eventTombstones from '../../content/event-tombstones.json';
 import { assignStableEventSlugs, type EventSlugHistory } from './event-slug-assignment';
+import identityMerges from '../../content/events/identity-merges.json';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -293,6 +294,7 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
     const cleaned: Web3Event[] = [];
 
     for (const e of rawAll) {
+      if (Object.hasOwn(identityMerges, e.id)) continue;
       if (!e.name || !e.startDate) continue;
       if (e.eventStatus === 'EventCancelled' || hasEventEnded(e)) continue;
       if (e.publicationStatus === 'needs-review') continue;
@@ -416,6 +418,6 @@ export async function buildEventsListing(): Promise<Web3Event[]> {
     return uniqueBySlug;
   } catch (error) {
     console.error('Error reading events:', error);
-    return [];
+    throw error;
   }
 }

@@ -8,6 +8,8 @@ import { cleanPublishText } from '../src/lib/noslop';
 import type { EventSlugHistory } from '../src/lib/event-slug-assignment';
 import { fetchLumaCalendarEntries } from './lib/luma-calendar.mjs';
 import { lumaSourcePatch, object } from './luma-source-record';
+import catalogDescriptions from '../content/events/catalog-reviewed-descriptions.json';
+import { applyEventCatalogReview } from '../src/lib/event-catalog-review';
 
 type Review = { title: string; description: string; matchUrls?: string[]; conflict?: string; note?: string; hideLocation?: boolean };
 type Snapshot = { url: string; status: number; fetchedAt: string; body: string; retrievedVia?: string };
@@ -136,6 +138,8 @@ async function main() {
     patch.description = review.description;
     patch.name = cleanPublishText(patch.name);
     patch.descriptionSource = evidence(s, review.description, patch.name);
+    const reviewedCopy = Object.values(catalogDescriptions).find(record => key(record.descriptionSource.url) === key(url));
+    if (reviewedCopy) Object.assign(patch, reviewedCopy);
     patch.sideEventFor = ['ibw', ...(calendarRows.devcon.some(e => e.event.api_id === entry.event.api_id) || /devcon/i.test(patch.name + review.description) ? ['devcon'] : [])];
     if (review.hideLocation) patch.locationHidden = true;
     if (patch.locationHidden) {
@@ -236,8 +240,9 @@ async function main() {
   }
   if (apply) for (const source of sources) {
     const file = `content/events/sources/${source.file}`;
-    const output = `${JSON.stringify(source.events, null, 2)}\n`;
-    if (JSON.stringify(readJson(file)) !== JSON.stringify(source.events)) fs.writeFileSync(file, output);
+    const reviewed = source.events.map(applyEventCatalogReview);
+    const output = `${JSON.stringify(reviewed, null, 2)}\n`;
+    if (JSON.stringify(readJson(file)) !== JSON.stringify(reviewed)) fs.writeFileSync(file, output);
   }
   const runtime = readJson<Web3Event[]>('content/events-runtime.json');
   for (const record of records) record.published = runtime.filter(e => (record.ids as string[]).includes(e.id) || (record.eventId && e.sourceVerification?.eventId === record.eventId)).map(e => ({ id: e.id, slug: e.slug }));

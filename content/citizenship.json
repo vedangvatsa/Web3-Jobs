@@ -1,5 +1,5 @@
 {
-  "scope": "Selected active citizenship-by-investment routes. Thresholds are for one main applicant, in the currency published by the authority, excluding additional fees. This is not a worldwide catalog or an eligibility determination.",
+  "scope": "All 13 countries on the reviewed Henley citizenship list, plus Vanuatu, with official-source route classifications and statuses. Coverage includes defined investment programs, discretionary exceptional-contribution and merit routes, and Argentina's announced program with intake unverified. Numeric amounts are for one main applicant in the authority's published currency, excluding additional fees. Null amounts and currencies indicate no fixed or verified operative threshold; capital notes explain the distinction. Inclusion does not establish eligibility or guarantee citizenship.",
   "programs": [
     {
       "slug": "dominica",
@@ -27,17 +27,20 @@
       "code": "AG",
       "region": "Caribbean",
       "status": "Active",
-      "summary": "The National Development Fund route uses a one-time contribution. A licensed local agent handles the application; due diligence and government fees are separate.",
+      "summary": "Contribute to the National Development Fund or purchase real estate in an approved project. A licensed local agent submits the application; property must normally be held for five years.",
       "officialUrl": "https://cip.gov.ag/investment-options/ndf/",
       "presence": "The official passport page requires five days in Antigua and Barbuda within the first five years after citizenship for passport renewal consideration.",
       "processing": null,
       "family": "The NDF page allows a spouse, dependent children and dependent parents over 55 in the application. It lists USD 230,000 for a family of four or less, plus USD 20,000 processing and separate due diligence fees. Confirm qualifying dependants with the unit.",
       "routes": [
-        { "name": "National Development Fund", "kind": "Contribution", "amount": 230000, "currency": "USD", "capital": "One-time fund contribution, not a property or deposit holding. The reviewed NDF page does not specify refund terms.", "fees": "USD 10,000 processing for a single applicant. Due diligence and passport fees are additional. Agent charges and a complete total are not verified here.", "source": "ndf" }
+        { "name": "National Development Fund", "kind": "Contribution", "amount": 230000, "currency": "USD", "capital": "One-time contribution to the National Development Fund.", "fees": "USD 10,000 processing, USD 8,500 main-applicant due diligence and USD 300 passport fee. Agent charges are additional.", "source": "ndf" },
+        { "name": "Approved real estate", "kind": "Property", "amount": 300000, "currency": "USD", "capital": "Purchase in an approved project. Hold for five years unless replacing it with another officially approved property.", "fees": "USD 10,000 processing, USD 8,500 main-applicant due diligence and USD 300 passport fee. Property transaction and agent costs are additional.", "source": "property" }
       ],
       "sources": [
         { "id": "ndf", "title": "CIU: National Development Fund", "url": "https://cip.gov.ag/investment-options/ndf/", "checkedAt": "2026-10-12", "supports": "Active application route, contribution threshold, single and family processing fees, dependants and licensed-agent process." },
-        { "id": "passport", "title": "CIU: Antigua and Barbuda Passport", "url": "https://cip.gov.ag/citizenship/antigua-and-barbuda-passport/", "checkedAt": "2026-10-12", "supports": "Five-day presence condition within the first five years for passport renewal consideration." }
+        { "id": "passport", "title": "CIU: Antigua and Barbuda Passport", "url": "https://cip.gov.ag/citizenship/antigua-and-barbuda-passport/", "checkedAt": "2026-10-12", "supports": "Five-day presence condition within the first five years for passport renewal consideration." },
+        { "id": "property", "title": "CIU: Real Estate", "url": "https://cip.gov.ag/investment-options/real-estate/", "checkedAt": "2026-10-12", "supports": "USD 300,000 approved-project route, five-year holding period, replacement-property exception and processing fees." },
+        { "id": "fees", "title": "CIU: Schedule of Fees", "url": "https://cip.gov.ag/schedule-of-fees/", "checkedAt": "2026-10-12", "supports": "USD 8,500 main-applicant due diligence, USD 300 passport fee and processing fees for NDF and real estate applications." }
       ]
     },
     {
@@ -46,16 +49,242 @@
       "code": "TR",
       "region": "Europe / Asia",
       "status": "Active",
-      "summary": "The investment office documents a property-based exceptional citizenship route, subject to the President's decision. A qualifying investment establishes eligibility to apply, not automatic citizenship.",
+      "summary": "Property purchases, bank deposits and government bonds can qualify for exceptional citizenship, subject to the President's decision. These routes require a three-year holding commitment.",
       "officialUrl": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx",
       "presence": null,
       "processing": null,
       "family": null,
       "routes": [
-        { "name": "Qualifying real estate", "kind": "Property", "amount": 400000, "currency": "USD", "capital": "Title deed restriction prevents resale for at least three years. The authority also accepts equivalent foreign currency. Resale value is not guaranteed.", "fees": "The reviewed investment-office page does not provide a complete fee schedule. The threshold excludes transaction taxes, registration, insurance, translation and professional costs; obtain applicable amounts before budgeting.", "source": "investment-office" }
+        { "name": "Qualifying real estate", "kind": "Property", "amount": 400000, "currency": "USD", "capital": "Title deed restriction prevents resale for at least three years. The authority also accepts equivalent foreign currency. Resale value is not guaranteed.", "fees": "The investment-office page does not publish a complete fee schedule. Property registration, insurance, translation and professional costs are separate.", "source": "investment-office" },
+        { "name": "Bank deposit", "kind": "Deposit", "amount": 500000, "currency": "USD", "capital": "Deposit in a bank operating in Türkiye, with no withdrawal for at least three years. Equivalent foreign currency is accepted; the banking regulator must attest compliance.", "fees": "The investment-office page does not publish application or bank charges.", "source": "investment-office" },
+        { "name": "Government bonds", "kind": "Bonds", "amount": 500000, "currency": "USD", "capital": "Purchase government bonds and retain them for at least three years. Equivalent foreign currency is accepted; the Ministry of Treasury and Finance must attest compliance.", "fees": "The investment-office page does not publish application or bond transaction charges.", "source": "investment-office" }
       ],
       "sources": [
-        { "id": "investment-office", "title": "Invest in Türkiye: Acquiring Property and Citizenship", "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx", "checkedAt": "2026-10-12", "supports": "Current property investment route, USD 400,000 threshold, three-year resale restriction, eligibility certificate and presidential decision. Other investment routes exist but are outside this listing." }
+        { "id": "investment-office", "title": "Invest in Türkiye: Acquiring Property and Citizenship", "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx", "checkedAt": "2026-10-12", "supports": "Current property, bank-deposit and government-bond routes, USD 400,000 and USD 500,000 thresholds, three-year restrictions, equivalent foreign currency, regulatory attestations and presidential decision." }
+      ]
+    },
+    {
+      "slug": "grenada",
+      "country": "Grenada",
+      "code": "GD",
+      "region": "Caribbean",
+      "status": "Active",
+      "summary": "Choose a National Transformation Fund contribution or an investment in an approved project. The USD 270,000 property threshold applies to shared ownership of a qualifying tourism unit, with a separate government contribution.",
+      "officialUrl": "https://imagrenada.gd/becoming-a-citizen/",
+      "presence": "IMA states that a visit to Grenada is not required before, during or after the application. The due-diligence process includes an online interview.",
+      "processing": null,
+      "family": "The USD 235,000 NTF contribution covers the main applicant and up to three qualifying dependants, except siblings and parents or grandparents aged 55 or under, who attract additional contributions. Per-person fees also apply.",
+      "routes": [
+        { "name": "National Transformation Fund", "kind": "Contribution", "amount": 235000, "currency": "USD", "capital": "One-time donation to the National Transformation Fund, paid after approval.", "fees": "USD 1,500 application and USD 1,500 processing for the main applicant. IMA's detailed table lists USD 5,000 due diligence plus USD 1,000 interview; its FAQ instead labels USD 6,000 as due diligence. The published fee breakdowns differ. Agent and passport costs are additional.", "source": "application" },
+        { "name": "Shared tourism real estate", "kind": "Property", "amount": 270000, "currency": "USD", "capital": "Per applicant's share of a qualifying approved tourism-accommodation unit bought by two or more investors; developer-equity conditions apply. The five-year period from citizenship must elapse before resale to another CBI applicant. The general approved-project threshold is USD 350,000.", "fees": "USD 50,000 government contribution, plus application, processing, due-diligence and interview charges listed for the NTF route. Property transaction and agent costs are additional.", "source": "property-regulations" }
+      ],
+      "sources": [
+        { "id": "application", "title": "IMA Grenada: Becoming a Citizen", "url": "https://imagrenada.gd/becoming-a-citizen/", "checkedAt": "2026-10-12", "supports": "Active NTF and approved-project application routes, USD 235,000 contribution, family exclusions, detailed fee table, mandatory interview and authorised-agent process." },
+        { "id": "faq", "title": "IMA Grenada: Enquiries and FAQs", "url": "https://imagrenada.gd/enquiries/", "checkedAt": "2026-10-12", "supports": "No visit requirement, online interview and the USD 6,000 due-diligence figure that differs from the detailed application table." },
+        { "id": "thresholds", "title": "Grenada: SRO 15 of 2024", "url": "https://imagrenada.gd/wp-content/uploads/2024/07/S.R.O.-15-of-2024-Grenada-Citizenship-by-Investment-Amendment-No.-2-Regulations.pdf", "checkedAt": "2026-10-12", "supports": "NTF contribution and family additions, USD 350,000 general approved-project threshold and USD 50,000 government contribution." },
+        { "id": "property-regulations", "title": "Grenada: SRO 21 of 2025", "url": "https://imagrenada.gd/wp-content/uploads/2026/06/S.R.O.-21-of-2025-Grenada-Citizenship-by-Investment-Amendment-Regulations.pdf", "checkedAt": "2026-10-12", "supports": "USD 270,000 per-share threshold for jointly purchased approved tourism units and developer-equity conditions; amendments concern developer fees, not applicant due-diligence fees." },
+        { "id": "holding-period", "title": "Grenada: Citizenship by Investment Amendment Act 3 of 2019", "url": "https://imagrenada.gd/wp-content/uploads/2024/03/Act-No.-3-of-2019-Grenada-Citizenship-by-Investment-Amendment-Act.pdf", "checkedAt": "2026-10-12", "supports": "Section 5: five years from citizenship before disposal for resale to another applicant using the same approved real estate." }
+      ]
+    },
+    {
+      "slug": "saint-kitts-and-nevis",
+      "country": "Saint Kitts and Nevis",
+      "code": "KN",
+      "region": "Caribbean",
+      "status": "Active",
+      "summary": "The Sustainable Island State Contribution funds government development priorities. The developer real estate route instead requires a unit in an approved development held for seven years. Applications go through an authorised agent and an interview.",
+      "officialUrl": "https://ciu.gov.kn/sustainable-island-state-contribution/",
+      "presence": null,
+      "processing": null,
+      "family": "USD 250,000 covers a main applicant or a family of up to four under SISC. Each additional dependant costs USD 25,000 if under 18 or USD 50,000 if 18 or older. Due diligence is USD 7,500 for each dependant aged 16 or over.",
+      "routes": [
+        { "name": "Sustainable Island State Contribution", "kind": "Contribution", "amount": 250000, "currency": "USD", "capital": "Non-refundable contribution to the Federal Consolidated Fund after approval in principle.", "fees": "USD 10,000 main-applicant due diligence and USD 250 application processing per person. Agent and passport costs are additional.", "source": "sisc" },
+        { "name": "Developer real estate", "kind": "Property", "amount": 325000, "currency": "USD", "capital": "Purchase a designated unit in an approved development. Hold for at least seven years before resale.", "fees": "USD 25,000 main-applicant post-approval fee, USD 10,000 due diligence and USD 250 application processing. Insurance fund contributions, conveyance, agent and passport costs are additional.", "source": "property" }
+      ],
+      "sources": [
+        { "id": "sisc", "title": "CIU: Sustainable Island State Contribution", "url": "https://ciu.gov.kn/sustainable-island-state-contribution/", "checkedAt": "2026-10-12", "supports": "Active SISC route, USD 250,000 single or family threshold, additional dependant contributions, due diligence and interview requirements." },
+        { "id": "property", "title": "CIU: Developer's Real Estate Investment", "url": "https://ciu.gov.kn/real-estate-investment/", "checkedAt": "2026-10-12", "supports": "Current USD 325,000 approved-development threshold, seven-year holding period, post-approval and due-diligence fees and purchase costs." },
+        { "id": "regulations", "title": "Saint Kitts and Nevis: SRO 20 of 2024", "url": "https://ciu.gov.kn/wp-content/uploads/2025/01/sro-20-of-2024.pdf", "checkedAt": "2026-10-12", "supports": "Regulation 21: non-refundable SISC contribution. Regulations 24 to 26: due diligence, USD 250 processing and post-approval fees. Current property threshold is sourced from the CIU's updated route page." }
+      ]
+    },
+    {
+      "slug": "saint-lucia",
+      "country": "Saint Lucia",
+      "code": "LC",
+      "region": "Caribbean",
+      "status": "Active",
+      "summary": "Contribute to the National Economic Fund or hold non-interest-bearing National Action Bonds for five years. The 2026 regulations also require a sworn declaration of at least USD 350,000 in financial resources.",
+      "officialUrl": "https://www.cipsaintlucia.com/citizenship-by-investment",
+      "presence": null,
+      "processing": null,
+      "family": "The USD 240,000 NEF contribution covers the main applicant and up to three qualifying dependants. Each additional dependant costs USD 10,000 if under 18 or USD 20,000 if above 18. The USD 300,000 bond investment covers any number of qualifying dependants; per-person fees are separate.",
+      "routes": [
+        { "name": "National Economic Fund", "kind": "Contribution", "amount": 240000, "currency": "USD", "capital": "Non-refundable contribution to the National Economic Fund after approval.", "fees": "USD 2,000 main-applicant processing and USD 8,000 due diligence. An applicant interview and identity-verification process applies. Agent and passport costs are separate.", "source": "investment-options" },
+        { "name": "National Action Bonds", "kind": "Bonds", "amount": 300000, "currency": "USD", "capital": "Non-interest-bearing government bonds registered in the applicant's name and held for five years from first issue.", "fees": "USD 50,000 non-refundable administration fee, plus USD 2,000 main-applicant processing and USD 8,000 due diligence. Agent and passport costs are separate.", "source": "investment-options" }
+      ],
+      "sources": [
+        { "id": "investment-options", "title": "CIP Saint Lucia: Citizenship by Investment", "url": "https://www.cipsaintlucia.com/citizenship-by-investment", "checkedAt": "2026-10-12", "supports": "Active NEF and National Action Bond routes, current investment thresholds, family contributions, five-year non-interest-bearing bonds, administration, processing and due-diligence fees." },
+        { "id": "regulations-2015", "title": "Saint Lucia: Citizenship by Investment Regulations SI 89 of 2015", "url": "https://www.cipsaintlucia.com/s/Citizenship-by-Investment-Saint-Lucia-Regulations-SI-89-of-2015.pdf", "checkedAt": "2026-10-12", "supports": "Regulation 9: non-refundable NEF contribution. Regulation 12: five-year non-interest-bearing bond holding. Historical thresholds and superseded fees are not used." },
+        { "id": "regulations-2024", "title": "Saint Lucia: Gazette of 9 July 2024, SI 106", "url": "https://www.cipsaintlucia.com/s/gazettejuly92024.pdf", "checkedAt": "2026-10-12", "supports": "Operative USD 240,000 NEF threshold and additional dependant contributions, replacing older FAQ prices." },
+        { "id": "regulations-2026", "title": "Saint Lucia: Citizenship by Investment Amendment Regulations SI 57 of 2026", "url": "https://www.cipsaintlucia.com/s/SI-57-of-2026-Citizenship-by-Investment-Amendment-Regulations.pdf", "checkedAt": "2026-10-12", "supports": "USD 8,000 main-applicant due diligence, USD 350,000 financial-resources declaration and biometric-data requirement. Also distinguishes new built-property rules from existing approved projects." }
+      ]
+    },
+    {
+      "slug": "nauru",
+      "country": "Nauru",
+      "code": "NR",
+      "region": "Oceania",
+      "status": "Active",
+      "summary": "The Economic and Climate Resilience Citizenship Program, presented by the Naoero Program Office, uses a direct Treasury Fund contribution. A licensed agent submits the application, with due diligence and a principal-applicant interview.",
+      "officialUrl": "https://www.ecrcp.gov.nr/contribution",
+      "presence": "No residence requirement. Interviews can be virtual or in person; applicants unable to take the oath in person may use an audiovisual link or an authorised oath-taker in another jurisdiction.",
+      "processing": null,
+      "family": "A spouse and eligible children, parents and siblings can be included. The contribution schedule adds USD 2,000 per dependant aged 16 or over and USD 15,000 per sibling of the applicant or spouse. Application and due-diligence fees are separate.",
+      "routes": [
+        { "name": "Treasury Fund contribution (regular amount)", "kind": "Contribution", "amount": 115000, "currency": "USD", "capital": "Direct Treasury Fund contribution. The official August 2026 brochure lists USD 115,000 as the regular amount. A USD 90,000 offer is published for applications filed before 31 December 2026; that temporary amount is not used as the standing threshold.", "fees": "USD 5,000 application, USD 6,000 principal-applicant due diligence, USD 1,200 bank due diligence and transaction charge, and USD 500 per passport. Agent advisory fees are additional.", "source": "brochure" }
+      ],
+      "sources": [
+        { "id": "contribution", "title": "Naoero Program Office: Contribution", "url": "https://www.ecrcp.gov.nr/contribution", "checkedAt": "2026-10-12", "supports": "Active Treasury Fund route, USD 90,000 temporary contribution with 31 December 2026 deadline, dependant contributions and current application, due-diligence, bank and passport fees." },
+        { "id": "brochure", "title": "Naoero Program Office: August 2026 Brochure", "url": "https://www.ecrcp.gov.nr/files/N_Brochure_260811_3_Digital.pdf", "checkedAt": "2026-10-12", "supports": "Pages 20 to 21 explicitly state USD 115,000 regular contribution, USD 90,000 limited offer ending 31 December 2026, and fee breakdown. No price is inferred from Henley's listing." },
+        { "id": "application", "title": "Naoero Program Office: How to Apply", "url": "https://www.ecrcp.gov.nr/how-to-apply", "checkedAt": "2026-10-12", "supports": "Licensed-agent submissions, due diligence, mandatory principal-applicant interview, Cabinet decision, oath arrangements and separate agent advisory fees." },
+        { "id": "faq", "title": "Naoero Program Office: Frequently Asked Questions", "url": "https://www.ecrcp.gov.nr/frequently-asked-questions", "checkedAt": "2026-10-12", "supports": "No residence requirement, remote interview and oath options, and eligible family categories." }
+      ]
+    },
+    {
+      "slug": "sao-tome-and-principe",
+      "country": "São Tomé and Príncipe",
+      "code": "ST",
+      "region": "Africa",
+      "status": "Active",
+      "summary": "Donate to the National Transformation Fund after approval in principle. Applications go through a licensed marketing agent, and the citizenship unit checks identity, background and source of funds.",
+      "officialUrl": "https://cip.gov.st/donation-to-the-national-transformation-fund",
+      "presence": "The citizenship unit states that physical residence or relocation is not required during or after the application process.",
+      "processing": null,
+      "family": "The fund donation is USD 95,000 for a family of two to four, plus USD 5,000 for each additional qualifying dependant. The unit lists spouses or de facto partners, children, parents and grandparents; eligibility and document fees apply.",
+      "routes": [
+        { "name": "National Transformation Fund", "kind": "Contribution", "amount": 90000, "currency": "USD", "capital": "Donation to the National Transformation Fund, completed after approval in principle.", "fees": "USD 5,000 submission fee per application and USD 750 per applicant for the registration certificate, passport and national ID. A benefactor pays USD 5,000 due diligence if the application is sponsored. Agent costs are additional.", "source": "ntf" }
+      ],
+      "sources": [
+        { "id": "ntf", "title": "São Tomé and Príncipe CIU: Donation to the National Transformation Fund", "url": "https://cip.gov.st/donation-to-the-national-transformation-fund", "checkedAt": "2026-10-12", "supports": "Active donation route, USD 90,000 single and USD 95,000 family contributions, additional dependants, submission and document fees, benefactor due diligence, family categories and no physical-residence requirement." },
+        { "id": "application", "title": "São Tomé and Príncipe CIU: Application Process", "url": "https://cip.gov.st/application-process", "checkedAt": "2026-10-12", "supports": "Licensed-agent submission, background and source-of-funds checks, approval in principle and completion of donation before citizenship documentation." }
+      ]
+    },
+    {
+      "slug": "egypt",
+      "country": "Egypt",
+      "code": "EG",
+      "region": "Africa",
+      "status": "Active",
+      "summary": "Egypt offers a Treasury grant, property purchase, business investment with a grant, or a Central Bank deposit. The deposit is repaid in Egyptian pounds after three years without interest; the Prime Minister makes the citizenship decision.",
+      "officialUrl": "https://www.egyptcitizenship.gov.eg/ECI/InvestmentProgram/List.aspx",
+      "presence": null,
+      "processing": null,
+      "family": null,
+      "routes": [
+        { "name": "Treasury grant", "kind": "Contribution", "amount": 250000, "currency": "USD", "capital": "Non-refundable grant to the Treasury, transferred from abroad. Instalments over up to one year are permitted; withdrawal or default before completion has separate refund rules in Egyptian pounds, without interest.", "fees": "USD 10,000 non-refundable application fee, separate from the grant.", "source": "investment-programs" },
+        { "name": "Real estate purchase", "kind": "Property", "amount": 300000, "currency": "USD", "capital": "Property purchase funded from abroad. Disposal within five years requires a separate USD 250,000 non-refundable Treasury payment to retain citizenship.", "fees": "USD 10,000 non-refundable application fee. Property transaction costs are outside the investment threshold.", "source": "investment-programs" },
+        { "name": "Business investment and Treasury grant", "kind": "Business", "amount": 450000, "currency": "USD", "capital": "USD 350,000 invested in a project plus a USD 100,000 non-refundable Treasury grant. Liquidation, closure or disposal of the investment within five years of operation requires a USD 250,000 Treasury payment to retain citizenship.", "fees": "USD 10,000 non-refundable application fee, additional to both the business investment and the grant.", "source": "investment-programs" },
+        { "name": "Central Bank deposit", "kind": "Deposit", "amount": 500000, "currency": "USD", "capital": "Transfer from abroad into a special Central Bank account. Repaid after three years in Egyptian pounds at the Central Bank exchange rate on repayment, without interest.", "fees": "USD 10,000 non-refundable application fee, separate from the deposit.", "source": "investment-programs" }
+      ],
+      "sources": [
+        { "id": "investment-programs", "title": "Egyptian Cabinet Citizenship Unit: Investment Programs", "url": "https://www.egyptcitizenship.gov.eg/ECI/InvestmentProgram/List.aspx", "checkedAt": "2026-10-12", "supports": "Four current routes, USD 250,000 grant, USD 300,000 property, USD 350,000 business plus USD 100,000 grant, USD 500,000 deposit, disposal conditions and repayment currency. Arabic official page read through a text-fetch proxy after direct connections timed out." },
+        { "id": "application", "title": "Egyptian Cabinet Citizenship Unit: Application Steps", "url": "https://www.egyptcitizenship.gov.eg/ECI/StaticContent/View.aspx?cid=5", "checkedAt": "2026-10-12", "supports": "Current application process, USD 10,000 non-refundable application fee, investment completion and final Prime Minister decision. Arabic official page read through a text-fetch proxy." }
+      ]
+    },
+    {
+      "slug": "jordan",
+      "country": "Jordan",
+      "code": "JO",
+      "region": "Middle East",
+      "status": "Active",
+      "summary": "Jordan's direct routes include qualifying existing businesses and newly issued company shares. The JOD 350,000 business threshold requires three years of qualifying assets and Jordanian employment outside the Capital Governorate.",
+      "officialUrl": "https://invest.jo/en/ready-doing-business/jordanian-citizenship-through-investment",
+      "presence": null,
+      "processing": null,
+      "family": null,
+      "routes": [
+        { "name": "Existing business outside the Capital Governorate", "kind": "Business", "amount": 350000, "currency": "JOD", "capital": "Investor's average share of eligible fixed and non-current tangible assets over the last three audited years. Average Jordanian employment must be at least 10, with at least 90% of the required level maintained each month for those three years.", "fees": "The Ministry of Investment's route page does not publish an application-fee schedule.", "source": "ministry" },
+        { "name": "Existing business within the Capital Governorate", "kind": "Business", "amount": 700000, "currency": "JOD", "capital": "Investor's average share of eligible fixed and non-current tangible assets over the last three audited years. Average Jordanian employment must be at least 20, with at least 90% of the required level maintained each month for those three years.", "fees": "The Ministry of Investment's route page does not publish an application-fee schedule.", "source": "ministry" },
+        { "name": "Newly issued company shares", "kind": "Securities", "amount": 1500000, "currency": "JOD", "capital": "Purchase within four months of ministry approval through one licensed broker; no margin financing, pledging or lending. Each company's shares may comprise at most 10% of the required investment. Funds, including trading profits, cannot be withdrawn or disposed of for five years.", "fees": "The Ministry of Investment's route page does not publish application or brokerage charges.", "source": "ministry" }
+      ],
+      "sources": [
+        { "id": "ministry", "title": "Jordan Ministry of Investment: Jordanian Citizenship Through Investment", "url": "https://invest.jo/en/ready-doing-business/jordanian-citizenship-through-investment", "checkedAt": "2026-10-12", "supports": "Active electronic applications; direct existing-business routes at JOD 350,000 or JOD 700,000 with three-year asset and employment tests; JOD 1,500,000 share route and five-year restrictions. Separate temporary-passport and residence routes are not included." }
+      ]
+    },
+    {
+      "slug": "vanuatu",
+      "country": "Vanuatu",
+      "code": "VU",
+      "region": "Oceania",
+      "status": "Active",
+      "summary": "The Development Support Program accepts applications through designated agents. Its USD 130,000 single-applicant selling price is a programme payment, with Financial Intelligence Unit checks and Citizenship Commission approval.",
+      "officialUrl": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+      "presence": null,
+      "processing": null,
+      "family": "Published programme prices are USD 150,000 for a married couple, USD 165,000 with one child and USD 180,000 with two children. The fee table lists USD 10,000 for an additional applicant; qualifying dependant rules apply.",
+      "routes": [
+        { "name": "Development Support Program", "kind": "Contribution", "amount": 130000, "currency": "USD", "capital": "Minimum programme selling price under the DSP regulations, not a property or deposit investment. The 25% of the prescribed government fee paid before Commission consideration is non-refundable if the application is refused.", "fees": "The current fee page lists USD 5,000 FIU due diligence and VUV 5,000 application fee. DSP regulations also prescribe VUV 10,000 per citizenship certificate. Passport charges are separate.", "source": "fees" }
+      ],
+      "sources": [
+        { "id": "fees", "title": "Vanuatu Citizenship Office: Fees and Charges", "url": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges", "checkedAt": "2026-10-12", "supports": "Current USD 130,000 single-applicant and family price table, USD 5,000 FIU fee and VUV 5,000 application fee. The separate older Form D figures below the table are not treated as DSP prices." },
+        { "id": "dsp-regulations", "title": "Vanuatu: Development Support Program Regulations, Order 33 of 2019", "url": "https://vancitizenship.gov.vu/images/Order_No_33_of_2019_-_New_DSP_Regulations.pdf", "checkedAt": "2026-10-12", "supports": "Clauses 4, 6 and 7: USD 130,000 DSP selling-price floor, designated-agent process, 25% government-fee non-refund rule on refusal and VUV 10,000 certificate fee. The older USD 2,000 due-diligence figure is superseded by the office's current fee table." },
+        { "id": "fiu-process", "title": "Vanuatu Citizenship Office: FIU Due Diligence Checks", "url": "https://vancitizenship.gov.vu/index.php/news-and-updates/104-vanuatu-fiu-due-diligence-checks", "checkedAt": "2026-10-12", "supports": "Ongoing operation of DSP, CIIP and VCP and the updated FIU submission process, supported by the linked 14 January 2025 notice." }
+      ]
+    },
+    {
+      "slug": "austria",
+      "country": "Austria",
+      "code": "AT",
+      "region": "Europe",
+      "status": "Discretionary",
+      "summary": "Citizenship for exceptional services in Austria's special national interest is assessed case by case. Economic achievements can qualify, but the Interior Ministry expressly says that money transfers alone are insufficient.",
+      "officialUrl": "https://www.bmi.gv.at/406/verleihung.aspx",
+      "presence": null,
+      "processing": null,
+      "family": null,
+      "routes": [
+        { "name": "Citizenship for exceptional services", "kind": "Exceptional contribution", "amount": null, "currency": null, "capital": "The ministry's criteria under section 10(6) of the Citizenship Act set no fixed investment threshold. Economic assessment considers business ownership or substantial influence, employment, completed investments or projects, and benefits to Austria. The federal government must confirm the special national interest.", "fees": "The Interior Ministry's exceptional-services criteria do not publish an application-fee schedule.", "source": "interior-ministry" }
+      ],
+      "sources": [
+        { "id": "interior-ministry", "title": "Austria Interior Ministry: Citizenship in the Special Interest of the Republic", "url": "https://www.bmi.gv.at/406/verleihung.aspx", "checkedAt": "2026-10-12", "supports": "Section 10(6) exceptional-services framework, federal-government confirmation, individual assessment, economic-achievement criteria and the express statement that money transfers alone are insufficient. No fixed investment amount or currency is specified." }
+      ]
+    },
+    {
+      "slug": "malta",
+      "country": "Malta",
+      "code": "MT",
+      "region": "Europe",
+      "status": "Discretionary",
+      "summary": "Malta's merit route assesses exceptional services, contributions or national interest through a proposal, due diligence and a ministerial decision. The current regulations deleted the former direct-investment provisions in 2025.",
+      "officialUrl": "https://komunita.gov.mt/wp-content/uploads/2026/02/Citizenship-by-Naturalisation-on-the-Basis-of-Merit.pdf",
+      "presence": "After approval in principle, the naturalisation application must include proof of at least eight months of residence in Malta before the application date.",
+      "processing": null,
+      "family": null,
+      "routes": [
+        { "name": "Naturalisation on the basis of merit", "kind": "Merit", "amount": null, "currency": null, "capital": "No fixed investment threshold. The proposal describes the applicant's achievements, exceptional service or contribution, and plans to continue contributing after naturalisation. The formal application also requires adequate residential property, subject to the regulatory exceptions, and other ties to Malta.", "fees": "The regulations provide for non-refundable administrative and other applicable fees set by the agency. The reviewed merit guide and regulations do not give a numeric fee schedule.", "source": "merit-guide" }
+      ],
+      "sources": [
+        { "id": "merit-guide", "title": "Community Malta Agency: Citizenship by Naturalisation on the Basis of Merit", "url": "https://komunita.gov.mt/wp-content/uploads/2026/02/Citizenship-by-Naturalisation-on-the-Basis-of-Merit.pdf", "checkedAt": "2026-10-12", "supports": "Current discretionary merit route under article 10(9), proposal and evaluation process, ministerial decision, eight-month residence requirement, residential property and individual contribution commitments. No fixed investment threshold is stated." },
+        { "id": "merit-regulations", "title": "Malta: Granting of Citizenship by Naturalisation on the Basis of Merit Regulations, SL 188.06", "url": "https://legislation.mt/eli/sl/188.6/eng/pdf", "checkedAt": "2026-10-12", "supports": "Regulations 5, 11A and 11B: merit criteria, proposal, due diligence, residence, property exceptions and agency-set fees. Legal Notice 159 of 2025 deleted the former direct-investment provisions in regulations 15 to 19 and the investment schedule." }
+      ]
+    },
+    {
+      "slug": "argentina",
+      "country": "Argentina",
+      "code": "AR",
+      "region": "Americas",
+      "status": "Intake unverified",
+      "summary": "Argentina has a legal framework for citizenship through relevant investment. The Economy Ministry announced contribution and bond options for Q4 2026; open intake has not been verified from the official sources reviewed.",
+      "officialUrl": "https://www.argentina.gob.ar/noticias/luis-caputo-anuncio-la-puesta-en-marcha-del-programa-de-ciudadania-por-inversion-de",
+      "presence": null,
+      "processing": null,
+      "family": null,
+      "routes": [
+        { "name": "Announced citizenship-by-investment program", "kind": "Announced investment", "amount": null, "currency": null, "capital": "The Economy Ministry's 2 October 2026 announcement proposes a USD 350,000 non-refundable Treasury contribution or a USD 800,000 program-specific government bond. These are announced terms; a currently available qualifying investment threshold and bond holding or repayment terms have not been verified.", "fees": "The official announcement does not publish application or due-diligence fees.", "source": "program-announcement" }
+      ],
+      "sources": [
+        { "id": "program-announcement", "title": "Argentina Economy Ministry: Citizenship by Investment Program Announcement, 2 October 2026", "url": "https://www.argentina.gob.ar/noticias/luis-caputo-anuncio-la-puesta-en-marcha-del-programa-de-ciudadania-por-inversion-de", "checkedAt": "2026-10-12", "supports": "Officially proposed USD 350,000 non-refundable contribution and USD 800,000 bond, due-diligence assessment and migration-authority decision. The announcement says intake will become operational during Q4 2026; it does not establish that applications are already open." },
+        { "id": "legal-framework", "title": "Argentina Economy Ministry: Relevant Investments and Citizenship under Decree 524/2025", "url": "https://www.argentina.gob.ar/noticias/los-extranjeros-que-realicen-inversiones-relevantes-en-el-pais-podran-solicitar-la", "checkedAt": "2026-10-12", "supports": "Official explanation of Decrees 366/2025 and 524/2025, the relevant-investment citizenship framework, the investment agency's assessment and recommendation, security checks and the migration authority's decision. This legal framework alone does not verify current intake." }
       ]
     }
   ]

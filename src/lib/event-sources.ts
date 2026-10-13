@@ -7,6 +7,7 @@ import crypto from '../../content/events/sources/luma-crypto-events.json';
 import batch from '../../content/events/sources/luma-batch-events.json';
 import cache from '../../content/events/sources/events-cache.json';
 import type { Web3Event } from './events';
+import { applyEventCatalogReview } from './event-catalog-review';
 
 // Build-time registry. Order matches listing precedence; keep raw feeds out of client bundles.
 export const EVENT_SOURCES: Array<{ file: string; events: Web3Event[] }> = [
@@ -18,4 +19,4 @@ export const EVENT_SOURCES: Array<{ file: string; events: Web3Event[] }> = [
   { file: 'luma-crypto-events.json', events: crypto as Web3Event[] },
   { file: 'luma-batch-events.json', events: batch as Web3Event[] },
   { file: 'events-cache.json', events: cache as Web3Event[] },
-];
+].map(source => ({ ...source, events: source.events.map(applyEventCatalogReview) }));

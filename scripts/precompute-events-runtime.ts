@@ -2,6 +2,7 @@ import { execSync } from 'node:child_process';
 import * as fs from 'fs';
 import * as path from 'path';
 import type { EventSlugHistory } from '../src/lib/event-slug-assignment';
+import identityMerges from '../content/events/identity-merges.json';
 
 const OUT_PATH = path.join(process.cwd(), 'content/events-runtime.json');
 const PUBLIC_DATA_PATH = path.join(process.cwd(), 'public/data/events-runtime.json');
@@ -13,6 +14,7 @@ async function main() {
   writeEventContentCatalog();
   const historyPath = path.join(process.cwd(), 'content/event-slug-history.json');
   const history: EventSlugHistory = fs.existsSync(historyPath) ? JSON.parse(fs.readFileSync(historyPath, 'utf8')) : {};
+  for (const [id, canonicalId] of Object.entries(identityMerges)) if (history[id]) history[id].canonicalId = canonicalId;
   if (fs.existsSync(OUT_PATH)) {
     for (const event of JSON.parse(fs.readFileSync(OUT_PATH, 'utf8'))) {
       if (event.slug && !history[event.id]) history[event.id] = { slug: event.slug, aliases: event.aliases };

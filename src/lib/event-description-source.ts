@@ -2,7 +2,7 @@ import type { Web3Event } from './events';
 import { isThinEventListingDescription } from './event-editorial-facts';
 
 export function getEventDescriptionSource(event: Web3Event): { url: string; fetchedAt: string } | undefined {
-  const source = event.sourceVerification || event.descriptionSource;
+  const source = event.descriptionSource || event.sourceVerification;
   if (!source || !/^https?:\/\//i.test(source.url) || !Number.isFinite(Date.parse(source.fetchedAt))) return undefined;
   return { url: source.url, fetchedAt: source.fetchedAt };
 }

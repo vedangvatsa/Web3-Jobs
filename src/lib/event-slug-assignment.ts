@@ -1,10 +1,18 @@
 import { getEventBaseSlug, type Web3Event } from './events';
+import migrations from '../../content/events/slug-migrations.json';
+import identityMerges from '../../content/events/identity-merges.json';
 
 export type EventSlugHistory = Record<string, { slug: string; aliases?: string[]; canonicalId?: string }>;
 export const isEventRootSlug = (value: string): boolean => /^[a-z0-9][a-z0-9_-]*$/i.test(value);
 
 /** Published URLs belong to their event identity, regardless of source order or new arrivals. */
 export function assignStableEventSlugs(events: Web3Event[], reservedRoots: Set<string>, history: EventSlugHistory): Web3Event[] {
+  history = Object.fromEntries(Object.entries(history).map(([id, record]) => {
+    const canonicalId = (identityMerges as Record<string, string>)[id];
+    if (canonicalId) return [id, { ...record, canonicalId }];
+    const slug = (migrations as Record<string, string>)[record.slug];
+    return [id, slug ? { ...record, slug, aliases: [...new Set([record.slug, ...(record.aliases || [])])].filter(alias => alias !== slug) } : record];
+  }));
   const owners = new Map<string, string>();
   for (const [id, record] of Object.entries(history)) {
     const slug = record.slug.toLowerCase();
@@ -27,16 +35,21 @@ export function assignStableEventSlugs(events: Web3Event[], reservedRoots: Set<s
   }
   for (const event of [...events].filter(event => !allocated.has(event.id)).sort((a, b) => a.id.localeCompare(b.id))) {
     const explicit = event.slug?.toLowerCase().trim();
-    const base = explicit && isEventRootSlug(explicit) ? explicit : getEventBaseSlug(event);
+    const readable = getEventBaseSlug(event);
+    const opaqueCode = explicit && /^[a-z0-9]{8}$/.test(explicit) && !readable.split('-').includes(explicit);
+    const base = explicit && !opaqueCode && isEventRootSlug(explicit) && readable.split('-').some(word => word.length > 2 && explicit.includes(word)) ? explicit : readable;
+    const city = event.city ? getEventBaseSlug({ name: event.city }) : '';
+    const alternatives = [city && !base.includes(city) ? `${base}-${city}` : '', `${base}-${event.startDate.slice(0, 4)}`, `${base}-${event.startDate.slice(0, 10)}`].filter(Boolean);
     let slug = base, suffix = 2;
-    while (reservedRoots.has(slug) || owners.has(slug) || aliasOwners.has(slug)) slug = `${base}${suffix++}`;
+    while (reservedRoots.has(slug) || owners.has(slug) || aliasOwners.has(slug)) slug = alternatives.shift() || `${base}-${suffix++}`;
     owners.set(slug, event.id);
     allocated.set(event.id, slug);
   }
   return events.map(event => {
     const slug = allocated.get(event.id)!;
     const mergedOwner = (owner?: string) => Boolean(owner && history[owner]?.canonicalId === event.id && !allocated.has(owner));
-    const aliases = [...new Set([...(history[event.id]?.aliases || []), ...(event.aliases || []), event.slug || ''])]
+    const mergedAliases = Object.values(history).filter(record => record.canonicalId === event.id).flatMap(record => [record.slug, ...(record.aliases || [])]);
+    const aliases = [...new Set([...(history[event.id]?.aliases || []), ...mergedAliases, ...(event.aliases || []), event.slug || ''])]
       .map(alias => alias.toLowerCase().trim())
       .filter(alias => isEventRootSlug(alias) && alias !== slug && !reservedRoots.has(alias)
         && (!owners.has(alias) || owners.get(alias) === event.id || mergedOwner(owners.get(alias)))

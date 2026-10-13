@@ -6,11 +6,20 @@ import { JOB_LISTING_CACHE_HEADER } from './src/lib/job-age-cache.mjs';
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));
 const eventRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/events/redirects.json'), 'utf8'));
+const eventCatalog = JSON.parse(readFileSync(path.join(projectRoot, 'content/events-runtime.json'), 'utf8'));
+const eventAliases = Object.fromEntries(eventCatalog.flatMap(event => (event.aliases || []).filter(alias => alias !== event.slug).map(alias => [alias, event.slug])));
+const canonicalEventRedirects = { ...Object.fromEntries(Object.entries(eventRedirects).map(([alias, target]) => [alias, eventAliases[target] || target])), ...eventAliases };
 const imageRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/image-redirects.json'), 'utf8'));
 const nomadToolPaths = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/tool-paths.json'), 'utf8'));
 const nomadLegacyRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/legacy-routes.json'), 'utf8'));
 const nomadCities = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/cities.json'), 'utf8'));
 const jobPageScopes = JSON.parse(readFileSync(path.join(projectRoot, 'content/job-age-page-scopes.json'), 'utf8'));
+const citizenshipPrograms = JSON.parse(readFileSync(path.join(projectRoot, 'content/citizenship.json'), 'utf8')).programs;
+const citizenshipSocialSuffixes = 'li|linkedin|x|tw|twitter|yt|youtube|th|threads|ig|insta|instagram|tg|telegram|rd|reddit|dc|discord|fc|warp|farcaster|bsky|bluesky|fb|facebook|tt|tiktok|hn|wa|whatsapp|nl|email';
+const citizenshipRedirects = citizenshipPrograms.flatMap(({ slug }) => [
+  { source: `/citizenship/${slug}`, destination: `/citizenship#${slug}`, permanent: true },
+  { source: `/citizenship/${slug}/:platform(${citizenshipSocialSuffixes})`, destination: `/citizenship/:platform#${slug}`, permanent: true },
+]);
 function nomadRedirect(source, destination) {
   const [pathname, query] = destination.split('?');
   return { source: `${source}/:suffix*`, destination: `${pathname}/:suffix*${query ? `?${query}` : ''}`, permanent: true };
@@ -118,6 +127,7 @@ const nextConfig = {
       ...Object.entries(imageRedirects).map(([source, destination]) => ({ source, destination, permanent: true })),
       ...learnRedirects,
       ...nomadRedirects,
+      ...citizenshipRedirects,
       {
         source: '/:path*',
         has: [
@@ -191,7 +201,7 @@ const nextConfig = {
       // Renamed Sept 2026 news slugs
       { source: '/crypto-tax-bills', destination: '/tax-bills', permanent: true },
       { source: '/nasdaq-tokenized-stocks', destination: '/nasdaq-tokens', permanent: true },
-      ...Object.entries(eventRedirects).map(([source, destination]) => ({ source: `/${source}`, destination: `/${destination}`, permanent: true })),
+      ...Object.entries(canonicalEventRedirects).filter(([source, destination]) => source !== destination).map(([source, destination]) => ({ source: `/${source}`, destination: `/${destination}`, permanent: true })),
       { source: '/terms-of-use', destination: '/terms-of-use.md', permanent: false },
       { source: '/terms', destination: '/terms-of-use.md', permanent: false },
       { source: '/tos', destination: '/terms-of-use.md', permanent: false },

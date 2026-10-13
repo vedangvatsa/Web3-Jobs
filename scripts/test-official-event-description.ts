@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { extractOfficialEventDescription } from './official-event-description';
 import { EVENT_SOURCES } from '../src/lib/event-sources';
 import { createHash } from 'node:crypto';
+import runtime from '../content/events-runtime.json';
 
 const event = { name: 'Wallet Builders Summit 2026', startDate: '2026-10-01' };
 const html = `<title>Wallet Builders Summit 2026</title><script type="application/ld+json">${JSON.stringify({ '@graph': [
@@ -21,9 +22,11 @@ const body = extractOfficialEventDescription(duplicated, event).result?.descript
 assert.equal(body.split('Meet wallet engineers').length - 1, 1);
 assert.ok(!body.includes('newsletter'));
 let verified = 0;
+const currentIds = process.argv.includes('--current') ? new Set(runtime.map(event => event.id)) : undefined;
 for (const { events } of EVENT_SOURCES) {
   for (const stored of events) {
     if (!stored.descriptionSource) continue;
+    if (currentIds && !currentIds.has(stored.id)) continue;
     assert.equal(createHash('sha256').update(stored.description).digest('hex'), stored.descriptionSource.sha256, `${stored.id}: description changed without a new source verification`);
     verified++;
   }

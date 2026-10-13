@@ -10,7 +10,6 @@ import { getAllJobsWithSlugs } from '@/lib/job-guides';
 import { getEvents } from '@/lib/events-server';
 import { getEventSlug } from '@/lib/events';
 import { nomadRoutes } from '@/lib/nomads/metadata';
-import { citizenshipPrograms, citizenshipPath, sourceCheckedAt } from '@/lib/citizenship';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -367,8 +366,7 @@ export async function buildSitemapRoutes(): Promise<MetadataRoute.Sitemap> {
   }));
 
   return uniqueRoutes([
-    { url: `${siteUrl}/citizenship`, lastModified: '2026-10-12', changeFrequency: 'monthly', priority: 0.6 },
-    ...citizenshipPrograms.map(program => ({ url: `${siteUrl}${citizenshipPath(program.slug)}`, lastModified: sourceCheckedAt(program), changeFrequency: 'monthly' as const, priority: 0.6 })),
+    { url: `${siteUrl}/citizenship`, lastModified: '2026-10-13', changeFrequency: 'monthly', priority: 0.6 },
     ...nomadRoutes().map(route => ({ url: `${siteUrl}${route.path}`, lastModified: route.lastModified, changeFrequency: 'monthly' as const, priority: 0.6 })),
     ...staticRoutes,
     ...glossaryCategoryRoutes,

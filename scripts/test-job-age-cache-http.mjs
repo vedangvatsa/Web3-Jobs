@@ -38,6 +38,8 @@ try {
   for (const file of ['removed-job-listings', 'removed-job-paths', 'recovered-job-redirects', 'rejected-ats-boards', 'legacy-slugs-archive', 'event-tombstones', 'image-redirects', 'company-profiles-runtime', 'company-socials']) json(`content/${file}.json`, file === 'removed-job-paths' ? [] : {});
   json('content/learn-routes.json', { courses: {}, lessons: {} });
   json('content/events/redirects.json', {});
+  json('content/events-runtime.json', []);
+  json('content/citizenship.json', { programs: [] });
   for (const file of ['tool-paths', 'legacy-routes', 'cities']) json(`content/nomads/${file}.json`, file === 'cities' ? [] : {});
   json('content/jobs-runtime.json', jobs);
   json('content/job-age-paths.json', Object.fromEntries(jobs.map(job => [job.slug, job.date])));
