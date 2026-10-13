@@ -3288,7 +3288,7 @@
     "sentAt": "2026-10-13T11:32:21.890Z"
   },
   "556073c5-4837-4c58-aac8-c99f17cbdf04": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T19:39:25.381Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -3379,6 +3379,8 @@
       }
     ],
     "message": "- Animoca Brands is hiring <a href=\"https://hashtagweb3.com/sls121?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Consultant - Accounting ( 1 year contract)</a>\n- Braiins is hiring <a href=\"https://hashtagweb3.com/fs9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fullstack Engineer / AI Engineer for BRAIINS MANAGER</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls238?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SMB Grower (French speaking)</a>\n- Breeze Cash is hiring <a href=\"https://hashtagweb3.com/sls193?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director - Payments</a>",
-    "slotKey": "2026-10-13:evening"
+    "slotKey": "2026-10-13:evening",
+    "messageId": 16532,
+    "sentAt": "2026-10-13T19:39:31.436Z"
   }
 }
