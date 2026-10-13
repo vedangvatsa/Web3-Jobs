@@ -1,5 +1,6 @@
 import type { JobAgeInput } from './job-age-policy.mjs';
 export const MAX_JOB_CACHE_SECONDS: number;
+export const JOB_LISTING_CACHE_HEADER: string;
 export function jobExpiryTime(job: JobAgeInput): number;
 export function earliestJobExpiry(jobs: JobAgeInput[]): number;
 export function visibleJobListingExpiries(jobs: JobAgeInput[], limit: number): number[];

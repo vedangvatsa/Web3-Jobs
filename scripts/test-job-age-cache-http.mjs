@@ -122,6 +122,9 @@ try {
     assert.equal(result.headers.get('x-nextjs-cache'), 'HIT', `${url}: warm ISR cache`);
     if (url !== '/lesson' && url !== '/article') assertBounded(result, expiry, `${url} ISR HIT`);
   }
+  const spoofed = await request('/', base, { ...browser, 'x-hw3-job-cache-window': '999999' });
+  assert.equal(spoofed.status, 200, 'Middleware must replace a caller-supplied window');
+  assert.match(spoofed.body, /Near expiry role/);
   await request('/later-employer');
   assert.equal((await request('/later-employer')).headers.get('x-nextjs-cache'), 'HIT');
   for (const url of ['/preview/near.html', '/og/jobs/near.png']) assertBounded(await request(url), expiry, url);
@@ -144,6 +147,11 @@ try {
     assert.equal(warm.headers.get('x-nextjs-cache'), 'HIT', `${url}: next expiry window should cache`);
     console.log(`${url}: next window excludes expired job and returns ISR HIT`);
   }
+  const staleHeader = await request('/jobs', expiry, { ...browser, 'x-hw3-job-cache-window': '0' });
+  assert.equal(staleHeader.status, 200);
+  assert.doesNotMatch(staleHeader.body, /Near expiry role/);
+  const unrelatedHeader = await request('/article', expiry, { ...browser, 'x-hw3-job-cache-window': '999999' });
+  assert.equal(unrelatedHeader.headers.get('x-nextjs-cache'), 'HIT', 'Window headers cannot reroute unrelated pages');
   for (const url of ['/near', '/%6eear', '/near/li', '/preview/near.html', '/og/jobs/near.png', '/job-listing-cache/0', '/%6aob-listing-cache/0']) {
     for (const headers of [browser, { 'user-agent': 'LinkedInBot' }]) {
       const result = await request(url, expiry, headers);

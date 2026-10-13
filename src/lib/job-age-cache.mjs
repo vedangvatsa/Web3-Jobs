@@ -1,6 +1,7 @@
 import { MAX_JOB_AGE_DAYS, parseJobPostingDate } from './job-age-policy.mjs';
 
 export const MAX_JOB_CACHE_SECONDS = 3600;
+export const JOB_LISTING_CACHE_HEADER = 'x-hw3-job-cache-window';
 
 export function jobExpiryTime(job) {
   return parseJobPostingDate(job.date) + MAX_JOB_AGE_DAYS * 86400000 + 1;

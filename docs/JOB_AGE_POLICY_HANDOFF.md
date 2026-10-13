@@ -2,7 +2,7 @@
 
 Worktree: `web3-job-age-fix`, based on `b68fb507a`.
 
-Latest result after primary application/date evidence integration: **1,606 active jobs across 175 companies**. The additional 61 exclusions and the evidence-backed Breezy ingestion fix are documented in [JOB_APPLICATION_AUDIT_INTEGRATION.md](JOB_APPLICATION_AUDIT_INTEGRATION.md).
+Primary application/date integration produced **1,606 active jobs across 175 companies**. The live 30-day expiry at `2026-10-13T00:00:00.001Z` subsequently removed `ddrm`, leaving **1,605 jobs / 175 companies** without a build. The additional 61 audit exclusions and the evidence-backed Breezy ingestion fix are documented in [JOB_APPLICATION_AUDIT_INTEGRATION.md](JOB_APPLICATION_AUDIT_INTEGRATION.md).
 
 ## Initial age cleanup results
 
@@ -100,3 +100,9 @@ The first website rollout (`38321410027`, build `manual-1791847134`) succeeded a
 Release follow-up restores the original generation acknowledgements for unrelated outputs that were excluded from the jobs commit. This ensures the next fast build regenerates those catalogs from the existing repository sources instead of incorrectly marking unstaged generated outputs as published. It changes no article/event source content.
 
 The full live check passed at `2026-10-12T23:38:05.533Z`: 1,606 jobs, 175 companies, zero invalid ages, all 70 incident slugs absent, and 152 browser/bot 410 checks. Stable catalogs, shards, feeds, sitemaps and freshness hashes passed. Homepage, jobs, companies, a current job, news, an article and a course all produced warm Next ISR hits. Unrelated news retains its pre-existing Firebase private/stale header; job surfaces still disallow every stale allowance.
+
+## Deployed expiry-window cache follow-up (2026-10-13 UTC)
+
+The midnight live transition proved catalog removal and updated homepage totals without a build. It also exposed a platform-specific cost regression: a middleware rewrite response served fresh listing HTML without an ISR hit, while direct requests to the same internal cache path did hit ISR. The second rollout had correctly enforced age but did not preserve public-listing ISR after that transition.
+
+The follow-up selects the expiry window through a middleware-owned request header and scoped Next `beforeFiles` routing. All job listing scopes now use that same route path, including the initial window, so deployment verification immediately exercises the production routing. Four initial directory windows are prebuilt; later windows and company/nomad pages remain on demand. Full prebuild, production build, postbuild and typecheck passed; the artifact has 128 static routes. The production clock fixture passed initial/next-window ISR hits, expiry-bounded shared caching, exact-boundary removal, and caller-supplied window-header rejection. The full standalone HTTP check at `2026-10-13T00:14:58.967Z` passed with 1,605 jobs and 175 companies.

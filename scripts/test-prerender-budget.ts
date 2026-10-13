@@ -15,7 +15,9 @@ assert.deepEqual(new Set(rootStaticPaths), new Set(learnRoutes.map(route => `/${
 assert.equal(routes.filter(([, route]) => route.srcRoute === '/jobs/[slug]').length, 0, 'Job aliases must not be bulk-prerendered');
 assert.ok(manifest.dynamicRoutes['/[slug]'], 'Details must retain on-demand ISR');
 assert.notEqual(manifest.dynamicRoutes['/[slug]'].fallback, false);
-assert.equal(routes.filter(([, route]) => route.srcRoute?.startsWith('/job-listing-cache/')).length, 0, 'Expiry windows must not be bulk-prerendered');
+const windows = routes.filter(([, route]) => route.srcRoute?.startsWith('/job-listing-cache/')).map(([pathname]) => pathname);
+assert.equal(windows.length, 4, 'Only the four initial directory windows may be prebuilt; later expiries and company scopes stay on demand');
+assert.deepEqual(new Set(windows.map(pathname => pathname.replace(/^\/job-listing-cache\/\d+/, '') || '/')), new Set(['/', '/jobs', '/companies', '/community']));
 for (const route of ['/', '/jobs', '/companies', '/community', '/events', '/news']) {
   assert.ok(manifest.routes[route], `${route} must remain prebuilt`);
 }

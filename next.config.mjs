@@ -1,6 +1,7 @@
 import path from 'node:path';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { JOB_LISTING_CACHE_HEADER } from './src/lib/job-age-cache.mjs';
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));
 const learnRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/learn-routes.json'), 'utf8'));
@@ -9,6 +10,7 @@ const imageRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/i
 const nomadToolPaths = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/tool-paths.json'), 'utf8'));
 const nomadLegacyRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/legacy-routes.json'), 'utf8'));
 const nomadCities = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/cities.json'), 'utf8'));
+const jobPageScopes = JSON.parse(readFileSync(path.join(projectRoot, 'content/job-age-page-scopes.json'), 'utf8'));
 function nomadRedirect(source, destination) {
   const [pathname, query] = destination.split('?');
   return { source: `${source}/:suffix*`, destination: `${pathname}/:suffix*${query ? `?${query}` : ''}`, permanent: true };
@@ -198,6 +200,11 @@ const nextConfig = {
   async rewrites() {
     return {
       beforeFiles: [
+        ...Object.keys(jobPageScopes).map(source => ({
+          source,
+          has: [{ type: 'header', key: JOB_LISTING_CACHE_HEADER, value: '(?<epoch>\\d+)' }],
+          destination: `/job-listing-cache/:epoch${source === '/' ? '' : source}`,
+        })),
         { source: '/data/jobs-runtime.json', destination: '/job-catalog/jobs-runtime.json' },
         { source: '/data/catalog-freshness.json', destination: '/job-catalog/catalog-freshness.json' },
         { source: '/data/companies-runtime.json', destination: '/job-catalog/companies-runtime.json' },

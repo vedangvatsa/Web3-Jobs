@@ -10,7 +10,12 @@ import Detail, { generateMetadata as detailMetadata } from '@/app/[slug]/page';
 export const dynamic = 'force-static';
 export const dynamicParams = true;
 export const revalidate = 3600;
-export function generateStaticParams() { return []; }
+export function generateStaticParams() {
+  return ['/', '/jobs', '/companies', '/community'].map(scope => ({
+    epoch: jobAgePageCache(scope)!.key,
+    path: scope === '/' ? [] : [scope.slice(1)],
+  }));
+}
 
 type Props = { params: Promise<{ epoch: string; path?: string[] }> };
 

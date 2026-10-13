@@ -22368,28 +22368,6 @@
     "dateVerified": true
   },
   {
-    "id": "ae1afd2556e5",
-    "title": "Director / Senior Director, Relationship Management",
-    "company": "Zero Hash",
-    "link": "https://zero-hash.breezy.hr/p/ae1afd2556e5-director-senior-director-relationship-management",
-    "date": "2026-09-13",
-    "source": "Breezy: Zero Hash [zero-hash]",
-    "location": "Remote (Chicago, IL)",
-    "isRemote": true,
-    "department": "Revenue",
-    "active": true,
-    "slug": "ddrm",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "dateEvidence": {
-      "url": "https://zero-hash.breezy.hr/p/ae1afd2556e5-director-senior-director-relationship-management",
-      "checkedAt": "2026-10-12T21:36:15.508Z",
-      "bodySha256": "b79804f442f661a89eec79d1e218839a1f2e4b62a3c736f3165aefc049c2bafd",
-      "provider": "breezy",
-      "datePosted": "2026-09-13"
-    }
-  },
-  {
     "id": "7978452003",
     "title": "Partner 18, Marketing Operations Partner",
     "company": "a16z crypto",

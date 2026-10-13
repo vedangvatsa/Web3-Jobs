@@ -11,6 +11,7 @@ import { isRetiredOrProbePath } from '@/lib/retired-request';
 import { isRemovedJobPath, recoveredJobDestination } from '@/lib/removed-job-path';
 import { isExpiredJobPath, isKnownJobPath, jobPathCacheHeaders } from '@/lib/job-age-path';
 import { jobAgePageCache, JOB_LISTING_CACHE_PREFIX, normalizeJobAgePath, validJobListingCachePath } from '@/lib/job-age-page-cache';
+import { JOB_LISTING_CACHE_HEADER } from '@/lib/job-age-cache.mjs';
 import eventTombstones from '../content/event-tombstones.json';
 import { removedEventStatus } from '../scripts/lib/event-retention.mjs';
 /**
@@ -334,10 +335,9 @@ export async function middleware(request: NextRequest) {
 
   const pageCache = jobAgePageCache(pathname);
   if (pageCache) {
-    if (pageCache.key === '0') return NextResponse.next({ headers: pageCache.headers });
-    const url = request.nextUrl.clone();
-    url.pathname = pageCache.destination;
-    return NextResponse.rewrite(url, { headers: pageCache.headers });
+    const headers = new Headers(request.headers);
+    headers.set(JOB_LISTING_CACHE_HEADER, pageCache.key);
+    return NextResponse.next({ request: { headers }, headers: pageCache.headers });
   }
   const internalScope = pathname.match(/^\/job-listing-cache\/\d+(\/.*)?$/)?.[1] || '/';
   const cacheHeaders = pathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)
