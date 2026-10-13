@@ -1642,7 +1642,7 @@
     "sentAt": "2026-10-13T11:32:29.688Z"
   },
   "5d7aeece-8550-4d0c-9c4c-005551997ee3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T19:39:50.966Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1754,6 +1754,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr138?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Senior Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sfrd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Finance Lead, R&amp;D and AI Infrastructure</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/astm2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU]Senior AML Specialist, Transaction Monitoring</a>\n- Blockstream is hiring <a href=\"https://hashtagweb3.com/sls140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Solutions Consultant (Pre-Sales)</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/eng71?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>",
-    "slotKey": "2026-10-13:evening"
+    "slotKey": "2026-10-13:evening",
+    "messageId": 155750,
+    "sentAt": "2026-10-13T19:39:54.409Z"
   }
 }
