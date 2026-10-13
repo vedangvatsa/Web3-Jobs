@@ -33180,11 +33180,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "12f78cf5e3151c408693",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:48:21.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:54.103Z",
+      "retrySearches": [
+        "Story DATA Sui migration 30M October 2026 announcement"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "e5bb97261b54e603e867": {
       "source": "The Defiant",
@@ -61024,6 +61038,21 @@
           "reviewedAt": "2026-10-13T01:45:52.108Z",
           "retrySearches": [
             "IMF tokenized equity after-hours trading October 2026 report"
+          ]
+        },
+        "12f78cf5e3151c408693": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:54.103Z",
+          "retrySearches": [
+            "Story DATA Sui migration 30M October 2026 announcement"
           ]
         }
       },
