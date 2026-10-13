@@ -33490,11 +33490,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "a3067f1fcfa32873953f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T11:50:49.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single-source launch lead, not opened; needs Bybit announcement and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:05.000Z",
+      "retrySearches": [
+        "Bybit USDC stocks ETFs October 2026 announcement"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "3fe0e363b669e3610520": {
       "source": "Cointelegraph",
@@ -60386,6 +60400,21 @@
           "reviewedAt": "2026-10-13T01:45:03.142Z",
           "retrySearches": [
             "tokenized catastrophe bonds October 2026 issuance"
+          ]
+        },
+        "a3067f1fcfa32873953f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single-source launch lead, not opened; needs Bybit announcement and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:05.000Z",
+          "retrySearches": [
+            "Bybit USDC stocks ETFs October 2026 announcement"
           ]
         }
       },
