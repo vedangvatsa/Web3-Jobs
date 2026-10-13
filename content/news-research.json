@@ -31059,11 +31059,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "77d661a00d106648ad23",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:20:36.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single CryptoSlate lead, not opened; needs ACINQ release note and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:50.735Z",
+      "retrySearches": [
+        "Eclair Lightning fee loss fix October 2026 ACINQ release"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "842f7eb226953ce33540": {
       "source": "Unchained",
@@ -60154,6 +60168,21 @@
           "reviewedAt": "2026-10-13T01:44:48.707Z",
           "retrySearches": [
             "Solana offline signing cold wallet migration SIMD October 2026"
+          ]
+        },
+        "77d661a00d106648ad23": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single CryptoSlate lead, not opened; needs ACINQ release note and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:50.735Z",
+          "retrySearches": [
+            "Eclair Lightning fee loss fix October 2026 ACINQ release"
           ]
         }
       },
