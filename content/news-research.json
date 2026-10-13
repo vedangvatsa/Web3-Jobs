@@ -34064,11 +34064,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "24bd442d8bc2e7bedba1",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T07:14:12.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "ENSv2 DAO proposal lead, not opened; needs forum record and a second outlet beyond Unchained.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:42.652Z",
+      "retrySearches": [
+        "ENSv2 activation DAO proposal October 2026 forum second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "8c1ea86bcaf7e19a8c79": {
       "source": "Cointelegraph",
@@ -60848,6 +60862,21 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:45:40.753Z",
+          "retrySearches": [
+            "ENSv2 activation DAO proposal October 2026 forum second outlet"
+          ]
+        },
+        "24bd442d8bc2e7bedba1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "ENSv2 DAO proposal lead, not opened; needs forum record and a second outlet beyond Unchained.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:42.652Z",
           "retrySearches": [
             "ENSv2 activation DAO proposal October 2026 forum second outlet"
           ]
