@@ -30525,11 +30525,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "5572ee93bde904b02d8e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T22:21:10.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "price-chatter",
+      "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:28.951Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "5679f974bf7f947304dc": {
       "source": "Bitcoin Magazine",
@@ -58743,6 +58748,13 @@
           "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:27.147Z"
+        },
+        "5572ee93bde904b02d8e": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:28.951Z"
         }
       },
       "baselineSlugs": [
