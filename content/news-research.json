@@ -34127,11 +34127,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c1ea86bcaf7e19a8c79",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T06:30:21.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:48.310Z",
+      "retrySearches": [
+        "FSB stablecoin bank run warning October 2026 report second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "9d424896408f3d18275a": {
       "source": "Cointelegraph",
@@ -60935,6 +60949,21 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:45:46.420Z",
+          "retrySearches": [
+            "FSB stablecoin bank run warning October 2026 report second outlet"
+          ]
+        },
+        "8c1ea86bcaf7e19a8c79": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:48.310Z",
           "retrySearches": [
             "FSB stablecoin bank run warning October 2026 report second outlet"
           ]
