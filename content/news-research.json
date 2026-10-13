@@ -32892,11 +32892,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d01114c07730cb3d375",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:40:30.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "not-a-concrete-event",
+      "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:33.897Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "662987f3e42abb712700": {
       "source": "CoinDesk",
@@ -59487,6 +59492,13 @@
           "note": "Headline triage: vendor promo or stunt coverage with no verifiable concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:32.064Z"
+        },
+        "1d01114c07730cb3d375": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:33.897Z"
         }
       },
       "baselineSlugs": [
