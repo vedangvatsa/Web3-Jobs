@@ -1230,7 +1230,7 @@
     "sentAt": "2026-10-12T19:33:16.101Z"
   },
   "58687249-4a5d-4464-8b33-15e572587c67": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T03:34:13.890Z",
     "stories": [
       {
@@ -1258,6 +1258,8 @@
         "originalTitle": "SWI raises $894 million to turn former FTX miner toward AI"
       }
     ],
-    "slotKey": "2026-10-13:morning"
+    "slotKey": "2026-10-13:morning",
+    "messageId": 65745,
+    "sentAt": "2026-10-13T03:34:16.094Z"
   }
 }
