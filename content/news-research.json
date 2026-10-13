@@ -31338,11 +31338,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "d1ae5f3789231ab34e49",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T14:13:33.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single Defiant lead, not opened; needs Jupiter or Fluid record and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:52.394Z",
+      "retrySearches": [
+        "USDGO Jupiter Lend Fluid Solana October 2026"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "71063c6b1f32f12943da": {
       "source": "Cointelegraph",
@@ -60183,6 +60197,21 @@
           "reviewedAt": "2026-10-13T01:44:50.735Z",
           "retrySearches": [
             "Eclair Lightning fee loss fix October 2026 ACINQ release"
+          ]
+        },
+        "d1ae5f3789231ab34e49": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single Defiant lead, not opened; needs Jupiter or Fluid record and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:52.394Z",
+          "retrySearches": [
+            "USDGO Jupiter Lend Fluid Solana October 2026"
           ]
         }
       },
