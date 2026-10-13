@@ -30574,11 +30574,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "ed950cd611c215eb6cd2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T20:35:49.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Sept 28 Citi-Coinbase stablecoin checkout collaboration already covered by citi-coinbase.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:58.414Z",
+      "duplicateOf": "citi-coinbase",
+      "lastReviewedDay": "2026-10-13"
     },
     "0a01647bebb0dd7cd5a1": {
       "source": "Bitcoin Magazine",
@@ -58595,6 +58601,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:39:56.673Z",
           "duplicateOf": "cftc-swaps"
+        },
+        "ed950cd611c215eb6cd2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Sept 28 Citi-Coinbase stablecoin checkout collaboration already covered by citi-coinbase.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:58.414Z",
+          "duplicateOf": "citi-coinbase"
         }
       },
       "baselineSlugs": [
