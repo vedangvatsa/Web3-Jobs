@@ -28602,25 +28602,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "b27dbf47da0ee48bc0f6",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T03:27:03.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
-      "reason": "needs-corroboration",
-      "note": "Jeonbuk Bank BTC loan read in CryptoBriefing with BloomingBit/Edaily corroboration in search only - needs the Korean primary or second outlet opened.",
+      "reason": "verified-event",
+      "note": "Verified across Unchained, CoinDesk and CryptoBriefing Oct 11-12: first won loan against custodied BTC, court-sale recovery under Oct 1 rules, terms undisclosed.",
       "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/south-koreas-jeonbuk-bank-lends-won-against-bitcoin-using-court-sales-for-defaults/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+          "outcome": "read"
+        },
         {
           "url": "https://cryptobriefing.com/jeonbuk-bank-bitcoin-backed-corporate-loans/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:02:45.846Z",
+      "reviewedAt": "2026-10-13T01:38:54.832Z",
       "retrySearches": [
         "Jeonbuk Bank bitcoin corporate loans Edaily bank announcement"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "articleSlug": "jeonbuk-loans"
     },
     "e81a753f4a1393ec6fbe": {
       "source": "BeInCrypto",
@@ -58096,6 +58104,27 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:31:53.699Z",
           "automatic": true
+        },
+        "b27dbf47da0ee48bc0f6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified across Unchained, CoinDesk and CryptoBriefing Oct 11-12: first won loan against custodied BTC, court-sale recovery under Oct 1 rules, terms undisclosed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/south-koreas-jeonbuk-bank-lends-won-against-bitcoin-using-court-sales-for-defaults/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/jeonbuk-bank-bitcoin-backed-corporate-loans/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:38:54.832Z",
+          "articleSlug": "jeonbuk-loans"
         }
       },
       "baselineSlugs": [
