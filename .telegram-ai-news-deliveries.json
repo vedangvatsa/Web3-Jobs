@@ -1242,5 +1242,38 @@
     "slotKey": "2026-10-13:morning",
     "messageId": 193340,
     "sentAt": "2026-10-13T03:34:22.524Z"
+  },
+  "302795f2-b0aa-4fb7-a2c4-7539043ad21a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T11:32:56.568Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "AI labs are buying data from dead startups to train their models",
+        "headline": "AI labs purchase data from defunct startups for training",
+        "summary": "Companies acquire code bases and digital archives from failing tech firms to expand machine learning training datasets.",
+        "event_rationale": "Covers the emerging market of buying assets from shutting startups for training data, distinct from web scraping or web crawling.",
+        "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+        "source": "MIT Tech Review",
+        "originalTitle": "AI labs are buying data from dead startups to train their models"
+      },
+      {
+        "index": 1,
+        "headline": "Anthropic warns of cyberattack risks from GLM-5.3 model",
+        "summary": "The company argues that this open model could help people perform serious digital attacks.",
+        "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Open models have real benefits. Do they outweigh the risks?"
+      },
+      {
+        "index": 5,
+        "headline": "ETH Zurich Scientist Tracks Rainforest Regeneration in Panama",
+        "summary": "Ecologist Daisy Dent monitors research plots in Panama to study long-term forest growth.",
+        "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+        "source": "MIT Tech Review",
+        "originalTitle": "The ecologist revealing the invisible networks that revive rainforests"
+      }
+    ],
+    "slotKey": "2026-10-13:afternoon"
   }
 }
