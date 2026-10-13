@@ -30541,11 +30541,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "a4cccdd12a0be0f20a07",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T22:00:08.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Evernorth Nasdaq listing already covered by evernorth-listing; debut price action adds no new concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:49.206Z",
+      "duplicateOf": "evernorth-listing",
+      "lastReviewedDay": "2026-10-13"
     },
     "ed950cd611c215eb6cd2": {
       "source": "The Defiant",
@@ -58525,6 +58531,14 @@
           "reviewedAt": "2026-10-13T01:39:44.044Z",
           "duplicateOf": "genesis-ai",
           "mergedInto": "eb17a57f81a083faf797"
+        },
+        "a4cccdd12a0be0f20a07": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Evernorth Nasdaq listing already covered by evernorth-listing; debut price action adds no new concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:49.206Z",
+          "duplicateOf": "evernorth-listing"
         }
       },
       "baselineSlugs": [
