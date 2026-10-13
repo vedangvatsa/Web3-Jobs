@@ -26472,23 +26472,23 @@
       "id": "639da78ae1beb866cc22",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T10:11:39.908Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T09:38:29.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "source-blocked",
-      "note": "COLDCARD phishing post blocked at source - needs Coldcard statement and a readable second outlet.",
+      "note": "Prior-round Defiant block retained; Coldcard statement and readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:26.267Z",
+      "reviewedAt": "2026-10-13T01:44:02.381Z",
       "retrySearches": [
         "COLDCARD phishing X post statement second outlet"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "df703797bc4255c1484d": {
       "source": "CryptoSlate",
@@ -59691,6 +59691,21 @@
           "reviewedAt": "2026-10-13T01:44:00.482Z",
           "retrySearches": [
             "Coinbase AI benchmark payment fraud second outlet"
+          ]
+        },
+        "639da78ae1beb866cc22": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Prior-round Defiant block retained; Coldcard statement and readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:02.381Z",
+          "retrySearches": [
+            "COLDCARD phishing X post statement second outlet"
           ]
         }
       },
