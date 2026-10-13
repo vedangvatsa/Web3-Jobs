@@ -32933,11 +32933,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b98eac3fcfae41c29733",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T17:45:48.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "promotional",
+      "note": "Headline triage: pre-announcement of a future unveiling with no verifiable launch, figures or date; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:46:10.223Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "66fadc94b8594693f991": {
       "source": "BeInCrypto",
@@ -61112,6 +61117,13 @@
           "retrySearches": [
             "Story DATA Sui migration 30M October 2026 announcement"
           ]
+        },
+        "b98eac3fcfae41c29733": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Headline triage: pre-announcement of a future unveiling with no verifiable launch, figures or date; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:46:10.223Z"
         }
       },
       "baselineSlugs": [
