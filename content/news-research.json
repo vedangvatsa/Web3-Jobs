@@ -32948,11 +32948,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "3a7cb162052538f78921",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T09:41:17.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Kraken VARA approval event covered once as kraken-dubai.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:29.373Z",
+      "duplicateOf": "kraken-dubai",
+      "mergedInto": "00382c7fc620c12b04b0",
+      "lastReviewedDay": "2026-10-13"
     },
     "6b008f7d37ed7a0f2fd8": {
       "source": "Unchained",
@@ -58413,6 +58420,15 @@
           "reviewedAt": "2026-10-13T01:39:27.405Z",
           "duplicateOf": "rlusd-custody",
           "mergedInto": "8a106b1a027a9d0393fd"
+        },
+        "3a7cb162052538f78921": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Kraken VARA approval event covered once as kraken-dubai.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:29.373Z",
+          "duplicateOf": "kraken-dubai",
+          "mergedInto": "00382c7fc620c12b04b0"
         }
       },
       "baselineSlugs": [
