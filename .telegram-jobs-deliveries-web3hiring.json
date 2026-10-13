@@ -3170,7 +3170,7 @@
     "sentAt": "2026-10-13T11:32:09.866Z"
   },
   "e8137efa-dd19-48bb-b3c3-f44ec2370398": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T11:32:17.882Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -3283,6 +3283,8 @@
       }
     ],
     "message": "- Coins.ph is hiring <a href=\"https://hashtagweb3.com/sec59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Security &amp; Systems Compliance Specialist</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sec20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Deployed Engineer - US National Security</a>\n- Ellipsis Labs is hiring <a href=\"https://hashtagweb3.com/ops26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Associate</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/sec13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Physical Security Manager, APAC/MENA</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/rs12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Rust Developer, Exchange OS Trading Engine</a>",
-    "slotKey": "2026-10-13:afternoon"
+    "slotKey": "2026-10-13:afternoon",
+    "messageId": 122,
+    "sentAt": "2026-10-13T11:32:21.890Z"
   }
 }
