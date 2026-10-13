@@ -30340,11 +30340,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8339b8ca7e659cb3b896",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T17:06:25.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "opinion",
+      "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:41:09.635Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "0f27222910efd1c10573": {
       "source": "The Defiant",
@@ -58983,6 +58988,13 @@
           "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:41:07.848Z"
+        },
+        "8339b8ca7e659cb3b896": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:41:09.635Z"
         }
       },
       "baselineSlugs": [
