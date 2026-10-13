@@ -32592,11 +32592,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "57c064886bd2ad0f28aa",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T20:36:36.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "IMF tokenized-equity finding, not opened; needs IMF paper and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:50.232Z",
+      "retrySearches": [
+        "IMF tokenized equity after-hours trading October 2026 report"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "4450c76bafb99c25a446": {
       "source": "The Defiant",
@@ -60966,6 +60980,21 @@
           "reviewedAt": "2026-10-13T01:45:48.310Z",
           "retrySearches": [
             "FSB stablecoin bank run warning October 2026 report second outlet"
+          ]
+        },
+        "57c064886bd2ad0f28aa": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "IMF tokenized-equity finding, not opened; needs IMF paper and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:50.232Z",
+          "retrySearches": [
+            "IMF tokenized equity after-hours trading October 2026 report"
           ]
         }
       },
