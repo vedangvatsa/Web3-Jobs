@@ -716,6 +716,9 @@
   "https://hashtagweb3.com/france-taxes?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mashinsky-ban?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/papertrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/jeonbuk-loans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/rlusd-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/strategy-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2056,6 +2059,12 @@
   "New York bars ex-Celsius CEO Mashinsky in $35M conditional settlement",
   "Papertrade restricts high-leverage trading following manipulation claims",
   "Papertrade launches 1000x perps, then tightens limits after manipulation claims",
+  "Jeonbuk Bank issues South Korea's first bitcoin-collateralized corporate loan",
+  "Jeonbuk Bank issues South Korea's first bitcoin-backed bank loans",
+  "Standard Chartered Adds Ripple RLUSD Custody in Dubai",
+  "Standard Chartered holds Ripple's RLUSD in Dubai, plans collateral link with LMAX",
+  "Strategy repurchases $192 million in shares and buys bitcoin",
+  "Strategy spends $192 million on preferred buyback, nine times its bitcoin buy",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2322,5 +2331,8 @@
   "fp:141m|affiliat|alleg|bitgo|custodian|dat|discount|dwf|early|exchang",
   "fp:amendment|budget|committe|contain|debat|exit|floor|french|must|october13",
   "fp:35m|alex|ban|bar|celsius|ceo|conditional|fac|federal|financial",
-  "fp:1000x|capp|claim|data|exchang|follow|high|hyperevm|leverag|limit"
+  "fp:1000x|capp|claim|data|exchang|follow|high|hyperevm|leverag|limit",
+  "fp:back|bank|collateral|collateraliz|corporat|custodian|denominat|held|issu|jeonbuk",
+  "fp:add|allow|bank|charter|client|collateral|custody|dubai|link|lmax",
+  "fp:1924m|192m|215m|buy|buyback|last|nin|on250|preferr|repurchas"
 ]

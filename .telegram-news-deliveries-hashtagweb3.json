@@ -1197,7 +1197,7 @@
     "sentAt": "2026-10-12T19:34:10.430Z"
   },
   "4a85d83b-68ab-4dfe-8b0a-38a0c6d2742f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T03:34:10.905Z",
     "stories": [
       {
@@ -1225,6 +1225,8 @@
         "originalTitle": "Strategy spends $192 million on preferred buyback, nine times its bitcoin buy"
       }
     ],
-    "slotKey": "2026-10-13:morning"
+    "slotKey": "2026-10-13:morning",
+    "messageId": 155742,
+    "sentAt": "2026-10-13T03:34:14.131Z"
   }
 }
