@@ -30071,11 +30071,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "179356cf8c7235636961",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T20:50:19.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same SWI EUR 800M raise and Genesis AI pivot covered once as genesis-ai.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:42.208Z",
+      "duplicateOf": "genesis-ai",
+      "mergedInto": "eb17a57f81a083faf797",
+      "lastReviewedDay": "2026-10-13"
     },
     "44a82a34f4268e4b3b2f": {
       "source": "Crypto Briefing",
@@ -58493,6 +58500,15 @@
           "reviewedAt": "2026-10-13T01:39:40.332Z",
           "duplicateOf": "strategy-buyback",
           "mergedInto": "7316ad777152a1220780"
+        },
+        "179356cf8c7235636961": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same SWI EUR 800M raise and Genesis AI pivot covered once as genesis-ai.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:42.208Z",
+          "duplicateOf": "genesis-ai",
+          "mergedInto": "eb17a57f81a083faf797"
         }
       },
       "baselineSlugs": [
