@@ -30727,11 +30727,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "701a5eb99a20e73f7a40",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T18:20:59.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "price-chatter",
+      "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:34.529Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "9b0d968dcdbd5e0f9b6b": {
       "source": "Decrypt",
@@ -58779,6 +58784,13 @@
           "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:32.669Z"
+        },
+        "701a5eb99a20e73f7a40": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:34.529Z"
         }
       },
       "baselineSlugs": [
