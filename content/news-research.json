@@ -31221,11 +31221,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a106b1a027a9d0393fd",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T09:35:21.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "verified-event",
+      "note": "Verified across Decrypt, CoinDesk and Standard Chartered press release Oct 12: DIFC custody live for XRPL RLUSD, LMAX collateral mirroring planned, no date.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.sc.com/en/press-release/standard-chartered-launches-rlusd-custody-and-joins-planned-collateral-integration-with-ripple-and-lmax-group/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:38:57.705Z",
+      "articleSlug": "rlusd-custody",
+      "lastReviewedDay": "2026-10-13"
     },
     "809723d273eb57781330": {
       "source": "Cointelegraph",
@@ -58125,6 +58144,27 @@
           ],
           "reviewedAt": "2026-10-13T01:38:54.832Z",
           "articleSlug": "jeonbuk-loans"
+        },
+        "8a106b1a027a9d0393fd": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified across Decrypt, CoinDesk and Standard Chartered press release Oct 12: DIFC custody live for XRPL RLUSD, LMAX collateral mirroring planned, no date.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.sc.com/en/press-release/standard-chartered-launches-rlusd-custody-and-joins-planned-collateral-integration-with-ripple-and-lmax-group/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:38:57.705Z",
+          "articleSlug": "rlusd-custody"
         }
       },
       "baselineSlugs": [
