@@ -30028,11 +30028,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "64a6552d852b8ff875c5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T22:10:39.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single Bitcoin Magazine lead, not opened; needs exchange notice plus TASS or Interfax confirmation.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:34.017Z",
+      "retrySearches": [
+        "Moscow Exchange bitcoin trading TASS Interfax confirmation"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "2657e8aba9ce51348c51": {
       "source": "Crypto Briefing",
@@ -59893,6 +59907,21 @@
           "reviewedAt": "2026-10-13T01:44:32.107Z",
           "retrySearches": [
             "Pando Solana ETF Hong Kong October 13 listing second outlet"
+          ]
+        },
+        "64a6552d852b8ff875c5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single Bitcoin Magazine lead, not opened; needs exchange notice plus TASS or Interfax confirmation.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:34.017Z",
+          "retrySearches": [
+            "Moscow Exchange bitcoin trading TASS Interfax confirmation"
           ]
         }
       },
