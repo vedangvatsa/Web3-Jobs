@@ -1,5 +1,5 @@
 {
-  "lastIndex": 405,
+  "lastIndex": 407,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -188,7 +188,9 @@
     "cm10",
     "mgr164",
     "eng538",
-    "eng419"
+    "eng419",
+    "mgr94",
+    "pm245"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5427,498 +5429,6 @@
       "verification": "verified"
     },
     {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "0x47ce39dbaa679c5c0e07b5093564664efb0ed769",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "0x52d1c75d89a5af70f2d834fb5a1758f0829b17ad",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "0xe6d2a646da9589dbef3506778ad69cfd961bebe8",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "0x9ef6d9660b9ad4a9e240a6511ed297240f4bd493",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "0x76e11c2924fb1e247628c9084d263a1e7e25361d",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "6ac8fa37a5e49fef9bb62df4",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "6ac8fa42cb5a8140da1bbfc3",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "urn:li:share:7514331228058152960",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "sls215",
-      "company": "Bybit",
-      "title": "Regional Sales Lead, Mandarin Speaking Region",
-      "platform": "facebook",
-      "postedAt": "2026-10-09T14:28:52.863Z",
-      "postId": "691827047618629_1110764588197442",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "x",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "6ac8fa5aa5e49fef9bb6339b",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Ramp is hiring Senior Analyst, Employee Lifecycle Data (Workday)\n\nhttps://hashtagweb3.com/an68/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108565589027398102"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "threads",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "17964936704983328",
-      "verification": "verified",
-      "expectedText": "Ramp is hiring Senior Analyst, Employee Lifecycle Data (Workday): https://hashtagweb3.com/an68/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeRue-gG4se",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "bluesky",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxh6rjv2kt22",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xa503c08001d64b47e8cbe3eca73863eea82c82da",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xe7ee949f0afa88990ae6c392c0d7e6e6fabd1f46",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x9a48f7aefdad8d0f9baf57cb1bcee05b90f9fba7",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x3f3d1e9fabf6f73796b9f7ca6050e805c3868ebe",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x5150a3f8f33c38d89ba333dce3100f6ccf4c8b80",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x391bb72f1f0313469dbcbba6c17b70109ae4f9d2",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xe9ad8bea82235d420c53e72b0fa15ce08f4530ec",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x09d451f196b47aa9f965baeb766e21d33a213d9f",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x53b87387bdeb7eb70e3eb9308a99beadaa359e26",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xfea8fa376c6272a10b18a7754e2b1044f4cc23e1",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xf04c7fcf9c7c63bb1a104f720b3370966f2f6c8b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xcfec1aa09fe8cd01463d4c37367e4a8003eb5dac",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x9541623fb548f2016e165b9e025c11bfad0ab67e",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xee812434298b5e63ee4b0c19538c960066311762",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0xe45c81346376486cab498e747f8f30665a3590bb",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x558b813a62f75dc418691e707d3f6458027f4dea",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "0x8d58b25b3e8d11bc0e060c87715e8846e64bf627",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "6ac8fa6e810582311ae434fd",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "6ac8fa7857c4b87d9cf5cc65",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "urn:li:share:7514331452994486272",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "an68",
-      "company": "Ramp",
-      "title": "Senior Analyst, Employee Lifecycle Data (Workday)",
-      "platform": "facebook",
-      "postedAt": "2026-10-09T14:29:45.876Z",
-      "postId": "691827047618629_1110765074864060",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "x",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "6ac945fef91f772d456e9c5a",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Galaxy Digital is hiring Data Center Business Operations Manager\n\nhttps://hashtagweb3.com/ops89/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108646810717765878"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "threads",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "17935007610400649",
-      "verification": "verified",
-      "expectedText": "Galaxy Digital is hiring Data Center Business Operations Manager: https://hashtagweb3.com/ops89/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeSTa4bGSiq",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "bluesky",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxhqsnh7g62h",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xa8d8d3d0747b60320df84f4a8da0a96183c55e4e",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x40b726242427a75e3e752e6dd731ad3ddc7a6230",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x2b253f696c8fa414267dcb0160912af85e0c61a4",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x6deafcea7e4e2d9b5f29399b4dc34a469ee63a17",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x26fd5a80bb37fcd425ffa71b05a2738fef8ef183",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xb7ca63fe45f5947d25c609ff49798e0d6786f81d",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xd47e261d28b03e6c94144beaed7fb3965c593078",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xd0a97b9967d7369f0d66311f2b671d3cb6145e36",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x808f428d0def6e50dc9634040e296b1e002e9c7d",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x81121f11e1877cb9070c544e672840e3a7b6dd79",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xc52e844da521bdefb9a970e67910787057b508e4",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x681bb32e88de6cc4b479daf6c293f4d9703eee3e",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "ops89",
       "company": "Galaxy Digital",
       "title": "Data Center Business Operations Manager",
@@ -10190,6 +9700,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-13T03:33:02.184Z",
       "postId": "691827047618629_1114069411200293",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "x",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "6ace169d1c6056464edbdcb5",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Augustus is hiring Third Party Risk Manager\n\nhttps://hashtagweb3.com/mgr94/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109970324792004841"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "threads",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "17958120546013448",
+      "verification": "verified",
+      "expectedText": "Augustus is hiring Third Party Risk Manager: https://hashtagweb3.com/mgr94/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DebtSVrkeXg",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxqwoszgfh2t",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0xf45d285aa5f844991cbd1980d412650d58ebafba",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0xf5c4ca6a991ffb9402d758c04389f68b10c0596d",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x3713680fbfcb5260b31488f85a155405965f7db8",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x708e0974ba407c6afb08b31a8f71edef2b07ce3c",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x0481a08385b89566ef7a6253a777272dc4fff123",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0xddec97ab4cbe99916b3c152ee281d1ce32d9fd89",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0xf31abbd6cdced23ed2b2554984f7bb0b2b25b8b5",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0xe18eaad24f3f81810ebc92078f1fc2bd2d45e505",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0xdd906182ece711425c56297b6310b31f87fb730b",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x6d6ad15742a6f730fa100edc1d1a44bb8fdc64e4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x9e3670684969efcd612e811cc6b84c3920d77b6c",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x8e6d6a2e749f8ea88108c25d23d5c20f1da03210",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x435fff872d701aa12eae3f0b7102d5d2a9ef939c",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x5235887384f59348667f071159be3a495da20c44",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x977ef71379c660d038353c18c94949190429fb71",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0x52f80650a518a80187c889ff7f643fd9f364e724",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "0xaf05fa4fdc283033761ea92540a67052893b1f39",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "6ace16b2d734b35fa5bf7d64",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "6ace16bdd734b35fa5bf7eb9",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "urn:li:share:7515736196589883393",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "mgr94",
+      "company": "Augustus",
+      "title": "Third Party Risk Manager",
+      "platform": "facebook",
+      "postedAt": "2026-10-13T11:31:40.695Z",
+      "postId": "691827047618629_1114366607837240",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "x",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "6ace16d21c6056464edbe5f9",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Paxos is hiring Product Marketing Lead, Stablecoins\n\nhttps://hashtagweb3.com/pm245/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2109970548671287427"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "threads",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "18127098721851048",
+      "verification": "verified",
+      "expectedText": "Paxos is hiring Product Marketing Lead, Stablecoins: https://hashtagweb3.com/pm245/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DebtYvJEVAF",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "bluesky",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxqwqej5pp2v",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0xdc2bc9c500be803c731ee687ca2a9805eb5875b1",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x95af509864ce454f6ad29611dbebecdbdc3ddfe9",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x2497af13f9e46e635d6ee3cc07cbc192b26c7bad",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x2306da5375f5c23f2913f8ad87b2e76407764155",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x0c90e539b69bd6a78dae039db84c51b2c09c189e",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x7048fcac3a18cca3049509936d7c58873648c1c5",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x770024e67f30b4992c45ea1df4cd1d442e62a0de",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0xe46e058ecfe4cfb1715528f1871e25f25cda746e",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x2e5cbba7abe79b51a731a95c8bd85ccd78fad1e4",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x8dfd03ad1412675e9e35f6f00e57179bd12d29db",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0xba2b7750b4c6c634b7f39a08384f3f44438beadd",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x9adfdcd007d13e79fffe7290cdc121fb809b0865",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x50e43b7ce59720c3812e338ec5a70753f080c091",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0xeec19c5b51433dcb8a3b3c3c5c6f5bf76d81f4a5",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x8be35c06e428f17ee4589d9d35faba7fe0f80cd6",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x4339c9021df393324099d7d9243d898bd9e44fe0",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "0x8525521ab24e56a690b730e51f79a9a7e97a168f",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "6ace16e6020ce99f0060b19e",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "6ace16f0abc6b7b12eddda50",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "urn:li:share:7515736411703152640",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "pm245",
+      "company": "Paxos",
+      "title": "Product Marketing Lead, Stablecoins",
+      "platform": "facebook",
+      "postedAt": "2026-10-13T11:32:34.241Z",
+      "postId": "691827047618629_1114367074503860",
       "verification": "verified"
     }
   ]
