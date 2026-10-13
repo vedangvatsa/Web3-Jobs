@@ -1684,5 +1684,50 @@
     "slotKey": "2026-10-13:morning",
     "messageId": 155740,
     "sentAt": "2026-10-13T03:31:52.966Z"
+  },
+  "e47d11a1-edc1-44a9-a0a6-9f74821c66b4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T11:31:50.172Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-ibt-bengaluru-2026",
+        "slug": "ibt-bengaluru",
+        "name": "India Blockchain & AI Tour 2026 - Bengaluru",
+        "startDate": "2026-10-17T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-bengaluru-2026",
+          "page:ibt-bengaluru:2026-10-17",
+          "url:indiablockchaintour.com/2026-nodes/bengaluru/ticket:2026-10-17",
+          "event:indiablockchainaitour2026bengaluru:2026-10-17:bengaluru"
+        ]
+      },
+      {
+        "id": "luma-crypto-uY7AwaQhqCO2Ejy",
+        "slug": "executorch",
+        "name": "ExecuTorch Hackathon",
+        "startDate": "2026-10-17T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-uy7awaqhqco2ejy",
+          "page:executorch:2026-10-17",
+          "luma:evt-uy7awaqhqco2ejy",
+          "luma-url:/executorch-hackathon",
+          "event:executorchhackathon:2026-10-17:san francisco"
+        ]
+      },
+      {
+        "id": "ma-money-20-20-usa",
+        "slug": "m22u",
+        "name": "Money20/20 USA",
+        "startDate": "2026-10-18T00:00:00.000Z",
+        "keys": [
+          "ma-money-20-20-usa",
+          "page:m22u:2026-10-18",
+          "event:money2020usa:2026-10-18:las vegas"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-13:afternoon"
   }
 }
