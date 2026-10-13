@@ -1207,5 +1207,38 @@
     "slotKey": "2026-10-12:evening",
     "messageId": 193338,
     "sentAt": "2026-10-12T19:33:45.669Z"
+  },
+  "6a9a98f6-6c73-4e1d-87df-2be636de316a": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T03:34:19.841Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+        "headline": "Epic Games adopts AI-first game development strategy",
+        "summary": "The studio is shifting production workflows to prioritize automated code and asset generation for upcoming major titles.",
+        "event_rationale": "This covers a major industry shift in software development methodology within the gaming sector, distinct from infrastructure or regulatory news.",
+        "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+        "source": "Ars Technica",
+        "originalTitle": "Epic Games reportedly pivoting to \"AI first\" game development model"
+      },
+      {
+        "index": 3,
+        "headline": "Honeyjar launches AI software for public relations tasks",
+        "summary": "This platform provides automated tools to assist businesses with their public relations and communication workflows.",
+        "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "source": "TechCrunch",
+        "originalTitle": "Honeyjar offers AI tools to improve PR and comms at every company"
+      },
+      {
+        "index": 5,
+        "headline": "TechCrunch Disrupt 2026 Begins Tomorrow in San Francisco",
+        "summary": "The three-day technology conference starts tomorrow, with final discounts on registration available for the next 24 hours.",
+        "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+        "source": "TechCrunch",
+        "originalTitle": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings"
+      }
+    ],
+    "slotKey": "2026-10-13:morning"
   }
 }
