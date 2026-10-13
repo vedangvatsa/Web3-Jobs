@@ -2973,5 +2973,80 @@
     "slotKey": "2026-10-13:morning",
     "messageId": 16530,
     "sentAt": "2026-10-13T03:32:01.495Z"
+  },
+  "08542208-e622-45a3-a226-b4b402b60579": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T03:32:03.687Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "f43ce6fc-4025-43ef-b51c-ca1234bc1431",
+          "title": "Senior Product Marketing Manager - Advanced Trading",
+          "company": "Bitvavo",
+          "link": "https://jobs.ashbyhq.com/bitvavo/f43ce6fc-4025-43ef-b51c-ca1234bc1431",
+          "date": "2026-09-28T12:32:29.412+00:00",
+          "source": "Ashby: Bitvavo [bitvavo]",
+          "location": "Headquarters",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm163"
+        },
+        "key": "f43ce6fc-4025-43ef-b51c-ca1234bc1431",
+        "slug": "pm163",
+        "url": "https://hashtagweb3.com/pm163?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitvavo",
+        "title": "Senior Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8208521",
+          "title": "Customer Success Manager, Enterprise",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8208521",
+          "date": "2026-09-18T17:28:22-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Chicago, US",
+          "department": "Global Operations",
+          "active": true,
+          "salary": "$113.7k – $144.8k/yr",
+          "dateVerified": true,
+          "slug": "mgr49"
+        },
+        "key": "8208521",
+        "slug": "mgr49",
+        "url": "https://hashtagweb3.com/mgr49?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Customer Success Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8796519002",
+          "title": "Sales Development Representative (SDR), Enterprise",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8796519002",
+          "date": "2026-09-18T19:08:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "New York, NY",
+          "department": "Partnerships",
+          "active": true,
+          "salary": "$60.3k – $77.7k/yr",
+          "dateVerified": true,
+          "slug": "sls91"
+        },
+        "key": "8796519002",
+        "slug": "sls91",
+        "url": "https://hashtagweb3.com/sls91?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Sales Development Representative"
+      }
+    ],
+    "message": "- Bitvavo is hiring <a href=\"https://hashtagweb3.com/pm163?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Marketing Manager - Advanced Trading</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mgr49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager, Enterprise</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/sls91?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Development Representative (SDR), Enterprise</a>",
+    "slotKey": "2026-10-13:morning"
   }
 }
