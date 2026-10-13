@@ -31903,11 +31903,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b2f1f35770131e1896dc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T22:09:43.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "out-of-scope",
+      "note": "Headline triage: non-crypto story (equities, AI industry, geopolitics, retail) outside the Web3 news brief; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:41:46.561Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "8686dd8807c8ea188af5": {
       "source": "Crypto Briefing",
@@ -59199,6 +59204,13 @@
           "note": "Headline triage: non-crypto story (equities, AI industry, geopolitics, retail) outside the Web3 news brief; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:41:44.737Z"
+        },
+        "b2f1f35770131e1896dc": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Headline triage: non-crypto story (equities, AI industry, geopolitics, retail) outside the Web3 news brief; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:41:46.561Z"
         }
       },
       "baselineSlugs": [
