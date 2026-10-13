@@ -1426,7 +1426,7 @@
     "sentAt": "2026-10-12T19:32:30.453Z"
   },
   "5886152a-b10d-401f-a557-871709471be4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T03:32:13.932Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1516,6 +1516,8 @@
       }
     ],
     "message": "- MoonPay is hiring <a href=\"https://hashtagweb3.com/rec20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Talent Partner</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/mse2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mechanical Systems Expert</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng503?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm166?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Principal Product Manager, User Onboarding &amp; Growth (Crypto.com App)</a>",
-    "slotKey": "2026-10-13:morning"
+    "slotKey": "2026-10-13:morning",
+    "messageId": 155741,
+    "sentAt": "2026-10-13T03:32:18.289Z"
   }
 }
