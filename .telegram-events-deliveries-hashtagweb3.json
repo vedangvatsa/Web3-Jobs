@@ -1636,5 +1636,51 @@
     "slotKey": "2026-10-12:evening",
     "messageId": 155736,
     "sentAt": "2026-10-12T19:32:21.951Z"
+  },
+  "6dccdc7f-d6d4-49b2-a8c7-c88be37532c2": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T03:31:49.924Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evtv3O7YcVURVv8P",
+        "slug": "qwpyrmvn",
+        "name": "Solana Across Campuses - California State University Long Beach",
+        "startDate": "2026-10-15T23:00:00.000Z",
+        "keys": [
+          "luma-batch-evtv3o7ycvurvv8p",
+          "page:qwpyrmvn:2026-10-15",
+          "luma:evt-v3o7ycvurvv8pbw",
+          "luma-url:/qwpyrmvn",
+          "event:solanaacrosscampusescaliforniastateuniversitylongbeach:2026-10-15:long beach"
+        ]
+      },
+      {
+        "id": "luma-crypto-T8jvG7h5xieJmQL",
+        "slug": "fmduh",
+        "name": "Maritime Dual-Use Hackathon",
+        "startDate": "2026-10-16T23:30:00.000Z",
+        "keys": [
+          "luma-crypto-t8jvg7h5xiejmql",
+          "page:fmduh:2026-10-16",
+          "luma:evt-t8jvg7h5xiejmql",
+          "luma-url:/mvcg9eyw",
+          "event:maritimedualusehackathon:2026-10-16:san francisco"
+        ]
+      },
+      {
+        "id": "premier-edcon-2026",
+        "slug": "edcon",
+        "name": "EDCON 2026",
+        "startDate": "2026-10-17T09:00:00+08:00",
+        "keys": [
+          "premier-edcon-2026",
+          "page:edcon:2026-10-17",
+          "event:edcon2026:2026-10-17:kuala lumpur"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-13:morning"
   }
 }
