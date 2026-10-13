@@ -33261,11 +33261,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "3572f4cb2c2587ab06d7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T11:00:23.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "promotional",
+      "note": "Headline triage: vendor promo or stunt coverage with no verifiable concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:30.232Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "5808686c1fec4b4c0efa": {
       "source": "Decrypt",
@@ -59463,6 +59468,13 @@
           "note": "Headline triage: non-crypto story (equities, AI industry, geopolitics, retail) outside the Web3 news brief; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:24.543Z"
+        },
+        "3572f4cb2c2587ab06d7": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Headline triage: vendor promo or stunt coverage with no verifiable concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:30.232Z"
         }
       },
       "baselineSlugs": [
