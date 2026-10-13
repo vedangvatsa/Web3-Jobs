@@ -33899,11 +33899,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "b79bc73272489ac6eb11",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T09:44:57.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/former-story-blockchain-plans-to-shut-down-and-rebuild-its-ai-data-registry-on-sui/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:57.713Z",
+      "retrySearches": [
+        "Story DATA Sui migration 30M October 2026 announcement"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "3a7cb162052538f78921": {
       "source": "Cointelegraph",
@@ -61080,6 +61094,21 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:45:55.921Z",
+          "retrySearches": [
+            "Story DATA Sui migration 30M October 2026 announcement"
+          ]
+        },
+        "b79bc73272489ac6eb11": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/former-story-blockchain-plans-to-shut-down-and-rebuild-its-ai-data-registry-on-sui/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:57.713Z",
           "retrySearches": [
             "Story DATA Sui migration 30M October 2026 announcement"
           ]
