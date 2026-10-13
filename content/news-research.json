@@ -27886,23 +27886,23 @@
       "id": "6420dc2950b5016d8969",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T15:59:17.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "Kyrgyzstan USDKG order read in CryptoBriefing only - needs cabinet order text or a second outlet opened.",
+      "note": "Prior-round CryptoBriefing read retained; cabinet order text or second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:09.289Z",
+      "reviewedAt": "2026-10-13T01:44:09.888Z",
       "retrySearches": [
         "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "dce879b8052efc81cfa6": {
       "source": "Crypto Briefing",
@@ -59751,6 +59751,21 @@
           "reviewedAt": "2026-10-13T01:44:08.121Z",
           "retrySearches": [
             "Kraken Maker Protection IOC cancel docs second outlet"
+          ]
+        },
+        "6420dc2950b5016d8969": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round CryptoBriefing read retained; cabinet order text or second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:09.888Z",
+          "retrySearches": [
+            "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
           ]
         }
       },
