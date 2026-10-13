@@ -28413,23 +28413,23 @@
       "id": "61902e795ff9451fa380",
       "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T22:37:12.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "needs-corroboration",
-      "note": "Coinbase Qwen model read in CryptoBriefing only with blog 403 - needs openable primary and second outlet.",
+      "note": "Prior-round CryptoBriefing read retained; openable primary and second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/coinbase-qwen-model-fraud-prevention/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:17.281Z",
+      "reviewedAt": "2026-10-13T01:44:15.504Z",
       "retrySearches": [
         "Coinbase Qwen fraud benchmark Owning Intelligence second outlet"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "f5bdf74ccc0550a1f8a4": {
       "source": "Crypto Briefing",
@@ -59796,6 +59796,21 @@
           "reviewedAt": "2026-10-13T01:44:13.667Z",
           "retrySearches": [
             "Filecoin vesting ends October 15 second outlet coverage"
+          ]
+        },
+        "61902e795ff9451fa380": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round CryptoBriefing read retained; openable primary and second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coinbase-qwen-model-fraud-prevention/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:15.504Z",
+          "retrySearches": [
+            "Coinbase Qwen fraud benchmark Owning Intelligence second outlet"
           ]
         }
       },
