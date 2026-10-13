@@ -31546,11 +31546,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "912e4019aa4c220e0f59",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T04:49:30.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "price-chatter",
+      "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:47.620Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "f57c183ffcf765f0c858": {
       "source": "BeInCrypto",
@@ -58863,6 +58868,13 @@
           "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:45.736Z"
+        },
+        "912e4019aa4c220e0f59": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:47.620Z"
         }
       },
       "baselineSlugs": [
