@@ -1261,5 +1261,36 @@
     "slotKey": "2026-10-13:afternoon",
     "messageId": 155747,
     "sentAt": "2026-10-13T11:34:53.911Z"
+  },
+  "481f9ed9-9fb1-46b4-90fd-a5360df2cd30": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T19:40:53.866Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "ESMA sets January 2027 deadline for non-MiCA stablecoin removal",
+        "summary": "Licensed platforms must end services for unauthorized stablecoins and resolve customer exposure within three months.",
+        "link": "https://hashtagweb3.com/esma-stablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "ESMA gives EU crypto firms until Jan. 8 to wind down non-MiCA stablecoins"
+      },
+      {
+        "index": -1,
+        "headline": "Tether freezes then unfreezes $1.45 million in THORChain vaults",
+        "summary": "The company blocked four Tron-based addresses for two hours on October 9 before restoring access and resuming swaps.",
+        "link": "https://hashtagweb3.com/thorchain-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Tether blacklists four THORChain vaults, then reverses within hours"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand finalizes bitcoin and ether ETF regulations",
+        "summary": "Starting October 16, institutional investors can access local crypto ETFs while retail traders remain barred from foreign funds.",
+        "link": "https://hashtagweb3.com/thailand-etfs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand finalizes bitcoin and ether ETF rules effective Oct. 16"
+      }
+    ],
+    "slotKey": "2026-10-13:evening"
   }
 }
