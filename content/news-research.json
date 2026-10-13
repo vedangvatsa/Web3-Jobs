@@ -33607,11 +33607,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5808686c1fec4b4c0efa",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T10:12:48.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single-source enforcement lead, not opened; needs NCA notice and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:08.650Z",
+      "retrySearches": [
+        "Prince Group London penthouse frozen October 2026 NCA"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "85946a7753b3499f3528": {
       "source": "The Block",
@@ -60444,6 +60458,21 @@
           "reviewedAt": "2026-10-13T01:45:06.802Z",
           "retrySearches": [
             "Australia ASIC crypto derivatives leverage caps October 2026"
+          ]
+        },
+        "5808686c1fec4b4c0efa": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single-source enforcement lead, not opened; needs NCA notice and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:08.650Z",
+          "retrySearches": [
+            "Prince Group London penthouse frozen October 2026 NCA"
           ]
         }
       },
