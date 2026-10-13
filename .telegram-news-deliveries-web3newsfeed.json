@@ -1228,5 +1228,36 @@
     "slotKey": "2026-10-12:evening",
     "messageId": 65744,
     "sentAt": "2026-10-12T19:33:16.101Z"
+  },
+  "58687249-4a5d-4464-8b33-15e572587c67": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T03:34:13.890Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Jeonbuk Bank issues South Korea's first bitcoin-collateralized corporate loan",
+        "summary": "The bank issued a won-denominated loan secured by bitcoin held by a third-party custodian.",
+        "link": "https://hashtagweb3.com/jeonbuk-loans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Jeonbuk Bank issues South Korea's first bitcoin-backed bank loans"
+      },
+      {
+        "index": -1,
+        "headline": "Strategy repurchases $192 million in shares and buys bitcoin",
+        "summary": "The company spent $192.4 million on preferred stock buybacks and $21.5 million on 250 bitcoin last week.",
+        "link": "https://hashtagweb3.com/strategy-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy spends $192 million on preferred buyback, nine times its bitcoin buy"
+      },
+      {
+        "index": -1,
+        "headline": "SWI Group raises $894 million for AI computing",
+        "summary": "The company will convert former Genesis Digital Assets mining sites in the US and Sweden into AI facilities.",
+        "link": "https://hashtagweb3.com/genesis-ai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SWI raises $894 million to turn former FTX miner toward AI"
+      }
+    ],
+    "slotKey": "2026-10-13:morning"
   }
 }
