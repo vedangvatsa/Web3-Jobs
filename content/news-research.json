@@ -29938,11 +29938,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1858e50514b80a485489",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:23:48.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "source-blocked",
+      "note": "Defiant blocked (403 pattern); Pando Oct 13 HK listing needs HKEX notice and a readable second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/pando-sets-oct-13-hong-kong-listing-for-spot-solana-etf",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:32.107Z",
+      "retrySearches": [
+        "Pando Solana ETF Hong Kong October 13 listing second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "6f9996c34ea3526ec463": {
       "source": "CryptoSlate",
@@ -59864,6 +59878,21 @@
           "reviewedAt": "2026-10-13T01:44:20.925Z",
           "retrySearches": [
             "Uniswap Unichain OP Enterprise October 29 primary announcement"
+          ]
+        },
+        "1858e50514b80a485489": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant blocked (403 pattern); Pando Oct 13 HK listing needs HKEX notice and a readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/pando-sets-oct-13-hong-kong-listing-for-spot-solana-etf",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:32.107Z",
+          "retrySearches": [
+            "Pando Solana ETF Hong Kong October 13 listing second outlet"
           ]
         }
       },
