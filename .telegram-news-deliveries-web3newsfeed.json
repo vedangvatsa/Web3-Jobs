@@ -1294,5 +1294,36 @@
     "slotKey": "2026-10-13:afternoon",
     "messageId": 65746,
     "sentAt": "2026-10-13T11:33:47.380Z"
+  },
+  "d095776f-3ca7-4cdc-8173-879a1174b5dd": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T19:42:17.361Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Sui Foundation invests $30 million in DATA Network migration",
+        "summary": "The AI training protocol will shut its blockchain to rebuild on Sui using Walrus storage.",
+        "link": "https://hashtagweb3.com/sui-data?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Sui Foundation invests $30M as DATA Network retires its chain for Sui"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand approves domestic bitcoin and ether ETFs",
+        "summary": "New regulations allow local crypto ETFs starting October 16 while restricting access to foreign investment products.",
+        "link": "https://hashtagweb3.com/thailand-etfs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand finalizes bitcoin and ether ETF rules effective Oct. 16"
+      },
+      {
+        "index": -1,
+        "headline": "UK Sanctions Crypto Exchanges Linked to Russia",
+        "summary": "Britain sanctioned 38 entities, including three crypto exchanges, for allegedly helping Russia bypass financial restrictions.",
+        "link": "https://hashtagweb3.com/uk-sanctions?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK sanctions crypto exchanges Cryptomus, Heleket and TokenSpot over Russia links"
+      }
+    ],
+    "slotKey": "2026-10-13:evening"
   }
 }
