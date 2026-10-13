@@ -28300,23 +28300,23 @@
       "id": "f111c8e5eab12d41a30f",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T01:43:00.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "Filecoin Oct 15 vesting end read in CryptoBriefing only - needs Filecoin primary update and second outlet.",
+      "note": "Prior-round CryptoBriefing read retained; Filecoin primary update and second outlet still missing; vesting end Oct 15 keeps it timely.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:15.348Z",
+      "reviewedAt": "2026-10-13T01:44:13.667Z",
       "retrySearches": [
         "Filecoin vesting ends October 15 second outlet coverage"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "7def3fe3e74857302049": {
       "source": "Crypto Briefing",
@@ -59781,6 +59781,21 @@
           "reviewedAt": "2026-10-13T01:44:11.833Z",
           "retrySearches": [
             "Bank of England stablecoin banker Breeden speech October 2026"
+          ]
+        },
+        "f111c8e5eab12d41a30f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round CryptoBriefing read retained; Filecoin primary update and second outlet still missing; vesting end Oct 15 keeps it timely.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/filecoin-six-year-vesting-ends-fil-issuance/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:13.667Z",
+          "retrySearches": [
+            "Filecoin vesting ends October 15 second outlet coverage"
           ]
         }
       },
