@@ -29959,11 +29959,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "6f9996c34ea3526ec463",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T12:00:46.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Thailand Oct 8 bitcoin-and-ether ETF rules already covered by thailand-etfs.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:09.409Z",
+      "duplicateOf": "thailand-etfs",
+      "lastReviewedDay": "2026-10-13"
     },
     "73a358ee8c3d19b7eb4a": {
       "source": "Unchained",
@@ -58651,6 +58657,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:07.528Z",
           "duplicateOf": "france-taxes"
+        },
+        "6f9996c34ea3526ec463": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Thailand Oct 8 bitcoin-and-ether ETF rules already covered by thailand-etfs.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:09.409Z",
+          "duplicateOf": "thailand-etfs"
         }
       },
       "baselineSlugs": [
