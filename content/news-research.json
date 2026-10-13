@@ -32933,11 +32933,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "662987f3e42abb712700",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:27:09.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "not-a-concrete-event",
+      "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:48.048Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "5c5b21c338c6b9db7786": {
       "source": "Bitcoin Magazine",
@@ -59571,6 +59576,13 @@
           "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:46.170Z"
+        },
+        "662987f3e42abb712700": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:48.048Z"
         }
       },
       "baselineSlugs": [
