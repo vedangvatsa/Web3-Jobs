@@ -30432,11 +30432,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0f27222910efd1c10573",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:50:16.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "source-blocked",
+      "note": "Defiant blocked (403 pattern); Ontology restart needs team post and a readable second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:39.309Z",
+      "retrySearches": [
+        "Ontology mainnet restart 43-hour halt October 2026 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "89a6f4eaa44f8851ec4d": {
       "source": "Decrypt",
@@ -59980,6 +59994,21 @@
           "reviewedAt": "2026-10-13T01:44:37.539Z",
           "retrySearches": [
             "ESMA MiCA passporting loophole October 2026 second outlet"
+          ]
+        },
+        "0f27222910efd1c10573": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant blocked (403 pattern); Ontology restart needs team post and a readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:39.309Z",
+          "retrySearches": [
+            "Ontology mainnet restart 43-hour halt October 2026 second outlet"
           ]
         }
       },
