@@ -31867,11 +31867,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5d1338fd8d65a3744eb9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T00:52:52.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single Cointelegraph lead, not opened; needs Aptos Labs post and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:54.113Z",
+      "retrySearches": [
+        "Aptos encrypted mempool mainnet October 2026 Aptos Labs post"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "2dc192562b7cd49ca4dd": {
       "source": "Crypto Briefing",
@@ -60212,6 +60226,21 @@
           "reviewedAt": "2026-10-13T01:44:52.394Z",
           "retrySearches": [
             "USDGO Jupiter Lend Fluid Solana October 2026"
+          ]
+        },
+        "5d1338fd8d65a3744eb9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single Cointelegraph lead, not opened; needs Aptos Labs post and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:54.113Z",
+          "retrySearches": [
+            "Aptos encrypted mempool mainnet October 2026 Aptos Labs post"
           ]
         }
       },
