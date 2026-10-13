@@ -31158,11 +31158,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "96471123e3c8fc3a70e7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T12:13:45.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Strategy Oct 5-11 buyback-plus-250-BTC event covered once as strategy-buyback.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:40.332Z",
+      "duplicateOf": "strategy-buyback",
+      "mergedInto": "7316ad777152a1220780",
+      "lastReviewedDay": "2026-10-13"
     },
     "3afe59e2b3bf56aa5972": {
       "source": "The Block",
@@ -58475,6 +58482,15 @@
           "note": "Same Strategy Oct 5-11 buyback-plus-250-BTC event covered once as strategy-buyback.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:39:38.441Z",
+          "duplicateOf": "strategy-buyback",
+          "mergedInto": "7316ad777152a1220780"
+        },
+        "96471123e3c8fc3a70e7": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Strategy Oct 5-11 buyback-plus-250-BTC event covered once as strategy-buyback.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:40.332Z",
           "duplicateOf": "strategy-buyback",
           "mergedInto": "7316ad777152a1220780"
         }
