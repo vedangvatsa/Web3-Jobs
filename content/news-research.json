@@ -33934,11 +33934,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6b008f7d37ed7a0f2fd8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T09:38:07.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "IMF tokenized-equity finding, not opened; needs IMF paper and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/most-tokenized-stock-trading-happens-outside-u-s-market-hours-imf-finds/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:52.108Z",
+      "retrySearches": [
+        "IMF tokenized equity after-hours trading October 2026 report"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "063a6ba8b9ce7356498e": {
       "source": "Cointelegraph",
@@ -60993,6 +61007,21 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:45:50.232Z",
+          "retrySearches": [
+            "IMF tokenized equity after-hours trading October 2026 report"
+          ]
+        },
+        "6b008f7d37ed7a0f2fd8": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "IMF tokenized-equity finding, not opened; needs IMF paper and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/most-tokenized-stock-trading-happens-outside-u-s-market-hours-imf-finds/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:52.108Z",
           "retrySearches": [
             "IMF tokenized equity after-hours trading October 2026 report"
           ]
