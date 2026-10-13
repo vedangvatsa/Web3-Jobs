@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-10-13T03:31:32.068Z",
+  "generatedAt": "2026-10-13T11:31:33.425Z",
   "items": [
+    {
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+      "pubDate": "Tue, 13 Oct 2026 11:26:45 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Your day-ahead look for Oct. 13, 2026",
+      "source": "Coindesk"
+    },
+    {
+      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+      "link": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 11:11:27 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+      "pubDate": "Tue, 13 Oct 2026 11:06:39 +0000",
+      "creator": "James Van Straten",
+      "contentSnippet": "Investors are positioning ahead of today's bank earnings reports and Wednesday’s U.S. inflation data.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "pubDate": "Tue, 13 Oct 2026 11:02:47 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+      "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+      "pubDate": "Tue, 13 Oct 2026 10:51:33 +0000",
+      "creator": "Agent",
+      "contentSnippet": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide",
+      "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "pubDate": "Tue, 13 Oct 2026 10:46:57 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Bitcoin bounced back from an early dip as ZEC, HYPE and SOL led altcoin losses. JPMorgan fell after kicking off U.S. earnings season.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+      "link": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+      "pubDate": "Tue, 13 Oct 2026 10:30:37 +0000",
+      "creator": "Ryan Gladwin",
+      "contentSnippet": "The proposal would require crypto owners to report holdings over €100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks ",
+      "link": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 10:23:07 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized l...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+      "link": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 10:09:01 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 09:42:00 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "pubDate": "Tue, 13 Oct 2026 09:27:47 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "The hardware-wallet maker gave its first public account of how a covert component in devices sold by CryptoBilis could steal users’ master keys withou...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "link": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+      "pubDate": "Tue, 13 Oct 2026 09:12:45 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+      "link": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 09:03:06 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Under-the-Radar Altcoins Cap, Grass and Starknet Witness Surge in Network Growth, Topping All Crypto Projects: Santiment",
+      "link": "https://dailyhodl.com/2026/10/13/under-the-radar-altcoins-cap-grass-and-starknet-witness-surge-in-network-growth-topping-all-crypto-projects-santiment/",
+      "pubDate": "Tue, 13 Oct 2026 07:02:14 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Three under-the-radar altcoin projects outpaced the rest of the digital asset sector in terms of recent network growth, according to the crypto analyt...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+      "pubDate": "Tue, 13 Oct 2026 05:45:10 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
+      "link": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
+      "pubDate": "Tue, 13 Oct 2026 05:44:14 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.",
+      "source": "The Block"
+    },
+    {
+      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+      "pubDate": "Tue, 13 Oct 2026 05:27:17 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Binance to shut down crypto mining pool services in November",
+      "link": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 05:23:26 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
       "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -24,14 +168,6 @@
       "creator": "Felix Ng",
       "contentSnippet": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
-      "pubDate": "Mon, 12 Oct 2026 21:49:02 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
-      "source": "The Block"
     },
     {
       "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
@@ -64,6 +200,14 @@
       "creator": "Sarah Wynn",
       "contentSnippet": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
       "source": "The Block"
+    },
+    {
+      "title": "Michael Saylor’s Strategy Continues Bitcoin-Buying Spree, Adds $22,000,000 Worth of BTC",
+      "link": "https://dailyhodl.com/2026/10/12/michael-saylors-strategy-continues-bitcoin-buying-spree-adds-22000000-worth-of-btc/",
+      "pubDate": "Mon, 12 Oct 2026 19:58:29 +0000",
+      "creator": "Conor Devitt",
+      "contentSnippet": "The Bitcoin treasury firm Strategy (MSTR) has stacked BTC for four weeks in a row, adding $22 million worth of the top crypto asset in the past seven ...",
+      "source": "Daily Hodl"
     },
     {
       "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
@@ -274,6 +418,14 @@
       "source": "Cointelegraph"
     },
     {
+      "title": "New York AG Secures Up to $35,000,000 Penalty and Lifetime Ban for Ex-Celsius CEO",
+      "link": "https://dailyhodl.com/2026/10/12/new-york-ag-secures-up-to-35000000-penalty-and-lifetime-ban-for-ex-celsius-ceo/",
+      "pubDate": "Mon, 12 Oct 2026 09:15:50 +0000",
+      "creator": "Agent",
+      "contentSnippet": "New York Attorney General Letitia James is securing up to $35 million in penalties and a permanent ban from the securities, commodities, and crypto in...",
+      "source": "Daily Hodl"
+    },
+    {
       "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
       "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
       "pubDate": "Mon, 12 Oct 2026 08:58:24 +0000",
@@ -290,12 +442,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-      "pubDate": "Mon, 12 Oct 2026 07:49:40 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says con...",
-      "source": "Coindesk"
+      "title": "Ledger Updates Investigation After $91,000,000 Reportedly Drained From Users",
+      "link": "https://dailyhodl.com/2026/10/12/ledger-updates-investigation-after-91000000-reportedly-drained-from-users",
+      "pubDate": "Mon, 12 Oct 2026 07:01:55 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Ledger is investigating reports that users in Southeast Asia who bought devices from reseller CryptoBilis lost funds, with on-chain analysis showing o...",
+      "source": "Daily Hodl"
     },
     {
       "title": "DATA Network to migrate to Sui, retire own chain ",
@@ -314,14 +466,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "French lawmakers back reporting rule for crypto wallets over $112K  ",
-      "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 12 Oct 2026 04:45:15 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
       "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
       "pubDate": "Mon, 12 Oct 2026 04:33:57 +0000",
@@ -338,28 +482,12 @@
       "source": "The Block"
     },
     {
-      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto ",
-      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-      "pubDate": "Sun, 11 Oct 2026 18:30:00 +0000",
-      "creator": "Nikhilesh De",
-      "contentSnippet": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an ...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
       "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
       "pubDate": "Sun, 11 Oct 2026 16:01:03 +0000",
       "creator": "Agent",
       "contentSnippet": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine strai...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
-      "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
-      "creator": "Will Canny",
-      "contentSnippet": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unr...",
-      "source": "Coindesk"
     },
     {
       "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
@@ -370,28 +498,20 @@
       "source": "Decrypt"
     },
     {
-      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-      "pubDate": "Sun, 11 Oct 2026 13:00:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not ca...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "CFTC proposals aimed at separating prediction markets from casino gambling  ",
-      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 11 Oct 2026 07:50:00 +0000",
-      "creator": "Michael Millard",
-      "contentSnippet": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
       "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
       "pubDate": "Sat, 10 Oct 2026 18:35:25 +0000",
       "creator": "Zack Abrams",
       "contentSnippet": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
       "source": "The Block"
+    },
+    {
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "pubDate": "Sat, 10 Oct 2026 17:01:03 +0000",
+      "creator": "Guillermo Jimenez",
+      "contentSnippet": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule e...",
+      "source": "Decrypt"
     },
     {
       "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
@@ -416,38 +536,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "pubDate": "Sat, 10 Oct 2026 05:43:00 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional c...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "pubDate": "Sat, 10 Oct 2026 03:00:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 20:39:17 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
@@ -519,22 +607,6 @@
       "pubDate": "Fri, 09 Oct 2026 10:11:51 +0000",
       "creator": "Agent",
       "contentSnippet": "Raheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-      "link": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-      "pubDate": "Fri, 09 Oct 2026 08:59:31 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-      "link": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-      "pubDate": "Thu, 08 Oct 2026 20:16:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
       "source": "Decrypt"
     }
   ]
