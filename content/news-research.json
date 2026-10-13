@@ -30488,11 +30488,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0e8abffcdf4823387f24",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:20:49.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "source-blocked",
+      "note": "Defiant blocked (403 pattern); Derive proposal needs forum record and a readable second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:41.121Z",
+      "retrySearches": [
+        "Derive US derivatives treasury proposal October 2026"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "9438a7b8a36c2e7d785a": {
       "source": "CoinJournal",
@@ -60009,6 +60023,21 @@
           "reviewedAt": "2026-10-13T01:44:39.309Z",
           "retrySearches": [
             "Ontology mainnet restart 43-hour halt October 2026 second outlet"
+          ]
+        },
+        "0e8abffcdf4823387f24": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant blocked (403 pattern); Derive proposal needs forum record and a readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:41.121Z",
+          "retrySearches": [
+            "Derive US derivatives treasury proposal October 2026"
           ]
         }
       },
