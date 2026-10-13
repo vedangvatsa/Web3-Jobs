@@ -30273,11 +30273,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "702196be312214d58ad1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T07:39:31.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "price-chatter",
+      "note": "Headline triage: LINK breakout/ETF-inflow price setup; no concrete event, source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:19.582Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "7a65ab402590471efa61": {
       "source": "The Block",
@@ -58707,6 +58712,13 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:14.893Z",
           "duplicateOf": "xrpl-overflow"
+        },
+        "702196be312214d58ad1": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Headline triage: LINK breakout/ETF-inflow price setup; no concrete event, source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:19.582Z"
         }
       },
       "baselineSlugs": [
