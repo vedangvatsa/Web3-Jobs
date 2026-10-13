@@ -33525,11 +33525,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "3fe0e363b669e3610520",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T11:41:58.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single-source proposal lead, not opened; needs ASIC text and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:06.802Z",
+      "retrySearches": [
+        "Australia ASIC crypto derivatives leverage caps October 2026"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "376be79203bc54aa7fc4": {
       "source": "CoinDesk",
@@ -60415,6 +60429,21 @@
           "reviewedAt": "2026-10-13T01:45:05.000Z",
           "retrySearches": [
             "Bybit USDC stocks ETFs October 2026 announcement"
+          ]
+        },
+        "3fe0e363b669e3610520": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single-source proposal lead, not opened; needs ASIC text and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:06.802Z",
+          "retrySearches": [
+            "Australia ASIC crypto derivatives leverage caps October 2026"
           ]
         }
       },
