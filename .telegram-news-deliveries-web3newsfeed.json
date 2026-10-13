@@ -1261,5 +1261,36 @@
     "slotKey": "2026-10-13:morning",
     "messageId": 65745,
     "sentAt": "2026-10-13T03:34:16.094Z"
+  },
+  "309267aa-eb0e-4646-bc46-61eb7626a5cf": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T11:33:44.769Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "New York Bans Ex-Celsius CEO From Crypto Industry",
+        "summary": "The settlement requires Alex Mashinsky to pay up to $35 million tied to his federal forfeiture and prison sentence.",
+        "link": "https://hashtagweb3.com/mashinsky-ban?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New York bars ex-Celsius CEO Mashinsky in $35M conditional settlement"
+      },
+      {
+        "index": -1,
+        "headline": "Papertrade restricts leverage trading following oracle manipulation allegations",
+        "summary": "The platform capped perpetual exposure after a trader made $1.28 million amid claims of price feed tampering.",
+        "link": "https://hashtagweb3.com/papertrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Papertrade launches 1000x perps, then tightens limits after manipulation claims"
+      },
+      {
+        "index": -1,
+        "headline": "Solana reduces slot time to 200 milliseconds",
+        "summary": "The network completed a four-step rollout on October 9, doubling block production capacity at epoch 1053.",
+        "link": "https://hashtagweb3.com/slot-times?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solana activates final 200-millisecond slots at epoch 1053"
+      }
+    ],
+    "slotKey": "2026-10-13:afternoon"
   }
 }
