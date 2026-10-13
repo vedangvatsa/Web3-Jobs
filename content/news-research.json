@@ -30467,11 +30467,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a6f4eaa44f8851ec4d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:32:17.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Decrypt confirmation of CryptoBilis link, not opened; Oct 12 follow-up after ledger-implant needs pairing with Bitquery freeze tracing.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:21.444Z",
+      "retrySearches": [
+        "Ledger CryptoBilis 10M frozen Bitquery October 12 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "0e8abffcdf4823387f24": {
       "source": "The Defiant",
@@ -60531,6 +60545,21 @@
           "reviewedAt": "2026-10-13T01:45:12.195Z",
           "retrySearches": [
             "SkyAI SOL treasury sale 201M buyback October 2026"
+          ]
+        },
+        "89a6f4eaa44f8851ec4d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Decrypt confirmation of CryptoBilis link, not opened; Oct 12 follow-up after ledger-implant needs pairing with Bitquery freeze tracing.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:21.444Z",
+          "retrySearches": [
+            "Ledger CryptoBilis 10M frozen Bitquery October 12 second outlet"
           ]
         }
       },
