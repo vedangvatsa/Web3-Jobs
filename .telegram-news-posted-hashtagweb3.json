@@ -722,6 +722,9 @@
   "https://hashtagweb3.com/kalshi-probe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/slot-times?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/sui-data?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/esma-stablecoins?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/thorchain-freeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/thailand-etfs?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -2074,6 +2077,12 @@
   "Solana activates final 200-millisecond slots at epoch 1053",
   "Sui Foundation invests $30 million in DATA Network migration",
   "Sui Foundation invests $30M as DATA Network retires its chain for Sui",
+  "ESMA sets January 2027 deadline for non-MiCA stablecoin removal",
+  "ESMA gives EU crypto firms until Jan. 8 to wind down non-MiCA stablecoins",
+  "Tether freezes then unfreezes $1.45 million in THORChain vaults",
+  "Tether blacklists four THORChain vaults, then reverses within hours",
+  "Thailand finalizes bitcoin and ether ETF regulations",
+  "Thailand finalizes bitcoin and ether ETF rules effective Oct. 16",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -2346,5 +2355,8 @@
   "fp:1924m|192m|215m|buy|buyback|last|nin|on250|preferr|repurchas",
   "fp:announcement|audit|bet|hous|investigat|kalshi|kati|nam|pick|plac",
   "fp:activat|block|complet|doubl|epoch1053|final200|four|frequency|millisecond|network",
-  "fp:30m|chain|data|foundation|invest|migration|natively|network|protocol|rebuild"
+  "fp:30m|chain|data|foundation|invest|migration|natively|network|protocol|rebuild",
+  "fp:customer|deadlin|down|end|esma|exposur|firm|giv|jan8|january2027",
+  "fp:145m|access|address|bas|blacklist|block|four|freez|hour|october9",
+  "fp:access|barr|can|effectiv|etf|ether|finaliz|foreign|fund|institutional"
 ]
