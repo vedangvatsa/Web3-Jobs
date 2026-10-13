@@ -30314,11 +30314,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "7a65ab402590471efa61",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T04:33:57.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "opinion",
+      "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:41:07.848Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "8339b8ca7e659cb3b896": {
       "source": "The Block",
@@ -58971,6 +58976,13 @@
           "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:41:06.016Z"
+        },
+        "7a65ab402590471efa61": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:41:07.848Z"
         }
       },
       "baselineSlugs": [
