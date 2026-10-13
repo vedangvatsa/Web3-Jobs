@@ -1209,7 +1209,7 @@
     "sentAt": "2026-10-12T19:33:45.669Z"
   },
   "6a9a98f6-6c73-4e1d-87df-2be636de316a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T03:34:19.841Z",
     "stories": [
       {
@@ -1239,6 +1239,8 @@
         "originalTitle": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings"
       }
     ],
-    "slotKey": "2026-10-13:morning"
+    "slotKey": "2026-10-13:morning",
+    "messageId": 193340,
+    "sentAt": "2026-10-13T03:34:22.524Z"
   }
 }

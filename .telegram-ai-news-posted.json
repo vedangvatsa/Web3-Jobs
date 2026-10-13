@@ -716,6 +716,9 @@
   "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
   "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
   "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+  "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+  "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+  "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1931,6 +1934,12 @@
   "WindBorne wins a hefty US Air Force contract for its balloon data",
   "Microsoft president urges UK to lead artificial intelligence regulation",
   "Microsoft president says UK is best placed to drive AI regulation",
+  "Epic Games adopts AI-first game development strategy",
+  "Epic Games reportedly pivoting to \"AI first\" game development model",
+  "Honeyjar launches AI software for public relations tasks",
+  "Honeyjar offers AI tools to improve PR and comms at every company",
+  "TechCrunch Disrupt 2026 Begins Tomorrow in San Francisco",
+  "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2164,5 +2173,8 @@
   "fp:appl|devic|hom|homeview|nam|product|recent|releas|reveal|rumor",
   "fp:amazon|center|deploy|employe|fleet|fulfillment|global|human|integrat|inventory",
   "fp:50m|air|application|autonomous|balloon|contract|data|defens|driven|forc",
-  "fp:argu|becaus|best|currently|driv|hav|lead|machin|microsoft|milk"
+  "fp:argu|becaus|best|currently|driv|hav|lead|machin|microsoft|milk",
+  "fp:adopt|asset|automat|cod|development|epic|gam|generation|major|pivot",
+  "fp:assist|automat|business|comm|communication|every|honeyjar|improv|offer|platform",
+  "fp:100|availabl|begin|chanc|conferenc|day|discount|disrupt2026|final|francisco"
 ]
