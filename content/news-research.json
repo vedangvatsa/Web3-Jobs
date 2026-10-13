@@ -32515,11 +32515,25 @@
         "The Defiant"
       ],
       "id": "ac0f6f532b57a427ce8e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T20:40:24.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single-source milestone lead, not opened; needs Robinhood release and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/robinhood-chain-stock-tokens-15b-100-days/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:57.812Z",
+      "retrySearches": [
+        "Robinhood stock token 15B chain 100 days October 2026"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "57c064886bd2ad0f28aa": {
       "source": "The Defiant",
@@ -60270,6 +60284,21 @@
           "reviewedAt": "2026-10-13T01:44:55.898Z",
           "retrySearches": [
             "Blur frontend shutdown November 2026 announcement second outlet"
+          ]
+        },
+        "ac0f6f532b57a427ce8e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single-source milestone lead, not opened; needs Robinhood release and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/robinhood-chain-stock-tokens-15b-100-days/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:57.812Z",
+          "retrySearches": [
+            "Robinhood stock token 15B chain 100 days October 2026"
           ]
         }
       },
