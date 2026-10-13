@@ -722,6 +722,9 @@
   "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
   "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
   "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+  "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+  "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+  "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1949,6 +1952,12 @@
   "Open models have real benefits. Do they outweigh the risks?",
   "ETH Zurich Scientist Tracks Rainforest Regeneration in Panama",
   "The ecologist revealing the invisible networks that revive rainforests",
+  "Flox develops AI to deter animals from transport infrastructure",
+  "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+  "Disney Considers Acquiring Technology From Character.AI",
+  "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+  "Meta expands algorithm control tools to Facebook",
+  "Facebook is giving users more control over their algorithm",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2188,5 +2197,8 @@
   "fp:100|availabl|begin|chanc|conferenc|day|discount|disrupt2026|final|francisco",
   "fp:acquir|archiv|are|bas|buy|cod|data|dataset|dead|defunct",
   "fp:anthropic|argu|attack|benefit|cyberattack|digital|glm53|hav|help|open",
-  "fp:daisy|dent|ecologist|eth|forest|growth|invisibl|long|monitor|network"
+  "fp:daisy|dent|ecologist|eth|forest|growth|invisibl|long|monitor|network",
+  "fp:airport|animal|away|build|detect|deter|develop|devic|edg|emit",
+  "fp:20m|acquir|character|chatbot|consider|disney|negotiat|offer|plagu|purchas",
+  "fp:adjust|algorithm|can|content|control|expand|facebook|featur|giv|how"
 ]
