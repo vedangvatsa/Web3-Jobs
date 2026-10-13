@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-13T01:31:52.912Z",
+  "generatedAt": "2026-10-13T03:31:32.068Z",
   "items": [
+    {
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 02:41:30 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+      "pubDate": "Tue, 13 Oct 2026 01:57:49 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions.",
+      "source": "The Block"
+    },
     {
       "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
       "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -48,14 +64,6 @@
       "creator": "Sarah Wynn",
       "contentSnippet": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
       "source": "The Block"
-    },
-    {
-      "title": "Michael Saylor’s Strategy Continues Bitcoin-Buying Spree, Adds $22,000,000 Worth of BTC",
-      "link": "https://dailyhodl.com/2026/10/12/michael-saylors-strategy-continues-bitcoin-buying-spree-adds-22000000-worth-of-btc/",
-      "pubDate": "Mon, 12 Oct 2026 19:58:29 +0000",
-      "creator": "Conor Devitt",
-      "contentSnippet": "The Bitcoin treasury firm Strategy (MSTR) has stacked BTC for four weeks in a row, adding $22 million worth of the top crypto asset in the past seven ...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
@@ -266,14 +274,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "New York AG Secures Up to $35,000,000 Penalty and Lifetime Ban for Ex-Celsius CEO",
-      "link": "https://dailyhodl.com/2026/10/12/new-york-ag-secures-up-to-35000000-penalty-and-lifetime-ban-for-ex-celsius-ceo/",
-      "pubDate": "Mon, 12 Oct 2026 09:15:50 +0000",
-      "creator": "Agent",
-      "contentSnippet": "New York Attorney General Letitia James is securing up to $35 million in penalties and a permanent ban from the securities, commodities, and crypto in...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
       "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
       "pubDate": "Mon, 12 Oct 2026 08:58:24 +0000",
@@ -296,14 +296,6 @@
       "creator": "Omkar Godbole",
       "contentSnippet": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says con...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Ledger Updates Investigation After $91,000,000 Reportedly Drained From Users",
-      "link": "https://dailyhodl.com/2026/10/12/ledger-updates-investigation-after-91000000-reportedly-drained-from-users",
-      "pubDate": "Mon, 12 Oct 2026 07:01:55 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Ledger is investigating reports that users in Southeast Asia who bought devices from reseller CryptoBilis lost funds, with on-chain analysis showing o...",
-      "source": "Daily Hodl"
     },
     {
       "title": "DATA Network to migrate to Sui, retire own chain ",
@@ -352,14 +344,6 @@
       "creator": "Nikhilesh De",
       "contentSnippet": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an ...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Visa Survey Shows Nearly Half of APAC Consumers Eyeing Stablecoins for Everyday Use by 2031",
-      "link": "https://dailyhodl.com/2026/10/11/visa-survey-shows-nearly-half-of-apac-consumers-eyeing-stablecoins-for-everyday-use-by-2031/",
-      "pubDate": "Sun, 11 Oct 2026 16:55:11 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Visa’s Consumer 360 research finds 46% of Asia-Pacific consumers likely to adopt stablecoins within five years, up from 16% recent usage, with interes...",
-      "source": "Daily Hodl"
     },
     {
       "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
@@ -450,27 +434,19 @@
       "source": "Coindesk"
     },
     {
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "pubDate": "Sat, 10 Oct 2026 03:00:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Visa’s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
+      "source": "Coindesk"
+    },
+    {
       "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
       "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 09 Oct 2026 20:39:17 +0000",
       "creator": "Turner Wright",
       "contentSnippet": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
-      "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 20:14:02 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodi...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
-      "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 19:04:03 +0000",
-      "creator": "Turner Wright",
-      "contentSnippet": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation.",
       "source": "Cointelegraph"
     },
     {
