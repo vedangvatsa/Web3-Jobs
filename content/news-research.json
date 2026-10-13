@@ -33121,11 +33121,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "08bc846514cf1c1de6c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T08:22:07.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same ESMA Oct 8 non-MiCA stablecoin wind-down opinion already covered by esma-stablecoins.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:11.282Z",
+      "duplicateOf": "esma-stablecoins",
+      "lastReviewedDay": "2026-10-13"
     },
     "96af30d1644a536cbe8f": {
       "source": "CoinDesk",
@@ -58665,6 +58671,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:09.409Z",
           "duplicateOf": "thailand-etfs"
+        },
+        "08bc846514cf1c1de6c1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same ESMA Oct 8 non-MiCA stablecoin wind-down opinion already covered by esma-stablecoins.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:11.282Z",
+          "duplicateOf": "esma-stablecoins"
         }
       },
       "baselineSlugs": [
