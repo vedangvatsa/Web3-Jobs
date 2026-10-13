@@ -746,6 +746,9 @@
   "https://hashtagweb3.com/jeonbuk-loans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strategy-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/genesis-ai?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mashinsky-ban?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/papertrade?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/slot-times?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -2140,6 +2143,12 @@
   "Strategy spends $192 million on preferred buyback, nine times its bitcoin buy",
   "SWI Group raises $894 million for AI computing",
   "SWI raises $894 million to turn former FTX miner toward AI",
+  "New York Bans Ex-Celsius CEO From Crypto Industry",
+  "New York bars ex-Celsius CEO Mashinsky in $35M conditional settlement",
+  "Papertrade restricts leverage trading following oracle manipulation allegations",
+  "Papertrade launches 1000x perps, then tightens limits after manipulation claims",
+  "Solana reduces slot time to 200 milliseconds",
+  "Solana activates final 200-millisecond slots at epoch 1053",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -2415,5 +2424,8 @@
   "fp:announcement|bet|dollar|earn|examin|investigat|kalshi|occurr|official|pick",
   "fp:back|bank|collateraliz|corporat|custodian|denominat|held|issu|jeonbuk|korea",
   "fp:1924m|192m|215m|buy|buyback|last|nin|on250|preferr|repurchas",
-  "fp:894m|asset|comput|convert|digital|facility|former|ftx|genesis|group"
+  "fp:894m|asset|comput|convert|digital|facility|former|ftx|genesis|group",
+  "fp:35m|alex|ban|bar|celsius|ceo|conditional|federal|forfeitur|his",
+  "fp:1000x|128m|allegation|capp|claim|exposur|follow|leverag|limit|mad",
+  "fp:activat|block|capacity|complet|doubl|epoch1053|final200|four|millisecond|network"
 ]

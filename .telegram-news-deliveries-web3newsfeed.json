@@ -1263,7 +1263,7 @@
     "sentAt": "2026-10-13T03:34:16.094Z"
   },
   "309267aa-eb0e-4646-bc46-61eb7626a5cf": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T11:33:44.769Z",
     "stories": [
       {
@@ -1291,6 +1291,8 @@
         "originalTitle": "Solana activates final 200-millisecond slots at epoch 1053"
       }
     ],
-    "slotKey": "2026-10-13:afternoon"
+    "slotKey": "2026-10-13:afternoon",
+    "messageId": 65746,
+    "sentAt": "2026-10-13T11:33:47.380Z"
   }
 }
