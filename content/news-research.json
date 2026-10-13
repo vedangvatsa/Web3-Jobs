@@ -30219,11 +30219,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "92be11f9d2a81406fe1f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T09:37:59.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Oct 9 CFTC event-contracts proposal and interim rule already covered by cftc-swaps.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:56.673Z",
+      "duplicateOf": "cftc-swaps",
+      "lastReviewedDay": "2026-10-13"
     },
     "ce28990f87273976b6bf": {
       "source": "CoinDesk",
@@ -58581,6 +58587,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:39:54.705Z",
           "duplicateOf": "evernorth-listing"
+        },
+        "92be11f9d2a81406fe1f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 9 CFTC event-contracts proposal and interim rule already covered by cftc-swaps.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:56.673Z",
+          "duplicateOf": "cftc-swaps"
         }
       },
       "baselineSlugs": [
