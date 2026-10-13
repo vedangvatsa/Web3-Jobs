@@ -1296,7 +1296,7 @@
     "sentAt": "2026-10-13T11:33:47.380Z"
   },
   "d095776f-3ca7-4cdc-8173-879a1174b5dd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T19:42:17.361Z",
     "stories": [
       {
@@ -1324,6 +1324,8 @@
         "originalTitle": "UK sanctions crypto exchanges Cryptomus, Heleket and TokenSpot over Russia links"
       }
     ],
-    "slotKey": "2026-10-13:evening"
+    "slotKey": "2026-10-13:evening",
+    "messageId": 65747,
+    "sentAt": "2026-10-13T19:42:20.885Z"
   }
 }
