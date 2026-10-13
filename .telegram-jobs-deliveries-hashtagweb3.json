@@ -1424,5 +1424,98 @@
     "slotKey": "2026-10-12:evening",
     "messageId": 155737,
     "sentAt": "2026-10-12T19:32:30.453Z"
+  },
+  "5886152a-b10d-401f-a557-871709471be4": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T03:32:13.932Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+          "title": "Technical Talent Partner",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/4d55b639-e142-48d8-8dac-fbb2a63e2768",
+          "date": "2026-09-30T16:46:20.223Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "London - Hybrid",
+          "workplaceType": "hybrid",
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec20"
+        },
+        "key": "4d55b639-e142-48d8-8dac-fbb2a63e2768",
+        "slug": "rec20",
+        "url": "https://hashtagweb3.com/rec20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Technical Talent Partner"
+      },
+      {
+        "snapshot": {
+          "id": "5439022008",
+          "title": "Mechanical Systems Expert",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5439022008",
+          "date": "2026-09-30T16:21:50-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Corpus Christi, TX",
+          "department": "Managed Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mse2"
+        },
+        "key": "5439022008",
+        "slug": "mse2",
+        "url": "https://hashtagweb3.com/mse2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Mechanical Systems Expert"
+      },
+      {
+        "snapshot": {
+          "id": "8880855002",
+          "title": "Senior Data Engineer",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8880855002",
+          "date": "2026-10-09T12:11:53-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Palo Alto, CA",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng503"
+        },
+        "key": "8880855002",
+        "slug": "eng503",
+        "url": "https://hashtagweb3.com/eng503?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Data Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "3877cedd-abc7-4a38-b0fb-b81d62768b08",
+          "title": "Senior/Principal Product Manager, User Onboarding & Growth (Crypto.com App)",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/3877cedd-abc7-4a38-b0fb-b81d62768b08",
+          "date": "2026-09-28T13:51:48.053Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Singapore)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm166"
+        },
+        "key": "3877cedd-abc7-4a38-b0fb-b81d62768b08",
+        "slug": "pm166",
+        "url": "https://hashtagweb3.com/pm166?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior/Principal Product Manager"
+      }
+    ],
+    "message": "- MoonPay is hiring <a href=\"https://hashtagweb3.com/rec20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Talent Partner</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/mse2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mechanical Systems Expert</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/eng503?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>\n- Crypto.com is hiring <a href=\"https://hashtagweb3.com/pm166?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior/Principal Product Manager, User Onboarding &amp; Growth (Crypto.com App)</a>",
+    "slotKey": "2026-10-13:morning"
   }
 }
