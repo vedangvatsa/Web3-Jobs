@@ -33642,11 +33642,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "85946a7753b3499f3528",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T10:10:13.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single-source plan lead, not opened; needs Morgan Stanley statement and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:10.415Z",
+      "retrySearches": [
+        "Morgan Stanley tokenized equities Q1 2027 October 2026"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "888307f1751b41e3bbff": {
       "source": "Unchained",
@@ -60473,6 +60487,21 @@
           "reviewedAt": "2026-10-13T01:45:08.650Z",
           "retrySearches": [
             "Prince Group London penthouse frozen October 2026 NCA"
+          ]
+        },
+        "85946a7753b3499f3528": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single-source plan lead, not opened; needs Morgan Stanley statement and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:10.415Z",
+          "retrySearches": [
+            "Morgan Stanley tokenized equities Q1 2027 October 2026"
           ]
         }
       },
