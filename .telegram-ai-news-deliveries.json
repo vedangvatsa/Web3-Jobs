@@ -1277,5 +1277,36 @@
     "slotKey": "2026-10-13:afternoon",
     "messageId": 193342,
     "sentAt": "2026-10-13T11:32:59.720Z"
+  },
+  "04892dd7-f832-4971-8106-a560a3cf496c": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T19:41:51.382Z",
+    "stories": [
+      {
+        "index": 1,
+        "headline": "Flox develops AI to deter animals from transport infrastructure",
+        "summary": "The company uses edge devices to detect wildlife and emit specific sounds to keep them off tracks and roads.",
+        "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+        "source": "TechCrunch",
+        "originalTitle": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads"
+      },
+      {
+        "index": 2,
+        "headline": "Disney Considers Acquiring Technology From Character.AI",
+        "summary": "Disney is negotiating a deal to purchase software from the chatbot company.",
+        "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+        "source": "Ars Technica",
+        "originalTitle": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech"
+      },
+      {
+        "index": 3,
+        "headline": "Meta expands algorithm control tools to Facebook",
+        "summary": "Users can now adjust how the platform selects content through a new feature previously released on Instagram.",
+        "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+        "source": "TechCrunch",
+        "originalTitle": "Facebook is giving users more control over their algorithm"
+      }
+    ],
+    "slotKey": "2026-10-13:evening"
   }
 }
