@@ -30195,11 +30195,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "fb494b8b3eb1d9f9ff39",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T18:55:49.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single Cointelegraph lead, not opened; needs FEC filing record and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:35.777Z",
+      "retrySearches": [
+        "crypto PAC Fairshake 2.7M House FEC filing October 2026"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "0542d530c8a30db504c3": {
       "source": "CryptoSlate",
@@ -59922,6 +59936,21 @@
           "reviewedAt": "2026-10-13T01:44:34.017Z",
           "retrySearches": [
             "Moscow Exchange bitcoin trading TASS Interfax confirmation"
+          ]
+        },
+        "fb494b8b3eb1d9f9ff39": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single Cointelegraph lead, not opened; needs FEC filing record and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:35.777Z",
+          "retrySearches": [
+            "crypto PAC Fairshake 2.7M House FEC filing October 2026"
           ]
         }
       },
