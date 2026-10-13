@@ -32817,11 +32817,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "981ec45e63c568199648",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:01:04.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "promotional",
+      "note": "Headline triage: vendor promo or stunt coverage with no verifiable concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:32.064Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "12f78cf5e3151c408693": {
       "source": "The Defiant",
@@ -59475,6 +59480,13 @@
           "note": "Headline triage: vendor promo or stunt coverage with no verifiable concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:30.232Z"
+        },
+        "981ec45e63c568199648": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Headline triage: vendor promo or stunt coverage with no verifiable concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:32.064Z"
         }
       },
       "baselineSlugs": [
