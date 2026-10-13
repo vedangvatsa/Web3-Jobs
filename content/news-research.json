@@ -30506,11 +30506,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5679f974bf7f947304dc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T22:06:36.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Jeonbuk Bank bitcoin-loan event covered once as jeonbuk-loans.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:14.385Z",
+      "duplicateOf": "jeonbuk-loans",
+      "mergedInto": "b27dbf47da0ee48bc0f6",
+      "lastReviewedDay": "2026-10-13"
     },
     "a4cccdd12a0be0f20a07": {
       "source": "BeInCrypto",
@@ -58283,6 +58290,15 @@
           "note": "Same Jeonbuk Bank bitcoin-loan event covered once as jeonbuk-loans.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:39:12.052Z",
+          "duplicateOf": "jeonbuk-loans",
+          "mergedInto": "b27dbf47da0ee48bc0f6"
+        },
+        "5679f974bf7f947304dc": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Jeonbuk Bank bitcoin-loan event covered once as jeonbuk-loans.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:14.385Z",
           "duplicateOf": "jeonbuk-loans",
           "mergedInto": "b27dbf47da0ee48bc0f6"
         }
