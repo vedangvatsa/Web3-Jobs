@@ -33483,11 +33483,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "9803a1534a0557632a54",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T13:12:44.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "source-blocked",
+      "note": "Defiant blocked; Karpeles implant flag needs primary post and a readable second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:31.469Z",
+      "retrySearches": [
+        "Karpeles Ledger implant flag October 12 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "4e1e6ed09ce98e683288": {
       "source": "The Defiant",
@@ -60676,6 +60690,21 @@
           "reviewedAt": "2026-10-13T01:45:29.668Z",
           "retrySearches": [
             "OneKey CryptoBilis cutoff free replacement October 2026"
+          ]
+        },
+        "9803a1534a0557632a54": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Defiant blocked; Karpeles implant flag needs primary post and a readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:31.469Z",
+          "retrySearches": [
+            "Karpeles Ledger implant flag October 12 second outlet"
           ]
         }
       },
