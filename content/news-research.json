@@ -29172,23 +29172,23 @@
       "id": "bc35952249809c182fc3",
       "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T02:00:47.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "needs-corroboration",
-      "note": "Aave USDG rollover read in CryptoSlate with forum proposal in search only - needs governance record and second outlet.",
+      "note": "Prior-round CryptoSlate read retained; governance record and second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:13.238Z",
+      "reviewedAt": "2026-10-13T01:44:19.171Z",
       "retrySearches": [
         "Aave PT-USDG X Layer proposal LlamaRisk second outlet"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "abff916acd5eaf621dd6": {
       "source": "BeInCrypto",
@@ -59830,6 +59830,21 @@
           "reviewedAt": "2026-10-13T01:44:17.387Z",
           "retrySearches": [
             "StarkWare Starknet L1 clearest path CoinDesk coverage"
+          ]
+        },
+        "bc35952249809c182fc3": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round CryptoSlate read retained; governance record and second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:19.171Z",
+          "retrySearches": [
+            "Aave PT-USDG X Layer proposal LlamaRisk second outlet"
           ]
         }
       },
