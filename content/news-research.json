@@ -24735,23 +24735,23 @@
       "id": "d2d7a1b55b78c7f15a05",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T03:31:28.127Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-13T02:06:06.000Z",
       "lastSeenAt": "2026-10-10T22:48:20.650Z",
       "reason": "source-blocked",
-      "note": "Ledger USDD fund-movement lead blocked at source - needs PeckShield trail and a readable second outlet.",
+      "note": "Prior-round block retained; Defiant still the only outlet and returns 403. Expires 02:06 UTC today; final retry.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:24.307Z",
+      "reviewedAt": "2026-10-13T01:43:48.734Z",
       "retrySearches": [
         "Ledger theft funds USDD PeckShield Binance second outlet"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "cf91cc0e021c7179aa15": {
       "source": "BeInCrypto",
@@ -59583,6 +59583,21 @@
           "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:48.048Z"
+        },
+        "d2d7a1b55b78c7f15a05": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Prior-round block retained; Defiant still the only outlet and returns 403. Expires 02:06 UTC today; final retry.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:43:48.734Z",
+          "retrySearches": [
+            "Ledger theft funds USDD PeckShield Binance second outlet"
+          ]
         }
       },
       "baselineSlugs": [
