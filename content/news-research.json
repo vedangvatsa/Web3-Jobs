@@ -29980,11 +29980,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "73a358ee8c3d19b7eb4a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T09:38:03.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Jeonbuk Bank bitcoin-loan event covered once as jeonbuk-loans.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:12.052Z",
+      "duplicateOf": "jeonbuk-loans",
+      "mergedInto": "b27dbf47da0ee48bc0f6",
+      "lastReviewedDay": "2026-10-13"
     },
     "64a6552d852b8ff875c5": {
       "source": "Bitcoin Magazine",
@@ -58269,6 +58276,15 @@
           ],
           "reviewedAt": "2026-10-13T01:39:07.043Z",
           "articleSlug": "genesis-ai"
+        },
+        "73a358ee8c3d19b7eb4a": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Jeonbuk Bank bitcoin-loan event covered once as jeonbuk-loans.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:12.052Z",
+          "duplicateOf": "jeonbuk-loans",
+          "mergedInto": "b27dbf47da0ee48bc0f6"
         }
       },
       "baselineSlugs": [
