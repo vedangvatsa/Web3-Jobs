@@ -31257,11 +31257,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d17b92da0c8f2baa5f2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T13:33:28.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "not-a-concrete-event",
+      "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:42.597Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "4e53abe6edee03b8fe26": {
       "source": "Decrypt",
@@ -59535,6 +59540,13 @@
           "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:40.631Z"
+        },
+        "1d17b92da0c8f2baa5f2": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:42.597Z"
         }
       },
       "baselineSlugs": [
