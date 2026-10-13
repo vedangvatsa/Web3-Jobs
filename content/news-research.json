@@ -28602,7 +28602,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "b27dbf47da0ee48bc0f6",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
       "attempts": 2,
       "expiresAt": "2026-10-15T03:27:03.000Z",
@@ -28628,7 +28628,8 @@
         "Jeonbuk Bank bitcoin corporate loans Edaily bank announcement"
       ],
       "lastReviewedDay": "2026-10-13",
-      "articleSlug": "jeonbuk-loans"
+      "articleSlug": "jeonbuk-loans",
+      "publishedAt": "2026-10-13T01:49:49.268Z"
     },
     "e81a753f4a1393ec6fbe": {
       "source": "BeInCrypto",
@@ -29898,7 +29899,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "00382c7fc620c12b04b0",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
       "attempts": 1,
       "expiresAt": "2026-10-15T08:41:25.000Z",
@@ -29921,7 +29922,8 @@
       ],
       "reviewedAt": "2026-10-13T01:38:59.586Z",
       "articleSlug": "kraken-dubai",
-      "lastReviewedDay": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "publishedAt": "2026-10-13T01:49:49.268Z"
     },
     "1858e50514b80a485489": {
       "source": "The Defiant",
@@ -30265,7 +30267,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb17a57f81a083faf797",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
       "attempts": 1,
       "expiresAt": "2026-10-15T10:27:00.000Z",
@@ -30284,7 +30286,8 @@
       ],
       "reviewedAt": "2026-10-13T01:39:07.043Z",
       "articleSlug": "genesis-ai",
-      "lastReviewedDay": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "publishedAt": "2026-10-13T01:49:49.268Z"
     },
     "92be11f9d2a81406fe1f": {
       "source": "Unchained",
@@ -31143,7 +31146,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "7316ad777152a1220780",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
       "attempts": 1,
       "expiresAt": "2026-10-15T16:18:05.000Z",
@@ -31162,7 +31165,8 @@
       ],
       "reviewedAt": "2026-10-13T01:39:05.135Z",
       "articleSlug": "strategy-buyback",
-      "lastReviewedDay": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "publishedAt": "2026-10-13T01:49:49.268Z"
     },
     "4a35bf09bfe7c41d57b1": {
       "source": "Bitcoin Magazine",
@@ -31722,7 +31726,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a106b1a027a9d0393fd",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
       "attempts": 1,
       "expiresAt": "2026-10-15T09:35:21.000Z",
@@ -31745,7 +31749,8 @@
       ],
       "reviewedAt": "2026-10-13T01:38:57.705Z",
       "articleSlug": "rlusd-custody",
-      "lastReviewedDay": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "publishedAt": "2026-10-13T01:49:49.268Z"
     },
     "809723d273eb57781330": {
       "source": "Cointelegraph",
@@ -59018,7 +59023,7 @@
     "2026-10-13": {
       "day": "2026-10-13",
       "startedAt": "2026-10-13T01:31:53.699Z",
-      "status": "prepared",
+      "status": "completed",
       "candidateIds": [
         "33d2532cea35902b8372",
         "724035b8cd9bafa2f945",
@@ -59336,7 +59341,7 @@
           "automatic": true
         },
         "b27dbf47da0ee48bc0f6": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified across Unchained, CoinDesk and CryptoBriefing Oct 11-12: first won loan against custodied BTC, court-sale recovery under Oct 1 rules, terms undisclosed.",
           "sourceChecks": [
@@ -59354,10 +59359,11 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:38:54.832Z",
-          "articleSlug": "jeonbuk-loans"
+          "articleSlug": "jeonbuk-loans",
+          "publishedAt": "2026-10-13T01:49:49.268Z"
         },
         "8a106b1a027a9d0393fd": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified across Decrypt, CoinDesk and Standard Chartered press release Oct 12: DIFC custody live for XRPL RLUSD, LMAX collateral mirroring planned, no date.",
           "sourceChecks": [
@@ -59375,10 +59381,11 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:38:57.705Z",
-          "articleSlug": "rlusd-custody"
+          "articleSlug": "rlusd-custody",
+          "publishedAt": "2026-10-13T01:49:49.268Z"
         },
         "00382c7fc620c12b04b0": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified across Fintech News UAE and CryptoTicker Oct 12 plus Kraken blog: Full Market Approval, licence VL/26/10/002 issued Oct 6, AED spot/margin/staking/xStocks launch in weeks.",
           "sourceChecks": [
@@ -59396,10 +59403,11 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:38:59.586Z",
-          "articleSlug": "kraken-dubai"
+          "articleSlug": "kraken-dubai",
+          "publishedAt": "2026-10-13T01:49:49.268Z"
         },
         "7316ad777152a1220780": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified across Unchained and Decrypt Oct 12 plus company release: 1,932,145 STRC for 92.4M vs 250 BTC for 1.5M Oct 5-11, 848,250 BTC total, 54.8M buyback room left.",
           "sourceChecks": [
@@ -59413,10 +59421,11 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:39:05.135Z",
-          "articleSlug": "strategy-buyback"
+          "articleSlug": "strategy-buyback",
+          "publishedAt": "2026-10-13T01:49:49.268Z"
         },
         "eb17a57f81a083faf797": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Verified across CoinDesk and CryptoSlate Oct 12 plus SWI release: EUR 800M raise at EUR 6.1B valuation, Genesis US/Sweden sites to AI, Kazakhstan sites for sale.",
           "sourceChecks": [
@@ -59430,7 +59439,8 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:39:07.043Z",
-          "articleSlug": "genesis-ai"
+          "articleSlug": "genesis-ai",
+          "publishedAt": "2026-10-13T01:49:49.268Z"
         },
         "73a358ee8c3d19b7eb4a": {
           "status": "rejected",
@@ -61403,7 +61413,9 @@
         ],
         "total": 152,
         "checkedAt": "2026-10-13T01:31:53.699Z"
-      }
+      },
+      "validationErrors": [],
+      "completedAt": "2026-10-13T01:49:49.268Z"
     }
   }
 }
