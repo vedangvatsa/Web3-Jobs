@@ -3286,5 +3286,99 @@
     "slotKey": "2026-10-13:afternoon",
     "messageId": 122,
     "sentAt": "2026-10-13T11:32:21.890Z"
+  },
+  "556073c5-4837-4c58-aac8-c99f17cbdf04": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T19:39:25.381Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "1c938940-9dae-42b1-ae24-ee8b5ab6ed77",
+          "title": "Consultant - Accounting ( 1 year contract)",
+          "company": "Animoca Brands",
+          "link": "https://jobs.lever.co/animocabrands/1c938940-9dae-42b1-ae24-ee8b5ab6ed77",
+          "date": "2026-09-23T01:42:38.564Z",
+          "source": "Lever: Animoca Brands [animocabrands]",
+          "location": "Hong Kong",
+          "workplaceType": "onsite",
+          "department": "Animoca Brands Limited",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls121"
+        },
+        "key": "1c938940-9dae-42b1-ae24-ee8b5ab6ed77",
+        "slug": "sls121",
+        "url": "https://hashtagweb3.com/sls121?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Animoca Brands",
+        "title": "Accounting"
+      },
+      {
+        "snapshot": {
+          "id": "a567dcbe-add4-4feb-9165-6ad912be1172",
+          "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER",
+          "company": "Braiins",
+          "link": "https://jobs.ashbyhq.com/braiins/a567dcbe-add4-4feb-9165-6ad912be1172",
+          "date": "2026-09-22T16:09:36.178+00:00",
+          "source": "Ashby: Braiins [braiins]",
+          "location": "Hybrid",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Braiins Core",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fs9"
+        },
+        "key": "a567dcbe-add4-4feb-9165-6ad912be1172",
+        "slug": "fs9",
+        "url": "https://hashtagweb3.com/fs9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Braiins",
+        "title": "Fullstack Engineer / AI Engineer for BRAIINS MANAGER"
+      },
+      {
+        "snapshot": {
+          "id": "8250479",
+          "title": "Account Executive, SMB Grower (French speaking)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8250479",
+          "date": "2026-10-08T05:35:57-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Toronto",
+          "department": "1175 Enterprise - Account Executives (NA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls238"
+        },
+        "key": "8250479",
+        "slug": "sls238",
+        "url": "https://hashtagweb3.com/sls238?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "5440011008",
+          "title": "Sales Director - Payments",
+          "company": "Breeze Cash",
+          "link": "https://job-boards.greenhouse.io/breezecash/jobs/5440011008",
+          "date": "2026-09-30T13:00:51-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Breeze Cash [breezecash]",
+          "location": "Amsterdam, Netherlands",
+          "department": "Go To Market ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls193"
+        },
+        "key": "5440011008",
+        "slug": "sls193",
+        "url": "https://hashtagweb3.com/sls193?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Breeze Cash",
+        "title": "Sales Director"
+      }
+    ],
+    "message": "- Animoca Brands is hiring <a href=\"https://hashtagweb3.com/sls121?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Consultant - Accounting ( 1 year contract)</a>\n- Braiins is hiring <a href=\"https://hashtagweb3.com/fs9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fullstack Engineer / AI Engineer for BRAIINS MANAGER</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls238?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SMB Grower (French speaking)</a>\n- Breeze Cash is hiring <a href=\"https://hashtagweb3.com/sls193?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director - Payments</a>",
+    "slotKey": "2026-10-13:evening"
   }
 }
