@@ -177,98 +177,6 @@
     }
   },
   {
-    "id": "w3v-axol-privacy--pizza",
-    "name": "Axol:: Privacy & Pizza",
-    "description": "## Join AxolDAO for a chill evening of pizza, beer, talks about autonomy, anonymity, and friendly conversation!\n\nWho we are:\n[Axol.io](https://Axol.io); [Xochi.fi](https://Xochi.fi) (/so-chee/)\n\nWe believe everyone should be able to have equitable access and understanding of web3, and tech.\nAs we like to say, your “spawn point” (where you're born, what passport you hold, what financial system you inherit) shouldn't determine whether you get privacy.\n\nWeb3 was supposed to bring us together, yet most of us still don’t feel that way.\nThat’s why despite the changing world, let’s be like the axolotls; regenerative, and soft-bodied, and full of pizza (or whatever you choose to order)!",
-    "startDate": "2026-09-12T18:00:00.000Z",
-    "endDate": "2026-09-12T20:00:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "url": "https://luma.com/ehzgf836",
-    "coverImage": "/events/w3v-axol-privacy-pizza-c6a58ee9.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "September 2026",
-    "hosts": [
-      "Blooberries"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "slug": "axol",
-    "registrationUrl": "https://luma.com/ehzgf836",
-    "attendanceMode": "offline",
-    "visibility": "private",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Axol.io"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ehzgf836",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/ehzgf836",
-      "eventId": "evt-Hi0PyqUCUw5lUs3",
-      "fetchedAt": "2026-09-19T23:49:22.907Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-evt-8FXbuSuGgRiR5qn",
-    "name": "Building for SF — A Free Civic Buildathon, Sept 11-12 - Two days. Real projects. A city that works better.",
-    "description": "San Francisco has no shortage of problems — and no shortage of people who care. This September, we're giving builders, policy folks, and curious residents two days to actually do something about it.\n\nBuilding for SF is a free, two-day civic buildathon bringing together residents, technologists, designers, and civic-minded builders to design real solutions for San Francisco's toughest urban challenges. You'll form a team, build something real, and walk away with a working project — and a room full of new collaborators who care about this city as much as you do.\n\n— — —\n\nTHE SCHEDULE - https://buildingforabundancesf.netlify.app/\n\nFriday, Sept 11 · 6-8pm — Kickoff & Team Formation\nMeet your fellow builders, hear from speakers, and find your team for the weekend.\n\nSaturday, Sept 12 · 10am-5pm — Build Day\nDedicated time to build, with mentors circulating throughout the day to help you get unstuck — followed by live demos and awards.\n\n— — —\n\nSPEAKERS & MENTORS\n\nWe've got practitioners joining from:\n\n• Office of Economic and Workforce Development (OEWD)\n• Sitelab\n• Vacant to Vibrant\n• Civic Joy Fund — Luke Spray\n• Abundance SF — Todd David\n• And more!\n\nThank you to our generous HOST on Saturday, YesSF!\n\nWHO SHOULD COME\n\nEngineers and designers, policy and urban planning folks, product people, and residents with zero technical background but real opinions about how this city could work better. The best teams are mixed. If you care about SF, there's a place for you here.\n\n— — —\n\nFree to attend. RSVP below to save your spot.",
-    "startDate": "2026-09-12T01:00:00.000Z",
-    "endDate": "2026-09-13T00:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/abundant-3yz7",
-    "coverImage": "/events/luma-evt-8fxbusuggrir5qn-ab906900.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "bfcbs11tdrpctwb",
-    "timezone": "America/Los_Angeles",
-    "registrationUrl": "https://luma.com/abundant-3yz7",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "Lily Chandrasekher"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Abundant Leaders San Francisco",
-      "url": "https://www.abundancenetwork.com/chapters/san-francisco/"
-    },
-    "price": "Free",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/abundant-3yz7",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/abundant-3yz7",
-      "eventId": "evt-8FXbuSuGgRiR5qn",
-      "fetchedAt": "2026-09-19T23:49:24.216Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-evt-kzFMjrjvEsXXx4z",
     "name": "XRPL Lending Protocol Hackathon",
     "description": "De Vinci Blockchain hosts a curated, in-person Builder Task Force Hackathon on the XRP Ledger: one track, one weekend.\n\nYou will build on the Lending Protocol (XLS-66) and Single Asset Vault (XLS-65): ship a prototype, and file structured feedback on the tooling and docs (Client libraries gaps, UX friction, missing primitives, tutorials). Bring your own use case or follow a suggested one. Same tracks for everyone, creativity is the limit.\n\n~40–50 builders. Applications are reviewed; this is not a walk-in.\n\nPrizes: $5,000 cash prize pool, plus a $5,000 Swell tour travel prize for the overall winning team.\n\n[Learn more about Swell](https://swell.ripple.com/hackathon)\n\nApply. Ship. Leave feedback that can benefit to the whole ecosystem.",
@@ -363,61 +271,6 @@
       "url": "https://luma.com/KursBlockchainONLINE",
       "eventId": "evt-eaWHtCaJKLM1G0p",
       "fetchedAt": "2026-09-19T23:49:25.524Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "luma-evt-ymhYi0BKdyiSE5B",
-    "name": "Mimico Historical Walking Tour, 3pm",
-    "description": "Let's explore the fascinating history of Mimico on foot with our Mimico Historical Walking Tour!\n\nMimico Historical Walking Tour\n\nExplore Mimico's history in your neighbourhood! Event brought to you by the Mimico Residents Association, [in collaboration with the Etobicoke Historical Society](https://www.etobicokehistorical.com/).\n\nOur 1-hour guided walking tour will begin at Amos Waites Park (look for the Mimico Residents Association tent in Mimico Square). Don't miss out on this unique opportunity to learn about the rich heritage of Mimico!\n\nYoung children must be in strollers, as we will be negotiating a couple of traffic lights. Only 20 spots available at this time.",
-    "startDate": "2026-09-12T19:00:00.000Z",
-    "endDate": "2026-09-12T20:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Mimico Square, Etobicoke, ON M8V 1C5, Canada",
-    "url": "https://lu.ma/mnimlsp5",
-    "coverImage": "/events/luma-evt-ymhyi0bkdyise5b-4eafdf4a.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "mhwt3",
-    "timezone": "America/Toronto",
-    "registrationUrl": "https://luma.com/mnimlsp5",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Mimico Square",
-    "addressLocality": "Toronto",
-    "addressRegion": "Ontario",
-    "addressCountry": "CA",
-    "neighborhood": "Etobicoke",
-    "coordinates": {
-      "latitude": 43.613810699999995,
-      "longitude": -79.4888599
-    },
-    "hosts": [
-      "Mimico Residents Association"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Mimico Residents' Association",
-      "url": "https://www.mimicoresidents.ca/"
-    },
-    "price": "Free",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/mnimlsp5",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/mnimlsp5",
-      "eventId": "evt-ymhYi0BKdyiSE5B",
-      "fetchedAt": "2026-09-19T23:49:26.855Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     }
@@ -21715,7 +21568,7 @@
     "country": "Czech Republic",
     "location": "Prague, Czech Republic",
     "url": "https://btcprague.com/",
-    "coverImage": "/events/w3v-btc-prague-27-05-06-cfb41d55.webp",
+    "coverImage": "/events/ma-btc-prague-2027-3c51e74b.webp",
     "source": "marketacross",
     "month": "June 2027"
   },
@@ -21894,7 +21747,7 @@
     "country": "South Korea",
     "location": "Seoul, South Korea",
     "url": "https://koreablockchainweek.com/",
-    "coverImage": "/events/ma-korea-blockchain-week-2026-kbw2026-450007be.webp",
+    "coverImage": "/events/ma-korea-blockchain-week-2027-d240e3e5.webp",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -21908,7 +21761,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -22034,7 +21887,7 @@
     "country": "UAE",
     "location": "Abu Dhabi, UAE",
     "url": "https://b.tc/conference/",
-    "coverImage": "/events/ma-bitcoin-asia-2027-54b71ef7.webp",
+    "coverImage": "/events/ma-bitcoin-mena-2027-d3c41f8b.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -22960,10 +22813,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/316802767/",
     "coverImage": "/events/mu-316802767-2db74201.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -24086,5 +23936,103 @@
     "url": "https://luma.com/eqwsf08t",
     "coverImage": null,
     "month": "November 2026"
+  },
+  {
+    "id": "mu-316686929",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-10-13T18:30:00-05:00",
+    "endDate": "2026-10-13T18:30:00-05:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316686929/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-evt-gy87siMQt7kHv1Q",
+    "name": "Solana Demo Day: Colosseum Hackathon",
+    "description": "",
+    "startDate": "2026-10-14T17:00:00.000Z",
+    "endDate": "2026-10-14T20:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/vwqedg55",
+    "coverImage": "/events/luma-evt-gy87simqt7khv1q-39065315.webp",
+    "source": "luma",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316755229",
+    "name": "FREE WEBINAR: How to Create a Lean Business Plan",
+    "description": "A lean business plan provides a streamlined solution for defining and communicating your business vision. It’s a business planning tool specifically designed for start-ups and entrepreneurs and focuse",
+    "startDate": "2026-10-15T09:00:00-05:00",
+    "endDate": "2026-10-15T09:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/independent-consulting-meetup-group/events/316755229/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316665472",
+    "name": "Reimagining Analytics Delivery for the AI Era",
+    "description": "As AI and advanced analytics capabilities continue to expand, many organizations are looking for ways to deliver greater business impact while helping their teams develop broader skills and stronger c",
+    "startDate": "2026-10-20T16:00:00-05:00",
+    "endDate": "2026-10-20T16:00:00-05:00",
+    "city": "Des Moines",
+    "country": "us",
+    "location": "Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316844001",
+    "name": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
+    "description": "Join us for a webinar with Zeeve, an LFDT general member, on building Bank-Grade Privacy for Enterprise Blockchain Networks. As regulated institutions move blockchain initiatives from pilots to produc",
+    "startDate": "2026-10-21T09:00:00-05:00",
+    "endDate": "2026-10-21T09:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-chicago/events/316844001/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316749553",
+    "name": "Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology",
+    "description": "Pyowa returns to Source Allies on Tuesday, October 27th from 5:30–7pm with Dave Keller presenting a hands-on look at fraud detection, machine learning, and the importance of questioning results that s",
+    "startDate": "2026-10-27T17:30:00-05:00",
+    "endDate": "2026-10-27T17:30:00-05:00",
+    "city": "Urbandale",
+    "country": "us",
+    "location": "Urbandale, us",
+    "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
+  },
+  {
+    "id": "mu-316859714",
+    "name": "Measuring Ledgers With The Blockchain Decentralisation Index Lab",
+    "description": "The new Blockchain Decentralisation Index Lab is an open source tool kit for measuring the decentralisation of distributed ledgers, layer by layer — consensus, tokenomics, network, software, and beyon",
+    "startDate": "2026-10-29T10:00:00-05:00",
+    "endDate": "2026-10-29T10:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-chicago/events/316859714/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "October 2026"
   }
 ]

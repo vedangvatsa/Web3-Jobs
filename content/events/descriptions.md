@@ -55279,58 +55279,6 @@ Blockchain Week 2026 (UNGA Edition) is an independent initiative and is not affi
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-ee2bfa9872e69d15"></a>
-
-## Building for SF — A Free Civic Buildathon, Sept 11-12 - Two days. Real projects. A city that works better.
-
-- Record: `luma-evt-8FXbuSuGgRiR5qn`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-12T01:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/abundant-3yz7>
-- Original page: <https://luma.com/abundant-3yz7>
-
-### About the event
-
-San Francisco has no shortage of problems - and no shortage of people who care. This September, we're giving builders, policy folks, and curious residents two days to actually do something about it.
-
-Building for SF is a free, two-day civic buildathon bringing together residents, technologists, designers, and civic-minded builders to design real solutions for San Francisco's toughest urban challenges. You'll form a team, build something real, and walk away with a working project - and a room full of new collaborators who care about this city as much as you do.
-
- - - -
-
-THE SCHEDULE - https://buildingforabundancesf.netlify.app/
-
-Friday, Sept 11 - 6-8pm - Kickoff & Team Formation
-
-Meet your fellow builders, hear from speakers, and find your team for the weekend.
-
-Saturday, Sept 12 - 10am-5pm - Build Day
-
-Dedicated time to build, with mentors circulating throughout the day to help you get unstuck - followed by live demos and awards.
-
- - - -
-
-SPEAKERS & MENTORS
-
-We've got practitioners joining from:
-
-- Office of Economic and Workforce Development (OEWD)
-- Sitelab
-- Vacant to Vibrant
-- Civic Joy Fund - Luke Spray
-- Abundance SF - Todd David
-- And more!
-
-Thank you to our generous HOST on Saturday, YesSF!
-
-WHO SHOULD COME
-
-Engineers and designers, policy and urban planning folks, product people, and residents with zero technical background but real opinions about how this city could work better. The best teams are mixed. If you care about SF, there's a place for you here.
-
- - - -
-
-Free to attend. RSVP below to save your spot.
-
 <a id="event-7cf112775934445c"></a>
 
 ## XRPL Lending Protocol Hackathon
@@ -55496,55 +55444,6 @@ Szkolenie jest darmowe, jednak liczba miejsc jest ograniczona, a zainteresowanie
 Jeśli otrzymałeś(-aś) potwierdzenie udziału, prosimy o przyjście na szkolenie lub wcześniejszą informację o rezygnacji, abyśmy mogli przekazać miejsce osobie z listy rezerwowej.
 
 Do zobaczenia!
-
-<a id="event-89f227dff4554539"></a>
-
-## Axol:: Privacy & Pizza
-
-- Record: `w3v-axol-privacy--pizza`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-12T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ehzgf836>
-
-### About the event
-
-Join AxolDAO for a chill evening of pizza, beer, talks about autonomy, anonymity, and friendly conversation!
-
-Who we are:
-
-[Axol.io](https://Axol.io); [Xochi.fi](https://Xochi.fi) (/so-chee/)
-
-We believe everyone should be able to have equitable access and understanding of web3, and tech.
-
-As we like to say, your "spawn point" (where you're born, what passport you hold, what financial system you inherit) shouldn't determine whether you get privacy.
-
-Web3 was supposed to bring us together, yet most of us still don't feel that way.
-
-That's why despite the changing world, let's be like the axolotls; regenerative, and soft-bodied, and full of pizza (or whatever you choose to order)!
-
-<a id="event-2e452f27a7da6c8e"></a>
-
-## Mimico Historical Walking Tour, 3pm
-
-- Record: `luma-evt-ymhYi0BKdyiSE5B`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-09-12T19:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/mnimlsp5>
-- Original page: <https://luma.com/mnimlsp5>
-
-### About the event
-
-Let's explore the fascinating history of Mimico on foot with our Mimico Historical Walking Tour!
-
-Mimico Historical Walking Tour
-
-Explore Mimico's history in your neighbourhood! Event brought to you by the Mimico Residents Association, [in collaboration with the Etobicoke Historical Society](https://www.etobicokehistorical.com/).
-
-Our 1-hour guided walking tour will begin at Amos Waites Park (look for the Mimico Residents Association tent in Mimico Square). Don't miss out on this unique opportunity to learn about the rich heritage of Mimico!
-
-Young children must be in strollers, as we will be negotiating a couple of traffic lights. Only 20 spots available at this time.
 
 <a id="event-ee8a93d8a626dbd3"></a>
 
@@ -74088,6 +73987,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-4f4cfd88b390d272"></a>
+
+## Bienvenidos a charla en Español.
+
+- Record: `mu-316686929`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-13T18:30:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316686929/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6be8ace3240183a2"></a>
 
 ## Let's discuss Bitcoin and the Crypto Sector
@@ -74340,6 +74251,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d8c40320e196117f"></a>
+
+## Solana Demo Day: Colosseum Hackathon
+
+- Record: `luma-evt-gy87siMQt7kHv1Q`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-14T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/vwqedg55>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7c2aceea4ff819b8"></a>
 
 ## Navigating Career Transitions in the Age of AI: Defining Your Professional Narrative
@@ -74539,6 +74462,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-15T03:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/lqrbtu27>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-281fa1cced2b1150"></a>
+
+## FREE WEBINAR: How to Create a Lean Business Plan
+
+- Record: `mu-316755229`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-15T09:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/independent-consulting-meetup-group/events/316755229/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -74902,6 +74837,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6f17ab42f68b91bc"></a>
+
+## Reimagining Analytics Delivery for the AI Era
+
+- Record: `mu-316665472`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-20T16:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-data-analytics/events/316665472/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-13b24fc96fc94770"></a>
 
 ## AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy
@@ -75045,6 +74992,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-21T09:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-austin/events/316843977/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-dea4d74355cc0a59"></a>
+
+## Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy
+
+- Record: `mu-316844001`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-21T09:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-chicago/events/316844001/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -75444,6 +75403,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ec86766ae50ffd9f"></a>
+
+## Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology
+
+- Record: `mu-316749553`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-27T17:30:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-338ebe2120a8a8bb"></a>
 
 ## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)
@@ -75573,6 +75544,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-29T10:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-austin/events/316859694/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1b6a333854f4d317"></a>
+
+## Measuring Ledgers With The Blockchain Decentralisation Index Lab
+
+- Record: `mu-316859714`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-10-29T10:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-chicago/events/316859714/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

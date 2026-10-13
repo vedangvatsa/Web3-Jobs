@@ -265,5 +265,26 @@
       "ethwarsaw",
       "eth-warsaw"
     ]
+  },
+  "w3v-axol-privacy--pizza": {
+    "until": "2027-10-13T01:32:04.913Z",
+    "slugs": [
+      "w3v-axol-privacy--pizza",
+      "axol"
+    ]
+  },
+  "luma-evt-8FXbuSuGgRiR5qn": {
+    "until": "2027-10-13T01:32:04.913Z",
+    "slugs": [
+      "luma-evt-8fxbusuggrir5qn",
+      "bfcbs11tdrpctwb"
+    ]
+  },
+  "luma-evt-ymhYi0BKdyiSE5B": {
+    "until": "2027-10-13T01:32:04.913Z",
+    "slugs": [
+      "luma-evt-ymhyi0bkdyise5b",
+      "mhwt3"
+    ]
   }
 }

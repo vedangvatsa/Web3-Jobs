@@ -919,40 +919,6 @@
       }
     ]
   },
-  "luma-host-disccal-N02qmDRupGQloBm": {
-    "summaryLead": "ETHRome gathers Ethereum developers, researchers and founders in Rome from 11-13 September 2026 for three days centred on scaling, decentralization and what the next era of smart contracts looks like in practice.",
-    "sections": [
-      {
-        "heading": "September in Rome, on Ethereum's terms",
-        "content": [
-          "From 11 to 13 September 2026, Rome hosts ETHRome, bringing together Ethereum developers, researchers and founders for three days the description dedicates to scaling, decentralization and the next era of smart contracts. It is a specific recipe: not a general crypto expo but a protocol-focused gathering where the people maintaining and extending Ethereum sit within earshot of the people building businesses on top of it.",
-          "European Ethereum gatherings in early autumn carry a particular usefulness. They land after the summer lull and before the year-end crunch, close enough to recent core-developer decisions for commentary to be fresh and far enough from major global conferences that attendees talk to each other rather than rehearse keynote material. Three days is short; for a technical community, it is usually enough."
-        ]
-      },
-      {
-        "heading": "Scaling, decentralisation and the contract question",
-        "content": [
-          "Each theme on the bill carries weight beyond buzzword status. Scaling remains Ethereum's permanent workstream - the ongoing effort to push transaction capacity outward through layer-2 networks and protocol improvements without surrendering the properties that make the base chain trustworthy. Decentralization is the constraint that shapes every proposed solution, the reason some fast options get rejected despite their speed.",
-          "The third theme, the next era of smart contracts, points toward where application logic is heading: account abstraction patterns, richer on-chain primitives, contracts that compose across rollups. Put researchers who specify these systems in the same room as founders who ship against them, and the gap between whitepaper and production gets interrogated in real time - which is the honest value of a gathering like this.",
-          "The attendee mix does quiet work here too. Researchers stress-test assumptions founders are already shipping; founders return the favour by showing researchers where theory bends under production load. Students and newer contributors get something rarer - access to protocol-level conversation at a scale small enough that asking a question is feasible. For anyone early in an Ethereum career, three focused days like these often beat a far larger event for making the right ten introductions."
-        ]
-      },
-      {
-        "heading": "A community calendar finding its feet",
-        "content": [
-          "The Luma page behind this guide is a community-run calendar rather than an official feed, and at the time of writing it is marked as launching soon - a follow button and a submission form ahead of the populated version. That means the fullest picture of ETHRome week, including satellite events around the core dates, will assemble gradually between now and September.",
-          "Follow it for notifications, submit to it if you are organising something in Rome that weekend, and route anything mission-critical - tickets, venue, official schedule - to the event's own channels for confirmation. Community calendars are best treated as radar: excellent for spotting what exists, less authoritative on the fine print."
-        ]
-      },
-      {
-        "heading": "Making the most of three days",
-        "content": [
-          "Rome rewards planning. The historic centre is compact and walkable, transit exists but rewards patience, and September sits in shoulder season - busy but manageable. Choose accommodation with intent: closer to wherever the main programming concentrates, accepting that Roman room rates rise with proximity to beauty.",
-          "For the content itself, the usual technical-gathering advice applies with force. Pick the two or three topics you genuinely need to move your work forward, prioritise sessions where questions outnumber slides, and leave slack for corridor conversations - in a field as collaborative as Ethereum's, the unscheduled arguments between sessions routinely outperform the scheduled ones. Watch the calendar fill, book early, and pack for warm evenings."
-        ]
-      }
-    ]
-  },
   "luma-host-disccal-XQU6LxTmxK6OYu3": {
     "summaryLead": "Bitcoin MENA convenes in Abu Dhabi on 7-8 December 2026, bringing regional and global leadership together around the questions that decide bitcoin's Middle East decade: adoption, infrastructure and the region's evolving role.",
     "sections": [

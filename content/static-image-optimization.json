@@ -3625,10 +3625,6 @@
       "sha256": "18660aea0712cda5e23a4fd2b38e2c088f2c27850cf89850403aea448bb72c5a",
       "status": "retained"
     },
-    "/events/w3v-axol-privacy-pizza-c6a58ee9.webp": {
-      "sha256": "f8fd555a70c23a07302f08ac538adb5711034d68939d9ee1d2ecd8ab53eb5859",
-      "status": "optimized"
-    },
     "/events/w3v-beyond-compliance-27d9ecac.webp": {
       "sha256": "f6b0edf82c94d2ec252189252ecbf25e73bbe852353bcc453cc7a422540a9672",
       "status": "retained"
