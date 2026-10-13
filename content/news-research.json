@@ -33714,11 +33714,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "376be79203bc54aa7fc4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T11:02:38.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:46.420Z",
+      "retrySearches": [
+        "FSB stablecoin bank run warning October 2026 report second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "3572f4cb2c2587ab06d7": {
       "source": "Unchained",
@@ -60906,6 +60920,21 @@
             }
           ],
           "reviewedAt": "2026-10-13T01:45:44.612Z",
+          "retrySearches": [
+            "FSB stablecoin bank run warning October 2026 report second outlet"
+          ]
+        },
+        "376be79203bc54aa7fc4": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:46.420Z",
           "retrySearches": [
             "FSB stablecoin bank run warning October 2026 report second outlet"
           ]
