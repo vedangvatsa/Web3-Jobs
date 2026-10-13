@@ -33059,11 +33059,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "03d4ca870b0fffbb1b9c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T14:53:25.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "not-a-concrete-event",
+      "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:40.631Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "e46a3c0e3274283230fc": {
       "source": "The Defiant",
@@ -59523,6 +59528,13 @@
           "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:38.760Z"
+        },
+        "03d4ca870b0fffbb1b9c": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:40.631Z"
         }
       },
       "baselineSlugs": [
