@@ -31059,11 +31059,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "eac061ea58bd3a09b8ec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:11:13.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "opinion",
+      "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:41:11.598Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "1a0bd5bcc75e17cba6d0": {
       "source": "Bitcoin Magazine",
@@ -58995,6 +59000,13 @@
           "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:41:09.635Z"
+        },
+        "eac061ea58bd3a09b8ec": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Headline triage: interview, forecast, analyst note or analysis with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:41:11.598Z"
         }
       },
       "baselineSlugs": [
