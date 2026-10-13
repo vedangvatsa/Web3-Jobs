@@ -30061,11 +30061,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "00c63ef2a8ddef65d9a0",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T20:53:54.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "opinion",
+      "note": "Headline triage: TD Cowen analyst commentary on CFTC framework timing; no new concrete event beyond the proposal covered by cftc-leverage.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:41:04.124Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "179356cf8c7235636961": {
       "source": "CryptoSlate",
@@ -58947,6 +58952,13 @@
           "note": "Headline triage: TD Cowen analyst commentary on CFTC framework timing; no new concrete event beyond the proposal covered by cftc-leverage.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:41:02.279Z"
+        },
+        "00c63ef2a8ddef65d9a0": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Headline triage: TD Cowen analyst commentary on CFTC framework timing; no new concrete event beyond the proposal covered by cftc-leverage.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:41:04.124Z"
         }
       },
       "baselineSlugs": [
