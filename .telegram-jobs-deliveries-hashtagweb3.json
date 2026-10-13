@@ -1640,5 +1640,120 @@
     "slotKey": "2026-10-13:afternoon",
     "messageId": 155746,
     "sentAt": "2026-10-13T11:32:29.688Z"
+  },
+  "5d7aeece-8550-4d0c-9c4c-005551997ee3": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T19:39:50.966Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8241654",
+          "title": "Customer Success Senior Manager",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8241654?gh_jid=8241654",
+          "date": "2026-10-02T13:23:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Miami, FL, United States",
+          "department": "Customer Success",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr138"
+        },
+        "key": "8241654",
+        "slug": "mgr138",
+        "url": "https://hashtagweb3.com/mgr138?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Customer Success Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "c887dc78-8009-47a6-809c-3e75148a70b6",
+          "title": "Strategic Finance Lead, R&D and AI Infrastructure",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/c887dc78-8009-47a6-809c-3e75148a70b6",
+          "date": "2026-10-02T17:18:05.539+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sfrd"
+        },
+        "key": "c887dc78-8009-47a6-809c-3e75148a70b6",
+        "slug": "sfrd",
+        "url": "https://hashtagweb3.com/sfrd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Strategic Finance Lead"
+      },
+      {
+        "snapshot": {
+          "id": "4987997101",
+          "title": "[EU]Senior AML Specialist, Transaction Monitoring",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4987997101",
+          "date": "2026-10-08T08:04:18-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Vilnius, Lithuania",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "astm2"
+        },
+        "key": "4987997101",
+        "slug": "astm2",
+        "url": "https://hashtagweb3.com/astm2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU]Senior AML Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "7825297a-f6a6-4159-91ed-1fad94748955",
+          "title": "Technical Solutions Consultant (Pre-Sales)",
+          "company": "Blockstream",
+          "link": "https://jobs.ashbyhq.com/blockstream/7825297a-f6a6-4159-91ed-1fad94748955",
+          "date": "2026-09-23T12:31:59.147+00:00",
+          "source": "Ashby: Blockstream [blockstream]",
+          "location": "Hybrid (Menlo Park)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Enterprise Products",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls140"
+        },
+        "key": "7825297a-f6a6-4159-91ed-1fad94748955",
+        "slug": "sls140",
+        "url": "https://hashtagweb3.com/sls140?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Blockstream",
+        "title": "Technical Solutions Consultant"
+      },
+      {
+        "snapshot": {
+          "id": "744000149883825",
+          "title": "Senior Data Engineer",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000149883825-senior-data-engineer",
+          "date": "2026-09-16T14:22:45.708Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Belgrade, Serbia",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng71"
+        },
+        "key": "744000149883825",
+        "slug": "eng71",
+        "url": "https://hashtagweb3.com/eng71?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Senior Data Engineer"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr138?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Senior Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sfrd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Finance Lead, R&amp;D and AI Infrastructure</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/astm2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">[EU]Senior AML Specialist, Transaction Monitoring</a>\n- Blockstream is hiring <a href=\"https://hashtagweb3.com/sls140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Solutions Consultant (Pre-Sales)</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/eng71?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Engineer</a>",
+    "slotKey": "2026-10-13:evening"
   }
 }
