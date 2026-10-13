@@ -30169,11 +30169,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb17a57f81a083faf797",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T10:27:00.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "verified-event",
+      "note": "Verified across CoinDesk and CryptoSlate Oct 12 plus SWI release: EUR 800M raise at EUR 6.1B valuation, Genesis US/Sweden sites to AI, Kazakhstan sites for sale.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/ftxs-former-bitcoin-mining-bet-gets-new-life-as-parent-raises-e800-million-for-ai/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:39:07.043Z",
+      "articleSlug": "genesis-ai",
+      "lastReviewedDay": "2026-10-13"
     },
     "92be11f9d2a81406fe1f": {
       "source": "Unchained",
@@ -58237,6 +58252,23 @@
           ],
           "reviewedAt": "2026-10-13T01:39:05.135Z",
           "articleSlug": "strategy-buyback"
+        },
+        "eb17a57f81a083faf797": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified across CoinDesk and CryptoSlate Oct 12 plus SWI release: EUR 800M raise at EUR 6.1B valuation, Genesis US/Sweden sites to AI, Kazakhstan sites for sale.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/ftxs-former-bitcoin-mining-bet-gets-new-life-as-parent-raises-e800-million-for-ai/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:39:07.043Z",
+          "articleSlug": "genesis-ai"
         }
       },
       "baselineSlugs": [
