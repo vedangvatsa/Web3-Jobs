@@ -33581,11 +33581,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "8b2c81a2bf1d8a26956d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T12:01:53.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single CoinDesk lead, not opened; 93M-traced and 10M-frozen figures need pairing with Bitquery or second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:35.229Z",
+      "retrySearches": [
+        "Ledger CryptoBilis 93M traced 10M frozen October 12 second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "a3067f1fcfa32873953f": {
       "source": "The Defiant",
@@ -60734,6 +60748,21 @@
           "reviewedAt": "2026-10-13T01:45:33.366Z",
           "retrySearches": [
             "Bitquery 10M frozen CryptoBilis wallets October 12 tracer report"
+          ]
+        },
+        "8b2c81a2bf1d8a26956d": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single CoinDesk lead, not opened; 93M-traced and 10M-frozen figures need pairing with Bitquery or second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:35.229Z",
+          "retrySearches": [
+            "Ledger CryptoBilis 93M traced 10M frozen October 12 second outlet"
           ]
         }
       },
