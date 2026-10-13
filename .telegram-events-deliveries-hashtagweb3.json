@@ -1731,5 +1731,52 @@
     "slotKey": "2026-10-13:afternoon",
     "messageId": 155745,
     "sentAt": "2026-10-13T11:31:52.653Z"
+  },
+  "6d94d4df-1823-4eb4-9bc8-8657b0d28fc0": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T19:38:58.111Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-ibt-chennai-2026",
+        "slug": "ibt-chennai",
+        "name": "India Blockchain & AI Tour 2026 - Chennai",
+        "startDate": "2026-10-18T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-chennai-2026",
+          "page:ibt-chennai:2026-10-18",
+          "url:indiablockchaintour.com/2026-nodes/chennai/ticket:2026-10-18",
+          "event:indiablockchainaitour2026chennai:2026-10-18:chennai"
+        ]
+      },
+      {
+        "id": "luma-batch-evttdoYjLUc0hLUU",
+        "slug": "harmonia-frankfurt",
+        "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",
+        "startDate": "2026-10-19T16:00:00.000Z",
+        "keys": [
+          "luma-batch-evttdoyjluc0hluu",
+          "page:harmonia-frankfurt:2026-10-19",
+          "luma:evt-tdoyjluc0hluu1n",
+          "luma-url:/harmonia-frankfurt",
+          "event:projectharmoniafrankfurtallfundsxsolanasalon:2026-10-19:frankfurt am main"
+        ]
+      },
+      {
+        "id": "luma-batch-evtXDBDR2PiIUiK3",
+        "slug": "ortl78pl",
+        "name": "Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing",
+        "startDate": "2026-10-19T19:45:00.000Z",
+        "keys": [
+          "luma-batch-evtxdbdr2piiuik3",
+          "page:ortl78pl:2026-10-19",
+          "luma:evt-xdbdr2piiuik3ak",
+          "luma-url:/ortl78pl",
+          "event:cardanofortherealworldblockchainaiandbuildingthenextbigthing:2026-10-19:los angeles"
+        ]
+      }
+    ],
+    "slotKey": "2026-10-13:evening"
   }
 }
