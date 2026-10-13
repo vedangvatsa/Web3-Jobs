@@ -32112,11 +32112,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4da9d7c8c714057dcb97",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T22:10:30.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:44.612Z",
+      "retrySearches": [
+        "FSB stablecoin bank run warning October 2026 report second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "b2f1f35770131e1896dc": {
       "source": "BeInCrypto",
@@ -60879,6 +60893,21 @@
           "reviewedAt": "2026-10-13T01:45:42.652Z",
           "retrySearches": [
             "ENSv2 activation DAO proposal October 2026 forum second outlet"
+          ]
+        },
+        "4da9d7c8c714057dcb97": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "FSB stablecoin-warning lead, not opened; needs FSB report text and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:44.612Z",
+          "retrySearches": [
+            "FSB stablecoin bank run warning October 2026 report second outlet"
           ]
         }
       },
