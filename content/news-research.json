@@ -30950,11 +30950,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "486e6e9d05892a3401a1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:20:19.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same French stablecoin-swap tax amendment already covered by france-taxes, including its committee wipeout.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:05.648Z",
+      "duplicateOf": "france-taxes",
+      "lastReviewedDay": "2026-10-13"
     },
     "eac061ea58bd3a09b8ec": {
       "source": "Bitcoin Magazine",
@@ -58623,6 +58629,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:00.291Z",
           "duplicateOf": "papertrade"
+        },
+        "486e6e9d05892a3401a1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same French stablecoin-swap tax amendment already covered by france-taxes, including its committee wipeout.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:05.648Z",
+          "duplicateOf": "france-taxes"
         }
       },
       "baselineSlugs": [
