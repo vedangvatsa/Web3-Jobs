@@ -29898,11 +29898,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "00382c7fc620c12b04b0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T08:41:25.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "verified-event",
+      "note": "Verified across Fintech News UAE and CryptoTicker Oct 12 plus Kraken blog: Full Market Approval, licence VL/26/10/002 issued Oct 6, AED spot/margin/staking/xStocks launch in weeks.",
+      "sourceChecks": [
+        {
+          "url": "https://fintechnews.ae/34163/crypto/kraken-uae-launch-vara-approval-dubai/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoticker.io/en/kraken-dubai-vara-licence-uae-launch/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://blog.kraken.com/news/uae-vara-authorization",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:38:59.586Z",
+      "articleSlug": "kraken-dubai",
+      "lastReviewedDay": "2026-10-13"
     },
     "1858e50514b80a485489": {
       "source": "The Defiant",
@@ -58165,6 +58184,27 @@
           ],
           "reviewedAt": "2026-10-13T01:38:57.705Z",
           "articleSlug": "rlusd-custody"
+        },
+        "00382c7fc620c12b04b0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified across Fintech News UAE and CryptoTicker Oct 12 plus Kraken blog: Full Market Approval, licence VL/26/10/002 issued Oct 6, AED spot/margin/staking/xStocks launch in weeks.",
+          "sourceChecks": [
+            {
+              "url": "https://fintechnews.ae/34163/crypto/kraken-uae-launch-vara-approval-dubai/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoticker.io/en/kraken-dubai-vara-licence-uae-launch/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://blog.kraken.com/news/uae-vara-authorization",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:38:59.586Z",
+          "articleSlug": "kraken-dubai"
         }
       },
       "baselineSlugs": [
