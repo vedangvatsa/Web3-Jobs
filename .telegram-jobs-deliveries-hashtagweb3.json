@@ -1519,5 +1519,124 @@
     "slotKey": "2026-10-13:morning",
     "messageId": 155741,
     "sentAt": "2026-10-13T03:32:18.289Z"
+  },
+  "0e5d8162-9278-41b3-9694-d285c760e8a5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T11:32:26.520Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "bd844e99-8211-4e0a-aeb5-fb78f174fa17",
+          "title": "Sales Enablement Manager, On Chain Compliance",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17",
+          "date": "2026-10-12T20:59:34.679+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "slug": "cmp115",
+          "dateVerified": true
+        },
+        "key": "bd844e99-8211-4e0a-aeb5-fb78f174fa17",
+        "slug": "cmp115",
+        "url": "https://hashtagweb3.com/cmp115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Sales Enablement Manager"
+      },
+      {
+        "snapshot": {
+          "id": "9aac086d-4289-4b5d-a488-1189dde5254e",
+          "title": "Senior Fraud Analyst - Team Lead",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/coinflow/9aac086d-4289-4b5d-a488-1189dde5254e",
+          "date": "2026-10-12T17:16:05.695+00:00",
+          "source": "Ashby: Coinflow [coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Risk & Compliance",
+          "active": true,
+          "slug": "an89",
+          "dateVerified": true
+        },
+        "key": "9aac086d-4289-4b5d-a488-1189dde5254e",
+        "slug": "an89",
+        "url": "https://hashtagweb3.com/an89?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Senior Fraud Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "6207116004",
+          "title": "Global Customer Marketing Manager, San Francisco",
+          "company": "TaxBit",
+          "link": "https://job-boards.greenhouse.io/taxbit/jobs/6207116004",
+          "date": "2026-09-23T17:34:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: TaxBit [taxbit]",
+          "location": "San Francisco, California",
+          "department": "Marketing",
+          "active": true,
+          "salary": "$115k – $150k/yr",
+          "dateVerified": true,
+          "slug": "mkt49"
+        },
+        "key": "6207116004",
+        "slug": "mkt49",
+        "url": "https://hashtagweb3.com/mkt49?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TaxBit",
+        "title": "Global Customer Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "cd2d17ec-46a7-4f25-a5fe-aa9c51ff11b1",
+          "title": "Senior Security Engineer, DeFi",
+          "company": "Mysten Labs",
+          "link": "https://jobs.ashbyhq.com/mystenlabs/cd2d17ec-46a7-4f25-a5fe-aa9c51ff11b1",
+          "date": "2026-09-23T20:40:49.786+00:00",
+          "source": "Ashby: Mysten Labs [mystenlabs]",
+          "location": "USA (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec54"
+        },
+        "key": "cd2d17ec-46a7-4f25-a5fe-aa9c51ff11b1",
+        "slug": "sec54",
+        "url": "https://hashtagweb3.com/sec54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mysten Labs",
+        "title": "Senior Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5e0b6548-2be4-42ad-ae44-447bcdde6358",
+          "title": "CFO, FCM",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/Polymarket/5e0b6548-2be4-42ad-ae44-447bcdde6358",
+          "date": "2026-09-17T20:18:47.026+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cf"
+        },
+        "key": "5e0b6548-2be4-42ad-ae44-447bcdde6358",
+        "slug": "cf",
+        "url": "https://hashtagweb3.com/cf?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "CFO, FCM"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/cmp115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Enablement Manager, On Chain Compliance</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/an89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Fraud Analyst - Team Lead</a>\n- TaxBit is hiring <a href=\"https://hashtagweb3.com/mkt49?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Customer Marketing Manager, San Francisco</a>\n- Mysten Labs is hiring <a href=\"https://hashtagweb3.com/sec54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer, DeFi</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/cf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">CFO, FCM</a>",
+    "slotKey": "2026-10-13:afternoon"
   }
 }
