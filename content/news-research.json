@@ -28793,11 +28793,11 @@
       "id": "f47341cb1347abf764b9",
       "status": "deferred",
       "firstSeenAt": "2026-10-12T03:34:29.219Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-14T23:00:46.000Z",
       "lastSeenAt": "2026-10-12T03:34:29.219Z",
       "reason": "needs-corroboration",
-      "note": "Starknet L1 consideration read in CryptoSlate only - Defiant blocked - needs StarkWare primary post and a second outlet.",
+      "note": "Prior-round CryptoSlate read and Defiant block retained; StarkWare primary post and second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
@@ -28808,12 +28808,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:00.542Z",
+      "reviewedAt": "2026-10-13T01:44:17.387Z",
       "retrySearches": [
         "StarkWare Starknet L1 clearest path CoinDesk coverage"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "5bf468384a7d4e3ee194": {
       "source": "Cointelegraph",
@@ -59811,6 +59811,25 @@
           "reviewedAt": "2026-10-13T01:44:15.504Z",
           "retrySearches": [
             "Coinbase Qwen fraud benchmark Owning Intelligence second outlet"
+          ]
+        },
+        "f47341cb1347abf764b9": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round CryptoSlate read and Defiant block retained; StarkWare primary post and second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:17.387Z",
+          "retrySearches": [
+            "StarkWare Starknet L1 clearest path CoinDesk coverage"
           ]
         }
       },
