@@ -30822,11 +30822,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "16b2a8b44a348660d6c3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:41:34.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "price-chatter",
+      "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:36.430Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "c10456eeace1e31fd208": {
       "source": "Cointelegraph",
@@ -58791,6 +58796,13 @@
           "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:34.529Z"
+        },
+        "16b2a8b44a348660d6c3": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Headline triage: price/derivatives-market chatter or forecast with no concrete event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:36.430Z"
         }
       },
       "baselineSlugs": [
