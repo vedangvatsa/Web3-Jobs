@@ -30864,11 +30864,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "4a35bf09bfe7c41d57b1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:56:59.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Strategy Oct 5-11 buyback-plus-250-BTC event covered once as strategy-buyback.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:34.768Z",
+      "duplicateOf": "strategy-buyback",
+      "mergedInto": "7316ad777152a1220780",
+      "lastReviewedDay": "2026-10-13"
     },
     "990e115b54cb0f04ebe2": {
       "source": "Decrypt",
@@ -58429,6 +58436,15 @@
           "reviewedAt": "2026-10-13T01:39:29.373Z",
           "duplicateOf": "kraken-dubai",
           "mergedInto": "00382c7fc620c12b04b0"
+        },
+        "4a35bf09bfe7c41d57b1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Strategy Oct 5-11 buyback-plus-250-BTC event covered once as strategy-buyback.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:34.768Z",
+          "duplicateOf": "strategy-buyback",
+          "mergedInto": "7316ad777152a1220780"
         }
       },
       "baselineSlugs": [
