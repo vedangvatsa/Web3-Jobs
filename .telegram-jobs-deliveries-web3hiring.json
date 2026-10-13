@@ -3168,5 +3168,121 @@
     "slotKey": "2026-10-13:afternoon",
     "messageId": 16531,
     "sentAt": "2026-10-13T11:32:09.866Z"
+  },
+  "e8137efa-dd19-48bb-b3c3-f44ec2370398": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T11:32:17.882Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+          "title": "IT Security & Systems Compliance Specialist",
+          "company": "Coins.ph",
+          "link": "https://jobs.lever.co/coins/99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+          "date": "2026-09-25T01:09:08.720Z",
+          "source": "Lever: Coins.ph [coins]",
+          "location": "Hybrid (Taguig City, Metro Manila, Philippines)",
+          "workplaceType": "hybrid",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec59"
+        },
+        "key": "99d77f55-2b2e-41c2-b9d1-ddbf55d77fb2",
+        "slug": "sec59",
+        "url": "https://hashtagweb3.com/sec59?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coins.ph",
+        "title": "IT Security & Systems Compliance Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "e4992057-b59e-4fb3-8f18-a919497d0ba5",
+          "title": "Forward Deployed Engineer - US National Security",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/e4992057-b59e-4fb3-8f18-a919497d0ba5",
+          "date": "2026-09-16T19:04:09.598+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Hybrid (North America)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec20"
+        },
+        "key": "e4992057-b59e-4fb3-8f18-a919497d0ba5",
+        "slug": "sec20",
+        "url": "https://hashtagweb3.com/sec20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Forward Deployed Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "9628d475-a386-4eff-9c3c-b4ac11fc60ca",
+          "title": "Operations Associate",
+          "company": "Ellipsis Labs",
+          "link": "https://jobs.ashbyhq.com/ellipsislabs/9628d475-a386-4eff-9c3c-b4ac11fc60ca",
+          "date": "2026-09-18T17:59:47.499+00:00",
+          "source": "Ashby: Ellipsis Labs [ellipsislabs]",
+          "location": "New York, New York",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops26"
+        },
+        "key": "9628d475-a386-4eff-9c3c-b4ac11fc60ca",
+        "slug": "ops26",
+        "url": "https://hashtagweb3.com/ops26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ellipsis Labs",
+        "title": "Operations Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8245075",
+          "title": "Physical Security Manager, APAC/MENA",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8245075?gh_jid=8245075",
+          "date": "2026-10-01T02:50:16-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Singapore",
+          "department": "Physical Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec13"
+        },
+        "key": "8245075",
+        "slug": "sec13",
+        "url": "https://hashtagweb3.com/sec13?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Physical Security Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8014194003",
+          "title": "Rust Developer, Exchange OS Trading Engine",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8014194003",
+          "date": "2026-10-06T00:59:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong; Singapore",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rs12"
+        },
+        "key": "8014194003",
+        "slug": "rs12",
+        "url": "https://hashtagweb3.com/rs12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Rust Developer"
+      }
+    ],
+    "message": "- Coins.ph is hiring <a href=\"https://hashtagweb3.com/sec59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Security &amp; Systems Compliance Specialist</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sec20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Deployed Engineer - US National Security</a>\n- Ellipsis Labs is hiring <a href=\"https://hashtagweb3.com/ops26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Associate</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/sec13?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Physical Security Manager, APAC/MENA</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/rs12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Rust Developer, Exchange OS Trading Engine</a>",
+    "slotKey": "2026-10-13:afternoon"
   }
 }
