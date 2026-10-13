@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-10-12T19:31:37.775Z",
+  "generatedAt": "2026-10-13T01:31:52.912Z",
   "items": [
+    {
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 00:52:52 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+      "pubDate": "Mon, 12 Oct 2026 21:49:02 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
+      "source": "The Block"
+    },
+    {
+      "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+      "link": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
+      "pubDate": "Mon, 12 Oct 2026 21:46:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "IMF chief Kristalina Georgieva says AI investment is holding global growth near 3%, with Asian chipmakers winning big, while warning of a 'slow-moving...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
+      "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+      "pubDate": "Mon, 12 Oct 2026 21:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collater...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "FTX’s crypto mining venture is now used to advance AI ",
+      "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 21:11:26 +0000",
+      "creator": "Turner Wright",
+      "contentSnippet": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "CFTC’s new crypto framework could face 2028 election deadline, says TD Cowen",
+      "link": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+      "pubDate": "Mon, 12 Oct 2026 20:53:54 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
+      "source": "The Block"
+    },
+    {
+      "title": "Michael Saylor’s Strategy Continues Bitcoin-Buying Spree, Adds $22,000,000 Worth of BTC",
+      "link": "https://dailyhodl.com/2026/10/12/michael-saylors-strategy-continues-bitcoin-buying-spree-adds-22000000-worth-of-btc/",
+      "pubDate": "Mon, 12 Oct 2026 19:58:29 +0000",
+      "creator": "Conor Devitt",
+      "contentSnippet": "The Bitcoin treasury firm Strategy (MSTR) has stacked BTC for four weeks in a row, adding $22 million worth of the top crypto asset in the past seven ...",
+      "source": "Daily Hodl"
+    },
     {
       "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
       "link": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
@@ -128,14 +184,6 @@
       "creator": "Helen Partz",
       "contentSnippet": "Michael Saylor’s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-      "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-      "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
-      "source": "Coindesk"
     },
     {
       "title": "Australia proposes leverage caps for crypto-settled derivatives",
@@ -346,12 +394,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "CFTC Draws Sharp Line Excluding Casino Gambling From Swaps While Targeting Event Contracts",
-      "link": "https://dailyhodl.com/2026/10/11/cftc-draws-sharp-line-excluding-casino-gambling-from-swaps-while-targeting-event-contracts/",
-      "pubDate": "Sun, 11 Oct 2026 09:15:11 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The CFTC issued an interim final rule excluding casino-style gambling from the swap definition and proposed defining event contracts on sports, politi...",
-      "source": "Daily Hodl"
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling  ",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 11 Oct 2026 07:50:00 +0000",
+      "creator": "Michael Millard",
+      "contentSnippet": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+      "source": "Cointelegraph"
     },
     {
       "title": "Kalshi is investigating bets on Trump’s press secretary pick placed before announcement: WSJ",
@@ -450,14 +498,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
-      "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 09 Oct 2026 17:02:47 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in su...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
       "link": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
       "pubDate": "Fri, 09 Oct 2026 16:36:03 +0000",
@@ -480,14 +520,6 @@
       "creator": "Ryan Gladwin",
       "contentSnippet": "Experts highlight several support levels, from $83,000 down to $72,000, that Bitcoin may need to test in a bearish start to Uptober.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming ‘tokenization supercycle’",
-      "link": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-      "pubDate": "Fri, 09 Oct 2026 13:12:57 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
-      "source": "The Block"
     },
     {
       "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
@@ -527,38 +559,6 @@
       "pubDate": "Thu, 08 Oct 2026 20:16:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "link": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
-      "pubDate": "Thu, 08 Oct 2026 19:31:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're ga...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
-      "link": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
-      "pubDate": "Thu, 08 Oct 2026 18:46:04 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "A batch of 100.02 BTC mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but nothing in the transaction shows who owns ...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
-      "link": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
-      "pubDate": "Thu, 08 Oct 2026 17:46:05 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. Oil is near $100, bond yields are at their highest since 2002, and the Fed i...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
-      "link": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
-      "pubDate": "Thu, 08 Oct 2026 17:07:48 +0000",
-      "creator": "Ryan Gladwin",
-      "contentSnippet": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
       "source": "Decrypt"
     }
   ]
