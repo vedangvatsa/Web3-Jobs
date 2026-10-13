@@ -1195,5 +1195,36 @@
     "slotKey": "2026-10-12:evening",
     "messageId": 155738,
     "sentAt": "2026-10-12T19:34:10.430Z"
+  },
+  "4a85d83b-68ab-4dfe-8b0a-38a0c6d2742f": {
+    "status": "reserved",
+    "reservedAt": "2026-10-13T03:34:10.905Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Jeonbuk Bank issues South Korea's first bitcoin-collateralized corporate loan",
+        "summary": "The bank issued a won-denominated loan using bitcoin held by a custodian as collateral under new legal rules.",
+        "link": "https://hashtagweb3.com/jeonbuk-loans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Jeonbuk Bank issues South Korea's first bitcoin-backed bank loans"
+      },
+      {
+        "index": -1,
+        "headline": "Standard Chartered Adds Ripple RLUSD Custody in Dubai",
+        "summary": "The bank will allow clients to use RLUSD as trading collateral on LMAX without moving the tokens.",
+        "link": "https://hashtagweb3.com/rlusd-custody?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Standard Chartered holds Ripple's RLUSD in Dubai, plans collateral link with LMAX"
+      },
+      {
+        "index": -1,
+        "headline": "Strategy repurchases $192 million in shares and buys bitcoin",
+        "summary": "The company spent $192.4 million on preferred share buybacks and $21.5 million on 250 bitcoin last week.",
+        "link": "https://hashtagweb3.com/strategy-buyback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy spends $192 million on preferred buyback, nine times its bitcoin buy"
+      }
+    ],
+    "slotKey": "2026-10-13:morning"
   }
 }
