@@ -719,6 +719,9 @@
   "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
   "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
   "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+  "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+  "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+  "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1940,6 +1943,12 @@
   "Honeyjar offers AI tools to improve PR and comms at every company",
   "TechCrunch Disrupt 2026 Begins Tomorrow in San Francisco",
   "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+  "AI labs purchase data from defunct startups for training",
+  "AI labs are buying data from dead startups to train their models",
+  "Anthropic warns of cyberattack risks from GLM-5.3 model",
+  "Open models have real benefits. Do they outweigh the risks?",
+  "ETH Zurich Scientist Tracks Rainforest Regeneration in Panama",
+  "The ecologist revealing the invisible networks that revive rainforests",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -2176,5 +2185,8 @@
   "fp:argu|becaus|best|currently|driv|hav|lead|machin|microsoft|milk",
   "fp:adopt|asset|automat|cod|development|epic|gam|generation|major|pivot",
   "fp:assist|automat|business|comm|communication|every|honeyjar|improv|offer|platform",
-  "fp:100|availabl|begin|chanc|conferenc|day|discount|disrupt2026|final|francisco"
+  "fp:100|availabl|begin|chanc|conferenc|day|discount|disrupt2026|final|francisco",
+  "fp:acquir|archiv|are|bas|buy|cod|data|dataset|dead|defunct",
+  "fp:anthropic|argu|attack|benefit|cyberattack|digital|glm53|hav|help|open",
+  "fp:daisy|dent|ecologist|eth|forest|growth|invisibl|long|monitor|network"
 ]

@@ -1244,7 +1244,7 @@
     "sentAt": "2026-10-13T03:34:22.524Z"
   },
   "302795f2-b0aa-4fb7-a2c4-7539043ad21a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-10-13T11:32:56.568Z",
     "stories": [
       {
@@ -1274,6 +1274,8 @@
         "originalTitle": "The ecologist revealing the invisible networks that revive rainforests"
       }
     ],
-    "slotKey": "2026-10-13:afternoon"
+    "slotKey": "2026-10-13:afternoon",
+    "messageId": 193342,
+    "sentAt": "2026-10-13T11:32:59.720Z"
   }
 }
