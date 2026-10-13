@@ -33262,11 +33262,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "d7d94226d264ebb339d1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T04:45:15.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same French wallet-reporting proposal strand documented inside france-taxes; no separate floor event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:07.528Z",
+      "duplicateOf": "france-taxes",
+      "lastReviewedDay": "2026-10-13"
     }
   },
   "runs": {
@@ -58636,6 +58642,14 @@
           "note": "Same French stablecoin-swap tax amendment already covered by france-taxes, including its committee wipeout.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:05.648Z",
+          "duplicateOf": "france-taxes"
+        },
+        "d7d94226d264ebb339d1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same French wallet-reporting proposal strand documented inside france-taxes; no separate floor event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:07.528Z",
           "duplicateOf": "france-taxes"
         }
       },
