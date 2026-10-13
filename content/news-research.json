@@ -32192,11 +32192,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "5b2b4baf0338a18b0026",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T19:30:19.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Standard Chartered RLUSD custody event covered once as rlusd-custody.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:21.864Z",
+      "duplicateOf": "rlusd-custody",
+      "mergedInto": "8a106b1a027a9d0393fd",
+      "lastReviewedDay": "2026-10-13"
     },
     "4f0a4fcea7127740f7d5": {
       "source": "Cointelegraph",
@@ -58347,6 +58354,15 @@
           "note": "Same Standard Chartered RLUSD custody event covered once as rlusd-custody.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:39:20.030Z",
+          "duplicateOf": "rlusd-custody",
+          "mergedInto": "8a106b1a027a9d0393fd"
+        },
+        "5b2b4baf0338a18b0026": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Standard Chartered RLUSD custody event covered once as rlusd-custody.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:21.864Z",
           "duplicateOf": "rlusd-custody",
           "mergedInto": "8a106b1a027a9d0393fd"
         }
