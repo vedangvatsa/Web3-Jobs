@@ -32209,11 +32209,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "e8e7784e2b4d8e1b70c7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T21:49:02.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "source-blocked",
+      "note": "Single The Block lead, not opened; needs Blur announcement and a readable second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:55.898Z",
+      "retrySearches": [
+        "Blur frontend shutdown November 2026 announcement second outlet"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "f79d2125be98b2a17c54": {
       "source": "Decrypt",
@@ -60241,6 +60255,21 @@
           "reviewedAt": "2026-10-13T01:44:54.113Z",
           "retrySearches": [
             "Aptos encrypted mempool mainnet October 2026 Aptos Labs post"
+          ]
+        },
+        "e8e7784e2b4d8e1b70c7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Single The Block lead, not opened; needs Blur announcement and a readable second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:55.898Z",
+          "retrySearches": [
+            "Blur frontend shutdown November 2026 announcement second outlet"
           ]
         }
       },
