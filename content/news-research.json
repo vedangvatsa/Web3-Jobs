@@ -30935,11 +30935,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "990e115b54cb0f04ebe2",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:56:35.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same XRP Ledger payment-engine overflow disclosure already covered by xrpl-overflow.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:40:13.049Z",
+      "duplicateOf": "xrpl-overflow",
+      "lastReviewedDay": "2026-10-13"
     },
     "486e6e9d05892a3401a1": {
       "source": "CryptoSlate",
@@ -58679,6 +58685,14 @@
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:40:11.282Z",
           "duplicateOf": "esma-stablecoins"
+        },
+        "990e115b54cb0f04ebe2": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same XRP Ledger payment-engine overflow disclosure already covered by xrpl-overflow.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:40:13.049Z",
+          "duplicateOf": "xrpl-overflow"
         }
       },
       "baselineSlugs": [
