@@ -33291,11 +33291,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "5828c8cb461e5c101f9a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:00:00.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single-source product lead, not opened; needs issuer record and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:45:03.142Z",
+      "retrySearches": [
+        "tokenized catastrophe bonds October 2026 issuance"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "03d4ca870b0fffbb1b9c": {
       "source": "The Block",
@@ -60357,6 +60371,21 @@
           "reviewedAt": "2026-10-13T01:45:01.350Z",
           "retrySearches": [
             "Kalshi CBS News election odds partnership October 2026"
+          ]
+        },
+        "5828c8cb461e5c101f9a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single-source product lead, not opened; needs issuer record and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:45:03.142Z",
+          "retrySearches": [
+            "tokenized catastrophe bonds October 2026 issuance"
           ]
         }
       },
