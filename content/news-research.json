@@ -32571,11 +32571,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4450c76bafb99c25a446",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T20:36:19.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "needs-corroboration",
+      "note": "Single-source metric lead, not opened; needs CertiK report and a second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
+          "outcome": "unavailable"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:44:59.565Z",
+      "retrySearches": [
+        "Canton 155M Q3 fees CertiK October 2026"
+      ],
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "fc660e1d205307a6a6e2": {
       "source": "BeInCrypto",
@@ -60299,6 +60313,21 @@
           "reviewedAt": "2026-10-13T01:44:57.812Z",
           "retrySearches": [
             "Robinhood stock token 15B chain 100 days October 2026"
+          ]
+        },
+        "4450c76bafb99c25a446": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Single-source metric lead, not opened; needs CertiK report and a second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
+              "outcome": "unavailable"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:59.565Z",
+          "retrySearches": [
+            "Canton 155M Q3 fees CertiK October 2026"
           ]
         }
       },
