@@ -30799,11 +30799,26 @@
       ],
       "alsoCoveredBy": [],
       "id": "7316ad777152a1220780",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T16:18:05.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "verified-event",
+      "note": "Verified across Unchained and Decrypt Oct 12 plus company release: 1,932,145 STRC for 92.4M vs 250 BTC for 1.5M Oct 5-11, 848,250 BTC total, 54.8M buyback room left.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/strategy-spends-192-million-buying-back-its-preferred-stock-nearly-nine-times-its-bitcoin-buy/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-13T01:39:05.135Z",
+      "articleSlug": "strategy-buyback",
+      "lastReviewedDay": "2026-10-13"
     },
     "4a35bf09bfe7c41d57b1": {
       "source": "Bitcoin Magazine",
@@ -58205,6 +58220,23 @@
           ],
           "reviewedAt": "2026-10-13T01:38:59.586Z",
           "articleSlug": "kraken-dubai"
+        },
+        "7316ad777152a1220780": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified across Unchained and Decrypt Oct 12 plus company release: 1,932,145 STRC for 92.4M vs 250 BTC for 1.5M Oct 5-11, 848,250 BTC total, 54.8M buyback room left.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/strategy-spends-192-million-buying-back-its-preferred-stock-nearly-nine-times-its-bitcoin-buy/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:39:05.135Z",
+          "articleSlug": "strategy-buyback"
         }
       },
       "baselineSlugs": [
