@@ -25910,20 +25910,20 @@
       "id": "9c567295b2e6ca362468",
       "status": "deferred",
       "firstSeenAt": "2026-10-10T16:20:04.785Z",
-      "attempts": 4,
+      "attempts": 5,
       "expiresAt": "2026-10-13T11:52:14.000Z",
       "lastSeenAt": "2026-10-11T11:31:24.998Z",
       "reason": "needs-corroboration",
-      "note": "Sun testnet claim read in Cointelegraph and CryptoBriefing but no Tron DAO primary opened - needs TIP-899 or Nile release record.",
+      "note": "Prior-round Cointelegraph read retained; Tron DAO primary record still missing. Expires 11:52 UTC today; final retry.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:02:47.799Z",
+      "reviewedAt": "2026-10-13T01:43:58.315Z",
       "articleSlug": "tron-quantum",
-      "lastReviewedDay": "2026-10-12",
+      "lastReviewedDay": "2026-10-13",
       "lastValidationErrors": [
         "dwf-bitgo.md: under 600 words, template phrasing: unlock(?:ing)?",
         "empire-market.md: under 600 words",
@@ -25942,7 +25942,7 @@
       "retrySearches": [
         "Tron post-quantum Nile testnet TIP-899 mainnet date Tron DAO"
       ],
-      "nextReviewDate": "2026-10-13"
+      "nextReviewDate": "2026-10-14"
     },
     "df8a1456b3ab8dd0bda1": {
       "source": "BeInCrypto",
@@ -59661,6 +59661,21 @@
           "reviewedAt": "2026-10-13T01:43:56.439Z",
           "retrySearches": [
             "StarkWare Starknet L1 clearest path CoinDesk coverage"
+          ]
+        },
+        "9c567295b2e6ca362468": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round Cointelegraph read retained; Tron DAO primary record still missing. Expires 11:52 UTC today; final retry.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:43:58.315Z",
+          "retrySearches": [
+            "Tron post-quantum Nile testnet TIP-899 mainnet date Tron DAO"
           ]
         }
       },
