@@ -28025,23 +28025,23 @@
       "id": "67889d0e0b3f94cd5fa1",
       "status": "deferred",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-10-14T12:34:31.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
       "reason": "needs-corroboration",
-      "note": "BoE stablecoin framework read in CryptoBriefing only - needs BoE speech or paper plus a second outlet.",
+      "note": "Prior-round CryptoBriefing read retained; BoE speech or paper plus second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-12T04:03:11.218Z",
+      "reviewedAt": "2026-10-13T01:44:11.833Z",
       "retrySearches": [
         "Bank of England stablecoin banker Breeden speech October 2026"
       ],
-      "lastReviewedDay": "2026-10-12",
-      "nextReviewDate": "2026-10-13"
+      "lastReviewedDay": "2026-10-13",
+      "nextReviewDate": "2026-10-14"
     },
     "1062f930d0e4dfe1f358": {
       "source": "Crypto Briefing",
@@ -59766,6 +59766,21 @@
           "reviewedAt": "2026-10-13T01:44:09.888Z",
           "retrySearches": [
             "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
+          ]
+        },
+        "67889d0e0b3f94cd5fa1": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Prior-round CryptoBriefing read retained; BoE speech or paper plus second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bank-of-england-banker-to-stablecoin/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-13T01:44:11.833Z",
+          "retrySearches": [
+            "Bank of England stablecoin banker Breeden speech October 2026"
           ]
         }
       },
