@@ -32451,11 +32451,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "e5bb97261b54e603e867",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T15:40:46.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "duplicate",
+      "note": "Same Standard Chartered RLUSD custody event covered once as rlusd-custody.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:39:27.405Z",
+      "duplicateOf": "rlusd-custody",
+      "mergedInto": "8a106b1a027a9d0393fd",
+      "lastReviewedDay": "2026-10-13"
     },
     "1d01114c07730cb3d375": {
       "source": "The Defiant",
@@ -58395,6 +58402,15 @@
           "note": "Same Standard Chartered RLUSD custody event covered once as rlusd-custody.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:39:25.563Z",
+          "duplicateOf": "rlusd-custody",
+          "mergedInto": "8a106b1a027a9d0393fd"
+        },
+        "e5bb97261b54e603e867": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Standard Chartered RLUSD custody event covered once as rlusd-custody.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:39:27.405Z",
           "duplicateOf": "rlusd-custody",
           "mergedInto": "8a106b1a027a9d0393fd"
         }
