@@ -1,5 +1,5 @@
 {
-  "lastIndex": 407,
+  "lastIndex": 409,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -190,7 +190,9 @@
     "eng538",
     "eng419",
     "mgr94",
-    "pm245"
+    "pm245",
+    "cmp76",
+    "eng500"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5429,498 +5431,6 @@
       "verification": "verified"
     },
     {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xc31ed03ec181d7992ec09e8ede674d11ed36e465",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xe84322df86c6a280399d1c270b546effc8222f7e",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x0ac93840b602039f8851664693f75ae637c644e8",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0xd083d7e77d2994af98c703185437c20ff0fe5547",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "0x6eb218452f265fa5631b0319ae69394ae8716142",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "6ac94611ed92ed8fa5a77371",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "6ac9461bb07d37ac974d4201",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "urn:li:share:7514412670003941377",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops89",
-      "company": "Galaxy Digital",
-      "title": "Data Center Business Operations Manager",
-      "platform": "facebook",
-      "postedAt": "2026-10-09T19:52:30.466Z",
-      "postId": "691827047618629_1110990724841495",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "x",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "6ac94631f91f772d456ea411",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Chainalysis is hiring Channel Partner Manager, AMER\n\nhttps://hashtagweb3.com/mgr78/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108647021515026826"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "threads",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "17865422331678634",
-      "verification": "verified",
-      "expectedText": "Chainalysis is hiring Channel Partner Manager, AMER: https://hashtagweb3.com/mgr78/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeSThFHGcMe",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "bluesky",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxhqu5vfzy2a",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x18ab2af335142a8123a1579d72bf9919fb9daaa4",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x5b6f6e3d326de94781bad519aaf9ec49bebe994a",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x0262c3c17c38f5ae8ae07b638ff61ff833136706",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x1e003c4c31bb91e5157a4a1b32a76d25471a7d27",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0xe295b5dd95dedaa3da9da2afbce6442848a646b7",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x7fcfcf8cf63e43a74ea2414bbe31d1e7483a0fec",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x493f20fb283afea1faa1b8678f3a82103d5ea032",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x4fb08537b1be9a0b1400c1e9119c0f90caf363b9",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x148b18227c0700940aebbabc7ba3e56ecd6c779d",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0xc50d9f306689d5815693d46c5f6e624e3c3ba534",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x4702a503ada3a75e9cbeea42ca434d338db52a56",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x6e3ff95496066abb438ac948e94528cb5e24cb78",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0xeec300a8b90ed71c88dad1ba4aa2ed301cf705df",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x7946a2cb3038b575d8f1b2b0ae138e1df49e7281",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x5ceb5134285d3d7be3848402c68214044498825e",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x4bc7645863eeb3388a877ad6c8892d55bd28deac",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "farcaster",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "0x692fe88c01a81668a1c683ac0a2c65a8a84890e9",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "6ac94644b07d37ac974d4749",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "6ac9464eb07d37ac974d48c3",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "linkedin",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "urn:li:share:7514412879383527425",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "mgr78",
-      "company": "Chainalysis",
-      "title": "Channel Partner Manager, AMER",
-      "platform": "facebook",
-      "postedAt": "2026-10-09T19:53:20.917Z",
-      "postId": "691827047618629_1110991241508110",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "x",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "6ac9bcdbc4de2d2b1215a9a3",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Ripple is hiring Senior Professional Services Consultant\n\nhttps://hashtagweb3.com/psc/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108774435922522225"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "threads",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "18452490079131628",
-      "verification": "verified",
-      "expectedText": "Ripple is hiring Senior Professional Services Consultant: https://hashtagweb3.com/psc/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeTNdRnjgFc",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "bluesky",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxin5i65ak2o",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xa71fb63589435276241ff17c74bc056f814621bf",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x205b3291c4f3e051db1d20380dec8042ae968b9c",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xcfdfdd519878cfa4f08fced216125c28a46b136c",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x07645a2eb2bc1dbf87520d7de376d7a87f1fe725",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xb6ecfc20894666f3d8cfe8cde7ab663b9ab7d87b",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xc7b9a6637bc5281a8901abb8368492aceedb5dcc",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xfc7bb14d06afc4b2c0150497c353228a13bc69be",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x20b6dd0dbba836deacf69e4ba877270560ab16c3",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x54f177f0e77e5c5535f82ad2e054fc9d6edf8db9",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xc57a42efbe2edfb84d2a02e9db8317b22c7b8ed4",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xa1cb72afbd809dadd26f594834f32504c4eb1a3b",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x939b93b6973763ae5f77103ff6956982be3e9edb",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "psc",
       "company": "Ripple",
       "title": "Senior Professional Services Consultant",
@@ -10192,6 +9702,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-13T11:32:34.241Z",
       "postId": "691827047618629_1114367074503860",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "x",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "6ace88e81bdf729a2aa9bff2",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "MoonPay is hiring Regulatory Compliance Specialist\n\nhttps://hashtagweb3.com/cmp76/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110093049225261504"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "threads",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "18075518900723148",
+      "verification": "verified",
+      "expectedText": "MoonPay is hiring Regulatory Compliance Specialist: https://hashtagweb3.com/cmp76/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeclGGWjwXG",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxrrwuin6n2a",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x4c81eef5c1ce93d8bfc796449fbe762f6289b204",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0xfb61414531929a0ac506767d7e64198968dc68bf",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x978ba9d1a03273f36c7141053191be8674275316",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x0258ceff5cb90c2deebe6465de53f670909fcb0a",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x323a1f3ac8be27259f9a793c5a43d2484e73a6de",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0xbbd422c939797778347bf382cc47c07d23f09c64",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0xf845fa141fb0458252a14856397552c8d3e20431",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0xa755c5179779820548665953b28c1f5c2ef47261",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x2a1d787e20c34dd8bc36c695db42f3e19163e242",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x216039ddca1d763d3a92854b8ac7bccb7e5faae4",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x78865e8ae8b9589ed1a51888d33e4ce05a2cf047",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0xb9252feccceddc603ca0133dc833ed46caf86134",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x3aa9d492edab78395e1e034d1413bddc9d53f3b1",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x879be2f45e3d83860017bc1f5b9725d3f0ff302d",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0xc82d7fad0c6f6f936e5bc2baf4d3e95a42255734",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x2db3da692fcf75549330442d5d431248148f9bf8",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "0x5f8bfbc1f294358a9624357ec15e0c1deb660792",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "6ace890beaea728d3caee5cc",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "6ace8916134248a19784be7c",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "urn:li:share:7515858985384816640",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "cmp76",
+      "company": "MoonPay",
+      "title": "Regulatory Compliance Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-10-13T19:39:20.350Z",
+      "postId": "691827047618629_1114721177801783",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "x",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "6ace892d9abb1755a47300a4",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Kraken is hiring Senior Software Engineer - React Native - Consumer - Asian Markets\n\nhttps://hashtagweb3.com/eng500/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110093335536734718"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "threads",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "17888622045684540",
+      "verification": "verified",
+      "expectedText": "Kraken is hiring Senior Software Engineer - React Native - Consumer - Asian Markets: https://hashtagweb3.com/eng500/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DeclORsG6LG",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "bluesky",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxrryrtm7q2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0xfb83d779d152f116eb003ce0a90025d7fc3256a0",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x373058fa52f3d9543fff58ac5ae3e6085862cfc3",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x2b74f5b97cd9890ead25acd7a6d56e56203f4871",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0xce431ac020ccaa21b9724be0ead1d1b44139d1a5",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x7fa8d0356df88f2c0250e3bb5dc74013141f128f",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x5da317e148815fd9e8a6995c6aab88284caffa29",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x3e246a19209908d3173f450e0006ca82ad9da1aa",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x38d6822d90b7ce19bde2ae5b0cd2329ec8ecb9e5",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0xe7471d7553269384516153e9795a3aa07179ca19",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x4ab840bfac347b243ceb0bc91b7be716298d8164",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x2c783a80a64202185d1e90e90a79b371940eec0d",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x0c33b18ee449318a59a4b89f89338d4e4cae978b",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0xfea88c47b52b39f3758571e094956670c5e0d99d",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x0a3355ca93fb08edf7199323dfc32b6a1bdd9ddb",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x6729987c3c4644fa88e9b6cd610782ec56a0f114",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0x47663518ea188eb47f3eb1b62a97d95edfadb84f",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "farcaster",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "0xc7a6f064a460b09fdbfe9d0cdda05ab78312a081",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "6ace893ecb3665561f63bb7a",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "6ace89481bdf729a2aa9d4d7",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "linkedin",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "urn:li:share:7515859186845683712",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng500",
+      "company": "Kraken",
+      "title": "Senior Software Engineer - React Native - Consumer - Asian Markets",
+      "platform": "facebook",
+      "postedAt": "2026-10-13T19:40:29.010Z",
+      "postId": "691827047618629_1114721684468399",
       "verification": "verified"
     }
   ]
