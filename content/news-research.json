@@ -33339,11 +33339,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "888307f1751b41e3bbff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-15T09:45:06.000Z",
-      "lastSeenAt": "2026-10-13T01:31:53.699Z"
+      "lastSeenAt": "2026-10-13T01:31:53.699Z",
+      "reason": "not-a-concrete-event",
+      "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-13T01:42:36.982Z",
+      "lastReviewedDay": "2026-10-13"
     },
     "b79bc73272489ac6eb11": {
       "source": "Unchained",
@@ -59499,6 +59504,13 @@
           "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-13T01:42:33.897Z"
+        },
+        "888307f1751b41e3bbff": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Headline triage: routine treasury top-up, metrics roundup, future unveiling or retrospective fluff; no distinct verifiable event; source page not opened.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-13T01:42:36.982Z"
         }
       },
       "baselineSlugs": [
