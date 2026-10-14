@@ -35065,11 +35065,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0dea4ce1aea87df1174f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:53:15.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; Donjon confirms a screen-reading eSIM implant with Secure Element untouched. Mechanism confirmation plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:05:14.379Z",
+      "retrySearches": [
+        "Ledger Donjon LTE implant screen reading confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "01e05da50a429f1536f3": {
       "source": "Unchained",
@@ -68532,6 +68546,21 @@
           "reviewedAt": "2026-10-14T04:05:07.099Z",
           "retrySearches": [
             "Trezor reseller crackdown Ledger scare CryptoSlate confirmation"
+          ]
+        },
+        "0dea4ce1aea87df1174f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; Donjon confirms a screen-reading eSIM implant with Secure Element untouched. Mechanism confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:14.379Z",
+          "retrySearches": [
+            "Ledger Donjon LTE implant screen reading confirmation second outlet"
           ]
         }
       },
