@@ -35867,11 +35867,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "2408c19a41b4962de261",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T11:00:00.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "promotional",
+      "note": "Local merchant-adoption promo for a coffee shop; marketing without a reportable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:27.915Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "658d2edb3706f6a853e1": {
       "source": "CoinDesk",
@@ -66735,6 +66740,13 @@
           "note": "BIS research writeup on digital cash privacy; paper coverage without a reportable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:26.151Z"
+        },
+        "2408c19a41b4962de261": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Local merchant-adoption promo for a coffee shop; marketing without a reportable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:27.915Z"
         }
       },
       "baselineSlugs": [
