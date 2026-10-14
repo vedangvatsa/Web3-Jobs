@@ -37155,11 +37155,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "e59c38ffabbdfd1f0eec",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T21:25:41.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "promotional",
+      "note": "Company-reported monthly pack-sales milestone with no independent outlet; promotion without corroboration.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:35.566Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "93d8156cb990f20244a7": {
       "source": "Decrypt",
@@ -66783,6 +66788,13 @@
           "note": "Exchange trading-competition promotion entering a new phase; marketing without a reportable event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:33.713Z"
+        },
+        "e59c38ffabbdfd1f0eec": {
+          "status": "rejected",
+          "reason": "promotional",
+          "note": "Company-reported monthly pack-sales milestone with no independent outlet; promotion without corroboration.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:35.566Z"
         }
       },
       "baselineSlugs": [
