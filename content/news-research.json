@@ -38219,11 +38219,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "65e1bdb7fc61aadaa055",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T15:24:52.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CoinDesk piece; the X-posted robbery account is police-unconfirmed with trend data from Chainalysis. Police confirmation plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:06:43.367Z",
+      "retrySearches": [
+        "UK crypto trader knifepoint robbery police confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "e4d122aa059fcbbe1765": {
       "source": "The Defiant",
@@ -69018,6 +69032,21 @@
           "reviewedAt": "2026-10-14T04:06:38.158Z",
           "retrySearches": [
             "MNX exchange launch pre-IPO futures announcement second outlet"
+          ]
+        },
+        "65e1bdb7fc61aadaa055": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CoinDesk piece; the X-posted robbery account is police-unconfirmed with trend data from Chainalysis. Police confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:43.367Z",
+          "retrySearches": [
+            "UK crypto trader knifepoint robbery police confirmation second outlet"
           ]
         }
       },
