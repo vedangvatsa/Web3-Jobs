@@ -36514,11 +36514,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "9e609fcefdc5312a8997",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-17T00:57:02.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "UK CFO headcount survey on AI; enterprise survey with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:28.372Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "56b8b4503b2bb3a3df5a": {
       "source": "CryptoSlate",
@@ -66411,6 +66416,13 @@
           "note": "SoftBank junk-bond sale for AI bets; credit-market story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:55:26.499Z"
+        },
+        "9e609fcefdc5312a8997": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "UK CFO headcount survey on AI; enterprise survey with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:28.372Z"
         }
       },
       "baselineSlugs": [
