@@ -34606,11 +34606,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "351a2ca1130031d08ac3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T23:19:38.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "Alaska LNG pipeline politics; energy story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:55:01.730Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "889865057fdbfcd5e9e4": {
       "source": "The Defiant",
@@ -66267,6 +66272,13 @@
           "note": "AI-company court appeal over a Pentagon ruling; no crypto asset, protocol or market event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:54:59.824Z"
+        },
+        "351a2ca1130031d08ac3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Alaska LNG pipeline politics; energy story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:55:01.730Z"
         }
       },
       "baselineSlugs": [
