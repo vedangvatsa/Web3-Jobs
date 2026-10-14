@@ -1360,5 +1360,36 @@
     "slotKey": "2026-10-14:morning",
     "messageId": 65748,
     "sentAt": "2026-10-14T04:29:41.561Z"
+  },
+  "b5f1b348-cf1f-43b4-b491-c5615f3fc859": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T11:34:06.396Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "iPhone Spyware Scans Crypto Wallets and Steals Keychain Data",
+        "summary": "The P7 malware variant targets imToken data and Keychain passwords while checking for remote instructions every 15 seconds.",
+        "link": "https://hashtagweb3.com/iphone-spyware?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "New iPhone spyware scans crypto wallets, iVerify finds"
+      },
+      {
+        "index": -1,
+        "headline": "Sberbank approved to launch Russian crypto trading service",
+        "summary": "Starting December 1, the bank plans to offer cryptocurrency trading through its existing mobile application.",
+        "link": "https://hashtagweb3.com/sberbank-crypto?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Sberbank wins crypto exchange approval, targets Dec. 1 launch"
+      },
+      {
+        "index": -1,
+        "headline": "Strive buys 3,311 bitcoin for $280 million",
+        "summary": "The firm now holds 32,773 BTC and reported $208 million in warrant exercises.",
+        "link": "https://hashtagweb3.com/strive-bitcoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strive adds 3,311 bitcoin for $280 million as warrants near expiry"
+      }
+    ],
+    "slotKey": "2026-10-14:afternoon"
   }
 }
