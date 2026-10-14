@@ -33337,23 +33337,23 @@
       "id": "ee1dbcf85768de37a3a7",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T15:21:38.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Defiant blocked; second MediaMarkt device claim needs buyer evidence and a readable second outlet.",
+      "note": "MediaMarkt recall page blocked on re-attempt; buyer evidence and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:27.498Z",
+      "reviewedAt": "2026-10-14T04:02:02.942Z",
       "retrySearches": [
-        "Ledger MediaMarkt tampered device recall October 12 second outlet"
+        "Ledger MediaMarkt tampered device buyer evidence second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "f72f59fdcaeb100eefca": {
       "source": "BeInCrypto",
@@ -67295,6 +67295,21 @@
           "reviewedAt": "2026-10-14T04:02:00.795Z",
           "retrySearches": [
             "SkyAI SOL treasury sale buyback record second outlet"
+          ]
+        },
+        "ee1dbcf85768de37a3a7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "MediaMarkt recall page blocked on re-attempt; buyer evidence and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:02:02.942Z",
+          "retrySearches": [
+            "Ledger MediaMarkt tampered device buyer evidence second outlet"
           ]
         }
       },
