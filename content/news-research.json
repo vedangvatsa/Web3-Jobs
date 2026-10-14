@@ -32716,23 +32716,23 @@
       "id": "d14521213957084bdf90",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T20:02:22.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single-source partnership lead, not opened; needs Kalshi or CBS notice and a second outlet.",
+      "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from Oct. Kalshi or CBS notice plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/kalshi-election-odds-cbs-news/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:01.350Z",
+      "reviewedAt": "2026-10-14T04:01:19.688Z",
       "retrySearches": [
-        "Kalshi CBS News election odds partnership October 2026"
+        "Kalshi CBS News prediction market sponsor notice second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "7180bc45f02fe42dc952": {
       "source": "Crypto Briefing",
@@ -67130,6 +67130,21 @@
           "reviewedAt": "2026-10-14T04:01:14.393Z",
           "retrySearches": [
             "Robinhood stock token 15B chain 100 days release second outlet"
+          ]
+        },
+        "d14521213957084bdf90": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; the CBS deal dates to Sept 30 with poll overlay from Oct. Kalshi or CBS notice plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kalshi-election-odds-cbs-news/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:19.688Z",
+          "retrySearches": [
+            "Kalshi CBS News prediction market sponsor notice second outlet"
           ]
         }
       },
