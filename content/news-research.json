@@ -37532,11 +37532,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "92accb5e69d70a640573",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T21:50:56.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece; Oct 7 forum budget-link debate with no NEST purchases yet. Forum record plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:53.322Z",
+      "retrySearches": [
+        "Lido NEST budget buyback forum second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "c308bacb4e42be4adcd3": {
       "source": "Decrypt",
@@ -69366,6 +69380,21 @@
           "reviewedAt": "2026-10-14T04:07:48.051Z",
           "retrySearches": [
             "StarkWare Shadow Accounts launch post second outlet"
+          ]
+        },
+        "92accb5e69d70a640573": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; Oct 7 forum budget-link debate with no NEST purchases yet. Forum record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:53.322Z",
+          "retrySearches": [
+            "Lido NEST budget buyback forum second outlet"
           ]
         }
       },
