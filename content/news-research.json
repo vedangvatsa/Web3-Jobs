@@ -36732,11 +36732,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "58fa62828a23662dcb37",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T23:10:52.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "opinion",
+      "note": "Deposit-rate model analysis of USDC adoption; research commentary without a reportable event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:24.242Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "8257fa5f279396749c38": {
       "source": "Crypto Briefing",
@@ -66711,6 +66716,13 @@
           "note": "Video interview on dollar-bitcoin views; commentary without a new event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:22.226Z"
+        },
+        "58fa62828a23662dcb37": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Deposit-rate model analysis of USDC adoption; research commentary without a reportable event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:24.242Z"
         }
       },
       "baselineSlugs": [
