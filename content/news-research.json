@@ -35111,11 +35111,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "023c4f5c4e4091bfc10c",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T21:19:38.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Bond-market warningolysis for stocks and bitcoin; market commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:53:03.238Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "1dd7447d1a97a73276c7": {
       "source": "Decrypt",
@@ -66003,6 +66008,13 @@
           "note": "Macro yields-versus-bitcoin analysis; commentary without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:53:01.294Z"
+        },
+        "023c4f5c4e4091bfc10c": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bond-market warningolysis for stocks and bitcoin; market commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:53:03.238Z"
         }
       },
       "baselineSlugs": [
