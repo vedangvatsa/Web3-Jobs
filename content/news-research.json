@@ -38755,11 +38755,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "6aa45f2713c1657bbf94",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:30:37.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Decrypt piece; the committee adopted the wallet-reporting amendment but then rejected the revenue section, so re-tabling is needed. Assembly record plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:00.754Z",
+      "retrySearches": [
+        "France wallet reporting amendment Assembly re-table second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "e98e0dee2df9744aba85": {
       "source": "Cointelegraph",
@@ -69105,6 +69119,21 @@
           "reviewedAt": "2026-10-14T04:06:54.142Z",
           "retrySearches": [
             "Federated Hermes tokenized fund shares release second outlet"
+          ]
+        },
+        "6aa45f2713c1657bbf94": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Decrypt piece; the committee adopted the wallet-reporting amendment but then rejected the revenue section, so re-tabling is needed. Assembly record plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:00.754Z",
+          "retrySearches": [
+            "France wallet reporting amendment Assembly re-table second outlet"
           ]
         }
       },
