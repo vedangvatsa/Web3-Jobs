@@ -38274,11 +38274,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "93a81e33466a01eb00b9",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T12:10:08.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "source-blocked",
+      "note": "Mysten quantum page blocked on re-attempt; Mysten post and a readable second outlet still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:04:05.291Z",
+      "retrySearches": [
+        "Mysten Sui quantum-safe devnet post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "251225b4b28010c9541a": {
       "source": "CoinDesk",
@@ -68067,6 +68081,21 @@
           "reviewedAt": "2026-10-14T04:04:03.350Z",
           "retrySearches": [
             "MNX pre-IPO futures announcement second outlet"
+          ]
+        },
+        "93a81e33466a01eb00b9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Mysten quantum page blocked on re-attempt; Mysten post and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:04:05.291Z",
+          "retrySearches": [
+            "Mysten Sui quantum-safe devnet post second outlet"
           ]
         }
       },
