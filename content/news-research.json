@@ -37518,11 +37518,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb3807d83cb5a193d8e9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T12:43:48.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Sberbank Oct 12 exchange registration covered by sberbank-crypto.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/sberbank-lands-on-both-of-russias-crypto-registers-with-bank-of-russia-exchange-listing/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:57.240Z",
+      "duplicateOf": "sberbank-crypto",
+      "mergedInto": "70a7368a909cafa0624d",
+      "lastReviewedDay": "2026-10-14"
     },
     "ebce0371d77122f95e96": {
       "source": "Unchained",
@@ -65735,6 +65747,20 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:45:55.325Z",
+          "duplicateOf": "sberbank-crypto",
+          "mergedInto": "70a7368a909cafa0624d"
+        },
+        "eb3807d83cb5a193d8e9": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Sberbank Oct 12 exchange registration covered by sberbank-crypto.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/sberbank-lands-on-both-of-russias-crypto-registers-with-bank-of-russia-exchange-listing/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:57.240Z",
           "duplicateOf": "sberbank-crypto",
           "mergedInto": "70a7368a909cafa0624d"
         }
