@@ -30624,23 +30624,23 @@
       "id": "04dabb7be0884b4be6a5",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T22:36:02.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single CryptoBriefing lead, not opened; needs Coinbase status page and a second outlet.",
+      "note": "Read the CryptoBriefing piece; a routine recurring TIA transfer delay with trading unaffected. Coinbase status page plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/coinbase-celestia-transfer-delays/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:44.716Z",
+      "reviewedAt": "2026-10-14T04:00:22.890Z",
       "retrySearches": [
-        "Coinbase Celestia transfer delays October 2026 status page"
+        "Coinbase Celestia transfer delay status page second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "5572ee93bde904b02d8e": {
       "source": "Crypto Briefing",
@@ -66914,6 +66914,21 @@
           "reviewedAt": "2026-10-14T04:00:18.043Z",
           "retrySearches": [
             "KuCoin 5.0 upgrade unified account announcement second outlet"
+          ]
+        },
+        "04dabb7be0884b4be6a5": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; a routine recurring TIA transfer delay with trading unaffected. Coinbase status page plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coinbase-celestia-transfer-delays/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:00:22.890Z",
+          "retrySearches": [
+            "Coinbase Celestia transfer delay status page second outlet"
           ]
         }
       },
