@@ -36045,11 +36045,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "4b4cf48603ae00e990ff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T04:18:30.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "not-a-concrete-event",
+      "note": "Same unattributed whale movement as companion leads; onchain transfer is not a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:45.057Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "6c73f4dac66bf8af1f18": {
       "source": "CoinDesk",
@@ -65919,6 +65924,13 @@
           "note": "Same unattributed 2020-era whale movement as companion leads; onchain transfer is not a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:43.072Z"
+        },
+        "4b4cf48603ae00e990ff": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Same unattributed whale movement as companion leads; onchain transfer is not a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:45.057Z"
         }
       },
       "baselineSlugs": [
