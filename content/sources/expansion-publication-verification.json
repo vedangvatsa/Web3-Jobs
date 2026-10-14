@@ -1,0 +1,71 @@
+{
+  "checkedAt": "2026-10-14T21:04:02.121Z",
+  "expansionCommit": "bb856b3f3307a3ed960a21145fe3327250e72261",
+  "mergedOrigin": "92cd24df33a9cef22f54440959466964a3040990",
+  "countrySources": {
+    "total": 46,
+    "recurring": 5,
+    "monitors": 41
+  },
+  "expansionSources": {
+    "total": 35,
+    "recurring": 21,
+    "monitors": 14
+  },
+  "profiles": {
+    "verified": 81,
+    "withSocials": 81,
+    "zeroJobOverviews": 77,
+    "profileIndex": 634,
+    "companyRuntime": 255
+  },
+  "jobs": {
+    "cache": 1645,
+    "runtime": 1645,
+    "beforeCache": 1648,
+    "postMergeExpiryRemovals": [
+      {
+        "slug": "crs",
+        "date": "2026-09-14T16:55:51-04:00"
+      },
+      {
+        "slug": "eng33",
+        "date": "2026-09-14T20:52:54.945+00:00"
+      },
+      {
+        "slug": "rec",
+        "date": "2026-09-14T20:46:09.138+00:00"
+      }
+    ],
+    "bit2me": {
+      "slug": "cmp117",
+      "date": "2026-10-05T14:04:37+02:00",
+      "link": "https://empleo.bit2me.com/jobs/legal-compliance-operations-intern-bit2me-stx"
+    }
+  },
+  "preservedRemoteAutomationFiles": 25,
+  "readOnlyCsvHashes": "unchanged",
+  "durableProvenance": "source URLs, timestamps, excerpts and SHA-256; no raw response bodies in reports",
+  "tests": {
+    "fullBuild": "FAH_FAST_PREBUILD=0 npm run build: passed, including prebuild, production build and postbuild",
+    "staticPagesGenerated": 127,
+    "prerenderBudgetRoutes": 125,
+    "compressedFeeds": 9,
+    "typecheck": "passed",
+    "sourceTypecheck": "passed",
+    "sourceAndCsvTests": 17,
+    "jobAgeTests": 19,
+    "catalogPublicationTests": 6,
+    "prebuildInvalidationTests": 5,
+    "companyProfilePages": 81,
+    "hydratedSamples": 5,
+    "profilePreservation": "passed"
+  },
+  "exclusions": {
+    "researchHelpers": 27,
+    "rawResearch": "ignored and preserved locally",
+    "cacheLogsCredentialsAndOriginalCsv": "not staged",
+    "otherWorktrees": "not edited"
+  },
+  "deployment": "not requested or dispatched"
+}

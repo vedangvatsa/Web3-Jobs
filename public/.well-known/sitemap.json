@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-10-14T20:44:50.727Z",
+  "generatedAt": "2026-10-14T20:56:00.468Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3593,
+  "count": 3589,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -3976,12 +3976,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/crs",
-      "lastmod": "2026-09-14",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/crypto-afterhours-mumbai",
       "lastmod": "2026-11-07",
       "changefreq": "weekly",
@@ -5724,12 +5718,6 @@
     {
       "url": "https://hashtagweb3.com/eng328",
       "lastmod": "2026-09-28",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/eng33",
-      "lastmod": "2026-09-14",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -10298,12 +10286,6 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/matter-labs",
-      "lastmod": "2026-09-14",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/mcec",
@@ -15014,12 +14996,6 @@
       "lastmod": "2026-10-31",
       "changefreq": "weekly",
       "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/rec",
-      "lastmod": "2026-09-14",
-      "changefreq": "daily",
-      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/rec11",

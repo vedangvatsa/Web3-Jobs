@@ -1,5 +1,8 @@
 # Registered employer company-profile enrichment
 
+Latest post-merge build, preservation, and publication checks:
+[Expansion publication verification](EXPANSION_PUBLICATION_AUDIT.md).
+
 Audited 81 registered sources: **81 unique employers**. The comparison against the existing hiring catalog found 0 additional new hiring records outside these registries. Unreviewed leads and excluded candidates are not profile inputs.
 
 ## Results

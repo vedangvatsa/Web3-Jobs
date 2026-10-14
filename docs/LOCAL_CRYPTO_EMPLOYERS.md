@@ -1,5 +1,8 @@
 # Country-local crypto employers
 
+Latest post-merge catalog counts and validation:
+[Expansion publication verification](EXPANSION_PUBLICATION_AUDIT.md).
+
 ## Expanded CSV follow-up
 
 The subsequent [548-row audit](HIRING_LINKS_548_AUDIT.md) added **35 more employer sources** across **20 country associations**: **2 recurring feeds** and **33 careers-only monitors**. The registry now contains **46 employers** (**5 recurring**, **41 careers-only**). That follow-up added no eligible jobs; the 1,708-job catalog and earlier Bit2Me `/cmp117` record remained unchanged. The results below describe the earlier 11-employer pass, not the current registry total.

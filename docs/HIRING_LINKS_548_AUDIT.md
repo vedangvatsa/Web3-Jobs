@@ -1,5 +1,8 @@
 # Hiring links 548 audit
 
+Latest post-merge catalog counts and validation:
+[Expansion publication verification](EXPANSION_PUBLICATION_AUDIT.md).
+
 Checked 2026-10-14T11:21:02.365Z. Durable worktree: /Users/vedang/ZCodeProject/Web3-Jobs-country-expansion.
 
 ## Input comparison

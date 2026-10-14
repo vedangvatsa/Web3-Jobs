@@ -145104,5 +145104,23 @@
     "link": "https://job-boards.greenhouse.io/drweng/jobs/8171555",
     "title": "Senior Accountant - Asset Management",
     "company": "DRW"
+  },
+  "crs": {
+    "id": "8807307002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8807307002?gh_jid=8807307002",
+    "title": "Global Communications Review Specialist",
+    "company": "Jane Street"
+  },
+  "eng33": {
+    "id": "6fa4f013-5321-4f8d-88ff-9d89ac7b9d5b",
+    "link": "https://jobs.ashbyhq.com/matter-labs/6fa4f013-5321-4f8d-88ff-9d89ac7b9d5b",
+    "title": "Forward Deployed Engineer",
+    "company": "Matter Labs"
+  },
+  "rec": {
+    "id": "edd72071-a617-4659-a1f6-4459db199b73",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/edd72071-a617-4659-a1f6-4459db199b73",
+    "title": "Senior Manager, Talent Management & Organizational Development",
+    "company": "Chainalysis"
   }
 }
