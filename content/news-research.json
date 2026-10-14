@@ -27864,25 +27864,33 @@
       ],
       "alsoCoveredBy": [],
       "id": "6420dc2950b5016d8969",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-10-11T18:08:25.505Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-10-14T15:59:17.000Z",
       "lastSeenAt": "2026-10-11T18:08:25.505Z",
-      "reason": "needs-corroboration",
-      "note": "Prior-round CryptoBriefing read retained; cabinet order text or second outlet still missing.",
+      "reason": "verified-event",
+      "note": "Cabinet Order 639-t liquidation of EVA and Coin Nomad verified via CryptoBriefing, Akchabar and the USDKG primary notice; creditor deadline Oct 14 and redemption gaps confirmed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.akchabar.kg/en/news/zolotoj-dollar-ne-dozhil-do-goda-kabmin-kirgizstana-zakrivaet-usdkg-ichwzqyionmhzebc",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.usdkg.com/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:09.888Z",
+      "reviewedAt": "2026-10-14T03:50:58.871Z",
       "retrySearches": [
         "Kyrgyzstan EVA Coin Nomad liquidation cabinet order second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "articleSlug": "usdkg-shutdown"
     },
     "dce879b8052efc81cfa6": {
       "source": "Crypto Briefing",
@@ -65813,6 +65821,27 @@
           ],
           "reviewedAt": "2026-10-14T03:49:07.986Z",
           "articleSlug": "ldk-fix"
+        },
+        "6420dc2950b5016d8969": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cabinet Order 639-t liquidation of EVA and Coin Nomad verified via CryptoBriefing, Akchabar and the USDKG primary notice; creditor deadline Oct 14 and redemption gaps confirmed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.akchabar.kg/en/news/zolotoj-dollar-ne-dozhil-do-goda-kabmin-kirgizstana-zakrivaet-usdkg-ichwzqyionmhzebc",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.usdkg.com/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:50:58.871Z",
+          "articleSlug": "usdkg-shutdown"
         }
       },
       "baselineSlugs": [
