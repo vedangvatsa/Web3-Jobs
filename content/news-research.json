@@ -33684,23 +33684,23 @@
       "id": "3fe0e363b669e3610520",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T11:41:58.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single-source proposal lead, not opened; needs ASIC text and a second outlet.",
+      "note": "Read the Cointelegraph piece; ASIC proposes extending CFD leverage caps to crypto-settled derivatives with feedback to Nov 9. ASIC paper plus a second outlet still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:06.802Z",
+      "reviewedAt": "2026-10-14T04:05:51.726Z",
       "retrySearches": [
-        "Australia ASIC crypto derivatives leverage caps October 2026"
+        "ASIC crypto-settled CFD proposal consultation second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "376be79203bc54aa7fc4": {
       "source": "CoinDesk",
@@ -68732,6 +68732,21 @@
           "reviewedAt": "2026-10-14T04:05:46.457Z",
           "retrySearches": [
             "Harneys droppRWA tokenized catastrophe bonds issuance second outlet"
+          ]
+        },
+        "3fe0e363b669e3610520": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Cointelegraph piece; ASIC proposes extending CFD leverage caps to crypto-settled derivatives with feedback to Nov 9. ASIC paper plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:51.726Z",
+          "retrySearches": [
+            "ASIC crypto-settled CFD proposal consultation second outlet"
           ]
         }
       },
