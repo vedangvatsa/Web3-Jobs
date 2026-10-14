@@ -30475,23 +30475,23 @@
       "id": "0e8abffcdf4823387f24",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T16:20:49.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "source-blocked",
-      "note": "Defiant blocked (403 pattern); Derive proposal needs forum record and a readable second outlet.",
+      "note": "Derive proposal page blocked on re-attempt; forum record and a readable second outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:41.121Z",
+      "reviewedAt": "2026-10-14T04:01:47.257Z",
       "retrySearches": [
-        "Derive US derivatives treasury proposal October 2026"
+        "Derive US derivatives treasury proposal forum second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "9438a7b8a36c2e7d785a": {
       "source": "CoinJournal",
@@ -67205,6 +67205,21 @@
           "reviewedAt": "2026-10-14T04:01:45.399Z",
           "retrySearches": [
             "Ontology mainnet restart halt team post second outlet"
+          ]
+        },
+        "0e8abffcdf4823387f24": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Derive proposal page blocked on re-attempt; forum record and a readable second outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:47.257Z",
+          "retrySearches": [
+            "Derive US derivatives treasury proposal forum second outlet"
           ]
         }
       },
