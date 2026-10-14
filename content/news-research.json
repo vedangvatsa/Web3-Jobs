@@ -32533,23 +32533,23 @@
       "id": "ac0f6f532b57a427ce8e",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T20:40:24.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Single-source milestone lead, not opened; needs Robinhood release and a second outlet.",
+      "note": "Read the CryptoBriefing piece; all milestone figures are company-reported with Morpho dashboard as the only outside check. Robinhood release plus a second outlet still needed.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/robinhood-chain-stock-tokens-15b-100-days/",
-          "outcome": "unavailable"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:44:57.812Z",
+      "reviewedAt": "2026-10-14T04:01:14.393Z",
       "retrySearches": [
-        "Robinhood stock token 15B chain 100 days October 2026"
+        "Robinhood stock token 15B chain 100 days release second outlet"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "57c064886bd2ad0f28aa": {
       "source": "The Defiant",
@@ -67115,6 +67115,21 @@
           "reviewedAt": "2026-10-14T04:01:09.378Z",
           "retrySearches": [
             "FSB stablecoin AI risks G20 Cointelegraph confirmation"
+          ]
+        },
+        "ac0f6f532b57a427ce8e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; all milestone figures are company-reported with Morpho dashboard as the only outside check. Robinhood release plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/robinhood-chain-stock-tokens-15b-100-days/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:01:14.393Z",
+          "retrySearches": [
+            "Robinhood stock token 15B chain 100 days release second outlet"
           ]
         }
       },
