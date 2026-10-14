@@ -37787,11 +37787,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b10385b36362f4f1b01a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T13:55:09.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "out-of-scope",
+      "note": "AI-worm warning from an AI company; AI-safety story with no crypto event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:56:09.101Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "0930cf5fb75a44cf1e0d": {
       "source": "The Defiant",
@@ -66639,6 +66644,13 @@
           "note": "AI-executive warning commentary; tech-opinion story with no crypto event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:56:07.066Z"
+        },
+        "b10385b36362f4f1b01a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "AI-worm warning from an AI company; AI-safety story with no crypto event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:56:09.101Z"
         }
       },
       "baselineSlugs": [
