@@ -38842,11 +38842,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "2ac2c70bde460b915dcd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T08:45:10.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Lead reachable; same Donjon LTE-implant findings verified via the shared Decrypt read. Mechanism confirmation plus this outlet account still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:05:20.214Z",
+      "retrySearches": [
+        "Ledger cellular implants CryptoBilis Cointelegraph confirmation"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "307f672c572d1d5ba82a": {
       "source": "The Defiant",
@@ -68619,6 +68633,21 @@
           "reviewedAt": "2026-10-14T04:05:18.296Z",
           "retrySearches": [
             "Ledger spy chip CryptoBilis mobile network CoinDesk confirmation"
+          ]
+        },
+        "2ac2c70bde460b915dcd": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same Donjon LTE-implant findings verified via the shared Decrypt read. Mechanism confirmation plus this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:05:20.214Z",
+          "retrySearches": [
+            "Ledger cellular implants CryptoBilis Cointelegraph confirmation"
           ]
         }
       },
