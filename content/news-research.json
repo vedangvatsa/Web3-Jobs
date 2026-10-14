@@ -35250,11 +35250,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "8a9ee2f1b5e964af0fde",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:30:31.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin-versus-wipeout framing tied to Korean stocks; market commentary without a concrete event.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:54:08.933Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "207e6afe26ef905570b7": {
       "source": "The Defiant",
@@ -66219,6 +66224,13 @@
           "note": "JUP four-week price rise as fees fall; price move without a concrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:54:06.984Z"
+        },
+        "8a9ee2f1b5e964af0fde": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin-versus-wipeout framing tied to Korean stocks; market commentary without a concrete event.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:54:08.933Z"
         }
       },
       "baselineSlugs": [
