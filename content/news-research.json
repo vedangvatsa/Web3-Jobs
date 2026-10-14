@@ -35920,11 +35920,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "485248b5bd821132d34b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T05:23:26.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Binance Pool Nov 10 shutdown covered by mining-pool.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:30.554Z",
+      "duplicateOf": "mining-pool",
+      "mergedInto": "1dd7447d1a97a73276c7",
+      "lastReviewedDay": "2026-10-14"
     },
     "cfd0115f76a3957df4e5": {
       "source": "CoinDesk",
@@ -65568,6 +65580,20 @@
             }
           ],
           "reviewedAt": "2026-10-14T03:45:28.614Z",
+          "duplicateOf": "mining-pool",
+          "mergedInto": "1dd7447d1a97a73276c7"
+        },
+        "485248b5bd821132d34b": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Binance Pool Nov 10 shutdown covered by mining-pool.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:30.554Z",
           "duplicateOf": "mining-pool",
           "mergedInto": "1dd7447d1a97a73276c7"
         }
