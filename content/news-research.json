@@ -34199,23 +34199,23 @@
       "id": "9d424896408f3d18275a",
       "status": "deferred",
       "firstSeenAt": "2026-10-13T01:31:53.699Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-10-15T05:15:43.000Z",
       "lastSeenAt": "2026-10-13T01:31:53.699Z",
       "reason": "needs-corroboration",
-      "note": "Story/DATA-to-Sui migration lead, not opened; needs Sui or Story announcement and a second outlet.",
+      "note": "Lead reachable; same Story-to-Sui move verified via the shared Unchained read. Foundation release plus confirmation of this outlet account still needed.",
       "sourceChecks": [
         {
-          "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "outcome": "unavailable"
+          "url": "https://unchainedcrypto.com/former-story-blockchain-plans-to-shut-down-and-rebuild-its-ai-data-registry-on-sui/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-10-13T01:45:55.921Z",
+      "reviewedAt": "2026-10-14T04:06:07.680Z",
       "retrySearches": [
-        "Story DATA Sui migration 30M October 2026 announcement"
+        "DATA Network Sui migration Cointelegraph confirmation"
       ],
-      "lastReviewedDay": "2026-10-13",
-      "nextReviewDate": "2026-10-14"
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "d7d94226d264ebb339d1": {
       "source": "Cointelegraph",
@@ -68806,6 +68806,21 @@
           "reviewedAt": "2026-10-14T04:06:05.723Z",
           "retrySearches": [
             "Story DATA Sui migration foundation release second outlet"
+          ]
+        },
+        "9d424896408f3d18275a": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Lead reachable; same Story-to-Sui move verified via the shared Unchained read. Foundation release plus confirmation of this outlet account still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/former-story-blockchain-plans-to-shut-down-and-rebuild-its-ai-data-registry-on-sui/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:06:07.680Z",
+          "retrySearches": [
+            "DATA Network Sui migration Cointelegraph confirmation"
           ]
         }
       },
