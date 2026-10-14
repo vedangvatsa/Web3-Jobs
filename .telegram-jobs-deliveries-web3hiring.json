@@ -3792,5 +3792,79 @@
     "slotKey": "2026-10-14:afternoon",
     "messageId": 16534,
     "sentAt": "2026-10-14T11:32:00.621Z"
+  },
+  "1c02e746-d0de-4fae-97b0-2875286d7de5": {
+    "status": "reserved",
+    "reservedAt": "2026-10-14T11:32:02.353Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "9baef3fe-045c-4ba0-ba17-05257111505c",
+          "title": "Product Security Engineer",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/9baef3fe-045c-4ba0-ba17-05257111505c",
+          "date": "2026-10-01T20:35:00.572+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec79"
+        },
+        "key": "9baef3fe-045c-4ba0-ba17-05257111505c",
+        "slug": "sec79",
+        "url": "https://hashtagweb3.com/sec79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Product Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4425663009",
+          "title": "Forward Development Engineer",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4425663009",
+          "date": "2026-10-02T16:05:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City, US; Zurich, CH; Budapest, HU; Hong Kong, HK; London, UK; Sydney, AU",
+          "department": "CX Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng383"
+        },
+        "key": "4425663009",
+        "slug": "eng383",
+        "url": "https://hashtagweb3.com/eng383?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Forward Development Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "3b33ea6f-95d1-465c-bc64-db5714c7f802",
+          "title": "Senior GTM Marketing Manager",
+          "company": "P2P.org",
+          "link": "https://jobs.ashbyhq.com/p2p.org/3b33ea6f-95d1-465c-bc64-db5714c7f802",
+          "date": "2026-10-09T11:14:06.560+00:00",
+          "source": "Ashby: P2P.org [p2p.org]",
+          "location": "Remote - Europe",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "P2P",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt98"
+        },
+        "key": "3b33ea6f-95d1-465c-bc64-db5714c7f802",
+        "slug": "mkt98",
+        "url": "https://hashtagweb3.com/mkt98?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "P2P.org",
+        "title": "Senior GTM Marketing Manager"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sec79?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Security Engineer</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/eng383?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Development Engineer</a>\n- P2P.org is hiring <a href=\"https://hashtagweb3.com/mkt98?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior GTM Marketing Manager</a>",
+    "slotKey": "2026-10-14:afternoon"
   }
 }
