@@ -1,5 +1,5 @@
 {
-  "lastIndex": 409,
+  "lastIndex": 411,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -192,7 +192,9 @@
     "mgr94",
     "pm245",
     "cmp76",
-    "eng500"
+    "eng500",
+    "eng463",
+    "is2"
   ],
   "pendingSlugs": [
     "compliance11ae8",
@@ -5431,498 +5433,6 @@
       "verification": "verified"
     },
     {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x4390d28e3d2fa9bb934c691f80258e80919a086a",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x3c3a5fd58b9cb2064fe6c92fdf2c3614177c9ee6",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x4d78e176a06be596b17ed780668aaf3cb386ef7c",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0x03ba9872c6cf139c9e3bc2c55deb1bd24141bc8b",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "0xc22eee3784f2d7c77702be2df93a624e2151bd1a",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "6ac9bcedb07d37ac975e7dc3",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "6ac9bcf7bba9419ccbed3f33",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "urn:li:share:7514540292289662977",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "psc",
-      "company": "Ripple",
-      "title": "Senior Professional Services Consultant",
-      "platform": "facebook",
-      "postedAt": "2026-10-10T04:19:38.605Z",
-      "postId": "691827047618629_1111272581479976",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "x",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "6ac9bd0cbba9419ccbed40be",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Crypto Finance is hiring Strategy & Projects - Intern\n\nhttps://hashtagweb3.com/int42/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108774642278105336"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "threads",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "17935850850394308",
-      "verification": "verified",
-      "expectedText": "Crypto Finance is hiring Strategy & Projects - Intern: https://hashtagweb3.com/int42/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeTNjQKjhnF",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "bluesky",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxin6w2jzf2u",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0xe34a9921c8508c5115ec646b70a69db9b685dc6b",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x6d0f2d13a2c8fb22013dd31032d5dfb0af8f5804",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x0396a001438c931638315c0858d2dab2a32f4402",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x22100f09954c09ea3f156a79444494e1a284d5e7",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x0c9dbd02d3df10c1bc04a1f9820c0d4718580ba1",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x1a2b858f1d46a4a8e49118af701bd3bd28152a85",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x3b0ae360a0a6d52a76a0c8b93e44ad390c234261",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x6da1a506b1ede8f18713bba8c99a4c8bc6788188",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x13feeeaca6d548e7de340d09e6eb9aba61b3d090",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x0896450a32d600d04d160dd93dc4867dde11198d",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0xd39bc7a57d8d24c0d6419312b6a94bffac2b3b53",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x236b6240137543b09f53dd2cc95b377cb9e3019c",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x6d1828eeabb89d1e13eb9e9ed236d3f156ae477d",
-      "account": "channel:defi",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0xcde9a97e1c9cfa598228524aee725017bf1371d4",
-      "account": "channel:ai",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0x21a4722c63c02dc0ead36af9c1a114bfd8586282",
-      "account": "channel:product",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0xe3c37bf33974d7b1c7fd65c32ed4a2b2fa5cb545",
-      "account": "channel:design",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "0xef39d8eb1a882a0d993ce01216f375be2c108e6a",
-      "account": "channel:growth",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "6ac9bd1dc4de2d2b1215b60c",
-      "account": "69c5b139af47dacb695b5feb",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "6ac9bd27c4de2d2b1215b6ee",
-      "account": "6a134180c687a22dd420e089",
-      "provider": "buffer",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "linkedin",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "urn:li:share:7514540493783904256",
-      "account": "urn:li:person:tf1Ssn_dQv",
-      "provider": "linkedin-direct",
-      "verification": "verified"
-    },
-    {
-      "slug": "int42",
-      "company": "Crypto Finance",
-      "title": "Strategy & Projects - Intern",
-      "platform": "facebook",
-      "postedAt": "2026-10-10T04:20:28.120Z",
-      "postId": "691827047618629_1111273001479934",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "x",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "6aca313ef91f772d4592bc13",
-      "provider": "buffer",
-      "account": "hashtag_web3",
-      "expectedText": "Block is hiring Global Operations Excellence & Business Operations Lead\n\nhttps://hashtagweb3.com/ops91/x?og=7",
-      "verification": "verified",
-      "permalink": "https://twitter.com/hashtag_web3/status/2108899408225948135"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "threads",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "18114163472007246",
-      "verification": "verified",
-      "expectedText": "Block is hiring Global Operations Excellence & Business Operations Lead: https://hashtagweb3.com/ops91/th?og=7",
-      "permalink": "https://www.threads.com/@hashtagweb3/post/DeUGSc8oEqC",
-      "account": "hashtagweb3"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "bluesky",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxjivhugxi26",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0xc834c46860911ebd926268acf3e5dab349359733",
-      "account": "profile",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0xe6623dc8a34d21d7ca81a489dc22178fef7509fc",
-      "account": "channel:jobs",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x5a087936ee28eb11dbbbc3f2e4a7391b59bca9d5",
-      "account": "channel:web3",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x6994a77c3e768df901dca203a6b2d24ef4a7fe7f",
-      "account": "channel:bounties",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x954e799a9076b811d3c6bd869a2eca8b9cc7f986",
-      "account": "channel:crypto",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x8487bb75378a10c742910b1b2b4e2601713122e1",
-      "account": "channel:dev",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x835cf42fa7f3259070a74872dea23120dec1efe2",
-      "account": "channel:developers",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x8894d7a95f9aafef2a7c87f7eb8125d78f998655",
-      "account": "channel:build",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0xd2e721edcde50394953b23026b8e30524258d638",
-      "account": "channel:founders",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0xcee4c2d3666583eb5d9584041eef99fe3fc43ecd",
-      "account": "channel:base",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0x1529ccf0ae3586cb7c00226d9887af77e5f1694c",
-      "account": "channel:ethereum",
-      "verification": "verified"
-    },
-    {
-      "slug": "ops91",
-      "company": "Block",
-      "title": "Global Operations Excellence & Business Operations Lead",
-      "platform": "farcaster",
-      "postedAt": "2026-10-10T12:36:14.396Z",
-      "postId": "0xd4f35f3cb169ec0badb3e3cad861641175ef9b05",
-      "account": "channel:solana",
-      "verification": "verified"
-    },
-    {
       "slug": "ops91",
       "company": "Block",
       "title": "Global Operations Excellence & Business Operations Lead",
@@ -10194,6 +9704,498 @@
       "platform": "facebook",
       "postedAt": "2026-10-13T19:40:29.010Z",
       "postId": "691827047618629_1114721684468399",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "x",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "6acf04f7848c31c8095c982f",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Figure is hiring Associate AI Engineer\n\nhttps://hashtagweb3.com/eng463/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110226255488430205"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "threads",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "18290371783295781",
+      "verification": "verified",
+      "expectedText": "Figure is hiring Associate AI Engineer: https://hashtagweb3.com/eng463/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DedhqzNEUc5",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxspjbzalv22",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x9ede677b90f8d16a1a6a0d26e1ef347c90a42f97",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x1a5ed720dfbfb7b25c3f3245bceaa38bdf67e621",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x1a3256fcaf382ff6d355523e759740f60b4847bd",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x62d1161b27cf349636584b2b54f507808f40dca0",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x2c115e5a0a1388aa5115e613f54466d97713e47c",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x7622342eaf7e0dae8a1190fb902facc424cf0007",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x5598cd1604fce4c859688dbc6db8efba7c69a372",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0xdb733223f26530dd3b4aa1c8a4074863a455eb8c",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0xda7eb495002c7e0b1c7b50387b7a078456b95a43",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x5d08f4d393b39c931eb3739913df0fab460cc324",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0xd4c0830757a2d997f0605278476927a8d879aeea",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x6be9e7ad62da21bad7684a453ca93a562418303c",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x98df42ee9e60b839e0047fc7070279de8bd46bd7",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x8c89af0a5cbf461f710d336645665520b01e3fc2",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0xd60d9a811ec81db384c305f69106b3ce95b2872c",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0xf66db0ea39cea70f4879e1e04dd334359b7e99a1",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "0x80cdba2d3b9e98a50ebeed423220bea376a02647",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "6acf050d33507eb5b0ef03be",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "6acf05180d20fd15277cc07b",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "urn:li:share:7515992131837263873",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "eng463",
+      "company": "Figure",
+      "title": "Associate AI Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-10-14T04:28:39.188Z",
+      "postId": "691827047618629_1115022604438307",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "x",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "6acf052d848c31c8095c9e48",
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "expectedText": "Stripe is hiring Immigration Specialist\n\nhttps://hashtagweb3.com/is2/x?og=7",
+      "verification": "verified",
+      "permalink": "https://twitter.com/hashtag_web3/status/2110226480152146094"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "threads",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "18232882699322434",
+      "verification": "verified",
+      "expectedText": "Stripe is hiring Immigration Specialist: https://hashtagweb3.com/is2/th?og=7",
+      "permalink": "https://www.threads.com/@hashtagweb3/post/DedhxUSEQX3",
+      "account": "hashtagweb3"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mxspkxueqa2o",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x8751179483c236d163592a3e97eff4f693c62f19",
+      "account": "profile",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x6b8bc493817bb152ffe465be494f17b410861d48",
+      "account": "channel:jobs",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x89b20e76481355780d2a700d8fef525349b41138",
+      "account": "channel:web3",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x7983f826210dc511f0ecfb199f636549d8059227",
+      "account": "channel:bounties",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0xbe9c1e5ad23ae47d82fc53b5395a21526009e614",
+      "account": "channel:crypto",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x283ad650525c69c6c05ab3431ef3a9d4e819a563",
+      "account": "channel:dev",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x6a849a73231cb86524799e0898b697512c7b2017",
+      "account": "channel:developers",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x044a8f6ce021a0e8440fb6b12c8ee0d954ba85af",
+      "account": "channel:build",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x03729f178fd23218baf1c07753584de727fcff20",
+      "account": "channel:founders",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x6ab3326dc0050b9e70f18deb59f287af575c8281",
+      "account": "channel:base",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x23b40c0bab67f2acbcd680f161fdac027188278b",
+      "account": "channel:ethereum",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x4a6e2a04b31be87ead79f71fdccdc3cfb83984aa",
+      "account": "channel:solana",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x24b27eeda41db227c31ae74d84793c7a83a1a6e3",
+      "account": "channel:defi",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x527d971ad2e2e354973237ce2d3bcd7af31d2b47",
+      "account": "channel:ai",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0xffb21d5b6b6bc026fd04672d0f4a45275ec753a9",
+      "account": "channel:product",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0x09c364aab98003c93ec2e09f76f4d0db2f3839b0",
+      "account": "channel:design",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "0xb1f4ac36db30d1460ad3b88ee7883632d3c4dcdd",
+      "account": "channel:growth",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "6acf05480d20fd15277cc5e6",
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "6acf055333507eb5b0ef1383",
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "urn:li:share:7515992381486202881",
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "verification": "verified"
+    },
+    {
+      "slug": "is2",
+      "company": "Stripe",
+      "title": "Immigration Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-10-14T04:29:32.728Z",
+      "postId": "691827047618629_1115023267771574",
       "verification": "verified"
     }
   ]
