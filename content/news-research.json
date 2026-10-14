@@ -35837,11 +35837,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "4fa005e58af4a2b8985f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T14:20:26.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoSlate piece; the 59-dollar QSB estimate is untested with miner-access limits. Challenge data plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:37.584Z",
+      "retrySearches": [
+        "quantum-safe bitcoin cost challenge StarkWare second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "c73f75aca4178e57d96f": {
       "source": "The Block",
@@ -69279,6 +69293,21 @@
           "reviewedAt": "2026-10-14T04:07:30.902Z",
           "retrySearches": [
             "Circle wrapped assets framework cirBTC post second outlet"
+          ]
+        },
+        "4fa005e58af4a2b8985f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoSlate piece; the 59-dollar QSB estimate is untested with miner-access limits. Challenge data plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:37.584Z",
+          "retrySearches": [
+            "quantum-safe bitcoin cost challenge StarkWare second outlet"
           ]
         }
       },
