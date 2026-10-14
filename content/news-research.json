@@ -35089,11 +35089,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "1dd7447d1a97a73276c7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T20:16:03.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "verified-event",
+      "note": "Binance Oct 13 notice ends Pool, Pool Savings, Cloud Mining and Accelerator Nov 10 07:00 UTC; verified cutoff, KYC and Nov 24 record window across three outlets.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/binance-closes-its-mining-pool-and-cloud-mining-gives-miners-four-weeks-to-move-hashrate/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:15.494Z",
+      "articleSlug": "mining-pool",
+      "lastReviewedDay": "2026-10-14"
     },
     "e3bd7067ffcb7560f72e": {
       "source": "BeInCrypto",
@@ -65424,6 +65443,27 @@
           "reviewedAt": "2026-10-14T03:36:54.586Z",
           "duplicateOf": "strive-bitcoin",
           "mergedInto": "e611ef9e08fc6de725a6"
+        },
+        "1dd7447d1a97a73276c7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Binance Oct 13 notice ends Pool, Pool Savings, Cloud Mining and Accelerator Nov 10 07:00 UTC; verified cutoff, KYC and Nov 24 record window across three outlets.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/binance-closes-its-mining-pool-and-cloud-mining-gives-miners-four-weeks-to-move-hashrate/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:15.494Z",
+          "articleSlug": "mining-pool"
         }
       },
       "baselineSlugs": [
