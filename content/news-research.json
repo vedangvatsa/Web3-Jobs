@@ -34838,11 +34838,23 @@
       ],
       "alsoCoveredBy": [],
       "id": "73883317c8b31c574688",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T12:22:24.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Sberbank Oct 12 exchange registration covered by sberbank-crypto.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T03:45:55.325Z",
+      "duplicateOf": "sberbank-crypto",
+      "mergedInto": "70a7368a909cafa0624d",
+      "lastReviewedDay": "2026-10-14"
     },
     "0dea4ce1aea87df1174f": {
       "source": "Decrypt",
@@ -65711,6 +65723,20 @@
           "reviewedAt": "2026-10-14T03:45:53.446Z",
           "duplicateOf": "blur-shutdown",
           "mergedInto": "cfd0115f76a3957df4e5"
+        },
+        "73883317c8b31c574688": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Sberbank Oct 12 exchange registration covered by sberbank-crypto.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T03:45:55.325Z",
+          "duplicateOf": "sberbank-crypto",
+          "mergedInto": "70a7368a909cafa0624d"
         }
       },
       "baselineSlugs": [
