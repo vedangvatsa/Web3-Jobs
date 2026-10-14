@@ -38825,11 +38825,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "cc02128e785afeaddb06",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T10:19:40.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Unchained piece; it links the Oct 12 FSB note and Bailey letter with multi-issuer risk detail. G20 outcome plus a second outlet confirmation still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:08.217Z",
+      "retrySearches": [
+        "FSB stablecoin note G20 outcome second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "30077f4772a43384fe99": {
       "source": "Unchained",
@@ -69134,6 +69148,21 @@
           "reviewedAt": "2026-10-14T04:07:00.754Z",
           "retrySearches": [
             "France wallet reporting amendment Assembly re-table second outlet"
+          ]
+        },
+        "cc02128e785afeaddb06": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Unchained piece; it links the Oct 12 FSB note and Bailey letter with multi-issuer risk detail. G20 outcome plus a second outlet confirmation still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/fsb-flags-run-risk-in-stablecoins-backed-by-affiliated-issuers/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:08.217Z",
+          "retrySearches": [
+            "FSB stablecoin note G20 outcome second outlet"
           ]
         }
       },
