@@ -38177,11 +38177,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "60a23d774c9b8a0228af",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T16:33:24.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the Bankless roundup; it confirms three implant generations plus Karpel es, Japan and MediaMarkt cases. Device-level confirmation plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:08:01.098Z",
+      "retrySearches": [
+        "Ledger implant generations Karpel es MediaMarkt confirmation second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "ff229a246b036c1cd7e9": {
       "source": "Bankless",
@@ -69395,6 +69409,21 @@
           "reviewedAt": "2026-10-14T04:07:53.322Z",
           "retrySearches": [
             "Lido NEST budget buyback forum second outlet"
+          ]
+        },
+        "60a23d774c9b8a0228af": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the Bankless roundup; it confirms three implant generations plus Karpel es, Japan and MediaMarkt cases. Device-level confirmation plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/ledger-spyware-scare-spreads-across-asia-and-europe",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:08:01.098Z",
+          "retrySearches": [
+            "Ledger implant generations Karpel es MediaMarkt confirmation second outlet"
           ]
         }
       },
