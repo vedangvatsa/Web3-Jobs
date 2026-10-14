@@ -35349,11 +35349,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "1b7b07c109b0b079ac82",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T22:18:06.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "needs-corroboration",
+      "note": "Read the CryptoBriefing piece; a company framework post grading its own cirBTC as part of a campaign. Circle post plus a second outlet still needed.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/circle-framework-institutional-wrapped-assets/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-10-14T04:07:30.902Z",
+      "retrySearches": [
+        "Circle wrapped assets framework cirBTC post second outlet"
+      ],
+      "lastReviewedDay": "2026-10-14",
+      "nextReviewDate": "2026-10-15"
     },
     "023c4f5c4e4091bfc10c": {
       "source": "BeInCrypto",
@@ -69250,6 +69264,21 @@
           "reviewedAt": "2026-10-14T04:07:24.607Z",
           "retrySearches": [
             "post-quantum Lightning defense paper second outlet Kurt"
+          ]
+        },
+        "1b7b07c109b0b079ac82": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read the CryptoBriefing piece; a company framework post grading its own cirBTC as part of a campaign. Circle post plus a second outlet still needed.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/circle-framework-institutional-wrapped-assets/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-10-14T04:07:30.902Z",
+          "retrySearches": [
+            "Circle wrapped assets framework cirBTC post second outlet"
           ]
         }
       },
