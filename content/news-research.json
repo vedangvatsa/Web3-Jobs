@@ -35199,11 +35199,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "1ccd3ef4632ff12252fc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T19:38:12.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "not-a-concrete-event",
+      "note": "Unattributed whale wallet movement with no identified actor or event behind the transfer.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:52:41.074Z",
+      "lastReviewedDay": "2026-10-14"
     },
     "8a9ee2f1b5e964af0fde": {
       "source": "CryptoSlate",
@@ -65895,6 +65900,13 @@
           "note": "Polymarket equity-versus-token deliberation with no decision, filing or announcement.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:52:39.206Z"
+        },
+        "1ccd3ef4632ff12252fc": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Unattributed whale wallet movement with no identified actor or event behind the transfer.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:52:41.074Z"
         }
       },
       "baselineSlugs": [
