@@ -35434,11 +35434,18 @@
       ],
       "alsoCoveredBy": [],
       "id": "c73f75aca4178e57d96f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-10-14T03:31:22.931Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-10-16T13:42:25.000Z",
-      "lastSeenAt": "2026-10-14T03:31:22.931Z"
+      "lastSeenAt": "2026-10-14T03:31:22.931Z",
+      "reason": "duplicate",
+      "note": "Same Oct 13 Strive 3,311 BTC purchase and warrant update covered by strive-bitcoin.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-10-14T03:36:54.586Z",
+      "duplicateOf": "strive-bitcoin",
+      "mergedInto": "e611ef9e08fc6de725a6",
+      "lastReviewedDay": "2026-10-14"
     },
     "cedf755048169d9cc20c": {
       "source": "Unchained",
@@ -65406,6 +65413,15 @@
           "note": "Same Oct 13 Strive 3,311 BTC purchase and warrant update covered by strive-bitcoin.",
           "sourceChecks": [],
           "reviewedAt": "2026-10-14T03:36:52.698Z",
+          "duplicateOf": "strive-bitcoin",
+          "mergedInto": "e611ef9e08fc6de725a6"
+        },
+        "c73f75aca4178e57d96f": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Oct 13 Strive 3,311 BTC purchase and warrant update covered by strive-bitcoin.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-10-14T03:36:54.586Z",
           "duplicateOf": "strive-bitcoin",
           "mergedInto": "e611ef9e08fc6de725a6"
         }
